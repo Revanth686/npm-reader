@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121485128,
-  "lastRunAt": "2026-07-25T14:13:29.678Z",
+  "lastSequence": 121489521,
+  "lastRunAt": "2026-07-25T15:20:00.638Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@scale-sense/react",
+      "name": "@fate-core/mod-types",
       "attempts": 1
     },
     {
-      "name": "@allegedcarrot4/drift",
+      "name": "@maximedrn/react-to-svg",
+      "attempts": 1
+    },
+    {
+      "name": "@fate-core/mod-build",
+      "attempts": 1
+    },
+    {
+      "name": "@sol2docker/mcp",
       "attempts": 1
     }
   ]

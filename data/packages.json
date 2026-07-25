@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "@byline/db-mysql",
+      "version": "4.8.0",
+      "description": "Byline CMS db mysql package",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/Byline-CMS/bylinecms.dev",
+      "npmUrl": "https://www.npmjs.com/package/%40byline%2Fdb-mysql",
+      "category": "data",
+      "createdAt": "2026-07-25T15:08:43.850Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 68
+    },
+    {
+      "name": "@chibi.pl/nest-sequelize-db",
+      "version": "0.0.2",
+      "description": "NestJS Sequelize DB Module for easy use of databases in NestJS applications",
+      "license": "LGPL-3.0",
+      "repository": "https://github.com/ChibiPL/nest-sequelize-db",
+      "npmUrl": "https://www.npmjs.com/package/%40chibi.pl%2Fnest-sequelize-db",
+      "category": "backend",
+      "createdAt": "2026-07-25T14:51:35.402Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 63
+    },
+    {
       "name": "@ciabosoftwaresolutions/capacitor-distribution-channel",
       "version": "0.1.1",
       "description": "Capacitor plugin to detect how an app was installed — TestFlight vs App Store on iOS, Play Store vs sideloaded on Android.",
@@ -38,6 +62,30 @@
       "score": 68
     },
     {
+      "name": "@coinfat/checkout",
+      "version": "1.0.2",
+      "description": "Embedded crypto checkout SDK for Coinfat.",
+      "license": "MIT",
+      "repository": "https://github.com/kkrajdurai/coinfat-js",
+      "npmUrl": "https://www.npmjs.com/package/%40coinfat%2Fcheckout",
+      "category": "utilities",
+      "createdAt": "2026-07-25T14:53:08.626Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 55
+    },
+    {
+      "name": "@getappniche/mcp",
+      "version": "0.1.0",
+      "description": "GetAppNiche MCP — live App Store & Google Play data for AI agents: app discovery, ASO keyword scoring, reviews. Zero-dependency stdio bridge to the hosted Streamable HTTP endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/getappniche/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40getappniche%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T14:48:20.159Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 62
+    },
+    {
       "name": "@getnarro/cli",
       "version": "0.1.0",
       "description": "CLI tools for creating and managing Narro presentations",
@@ -62,6 +110,66 @@
       "score": 69
     },
     {
+      "name": "@gitmyabi/combo",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for COMBO (build etherscan-combo-ffffffff-1784992126509, commit 0044394, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/combo",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcombo",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T15:09:14.999Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/gcoin",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for GCOIN (build etherscan-gcoin-0c71db2e-1784989109674, commit d9bccdf, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/gcoin",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgcoin",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T14:18:53.208Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/lsd",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LSD (build etherscan-lsd-838b4a39-1784992281524, commit 9c845da, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/lsd",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flsd",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T15:11:47.651Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/relayerregistry",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RelayerRegistry (build etherscan-relayerregistry-58e8dcc1-1784990225552, commit c0844f4, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/relayerregistry",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frelayerregistry",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T14:37:31.934Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 59
+    },
+    {
+      "name": "@gitmyabi/sdt",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ՍSDT (build etherscan-sdt-0f6b862e-1784992251517, commit cfb229d, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/sdt",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsdt",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T15:11:18.048Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/submitimports",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for SubmitImports (build etherscan-submitimports-27c76df6-1784984082227, commit cc1a568, branch etherscan)",
@@ -74,6 +182,18 @@
       "score": 58
     },
     {
+      "name": "@hitkeep/tracker",
+      "version": "2.12.0",
+      "description": "Typed, cookieless web analytics tracker for React, Vue, Angular, and Astro. Official browser SDK for HitKeep, a privacy-friendly, self-hostable Google Analytics alternative.",
+      "license": "MIT",
+      "repository": "https://github.com/PascaleBeier/hitkeep",
+      "npmUrl": "https://www.npmjs.com/package/%40hitkeep%2Ftracker",
+      "category": "frontend",
+      "createdAt": "2026-07-25T14:50:06.417Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 84
+    },
+    {
       "name": "@incorta/overlay-db",
       "version": "0.1.1",
       "description": "A PostgreSQL wire-protocol endpoint that serves reads from an upstream Postgres and keeps INSERT/UPDATE/DELETEs in a local, branchable Parquet overlay — merged into query results on the fly, never written back upstream.",
@@ -84,6 +204,18 @@
       "createdAt": "2026-07-25T12:30:28.885Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 90
+    },
+    {
+      "name": "@instush/mcp",
+      "version": "0.3.0",
+      "description": "Local MCP bridge for driving the Instush video editor from coding agents (Claude Code, Codex, …). Content-free translator: MCP on the agent side, a private localhost WebSocket to the editor tab.",
+      "license": "MIT",
+      "repository": "https://github.com/instush/instush-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40instush%2Fmcp",
+      "category": "utilities",
+      "createdAt": "2026-07-25T14:54:16.738Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 60
     },
     {
       "name": "@kaistrum/geonode-node-sdk",
@@ -122,6 +254,18 @@
       "score": 67
     },
     {
+      "name": "@nera-static/core",
+      "version": "4.9.2",
+      "description": "The Nera static site generator engine — the build pipeline and the layered theme/view resolver, importable by the Nera CLI, @nera-static/validate and tooling",
+      "license": "MIT",
+      "repository": "https://github.com/seebaermichi/nera",
+      "npmUrl": "https://www.npmjs.com/package/%40nera-static%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T15:03:42.936Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 76
+    },
+    {
       "name": "@node-3d/webgl",
       "version": "6.0.0",
       "description": "WebGL for Node.js",
@@ -132,6 +276,54 @@
       "createdAt": "2026-07-25T12:38:14.522Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 63
+    },
+    {
+      "name": "@remnic/capture-screen",
+      "version": "9.24.1",
+      "description": "Desktop screen-activity capture daemon for Remnic — local spool, loopback HTTP API, and replay ingestion for the activity source `screen` (à-la-carte)",
+      "license": "MIT",
+      "repository": "https://github.com/joshuaswarren/remnic",
+      "npmUrl": "https://www.npmjs.com/package/%40remnic%2Fcapture-screen",
+      "category": "backend",
+      "createdAt": "2026-07-25T14:15:00.070Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 57
+    },
+    {
+      "name": "@revolist/dash-datagrid",
+      "version": "4.23.24",
+      "description": "RevoGrid Core wrapper for Plotly Dash.",
+      "license": "MIT",
+      "repository": "https://github.com/revolist/dash-datagrid",
+      "npmUrl": "https://www.npmjs.com/package/%40revolist%2Fdash-datagrid",
+      "category": "frontend",
+      "createdAt": "2026-07-25T14:37:24.743Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 81
+    },
+    {
+      "name": "@sandeshgrangdan/spotify-tui",
+      "version": "0.26.1",
+      "description": "A terminal user interface for Spotify, with an app-like home screen. Fork of spotify-tui, modernized for the post-2024 Web API.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/sandeshgrangdan/spotify-tui",
+      "npmUrl": "https://www.npmjs.com/package/%40sandeshgrangdan%2Fspotify-tui",
+      "category": "backend",
+      "createdAt": "2026-07-25T15:02:04.782Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 74
+    },
+    {
+      "name": "@superself/supercanvas",
+      "version": "0.1.0",
+      "description": "Agent-editable design canvas engine with a global CLI",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fxylabs/supercanvas",
+      "npmUrl": "https://www.npmjs.com/package/%40superself%2Fsupercanvas",
+      "category": "cli",
+      "createdAt": "2026-07-25T14:45:13.165Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 75
     },
     {
       "name": "@trueyy-sdk/node",
@@ -182,6 +374,18 @@
       "score": 63
     },
     {
+      "name": "cgraph",
+      "version": "0.1.1",
+      "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Ramachandrajoshi/Code-Graph",
+      "npmUrl": "https://www.npmjs.com/package/cgraph",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T14:36:53.791Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 87
+    },
+    {
       "name": "codex-claude-bridge-feishu",
       "version": "1.1.0",
       "description": "AI coding agent bridge for Feishu/Lark — supports Claude Code & OpenAI Codex",
@@ -230,6 +434,30 @@
       "score": 65
     },
     {
+      "name": "gilang-storage-sdk",
+      "version": "1.0.1",
+      "description": "Master Client SDK for Gilang Storage Ecosystem: Security Guard, Smart Multi-Format Compression (< 2 MB), and Instant WebP Thumbnail Generation (< 15 KB)",
+      "license": "Proprietary",
+      "repository": "https://github.com/gilangrizkyr/MyTools",
+      "npmUrl": "https://www.npmjs.com/package/gilang-storage-sdk",
+      "category": "data",
+      "createdAt": "2026-07-25T14:29:26.000Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 59
+    },
+    {
+      "name": "harness-dispatch",
+      "version": "0.4.0",
+      "description": "Turn locally installed coding harnesses (Claude Code, Codex, Cursor, Antigravity) and local/remote API endpoints into tools any AI can call, with async job handling for long-running agent work.",
+      "license": "MIT",
+      "repository": "https://github.com/fstubner/harness-dispatch",
+      "npmUrl": "https://www.npmjs.com/package/harness-dispatch",
+      "category": "backend",
+      "createdAt": "2026-07-25T14:24:22.284Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 87
+    },
+    {
       "name": "htmx-magnify",
       "version": "1.0.0",
       "description": "htmx extension for image magnification with zoom glass effect",
@@ -242,6 +470,42 @@
       "score": 78
     },
     {
+      "name": "kracked-core",
+      "version": "1.0.0",
+      "description": "Zero-dependency memory & workflow installer for AI coding agents — global identity, project memory, and skills that survive session restarts.",
+      "license": "MIT",
+      "repository": "https://github.com/Krackeddevs-Org/kracked-core",
+      "npmUrl": "https://www.npmjs.com/package/kracked-core",
+      "category": "cli",
+      "createdAt": "2026-07-25T14:56:53.335Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 69
+    },
+    {
+      "name": "magictex-mcp",
+      "version": "0.1.1",
+      "description": "MagicTeX — a LaTeX editor for AI agents (Claude Code), via an MCP server: live PDF preview, an editable source panel with a Visual (WYSIWYG) mode, anchored PDF comments that drive edits, and git-backed history. Compiles your .tex with a WASM TeX Live engi",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/ZoeLinUTS/MagicTeX-mcp",
+      "npmUrl": "https://www.npmjs.com/package/magictex-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T14:57:00.310Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 90
+    },
+    {
+      "name": "mars-plugged",
+      "version": "0.1.0",
+      "description": "Raw Solana + x402 toolkit: talk to Anchor programs with no IDL, decode accounts from a byte-offset table, and build x402 payment envelopes by hand.",
+      "license": "MIT",
+      "repository": "https://github.com/mars-arch/Plugged",
+      "npmUrl": "https://www.npmjs.com/package/mars-plugged",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T14:37:03.719Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 66
+    },
+    {
       "name": "n8n-nodes-cliptoframe",
       "version": "0.1.1",
       "description": "n8n community node for ClipToFrame — extract still frames and metadata from video URLs via a hosted API (no FFmpeg needed, works on n8n Cloud)",
@@ -252,6 +516,18 @@
       "createdAt": "2026-07-25T13:05:58.941Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 57
+    },
+    {
+      "name": "nextjs-loader",
+      "version": "0.0.2",
+      "description": "Automatic navigation loader with progress bar, spinner, overlay, skeleton, and adaptive loading for Next.js.",
+      "license": "MIT",
+      "repository": "https://github.com/rohan11110/nextjs-loader",
+      "npmUrl": "https://www.npmjs.com/package/nextjs-loader",
+      "category": "frontend",
+      "createdAt": "2026-07-25T14:19:43.694Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 62
     },
     {
       "name": "portable-agent-stack",
@@ -278,6 +554,18 @@
       "score": 87
     },
     {
+      "name": "shadscan-vue",
+      "version": "0.0.0",
+      "description": "Audit shadcn-vue and shadcn-nuxt apps for missing UI fundamentals. Deterministic checks. Evidence. Agent-ready fixes. Vue port of shadscan.",
+      "license": "MIT",
+      "repository": "https://github.com/vinayakkulkarni/shadscan-vue",
+      "npmUrl": "https://www.npmjs.com/package/shadscan-vue",
+      "category": "frontend",
+      "createdAt": "2026-07-25T14:38:34.858Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 57
+    },
+    {
       "name": "superdocs-app-cli",
       "version": "1.0.0",
       "description": "Edit markdown and text files with SuperDocs AI from your terminal.",
@@ -288,6 +576,18 @@
       "createdAt": "2026-07-25T12:40:07.341Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 68
+    },
+    {
+      "name": "tokengratis",
+      "version": "0.1.1",
+      "description": "CLI + MCP server for tokengratis.id, the aggregator directory of free-tier & free-credit LLM APIs for Indonesian developers. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/raymondchins/tokengratis-id",
+      "npmUrl": "https://www.npmjs.com/package/tokengratis",
+      "category": "backend",
+      "createdAt": "2026-07-25T14:24:52.199Z",
+      "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 57
     },
     {
       "name": "widdershins-reborn",
