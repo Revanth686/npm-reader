@@ -38,6 +38,18 @@
       "score": 67
     },
     {
+      "name": "@aryasaatvik/motel",
+      "version": "0.3.0",
+      "description": "A local OpenTelemetry ingest + TUI viewer for development, backed by SQLite.",
+      "license": "MIT",
+      "repository": "https://github.com/aryasaatvik/motel",
+      "npmUrl": "https://www.npmjs.com/package/%40aryasaatvik%2Fmotel",
+      "category": "data",
+      "createdAt": "2026-07-25T20:47:34.407Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 52
+    },
+    {
       "name": "@asenajs/asena-kafka",
       "version": "1.0.0",
       "description": "Kafka integration for AsenaJS - service client and microservice transport",
@@ -86,6 +98,18 @@
       "score": 57
     },
     {
+      "name": "@blacktomang/expo-aws-liveness",
+      "version": "0.2.2",
+      "description": "Expo native module wrapping AWS Amplify Face Liveness UI for iOS and Android",
+      "license": "MIT",
+      "repository": "https://github.com/blacktomang/expo-aws-liveness",
+      "npmUrl": "https://www.npmjs.com/package/%40blacktomang%2Fexpo-aws-liveness",
+      "category": "frontend",
+      "createdAt": "2026-07-25T13:25:58.485Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 49
+    },
+    {
       "name": "@borrowbetter/arpcsdk",
       "version": "0.1.1",
       "description": "Typed, agnostic client for FDR's ARPC DEX API — Achieve Resolution Partner Connect (Digital Enrollment Experience)",
@@ -132,6 +156,18 @@
       "createdAt": "2026-07-25T14:51:35.402Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 63
+    },
+    {
+      "name": "@chrismoloci/llqr",
+      "version": "0.1.0",
+      "description": "Highly customizable and easy to use QR Code generator.",
+      "license": "MIT",
+      "repository": "https://github.com/ChrisMoloci/llqr",
+      "npmUrl": "https://www.npmjs.com/package/%40chrismoloci%2Fllqr",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T20:51:26.237Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 64
     },
     {
       "name": "@ciabosoftwaresolutions/capacitor-distribution-channel",
@@ -194,6 +230,18 @@
       "score": 63
     },
     {
+      "name": "@counterroll/sdk",
+      "version": "0.2.0",
+      "description": "Check before your agent pays. The TypeScript client for Counterroll — policy checks + signed, hash-chained receipts for x402 agent spending.",
+      "license": "MIT",
+      "repository": "https://github.com/Counterroll/counterroll",
+      "npmUrl": "https://www.npmjs.com/package/%40counterroll%2Fsdk",
+      "category": "testing",
+      "createdAt": "2026-07-25T20:18:35.740Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 76
+    },
+    {
       "name": "@creatures-lsp/caos-util",
       "version": "0.0.3",
       "description": "Utility methods for parsing and validating CAOS scripts for the Creatures games",
@@ -204,6 +252,18 @@
       "createdAt": "2026-07-25T18:39:10.530Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 57
+    },
+    {
+      "name": "@danypops/enigma",
+      "version": "0.1.0",
+      "description": "Encrypted credential vault and supervisor daemon: holds delegated OAuth/API credentials for other daemons, injects them as env into spawned children, never exposes them to anything else",
+      "license": "MIT",
+      "repository": "https://github.com/DanyPops/enigma",
+      "npmUrl": "https://www.npmjs.com/package/%40danypops%2Fenigma",
+      "category": "backend",
+      "createdAt": "2026-07-25T20:25:39.974Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 70
     },
     {
       "name": "@dmstoykov/trayce",
@@ -518,6 +578,18 @@
       "score": 59
     },
     {
+      "name": "@glowbox/seven-segment",
+      "version": "1.3.0",
+      "description": "Seven-segment display component — per-segment light dynamics, ageing, LED + VFD styles, in the glowbox family.",
+      "license": "MIT",
+      "repository": "https://github.com/eetu/glowbox",
+      "npmUrl": "https://www.npmjs.com/package/%40glowbox%2Fseven-segment",
+      "category": "utilities",
+      "createdAt": "2026-07-25T20:27:35.343Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 64
+    },
+    {
       "name": "@groundcraft/crawl",
       "version": "1.0.0",
       "description": "Groundcraft Crawl — scrape, search, map and crawl the web through one metered API. CLI, SDK and MCP server.",
@@ -638,6 +710,42 @@
       "score": 81
     },
     {
+      "name": "@keverdjs/node",
+      "version": "1.0.0",
+      "description": "Server-side Node.js SDK for Keverd — verify events and handle webhooks",
+      "license": "MIT",
+      "repository": "https://github.com/keverdai/keverd_node_sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40keverdjs%2Fnode",
+      "category": "backend",
+      "createdAt": "2026-07-25T20:52:22.788Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 51
+    },
+    {
+      "name": "@leoneljdias/ltc-color-palettes-js",
+      "version": "1.0.0",
+      "description": "JavaScript port of the ltc R color-palette package by Loukas Theodosiou. Provides art-inspired color palettes with adjust, desaturate, CVD simulation, and visualization functions.",
+      "license": "MIT",
+      "repository": "https://github.com/leoneljdias/ltc-color-palettes-js",
+      "npmUrl": "https://www.npmjs.com/package/%40leoneljdias%2Fltc-color-palettes-js",
+      "category": "data",
+      "createdAt": "2026-07-25T20:33:13.130Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 75
+    },
+    {
+      "name": "@liminal-screen/api",
+      "version": "0.2.0",
+      "description": "IPC bridge for Liminal Screen remote options pages. Works as npm package or CDN script.",
+      "license": "MIT",
+      "repository": "https://github.com/tomaszatoo/liminal-screen",
+      "npmUrl": "https://www.npmjs.com/package/%40liminal-screen%2Fapi",
+      "category": "backend",
+      "createdAt": "2026-07-25T21:02:26.114Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 65
+    },
+    {
       "name": "@mailkite/better-auth",
       "version": "0.1.0",
       "description": "Send Better Auth's magic links, OTPs, verification, password-reset and organization-invite emails through MailKite.",
@@ -650,6 +758,18 @@
       "score": 58
     },
     {
+      "name": "@mallary/n8n-nodes-mallary",
+      "version": "0.1.0",
+      "description": "Official Mallary n8n community node for social media posts, comments, analytics, uploads, and webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/mallarylabs/n8n-nodes-mallary",
+      "npmUrl": "https://www.npmjs.com/package/%40mallary%2Fn8n-nodes-mallary",
+      "category": "devops",
+      "createdAt": "2026-07-25T20:22:23.266Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 59
+    },
+    {
       "name": "@mastersoon1754-ui/mcpsec",
       "version": "0.1.0",
       "description": "Open-source security framework for the Model Context Protocol — scan, score, and enforce policies on MCP servers.",
@@ -660,6 +780,18 @@
       "createdAt": "2026-07-25T13:09:11.272Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 74
+    },
+    {
+      "name": "@metago-ai/algorithms",
+      "version": "1.0.0",
+      "description": "MetaGO Agent Harness — 927 算法 MCP 服务器（57 工具 / 14 触发大类 / 4 层架构）。L1 通用入口(3) + L2 检索发现(4) + L3 高频专用(30) + L4 族级工具(20)。Engine V2.1.0 硬驱动。覆盖耦生计算、价值评估、距离度量、相关分析、降维、安全审计、频域处理等 14 大触发类别。",
+      "license": "MIT",
+      "repository": "https://github.com/metago-ai/metagolifeform",
+      "npmUrl": "https://www.npmjs.com/package/%40metago-ai%2Falgorithms",
+      "category": "data",
+      "createdAt": "2026-07-25T20:07:27.746Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 81
     },
     {
       "name": "@mortice/mapwright",
@@ -756,6 +888,18 @@
       "createdAt": "2026-07-25T12:38:14.522Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 63
+    },
+    {
+      "name": "@patronage/alchemy-d1-state",
+      "version": "0.1.0",
+      "description": "Alchemy v2 custom state store backed by one shared Cloudflare D1 database, one table per project",
+      "license": "MIT",
+      "repository": "https://github.com/patronage/software-factory",
+      "npmUrl": "https://www.npmjs.com/package/%40patronage%2Falchemy-d1-state",
+      "category": "data",
+      "createdAt": "2026-07-25T20:55:07.715Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 50
     },
     {
       "name": "@profullstack/remote-input",
@@ -974,6 +1118,18 @@
       "score": 66
     },
     {
+      "name": "@time-provider/plugin-moment-timezone",
+      "version": "0.1.0",
+      "description": "Time-Provider : Moment.js plugin ~ TypeScript library for injecting time and timers with adapters for multiple date libraries.",
+      "license": "MIT",
+      "repository": "https://github.com/jaenyf/time-provider",
+      "npmUrl": "https://www.npmjs.com/package/%40time-provider%2Fplugin-moment-timezone",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T20:46:50.261Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 50
+    },
+    {
       "name": "@totemsdk/edge-email",
       "version": "0.1.0",
       "description": "Edge runtime adapter for email — IMAP/SMTP polling, notification delivery, command parsing, and sensor ingestion via email",
@@ -1034,6 +1190,54 @@
       "score": 54
     },
     {
+      "name": "@vdaluz/astro-affiliate",
+      "version": "0.5.0",
+      "description": "FTC-compliant affiliate-link catalog resolver and disclosure components - proven in production on vdaluz.com and imperfectsystems.com.",
+      "license": "MIT",
+      "repository": "https://github.com/vdaluz/astro-affiliate",
+      "npmUrl": "https://www.npmjs.com/package/%40vdaluz%2Fastro-affiliate",
+      "category": "devops",
+      "createdAt": "2026-07-25T20:33:17.128Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 73
+    },
+    {
+      "name": "@vdaluz/astro-blog",
+      "version": "0.9.0",
+      "description": "Token-driven Astro blog components, related-posts scoring, a schema factory, and Shiki config - proven in production on vdaluz.com and imperfectsystems.com.",
+      "license": "MIT",
+      "repository": "https://github.com/vdaluz/astro-blog",
+      "npmUrl": "https://www.npmjs.com/package/%40vdaluz%2Fastro-blog",
+      "category": "utilities",
+      "createdAt": "2026-07-25T20:32:17.598Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 81
+    },
+    {
+      "name": "@vdaluz/astro-og-cards",
+      "version": "1.1.0",
+      "description": "Build-time OG/social-card generation (satori + sharp) and meta-tag emission for Astro - proven in production on vdaluz.com and imperfectsystems.com.",
+      "license": "MIT",
+      "repository": "https://github.com/vdaluz/astro-og-cards",
+      "npmUrl": "https://www.npmjs.com/package/%40vdaluz%2Fastro-og-cards",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T20:35:11.805Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 69
+    },
+    {
+      "name": "@vdaluz/astro-opt-in-analytics",
+      "version": "0.5.5",
+      "description": "Consent-first analytics for Astro: an opt-in prompt, a script gate, and zero tracking requests until the visitor says yes - proven in production on vdaluz.com and imperfectsystems.com.",
+      "license": "MIT",
+      "repository": "https://github.com/vdaluz/astro-opt-in-analytics",
+      "npmUrl": "https://www.npmjs.com/package/%40vdaluz%2Fastro-opt-in-analytics",
+      "category": "devops",
+      "createdAt": "2026-07-25T20:34:45.778Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 74
+    },
+    {
       "name": "@venizia/ignis-filter",
       "version": "0.1.1",
       "description": "Engine-neutral query filter vocabulary for TypeScript: the `{ where, order, limit, offset, skip, fields, include }` shape, comparison/pattern/null/array/logical operators, and sort direction constants. Isomorphic by construction - no node builtins and no",
@@ -1044,6 +1248,30 @@
       "createdAt": "2026-07-25T17:34:40.615Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 64
+    },
+    {
+      "name": "@venlyfinance/sdk",
+      "version": "0.1.0",
+      "description": "TypeScript SDK for the Venly Finance and Fundflow APIs. Generated from the OpenAPI specs, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/timdierckxsens/venly-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40venlyfinance%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-25T20:15:42.305Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 52
+    },
+    {
+      "name": "@venlyfinance/settlement-mcp",
+      "version": "0.1.0",
+      "description": "Venly Settlement MCP server. Human-gated operator surface over the Venly Finance and Fundflow APIs, plus an x402 machine-to-machine quote stub. Read-only by default, write tools fail closed.",
+      "license": "MIT",
+      "repository": "https://github.com/timdierckxsens/venly-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40venlyfinance%2Fsettlement-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T20:16:54.399Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 82
     },
     {
       "name": "@vivari/core",
@@ -1082,6 +1310,18 @@
       "score": 59
     },
     {
+      "name": "aes-framework",
+      "version": "1.5.0",
+      "description": "AES (AI Engineering System), a documentation-driven framework and CLI that keeps AI coding agents aligned with a project's decisions, architecture, and rules across long sessions.",
+      "license": "MIT",
+      "repository": "https://github.com/sbg224/AES-framework",
+      "npmUrl": "https://www.npmjs.com/package/aes-framework",
+      "category": "cli",
+      "createdAt": "2026-07-25T20:57:29.098Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 66
+    },
+    {
       "name": "arclens",
       "version": "1.0.0",
       "description": "Arclens — React architecture explorer. Statically map components, hooks, and dependencies into an interactive graph.",
@@ -1104,6 +1344,18 @@
       "createdAt": "2026-07-25T16:32:43.276Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 61
+    },
+    {
+      "name": "auto-skelly",
+      "version": "1.0.0",
+      "description": "Framework-agnostic skeleton loading placeholders. Auto-generates animated skeletons from your existing markup to improve perceived load time.",
+      "license": "MIT",
+      "repository": "https://github.com/AlexGordienko/Auto-Skelly",
+      "npmUrl": "https://www.npmjs.com/package/auto-skelly",
+      "category": "data",
+      "createdAt": "2026-07-25T20:54:02.129Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 92
     },
     {
       "name": "buildloop",
@@ -1320,6 +1572,18 @@
       "createdAt": "2026-07-25T17:00:38.416Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 79
+    },
+    {
+      "name": "halon-sdk",
+      "version": "0.1.0",
+      "description": "TypeScript SDK for the HALON protocol — on-chain insurance for autonomous agents. Quote premiums, read the policy book, and drive the ProofOfWork escrows on Robinhood Chain.",
+      "license": "MIT",
+      "repository": "https://github.com/itsnevu/halon",
+      "npmUrl": "https://www.npmjs.com/package/halon-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T20:45:42.623Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 67
     },
     {
       "name": "harness-dispatch",
@@ -1622,6 +1886,18 @@
       "score": 64
     },
     {
+      "name": "repomind-skills",
+      "version": "0.2.0",
+      "description": "Память проекта для человека и coding-агента: структура docs/, ADR, runbook и семь скиллов для Claude Code и Codex",
+      "license": "MIT",
+      "repository": "https://github.com/portner-boop/project-memory",
+      "npmUrl": "https://www.npmjs.com/package/repomind-skills",
+      "category": "utilities",
+      "createdAt": "2026-07-25T20:22:59.484Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 75
+    },
+    {
       "name": "scorm-mcp-server",
       "version": "2.0.0",
       "description": "MCP server: turn self-contained HTML or a Claude Design (.dc) bundle into a SCORM 2004 package any LMS can import — offline assets, milestone/score tracking, bundled ADL schemas.",
@@ -1754,6 +2030,18 @@
       "score": 57
     },
     {
+      "name": "toolgz",
+      "version": "0.1.1",
+      "description": "Compress LLM tool definitions to reclaim context window. Measured across Anthropic, OpenAI, Google and xAI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dperussina/toolgz",
+      "npmUrl": "https://www.npmjs.com/package/toolgz",
+      "category": "utilities",
+      "createdAt": "2026-07-25T20:41:36.364Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 80
+    },
+    {
       "name": "unport-cli",
       "version": "0.1.0",
       "description": "Run Docker Compose projects without publishing host ports",
@@ -1764,6 +2052,18 @@
       "createdAt": "2026-07-25T16:50:11.086Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 67
+    },
+    {
+      "name": "valkey-wasm",
+      "version": "0.1.1",
+      "description": "Real Valkey (the BSD-licensed Redis fork) compiled to WebAssembly, networking bridged to node:net — an in-process, Redis-compatible server for Node. PGlite for Redis.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/michaelkremenetsky/valkey-wasm",
+      "npmUrl": "https://www.npmjs.com/package/valkey-wasm",
+      "category": "backend",
+      "createdAt": "2026-07-25T20:14:09.404Z",
+      "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 55
     },
     {
       "name": "varallisuuspolku-mcp",
