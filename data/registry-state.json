@@ -1,23 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121489521,
-  "lastRunAt": "2026-07-25T15:20:00.638Z",
+  "lastSequence": 121495585,
+  "lastRunAt": "2026-07-25T16:47:44.864Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@fate-core/mod-types",
+      "name": "@arun-dev/eslint-config",
       "attempts": 1
     },
     {
-      "name": "@maximedrn/react-to-svg",
+      "name": "@arun-dev/ts-config",
       "attempts": 1
     },
     {
-      "name": "@fate-core/mod-build",
+      "name": "@diceforge-sdk/core",
       "attempts": 1
     },
     {
-      "name": "@sol2docker/mcp",
+      "name": "@diceforge-sdk/renderer-web",
+      "attempts": 1
+    },
+    {
+      "name": "@manhphi1309/currency-input",
       "attempts": 1
     }
   ]

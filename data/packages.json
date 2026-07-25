@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "@backenly/sdk",
+      "version": "0.3.0",
+      "description": "Official Backenly SDK — typed database, auth, storage, realtime and a supabase-js compatibility shim for any JavaScript or TypeScript project.",
+      "license": "MIT",
+      "repository": "https://github.com/backenly/backenly",
+      "npmUrl": "https://www.npmjs.com/package/%40backenly%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-25T15:21:16.469Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 57
+    },
+    {
       "name": "@byline/db-mysql",
       "version": "4.8.0",
       "description": "Byline CMS db mysql package",
@@ -12,6 +24,18 @@
       "createdAt": "2026-07-25T15:08:43.850Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 68
+    },
+    {
+      "name": "@calebcall/camera-ui-notify",
+      "version": "0.4.1",
+      "description": "A fully-local, multi-backend camera.ui notifier plugin: delivers notifications to ntfy, Gotify, or a generic webhook, entirely on your own hardware with no cloud dependency.",
+      "license": "MIT",
+      "repository": "https://github.com/calebcall/camera-ui-notify",
+      "npmUrl": "https://www.npmjs.com/package/%40calebcall%2Fcamera-ui-notify",
+      "category": "backend",
+      "createdAt": "2026-07-25T15:34:44.551Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 81
     },
     {
       "name": "@chibi.pl/nest-sequelize-db",
@@ -74,6 +98,42 @@
       "score": 55
     },
     {
+      "name": "@dmytromykhailiuk/execution-blocker",
+      "version": "1.0.0",
+      "description": "Promise-based FIFO execution lock with independent queues per id — run async logic strictly one at a time. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/execution-blocker",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fexecution-blocker",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T16:12:47.679Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 69
+    },
+    {
+      "name": "@dmytromykhailiuk/typed-local-storage",
+      "version": "1.0.0",
+      "description": "Typed localStorage with initial values, groups and cross-tab subscriptions. SSR-safe, dependency-free, a few hundred bytes.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/typed-local-storage",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Ftyped-local-storage",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T15:20:17.869Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 78
+    },
+    {
+      "name": "@forinda/kickjs-grpc",
+      "version": "0.0.0",
+      "description": "Connect RPC transport for KickJS — gRPC, gRPC-Web, and Connect protocol served from your existing app, with decorators, DI, and Context Contributors",
+      "license": "MIT",
+      "repository": "https://github.com/forinda/kick-js",
+      "npmUrl": "https://www.npmjs.com/package/%40forinda%2Fkickjs-grpc",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T16:40:48.689Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 76
+    },
+    {
       "name": "@getappniche/mcp",
       "version": "0.1.0",
       "description": "GetAppNiche MCP — live App Store & Google Play data for AI agents: app discovery, ASO keyword scoring, reviews. Zero-dependency stdio bridge to the hosted Streamable HTTP endpoint.",
@@ -122,6 +182,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/dogeus",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DOGEUS (build etherscan-dogeus-759f8b83-1784997942843, commit 07f4ac6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dogeus",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdogeus",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T16:46:07.913Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/gcoin",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for GCOIN (build etherscan-gcoin-0c71db2e-1784989109674, commit d9bccdf, branch etherscan)",
@@ -132,6 +204,18 @@
       "createdAt": "2026-07-25T14:18:53.208Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/ind",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for IND (build etherscan-ind-167cb3f2-1784997627864, commit e1bf35b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ind",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Find",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T16:40:54.035Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/lsd",
@@ -182,6 +266,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/verusproof",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for VerusProof (build etherscan-verusproof-54e03a16-1784993877333, commit 989baa5, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/verusproof",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fverusproof",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T15:38:23.802Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 58
+    },
+    {
       "name": "@hitkeep/tracker",
       "version": "2.12.0",
       "description": "Typed, cookieless web analytics tracker for React, Vue, Angular, and Astro. Official browser SDK for HitKeep, a privacy-friendly, self-hostable Google Analytics alternative.",
@@ -192,6 +288,18 @@
       "createdAt": "2026-07-25T14:50:06.417Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 84
+    },
+    {
+      "name": "@honlnk/picsense",
+      "version": "0.1.0",
+      "description": "A local MCP server that gives unimodal LLMs multimodal vision — image/video recognition with multi-turn iterative analysis.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/honlnk/picsense",
+      "npmUrl": "https://www.npmjs.com/package/%40honlnk%2Fpicsense",
+      "category": "backend",
+      "createdAt": "2026-07-25T15:50:11.377Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 64
     },
     {
       "name": "@incorta/overlay-db",
@@ -266,6 +374,18 @@
       "score": 76
     },
     {
+      "name": "@nera-static/validate",
+      "version": "1.0.0",
+      "description": "Validate a Nera site the way the build sees it — layouts and includes resolve (theme-aware), YAML parses, required frontmatter present — with structured results shared by the CLI and the Nera Pro platform",
+      "license": "MIT",
+      "repository": "https://github.com/seebaermichi/nera-validate",
+      "npmUrl": "https://www.npmjs.com/package/%40nera-static%2Fvalidate",
+      "category": "data",
+      "createdAt": "2026-07-25T15:20:22.229Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 59
+    },
+    {
       "name": "@node-3d/webgl",
       "version": "6.0.0",
       "description": "WebGL for Node.js",
@@ -276,6 +396,18 @@
       "createdAt": "2026-07-25T12:38:14.522Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 63
+    },
+    {
+      "name": "@pulsenetwork/mcp",
+      "version": "0.1.0",
+      "description": "Give your AI agent a wallet and 900+ pay-per-call intelligence APIs. Local MCP server with a zero-config wallet, hard spend caps enforced below the model, and free discovery across the PulseNetwork x402 fleet (finance, crypto, health, law, travel, climate",
+      "license": "MIT",
+      "repository": "https://github.com/GTCC777/pulsepay-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsenetwork%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T15:36:06.264Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 59
     },
     {
       "name": "@remnic/capture-screen",
@@ -326,6 +458,18 @@
       "score": 75
     },
     {
+      "name": "@takemynotes/slideframe",
+      "version": "0.1.0",
+      "description": "Browser-native, read-only PPTX viewer with an optional React adapter",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/groupscommunity/slideframe-pptx-viewer",
+      "npmUrl": "https://www.npmjs.com/package/%40takemynotes%2Fslideframe",
+      "category": "frontend",
+      "createdAt": "2026-07-25T16:41:36.964Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 66
+    },
+    {
       "name": "@trueyy-sdk/node",
       "version": "1.0.0",
       "description": "Trueyy Server SDK for Node.js — mint session tokens, query sessions, handle webhooks.",
@@ -374,6 +518,42 @@
       "score": 63
     },
     {
+      "name": "@zhcsyncer/pi-plan-mode",
+      "version": "0.1.0",
+      "description": "Temporary read-only Plan Mode for Pi with revdiff review and immutable revisions.",
+      "license": "MIT",
+      "repository": "https://github.com/zhcsyncer/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40zhcsyncer%2Fpi-plan-mode",
+      "category": "utilities",
+      "createdAt": "2026-07-25T16:07:30.201Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 59
+    },
+    {
+      "name": "artefactby-ozon-seller-api",
+      "version": "0.1.0",
+      "description": "Unofficial typed TypeScript client for the Ozon Seller API. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/artefactby/ozon-seller-api",
+      "npmUrl": "https://www.npmjs.com/package/artefactby-ozon-seller-api",
+      "category": "backend",
+      "createdAt": "2026-07-25T16:32:43.276Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 61
+    },
+    {
+      "name": "buildloop",
+      "version": "0.1.0",
+      "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/bjoxiah/buildloop",
+      "npmUrl": "https://www.npmjs.com/package/buildloop",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T16:47:03.576Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 73
+    },
+    {
       "name": "cgraph",
       "version": "0.1.1",
       "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
@@ -384,6 +564,18 @@
       "createdAt": "2026-07-25T14:36:53.791Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 87
+    },
+    {
+      "name": "civic-data-adapters",
+      "version": "0.2.0",
+      "description": "TypeScript adapters for municipal and civic government data: Legistar, Socrata, USASpending, ProPublica Nonprofit Explorer, CrimeWatch, HTML/PDF police blotters, and meeting minutes, behind one pluggable registry with robots.txt compliance and bring-your-",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mpointer/civic-data-adapters",
+      "npmUrl": "https://www.npmjs.com/package/civic-data-adapters",
+      "category": "data",
+      "createdAt": "2026-07-25T15:33:39.056Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 69
     },
     {
       "name": "codex-claude-bridge-feishu",
@@ -410,6 +602,30 @@
       "score": 70
     },
     {
+      "name": "compress-edge",
+      "version": "1.0.0",
+      "description": "Wrapper ligero sobre la Compression Streams API para comprimir y descomprimir datos con gzip, deflate y deflate-raw.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/baa4ts/compress-edge",
+      "npmUrl": "https://www.npmjs.com/package/compress-edge",
+      "category": "frontend",
+      "createdAt": "2026-07-25T16:30:29.331Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 62
+    },
+    {
+      "name": "cubest",
+      "version": "0.1.0",
+      "description": "Single-pass OLAP aggregator over any text stream (code, logs, CSV, JSONL, XML, SDD artefacts) → 12 output formats including ECharts HTML. Token-cheap alternative to grep+cat chains for LLM agents. npm wrapper — installs Python cubest via pipx or delegates",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/BaryshevS/cubest",
+      "npmUrl": "https://www.npmjs.com/package/cubest",
+      "category": "data",
+      "createdAt": "2026-07-25T16:30:25.909Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 87
+    },
+    {
       "name": "devinpipe",
       "version": "0.1.0",
       "description": "Token-saving HTTPS intercepting proxy for Devin CLI: renders bulky context as dense PNGs and uploads them as attachments, cutting input characters/ACU.",
@@ -420,6 +636,30 @@
       "createdAt": "2026-07-25T13:37:39.234Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 61
+    },
+    {
+      "name": "diarium",
+      "version": "0.1.0",
+      "description": "Agent memory as a verifiable UST stream — a task closes, the agent writes what it learned, the entry is sealed and prev-chained. Tamper-evident, offline-verifiable, no server.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/thelabmd/UST-Protocol",
+      "npmUrl": "https://www.npmjs.com/package/diarium",
+      "category": "backend",
+      "createdAt": "2026-07-25T16:37:06.502Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 59
+    },
+    {
+      "name": "gemini-notebook-mcp",
+      "version": "2.0.0",
+      "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
+      "license": "MIT",
+      "repository": "https://github.com/CharlieCardenasToledo/gemini-notebook-mcp",
+      "npmUrl": "https://www.npmjs.com/package/gemini-notebook-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T16:40:15.010Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 86
     },
     {
       "name": "getsecret-sdk",
@@ -458,6 +698,18 @@
       "score": 87
     },
     {
+      "name": "harness-playtime",
+      "version": "0.1.0",
+      "description": "Steam-style playtime tracking for CLI agent harnesses: Claude Code, Codex and OpenCode",
+      "license": "MIT",
+      "repository": "https://github.com/fmarcac/playtime",
+      "npmUrl": "https://www.npmjs.com/package/harness-playtime",
+      "category": "cli",
+      "createdAt": "2026-07-25T16:03:47.173Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 64
+    },
+    {
       "name": "htmx-magnify",
       "version": "1.0.0",
       "description": "htmx extension for image magnification with zoom glass effect",
@@ -468,6 +720,18 @@
       "createdAt": "2026-07-25T12:21:53.455Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 78
+    },
+    {
+      "name": "kd-screen-guard",
+      "version": "1.0.0",
+      "description": "Zero-dependency, tamper-resistant, high-security lock screen overlay library with PBKDF2 salted hashing, intruder webcam snapshot review, Web Audio API siren, WebAuthn biometrics, and framework hooks.",
+      "license": "MIT",
+      "repository": "https://github.com/KhvichaDev/kd-screen-guard",
+      "npmUrl": "https://www.npmjs.com/package/kd-screen-guard",
+      "category": "frontend",
+      "createdAt": "2026-07-25T16:03:10.263Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 100
     },
     {
       "name": "kracked-core",
@@ -518,6 +782,18 @@
       "score": 57
     },
     {
+      "name": "next-blogpanel",
+      "version": "1.0.0",
+      "description": "A drop-in blog engine for Next.js — admin panel, block editor, SEO, and media, all backed by your own MongoDB.",
+      "license": "MIT",
+      "repository": "https://github.com/butterblogs/next-blogpanel",
+      "npmUrl": "https://www.npmjs.com/package/next-blogpanel",
+      "category": "data",
+      "createdAt": "2026-07-25T15:50:44.502Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 89
+    },
+    {
       "name": "nextjs-loader",
       "version": "0.0.2",
       "description": "Automatic navigation loader with progress bar, spinner, overlay, skeleton, and adaptive loading for Next.js.",
@@ -528,6 +804,18 @@
       "createdAt": "2026-07-25T14:19:43.694Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 62
+    },
+    {
+      "name": "pickrate",
+      "version": "0.1.0",
+      "description": "Does an agent actually pick your MCP tools and Agent Skills correctly? Zero-config surface linting and selection evals.",
+      "license": "MIT",
+      "repository": "https://github.com/lach1an/pickrate",
+      "npmUrl": "https://www.npmjs.com/package/pickrate",
+      "category": "utilities",
+      "createdAt": "2026-07-25T15:22:53.325Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 77
     },
     {
       "name": "portable-agent-stack",
@@ -576,6 +864,18 @@
       "createdAt": "2026-07-25T12:40:07.341Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 68
+    },
+    {
+      "name": "tenderpulse-mcp",
+      "version": "2.1.0",
+      "description": "Search Indian government tenders (GeM, CPPP, DefProc, Maharashtra, UP) from Claude, Cursor, or any MCP client",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/quantumbyte31/tenderpulse",
+      "npmUrl": "https://www.npmjs.com/package/tenderpulse-mcp",
+      "category": "cli",
+      "createdAt": "2026-07-25T15:26:41.678Z",
+      "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 66
     },
     {
       "name": "tokengratis",
