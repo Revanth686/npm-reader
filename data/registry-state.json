@@ -1,27 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121495585,
-  "lastRunAt": "2026-07-25T16:47:44.864Z",
+  "lastSequence": 121499356,
+  "lastRunAt": "2026-07-25T17:44:16.872Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@arun-dev/eslint-config",
+      "name": "@anuragdev/nst",
       "attempts": 1
     },
     {
-      "name": "@arun-dev/ts-config",
-      "attempts": 1
-    },
-    {
-      "name": "@diceforge-sdk/core",
-      "attempts": 1
-    },
-    {
-      "name": "@diceforge-sdk/renderer-web",
-      "attempts": 1
-    },
-    {
-      "name": "@manhphi1309/currency-input",
+      "name": "@reportforge/cypress-pdf",
       "attempts": 1
     }
   ]
