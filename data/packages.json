@@ -38,6 +38,42 @@
       "score": 67
     },
     {
+      "name": "@asenajs/asena-kafka",
+      "version": "1.0.0",
+      "description": "Kafka integration for AsenaJS - service client and microservice transport",
+      "license": "MIT",
+      "repository": "https://github.com/AsenaJs/asena-kafka",
+      "npmUrl": "https://www.npmjs.com/package/%40asenajs%2Fasena-kafka",
+      "category": "cli",
+      "createdAt": "2026-07-25T19:20:15.581Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 87
+    },
+    {
+      "name": "@atomichub/atomicassets",
+      "version": "2.0.1",
+      "description": "JavaScript/TypeScript SDK for the AtomicAssets NFT standard on Antelope chains: read NFT data, serialize attribute data, and build v2 contract actions",
+      "license": "MIT",
+      "repository": "https://github.com/atomicassets/atomicassets-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40atomichub%2Fatomicassets",
+      "category": "data",
+      "createdAt": "2026-07-25T19:10:57.256Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 87
+    },
+    {
+      "name": "@atomichub/atomicmarket",
+      "version": "2.0.0",
+      "description": "JavaScript/TypeScript SDK for the AtomicMarket NFT marketplace contract on Antelope chains: read sales, auctions, and royalties, and build v2 royalty actions",
+      "license": "MIT",
+      "repository": "https://github.com/atomicassets/atomicmarket-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40atomichub%2Fatomicmarket",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T19:46:27.431Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 70
+    },
+    {
       "name": "@backenly/sdk",
       "version": "0.3.0",
       "description": "Official Backenly SDK — typed database, auth, storage, realtime and a supabase-js compatibility shim for any JavaScript or TypeScript project.",
@@ -48,6 +84,18 @@
       "createdAt": "2026-07-25T15:21:16.469Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 57
+    },
+    {
+      "name": "@borrowbetter/arpcsdk",
+      "version": "0.1.1",
+      "description": "Typed, agnostic client for FDR's ARPC DEX API — Achieve Resolution Partner Connect (Digital Enrollment Experience)",
+      "license": "MIT",
+      "repository": "https://github.com/BorrowBetter/arpcsdk",
+      "npmUrl": "https://www.npmjs.com/package/%40borrowbetter%2Farpcsdk",
+      "category": "backend",
+      "createdAt": "2026-07-25T19:23:12.640Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 60
     },
     {
       "name": "@byline/db-mysql",
@@ -192,6 +240,18 @@
       "createdAt": "2026-07-25T15:20:17.869Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 78
+    },
+    {
+      "name": "@experttoolkit/sdk",
+      "version": "1.0.0",
+      "description": "Typed client for the ExpertToolkit computation APIs — unit conversion across 1,800+ units and 100+ dimensions, unit registry search, with standards-cited results (NIST/BIPM-aligned factors).",
+      "license": "MIT",
+      "repository": "https://github.com/anoopKumarChaudhary/calculatefe",
+      "npmUrl": "https://www.npmjs.com/package/%40experttoolkit%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-25T20:00:48.741Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 65
     },
     {
       "name": "@fidacy/openai-agents",
@@ -578,6 +638,18 @@
       "score": 81
     },
     {
+      "name": "@mailkite/better-auth",
+      "version": "0.1.0",
+      "description": "Send Better Auth's magic links, OTPs, verification, password-reset and organization-invite emails through MailKite.",
+      "license": "MIT",
+      "repository": "https://github.com/mailkite/mailkite-better-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40mailkite%2Fbetter-auth",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T19:46:11.538Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 58
+    },
+    {
       "name": "@mastersoon1754-ui/mcpsec",
       "version": "0.1.0",
       "description": "Open-source security framework for the Model Context Protocol — scan, score, and enforce policies on MCP servers.",
@@ -600,6 +672,18 @@
       "createdAt": "2026-07-25T14:01:14.410Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 67
+    },
+    {
+      "name": "@narumitw/pi-file-context",
+      "version": "0.1.0",
+      "description": "Experimental Pi extension for attaching file ranges and Git provenance as context.",
+      "license": "MIT",
+      "repository": "https://github.com/narumiruna/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40narumitw%2Fpi-file-context",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:56:57.004Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 57
     },
     {
       "name": "@nera-static/core",
@@ -698,6 +782,30 @@
       "score": 59
     },
     {
+      "name": "@qmahyar/pi-9router",
+      "version": "1.0.0",
+      "description": "Connect pi to 9Router — multi-provider chat models plus image, speech, search, and fetch tools",
+      "license": "MIT",
+      "repository": "https://github.com/QMahyar/pi-9router",
+      "npmUrl": "https://www.npmjs.com/package/%40qmahyar%2Fpi-9router",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:58:53.732Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 60
+    },
+    {
+      "name": "@qmahyar/pi-exa-search",
+      "version": "1.0.0",
+      "description": "Exa neural web search and page fetch for pi — multi-key rotation, highlights, filters",
+      "license": "MIT",
+      "repository": "https://github.com/QMahyar/pi-exa-search",
+      "npmUrl": "https://www.npmjs.com/package/%40qmahyar%2Fpi-exa-search",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:59:02.288Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 54
+    },
+    {
       "name": "@rakku-kun/baileys",
       "version": "2.0.4",
       "description": "💧 Rakku Baileys - WhatsApp Multi-Device Library with intelligent @lid/@jid mapping",
@@ -708,6 +816,18 @@
       "createdAt": "2026-07-25T18:31:14.748Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 86
+    },
+    {
+      "name": "@reactdays/react",
+      "version": "1.0.0",
+      "description": "Official React SDK for the ReactDays CMS. Render your articles, knowledge base, FAQs, and categories on your own site.",
+      "license": "MIT",
+      "repository": "https://github.com/React-Days/reactdays",
+      "npmUrl": "https://www.npmjs.com/package/%40reactdays%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-25T19:08:40.276Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 75
     },
     {
       "name": "@remnic/capture-screen",
@@ -768,6 +888,30 @@
       "createdAt": "2026-07-25T18:32:12.834Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 57
+    },
+    {
+      "name": "@simpleworkjs/directory-schema",
+      "version": "1.0.0",
+      "description": "The shared sso<->client directory contract: resource kinds, metadata convention keys, the { results } envelope, the security projection (strips secrets), and a thin discovery HTTP client. Consumed by sso-manager-node (projection + schema) and jump-host (c",
+      "license": "MIT",
+      "repository": "https://github.com/simpleworkjs/directory-schema",
+      "npmUrl": "https://www.npmjs.com/package/%40simpleworkjs%2Fdirectory-schema",
+      "category": "backend",
+      "createdAt": "2026-07-25T19:41:47.480Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 67
+    },
+    {
+      "name": "@simpleworkjs/oidc-client",
+      "version": "1.0.0",
+      "description": "Shared OpenID Connect authorization-code + PKCE client for the theta42 operational apps (proxy, jump-host). Factory that wires session models + the auth router onto an app's model-redis Table.",
+      "license": "MIT",
+      "repository": "https://github.com/simpleworkjs/oidc-client",
+      "npmUrl": "https://www.npmjs.com/package/%40simpleworkjs%2Foidc-client",
+      "category": "backend",
+      "createdAt": "2026-07-25T19:40:55.482Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 71
     },
     {
       "name": "@slastra/yplib",
@@ -878,6 +1022,18 @@
       "score": 69
     },
     {
+      "name": "@ucash/ucash-cli",
+      "version": "0.1.0",
+      "description": "The ucash CLI: create U.CASH Pay checkouts from the terminal (crypto + cards). Non-custodial.",
+      "license": "MIT",
+      "repository": "https://github.com/UdotCASH/ucash-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40ucash%2Fucash-cli",
+      "category": "cli",
+      "createdAt": "2026-07-25T19:43:42.641Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 54
+    },
+    {
       "name": "@venizia/ignis-filter",
       "version": "0.1.1",
       "description": "Engine-neutral query filter vocabulary for TypeScript: the `{ where, order, limit, offset, skip, fields, include }` shape, comparison/pattern/null/array/logical operators, and sort direction constants. Isomorphic by construction - no node builtins and no",
@@ -924,6 +1080,18 @@
       "createdAt": "2026-07-25T16:07:30.201Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 59
+    },
+    {
+      "name": "arclens",
+      "version": "1.0.0",
+      "description": "Arclens — React architecture explorer. Statically map components, hooks, and dependencies into an interactive graph.",
+      "license": "ISC",
+      "repository": "https://github.com/JCalmCrasher/react-atlas",
+      "npmUrl": "https://www.npmjs.com/package/arclens",
+      "category": "frontend",
+      "createdAt": "2026-07-25T19:46:54.685Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 88
     },
     {
       "name": "artefactby-ozon-seller-api",
@@ -1058,6 +1226,30 @@
       "score": 59
     },
     {
+      "name": "epos-printer-sdk",
+      "version": "0.2.0",
+      "description": "Modern TypeScript library port of Epson's ePOS SDK, transcription from vendor's IIFE bundle. Ships EposHttpPrinter — a lightweight, socket-free, fully async/await client for the ePOS-Print HTTP web service (built for the TM-T88V) — plus the full callback-",
+      "license": "MIT",
+      "repository": "https://github.com/Guiw5/epos-printer-sdk",
+      "npmUrl": "https://www.npmjs.com/package/epos-printer-sdk",
+      "category": "frontend",
+      "createdAt": "2026-07-25T19:51:31.869Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 90
+    },
+    {
+      "name": "fedcm-server",
+      "version": "0.1.0",
+      "description": "Framework-agnostic FedCM Identity Provider middleware for Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/HackPad-Labs/FedCM-Server",
+      "npmUrl": "https://www.npmjs.com/package/fedcm-server",
+      "category": "backend",
+      "createdAt": "2026-07-25T19:36:45.389Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 76
+    },
+    {
       "name": "gemini-notebook-mcp",
       "version": "2.0.0",
       "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
@@ -1092,6 +1284,30 @@
       "createdAt": "2026-07-25T14:29:26.000Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 59
+    },
+    {
+      "name": "git-multi-commit",
+      "version": "1.0.2",
+      "description": "Commit and push the same work to several independent GitHub repos, each under its own account identity and token.",
+      "license": "MIT",
+      "repository": "https://github.com/SENODROOM/Git-Multi-Commit",
+      "npmUrl": "https://www.npmjs.com/package/git-multi-commit",
+      "category": "cli",
+      "createdAt": "2026-07-25T19:30:16.790Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 60
+    },
+    {
+      "name": "guardrail-agent",
+      "version": "0.1.1",
+      "description": "Pre-execution security guards for AI coding agents. EU AI Act ready.",
+      "license": "MIT",
+      "repository": "https://github.com/FvdHMBAI/guardrail",
+      "npmUrl": "https://www.npmjs.com/package/guardrail-agent",
+      "category": "utilities",
+      "createdAt": "2026-07-25T19:04:45.845Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 58
     },
     {
       "name": "gum-sdk",
@@ -1178,6 +1394,18 @@
       "score": 69
     },
     {
+      "name": "linkdirecte",
+      "version": "1.0.0",
+      "description": "Your first-rate SDK for working with EcoleDirecte data.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/Scolup/Linkdirecte",
+      "npmUrl": "https://www.npmjs.com/package/linkdirecte",
+      "category": "backend",
+      "createdAt": "2026-07-25T19:57:37.918Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 56
+    },
+    {
       "name": "magictex-mcp",
       "version": "0.1.1",
       "description": "MagicTeX — a LaTeX editor for AI agents (Claude Code), via an MCP server: live PDF preview, an editable source panel with a Visual (WYSIWYG) mode, anchored PDF comments that drive edits, and git-backed history. Compiles your .tex with a WASM TeX Live engi",
@@ -1236,6 +1464,18 @@
       "createdAt": "2026-07-25T18:54:40.244Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 71
+    },
+    {
+      "name": "mfe-doctor",
+      "version": "0.1.0",
+      "description": "Detect Module Federation misconfigurations before they hit production",
+      "license": "MIT",
+      "repository": "https://github.com/Gl1tch42/mfe-doctor",
+      "npmUrl": "https://www.npmjs.com/package/mfe-doctor",
+      "category": "frontend",
+      "createdAt": "2026-07-25T19:28:08.951Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 57
     },
     {
       "name": "mimirapi",
@@ -1298,6 +1538,18 @@
       "score": 62
     },
     {
+      "name": "open-alex-wrapper",
+      "version": "0.1.0",
+      "description": "A fully-typed TypeScript SDK for the OpenAlex API: all 8 entities, streaming auto-pagination, parallel fetching, and dollar-cost estimation with live budget tracking.",
+      "license": "MIT",
+      "repository": "https://github.com/jlhernando/open-alex-wrapper",
+      "npmUrl": "https://www.npmjs.com/package/open-alex-wrapper",
+      "category": "backend",
+      "createdAt": "2026-07-25T19:19:37.184Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 82
+    },
+    {
       "name": "phi-leak-guard",
       "version": "0.0.1",
       "description": "Deterministic PHI-leak assertions for LLM output, runnable in your normal test suite. HIPAA Safe Harbor + NHS/UK. No LLM calls, no data leaves your machine.",
@@ -1308,6 +1560,18 @@
       "createdAt": "2026-07-25T18:53:04.065Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 72
+    },
+    {
+      "name": "pi-browse-replies",
+      "version": "0.1.0",
+      "description": "Browse, edit, and cleanly copy previous Pi assistant replies from the prompt editor.",
+      "license": "MIT",
+      "repository": "https://github.com/dreveman/pi-browse-replies",
+      "npmUrl": "https://www.npmjs.com/package/pi-browse-replies",
+      "category": "cli",
+      "createdAt": "2026-07-25T19:41:10.688Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 53
     },
     {
       "name": "pi-io-tools",
@@ -1332,6 +1596,18 @@
       "createdAt": "2026-07-25T15:22:53.325Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 77
+    },
+    {
+      "name": "pocket-index",
+      "version": "1.0.0",
+      "description": "Tiny browser-friendly search indexes for external documents.",
+      "license": "MIT",
+      "repository": "https://github.com/connor56/pocket-index",
+      "npmUrl": "https://www.npmjs.com/package/pocket-index",
+      "category": "frontend",
+      "createdAt": "2026-07-25T19:42:31.150Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 66
     },
     {
       "name": "portable-agent-stack",
@@ -1368,6 +1644,18 @@
       "createdAt": "2026-07-25T17:19:58.814Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 79
+    },
+    {
+      "name": "sf-flow-plugin",
+      "version": "1.0.0",
+      "description": "Salesforce CLI commands for managing Flow versions",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/KarlLivesey/sf-flow-plugin",
+      "npmUrl": "https://www.npmjs.com/package/sf-flow-plugin",
+      "category": "cli",
+      "createdAt": "2026-07-25T19:21:32.194Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 63
     },
     {
       "name": "shadscan-vue",
@@ -1488,6 +1776,18 @@
       "createdAt": "2026-07-25T18:18:19.568Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 63
+    },
+    {
+      "name": "vite-plugin-grundlage",
+      "version": "0.1.0",
+      "description": "Vite plugin that prerenders grundlage web components to declarative shadow DOM at build time.",
+      "license": "MIT",
+      "repository": "https://github.com/copyandpaetow/grundlage",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-grundlage",
+      "category": "frontend",
+      "createdAt": "2026-07-25T19:02:27.058Z",
+      "discoveredAt": "2026-07-25T20:08:25.989Z",
+      "score": 53
     },
     {
       "name": "widdershins-reborn",
