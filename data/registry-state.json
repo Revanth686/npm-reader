@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121472425,
-  "lastRunAt": "2026-07-25T12:34:44.344Z",
+  "lastSequence": 121485128,
+  "lastRunAt": "2026-07-25T14:13:29.678Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@scale-sense/react",
+      "attempts": 1
+    },
+    {
+      "name": "@allegedcarrot4/drift",
+      "attempts": 1
+    }
+  ]
 }
