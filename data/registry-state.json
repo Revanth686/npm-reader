@@ -1,19 +1,47 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121526389,
-  "lastRunAt": "2026-07-25T22:44:38.249Z",
+  "lastSequence": 121530404,
+  "lastRunAt": "2026-07-25T23:44:05.407Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@nexus-mcp-infra/zzz-token-scope-probe",
+      "name": "@statedelta/actions-analysis",
       "attempts": 1
     },
     {
-      "name": "@uichat-mira/docs",
+      "name": "@statedelta/actions-checker",
       "attempts": 1
     },
     {
-      "name": "@_elcaten/expo-list-section-index",
+      "name": "@statedelta/actions-interpret",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/actions-manifest",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/actions-openapi",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/actions-printer",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/actions-razor",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/actions-runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/blocks",
+      "attempts": 1
+    },
+    {
+      "name": "@statedelta/cookstep",
       "attempts": 1
     }
   ]
