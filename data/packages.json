@@ -146,6 +146,18 @@
       "score": 63
     },
     {
+      "name": "@creatures-lsp/caos-util",
+      "version": "0.0.3",
+      "description": "Utility methods for parsing and validating CAOS scripts for the Creatures games",
+      "license": "MIT",
+      "repository": "https://github.com/bedalton/caos-language-server",
+      "npmUrl": "https://www.npmjs.com/package/%40creatures-lsp%2Fcaos-util",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:39:10.530Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 57
+    },
+    {
       "name": "@dmstoykov/trayce",
       "version": "0.1.0",
       "description": "A floating bottom tray for React Native: spring physics, height-morphing multi-step flows, stacked trays, and promise-based results.",
@@ -180,6 +192,42 @@
       "createdAt": "2026-07-25T15:20:17.869Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 78
+    },
+    {
+      "name": "@fidacy/openai-agents",
+      "version": "0.1.0",
+      "description": "Gate OpenAI Agents SDK tool calls behind a signed Fidacy verdict. Wraps the tool's execute, so a denied payment never runs and the agent gets a refusal it can reason about.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lucaslubi/fidacy-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40fidacy%2Fopenai-agents",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:14:12.787Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 57
+    },
+    {
+      "name": "@financica/gst-einvoice-qr",
+      "version": "0.1.0",
+      "description": "Decode, cryptographically verify and reconcile the signed QR code printed on Indian GST e-invoices (IRP / IRN). Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/financica/gst-einvoice-qr",
+      "npmUrl": "https://www.npmjs.com/package/%40financica%2Fgst-einvoice-qr",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T18:10:15.213Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 73
+    },
+    {
+      "name": "@finchagentic/mcp",
+      "version": "4.0.0",
+      "description": "The runtime layer for Agentic AI. 121 MCP tools: persistent memory, autonomous agents, vault storage, scheduled workflows, DeFi on Base (base_mcp_*), Robinhood Chain tokenized stocks and arbitrary crypto with V3/V4 smart routing (rh_*), live market data,",
+      "license": "MIT",
+      "repository": "https://github.com/finchagentic/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40finchagentic%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T18:47:22.440Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 100
     },
     {
       "name": "@forinda/kickjs-grpc",
@@ -290,6 +338,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/lp",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LP (build etherscan-lp-524cab2e-1785002924678, commit fd4f9d6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/lp",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flp",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T18:09:13.052Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/lsd",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for LSD (build etherscan-lsd-838b4a39-1784992281524, commit 9c845da, branch etherscan)",
@@ -326,6 +386,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/safersafes",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SaferSafes (build etherscan-safersafes-a8447329-1785001579261, commit b69199c, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/safersafes",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsafersafes",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T17:46:47.820Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/sdt",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ՍSDT (build etherscan-sdt-0f6b862e-1784992251517, commit cfb229d, branch etherscan)",
@@ -350,6 +422,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/tp",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TP (build etherscan-tp-001674e0-1785002094371, commit 65de869, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/tp",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftp",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T17:55:21.246Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/verusproof",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for VerusProof (build etherscan-verusproof-54e03a16-1784993877333, commit 989baa5, branch etherscan)",
@@ -360,6 +444,18 @@
       "createdAt": "2026-07-25T15:38:23.802Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/yielddistributor",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for YieldDistributor (build etherscan-yielddistributor-5f4d0935-1785002629627, commit 1f1c17b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/yielddistributor",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fyielddistributor",
+      "category": "build-tools",
+      "createdAt": "2026-07-25T18:04:16.489Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 59
     },
     {
       "name": "@groundcraft/crawl",
@@ -444,6 +540,30 @@
       "createdAt": "2026-07-25T14:54:16.738Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 60
+    },
+    {
+      "name": "@ismailza/ngx-api-client",
+      "version": "0.1.0",
+      "description": "A typed, interceptor-driven HTTP layer for Angular: versioned URLs, RFC 9457 problem+json error normalisation, retry with backoff, and pluggable error/success handlers.",
+      "license": "MIT",
+      "repository": "https://github.com/ismailza/ngx-api-client",
+      "npmUrl": "https://www.npmjs.com/package/%40ismailza%2Fngx-api-client",
+      "category": "frontend",
+      "createdAt": "2026-07-25T17:50:12.055Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 75
+    },
+    {
+      "name": "@itc-steve/pi-herdr",
+      "version": "1.1.0",
+      "description": "Pi extension: Herdr-visible subagent herd — local-first difficulty routing, pointer-batched results, markdown handoffs, and herdr terminal control.",
+      "license": "MIT",
+      "repository": "https://github.com/itc-steve/pi-herdr",
+      "npmUrl": "https://www.npmjs.com/package/%40itc-steve%2Fpi-herdr",
+      "category": "cli",
+      "createdAt": "2026-07-25T17:55:08.926Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 86
     },
     {
       "name": "@kaistrum/geonode-node-sdk",
@@ -554,6 +674,18 @@
       "score": 63
     },
     {
+      "name": "@profullstack/remote-input",
+      "version": "0.1.1",
+      "description": "Cross-platform OS input injection for remote control (macOS, Windows, Linux X11 and Wayland)",
+      "license": "MIT",
+      "repository": "https://github.com/profullstack/pairux.com",
+      "npmUrl": "https://www.npmjs.com/package/%40profullstack%2Fremote-input",
+      "category": "data",
+      "createdAt": "2026-07-25T18:16:15.781Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 61
+    },
+    {
       "name": "@pulsenetwork/mcp",
       "version": "0.1.0",
       "description": "Give your AI agent a wallet and 900+ pay-per-call intelligence APIs. Local MCP server with a zero-config wallet, hard spend caps enforced below the model, and free discovery across the PulseNetwork x402 fleet (finance, crypto, health, law, travel, climate",
@@ -564,6 +696,18 @@
       "createdAt": "2026-07-25T15:36:06.264Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 59
+    },
+    {
+      "name": "@rakku-kun/baileys",
+      "version": "2.0.4",
+      "description": "💧 Rakku Baileys - WhatsApp Multi-Device Library with intelligent @lid/@jid mapping",
+      "license": "MIT",
+      "repository": "https://github.com/rakkudev/rakku-baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40rakku-kun%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-07-25T18:31:14.748Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 86
     },
     {
       "name": "@remnic/capture-screen",
@@ -614,6 +758,30 @@
       "score": 60
     },
     {
+      "name": "@simonjamesrowe/agent-setup",
+      "version": "0.1.0",
+      "description": "AI agent setup for the simonjamesrowe org: skills, instructions, MCP servers and plugins for Claude Code, Gemini CLI and Codex",
+      "license": "MIT",
+      "repository": "https://github.com/simonjamesrowe/agent-setup",
+      "npmUrl": "https://www.npmjs.com/package/%40simonjamesrowe%2Fagent-setup",
+      "category": "backend",
+      "createdAt": "2026-07-25T18:32:12.834Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 57
+    },
+    {
+      "name": "@slastra/yplib",
+      "version": "0.1.0",
+      "description": "YPL thermal label printer protocol: framing, CRC, 1-bit raster, and a Web Bluetooth transport. Reverse-engineered and verified against hardware captures.",
+      "license": "MIT",
+      "repository": "https://github.com/slastra/yplib",
+      "npmUrl": "https://www.npmjs.com/package/%40slastra%2Fyplib",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:46:17.622Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 70
+    },
+    {
       "name": "@sonn-audio/node-upnp",
       "version": "0.1.0",
       "description": "UPnP AV toolkit: SSDP, SOAP, DIDL-Lite, GENA, plus a MediaRenderer server, a control-point client, and a MediaServer framework. Protocol only — inject your own content and playback.",
@@ -636,6 +804,18 @@
       "createdAt": "2026-07-25T14:45:13.165Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 75
+    },
+    {
+      "name": "@swifty.js/swiftx",
+      "version": "0.0.1",
+      "description": "Swiftx — Native cli coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/hangtiancheng/swifty-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40swifty.js%2Fswiftx",
+      "category": "cli",
+      "createdAt": "2026-07-25T18:51:06.132Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 59
     },
     {
       "name": "@takemynotes/slideframe",
@@ -950,6 +1130,18 @@
       "score": 64
     },
     {
+      "name": "hash-card",
+      "version": "0.4.8",
+      "description": "Virtual Visa cards for AI agents — pay USDC or XLM on Stellar, get a card in ~60s",
+      "license": "MIT",
+      "repository": "https://github.com/CTX-com/Cards402",
+      "npmUrl": "https://www.npmjs.com/package/hash-card",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:27:04.208Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 60
+    },
+    {
       "name": "htmx-magnify",
       "version": "1.0.0",
       "description": "htmx extension for image magnification with zoom glass effect",
@@ -1010,6 +1202,54 @@
       "score": 66
     },
     {
+      "name": "masterplot",
+      "version": "1.0.0",
+      "description": "Production-grade scientific plotting engine with WebGL rendering",
+      "license": "MIT",
+      "repository": "https://github.com/MadAlex1997/MasterPlot",
+      "npmUrl": "https://www.npmjs.com/package/masterplot",
+      "category": "frontend",
+      "createdAt": "2026-07-25T17:54:12.454Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 86
+    },
+    {
+      "name": "matterbridge-midea",
+      "version": "0.1.19",
+      "description": "Matterbridge plugin for Midea SmartHome air conditioners",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/NeZios/matterbridge-midea",
+      "npmUrl": "https://www.npmjs.com/package/matterbridge-midea",
+      "category": "utilities",
+      "createdAt": "2026-07-25T18:20:00.278Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 56
+    },
+    {
+      "name": "medusa-search-select",
+      "version": "0.1.0",
+      "description": "A searchable, accessible select/combobox component for React, built for Medusa.js storefronts and admin dashboards (but usable in any React app).",
+      "license": "MIT",
+      "repository": "https://github.com/pritesh-52/medusa-search-select",
+      "npmUrl": "https://www.npmjs.com/package/medusa-search-select",
+      "category": "frontend",
+      "createdAt": "2026-07-25T18:54:40.244Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 71
+    },
+    {
+      "name": "mimirapi",
+      "version": "0.1.0",
+      "description": "Official isomorphic TypeScript/JavaScript client for MimirAPI — pay-per-call tools for agents over x402 (USDC on Base). No API key, no signup. Zero dependencies; runs on Node, Bun, browsers, and Cloudflare Workers.",
+      "license": "MIT",
+      "repository": "https://github.com/Latimer-Woods-Tech/Factory",
+      "npmUrl": "https://www.npmjs.com/package/mimirapi",
+      "category": "frontend",
+      "createdAt": "2026-07-25T17:46:28.184Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 62
+    },
+    {
       "name": "n8n-nodes-cliptoframe",
       "version": "0.1.1",
       "description": "n8n community node for ClipToFrame — extract still frames and metadata from video URLs via a hosted API (no FFmpeg needed, works on n8n Cloud)",
@@ -1056,6 +1296,18 @@
       "createdAt": "2026-07-25T14:19:43.694Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 62
+    },
+    {
+      "name": "phi-leak-guard",
+      "version": "0.0.1",
+      "description": "Deterministic PHI-leak assertions for LLM output, runnable in your normal test suite. HIPAA Safe Harbor + NHS/UK. No LLM calls, no data leaves your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/selvassn/phi-leak-guard",
+      "npmUrl": "https://www.npmjs.com/package/phi-leak-guard",
+      "category": "testing",
+      "createdAt": "2026-07-25T18:53:04.065Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 72
     },
     {
       "name": "pi-io-tools",
@@ -1130,6 +1382,18 @@
       "score": 57
     },
     {
+      "name": "sphere-visual-lab",
+      "version": "0.1.0",
+      "description": "Reusable animated WebGL visuals for React, Three.js, and React Three Fiber.",
+      "license": "MIT",
+      "repository": "https://github.com/Alexandr-Dudarin/Sphere-Animation",
+      "npmUrl": "https://www.npmjs.com/package/sphere-visual-lab",
+      "category": "frontend",
+      "createdAt": "2026-07-25T18:19:09.069Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 77
+    },
+    {
       "name": "superdocs-app-cli",
       "version": "1.0.0",
       "description": "Edit markdown and text files with SuperDocs AI from your terminal.",
@@ -1151,6 +1415,30 @@
       "category": "cli",
       "createdAt": "2026-07-25T15:26:41.678Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 66
+    },
+    {
+      "name": "tiryaq-healthcare-shared",
+      "version": "1.0.1",
+      "description": "Shared types, interfaces, and message patterns for Tiryaq healthcare microservices",
+      "license": "MIT",
+      "repository": "https://github.com/tiryaq/shared",
+      "npmUrl": "https://www.npmjs.com/package/tiryaq-healthcare-shared",
+      "category": "backend",
+      "createdAt": "2026-07-25T16:51:20.320Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 56
+    },
+    {
+      "name": "toggle-theme-circular",
+      "version": "1.1.0",
+      "description": "Framework-agnostic TypeScript theme switcher with circular View Transition reveals.",
+      "license": "MIT",
+      "repository": "https://github.com/kaisraieb/theme-toggle-circular",
+      "npmUrl": "https://www.npmjs.com/package/toggle-theme-circular",
+      "category": "frontend",
+      "createdAt": "2026-07-25T18:19:57.046Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 66
     },
     {
@@ -1188,6 +1476,18 @@
       "createdAt": "2026-07-25T16:50:11.086Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 67
+    },
+    {
+      "name": "varallisuuspolku-mcp",
+      "version": "0.1.0",
+      "description": "Varallisuuspolku (varallisuuspolku.com) MCP-palvelimena: deterministinen suomalainen elinkaari- ja eläkelaskenta tekoälyagenteille — paikallisesti, ilman verkkoa. Finnish lifecycle wealth & retirement engine as a local MCP server for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/olavikurola/varallisuuspolku",
+      "npmUrl": "https://www.npmjs.com/package/varallisuuspolku-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-25T18:18:19.568Z",
+      "discoveredAt": "2026-07-25T18:56:02.738Z",
+      "score": 63
     },
     {
       "name": "widdershins-reborn",
