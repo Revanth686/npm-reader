@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "dailyLimit": 25,
+  "initialSequenceOverlap": 5000,
+  "initialTimeOverlapMinutes": 15,
+  "changesPageSize": 1000,
+  "maxChangesPagesPerRun": 200,
+  "maxRevisionGeneration": 2,
+  "maxMetadataRequestsPerRun": 5000,
+  "maxPendingPackages": 20000,
+  "maxPendingAttempts": 7,
+  "requestConcurrency": 16,
+  "requestTimeoutMs": 15000,
+  "retries": 3,
+  "filters": {
+    "minReadmeLength": 200,
+    "requireDescription": true,
+    "requireLicense": true,
+    "requireReadme": true,
+    "requireRepository": true,
+    "excludePrerelease": true
+  },
+  "categories": [
+    {
+      "slug": "testing",
+      "title": "Testing",
+      "keywords": ["test", "testing", "vitest", "jest", "mocha", "playwright", "cypress"]
+    },
+    {
+      "slug": "frontend",
+      "title": "Frontend",
+      "keywords": ["react", "vue", "svelte", "angular", "browser", "frontend", "css", "dom"]
+    },
+    {
+      "slug": "backend",
+      "title": "Backend",
+      "keywords": ["server", "backend", "express", "fastify", "nestjs", "http", "api"]
+    },
+    {
+      "slug": "data",
+      "title": "Data and Databases",
+      "keywords": ["database", "sql", "postgres", "mysql", "redis", "mongodb", "orm", "data"]
+    },
+    {
+      "slug": "build-tools",
+      "title": "Build Tools",
+      "keywords": ["build", "bundler", "vite", "webpack", "rollup", "babel", "compiler", "typescript"]
+    },
+    {
+      "slug": "cli",
+      "title": "Command Line",
+      "keywords": ["cli", "command-line", "terminal", "shell"]
+    },
+    {
+      "slug": "devops",
+      "title": "DevOps",
+      "keywords": ["docker", "kubernetes", "terraform", "deployment", "ci", "devops", "cloud"]
+    },
+    {
+      "slug": "utilities",
+      "title": "Utilities",
+      "keywords": []
+    }
+  ]
+}

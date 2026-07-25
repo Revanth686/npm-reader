@@ -1,0 +1,67 @@
+name: Discover npm packages
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: Analyze the registry without committing generated files
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: npm-package-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out the default branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git init .
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${REPOSITORY}.git"
+          git fetch --depth=1 origin "${DEFAULT_BRANCH}"
+          git checkout -B "${DEFAULT_BRANCH}" FETCH_HEAD
+
+      - name: Discover and curate packages
+        id: discovery
+        uses: ./.github/actions/discover-npm
+        with:
+          dry-run: ${{ inputs['dry-run'] || false }}
+
+      - name: Commit generated files
+        if: steps.discovery.outputs.changed == 'true'
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+          git config user.name "Revanth686"
+          git config user.email "revanthperumalla3503@gmail.com"
+          git add README.md packages data
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update discovered npm packages"
+          git push origin "HEAD:${DEFAULT_BRANCH}"
+
+      - name: Write run summary
+        env:
+          DISCOVERED: ${{ steps.discovery.outputs.discovered-count }}
+          SELECTED: ${{ steps.discovery.outputs.selected-count }}
+        run: |
+          {
+            echo "## npm package discovery"
+            echo
+            echo "- New packages inspected: ${DISCOVERED}"
+            echo "- Curated packages added: ${SELECTED}"
+          } >> "${GITHUB_STEP_SUMMARY}"

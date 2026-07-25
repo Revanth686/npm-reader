@@ -1,0 +1,17 @@
+name: Discover npm packages
+description: Discover and curate newly published npm packages
+inputs:
+  dry-run:
+    description: Analyze packages without writing generated files
+    required: false
+    default: "false"
+outputs:
+  changed:
+    description: Whether generated repository files changed
+  discovered-count:
+    description: Number of new registry packages inspected
+  selected-count:
+    description: Number of packages added to the catalog
+runs:
+  using: node24
+  main: index.js
