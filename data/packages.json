@@ -458,6 +458,54 @@
       "score": 98
     },
     {
+      "name": "@code-yeongyu/senpi-agent-core",
+      "version": "2026.7.26",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/code-yeongyu/senpi",
+      "npmUrl": "https://www.npmjs.com/package/%40code-yeongyu%2Fsenpi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-07-26T07:21:10.495Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 79
+    },
+    {
+      "name": "@code-yeongyu/senpi-ai",
+      "version": "2026.7.26",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/code-yeongyu/senpi",
+      "npmUrl": "https://www.npmjs.com/package/%40code-yeongyu%2Fsenpi-ai",
+      "category": "backend",
+      "createdAt": "2026-07-26T07:20:39.839Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 83
+    },
+    {
+      "name": "@code-yeongyu/senpi-codemode",
+      "version": "2026.7.26",
+      "description": "Source-only senpi extension package for codemode evaluation tools",
+      "license": "MIT",
+      "repository": "https://github.com/code-yeongyu/senpi",
+      "npmUrl": "https://www.npmjs.com/package/%40code-yeongyu%2Fsenpi-codemode",
+      "category": "utilities",
+      "createdAt": "2026-07-26T07:21:14.196Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 69
+    },
+    {
+      "name": "@code-yeongyu/senpi-tui",
+      "version": "2026.7.26",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/code-yeongyu/senpi",
+      "npmUrl": "https://www.npmjs.com/package/%40code-yeongyu%2Fsenpi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T07:21:00.879Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 83
+    },
+    {
       "name": "@codecapsules/sandbox",
       "version": "0.1.0",
       "description": "Ephemeral isolated Linux sandboxes via REST API — create, exec, upload, and delete Firecracker microVM environments for AI agents and code execution",
@@ -528,6 +576,18 @@
       "createdAt": "2026-07-25T17:17:14.427Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 63
+    },
+    {
+      "name": "@conscia-code/design-system",
+      "version": "0.1.2",
+      "description": "The shared React component library for building clear, consistent, and accessible Conscia product experiences.",
+      "license": "MIT",
+      "repository": "https://github.com/conscia-code/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40conscia-code%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-07-26T18:15:43.386Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 73
     },
     {
       "name": "@counterroll/sdk",
@@ -840,6 +900,18 @@
       "createdAt": "2026-07-26T15:33:52.457Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 69
+    },
+    {
+      "name": "@florasync/squarespace-mcp",
+      "version": "0.1.0",
+      "description": "Squarespace Commerce MCP server for Gemini Spark, Gemini CLI, and other MCP clients.",
+      "license": "MIT",
+      "repository": "https://github.com/FloraSync/squarespace-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40florasync%2Fsquarespace-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T18:41:30.188Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 72
     },
     {
       "name": "@followingseas/pilot",
@@ -1476,6 +1548,18 @@
       "createdAt": "2026-07-26T08:16:36.031Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 86
+    },
+    {
+      "name": "@idmdakhi/gitwe",
+      "version": "1.0.6",
+      "description": "git workflow engine — git-flow is just one example workflow.",
+      "license": "MIT",
+      "repository": "https://github.com/idmdakhi/gitwe",
+      "npmUrl": "https://www.npmjs.com/package/%40idmdakhi%2Fgitwe",
+      "category": "cli",
+      "createdAt": "2026-07-26T18:18:12.987Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 78
     },
     {
       "name": "@igor-guari/pi-flow",
@@ -2138,6 +2222,18 @@
       "score": 77
     },
     {
+      "name": "@pi-kaush/pi-btw-with-imports",
+      "version": "0.1.0",
+      "description": "Open persisted Pi side sessions with /btw and import child-authored handoffs with /btw merge.",
+      "license": "MIT",
+      "repository": "https://github.com/kaushikgopal/pi-kaush",
+      "npmUrl": "https://www.npmjs.com/package/%40pi-kaush%2Fpi-btw-with-imports",
+      "category": "utilities",
+      "createdAt": "2026-07-26T17:16:01.324Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 75
+    },
+    {
       "name": "@pooriaarab/vibemovie",
       "version": "0.1.0",
       "description": "Your agent coding session as a short recap video — Hyperframes (HTML/CSS/JS) with zero gen-video keys, or your own video model. For Claude Code, Codex, Gemini, and other agentic CLIs. Local-first.",
@@ -2210,6 +2306,30 @@
       "score": 59
     },
     {
+      "name": "@putervision/state-memory-mcp",
+      "version": "0.6.7",
+      "description": "Deterministic, persistent graph server for tracking workflow state, decisions, and blockers.",
+      "license": "MIT",
+      "repository": "https://github.com/putervision/state-memory-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40putervision%2Fstate-memory-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T17:43:39.976Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 79
+    },
+    {
+      "name": "@putervision/vision-memory-mcp",
+      "version": "0.4.7",
+      "description": "Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.",
+      "license": "MIT",
+      "repository": "https://github.com/putervision/vision-memory-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40putervision%2Fvision-memory-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-26T17:42:56.360Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 89
+    },
+    {
       "name": "@qmahyar/pi-9router",
       "version": "1.0.0",
       "description": "Connect pi to 9Router — multi-provider chat models plus image, speech, search, and fetch tools",
@@ -2244,6 +2364,18 @@
       "createdAt": "2026-07-26T08:44:37.490Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 79
+    },
+    {
+      "name": "@r3e/neo-mcp",
+      "version": "3.1.0",
+      "description": "MCP server and HTTP API for Neo N3 and Neo X blockchain integration",
+      "license": "MIT",
+      "repository": "https://github.com/r3e-network/neo-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40r3e%2Fneo-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T17:27:54.488Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 86
     },
     {
       "name": "@rakku-kun/baileys",
@@ -2750,6 +2882,18 @@
       "score": 66
     },
     {
+      "name": "@theasanai/skeptic",
+      "version": "0.1.0",
+      "description": "The agent that doesn't take your agent's word for it.",
+      "license": "MIT",
+      "repository": "https://github.com/theasanai/skeptic",
+      "npmUrl": "https://www.npmjs.com/package/%40theasanai%2Fskeptic",
+      "category": "testing",
+      "createdAt": "2026-07-26T17:17:18.397Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 71
+    },
+    {
       "name": "@time-provider/plugin-moment-timezone",
       "version": "0.1.0",
       "description": "Time-Provider : Moment.js plugin ~ TypeScript library for injecting time and timers with adapters for multiple date libraries.",
@@ -2978,6 +3122,18 @@
       "score": 57
     },
     {
+      "name": "@zady/logger",
+      "version": "1.0.0",
+      "description": "um logger simples e poderoso para Node.js, com saídas formatadas no console, tratamento de erros e utilitários focados no desenvolvedor.",
+      "license": "ISC",
+      "repository": "https://github.com/HelzadyDev/zady",
+      "npmUrl": "https://www.npmjs.com/package/%40zady%2Flogger",
+      "category": "data",
+      "createdAt": "2026-07-26T17:07:50.143Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 79
+    },
+    {
       "name": "@zhcsyncer/pi-plan-mode",
       "version": "0.1.0",
       "description": "Temporary read-only Plan Mode for Pi with revdiff review and immutable revisions.",
@@ -3060,6 +3216,18 @@
       "createdAt": "2026-07-25T20:57:29.098Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 66
+    },
+    {
+      "name": "agent-pay-bridge",
+      "version": "0.1.0",
+      "description": "One interface for AI agent payments across x402, AP2, and ACP — auto-detects which protocol a merchant supports and pays through it.",
+      "license": "MIT",
+      "repository": "https://github.com/dragon486/AgentPayBridge",
+      "npmUrl": "https://www.npmjs.com/package/agent-pay-bridge",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T17:18:37.569Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 73
     },
     {
       "name": "arclens",
@@ -3228,6 +3396,18 @@
       "createdAt": "2026-07-25T22:08:57.888Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 83
+    },
+    {
+      "name": "claude-loops-pack",
+      "version": "0.1.0",
+      "description": "Cinco loops de trabalho (/loop-mvp, /loop-bug, /loop-landing, /loop-conteudo, /loop-saas) para o Claude Code: planeje, execute, teste, corrija e repita até entregar.",
+      "license": "MIT",
+      "repository": "https://github.com/mathpcastro/claude-loops-pack",
+      "npmUrl": "https://www.npmjs.com/package/claude-loops-pack",
+      "category": "testing",
+      "createdAt": "2026-07-26T17:55:18.463Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 71
     },
     {
       "name": "clickable-path",
@@ -3410,6 +3590,18 @@
       "score": 70
     },
     {
+      "name": "el-filtro",
+      "version": "0.2.1",
+      "description": "Escanea de una pasada todos tus repos npm/pip y te dice, en lenguaje simple, qué dependencias arreglar ya y cuáles pueden esperar. 100% determinístico, sin IA ni API key.",
+      "license": "MIT",
+      "repository": "https://github.com/JuanIA-sketch/el-filtro",
+      "npmUrl": "https://www.npmjs.com/package/el-filtro",
+      "category": "backend",
+      "createdAt": "2026-07-26T16:43:05.349Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 83
+    },
+    {
       "name": "eliza-plugin-tnt-risk-api",
       "version": "1.0.0",
       "description": "ElizaOS plugin for TNT House Risk-Data API — Solana token risk scoring and on-chain insider wallet cluster detection for trading agents.",
@@ -3518,6 +3710,18 @@
       "score": 73
     },
     {
+      "name": "friction-cli",
+      "version": "0.1.3",
+      "description": "Deterministic removal of the machine layer from LLM-generated English technical documentation.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/ngriaznov/friction",
+      "npmUrl": "https://www.npmjs.com/package/friction-cli",
+      "category": "cli",
+      "createdAt": "2026-07-26T13:10:19.485Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 71
+    },
+    {
       "name": "gaokao-vocab-app",
       "version": "3.4.5",
       "description": "高考英语词汇背诵助手 - 跨平台桌面应用 (Windows + macOS + Linux)",
@@ -3600,6 +3804,18 @@
       "createdAt": "2026-07-25T23:17:27.327Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 61
+    },
+    {
+      "name": "gosset",
+      "version": "1.1.0",
+      "description": "Wearable research studies without the app build — study builder, participant enrollment, HealthKit data collection, and a CLI to run it all from the terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/kgandikota459/scope",
+      "npmUrl": "https://www.npmjs.com/package/gosset",
+      "category": "data",
+      "createdAt": "2026-07-26T17:53:56.978Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 87
     },
     {
       "name": "guacd-ts",
@@ -3744,6 +3960,18 @@
       "createdAt": "2026-07-26T14:41:15.355Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 64
+    },
+    {
+      "name": "iobroker.nut2",
+      "version": "0.5.3",
+      "description": "ioBroker adapter for Network UPS Tools (NUT) monitoring",
+      "license": "MIT",
+      "repository": "https://github.com/krobipd/ioBroker.nut2",
+      "npmUrl": "https://www.npmjs.com/package/iobroker.nut2",
+      "category": "utilities",
+      "createdAt": "2026-07-26T17:09:20.508Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 69
     },
     {
       "name": "iobroker.statusanzeigeliste",
@@ -3899,6 +4127,18 @@
       "category": "testing",
       "createdAt": "2026-07-26T13:51:58.501Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 95
+    },
+    {
+      "name": "linkedin-mcp-bridge",
+      "version": "1.0.0",
+      "description": "Production-grade LinkedIn MCP server: full profile, post, network, messaging, job search and application automation over an authenticated browser session.",
+      "license": "MIT",
+      "repository": "https://github.com/Sabari2005/linkedin-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/linkedin-mcp-bridge",
+      "category": "testing",
+      "createdAt": "2026-07-26T17:08:09.499Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 95
     },
     {
@@ -4104,6 +4344,30 @@
       "createdAt": "2026-07-26T12:12:46.314Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 78
+    },
+    {
+      "name": "merv-client-cucumber",
+      "version": "4.0.5",
+      "description": "MERV Cucumber-js formatter — depends on merv-client core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/techelliiptica/merv",
+      "npmUrl": "https://www.npmjs.com/package/merv-client-cucumber",
+      "category": "testing",
+      "createdAt": "2026-07-26T12:55:31.071Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 75
+    },
+    {
+      "name": "merv-client-playwright",
+      "version": "4.0.5",
+      "description": "MERV Playwright reporter and test wrappers — depends on merv-client core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/techelliiptica/merv",
+      "npmUrl": "https://www.npmjs.com/package/merv-client-playwright",
+      "category": "testing",
+      "createdAt": "2026-07-26T12:54:41.870Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 77
     },
     {
       "name": "mfe-doctor",
@@ -4406,6 +4670,18 @@
       "score": 70
     },
     {
+      "name": "orita-sdk",
+      "version": "1.0.0",
+      "description": "The scheduling infrastructure for AI agents — official Node.js / TypeScript SDK",
+      "license": "MIT",
+      "repository": "https://github.com/Alkilo-do/orita-node",
+      "npmUrl": "https://www.npmjs.com/package/orita-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T18:07:58.236Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 81
+    },
+    {
       "name": "overhaul-ui",
       "version": "1.0.0",
       "description": "An installable, multi-file frontend design skill for AI coding agents. Anti-slop design direction, typography, color, layout, motion, states, accessibility and performance craft — with 25 commands, 8 playbooks and 7 offline analysis scripts. Works with Cl",
@@ -4416,6 +4692,18 @@
       "createdAt": "2026-07-25T21:28:39.078Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 100
+    },
+    {
+      "name": "oxc-tsrx",
+      "version": "0.1.0",
+      "description": "The complete OXC toolchain for JavaScript, TypeScript, JSX, and TSRX",
+      "license": "MIT",
+      "repository": "https://github.com/markless-dev/oxc-tsrx",
+      "npmUrl": "https://www.npmjs.com/package/oxc-tsrx",
+      "category": "data",
+      "createdAt": "2026-07-26T17:42:04.025Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 76
     },
     {
       "name": "oxibase-js",
@@ -4644,6 +4932,18 @@
       "createdAt": "2026-07-26T11:46:59.914Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 69
+    },
+    {
+      "name": "react-native-cupertino-tabs",
+      "version": "1.0.0",
+      "description": "A customizable native iOS tabs and segmented control component for React Native.",
+      "license": "MIT",
+      "repository": "https://github.com/rit3zh/react-native-cupertino-tabs",
+      "npmUrl": "https://www.npmjs.com/package/react-native-cupertino-tabs",
+      "category": "frontend",
+      "createdAt": "2026-07-26T18:27:11.917Z",
+      "discoveredAt": "2026-07-26T18:59:40.407Z",
+      "score": 72
     },
     {
       "name": "react-native-onboarding-engine",
