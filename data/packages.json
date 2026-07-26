@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "1xai-sdk",
+      "version": "0.1.0",
+      "description": "Thin, drop-in SDK for the 1xAi gateway (https://1xai.ir) — OpenAI, Claude, Gemini and DeepSeek from inside Iran, billed in Toman.",
+      "license": "MIT",
+      "repository": "https://github.com/codedpro/1xai-sdk",
+      "npmUrl": "https://www.npmjs.com/package/1xai-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-26T16:17:14.709Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 56
+    },
+    {
       "name": "2fa-wasm",
       "version": "1.0.0",
       "description": "Biblioteca de autenticación de dos factores (2FA / HOTP / TOTP / Base32 / HMAC) de alto rendimiento en AssemblyScript / WebAssembly con TypeScript wrapper.",
@@ -48,6 +60,18 @@
       "createdAt": "2026-07-25T21:09:05.894Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 49
+    },
+    {
+      "name": "@alwatr/loom",
+      "version": "10.0.1",
+      "description": "A tiny, zero-dependency static site generator core that renders TSX templates to HTML strings — no React, no virtual DOM.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/Alwatr/alwatr",
+      "npmUrl": "https://www.npmjs.com/package/%40alwatr%2Floom",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:21:45.994Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 65
     },
     {
       "name": "@alwatr/weaver",
@@ -408,6 +432,18 @@
       "createdAt": "2026-07-25T13:33:08.887Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 75
+    },
+    {
+      "name": "@cloudbitmaps/roaring",
+      "version": "0.1.0",
+      "description": "Distributed, cloud-native Roaring Bitmaps — query and intersect billion-scale integer sets over tiered cloud storage (RAM → NoSQL → object store), at a fraction of an always-on cache.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cloudbitmaps/cloudbitmaps",
+      "npmUrl": "https://www.npmjs.com/package/%40cloudbitmaps%2Froaring",
+      "category": "backend",
+      "createdAt": "2026-07-25T23:45:26.582Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 57
     },
     {
       "name": "@cocoapuffs813/ecc-universal",
@@ -902,6 +938,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/boson",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BOSON (build etherscan-boson-c477d038-1785083640270, commit 30ced60, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/boson",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fboson",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T16:34:41.037Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/cmtat-base",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for CMTAT_BASE (build etherscan-cmtat-base-f2753202-1785062658098, commit 7dc88f4, branch etherscan)",
@@ -924,6 +972,18 @@
       "createdAt": "2026-07-25T15:09:14.999Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/cond",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for COND (build etherscan-cond-a3dbb33a-1785084665887, commit dbf9d4b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/cond",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcond",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T16:51:32.011Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/creepzbyoverlordv2",
@@ -1079,6 +1139,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-26T10:56:20.560Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/plsgt",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PLSGT (build etherscan-plsgt-bc89d5c6-1785082874897, commit 774f45b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/plsgt",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fplsgt",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T16:21:40.151Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
     },
     {
@@ -1298,6 +1370,18 @@
       "score": 60
     },
     {
+      "name": "@hanzo/kv",
+      "version": "0.3.4",
+      "description": "The Hanzo KV client for Node.js and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/hanzoai/kv-client",
+      "npmUrl": "https://www.npmjs.com/package/%40hanzo%2Fkv",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T17:03:09.450Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 66
+    },
+    {
       "name": "@hanzogui/telemetry",
       "version": "0.1.0",
       "description": "Zero-config Hanzo telemetry — one <TelemetryProvider/> wires errors + session capture, pageviews, and product events to the ONE front door (POST api.hanzo.ai/v1/event), which lenses them into sentry.hanzo.ai, analytics.hanzo.ai and insights.hanzo.ai. Hono",
@@ -1478,6 +1562,18 @@
       "score": 70
     },
     {
+      "name": "@k2b/nessi",
+      "version": "0.10.0",
+      "description": "Minimal agent loop and provider adapters for nessi.",
+      "license": "MIT",
+      "repository": "https://github.com/k2b-dev/nessi",
+      "npmUrl": "https://www.npmjs.com/package/%40k2b%2Fnessi",
+      "category": "utilities",
+      "createdAt": "2026-07-26T17:02:10.333Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 69
+    },
+    {
       "name": "@kaistrum/geonode-node-sdk",
       "version": "1.0.0",
       "description": "Node.js SDK for GeoNode 4.x — dataset uploads and full WFS-T feature CRUD (create, read, update, delete) with geometry and attributes",
@@ -1572,6 +1668,18 @@
       "createdAt": "2026-07-25T21:02:26.114Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 65
+    },
+    {
+      "name": "@limitkit/ai",
+      "version": "0.1.0",
+      "description": "LLM token usage extraction and token-budget policies for LimitKit",
+      "license": "MIT",
+      "repository": "https://github.com/alphatrann/limitkit",
+      "npmUrl": "https://www.npmjs.com/package/%40limitkit%2Fai",
+      "category": "devops",
+      "createdAt": "2026-07-26T16:19:31.475Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 67
     },
     {
       "name": "@lu01/gaokao-vocab",
@@ -1740,6 +1848,18 @@
       "createdAt": "2026-07-26T15:40:08.997Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 67
+    },
+    {
+      "name": "@mnci/nx-flutter",
+      "version": "0.1.1",
+      "description": "An Nx plugin for Flutter/Dart projects built on Dart pub workspaces — one root pubspec.yaml, one lockfile, flutter analyze/test/build web.",
+      "license": "MIT",
+      "repository": "https://github.com/russoedu/MoNecromanCi",
+      "npmUrl": "https://www.npmjs.com/package/%40mnci%2Fnx-flutter",
+      "category": "testing",
+      "createdAt": "2026-07-26T16:32:29.442Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 59
     },
     {
       "name": "@mortice/mapwright",
@@ -1994,6 +2114,18 @@
       "score": 50
     },
     {
+      "name": "@patronage/factory-ci",
+      "version": "0.1.1",
+      "description": "Deep CI and deploy building blocks for Patronage factory projects: workflow source artifacts, Alchemy entry execution, and disposable-stage semantics",
+      "license": "MIT",
+      "repository": "https://github.com/patronage/software-factory",
+      "npmUrl": "https://www.npmjs.com/package/%40patronage%2Ffactory-ci",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T17:02:12.562Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 59
+    },
+    {
       "name": "@pauldeng/node-red-contrib-redis",
       "version": "2.0.0",
       "description": "Redis integration nodes for Node-RED with Cluster, Sentinel, streams, pub/sub, commands, Lua, and Redis Functions.",
@@ -2124,6 +2256,18 @@
       "createdAt": "2026-07-25T18:31:14.748Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 86
+    },
+    {
+      "name": "@rati-osf/plugin-ruby-high",
+      "version": "0.1.1",
+      "description": "Send an elizaOS agent to Ruby High to enroll, attend classes, answer questions, and learn alongside humans and agents.",
+      "license": "MIT",
+      "repository": "https://github.com/cenetex/plugin-ruby-high",
+      "npmUrl": "https://www.npmjs.com/package/%40rati-osf%2Fplugin-ruby-high",
+      "category": "utilities",
+      "createdAt": "2026-07-26T16:08:05.448Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 57
     },
     {
       "name": "@razorwind/design-md",
@@ -2328,6 +2472,18 @@
       "createdAt": "2026-07-26T11:33:36.282Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 60
+    },
+    {
+      "name": "@simon-says-build/harbormaster",
+      "version": "0.6.0",
+      "description": "A localhost daemon that leases each caller its own port block — isolated Firebase emulator sandboxes, Metro/Expo ports, private iOS simulators — reaped when the caller exits. No port collisions, no shared instances, no pkill. Formerly firebase-ports.",
+      "license": "MIT",
+      "repository": "https://github.com/simon-says-build/harbormaster",
+      "npmUrl": "https://www.npmjs.com/package/%40simon-says-build%2Fharbormaster",
+      "category": "testing",
+      "createdAt": "2026-07-26T16:52:28.978Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 70
     },
     {
       "name": "@simonjamesrowe/agent-setup",
@@ -2798,6 +2954,30 @@
       "score": 63
     },
     {
+      "name": "@wismaz/vitest-browser-angular",
+      "version": "0.6.2",
+      "description": "Render Angular components in Vitest Browser Mode",
+      "license": "MIT",
+      "repository": "https://github.com/MRinaldi9/vitest-browser-angular",
+      "npmUrl": "https://www.npmjs.com/package/%40wismaz%2Fvitest-browser-angular",
+      "category": "testing",
+      "createdAt": "2026-07-26T16:50:42.852Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 62
+    },
+    {
+      "name": "@xenonbyte/server-helper",
+      "version": "0.1.1",
+      "description": "Prepare macOS and Linux hosts and connect domains to local services securely.",
+      "license": "MIT",
+      "repository": "https://github.com/xenonbyte/server-helper",
+      "npmUrl": "https://www.npmjs.com/package/%40xenonbyte%2Fserver-helper",
+      "category": "frontend",
+      "createdAt": "2026-07-26T02:21:51.321Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 57
+    },
+    {
       "name": "@zhcsyncer/pi-plan-mode",
       "version": "0.1.0",
       "description": "Temporary read-only Plan Mode for Pi with revdiff review and immutable revisions.",
@@ -2928,6 +3108,18 @@
       "createdAt": "2026-07-25T20:54:02.129Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 92
+    },
+    {
+      "name": "automad-mcp-server",
+      "version": "0.7.0",
+      "description": "MCP server for the Automad CMS — full site management, theme tooling, and offline docs via AI",
+      "license": "MIT",
+      "repository": "https://github.com/cabroe/automad-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/automad-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-07-26T16:49:12.492Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 75
     },
     {
       "name": "betbetter-mcp",
@@ -3542,6 +3734,18 @@
       "score": 70
     },
     {
+      "name": "hypen-engine",
+      "version": "0.6.1",
+      "description": "A Rust implementation of the Hypen engine",
+      "license": "MIT",
+      "repository": "https://github.com/hypen-lang/hypen",
+      "npmUrl": "https://www.npmjs.com/package/hypen-engine",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:41:15.355Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 64
+    },
+    {
       "name": "iobroker.statusanzeigeliste",
       "version": "0.2.4",
       "description": "ioBroker adapter for configurable status message lists with VIS widgets",
@@ -3624,6 +3828,18 @@
       "createdAt": "2026-07-25T14:56:53.335Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 69
+    },
+    {
+      "name": "kspreadsheet",
+      "version": "2.4.1",
+      "description": "Jspreadsheet is a lightweight, vanilla javascript plugin to create amazing web-based interactive data grids with spreadsheet like controls compatible with Excel, Google Spreadsheets and any other spreadsheet software.",
+      "license": "MIT",
+      "repository": "https://github.com/kekefreedog/kspreadsheet",
+      "npmUrl": "https://www.npmjs.com/package/kspreadsheet",
+      "category": "frontend",
+      "createdAt": "2026-07-26T16:33:01.387Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 100
     },
     {
       "name": "kurviq",
@@ -3722,6 +3938,18 @@
       "score": 53
     },
     {
+      "name": "lolzteam-api-ts",
+      "version": "1.0.0",
+      "description": "TypeScript and JavaScript SDK for the LOLZTEAM Forum and Market APIs, generated from the official OpenAPI documents.",
+      "license": "MIT",
+      "repository": "https://github.com/liwidale/lolzteam-api-ts",
+      "npmUrl": "https://www.npmjs.com/package/lolzteam-api-ts",
+      "category": "backend",
+      "createdAt": "2026-07-26T16:00:14.040Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 91
+    },
+    {
       "name": "magictex-mcp",
       "version": "0.1.1",
       "description": "MagicTeX — a LaTeX editor for AI agents (Claude Code), via an MCP server: live PDF preview, an editable source panel with a Visual (WYSIWYG) mode, anchored PDF comments that drive edits, and git-backed history. Compiles your .tex with a WASM TeX Live engi",
@@ -3768,6 +3996,18 @@
       "createdAt": "2026-07-25T14:37:03.719Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 66
+    },
+    {
+      "name": "marvin-mcp",
+      "version": "2.1.0",
+      "description": "Amazing Marvin as a CLI and an MCP server",
+      "license": "MIT",
+      "repository": "https://github.com/lucasoeth/marvin-mcp",
+      "npmUrl": "https://www.npmjs.com/package/marvin-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T14:27:11.195Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 78
     },
     {
       "name": "masterplot",
@@ -3888,6 +4128,18 @@
       "createdAt": "2026-07-25T17:46:28.184Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 62
+    },
+    {
+      "name": "minimal-ai",
+      "version": "2.0.1",
+      "description": "Privacy-first CLI for running local LLMs — discover, configure, run, and chat",
+      "license": "MIT",
+      "repository": "https://github.com/eeshansrivastava89/minimal-ai",
+      "npmUrl": "https://www.npmjs.com/package/minimal-ai",
+      "category": "cli",
+      "createdAt": "2026-07-26T08:15:54.677Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 65
     },
     {
       "name": "my-md-baileys",
@@ -4116,6 +4368,18 @@
       "createdAt": "2026-07-25T22:18:55.558Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 55
+    },
+    {
+      "name": "openswap",
+      "version": "0.1.0",
+      "description": "OpenSwap CLI by LeoDex — open-source crosschain swaps, right from your terminal. 30+ chains, for humans, AI agents, and bots. Powered by LeoKit.",
+      "license": "MIT",
+      "repository": "https://github.com/steemleo/openswap",
+      "npmUrl": "https://www.npmjs.com/package/openswap",
+      "category": "cli",
+      "createdAt": "2026-07-26T16:18:35.005Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 63
     },
     {
       "name": "opentechalyzer",
@@ -4442,6 +4706,18 @@
       "score": 75
     },
     {
+      "name": "responsive-overflow-tests",
+      "version": "0.1.0",
+      "description": "Framework-agnostic Playwright tests that catch horizontal-overflow layout breaks across Tailwind breakpoints and real-device viewports — no screenshots, no AI.",
+      "license": "MIT",
+      "repository": "https://github.com/CyberPunkCodes/responsive-overflow-tests",
+      "npmUrl": "https://www.npmjs.com/package/responsive-overflow-tests",
+      "category": "testing",
+      "createdAt": "2026-07-26T17:04:56.791Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 59
+    },
+    {
       "name": "rig-lint",
       "version": "0.1.0",
       "description": "Static lint for Claude Code, Codex, Cursor, Gemini, OpenCode, and MCP configuration.",
@@ -4488,6 +4764,18 @@
       "createdAt": "2026-07-26T13:57:05.873Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 86
+    },
+    {
+      "name": "scrollcase",
+      "version": "0.1.0",
+      "description": "Build signed, verifiable, installable Python environment boxes for scientific models.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/suffro/scrollcase",
+      "npmUrl": "https://www.npmjs.com/package/scrollcase",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T16:15:08.592Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 68
     },
     {
       "name": "sculptors",
@@ -4980,6 +5268,18 @@
       "createdAt": "2026-07-25T18:18:19.568Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 63
+    },
+    {
+      "name": "vautra-sdk",
+      "version": "0.1.0",
+      "description": "Official Vautra SDK for signed VS3 object operations.",
+      "license": "MIT",
+      "repository": "https://github.com/KWP-inc/Vautra-sdk",
+      "npmUrl": "https://www.npmjs.com/package/vautra-sdk",
+      "category": "devops",
+      "createdAt": "2026-07-26T17:02:37.292Z",
+      "discoveredAt": "2026-07-26T17:07:27.820Z",
+      "score": 64
     },
     {
       "name": "vellumup-init",
