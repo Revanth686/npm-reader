@@ -170,6 +170,18 @@
       "score": 57
     },
     {
+      "name": "@bard_philosopher/codegraph",
+      "version": "1.5.1",
+      "description": "Local-first code intelligence for AI agents (MCP). Self-contained — bundles its own runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/bardphilosopher/codegraph",
+      "npmUrl": "https://www.npmjs.com/package/%40bard_philosopher%2Fcodegraph",
+      "category": "utilities",
+      "createdAt": "2026-07-26T05:38:01.857Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 69
+    },
+    {
       "name": "@bigblueboo/expert",
       "version": "0.1.0",
       "description": "A blocking GPT-5.6 Pro consultation CLI for agents.",
@@ -204,6 +216,18 @@
       "createdAt": "2026-07-25T19:23:12.640Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 60
+    },
+    {
+      "name": "@buildaureon/mcp",
+      "version": "0.1.1",
+      "description": "MCP server for AUREON Financial Compass: Financial Compass capital context for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/buildaureon/aureon-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40buildaureon%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T07:33:36.116Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 70
     },
     {
       "name": "@byline/db-mysql",
@@ -1202,6 +1226,18 @@
       "score": 81
     },
     {
+      "name": "@miadi/ava8",
+      "version": "0.2.0",
+      "description": "The Ava8 symphony as a Miadi package — umbrella re-export of the ABC core, abcjs binding and React layer, plus the ava8 CLI (render, tunebook, midi, symphony, serve) and a standalone symphony server. ESM only.",
+      "license": "MIT",
+      "repository": "https://github.com/jgwill/Miadi",
+      "npmUrl": "https://www.npmjs.com/package/%40miadi%2Fava8",
+      "category": "frontend",
+      "createdAt": "2026-07-26T06:45:42.223Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 86
+    },
+    {
       "name": "@miadi/ava8-abcjs",
       "version": "0.1.0",
       "description": "The abcjs binding for Ava8: one score renderer with a pluggable loader (module/global/cdn/inject), synth playback with a leak-free lifecycle, ABC->MIDI bytes, and iOS audio unlock. Runs in a browser and, with jsdom, in bare node.",
@@ -1236,6 +1272,18 @@
       "createdAt": "2026-07-26T05:05:10.169Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 77
+    },
+    {
+      "name": "@misakiwww/gmod-vibe-coding",
+      "version": "0.1.1",
+      "description": "Generic AI-coding collaboration harness skeleton (Trellis workflow + cross-platform agents/skills/hooks). GMod profile, GitNexus, and MCP integrations are layered on by separate add scripts.",
+      "license": "MIT",
+      "repository": "https://github.com/misakiwww/gmod-vibe-coding",
+      "npmUrl": "https://www.npmjs.com/package/%40misakiwww%2Fgmod-vibe-coding",
+      "category": "data",
+      "createdAt": "2026-07-26T07:18:28.215Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 70
     },
     {
       "name": "@mortice/mapwright",
@@ -1346,6 +1394,18 @@
       "score": 56
     },
     {
+      "name": "@nithin-npm/secretguard",
+      "version": "1.0.0",
+      "description": "A CLI tool that scans codebases and git history for leaked secrets — API keys, tokens, credentials, and private keys — using regex pattern matching and entropy analysis.",
+      "license": "ISC",
+      "repository": "https://github.com/NITHIN777-DOTCOM/SecretGuard-CLI",
+      "npmUrl": "https://www.npmjs.com/package/%40nithin-npm%2Fsecretguard",
+      "category": "backend",
+      "createdAt": "2026-07-26T07:57:14.354Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 78
+    },
+    {
       "name": "@nitro-bolt/scratchblocks",
       "version": "1.0.0",
       "description": "Make pictures of Scratch blocks from text.",
@@ -1380,6 +1440,30 @@
       "createdAt": "2026-07-25T12:38:14.522Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 63
+    },
+    {
+      "name": "@okeav/idp-core",
+      "version": "0.1.0",
+      "description": "Standalone, pluggable identity provider for Node.js/TypeScript backends — OAuth2/OIDC authorization server, password + MFA + social login, session management, and service-to-service JWKS trust. Bring your own MongoDB.",
+      "license": "MIT",
+      "repository": "https://github.com/adaptiveedge/IdentityProvider",
+      "npmUrl": "https://www.npmjs.com/package/%40okeav%2Fidp-core",
+      "category": "backend",
+      "createdAt": "2026-07-26T06:10:06.722Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 86
+    },
+    {
+      "name": "@okeav/rbac-core",
+      "version": "0.1.0",
+      "description": "Standalone, pluggable RBAC engine for Node.js/TypeScript backends — accountType/accountSubType/role/userType/capabilities permission model, wildcard scope matching, and framework middleware. Bring your own scope catalogue and identity claims.",
+      "license": "MIT",
+      "repository": "https://github.com/okeav/rbac",
+      "npmUrl": "https://www.npmjs.com/package/%40okeav%2Frbac-core",
+      "category": "backend",
+      "createdAt": "2026-07-26T07:03:35.170Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 79
     },
     {
       "name": "@oneinboxai/voice-sdk",
@@ -1682,6 +1766,18 @@
       "score": 69
     },
     {
+      "name": "@soreniverson/doink",
+      "version": "0.1.0",
+      "description": "A deterministic, agent-shaped browser SDK over Playwright: plain selectors are free and never call an LLM, the LLM path is an explicit cached ai() call, and every failure is an obsessive, replayable error that tells you what to fix.",
+      "license": "MIT",
+      "repository": "https://github.com/soreniverson/doink",
+      "npmUrl": "https://www.npmjs.com/package/%40soreniverson%2Fdoink",
+      "category": "testing",
+      "createdAt": "2026-07-26T07:41:26.906Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 71
+    },
+    {
       "name": "@stone-js/i18n",
       "version": "0.8.6",
       "description": "Framework-agnostic, cloud-native i18n for Stone.js. Zero-config: drop your translations in app/i18n/<lang>/ and use them identically on the backend and the frontend. Powered by i18next.",
@@ -1740,6 +1836,18 @@
       "createdAt": "2026-07-25T18:51:06.132Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 59
+    },
+    {
+      "name": "@sz.ws/cms",
+      "version": "0.2.1",
+      "description": "CLI for sz.ws CMS — `setup` wires the repo to your Cloudflare account, `add` installs code extensions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sz-ws/cms",
+      "npmUrl": "https://www.npmjs.com/package/%40sz.ws%2Fcms",
+      "category": "cli",
+      "createdAt": "2026-07-26T06:48:41.171Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 74
     },
     {
       "name": "@tabcommerceio/cross-sell-sdk",
@@ -2246,6 +2354,18 @@
       "score": 65
     },
     {
+      "name": "crux-axi",
+      "version": "1.0.0",
+      "description": "HTML is the new markdown. Crux is the new editor for your HTML artifacts.",
+      "license": "MIT",
+      "repository": "https://github.com/atz-dsampath/dj-crux-axi",
+      "npmUrl": "https://www.npmjs.com/package/crux-axi",
+      "category": "cli",
+      "createdAt": "2026-07-26T06:11:57.814Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 79
+    },
+    {
       "name": "cubest",
       "version": "0.1.0",
       "description": "Single-pass OLAP aggregator over any text stream (code, logs, CSV, JSONL, XML, SDD artefacts) → 12 output formats including ECharts HTML. Token-cheap alternative to grep+cat chains for LLM agents. npm wrapper — installs Python cubest via pipx or delegates",
@@ -2280,6 +2400,18 @@
       "createdAt": "2026-07-25T16:37:06.502Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 59
+    },
+    {
+      "name": "dj-atlassian-axi",
+      "version": "0.1.0",
+      "description": "Jira and Confluence over the shell - AXI-standard agent-facing CLI for the Atlassian Cloud REST API.",
+      "license": "MIT",
+      "repository": "https://github.com/atz-dsampath/dj-atlassian-axi",
+      "npmUrl": "https://www.npmjs.com/package/dj-atlassian-axi",
+      "category": "backend",
+      "createdAt": "2026-07-26T08:04:46.713Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 74
     },
     {
       "name": "elizaos-plugin-gate402",
@@ -2510,6 +2642,18 @@
       "score": 70
     },
     {
+      "name": "iobroker.statusanzeigeliste",
+      "version": "0.2.4",
+      "description": "ioBroker adapter for configurable status message lists with VIS widgets",
+      "license": "MIT",
+      "repository": "https://github.com/TheBam1990/ioBroker.statusanzeigeliste",
+      "npmUrl": "https://www.npmjs.com/package/iobroker.statusanzeigeliste",
+      "category": "utilities",
+      "createdAt": "2026-07-26T07:10:04.918Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 69
+    },
+    {
       "name": "kanpai-toast",
       "version": "0.1.0",
       "description": "Dependency-free, accessible toast notifications. No framework required.",
@@ -2532,6 +2676,18 @@
       "createdAt": "2026-07-25T16:03:10.263Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 100
+    },
+    {
+      "name": "keiri-core",
+      "version": "1.1.1",
+      "description": "日本の給与・税・社会保険の計算ロジック（DOM非依存の純関数）。手取り・社会保険料・源泉徴収・住民税・ふるさと納税・iDeCo/小規模企業共済などの節税額・相続/贈与税ほか34種。公式の計算例・保険料額表と1銭まで照合したテスト付き。keiri-tools.com の計算エンジンそのもの。",
+      "license": "MIT",
+      "repository": "https://github.com/fiestared/keiri-core",
+      "npmUrl": "https://www.npmjs.com/package/keiri-core",
+      "category": "frontend",
+      "createdAt": "2026-07-26T06:29:39.284Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 69
     },
     {
       "name": "kracked-core",
@@ -2726,6 +2882,18 @@
       "score": 59
     },
     {
+      "name": "n8n-nodes-whatsapp-advanced",
+      "version": "1.0.0",
+      "description": "Advanced WhatsApp Business node for n8n: template-aware variable fields, Cloud API and Marketing Messages API endpoint routing, and full Meta error-code handling with delivery-status parsing.",
+      "license": "MIT",
+      "repository": "https://github.com/AakashKhambhaliya/n8n-nodes-whatsapp-advanced",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-whatsapp-advanced",
+      "category": "backend",
+      "createdAt": "2026-07-26T07:19:40.693Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 85
+    },
+    {
       "name": "next-blogpanel",
       "version": "1.0.0",
       "description": "A drop-in blog engine for Next.js — admin panel, block editor, SEO, and media, all backed by your own MongoDB.",
@@ -2736,6 +2904,18 @@
       "createdAt": "2026-07-25T15:50:44.502Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 89
+    },
+    {
+      "name": "next-smart-router",
+      "version": "0.1.0",
+      "description": "Filesystem-style routing helpers for the Next.js App Router: relative navigation, auto-generated route manifests, typed params, breadcrumbs and safe back.",
+      "license": "MIT",
+      "repository": "https://github.com/SagarJadhavWebDev/next-smart-router",
+      "npmUrl": "https://www.npmjs.com/package/next-smart-router",
+      "category": "frontend",
+      "createdAt": "2026-07-26T08:11:20.265Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 81
     },
     {
       "name": "nextjs-loader",
@@ -2834,6 +3014,18 @@
       "score": 62
     },
     {
+      "name": "package-contract",
+      "version": "1.0.0",
+      "description": "Test the npm package your users actually install.",
+      "license": "MIT",
+      "repository": "https://github.com/alexberriman/package-contract",
+      "npmUrl": "https://www.npmjs.com/package/package-contract",
+      "category": "testing",
+      "createdAt": "2026-07-26T07:44:16.779Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 78
+    },
+    {
       "name": "payload-plugin-socials",
       "version": "0.9.3",
       "description": "Multi-platform social publishing plugin for Payload CMS — Pinterest, Instagram Business, Facebook Pages, Google Business Profile",
@@ -2868,6 +3060,18 @@
       "createdAt": "2026-07-25T19:41:10.688Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 53
+    },
+    {
+      "name": "pi-graphiti",
+      "version": "0.4.0",
+      "description": "🕸️ Persistent knowledge graph for Pi via Graphiti MCP. Ambient recall, automatic episode writes on session events, /graph command.",
+      "license": "MIT",
+      "repository": "https://github.com/p2c2e/pi-graphiti",
+      "npmUrl": "https://www.npmjs.com/package/pi-graphiti",
+      "category": "utilities",
+      "createdAt": "2026-07-26T06:53:15.005Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 80
     },
     {
       "name": "pi-io-tools",
@@ -2930,6 +3134,18 @@
       "score": 64
     },
     {
+      "name": "presentator",
+      "version": "1.4.0",
+      "description": "Zero-dependency Swiss/editorial HTML presentation generator. 12 layouts, 8 animations, canvas waves, cursor FX, KaTeX, Mermaid. JSON or Markdown input, single index.html output.",
+      "license": "MIT",
+      "repository": "https://github.com/devsimsek/presentator",
+      "npmUrl": "https://www.npmjs.com/package/presentator",
+      "category": "utilities",
+      "createdAt": "2026-07-26T08:11:25.592Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 76
+    },
+    {
       "name": "project-brain-protocol",
       "version": "1.0.0",
       "description": "Lightweight, cross-agent second-brain protocol for vibe-coded projects. Automatically maintained by AI coding agents.",
@@ -2952,6 +3168,18 @@
       "createdAt": "2026-07-25T20:22:59.484Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 75
+    },
+    {
+      "name": "rn-sim-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for React Native iOS simulator work. Composes XcodeBuildMCP and ios-simulator-mcp behind one curated tool surface, and adds the React component tree, resolved styles and layout audit tools neither of them has.",
+      "license": "MIT",
+      "repository": "https://github.com/atz-dsampath/rn-sim-mcp",
+      "npmUrl": "https://www.npmjs.com/package/rn-sim-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-26T06:12:39.379Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 90
     },
     {
       "name": "scorm-mcp-server",
@@ -3036,6 +3264,18 @@
       "createdAt": "2026-07-25T14:38:34.858Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "sk-nodeexpress",
+      "version": "1.0.1",
+      "description": "Production-ready Node.js & TypeScript Express boilerplate code generator with Authentication, Database, Security & Best Practices pre-configured.",
+      "license": "MIT",
+      "repository": "https://github.com/kumarshobhit-1/sk-nodeexpress",
+      "npmUrl": "https://www.npmjs.com/package/sk-nodeexpress",
+      "category": "backend",
+      "createdAt": "2026-07-26T05:49:17.718Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 76
     },
     {
       "name": "sphere-visual-lab",
@@ -3182,6 +3422,18 @@
       "score": 80
     },
     {
+      "name": "typeorm-strong-migrations",
+      "version": "0.1.4",
+      "description": "Catch unsafe TypeORM migrations in development",
+      "license": "MIT",
+      "repository": "https://github.com/GoodForNothingTech/typeorm-strong-migrations",
+      "npmUrl": "https://www.npmjs.com/package/typeorm-strong-migrations",
+      "category": "data",
+      "createdAt": "2026-07-26T07:35:29.982Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 74
+    },
+    {
       "name": "ultimate-agent-stack",
       "version": "0.1.0",
       "description": "A guarded, project-adaptive agent workflow from idea through verified review closure.",
@@ -3192,6 +3444,18 @@
       "createdAt": "2026-07-26T04:21:55.755Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 72
+    },
+    {
+      "name": "universal-datetime-picker",
+      "version": "2.0.0",
+      "description": "Universal date, time, datetime, and range picker for React, Vue, Svelte, Angular, vanilla JS, and CDN — accessible, TypeScript, dayjs, CSS themes",
+      "license": "MIT",
+      "repository": "https://github.com/Bhardwaj-Raghav/universal-datetime-picker",
+      "npmUrl": "https://www.npmjs.com/package/universal-datetime-picker",
+      "category": "frontend",
+      "createdAt": "2026-07-26T07:46:50.326Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 94
     },
     {
       "name": "unport-cli",
@@ -3254,6 +3518,30 @@
       "score": 63
     },
     {
+      "name": "verihook",
+      "version": "1.0.1",
+      "description": "Universal typed webhook verifier for Stripe, GitHub, Shopify, Slack, Twilio, Svix, Linear, Razorpay, Zoom, and custom providers.",
+      "license": "MIT",
+      "repository": "https://github.com/creatorpiyush/verihook",
+      "npmUrl": "https://www.npmjs.com/package/verihook",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T07:32:50.295Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 85
+    },
+    {
+      "name": "vibemovie",
+      "version": "0.1.1",
+      "description": "Your agent coding session as a short recap video — Hyperframes (HTML/CSS/JS) with zero gen-video keys, or your own video model. For Claude Code, Codex, Gemini, and other agentic CLIs. Local-first.",
+      "license": "MIT",
+      "repository": "https://github.com/pooriaarab/vibemovie",
+      "npmUrl": "https://www.npmjs.com/package/vibemovie",
+      "category": "frontend",
+      "createdAt": "2026-07-26T06:31:13.383Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 72
+    },
+    {
       "name": "vite-plugin-grundlage",
       "version": "0.1.0",
       "description": "Vite plugin that prerenders grundlage web components to declarative shadow DOM at build time.",
@@ -3276,6 +3564,18 @@
       "createdAt": "2026-07-25T21:35:45.544Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 78
+    },
+    {
+      "name": "whydone",
+      "version": "1.0.0",
+      "description": "Repo-committed decision log for AI coding agents (ADR × worklog): /log and /recall skills for Claude Code plus a deterministic CLI. Survives git clone, reviewable in PRs.",
+      "license": "MIT",
+      "repository": "https://github.com/chevgan/whydone",
+      "npmUrl": "https://www.npmjs.com/package/whydone",
+      "category": "cli",
+      "createdAt": "2026-07-26T06:10:43.528Z",
+      "discoveredAt": "2026-07-26T08:11:30.990Z",
+      "score": 97
     },
     {
       "name": "widdershins-reborn",
