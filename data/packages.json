@@ -254,6 +254,18 @@
       "score": 81
     },
     {
+      "name": "@captain09/blueprint",
+      "version": "0.1.2",
+      "description": "Generate interactive dependency blueprints for any codebase. Fully local, multi-language, zero config — one self-contained HTML, nothing leaves your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/xCaptaiN09/blueprint",
+      "npmUrl": "https://www.npmjs.com/package/%40captain09%2Fblueprint",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T09:27:15.769Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 72
+    },
+    {
       "name": "@chibi.pl/nest-sequelize-db",
       "version": "0.0.2",
       "description": "NestJS Sequelize DB Module for easy use of databases in NestJS applications",
@@ -458,6 +470,18 @@
       "score": 69
     },
     {
+      "name": "@dmytromykhailiuk/message-queue",
+      "version": "1.0.0",
+      "description": "In-memory message queue with FIFO ordering, message groups, deduplication, retries, processing timeouts and delayed delivery — SQS-flavoured semantics for the browser and Node.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/message-queue",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fmessage-queue",
+      "category": "frontend",
+      "createdAt": "2026-07-26T10:01:52.715Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 88
+    },
+    {
       "name": "@dmytromykhailiuk/typed-local-storage",
       "version": "1.0.0",
       "description": "Typed localStorage with initial values, groups and cross-tab subscriptions. SSR-safe, dependency-free, a few hundred bytes.",
@@ -468,6 +492,18 @@
       "createdAt": "2026-07-25T15:20:17.869Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 78
+    },
+    {
+      "name": "@duskel/cassette",
+      "version": "0.1.0",
+      "description": "Deterministic record/replay for LLM and tool calls, recorded at the SDK boundary instead of the socket.",
+      "license": "MIT",
+      "repository": "https://github.com/duskel/cassette",
+      "npmUrl": "https://www.npmjs.com/package/%40duskel%2Fcassette",
+      "category": "testing",
+      "createdAt": "2026-07-26T09:53:23.003Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 80
     },
     {
       "name": "@exellix/ai-tasks-docs",
@@ -492,6 +528,42 @@
       "createdAt": "2026-07-25T20:00:48.741Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 65
+    },
+    {
+      "name": "@fft-visualizer/core",
+      "version": "0.5.0",
+      "description": "Framework-agnostic, WebGL-based real-time audio spectrum analyzer / FFT visualizer — a vanilla TypeScript class. Powers @fft-visualizer/vue.",
+      "license": "MIT",
+      "repository": "https://github.com/harmonics-audio/fft-visualizer",
+      "npmUrl": "https://www.npmjs.com/package/%40fft-visualizer%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-07-26T09:59:55.811Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 84
+    },
+    {
+      "name": "@fft-visualizer/react",
+      "version": "0.5.0",
+      "description": "A high-performance, WebGL-based real-time audio spectrum analyzer and FFT visualizer component for React — microphone, tab/system audio, WebSocket, or your own Web Audio data",
+      "license": "MIT",
+      "repository": "https://github.com/harmonics-audio/fft-visualizer",
+      "npmUrl": "https://www.npmjs.com/package/%40fft-visualizer%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-26T10:02:36.437Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 87
+    },
+    {
+      "name": "@fft-visualizer/vue",
+      "version": "0.5.0",
+      "description": "A high-performance, WebGL-based real-time audio spectrum analyzer and FFT visualizer component for Vue 3 — microphone, tab/system audio, WebSocket, or your own Web Audio data",
+      "license": "MIT",
+      "repository": "https://github.com/harmonics-audio/fft-visualizer",
+      "npmUrl": "https://www.npmjs.com/package/%40fft-visualizer%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-07-26T10:04:15.403Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 87
     },
     {
       "name": "@fidacy/openai-agents",
@@ -974,6 +1046,18 @@
       "score": 73
     },
     {
+      "name": "@idle-runner/react",
+      "version": "1.1.0",
+      "description": "React hooks for @idle-runner/core — defer and time-slice non-urgent work on the main thread.",
+      "license": "MIT",
+      "repository": "https://github.com/PavelLazarchuk/idle-runner-react",
+      "npmUrl": "https://www.npmjs.com/package/%40idle-runner%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-26T08:16:36.031Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 86
+    },
+    {
       "name": "@igor-guari/pi-flow",
       "version": "0.2.0",
       "description": "Orquestrador seguro e auditável para workflows de implementação sobre o SDK do Pi.",
@@ -1068,6 +1152,18 @@
       "createdAt": "2026-07-25T13:41:59.439Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 81
+    },
+    {
+      "name": "@kavtuai/guildgate",
+      "version": "0.1.1",
+      "description": "Security and control primitives for Discord bot dashboards.",
+      "license": "MIT",
+      "repository": "https://github.com/Kavtuai/guildgate",
+      "npmUrl": "https://www.npmjs.com/package/%40kavtuai%2Fguildgate",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T08:31:03.293Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 71
     },
     {
       "name": "@keverdjs/node",
@@ -1188,6 +1284,18 @@
       "createdAt": "2026-07-25T22:58:47.141Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 55
+    },
+    {
+      "name": "@mariczne/pi-power-user",
+      "version": "0.17.2",
+      "description": "Power-user toolkit extension for pi coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/mariczne/pi-power-user",
+      "npmUrl": "https://www.npmjs.com/package/%40mariczne%2Fpi-power-user",
+      "category": "utilities",
+      "createdAt": "2026-07-26T08:24:18.078Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 74
     },
     {
       "name": "@mastersoon1754-ui/mcpsec",
@@ -1358,6 +1466,18 @@
       "score": 57
     },
     {
+      "name": "@neerajvipparla/agentbridge",
+      "version": "0.1.0",
+      "description": "Fork Claude Code chat sessions into OpenCode and back, versioned as local git commits. A bidirectional Claude Code <-> OpenCode context bridge.",
+      "license": "MIT",
+      "repository": "https://github.com/neerajvipparla/Agentbridge",
+      "npmUrl": "https://www.npmjs.com/package/%40neerajvipparla%2Fagentbridge",
+      "category": "cli",
+      "createdAt": "2026-07-26T09:49:31.092Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 75
+    },
+    {
       "name": "@nera-static/core",
       "version": "4.9.2",
       "description": "The Nera static site generator engine — the build pipeline and the layered theme/view resolver, importable by the Nera CLI, @nera-static/validate and tooling",
@@ -1526,6 +1646,18 @@
       "score": 57
     },
     {
+      "name": "@pritiranjan/hl7v2",
+      "version": "0.1.0",
+      "description": "Parse, query, modify and encode HL7 v2.x messages — zero dependencies, TypeScript native",
+      "license": "MIT",
+      "repository": "https://github.com/hkpritiranjan/hl7v2",
+      "npmUrl": "https://www.npmjs.com/package/%40pritiranjan%2Fhl7v2",
+      "category": "data",
+      "createdAt": "2026-07-26T10:07:27.409Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 78
+    },
+    {
       "name": "@privacyscrubber/core",
       "version": "1.7.0",
       "description": "Zero-Trust Data Sanitization & PII Redaction Engine. 100% Client-Side / Server-Side compatible. No external dependencies.",
@@ -1584,6 +1716,18 @@
       "createdAt": "2026-07-25T18:59:02.288Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 54
+    },
+    {
+      "name": "@quantovainc/qcore",
+      "version": "0.1.3",
+      "description": "Quantova's post quantum client core for JavaScript. Signs with ML-DSA-65 and builds Q1 addresses.",
+      "license": "(Apache-2.0 OR MIT)",
+      "repository": "https://github.com/Quantova/QCore.js",
+      "npmUrl": "https://www.npmjs.com/package/%40quantovainc%2Fqcore",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T08:44:37.490Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 79
     },
     {
       "name": "@rakku-kun/baileys",
@@ -1776,6 +1920,18 @@
       "createdAt": "2026-07-26T07:41:26.906Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 71
+    },
+    {
+      "name": "@sosa.inc/deploy-guard",
+      "version": "1.0.0",
+      "description": "Pre-deployment safety checker — env vars, DB connectivity, git status, deployment windows, and incident checks before you ship.",
+      "license": "MIT",
+      "repository": "https://github.com/prodready/deploy-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40sosa.inc%2Fdeploy-guard",
+      "category": "devops",
+      "createdAt": "2026-07-26T09:26:28.002Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 74
     },
     {
       "name": "@stone-js/i18n",
@@ -2378,6 +2534,18 @@
       "score": 87
     },
     {
+      "name": "cursor-token-saver",
+      "version": "0.10.1",
+      "description": "A cognitive layer for Cursor's AI agent: lossless token savings via a content-addressed evidence store, plus verifiable semantic memory, project world model and skill runbooks. Fully local, zero telemetry. | 给 Cursor agent 的认知层：内容寻址证据库无损省 token；可验证语义记忆、项目",
+      "license": "MIT",
+      "repository": "https://github.com/allengox1994-creator/cursor-token-saver",
+      "npmUrl": "https://www.npmjs.com/package/cursor-token-saver",
+      "category": "backend",
+      "createdAt": "2026-07-26T09:14:14.109Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 90
+    },
+    {
       "name": "devinpipe",
       "version": "0.1.0",
       "description": "Token-saving HTTPS intercepting proxy for Devin CLI: renders bulky context as dense PNGs and uploads them as attachments, cutting input characters/ACU.",
@@ -2546,6 +2714,18 @@
       "score": 61
     },
     {
+      "name": "guacd-ts",
+      "version": "0.1.0",
+      "description": "TypeScript library for bridging WebSocket connections to Apache Guacamole guacd daemon",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/YasushiMatsumoto/guacd-ts",
+      "npmUrl": "https://www.npmjs.com/package/guacd-ts",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T08:35:07.068Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 76
+    },
+    {
       "name": "guardrail-agent",
       "version": "0.1.1",
       "description": "Pre-execution security guards for AI coding agents. EU AI Act ready.",
@@ -2690,6 +2870,18 @@
       "score": 69
     },
     {
+      "name": "kinglobayiiecho-cli-tr",
+      "version": "1.4.0",
+      "description": "Echo CLI — a Claude Code style agentic AI assistant for your terminal. Animated input, skills, plan/auto modes, research, code editing — via the Echo AI gateway.",
+      "license": "MIT",
+      "repository": "https://github.com/BayiiStore/Echo-Cli",
+      "npmUrl": "https://www.npmjs.com/package/kinglobayiiecho-cli-tr",
+      "category": "cli",
+      "createdAt": "2026-07-26T09:38:35.601Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 85
+    },
+    {
       "name": "kracked-core",
       "version": "1.0.0",
       "description": "Zero-dependency memory & workflow installer for AI coding agents — global identity, project memory, and skills that survive session restarts.",
@@ -2700,6 +2892,18 @@
       "createdAt": "2026-07-25T14:56:53.335Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 69
+    },
+    {
+      "name": "kurviq",
+      "version": "1.3.0",
+      "description": "Fast, deterministic raster-to-SVG tracing and SVG authoring for Node.js. WebAssembly, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/tecsteps/kurviq",
+      "npmUrl": "https://www.npmjs.com/package/kurviq",
+      "category": "cli",
+      "createdAt": "2026-07-26T09:07:28.413Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 84
     },
     {
       "name": "l-nexus",
@@ -2736,6 +2940,18 @@
       "createdAt": "2026-07-25T19:57:37.918Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 56
+    },
+    {
+      "name": "linkgravity",
+      "version": "1.0.0",
+      "description": "Discord bot bridge for the Antigravity (agy) CLI, with voice interaction support",
+      "license": "MIT",
+      "repository": "https://github.com/dev-sseul/linkgravity",
+      "npmUrl": "https://www.npmjs.com/package/linkgravity",
+      "category": "cli",
+      "createdAt": "2026-07-26T08:47:53.625Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 71
     },
     {
       "name": "localarena",
@@ -3158,6 +3374,42 @@
       "score": 91
     },
     {
+      "name": "project-loop",
+      "version": "1.0.0",
+      "description": "Closed-loop, evidence-gated build system for AI coding agents. Plan, Spec, Build, Verify — with a separate Judge role that holds the exit gate and issues rework orders until the frozen Definition of Done is met.",
+      "license": "MIT",
+      "repository": "https://github.com/Keilo2025/project-loop",
+      "npmUrl": "https://www.npmjs.com/package/project-loop",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T10:02:35.447Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 100
+    },
+    {
+      "name": "react-talking-avatar",
+      "version": "0.1.1",
+      "description": "Detect a face/avatar from an uploaded or remote image and animate its lips while audio plays (simulated talking).",
+      "license": "MIT",
+      "repository": "https://github.com/omar1Mayallo/edgetts-avatar",
+      "npmUrl": "https://www.npmjs.com/package/react-talking-avatar",
+      "category": "frontend",
+      "createdAt": "2026-07-26T09:30:06.241Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 75
+    },
+    {
+      "name": "renidly",
+      "version": "0.1.0",
+      "description": "The official Node.js & TypeScript SDK for the Renidly B2B professional data APIs (Data, Live, Email, Account).",
+      "license": "MIT",
+      "repository": "https://github.com/renidly/renidly-node",
+      "npmUrl": "https://www.npmjs.com/package/renidly",
+      "category": "backend",
+      "createdAt": "2026-07-26T09:56:53.742Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 75
+    },
+    {
       "name": "repomind-skills",
       "version": "0.2.0",
       "description": "Память проекта для человека и coding-агента: структура docs/, ADR, runbook и семь скиллов для Claude Code и Codex",
@@ -3302,6 +3554,18 @@
       "score": 94
     },
     {
+      "name": "storecheck",
+      "version": "0.1.0",
+      "description": "Chrome Web Store compliance linter for browser extensions. Catch what gets your submission rejected, before you submit.",
+      "license": "MIT",
+      "repository": "https://github.com/duskel/storecheck",
+      "npmUrl": "https://www.npmjs.com/package/storecheck",
+      "category": "frontend",
+      "createdAt": "2026-07-26T09:51:31.810Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 73
+    },
+    {
       "name": "structdelta",
       "version": "1.0.0",
       "description": "Sub-linear, zero-allocation structural diffing and patching engine with Adaptive Merkle Fingerprinting.",
@@ -3324,6 +3588,30 @@
       "createdAt": "2026-07-25T12:40:07.341Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 68
+    },
+    {
+      "name": "svelte-qr-label",
+      "version": "0.1.0",
+      "description": "Svelte 5 component for the QR Label Designer — drag-and-drop label designer with PDF, PNG, and ZPL export.",
+      "license": "MIT",
+      "repository": "https://github.com/shashi089/qr-code-label-designer",
+      "npmUrl": "https://www.npmjs.com/package/svelte-qr-label",
+      "category": "frontend",
+      "createdAt": "2026-07-26T09:10:16.774Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 73
+    },
+    {
+      "name": "teamcodex",
+      "version": "1.0.0",
+      "description": "One local proxy for both Claude Code and Codex. Quota-aware account rotation, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/sangrokjung/teamclaude",
+      "npmUrl": "https://www.npmjs.com/package/teamcodex",
+      "category": "cli",
+      "createdAt": "2026-07-26T09:57:56.605Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 79
     },
     {
       "name": "tenderpulse-mcp",
@@ -3516,6 +3804,18 @@
       "createdAt": "2026-07-25T18:18:19.568Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 63
+    },
+    {
+      "name": "vellumup-init",
+      "version": "1.0.0",
+      "description": "Scaffold a complete VellumUp-powered blog (webhook route, pages, components, SQL) into your Next.js project with one command.",
+      "license": "MIT",
+      "repository": "https://github.com/1paz1/vellumup-init",
+      "npmUrl": "https://www.npmjs.com/package/vellumup-init",
+      "category": "data",
+      "createdAt": "2026-07-26T09:38:20.446Z",
+      "discoveredAt": "2026-07-26T10:13:09.416Z",
+      "score": 76
     },
     {
       "name": "verihook",
