@@ -1,27 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121540428,
-  "lastRunAt": "2026-07-26T02:00:03.512Z",
+  "lastSequence": 121552288,
+  "lastRunAt": "2026-07-26T05:37:59.649Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@esoway/snapcompact",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@esoway/stats",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@esoway/agent-core",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@esoway/cli",
+      "attempts": 2
+    },
+    {
+      "name": "@bc-coders/iam",
       "attempts": 1
     },
     {
-      "name": "@itd-social/itd-ui",
+      "name": "@sylee-org/sylee_npm",
       "attempts": 1
     }
   ]
