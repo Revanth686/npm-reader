@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121625379,
-  "lastRunAt": "2026-07-26T18:59:40.407Z",
+  "lastSequence": 121633302,
+  "lastRunAt": "2026-07-26T20:47:59.221Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@trdlabs/engine",
+      "name": "@hanzo/kv-errors",
+      "attempts": 1
+    },
+    {
+      "name": "@hanzo/kv-commands",
       "attempts": 1
     }
   ]

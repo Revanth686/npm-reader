@@ -590,6 +590,18 @@
       "score": 73
     },
     {
+      "name": "@conscia-labs/design-system",
+      "version": "0.2.0",
+      "description": "The shared React component library for building clear, consistent, and accessible Conscia product experiences.",
+      "license": "MIT",
+      "repository": "https://github.com/conscia-labs/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40conscia-labs%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-07-26T20:06:00.475Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 73
+    },
+    {
       "name": "@counterroll/sdk",
       "version": "0.2.0",
       "description": "Check before your agent pays. The TypeScript client for Counterroll — policy checks + signed, hash-chained receipts for x402 agent spending.",
@@ -612,6 +624,18 @@
       "createdAt": "2026-07-25T18:39:10.530Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 57
+    },
+    {
+      "name": "@cutedyno/node",
+      "version": "1.1.0",
+      "description": "Official Node.js client for the CuteDyno API. Publish to social platforms on behalf of your own customers.",
+      "license": "MIT",
+      "repository": "https://github.com/cutedyno/cutedyno",
+      "npmUrl": "https://www.npmjs.com/package/%40cutedyno%2Fnode",
+      "category": "backend",
+      "createdAt": "2026-07-26T19:13:25.515Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 74
     },
     {
       "name": "@danypops/enigma",
@@ -720,6 +744,30 @@
       "createdAt": "2026-07-26T10:01:52.715Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 88
+    },
+    {
+      "name": "@dmytromykhailiuk/preact-signal-effects",
+      "version": "0.1.0",
+      "description": "Signal side effects for @preact/signals — declarative createSideEffect over any signals, a lifecycle-managed runner, and a redux-compatible effects middleware with typed createActionEffect. Standalone, framework-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/preact-signal-effects",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fpreact-signal-effects",
+      "category": "frontend",
+      "createdAt": "2026-07-26T20:25:41.327Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 86
+    },
+    {
+      "name": "@dmytromykhailiuk/preact-signal-redux",
+      "version": "0.1.0",
+      "description": "Redux-style state management on Preact signals — createAction, createReducer and createSignalStore with classic redux-compatible middleware and full Redux DevTools time travel. Framework-agnostic, zero re-render.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/preact-signal-redux",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fpreact-signal-redux",
+      "category": "frontend",
+      "createdAt": "2026-07-26T20:23:08.300Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 90
     },
     {
       "name": "@dmytromykhailiuk/typed-local-storage",
@@ -1538,6 +1586,54 @@
       "score": 73
     },
     {
+      "name": "@iamjoyeb/ziki-agent-core",
+      "version": "0.0.1",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/iamjoyeb/ziki",
+      "npmUrl": "https://www.npmjs.com/package/%40iamjoyeb%2Fziki-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-07-26T20:23:57.836Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 69
+    },
+    {
+      "name": "@iamjoyeb/ziki-ai",
+      "version": "0.0.1",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/iamjoyeb/ziki",
+      "npmUrl": "https://www.npmjs.com/package/%40iamjoyeb%2Fziki-ai",
+      "category": "backend",
+      "createdAt": "2026-07-26T20:23:49.256Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 73
+    },
+    {
+      "name": "@iamjoyeb/ziki-coding-agent",
+      "version": "0.0.2",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/iamjoyeb/ziki",
+      "npmUrl": "https://www.npmjs.com/package/%40iamjoyeb%2Fziki-coding-agent",
+      "category": "cli",
+      "createdAt": "2026-07-26T20:24:24.482Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 69
+    },
+    {
+      "name": "@iamjoyeb/ziki-tui",
+      "version": "0.0.1",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/iamjoyeb/ziki",
+      "npmUrl": "https://www.npmjs.com/package/%40iamjoyeb%2Fziki-tui",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T20:24:07.724Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 73
+    },
+    {
       "name": "@idle-runner/react",
       "version": "1.1.0",
       "description": "React hooks for @idle-runner/core — defer and time-slice non-urgent work on the main thread.",
@@ -1694,6 +1790,18 @@
       "score": 51
     },
     {
+      "name": "@kora.kanchan/auria",
+      "version": "0.2.0",
+      "description": "Accessibility + responsive-layout auditor: URL in -> narrated video, axe/layout/keyboard reports (MD/PDF/JSON/SARIF/JUnit), VPAT/ACR compliance, and dashboards out.",
+      "license": "MIT",
+      "repository": "https://github.com/kkora/auria",
+      "npmUrl": "https://www.npmjs.com/package/%40kora.kanchan%2Fauria",
+      "category": "testing",
+      "createdAt": "2026-07-26T20:10:59.706Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 65
+    },
+    {
       "name": "@kuralle-syrinx/cli",
       "version": "4.4.0",
       "description": "Agent-facing CLI for Syrinx — run a turn or a text exchange with deterministic, machine-readable (--json) output and exit codes. Not a console: no REPL, no chat loop, no microphone.",
@@ -1824,6 +1932,30 @@
       "createdAt": "2026-07-26T08:24:18.078Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 74
+    },
+    {
+      "name": "@massa-ai/codex-plugin",
+      "version": "1.6.0",
+      "description": "massa-ai plugin for Codex — semantic code search, memory, and context compression",
+      "license": "MIT",
+      "repository": "https://github.com/luizgmassa/massa-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40massa-ai%2Fcodex-plugin",
+      "category": "utilities",
+      "createdAt": "2026-07-26T20:03:17.330Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 67
+    },
+    {
+      "name": "@massa-ai/cursor-plugin",
+      "version": "1.6.0",
+      "description": "massa-ai plugin for Cursor — semantic code search, memory, and context compression",
+      "license": "MIT",
+      "repository": "https://github.com/luizgmassa/massa-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40massa-ai%2Fcursor-plugin",
+      "category": "utilities",
+      "createdAt": "2026-07-26T20:03:20.195Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 66
     },
     {
       "name": "@mastersoon1754-ui/mcpsec",
@@ -2232,6 +2364,18 @@
       "createdAt": "2026-07-26T17:16:01.324Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 75
+    },
+    {
+      "name": "@pmateusz/pi-workflows",
+      "version": "0.0.1",
+      "description": "Define arbitrary workflows in TypeScript and run them inside the PI coding harness.",
+      "license": "MIT",
+      "repository": "https://github.com/pmateusz/pi-workflows",
+      "npmUrl": "https://www.npmjs.com/package/%40pmateusz%2Fpi-workflows",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T19:52:48.901Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 68
     },
     {
       "name": "@pooriaarab/vibemovie",
@@ -2882,6 +3026,18 @@
       "score": 66
     },
     {
+      "name": "@theasanai/beacon",
+      "version": "0.5.0",
+      "description": "Instantly know which project a window is — and what your AI agent did in it.",
+      "license": "MIT",
+      "repository": "https://github.com/theasanai/beacon",
+      "npmUrl": "https://www.npmjs.com/package/%40theasanai%2Fbeacon",
+      "category": "utilities",
+      "createdAt": "2026-07-26T20:19:54.541Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 69
+    },
+    {
       "name": "@theasanai/skeptic",
       "version": "0.1.0",
       "description": "The agent that doesn't take your agent's word for it.",
@@ -3098,6 +3254,18 @@
       "score": 63
     },
     {
+      "name": "@web-ts-toolkit/express-oidc-vault",
+      "version": "0.28.0",
+      "description": "Cookie-free OIDC session middleware for Express with pluggable vault stores",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/egose/web-ts-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40web-ts-toolkit%2Fexpress-oidc-vault",
+      "category": "backend",
+      "createdAt": "2026-07-26T20:14:37.623Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 67
+    },
+    {
       "name": "@wismaz/vitest-browser-angular",
       "version": "0.6.2",
       "description": "Render Angular components in Vitest Browser Mode",
@@ -3266,6 +3434,18 @@
       "score": 78
     },
     {
+      "name": "assumption-mapper-mcp",
+      "version": "0.1.0",
+      "description": "MCP server + CLI for Assumption Mapper — pipe meeting transcripts in and get assumptions + evidence extracted via the v1 HTTP API.",
+      "license": "MIT",
+      "repository": "https://github.com/MaBoXiu/assumption-mapper",
+      "npmUrl": "https://www.npmjs.com/package/assumption-mapper-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T19:31:01.435Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 67
+    },
+    {
       "name": "auto-skelly",
       "version": "1.0.0",
       "description": "Framework-agnostic skeleton loading placeholders. Auto-generates animated skeletons from your existing markup to improve perceived load time.",
@@ -3336,6 +3516,30 @@
       "createdAt": "2026-07-26T12:37:26.060Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 68
+    },
+    {
+      "name": "bosskit",
+      "version": "0.1.0",
+      "description": "Type-safe, user-scoped job queues for pg-boss, powered by Zod.",
+      "license": "MIT",
+      "repository": "https://github.com/kennyjwilli/bosskit",
+      "npmUrl": "https://www.npmjs.com/package/bosskit",
+      "category": "data",
+      "createdAt": "2026-07-26T19:09:11.082Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 72
+    },
+    {
+      "name": "brazilian-airports",
+      "version": "1.1.0",
+      "description": "Complete database of 6,047 Brazilian aerodromes and helipads — ICAO codes, names, cities, states, type, geographic coordinates, elevation and FIR. Compiled from official DECEA/ANAC data.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/aerocopilot-ai/brazilian-airports",
+      "npmUrl": "https://www.npmjs.com/package/brazilian-airports",
+      "category": "data",
+      "createdAt": "2026-07-26T19:52:29.534Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 79
     },
     {
       "name": "buildloop",
@@ -3432,6 +3636,18 @@
       "createdAt": "2026-07-25T17:20:29.919Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 66
+    },
+    {
+      "name": "codengram",
+      "version": "0.1.0",
+      "description": "Persistent, token-efficient repository memory for AI tools: symbols, import graph and LLM summaries per file — CLI, library and MCP server",
+      "license": "MIT",
+      "repository": "https://github.com/rv-ranbir/ai-tools",
+      "npmUrl": "https://www.npmjs.com/package/codengram",
+      "category": "backend",
+      "createdAt": "2026-07-26T19:47:14.952Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 71
     },
     {
       "name": "codex-claude-bridge-feishu",
@@ -4106,6 +4322,18 @@
       "score": 75
     },
     {
+      "name": "libass-webos-legacy",
+      "version": "1.0.0",
+      "description": "A lightweight ASS subtitle rendering pipeline for legacy LG webOS browsers, built around libass with event-driven caching and performance-focused scheduling.",
+      "license": "LGPL-2.1-or-later AND (FTL OR GPL-2.0-or-later) AND MIT AND ISC AND Apache-2.0",
+      "repository": "https://github.com/ediaz23/libass-webos-legacy",
+      "npmUrl": "https://www.npmjs.com/package/libass-webos-legacy",
+      "category": "frontend",
+      "createdAt": "2026-07-26T20:07:09.608Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 65
+    },
+    {
       "name": "linkdirecte",
       "version": "1.0.0",
       "description": "Your first-rate SDK for working with EcoleDirecte data.",
@@ -4308,6 +4536,18 @@
       "createdAt": "2026-07-26T15:47:39.770Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 58
+    },
+    {
+      "name": "mcp-metering",
+      "version": "0.1.0",
+      "description": "Reliable, idempotent usage metering for MCP servers you already run in production. Retrofit-friendly: no stack requirements, no database lock-in.",
+      "license": "MIT",
+      "repository": "https://github.com/maarcgiil7/mcp-metering",
+      "npmUrl": "https://www.npmjs.com/package/mcp-metering",
+      "category": "backend",
+      "createdAt": "2026-07-26T19:30:32.197Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 76
     },
     {
       "name": "medusa-search-select",
@@ -4550,6 +4790,18 @@
       "score": 70
     },
     {
+      "name": "ngx-validx",
+      "version": "1.0.1",
+      "description": "A lightweight, highly performant, and automatic Angular form validation error handling library using Signals.",
+      "license": "MIT",
+      "repository": "https://github.com/EngYouniss/ngx-validx-package",
+      "npmUrl": "https://www.npmjs.com/package/ngx-validx",
+      "category": "frontend",
+      "createdAt": "2026-07-26T19:09:11.823Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 71
+    },
+    {
       "name": "node-red-contrib-home-ems",
       "version": "0.1.0",
       "description": "Node-RED nodes for a home energy management system: ENTSO-E dynamic prices, PV production forecast, load forecast, and a battery dispatch planner.",
@@ -4608,6 +4860,18 @@
       "createdAt": "2026-07-25T19:19:37.184Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 82
+    },
+    {
+      "name": "open-glass-ui",
+      "version": "0.1.1",
+      "description": "Accessible Liquid Glass components, React primitives, and optical rendering utilities for the web.",
+      "license": "MIT",
+      "repository": "https://github.com/moekoelueker/open-glass-ui",
+      "npmUrl": "https://www.npmjs.com/package/open-glass-ui",
+      "category": "frontend",
+      "createdAt": "2026-07-26T13:03:48.009Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 79
     },
     {
       "name": "opencard-export",
@@ -4908,6 +5172,30 @@
       "createdAt": "2026-07-26T10:02:35.447Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 100
+    },
+    {
+      "name": "r-tour-guide",
+      "version": "1.0.1",
+      "description": "A comprehensive React tour guide library with TypeScript support, works with Next.js",
+      "license": "MIT",
+      "repository": "https://github.com/whytepeter/r-tour-guide",
+      "npmUrl": "https://www.npmjs.com/package/r-tour-guide",
+      "category": "frontend",
+      "createdAt": "2026-07-26T19:26:18.566Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 88
+    },
+    {
+      "name": "react-device-lab",
+      "version": "1.0.0",
+      "description": "Accessible React components for previewing web applications across named device viewports.",
+      "license": "MIT",
+      "repository": "https://github.com/NjoyimPeguy/react-device-lab",
+      "npmUrl": "https://www.npmjs.com/package/react-device-lab",
+      "category": "frontend",
+      "createdAt": "2026-07-26T20:23:35.063Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 65
     },
     {
       "name": "react-geo-data",
@@ -5304,6 +5592,18 @@
       "createdAt": "2026-07-26T09:10:16.774Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 73
+    },
+    {
+      "name": "taptones",
+      "version": "1.1.0",
+      "description": "Ultra-lightweight, zero-dependency synthesized Web Audio & Web Haptics micro-library for web UI feedback with 0KB downloaded audio assets.",
+      "license": "MIT",
+      "repository": "https://github.com/fullstackusama/taptone",
+      "npmUrl": "https://www.npmjs.com/package/taptones",
+      "category": "frontend",
+      "createdAt": "2026-07-26T19:05:05.077Z",
+      "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 76
     },
     {
       "name": "taxme-mcp",
