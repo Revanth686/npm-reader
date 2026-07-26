@@ -230,6 +230,18 @@
       "score": 70
     },
     {
+      "name": "@bimetal/toast-headless",
+      "version": "0.35.0",
+      "description": "Canonical, framework-agnostic toast controller (createToastController) on @bimetal/headless-core. The family's first LIGHTWEIGHT / FEEDBACK component — controller-only (no store, no aggregate, no undo). Owns the presentation lifecycle: queue, per-toast li",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/bimetal/bimetal",
+      "npmUrl": "https://www.npmjs.com/package/%40bimetal%2Ftoast-headless",
+      "category": "utilities",
+      "createdAt": "2026-07-26T15:12:17.791Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 51
+    },
+    {
       "name": "@blacktomang/expo-aws-liveness",
       "version": "0.2.2",
       "description": "Expo native module wrapping AWS Amplify Face Liveness UI for iOS and Android",
@@ -398,6 +410,18 @@
       "score": 75
     },
     {
+      "name": "@cocoapuffs813/ecc-universal",
+      "version": "2.0.0",
+      "description": "Harness-native agent operating system for Codex, OpenCode, Cursor, Gemini, Claude Code, and terminal workflows - skills, hooks, rules, MCP conventions, and operator control-plane patterns",
+      "license": "MIT",
+      "repository": "https://github.com/affaan-m/ECC",
+      "npmUrl": "https://www.npmjs.com/package/%40cocoapuffs813%2Fecc-universal",
+      "category": "cli",
+      "createdAt": "2026-07-26T15:29:38.504Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 98
+    },
+    {
       "name": "@codecapsules/sandbox",
       "version": "0.1.0",
       "description": "Ephemeral isolated Linux sandboxes via REST API — create, exec, upload, and delete Firecracker microVM environments for AI agents and code execution",
@@ -444,6 +468,18 @@
       "createdAt": "2026-07-26T12:02:46.573Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 55
+    },
+    {
+      "name": "@compdict/cli",
+      "version": "0.1.0",
+      "description": "Command-line conformance checker, encoder and inspector for RFC 9842 Compression Dictionary Transport.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pmeenan/compdict",
+      "npmUrl": "https://www.npmjs.com/package/%40compdict%2Fcli",
+      "category": "data",
+      "createdAt": "2026-07-26T15:33:50.678Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 50
     },
     {
       "name": "@composius/payload-plugin-import-wordpress",
@@ -638,6 +674,18 @@
       "score": 80
     },
     {
+      "name": "@effuse/server",
+      "version": "1.0.0",
+      "description": "Portable Web Request/Response server runtime for Effuse, with reference Node and Bun adapters and a shared conformance suite.",
+      "license": "MIT",
+      "repository": "https://github.com/chrismichaelps/effuse",
+      "npmUrl": "https://www.npmjs.com/package/%40effuse%2Fserver",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:24:29.865Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 61
+    },
+    {
       "name": "@exellix/ai-tasks-docs",
       "version": "1.0.0",
       "description": "x12i ai-tasks ecosystem docs knowledge SDK — install as a devDependency only. Catalog, use cases, and markdown packs for humans and agents.",
@@ -744,6 +792,18 @@
       "createdAt": "2026-07-25T18:47:22.440Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 100
+    },
+    {
+      "name": "@flefebvre/prisma-factorio",
+      "version": "0.1.0",
+      "description": "Laravel-style model factories for Prisma, fully typed",
+      "license": "MIT",
+      "repository": "https://github.com/flolefebvre/prisma-factorio",
+      "npmUrl": "https://www.npmjs.com/package/%40flefebvre%2Fprisma-factorio",
+      "category": "testing",
+      "createdAt": "2026-07-26T15:33:52.457Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 69
     },
     {
       "name": "@followingseas/pilot",
@@ -1154,6 +1214,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/yrise",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for yRise (build etherscan-yrise-6051c135-1785079688561, commit d7bf7bc, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/yrise",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fyrise",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T15:28:34.101Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/zkp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for $ZKP (build etherscan-zkp-909e34d3-1785067830381, commit 97fe4c4, branch etherscan)",
@@ -1200,6 +1272,30 @@
       "createdAt": "2026-07-25T17:39:51.524Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 59
+    },
+    {
+      "name": "@grovemotorco/livery-cli",
+      "version": "1.0.0",
+      "description": "Generate shareable images of source code from the command line",
+      "license": "MIT",
+      "repository": "https://github.com/grovemotorco/livery",
+      "npmUrl": "https://www.npmjs.com/package/%40grovemotorco%2Flivery-cli",
+      "category": "cli",
+      "createdAt": "2026-07-26T15:53:07.529Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 59
+    },
+    {
+      "name": "@grovemotorco/livery-core",
+      "version": "1.0.0",
+      "description": "Deterministic SVG renderer for code snippet images",
+      "license": "MIT",
+      "repository": "https://github.com/grovemotorco/livery",
+      "npmUrl": "https://www.npmjs.com/package/%40grovemotorco%2Flivery-core",
+      "category": "utilities",
+      "createdAt": "2026-07-26T15:53:02.563Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 60
     },
     {
       "name": "@hanzogui/telemetry",
@@ -1632,6 +1728,18 @@
       "createdAt": "2026-07-26T07:18:28.215Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 70
+    },
+    {
+      "name": "@mkhalif/ledgerai",
+      "version": "0.1.0",
+      "description": "Tamper-evident audit log for AI actions, recorded into your own Postgres.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ledgerai/ledgerai",
+      "npmUrl": "https://www.npmjs.com/package/%40mkhalif%2Fledgerai",
+      "category": "data",
+      "createdAt": "2026-07-26T15:40:08.997Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 67
     },
     {
       "name": "@mortice/mapwright",
@@ -2126,6 +2234,30 @@
       "score": 63
     },
     {
+      "name": "@sand0vvv/hyperevm-mcp",
+      "version": "1.4.0",
+      "description": "Read-only MCP server for the Hyperliquid / HyperEVM ecosystem — DeFi yields, protocol TVL, perp & spot markets. No API keys, no wallets, no signing.",
+      "license": "MIT",
+      "repository": "https://github.com/sand0vvv/hyperevm-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40sand0vvv%2Fhyperevm-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:46:34.667Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 94
+    },
+    {
+      "name": "@sand0vvv/mayan-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Mayan Finance cross-chain swaps. Read-only and unsigned transaction building: never holds keys, never signs, never broadcasts.",
+      "license": "MIT",
+      "repository": "https://github.com/sand0vvv/mayan-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40sand0vvv%2Fmayan-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:43:32.602Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 84
+    },
+    {
       "name": "@sandeshgrangdan/spotify-tui",
       "version": "0.26.1",
       "description": "A terminal user interface for Spotify, with an app-like home screen. Fork of spotify-tui, modernized for the post-2024 Web API.",
@@ -2304,6 +2436,18 @@
       "createdAt": "2026-07-26T09:26:28.002Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 74
+    },
+    {
+      "name": "@soulfiremc/sdk",
+      "version": "0.1.1",
+      "description": "TypeScript SDK for automating SoulFire bots over gRPC-Web.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/soulfiremc-com/SoulFire",
+      "npmUrl": "https://www.npmjs.com/package/%40soulfiremc%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T14:58:16.410Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 52
     },
     {
       "name": "@stone-js/i18n",
@@ -2894,6 +3038,18 @@
       "score": 83
     },
     {
+      "name": "clickable-path",
+      "version": "0.0.1",
+      "description": "Make file paths printed by CLIs ctrl/cmd-clickable, using OSC 8 hyperlinks",
+      "license": "MIT",
+      "repository": "https://github.com/danielroe/clickable-path",
+      "npmUrl": "https://www.npmjs.com/package/clickable-path",
+      "category": "cli",
+      "createdAt": "2026-07-26T12:27:42.067Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 52
+    },
+    {
       "name": "code-while-claude-code",
       "version": "0.1.0",
       "description": "Fill the dead time during a Claude Code turn with short, high-signal coding micro-challenges.",
@@ -3108,6 +3264,18 @@
       "createdAt": "2026-07-26T12:23:26.485Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 79
+    },
+    {
+      "name": "eslint-plugin-i18n-unused",
+      "version": "0.1.1",
+      "description": "Fast ESLint rule reporting unused i18n locale keys. Drop-in replacement for @intlify/vue-i18n/no-unused-keys, without the per-file AST parse.",
+      "license": "MIT",
+      "repository": "https://github.com/rsmple/eslint-plugin-i18n-unused",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-i18n-unused",
+      "category": "frontend",
+      "createdAt": "2026-07-26T03:37:35.636Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 75
     },
     {
       "name": "eslint-plugin-react-use-propswithchildren",
@@ -3434,6 +3602,18 @@
       "score": 85
     },
     {
+      "name": "kingsam1-baileys",
+      "version": "1.0.0",
+      "description": "A WebSockets library for interacting with WhatsApp Web — PouCode fork of Baileys",
+      "license": "MIT",
+      "repository": "https://github.com/pou-code/Baileys",
+      "npmUrl": "https://www.npmjs.com/package/kingsam1-baileys",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:26:31.266Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 78
+    },
+    {
       "name": "kracked-core",
       "version": "1.0.0",
       "description": "Zero-dependency memory & workflow installer for AI coding agents — global identity, project memory, and skills that survive session restarts.",
@@ -3516,6 +3696,18 @@
       "createdAt": "2026-07-26T08:47:53.625Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 71
+    },
+    {
+      "name": "llmwiki-bridge-start",
+      "version": "0.0.1",
+      "description": "Local adoption harness for connecting pre-built LLMWiki knowledge sources to agent bridges and coding-agent clients.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/knowledge-bridge-labs/llmwiki-bridge-start",
+      "npmUrl": "https://www.npmjs.com/package/llmwiki-bridge-start",
+      "category": "cli",
+      "createdAt": "2026-07-26T15:08:52.864Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 81
     },
     {
       "name": "localarena",
@@ -3626,6 +3818,18 @@
       "score": 50
     },
     {
+      "name": "mcp-crypto-arbitrage",
+      "version": "1.0.0",
+      "description": "MCP server exposing CoinGecko crypto prices and arbitrage spread detection as tools — no API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/abe-source/mcp-crypto-arbitrage",
+      "npmUrl": "https://www.npmjs.com/package/mcp-crypto-arbitrage",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:47:39.770Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 58
+    },
+    {
       "name": "medusa-search-select",
       "version": "0.1.0",
       "description": "A searchable, accessible select/combobox component for React, built for Medusa.js storefronts and admin dashboards (but usable in any React app).",
@@ -3684,6 +3888,30 @@
       "createdAt": "2026-07-25T17:46:28.184Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 62
+    },
+    {
+      "name": "my-md-baileys",
+      "version": "3.2.4",
+      "description": "Enhanced Baileys fork with newsletter support, album messages, interactive buttons, rich responses, and communities API",
+      "license": "MIT",
+      "repository": "https://github.com/Babuperumana/my-md-baileys",
+      "npmUrl": "https://www.npmjs.com/package/my-md-baileys",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:35:35.807Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 58
+    },
+    {
+      "name": "my-md-btns",
+      "version": "2.2.5",
+      "description": "WhatsApp Interactive Messages Helper for my-md-baileys — Buttons, Lists, Carousels, Albums, Polls & more",
+      "license": "MIT",
+      "repository": "https://github.com/Babuperumana/my-md-btns",
+      "npmUrl": "https://www.npmjs.com/package/my-md-btns",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:35:52.637Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 90
     },
     {
       "name": "n8n-nodes-cliptoframe",
@@ -3770,6 +3998,18 @@
       "score": 62
     },
     {
+      "name": "ngx-gantry",
+      "version": "1.0.0",
+      "description": "Gantry — a free, zoneless, signal-based Gantt chart for Angular 20+ (zero @angular/animations, zero CDK, only dayjs).",
+      "license": "MIT",
+      "repository": "https://github.com/ErlonRr/angular-gantt",
+      "npmUrl": "https://www.npmjs.com/package/ngx-gantry",
+      "category": "frontend",
+      "createdAt": "2026-07-26T15:12:19.538Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 60
+    },
+    {
       "name": "ngx-notiflow",
       "version": "0.1.0",
       "description": "Modern, signal-based, standalone & zoneless toast/notification library for Angular — a familiar successor to the archived ngx-toastr, with per-region limits & queueing, duplicate counting, promise toasts and serious accessibility. No @angular/animations.",
@@ -3830,6 +4070,18 @@
       "score": 56
     },
     {
+      "name": "onchain-forensics",
+      "version": "0.1.0",
+      "description": "Twelve checks you run before you pay, and after you've been robbed. MCP server + plain modules. No keys, no accounts, read-only.",
+      "license": "MIT",
+      "repository": "https://github.com/philpof102-svg/onchain-forensics",
+      "npmUrl": "https://www.npmjs.com/package/onchain-forensics",
+      "category": "backend",
+      "createdAt": "2026-07-26T15:05:39.698Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 82
+    },
+    {
       "name": "open-alex-wrapper",
       "version": "0.1.0",
       "description": "A fully-typed TypeScript SDK for the OpenAlex API: all 8 entities, streaming auto-pagination, parallel fetching, and dollar-cost estimation with live budget tracking.",
@@ -3876,6 +4128,18 @@
       "createdAt": "2026-07-25T22:02:26.003Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 90
+    },
+    {
+      "name": "opentelemetry-instrumentation-browserbase",
+      "version": "0.1.0",
+      "description": "OpenTelemetry instrumentation for Browserbase and Stagehand.",
+      "license": "MIT",
+      "repository": "https://github.com/soumy/opentelemetry-instrumentation-browserbase",
+      "npmUrl": "https://www.npmjs.com/package/opentelemetry-instrumentation-browserbase",
+      "category": "frontend",
+      "createdAt": "2026-07-26T15:41:02.123Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 70
     },
     {
       "name": "overhaul-ui",
@@ -4118,6 +4382,18 @@
       "score": 69
     },
     {
+      "name": "react-native-onboarding-engine",
+      "version": "0.1.0",
+      "description": "A lightweight, configurable onboarding engine for React Native applications.",
+      "license": "MIT",
+      "repository": "https://github.com/ckaranika/react-native-onboarding-engine",
+      "npmUrl": "https://www.npmjs.com/package/react-native-onboarding-engine",
+      "category": "frontend",
+      "createdAt": "2026-07-26T15:27:03.801Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 53
+    },
+    {
       "name": "react-talking-avatar",
       "version": "0.1.1",
       "description": "Detect a face/avatar from an uploaded or remote image and animate its lips while audio plays (simulated talking).",
@@ -4286,6 +4562,18 @@
       "score": 57
     },
     {
+      "name": "shiki-umd",
+      "version": "4.3.1",
+      "description": "Shiki syntax highlighter bundled as self-contained UMD/ESM files, for direct <script> and CDN usage",
+      "license": "MIT",
+      "repository": "https://github.com/ntnyq/shiki-umd",
+      "npmUrl": "https://www.npmjs.com/package/shiki-umd",
+      "category": "frontend",
+      "createdAt": "2026-07-26T15:17:59.844Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 54
+    },
+    {
       "name": "shinro",
       "version": "0.0.1",
       "description": "Opinionated file-based routing for Hono with end-to-end type safety.",
@@ -4308,6 +4596,18 @@
       "createdAt": "2026-07-26T13:58:42.588Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 76
+    },
+    {
+      "name": "sievekit",
+      "version": "0.1.0",
+      "description": "Portable, file-based agent protocol and skill library that installs in one command and works across coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/khoitrn/sieve",
+      "npmUrl": "https://www.npmjs.com/package/sievekit",
+      "category": "utilities",
+      "createdAt": "2026-07-26T15:58:08.649Z",
+      "discoveredAt": "2026-07-26T15:59:48.285Z",
+      "score": 54
     },
     {
       "name": "sk-nodeexpress",
