@@ -1,55 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121579230,
-  "lastRunAt": "2026-07-26T10:13:09.416Z",
+  "lastSequence": 121585093,
+  "lastRunAt": "2026-07-26T11:37:11.715Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@esoway/snapcompact",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@esoway/stats",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@esoway/agent-core",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@esoway/cli",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@openiot-devteam/layout",
+      "name": "@sigilcore/warrant-core",
       "attempts": 1
     },
     {
-      "name": "@b2m9/zod-views",
-      "attempts": 1
-    },
-    {
-      "name": "@kungfu-tech/core-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@kungfu-tech/core-linux-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@surea11y/playwright",
-      "attempts": 1
-    },
-    {
-      "name": "@kungfu-tech/core-win32-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@alfredai/design-system",
-      "attempts": 1
-    },
-    {
-      "name": "@kungfu-tech/core-linux-arm64",
+      "name": "@tripley-kit/web-container-prompt-presentation",
       "attempts": 1
     }
   ]
