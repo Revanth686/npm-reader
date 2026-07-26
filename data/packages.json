@@ -350,6 +350,18 @@
       "score": 60
     },
     {
+      "name": "@box-model/web",
+      "version": "0.0.1",
+      "description": "Accessible, framework-agnostic web components for the Box Model design system.",
+      "license": "MIT",
+      "repository": "https://github.com/JSMike/box-model.dev",
+      "npmUrl": "https://www.npmjs.com/package/%40box-model%2Fweb",
+      "category": "utilities",
+      "createdAt": "2026-07-26T23:00:44.680Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 51
+    },
+    {
       "name": "@bridgenode/llm",
       "version": "0.1.0",
       "description": "BridgeNode SDK - Pay-per-request AI (LLM, Image, Video, Music, Voice) via x402 on Base and Solana",
@@ -516,6 +528,18 @@
       "createdAt": "2026-07-25T13:33:08.887Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 75
+    },
+    {
+      "name": "@cixzhang/brownie",
+      "version": "0.2.0",
+      "description": "Markup-first web component library with zero-build, Shadow DOM, and SSR with Declarative Shadow DOM",
+      "license": "MIT",
+      "repository": "https://github.com/cixzhang/brownie",
+      "npmUrl": "https://www.npmjs.com/package/%40cixzhang%2Fbrownie",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:32:03.463Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 65
     },
     {
       "name": "@clank.run/framework",
@@ -804,6 +828,18 @@
       "createdAt": "2026-07-26T21:41:25.714Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 56
+    },
+    {
+      "name": "@diceforge-sdk/renderer-web",
+      "version": "0.2.0",
+      "description": "Browser presenter for DiceForge: Three.js 3D dice with outcome-first animation, DOM fallback, reduced-motion support, and accessible announcements.",
+      "license": "MIT",
+      "repository": "https://github.com/StephanTTM/DiceForgeSDK",
+      "npmUrl": "https://www.npmjs.com/package/%40diceforge-sdk%2Frenderer-web",
+      "category": "frontend",
+      "createdAt": "2026-07-25T16:46:42.224Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 69
     },
     {
       "name": "@dmemo/cli",
@@ -1130,6 +1166,54 @@
       "score": 76
     },
     {
+      "name": "@fuaran-ui/cli",
+      "version": "0.2.0",
+      "description": "The Fuaran generative-UI CLI — fuaran generate / validate / recipe / scaffold over the public surfaces, with zero MCP config. Works against the real endpoint or the local mock.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fuaran-ui/fuaran-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40fuaran-ui%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-07-26T23:07:18.060Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 46
+    },
+    {
+      "name": "@fuaran-ui/mock",
+      "version": "0.2.0",
+      "description": "A local, offline stand-in for the Fuaran generation endpoint — serves the same TurnRequest/TurnResult contract but returns canonical trees by prompt match. Deterministic, zero-secret (no access token, no BYOK key), CI/sandbox-safe. Build + test an SDK int",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fuaran-ui/fuaran-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40fuaran-ui%2Fmock",
+      "category": "testing",
+      "createdAt": "2026-07-26T23:07:26.681Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 54
+    },
+    {
+      "name": "@fuaran-ui/react",
+      "version": "0.2.0",
+      "description": "React adapter for the Fuaran generation endpoint — the useFuaranGenerate hook owns the current tree as state, so the turn-loop (generate, then cheap repair diffs) is automatic, with the closed hint-threading repair loop and rendering through @fuaran-ui/re",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fuaran-ui/fuaran-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40fuaran-ui%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:07:33.946Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 61
+    },
+    {
+      "name": "@fuaran-ui/telemetry",
+      "version": "0.2.0",
+      "description": "Telemetry record contract for Fuaran hosts — the structured records a sink receives (starting with the deny record) plus the fire-and-forget sink interface. The TypeScript mirror of the F# Fuaran.UI.Telemetry.Abstractions package.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fuaran-ui/fuaran-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40fuaran-ui%2Ftelemetry",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T23:07:05.713Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 46
+    },
+    {
       "name": "@georgedong32/pi-review",
       "version": "0.3.1",
       "description": "Pi extension for fan-out code review: N parallel reviewer subagents + a cheap-model gate",
@@ -1334,6 +1418,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/fwastakevault",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FWAStakeVault (build etherscan-fwastakevault-cb5f6340-1785107796525, commit 607da1b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/fwastakevault",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ffwastakevault",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T23:17:00.036Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/gcoin",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for GCOIN (build etherscan-gcoin-0c71db2e-1784989109674, commit d9bccdf, branch etherscan)",
@@ -1380,6 +1476,18 @@
       "createdAt": "2026-07-25T17:36:11.451Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/l1resolver",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for L1Resolver (build etherscan-l1resolver-de904963-1785109136748, commit 2f3bb58, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/l1resolver",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fl1resolver",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T23:39:20.025Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/lp",
@@ -1464,6 +1572,18 @@
       "createdAt": "2026-07-26T16:21:40.151Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/relayapprovalproxyv3",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RelayApprovalProxyV3 (build etherscan-relayapprovalproxyv3-ccc88a9d-1785107571513, commit 435a8b4, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/relayapprovalproxyv3",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frelayapprovalproxyv3",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T23:13:16.763Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/relayerregistry",
@@ -1730,6 +1850,18 @@
       "score": 68
     },
     {
+      "name": "@hectorpalmatellez/toki",
+      "version": "1.0.1",
+      "description": "Design token pipeline CLI — W3C DTCG in, framework-specific code out",
+      "license": "MIT",
+      "repository": "https://github.com/hectorpalmatellez/toki",
+      "npmUrl": "https://www.npmjs.com/package/%40hectorpalmatellez%2Ftoki",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:23:52.185Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 64
+    },
+    {
       "name": "@hitkeep/tracker",
       "version": "2.12.0",
       "description": "Typed, cookieless web analytics tracker for React, Vue, Angular, and Astro. Official browser SDK for HitKeep, a privacy-friendly, self-hostable Google Analytics alternative.",
@@ -1968,6 +2100,18 @@
       "createdAt": "2026-07-26T03:23:26.054Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 69
+    },
+    {
+      "name": "@joshuanode/n8n-nodes-autoelevate",
+      "version": "0.1.0",
+      "description": "n8n community node for the AutoElevate Partner API",
+      "license": "MIT",
+      "repository": "https://github.com/ajoshuasmith/n8n-nodes-autoelevate",
+      "npmUrl": "https://www.npmjs.com/package/%40joshuanode%2Fn8n-nodes-autoelevate",
+      "category": "backend",
+      "createdAt": "2026-07-26T23:42:38.029Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 64
     },
     {
       "name": "@jungsek/meta-harness",
@@ -2978,6 +3122,18 @@
       "score": 72
     },
     {
+      "name": "@savantlink/sdk",
+      "version": "2.1.10",
+      "description": "A package that contains reusable components and services for the SavantLink design system and architecture.",
+      "license": "MIT",
+      "repository": "https://github.com/savantlink/savantlink-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40savantlink%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:37:51.318Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 46
+    },
+    {
       "name": "@sebamomann/plants-mcp",
       "version": "1.0.0",
       "description": "MCP server for the Sprig plant app: 23 tools to read a plant collection and log care. Read-only by default; waterings, fertilizings, and health notes need a write-scoped API key. No destructive tools.",
@@ -3362,6 +3518,18 @@
       "score": 71
     },
     {
+      "name": "@thrain/blackout",
+      "version": "1.0.0",
+      "description": "Permanently remove text from a PDF. Rasterises each page and rebuilds the file, so redacted text is gone rather than merely covered. Runs entirely locally.",
+      "license": "MIT",
+      "repository": "https://github.com/thrain-ai/blackout-pdf",
+      "npmUrl": "https://www.npmjs.com/package/%40thrain%2Fblackout",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T23:17:23.535Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 65
+    },
+    {
       "name": "@time-provider/plugin-moment-timezone",
       "version": "0.1.0",
       "description": "Time-Provider : Moment.js plugin ~ TypeScript library for injecting time and timers with adapters for multiple date libraries.",
@@ -3588,6 +3756,18 @@
       "createdAt": "2026-07-25T13:52:05.960Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 63
+    },
+    {
+      "name": "@weasel-js/core",
+      "version": "0.5.0",
+      "description": "Domain-agnostic 2D scene graph primitives for React: viewport math, drag/resize/insert/clone interactions, layered canvas rendering.",
+      "license": "MIT",
+      "repository": "https://github.com/orochi235/weasel",
+      "npmUrl": "https://www.npmjs.com/package/%40weasel-js%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:25:12.717Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 60
     },
     {
       "name": "@web-ts-toolkit/express-oidc-vault",
@@ -4106,6 +4286,18 @@
       "score": 62
     },
     {
+      "name": "consultame-sdk",
+      "version": "1.0.0",
+      "description": "SDK oficial de Consultame para integración con servicios de facturación electrónica",
+      "license": "ISC",
+      "repository": "https://github.com/consultamepyeas/consultame-sdk",
+      "npmUrl": "https://www.npmjs.com/package/consultame-sdk",
+      "category": "devops",
+      "createdAt": "2026-07-26T23:35:31.788Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 78
+    },
+    {
       "name": "countersign-mcp",
       "version": "0.1.0",
       "description": "Transaction firewall and intent-verification layer for AI agents transacting onchain. Countersign firewalls the MCP execution path of the OKX OnchainOS stack.",
@@ -4368,6 +4560,42 @@
       "createdAt": "2026-07-25T19:36:45.389Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 76
+    },
+    {
+      "name": "feedback-magic",
+      "version": "1.1.0",
+      "description": "Drop-in feedback, survey/CSAT, annotation, changelog, feature-voting and testimonial widgets for any site or app — one line, any framework. Embed them or share as a link. Ships a <feedback-magic> web component and a React <FeedbackMagic /> wrapper.",
+      "license": "MIT",
+      "repository": "https://github.com/DenneyTech/FeedbackMagic",
+      "npmUrl": "https://www.npmjs.com/package/feedback-magic",
+      "category": "testing",
+      "createdAt": "2026-07-26T22:58:32.154Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 81
+    },
+    {
+      "name": "feedback-magic-mcp",
+      "version": "1.2.0",
+      "description": "MCP server for Feedback Magic — let an AI editor/agent list your workspace, create a widget, get its publishable key, and generate the embed. Provisioning + metadata only.",
+      "license": "MIT",
+      "repository": "https://github.com/DenneyTech/FeedbackMagic",
+      "npmUrl": "https://www.npmjs.com/package/feedback-magic-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-26T22:58:52.041Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 71
+    },
+    {
+      "name": "figma-design-bridge",
+      "version": "0.1.0",
+      "description": "MCP server that lets an agent write design specs onto a Figma canvas",
+      "license": "MIT",
+      "repository": "https://github.com/evidence-codes/figma-design-bridge",
+      "npmUrl": "https://www.npmjs.com/package/figma-design-bridge",
+      "category": "backend",
+      "createdAt": "2026-07-26T23:09:19.010Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 55
     },
     {
       "name": "flipkart-seller-mcp",
@@ -4922,6 +5150,18 @@
       "score": 81
     },
     {
+      "name": "markdownlint-rule-extra-fixes",
+      "version": "0.3.2",
+      "description": "Custom markdownlint rules that add fixInfo for MD040 and other rules the core does not fix",
+      "license": "MIT",
+      "repository": "https://github.com/jfenal/markdownlint-rule-extra-fixes",
+      "npmUrl": "https://www.npmjs.com/package/markdownlint-rule-extra-fixes",
+      "category": "utilities",
+      "createdAt": "2026-07-26T23:34:15.527Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 51
+    },
+    {
       "name": "mars-plugged",
       "version": "0.1.0",
       "description": "Raw Solana + x402 toolkit: talk to Anchor programs with no IDL, decode accounts from a byte-offset table, and build x402 payment envelopes by hand.",
@@ -5088,6 +5328,18 @@
       "createdAt": "2026-07-25T19:28:08.951Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 57
+    },
+    {
+      "name": "microsparks",
+      "version": "1.0.0",
+      "description": "Ultra-lightweight, zero-dependency GPU-accelerated canvas micro-particle engine for web UI feedback.",
+      "license": "MIT",
+      "repository": "https://github.com/fullstackusama/microsparks",
+      "npmUrl": "https://www.npmjs.com/package/microsparks",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:29:54.239Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 64
     },
     {
       "name": "mimirapi",
@@ -5606,6 +5858,18 @@
       "score": 75
     },
     {
+      "name": "pi-okf",
+      "version": "0.2.0",
+      "description": "CLI for creating and validating Open Knowledge Format (OKF) v0.1 Draft bundles",
+      "license": "MIT",
+      "repository": "https://github.com/kaishin/pi-okf",
+      "npmUrl": "https://www.npmjs.com/package/pi-okf",
+      "category": "data",
+      "createdAt": "2026-07-26T06:51:02.243Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 49
+    },
+    {
       "name": "pickrate",
       "version": "0.1.0",
       "description": "Does an agent actually pick your MCP tools and Agent Skills correctly? Zero-config surface linting and selection evals.",
@@ -5786,6 +6050,18 @@
       "score": 75
     },
     {
+      "name": "real-shadows",
+      "version": "1.0.0",
+      "description": "shadows that follow the real sun. computes the sun's (or at night, the moon's) actual position for a location and drives your css shadows to match. zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/zaydiscold/real-shadows",
+      "npmUrl": "https://www.npmjs.com/package/real-shadows",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:42:07.896Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 96
+    },
+    {
       "name": "relintio",
       "version": "1.0.1",
       "description": "Install and verify Relintio application protection in any project. Detects your runtime, installs the right agent SDK, wires the middleware, and confirms the license is live.",
@@ -5880,6 +6156,18 @@
       "createdAt": "2026-07-26T06:12:39.379Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 90
+    },
+    {
+      "name": "rn-themed-alert",
+      "version": "0.1.0",
+      "description": "A themeable, animated, promise-based alert/confirm/prompt modal for React Native — a cross-platform replacement for Alert.alert / Alert.prompt.",
+      "license": "MIT",
+      "repository": "https://github.com/novasec-spec/rn-themed-alert",
+      "npmUrl": "https://www.npmjs.com/package/rn-themed-alert",
+      "category": "frontend",
+      "createdAt": "2026-07-26T23:33:12.731Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 57
     },
     {
       "name": "scorm-mcp-server",
@@ -6192,6 +6480,18 @@
       "createdAt": "2026-07-25T15:26:41.678Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 66
+    },
+    {
+      "name": "test-arbiter",
+      "version": "0.1.1",
+      "description": "AI-powered test triage CLI — arbitrates between real bugs and test noise",
+      "license": "MIT",
+      "repository": "https://github.com/rcsarro/test-arbiter",
+      "npmUrl": "https://www.npmjs.com/package/test-arbiter",
+      "category": "testing",
+      "createdAt": "2026-07-26T23:35:51.640Z",
+      "discoveredAt": "2026-07-26T23:46:32.957Z",
+      "score": 71
     },
     {
       "name": "three-blockbench",
