@@ -182,6 +182,18 @@
       "score": 87
     },
     {
+      "name": "@askalf/plumbline",
+      "version": "0.1.0",
+      "description": "trajectory-level monitoring for autonomous agents — scores an action sequence against its declared intent, catching escapes composed entirely of individually-authorized steps. Part of Own Your Stack.",
+      "license": "MIT",
+      "repository": "https://github.com/askalf/plumbline",
+      "npmUrl": "https://www.npmjs.com/package/%40askalf%2Fplumbline",
+      "category": "utilities",
+      "createdAt": "2026-07-26T21:32:01.354Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 83
+    },
+    {
       "name": "@atomichub/atomicassets",
       "version": "2.0.1",
       "description": "JavaScript/TypeScript SDK for the AtomicAssets NFT standard on Antelope chains: read NFT data, serialize attribute data, and build v2 contract actions",
@@ -518,6 +530,18 @@
       "score": 84
     },
     {
+      "name": "@codeyam/cms",
+      "version": "0.1.0",
+      "description": "An installable, Git-backed content management system for Astro sites. Ships an Astro integration that injects a /admin dashboard plus an `integrate` CLI that wires the CMS into any Astro project. Designed for static (GitHub Pages) and server-rendered site",
+      "license": "MIT",
+      "repository": "https://github.com/codeyam-ai/codeyam-cms",
+      "npmUrl": "https://www.npmjs.com/package/%40codeyam%2Fcms",
+      "category": "backend",
+      "createdAt": "2026-07-26T21:11:21.877Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 74
+    },
+    {
       "name": "@coinexams/lightning",
       "version": "1.0.0",
       "description": "CoinExams Lightning Payment SDK - A standalone Lightning Network client module that wraps a local Phoenixd node REST API.",
@@ -576,6 +600,18 @@
       "createdAt": "2026-07-25T17:17:14.427Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 63
+    },
+    {
+      "name": "@composius/payload-plugin-redirections",
+      "version": "0.1.1",
+      "description": "Redirections collection with exact, prefix and regex URL matching, plus a Next.js proxy helper",
+      "license": "MIT",
+      "repository": "https://github.com/Composius/payload-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40composius%2Fpayload-plugin-redirections",
+      "category": "utilities",
+      "createdAt": "2026-07-26T21:38:04.741Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 59
     },
     {
       "name": "@conscia-code/design-system",
@@ -660,6 +696,18 @@
       "createdAt": "2026-07-26T14:40:04.472Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "@denizeffects/dropnav",
+      "version": "0.1.0",
+      "description": "A navigation that behaves like a droplet. One circle in a corner that leans toward your cursor, then splits into the nav items through liquid bridges. Analytic metaball SVG, no blur filters.",
+      "license": "MIT",
+      "repository": "https://github.com/denizeffects/dropnav",
+      "npmUrl": "https://www.npmjs.com/package/%40denizeffects%2Fdropnav",
+      "category": "frontend",
+      "createdAt": "2026-07-26T21:28:28.960Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 87
     },
     {
       "name": "@dmemo/cli",
@@ -1058,6 +1106,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/aioz",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for AIOZ (build etherscan-aioz-626e8036-1785099252577, commit ea904c4, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/aioz",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Faioz",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T20:54:37.095Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/boson",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BOSON (build etherscan-boson-c477d038-1785083640270, commit 30ced60, branch etherscan)",
@@ -1068,6 +1128,18 @@
       "createdAt": "2026-07-26T16:34:41.037Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/cate",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for CATE (build etherscan-cate-a0045305-1785101018056, commit 4f0db8a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/cate",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcate",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T21:24:03.345Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/cmtat-base",
@@ -1238,6 +1310,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/mloot",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MLOOT (build etherscan-mloot-1dfe7ca0-1785099392483, commit 88db0e6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mloot",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmloot",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T20:56:54.719Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/mne",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for MNE (build etherscan-mne-426ca1ea-1785019635369, commit 418a406, branch etherscan)",
@@ -1380,6 +1464,30 @@
       "createdAt": "2026-07-26T11:55:41.106Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/trt",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TRT (build etherscan-trt-4bd2b64a-1785099892802, commit c9d219d, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/trt",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftrt",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T21:05:20.503Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/uplink",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Uplink (build etherscan-uplink-184b61a7-1785100838027, commit 1515df6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/uplink",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fuplink",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T21:20:59.863Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/verusproof",
@@ -2630,6 +2738,18 @@
       "score": 57
     },
     {
+      "name": "@repass/tracker",
+      "version": "0.1.0",
+      "description": "Tracker client-side da Repass — captura de clique, identidade cross-device e conversão no browser.",
+      "license": "MIT",
+      "repository": "https://github.com/srsantosdev/repass",
+      "npmUrl": "https://www.npmjs.com/package/%40repass%2Ftracker",
+      "category": "frontend",
+      "createdAt": "2026-07-26T21:02:33.521Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 40
+    },
+    {
       "name": "@revolist/dash-datagrid",
       "version": "4.23.24",
       "description": "RevoGrid Core wrapper for Plotly Dash.",
@@ -2640,6 +2760,18 @@
       "createdAt": "2026-07-25T14:37:24.743Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 81
+    },
+    {
+      "name": "@richardtwi-dbg/fetchly",
+      "version": "0.3.0",
+      "description": "A lightweight, fully typed fetch client",
+      "license": "MIT",
+      "repository": "https://github.com/RichardTwi-dbg/fetchly",
+      "npmUrl": "https://www.npmjs.com/package/%40richardtwi-dbg%2Ffetchly",
+      "category": "backend",
+      "createdAt": "2026-07-26T05:35:32.809Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 42
     },
     {
       "name": "@rxabdullah/xdi-fca",
@@ -2880,6 +3012,18 @@
       "createdAt": "2026-07-26T14:58:16.410Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 52
+    },
+    {
+      "name": "@stayradiated/pi-tag-slack",
+      "version": "0.1.1",
+      "description": "Lightweight Slack gateway for pi coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/stayradiated/pi-tag-slack",
+      "npmUrl": "https://www.npmjs.com/package/%40stayradiated%2Fpi-tag-slack",
+      "category": "utilities",
+      "createdAt": "2026-07-26T21:13:38.793Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 66
     },
     {
       "name": "@stone-js/i18n",
@@ -3290,6 +3434,18 @@
       "score": 57
     },
     {
+      "name": "@yourlivingroom/cardcatalog",
+      "version": "0.1.0",
+      "description": "Persistent, incrementally-maintained LevelDB indexes over a watched directory",
+      "license": "ISC",
+      "repository": "https://github.com/yourlivingroom/cardcatalog",
+      "npmUrl": "https://www.npmjs.com/package/%40yourlivingroom%2Fcardcatalog",
+      "category": "utilities",
+      "createdAt": "2026-07-26T21:11:23.068Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 73
+    },
+    {
       "name": "@zady/logger",
       "version": "1.0.0",
       "description": "um logger simples e poderoso para Node.js, com saídas formatadas no console, tratamento de erros e utilitários focados no desenvolvedor.",
@@ -3300,6 +3456,30 @@
       "createdAt": "2026-07-26T17:07:50.143Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 79
+    },
+    {
+      "name": "@zemnmez/result",
+      "version": "1.0.0",
+      "description": "A tiny, purely functional TypeScript implementation of Rust's Result type",
+      "license": "MIT",
+      "repository": "https://github.com/zemn-me/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40zemnmez%2Fresult",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T20:48:55.369Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 48
+    },
+    {
+      "name": "@zerotohundred/mcp-server",
+      "version": "0.1.0",
+      "description": "Z2H Model Context Protocol server — list software on Z2H from Claude Code, Cursor, Windsurf, Continue, and any MCP client.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Zero-to-hundred/z2h",
+      "npmUrl": "https://www.npmjs.com/package/%40zerotohundred%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-07-26T20:58:30.345Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 47
     },
     {
       "name": "@zhcsyncer/pi-plan-mode",
@@ -3350,6 +3530,18 @@
       "score": 79
     },
     {
+      "name": "a11y-tabs-widget",
+      "version": "1.0.0",
+      "description": "Accessible tabs behavior for semantic, progressively enhanced tab interfaces.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/a11y-tabs-widget",
+      "npmUrl": "https://www.npmjs.com/package/a11y-tabs-widget",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T21:18:47.263Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 77
+    },
+    {
       "name": "admitiq",
       "version": "0.3.2",
       "description": "AdmitiQ: signed, expiring, revocable tokens for QR codes and ticket links. https://admitiq.logiclitz.org",
@@ -3396,6 +3588,18 @@
       "createdAt": "2026-07-26T17:18:37.569Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 73
+    },
+    {
+      "name": "alberta-buck-core",
+      "version": "0.1.2",
+      "description": "Alberta Buck core platform (JS): the ChainSession API over Tevm/anvil/testnets with expectation journaling, the agent simulation platform, and the BigInt-native wrappers around the WebAssembly kernels",
+      "license": "CAL-1.0",
+      "repository": "https://github.com/alberta-buck/alberta-buck",
+      "npmUrl": "https://www.npmjs.com/package/alberta-buck-core",
+      "category": "testing",
+      "createdAt": "2026-07-26T14:46:00.175Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 50
     },
     {
       "name": "arclens",
@@ -3540,6 +3744,18 @@
       "createdAt": "2026-07-26T19:52:29.534Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 79
+    },
+    {
+      "name": "brisk-aitesting",
+      "version": "0.1.0",
+      "description": "AI-native modular testing engine for SaaS, APIs, UI workflows, and contracts.",
+      "license": "MIT",
+      "repository": "https://github.com/oshjain/brisk-aitesting",
+      "npmUrl": "https://www.npmjs.com/package/brisk-aitesting",
+      "category": "testing",
+      "createdAt": "2026-07-26T20:51:49.331Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 57
     },
     {
       "name": "buildloop",
@@ -3768,6 +3984,18 @@
       "createdAt": "2026-07-25T13:37:39.234Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 61
+    },
+    {
+      "name": "dexiecable",
+      "version": "0.1.1",
+      "description": "Client-side companion for the DexieCable Ruby gem. Receives Dexie.js mutations from ActionCable and replays them against a local IndexedDB database.",
+      "license": "MIT",
+      "repository": "https://github.com/buhrmi/dexiecable",
+      "npmUrl": "https://www.npmjs.com/package/dexiecable",
+      "category": "data",
+      "createdAt": "2026-07-25T22:58:27.598Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 48
     },
     {
       "name": "diarium",
@@ -4682,6 +4910,18 @@
       "score": 57
     },
     {
+      "name": "n8n-nodes-eboo-ocr",
+      "version": "1.0.1",
+      "description": "Custom n8n node for Eboo OCR and Audio Transcription API",
+      "license": "MIT",
+      "repository": "https://github.com/msd0s/n8n-nodes-eboo-ocr",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-eboo-ocr",
+      "category": "backend",
+      "createdAt": "2026-07-26T14:13:16.020Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 56
+    },
+    {
       "name": "n8n-nodes-hixy-intelligence-cloud",
       "version": "0.2.0",
       "description": "n8n community node for the Hixy Intelligence Cloud API — trends, forecasts and grounded business recommendations from the Hixy Trend Intelligence Engine",
@@ -5306,6 +5546,18 @@
       "score": 59
     },
     {
+      "name": "reynolds",
+      "version": "0.1.1",
+      "description": "Agentic OpenFOAM CFD in your terminal: describe a flow problem and get an evidence-backed answer",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/InviscidAI/Reynolds",
+      "npmUrl": "https://www.npmjs.com/package/reynolds",
+      "category": "cli",
+      "createdAt": "2026-07-26T20:27:12.197Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 65
+    },
+    {
       "name": "rig-lint",
       "version": "0.1.0",
       "description": "Static lint for Claude Code, Codex, Cursor, Gemini, OpenCode, and MCP configuration.",
@@ -5822,6 +6074,30 @@
       "score": 67
     },
     {
+      "name": "usertrust-acs-adapter",
+      "version": "1.5.0",
+      "description": "ACS/AGT composite-evaluator adapter: external policy decides, the usertrust ledger reserves",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/usertools-ai/usertrust",
+      "npmUrl": "https://www.npmjs.com/package/usertrust-acs-adapter",
+      "category": "devops",
+      "createdAt": "2026-07-26T18:27:29.141Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 55
+    },
+    {
+      "name": "usertrust-server",
+      "version": "1.5.0",
+      "description": "Self-hostable HTTP control plane for the usertrust governance kernel",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/usertools-ai/usertrust",
+      "npmUrl": "https://www.npmjs.com/package/usertrust-server",
+      "category": "backend",
+      "createdAt": "2026-07-26T18:27:25.593Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 54
+    },
+    {
       "name": "valida-cnpj-alfanumerico",
       "version": "1.0.0",
       "description": "Validação, formatação e geração de CNPJ alfanumérico (e numérico) conforme a IN RFB nº 2.229/2024 — algoritmo oficial da Receita Federal, zero dependências, funciona em Node.js e navegador.",
@@ -5904,6 +6180,18 @@
       "createdAt": "2026-07-26T07:32:50.295Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 85
+    },
+    {
+      "name": "veriquote",
+      "version": "0.1.1",
+      "description": "Deterministic + semantic verification of quote-grounded LLM citations (EVI1 protocol): fuzzy verbatim-quote matching and an LLM entailment judge for transparent, per-claim hallucination detection.",
+      "license": "MIT",
+      "repository": "https://github.com/rickintoplace/veriquote",
+      "npmUrl": "https://www.npmjs.com/package/veriquote",
+      "category": "devops",
+      "createdAt": "2026-07-26T21:21:38.034Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 87
     },
     {
       "name": "vibemovie",
@@ -6000,6 +6288,18 @@
       "createdAt": "2026-07-26T11:05:48.133Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 60
+    },
+    {
+      "name": "yourindie-mcp",
+      "version": "0.1.0",
+      "description": "Production-oriented MCP server toolkit for Supabase OAuth 2.1, RLS, Next.js, and Supabase Edge Functions.",
+      "license": "MIT",
+      "repository": "https://github.com/Danejw/lovable-supabase",
+      "npmUrl": "https://www.npmjs.com/package/yourindie-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T21:26:04.352Z",
+      "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 67
     }
   ]
 }
