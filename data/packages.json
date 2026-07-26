@@ -50,6 +50,18 @@
       "score": 49
     },
     {
+      "name": "@alwatr/weaver",
+      "version": "10.0.0",
+      "description": "A bun-native build tool and dev server that composes @alwatr/loom (TSX→HTML), Bun's bundler (client JS), and Tailwind CSS — with in-memory serve and native live-reload.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/Alwatr/alwatr",
+      "npmUrl": "https://www.npmjs.com/package/%40alwatr%2Fweaver",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:22:00.703Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 80
+    },
+    {
       "name": "@alwkala/create-cinematic-kit",
       "version": "3.0.0",
       "description": "CLI generator and Agent Skill installer for Cinematic Landing Kit (Apple x Cartier aesthetic scroll-driven landing pages)",
@@ -60,6 +72,18 @@
       "createdAt": "2026-07-26T02:08:04.964Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 90
+    },
+    {
+      "name": "@amemhq/core",
+      "version": "1.0.0",
+      "description": "The agentic memory engine — notes that construct, link, and evolve like a Zettelkasten, on Qdrant + Transformers.js. No Python. Framework-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/amemhq/amem",
+      "npmUrl": "https://www.npmjs.com/package/%40amemhq%2Fcore",
+      "category": "data",
+      "createdAt": "2026-07-26T13:24:19.803Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 82
     },
     {
       "name": "@antivamp_io/sdk",
@@ -470,6 +494,18 @@
       "score": 70
     },
     {
+      "name": "@dawod/thmanyah-font-web",
+      "version": "1.2.0",
+      "description": "Community web package for the Thmanyah (ثمانية) font family — Sans, Serif Display & Serif Text in five weights. Drop-in CSS, CDN-ready, npm-installable.",
+      "license": "SEE LICENSE IN https://font.thmanyah.com/licenses",
+      "repository": "https://github.com/engdawood/thmanyah-font-web",
+      "npmUrl": "https://www.npmjs.com/package/%40dawod%2Fthmanyah-font-web",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:40:04.472Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
+    },
+    {
       "name": "@dmemo/cli",
       "version": "0.1.0",
       "description": "dMemo onboarding CLI — `npx @dmemo/cli setup` generates/imports a wallet, writes ~/.dmemo/config.json, and wires the memory leg into whichever coding agent hosts (Claude Code, OpenCode, OpenClaw, Codex) are detected on the machine. Zero interactive web st",
@@ -564,6 +600,30 @@
       "createdAt": "2026-07-25T15:20:17.869Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 78
+    },
+    {
+      "name": "@dongzijie1/pi-ai",
+      "version": "0.82.1",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40dongzijie1%2Fpi-ai",
+      "category": "backend",
+      "createdAt": "2026-07-26T14:19:55.438Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
+    },
+    {
+      "name": "@dongzijie1/pi-tui",
+      "version": "0.82.1",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40dongzijie1%2Fpi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T14:19:31.639Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
     },
     {
       "name": "@duskel/cassette",
@@ -1682,6 +1742,18 @@
       "score": 59
     },
     {
+      "name": "@next-server-tools/standalone",
+      "version": "0.1.0",
+      "description": "Self-hosted Next.js standalone server — Next for SSR/RSC; replace generated server.js and extend with middleware, hooks, and plugins",
+      "license": "MIT",
+      "repository": "https://github.com/pavel-krasnov/next-server-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40next-server-tools%2Fstandalone",
+      "category": "backend",
+      "createdAt": "2026-07-26T13:04:56.816Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
+    },
+    {
       "name": "@nexuss0781/nexinal",
       "version": "1.0.0",
       "description": "TypeScript/JavaScript client for Nexuss Bash remote execution API",
@@ -1814,6 +1886,18 @@
       "score": 50
     },
     {
+      "name": "@pauldeng/node-red-contrib-redis",
+      "version": "2.0.0",
+      "description": "Redis integration nodes for Node-RED with Cluster, Sentinel, streams, pub/sub, commands, Lua, and Redis Functions.",
+      "license": "MIT",
+      "repository": "https://github.com/pauldeng/node-red-contrib-redis",
+      "npmUrl": "https://www.npmjs.com/package/%40pauldeng%2Fnode-red-contrib-redis",
+      "category": "data",
+      "createdAt": "2026-07-26T13:28:32.580Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 77
+    },
+    {
       "name": "@pooriaarab/vibemovie",
       "version": "0.1.0",
       "description": "Your agent coding session as a short recap video — Hyperframes (HTML/CSS/JS) with zero gen-video keys, or your own video model. For Claude Code, Codex, Gemini, and other agentic CLIs. Local-first.",
@@ -1932,6 +2016,66 @@
       "createdAt": "2026-07-25T18:31:14.748Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 86
+    },
+    {
+      "name": "@razorwind/design-md",
+      "version": "0.0.4",
+      "description": "Razorwind design-md package that can create a DESIGN.md design-system specification file from design tokens or read a DESIGN.md file and return the design-system specification.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fdesign-md",
+      "category": "data",
+      "createdAt": "2026-07-26T14:09:42.856Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 77
+    },
+    {
+      "name": "@razorwind/docgen",
+      "version": "0.0.4",
+      "description": "Power Plant generator that creates MDX documentation for the tokens/components defined in the design system.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fdocgen",
+      "category": "data",
+      "createdAt": "2026-07-26T14:09:43.087Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 72
+    },
+    {
+      "name": "@razorwind/shadcn",
+      "version": "0.0.4",
+      "description": "Razorwind Shadcn package that can create Shadcn UI registry files from design tokens/components or read a Shadcn UI registry file and return the design tokens/components.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fshadcn",
+      "category": "data",
+      "createdAt": "2026-07-26T14:09:45.484Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 77
+    },
+    {
+      "name": "@razorwind/storybook",
+      "version": "0.0.4",
+      "description": "Power Plant generator that creates Storybook MDX token doc blocks from Razorwind design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fstorybook",
+      "category": "data",
+      "createdAt": "2026-07-26T14:09:47.254Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 71
+    },
+    {
+      "name": "@razorwind/tailwindcss",
+      "version": "0.0.4",
+      "description": "Razorwind Tailwind CSS package that can create Tailwind CSS files from design tokens or read a Tailwind CSS file and return the design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Ftailwindcss",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:09:47.039Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 74
     },
     {
       "name": "@reactdays/react",
@@ -2858,6 +3002,18 @@
       "score": 90
     },
     {
+      "name": "decivo-rescue",
+      "version": "1.0.0",
+      "description": "Kostenloser Sicherheits-/Produktionsreife-Scan für KI-gebaute Web-Apps (Lovable, Bolt, v0, Cursor, Replit). Prüft eine öffentliche URL und liefert einen Vibe Readiness Score mit Go/Iterate/Stop-Verdikt.",
+      "license": "MIT",
+      "repository": "https://github.com/decivo-i-G/decivo",
+      "npmUrl": "https://www.npmjs.com/package/decivo-rescue",
+      "category": "devops",
+      "createdAt": "2026-07-26T13:36:26.099Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
+    },
+    {
       "name": "devinpipe",
       "version": "0.1.0",
       "description": "Token-saving HTTPS intercepting proxy for Devin CLI: renders bulky context as dense PNGs and uploads them as attachments, cutting input characters/ACU.",
@@ -2966,6 +3122,18 @@
       "score": 65
     },
     {
+      "name": "eternal-cluster-mcp",
+      "version": "1.0.0",
+      "description": "An MCP server for the Church of the Eternal Cluster. Daily scripture, doctrine, incident diagnosis, and deployment blessings for those who run Kubernetes and have suffered for it. HA-llelujah.",
+      "license": "MIT",
+      "repository": "https://github.com/vikozs/eternal-cluster-mcp",
+      "npmUrl": "https://www.npmjs.com/package/eternal-cluster-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T14:51:08.066Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 79
+    },
+    {
       "name": "fedcm-server",
       "version": "0.1.0",
       "description": "Framework-agnostic FedCM Identity Provider middleware for Node.js",
@@ -2976,6 +3144,18 @@
       "createdAt": "2026-07-25T19:36:45.389Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 76
+    },
+    {
+      "name": "flipkart-seller-mcp",
+      "version": "0.1.0",
+      "description": "High-performance, token-optimized Model Context Protocol (MCP) server for Flipkart Seller Hub v3 APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/ron2111/flipkart-seller-mcp",
+      "npmUrl": "https://www.npmjs.com/package/flipkart-seller-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T14:30:59.235Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
     },
     {
       "name": "gaokao-vocab-app",
@@ -3158,6 +3338,18 @@
       "score": 78
     },
     {
+      "name": "homebridge-tuya-ultimate",
+      "version": "2.6.0",
+      "description": "Tuya Smart and Smart Life integration for Homebridge with QR account authorization and live cloud updates.",
+      "license": "MIT",
+      "repository": "https://github.com/tharunpkarun/homebridge-tuya-ultimate",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-tuya-ultimate",
+      "category": "devops",
+      "createdAt": "2026-07-26T14:09:20.140Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 76
+    },
+    {
       "name": "htmx-magnify",
       "version": "1.0.0",
       "description": "htmx extension for image magnification with zoom glass effect",
@@ -3302,6 +3494,18 @@
       "score": 56
     },
     {
+      "name": "linkedin-mcp--bridge",
+      "version": "1.0.3",
+      "description": "Production-grade LinkedIn MCP server: full profile, post, network, messaging, job search and application automation over an authenticated browser session.",
+      "license": "MIT",
+      "repository": "https://github.com/Sabari2005/linkedin-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/linkedin-mcp--bridge",
+      "category": "testing",
+      "createdAt": "2026-07-26T13:51:58.501Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 95
+    },
+    {
       "name": "linkgravity",
       "version": "1.0.0",
       "description": "Discord bot bridge for the Antigravity (agy) CLI, with voice interaction support",
@@ -3432,6 +3636,18 @@
       "createdAt": "2026-07-25T18:54:40.244Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 71
+    },
+    {
+      "name": "meowverlay",
+      "version": "0.1.2",
+      "description": "An autonomous animated cat that lives on your macOS desktop",
+      "license": "MIT",
+      "repository": "https://github.com/pm-2001/my-pets",
+      "npmUrl": "https://www.npmjs.com/package/meowverlay",
+      "category": "utilities",
+      "createdAt": "2026-07-26T14:03:56.887Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
     },
     {
       "name": "mermaid-bpmn",
@@ -3576,6 +3792,30 @@
       "createdAt": "2026-07-25T22:38:11.377Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 70
+    },
+    {
+      "name": "node-red-contrib-home-ems",
+      "version": "0.1.0",
+      "description": "Node-RED nodes for a home energy management system: ENTSO-E dynamic prices, PV production forecast, load forecast, and a battery dispatch planner.",
+      "license": "MIT",
+      "repository": "https://github.com/stefaanternier-iot/node-red-contrib-home-ems",
+      "npmUrl": "https://www.npmjs.com/package/node-red-contrib-home-ems",
+      "category": "utilities",
+      "createdAt": "2026-07-26T14:36:28.253Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 80
+    },
+    {
+      "name": "noxzaa",
+      "version": "1.1.1",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/noxXza/baileys",
+      "npmUrl": "https://www.npmjs.com/package/noxzaa",
+      "category": "utilities",
+      "createdAt": "2026-07-26T13:16:23.784Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
     },
     {
       "name": "nxtkill",
@@ -3890,6 +4130,18 @@
       "score": 75
     },
     {
+      "name": "rendemo",
+      "version": "0.1.0",
+      "description": "Verify a Rendemo guided walkthrough against your source: `rendemo check` confirms every step in rendemo.flow.json still resolves to exactly one data-rendemo marker. Offline, no auth, no network.",
+      "license": "MIT",
+      "repository": "https://github.com/jakegrepo/rendemo",
+      "npmUrl": "https://www.npmjs.com/package/rendemo",
+      "category": "data",
+      "createdAt": "2026-07-26T13:29:19.404Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 73
+    },
+    {
       "name": "renidly",
       "version": "0.1.0",
       "description": "The official Node.js & TypeScript SDK for the Renidly B2B professional data APIs (Data, Live, Email, Account).",
@@ -3948,6 +4200,18 @@
       "createdAt": "2026-07-25T13:08:06.580Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 87
+    },
+    {
+      "name": "screeps-integration-tests",
+      "version": "1.0.0",
+      "description": "Portable integration test framework for Screeps bots. Run your bot against a full local game server — verify behavior, collect metrics, no game subscription needed.",
+      "license": "MIT",
+      "repository": "https://github.com/kvi05/screeps-integration-tests",
+      "npmUrl": "https://www.npmjs.com/package/screeps-integration-tests",
+      "category": "testing",
+      "createdAt": "2026-07-26T13:57:05.873Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 86
     },
     {
       "name": "sculptors",
@@ -4031,6 +4295,18 @@
       "category": "backend",
       "createdAt": "2026-07-26T11:31:12.879Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
+      "score": 76
+    },
+    {
+      "name": "sidder",
+      "version": "0.1.0",
+      "description": "A seed runner. Migrations got one fifteen years ago; seeds never did.",
+      "license": "MIT",
+      "repository": "https://github.com/dibenkobit/sidder",
+      "npmUrl": "https://www.npmjs.com/package/sidder",
+      "category": "data",
+      "createdAt": "2026-07-26T13:58:42.588Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 76
     },
     {
@@ -4274,6 +4550,18 @@
       "score": 79
     },
     {
+      "name": "twenty-bells",
+      "version": "1.0.0",
+      "description": "The Bell — an activity feed for Twenty: what changed in the workspace, team notes with their comments, documents, and the tasks that are overdue.",
+      "license": "MIT",
+      "repository": "https://github.com/frasimah/twenty_bells",
+      "npmUrl": "https://www.npmjs.com/package/twenty-bells",
+      "category": "utilities",
+      "createdAt": "2026-07-26T14:41:13.986Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 75
+    },
+    {
       "name": "typeorm-strong-migrations",
       "version": "0.1.4",
       "description": "Catch unsafe TypeORM migrations in development",
@@ -4284,6 +4572,18 @@
       "createdAt": "2026-07-26T07:35:29.982Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 74
+    },
+    {
+      "name": "ulbase-js",
+      "version": "3.0.0",
+      "description": "Ultra‑Lightweight Firestore‑like Database for Node.js",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/Nhm1Off/ULbase",
+      "npmUrl": "https://www.npmjs.com/package/ulbase-js",
+      "category": "data",
+      "createdAt": "2026-07-26T13:54:34.126Z",
+      "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 77
     },
     {
       "name": "ultimate-agent-stack",

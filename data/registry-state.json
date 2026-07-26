@@ -1,31 +1,139 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121592705,
-  "lastRunAt": "2026-07-26T13:02:31.051Z",
+  "lastSequence": 121602862,
+  "lastRunAt": "2026-07-26T14:57:34.158Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@esoway/snapcompact",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@esoway/stats",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@esoway/agent-core",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@esoway/cli",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@miaoy0ushan/fp",
+      "name": "@pieceful/ravel-markdown",
       "attempts": 1
     },
     {
-      "name": "@dinesh-gamage/uikit",
+      "name": "@pieceful/ravel-host-node",
+      "attempts": 1
+    },
+    {
+      "name": "@pieceful/ravel",
+      "attempts": 1
+    },
+    {
+      "name": "@alistigo/local-storage-plugin",
+      "attempts": 1
+    },
+    {
+      "name": "@alistigo/claude-storage-plugin",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/abort-signal-timeout",
+      "attempts": 1
+    },
+    {
+      "name": "@sensef/mcp-matrix",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/after",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-average",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-average-by",
+      "attempts": 1
+    },
+    {
+      "name": "@osolmaz/pi-factory",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-binary-search-by",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-chunk",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-compact",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-drop",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-flatten-depth",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-insert",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-intersection",
+      "attempts": 1
+    },
+    {
+      "name": "@osolmaz/schemator",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-remove-at",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-rotate",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-sample",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-shuffle",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-sliding-window",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/array-take",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/async-cache",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/async-iterable-take",
+      "attempts": 1
+    },
+    {
+      "name": "@lucid-softworks/before",
+      "attempts": 1
+    },
+    {
+      "name": "@mkrem/pglite-server",
       "attempts": 1
     }
   ]
