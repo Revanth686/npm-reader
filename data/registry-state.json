@@ -1,31 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121637447,
-  "lastRunAt": "2026-07-26T21:43:13.823Z",
+  "lastSequence": 121642542,
+  "lastRunAt": "2026-07-26T22:52:31.397Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@devemberx/knit-statusline-darwin-arm64",
+      "name": "@aurabase/cli-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@devemberx/knit-statusline-darwin-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@devemberx/knit-statusline-linux-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@devemberx/knit-statusline-linux-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@devemberx/knit-statusline-win32-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@devemberx/knit-statusline",
+      "name": "@aurabase/cli",
       "attempts": 1
     }
   ]

@@ -38,6 +38,42 @@
       "score": 76
     },
     {
+      "name": "@adastracomputing/aer-hooks",
+      "version": "0.1.0",
+      "description": "Fail-open, redaction-by-default hook adapters that record the tool events a coding harness fires (Claude Code, OpenAI Codex CLI) or its plugins load (opencode) into AER. Tool and argument-key names only by default, never values.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Ad-Astra-Computing/aer",
+      "npmUrl": "https://www.npmjs.com/package/%40adastracomputing%2Faer-hooks",
+      "category": "cli",
+      "createdAt": "2026-07-26T22:39:25.601Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 63
+    },
+    {
+      "name": "@afosecure/meshsdk",
+      "version": "0.1.2",
+      "description": "A modern, lightweight React SDK for building peer-to-peer video communication applications. Built on WebRTC with a clean, composable rust API.",
+      "license": "MIT",
+      "repository": "https://github.com/Megabyte-webdev/meshsdk",
+      "npmUrl": "https://www.npmjs.com/package/%40afosecure%2Fmeshsdk",
+      "category": "frontend",
+      "createdAt": "2026-07-26T18:10:20.381Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 63
+    },
+    {
+      "name": "@agentchatme/agent-core",
+      "version": "0.0.11",
+      "description": "Shared host-agnostic engine for AgentChat coding-agent integrations — wire protocol, identity storage, session digest, hook state machine, always-on daemon internals. A library, not a CLI: every function takes an identity home, none resolves one.",
+      "license": "MIT",
+      "repository": "https://github.com/agentchatme/agentchat-agent-core",
+      "npmUrl": "https://www.npmjs.com/package/%40agentchatme%2Fagent-core",
+      "category": "cli",
+      "createdAt": "2026-07-26T20:22:25.565Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 62
+    },
+    {
       "name": "@ali.camargo/tournament-brackets",
       "version": "1.3.0",
       "description": "Reusable single-elimination tournament brackets — vanilla ESM core with optional jQuery adapter (React/Vue/Angular planned)",
@@ -254,6 +290,18 @@
       "score": 69
     },
     {
+      "name": "@benjamin-small/browser-terminal",
+      "version": "0.1.0",
+      "description": "A terminal/tmux experience for any web page, powered by a Rust/WASM core with structured-value pipes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/benjamin-small/browser-terminal",
+      "npmUrl": "https://www.npmjs.com/package/%40benjamin-small%2Fbrowser-terminal",
+      "category": "frontend",
+      "createdAt": "2026-07-26T22:28:08.289Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 62
+    },
+    {
       "name": "@bigblueboo/expert",
       "version": "0.1.0",
       "description": "A blocking GPT-5.6 Pro consultation CLI for agents.",
@@ -350,6 +398,18 @@
       "score": 70
     },
     {
+      "name": "@bumpyclock/pi-codex-compat",
+      "version": "0.1.1",
+      "description": "Pi extension consolidating OpenAI Codex fast mode, native compaction, named OAuth accounts, live quota, historical usage, and token throughput status.",
+      "license": "MIT",
+      "repository": "https://github.com/BumpyClock/pi-codex-compat",
+      "npmUrl": "https://www.npmjs.com/package/%40bumpyclock%2Fpi-codex-compat",
+      "category": "utilities",
+      "createdAt": "2026-07-26T17:27:28.872Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 63
+    },
+    {
       "name": "@byline/db-mysql",
       "version": "4.8.0",
       "description": "Byline CMS db mysql package",
@@ -398,6 +458,18 @@
       "score": 86
     },
     {
+      "name": "@checkleaked/trustpilot-api",
+      "version": "1.0.0",
+      "description": "Zero-dependency TypeScript SDK for the CheckLeaked Trustpilot API on RapidAPI. Typed coverage of every endpoint advertised by the RapidAPI MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/eduair94/trustpilot-api-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40checkleaked%2Ftrustpilot-api",
+      "category": "backend",
+      "createdAt": "2026-07-26T22:39:30.317Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 89
+    },
+    {
       "name": "@chibi.pl/nest-sequelize-db",
       "version": "0.0.2",
       "description": "NestJS Sequelize DB Module for easy use of databases in NestJS applications",
@@ -444,6 +516,18 @@
       "createdAt": "2026-07-25T13:33:08.887Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 75
+    },
+    {
+      "name": "@clank.run/framework",
+      "version": "0.7.0",
+      "description": "AI-first, zero-dependency full-stack TypeScript framework with SSR, live data, auth, and deployment.",
+      "license": "MIT",
+      "repository": "https://github.com/nearbycoder/clank.run",
+      "npmUrl": "https://www.npmjs.com/package/%40clank.run%2Fframework",
+      "category": "frontend",
+      "createdAt": "2026-07-26T21:48:58.387Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 80
     },
     {
       "name": "@cloudbitmaps/roaring",
@@ -708,6 +792,18 @@
       "createdAt": "2026-07-26T21:28:28.960Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 87
+    },
+    {
+      "name": "@devemberx/knit-statusline",
+      "version": "0.1.0",
+      "description": "A status line for Claude Code that you knit yourself: every row, every piece of every row, is one line of config",
+      "license": "MIT",
+      "repository": "https://github.com/devemberx/knit-statusline",
+      "npmUrl": "https://www.npmjs.com/package/%40devemberx%2Fknit-statusline",
+      "category": "cli",
+      "createdAt": "2026-07-26T21:41:25.714Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 56
     },
     {
       "name": "@dmemo/cli",
@@ -1224,6 +1320,18 @@
       "createdAt": "2026-07-25T16:46:07.913Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/fwarewards",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FWARewards (build etherscan-fwarewards-6a1a1c0c-1785104490180, commit 12c1090, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/fwarewards",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ffwarewards",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T22:21:53.799Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/gcoin",
@@ -1790,6 +1898,30 @@
       "score": 90
     },
     {
+      "name": "@indigoai-us/hq-pack-presenter-mode",
+      "version": "1.0.0",
+      "description": "HQ content pack: turn any self-contained HTML deck into an hq-deploy–hosted presentation with two cloud-synced links — a presentation link and a notes/teleprompter link that stay in sync across devices.",
+      "license": "MIT",
+      "repository": "https://github.com/indigoai-us/hq-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40indigoai-us%2Fhq-pack-presenter-mode",
+      "category": "devops",
+      "createdAt": "2026-07-26T21:59:35.365Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 71
+    },
+    {
+      "name": "@indigoai-us/hq-pack-slack-bot",
+      "version": "1.0.5",
+      "description": "HQ content pack: per-bot Slack mention watcher + spawned-worker template. Pairs with hq-pro slack-app-factory (/hq-new-bot).",
+      "license": "MIT",
+      "repository": "https://github.com/indigoai-us/hq-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40indigoai-us%2Fhq-pack-slack-bot",
+      "category": "utilities",
+      "createdAt": "2026-07-26T21:59:32.865Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 84
+    },
+    {
       "name": "@instush/mcp",
       "version": "0.3.0",
       "description": "Local MCP bridge for driving the Instush video editor from coding agents (Claude Code, Codex, …). Content-free translator: MCP on the agent side, a private localhost WebSocket to the editor tab.",
@@ -2004,6 +2136,18 @@
       "createdAt": "2026-07-25T19:46:11.538Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 58
+    },
+    {
+      "name": "@majikah/majik-key-client",
+      "version": "0.1.0",
+      "description": "The base parent client class for Majikah applications, centralizing post-quantum cryptographic account management, keystores, and client state.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Majikah/majik-signature-client",
+      "npmUrl": "https://www.npmjs.com/package/%40majikah%2Fmajik-key-client",
+      "category": "data",
+      "createdAt": "2026-07-26T22:42:19.582Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 63
     },
     {
       "name": "@mallary/n8n-nodes-mallary",
@@ -2942,6 +3086,18 @@
       "score": 70
     },
     {
+      "name": "@smallthinkingmachines/video-context-mcp",
+      "version": "0.8.0",
+      "description": "Model-agnostic MCP server that turns videos into an interactive, queryable knowledge structure — transcript, keyframes, OCR, and search that any MCP client can scrub lazily",
+      "license": "MIT",
+      "repository": "https://github.com/smallthinkingmachines/video-context-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40smallthinkingmachines%2Fvideo-context-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T22:42:35.027Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 87
+    },
+    {
       "name": "@smartlyqofficial/cli",
       "version": "0.1.0",
       "description": "Official command line for the SmartlyQ API - social posting, AI content generation, SEO, CRM, and more.",
@@ -3170,6 +3326,18 @@
       "score": 66
     },
     {
+      "name": "@tanglat/splitfx",
+      "version": "1.0.0",
+      "description": "A JavaScript plugin for splitting and animating text.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/tanglat/splitfx",
+      "npmUrl": "https://www.npmjs.com/package/%40tanglat%2Fsplitfx",
+      "category": "frontend",
+      "createdAt": "2026-07-26T22:37:27.262Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 58
+    },
+    {
       "name": "@theasanai/beacon",
       "version": "0.5.0",
       "description": "Instantly know which project a window is — and what your AI agent did in it.",
@@ -3230,6 +3398,18 @@
       "score": 82
     },
     {
+      "name": "@touchable/design-system",
+      "version": "1.0.1",
+      "description": "The official accessible Vue 3 design system for Touchable Technologies products.",
+      "license": "MIT",
+      "repository": "https://github.com/marciosdev/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40touchable%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-07-26T21:20:33.108Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 86
+    },
+    {
       "name": "@trueyy-sdk/node",
       "version": "1.0.0",
       "description": "Trueyy Server SDK for Node.js — mint session tokens, query sessions, handle webhooks.",
@@ -3288,6 +3468,18 @@
       "createdAt": "2026-07-25T22:53:27.676Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 62
+    },
+    {
+      "name": "@uniweb/projections",
+      "version": "0.1.1",
+      "description": "Projections of a Uniweb site's content — agent index, per-page markdown, search index. Pure JS, runs anywhere.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/uniweb/projections",
+      "npmUrl": "https://www.npmjs.com/package/%40uniweb%2Fprojections",
+      "category": "utilities",
+      "createdAt": "2026-07-26T22:08:10.075Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 59
     },
     {
       "name": "@vdaluz/astro-affiliate",
@@ -3432,6 +3624,18 @@
       "createdAt": "2026-07-26T02:21:51.321Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@xlscalc/xlsx-preview",
+      "version": "0.2.0",
+      "description": "Client-side, view-only .xlsx preview that computes formula values in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/Victor-EU/xls-renderer-calc",
+      "npmUrl": "https://www.npmjs.com/package/%40xlscalc%2Fxlsx-preview",
+      "category": "frontend",
+      "createdAt": "2026-07-26T22:33:37.319Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 64
     },
     {
       "name": "@yourlivingroom/cardcatalog",
@@ -3914,6 +4118,18 @@
       "score": 81
     },
     {
+      "name": "create-katalystwp",
+      "version": "0.7.1",
+      "description": "Scaffold a local WordPress + AI-agent dev environment (Docker Compose) with WP-CLI, Claude Code, and the Cursor CLI in an isolated workspace container.",
+      "license": "GPL-2.0-or-later",
+      "repository": "https://github.com/soflyy/katalystwp",
+      "npmUrl": "https://www.npmjs.com/package/create-katalystwp",
+      "category": "cli",
+      "createdAt": "2026-07-26T22:22:19.934Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 85
+    },
+    {
       "name": "create-shells",
       "version": "0.1.0",
       "description": "Scaffolder + kit for driving a Claude Code session from an external front end using only lifecycle hooks and the filesystem.",
@@ -4128,6 +4344,18 @@
       "createdAt": "2026-07-26T14:51:08.066Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 79
+    },
+    {
+      "name": "expo-turbo",
+      "version": "0.1.0",
+      "description": "Host-neutral Turbo XML runtime for Expo React Native and Rails",
+      "license": "MIT",
+      "repository": "https://github.com/noscrubs-dev/expo-turbo",
+      "npmUrl": "https://www.npmjs.com/package/expo-turbo",
+      "category": "frontend",
+      "createdAt": "2026-07-26T22:18:22.129Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 68
     },
     {
       "name": "fedcm-server",
@@ -4440,6 +4668,18 @@
       "createdAt": "2026-07-26T00:48:02.898Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 60
+    },
+    {
+      "name": "kanyutbadag",
+      "version": "1.1.3",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/noxXza/baileys",
+      "npmUrl": "https://www.npmjs.com/package/kanyutbadag",
+      "category": "utilities",
+      "createdAt": "2026-07-26T22:45:11.648Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 73
     },
     {
       "name": "kd-screen-guard",
@@ -4958,6 +5198,18 @@
       "score": 85
     },
     {
+      "name": "navige",
+      "version": "2.0.0",
+      "description": "AI governance SDK — intercept, audit, and control AI agent tool calls. Add human-in-the-loop approval, kill switches, and a full audit trail to any AI agent.",
+      "license": "MIT",
+      "repository": "https://github.com/SMJAI/trustloop-sdk",
+      "npmUrl": "https://www.npmjs.com/package/navige",
+      "category": "utilities",
+      "createdAt": "2026-07-26T22:39:23.740Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 86
+    },
+    {
       "name": "next-blogpanel",
       "version": "1.0.0",
       "description": "A drop-in blog engine for Next.js — admin panel, block editor, SEO, and media, all backed by your own MongoDB.",
@@ -4992,6 +5244,18 @@
       "createdAt": "2026-07-25T14:19:43.694Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 62
+    },
+    {
+      "name": "nexustrade",
+      "version": "0.1.0",
+      "description": "Typed TypeScript SDK for NexusTrade portfolio authoring, backtesting, and optimization",
+      "license": "MIT",
+      "repository": "https://github.com/austin-starks/nexustrade-ts",
+      "npmUrl": "https://www.npmjs.com/package/nexustrade",
+      "category": "testing",
+      "createdAt": "2026-07-26T22:15:48.526Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 66
     },
     {
       "name": "ngx-gantry",
@@ -5054,6 +5318,18 @@
       "score": 80
     },
     {
+      "name": "noxza",
+      "version": "1.1.4",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/noxXza/baileys",
+      "npmUrl": "https://www.npmjs.com/package/noxza",
+      "category": "utilities",
+      "createdAt": "2026-07-26T22:48:49.023Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 73
+    },
+    {
       "name": "noxzaa",
       "version": "1.1.1",
       "description": "A WebSockets library for interacting with WhatsApp Web",
@@ -5064,6 +5340,18 @@
       "createdAt": "2026-07-26T13:16:23.784Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "nsap-address",
+      "version": "1.0.0",
+      "description": "ITU-T Rec. X.213 Network Service Access Point (NSAP) address parsing and printing",
+      "license": "MIT",
+      "repository": "https://github.com/JonathanWilbur/nsap-address",
+      "npmUrl": "https://www.npmjs.com/package/nsap-address",
+      "category": "utilities",
+      "createdAt": "2026-07-26T22:32:24.130Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 62
     },
     {
       "name": "nxtkill",
@@ -5496,6 +5784,18 @@
       "createdAt": "2026-07-26T09:30:06.241Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 75
+    },
+    {
+      "name": "relintio",
+      "version": "1.0.1",
+      "description": "Install and verify Relintio application protection in any project. Detects your runtime, installs the right agent SDK, wires the middleware, and confirms the license is live.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Relintio/relintio-cli",
+      "npmUrl": "https://www.npmjs.com/package/relintio",
+      "category": "cli",
+      "createdAt": "2026-07-26T21:53:12.518Z",
+      "discoveredAt": "2026-07-26T22:52:31.397Z",
+      "score": 88
     },
     {
       "name": "rendemo",
