@@ -230,6 +230,18 @@
       "score": 60
     },
     {
+      "name": "@bridgenode/llm",
+      "version": "0.1.0",
+      "description": "BridgeNode SDK - Pay-per-request AI (LLM, Image, Video, Music, Voice) via x402 on Base and Solana",
+      "license": "MIT",
+      "repository": "https://github.com/bridgenode/llm",
+      "npmUrl": "https://www.npmjs.com/package/%40bridgenode%2Fllm",
+      "category": "utilities",
+      "createdAt": "2026-07-26T12:27:10.243Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 79
+    },
+    {
       "name": "@bugban/js",
       "version": "1.0.0",
       "description": "Bugban error & performance monitoring SDK — framework-agnostic JavaScript/TypeScript core for browsers and Node.js.",
@@ -240,6 +252,18 @@
       "createdAt": "2026-07-26T10:57:04.130Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 66
+    },
+    {
+      "name": "@bugban/next",
+      "version": "1.0.1",
+      "description": "Bugban SDK for Next.js — App and Pages router, server and client, via instrumentation.",
+      "license": "MIT",
+      "repository": "https://github.com/Umid-ismayilov/bugban-js",
+      "npmUrl": "https://www.npmjs.com/package/%40bugban%2Fnext",
+      "category": "frontend",
+      "createdAt": "2026-07-26T10:57:32.474Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 54
     },
     {
       "name": "@buildaureon/mcp",
@@ -288,6 +312,18 @@
       "createdAt": "2026-07-26T09:27:15.769Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 72
+    },
+    {
+      "name": "@charlie.act7/gemini-notebook-mcp",
+      "version": "2.0.0",
+      "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
+      "license": "MIT",
+      "repository": "https://github.com/CharlieCardenasToledo/gemini-notebook-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40charlie.act7%2Fgemini-notebook-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:40:02.649Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 86
     },
     {
       "name": "@chibi.pl/nest-sequelize-db",
@@ -371,6 +407,18 @@
       "category": "utilities",
       "createdAt": "2026-07-25T14:53:08.626Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 55
+    },
+    {
+      "name": "@compare-xml/cli",
+      "version": "0.1.0",
+      "description": "Command-line tool and MCP server for structured XML comparison.",
+      "license": "MIT",
+      "repository": "https://github.com/unitstack/compare-xml",
+      "npmUrl": "https://www.npmjs.com/package/%40compare-xml%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:02:46.573Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 55
     },
     {
@@ -552,6 +600,18 @@
       "createdAt": "2026-07-25T20:00:48.741Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 65
+    },
+    {
+      "name": "@falkordb/n8n-nodes-graphrag",
+      "version": "0.2.0",
+      "description": "n8n community node — wraps the FalkorDB GraphRAG-Server REST API for knowledge-graph ingestion and retrieval.",
+      "license": "MIT",
+      "repository": "https://github.com/FalkorDB/GraphRAG-n8n",
+      "npmUrl": "https://www.npmjs.com/package/%40falkordb%2Fn8n-nodes-graphrag",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:53:53.359Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 70
     },
     {
       "name": "@fft-visualizer/core",
@@ -758,6 +818,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/dai",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DAI (build etherscan-dai-6b175474-1785065899364, commit 3606fce, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dai",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdai",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T11:38:45.986Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/dodocp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DODOCp (build etherscan-dodocp-048b8926-1785062302827, commit 483d46a, branch etherscan)",
@@ -792,6 +864,18 @@
       "createdAt": "2026-07-25T14:18:53.208Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/https-safe-ad",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for https://safe.ad (build etherscan-https-safe-ad-31a24064-1785067264819, commit ef57165, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/https-safe-ad",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fhttps-safe-ad",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:01:28.969Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/ind",
@@ -974,6 +1058,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/tria",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TRIA (build etherscan-tria-228bec41-1785066915040, commit ade3a2e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/tria",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftria",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T11:55:41.106Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/verusproof",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for VerusProof (build etherscan-verusproof-54e03a16-1784993877333, commit 989baa5, branch etherscan)",
@@ -996,6 +1092,18 @@
       "createdAt": "2026-07-25T18:04:16.489Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 59
+    },
+    {
+      "name": "@gitmyabi/zkp",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for $ZKP (build etherscan-zkp-909e34d3-1785067830381, commit 97fe4c4, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/zkp",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fzkp",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T12:10:55.481Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 56
     },
     {
       "name": "@glowbox/seven-segment",
@@ -1934,6 +2042,18 @@
       "score": 60
     },
     {
+      "name": "@sigilcore/warrant-core",
+      "version": "0.1.0",
+      "description": "Platform-neutral parsing, canonicalization, and cryptographic primitives for Sigil Warrant policies.",
+      "license": "MIT",
+      "repository": "https://github.com/Sigil-Core/warrant-core",
+      "npmUrl": "https://www.npmjs.com/package/%40sigilcore%2Fwarrant-core",
+      "category": "data",
+      "createdAt": "2026-07-26T11:33:36.282Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 60
+    },
+    {
       "name": "@simonjamesrowe/agent-setup",
       "version": "0.1.0",
       "description": "AI agent setup for the simonjamesrowe org: skills, instructions, MCP servers and plugins for Claude Code, Gemini CLI and Codex",
@@ -2546,6 +2666,30 @@
       "score": 66
     },
     {
+      "name": "blind-panel",
+      "version": "0.1.0",
+      "description": "Blind pairwise evaluation — seeded blinding, position-bias detection, and inter-rater agreement. The win rate is the number that means least.",
+      "license": "MIT",
+      "repository": "https://github.com/iSimplifyMe/blind-panel",
+      "npmUrl": "https://www.npmjs.com/package/blind-panel",
+      "category": "testing",
+      "createdAt": "2026-07-26T12:18:18.328Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 60
+    },
+    {
+      "name": "block-genomics-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Block Genomics (Nexus Protocol). Gives any MCP-capable AI agent live access to verified Bitcoin blocks, on-chain ownership, agent directories, guardians, badges, and experiences — plus the authenticated agent runtime (heartbeat / brief / ev",
+      "license": "MIT",
+      "repository": "https://github.com/BitmapAsset/block-genomics-nexus",
+      "npmUrl": "https://www.npmjs.com/package/block-genomics-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:37:26.060Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 68
+    },
+    {
       "name": "buildloop",
       "version": "0.1.0",
       "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
@@ -2568,6 +2712,18 @@
       "createdAt": "2026-07-25T14:36:53.791Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 87
+    },
+    {
+      "name": "chromafix-a11y",
+      "version": "0.1.0",
+      "description": "Tiny, framework-agnostic colorblind-safe palette switcher: a floating accessibility button that lets visitors pick a color-vision-deficiency type and swaps your site's CSS-variable colors for a distinguishable palette. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Wora-Ben/chromafix",
+      "npmUrl": "https://www.npmjs.com/package/chromafix-a11y",
+      "category": "frontend",
+      "createdAt": "2026-07-26T11:50:10.699Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 83
     },
     {
       "name": "civic-data-adapters",
@@ -2750,6 +2906,18 @@
       "score": 70
     },
     {
+      "name": "eliza-plugin-tnt-risk-api",
+      "version": "1.0.0",
+      "description": "ElizaOS plugin for TNT House Risk-Data API — Solana token risk scoring and on-chain insider wallet cluster detection for trading agents.",
+      "license": "MIT",
+      "repository": "https://github.com/menantonio83-hue/eliza-plugin-tnt-risk-api",
+      "npmUrl": "https://www.npmjs.com/package/eliza-plugin-tnt-risk-api",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:53:49.863Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 53
+    },
+    {
       "name": "elizaos-plugin-gate402",
       "version": "0.1.0",
       "description": "ElizaOS plugin: pay-per-call Base market data (token-risk, DEX, momentum, launches, best-swap) + open-model LLM inference over x402 (Gate402). No API keys — the agent pays the 402.",
@@ -2772,6 +2940,18 @@
       "createdAt": "2026-07-25T19:51:31.869Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 90
+    },
+    {
+      "name": "epost-mcp",
+      "version": "0.7.0",
+      "description": "MCP server for the Swiss ePost digital letterbox: list and download scanned letters, manage Storage folders, with a cached session and an assisted one-fingerprint SwissID login.",
+      "license": "MIT",
+      "repository": "https://github.com/sapn95/epost-mcp",
+      "npmUrl": "https://www.npmjs.com/package/epost-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-26T12:23:26.485Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 79
     },
     {
       "name": "eslint-plugin-react-use-propswithchildren",
@@ -3158,6 +3338,30 @@
       "score": 90
     },
     {
+      "name": "maplibre-gl-3dtiles-terrain",
+      "version": "0.1.0",
+      "description": "Use Cesium-style 3D Tiles quantized-mesh terrain as a normal raster-dem source in MapLibre GL JS: setTerrain, queryTerrainElevation, hillshade and draping with no core changes",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/clement-igonet/maplibre-plugin-3dtiles",
+      "npmUrl": "https://www.npmjs.com/package/maplibre-gl-3dtiles-terrain",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:48:42.173Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 55
+    },
+    {
+      "name": "markdown-it-extensible",
+      "version": "1.1.0",
+      "description": "A highly extensible, zero-code block container and inline directive engine for markdown-it",
+      "license": "MIT",
+      "repository": "https://github.com/marcodem/markdown-it-extensible",
+      "npmUrl": "https://www.npmjs.com/package/markdown-it-extensible",
+      "category": "utilities",
+      "createdAt": "2026-07-26T11:41:28.429Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 81
+    },
+    {
       "name": "mars-plugged",
       "version": "0.1.0",
       "description": "Raw Solana + x402 toolkit: talk to Anchor programs with no IDL, decode accounts from a byte-offset table, and build x402 payment envelopes by hand.",
@@ -3228,6 +3432,18 @@
       "createdAt": "2026-07-25T18:54:40.244Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 71
+    },
+    {
+      "name": "mermaid-bpmn",
+      "version": "1.0.0",
+      "description": "BPMN (Business Process Model and Notation) diagram type for Mermaid",
+      "license": "MIT",
+      "repository": "https://github.com/derari/mermaid-bpmn",
+      "npmUrl": "https://www.npmjs.com/package/mermaid-bpmn",
+      "category": "utilities",
+      "createdAt": "2026-07-26T12:12:46.314Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 78
     },
     {
       "name": "mfe-doctor",
@@ -3360,6 +3576,18 @@
       "createdAt": "2026-07-25T22:38:11.377Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 70
+    },
+    {
+      "name": "nxtkill",
+      "version": "0.1.1",
+      "description": "Find and delete Next.js build artifacts (.next, .turbo, .vercel) across all your projects in one command",
+      "license": "MIT",
+      "repository": "https://github.com/DwiMunir/nxtkill",
+      "npmUrl": "https://www.npmjs.com/package/nxtkill",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T09:30:20.627Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 56
     },
     {
       "name": "open-alex-wrapper",
@@ -3542,6 +3770,18 @@
       "score": 77
     },
     {
+      "name": "pingen-mcp",
+      "version": "0.2.1",
+      "description": "MCP server for Pingen v2 — send physical letters (A-Post/B-Post/registered) from a PDF and track them via the Pingen REST API",
+      "license": "MIT",
+      "repository": "https://github.com/sapn95/pingen-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pingen-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T12:22:32.656Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 62
+    },
+    {
       "name": "pkgpulse-mcp",
       "version": "1.0.0",
       "description": "MCP server for pkgpulse: dependency intelligence for AI coding agents via x402 (USDC on Base). npm package health scores, typosquat/hallucination checks, and whole-package.json dependency audits — pay per call, no API key.",
@@ -3612,6 +3852,30 @@
       "createdAt": "2026-07-26T10:02:35.447Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 100
+    },
+    {
+      "name": "react-geo-data",
+      "version": "1.0.1",
+      "description": "A React package to get countries, states, and cities data",
+      "license": "ISC",
+      "repository": "https://github.com/syedghazi421/react-native-country-state-city",
+      "npmUrl": "https://www.npmjs.com/package/react-geo-data",
+      "category": "frontend",
+      "createdAt": "2026-07-26T12:36:41.349Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 66
+    },
+    {
+      "name": "react-locale-datepicker",
+      "version": "0.1.0",
+      "description": "A React date picker that localizes itself from the Intl API — every locale, no locale files, RTL-aware.",
+      "license": "MIT",
+      "repository": "https://github.com/ysalitrynskyi/react-locale-datepicker",
+      "npmUrl": "https://www.npmjs.com/package/react-locale-datepicker",
+      "category": "frontend",
+      "createdAt": "2026-07-26T11:46:59.914Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 69
     },
     {
       "name": "react-talking-avatar",
@@ -3782,6 +4046,18 @@
       "score": 76
     },
     {
+      "name": "solana-agent-kit-plugin-risk-api",
+      "version": "1.0.0",
+      "description": "Solana Agent Kit plugin for the TNT House Risk-Data API — Solana token risk scoring and on-chain insider wallet cluster detection.",
+      "license": "MIT",
+      "repository": "https://github.com/menantonio83-hue/solana-agent-kit-plugin-risk-api",
+      "npmUrl": "https://www.npmjs.com/package/solana-agent-kit-plugin-risk-api",
+      "category": "backend",
+      "createdAt": "2026-07-26T13:00:43.949Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 53
+    },
+    {
       "name": "som-style",
       "version": "0.1.1",
       "description": "Mobile-first CSS-in-JS helper with OKLCH design tokens by default",
@@ -3864,6 +4140,18 @@
       "createdAt": "2026-07-26T09:10:16.774Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 73
+    },
+    {
+      "name": "taxme-mcp",
+      "version": "0.4.0",
+      "description": "MCP server for the Canton of Bern tax portal TaxMe / BE-Login — read AND fill tax returns (open, navigate, set fields, results, gated submit) via SwissID/AGOV browser automation, with cached sessions (storageState) that survive restarts",
+      "license": "MIT",
+      "repository": "https://github.com/sapn95/taxme-mcp",
+      "npmUrl": "https://www.npmjs.com/package/taxme-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-26T12:23:30.547Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 70
     },
     {
       "name": "teamcodex",
@@ -4007,6 +4295,18 @@
       "category": "utilities",
       "createdAt": "2026-07-26T04:21:55.755Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
+      "score": 72
+    },
+    {
+      "name": "unityfs-js",
+      "version": "0.2.1",
+      "description": "A high-performance, lightweight pure JavaScript Unity assets and bundle parser/extractor.",
+      "license": "MIT",
+      "repository": "https://github.com/bainiao404/unityfs-js",
+      "npmUrl": "https://www.npmjs.com/package/unityfs-js",
+      "category": "data",
+      "createdAt": "2026-07-26T13:00:03.761Z",
+      "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 72
     },
     {
