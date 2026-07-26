@@ -1,47 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121530404,
-  "lastRunAt": "2026-07-25T23:44:05.407Z",
+  "lastSequence": 121540428,
+  "lastRunAt": "2026-07-26T02:00:03.512Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@statedelta/actions-analysis",
+      "name": "@esoway/snapcompact",
       "attempts": 1
     },
     {
-      "name": "@statedelta/actions-checker",
+      "name": "@esoway/stats",
       "attempts": 1
     },
     {
-      "name": "@statedelta/actions-interpret",
+      "name": "@esoway/agent-core",
       "attempts": 1
     },
     {
-      "name": "@statedelta/actions-manifest",
+      "name": "@esoway/cli",
       "attempts": 1
     },
     {
-      "name": "@statedelta/actions-openapi",
-      "attempts": 1
-    },
-    {
-      "name": "@statedelta/actions-printer",
-      "attempts": 1
-    },
-    {
-      "name": "@statedelta/actions-razor",
-      "attempts": 1
-    },
-    {
-      "name": "@statedelta/actions-runtime",
-      "attempts": 1
-    },
-    {
-      "name": "@statedelta/blocks",
-      "attempts": 1
-    },
-    {
-      "name": "@statedelta/cookstep",
+      "name": "@itd-social/itd-ui",
       "attempts": 1
     }
   ]

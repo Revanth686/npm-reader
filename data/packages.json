@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "2fa-wasm",
+      "version": "1.0.0",
+      "description": "Biblioteca de autenticación de dos factores (2FA / HOTP / TOTP / Base32 / HMAC) de alto rendimiento en AssemblyScript / WebAssembly con TypeScript wrapper.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/edison-manrique/2fa-wasm",
+      "npmUrl": "https://www.npmjs.com/package/2fa-wasm",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T01:21:47.890Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 68
+    },
+    {
       "name": "@aayambansal/squint",
       "version": "0.1.1",
       "description": "Lovable for your terminal — a frontend harness on top of Claude Code, Codex, and other coding agents.",
@@ -326,6 +338,42 @@
       "score": 70
     },
     {
+      "name": "@dmemo/cli",
+      "version": "0.1.0",
+      "description": "dMemo onboarding CLI — `npx @dmemo/cli setup` generates/imports a wallet, writes ~/.dmemo/config.json, and wires the memory leg into whichever coding agent hosts (Claude Code, OpenCode, OpenClaw, Codex) are detected on the machine. Zero interactive web st",
+      "license": "MIT",
+      "repository": "https://github.com/dmemo-ai/dmemo",
+      "npmUrl": "https://www.npmjs.com/package/%40dmemo%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-07-26T01:39:01.504Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 88
+    },
+    {
+      "name": "@dmemo/openclaw-plugin",
+      "version": "0.1.0",
+      "description": "dMemo OpenClaw plugin (T3.3) — forks @mem0/openclaw-mem0's lifecycle/isolation/dream-gate shape, swaps OSS OpenAI defaults for @dmemo/core's local embedder + optional 0G Router LLM, replaces mem0's sqlite persistence with DmemoSession's 0G Storage flush/r",
+      "license": "MIT",
+      "repository": "https://github.com/dmemo-ai/dmemo",
+      "npmUrl": "https://www.npmjs.com/package/%40dmemo%2Fopenclaw-plugin",
+      "category": "data",
+      "createdAt": "2026-07-26T01:37:50.731Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 58
+    },
+    {
+      "name": "@dmemo/opencode-plugin",
+      "version": "0.1.0",
+      "description": "dMemo OpenCode plugin (T3.2) — in-process mem0-oss memory via @dmemo/core, every-turn injection, deterministic capture, native compaction-hook integration. Forked from mem0's opencode-mem0.ts (D18); mem0-Platform-only surfaces stripped.",
+      "license": "MIT",
+      "repository": "https://github.com/dmemo-ai/dmemo",
+      "npmUrl": "https://www.npmjs.com/package/%40dmemo%2Fopencode-plugin",
+      "category": "data",
+      "createdAt": "2026-07-26T01:36:50.747Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 77
+    },
+    {
       "name": "@dmm1/daemon-ui",
       "version": "0.1.0",
       "description": "Dark HUD terminal-style React component library. 57+ components built with Tailwind 4, CVA, and Motion. The shadcn/ui for hackers.",
@@ -480,6 +528,18 @@
       "createdAt": "2026-07-25T13:37:14.995Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 69
+    },
+    {
+      "name": "@getpipher/herdr-sysmon",
+      "version": "0.1.1",
+      "description": "System metrics in the Herdr sidebar — CPU, memory, battery, network, disk, clock. A faithful port of a tmux-cpu/tmux-battery/tmux-online-status status bar into Herdr workspace tokens. macOS-first.",
+      "license": "MIT",
+      "repository": "https://github.com/getpipher/herdr-sysmon",
+      "npmUrl": "https://www.npmjs.com/package/%40getpipher%2Fherdr-sysmon",
+      "category": "devops",
+      "createdAt": "2026-07-26T00:49:07.021Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 67
     },
     {
       "name": "@gitmyabi/account",
@@ -746,6 +806,18 @@
       "score": 64
     },
     {
+      "name": "@goxtechnologies/infor-visual-mcp",
+      "version": "0.0.1",
+      "description": "Infor VISUAL MCP — Model Context Protocol server for the VISUAL ERP (sales, inventory, purchasing, financials, shop floor, lot trace). Self-documenting category tools, safe-by-default writes. Under active development (not functional for live VISUAL yet).",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/goxtechnologies/infor-visual-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40goxtechnologies%2Finfor-visual-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T01:16:45.378Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 69
+    },
+    {
       "name": "@groundcraft/crawl",
       "version": "1.0.0",
       "description": "Groundcraft Crawl — scrape, search, map and crawl the web through one metered API. CLI, SDK and MCP server.",
@@ -1008,6 +1080,54 @@
       "createdAt": "2026-07-25T14:01:14.410Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 67
+    },
+    {
+      "name": "@mounsecom/dsers-mcp",
+      "version": "2.0.0",
+      "description": "Community MCP server for DSers — product import & push, orders, CSV bulk import, mapping, plans. Local stdio server, authenticated with your DSers credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/Mounir-mk/dsers-mcp-community",
+      "npmUrl": "https://www.npmjs.com/package/%40mounsecom%2Fdsers-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T00:26:35.539Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 95
+    },
+    {
+      "name": "@musepi/pi-agent-core",
+      "version": "0.2.0",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40musepi%2Fpi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-07-26T01:24:52.001Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 69
+    },
+    {
+      "name": "@musepi/pi-ai",
+      "version": "0.2.0",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40musepi%2Fpi-ai",
+      "category": "backend",
+      "createdAt": "2026-07-26T01:25:23.138Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 73
+    },
+    {
+      "name": "@musepi/pi-tui",
+      "version": "0.2.0",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40musepi%2Fpi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T01:25:41.211Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 73
     },
     {
       "name": "@narumitw/pi-file-context",
@@ -1334,6 +1454,18 @@
       "score": 70
     },
     {
+      "name": "@smartlyqofficial/cli",
+      "version": "0.1.0",
+      "description": "Official command line for the SmartlyQ API - social posting, AI content generation, SEO, CRM, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/SmartlyQ/smartlyq-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40smartlyqofficial%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-07-25T23:44:28.892Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 76
+    },
+    {
       "name": "@smartlyqofficial/node",
       "version": "0.1.2",
       "description": "Official Node.js SDK for the SmartlyQ API - social posting, AI content generation, SEO, CRM, and more.",
@@ -1418,6 +1550,18 @@
       "score": 59
     },
     {
+      "name": "@tabcommerceio/cross-sell-sdk",
+      "version": "0.1.1",
+      "description": "Storefront JavaScript SDK for Tab Cross Sell: recommendation resolve, valid-impression observation, click / add-to-cart tracking, and batched event delivery.",
+      "license": "MIT",
+      "repository": "https://github.com/train860/tab-cross-sell",
+      "npmUrl": "https://www.npmjs.com/package/%40tabcommerceio%2Fcross-sell-sdk",
+      "category": "cli",
+      "createdAt": "2026-07-26T01:25:02.681Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 67
+    },
+    {
       "name": "@takemynotes/slideframe",
       "version": "0.1.0",
       "description": "Browser-native, read-only PPTX viewer with an optional React adapter",
@@ -1440,6 +1584,18 @@
       "createdAt": "2026-07-25T20:46:50.261Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 50
+    },
+    {
+      "name": "@timpulver/molle",
+      "version": "0.1.0",
+      "description": "Local-first, agent-first ticket system. Tickets are markdown files; the CLI is how humans and agents drive them.",
+      "license": "MIT",
+      "repository": "https://github.com/timpulver/molle",
+      "npmUrl": "https://www.npmjs.com/package/%40timpulver%2Fmolle",
+      "category": "cli",
+      "createdAt": "2026-07-26T00:25:09.955Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 73
     },
     {
       "name": "@totemsdk/edge-email",
@@ -1634,6 +1790,18 @@
       "score": 59
     },
     {
+      "name": "a11y-command-menu-button",
+      "version": "1.0.0",
+      "description": "Accessible command menu button behavior for compact application menus.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/a11y-command-menu-button",
+      "npmUrl": "https://www.npmjs.com/package/a11y-command-menu-button",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T00:19:26.751Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 79
+    },
+    {
       "name": "a11y-loop",
       "version": "0.1.1",
       "description": "Makes AI coding agents write accessible UI by default, then proves what it can prove with a real browser audit across the states they built — and tells you exactly what it could not check.",
@@ -1644,6 +1812,18 @@
       "createdAt": "2026-07-25T23:27:08.168Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 88
+    },
+    {
+      "name": "a11y-menu-button",
+      "version": "1.0.0",
+      "description": "A TypeScript-first disclosure-style menu button for native links, buttons, and form controls.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/A11y-Menu-Button",
+      "npmUrl": "https://www.npmjs.com/package/a11y-menu-button",
+      "category": "data",
+      "createdAt": "2026-07-26T00:07:03.659Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 79
     },
     {
       "name": "admitiq",
@@ -1716,6 +1896,18 @@
       "createdAt": "2026-07-25T20:54:02.129Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 92
+    },
+    {
+      "name": "biome-plugin-react-use-propswithchildren",
+      "version": "1.0.0",
+      "description": "Biome GritQL plugin: require components that use children to type their props via PropsWithChildren<Props>, and disallow declaring children explicitly inside Props",
+      "license": "MIT",
+      "repository": "https://github.com/shmakovdima/eslint-plugin-react-use-propswithchildren",
+      "npmUrl": "https://www.npmjs.com/package/biome-plugin-react-use-propswithchildren",
+      "category": "frontend",
+      "createdAt": "2026-07-26T00:45:43.157Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 66
     },
     {
       "name": "buildloop",
@@ -1814,6 +2006,18 @@
       "score": 62
     },
     {
+      "name": "countersign-mcp",
+      "version": "0.1.0",
+      "description": "Transaction firewall and intent-verification layer for AI agents transacting onchain. Countersign firewalls the MCP execution path of the OKX OnchainOS stack.",
+      "license": "MIT",
+      "repository": "https://github.com/countersignai/countersign-firewall",
+      "npmUrl": "https://www.npmjs.com/package/countersign-mcp",
+      "category": "utilities",
+      "createdAt": "2026-07-26T01:07:22.165Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 81
+    },
+    {
       "name": "create-shells",
       "version": "0.1.0",
       "description": "Scaffolder + kit for driving a Claude Code session from an external front end using only lifecycle hooks and the filesystem.",
@@ -1884,6 +2088,18 @@
       "createdAt": "2026-07-25T19:51:31.869Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 90
+    },
+    {
+      "name": "eslint-plugin-react-use-propswithchildren",
+      "version": "1.0.0",
+      "description": "Require components that use children to type their props via PropsWithChildren<Props>, and disallow declaring children explicitly inside Props",
+      "license": "MIT",
+      "repository": "https://github.com/shmakovdima/eslint-plugin-react-use-propswithchildren",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-react-use-propswithchildren",
+      "category": "frontend",
+      "createdAt": "2026-07-26T00:45:33.149Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 65
     },
     {
       "name": "fedcm-server",
@@ -2042,6 +2258,18 @@
       "score": 78
     },
     {
+      "name": "kanpai-toast",
+      "version": "0.1.0",
+      "description": "Dependency-free, accessible toast notifications. No framework required.",
+      "license": "MIT",
+      "repository": "https://github.com/chejholloway/accessible-toast",
+      "npmUrl": "https://www.npmjs.com/package/kanpai-toast",
+      "category": "utilities",
+      "createdAt": "2026-07-26T00:48:02.898Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 60
+    },
+    {
       "name": "kd-screen-guard",
       "version": "1.0.0",
       "description": "Zero-dependency, tamper-resistant, high-security lock screen overlay library with PBKDF2 salted hashing, intruder webcam snapshot review, Web Audio API siren, WebAuthn biometrics, and framework hooks.",
@@ -2076,6 +2304,18 @@
       "createdAt": "2026-07-25T21:58:23.721Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 53
+    },
+    {
+      "name": "layerkit",
+      "version": "0.1.0",
+      "description": "Agent-first multi-vendor data-layer toolkit: install skills/hooks into Codex, Claude Code, Cursor, Copilot, OpenCode, OpenHands; research vendor docs; proposal pipeline; Java-first client output; evals.",
+      "license": "MIT",
+      "repository": "https://github.com/hariharapanigrahy/layerkit",
+      "npmUrl": "https://www.npmjs.com/package/layerkit",
+      "category": "data",
+      "createdAt": "2026-07-25T23:56:38.125Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 75
     },
     {
       "name": "linkdirecte",
@@ -2330,6 +2570,18 @@
       "score": 100
     },
     {
+      "name": "oxlint-plugin-react-use-propswithchildren",
+      "version": "1.0.0",
+      "description": "oxlint JS plugin: require components that use children to type their props via PropsWithChildren<Props>, and disallow declaring children explicitly inside Props",
+      "license": "MIT",
+      "repository": "https://github.com/shmakovdima/eslint-plugin-react-use-propswithchildren",
+      "npmUrl": "https://www.npmjs.com/package/oxlint-plugin-react-use-propswithchildren",
+      "category": "frontend",
+      "createdAt": "2026-07-26T00:45:50.231Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 62
+    },
+    {
       "name": "phi-leak-guard",
       "version": "0.0.1",
       "description": "Deterministic PHI-leak assertions for LLM output, runnable in your normal test suite. HIPAA Safe Harbor + NHS/UK. No LLM calls, no data leaves your machine.",
@@ -2414,6 +2666,18 @@
       "score": 64
     },
     {
+      "name": "project-brain-protocol",
+      "version": "1.0.0",
+      "description": "Lightweight, cross-agent second-brain protocol for vibe-coded projects. Automatically maintained by AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/shaiadams10/Project-Brain-Protocol",
+      "npmUrl": "https://www.npmjs.com/package/project-brain-protocol",
+      "category": "utilities",
+      "createdAt": "2026-07-26T01:33:26.104Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 91
+    },
+    {
       "name": "repomind-skills",
       "version": "0.2.0",
       "description": "Память проекта для человека и coding-агента: структура docs/, ADR, runbook и семь скиллов для Claude Code и Codex",
@@ -2460,6 +2724,18 @@
       "createdAt": "2026-07-25T17:19:58.814Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 79
+    },
+    {
+      "name": "selvedge-mcp",
+      "version": "0.3.9",
+      "description": "Long-term memory for AI-coded codebases — a `git blame` for AI agents, for the *why*, not just which line which model touched. Captured live, by the agent, as the change happens. (npx shim for the Python `selvedge` MCP server on PyPI.)",
+      "license": "MIT",
+      "repository": "https://github.com/masondelan/selvedge",
+      "npmUrl": "https://www.npmjs.com/package/selvedge-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-26T01:26:24.316Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 61
     },
     {
       "name": "sessioncourier-protocol",
@@ -2546,6 +2822,18 @@
       "score": 56
     },
     {
+      "name": "tiptap-static",
+      "version": "0.1.0",
+      "description": "Sanitize or lightly enhance Tiptap HTML with existing extensions, without creating an editor",
+      "license": "MIT",
+      "repository": "https://github.com/seo-rii/tiptap-static",
+      "npmUrl": "https://www.npmjs.com/package/tiptap-static",
+      "category": "frontend",
+      "createdAt": "2026-07-26T01:41:09.041Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 75
+    },
+    {
       "name": "tiryaq-healthcare-shared",
       "version": "1.0.1",
       "description": "Shared types, interfaces, and message patterns for Tiryaq healthcare microservices",
@@ -2616,6 +2904,18 @@
       "createdAt": "2026-07-25T16:50:11.086Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 67
+    },
+    {
+      "name": "valida-cnpj-alfanumerico",
+      "version": "1.0.0",
+      "description": "Validação, formatação e geração de CNPJ alfanumérico (e numérico) conforme a IN RFB nº 2.229/2024 — algoritmo oficial da Receita Federal, zero dependências, funciona em Node.js e navegador.",
+      "license": "MIT",
+      "repository": "https://github.com/andrehenrique311085-debug/valida-cnpj-alfanumerico",
+      "npmUrl": "https://www.npmjs.com/package/valida-cnpj-alfanumerico",
+      "category": "data",
+      "createdAt": "2026-07-26T01:05:46.217Z",
+      "discoveredAt": "2026-07-26T02:00:03.512Z",
+      "score": 73
     },
     {
       "name": "valkey-wasm",
