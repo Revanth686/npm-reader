@@ -170,6 +170,30 @@
       "score": 82
     },
     {
+      "name": "@anaidev/daw-engine-core",
+      "version": "1.0.0",
+      "description": "Headless DAW engine — domain models, command system, audio engine, automation, plugins, MIDI",
+      "license": "MIT",
+      "repository": "https://github.com/HURRAEY/daw-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40anaidev%2Fdaw-engine-core",
+      "category": "frontend",
+      "createdAt": "2026-07-27T10:14:52.764Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 85
+    },
+    {
+      "name": "@anaidev/daw-engine-ui-utils",
+      "version": "1.0.0",
+      "description": "Framework-agnostic UI utilities for building DAW interfaces on top of @anaidev/daw-engine-core",
+      "license": "MIT",
+      "repository": "https://github.com/HURRAEY/daw-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40anaidev%2Fdaw-engine-ui-utils",
+      "category": "data",
+      "createdAt": "2026-07-27T10:14:55.736Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 79
+    },
+    {
       "name": "@angular-libs/socket",
       "version": "0.0.1",
       "description": "A signal-first, lightweight WebSocket client library for Angular applications with offline outbox storage, channel/topic multiplexing, and auto-reconnect.",
@@ -204,6 +228,18 @@
       "createdAt": "2026-07-27T01:41:34.404Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 63
+    },
+    {
+      "name": "@aplinkosministerija/viisp-v3-oidc",
+      "version": "0.1.2",
+      "description": "Framework-agnostic TypeScript client for VIISP V3 (eVartai) OIDC citizen authentication. Handles the authorize leg, signed state cookie, private_key_jwt token exchange, id_token verification and identity mapping — leaving user provisioning and session iss",
+      "license": "MIT",
+      "repository": "https://github.com/AplinkosMinisterija/viisp-v3-oidc",
+      "npmUrl": "https://www.npmjs.com/package/%40aplinkosministerija%2Fviisp-v3-oidc",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T11:21:40.788Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 74
     },
     {
       "name": "@aragon-agent/cli",
@@ -2006,6 +2042,18 @@
       "score": 64
     },
     {
+      "name": "@heossihq/qnsi",
+      "version": "0.6.0",
+      "description": "Official Node.js / TypeScript SDK for QNSI. Typed clients for mounted vault, KMS, audit, auth, tenant, access-control, billing, crypto-inventory, storage, search, and AI routes, plus local PQC utilities and webhook verification.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/heossihq/qnsi-public",
+      "npmUrl": "https://www.npmjs.com/package/%40heossihq%2Fqnsi",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T12:29:07.174Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 86
+    },
+    {
       "name": "@hitkeep/tracker",
       "version": "2.12.0",
       "description": "Typed, cookieless web analytics tracker for React, Vue, Angular, and Astro. Official browser SDK for HitKeep, a privacy-friendly, self-hostable Google Analytics alternative.",
@@ -2930,6 +2978,18 @@
       "score": 71
     },
     {
+      "name": "@oasissys/oasis-axi",
+      "version": "0.1.0",
+      "description": "AXI-compliant Oracle ADF explorer for the Oasis codebase — token-efficient TOON output, contextual suggestions, transitive dependency closures",
+      "license": "MIT",
+      "repository": "https://github.com/oasissys/oasis-axi",
+      "npmUrl": "https://www.npmjs.com/package/%40oasissys%2Foasis-axi",
+      "category": "cli",
+      "createdAt": "2026-07-27T11:55:00.807Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 80
+    },
+    {
       "name": "@okeav/idp-core",
       "version": "0.1.0",
       "description": "Standalone, pluggable identity provider for Node.js/TypeScript backends — OAuth2/OIDC authorization server, password + MFA + social login, session management, and service-to-service JWKS trust. Bring your own MongoDB.",
@@ -3000,6 +3060,18 @@
       "createdAt": "2026-07-25T21:38:24.810Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 76
+    },
+    {
+      "name": "@p9v/core",
+      "version": "0.0.1",
+      "description": "Prefetch → View. A Relay-style data layer for REST + TanStack Query: fragment colocation, data masking, and prefetch enforcement that makes request waterfalls structurally impossible.",
+      "license": "MIT",
+      "repository": "https://github.com/madisonrubylee/p9v",
+      "npmUrl": "https://www.npmjs.com/package/%40p9v%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-07-27T11:23:01.035Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 88
     },
     {
       "name": "@patronage/alchemy-d1-state",
@@ -3830,6 +3902,18 @@
       "score": 58
     },
     {
+      "name": "@thalus-ai/mcp-air",
+      "version": "1.0.1",
+      "description": "MCP server for AIR (AI Responsibly) — run risk assessments from Cursor, Claude Code, VS Code, and other MCP clients.",
+      "license": "MIT",
+      "repository": "https://github.com/VericyIO/mcp-air",
+      "npmUrl": "https://www.npmjs.com/package/%40thalus-ai%2Fmcp-air",
+      "category": "backend",
+      "createdAt": "2026-07-27T10:39:16.435Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 80
+    },
+    {
       "name": "@theasanai/beacon",
       "version": "0.5.0",
       "description": "Instantly know which project a window is — and what your AI agent did in it.",
@@ -4418,6 +4502,18 @@
       "score": 82
     },
     {
+      "name": "ailogic",
+      "version": "0.1.1",
+      "description": "Dynamically test whether any value evaluates to truthy or falsy by asking a configured AI model.",
+      "license": "MIT",
+      "repository": "https://github.com/mtek-mool/ailogic",
+      "npmUrl": "https://www.npmjs.com/package/ailogic",
+      "category": "testing",
+      "createdAt": "2026-07-27T12:05:53.215Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 79
+    },
+    {
       "name": "aipm-mcp-server",
       "version": "0.5.0",
       "description": "MCP server for AI Process Manager: structured Windows state for AI agents (processes, windows, UI Automation) — no screenshots",
@@ -4442,6 +4538,18 @@
       "score": 50
     },
     {
+      "name": "anymail-mcp",
+      "version": "1.1.0",
+      "description": "Universal MCP server exposing any IMAP/SMTP mailbox (Gmail, Outlook, iCloud, Fastmail, ProtonMail, Yahoo, Zoho, any IMAP/SMTP server) as Model Context Protocol tools.",
+      "license": "MIT",
+      "repository": "https://github.com/DeamonDev888/anymail-mcp",
+      "npmUrl": "https://www.npmjs.com/package/anymail-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-27T12:29:05.852Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 96
+    },
+    {
       "name": "arclens",
       "version": "1.0.0",
       "description": "Arclens — React architecture explorer. Statically map components, hooks, and dependencies into an interactive graph.",
@@ -4464,6 +4572,18 @@
       "createdAt": "2026-07-25T16:32:43.276Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 61
+    },
+    {
+      "name": "as2mca-api",
+      "version": "0.1.0",
+      "description": "Aplication Server 2MCA API HTTP Client",
+      "license": "MIT",
+      "repository": "https://github.com/plp-lang/as2mca-api-ts",
+      "npmUrl": "https://www.npmjs.com/package/as2mca-api",
+      "category": "backend",
+      "createdAt": "2026-07-27T10:39:09.929Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 72
     },
     {
       "name": "ask-trivium",
@@ -4826,6 +4946,18 @@
       "score": 81
     },
     {
+      "name": "cordova-plugin-yandex-mapkit",
+      "version": "1.0.0",
+      "description": "A provider-focused Cordova bridge for embedding Yandex MapKit on Android and iOS.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Talla2XLC/cordova-plugin-yandex-mapkit",
+      "npmUrl": "https://www.npmjs.com/package/cordova-plugin-yandex-mapkit",
+      "category": "utilities",
+      "createdAt": "2026-07-27T11:02:46.510Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 77
+    },
+    {
       "name": "countersign-mcp",
       "version": "0.1.0",
       "description": "Transaction firewall and intent-verification layer for AI agents transacting onchain. Countersign firewalls the MCP execution path of the OKX OnchainOS stack.",
@@ -4920,6 +5052,18 @@
       "createdAt": "2026-07-26T13:36:26.099Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "definite-ts",
+      "version": "1.0.0",
+      "description": "TypeScript client for the Definite Assurance motor insurance API — onboard clients and intermediaries, quote premiums, submit proposals, and initiate payments in Kenya.",
+      "license": "ISC",
+      "repository": "https://github.com/venomous-maker/definite-ts",
+      "npmUrl": "https://www.npmjs.com/package/definite-ts",
+      "category": "backend",
+      "createdAt": "2026-07-27T10:23:52.564Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 87
     },
     {
       "name": "design-playbook",
@@ -5126,6 +5270,18 @@
       "score": 68
     },
     {
+      "name": "express-audit",
+      "version": "0.1.1",
+      "description": "Deterministic security and production readiness auditor for Express.js applications.",
+      "license": "MIT",
+      "repository": "https://github.com/lahin31/express-audit",
+      "npmUrl": "https://www.npmjs.com/package/express-audit",
+      "category": "backend",
+      "createdAt": "2026-07-27T11:04:40.015Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 78
+    },
+    {
       "name": "fedcm-server",
       "version": "0.1.0",
       "description": "Framework-agnostic FedCM Identity Provider middleware for Node.js",
@@ -5184,6 +5340,18 @@
       "createdAt": "2026-07-26T14:30:59.235Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "foodpanda-ai-mcp",
+      "version": "0.2.1",
+      "description": "Unofficial MCP server for foodpanda / Delivery Hero public discovery data — search restaurants, menus, fees and deals across 10 markets. Read-only, no API key, no account, no ordering.",
+      "license": "MIT",
+      "repository": "https://github.com/RehmTheGreat/foodpanda-ai-mcp",
+      "npmUrl": "https://www.npmjs.com/package/foodpanda-ai-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-27T11:11:50.882Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 88
     },
     {
       "name": "friction-cli",
@@ -5268,6 +5436,18 @@
       "createdAt": "2026-07-25T19:30:16.790Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 60
+    },
+    {
+      "name": "gittersync",
+      "version": "1.0.0",
+      "description": "GitHub as a free database backend — offline-first sync with per-collection files, incremental changelogs, and field-level conflict resolution",
+      "license": "MIT",
+      "repository": "https://github.com/srbon/gittersync",
+      "npmUrl": "https://www.npmjs.com/package/gittersync",
+      "category": "backend",
+      "createdAt": "2026-07-27T12:20:28.407Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 91
     },
     {
       "name": "godot-mcp-bridge",
@@ -5378,6 +5558,18 @@
       "score": 60
     },
     {
+      "name": "hcg-autocomplete",
+      "version": "1.0.0",
+      "description": "Pure vanilla JavaScript autocomplete combobox for input fields. No dependencies. Local and async sources, multi-select chips, free-text values, match highlighting, and keyboard navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/html-code-generator/hcg-autocomplete",
+      "npmUrl": "https://www.npmjs.com/package/hcg-autocomplete",
+      "category": "devops",
+      "createdAt": "2026-07-27T10:39:58.570Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 75
+    },
+    {
       "name": "heisentest",
       "version": "0.1.1",
       "description": "Find the database race conditions your tests can't reproduce. Heisentest explores the interleavings of concurrent transactions against a real Postgres, reports the exact schedule that breaks your invariants, and replays it deterministically.",
@@ -5474,6 +5666,18 @@
       "score": 69
     },
     {
+      "name": "israel-vehicle-open-data",
+      "version": "1.0.0",
+      "description": "JavaScript/TypeScript access to Israeli vehicle open data on data.gov.il via CKAN datastore_search",
+      "license": "MIT",
+      "repository": "https://github.com/NirTatcher/israel-vehicle-open-data",
+      "npmUrl": "https://www.npmjs.com/package/israel-vehicle-open-data",
+      "category": "data",
+      "createdAt": "2026-07-27T10:49:50.863Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 87
+    },
+    {
       "name": "kanpai-toast",
       "version": "0.1.0",
       "description": "Dependency-free, accessible toast notifications. No framework required.",
@@ -5520,6 +5724,18 @@
       "createdAt": "2026-07-26T06:29:39.284Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 69
+    },
+    {
+      "name": "kerf-dev",
+      "version": "0.2.0",
+      "description": "Find and fix third-party dependency risk — vulnerabilities your code actually reaches, provider API drift that breaks your usage, and risky upgrades. Read-only scan + an MCP fix channel your own coding agent drives.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/sujan174/Kerf",
+      "npmUrl": "https://www.npmjs.com/package/kerf-dev",
+      "category": "backend",
+      "createdAt": "2026-07-26T07:49:37.646Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 84
     },
     {
       "name": "kinglobayiiecho-cli-tr",
@@ -5712,6 +5928,18 @@
       "createdAt": "2026-07-26T16:00:14.040Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 91
+    },
+    {
+      "name": "loopback-mcp-server",
+      "version": "0.9.0",
+      "description": "Loopback — a project-tagged feedback bus for coding agents (Claude Code, Codex, Gemini CLI) over MCP. Capture UI/backend/usage/UX feedback once; let any agent claim, fix, and write the change back.",
+      "license": "MIT",
+      "repository": "https://github.com/joshidikshant/loopback",
+      "npmUrl": "https://www.npmjs.com/package/loopback-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-07-27T11:34:02.679Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 83
     },
     {
       "name": "magic-codemods",
@@ -6014,6 +6242,18 @@
       "score": 83
     },
     {
+      "name": "moneyhub-sdk",
+      "version": "1.0.0",
+      "description": "Production-grade TypeScript SDK for the Moneyhub Open Finance API: account aggregation (AIS), payments (PIS), OpenID Connect authentication, and webhook verification.",
+      "license": "MIT",
+      "repository": "https://github.com/iamkanishka/moneyhub-sdk",
+      "npmUrl": "https://www.npmjs.com/package/moneyhub-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-27T10:18:35.486Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 96
+    },
+    {
       "name": "monzo-sdk",
       "version": "1.0.0",
       "description": "A complete, type-safe, production-grade Node.js/TypeScript SDK for the Monzo API (OAuth2, Accounts, Balance, Pots, Transactions, Feed Items, Attachments, Receipts, Webhooks).",
@@ -6048,6 +6288,18 @@
       "createdAt": "2026-07-26T15:35:52.637Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 90
+    },
+    {
+      "name": "n8n-nodes-apple-appstore",
+      "version": "0.1.1",
+      "description": "n8n community nodes for the Apple App Store Connect API — TestFlight, builds, App Store versions, customer reviews, users, and webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/mortocks/n8n-nodes-apple-appstore",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-apple-appstore",
+      "category": "testing",
+      "createdAt": "2026-07-27T11:52:13.400Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 75
     },
     {
       "name": "n8n-nodes-cliptoframe",
@@ -6962,6 +7214,18 @@
       "score": 57
     },
     {
+      "name": "rr-html",
+      "version": "0.3.1",
+      "description": "A zero-dependency Node build system for composable HTML documents — compose <rr-*> components into one self-contained HTML file, styled by your own design tokens or the opt-in bundled theme.",
+      "license": "MIT",
+      "repository": "https://github.com/hhushhas/rr",
+      "npmUrl": "https://www.npmjs.com/package/rr-html",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T11:20:40.417Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 83
+    },
+    {
       "name": "scorm-mcp-server",
       "version": "2.0.0",
       "description": "MCP server: turn self-contained HTML or a Claude Design (.dc) bundle into a SCORM 2004 package any LMS can import — offline assets, milestone/score tracking, bundled ADL schemas.",
@@ -7188,6 +7452,18 @@
       "createdAt": "2026-07-25T18:19:09.069Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 77
+    },
+    {
+      "name": "spidercob-dlp",
+      "version": "1.0.0",
+      "description": "DLP (Data Loss Prevention) scanner for files and text. Detects PII, secrets, and sensitive data via the Spidercob API. CI-ready, git-hook friendly.",
+      "license": "MIT",
+      "repository": "https://github.com/spidercob/spidercob-dlp",
+      "npmUrl": "https://www.npmjs.com/package/spidercob-dlp",
+      "category": "backend",
+      "createdAt": "2026-07-27T11:13:23.977Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 75
     },
     {
       "name": "staffed",
@@ -7466,6 +7742,18 @@
       "score": 79
     },
     {
+      "name": "traintrack-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for TrainTrack — Indian Railways train search, schedules, live status, station data, and PNR status for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/freakynit/traintrack-mcp",
+      "npmUrl": "https://www.npmjs.com/package/traintrack-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-27T11:35:34.517Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 74
+    },
+    {
       "name": "twenty-bells",
       "version": "1.0.0",
       "description": "The Bell — an activity feed for Twenty: what changed in the workspace, team notes with their comments, documents, and the tasks that are overdue.",
@@ -7716,6 +8004,18 @@
       "createdAt": "2026-07-25T21:35:45.544Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 78
+    },
+    {
+      "name": "vuetify-grid-table",
+      "version": "0.1.3",
+      "description": "Spreadsheet-style editable data grid for Vue 3 + Vuetify. Cell-level focus, keyboard navigation, Excel-compatible copy/paste, drag reorder, and text / number / select / autocomplete / date / checkbox cell editors.",
+      "license": "MIT",
+      "repository": "https://github.com/bonv95/vuetify-grid-table",
+      "npmUrl": "https://www.npmjs.com/package/vuetify-grid-table",
+      "category": "frontend",
+      "createdAt": "2026-07-27T10:49:12.972Z",
+      "discoveredAt": "2026-07-27T12:54:15.214Z",
+      "score": 90
     },
     {
       "name": "watchtell",
