@@ -74,6 +74,18 @@
       "score": 62
     },
     {
+      "name": "@agenticprimitives/content-storage",
+      "version": "0.1.0",
+      "description": "Managed storage for Content Artifacts (SKILL.md, .ttl, .md, JSON-LD, images/video): the StoragePort provider abstraction + ContentArtifact/ArtifactBundle model that stores a content-primitives descriptor's bytes in a client-side-envelope-encrypted, conten",
+      "license": "MIT",
+      "repository": "https://github.com/agentictrustlabs/agenticprimitives",
+      "npmUrl": "https://www.npmjs.com/package/%40agenticprimitives%2Fcontent-storage",
+      "category": "cli",
+      "createdAt": "2026-07-27T02:07:21.572Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 74
+    },
+    {
       "name": "@ali.camargo/tournament-brackets",
       "version": "1.3.0",
       "description": "Reusable single-elimination tournament brackets — vanilla ESM core with optional jQuery adapter (React/Vue/Angular planned)",
@@ -168,6 +180,18 @@
       "createdAt": "2026-07-27T01:41:34.404Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 63
+    },
+    {
+      "name": "@aragon-agent/cli",
+      "version": "0.5.0",
+      "description": "AragonAgent CLI — a Claude-Code / Codex-style interactive terminal UI (TUI) on top of the @aragon-agent/core engine. Installable and runnable via npm / npx.",
+      "license": "MIT",
+      "repository": "https://github.com/xdrshjr/AragonAgent",
+      "npmUrl": "https://www.npmjs.com/package/%40aragon-agent%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-07-27T02:10:44.455Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 85
     },
     {
       "name": "@argon-agent/cli",
@@ -1032,6 +1056,42 @@
       "createdAt": "2026-07-26T09:53:23.003Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 80
+    },
+    {
+      "name": "@effected/github",
+      "version": "0.2.0",
+      "description": "Typed GitHub REST and GraphQL services over the octokit core request surface, with app auth and resource helpers.",
+      "license": "MIT",
+      "repository": "https://github.com/spencerbeggs/effected",
+      "npmUrl": "https://www.npmjs.com/package/%40effected%2Fgithub",
+      "category": "utilities",
+      "createdAt": "2026-07-26T02:48:30.520Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 75
+    },
+    {
+      "name": "@effected/github-actions",
+      "version": "0.2.0",
+      "description": "The GitHub Actions runtime: env, inputs, outputs, state, logging, cache, artifacts, blob storage, OIDC and the token bridge.",
+      "license": "MIT",
+      "repository": "https://github.com/spencerbeggs/effected",
+      "npmUrl": "https://www.npmjs.com/package/%40effected%2Fgithub-actions",
+      "category": "utilities",
+      "createdAt": "2026-07-26T02:50:04.644Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 76
+    },
+    {
+      "name": "@effected/sbom",
+      "version": "0.2.0",
+      "description": "CycloneDX 1.6 SBOM construction, SLSA provenance, NTIA validation and Sigstore signing as typed services.",
+      "license": "MIT",
+      "repository": "https://github.com/spencerbeggs/effected",
+      "npmUrl": "https://www.npmjs.com/package/%40effected%2Fsbom",
+      "category": "utilities",
+      "createdAt": "2026-07-26T02:52:05.647Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 76
     },
     {
       "name": "@effuse/server",
@@ -1958,6 +2018,30 @@
       "score": 58
     },
     {
+      "name": "@hurraey/daw-engine-core",
+      "version": "1.0.0",
+      "description": "Headless DAW engine — domain models, command system, audio engine, automation, plugins, MIDI",
+      "license": "MIT",
+      "repository": "https://github.com/HURRAEY/daw-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40hurraey%2Fdaw-engine-core",
+      "category": "frontend",
+      "createdAt": "2026-07-27T04:15:13.614Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 85
+    },
+    {
+      "name": "@hurraey/daw-engine-ui-utils",
+      "version": "1.0.0",
+      "description": "Framework-agnostic UI utilities for building DAW interfaces on top of @hurraey/daw-engine-core",
+      "license": "MIT",
+      "repository": "https://github.com/HURRAEY/daw-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40hurraey%2Fdaw-engine-ui-utils",
+      "category": "data",
+      "createdAt": "2026-07-27T04:16:25.231Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 79
+    },
+    {
       "name": "@hyphen_solution/cli",
       "version": "0.1.0",
       "description": "Command line interface for the Hyphen AI gateway — chat, model list, agent setup, diagnostics and an MCP server.",
@@ -2628,6 +2712,30 @@
       "createdAt": "2026-07-25T18:56:57.004Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 57
+    },
+    {
+      "name": "@naviary-sanctuary/kinship-graph",
+      "version": "0.1.0",
+      "description": "A deterministic D3 pedigree graph renderer for kinship schema v1.",
+      "license": "MIT",
+      "repository": "https://github.com/Naviary-Sanctuary/kinship-graph",
+      "npmUrl": "https://www.npmjs.com/package/%40naviary-sanctuary%2Fkinship-graph",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T05:42:51.372Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 74
+    },
+    {
+      "name": "@navitallabs/nucleus-css",
+      "version": "2.0.0",
+      "description": "A polished, accessible, zero-build CSS framework — installable like Bootstrap and built to be understood accurately by AI coding assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/dakshbathla/nucleus",
+      "npmUrl": "https://www.npmjs.com/package/%40navitallabs%2Fnucleus-css",
+      "category": "frontend",
+      "createdAt": "2026-07-27T05:06:48.891Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 94
     },
     {
       "name": "@neerajvipparla/agentbridge",
@@ -3350,6 +3458,18 @@
       "score": 71
     },
     {
+      "name": "@singerbj/gh-runner",
+      "version": "0.1.0",
+      "description": "Temporarily register this machine as an ephemeral GitHub Actions self-hosted runner for the repo you're standing in.",
+      "license": "MIT",
+      "repository": "https://github.com/singerbj/gh-runner",
+      "npmUrl": "https://www.npmjs.com/package/%40singerbj%2Fgh-runner",
+      "category": "cli",
+      "createdAt": "2026-07-27T03:21:32.807Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 77
+    },
+    {
       "name": "@slastra/yplib",
       "version": "0.1.0",
       "description": "YPL thermal label printer protocol: framing, CRC, 1-bit raster, and a Web Bluetooth transport. Reverse-engineered and verified against hardware captures.",
@@ -3698,6 +3818,18 @@
       "score": 86
     },
     {
+      "name": "@triago/cli",
+      "version": "0.1.1",
+      "description": "Human-in-the-loop decision surface for CLI coding agents: the agent posts a card of findings, you triage them in a browser with the keyboard, and your decisions come back as structured data. Local-only, MCP-native.",
+      "license": "MIT",
+      "repository": "https://github.com/priyanshuN/triago",
+      "npmUrl": "https://www.npmjs.com/package/%40triago%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-07-27T05:15:39.407Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 90
+    },
+    {
       "name": "@trueyy-sdk/node",
       "version": "1.0.0",
       "description": "Trueyy Server SDK for Node.js — mint session tokens, query sessions, handle webhooks.",
@@ -3864,6 +3996,18 @@
       "createdAt": "2026-07-25T16:21:48.065Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 64
+    },
+    {
+      "name": "@vmitsaras/a11y-dialog",
+      "version": "1.0.0",
+      "description": "A framework-agnostic native dialog helper with accessible focus, keyboard, lifecycle, and cleanup behavior.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/a11y-dialog",
+      "npmUrl": "https://www.npmjs.com/package/%40vmitsaras%2Fa11y-dialog",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T05:39:53.382Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 82
     },
     {
       "name": "@vyredo/rpc-bus",
@@ -4106,6 +4250,18 @@
       "score": 73
     },
     {
+      "name": "aipm-mcp-server",
+      "version": "0.5.0",
+      "description": "MCP server for AI Process Manager: structured Windows state for AI agents (processes, windows, UI Automation) — no screenshots",
+      "license": "MIT",
+      "repository": "https://github.com/agorapassadoagora-debug/AIPM",
+      "npmUrl": "https://www.npmjs.com/package/aipm-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-07-27T03:23:11.148Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 74
+    },
+    {
       "name": "alberta-buck-core",
       "version": "0.1.2",
       "description": "Alberta Buck core platform (JS): the ChainSession API over Tevm/anvil/testnets with expectation journaling, the agent simulation platform, and the BigInt-native wrappers around the WebAssembly kernels",
@@ -4176,6 +4332,18 @@
       "createdAt": "2026-07-27T00:16:18.031Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 60
+    },
+    {
+      "name": "audittest-vision",
+      "version": "1.0.1",
+      "description": "CLI que automatiza auditoria de accesibilidad (WCAG 2.1) y deteccion de errores visuales de layout en paginas web",
+      "license": "MIT",
+      "repository": "https://github.com/la00429/audit_project_",
+      "npmUrl": "https://www.npmjs.com/package/audittest-vision",
+      "category": "testing",
+      "createdAt": "2026-07-27T04:32:03.804Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 75
     },
     {
       "name": "auto-skelly",
@@ -4298,6 +4466,18 @@
       "score": 73
     },
     {
+      "name": "cbs-devtools",
+      "version": "1.0.0",
+      "description": "CodeBySohaib DevTools - All-in-one cross-platform developer utility CLI",
+      "license": "MIT",
+      "repository": "https://github.com/codebysohaib/cbs-devtools",
+      "npmUrl": "https://www.npmjs.com/package/cbs-devtools",
+      "category": "data",
+      "createdAt": "2026-07-27T05:36:54.727Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 82
+    },
+    {
       "name": "cgraph",
       "version": "0.1.1",
       "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
@@ -4308,6 +4488,18 @@
       "createdAt": "2026-07-25T14:36:53.791Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 87
+    },
+    {
+      "name": "chatgpt-code",
+      "version": "0.1.0",
+      "description": "A secure, local-first MCP coding and computer-use harness for ChatGPT and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/HardikCoder45/chatgpt-code",
+      "npmUrl": "https://www.npmjs.com/package/chatgpt-code",
+      "category": "utilities",
+      "createdAt": "2026-07-27T04:56:48.887Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 78
     },
     {
       "name": "chromafix-a11y",
@@ -4440,6 +4632,18 @@
       "createdAt": "2026-07-26T23:35:31.788Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 78
+    },
+    {
+      "name": "contextengine-plugin",
+      "version": "0.5.0",
+      "description": "Augment-class portable Context Engine — multi-signal FTS/symbol/semantic retrieval, graph expand, MMR pack, MCP for coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/lixiang12345/ContextEngine-plugin",
+      "npmUrl": "https://www.npmjs.com/package/contextengine-plugin",
+      "category": "utilities",
+      "createdAt": "2026-07-27T03:55:24.742Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 81
     },
     {
       "name": "countersign-mcp",
@@ -5306,6 +5510,30 @@
       "score": 91
     },
     {
+      "name": "magic-codemods",
+      "version": "1.0.0",
+      "description": "Migration codemods for GSTJ projects. magic-kebab: rename files to kebab-case and rewrite every import that pointed at them.",
+      "license": "MIT",
+      "repository": "https://github.com/GSTJ/magic",
+      "npmUrl": "https://www.npmjs.com/package/magic-codemods",
+      "category": "utilities",
+      "createdAt": "2026-07-27T05:26:30.908Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 79
+    },
+    {
+      "name": "magic-oxlint-plugin",
+      "version": "1.0.0",
+      "description": "Opt-in oxlint JS-plugin rules for GSTJ projects: prefer-early-return, no-ancestor-directory-import, no-barrel-file, no-module-mocks, prefer-suspense-query, react-hooks-strict-return, react-require-autocomplete.",
+      "license": "MIT",
+      "repository": "https://github.com/GSTJ/magic",
+      "npmUrl": "https://www.npmjs.com/package/magic-oxlint-plugin",
+      "category": "frontend",
+      "createdAt": "2026-07-27T05:26:25.446Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 90
+    },
+    {
       "name": "magictex-mcp",
       "version": "0.1.1",
       "description": "MagicTeX — a LaTeX editor for AI agents (Claude Code), via an MCP server: live PDF preview, an editable source panel with a Visual (WYSIWYG) mode, anchored PDF comments that drive edits, and git-backed history. Compiles your .tex with a WASM TeX Live engi",
@@ -5570,6 +5798,18 @@
       "score": 65
     },
     {
+      "name": "model-roundtable",
+      "version": "1.0.0",
+      "description": "Structured multi-model debate with adversarial personas, scoring cards, and moderator synthesis",
+      "license": "MIT",
+      "repository": "https://github.com/TCJ18086429778-hub/model-roundtable",
+      "npmUrl": "https://www.npmjs.com/package/model-roundtable",
+      "category": "utilities",
+      "createdAt": "2026-07-27T03:08:21.390Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 83
+    },
+    {
       "name": "my-md-baileys",
       "version": "3.2.4",
       "description": "Enhanced Baileys fork with newsletter support, album messages, interactive buttons, rich responses, and communities API",
@@ -5784,6 +6024,18 @@
       "createdAt": "2026-07-26T14:36:28.253Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 80
+    },
+    {
+      "name": "noxleys",
+      "version": "1.1.0",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/noxXza/baileys",
+      "npmUrl": "https://www.npmjs.com/package/noxleys",
+      "category": "utilities",
+      "createdAt": "2026-07-27T03:03:34.138Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 73
     },
     {
       "name": "noxza",
@@ -6218,6 +6470,18 @@
       "score": 88
     },
     {
+      "name": "rainy-sdk-ts",
+      "version": "0.4.1",
+      "description": "Telemetry and internal-logic instrumentation for AI products — privacy-safe observation without replacing provider SDKs.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ferxalbs/rainy-sdk-ts",
+      "npmUrl": "https://www.npmjs.com/package/rainy-sdk-ts",
+      "category": "devops",
+      "createdAt": "2026-07-27T04:13:51.734Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 77
+    },
+    {
       "name": "react-device-lab",
       "version": "1.0.0",
       "description": "Accessible React components for previewing web applications across named device viewports.",
@@ -6518,6 +6782,18 @@
       "score": 61
     },
     {
+      "name": "seps-cli",
+      "version": "1.0.0",
+      "description": "Format separator/header comment markers so labels are centered and each line fills up to a character limit.",
+      "license": "MIT",
+      "repository": "https://github.com/seanpmaxwell/seps-cli",
+      "npmUrl": "https://www.npmjs.com/package/seps-cli",
+      "category": "data",
+      "createdAt": "2026-07-27T03:48:45.149Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 77
+    },
+    {
       "name": "sessioncourier-protocol",
       "version": "0.1.0",
       "description": "Shared protocol layer for SessionCourier Pro session sync: payload schema, envelope crypto (over libsodium), format serializers, and golden test vectors.",
@@ -6686,6 +6962,18 @@
       "score": 70
     },
     {
+      "name": "stylewright",
+      "version": "0.1.0",
+      "description": "Writing skills for coding agents, distilled from named standards. Installs into Claude Code, Claude Cowork, and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/rookslog/stylewright",
+      "npmUrl": "https://www.npmjs.com/package/stylewright",
+      "category": "utilities",
+      "createdAt": "2026-07-27T04:40:43.915Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 73
+    },
+    {
       "name": "superdocs-app-cli",
       "version": "1.0.0",
       "description": "Edit markdown and text files with SuperDocs AI from your terminal.",
@@ -6744,6 +7032,18 @@
       "createdAt": "2026-07-26T09:57:56.605Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 79
+    },
+    {
+      "name": "teem-seo",
+      "version": "0.6.0",
+      "description": "Yoast-like SEO and readability analysis for React and Next.js — English & Persian",
+      "license": "MIT",
+      "repository": "https://github.com/teemplete/teem-seo",
+      "npmUrl": "https://www.npmjs.com/package/teem-seo",
+      "category": "frontend",
+      "createdAt": "2026-07-27T05:40:11.169Z",
+      "discoveredAt": "2026-07-27T05:59:13.965Z",
+      "score": 78
     },
     {
       "name": "tenderpulse-mcp",

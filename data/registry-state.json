@@ -1,31 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121657464,
-  "lastRunAt": "2026-07-27T02:08:07.224Z",
+  "lastSequence": 121680608,
+  "lastRunAt": "2026-07-27T05:59:13.965Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@decryption/cosmology-compat",
+      "name": "@riven-deploy/cli",
       "attempts": 1
     },
     {
-      "name": "@decryption/vault",
-      "attempts": 1
-    },
-    {
-      "name": "@aragon-agent/core",
-      "attempts": 1
-    },
-    {
-      "name": "@ledgerbox/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@agenticprimitives/content-storage",
-      "attempts": 1
-    },
-    {
-      "name": "@hearthdev/napi-darwin-arm64",
+      "name": "@angelmsger/wecom-calendar-cli",
       "attempts": 1
     }
   ]
