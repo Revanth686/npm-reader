@@ -86,6 +86,18 @@
       "score": 74
     },
     {
+      "name": "@aivin-labs/sdk",
+      "version": "1.0.0",
+      "description": "Aivin Plugin SDK - gRPC client/server for building plugins that run inside the Aivin platform (agentic engine, vector search, workspace, tasks, and more)",
+      "license": "MIT",
+      "repository": "https://github.com/aivin-labs/AIVIN-SDK",
+      "npmUrl": "https://www.npmjs.com/package/%40aivin-labs%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-27T07:10:44.655Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 91
+    },
+    {
       "name": "@ali.camargo/tournament-brackets",
       "version": "1.3.0",
       "description": "Reusable single-elimination tournament brackets — vanilla ESM core with optional jQuery adapter (React/Vue/Angular planned)",
@@ -156,6 +168,18 @@
       "createdAt": "2026-07-26T13:24:19.803Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 82
+    },
+    {
+      "name": "@angular-libs/socket",
+      "version": "0.0.1",
+      "description": "A signal-first, lightweight WebSocket client library for Angular applications with offline outbox storage, channel/topic multiplexing, and auto-reconnect.",
+      "license": "MIT",
+      "repository": "https://github.com/angular-lib/angular-libs",
+      "npmUrl": "https://www.npmjs.com/package/%40angular-libs%2Fsocket",
+      "category": "frontend",
+      "createdAt": "2026-07-27T09:17:06.656Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 73
     },
     {
       "name": "@antivamp_io/sdk",
@@ -878,6 +902,18 @@
       "score": 87
     },
     {
+      "name": "@devcodex/opentelemetry",
+      "version": "2.1.15",
+      "description": "Framework-agnostic OpenTelemetry SDK wrapper — zero-config traces, metrics, Span API and multi-framework adapters",
+      "license": "MIT",
+      "repository": "https://github.com/devcodex-labs/opentelemetry",
+      "npmUrl": "https://www.npmjs.com/package/%40devcodex%2Fopentelemetry",
+      "category": "backend",
+      "createdAt": "2026-07-27T06:15:23.886Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 71
+    },
+    {
       "name": "@devemberx/knit-statusline",
       "version": "0.1.0",
       "description": "A status line for Claude Code that you knit yourself: every row, every piece of every row, is one line of config",
@@ -1020,6 +1056,18 @@
       "createdAt": "2026-07-25T15:20:17.869Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 78
+    },
+    {
+      "name": "@dobroslavlabs/morse",
+      "version": "0.0.1",
+      "description": "Morse / CW toolkit: encode, decode, timing, WAV, Web Audio play, tap/mic decode, keyers. Zero runtime dependencies. Browser + Node. ITU-R M.1677-1.",
+      "license": "MIT",
+      "repository": "https://github.com/dobroslavlabs/morse",
+      "npmUrl": "https://www.npmjs.com/package/%40dobroslavlabs%2Fmorse",
+      "category": "frontend",
+      "createdAt": "2026-07-27T09:31:59.547Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 72
     },
     {
       "name": "@dongzijie1/pi-ai",
@@ -2414,6 +2462,18 @@
       "score": 67
     },
     {
+      "name": "@logicouo/pi-tps",
+      "version": "1.4.1",
+      "description": "Tokens-per-second and prompt-cache tracker for pi",
+      "license": "MIT",
+      "repository": "https://github.com/logicOuO/pi-tps",
+      "npmUrl": "https://www.npmjs.com/package/%40logicouo%2Fpi-tps",
+      "category": "utilities",
+      "createdAt": "2026-07-27T09:03:27.601Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 72
+    },
+    {
       "name": "@lu01/gaokao-vocab",
       "version": "1.0.0",
       "description": "高考英语词汇背诵助手 - React桌面应用，支持高考/考研/四级/六级词汇，背诵+测验双模式，含音标、释义、例句",
@@ -2652,6 +2712,18 @@
       "createdAt": "2026-07-26T00:26:35.539Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 95
+    },
+    {
+      "name": "@mrzr/api-client",
+      "version": "1.0.1",
+      "description": "Dependency-free typed REST client with automatic token refresh, Web Worker isolation and cross-tab auth sync. Works in React, Vue, Next.js, Nuxt, SSR and plain JS.",
+      "license": "MIT",
+      "repository": "https://github.com/mohammadreza-zr/api-client",
+      "npmUrl": "https://www.npmjs.com/package/%40mrzr%2Fapi-client",
+      "category": "frontend",
+      "createdAt": "2026-07-27T07:02:01.079Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 96
     },
     {
       "name": "@musepi/pi-agent-core",
@@ -2988,6 +3060,18 @@
       "createdAt": "2026-07-26T19:52:48.901Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 68
+    },
+    {
+      "name": "@pmlpm/pi-translate-zh-en",
+      "version": "1.0.0",
+      "description": "Pi extension: bidirectional zh<->en translation to save tokens. Translates user Chinese input to English before sending to the model, and translates the model's English response back to Chinese. All-in-one replacement for pi-prompt-translate (input side)",
+      "license": "MIT",
+      "repository": "https://github.com/pmlpl/cn-en-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40pmlpm%2Fpi-translate-zh-en",
+      "category": "utilities",
+      "createdAt": "2026-07-27T09:37:33.544Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 96
     },
     {
       "name": "@pooriaarab/vibemovie",
@@ -3566,6 +3650,18 @@
       "score": 52
     },
     {
+      "name": "@stayingapi/sdk",
+      "version": "1.0.0",
+      "description": "Official TypeScript/JavaScript SDK for the StayingAPI cross-platform accommodation data API.",
+      "license": "MIT",
+      "repository": "https://github.com/AM2studio/staying-api",
+      "npmUrl": "https://www.npmjs.com/package/%40stayingapi%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-27T09:25:14.805Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 83
+    },
+    {
       "name": "@stayradiated/pi-tag-slack",
       "version": "0.1.1",
       "description": "Lightweight Slack gateway for pi coding agent",
@@ -3818,6 +3914,18 @@
       "score": 86
     },
     {
+      "name": "@tradeflow/core",
+      "version": "0.1.0",
+      "description": "Horizontal-flow data grid web component for trading platforms. Minimal core, additive modules.",
+      "license": "MIT",
+      "repository": "https://github.com/p-m-p/tradeflow",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeflow%2Fcore",
+      "category": "data",
+      "createdAt": "2026-07-27T07:47:02.977Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 78
+    },
+    {
       "name": "@triago/cli",
       "version": "0.1.1",
       "description": "Human-in-the-loop decision surface for CLI coding agents: the agent posts a card of findings, you triage them in a browser with the keyboard, and your decisions come back as structured data. Local-only, MCP-native.",
@@ -3900,6 +4008,30 @@
       "createdAt": "2026-07-26T22:08:10.075Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 59
+    },
+    {
+      "name": "@usefy/qr-code",
+      "version": "0.2.0",
+      "description": "QR code generator for React — hand-written ISO/IEC 18004 encoder with Reed–Solomon error correction, SVG/canvas/PNG output, module & eye shapes, gradients, logo embedding with scannability validation, and a zero-dependency RSC-safe headless core",
+      "license": "MIT",
+      "repository": "https://github.com/mirunamu00/usefy",
+      "npmUrl": "https://www.npmjs.com/package/%40usefy%2Fqr-code",
+      "category": "frontend",
+      "createdAt": "2026-07-27T06:11:33.521Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 90
+    },
+    {
+      "name": "@usehaia/trace-x402",
+      "version": "0.0.2",
+      "description": "Haia Trace capture adapter for the x402 payment SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/Haia-Finance/haia-trace",
+      "npmUrl": "https://www.npmjs.com/package/%40usehaia%2Ftrace-x402",
+      "category": "devops",
+      "createdAt": "2026-07-27T05:23:48.117Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 73
     },
     {
       "name": "@vdaluz/astro-affiliate",
@@ -4070,6 +4202,18 @@
       "score": 57
     },
     {
+      "name": "@xenosystem/agent-cli",
+      "version": "0.5.17",
+      "description": "XENO AGENT - AI-powered terminal agent CLI. EXPERIMENTAL unsigned build: interactive native terminal ships for linux-x64, linux-arm64, win32-x64, darwin-x64 and darwin-arm64 (opt in with XENO_ALLOW_UNSIGNED_NATIVE=1); win32-arm64 runs in pipe mode only. S",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/XENO-CORPORATION/xeno-agent-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40xenosystem%2Fagent-cli",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T08:49:09.782Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 84
+    },
+    {
       "name": "@xlscalc/xlsx-preview",
       "version": "0.2.0",
       "description": "Client-side, view-only .xlsx preview that computes formula values in the browser.",
@@ -4080,6 +4224,18 @@
       "createdAt": "2026-07-26T22:33:37.319Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 64
+    },
+    {
+      "name": "@xulthekl/team-flow",
+      "version": "0.22.4",
+      "description": "Unified plugin (23 skills + 8 agents) integrating team-flow, compound-engineering, architecture-design, prototype, design-system, workflow-orchestrator, workflow-bootstrap, e2e, session-handoff, workflow-feedback for multi-agent coding tools.",
+      "license": "MIT",
+      "repository": "https://github.com/MageByte-Zero/team-flow",
+      "npmUrl": "https://www.npmjs.com/package/%40xulthekl%2Fteam-flow",
+      "category": "cli",
+      "createdAt": "2026-07-27T09:17:18.997Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 76
     },
     {
       "name": "@yourlivingroom/cardcatalog",
@@ -4248,6 +4404,18 @@
       "createdAt": "2026-07-26T17:18:37.569Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 73
+    },
+    {
+      "name": "ai-commander",
+      "version": "0.1.0",
+      "description": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ آللَّهُمَّ صَلِّ  وَ سَلِّم عَلَى سَيِّدِنَا مُحَمَّدٍ وَ عَلَى آلِ سَيِّدِنَا مُحَمَّد | Kanban-based task orchestrator untuk AI coding agent (Claude Code & OpenCode), dengan dukungan multi-repository, mode bypass-permi",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/masWahyuBayuAji/Ai-Commander",
+      "npmUrl": "https://www.npmjs.com/package/ai-commander",
+      "category": "devops",
+      "createdAt": "2026-07-27T05:59:38.699Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 82
     },
     {
       "name": "aipm-mcp-server",
@@ -4488,6 +4656,18 @@
       "createdAt": "2026-07-25T14:36:53.791Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 87
+    },
+    {
+      "name": "changesafe",
+      "version": "0.2.0",
+      "description": "Gate AI-proposed infrastructure changes from the terminal or CI: deterministic policies, honest exit codes, hashed receipts. The gate itself never calls a model.",
+      "license": "MIT",
+      "repository": "https://github.com/wonkwonlee/ChangeSafe",
+      "npmUrl": "https://www.npmjs.com/package/changesafe",
+      "category": "data",
+      "createdAt": "2026-07-27T09:21:08.810Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 76
     },
     {
       "name": "chatgpt-code",
@@ -4812,6 +4992,18 @@
       "createdAt": "2026-07-26T10:43:34.709Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 70
+    },
+    {
+      "name": "driftcite",
+      "version": "0.2.0",
+      "description": "Find the API calls in your code that already stopped working. Every fact cites the provider who published it.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nilaypatell/driftcite",
+      "npmUrl": "https://www.npmjs.com/package/driftcite",
+      "category": "backend",
+      "createdAt": "2026-07-27T06:01:29.458Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 76
     },
     {
       "name": "el-filtro",
@@ -5474,6 +5666,18 @@
       "score": 71
     },
     {
+      "name": "litequ",
+      "version": "1.0.0",
+      "description": "A simple same-thread queuing system for Node.js using SQLite with retry mechanism and exponential backoff",
+      "license": "MIT",
+      "repository": "https://github.com/cvgellhorn/litequ",
+      "npmUrl": "https://www.npmjs.com/package/litequ",
+      "category": "data",
+      "createdAt": "2026-07-27T07:43:46.704Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 82
+    },
+    {
       "name": "llmwiki-bridge-start",
       "version": "0.0.1",
       "description": "Local adoption harness for connecting pre-built LLMWiki knowledge sources to agent bridges and coding-agent clients.",
@@ -5808,6 +6012,18 @@
       "createdAt": "2026-07-27T03:08:21.390Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 83
+    },
+    {
+      "name": "monzo-sdk",
+      "version": "1.0.0",
+      "description": "A complete, type-safe, production-grade Node.js/TypeScript SDK for the Monzo API (OAuth2, Accounts, Balance, Pots, Transactions, Feed Items, Attachments, Receipts, Webhooks).",
+      "license": "MIT",
+      "repository": "https://github.com/iamkanishka/monzo-sdk",
+      "npmUrl": "https://www.npmjs.com/package/monzo-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-27T06:30:21.307Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 92
     },
     {
       "name": "my-md-baileys",
@@ -6386,6 +6602,18 @@
       "score": 68
     },
     {
+      "name": "pnpm11-ci-guard",
+      "version": "1.2.0",
+      "description": "Detect pnpm v11 silent-failure patterns in Dockerfiles, GitHub Actions workflows and package.json — npm_config_* env vars that are now ignored, the dropped 'pnpm' field, and Dockerfiles that never COPY pnpm-workspace.yaml.",
+      "license": "MIT",
+      "repository": "https://github.com/Booyaka101/pnpm11-ci-guard",
+      "npmUrl": "https://www.npmjs.com/package/pnpm11-ci-guard",
+      "category": "devops",
+      "createdAt": "2026-07-27T09:07:12.171Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 100
+    },
+    {
       "name": "pocket-index",
       "version": "1.0.0",
       "description": "Tiny browser-friendly search indexes for external documents.",
@@ -6456,6 +6684,18 @@
       "createdAt": "2026-07-26T10:02:35.447Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 100
+    },
+    {
+      "name": "qualityclouds-mcp-init",
+      "version": "0.1.1",
+      "description": "Single source-of-truth registry of MCP clients powering every Quality Clouds one-click install surface (Phase 1b, QSA-1278).",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/yajouau/qualityclouds-mcp-init",
+      "npmUrl": "https://www.npmjs.com/package/qualityclouds-mcp-init",
+      "category": "cli",
+      "createdAt": "2026-07-27T09:11:08.034Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 72
     },
     {
       "name": "r-tour-guide",
@@ -6576,6 +6816,18 @@
       "createdAt": "2026-07-26T09:30:06.241Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 75
+    },
+    {
+      "name": "react-timespace",
+      "version": "0.2.1",
+      "description": "Multi-timezone timeline React component — drag time intervals across timezone rows with collision-resolved clock labels. Extracted from SyncContact.",
+      "license": "MIT",
+      "repository": "https://github.com/it-pal-net/react-timespace",
+      "npmUrl": "https://www.npmjs.com/package/react-timespace",
+      "category": "frontend",
+      "createdAt": "2026-07-27T07:54:13.329Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 80
     },
     {
       "name": "real-shadows",
@@ -6890,6 +7142,18 @@
       "score": 76
     },
     {
+      "name": "sntnl-cli",
+      "version": "4.0.0",
+      "description": "Sentinel Security Intelligence — SAST, supply chain, threat intel, and Skills/MCP for AI coding agents.",
+      "license": "BUSSL-1.1",
+      "repository": "https://github.com/javier20dev25/sentinel-cli",
+      "npmUrl": "https://www.npmjs.com/package/sntnl-cli",
+      "category": "cli",
+      "createdAt": "2026-07-27T08:12:44.424Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 86
+    },
+    {
       "name": "solana-agent-kit-plugin-risk-api",
       "version": "1.0.0",
       "description": "Solana Agent Kit plugin for the TNT House Risk-Data API — Solana token risk scoring and on-chain insider wallet cluster detection.",
@@ -7046,6 +7310,18 @@
       "score": 78
     },
     {
+      "name": "temporal-calendar-react",
+      "version": "0.1.0",
+      "description": "Small, feature-rich, accessible calendar components for React 19 — a full React port of Cally",
+      "license": "MIT",
+      "repository": "https://github.com/ElJijuna/calendar-react",
+      "npmUrl": "https://www.npmjs.com/package/temporal-calendar-react",
+      "category": "frontend",
+      "createdAt": "2026-07-27T05:59:24.465Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 79
+    },
+    {
       "name": "tenderpulse-mcp",
       "version": "2.1.0",
       "description": "Search Indian government tenders (GeM, CPPP, DefProc, Maharashtra, UP) from Claude, Cursor, or any MCP client",
@@ -7092,6 +7368,18 @@
       "createdAt": "2026-07-27T01:12:45.043Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 63
+    },
+    {
+      "name": "tiptap-chat-composer",
+      "version": "1.0.0",
+      "description": "Tiptap extensions for chat message inputs: markdown shortcuts that keep working after Shift+Enter, Enter-to-send that knows when to get out of the way, and typed [text](url) links.",
+      "license": "MIT",
+      "repository": "https://github.com/pacatus-me/tiptap-chat-composer",
+      "npmUrl": "https://www.npmjs.com/package/tiptap-chat-composer",
+      "category": "utilities",
+      "createdAt": "2026-07-27T09:13:14.425Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 98
     },
     {
       "name": "tiptap-static",
@@ -7428,6 +7716,18 @@
       "createdAt": "2026-07-25T21:35:45.544Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 78
+    },
+    {
+      "name": "watchtell",
+      "version": "1.0.0",
+      "description": "Natural-language custom alarm CLI + local daemon for macOS. If a coding agent can check it, you can alarm on it.",
+      "license": "MIT",
+      "repository": "https://github.com/pchuri/watchtell",
+      "npmUrl": "https://www.npmjs.com/package/watchtell",
+      "category": "cli",
+      "createdAt": "2026-07-26T03:46:50.146Z",
+      "discoveredAt": "2026-07-27T09:57:22.523Z",
+      "score": 83
     },
     {
       "name": "whatshipped",

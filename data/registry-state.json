@@ -1,15 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121680608,
-  "lastRunAt": "2026-07-27T05:59:13.965Z",
+  "lastSequence": 121717926,
+  "lastRunAt": "2026-07-27T09:57:22.523Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@riven-deploy/cli",
+      "name": "@dilukangelo/fluidkit",
       "attempts": 1
     },
     {
-      "name": "@angelmsger/wecom-calendar-cli",
+      "name": "@martijn-bakker/test-vscode-languageclient",
+      "attempts": 1
+    },
+    {
+      "name": "@agentx-sky/core-runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@remit/doctor",
+      "attempts": 1
+    },
+    {
+      "name": "@agentx-sky/shared",
       "attempts": 1
     }
   ]
