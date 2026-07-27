@@ -1,19 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121746970,
-  "lastRunAt": "2026-07-27T12:54:15.214Z",
+  "lastSequence": 121779847,
+  "lastRunAt": "2026-07-27T15:36:38.068Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@sellx/tokens",
+      "name": "@pipeworx/mcp-sec-form-d",
       "attempts": 1
     },
     {
-      "name": "@camstack/addon-terminal",
+      "name": "@pipeworx/mcp-fda-devices",
       "attempts": 1
     },
     {
-      "name": "@7n/rules-lang-php",
+      "name": "@pipeworx/mcp-fda-drug-competition",
+      "attempts": 1
+    },
+    {
+      "name": "@pipeworx/mcp-cms-open-payments",
+      "attempts": 1
+    },
+    {
+      "name": "@pipeworx/mcp-fcc-ecfs",
+      "attempts": 1
+    },
+    {
+      "name": "@agentx-sky/enterprise-runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@steweucen/eslint-config",
+      "attempts": 1
+    },
+    {
+      "name": "@agentx-sky/multi-agent-reasoning",
       "attempts": 1
     }
   ]
