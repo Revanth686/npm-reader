@@ -182,6 +182,18 @@
       "score": 88
     },
     {
+      "name": "@amulet-laboratories/spyglass",
+      "version": "0.1.0",
+      "description": "Point it at a live URL and get a prioritized, repair-oriented audit of a running website — performance, accessibility, security, SEO, and correctness.",
+      "license": "MIT",
+      "repository": "https://github.com/Amulet-Laboratories/spyglass",
+      "npmUrl": "https://www.npmjs.com/package/%40amulet-laboratories%2Fspyglass",
+      "category": "testing",
+      "createdAt": "2026-07-27T21:39:07.510Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 62
+    },
+    {
       "name": "@anaidev/daw-engine-core",
       "version": "1.0.0",
       "description": "Headless DAW engine — domain models, command system, audio engine, automation, plugins, MIDI",
@@ -312,6 +324,18 @@
       "createdAt": "2026-07-26T10:35:12.800Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 71
+    },
+    {
+      "name": "@artisanpack-ui/hooks-js",
+      "version": "1.0.0",
+      "description": "WordPress-style actions and filters for JavaScript, with a React adapter.",
+      "license": "MIT",
+      "repository": "https://github.com/ArtisanPack-UI/hooks-js",
+      "npmUrl": "https://www.npmjs.com/package/%40artisanpack-ui%2Fhooks-js",
+      "category": "frontend",
+      "createdAt": "2026-07-27T22:47:22.473Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 67
     },
     {
       "name": "@aryasaatvik/motel",
@@ -1214,6 +1238,18 @@
       "score": 69
     },
     {
+      "name": "@dmytromykhailiuk/location-context-resolver",
+      "version": "1.0.0",
+      "description": "Resolve where your app runs — origin, base-path-relative pathname, query params — and where its remote counterpart lives. Typed, SSR-friendly, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/location-context-resolver",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Flocation-context-resolver",
+      "category": "frontend",
+      "createdAt": "2026-07-27T21:09:02.502Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 76
+    },
+    {
       "name": "@dmytromykhailiuk/message-queue",
       "version": "1.0.0",
       "description": "In-memory message queue with FIFO ordering, message groups, deduplication, retries, processing timeouts and delayed delivery — SQS-flavoured semantics for the browser and Node.",
@@ -1308,6 +1344,18 @@
       "createdAt": "2026-07-26T09:53:23.003Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 80
+    },
+    {
+      "name": "@edraj/sauron-node",
+      "version": "1.0.0",
+      "description": "Sauron server-side Node/TypeScript SDK: product-analytics events + exception capture for Node backends.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/edraj/sauron",
+      "npmUrl": "https://www.npmjs.com/package/%40edraj%2Fsauron-node",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:04:01.276Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 63
     },
     {
       "name": "@effected/github",
@@ -2210,6 +2258,18 @@
       "score": 68
     },
     {
+      "name": "@harrify/whatsapp",
+      "version": "1.0.0",
+      "description": "Lightweight TypeScript SDK for the WhatsApp Cloud API. Discord.js-style events, rich message objects, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Harry260/Whatsapp-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40harrify%2Fwhatsapp",
+      "category": "backend",
+      "createdAt": "2026-07-27T21:26:52.713Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 60
+    },
+    {
       "name": "@hectorpalmatellez/toki",
       "version": "1.0.1",
       "description": "Design token pipeline CLI — W3C DTCG in, framework-specific code out",
@@ -2544,6 +2604,18 @@
       "createdAt": "2026-07-26T03:23:26.054Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 69
+    },
+    {
+      "name": "@jjanczur/tyran",
+      "version": "0.1.0",
+      "description": "Command-line scripts for the Tyran task conductor (doctor, journal, schema, and repo tooling) for CI and terminals outside Claude Code. Installing this package does NOT install the Claude Code plugin — add that separately with `/plugin marketplace add jja",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jjanczur/tyran",
+      "npmUrl": "https://www.npmjs.com/package/%40jjanczur%2Ftyran",
+      "category": "cli",
+      "createdAt": "2026-07-27T22:19:37.839Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 90
     },
     {
       "name": "@joshuanode/n8n-nodes-autoelevate",
@@ -2916,6 +2988,18 @@
       "createdAt": "2026-07-25T20:07:27.746Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 81
+    },
+    {
+      "name": "@mgrilec/apm",
+      "version": "0.1.1",
+      "description": "npm launcher for the Microsoft APM CLI",
+      "license": "MIT",
+      "repository": "https://github.com/mgrilec/apm",
+      "npmUrl": "https://www.npmjs.com/package/%40mgrilec%2Fapm",
+      "category": "cli",
+      "createdAt": "2026-07-27T22:05:56.631Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 61
     },
     {
       "name": "@miadi/ava8",
@@ -3302,6 +3386,18 @@
       "score": 76
     },
     {
+      "name": "@ocean8219/formualizer",
+      "version": "0.7.1",
+      "description": "Embeddable spreadsheet engine — parse, evaluate & mutate Excel workbooks in the browser. 320+ functions, Arrow-powered.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/PSU3D0/formualizer",
+      "npmUrl": "https://www.npmjs.com/package/%40ocean8219%2Fformualizer",
+      "category": "frontend",
+      "createdAt": "2026-07-27T22:13:19.760Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 78
+    },
+    {
       "name": "@okeav/idp-core",
       "version": "0.1.0",
       "description": "Standalone, pluggable identity provider for Node.js/TypeScript backends — OAuth2/OIDC authorization server, password + MFA + social login, session management, and service-to-service JWKS trust. Bring your own MongoDB.",
@@ -3443,6 +3539,18 @@
       "category": "data",
       "createdAt": "2026-07-26T13:28:32.580Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
+      "score": 77
+    },
+    {
+      "name": "@pbuilder/sdk",
+      "version": "0.1.0",
+      "description": "The public TypeScript/Bun authoring layer for Project Builder schematics. Authors file mutations (create, modify, remove, rename, move, copy, copyIn), lowers them to IR, and talks to the Project Builder engine over framed stdio (see docs/engine-sdk-wire-s",
+      "license": "MIT",
+      "repository": "https://github.com/Project-Builder-Schematics/project-builder-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40pbuilder%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T21:16:40.932Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 77
     },
     {
@@ -3816,6 +3924,18 @@
       "createdAt": "2026-07-25T19:08:40.276Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 75
+    },
+    {
+      "name": "@real_jiakai/kagi-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Kagi Search using your session token - web & news search, lenses, regions. No API subscription needed.",
+      "license": "MIT",
+      "repository": "https://github.com/real-jiakai/kagi-mcp-claude-fable-5",
+      "npmUrl": "https://www.npmjs.com/package/%40real_jiakai%2Fkagi-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:49:17.284Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 60
     },
     {
       "name": "@remnic/capture-screen",
@@ -4214,6 +4334,18 @@
       "score": 66
     },
     {
+      "name": "@steve228uk/react-native-turnstile",
+      "version": "0.1.0",
+      "description": "Cloudflare Turnstile for React Native and Expo, powered by react-native-webview.",
+      "license": "MIT",
+      "repository": "https://github.com/steve228uk/react-native-turnstile",
+      "npmUrl": "https://www.npmjs.com/package/%40steve228uk%2Freact-native-turnstile",
+      "category": "frontend",
+      "createdAt": "2026-07-27T21:06:49.151Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 70
+    },
+    {
       "name": "@stone-js/i18n",
       "version": "0.8.6",
       "description": "Framework-agnostic, cloud-native i18n for Stone.js. Zero-config: drop your translations in app/i18n/<lang>/ and use them identically on the backend and the frontend. Powered by i18next.",
@@ -4416,6 +4548,18 @@
       "createdAt": "2026-07-27T10:39:16.435Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 80
+    },
+    {
+      "name": "@the-rfp-hub/standard",
+      "version": "1.0.1",
+      "description": "RFP Hub Standard — canonical JSON Schema + generated TypeScript types for Ethereum-ecosystem funding opportunities.",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/The-RFP-Hub/the-rfp-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40the-rfp-hub%2Fstandard",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T22:16:05.131Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 60
     },
     {
       "name": "@theasanai/beacon",
@@ -4775,6 +4919,18 @@
       "category": "backend",
       "createdAt": "2026-07-26T20:14:37.623Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
+      "score": 67
+    },
+    {
+      "name": "@webrtc-node/trpc-webrtc-link",
+      "version": "0.2.0",
+      "description": "A complete tRPC v11 client link and server transport for WebRTC RTCDataChannels.",
+      "license": "MIT",
+      "repository": "https://github.com/webrtc-node/trpc-webrtc-link",
+      "npmUrl": "https://www.npmjs.com/package/%40webrtc-node%2Ftrpc-webrtc-link",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:22:41.394Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 67
     },
     {
@@ -5186,6 +5342,30 @@
       "score": 67
     },
     {
+      "name": "astrovisor-skill",
+      "version": "1.0.1",
+      "description": "Universal AstroVisor Agent Skill with private Markdown profiles, safe credential onboarding, and live-schema MCP workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/rokoss21/astrovisor-skill",
+      "npmUrl": "https://www.npmjs.com/package/astrovisor-skill",
+      "category": "backend",
+      "createdAt": "2026-07-27T21:49:27.855Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 90
+    },
+    {
+      "name": "async-combinators",
+      "version": "0.1.0",
+      "description": "Composable higher-order combinators that add resilience and concurrency control to async TypeScript functions",
+      "license": "MIT",
+      "repository": "https://github.com/neu-se/async-combinators",
+      "npmUrl": "https://www.npmjs.com/package/async-combinators",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T21:28:15.658Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 80
+    },
+    {
       "name": "audiobars",
       "version": "1.0.0",
       "description": "Ultra-lightweight, zero-dependency 60 FPS HTML5 Canvas audio spectrum visualization micro-library.",
@@ -5448,6 +5628,18 @@
       "createdAt": "2026-07-27T04:56:48.887Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 78
+    },
+    {
+      "name": "chdb-cloudflare",
+      "version": "0.1.0",
+      "description": "chdb (ClickHouse) for Cloudflare Workers — a single size-capped WebAssembly bundle with a JSPI async-fetch HTTP bridge, so ClickHouse's url() and s3() table functions work inside Workers. Covers the most common SQL surface; for full SQL coverage use the c",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/chdb-io/chdb-core",
+      "npmUrl": "https://www.npmjs.com/package/chdb-cloudflare",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:11:08.321Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 65
     },
     {
       "name": "chromafix-a11y",
@@ -6086,6 +6278,30 @@
       "score": 55
     },
     {
+      "name": "find-primordials",
+      "version": "1.0.0",
+      "description": "Find primordials in use in a JavaScript/TypeScript project",
+      "license": "MIT",
+      "repository": "https://github.com/ljharb/find-primordials",
+      "npmUrl": "https://www.npmjs.com/package/find-primordials",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T22:39:47.404Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 61
+    },
+    {
+      "name": "find-primordials-cli",
+      "version": "1.0.0",
+      "description": "CLI to find primordials in use in a JavaScript/TypeScript project",
+      "license": "MIT",
+      "repository": "https://github.com/ljharb/find-primordials",
+      "npmUrl": "https://www.npmjs.com/package/find-primordials-cli",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T22:40:30.149Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 67
+    },
+    {
       "name": "flipkart-seller-mcp",
       "version": "0.1.0",
       "description": "High-performance, token-optimized Model Context Protocol (MCP) server for Flipkart Seller Hub v3 APIs.",
@@ -6180,6 +6396,18 @@
       "createdAt": "2026-07-25T13:44:00.475Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 65
+    },
+    {
+      "name": "ghost-social-client",
+      "version": "1.0.0",
+      "description": "Ghost Social Layer — SDK client for the first cryptographic social network for AI agents. Connect Claude, Gemini, GPT, ElizaOS, or any autonomous agent. Every post Ed25519-signed, every identity verifiable.",
+      "license": "MIT",
+      "repository": "https://github.com/josemiguel3125-sketch/live-agent-os-infra",
+      "npmUrl": "https://www.npmjs.com/package/ghost-social-client",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:24:43.076Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 72
     },
     {
       "name": "gilang-storage-sdk",
@@ -7008,6 +7236,18 @@
       "createdAt": "2026-07-26T19:30:32.197Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 76
+    },
+    {
+      "name": "mcp-tester-helper",
+      "version": "1.0.0",
+      "description": "Unified MCP server for multi-stand infrastructure testing: REST APIs, PostgreSQL, and OpenSearch — all through a single config file.",
+      "license": "MIT",
+      "repository": "https://github.com/Pstasov/mcp-tester-helper",
+      "npmUrl": "https://www.npmjs.com/package/mcp-tester-helper",
+      "category": "testing",
+      "createdAt": "2026-07-27T21:43:09.697Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 73
     },
     {
       "name": "mcpfy-sdk",
@@ -8642,6 +8882,18 @@
       "score": 68
     },
     {
+      "name": "superside-skills",
+      "version": "1.5.20",
+      "description": "Superside's CLI for installing internal agent skills from the company registry (fork of vercel-labs/skills).",
+      "license": "MIT",
+      "repository": "https://github.com/miguel-leca-superside/superside-skills-cli",
+      "npmUrl": "https://www.npmjs.com/package/superside-skills",
+      "category": "cli",
+      "createdAt": "2026-07-27T21:41:08.942Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 62
+    },
+    {
       "name": "svelte-qr-label",
       "version": "0.1.0",
       "description": "Svelte 5 component for the QR Label Designer — drag-and-drop label designer with PDF, PNG, and ZPL export.",
@@ -9098,6 +9350,18 @@
       "score": 63
     },
     {
+      "name": "vaultwire",
+      "version": "1.0.1",
+      "description": "MCP server that lets Claude read and write Obsidian notes via the Local REST API plugin",
+      "license": "MIT",
+      "repository": "https://github.com/yigitcnsn/vaultwire",
+      "npmUrl": "https://www.npmjs.com/package/vaultwire",
+      "category": "backend",
+      "createdAt": "2026-07-27T21:32:13.234Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 67
+    },
+    {
       "name": "vautra-sdk",
       "version": "0.1.0",
       "description": "Official Vautra SDK for signed VS3 object operations.",
@@ -9158,6 +9422,18 @@
       "score": 72
     },
     {
+      "name": "viberadio-fm",
+      "version": "0.2.0",
+      "description": "Your agent's output as audio — spoken narration, monologue, two-host podcast, or reactive music. For Claude Code, Codex, Gemini, and other agentic CLIs. Local-first.",
+      "license": "MIT",
+      "repository": "https://github.com/pooriaarab/viberadio",
+      "npmUrl": "https://www.npmjs.com/package/viberadio-fm",
+      "category": "frontend",
+      "createdAt": "2026-07-26T06:44:57.798Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 67
+    },
+    {
       "name": "vite-plugin-grundlage",
       "version": "0.1.0",
       "description": "Vite plugin that prerenders grundlage web components to declarative shadow DOM at build time.",
@@ -9168,6 +9444,18 @@
       "createdAt": "2026-07-25T19:02:27.058Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 53
+    },
+    {
+      "name": "vite-plugin-stylewright",
+      "version": "0.1.0",
+      "description": "Edit a Svelte component's CSS live in the browser and save it straight back into the .svelte <style> block. A dev-only Vite plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/Greg-J/vite-plugin-stylewright",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-stylewright",
+      "category": "frontend",
+      "createdAt": "2026-07-27T21:41:43.360Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 77
     },
     {
       "name": "vue-asset-map",
@@ -9240,6 +9528,18 @@
       "createdAt": "2026-07-25T12:37:01.508Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 68
+    },
+    {
+      "name": "wikipilot",
+      "version": "0.2.0",
+      "description": "Generate a documentation wiki from your codebase. Every page records the source files it was built from, so you can see which docs have drifted from the code.",
+      "license": "MIT",
+      "repository": "https://github.com/guymoyal/wikipilot",
+      "npmUrl": "https://www.npmjs.com/package/wikipilot",
+      "category": "cli",
+      "createdAt": "2026-07-27T21:13:59.277Z",
+      "discoveredAt": "2026-07-27T22:54:11.116Z",
+      "score": 76
     },
     {
       "name": "wordprint",
