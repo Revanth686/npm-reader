@@ -446,6 +446,18 @@
       "score": 69
     },
     {
+      "name": "@belalwaheed/octagon-mist",
+      "version": "1.0.0",
+      "description": "Framework-agnostic design system with Filter Octagon (dark) and Minimal Mist (light) themes — OKLCH color ramps, semantic tokens, and 8 output formats",
+      "license": "MIT",
+      "repository": "https://github.com/BelalWaheed/octagon-mist",
+      "npmUrl": "https://www.npmjs.com/package/%40belalwaheed%2Foctagon-mist",
+      "category": "frontend",
+      "createdAt": "2026-07-27T23:17:15.047Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 70
+    },
+    {
       "name": "@benjamin-small/browser-terminal",
       "version": "0.1.0",
       "description": "A terminal/tmux experience for any web page, powered by a Rust/WASM core with structured-value pipes.",
@@ -768,6 +780,18 @@
       "createdAt": "2026-07-26T21:48:58.387Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 80
+    },
+    {
+      "name": "@clavenar/agent-sdk",
+      "version": "1.6.0",
+      "description": "Wrap your Anthropic / OpenAI client. Every tool call is inspected by Clavenar before it runs.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/clavenar/clavenar-typescript-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40clavenar%2Fagent-sdk",
+      "category": "cli",
+      "createdAt": "2026-07-27T22:57:17.243Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 87
     },
     {
       "name": "@cloudbitmaps/roaring",
@@ -1310,6 +1334,18 @@
       "score": 72
     },
     {
+      "name": "@doccloak/core",
+      "version": "0.8.0",
+      "description": "Environment-agnostic document anonymization engine for the DocCloak ecosystem.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/WLojek/DocCloak.Core",
+      "npmUrl": "https://www.npmjs.com/package/%40doccloak%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-07-27T22:53:45.524Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 72
+    },
+    {
       "name": "@dongzijie1/pi-ai",
       "version": "0.82.1",
       "description": "Unified LLM API with automatic model discovery and provider configuration",
@@ -1332,6 +1368,18 @@
       "createdAt": "2026-07-26T14:19:31.639Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "@dotrino/vaultd",
+      "version": "0.6.3",
+      "description": "Certificador personal de Dotrino: daemon headless que custodia la clave maestra y delega capacidades a tus dispositivos por el proxy. Tu CA propia.",
+      "license": "MIT",
+      "repository": "https://github.com/imdotrino/dotrino-vault",
+      "npmUrl": "https://www.npmjs.com/package/%40dotrino%2Fvaultd",
+      "category": "devops",
+      "createdAt": "2026-07-27T22:50:55.141Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 64
     },
     {
       "name": "@duskel/cassette",
@@ -1706,6 +1754,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/arc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ARC (build etherscan-arc-4bcb20f9-1785194798318, commit 1825119, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/arc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Farc",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T23:27:02.513Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/boson",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BOSON (build etherscan-boson-c477d038-1785083640270, commit 30ced60, branch etherscan)",
@@ -1728,6 +1788,18 @@
       "createdAt": "2026-07-26T21:24:03.345Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/chubby",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for CHUBBY (build etherscan-chubby-c386bb4e-1785194868542, commit 38d0b17, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/chubby",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fchubby",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T23:28:15.313Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/cmtat-base",
@@ -1896,6 +1968,18 @@
       "createdAt": "2026-07-26T23:39:20.025Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/lbrett",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LBRETT (build etherscan-lbrett-11a8e4b4-1785196413714, commit f8b7893, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/lbrett",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flbrett",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T23:53:58.510Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/lp",
@@ -2594,6 +2678,18 @@
       "score": 86
     },
     {
+      "name": "@j_moleiro/app-params",
+      "version": "1.0.2",
+      "description": "CLI parameter parsing utility for Node.js applications",
+      "license": "MIT",
+      "repository": "https://github.com/jmoleiro/app-params",
+      "npmUrl": "https://www.npmjs.com/package/%40j_moleiro%2Fapp-params",
+      "category": "cli",
+      "createdAt": "2026-07-27T23:28:21.906Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 52
+    },
+    {
       "name": "@jango-blockchained/hoox-tui",
       "version": "0.1.8",
       "description": "Hoox algorithmic trading terminal operations center — OpenTUI dashboard",
@@ -3000,6 +3096,18 @@
       "createdAt": "2026-07-27T22:05:56.631Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 61
+    },
+    {
+      "name": "@mhuang98/mcp-compose",
+      "version": "1.0.0",
+      "description": "A TypeScript SDK for composing and routing across multiple MCP servers with typed tools, middleware, and Zod validation",
+      "license": "MIT",
+      "repository": "https://github.com/mishhuang/mcp-compose",
+      "npmUrl": "https://www.npmjs.com/package/%40mhuang98%2Fmcp-compose",
+      "category": "backend",
+      "createdAt": "2026-07-27T23:00:21.561Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 59
     },
     {
       "name": "@miadi/ava8",
@@ -4022,6 +4130,18 @@
       "score": 73
     },
     {
+      "name": "@samyx/preview-stacks",
+      "version": "0.1.0",
+      "description": "Declarative lifecycle for ephemeral per-PR preview stacks: isolation axes with provision/destroy/leak-verification, over Docker Compose.",
+      "license": "MIT",
+      "repository": "https://github.com/samishal1998/preview-stacks",
+      "npmUrl": "https://www.npmjs.com/package/%40samyx%2Fpreview-stacks",
+      "category": "devops",
+      "createdAt": "2026-07-27T23:24:38.691Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 81
+    },
+    {
       "name": "@sand0vvv/hyperevm-mcp",
       "version": "1.4.0",
       "description": "Read-only MCP server for the Hyperliquid / HyperEVM ecosystem — DeFi yields, protocol TVL, perp & spot markets. No API keys, no wallets, no signing.",
@@ -4682,6 +4802,18 @@
       "score": 90
     },
     {
+      "name": "@trident-ai/cli",
+      "version": "0.2.0",
+      "description": "Trident CLI — sign in, wire your repo into Trident with your coding agent, pentest what you deploy, and read findings from the terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/esprit-labs/Trident",
+      "npmUrl": "https://www.npmjs.com/package/%40trident-ai%2Fcli",
+      "category": "testing",
+      "createdAt": "2026-07-27T23:26:15.233Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 65
+    },
+    {
       "name": "@trueyy-sdk/node",
       "version": "1.0.0",
       "description": "Trueyy Server SDK for Node.js — mint session tokens, query sessions, handle webhooks.",
@@ -4896,6 +5028,30 @@
       "createdAt": "2026-07-25T13:52:05.960Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 63
+    },
+    {
+      "name": "@w6w/cli",
+      "version": "0.1.1",
+      "description": "The w6w command-line client. Thin transport over the w6w HTTP API, with help generated from the shared wrapper contract.",
+      "license": "MIT",
+      "repository": "https://github.com/w6w-io/w6w-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40w6w%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:48:08.946Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 56
+    },
+    {
+      "name": "@w6w/sdk",
+      "version": "0.1.1",
+      "description": "Typed client for the w6w HTTP API. Thin transport, auth and error mapping — nothing else.",
+      "license": "MIT",
+      "repository": "https://github.com/w6w-io/w6w-node",
+      "npmUrl": "https://www.npmjs.com/package/%40w6w%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:45:03.201Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 62
     },
     {
       "name": "@weasel-js/core",
@@ -5270,6 +5426,18 @@
       "score": 50
     },
     {
+      "name": "alchemy-vultr",
+      "version": "0.0.0",
+      "description": "Alchemy Effect provider for Vultr — every Vultr primitive as typed Infrastructure-as-Effects resources",
+      "license": "MIT",
+      "repository": "https://github.com/Kennybll/alchemy-vultr",
+      "npmUrl": "https://www.npmjs.com/package/alchemy-vultr",
+      "category": "devops",
+      "createdAt": "2026-07-27T23:16:14.165Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 62
+    },
+    {
       "name": "anymail-mcp",
       "version": "1.1.0",
       "description": "Universal MCP server exposing any IMAP/SMTP mailbox (Gmail, Outlook, iCloud, Fastmail, ProtonMail, Yahoo, Zoho, any IMAP/SMTP server) as Model Context Protocol tools.",
@@ -5544,6 +5712,18 @@
       "createdAt": "2026-07-25T16:47:03.576Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 73
+    },
+    {
+      "name": "burnlink",
+      "version": "0.1.4",
+      "description": "BurnLink CLI — zero-knowledge, self-destructing file sharing from your terminal. Requires a BurnLink license key.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Joy-Majumder/BurnLink-CLI",
+      "npmUrl": "https://www.npmjs.com/package/burnlink",
+      "category": "cli",
+      "createdAt": "2026-07-27T23:47:04.732Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 47
     },
     {
       "name": "cabalspy",
@@ -5966,6 +6146,18 @@
       "score": 87
     },
     {
+      "name": "delegate-mcp",
+      "version": "1.0.0",
+      "description": "MCP delegate server: routes large tool outputs to a cheap model to save orchestrator tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/art-ws/delegate-mcp",
+      "npmUrl": "https://www.npmjs.com/package/delegate-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-27T23:06:27.479Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 85
+    },
+    {
       "name": "design-lagann",
       "version": "1.0.1",
       "description": "A cross-host design agent that plans, art-directs, builds, animates, and verifies distinctive interfaces for Codex, Claude Code, and Cursor.",
@@ -6086,6 +6278,18 @@
       "score": 83
     },
     {
+      "name": "el-piloto",
+      "version": "0.1.0",
+      "description": "Corre tu onboarding como si fuera la primera vez: una sesión de agente sin memoria sigue tu README al pie de la letra en un sandbox y reporta cada punto donde tuvo que adivinar algo.",
+      "license": "MIT",
+      "repository": "https://github.com/JuanIA-sketch/el-piloto",
+      "npmUrl": "https://www.npmjs.com/package/el-piloto",
+      "category": "cli",
+      "createdAt": "2026-07-27T23:48:27.855Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 84
+    },
+    {
       "name": "eliza-plugin-tnt-risk-api",
       "version": "1.0.0",
       "description": "ElizaOS plugin for TNT House Risk-Data API — Solana token risk scoring and on-chain insider wallet cluster detection for trading agents.",
@@ -6156,6 +6360,18 @@
       "createdAt": "2026-07-27T00:06:21.162Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 62
+    },
+    {
+      "name": "eslint-plugin-find-primordials",
+      "version": "1.0.1",
+      "description": "ESLint plugin to find primordials in use in JavaScript/TypeScript code",
+      "license": "MIT",
+      "repository": "https://github.com/ljharb/find-primordials",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-find-primordials",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T22:41:25.097Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 59
     },
     {
       "name": "eslint-plugin-i18n-unused",
@@ -6300,6 +6516,18 @@
       "createdAt": "2026-07-27T22:40:30.149Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 67
+    },
+    {
+      "name": "fleetode",
+      "version": "1.0.0",
+      "description": "Multi-session Claude Code CLI manager - one brain, many sessions",
+      "license": "MIT",
+      "repository": "https://github.com/Osama-Yusuf/fleet",
+      "npmUrl": "https://www.npmjs.com/package/fleetode",
+      "category": "cli",
+      "createdAt": "2026-07-27T23:47:31.422Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 78
     },
     {
       "name": "flipkart-seller-mcp",
@@ -6686,6 +6914,18 @@
       "score": 74
     },
     {
+      "name": "incitaciones",
+      "version": "0.2.0",
+      "description": "Reusable prompts and skills for CLI LLM tools, with native pi package support.",
+      "license": "MIT",
+      "repository": "https://github.com/charly-vibes/incitaciones",
+      "npmUrl": "https://www.npmjs.com/package/incitaciones",
+      "category": "cli",
+      "createdAt": "2026-07-27T23:25:47.178Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 67
+    },
+    {
       "name": "ineedcruise",
       "version": "0.4.0",
       "description": "A Claude Code skill that finds absurdly cheap cruises and prices the flight that makes them viable. Ranks on true all-in cost per night: fare plus taxes plus the gratuities no booking site shows you.",
@@ -6756,6 +6996,18 @@
       "createdAt": "2026-07-27T18:49:26.660Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 72
+    },
+    {
+      "name": "kagi-mcp-claude-fable-5",
+      "version": "1.0.0",
+      "description": "MCP server for Kagi Search using your session token - web & news search, lenses, regions. No API subscription needed.",
+      "license": "MIT",
+      "repository": "https://github.com/real-jiakai/kagi-mcp-claude-fable-5",
+      "npmUrl": "https://www.npmjs.com/package/kagi-mcp-claude-fable-5",
+      "category": "backend",
+      "createdAt": "2026-07-27T22:56:27.184Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 60
     },
     {
       "name": "kanpai-toast",
@@ -7226,6 +7478,18 @@
       "score": 58
     },
     {
+      "name": "mcp-expect",
+      "version": "0.1.1",
+      "description": "Jest-style assertions for testing MCP (Model Context Protocol) servers.",
+      "license": "MIT",
+      "repository": "https://github.com/fba5147/mcp-testing",
+      "npmUrl": "https://www.npmjs.com/package/mcp-expect",
+      "category": "testing",
+      "createdAt": "2026-07-27T23:41:21.695Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 54
+    },
+    {
       "name": "mcp-metering",
       "version": "0.1.0",
       "description": "Reliable, idempotent usage metering for MCP servers you already run in production. Retrofit-friendly: no stack requirements, no database lock-in.",
@@ -7490,6 +7754,18 @@
       "score": 64
     },
     {
+      "name": "n8n-nodes-opendental",
+      "version": "1.0.2",
+      "description": "n8n community node for the Open Dental REST API — patients, appointments, payments, and more",
+      "license": "MIT",
+      "repository": "https://github.com/unstackedapps/n8n-nodes-opendental",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-opendental",
+      "category": "backend",
+      "createdAt": "2026-07-27T12:00:50.491Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 71
+    },
+    {
       "name": "n8n-nodes-privaro",
       "version": "0.1.0",
       "description": "n8n community node for Privaro — the AI privacy governance layer. Detect, tokenize, safely relay chat completions, and detokenize PII before it reaches any LLM.",
@@ -7500,6 +7776,18 @@
       "createdAt": "2026-07-27T15:32:15.276Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 78
+    },
+    {
+      "name": "n8n-nodes-sonilo",
+      "version": "0.1.3",
+      "description": "n8n community node for Sonilo - generate licensed AI music and sound effects from text prompts or video",
+      "license": "MIT",
+      "repository": "https://github.com/sonilo-ai/n8n-nodes-sonilo",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-sonilo",
+      "category": "utilities",
+      "createdAt": "2026-07-27T23:10:40.243Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 65
     },
     {
       "name": "n8n-nodes-whatsapp-advanced",
@@ -8376,6 +8664,18 @@
       "createdAt": "2026-07-26T09:56:53.742Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 75
+    },
+    {
+      "name": "reorg-cli",
+      "version": "0.1.0",
+      "description": "Plan a directory reorganization in your browser, then apply it with an undo script.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/j-256/reorg",
+      "npmUrl": "https://www.npmjs.com/package/reorg-cli",
+      "category": "frontend",
+      "createdAt": "2026-07-27T23:38:03.302Z",
+      "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 70
     },
     {
       "name": "repomind-skills",

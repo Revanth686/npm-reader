@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121843571,
-  "lastRunAt": "2026-07-27T22:54:11.116Z",
+  "lastSequence": 121847986,
+  "lastRunAt": "2026-07-27T23:53:58.991Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@dotrino/vaultd",
+      "name": "@tuidom/prototyper",
       "attempts": 1
     },
     {
-      "name": "@doccloak/core",
+      "name": "@tuidom/storybook",
+      "attempts": 1
+    },
+    {
+      "name": "@mindbridgeio/hermes",
       "attempts": 1
     }
   ]
