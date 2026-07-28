@@ -158,6 +158,18 @@
       "score": 90
     },
     {
+      "name": "@alwkala/tidyfactor-design",
+      "version": "1.0.0",
+      "description": "Interactive code-native prototyping engine and design system suite for TidyFactor Ecosystem",
+      "license": "MIT",
+      "repository": "https://github.com/alwkala/tidyfactor-design",
+      "npmUrl": "https://www.npmjs.com/package/%40alwkala%2Ftidyfactor-design",
+      "category": "utilities",
+      "createdAt": "2026-07-28T07:26:08.278Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 77
+    },
+    {
       "name": "@amemhq/core",
       "version": "1.0.0",
       "description": "The agentic memory engine — notes that construct, link, and evolve like a Zettelkasten, on Qdrant + Transformers.js. No Python. Framework-agnostic.",
@@ -336,6 +348,18 @@
       "createdAt": "2026-07-27T22:47:22.473Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 67
+    },
+    {
+      "name": "@aruct/mcp",
+      "version": "0.3.3",
+      "description": "Model Context Protocol server for Aruct 3D editor",
+      "license": "MIT",
+      "repository": "https://github.com/aruct/editor",
+      "npmUrl": "https://www.npmjs.com/package/%40aruct%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T05:37:50.811Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 68
     },
     {
       "name": "@aryasaatvik/motel",
@@ -1322,6 +1346,18 @@
       "score": 90
     },
     {
+      "name": "@dmytromykhailiuk/preact-signal-utils",
+      "version": "1.0.0",
+      "description": "Utility hooks for @preact/signals — prop/state bridging (useSignalProp, useLinkedSignal, usePrevSignalValue), lifecycle (useInit, useDestroy, useAfterSignalChangeEffect), DOM helpers (useEvent, useElementSizeSignal, useScrollToItem, useTouchMove) and wait",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/preact-signal-utils",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fpreact-signal-utils",
+      "category": "frontend",
+      "createdAt": "2026-07-28T06:37:05.789Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 81
+    },
+    {
       "name": "@dmytromykhailiuk/typed-local-storage",
       "version": "1.0.0",
       "description": "Typed localStorage with initial values, groups and cross-tab subscriptions. SSR-safe, dependency-free, a few hundred bytes.",
@@ -1680,6 +1716,18 @@
       "createdAt": "2026-07-28T00:51:02.475Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 70
+    },
+    {
+      "name": "@freedomallen/workflow-kit",
+      "version": "0.1.0",
+      "description": "Workflow control-plane CLI for agent-hosted three-gate Jira workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/quliugithub/workflow-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40freedomallen%2Fworkflow-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-28T03:26:56.095Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 69
     },
     {
       "name": "@fuaran-ui/cli",
@@ -5114,6 +5162,18 @@
       "score": 59
     },
     {
+      "name": "@upstash/box-pi",
+      "version": "0.1.0",
+      "description": "Pi coding agent extension that runs all tool calls inside a remote Upstash Box sandbox while the agent runs locally",
+      "license": "MIT",
+      "repository": "https://github.com/upstash/box",
+      "npmUrl": "https://www.npmjs.com/package/%40upstash%2Fbox-pi",
+      "category": "utilities",
+      "createdAt": "2026-07-28T07:03:29.044Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 70
+    },
+    {
       "name": "@usefy/qr-code",
       "version": "0.2.0",
       "description": "QR code generator for React — hand-written ISO/IEC 18004 encoder with Reed–Solomon error correction, SVG/canvas/PNG output, module & eye shapes, gradients, logo embedding with scannability validation, and a zero-dependency RSC-safe headless core",
@@ -5124,6 +5184,30 @@
       "createdAt": "2026-07-27T06:11:33.521Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 90
+    },
+    {
+      "name": "@usefy/qr-scanner",
+      "version": "0.2.0",
+      "description": "QR code scanner for React — the platform's native BarcodeDetector where it exists, a hand-written ISO/IEC 18004 decoder where it doesn't: camera and still image, Reed–Solomon error correction, perspective correction, ECI, and a zero-dependency headless co",
+      "license": "MIT",
+      "repository": "https://github.com/mirunamu00/usefy",
+      "npmUrl": "https://www.npmjs.com/package/%40usefy%2Fqr-scanner",
+      "category": "frontend",
+      "createdAt": "2026-07-28T04:58:34.095Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 90
+    },
+    {
+      "name": "@usefy/use-user-media",
+      "version": "1.1.0",
+      "description": "A React hook for camera and microphone streams — getUserMedia lifecycle, device switching, torch, and guaranteed teardown",
+      "license": "MIT",
+      "repository": "https://github.com/mirunamu00/usefy",
+      "npmUrl": "https://www.npmjs.com/package/%40usefy%2Fuse-user-media",
+      "category": "frontend",
+      "createdAt": "2026-07-28T04:58:31.234Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 86
     },
     {
       "name": "@usehaia/trace-x402",
@@ -5522,6 +5606,30 @@
       "score": 80
     },
     {
+      "name": "a11y-form-draft-persistence",
+      "version": "1.0.0",
+      "description": "Framework-agnostic, accessible draft persistence for semantic HTML forms and editor-like workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/A11y-Form-Draft-Persistence",
+      "npmUrl": "https://www.npmjs.com/package/a11y-form-draft-persistence",
+      "category": "data",
+      "createdAt": "2026-07-28T06:37:29.123Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 83
+    },
+    {
+      "name": "a11y-form-submission-recovery",
+      "version": "1.0.0",
+      "description": "Accessible form submission recovery that preserves form values, prevents duplicate requests, distinguishes failure types, supports safe retries, and recovers from connectivity and navigation interruptions.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/A11y-Form-Submission-Recovery",
+      "npmUrl": "https://www.npmjs.com/package/a11y-form-submission-recovery",
+      "category": "data",
+      "createdAt": "2026-07-28T06:39:16.102Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 90
+    },
+    {
       "name": "a11y-loop",
       "version": "0.1.1",
       "description": "Makes AI coding agents write accessible UI by default, then proves what it can prove with a real browser audit across the states they built — and tells you exactly what it could not check.",
@@ -5712,6 +5820,18 @@
       "createdAt": "2026-07-27T23:16:14.165Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 62
+    },
+    {
+      "name": "anki-xml",
+      "version": "0.0.1",
+      "description": "AI-agent-friendly CLI for importing, querying, and updating Anki flashcards via AnkiConnect. Built for autonomous loops: deterministic, idempotent, recoverable, composable.",
+      "license": "MIT",
+      "repository": "https://github.com/master8848/Anki-import",
+      "npmUrl": "https://www.npmjs.com/package/anki-xml",
+      "category": "cli",
+      "createdAt": "2026-07-28T05:52:25.140Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 74
     },
     {
       "name": "anymail-mcp",
@@ -6170,6 +6290,18 @@
       "score": 65
     },
     {
+      "name": "chisle",
+      "version": "2.0.0",
+      "description": "Maximum-efficiency dev mode for Claude Code. Zero-fluff prose + YAGNI-first code decisions. One plugin that does both.",
+      "license": "MIT",
+      "repository": "https://github.com/JayPokale/Chisle",
+      "npmUrl": "https://www.npmjs.com/package/chisle",
+      "category": "devops",
+      "createdAt": "2026-07-28T05:46:55.898Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 81
+    },
+    {
       "name": "chromafix-a11y",
       "version": "0.1.0",
       "description": "Tiny, framework-agnostic colorblind-safe palette switcher: a floating accessibility button that lets visitors pick a color-vision-deficiency type and swaps your site's CSS-variable colors for a distinguishable palette. Zero runtime dependencies.",
@@ -6179,6 +6311,18 @@
       "category": "frontend",
       "createdAt": "2026-07-26T11:50:10.699Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 83
+    },
+    {
+      "name": "circuitarium-mcp",
+      "version": "0.2.0",
+      "description": "Circuitarium MCP is a model-neutral server for circuit artifacts with CRUMBLE, an unofficial, version-pinned CRUMB .cru integration.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Craftiee/circuitarium-mcp",
+      "npmUrl": "https://www.npmjs.com/package/circuitarium-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T07:33:14.715Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 83
     },
     {
@@ -6326,6 +6470,18 @@
       "score": 91
     },
     {
+      "name": "coldmail-reseller-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for the ColdMail Reseller integration API — manage users, domains, mailboxes, orders, subscriptions, exports, DNS, and warmup through natural language.",
+      "license": "MIT",
+      "repository": "https://github.com/dsouzaalan/coldmail-reseller-mcp",
+      "npmUrl": "https://www.npmjs.com/package/coldmail-reseller-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-28T06:35:12.360Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 75
+    },
+    {
       "name": "compress-edge",
       "version": "1.0.0",
       "description": "Wrapper ligero sobre la Compression Streams API para comprimir y descomprimir datos con gzip, deflate y deflate-raw.",
@@ -6348,6 +6504,18 @@
       "createdAt": "2026-07-26T23:35:31.788Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 78
+    },
+    {
+      "name": "context-firewall",
+      "version": "0.1.1",
+      "description": "MCP proxy that collapses 50+ downstream tools into 4 meta-tools and compresses tool outputs (HTML, base64, huge JSON) so AI agents spend far fewer context tokens - works with any MCP client, any model.",
+      "license": "MIT",
+      "repository": "https://github.com/Alepha188838884/context-firewall",
+      "npmUrl": "https://www.npmjs.com/package/context-firewall",
+      "category": "backend",
+      "createdAt": "2026-07-28T06:40:58.125Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 77
     },
     {
       "name": "contextengine-plugin",
@@ -6444,6 +6612,18 @@
       "createdAt": "2026-07-26T06:11:57.814Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 79
+    },
+    {
+      "name": "css-animation-utils",
+      "version": "1.0.1",
+      "description": "PostCSS plugin for processing animate.css with custom animation options - adds vendor prefixes and injects CSS variables",
+      "license": "MIT",
+      "repository": "https://github.com/dumptyd/css-animation-utils",
+      "npmUrl": "https://www.npmjs.com/package/css-animation-utils",
+      "category": "frontend",
+      "createdAt": "2026-07-28T05:19:24.175Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 70
     },
     {
       "name": "csv-grep-rinse",
@@ -6624,6 +6804,18 @@
       "createdAt": "2026-07-27T18:55:50.490Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 70
+    },
+    {
+      "name": "doing-leetcode",
+      "version": "1.0.0",
+      "description": "Interview-style algorithm practice Skill for AI coding agents (TRAE, Claude Code, Cursor, Windsurf, etc.). Simulates real interview whiteboarding from problem analysis to complete code.",
+      "license": "MIT",
+      "repository": "https://github.com/Xstly1014/doing-LeetCode",
+      "npmUrl": "https://www.npmjs.com/package/doing-leetcode",
+      "category": "utilities",
+      "createdAt": "2026-07-28T06:02:29.897Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 80
     },
     {
       "name": "drazill",
@@ -6960,6 +7152,18 @@
       "createdAt": "2026-07-26T13:10:19.485Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 71
+    },
+    {
+      "name": "ftp-ssh-mcp",
+      "version": "0.9.1",
+      "description": "MCP server for working with a remote host over FTP/FTPS/SFTP, SSH, and MySQL.",
+      "license": "MIT",
+      "repository": "https://github.com/Chris221/ftp-ssh-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ftp-ssh-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T05:00:27.486Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 77
     },
     {
       "name": "gaokao-vocab-app",
@@ -7406,6 +7610,18 @@
       "score": 87
     },
     {
+      "name": "jangsang",
+      "version": "1.0.0",
+      "description": "A two-layer CSS framework: one file for layout, one file for your visual skin. Swap skins by changing a single data-attribute.",
+      "license": "MIT",
+      "repository": "https://github.com/garniloy/jangsang",
+      "npmUrl": "https://www.npmjs.com/package/jangsang",
+      "category": "frontend",
+      "createdAt": "2026-07-28T05:03:36.170Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 74
+    },
+    {
       "name": "jsafa-pdf",
       "version": "0.1.0",
       "description": "Client-side HTML/CSS to PDF with real, selectable text. No server, no rasterization.",
@@ -7598,6 +7814,18 @@
       "score": 90
     },
     {
+      "name": "liarjs",
+      "version": "0.1.0",
+      "description": "Score a browser against itself — does its JavaScript fingerprint match what the network layer actually saw? CLI + library for Playwright, Puppeteer and any browser with a debug port.",
+      "license": "MIT",
+      "repository": "https://github.com/liarjsdev/liarjs",
+      "npmUrl": "https://www.npmjs.com/package/liarjs",
+      "category": "testing",
+      "createdAt": "2026-07-28T07:08:12.273Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 87
+    },
+    {
       "name": "libass-webos-legacy",
       "version": "1.0.0",
       "description": "A lightweight ASS subtitle rendering pipeline for legacy LG webOS browsers, built around libass with event-driven caching and performance-focused scheduling.",
@@ -7728,6 +7956,18 @@
       "createdAt": "2026-07-27T11:34:02.679Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 83
+    },
+    {
+      "name": "lunx-dev",
+      "version": "1.0.0",
+      "description": "⚡ Lunx — a modern JavaScript build tool powered by SWC and LightningCSS. Fast HMR, module federation, tree shaking, and multi-framework support (React, Vue, Svelte, Solid). A fast, Rust-native build pipeline.",
+      "license": "MIT",
+      "repository": "https://github.com/Avinash-1994/lunx",
+      "npmUrl": "https://www.npmjs.com/package/lunx-dev",
+      "category": "frontend",
+      "createdAt": "2026-07-28T06:57:34.195Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 100
     },
     {
       "name": "magic-codemods",
@@ -8244,6 +8484,18 @@
       "createdAt": "2026-07-26T07:19:40.693Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 85
+    },
+    {
+      "name": "naijalingo",
+      "version": "0.1.0",
+      "description": "Official Node.js SDK for 9jaLingo — AI-powered Text-to-Speech and Voice Cloning for Nigerian languages including Hausa, Igbo, Yoruba, and Nigerian Pidgin with 240+ speaker voices.",
+      "license": "MIT",
+      "repository": "https://github.com/9jaLingo/9jalingo-sdk",
+      "npmUrl": "https://www.npmjs.com/package/naijalingo",
+      "category": "backend",
+      "createdAt": "2026-07-28T05:38:49.003Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 74
     },
     {
       "name": "navige",
@@ -8798,6 +9050,18 @@
       "score": 77
     },
     {
+      "name": "pigeonsms.js",
+      "version": "0.1.1",
+      "description": "PigeonSMS bot SDK — slash commands, interactions, long-poll or webhook delivery, gateway events. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/realcgcristi/pigeonsms",
+      "npmUrl": "https://www.npmjs.com/package/pigeonsms.js",
+      "category": "devops",
+      "createdAt": "2026-07-28T05:56:33.334Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 75
+    },
+    {
       "name": "pingen-mcp",
       "version": "0.2.1",
       "description": "MCP server for Pingen v2 — send physical letters (A-Post/B-Post/registered) from a PDF and track them via the Pingen REST API",
@@ -8844,6 +9108,18 @@
       "createdAt": "2026-07-27T15:45:09.865Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 87
+    },
+    {
+      "name": "playwright-render-contract",
+      "version": "0.1.1",
+      "description": "Assert runtime, readiness, structure, and viewport invariants in Playwright.",
+      "license": "MIT",
+      "repository": "https://github.com/seoulpro/playwright-render-contract",
+      "npmUrl": "https://www.npmjs.com/package/playwright-render-contract",
+      "category": "testing",
+      "createdAt": "2026-07-27T17:15:40.068Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 69
     },
     {
       "name": "pnpm11-ci-guard",
@@ -8952,6 +9228,18 @@
       "createdAt": "2026-07-26T10:02:35.447Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 100
+    },
+    {
+      "name": "qa-engineer",
+      "version": "0.9.1",
+      "description": "A vendor-neutral Agent Skills pack that teaches AI coding agents to work like senior QA automation engineers.",
+      "license": "MIT",
+      "repository": "https://github.com/abisheik88/qa-engineer",
+      "npmUrl": "https://www.npmjs.com/package/qa-engineer",
+      "category": "testing",
+      "createdAt": "2026-07-28T05:48:35.092Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 80
     },
     {
       "name": "qualityclouds-mcp-init",
@@ -10488,6 +10776,18 @@
       "createdAt": "2026-07-26T21:26:04.352Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 67
+    },
+    {
+      "name": "ytstats",
+      "version": "0.1.0",
+      "description": "Pull your YouTube channel stats and analytics as JSON. Bring your own Google Cloud credentials, no server, no data leaves your machine.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/nicolasdao/ytstats",
+      "npmUrl": "https://www.npmjs.com/package/ytstats",
+      "category": "backend",
+      "createdAt": "2026-07-28T07:22:30.891Z",
+      "discoveredAt": "2026-07-28T07:36:08.272Z",
+      "score": 83
     },
     {
       "name": "zep-sdk",
