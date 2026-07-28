@@ -38,6 +38,54 @@
       "score": 76
     },
     {
+      "name": "@adaskothebeast/http-params-processor-value-from-decimal",
+      "version": "12.0.0",
+      "description": "decimal.js input strategy for HttpParamsProcessor, enabling lossless decimal query parameters.",
+      "license": "MIT",
+      "repository": "https://github.com/AdaskoTheBeAsT/HttpParamsProcessor",
+      "npmUrl": "https://www.npmjs.com/package/%40adaskothebeast%2Fhttp-params-processor-value-from-decimal",
+      "category": "backend",
+      "createdAt": "2026-07-28T10:56:21.424Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 78
+    },
+    {
+      "name": "@adaskothebeast/http-params-processor-value-from-uuid",
+      "version": "12.0.0",
+      "description": "UUID byte array and string input strategies for HttpParamsProcessor value conversion.",
+      "license": "MIT",
+      "repository": "https://github.com/AdaskoTheBeAsT/HttpParamsProcessor",
+      "npmUrl": "https://www.npmjs.com/package/%40adaskothebeast%2Fhttp-params-processor-value-from-uuid",
+      "category": "backend",
+      "createdAt": "2026-07-28T10:57:49.106Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 88
+    },
+    {
+      "name": "@adaskothebeast/http-params-processor-value-to-decimal",
+      "version": "12.0.0",
+      "description": "Plain, fixed, numeric and exponential decimal output strategies for HttpParamsProcessor, keeping decimal.js values lossless.",
+      "license": "MIT",
+      "repository": "https://github.com/AdaskoTheBeAsT/HttpParamsProcessor",
+      "npmUrl": "https://www.npmjs.com/package/%40adaskothebeast%2Fhttp-params-processor-value-to-decimal",
+      "category": "backend",
+      "createdAt": "2026-07-28T10:59:00.257Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 88
+    },
+    {
+      "name": "@adaskothebeast/http-params-processor-value-to-uuid",
+      "version": "12.0.0",
+      "description": "Canonical, no dash, braced, urn and base64 UUID output strategies for HttpParamsProcessor.",
+      "license": "MIT",
+      "repository": "https://github.com/AdaskoTheBeAsT/HttpParamsProcessor",
+      "npmUrl": "https://www.npmjs.com/package/%40adaskothebeast%2Fhttp-params-processor-value-to-uuid",
+      "category": "backend",
+      "createdAt": "2026-07-28T11:01:06.460Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 89
+    },
+    {
       "name": "@adastracomputing/aer-hooks",
       "version": "0.1.0",
       "description": "Fail-open, redaction-by-default hook adapters that record the tool events a coding harness fires (Claude Code, OpenAI Codex CLI) or its plugins load (opencode) into AER. Tool and argument-key names only by default, never values.",
@@ -1394,6 +1442,18 @@
       "score": 88
     },
     {
+      "name": "@dmytromykhailiuk/network-connection",
+      "version": "1.0.0",
+      "description": "Real network state for the browser — healthcheck-verified isOnline, promise helpers for waiting on connectivity and auto-restarting interrupted work. navigator.onLine lies; this doesn't. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/network-connection",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fnetwork-connection",
+      "category": "frontend",
+      "createdAt": "2026-07-28T10:31:34.226Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 86
+    },
+    {
       "name": "@dmytromykhailiuk/preact-signal-effects",
       "version": "0.1.0",
       "description": "Signal side effects for @preact/signals — declarative createSideEffect over any signals, a lifecycle-managed runner, and a redux-compatible effects middleware with typed createActionEffect. Standalone, framework-agnostic.",
@@ -1884,6 +1944,18 @@
       "createdAt": "2026-07-26T03:30:23.282Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 69
+    },
+    {
+      "name": "@get-on-techbullion/press-release-builder",
+      "version": "1.0.0",
+      "description": "TechBullion Press Release Builder helps businesses create professional press releases, technology announcements, startup news, fintech updates, AI stories, and blockchain content ready for publication.",
+      "license": "MIT",
+      "repository": "https://github.com/Get-On-TechBullion/tech-bullion-press-release-builder",
+      "npmUrl": "https://www.npmjs.com/package/%40get-on-techbullion%2Fpress-release-builder",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T11:43:39.950Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 84
     },
     {
       "name": "@getappniche/mcp",
@@ -2520,6 +2592,18 @@
       "createdAt": "2026-07-26T15:53:02.563Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 60
+    },
+    {
+      "name": "@handiapp/mcp",
+      "version": "1.0.0",
+      "description": "MCP server for HANDI — find verified artisans, browse the shop, and manage a cart from an LLM.",
+      "license": "MIT",
+      "repository": "https://github.com/deerealOG/handi",
+      "npmUrl": "https://www.npmjs.com/package/%40handiapp%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T12:00:48.922Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 74
     },
     {
       "name": "@hanzo/kv",
@@ -3552,6 +3636,18 @@
       "createdAt": "2026-07-26T01:25:41.211Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 73
+    },
+    {
+      "name": "@mythicalos/telemetry",
+      "version": "0.1.1",
+      "description": "The shared mythicalOS heartbeat client: the frozen envelope and per-product bodies, the canonical runtime validator, derived instance identity, consent state with provenance, and an SSRF-isolated dual-send transport. Pseudonymous by design and honest abou",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mythicalOS/mythical-telemetry",
+      "npmUrl": "https://www.npmjs.com/package/%40mythicalos%2Ftelemetry",
+      "category": "cli",
+      "createdAt": "2026-07-28T11:03:33.585Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 79
     },
     {
       "name": "@nanobpm/nano-ide-lang-node",
@@ -5390,6 +5486,30 @@
       "score": 66
     },
     {
+      "name": "@vaduno/revocation",
+      "version": "0.1.0",
+      "description": "Revocation registry for Vaduno mandates: W3C Bitstring Status List credentials, instant fail-closed revocation at authorization time, agent-wide kill, and best-effort fan-out to rail-native revocation. Never holds funds or keys.",
+      "license": "MIT",
+      "repository": "https://github.com/premsreelathasugeendran/vaduno",
+      "npmUrl": "https://www.npmjs.com/package/%40vaduno%2Frevocation",
+      "category": "utilities",
+      "createdAt": "2026-07-28T12:16:19.719Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 77
+    },
+    {
+      "name": "@vaduno/transparency",
+      "version": "0.1.0",
+      "description": "RFC 9162 (Certificate Transparency v2) Merkle transparency log for Vaduno's audit trail. Turns the hash-chained ledger into an append-only Merkle tree with signed tree heads, inclusion proofs (non-omission), and consistency proofs (append-only). Never hol",
+      "license": "MIT",
+      "repository": "https://github.com/premsreelathasugeendran/vaduno",
+      "npmUrl": "https://www.npmjs.com/package/%40vaduno%2Ftransparency",
+      "category": "utilities",
+      "createdAt": "2026-07-28T12:15:50.990Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 82
+    },
+    {
       "name": "@vdaluz/astro-affiliate",
       "version": "0.5.0",
       "description": "FTC-compliant affiliate-link catalog resolver and disclosure components - proven in production on vdaluz.com and imperfectsystems.com.",
@@ -6146,6 +6266,18 @@
       "score": 75
     },
     {
+      "name": "autopunk-media-skills",
+      "version": "4.0.0",
+      "description": "400+ production-tested AI skills for media professionals — TV, journalism, YouTube, podcasts, screenwriting, newsletters, PR, and more",
+      "license": "MIT",
+      "repository": "https://github.com/ur-grue/autopunk-media-skills",
+      "npmUrl": "https://www.npmjs.com/package/autopunk-media-skills",
+      "category": "testing",
+      "createdAt": "2026-07-28T11:31:33.901Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 93
+    },
+    {
       "name": "beeengine",
       "version": "2.0.0",
       "description": "Motore di gioco 2D modulare per HTML5 Canvas: fisica platformer, scene, input, asset, collisioni e HUD.",
@@ -6530,6 +6662,18 @@
       "score": 71
     },
     {
+      "name": "claude-noti",
+      "version": "0.2.0",
+      "description": "Presence-aware notifications for Claude Code. Silent while you're watching the pane, a banner when you're not, a sound when you've walked away. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/guruprasath005/claude-noti",
+      "npmUrl": "https://www.npmjs.com/package/claude-noti",
+      "category": "cli",
+      "createdAt": "2026-07-28T11:51:36.392Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 86
+    },
+    {
       "name": "claude-skills-kit",
       "version": "2.0.0",
       "description": "The complete skills kit for Claude Code — 40+ production-ready commands, subagents, and rules covering the full dev lifecycle: spec, plan reviews, coding, debugging, QA, security, design, ship, deploy. Auto-detected for your stack.",
@@ -6864,6 +7008,18 @@
       "createdAt": "2026-07-27T01:45:51.979Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 72
+    },
+    {
+      "name": "date-squirrel",
+      "version": "2.0.2",
+      "description": "A year/month/day drill-down date picker with a nutty tang. Zero dependencies, framework-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/tymothytym/dateSquirrel",
+      "npmUrl": "https://www.npmjs.com/package/date-squirrel",
+      "category": "devops",
+      "createdAt": "2026-07-28T11:50:56.375Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 85
     },
     {
       "name": "decivo-rescue",
@@ -7778,6 +7934,18 @@
       "score": 81
     },
     {
+      "name": "ingot-scan",
+      "version": "0.1.0",
+      "description": "Is the benchmark you are quoting inside the data you trained on? Contamination scanning with the matching text shown, on your machine, nothing uploaded.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vaishak-v-nair/Ingot",
+      "npmUrl": "https://www.npmjs.com/package/ingot-scan",
+      "category": "data",
+      "createdAt": "2026-07-28T11:12:21.156Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 81
+    },
+    {
       "name": "iobroker.nut2",
       "version": "0.5.3",
       "description": "ioBroker adapter for Network UPS Tools (NUT) monitoring",
@@ -8510,6 +8678,18 @@
       "score": 79
     },
     {
+      "name": "mf-add-to-shell",
+      "version": "1.0.0",
+      "description": "Interactive CLI that registers a new Module Federation microfrontend in a host shell app — routes, i18n, permissions, proxy and remotes in one command.",
+      "license": "MIT",
+      "repository": "https://github.com/faridgarayev/mf-add-to-shell",
+      "npmUrl": "https://www.npmjs.com/package/mf-add-to-shell",
+      "category": "frontend",
+      "createdAt": "2026-07-28T12:19:20.929Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 82
+    },
+    {
       "name": "mfe-doctor",
       "version": "0.1.0",
       "description": "Detect Module Federation misconfigurations before they hit production",
@@ -8628,6 +8808,18 @@
       "createdAt": "2026-07-27T11:52:13.400Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 75
+    },
+    {
+      "name": "n8n-nodes-captchaai",
+      "version": "1.0.2",
+      "description": "Official CaptchaAI community node for n8n - solve reCAPTCHA, Turnstile, GeeTest, and many other CAPTCHA types inside your workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/CaptchaAI/n8n-nodes-captchaai",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-captchaai",
+      "category": "testing",
+      "createdAt": "2026-07-28T10:40:57.948Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 85
     },
     {
       "name": "n8n-nodes-cliptoframe",
@@ -9290,6 +9482,18 @@
       "score": 82
     },
     {
+      "name": "pi-web-i18n",
+      "version": "1.0.1",
+      "description": "UI language pack (i18n) for jmfederico/pi-web — DOM overlay translations with zh-CN default, English, and Japanese.",
+      "license": "MIT",
+      "repository": "https://github.com/imHansiy/pi-web-i18n",
+      "npmUrl": "https://www.npmjs.com/package/pi-web-i18n",
+      "category": "frontend",
+      "createdAt": "2026-07-28T11:05:55.977Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 85
+    },
+    {
       "name": "pickrate",
       "version": "0.1.0",
       "description": "Does an agent actually pick your MCP tools and Agent Skills correctly? Zero-config surface linting and selection evals.",
@@ -9806,6 +10010,18 @@
       "score": 62
     },
     {
+      "name": "rn-audio-toolkit",
+      "version": "1.0.1",
+      "description": "Audio playback for React Native with configurable background modes, cache, preload, and hooks.",
+      "license": "MIT",
+      "repository": "https://github.com/pawan3008/react-native-audiokit",
+      "npmUrl": "https://www.npmjs.com/package/rn-audio-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-07-28T10:38:44.395Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 89
+    },
+    {
       "name": "rn-sim-mcp",
       "version": "0.1.0",
       "description": "MCP server for React Native iOS simulator work. Composes XcodeBuildMCP and ios-simulator-mcp behind one curated tool surface, and adds the React component tree, resolved styles and layout audit tools neither of them has.",
@@ -10058,6 +10274,18 @@
       "score": 63
     },
     {
+      "name": "shadow-monitor-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for inspecting Shadow Monitor diagnostic bundles (rrweb session replay, network, console, and storage capture) locally — works with any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/yurii-mandzii/shadow-monitor-mcp",
+      "npmUrl": "https://www.npmjs.com/package/shadow-monitor-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T11:45:45.701Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 85
+    },
+    {
       "name": "shadscan-vue",
       "version": "0.0.0",
       "description": "Audit shadcn-vue and shadcn-nuxt apps for missing UI fundamentals. Deterministic checks. Evidence. Agent-ready fixes. Vue port of shadscan.",
@@ -10250,6 +10478,18 @@
       "score": 66
     },
     {
+      "name": "ssl-inspector",
+      "version": "1.0.0",
+      "description": "Inspect SSL/TLS configuration of any HTTPS domain. Generate SPKI pins for React Native SSL pinning.",
+      "license": "MIT",
+      "repository": "https://github.com/EricMensah/ssl-inspector",
+      "npmUrl": "https://www.npmjs.com/package/ssl-inspector",
+      "category": "frontend",
+      "createdAt": "2026-07-28T11:42:46.776Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 80
+    },
+    {
       "name": "staffed",
       "version": "1.1.0",
       "description": "Staff any project with coordinated subagent roles. Includes eleven product personas spanning research, definition, design, implementation, release, launch, and measurement, with no runtime or dependencies.",
@@ -10296,6 +10536,18 @@
       "createdAt": "2026-07-26T05:16:25.501Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 70
+    },
+    {
+      "name": "studio-os",
+      "version": "0.2.0",
+      "description": "Self-hosted studio management: booking, class packs, memberships. Bring your own Stripe.",
+      "license": "MIT",
+      "repository": "https://github.com/Booyaka101/studio-os",
+      "npmUrl": "https://www.npmjs.com/package/studio-os",
+      "category": "utilities",
+      "createdAt": "2026-07-28T10:48:08.271Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 78
     },
     {
       "name": "stylewright",
@@ -10380,6 +10632,18 @@
       "createdAt": "2026-07-27T13:31:50.500Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 89
+    },
+    {
+      "name": "tailwind-prefix-migrator",
+      "version": "1.0.1",
+      "description": "Enterprise AST CLI tool to migrate, isolate, and replace Tailwind CSS prefixes across React, Vue, TSX, and SCSS projects.",
+      "license": "MIT",
+      "repository": "https://github.com/Maks-T/tailwind-prefix-migrator",
+      "npmUrl": "https://www.npmjs.com/package/tailwind-prefix-migrator",
+      "category": "frontend",
+      "createdAt": "2026-07-28T12:12:52.458Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 79
     },
     {
       "name": "taptones",
@@ -10572,6 +10836,18 @@
       "createdAt": "2026-07-25T20:41:36.364Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 80
+    },
+    {
+      "name": "traceenv-cli",
+      "version": "1.0.1",
+      "description": "Local-first workspace synthesizer that generates reproducible setup documentation from real terminal workflows",
+      "license": "MIT",
+      "repository": "https://github.com/Arjun-Walia/TraceEnv",
+      "npmUrl": "https://www.npmjs.com/package/traceenv-cli",
+      "category": "cli",
+      "createdAt": "2026-07-28T11:13:41.125Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 76
     },
     {
       "name": "track-post",
@@ -10970,6 +11246,18 @@
       "score": 83
     },
     {
+      "name": "wdio-pretty-json-reporter",
+      "version": "1.0.2",
+      "description": "CTRF JSON reporter for WebdriverIO with auto-capture service, hooks, retries, and attachments.",
+      "license": "MIT",
+      "repository": "https://github.com/hellobetter/wdio-pretty-json-reporter",
+      "npmUrl": "https://www.npmjs.com/package/wdio-pretty-json-reporter",
+      "category": "testing",
+      "createdAt": "2026-07-28T12:13:21.135Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 89
+    },
+    {
       "name": "whatshipped",
       "version": "0.1.0",
       "description": "Turn the git history of every service you ship into a stakeholder-ready delivery report",
@@ -11100,6 +11388,18 @@
       "createdAt": "2026-07-27T18:17:50.980Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 87
+    },
+    {
+      "name": "zhenbaileys",
+      "version": "1.1.1",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/LevviCodeID/Baileys",
+      "npmUrl": "https://www.npmjs.com/package/zhenbaileys",
+      "category": "utilities",
+      "createdAt": "2026-07-28T11:19:07.106Z",
+      "discoveredAt": "2026-07-28T12:20:06.799Z",
+      "score": 75
     }
   ]
 }
