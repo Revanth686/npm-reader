@@ -1,35 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121984526,
-  "lastRunAt": "2026-07-28T14:45:07.680Z",
+  "lastSequence": 122004315,
+  "lastRunAt": "2026-07-28T16:24:48.814Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nuwax-ai/mcp-stdio-proxy",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@narumitw/pi-tui-kit",
+      "name": "@whiskeyjack-net/icon-stack-core",
       "attempts": 1
     },
     {
-      "name": "@frondruntime/devtools",
+      "name": "@whiskeyjack-net/icon-stack",
       "attempts": 1
     },
     {
-      "name": "@frondruntime/hub",
+      "name": "@masselabs/openstoa-cli",
       "attempts": 1
     },
     {
-      "name": "@nyxur/freebuff",
-      "attempts": 1
-    },
-    {
-      "name": "@treelight/hast",
-      "attempts": 1
-    },
-    {
-      "name": "@treelight/rehype",
+      "name": "@aefree/pi-package-references",
       "attempts": 1
     }
   ]
