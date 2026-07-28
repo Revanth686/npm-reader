@@ -1,19 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121959747,
-  "lastRunAt": "2026-07-28T12:20:06.799Z",
+  "lastSequence": 121984526,
+  "lastRunAt": "2026-07-28T14:45:07.680Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@scolup/linkdirecte",
-      "attempts": 1
-    },
-    {
       "name": "@nuwax-ai/mcp-stdio-proxy",
+      "attempts": 2
+    },
+    {
+      "name": "@narumitw/pi-tui-kit",
       "attempts": 1
     },
     {
-      "name": "@poesius/editor",
+      "name": "@frondruntime/devtools",
+      "attempts": 1
+    },
+    {
+      "name": "@frondruntime/hub",
+      "attempts": 1
+    },
+    {
+      "name": "@nyxur/freebuff",
+      "attempts": 1
+    },
+    {
+      "name": "@treelight/hast",
+      "attempts": 1
+    },
+    {
+      "name": "@treelight/rehype",
       "attempts": 1
     }
   ]
