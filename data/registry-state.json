@@ -1,19 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 121847986,
-  "lastRunAt": "2026-07-27T23:53:58.991Z",
+  "lastSequence": 121859084,
+  "lastRunAt": "2026-07-28T01:49:08.647Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@tuidom/prototyper",
+      "name": "@source-repo/msgrpc-cli",
       "attempts": 1
     },
     {
-      "name": "@tuidom/storybook",
-      "attempts": 1
-    },
-    {
-      "name": "@mindbridgeio/hermes",
+      "name": "@fias/mcp-server",
       "attempts": 1
     }
   ]

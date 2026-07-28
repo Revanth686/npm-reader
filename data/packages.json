@@ -1454,6 +1454,18 @@
       "score": 61
     },
     {
+      "name": "@essence-lang/stdlib",
+      "version": "0.1.0",
+      "description": "The Essence standard library, written in Essence.",
+      "license": "MIT",
+      "repository": "https://github.com/alexandertrefz/essence",
+      "npmUrl": "https://www.npmjs.com/package/%40essence-lang%2Fstdlib",
+      "category": "utilities",
+      "createdAt": "2026-07-28T00:16:01.310Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 60
+    },
+    {
       "name": "@exellix/ai-tasks-docs",
       "version": "1.0.0",
       "description": "x12i ai-tasks ecosystem docs knowledge SDK — install as a devDependency only. Catalog, use cases, and markdown packs for humans and agents.",
@@ -1488,6 +1500,18 @@
       "createdAt": "2026-07-26T12:53:53.359Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 70
+    },
+    {
+      "name": "@feedlog/widget",
+      "version": "0.0.1",
+      "description": "Embeddable feedback widget for FeedLog. One function, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/linkcraftstudio/feedlog-widget",
+      "npmUrl": "https://www.npmjs.com/package/%40feedlog%2Fwidget",
+      "category": "devops",
+      "createdAt": "2026-07-28T01:41:24.972Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 62
     },
     {
       "name": "@fft-visualizer/core",
@@ -1620,6 +1644,18 @@
       "createdAt": "2026-07-25T16:40:48.689Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 76
+    },
+    {
+      "name": "@fredsvanelli/gsd-with-plane",
+      "version": "0.1.0",
+      "description": "Claude Code plugin that mirrors GSD's .planning/ as a Plane board (bidirectional sync, self-hosted friendly).",
+      "license": "MIT",
+      "repository": "https://github.com/fredsvanelli/gsd-with-plane",
+      "npmUrl": "https://www.npmjs.com/package/%40fredsvanelli%2Fgsd-with-plane",
+      "category": "utilities",
+      "createdAt": "2026-07-28T00:51:02.475Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 70
     },
     {
       "name": "@fuaran-ui/cli",
@@ -4430,6 +4466,66 @@
       "score": 52
     },
     {
+      "name": "@spatialpack/cli",
+      "version": "0.1.0",
+      "description": "SpatialPack CLI — analyze, optimize, readiness, autocorrect, batch-autocorrect, ar-parity, visual-diff, recipe-search, USDZ for glTF/GLB. `npx @spatialpack/cli`.",
+      "license": "MIT",
+      "repository": "https://github.com/montabano1/SpatialPack",
+      "npmUrl": "https://www.npmjs.com/package/%40spatialpack%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-07-28T00:25:32.261Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 62
+    },
+    {
+      "name": "@spatialpack/mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server exposing SpatialPack glTF/GLB analysis, optimization, commerce-readiness + autocorrect tools to Claude Code / Cursor / any MCP agent.",
+      "license": "MIT",
+      "repository": "https://github.com/montabano1/SpatialPack",
+      "npmUrl": "https://www.npmjs.com/package/%40spatialpack%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T00:27:45.135Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 66
+    },
+    {
+      "name": "@spatialpack/sdk",
+      "version": "0.3.0",
+      "description": "TypeScript SDK for SpatialPack — analyze, optimize, and validate glTF / GLB / USDZ assets, dedup texture batches, round-trip USDA ↔ USDC, run safety-gated visual-diff, and ingest Gaussian splats.",
+      "license": "MIT",
+      "repository": "https://github.com/montabano1/SpatialPack",
+      "npmUrl": "https://www.npmjs.com/package/%40spatialpack%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-07-28T00:24:58.360Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 89
+    },
+    {
+      "name": "@spinajs/telemetry",
+      "version": "2.0.482",
+      "description": "Observability for SpinaJS: Prometheus metrics, an HTTP request-timing/metrics middleware, and Apdex + rolling request stats",
+      "license": "MIT",
+      "repository": "https://github.com/spinajs/main",
+      "npmUrl": "https://www.npmjs.com/package/%40spinajs%2Ftelemetry",
+      "category": "backend",
+      "createdAt": "2026-07-28T01:20:59.976Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 72
+    },
+    {
+      "name": "@ssheleg/seo-aeo-audit",
+      "version": "0.4.0",
+      "description": "Evidence-first SEO + AEO/GEO website audit skill: ten audit tracks (access, canonicalization, architecture, intent, content value, extractability, entity consensus, experience, risk, measurement), a triage model and a prioritized change plan. This package",
+      "license": "MIT",
+      "repository": "https://github.com/ssheleg/seo-aeo-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40ssheleg%2Fseo-aeo-audit",
+      "category": "devops",
+      "createdAt": "2026-07-27T23:58:29.389Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 90
+    },
+    {
       "name": "@stayingapi/sdk",
       "version": "1.0.0",
       "description": "Official TypeScript/JavaScript SDK for the StayingAPI cross-platform accommodation data API.",
@@ -4658,6 +4754,18 @@
       "score": 58
     },
     {
+      "name": "@tengxiaohtx/connect",
+      "version": "1.1.2",
+      "description": "CLI tool for managing cc-connect-router configuration",
+      "license": "MIT",
+      "repository": "https://github.com/xinyuehtx/connect",
+      "npmUrl": "https://www.npmjs.com/package/%40tengxiaohtx%2Fconnect",
+      "category": "cli",
+      "createdAt": "2026-07-28T01:39:48.127Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 65
+    },
+    {
       "name": "@thalus-ai/mcp-air",
       "version": "1.0.1",
       "description": "MCP server for AIR (AI Responsibly) — run risk assessments from Cursor, Claude Code, VS Code, and other MCP clients.",
@@ -4704,6 +4812,18 @@
       "createdAt": "2026-07-26T17:17:18.397Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 71
+    },
+    {
+      "name": "@theorvane/type-chain",
+      "version": "0.1.1",
+      "description": "Decorator-first, type-safe authoring layer for LangChain JS tools and agents.",
+      "license": "MIT",
+      "repository": "https://github.com/Theorvane/type-chain",
+      "npmUrl": "https://www.npmjs.com/package/%40theorvane%2Ftype-chain",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T00:44:14.509Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 69
     },
     {
       "name": "@thrain/blackout",
@@ -4908,6 +5028,18 @@
       "createdAt": "2026-07-27T05:23:48.117Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 73
+    },
+    {
+      "name": "@usespan/agent-sdk",
+      "version": "0.1.0",
+      "description": "Register your AI agents with Span's intelligent task orchestrator",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/yousefyr2/span-build",
+      "npmUrl": "https://www.npmjs.com/package/%40usespan%2Fagent-sdk",
+      "category": "utilities",
+      "createdAt": "2026-07-28T01:04:44.632Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 66
     },
     {
       "name": "@vdaluz/astro-affiliate",
@@ -5366,6 +5498,18 @@
       "score": 66
     },
     {
+      "name": "agent-capability-contract",
+      "version": "1.0.4",
+      "description": "ACC is the capability declaration contract for A2B, Agent-to-Business.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agent-capability/agent-capability-contract",
+      "npmUrl": "https://www.npmjs.com/package/agent-capability-contract",
+      "category": "backend",
+      "createdAt": "2026-07-28T01:48:42.056Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 62
+    },
+    {
       "name": "agent-pay-bridge",
       "version": "0.1.0",
       "description": "One interface for AI agent payments across x402, AP2, and ACP — auto-detects which protocol a merchant supports and pays through it.",
@@ -5376,6 +5520,18 @@
       "createdAt": "2026-07-26T17:18:37.569Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 73
+    },
+    {
+      "name": "agent-sanitizer",
+      "version": "2.0.0",
+      "description": "Defend an agent against hidden-content injection: strip payload-capable invisible Unicode and ANSI, splice out human-invisible HTML, and flag data-exfil URLs in untrusted text before any model sees it.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AlexanderMattTurner/agent-sanitizer",
+      "npmUrl": "https://www.npmjs.com/package/agent-sanitizer",
+      "category": "data",
+      "createdAt": "2026-07-28T00:49:03.964Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 100
     },
     {
       "name": "ai-commander",
@@ -5606,6 +5762,18 @@
       "score": 71
     },
     {
+      "name": "between-turns",
+      "version": "0.1.0",
+      "description": "A Claude Code companion that lets an opted-in Claude's character be shaped by real, verified Scripture at genuine moments of struggle and completion.",
+      "license": "MIT",
+      "repository": "https://github.com/TobiasPak/Between-Turns",
+      "npmUrl": "https://www.npmjs.com/package/between-turns",
+      "category": "utilities",
+      "createdAt": "2026-07-28T00:19:55.423Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 62
+    },
+    {
       "name": "bexio-mcp",
       "version": "0.3.3",
       "description": "MCP server and typed TypeScript client for the bexio API (Swiss business software): contacts, quotes, orders, invoices, purchase, accounting, banking, items, projects, time tracking, files and payroll.",
@@ -5616,6 +5784,18 @@
       "createdAt": "2026-07-27T20:33:04.156Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 84
+    },
+    {
+      "name": "bijou-encoding",
+      "version": "1.0.0",
+      "description": "Bijou is a bijective variable length encoding that is canonical by construction",
+      "license": "Zlib",
+      "repository": "https://github.com/solmsted/bijou-encoding",
+      "npmUrl": "https://www.npmjs.com/package/bijou-encoding",
+      "category": "data",
+      "createdAt": "2026-07-28T01:31:42.361Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 87
     },
     {
       "name": "biome-plugin-react-use-propswithchildren",
@@ -5786,6 +5966,18 @@
       "score": 87
     },
     {
+      "name": "chameleon-cv",
+      "version": "0.1.0",
+      "description": "AI-powered resume tailor — tailor your CV to any job posting with ATS-optimized PDFs",
+      "license": "MIT",
+      "repository": "https://github.com/HautlyS/chameleon",
+      "npmUrl": "https://www.npmjs.com/package/chameleon-cv",
+      "category": "utilities",
+      "createdAt": "2026-07-28T01:06:52.678Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 72
+    },
+    {
       "name": "changesafe",
       "version": "0.2.0",
       "description": "Gate AI-proposed infrastructure changes from the terminal or CI: deterministic policies, honest exit codes, hashed receipts. The gate itself never calls a model.",
@@ -5892,6 +6084,18 @@
       "createdAt": "2026-07-27T13:56:16.879Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 76
+    },
+    {
+      "name": "clausters",
+      "version": "0.4.1",
+      "description": "Clausters in the browser: the audio engine in an AudioWorklet, the GUI host on a canvas, web components that boot standalone bundles, and the OSC/connection seam of the TypeScript client — no server process needed.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/smrg-lm/clausters",
+      "npmUrl": "https://www.npmjs.com/package/clausters",
+      "category": "frontend",
+      "createdAt": "2026-07-28T00:15:17.522Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 88
     },
     {
       "name": "clickable-path",
@@ -6818,6 +7022,18 @@
       "score": 75
     },
     {
+      "name": "hd-chart-engine",
+      "version": "0.1.0",
+      "description": "Human Design chart engine. Gate, line, color, tone and base activations from a birth moment, with no Swiss Ephemeris dependency.",
+      "license": "MIT",
+      "repository": "https://github.com/domalhambra/hd-chart-engine",
+      "npmUrl": "https://www.npmjs.com/package/hd-chart-engine",
+      "category": "utilities",
+      "createdAt": "2026-07-28T01:34:33.227Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 66
+    },
+    {
       "name": "heisentest",
       "version": "0.1.1",
       "description": "Find the database race conditions your tests can't reproduce. Heisentest explores the interleavings of concurrent transactions against a real Postgres, reports the exact schedule that breaks your invariants, and replays it deterministically.",
@@ -7320,6 +7536,18 @@
       "createdAt": "2026-07-27T05:26:30.908Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 79
+    },
+    {
+      "name": "magic-observability",
+      "version": "1.0.0",
+      "description": "Shared PostHog layer for GSTJ projects: per-platform init with error tracking on, one captureError shape, a React/RN error boundary, and a no-op client when the key is absent.",
+      "license": "MIT",
+      "repository": "https://github.com/GSTJ/magic",
+      "npmUrl": "https://www.npmjs.com/package/magic-observability",
+      "category": "frontend",
+      "createdAt": "2026-07-28T00:49:15.730Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 91
     },
     {
       "name": "magic-oxlint-plugin",
@@ -8054,6 +8282,18 @@
       "score": 64
     },
     {
+      "name": "opencode-devin-auth",
+      "version": "0.4.1",
+      "description": "OpenCode plugin for Devin/Cognition authentication — use Devin models in OpenCode",
+      "license": "MIT",
+      "repository": "https://github.com/rsvedant/opencode-devin-auth",
+      "npmUrl": "https://www.npmjs.com/package/opencode-devin-auth",
+      "category": "utilities",
+      "createdAt": "2026-07-28T01:45:14.420Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 75
+    },
+    {
       "name": "opencode-qoder-bridge",
       "version": "0.1.0",
       "description": "opencode plugin that bridges Qoder AI models via @qoder-ai/qoder-agent-sdk",
@@ -8222,6 +8462,18 @@
       "score": 53
     },
     {
+      "name": "pi-glean",
+      "version": "0.1.0",
+      "description": "Zero-config web search and URL fetching for pi — works with no API keys, and uses your ChatGPT Plus/Pro or xAI subscription for higher-quality answers when available. Plus GitHub repos, PDFs, YouTube, and video frames.",
+      "license": "MIT",
+      "repository": "https://github.com/pacoyang/pi-glean",
+      "npmUrl": "https://www.npmjs.com/package/pi-glean",
+      "category": "backend",
+      "createdAt": "2026-07-28T00:55:46.266Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 90
+    },
+    {
       "name": "pi-goala",
       "version": "0.3.0",
       "description": "Goal-oriented agent lifecycle, evidence, and verified memory for Pi.",
@@ -8280,6 +8532,18 @@
       "createdAt": "2026-07-26T06:51:02.243Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 49
+    },
+    {
+      "name": "pi-super",
+      "version": "1.0.0",
+      "description": "Mobile-first meta-interface to an existing tmux full of pi sessions",
+      "license": "MIT",
+      "repository": "https://github.com/pasky/pi-super",
+      "npmUrl": "https://www.npmjs.com/package/pi-super",
+      "category": "utilities",
+      "createdAt": "2026-07-28T01:10:15.682Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 66
     },
     {
       "name": "pi-usage-bar-focus",
@@ -9110,6 +9374,18 @@
       "score": 91
     },
     {
+      "name": "sshlg-skills",
+      "version": "0.5.4",
+      "description": "One launcher/updater for the ssheleg skill family (super-ux, task-pipeline, make-skill, sheleg-design, seo-aeo-audit) across every agent — Claude Code, Cursor, OpenCode, Kilo, Kimi, Hermes, OpenClaw, Codex, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/ssheleg/sshlg-skills",
+      "npmUrl": "https://www.npmjs.com/package/sshlg-skills",
+      "category": "utilities",
+      "createdAt": "2026-07-28T01:00:38.077Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 66
+    },
+    {
       "name": "staffed",
       "version": "1.1.0",
       "description": "Staff any project with coordinated subagent roles. Includes eleven product personas spanning research, definition, design, implementation, release, launch, and measurement, with no runtime or dependencies.",
@@ -9578,6 +9854,18 @@
       "score": 61
     },
     {
+      "name": "use-back-stack",
+      "version": "1.0.0",
+      "description": "A React hook that turns browser history into a native-like back stack, so modals, drawers and other overlays close with the back button. Works with any React framework.",
+      "license": "MIT",
+      "repository": "https://github.com/mrpumpkin98/use-back-stack",
+      "npmUrl": "https://www.npmjs.com/package/use-back-stack",
+      "category": "frontend",
+      "createdAt": "2026-07-28T01:35:45.817Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 71
+    },
+    {
       "name": "usertrust-acs-adapter",
       "version": "1.5.0",
       "description": "ACS/AGT composite-evaluator adapter: external policy decides, the usertrust ledger reserves",
@@ -9864,6 +10152,18 @@
       "createdAt": "2026-07-25T23:23:49.013Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 58
+    },
+    {
+      "name": "writ-mcp",
+      "version": "1.0.0",
+      "description": "Official Writ MCP server connector — bridges a stdio MCP client (Claude Code, Claude Desktop, Cursor) to Writ Cloud or a self-hosted Writ coordinator. Turns your saved browser workflows into callable tools.",
+      "license": "MIT",
+      "repository": "https://github.com/usewrit/writ-mcp",
+      "npmUrl": "https://www.npmjs.com/package/writ-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-28T00:54:41.453Z",
+      "discoveredAt": "2026-07-28T01:49:08.647Z",
+      "score": 92
     },
     {
       "name": "write-like-me",
