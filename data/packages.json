@@ -86,6 +86,18 @@
       "score": 74
     },
     {
+      "name": "@ai-router/openai-compatible-errors",
+      "version": "0.1.0",
+      "description": "Normalize OpenAI-compatible API errors into typed categories, retry plans, request IDs, and redacted diagnostics",
+      "license": "MIT",
+      "repository": "https://github.com/airouter-dev/openai-compatible-errors",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-router%2Fopenai-compatible-errors",
+      "category": "backend",
+      "createdAt": "2026-07-28T09:30:45.269Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 81
+    },
+    {
       "name": "@aivin-labs/sdk",
       "version": "1.0.0",
       "description": "Aivin Plugin SDK - gRPC client/server for building plugins that run inside the Aivin platform (agentic engine, vector search, workspace, tasks, and more)",
@@ -180,6 +192,18 @@
       "createdAt": "2026-07-26T13:24:19.803Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 82
+    },
+    {
+      "name": "@amritk/mini-lynx",
+      "version": "0.1.0",
+      "description": "A signals runtime for Lynx: real elements created once and mutated forever, driving Lynx's Element PAPI directly, with no virtual tree.",
+      "license": "MIT",
+      "repository": "https://github.com/amritk/mini",
+      "npmUrl": "https://www.npmjs.com/package/%40amritk%2Fmini-lynx",
+      "category": "frontend",
+      "createdAt": "2026-07-28T07:44:00.150Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 79
     },
     {
       "name": "@amulet-laboratories/astrolabe",
@@ -698,6 +722,18 @@
       "score": 72
     },
     {
+      "name": "@capaj/bm2",
+      "version": "1.0.38",
+      "description": "A blazing-fast, full-featured process manager built entirely on Bun native APIs. The modern PM2 replacement — zero Node.js dependencies, pure Bun performance.",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/bun-bm2/bm2",
+      "npmUrl": "https://www.npmjs.com/package/%40capaj%2Fbm2",
+      "category": "backend",
+      "createdAt": "2026-07-28T09:05:19.368Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 95
+    },
+    {
       "name": "@captain09/blueprint",
       "version": "0.1.2",
       "description": "Generate interactive dependency blueprints for any codebase. Fully local, multi-language, zero config — one self-contained HTML, nothing leaves your machine.",
@@ -900,6 +936,18 @@
       "createdAt": "2026-07-25T13:59:32.279Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 84
+    },
+    {
+      "name": "@codeminity/fetch",
+      "version": "0.1.0",
+      "description": "A production-ready native Fetch adapter with built-in infrastructure for retries, authentication, and advanced request handling.",
+      "license": "MIT",
+      "repository": "https://github.com/codeminity/ts-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40codeminity%2Ffetch",
+      "category": "backend",
+      "createdAt": "2026-07-28T09:42:02.525Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 78
     },
     {
       "name": "@codeyam/cms",
@@ -1142,6 +1190,18 @@
       "score": 87
     },
     {
+      "name": "@dev_config/client-api-kit",
+      "version": "1.0.1",
+      "description": "Generic, type-safe API client built on axios and api-response-kit's response envelope. Framework-agnostic 'resources' for server components/server actions, plus a TanStack Query hooks layer for client components. Generic CRUD, offset + cursor pagination,",
+      "license": "MIT",
+      "repository": "https://github.com/org-utils/client-api-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40dev_config%2Fclient-api-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-28T09:02:20.532Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 100
+    },
+    {
       "name": "@devcodex/opentelemetry",
       "version": "2.1.15",
       "description": "Framework-agnostic OpenTelemetry SDK wrapper — zero-config traces, metrics, Span API and multi-framework adapters",
@@ -1176,6 +1236,18 @@
       "createdAt": "2026-07-26T21:41:25.714Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 56
+    },
+    {
+      "name": "@dgkit/betting-math",
+      "version": "0.0.0",
+      "description": "Pure, exact-rational sports-betting math: odds format conversion, system bet combinatorics, dead heat reduction, Rule 4 deductions, void-leg collapse, each-way settlement, Asian handicap splitting, and cash-out estimates.",
+      "license": "MIT",
+      "repository": "https://github.com/grynyk/dgkit",
+      "npmUrl": "https://www.npmjs.com/package/%40dgkit%2Fbetting-math",
+      "category": "frontend",
+      "createdAt": "2026-07-28T08:33:48.492Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 75
     },
     {
       "name": "@diceforge-sdk/renderer-web",
@@ -1332,6 +1404,18 @@
       "createdAt": "2026-07-26T20:25:41.327Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 86
+    },
+    {
+      "name": "@dmytromykhailiuk/preact-signal-feature-query-param",
+      "version": "1.0.0",
+      "description": "Feature flags driven by a URL query param, persisted in localStorage and exposed as a typed Preact signal — validated, mapped, zero re-render.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/preact-signal-feature-query-param",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fpreact-signal-feature-query-param",
+      "category": "frontend",
+      "createdAt": "2026-07-28T08:26:47.169Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 81
     },
     {
       "name": "@dmytromykhailiuk/preact-signal-redux",
@@ -1680,6 +1764,18 @@
       "createdAt": "2026-07-26T18:41:30.188Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 72
+    },
+    {
+      "name": "@flow-grid/core",
+      "version": "0.1.0",
+      "description": "Horizontal-flow data grid web component for trading platforms. Minimal core, additive modules.",
+      "license": "MIT",
+      "repository": "https://github.com/flow-grid-dev/flowgrid",
+      "npmUrl": "https://www.npmjs.com/package/%40flow-grid%2Fcore",
+      "category": "data",
+      "createdAt": "2026-07-28T08:03:49.569Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 79
     },
     {
       "name": "@followingseas/pilot",
@@ -2522,6 +2618,18 @@
       "score": 79
     },
     {
+      "name": "@hisence666/pi-tool-renderer",
+      "version": "1.8.0",
+      "description": "High-performance compact Pi tool renderer with cached terminal chrome, configurable OSC 8 file links, tool_batch, and rich diffs.",
+      "license": "MIT",
+      "repository": "https://github.com/hisence999/pi-tool-renderer",
+      "npmUrl": "https://www.npmjs.com/package/%40hisence666%2Fpi-tool-renderer",
+      "category": "data",
+      "createdAt": "2026-07-28T09:32:35.536Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 72
+    },
+    {
       "name": "@hitkeep/tracker",
       "version": "2.12.0",
       "description": "Typed, cookieless web analytics tracker for React, Vue, Angular, and Astro. Official browser SDK for HitKeep, a privacy-friendly, self-hostable Google Analytics alternative.",
@@ -2580,6 +2688,18 @@
       "createdAt": "2026-07-25T17:11:12.003Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 58
+    },
+    {
+      "name": "@huatalk/butterfly-effect-skill",
+      "version": "0.4.0",
+      "description": "Diagnose and correct AI trajectory drift across any AI-assisted work, then recommend an evidence-backed rewind and updated prompt.",
+      "license": "MIT",
+      "repository": "https://github.com/HuaTalk/butterfly-effect-skill",
+      "npmUrl": "https://www.npmjs.com/package/%40huatalk%2Fbutterfly-effect-skill",
+      "category": "utilities",
+      "createdAt": "2026-07-28T08:01:46.394Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 83
     },
     {
       "name": "@hurraey/daw-engine-core",
@@ -3182,6 +3302,18 @@
       "score": 66
     },
     {
+      "name": "@masterdeepak15/teamhub-cli",
+      "version": "1.0.1",
+      "description": "TeamHub — a self-hosted, project-aware MCP server + CLI for running a multi-agent Claude Code team (Team Lead plans/assigns, Developers code), with skills, an optional headless agent runner, and one-command install/autostart.",
+      "license": "MIT",
+      "repository": "https://github.com/masterdeepak15/claude-team-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40masterdeepak15%2Fteamhub-cli",
+      "category": "backend",
+      "createdAt": "2026-07-28T09:22:32.197Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 74
+    },
+    {
       "name": "@mastersoon1754-ui/mcpsec",
       "version": "0.1.0",
       "description": "Open-source security framework for the Model Context Protocol — scan, score, and enforce policies on MCP servers.",
@@ -3588,6 +3720,18 @@
       "createdAt": "2026-07-25T17:01:19.352Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 60
+    },
+    {
+      "name": "@noctua-world/colors",
+      "version": "0.1.1",
+      "description": "A generated colour system: CSS custom properties, a Tailwind v4 theme, DTCG 2025.10 tokens and SCSS. Solved in OKLCH against APCA contrast targets, not hand-picked.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/noctua-world/noctua-colors",
+      "npmUrl": "https://www.npmjs.com/package/%40noctua-world%2Fcolors",
+      "category": "frontend",
+      "createdAt": "2026-07-28T07:33:07.475Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 86
     },
     {
       "name": "@node-3d/webgl",
@@ -4356,6 +4500,18 @@
       "createdAt": "2026-07-25T12:53:17.022Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 98
+    },
+    {
+      "name": "@seiuna/bilibili-api",
+      "version": "1.0.3",
+      "description": "类型安全的 Bilibili API 客户端 — 扫码登录、评论区、私信、用户空间、图片上传，支持自动凭证刷新与 Generator 分页",
+      "license": "MIT",
+      "repository": "https://github.com/seiuna/bilibili-api",
+      "npmUrl": "https://www.npmjs.com/package/%40seiuna%2Fbilibili-api",
+      "category": "backend",
+      "createdAt": "2026-07-28T08:24:16.621Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 82
     },
     {
       "name": "@semanticintent/semantic-chirp-intelligence-mcp",
@@ -6110,6 +6266,18 @@
       "score": 72
     },
     {
+      "name": "bounty-shield",
+      "version": "1.0.0",
+      "description": "Vet a bounty before you point an AI agent at it. Detects prompt-injection attacks aimed at agents and repos that farm free work.",
+      "license": "MIT",
+      "repository": "https://github.com/imsameerkhan12/bounty-shield",
+      "npmUrl": "https://www.npmjs.com/package/bounty-shield",
+      "category": "utilities",
+      "createdAt": "2026-07-28T09:34:41.932Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 72
+    },
+    {
       "name": "brazilian-airports",
       "version": "1.1.0",
       "description": "Complete database of 6,047 Brazilian aerodromes and helipads — ICAO codes, names, cities, states, type, geographic coordinates, elevation and FIR. Compiled from official DECEA/ANAC data.",
@@ -6360,6 +6528,18 @@
       "createdAt": "2026-07-26T17:55:18.463Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 71
+    },
+    {
+      "name": "claude-skills-kit",
+      "version": "2.0.0",
+      "description": "The complete skills kit for Claude Code — 40+ production-ready commands, subagents, and rules covering the full dev lifecycle: spec, plan reviews, coding, debugging, QA, security, design, ship, deploy. Auto-detected for your stack.",
+      "license": "MIT",
+      "repository": "https://github.com/LucasRandrianarivo/claude-skills-kit",
+      "npmUrl": "https://www.npmjs.com/package/claude-skills-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-28T10:02:26.673Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 100
     },
     {
       "name": "claude-usage-statusline",
@@ -6806,6 +6986,18 @@
       "score": 70
     },
     {
+      "name": "docujoint",
+      "version": "0.1.0",
+      "description": "Deterministic documentation-format engine: you declare the format (an OKF profile), it parses your markdown into a joinable IR — findings, dashboards, and a graph projection",
+      "license": "MIT",
+      "repository": "https://github.com/filetelierb/docujoint",
+      "npmUrl": "https://www.npmjs.com/package/docujoint",
+      "category": "data",
+      "createdAt": "2026-07-28T09:52:55.137Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 83
+    },
+    {
       "name": "doing-leetcode",
       "version": "1.0.0",
       "description": "Interview-style algorithm practice Skill for AI coding agents (TRAE, Claude Code, Cursor, Windsurf, etc.). Simulates real interview whiteboarding from problem analysis to complete code.",
@@ -7104,6 +7296,30 @@
       "createdAt": "2026-07-27T22:40:30.149Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 67
+    },
+    {
+      "name": "fintech-algorithms",
+      "version": "0.3.0",
+      "description": "The Fintech Builder algorithm library — canonical, cross-language reference implementations of market-data, corporate-action, index, breadth, candlestick and technical-indicator algorithms, exposed as provider-agnostic subpath modules.",
+      "license": "MIT",
+      "repository": "https://github.com/IslamBaraka90/Fintech-Algorithms-Library",
+      "npmUrl": "https://www.npmjs.com/package/fintech-algorithms",
+      "category": "data",
+      "createdAt": "2026-07-27T14:13:34.091Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 90
+    },
+    {
+      "name": "flatcash-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for AI agents to earn FLAT tokens (CPI-pegged stablecoin). Register in 5 seconds, earn bounties, withdraw to Ethereum.",
+      "license": "MIT",
+      "repository": "https://github.com/flat-cash/flatcash-mcp",
+      "npmUrl": "https://www.npmjs.com/package/flatcash-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T09:17:17.762Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 72
     },
     {
       "name": "fleetode",
@@ -7958,6 +8174,18 @@
       "score": 83
     },
     {
+      "name": "lumen-ui-kit",
+      "version": "0.1.0",
+      "description": "Accessible React, Tailwind CSS, and Next.js components for the Lumen design system.",
+      "license": "MIT",
+      "repository": "https://github.com/Lumen-Labs/pipeer",
+      "npmUrl": "https://www.npmjs.com/package/lumen-ui-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-28T07:42:58.127Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 77
+    },
+    {
       "name": "lunx-dev",
       "version": "1.0.0",
       "description": "⚡ Lunx — a modern JavaScript build tool powered by SWC and LightningCSS. Fast HMR, module federation, tree shaking, and multi-framework support (React, Vue, Svelte, Solid). A fast, Rust-native build pipeline.",
@@ -8136,6 +8364,18 @@
       "createdAt": "2026-07-25T22:08:05.331Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 50
+    },
+    {
+      "name": "mc-registry",
+      "version": "1.0.8",
+      "description": "Theta chain registry ⚛️",
+      "license": "MIT",
+      "repository": "https://github.com/hyperweb-io/mc-registry",
+      "npmUrl": "https://www.npmjs.com/package/mc-registry",
+      "category": "utilities",
+      "createdAt": "2026-07-28T09:51:16.123Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 76
     },
     {
       "name": "mcp-crypto-arbitrage",
@@ -8556,6 +8796,18 @@
       "createdAt": "2026-07-26T22:15:48.526Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 66
+    },
+    {
+      "name": "ng-hub-ui-history",
+      "version": "22.0.0",
+      "description": "Signal-based multi-object undo/redo history store for Angular applications",
+      "license": "MIT",
+      "repository": "https://github.com/carlos-morcillo/ng-hub-ui-history",
+      "npmUrl": "https://www.npmjs.com/package/ng-hub-ui-history",
+      "category": "frontend",
+      "createdAt": "2026-07-28T10:12:38.753Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 79
     },
     {
       "name": "ngx-gantry",
@@ -9614,6 +9866,42 @@
       "score": 83
     },
     {
+      "name": "rsocket-client-ts",
+      "version": "1.0.0",
+      "description": "Complete RSocket requester runtime with WebSocket and TCP transports for TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/CKATEPTb/rsocket-ts",
+      "npmUrl": "https://www.npmjs.com/package/rsocket-client-ts",
+      "category": "frontend",
+      "createdAt": "2026-07-28T09:36:15.121Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 82
+    },
+    {
+      "name": "rsocket-core-ts",
+      "version": "1.0.0",
+      "description": "Shared transport-neutral RSocket protocol primitives for TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/CKATEPTb/rsocket-ts",
+      "npmUrl": "https://www.npmjs.com/package/rsocket-core-ts",
+      "category": "frontend",
+      "createdAt": "2026-07-28T09:35:50.171Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 74
+    },
+    {
+      "name": "rsocket-server-ts",
+      "version": "1.0.0",
+      "description": "Complete RSocket 1.0 responder runtime for TypeScript servers.",
+      "license": "MIT",
+      "repository": "https://github.com/CKATEPTb/rsocket-ts",
+      "npmUrl": "https://www.npmjs.com/package/rsocket-server-ts",
+      "category": "frontend",
+      "createdAt": "2026-07-28T09:36:40.632Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 80
+    },
+    {
       "name": "rtsp-streamer",
       "version": "1.0.0",
       "description": "Zero-dependency RTSP-to-browser streaming over WebSocket, with a WebCodecs <rtsp-player> element and React/Angular bindings — no ffmpeg, no native addons, no media server.",
@@ -10572,6 +10860,18 @@
       "createdAt": "2026-07-26T21:21:38.034Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 87
+    },
+    {
+      "name": "vertex-react-ui",
+      "version": "1.0.0",
+      "description": "A modern, accessible React component library with beautiful design and smooth animations",
+      "license": "MIT",
+      "repository": "https://github.com/Abderrahmane-Lahmidi/Vertex-UI",
+      "npmUrl": "https://www.npmjs.com/package/vertex-react-ui",
+      "category": "frontend",
+      "createdAt": "2026-07-28T09:45:41.968Z",
+      "discoveredAt": "2026-07-28T10:27:05.698Z",
+      "score": 73
     },
     {
       "name": "vibemovie",
