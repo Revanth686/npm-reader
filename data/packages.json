@@ -770,6 +770,18 @@
       "score": 51
     },
     {
+      "name": "@braavolabs/cli",
+      "version": "0.1.0",
+      "description": "Braavolabs CLI — one terminal for the multi-model council (ask/cascade/savings, BYOK keys, local/direct, spawn, fix, MCP) and pipeline control (runs, steering, handoffs, connections). Near-dep-free (zod only, for the opt-in spawn --bridge companion relay)",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/kocakkmustafa/braavolabs-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40braavolabs%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-07-28T19:00:36.253Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 88
+    },
+    {
       "name": "@brianmorton/crew",
       "version": "0.1.1",
       "description": "Autonomous agent team: role-specialized coding agents that propose typed work into Linear or Jira, gate material changes behind human-approved PRDs, and drain approved work into PRs — running on your machine against your Claude subscription.",
@@ -1238,6 +1250,18 @@
       "score": 73
     },
     {
+      "name": "@contentvidya/ui",
+      "version": "1.4.2",
+      "description": "A universal, framework-agnostic UI component library built with Mitosis. Write once, compile to React, Svelte, and Web Components.",
+      "license": "MIT",
+      "repository": "https://github.com/nilkoushik/chronos-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40contentvidya%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-07-28T18:57:25.747Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 75
+    },
+    {
       "name": "@counterroll/sdk",
       "version": "0.2.0",
       "description": "Check before your agent pays. The TypeScript client for Counterroll — policy checks + signed, hash-chained receipts for x402 agent spending.",
@@ -1428,6 +1452,18 @@
       "createdAt": "2026-07-28T08:33:48.492Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 75
+    },
+    {
+      "name": "@diceforge-sdk/presenter-physics",
+      "version": "0.6.0",
+      "description": "Physics motion for DiceForge dice: simulates a roll, then remaps each die so the already-resolved face lands where the simulation put it.",
+      "license": "MIT",
+      "repository": "https://github.com/StephanTTM/DiceForgeSDK",
+      "npmUrl": "https://www.npmjs.com/package/%40diceforge-sdk%2Fpresenter-physics",
+      "category": "utilities",
+      "createdAt": "2026-07-28T05:52:48.161Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 67
     },
     {
       "name": "@diceforge-sdk/renderer-web",
@@ -1946,6 +1982,18 @@
       "score": 89
     },
     {
+      "name": "@fixl1234/smartdine",
+      "version": "0.2.0",
+      "description": "SmartDine SDK — complete restaurant platform in one install. Auth, menu, orders, KDS, billing, payments (Razorpay/UPI), analytics, and real-time WebSocket tracking for self-hosted restaurants.",
+      "license": "MIT",
+      "repository": "https://github.com/fixl1234/smartdine",
+      "npmUrl": "https://www.npmjs.com/package/%40fixl1234%2Fsmartdine",
+      "category": "data",
+      "createdAt": "2026-07-28T12:22:04.954Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 78
+    },
+    {
       "name": "@flefebvre/prisma-factorio",
       "version": "0.1.0",
       "description": "Laravel-style model factories for Prisma, fully typed",
@@ -2016,6 +2064,18 @@
       "createdAt": "2026-07-25T16:40:48.689Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 76
+    },
+    {
+      "name": "@formatforge/json-tools",
+      "version": "1.0.0",
+      "description": "Fast, lightweight TypeScript utilities for JSON formatting, validation, transformation, comparison, patching, pointers, JSONPath queries, JSON Schema, and deterministic serialization.",
+      "license": "MIT",
+      "repository": "https://github.com/gajendra-paliwal/formatforge-json-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40formatforge%2Fjson-tools",
+      "category": "frontend",
+      "createdAt": "2026-07-28T18:04:26.210Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 98
     },
     {
       "name": "@fredng-missionplus/slack-mcp",
@@ -2136,6 +2196,18 @@
       "createdAt": "2026-07-28T17:40:23.651Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 63
+    },
+    {
+      "name": "@gateco/sdk",
+      "version": "1.5.1",
+      "description": "TypeScript SDK for the Gateco API. Zero runtime dependencies -- uses native `fetch`.",
+      "license": "MIT",
+      "repository": "https://github.com/fortisil/gateco-sdk-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40gateco%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-28T18:26:21.137Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 67
     },
     {
       "name": "@georgedong32/pi-review",
@@ -3278,6 +3350,18 @@
       "score": 69
     },
     {
+      "name": "@jantstack/adonis-searchable",
+      "version": "1.0.1",
+      "description": "Generic service layer for AdonisJS + Lucid: paginated listing, fulltext search, declarative filters with a safe-by-default whitelist, period filters and preloads — without HttpContext.",
+      "license": "MIT",
+      "repository": "https://github.com/JantStack/adonis-searchable",
+      "npmUrl": "https://www.npmjs.com/package/%40jantstack%2Fadonis-searchable",
+      "category": "backend",
+      "createdAt": "2026-07-28T18:51:24.578Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 98
+    },
+    {
       "name": "@jenfang/ui-agent",
       "version": "0.1.0",
       "description": "Live design-token editing and layout auditing in the browser, with write-back to source and hand-off to a coding agent",
@@ -3996,6 +4080,30 @@
       "createdAt": "2026-07-26T23:45:28.634Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 63
+    },
+    {
+      "name": "@nanohype/mcp",
+      "version": "0.1.0",
+      "description": "MCP server exposing the nanohype Platform Reference (catalog + standards + per-repo contracts) as resources and tools",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nanohype/nanohype",
+      "npmUrl": "https://www.npmjs.com/package/%40nanohype%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T18:40:34.046Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 66
+    },
+    {
+      "name": "@nanohype/sdk",
+      "version": "0.2.0",
+      "description": "Reference implementation of the nanohype template rendering contract, catalog discovery, and Platform Reference loaders",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nanohype/nanohype",
+      "npmUrl": "https://www.npmjs.com/package/%40nanohype%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-07-28T18:40:23.054Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 68
     },
     {
       "name": "@narumitw/pi-file-context",
@@ -4824,6 +4932,18 @@
       "createdAt": "2026-07-27T22:49:17.284Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 60
+    },
+    {
+      "name": "@refokus-agency/marquee",
+      "version": "1.3.3",
+      "description": "Marquee component package for Refokus",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/refokus-agency/marquee",
+      "npmUrl": "https://www.npmjs.com/package/%40refokus-agency%2Fmarquee",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T19:03:30.174Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 73
     },
     {
       "name": "@remnic/capture-screen",
@@ -6036,6 +6156,78 @@
       "createdAt": "2026-07-25T20:16:54.399Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 82
+    },
+    {
+      "name": "@venn-lang/cli",
+      "version": "0.1.0",
+      "description": "The venn binary: one command for starting, checking, running and testing a Venn project.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Fcli",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:55.991Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 68
+    },
+    {
+      "name": "@venn-lang/contracts",
+      "version": "0.1.0",
+      "description": "The ports the Venn core runs on, their implementations, and the host that carries them.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Fcontracts",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:56.118Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 70
+    },
+    {
+      "name": "@venn-lang/core",
+      "version": "0.1.0",
+      "description": "The Venn compiler: grammar, parser, type checker, expression compiler, decorator expansion, and the Problem model.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Fcore",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:58.201Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 75
+    },
+    {
+      "name": "@venn-lang/lsp",
+      "version": "0.1.0",
+      "description": "The Venn language server: diagnostics, hover, completion, definition, references, rename, signature help, semantic tokens, formatting, document highlight and quick fixes for .vn files.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Flsp",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:56.141Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 80
+    },
+    {
+      "name": "@venn-lang/runtime",
+      "version": "0.1.0",
+      "description": "Executes a parsed Venn document: the scheduler, the plugin registry, the event stream.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Fruntime",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:56.206Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 64
+    },
+    {
+      "name": "@venn-lang/sdk",
+      "version": "0.1.0",
+      "description": "The plugin authoring API: small typed builders that return plain definition objects.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Fsdk",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:55.535Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 68
     },
     {
       "name": "@vivari/core",
@@ -8438,6 +8630,18 @@
       "score": 75
     },
     {
+      "name": "hco-mcp",
+      "version": "2.1.0",
+      "description": "Give your AI agent a memory. And a seatbelt.",
+      "license": "MIT",
+      "repository": "https://github.com/nzkbuild/hco-mcp",
+      "npmUrl": "https://www.npmjs.com/package/hco-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T18:50:41.022Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 69
+    },
+    {
       "name": "hd-chart-engine",
       "version": "0.1.0",
       "description": "Human Design chart engine. Gate, line, color, tone and base activations from a birth moment, with no Swiss Ephemeris dependency.",
@@ -8556,6 +8760,18 @@
       "createdAt": "2026-07-27T15:12:14.663Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 74
+    },
+    {
+      "name": "image-puma",
+      "version": "1.0.0",
+      "description": "Local Image Puma MCP server for planning and running batch image preparation",
+      "license": "MIT",
+      "repository": "https://github.com/panth-net/Image-Puma",
+      "npmUrl": "https://www.npmjs.com/package/image-puma",
+      "category": "backend",
+      "createdAt": "2026-07-28T18:23:28.498Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 64
     },
     {
       "name": "incitaciones",
@@ -9302,6 +9518,18 @@
       "score": 76
     },
     {
+      "name": "mcp-sandbox",
+      "version": "0.2.1",
+      "description": "Run any MCP server inside an isolated E2B cloud sandbox instead of on your machine — one command, no code changes. Transparent stdio bridge with env allowlisting and JSONL traffic tracing.",
+      "license": "MIT",
+      "repository": "https://github.com/ondraulehla/mcp-sandbox",
+      "npmUrl": "https://www.npmjs.com/package/mcp-sandbox",
+      "category": "backend",
+      "createdAt": "2026-07-28T17:59:07.673Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 67
+    },
+    {
       "name": "mcp-tester-helper",
       "version": "1.0.0",
       "description": "Unified MCP server for multi-stand infrastructure testing: REST APIs, PostgreSQL, and OpenSearch — all through a single config file.",
@@ -9528,6 +9756,18 @@
       "createdAt": "2026-07-26T15:35:52.637Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 90
+    },
+    {
+      "name": "mysql-boss",
+      "version": "0.1.0",
+      "description": "A pg-boss-inspired job queue for MySQL 8.0.1+",
+      "license": "MIT",
+      "repository": "https://github.com/V-84/mysql-boss",
+      "npmUrl": "https://www.npmjs.com/package/mysql-boss",
+      "category": "data",
+      "createdAt": "2026-07-28T18:09:47.651Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 64
     },
     {
       "name": "n8n-nodes-apple-appstore",
@@ -10394,6 +10634,18 @@
       "score": 66
     },
     {
+      "name": "polish-statutory-interest",
+      "version": "0.1.0",
+      "description": "Zero-dependency calculation of Polish statutory late-payment interest, segmented across NBP reference-rate changes and half-year commercial rates.",
+      "license": "MIT",
+      "repository": "https://github.com/TrendTweekers/polish-statutory-interest",
+      "npmUrl": "https://www.npmjs.com/package/polish-statutory-interest",
+      "category": "devops",
+      "createdAt": "2026-07-28T18:07:16.244Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 67
+    },
+    {
       "name": "portable-agent-stack",
       "version": "1.0.0",
       "description": "A portable, repo-local engineering stack for AI coding agents: workflow memory, code intelligence, reusable skills, and context compression.",
@@ -10668,6 +10920,18 @@
       "createdAt": "2026-07-26T15:27:03.801Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 53
+    },
+    {
+      "name": "react-native-plain-text",
+      "version": "0.5.0",
+      "description": "A faster, lower-memory React Native <Text> alternative for simple, single-style text",
+      "license": "MIT",
+      "repository": "https://github.com/mdjastrzebski/react-native-plain-text",
+      "npmUrl": "https://www.npmjs.com/package/react-native-plain-text",
+      "category": "frontend",
+      "createdAt": "2026-07-26T21:44:11.243Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 78
     },
     {
       "name": "react-talking-avatar",
@@ -11210,6 +11474,18 @@
       "score": 73
     },
     {
+      "name": "sitegraph",
+      "version": "0.1.0",
+      "description": "One page registry generates your prerendered HTML, a linked JSON-LD @graph, sitemap.xml, rss.xml and llms.txt — so they cannot drift apart.",
+      "license": "MIT",
+      "repository": "https://github.com/tuld01061/sitegraph",
+      "npmUrl": "https://www.npmjs.com/package/sitegraph",
+      "category": "data",
+      "createdAt": "2026-07-28T17:57:15.959Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 79
+    },
+    {
       "name": "sk-nodeexpress",
       "version": "1.0.1",
       "description": "Production-ready Node.js & TypeScript Express boilerplate code generator with Authentication, Database, Security & Best Practices pre-configured.",
@@ -11340,6 +11616,18 @@
       "createdAt": "2026-07-28T11:42:46.776Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 80
+    },
+    {
+      "name": "ssm-idempotency-guard",
+      "version": "1.0.0",
+      "description": "Exactly-once processing for AWS Lambda handlers triggered by EventBridge and other at-least-once event sources, using AWS SSM Parameter Store as a distributed idempotency ledger. Prevents duplicate side effects from retries, duplicate deliveries, and conc",
+      "license": "MIT",
+      "repository": "https://github.com/ranjith-ramakrishnan/ssm-idempotency-guard",
+      "npmUrl": "https://www.npmjs.com/package/ssm-idempotency-guard",
+      "category": "backend",
+      "createdAt": "2026-07-28T19:03:56.161Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 88
     },
     {
       "name": "staffed",
@@ -11640,6 +11928,18 @@
       "createdAt": "2026-07-25T16:51:20.320Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 56
+    },
+    {
+      "name": "tododdle-mcp",
+      "version": "2.2.0",
+      "description": "Agent-first task, project context, and time tracking for ToDoddle",
+      "license": "MIT",
+      "repository": "https://github.com/krffl/tododdle-mcp",
+      "npmUrl": "https://www.npmjs.com/package/tododdle-mcp",
+      "category": "utilities",
+      "createdAt": "2026-07-26T13:12:57.133Z",
+      "discoveredAt": "2026-07-28T19:11:04.375Z",
+      "score": 66
     },
     {
       "name": "toggle-theme-circular",

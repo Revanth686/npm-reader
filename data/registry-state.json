@@ -1,19 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122024699,
-  "lastRunAt": "2026-07-28T17:49:24.596Z",
+  "lastSequence": 122038728,
+  "lastRunAt": "2026-07-28T19:11:04.375Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nuwax-ai/mcp-stdio-proxy",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@evilbunny/node-red-contrib-zigbee2mqtt",
+      "name": "@holdenmatt/md-bundle",
       "attempts": 1
     },
     {
-      "name": "@embodied/memo",
+      "name": "@korekoi/react-tabler-flags",
+      "attempts": 1
+    },
+    {
+      "name": "@vela-science/protocol",
+      "attempts": 1
+    },
+    {
+      "name": "@hzblj/zyplot",
+      "attempts": 1
+    },
+    {
+      "name": "@seucra/matrix-sdk-bridge",
       "attempts": 1
     }
   ]
