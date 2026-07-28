@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "1322-client",
+      "version": "0.1.0",
+      "description": "Unified TypeScript/JavaScript client for the 1322 real-time social monitoring API (X/Twitter, Truth Social, Instagram, YouTube, Binance Square, News).",
+      "license": "MIT",
+      "repository": "https://github.com/SisoSol/1322-client",
+      "npmUrl": "https://www.npmjs.com/package/1322-client",
+      "category": "backend",
+      "createdAt": "2026-07-28T21:23:14.403Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 85
+    },
+    {
       "name": "1xai-sdk",
       "version": "0.1.0",
       "description": "Thin, drop-in SDK for the 1xAi gateway (https://1xai.ir) — OpenAI, Claude, Gemini and DeepSeek from inside Iran, billed in Toman.",
@@ -662,6 +674,18 @@
       "score": 69
     },
     {
+      "name": "@bassotov/deck",
+      "version": "0.5.1",
+      "description": "PowerPoint for agents. Your agent writes the deck as plain markdown; you open it and draw on it while you record.",
+      "license": "MIT",
+      "repository": "https://github.com/bassotov/deck",
+      "npmUrl": "https://www.npmjs.com/package/%40bassotov%2Fdeck",
+      "category": "backend",
+      "createdAt": "2026-07-28T21:26:51.800Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 79
+    },
+    {
       "name": "@belalwaheed/octagon-mist",
       "version": "1.0.0",
       "description": "Framework-agnostic design system with Filter Octagon (dark) and Minimal Mist (light) themes — OKLCH color ramps, semantic tokens, and 8 output formats",
@@ -720,6 +744,18 @@
       "createdAt": "2026-07-26T15:12:17.791Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 51
+    },
+    {
+      "name": "@bisibility/cli",
+      "version": "0.1.0",
+      "description": "Command line interface for the Bisibility REST API.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/CorgiCorner/bisibility-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40bisibility%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-07-28T22:05:33.733Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 67
     },
     {
       "name": "@bkey-inc/bmoni_embedded_sdk",
@@ -1224,6 +1260,18 @@
       "createdAt": "2026-07-25T14:53:08.626Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 55
+    },
+    {
+      "name": "@coloristic.org/core",
+      "version": "0.1.0",
+      "description": "Generate accessibility-aware semantic color palettes and production-ready design tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/yasirdora/coloristic-core",
+      "npmUrl": "https://www.npmjs.com/package/%40coloristic.org%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T21:53:43.328Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 63
     },
     {
       "name": "@compare-xml/cli",
@@ -3410,6 +3458,18 @@
       "score": 75
     },
     {
+      "name": "@ismsdirectory/mcp-server",
+      "version": "1.2.0",
+      "description": "MCP server for the ISMS Directory: multi-filter catalog search (exact tags, multi-framework AND) plus free-tier submit_listing. Prefer HTTPS GET /api/search for zero-install catalog lookup.",
+      "license": "MIT",
+      "repository": "https://github.com/tristanroth1/ismsdirectory",
+      "npmUrl": "https://www.npmjs.com/package/%40ismsdirectory%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-07-28T16:51:55.187Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 64
+    },
+    {
       "name": "@itc-steve/pi-herdr",
       "version": "1.1.0",
       "description": "Pi extension: Herdr-visible subagent herd — local-first difficulty routing, pointer-batched results, markdown handoffs, and herdr terminal control.",
@@ -3482,6 +3542,18 @@
       "score": 75
     },
     {
+      "name": "@jini-ai/ui",
+      "version": "0.1.0",
+      "description": "Renamed from `@jini/components` in this session (2026-07-16) once it became clear one \"components\" bucket undersold the scope: this package is meant to hold more than flat presentational components — pure business logic, hooks, and injectable providers fo",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AINSEP/Jini",
+      "npmUrl": "https://www.npmjs.com/package/%40jini-ai%2Fui",
+      "category": "utilities",
+      "createdAt": "2026-07-28T22:14:52.972Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 70
+    },
+    {
       "name": "@jjanczur/tyran",
       "version": "0.1.0",
       "description": "Command-line scripts for the Tyran task conductor (doctor, journal, schema, and repo tooling) for CI and terminals outside Claude Code. Installing this package does NOT install the Claude Code plugin — add that separately with `/plugin marketplace add jja",
@@ -3504,6 +3576,30 @@
       "createdAt": "2026-07-26T23:42:38.029Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 64
+    },
+    {
+      "name": "@jsvision/code-editor",
+      "version": "1.3.0",
+      "description": "A terminal-native source code editor for JSVision applications.",
+      "license": "MIT",
+      "repository": "https://github.com/blendsdk/jsvision",
+      "npmUrl": "https://www.npmjs.com/package/%40jsvision%2Fcode-editor",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T21:23:09.989Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 67
+    },
+    {
+      "name": "@jsvision/i18n",
+      "version": "1.3.0",
+      "description": "Zero-dependency internationalization for JSVision applications and packages",
+      "license": "MIT",
+      "repository": "https://github.com/blendsdk/jsvision",
+      "npmUrl": "https://www.npmjs.com/package/%40jsvision%2Fi18n",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T21:23:02.269Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 65
     },
     {
       "name": "@jungsek/meta-harness",
@@ -4272,6 +4368,18 @@
       "createdAt": "2026-07-26T09:49:31.092Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 75
+    },
+    {
+      "name": "@neograce/cli",
+      "version": "5.0.0",
+      "description": "GRACE 4 CLI for .grace linting, status snapshots, module health, verification queries, semantic markup, and artifact navigation with a Bun-powered grace binary.",
+      "license": "MIT",
+      "repository": "https://github.com/alex-shekhter/neo-grace",
+      "npmUrl": "https://www.npmjs.com/package/%40neograce%2Fcli",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T22:11:01.783Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 92
     },
     {
       "name": "@nera-static/core",
@@ -5930,6 +6038,18 @@
       "score": 65
     },
     {
+      "name": "@threenative/fab-mcp",
+      "version": "0.1.0",
+      "description": "Unofficial MCP server for searching public Fab assets and downloading directly available free files.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/jonit-dev/fab-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40threenative%2Ffab-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T22:44:44.873Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 62
+    },
+    {
       "name": "@time-provider/plugin-moment-timezone",
       "version": "0.1.0",
       "description": "Time-Provider : Moment.js plugin ~ TypeScript library for injecting time and timers with adapters for multiple date libraries.",
@@ -6060,6 +6180,18 @@
       "createdAt": "2026-07-25T12:48:52.142Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 69
+    },
+    {
+      "name": "@twocan/testnexus-mcp",
+      "version": "1.1.0",
+      "description": "TestNexus MCP server for Claude Code — push, list, and download Android APK builds",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/programmerKaustubh/test-nexus-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40twocan%2Ftestnexus-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-28T22:43:21.318Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 80
     },
     {
       "name": "@ucash/ucash-cli",
@@ -6408,6 +6540,18 @@
       "createdAt": "2026-07-27T05:39:53.382Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 82
+    },
+    {
+      "name": "@vul-os/kotva-sync",
+      "version": "0.1.0",
+      "description": "The browser/JS binding for the KOTVA Sync substrate (substrate/SYNC.md, substrate/BINDINGS.md §3): a wasm-bindgen wrapper exposing kotva-sync's signed CRDT operation algebra, HLC, observable-state snapshots, version vectors and range-Merkle reconciliation",
+      "license": "MIT",
+      "repository": "https://github.com/vul-os/kotva",
+      "npmUrl": "https://www.npmjs.com/package/%40vul-os%2Fkotva-sync",
+      "category": "frontend",
+      "createdAt": "2026-07-28T21:54:50.253Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 80
     },
     {
       "name": "@vyredo/rpc-bus",
@@ -6986,6 +7130,30 @@
       "score": 96
     },
     {
+      "name": "arc-honest-money",
+      "version": "0.1.0",
+      "description": "Four dependency-light primitives for verifiable agent money on Arc: prove an x402 payment, cap agent spend in code, cross-check a price against a second venue, and pay with an on-chain reconcilable memo.",
+      "license": "MIT",
+      "repository": "https://github.com/Artem1981777/arc-honest-money",
+      "npmUrl": "https://www.npmjs.com/package/arc-honest-money",
+      "category": "devops",
+      "createdAt": "2026-07-28T21:25:03.784Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 63
+    },
+    {
+      "name": "arclear-sdk",
+      "version": "3.0.0",
+      "description": "Permissionless multilateral obligation-netting clearinghouse primitive for any ERC-20 on Arc — 100 micropayments, 1 settlement.",
+      "license": "MIT",
+      "repository": "https://github.com/aljosamakevic/arclear",
+      "npmUrl": "https://www.npmjs.com/package/arclear-sdk",
+      "category": "utilities",
+      "createdAt": "2026-07-28T21:09:42.027Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 92
+    },
+    {
       "name": "arclens",
       "version": "1.0.0",
       "description": "Arclens — React architecture explorer. Statically map components, hooks, and dependencies into an interactive graph.",
@@ -7394,6 +7562,18 @@
       "score": 90
     },
     {
+      "name": "cabalspy-x402",
+      "version": "0.1.0",
+      "description": "x402 client for the CabalSpy KOL API — pay per request with USDC, no account or API key. AI agents query KOL, smart money and whale wallet data on Solana, Base, BNB Chain, Ethereum and Robinhood Chain and pay per call.",
+      "license": "MIT",
+      "repository": "https://github.com/CabalSpy/cabalspy-x402",
+      "npmUrl": "https://www.npmjs.com/package/cabalspy-x402",
+      "category": "backend",
+      "createdAt": "2026-07-28T22:06:25.090Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 68
+    },
+    {
       "name": "carmageddon-extractor",
       "version": "1.1.0",
       "description": "Decrypts and re-encrypts Carmageddon (1997) data files, and dumps the car stats to Markdown",
@@ -7742,6 +7922,18 @@
       "score": 70
     },
     {
+      "name": "codex-universal-proxy",
+      "version": "0.5.0",
+      "description": "Universal compatibility proxy for using OpenAI-compatible model providers with Codex plugins, MCP tools, tool_search and apply_patch.",
+      "license": "MIT",
+      "repository": "https://github.com/bharat2808/codex-universal-proxy",
+      "npmUrl": "https://www.npmjs.com/package/codex-universal-proxy",
+      "category": "backend",
+      "createdAt": "2026-07-28T21:12:11.997Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 83
+    },
+    {
       "name": "codexgpt",
       "version": "1.0.0",
       "description": "Windows-first, self-hosted MCP tools that connect ChatGPT to one local repository through a loopback server and an optional HTTPS tunnel.",
@@ -7824,6 +8016,18 @@
       "createdAt": "2026-07-27T03:55:24.742Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 81
+    },
+    {
+      "name": "convex-oxlint",
+      "version": "1.0.0",
+      "description": "Oxlint port of @convex-dev/eslint-plugin — a drop-in replacement that keeps the same rule ids, messages, spans and fixes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aaly00/convex-oxlint",
+      "npmUrl": "https://www.npmjs.com/package/convex-oxlint",
+      "category": "utilities",
+      "createdAt": "2026-07-28T22:41:29.298Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 69
     },
     {
       "name": "cordova-plugin-yandex-mapkit",
@@ -7968,6 +8172,18 @@
       "createdAt": "2026-07-26T09:14:14.109Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 90
+    },
+    {
+      "name": "dashmq-connector",
+      "version": "1.2.0",
+      "description": "Connect your Bull and BullMQ queues to DashMQ. Runs next to your Redis; you keep the credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/TheSaaSFarm/dashmq-connector",
+      "npmUrl": "https://www.npmjs.com/package/dashmq-connector",
+      "category": "data",
+      "createdAt": "2026-07-28T22:24:52.383Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 79
     },
     {
       "name": "data-table-pro",
@@ -8246,6 +8462,18 @@
       "score": 80
     },
     {
+      "name": "en16931",
+      "version": "0.1.0",
+      "description": "EN 16931 e-invoice validation in pure TypeScript — runs the official CEF Schematron artefacts (CII stable, UBL experimental) without Java or Docker",
+      "license": "MIT AND EUPL-1.2",
+      "repository": "https://github.com/NeosiaNexus/en16931",
+      "npmUrl": "https://www.npmjs.com/package/en16931",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T21:10:18.835Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 67
+    },
+    {
       "name": "epos-printer-sdk",
       "version": "0.2.0",
       "description": "Modern TypeScript library port of Epson's ePOS SDK, transcription from vendor's IIFE bundle. Ships EposHttpPrinter — a lightweight, socket-free, fully async/await client for the ePOS-Print HTTP web service (built for the TM-T88V) — plus the full callback-",
@@ -8364,6 +8592,18 @@
       "createdAt": "2026-07-27T11:04:40.015Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 78
+    },
+    {
+      "name": "favicon-motion",
+      "version": "0.1.0",
+      "description": "A lightweight, canvas-powered animated favicon library. Draw procedurally, or animate from frames, sprite sheets, video, Lottie, or dotLottie — no animated SVG, no bloated core.",
+      "license": "MIT",
+      "repository": "https://github.com/legend1-0/FaviMotion",
+      "npmUrl": "https://www.npmjs.com/package/favicon-motion",
+      "category": "frontend",
+      "createdAt": "2026-07-28T22:38:43.442Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 85
     },
     {
       "name": "favro-mcp",
@@ -8820,6 +9060,18 @@
       "createdAt": "2026-07-27T10:39:58.570Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 75
+    },
+    {
+      "name": "hcg-carousel",
+      "version": "1.0.0",
+      "description": "Lightweight dependency-free vanilla JavaScript carousel slider. Touch swipe, autoplay, loop, arrows, dots, multiple visible slides, and keyboard navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/html-code-generator/hcg-carousel",
+      "npmUrl": "https://www.npmjs.com/package/hcg-carousel",
+      "category": "devops",
+      "createdAt": "2026-07-28T22:06:59.739Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 64
     },
     {
       "name": "hco-mcp",
@@ -9626,6 +9878,18 @@
       "score": 86
     },
     {
+      "name": "mastervault-mcp-server",
+      "version": "1.3.0",
+      "description": "A headless, filesystem-backed MCP server that serves any MasterVault — its files and its operating protocol — to any MCP client. No Obsidian required.",
+      "license": "MIT",
+      "repository": "https://github.com/JustMichael-80/mastervault-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/mastervault-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-07-28T22:29:29.197Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 80
+    },
+    {
       "name": "mastra-gate402",
       "version": "0.1.0",
       "description": "Mastra tools: pay-per-call Base market data (token-risk, DEX, momentum, launches, best-swap, onchain) + open-model LLM inference over x402 (Gate402). No API keys — the agent pays the 402.",
@@ -10284,6 +10548,18 @@
       "createdAt": "2026-07-26T14:36:28.253Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 80
+    },
+    {
+      "name": "normativa-colombia-mcp",
+      "version": "1.0.0",
+      "description": "MCP para consultar el Gestor Normativo de Función Pública y la jurisprudencia de la Corte Constitucional de Colombia",
+      "license": "MIT",
+      "repository": "https://github.com/Angelthebestone/Normativa-colombiana-MCP",
+      "npmUrl": "https://www.npmjs.com/package/normativa-colombia-mcp",
+      "category": "data",
+      "createdAt": "2026-07-28T21:57:50.886Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 86
     },
     {
       "name": "novapay",
@@ -11162,6 +11438,18 @@
       "score": 72
     },
     {
+      "name": "react-native-jet-markdown",
+      "version": "0.2.0",
+      "description": "High-performance native Markdown renderer and editor for React Native",
+      "license": "MIT",
+      "repository": "https://github.com/alizahid/react-native-jet-markdown",
+      "npmUrl": "https://www.npmjs.com/package/react-native-jet-markdown",
+      "category": "frontend",
+      "createdAt": "2026-07-28T16:38:19.350Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 62
+    },
+    {
       "name": "react-native-local-webview",
       "version": "0.0.1",
       "description": "Run CSR and Unity WebGL bundles from durable local storage without giving up their HTTPS origin.",
@@ -11700,6 +11988,18 @@
       "createdAt": "2026-07-25T14:38:34.858Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "sharpwave",
+      "version": "0.1.0",
+      "description": "Long-term memory for AI agents. An MCP server that remembers across sessions, forgets what stops mattering, and consolidates the rest — modeled on how the hippocampus actually works.",
+      "license": "MIT",
+      "repository": "https://github.com/EnlightenedRepublic/sharpwave",
+      "npmUrl": "https://www.npmjs.com/package/sharpwave",
+      "category": "backend",
+      "createdAt": "2026-07-28T21:54:24.691Z",
+      "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 76
     },
     {
       "name": "shiki-umd",

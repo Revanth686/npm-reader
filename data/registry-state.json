@@ -1,12 +1,64 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122054427,
-  "lastRunAt": "2026-07-28T21:00:50.444Z",
+  "lastSequence": 122066326,
+  "lastRunAt": "2026-07-28T22:52:08.088Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nuwax-ai/mcp-stdio-proxy",
-      "attempts": 6
+      "attempts": 7
+    },
+    {
+      "name": "@supernovae-st/nika-check-wasm",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/cli-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/cli-darwin-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/cli-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/cli-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/cli-windows-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/sdk-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/sdk-darwin-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/sdk-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/sdk-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/sdk-windows-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@superdoc/sdk",
+      "attempts": 1
     }
   ]
 }
