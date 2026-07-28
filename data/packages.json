@@ -122,6 +122,18 @@
       "score": 62
     },
     {
+      "name": "@agenthippo-ai/hippoclaw",
+      "version": "2026.7.28",
+      "description": "Multi-channel AI gateway with extensible messaging integrations",
+      "license": "MIT",
+      "repository": "https://github.com/agenthippoai/hippoclaw",
+      "npmUrl": "https://www.npmjs.com/package/%40agenthippo-ai%2Fhippoclaw",
+      "category": "utilities",
+      "createdAt": "2026-07-28T20:15:01.573Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 66
+    },
+    {
       "name": "@agenticprimitives/content-storage",
       "version": "0.1.0",
       "description": "Managed storage for Content Artifacts (SKILL.md, .ttl, .md, JSON-LD, images/video): the StoragePort provider abstraction + ContentArtifact/ArtifactBundle model that stores a content-primitives descriptor's bytes in a client-side-envelope-encrypted, conten",
@@ -938,6 +950,18 @@
       "score": 72
     },
     {
+      "name": "@characteros/nexus-sdk",
+      "version": "1.0.0",
+      "description": "Open-source Nexus Protocol adapter interface for CharacterOS — build hardware adapters for any social robot platform",
+      "license": "MIT",
+      "repository": "https://github.com/ChrisV415/nexus-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40characteros%2Fnexus-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-28T20:19:59.158Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 84
+    },
+    {
       "name": "@charlie.act7/gemini-notebook-mcp",
       "version": "2.0.0",
       "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
@@ -948,6 +972,18 @@
       "createdAt": "2026-07-26T12:40:02.649Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 86
+    },
+    {
+      "name": "@chativa/rn-webview",
+      "version": "0.9.1",
+      "description": "Chativa RN WebView — embeds the Chativa web chat widget in a react-native-webview, bridged to native props/callbacks, so any existing @chativa/connector-* works unmodified. See README.md for architecture and the native-fallback tracking issues.",
+      "license": "MIT",
+      "repository": "https://github.com/AimTune/chativa",
+      "npmUrl": "https://www.npmjs.com/package/%40chativa%2Frn-webview",
+      "category": "frontend",
+      "createdAt": "2026-07-27T17:41:01.331Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 66
     },
     {
       "name": "@checkleaked/trustpilot-api",
@@ -1068,6 +1104,18 @@
       "createdAt": "2026-07-26T15:29:38.504Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 98
+    },
+    {
+      "name": "@cocreate/server-container",
+      "version": "1.1.0",
+      "description": "Hardened V8 isolated execution engine for CoCreate Server. Executes multi-tenant dynamic scripts inside sandboxed worker threads with untamperable host-side bandwidth metering and unified container interfaces.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/CoCreate-app/CoCreate-server-container",
+      "npmUrl": "https://www.npmjs.com/package/%40cocreate%2Fserver-container",
+      "category": "backend",
+      "createdAt": "2026-07-28T20:40:15.784Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 94
     },
     {
       "name": "@code-yeongyu/senpi-agent-core",
@@ -1994,6 +2042,18 @@
       "score": 78
     },
     {
+      "name": "@flatzer/widget",
+      "version": "1.0.0",
+      "description": "Thin TypeScript wrapper to load the Flatzer AI sales chat widget in SPAs (React, Vue, Next.js, Svelte, ...)",
+      "license": "MIT",
+      "repository": "https://github.com/fjpedrosa/flatzer",
+      "npmUrl": "https://www.npmjs.com/package/%40flatzer%2Fwidget",
+      "category": "frontend",
+      "createdAt": "2026-07-28T20:19:43.580Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 64
+    },
+    {
       "name": "@flefebvre/prisma-factorio",
       "version": "0.1.0",
       "description": "Laravel-style model factories for Prisma, fully typed",
@@ -2258,6 +2318,18 @@
       "score": 62
     },
     {
+      "name": "@getclog/clog",
+      "version": "0.1.0",
+      "description": "Discover, curate, and share AI coding agent conversations as a searchable knowledge base",
+      "license": "MIT",
+      "repository": "https://github.com/BFriedland/clog",
+      "npmUrl": "https://www.npmjs.com/package/%40getclog%2Fclog",
+      "category": "cli",
+      "createdAt": "2026-07-28T20:22:03.340Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 72
+    },
+    {
       "name": "@getdashfy/ext-market-live",
       "version": "0.1.0",
       "description": "Market Live extension for Dashfy - Real-time prices from the Pyth Network oracle",
@@ -2268,6 +2340,18 @@
       "createdAt": "2026-07-28T17:08:09.911Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 78
+    },
+    {
+      "name": "@getdashfy/ext-system",
+      "version": "0.1.0",
+      "description": "System extension for Dashfy - Monitor CPU, memory, disk, network, and processes",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/dashfy/dashfy-ext-system",
+      "npmUrl": "https://www.npmjs.com/package/%40getdashfy%2Fext-system",
+      "category": "utilities",
+      "createdAt": "2026-07-28T19:23:50.071Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 77
     },
     {
       "name": "@getnarro/cli",
@@ -2846,6 +2930,18 @@
       "score": 64
     },
     {
+      "name": "@glowbox/split-flap",
+      "version": "1.6.0",
+      "description": "Electromechanical split-flap display component — Solari-style flap cards falling from the drum, forward-only wrap-through cascades, optional card-slap sound, in the glowbox family.",
+      "license": "MIT",
+      "repository": "https://github.com/eetu/glowbox",
+      "npmUrl": "https://www.npmjs.com/package/%40glowbox%2Fsplit-flap",
+      "category": "utilities",
+      "createdAt": "2026-07-28T19:31:50.781Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 83
+    },
+    {
       "name": "@goxtechnologies/infor-visual-mcp",
       "version": "0.0.1",
       "description": "Infor VISUAL MCP — Model Context Protocol server for the VISUAL ERP (sales, inventory, purchasing, financials, shop floor, lot trace). Self-documenting category tools, safe-by-default writes. Under active development (not functional for live VISUAL yet).",
@@ -3350,6 +3446,18 @@
       "score": 69
     },
     {
+      "name": "@jantstack/adonis-authz",
+      "version": "1.0.0",
+      "description": "Driver-based authorization engine for AdonisJS + Lucid: hierarchical scopes with downward inheritance, explicit denies, expiring assignments and polymorphic holders. Ships a self-contained database driver and an OpenFGA driver, both judged by the same exe",
+      "license": "MIT",
+      "repository": "https://github.com/JantStack/adonis-authz",
+      "npmUrl": "https://www.npmjs.com/package/%40jantstack%2Fadonis-authz",
+      "category": "backend",
+      "createdAt": "2026-07-28T20:47:21.396Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 83
+    },
+    {
       "name": "@jantstack/adonis-searchable",
       "version": "1.0.1",
       "description": "Generic service layer for AdonisJS + Lucid: paginated listing, fulltext search, declarative filters with a safe-by-default whitelist, period filters and preloads — without HttpContext.",
@@ -3480,6 +3588,18 @@
       "createdAt": "2026-07-26T20:10:59.706Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 65
+    },
+    {
+      "name": "@korekoi/react-tabler-flags",
+      "version": "0.1.0",
+      "description": "Tree-shakeable React components for the Tabler flags set. Artwork from tabler/tabler-flags (MIT, © Paweł Kuna), pipeline modelled on @tabler/icons-react.",
+      "license": "MIT",
+      "repository": "https://github.com/korekoi/react-tabler-flags",
+      "npmUrl": "https://www.npmjs.com/package/%40korekoi%2Freact-tabler-flags",
+      "category": "frontend",
+      "createdAt": "2026-07-28T19:08:29.543Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 69
     },
     {
       "name": "@kreiseck/elda",
@@ -4550,6 +4670,18 @@
       "score": 77
     },
     {
+      "name": "@pedrobef/vozz",
+      "version": "0.1.1",
+      "description": "TTS ultrarrealista em português do Brasil, 100% offline no navegador. Vozes neurais leves (~86 MB), sem API key, sem servidor, sem custo.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Pedro21062014/vozz",
+      "npmUrl": "https://www.npmjs.com/package/%40pedrobef%2Fvozz",
+      "category": "frontend",
+      "createdAt": "2026-07-28T20:48:39.586Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 75
+    },
+    {
       "name": "@pi-kaush/pi-btw-with-imports",
       "version": "0.1.0",
       "description": "Open persisted Pi side sessions with /btw and import child-authored handoffs with /btw merge.",
@@ -4788,6 +4920,18 @@
       "createdAt": "2026-07-25T18:59:02.288Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 54
+    },
+    {
+      "name": "@quaivault/sdk",
+      "version": "0.1.1",
+      "description": "TypeScript SDK for QuaiVault multisig vaults on Quai Network",
+      "license": "MIT",
+      "repository": "https://github.com/Quai-Vault/quaivault-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40quaivault%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T19:43:41.683Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 66
     },
     {
       "name": "@quantovainc/qcore",
@@ -6206,6 +6350,18 @@
       "score": 80
     },
     {
+      "name": "@venn-lang/project",
+      "version": "0.1.1",
+      "description": "What a Venn project *is*: its manifest, its workspace members, what it builds, and where the build goes.",
+      "license": "MIT",
+      "repository": "https://github.com/venn-lang/venn",
+      "npmUrl": "https://www.npmjs.com/package/%40venn-lang%2Fproject",
+      "category": "testing",
+      "createdAt": "2026-07-28T18:33:55.836Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 63
+    },
+    {
       "name": "@venn-lang/runtime",
       "version": "0.1.0",
       "description": "Executes a parsed Venn document: the scheduler, the plugin registry, the event stream.",
@@ -6348,6 +6504,18 @@
       "createdAt": "2026-07-26T16:50:42.852Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 62
+    },
+    {
+      "name": "@wnlx/redisq",
+      "version": "0.1.1",
+      "description": "Event-driven Redis Streams message broker for TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/taoohuu/redisq",
+      "npmUrl": "https://www.npmjs.com/package/%40wnlx%2Fredisq",
+      "category": "data",
+      "createdAt": "2026-07-28T12:57:12.862Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 75
     },
     {
       "name": "@xenonbyte/server-helper",
@@ -6672,6 +6840,18 @@
       "createdAt": "2026-07-28T01:48:42.056Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 62
+    },
+    {
+      "name": "agent-config-audit",
+      "version": "0.1.0",
+      "description": "Security auditor for AI agent configurations — scans MCP servers, Claude Code settings, agents, skills and hooks for risky permissions, inline secrets, unpinned supply chains and prompt-injection surfaces.",
+      "license": "MIT",
+      "repository": "https://github.com/ondraulehla/agent-audit",
+      "npmUrl": "https://www.npmjs.com/package/agent-config-audit",
+      "category": "backend",
+      "createdAt": "2026-07-28T19:38:20.795Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 63
     },
     {
       "name": "agent-memory-kit",
@@ -8378,6 +8558,18 @@
       "score": 80
     },
     {
+      "name": "gaugestan.js",
+      "version": "1.0.0",
+      "description": "Dependency-free, extensible SVG gauge instruments for browsers, React, Laravel, and modern web applications.",
+      "license": "MIT",
+      "repository": "https://github.com/kasperikoski/Gaugestan.js",
+      "npmUrl": "https://www.npmjs.com/package/gaugestan.js",
+      "category": "frontend",
+      "createdAt": "2026-07-28T19:52:27.483Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 90
+    },
+    {
       "name": "gemini-notebook-mcp",
       "version": "2.0.0",
       "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
@@ -9542,6 +9734,18 @@
       "score": 73
     },
     {
+      "name": "mcp-vibelens",
+      "version": "1.0.0",
+      "description": "VibeLens — an MCP server that gives AI coding assistants eyes on localhost: screenshots, console errors, and a token-optimized DOM snapshot.",
+      "license": "MIT",
+      "repository": "https://github.com/soumyachk101/VibeLens",
+      "npmUrl": "https://www.npmjs.com/package/mcp-vibelens",
+      "category": "testing",
+      "createdAt": "2026-07-28T19:11:41.341Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 94
+    },
+    {
       "name": "mcpfy-sdk",
       "version": "0.1.0",
       "description": "Minimal TypeScript SDK for building and consuming MCP tools, prompts, resources, and UI widgets (MCP-UI, MCP Apps, Apps SDK).",
@@ -9938,6 +10142,18 @@
       "score": 86
     },
     {
+      "name": "nestjs-graphql-regenerate",
+      "version": "0.1.0",
+      "description": "Regenerate a NestJS code-first GraphQL schema without booting the app",
+      "license": "MIT",
+      "repository": "https://github.com/quinnjr/nestjs-cli-graphql-regeneration",
+      "npmUrl": "https://www.npmjs.com/package/nestjs-graphql-regenerate",
+      "category": "backend",
+      "createdAt": "2026-07-28T20:30:51.488Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 70
+    },
+    {
       "name": "next-blogpanel",
       "version": "1.0.0",
       "description": "A drop-in blog engine for Next.js — admin panel, block editor, SEO, and media, all backed by your own MongoDB.",
@@ -10116,6 +10332,18 @@
       "createdAt": "2026-07-26T13:16:23.784Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "npm-audit-html-report",
+      "version": "1.0.0",
+      "description": "Generate modern interactive HTML security reports from npm audit output",
+      "license": "MIT",
+      "repository": "https://github.com/alp148/npm-audit-html-report",
+      "npmUrl": "https://www.npmjs.com/package/npm-audit-html-report",
+      "category": "cli",
+      "createdAt": "2026-07-28T20:49:49.536Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 69
     },
     {
       "name": "nsap-address",
@@ -10332,6 +10560,18 @@
       "createdAt": "2026-07-26T07:44:16.779Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 78
+    },
+    {
+      "name": "papercade",
+      "version": "0.2.0",
+      "description": "A pixel × hand-drawn design library. NES.css × Excalidraw, with a character in it.",
+      "license": "MIT",
+      "repository": "https://github.com/anandparth/papercade",
+      "npmUrl": "https://www.npmjs.com/package/papercade",
+      "category": "frontend",
+      "createdAt": "2026-07-28T14:56:17.112Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 70
     },
     {
       "name": "paperpony",
@@ -10634,6 +10874,18 @@
       "score": 66
     },
     {
+      "name": "pointy-feedback-cli",
+      "version": "1.0.1",
+      "description": "One-command installation tool for Pointy Visual Feedback Widget",
+      "license": "MIT",
+      "repository": "https://github.com/pointy/cli",
+      "npmUrl": "https://www.npmjs.com/package/pointy-feedback-cli",
+      "category": "cli",
+      "createdAt": "2026-07-28T20:36:46.072Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 78
+    },
+    {
       "name": "polish-statutory-interest",
       "version": "0.1.0",
       "description": "Zero-dependency calculation of Polish statutory late-payment interest, segmented across NBP reference-rate changes and half-year commercial rates.",
@@ -10730,6 +10982,18 @@
       "score": 76
     },
     {
+      "name": "prettier-plugin-auto-sort-imports",
+      "version": "1.1.0",
+      "description": "Zero-config Prettier plugin that sorts and groups imports with blank lines between groups. Discovers your tsconfig/jsconfig path aliases automatically - no regex configuration. Works with TypeScript and JavaScript, frontend and backend.",
+      "license": "MIT",
+      "repository": "https://github.com/crmapache/prettier-plugin-auto-sort-imports",
+      "npmUrl": "https://www.npmjs.com/package/prettier-plugin-auto-sort-imports",
+      "category": "frontend",
+      "createdAt": "2026-07-28T19:38:35.976Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 100
+    },
+    {
       "name": "project-brain-protocol",
       "version": "1.0.0",
       "description": "Lightweight, cross-agent second-brain protocol for vibe-coded projects. Automatically maintained by AI coding agents.",
@@ -10754,6 +11018,18 @@
       "score": 100
     },
     {
+      "name": "proveml",
+      "version": "1.0.0",
+      "description": "Deterministic claim-level verification for AI-generated text with Markdown-native inline markup.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ShaneDeconinck/proveml",
+      "npmUrl": "https://www.npmjs.com/package/proveml",
+      "category": "utilities",
+      "createdAt": "2026-07-28T19:38:25.326Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 83
+    },
+    {
       "name": "qa-engineer",
       "version": "0.9.1",
       "description": "A vendor-neutral Agent Skills pack that teaches AI coding agents to work like senior QA automation engineers.",
@@ -10776,6 +11052,18 @@
       "createdAt": "2026-07-27T09:11:08.034Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 72
+    },
+    {
+      "name": "quick-response-core",
+      "version": "1.3.0",
+      "description": "Framework-agnostic QR code generator — pure functions that return SVG paths (or a full SVG string) with customizable module shapes, styled finder patterns and a logo knockout. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/rfoel/react-quick-response",
+      "npmUrl": "https://www.npmjs.com/package/quick-response-core",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T20:50:29.985Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 96
     },
     {
       "name": "r-tour-guide",
@@ -11640,6 +11928,18 @@
       "createdAt": "2026-07-26T03:06:35.417Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 94
+    },
+    {
+      "name": "stateset-nsr-mcp",
+      "version": "0.7.2",
+      "description": "MCP server exposing the StateSet NSR neuro-symbolic reasoning API — verified decisions with machine-checkable proofs, as agent-native tools.",
+      "license": "MIT",
+      "repository": "https://github.com/stateset/stateset-nsr",
+      "npmUrl": "https://www.npmjs.com/package/stateset-nsr-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T19:29:28.387Z",
+      "discoveredAt": "2026-07-28T21:00:50.444Z",
+      "score": 66
     },
     {
       "name": "steledb",
