@@ -1034,6 +1034,18 @@
       "score": 57
     },
     {
+      "name": "@crisphive/mcp",
+      "version": "2.0.0",
+      "description": "Crisphive MCP server (stdio) — agentic scheduling & booking for field service. 43 tools over the Crisphive Developer API /v1.",
+      "license": "MIT",
+      "repository": "https://github.com/crisphive/crisphive-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40crisphive%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T03:50:04.530Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 83
+    },
+    {
       "name": "@cutedyno/node",
       "version": "1.1.0",
       "description": "Official Node.js client for the CuteDyno API. Publish to social platforms on behalf of your own customers.",
@@ -1584,6 +1596,18 @@
       "createdAt": "2026-07-25T18:47:22.440Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 100
+    },
+    {
+      "name": "@fish59fish/dynamic-workflows",
+      "version": "0.1.0",
+      "description": "Portable Claude-Code-style dynamic workflows for Pi, Codex, and Claude Code with a resumable CLI runtime, model routing, durable agent I/O, usage accounting, worktree isolation, and live UI.",
+      "license": "MIT",
+      "repository": "https://github.com/fish0710/dynamic-workflows",
+      "npmUrl": "https://www.npmjs.com/package/%40fish59fish%2Fdynamic-workflows",
+      "category": "cli",
+      "createdAt": "2026-07-28T03:53:10.296Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 89
     },
     {
       "name": "@flefebvre/prisma-factorio",
@@ -2378,6 +2402,18 @@
       "score": 68
     },
     {
+      "name": "@haoking/opencvjs",
+      "version": "1.0.0",
+      "description": "OpenCV for JavaScript with extended Mat operations",
+      "license": "MIT",
+      "repository": "https://github.com/haoking/opencvjs",
+      "npmUrl": "https://www.npmjs.com/package/%40haoking%2Fopencvjs",
+      "category": "utilities",
+      "createdAt": "2026-07-28T04:50:25.041Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 73
+    },
+    {
       "name": "@harrify/whatsapp",
       "version": "1.0.0",
       "description": "Lightweight TypeScript SDK for the WhatsApp Cloud API. Discord.js-style events, rich message objects, zero dependencies.",
@@ -2520,6 +2556,18 @@
       "createdAt": "2026-07-27T04:16:25.231Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 79
+    },
+    {
+      "name": "@hybridlabor-api/heimdall-token-saver",
+      "version": "2.6.3",
+      "description": "Ultra-fast context compression engine for CLI tool outputs in AI agent workflows.",
+      "license": "ISC",
+      "repository": "https://github.com/hybridlabor-api/heimdall-token-saver",
+      "npmUrl": "https://www.npmjs.com/package/%40hybridlabor-api%2Fheimdall-token-saver",
+      "category": "backend",
+      "createdAt": "2026-07-28T02:22:03.754Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 68
     },
     {
       "name": "@hyphen_solution/cli",
@@ -2976,6 +3024,18 @@
       "createdAt": "2026-07-26T02:04:37.900Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 71
+    },
+    {
+      "name": "@luxfi/bridge",
+      "version": "1.0.7",
+      "description": "Lux Bridge SDK — embed bridge.lux.network into any host application",
+      "license": "MIT",
+      "repository": "https://github.com/luxfi/bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40luxfi%2Fbridge",
+      "category": "frontend",
+      "createdAt": "2026-07-28T02:25:26.426Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 74
     },
     {
       "name": "@mailkite/better-auth",
@@ -4274,6 +4334,42 @@
       "score": 65
     },
     {
+      "name": "@send-broadcast/sdk",
+      "version": "0.1.0",
+      "description": "Node/TypeScript client for the Broadcast email platform. Subscribers, sequences, broadcasts, segments, templates, autopilot, webhooks, and transactional email. Works with any Broadcast instance.",
+      "license": "MIT",
+      "repository": "https://github.com/send-broadcast/broadcast-node",
+      "npmUrl": "https://www.npmjs.com/package/%40send-broadcast%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-07-28T02:41:20.020Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 81
+    },
+    {
+      "name": "@sendgo/nestjs",
+      "version": "1.0.0",
+      "description": "Sendgo NestJS 모듈 — 카카오 알림톡/친구톡, SMS/LMS/MMS (@sendgo/node 확장)",
+      "license": "MIT",
+      "repository": "https://github.com/send-go/nestjs",
+      "npmUrl": "https://www.npmjs.com/package/%40sendgo%2Fnestjs",
+      "category": "backend",
+      "createdAt": "2026-07-28T04:33:49.636Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 70
+    },
+    {
+      "name": "@sendgo/node",
+      "version": "1.0.1",
+      "description": "Sendgo Node.js SDK — 카카오 알림톡/친구톡, SMS/LMS/MMS",
+      "license": "MIT",
+      "repository": "https://github.com/sendgo-dev/sendgo-node",
+      "npmUrl": "https://www.npmjs.com/package/%40sendgo%2Fnode",
+      "category": "utilities",
+      "createdAt": "2026-07-28T04:33:10.407Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 78
+    },
+    {
       "name": "@shiranui_isuzu/unity-mcp",
       "version": "3.1.0",
       "description": "MCP server and CLI for driving the Unity Editor. Pairs with the jp.shiranui-isuzu.unity-mcp Unity package.",
@@ -4752,6 +4848,18 @@
       "createdAt": "2026-07-26T22:37:27.262Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 58
+    },
+    {
+      "name": "@tawandotorg/direct-answers",
+      "version": "2.0.0",
+      "description": "Claude Code plugin for verdict-first answers: position before reasoning, labeled facts vs assumptions, and an audit trail for assumptions inherited from project context.",
+      "license": "MIT",
+      "repository": "https://github.com/tawanorg/direct-answers",
+      "npmUrl": "https://www.npmjs.com/package/%40tawandotorg%2Fdirect-answers",
+      "category": "utilities",
+      "createdAt": "2026-07-28T04:41:55.042Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 74
     },
     {
       "name": "@tengxiaohtx/connect",
@@ -5534,6 +5642,18 @@
       "score": 100
     },
     {
+      "name": "agentlongevity",
+      "version": "0.1.0",
+      "description": "Zero-dependency CLI + stdio MCP server for the Agent Longevity Institute (ALI) — content-seal a session transcript (sha256), save it locally, and/or checkpoint it to agentlongevity.com before a compaction or model swap.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dynamicxperts/sudoself",
+      "npmUrl": "https://www.npmjs.com/package/agentlongevity",
+      "category": "backend",
+      "createdAt": "2026-07-28T03:02:33.394Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 90
+    },
+    {
       "name": "ai-commander",
       "version": "0.1.0",
       "description": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ آللَّهُمَّ صَلِّ  وَ سَلِّم عَلَى سَيِّدِنَا مُحَمَّدٍ وَ عَلَى آلِ سَيِّدِنَا مُحَمَّد | Kanban-based task orchestrator untuk AI coding agent (Claude Code & OpenCode), dengan dukungan multi-repository, mode bypass-permi",
@@ -5640,6 +5760,18 @@
       "createdAt": "2026-07-27T10:39:09.929Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 72
+    },
+    {
+      "name": "ascii-overlay",
+      "version": "0.1.0",
+      "description": "Overlay ASCII art on images and video - characters, braille and dithered modes, canvas and SVG, with no runtime dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/Lucas20000903/ascii-overlay",
+      "npmUrl": "https://www.npmjs.com/package/ascii-overlay",
+      "category": "frontend",
+      "createdAt": "2026-07-28T04:50:32.533Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 82
     },
     {
       "name": "ask-trivium",
@@ -5882,6 +6014,18 @@
       "score": 57
     },
     {
+      "name": "browser-dvr-mcp",
+      "version": "0.1.0",
+      "description": "A DVR and time-travel debugger for AI browser agents (MCP). Records every session — screen, DOM, network, console, storage — with provenance, so an agent can rewind to the moment it broke and see exactly what happened.",
+      "license": "MIT",
+      "repository": "https://github.com/funkyfunc/browser-dvr-mcp",
+      "npmUrl": "https://www.npmjs.com/package/browser-dvr-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-28T03:20:29.627Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 83
+    },
+    {
       "name": "buildloop",
       "version": "0.1.0",
       "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
@@ -5952,6 +6096,18 @@
       "createdAt": "2026-07-27T13:28:22.487Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 90
+    },
+    {
+      "name": "cdk-github-microvm-runners",
+      "version": "0.1.1",
+      "description": "CDK construct for running GitHub Actions jobs on AWS Lambda MicroVMs, with one ephemeral runner per job.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/schuettc/cdk-github-microvm-runners",
+      "npmUrl": "https://www.npmjs.com/package/cdk-github-microvm-runners",
+      "category": "devops",
+      "createdAt": "2026-07-28T02:22:07.005Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 80
     },
     {
       "name": "cgraph",
@@ -6290,6 +6446,18 @@
       "score": 79
     },
     {
+      "name": "csv-grep-rinse",
+      "version": "1.0.0",
+      "description": "Applies a JSON rule set (regex replace, upper/lower/title-case) to CSV or text files, streaming quote-aware CSV records into pipe-delimited output by default — or any delimiter via --delimiter. Handles multi-line quoted fields, globbing, batch/separate-fi",
+      "license": "MIT",
+      "repository": "https://github.com/dgaidula/csv-grep-rinse",
+      "npmUrl": "https://www.npmjs.com/package/csv-grep-rinse",
+      "category": "data",
+      "createdAt": "2026-07-28T02:16:51.946Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 100
+    },
+    {
       "name": "cubest",
       "version": "0.1.0",
       "description": "Single-pass OLAP aggregator over any text stream (code, logs, CSV, JSONL, XML, SDD artefacts) → 12 output formats including ECharts HTML. Token-cheap alternative to grep+cat chains for LLM agents. npm wrapper — installs Python cubest via pipx or delegates",
@@ -6300,6 +6468,18 @@
       "createdAt": "2026-07-25T16:30:25.909Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 87
+    },
+    {
+      "name": "cupola",
+      "version": "0.1.0",
+      "description": "An ambient, glanceable view of your live Claude Code sessions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cupola-hq/cupola",
+      "npmUrl": "https://www.npmjs.com/package/cupola",
+      "category": "cli",
+      "createdAt": "2026-07-28T02:57:45.565Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 68
     },
     {
       "name": "cursor-token-saver",
@@ -6492,6 +6672,18 @@
       "createdAt": "2026-07-27T23:48:27.855Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 84
+    },
+    {
+      "name": "elixir-system",
+      "version": "0.1.0",
+      "description": "Elixir/OTP's runtime model on web standards: Result, Task, Stream, Supervisor and distributed Node — one failure vocabulary, zero runtime dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/izelnakri/elixir-system",
+      "npmUrl": "https://www.npmjs.com/package/elixir-system",
+      "category": "frontend",
+      "createdAt": "2026-07-28T03:19:10.341Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 70
     },
     {
       "name": "eliza-plugin-tnt-risk-api",
@@ -7140,6 +7332,18 @@
       "createdAt": "2026-07-27T23:25:47.178Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 67
+    },
+    {
+      "name": "index-squarespace",
+      "version": "0.1.0",
+      "description": "Build, patch, and verify LZString-compressed static-index files for the Squarespace Custom Filter plugin's customIndexUrl, so a large filterable directory loads from one cached file instead of hundreds of paginated live requests",
+      "license": "MIT",
+      "repository": "https://github.com/dgaidula/index-squarespace",
+      "npmUrl": "https://www.npmjs.com/package/index-squarespace",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T02:16:58.453Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 84
     },
     {
       "name": "ineedcruise",
@@ -7814,6 +8018,18 @@
       "score": 77
     },
     {
+      "name": "mesh-connector",
+      "version": "1.0.0",
+      "description": "The MeshMarket CLI — sign up, discover, call, and list capabilities on the agent-to-agent exchange from the command line. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/RightOnPar-LLC/mesh-connector",
+      "npmUrl": "https://www.npmjs.com/package/mesh-connector",
+      "category": "cli",
+      "createdAt": "2026-07-28T01:56:56.760Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 79
+    },
+    {
       "name": "mfe-doctor",
       "version": "0.1.0",
       "description": "Detect Module Federation misconfigurations before they hit production",
@@ -8462,6 +8678,18 @@
       "score": 53
     },
     {
+      "name": "pi-doppelclaude",
+      "version": "0.7.0",
+      "description": "Pi provider that runs your Claude Code subscription as pi models via the Claude Agent SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/thurstonsand/pi-doppelclaude",
+      "npmUrl": "https://www.npmjs.com/package/pi-doppelclaude",
+      "category": "utilities",
+      "createdAt": "2026-07-28T04:55:26.883Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 69
+    },
+    {
       "name": "pi-glean",
       "version": "0.1.0",
       "description": "Zero-config web search and URL fetching for pi — works with no API keys, and uses your ChatGPT Plus/Pro or xAI subscription for higher-quality answers when available. Plus GitHub repos, PDFs, YouTube, and video frames.",
@@ -8654,6 +8882,18 @@
       "score": 64
     },
     {
+      "name": "postcss-animate-kit",
+      "version": "1.0.2",
+      "description": "PostCSS plugin for processing animate.css with custom animation options - adds vendor prefixes and injects CSS variables",
+      "license": "MIT",
+      "repository": "https://github.com/dummyreactdev/postcss-animate-kit",
+      "npmUrl": "https://www.npmjs.com/package/postcss-animate-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-28T04:08:12.073Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 70
+    },
+    {
       "name": "pouch-rwa",
       "version": "0.1.0",
       "description": "pouch: an RWA trading wallet for AI agents on Robinhood Chain. SDK + MCP server with built-in guardrails for autonomous tokenized-stock trading.",
@@ -8664,6 +8904,18 @@
       "createdAt": "2026-07-27T01:55:38.827Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 60
+    },
+    {
+      "name": "pptx-wasm",
+      "version": "0.1.0",
+      "description": "Browser-native, read-only .pptx renderer. Rust/WASM core, canvas output, no server-side conversion and nothing uploaded.",
+      "license": "MIT",
+      "repository": "https://github.com/prahack/pptx-wasm",
+      "npmUrl": "https://www.npmjs.com/package/pptx-wasm",
+      "category": "frontend",
+      "createdAt": "2026-07-28T02:58:07.569Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 74
     },
     {
       "name": "presentator",
@@ -9158,6 +9410,18 @@
       "score": 79
     },
     {
+      "name": "seed-squarespace",
+      "version": "1.0.0",
+      "description": "Generate WordPress WXR files that reliably import into Squarespace — bulk-load structured data as a Squarespace blog",
+      "license": "MIT",
+      "repository": "https://github.com/dgaidula/seed-squarespace",
+      "npmUrl": "https://www.npmjs.com/package/seed-squarespace",
+      "category": "data",
+      "createdAt": "2026-07-28T02:16:56.330Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 89
+    },
+    {
       "name": "selvedge-mcp",
       "version": "0.3.9",
       "description": "Long-term memory for AI-coded codebases — a `git blame` for AI agents, for the *why*, not just which line which model touched. Captured live, by the agent, as the change happens. (npx shim for the Python `selvedge` MCP server on PyPI.)",
@@ -9278,6 +9542,18 @@
       "score": 54
     },
     {
+      "name": "signalk-performance-monitor",
+      "version": "1.0.0",
+      "description": "Always-on event-loop metrics and on-demand CPU/allocation profiling for Signal K server",
+      "license": "MIT",
+      "repository": "https://github.com/hoeken/signalk-performance-monitor",
+      "npmUrl": "https://www.npmjs.com/package/signalk-performance-monitor",
+      "category": "backend",
+      "createdAt": "2026-07-28T04:39:38.914Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 73
+    },
+    {
       "name": "sk-nodeexpress",
       "version": "1.0.1",
       "description": "Production-ready Node.js & TypeScript Express boilerplate code generator with Authentication, Database, Security & Best Practices pre-configured.",
@@ -9336,6 +9612,18 @@
       "createdAt": "2026-07-26T06:10:27.581Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 64
+    },
+    {
+      "name": "sort-large-csv",
+      "version": "1.0.0",
+      "description": "External merge sort for CSVs larger than memory — sorts by column, optional split-by-value output, and global exact-row dedup.",
+      "license": "MIT",
+      "repository": "https://github.com/dgaidula/sort-large-csv",
+      "npmUrl": "https://www.npmjs.com/package/sort-large-csv",
+      "category": "data",
+      "createdAt": "2026-07-28T02:16:54.085Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 68
     },
     {
       "name": "sphere-visual-lab",
@@ -10020,6 +10308,18 @@
       "createdAt": "2026-07-26T06:44:57.798Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 67
+    },
+    {
+      "name": "video-studio-mcp",
+      "version": "2.1.0",
+      "description": "MCP server that builds narrated 9:16 documentary videos locally: Wikimedia Commons images + ElevenLabs voiceover + Remotion render.",
+      "license": "MIT",
+      "repository": "https://github.com/sexybells/video-studio-mcp",
+      "npmUrl": "https://www.npmjs.com/package/video-studio-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T04:13:04.653Z",
+      "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 83
     },
     {
       "name": "vite-plugin-grundlage",
