@@ -1,27 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122004315,
-  "lastRunAt": "2026-07-28T16:24:48.814Z",
+  "lastSequence": 122024699,
+  "lastRunAt": "2026-07-28T17:49:24.596Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nuwax-ai/mcp-stdio-proxy",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@whiskeyjack-net/icon-stack-core",
+      "name": "@evilbunny/node-red-contrib-zigbee2mqtt",
       "attempts": 1
     },
     {
-      "name": "@whiskeyjack-net/icon-stack",
-      "attempts": 1
-    },
-    {
-      "name": "@masselabs/openstoa-cli",
-      "attempts": 1
-    },
-    {
-      "name": "@aefree/pi-package-references",
+      "name": "@embodied/memo",
       "attempts": 1
     }
   ]

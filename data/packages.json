@@ -1466,6 +1466,18 @@
       "score": 72
     },
     {
+      "name": "@dioschub/client",
+      "version": "0.1.2",
+      "description": "Client SDK for the DioscHub Assistant Kit — script loader and typed command API (createDiosc).",
+      "license": "MIT",
+      "repository": "https://github.com/intrigsoft/dioschub-client",
+      "npmUrl": "https://www.npmjs.com/package/%40dioschub%2Fclient",
+      "category": "backend",
+      "createdAt": "2026-07-28T16:41:03.717Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 73
+    },
+    {
       "name": "@divergent.dev/connect",
       "version": "0.5.0",
       "description": "Node.js client library for PureSMS and Divergent Connect, an email and SMS platform for developers",
@@ -2114,6 +2126,18 @@
       "score": 46
     },
     {
+      "name": "@galaxy-foundry/kind-schema",
+      "version": "0.0.0",
+      "description": "The shared kind machinery for Foundry-pattern instances — the KindDefinition contract, per-kind and discriminated-union assembly, and path→kind collection routing. The kinds themselves stay per-instance.",
+      "license": "MIT",
+      "repository": "https://github.com/jmchilton/foundry-lib",
+      "npmUrl": "https://www.npmjs.com/package/%40galaxy-foundry%2Fkind-schema",
+      "category": "utilities",
+      "createdAt": "2026-07-28T17:40:23.651Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 63
+    },
+    {
       "name": "@georgedong32/pi-review",
       "version": "0.3.1",
       "description": "Pi extension for fan-out code review: N parallel reviewer subagents + a cheap-model gate",
@@ -2160,6 +2184,18 @@
       "createdAt": "2026-07-25T14:48:20.159Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 62
+    },
+    {
+      "name": "@getdashfy/ext-market-live",
+      "version": "0.1.0",
+      "description": "Market Live extension for Dashfy - Real-time prices from the Pyth Network oracle",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/dashfy/dashfy-ext-market-live",
+      "npmUrl": "https://www.npmjs.com/package/%40getdashfy%2Fext-market-live",
+      "category": "utilities",
+      "createdAt": "2026-07-28T17:08:09.911Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 78
     },
     {
       "name": "@getnarro/cli",
@@ -3242,6 +3278,18 @@
       "score": 69
     },
     {
+      "name": "@jenfang/ui-agent",
+      "version": "0.1.0",
+      "description": "Live design-token editing and layout auditing in the browser, with write-back to source and hand-off to a coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/thejenniferfang/ui-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40jenfang%2Fui-agent",
+      "category": "frontend",
+      "createdAt": "2026-07-28T16:49:57.217Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 75
+    },
+    {
       "name": "@jjanczur/tyran",
       "version": "0.1.0",
       "description": "Command-line scripts for the Tyran task conductor (doctor, journal, schema, and repo tooling) for CI and terminals outside Claude Code. Installing this package does NOT install the Claude Code plugin — add that separately with `/plugin marketplace add jja",
@@ -3636,6 +3684,30 @@
       "createdAt": "2026-07-28T16:23:03.225Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 68
+    },
+    {
+      "name": "@masselabs/openstoa-cli",
+      "version": "0.1.2",
+      "description": "OpenStoa CLI (`openstoa`) — REST + E2EE chat for AI agents and humans, over @masselabs/openstoa. Shares one command core with the OpenStoa MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/zkproofport/openstoa",
+      "npmUrl": "https://www.npmjs.com/package/%40masselabs%2Fopenstoa-cli",
+      "category": "backend",
+      "createdAt": "2026-07-28T16:23:07.904Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 65
+    },
+    {
+      "name": "@masselabs/openstoa-mcp",
+      "version": "0.1.2",
+      "description": "OpenStoa MCP server (`openstoa-mcp`) — stdio MCP exposing the same REST + E2EE chat operations as the CLI, over the shared @masselabs/openstoa-commands core.",
+      "license": "MIT",
+      "repository": "https://github.com/zkproofport/openstoa",
+      "npmUrl": "https://www.npmjs.com/package/%40masselabs%2Fopenstoa-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T16:22:57.059Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 65
     },
     {
       "name": "@masterdeepak15/teamhub-cli",
@@ -4272,6 +4344,18 @@
       "createdAt": "2026-07-28T15:38:27.173Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 76
+    },
+    {
+      "name": "@opitacode/dark-memory-mcp",
+      "version": "2.5.0",
+      "description": "dark-memory-mcp cross-platform wrapper Ã¢â‚¬â€ installs the right binary for your OS via optionalDependencies. Persistent memory + vibe-loop engine + agent governance for AI agents (MCP server).",
+      "license": "MIT",
+      "repository": "https://github.com/Opita-Code/dark-memory-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40opitacode%2Fdark-memory-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T17:32:05.431Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 71
     },
     {
       "name": "@otok/mcp",
@@ -5126,6 +5210,18 @@
       "score": 76
     },
     {
+      "name": "@smounters/ui",
+      "version": "2.0.3",
+      "description": "HeroUI-based design layer: app shell with a resizable sidebar, a data table with per-user column settings, form drawer",
+      "license": "MIT",
+      "repository": "https://github.com/smounters/smounters-public",
+      "npmUrl": "https://www.npmjs.com/package/%40smounters%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-07-28T16:27:25.722Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 64
+    },
+    {
       "name": "@sonn-audio/node-upnp",
       "version": "0.1.0",
       "description": "UPnP AV toolkit: SSDP, SOAP, DIDL-Lite, GENA, plus a MediaRenderer server, a control-point client, and a MediaServer framework. Protocol only — inject your own content and playback.",
@@ -5304,6 +5400,18 @@
       "createdAt": "2026-07-25T23:08:54.501Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 58
+    },
+    {
+      "name": "@stream-vessel/ng-ga4",
+      "version": "0.1.0",
+      "description": "Angular library for Google Analytics 4 via Measurement Protocol, with support for Angular web apps and Chrome extensions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/streamvessel/ng-ga4",
+      "npmUrl": "https://www.npmjs.com/package/%40stream-vessel%2Fng-ga4",
+      "category": "frontend",
+      "createdAt": "2026-07-28T16:25:47.323Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 61
     },
     {
       "name": "@stylusnexus/agent-plugins",
@@ -5796,6 +5904,18 @@
       "createdAt": "2026-07-28T01:04:44.632Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 66
+    },
+    {
+      "name": "@uuon-foundation/pythagorean-graph-engine",
+      "version": "1.0.0",
+      "description": "Interactive 3D Pythagorean tree engine. Recursive topology with F=(P,E,R,C) procedural compression. Runs in browser, no install. UUON Foundation.",
+      "license": "LicenseRef-USAL-1.0",
+      "repository": "https://github.com/UUON-Foundation/pythagorean-graph-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40uuon-foundation%2Fpythagorean-graph-engine",
+      "category": "frontend",
+      "createdAt": "2026-07-28T16:31:51.440Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 60
     },
     {
       "name": "@vaduno/revocation",
@@ -6674,6 +6794,18 @@
       "score": 93
     },
     {
+      "name": "bastok",
+      "version": "1.0.0",
+      "description": "Convert BASIC ASCII text to tokenized binaries (.prg/.bas) and back for the 6502 BIOS BASIC",
+      "license": "MIT",
+      "repository": "https://github.com/acwright/bastok",
+      "npmUrl": "https://www.npmjs.com/package/bastok",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T16:33:18.107Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 84
+    },
+    {
       "name": "beeengine",
       "version": "2.0.0",
       "description": "Motore di gioco 2D modulare per HTML5 Canvas: fisica platformer, scene, input, asset, collisioni e HUD.",
@@ -6842,6 +6974,18 @@
       "score": 83
     },
     {
+      "name": "browser-inspect-cli",
+      "version": "1.0.0",
+      "description": "CLI tools for inspecting a running Chrome via CDP — console, network, DOM, screenshots. Built for AI-assisted frontend development.",
+      "license": "MIT",
+      "repository": "https://github.com/ItSuhsko14/browser-cli",
+      "npmUrl": "https://www.npmjs.com/package/browser-inspect-cli",
+      "category": "frontend",
+      "createdAt": "2026-07-28T16:56:47.381Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 72
+    },
+    {
       "name": "buildloop",
       "version": "0.1.0",
       "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
@@ -6998,6 +7142,18 @@
       "score": 81
     },
     {
+      "name": "chocodata",
+      "version": "0.1.0",
+      "description": "Official Node.js/TypeScript SDK for the Chocodata web scraping API. Typed methods for Amazon, Walmart, eBay, Bing, TikTok, YouTube and Instagram, plus a generic client for all 499 endpoints.",
+      "license": "MIT",
+      "repository": "https://github.com/ChocoData-com/chocodata-node",
+      "npmUrl": "https://www.npmjs.com/package/chocodata",
+      "category": "backend",
+      "createdAt": "2026-07-28T17:46:59.548Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 65
+    },
+    {
       "name": "chromafix-a11y",
       "version": "0.1.0",
       "description": "Tiny, framework-agnostic colorblind-safe palette switcher: a floating accessibility button that lets visitors pick a color-vision-deficiency type and swaps your site's CSS-variable colors for a distinguishable palette. Zero runtime dependencies.",
@@ -7140,6 +7296,18 @@
       "createdAt": "2026-07-28T00:15:17.522Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 88
+    },
+    {
+      "name": "cli-memory",
+      "version": "1.0.0",
+      "description": "Local-first, private long-term memory for AI agents. Everything runs on your machine — data never leaves your disk. Backed by LanceDB and Ollama embeddings",
+      "license": "MIT",
+      "repository": "https://github.com/johnnywang1994/cli-memory",
+      "npmUrl": "https://www.npmjs.com/package/cli-memory",
+      "category": "data",
+      "createdAt": "2026-07-28T16:50:02.402Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 66
     },
     {
       "name": "clickable-path",
@@ -7452,6 +7620,18 @@
       "createdAt": "2026-07-28T11:50:56.375Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 85
+    },
+    {
+      "name": "ddg-kit",
+      "version": "0.1.0",
+      "description": "Community-maintained DuckDuckGo Web and News client for duck-duck-scrape consumers.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lennney/ddg-kit",
+      "npmUrl": "https://www.npmjs.com/package/ddg-kit",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T17:22:43.964Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 71
     },
     {
       "name": "decivo-rescue",
@@ -8342,6 +8522,18 @@
       "score": 70
     },
     {
+      "name": "huischeck",
+      "version": "1.0.0",
+      "description": "Paste a Dutch house listing, get a scored due-diligence report: commute gates, erfpacht, neighbourhood safety, amenities, mortgage affordability and a condition read from the photos. Self-hosted, web dashboard included.",
+      "license": "MIT",
+      "repository": "https://github.com/OmarNassar1127/huischeck-nl",
+      "npmUrl": "https://www.npmjs.com/package/huischeck",
+      "category": "utilities",
+      "createdAt": "2026-07-28T17:24:24.491Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 95
+    },
+    {
       "name": "hypen-engine",
       "version": "0.6.1",
       "description": "A Rust implementation of the Hypen engine",
@@ -8412,6 +8604,18 @@
       "createdAt": "2026-07-28T11:12:21.156Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 81
+    },
+    {
+      "name": "insomnia-plugin-collection-linter",
+      "version": "1.0.0",
+      "description": "Local-only Insomnia workspace linting: duplicate names, risky URLs, auth query strings, environment hygiene, and redacted reports.",
+      "license": "MIT",
+      "repository": "https://github.com/oliviajohns5/insomnia-plugin-collection-linter",
+      "npmUrl": "https://www.npmjs.com/package/insomnia-plugin-collection-linter",
+      "category": "backend",
+      "createdAt": "2026-07-28T17:38:19.820Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 62
     },
     {
       "name": "iobroker.nut2",
@@ -8666,6 +8870,18 @@
       "score": 94
     },
     {
+      "name": "laravel-forge-readonly-mcp",
+      "version": "0.2.0",
+      "description": "Read-only MCP server for the Laravel Forge API. Cannot deploy, restart, restore or delete anything — by construction.",
+      "license": "MIT",
+      "repository": "https://github.com/brynj-digital/laravel-forge-readonly-mcp",
+      "npmUrl": "https://www.npmjs.com/package/laravel-forge-readonly-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-28T12:33:40.672Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 75
+    },
+    {
       "name": "layerkit",
       "version": "0.1.0",
       "description": "Agent-first multi-vendor data-layer toolkit: install skills/hooks into Codex, Claude Code, Cursor, Copilot, OpenCode, OpenHands; research vendor docs; proposal pipeline; Java-first client output; evals.",
@@ -8868,6 +9084,18 @@
       "createdAt": "2026-07-27T05:26:30.908Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 79
+    },
+    {
+      "name": "magic-docs",
+      "version": "1.0.0",
+      "description": "GSTJ's reusable Fumadocs foundation: site contract, layout and MDX presets, TypeScript API docs, static export helpers, and visual theme.",
+      "license": "MIT",
+      "repository": "https://github.com/GSTJ/magic",
+      "npmUrl": "https://www.npmjs.com/package/magic-docs",
+      "category": "backend",
+      "createdAt": "2026-07-28T16:51:13.599Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 82
     },
     {
       "name": "magic-observability",
@@ -9168,6 +9396,18 @@
       "createdAt": "2026-07-28T01:56:56.760Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 79
+    },
+    {
+      "name": "meta-rayban",
+      "version": "0.0.1",
+      "description": "Plugin for interacting with Meta Rayban glasses",
+      "license": "MIT",
+      "repository": "https://github.com/0xWOLAND/MetaRayban",
+      "npmUrl": "https://www.npmjs.com/package/meta-rayban",
+      "category": "devops",
+      "createdAt": "2026-07-28T16:52:26.106Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 60
     },
     {
       "name": "mf-add-to-shell",
@@ -9878,6 +10118,18 @@
       "score": 82
     },
     {
+      "name": "pgcloak",
+      "version": "0.1.0",
+      "description": "Mask real PII in a Postgres database for safe local development and testing.",
+      "license": "MIT",
+      "repository": "https://github.com/EthanCaudill/pgmask",
+      "npmUrl": "https://www.npmjs.com/package/pgcloak",
+      "category": "testing",
+      "createdAt": "2026-07-28T16:36:31.896Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 73
+    },
+    {
       "name": "phi-leak-guard",
       "version": "0.0.1",
       "description": "Deterministic PHI-leak assertions for LLM output, runnable in your normal test suite. HIPAA Safe Harbor + NHS/UK. No LLM calls, no data leaves your machine.",
@@ -10382,6 +10634,18 @@
       "score": 79
     },
     {
+      "name": "react-native-multi-capture",
+      "version": "0.1.0",
+      "description": "A production-ready multi-capture photo and video camera for React Native",
+      "license": "MIT",
+      "repository": "https://github.com/zhanglei1996/react-native-multi-capture",
+      "npmUrl": "https://www.npmjs.com/package/react-native-multi-capture",
+      "category": "frontend",
+      "createdAt": "2026-07-28T17:13:57.664Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 71
+    },
+    {
       "name": "react-native-observability",
       "version": "0.1.1",
       "description": "Production-grade observability and debugging toolkit for React Native with structured logging, error boundaries, on-device debug panel, and zero forced dependencies.",
@@ -10776,6 +11040,18 @@
       "createdAt": "2026-07-28T02:16:56.330Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 89
+    },
+    {
+      "name": "seedcoherent",
+      "version": "0.0.2",
+      "description": "Schema-aware synthetic data generator. Point it at your Postgres, MySQL, or SQLite schema, get coherent, referentially-correct fake data.",
+      "license": "MIT",
+      "repository": "https://github.com/jajjer/seedcoherent",
+      "npmUrl": "https://www.npmjs.com/package/seedcoherent",
+      "category": "testing",
+      "createdAt": "2026-07-28T17:35:11.689Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 83
     },
     {
       "name": "selvedge-mcp",
@@ -11378,6 +11654,18 @@
       "score": 66
     },
     {
+      "name": "token-lease",
+      "version": "0.1.0",
+      "description": "Reserve variable token budgets before work begins, then commit actual usage or release the lease.",
+      "license": "MIT",
+      "repository": "https://github.com/seoulpro/token-lease",
+      "npmUrl": "https://www.npmjs.com/package/token-lease",
+      "category": "utilities",
+      "createdAt": "2026-07-28T17:23:21.049Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
+      "score": 71
+    },
+    {
       "name": "token-usage-widget",
       "version": "1.0.0",
       "description": "Local Windows corner widget + dashboard for Codex, Cursor, and other AI harness quotas. MIT, localhost-only.",
@@ -11411,6 +11699,18 @@
       "category": "utilities",
       "createdAt": "2026-07-25T20:41:36.364Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
+      "score": 80
+    },
+    {
+      "name": "toris-agent",
+      "version": "0.1.0",
+      "description": "A local-first, multi-agent development harness that turns a goal into planned, executed and verified work — with an evidence receipt for every run.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/torisKR/toris-agent",
+      "npmUrl": "https://www.npmjs.com/package/toris-agent",
+      "category": "cli",
+      "createdAt": "2026-07-28T17:35:50.432Z",
+      "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 80
     },
     {
