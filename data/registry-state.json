@@ -1,35 +1,175 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122231593,
-  "lastRunAt": "2026-07-29T17:06:34.631Z",
+  "lastSequence": 122251170,
+  "lastRunAt": "2026-07-29T19:01:01.137Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@nodebuilder/n8n-nodes-probe4",
-      "attempts": 7
-    },
-    {
-      "name": "@gdwhisper/omniterm-darwin-arm64",
+      "name": "@agent-testkit/server",
       "attempts": 1
     },
     {
-      "name": "@gdwhisper/omniterm-linux-arm64",
+      "name": "@haybarn/ext-encodings-h1-5-5-linux-x64",
       "attempts": 1
     },
     {
-      "name": "@gdwhisper/omniterm-linux-x64",
+      "name": "@haybarn/ext-encodings-h1-5-5-linux-arm64",
       "attempts": 1
     },
     {
-      "name": "@gdwhisper/omniterm-win32-x64",
+      "name": "@haybarn/ext-icu-h1-5-5",
       "attempts": 1
     },
     {
-      "name": "@hectasquare/medusa-plugin-variant-promotions",
+      "name": "@haybarn/ext-aws-h1-5-5",
       "attempts": 1
     },
     {
-      "name": "@bd-gongfu-ai/engineering-nexus",
+      "name": "@haybarn/ext-unity_catalog-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-vss-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-ducklake-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-delta-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-odbc_scanner-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-tpcds-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-fts-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-azure-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-tpch-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-avro-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-autocomplete-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-httpfs-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-mysql_scanner-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-json-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-postgres_scanner-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-parquet-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-sqlsmith-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-waddle-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-excel-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-sqlite_scanner-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-inet-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-iceberg-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-spatial-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-encodings-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-core_functions-h1-5-5",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/angular",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/contract",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@eventually-consistent/cairn-server",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/core",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/design",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/vue",
+      "attempts": 1
+    },
+    {
+      "name": "@responsivejs/react",
+      "attempts": 1
+    },
+    {
+      "name": "@betterpay/sumopod",
+      "attempts": 1
+    },
+    {
+      "name": "@betterpay/doku",
+      "attempts": 1
+    },
+    {
+      "name": "@lionrockjs/worker-cms-plugin-decorator-credits",
       "attempts": 1
     }
   ]

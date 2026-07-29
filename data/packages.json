@@ -506,6 +506,18 @@
       "score": 79
     },
     {
+      "name": "@andreykazanin/teams-mcp",
+      "version": "1.1.0",
+      "description": "Hardened fork of Teams MCP — Microsoft Graph Teams integration for AI assistants",
+      "license": "MIT",
+      "repository": "https://github.com/AK20001701/teams-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40andreykazanin%2Fteams-mcp",
+      "category": "utilities",
+      "createdAt": "2026-07-29T18:49:37.307Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 76
+    },
+    {
       "name": "@angular-libs/socket",
       "version": "0.0.1",
       "description": "A signal-first, lightweight WebSocket client library for Angular applications with offline outbox storage, channel/topic multiplexing, and auto-reconnect.",
@@ -1226,6 +1238,18 @@
       "score": 71
     },
     {
+      "name": "@cenzontle/hilo-mcp",
+      "version": "0.2.0",
+      "description": "Servidor MCP que acompaña la integración con Hilo: contrato de la API, validación de payloads, verificación de webhooks y pruebas contra sandbox.",
+      "license": "MIT",
+      "repository": "https://github.com/cnzontle/hilo-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40cenzontle%2Fhilo-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T18:36:30.735Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 60
+    },
+    {
       "name": "@characteros/nexus-sdk",
       "version": "1.0.0",
       "description": "Open-source Nexus Protocol adapter interface for CharacterOS — build hardware adapters for any social robot platform",
@@ -1670,6 +1694,18 @@
       "score": 83
     },
     {
+      "name": "@crisvsgame/cadence",
+      "version": "1.0.0",
+      "description": "A lightweight TypeScript library for shared requestAnimationFrame timing and lifecycle coordination.",
+      "license": "MIT",
+      "repository": "https://github.com/CRISvsGAME/cadence",
+      "npmUrl": "https://www.npmjs.com/package/%40crisvsgame%2Fcadence",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T18:56:56.334Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 72
+    },
+    {
       "name": "@cutedyno/node",
       "version": "1.1.0",
       "description": "Official Node.js client for the CuteDyno API. Publish to social platforms on behalf of your own customers.",
@@ -1872,6 +1908,18 @@
       "createdAt": "2026-07-27T18:24:25.931Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 75
+    },
+    {
+      "name": "@divine-creative-ministries/bible-cli",
+      "version": "0.1.0",
+      "description": "A Bible study operating system for AI agents and humans: offline CLI + MCP server for passage retrieval, full-text search, Greek/Hebrew word study, morphology search, and canon-wide pattern analysis.",
+      "license": "MIT",
+      "repository": "https://github.com/Divine-Creative-Ministries/bible-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40divine-creative-ministries%2Fbible-cli",
+      "category": "backend",
+      "createdAt": "2026-07-29T18:11:36.650Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 81
     },
     {
       "name": "@dmemo/cli",
@@ -2702,6 +2750,18 @@
       "score": 73
     },
     {
+      "name": "@gabrielion/opnsense-mcp",
+      "version": "0.1.0",
+      "description": "A safety-first MCP server for OPNsense",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/gabrielion/OPNSenseMCP",
+      "npmUrl": "https://www.npmjs.com/package/%40gabrielion%2Fopnsense-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T17:09:48.679Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 63
+    },
+    {
       "name": "@galaxy-foundry/kind-schema",
       "version": "0.0.0",
       "description": "The shared kind machinery for Foundry-pattern instances — the KindDefinition contract, per-kind and discriminated-union assembly, and path→kind collection routing. The kinds themselves stay per-instance.",
@@ -3012,6 +3072,18 @@
       "createdAt": "2026-07-26T11:38:45.986Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/defaultcallbackhandler",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DefaultCallbackHandler (build etherscan-defaultcallbackhandler-d5d82b6a-1785345218740, commit b219bf1, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/defaultcallbackhandler",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdefaultcallbackhandler",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T17:14:03.434Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/dodocp",
@@ -6434,6 +6506,18 @@
       "score": 86
     },
     {
+      "name": "@sidcorp/react-kit",
+      "version": "0.1.0",
+      "description": "Shared tooling config and design tokens for React 19 + Vite + TypeScript SaaS apps — ESLint, Prettier, tsconfig, Vite/Vitest preset and Tailwind 4 tokens in one package.",
+      "license": "MIT",
+      "repository": "https://github.com/SidCorp-co/forge-react-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40sidcorp%2Freact-kit",
+      "category": "testing",
+      "createdAt": "2026-07-29T17:56:23.674Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 61
+    },
+    {
       "name": "@sidebase/streamctl",
       "version": "0.1.0",
       "description": "Sync a versioned configuration payload into your repo (CI workflows, editor settings, lint wrappers) with conflict blocking and drift detection",
@@ -6636,6 +6720,30 @@
       "createdAt": "2026-07-26T14:58:16.410Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 52
+    },
+    {
+      "name": "@source-repo/rpc",
+      "version": "3.0.0",
+      "description": "Source RPC: TypeScript RPC over socket.io and MQTT 5, using classes as contracts shared by client and server",
+      "license": "MIT",
+      "repository": "https://github.com/source-repo/rpc",
+      "npmUrl": "https://www.npmjs.com/package/%40source-repo%2Frpc",
+      "category": "backend",
+      "createdAt": "2026-07-29T17:33:11.995Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 82
+    },
+    {
+      "name": "@source-repo/rpc-cli",
+      "version": "3.0.0",
+      "description": "Source RPC tooling: extract a contract from TypeScript, check it against a build or a live device, and browse, tap, fake, record and bench a live network",
+      "license": "MIT",
+      "repository": "https://github.com/source-repo/rpc",
+      "npmUrl": "https://www.npmjs.com/package/%40source-repo%2Frpc-cli",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T17:34:12.470Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 75
     },
     {
       "name": "@spatialpack/cli",
@@ -7766,6 +7874,18 @@
       "score": 62
     },
     {
+      "name": "@waukeshamakerspace/deploy-kit",
+      "version": "0.2.0",
+      "description": "The house delivery machinery for Waukesha Makerspace services: the Lambda bundler that knows why @fastify/swagger-ui must stay external, the samconfig generator, and the SPA hosting deploys",
+      "license": "MIT",
+      "repository": "https://github.com/WaukeshaMakerspace/service-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40waukeshamakerspace%2Fdeploy-kit",
+      "category": "backend",
+      "createdAt": "2026-07-29T18:51:03.312Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 64
+    },
+    {
       "name": "@weasel-js/core",
       "version": "0.5.0",
       "description": "Domain-agnostic 2D scene graph primitives for React: viewport math, drag/resize/insert/clone interactions, layered canvas rendering.",
@@ -8282,6 +8402,18 @@
       "score": 80
     },
     {
+      "name": "aide-skill-manager",
+      "version": "0.1.4",
+      "description": "Zero-dependency CLI to scan, recommend, deduplicate, audit, and visualize AIDE skills and MCP servers.",
+      "license": "MIT",
+      "repository": "https://github.com/GrubbyLee/skill-manager",
+      "npmUrl": "https://www.npmjs.com/package/aide-skill-manager",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:04:10.464Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 74
+    },
+    {
       "name": "ailogic",
       "version": "0.1.1",
       "description": "Dynamically test whether any value evaluates to truthy or falsy by asking a configured AI model.",
@@ -8340,6 +8472,18 @@
       "createdAt": "2026-07-29T01:17:50.341Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 61
+    },
+    {
+      "name": "amos-ts",
+      "version": "0.4.0",
+      "description": "AMOS Professional interpreter and runtime for the web",
+      "license": "MIT",
+      "repository": "https://github.com/bitplane/amos-ts",
+      "npmUrl": "https://www.npmjs.com/package/amos-ts",
+      "category": "utilities",
+      "createdAt": "2026-07-29T17:17:50.001Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 71
     },
     {
       "name": "anki-xml",
@@ -9338,6 +9482,18 @@
       "score": 75
     },
     {
+      "name": "compliancelayer",
+      "version": "1.0.1",
+      "description": "Official Node.js SDK for the ComplianceLayer security scanning API",
+      "license": "MIT",
+      "repository": "https://github.com/ChainKings/compliancelayer",
+      "npmUrl": "https://www.npmjs.com/package/compliancelayer",
+      "category": "backend",
+      "createdAt": "2026-07-29T18:49:13.571Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 70
+    },
+    {
       "name": "compress-edge",
       "version": "1.0.0",
       "description": "Wrapper ligero sobre la Compression Streams API para comprimir y descomprimir datos con gzip, deflate y deflate-raw.",
@@ -9780,6 +9936,30 @@
       "createdAt": "2026-07-28T06:02:29.897Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 80
+    },
+    {
+      "name": "doucopy",
+      "version": "2.2.0",
+      "description": "Connect AI agents from different accounts (or a small trusted circle) so one can ask the other questions answered from its own memory. CLI, MCP, terminal REPL.",
+      "license": "MIT",
+      "repository": "https://github.com/easypizi/pshpsh",
+      "npmUrl": "https://www.npmjs.com/package/doucopy",
+      "category": "cli",
+      "createdAt": "2026-07-29T17:15:29.138Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 87
+    },
+    {
+      "name": "draggable-scheduler",
+      "version": "0.1.0",
+      "description": "A React grid component for weekly resource scheduling with drag-and-drop, built on dnd-kit.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/c3nk/draggable-scheduler",
+      "npmUrl": "https://www.npmjs.com/package/draggable-scheduler",
+      "category": "frontend",
+      "createdAt": "2026-07-29T18:20:14.707Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 65
     },
     {
       "name": "drawesome",
@@ -10862,6 +11042,18 @@
       "score": 81
     },
     {
+      "name": "inklate",
+      "version": "0.1.0",
+      "description": "Inklate CLI — publish, schedule, preflight, and measure social posts from the terminal. `inklate mcp` runs the same binary as a local stdio MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/inklate/console",
+      "npmUrl": "https://www.npmjs.com/package/inklate",
+      "category": "backend",
+      "createdAt": "2026-07-29T17:13:32.555Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 77
+    },
+    {
       "name": "insomnia-plugin-collection-linter",
       "version": "1.0.0",
       "description": "Local-only Insomnia workspace linting: duplicate names, risky URLs, auth query strings, environment hygiene, and redacted reports.",
@@ -10980,6 +11172,18 @@
       "createdAt": "2026-07-27T22:56:27.184Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 60
+    },
+    {
+      "name": "kalshi-client",
+      "version": "1.0.0",
+      "description": "Production-grade, fully-typed TypeScript SDK for the Kalshi Predictions API (REST + WebSocket) — RSA-PSS request signing, typed resources, automatic retries, rate-limit awareness, and a reconnecting WebSocket client with sequence-gap recovery.",
+      "license": "MIT",
+      "repository": "https://github.com/iamkanishka/kalshi-sdk",
+      "npmUrl": "https://www.npmjs.com/package/kalshi-client",
+      "category": "backend",
+      "createdAt": "2026-07-29T17:51:58.804Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 91
     },
     {
       "name": "kanpai-toast",
@@ -11280,6 +11484,18 @@
       "createdAt": "2026-07-26T08:47:53.625Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 71
+    },
+    {
+      "name": "linkkeeper",
+      "version": "0.1.0",
+      "description": "Permanent URLs for things that move: a redirect table built from a registry you keep in git.",
+      "license": "MIT",
+      "repository": "https://github.com/caiopizzol/linkkeeper",
+      "npmUrl": "https://www.npmjs.com/package/linkkeeper",
+      "category": "devops",
+      "createdAt": "2026-07-29T18:08:38.051Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 65
     },
     {
       "name": "listening-log",
@@ -11688,6 +11904,18 @@
       "createdAt": "2026-07-28T17:59:07.673Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 67
+    },
+    {
+      "name": "mcp-selenium-webdriver",
+      "version": "0.1.0",
+      "description": "MCP Selenium WebDriver Server — AI-powered browser automation with hexagonal architecture. 66 tools for navigation, interaction, screenshots, assertions, cookies, tabs, HTTP API, recording, batch execution, and raw WebDriver access.",
+      "license": "MIT",
+      "repository": "https://github.com/GonzaloRando03/selenium-server-mcp",
+      "npmUrl": "https://www.npmjs.com/package/mcp-selenium-webdriver",
+      "category": "testing",
+      "createdAt": "2026-07-29T18:44:06.774Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 90
     },
     {
       "name": "mcp-surface",
@@ -12806,6 +13034,18 @@
       "score": 76
     },
     {
+      "name": "pi-codex-fast-mode",
+      "version": "0.2.0",
+      "description": "A correctness-first OpenAI Codex Fast mode extension for Pi: explicit, persistent, provider-scoped, and honest about cost and backend downgrades.",
+      "license": "MIT",
+      "repository": "https://github.com/SI-RUI-ZHANG/pi-codex-fast-mode",
+      "npmUrl": "https://www.npmjs.com/package/pi-codex-fast-mode",
+      "category": "backend",
+      "createdAt": "2026-07-29T13:01:50.627Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 72
+    },
+    {
       "name": "pi-doppelclaude",
       "version": "0.7.0",
       "description": "Pi provider that runs your Claude Code subscription as pi models via the Claude Agent SDK.",
@@ -13310,6 +13550,18 @@
       "score": 96
     },
     {
+      "name": "quito-engine",
+      "version": "0.0.0",
+      "description": "Fast OpenSCAD-compatible geometry engine (Quito) compiled to WebAssembly — parse .scad source and render solid 3D meshes in the browser or Node.",
+      "license": "Apache-2.0 OR MIT",
+      "repository": "https://github.com/matthova/faster-scad",
+      "npmUrl": "https://www.npmjs.com/package/quito-engine",
+      "category": "frontend",
+      "createdAt": "2026-07-29T17:14:28.640Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 65
+    },
+    {
       "name": "r-tour-guide",
       "version": "1.0.1",
       "description": "A comprehensive React tour guide library with TypeScript support, works with Next.js",
@@ -13404,6 +13656,30 @@
       "createdAt": "2026-07-26T18:27:11.917Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 72
+    },
+    {
+      "name": "react-native-dither-kit",
+      "version": "0.1.0",
+      "description": "High-performance dithered charts and pixel surfaces for React Native, powered by Skia and Reanimated.",
+      "license": "MIT",
+      "repository": "https://github.com/8times4/react-native-dither-kit",
+      "npmUrl": "https://www.npmjs.com/package/react-native-dither-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-29T18:25:01.735Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 62
+    },
+    {
+      "name": "react-native-fast-litert",
+      "version": "4.0.1",
+      "description": "High-performance LiteRT 2.x inference for React Native, powered by Nitro Modules with GPU acceleration",
+      "license": "MIT",
+      "repository": "https://github.com/pigeonmal/react-native-fast-litert",
+      "npmUrl": "https://www.npmjs.com/package/react-native-fast-litert",
+      "category": "frontend",
+      "createdAt": "2026-07-29T17:09:00.967Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 90
     },
     {
       "name": "react-native-jet-markdown",
@@ -14174,6 +14450,18 @@
       "score": 76
     },
     {
+      "name": "skelkit-docs",
+      "version": "1.0.1",
+      "description": "Convert README.md files into beautiful documentation websites.",
+      "license": "MIT",
+      "repository": "https://github.com/divyanshugupta0/skelkit-docs",
+      "npmUrl": "https://www.npmjs.com/package/skelkit-docs",
+      "category": "utilities",
+      "createdAt": "2026-07-29T15:48:44.355Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 62
+    },
+    {
       "name": "slicekit",
       "version": "0.1.0",
       "description": "Sync marked-up slices of your files against slices published in git repositories.",
@@ -14916,6 +15204,18 @@
       "createdAt": "2026-07-26T04:21:55.755Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 72
+    },
+    {
+      "name": "unit-client",
+      "version": "1.0.0",
+      "description": "Complete, production-grade TypeScript client for the Unit (unit.co) embedded banking API",
+      "license": "MIT",
+      "repository": "https://github.com/iamkanishka/unit-sdk",
+      "npmUrl": "https://www.npmjs.com/package/unit-client",
+      "category": "backend",
+      "createdAt": "2026-07-29T17:45:25.518Z",
+      "discoveredAt": "2026-07-29T19:01:01.137Z",
+      "score": 74
     },
     {
       "name": "unityfs-js",
