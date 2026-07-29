@@ -1058,6 +1058,18 @@
       "score": 72
     },
     {
+      "name": "@capydb/drizzle",
+      "version": "1.3.0",
+      "description": "Official Drizzle ORM helpers for CapyDB - pooled-aware postgres-js clients with safe transaction-pooler defaults.",
+      "license": "MIT",
+      "repository": "https://github.com/capy-base/capydb-drizzle",
+      "npmUrl": "https://www.npmjs.com/package/%40capydb%2Fdrizzle",
+      "category": "backend",
+      "createdAt": "2026-07-29T09:39:48.813Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 71
+    },
+    {
       "name": "@characteros/nexus-sdk",
       "version": "1.0.0",
       "description": "Open-source Nexus Protocol adapter interface for CharacterOS — build hardware adapters for any social robot platform",
@@ -1862,6 +1874,18 @@
       "score": 78
     },
     {
+      "name": "@dnsdoctor/mcp",
+      "version": "1.2.0",
+      "description": "Thin stdio MCP server for DNS Doctor — diagnoses SPF, DMARC, DKIM, MX, DNS, blacklist and expiry over the public DNS Doctor REST API.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dnsdoctor/claude-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40dnsdoctor%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T09:44:55.653Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 73
+    },
+    {
       "name": "@dobroslavlabs/morse",
       "version": "0.0.1",
       "description": "Morse / CW toolkit: encode, decode, timing, WAV, Web Audio play, tap/mic decode, keyers. Zero runtime dependencies. Browser + Node. ITU-R M.1677-1.",
@@ -1968,6 +1992,18 @@
       "createdAt": "2026-07-28T23:30:56.384Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 85
+    },
+    {
+      "name": "@edge-markets/connect-cli",
+      "version": "1.0.0",
+      "description": "Certificate helper for EDGE Connect partners — check a CSR or certificate, get the fingerprint EDGE needs, and test an mTLS connection",
+      "license": "MIT",
+      "repository": "https://github.com/edgemarkets/edge-connect-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40edge-markets%2Fconnect-cli",
+      "category": "testing",
+      "createdAt": "2026-07-28T23:04:42.117Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 70
     },
     {
       "name": "@edraj/sauron-node",
@@ -4238,6 +4274,18 @@
       "score": 63
     },
     {
+      "name": "@majikah/majik-message-file",
+      "version": "0.1.0",
+      "description": "Ecosystem-specific, post-quantum file encryption class for Majik Message handling storage routing, R2 bindings, and automatic WebP conversion.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Majikah/majik-message-file",
+      "npmUrl": "https://www.npmjs.com/package/%40majikah%2Fmajik-message-file",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T10:17:46.008Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 82
+    },
+    {
       "name": "@mallary/n8n-nodes-mallary",
       "version": "0.1.0",
       "description": "Official Mallary n8n community node for social media posts, comments, analytics, uploads, and webhooks.",
@@ -5162,6 +5210,18 @@
       "score": 59
     },
     {
+      "name": "@pauldeng/node-red-contrib-dapr-http",
+      "version": "0.1.1",
+      "description": "Node-RED nodes for Dapr pub/sub and service invocation over the Dapr HTTP sidecar API.",
+      "license": "MIT",
+      "repository": "https://github.com/pauldeng/node-red-contrib-dapr-http",
+      "npmUrl": "https://www.npmjs.com/package/%40pauldeng%2Fnode-red-contrib-dapr-http",
+      "category": "backend",
+      "createdAt": "2026-07-29T08:30:47.227Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 69
+    },
+    {
       "name": "@pauldeng/node-red-contrib-redis",
       "version": "2.0.0",
       "description": "Redis integration nodes for Node-RED with Cluster, Sentinel, streams, pub/sub, commands, Lua, and Redis Functions.",
@@ -5522,6 +5582,18 @@
       "score": 86
     },
     {
+      "name": "@ratel-ai/cloud-sdk",
+      "version": "0.2.0",
+      "description": "Management & supervised self-improvement client for Ratel Cloud — catalog writes, intent analysis, and skill-suggestion review over the cloud API, plus the OpenTelemetry destination on /otel. Dependency-free at the root; pure HTTP, no native addon.",
+      "license": "MIT",
+      "repository": "https://github.com/ratel-ai/ratel-cloud-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40ratel-ai%2Fcloud-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-29T10:26:42.669Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 88
+    },
+    {
       "name": "@rati-osf/plugin-ruby-high",
       "version": "0.1.1",
       "description": "Send an elizaOS agent to Ruby High to enroll, attend classes, answer questions, and learn alongside humans and agents.",
@@ -5532,6 +5604,18 @@
       "createdAt": "2026-07-26T16:08:05.448Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@raydotac/ftpkeyence",
+      "version": "1.0.0",
+      "description": "FTP client for Keyence VS series vision cameras. Supports list, download, upload, remove — file and folder — with TypeScript types.",
+      "license": "MIT",
+      "repository": "https://github.com/raydotac/ftpkeyence",
+      "npmUrl": "https://www.npmjs.com/package/%40raydotac%2Fftpkeyence",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T08:30:28.402Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 76
     },
     {
       "name": "@razorwind/design-md",
@@ -5928,6 +6012,18 @@
       "createdAt": "2026-07-25T16:53:41.530Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 60
+    },
+    {
+      "name": "@shubhamtaywade82/dhanhq-ts",
+      "version": "0.3.0",
+      "description": "TypeScript SDK for the DhanHQ v2 API — REST, WebSocket, technical analysis, option analytics, risk pipeline, composable trading skills, agent tools and an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/shubhamtaywade82/dhanhq-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40shubhamtaywade82%2Fdhanhq-ts",
+      "category": "backend",
+      "createdAt": "2026-07-29T08:42:33.643Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 86
     },
     {
       "name": "@sigilcore/warrant-core",
@@ -7142,6 +7238,18 @@
       "score": 82
     },
     {
+      "name": "@voluma/three-transform-gizmo",
+      "version": "0.2.0",
+      "description": "Custom three.js transform gizmo with per-axis/per-plane extrude scaling, angle-sector rotation and themeable styling. Near drop-in replacement for TransformControls.",
+      "license": "MIT",
+      "repository": "https://github.com/Voluma-ai/three-transform-gizmo",
+      "npmUrl": "https://www.npmjs.com/package/%40voluma%2Fthree-transform-gizmo",
+      "category": "data",
+      "createdAt": "2026-07-29T09:27:42.242Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 86
+    },
+    {
       "name": "@vul-os/kotva-sync",
       "version": "0.1.0",
       "description": "The browser/JS binding for the KOTVA Sync substrate (substrate/SYNC.md, substrate/BINDINGS.md §3): a wasm-bindgen wrapper exposing kotva-sync's signed CRDT operation algebra, HLC, observable-state snapshots, version vectors and range-Merkle reconciliation",
@@ -7368,6 +7476,18 @@
       "createdAt": "2026-07-27T18:44:10.162Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 71
+    },
+    {
+      "name": "@yuthent/server",
+      "version": "0.5.0",
+      "description": "Express middleware for verifying Yuthent SDK retry headers — Post-Session Execution Assurance (PSEA) on the server side.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/yuthent/yuthent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40yuthent%2Fserver",
+      "category": "backend",
+      "createdAt": "2026-07-29T10:54:55.462Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 80
     },
     {
       "name": "@zady/logger",
@@ -7874,6 +7994,18 @@
       "score": 67
     },
     {
+      "name": "astexplore-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that parses JS/TS source into an AST using a selectable parser (babel, acorn, typescript, espree, @typescript-eslint/parser) — astexplorer.net as an MCP tool.",
+      "license": "MIT",
+      "repository": "https://github.com/KingJem/astexplore-mcp",
+      "npmUrl": "https://www.npmjs.com/package/astexplore-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T09:33:31.307Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 73
+    },
+    {
       "name": "astrovisor-skill",
       "version": "1.0.1",
       "description": "Universal AstroVisor Agent Skill with private Markdown profiles, safe credential onboarding, and live-schema MCP workflows.",
@@ -7980,6 +8112,18 @@
       "createdAt": "2026-07-28T11:31:33.901Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 93
+    },
+    {
+      "name": "baredom",
+      "version": "1.0.0",
+      "description": "UI library for building high-performance web interfaces with native JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/supercat1337/baredom",
+      "npmUrl": "https://www.npmjs.com/package/baredom",
+      "category": "frontend",
+      "createdAt": "2026-07-29T10:34:59.444Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 87
     },
     {
       "name": "bastok",
@@ -8100,6 +8244,18 @@
       "createdAt": "2026-07-26T12:37:26.060Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 68
+    },
+    {
+      "name": "bmbsession-baileys",
+      "version": "1.0.0",
+      "description": "WhatsApp API Enhancement — fork of Baileys, maintained by novaxmd",
+      "license": "MIT",
+      "repository": "https://github.com/novaxmd/bmbsession-baileys",
+      "npmUrl": "https://www.npmjs.com/package/bmbsession-baileys",
+      "category": "backend",
+      "createdAt": "2026-07-29T09:47:27.936Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 86
     },
     {
       "name": "boltpatternhq-mcp",
@@ -8964,6 +9120,18 @@
       "createdAt": "2026-07-27T02:06:22.607Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 81
+    },
+    {
+      "name": "desktop-location-sdk",
+      "version": "1.0.0",
+      "description": "跨平台桌面端精准定位 SDK — macOS / Windows / Linux，WGS84/GCJ02 坐标，GPS 级精度",
+      "license": "MIT",
+      "repository": "https://github.com/bxplucky/desktop-location-sdk",
+      "npmUrl": "https://www.npmjs.com/package/desktop-location-sdk",
+      "category": "utilities",
+      "createdAt": "2026-07-29T08:51:05.179Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 70
     },
     {
       "name": "devinpipe",
@@ -10334,6 +10502,18 @@
       "score": 75
     },
     {
+      "name": "lbp-growth-calendar-cli",
+      "version": "4.2.0",
+      "description": "增长日历 CLI 工具 - Agent AI Friendly，支持 DAU 查询、事件管理、数据订正与 AI 渗透率管理",
+      "license": "MIT",
+      "repository": "https://github.com/jackeyGao/lbp-growth-cli",
+      "npmUrl": "https://www.npmjs.com/package/lbp-growth-calendar-cli",
+      "category": "cli",
+      "createdAt": "2026-07-29T10:50:12.890Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 69
+    },
+    {
       "name": "lensglass",
       "version": "0.1.0",
       "description": "Liquid glass for the web, with real edge refraction. An SVG displacement map traced through Snell's law bends whatever is behind each surface, plus an iOS-accurate control kit that still looks right on engines that cannot lens. No dependencies, no build s",
@@ -10490,6 +10670,18 @@
       "score": 53
     },
     {
+      "name": "logapp-ui",
+      "version": "1.1.2",
+      "description": "Live log viewer with a Grafana-style browser UI for any local server. Pipe a process into it and watch live logs at localhost:9999.",
+      "license": "MIT",
+      "repository": "https://github.com/ayush121314/logapp",
+      "npmUrl": "https://www.npmjs.com/package/logapp-ui",
+      "category": "frontend",
+      "createdAt": "2026-07-29T10:02:59.858Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 93
+    },
+    {
       "name": "lolzteam-api-ts",
       "version": "1.0.0",
       "description": "TypeScript and JavaScript SDK for the LOLZTEAM Forum and Market APIs, generated from the official OpenAPI documents.",
@@ -10512,6 +10704,18 @@
       "createdAt": "2026-07-27T11:34:02.679Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 83
+    },
+    {
+      "name": "luma-events",
+      "version": "0.7.3",
+      "description": "MCP server and Codex/Cursor plugin for safely managing Luma events, guests, tickets, and hosts.",
+      "license": "MIT",
+      "repository": "https://github.com/Blackie360/luma-events-mcp",
+      "npmUrl": "https://www.npmjs.com/package/luma-events",
+      "category": "backend",
+      "createdAt": "2026-07-29T09:54:04.914Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 69
     },
     {
       "name": "lumen-ui-kit",
@@ -12542,6 +12746,18 @@
       "score": 78
     },
     {
+      "name": "react-number-word-converter",
+      "version": "1.0.0",
+      "description": "One plugin all language — React number to words converter by sayed021. Convert numbers to English, Bangla, Arabic or any custom locale with RTL, i18n, and TypeScript support.",
+      "license": "MIT",
+      "repository": "https://github.com/sayedbs/react-number-word-converter",
+      "npmUrl": "https://www.npmjs.com/package/react-number-word-converter",
+      "category": "frontend",
+      "createdAt": "2026-07-29T09:45:30.418Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 97
+    },
+    {
       "name": "react-talking-avatar",
       "version": "0.1.1",
       "description": "Detect a face/avatar from an uploaded or remote image and animate its lips while audio plays (simulated talking).",
@@ -12984,6 +13200,18 @@
       "createdAt": "2026-07-27T19:41:31.010Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 78
+    },
+    {
+      "name": "session-baton",
+      "version": "0.1.1",
+      "description": "Hand a live coding-agent session between your own machines, over plain SSH. Dependency-free bash.",
+      "license": "MIT",
+      "repository": "https://github.com/kazuki-sf/session-baton",
+      "npmUrl": "https://www.npmjs.com/package/session-baton",
+      "category": "cli",
+      "createdAt": "2026-07-29T09:31:29.112Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 79
     },
     {
       "name": "sessioncourier-protocol",
@@ -13706,6 +13934,18 @@
       "score": 80
     },
     {
+      "name": "topbeam",
+      "version": "0.1.0",
+      "description": "Topbeam — vibe coder için dürüst proje panosu: Claude Code / Codex transcript + git gerçeklerinden deterministik log, kanıt seviyeli durum ve sıradaki-tek-hareket kartı. LLM yok, local-first; CI okuması opsiyonel ve --no-ci ile kapatılabilir.",
+      "license": "MIT",
+      "repository": "https://github.com/topbeam/topbeam",
+      "npmUrl": "https://www.npmjs.com/package/topbeam",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T09:26:52.608Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 90
+    },
+    {
       "name": "toris-agent",
       "version": "0.1.0",
       "description": "A local-first, multi-agent development harness that turns a goal into planned, executed and verified work — with an evidence receipt for every run.",
@@ -13788,6 +14028,30 @@
       "createdAt": "2026-07-26T14:41:13.986Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 75
+    },
+    {
+      "name": "type-to-table",
+      "version": "1.0.0",
+      "description": "Read a .tsx component's props, pull the JSDoc per prop (including @default), and write a markdown table into your README between marker comments. No manual props-docs sync, ever.",
+      "license": "MIT",
+      "repository": "https://github.com/jayf0x/type-to-table",
+      "npmUrl": "https://www.npmjs.com/package/type-to-table",
+      "category": "frontend",
+      "createdAt": "2026-07-29T09:40:35.891Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 83
+    },
+    {
+      "name": "typeflowjs",
+      "version": "0.0.2",
+      "description": "Typed JSON transformations, checked at compile time. Declarative .typeflow mapping files with TypeScript-native typing.",
+      "license": "MIT",
+      "repository": "https://github.com/typeflow/typeflow",
+      "npmUrl": "https://www.npmjs.com/package/typeflowjs",
+      "category": "data",
+      "createdAt": "2026-07-29T09:10:53.644Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 78
     },
     {
       "name": "typeorm-strong-migrations",
@@ -14078,6 +14342,18 @@
       "score": 83
     },
     {
+      "name": "virtual-anchor",
+      "version": "0.1.1",
+      "description": "Virtual scrolling that models position as an anchor rather than a pixel offset: variable item heights, per-item viewport events, and scroll-to-item that lands sub-pixel exactly. Framework-agnostic core, with a React adapter at virtual-anchor/react.",
+      "license": "MIT",
+      "repository": "https://github.com/gluebi/virtual-anchor",
+      "npmUrl": "https://www.npmjs.com/package/virtual-anchor",
+      "category": "frontend",
+      "createdAt": "2026-07-29T09:01:32.028Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 90
+    },
+    {
       "name": "vite-plugin-grundlage",
       "version": "0.1.0",
       "description": "Vite plugin that prerenders grundlage web components to declarative shadow DOM at build time.",
@@ -14195,6 +14471,30 @@
       "category": "utilities",
       "createdAt": "2026-07-29T08:03:57.403Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
+      "score": 74
+    },
+    {
+      "name": "wechad",
+      "version": "0.2.8",
+      "description": "Bridge Claude Code and WeCom: PreToolUse approval cards + bidirectional tmux session mirror with image paste",
+      "license": "MIT",
+      "repository": "https://github.com/guxi11/weclaude",
+      "npmUrl": "https://www.npmjs.com/package/wechad",
+      "category": "utilities",
+      "createdAt": "2026-07-29T08:32:22.630Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 74
+    },
+    {
+      "name": "weconn",
+      "version": "0.2.8",
+      "description": "Bridge Claude Code and WeCom: PreToolUse approval cards + bidirectional tmux session mirror with image paste",
+      "license": "MIT",
+      "repository": "https://github.com/guxi11/weclaude",
+      "npmUrl": "https://www.npmjs.com/package/weconn",
+      "category": "utilities",
+      "createdAt": "2026-07-29T08:31:36.656Z",
+      "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 74
     },
     {

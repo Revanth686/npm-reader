@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122136399,
-  "lastRunAt": "2026-07-29T08:25:10.078Z",
+  "lastSequence": 122163451,
+  "lastRunAt": "2026-07-29T11:00:45.874Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nodebuilder/n8n-nodes-probe4",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@plumeria/codemod",
+      "name": "@campino/rule-editor",
       "attempts": 1
     },
     {
-      "name": "@dhcckb/tgaz-mcp-server",
+      "name": "@pi-claudian/sync-title",
       "attempts": 1
     },
     {
-      "name": "@developer.krd/nexura",
+      "name": "@vizejs/composable",
       "attempts": 1
     },
     {
-      "name": "@digo-labs/docs",
+      "name": "@vizejs/ui",
       "attempts": 1
     }
   ]
