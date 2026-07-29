@@ -266,6 +266,18 @@
       "score": 74
     },
     {
+      "name": "@agilo/medusa-invoices-plugin",
+      "version": "1.0.0",
+      "description": "Professional invoice generation plugin for MedusaJS with customizable templates and automatic PDF creation.",
+      "license": "MIT",
+      "repository": "https://github.com/Agilo/medusa-invoices-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40agilo%2Fmedusa-invoices-plugin",
+      "category": "utilities",
+      "createdAt": "2026-07-29T14:10:27.761Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 80
+    },
+    {
       "name": "@ai-router/openai-compatible-errors",
       "version": "0.1.0",
       "description": "Normalize OpenAI-compatible API errors into typed categories, retry plans, request IDs, and redacted diagnostics",
@@ -312,6 +324,18 @@
       "createdAt": "2026-07-28T12:44:11.635Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 87
+    },
+    {
+      "name": "@alexovn/okapi",
+      "version": "1.0.0",
+      "description": "A library for handling API and HTTP errors with ease.",
+      "license": "MIT",
+      "repository": "https://github.com/alexovn/okapi",
+      "npmUrl": "https://www.npmjs.com/package/%40alexovn%2Fokapi",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:02:53.067Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 79
     },
     {
       "name": "@ali.camargo/tournament-brackets",
@@ -828,6 +852,18 @@
       "createdAt": "2026-07-26T05:38:01.857Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 69
+    },
+    {
+      "name": "@base44/app-plugin-commerce",
+      "version": "0.1.0",
+      "description": "Base44 Commerce plugin — entities, backend functions, shared commerce engine, admin UI and the commerce skill, shipped as copyable source",
+      "license": "MIT",
+      "repository": "https://github.com/base44/app-plugin-commerce",
+      "npmUrl": "https://www.npmjs.com/package/%40base44%2Fapp-plugin-commerce",
+      "category": "backend",
+      "createdAt": "2026-07-29T15:11:55.694Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 75
     },
     {
       "name": "@bassotov/deck",
@@ -1430,6 +1466,18 @@
       "score": 55
     },
     {
+      "name": "@cola_runner/gemini-notebook-cli",
+      "version": "0.2.1",
+      "description": "Agent-first unofficial Gemini Notebook client for Node.js — JSON CLI, citations, multi-turn chat, all studio artifacts, research & notes",
+      "license": "MIT",
+      "repository": "https://github.com/cola-runner/gemini-notebook-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40cola_runner%2Fgemini-notebook-cli",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T13:09:47.513Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 77
+    },
+    {
       "name": "@coloristic.org/core",
       "version": "0.1.0",
       "description": "Generate accessibility-aware semantic color palettes and production-ready design tokens.",
@@ -1850,6 +1898,18 @@
       "score": 83
     },
     {
+      "name": "@dmytromykhailiuk/cache-request",
+      "version": "1.0.0",
+      "description": "Cache-first and network-first request strategies on the browser Cache API — typed, size-capped, offline-aware. Degrades to network-only where caching is unavailable. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/cache-request",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fcache-request",
+      "category": "frontend",
+      "createdAt": "2026-07-29T14:14:31.922Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 88
+    },
+    {
       "name": "@dmytromykhailiuk/execution-blocker",
       "version": "1.0.0",
       "description": "Promise-based FIFO execution lock with independent queues per id — run async logic strictly one at a time. Zero dependencies.",
@@ -1944,6 +2004,18 @@
       "createdAt": "2026-07-28T06:37:05.789Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 81
+    },
+    {
+      "name": "@dmytromykhailiuk/retry-request",
+      "version": "1.0.0",
+      "description": "A retry loop that knows whether the network is actually there — exponential backoff, abort support, and retries that park while offline instead of burning attempts. Typed, tested, tiny.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/retry-request",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fretry-request",
+      "category": "testing",
+      "createdAt": "2026-07-29T15:26:20.265Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 98
     },
     {
       "name": "@dmytromykhailiuk/typed-local-storage",
@@ -2448,6 +2520,18 @@
       "createdAt": "2026-07-28T18:04:26.210Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 98
+    },
+    {
+      "name": "@formio/uag-claude",
+      "version": "1.3.2",
+      "description": "Claude integration for the Form.io Universal Agent Gateway (UAG) — runs an MCP client that drives agentic form automation.",
+      "license": "MIT",
+      "repository": "https://github.com/formio/uag",
+      "npmUrl": "https://www.npmjs.com/package/%40formio%2Fuag-claude",
+      "category": "data",
+      "createdAt": "2026-07-29T14:07:07.129Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 87
     },
     {
       "name": "@fredng-missionplus/slack-mcp",
@@ -3338,6 +3422,18 @@
       "score": 56
     },
     {
+      "name": "@glacislabs/stablegenie-zerodelta",
+      "version": "2.0.0",
+      "description": "Lightweight embeddable ZeroDelta payment + swap widget (exact-receive Pay and exact-in Swap). Wallet always owns the final signature.",
+      "license": "MIT",
+      "repository": "https://github.com/glacislabs/stablegenie-zerodelta",
+      "npmUrl": "https://www.npmjs.com/package/%40glacislabs%2Fstablegenie-zerodelta",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:51:19.915Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 83
+    },
+    {
       "name": "@glowbox/seven-segment",
       "version": "1.3.0",
       "description": "Seven-segment display component — per-segment light dynamics, ageing, LED + VFD styles, in the glowbox family.",
@@ -3539,6 +3635,18 @@
       "category": "cli",
       "createdAt": "2026-07-27T16:59:46.790Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
+      "score": 79
+    },
+    {
+      "name": "@himynameisdave/oxlint-config",
+      "version": "1.0.0",
+      "description": "An opinionated oxlint config, by and for himynameisdave.",
+      "license": "MIT",
+      "repository": "https://github.com/himynameisdave/oxlint-config",
+      "npmUrl": "https://www.npmjs.com/package/%40himynameisdave%2Foxlint-config",
+      "category": "utilities",
+      "createdAt": "2026-07-29T15:28:30.833Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 79
     },
     {
@@ -3962,6 +4070,18 @@
       "score": 70
     },
     {
+      "name": "@jinx-1120/skills",
+      "version": "1.0.0",
+      "description": "Portable, evidence-first Agent Skills for tool-using coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/Jinx-1120/skills",
+      "npmUrl": "https://www.npmjs.com/package/%40jinx-1120%2Fskills",
+      "category": "utilities",
+      "createdAt": "2026-07-29T14:27:07.236Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 75
+    },
+    {
       "name": "@jjanczur/tyran",
       "version": "0.1.0",
       "description": "Command-line scripts for the Tyran task conductor (doctor, journal, schema, and repo tooling) for CI and terminals outside Claude Code. Installing this package does NOT install the Claude Code plugin — add that separately with `/plugin marketplace add jja",
@@ -3984,6 +4104,18 @@
       "createdAt": "2026-07-26T23:42:38.029Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 64
+    },
+    {
+      "name": "@jsjfin/agent-profit",
+      "version": "0.1.1",
+      "description": "Typed SDK and guarded x402 CLI for Ailabra Agent Profit Ledger.",
+      "license": "MIT",
+      "repository": "https://github.com/JSJFIN/agent-profit-demo",
+      "npmUrl": "https://www.npmjs.com/package/%40jsjfin%2Fagent-profit",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T12:24:55.259Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 76
     },
     {
       "name": "@jsvision/code-editor",
@@ -4668,6 +4800,18 @@
       "createdAt": "2026-07-26T05:05:10.169Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 77
+    },
+    {
+      "name": "@michaelthielemann/kestrel",
+      "version": "1.2.1",
+      "description": "A slim, collection-driven Nuxt 4 CMS meta-layer with a runtime schema engine. Add `extends: ['@michaelthielemann/kestrel']`, define collections, and the database migrates itself.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/MichaelThielemann/kestrel",
+      "npmUrl": "https://www.npmjs.com/package/%40michaelthielemann%2Fkestrel",
+      "category": "data",
+      "createdAt": "2026-07-29T15:11:54.244Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 91
     },
     {
       "name": "@minhduydev/pi-harness",
@@ -5474,6 +5618,18 @@
       "score": 96
     },
     {
+      "name": "@pontalabs/baileys-yue",
+      "version": "1.0.0",
+      "description": "PontaLabs Baileys is a lightweight, modern, and customizable WhatsApp Web API library built on Baileys.",
+      "license": "MIT",
+      "repository": "https://github.com/WhiskeySockets/Baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40pontalabs%2Fbaileys-yue",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:14:10.171Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 74
+    },
+    {
       "name": "@pooriaarab/vibemovie",
       "version": "0.1.0",
       "description": "Your agent coding session as a short recap video — Hyperframes (HTML/CSS/JS) with zero gen-video keys, or your own video model. For Claude Code, Codex, Gemini, and other agentic CLIs. Local-first.",
@@ -5952,6 +6108,18 @@
       "createdAt": "2026-07-25T22:52:27.345Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 63
+    },
+    {
+      "name": "@salatech/auth-toolkit",
+      "version": "0.1.0",
+      "description": "Unified OTP, deep-link, and biometric auth toolkit for React Native and Expo apps",
+      "license": "MIT",
+      "repository": "https://github.com/salatech/auth-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40salatech%2Fauth-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-07-29T14:33:53.539Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 76
     },
     {
       "name": "@salvor-run/cli",
@@ -8282,6 +8450,18 @@
       "score": 93
     },
     {
+      "name": "ballast-cli",
+      "version": "0.1.0",
+      "description": "Compliance-as-code for AI systems. Scan your repo, classify it against the EU AI Act, generate the paperwork, and catch governance drift in CI.",
+      "license": "MIT",
+      "repository": "https://github.com/theogandolphe/ballast",
+      "npmUrl": "https://www.npmjs.com/package/ballast-cli",
+      "category": "cli",
+      "createdAt": "2026-07-29T15:01:00.006Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 82
+    },
+    {
       "name": "baredom",
       "version": "1.0.0",
       "description": "UI library for building high-performance web interfaces with native JavaScript",
@@ -9110,6 +9290,18 @@
       "score": 85
     },
     {
+      "name": "create-kubojs",
+      "version": "3.36.3",
+      "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
+      "license": "MIT",
+      "repository": "https://github.com/albuquerquesz/kubo",
+      "npmUrl": "https://www.npmjs.com/package/create-kubojs",
+      "category": "frontend",
+      "createdAt": "2026-07-29T14:35:10.630Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 92
+    },
+    {
       "name": "create-shells",
       "version": "0.1.0",
       "description": "Scaffolder + kit for driving a Claude Code session from an external front end using only lifecycle hooks and the filesystem.",
@@ -9504,6 +9696,18 @@
       "createdAt": "2026-07-29T04:33:07.799Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 84
+    },
+    {
+      "name": "empirical-sdd",
+      "version": "2.2.0",
+      "description": "Agent-neutral, resumable spec-driven development for every terminal-capable coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/MateoCerquetella/empirical-sdd",
+      "npmUrl": "https://www.npmjs.com/package/empirical-sdd",
+      "category": "cli",
+      "createdAt": "2026-07-28T21:56:31.957Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 80
     },
     {
       "name": "en16931",
@@ -10106,6 +10310,30 @@
       "score": 67
     },
     {
+      "name": "handhold-sdk",
+      "version": "1.0.0",
+      "description": "Context-aware in-app help system with visual UI guidance",
+      "license": "MIT",
+      "repository": "https://github.com/BlazinArtemis/Handhold",
+      "npmUrl": "https://www.npmjs.com/package/handhold-sdk",
+      "category": "utilities",
+      "createdAt": "2026-07-29T14:37:35.586Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 81
+    },
+    {
+      "name": "hardyscript",
+      "version": "1.5.1",
+      "description": "HardyScript: JavaScript/TypeScript → COUNPRE64 / ESP32 / Arduino / STM32 / Raspberry Pi unified hardware programming compiler",
+      "license": "MIT",
+      "repository": "https://github.com/hardyscript-cpu/HardyScript",
+      "npmUrl": "https://www.npmjs.com/package/hardyscript",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T13:49:52.436Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 77
+    },
+    {
       "name": "harness-dispatch",
       "version": "0.4.0",
       "description": "Turn locally installed coding harnesses (Claude Code, Codex, Cursor, Antigravity) and local/remote API endpoints into tools any AI can call, with async job handling for long-running agent work.",
@@ -10320,6 +10548,18 @@
       "createdAt": "2026-07-26T14:41:15.355Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 64
+    },
+    {
+      "name": "hyperliquid-math",
+      "version": "0.1.0",
+      "description": "Deterministic, explainable Hyperliquid math: margin, liquidation price, PnL, funding, fees, orders, and spot — exact decimals, zero network I/O, every result carries an auditable trace.",
+      "license": "MIT",
+      "repository": "https://github.com/Minnzen/hyperliquid-math",
+      "npmUrl": "https://www.npmjs.com/package/hyperliquid-math",
+      "category": "devops",
+      "createdAt": "2026-07-29T14:42:30.331Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 78
     },
     {
       "name": "iconfont-mcp-server",
@@ -11844,6 +12084,18 @@
       "createdAt": "2026-07-26T14:36:28.253Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 80
+    },
+    {
+      "name": "node-red-tienho-mcprotocol",
+      "version": "2.0.0",
+      "description": "Node-RED nodes to read from & write to MITSUBISHI MELSEC PLCs over Ethernet using MC Protocol (1E/3E/4E, TCP/UDP)",
+      "license": "MIT",
+      "repository": "https://github.com/Tpro4391/node-red-tienho-mcprotocol",
+      "npmUrl": "https://www.npmjs.com/package/node-red-tienho-mcprotocol",
+      "category": "utilities",
+      "createdAt": "2026-07-29T15:31:39.111Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 89
     },
     {
       "name": "normativa-colombia-mcp",
@@ -14714,6 +14966,42 @@
       "score": 90
     },
     {
+      "name": "wanas-zbooks-cli",
+      "version": "1.0.0",
+      "description": "Command-line interface and Node.js SDK for Zoho Books V3 API",
+      "license": "ISC",
+      "repository": "https://github.com/Wanas-Apps/wanas-zbooks-cli",
+      "npmUrl": "https://www.npmjs.com/package/wanas-zbooks-cli",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:22:45.127Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 82
+    },
+    {
+      "name": "wanas-zmail-cli",
+      "version": "1.0.0",
+      "description": "Command-line interface and Node.js SDK for the Zoho Mail REST API",
+      "license": "ISC",
+      "repository": "https://github.com/Wanas-Apps/wanas-zmail-cli",
+      "npmUrl": "https://www.npmjs.com/package/wanas-zmail-cli",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:30:17.961Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 86
+    },
+    {
+      "name": "wanas-zpartner-cli",
+      "version": "1.0.0",
+      "description": "Local Zoho Partner Store API CLI Utility, Express Gateway & Dashboard",
+      "license": "ISC",
+      "repository": "https://github.com/Wanas-Apps/wanas-zpartner-cli",
+      "npmUrl": "https://www.npmjs.com/package/wanas-zpartner-cli",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:19:52.173Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 82
+    },
+    {
       "name": "watchtell",
       "version": "1.0.0",
       "description": "Natural-language custom alarm CLI + local daemon for macOS. If a coding agent can check it, you can alarm on it.",
@@ -14796,6 +15084,18 @@
       "createdAt": "2026-07-29T08:31:36.656Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 74
+    },
+    {
+      "name": "wezard",
+      "version": "1.0.0",
+      "description": "Bridge Claude Code and WeCom: PreToolUse approval cards + bidirectional tmux session mirror with image paste",
+      "license": "MIT",
+      "repository": "https://github.com/guxi11/wezard",
+      "npmUrl": "https://www.npmjs.com/package/wezard",
+      "category": "utilities",
+      "createdAt": "2026-07-29T13:32:52.079Z",
+      "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 84
     },
     {
       "name": "whatshipped",

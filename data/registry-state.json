@@ -1,19 +1,51 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122198929,
-  "lastRunAt": "2026-07-29T13:50:11.010Z",
+  "lastSequence": 122217620,
+  "lastRunAt": "2026-07-29T15:45:20.548Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nodebuilder/n8n-nodes-probe4",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@elmethis/draw.io",
+      "name": "@talrace/ngx-colorpicker",
       "attempts": 1
     },
     {
-      "name": "@bruyland/procman-client",
+      "name": "@userkit/js",
+      "attempts": 1
+    },
+    {
+      "name": "@userkit/react",
+      "attempts": 1
+    },
+    {
+      "name": "@userkit/nextjs",
+      "attempts": 1
+    },
+    {
+      "name": "@presentation-md/theme-heritage-editorial",
+      "attempts": 1
+    },
+    {
+      "name": "@presentation-md/theme-fintech-clean",
+      "attempts": 1
+    },
+    {
+      "name": "@presentation-md/theme-developer-dark",
+      "attempts": 1
+    },
+    {
+      "name": "@presentation-md/theme-data-editorial",
+      "attempts": 1
+    },
+    {
+      "name": "@presentation-md/theme-scandinavian",
+      "attempts": 1
+    },
+    {
+      "name": "@nan0web/ui-web",
       "attempts": 1
     }
   ]
