@@ -1,31 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122107364,
-  "lastRunAt": "2026-07-29T05:14:48.184Z",
+  "lastSequence": 122136399,
+  "lastRunAt": "2026-07-29T08:25:10.078Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nodebuilder/n8n-nodes-probe4",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@habenula-ai/contracts",
+      "name": "@plumeria/codemod",
       "attempts": 1
     },
     {
-      "name": "@habenula-ai/credentials",
+      "name": "@dhcckb/tgaz-mcp-server",
       "attempts": 1
     },
     {
-      "name": "@habenula-ai/engine",
+      "name": "@developer.krd/nexura",
       "attempts": 1
     },
     {
-      "name": "@nguyenthdat/opencode-antigravity-auth",
-      "attempts": 1
-    },
-    {
-      "name": "@bigking67/review-craft",
+      "name": "@digo-labs/docs",
       "attempts": 1
     }
   ]
