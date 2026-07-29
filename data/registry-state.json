@@ -1,27 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122163451,
-  "lastRunAt": "2026-07-29T11:00:45.874Z",
+  "lastSequence": 122198929,
+  "lastRunAt": "2026-07-29T13:50:11.010Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nodebuilder/n8n-nodes-probe4",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@campino/rule-editor",
+      "name": "@elmethis/draw.io",
       "attempts": 1
     },
     {
-      "name": "@pi-claudian/sync-title",
-      "attempts": 1
-    },
-    {
-      "name": "@vizejs/composable",
-      "attempts": 1
-    },
-    {
-      "name": "@vizejs/ui",
+      "name": "@bruyland/procman-client",
       "attempts": 1
     }
   ]

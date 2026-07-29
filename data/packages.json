@@ -134,6 +134,78 @@
       "score": 63
     },
     {
+      "name": "@adkit/google-ads-tracking",
+      "version": "1.1.1",
+      "description": "Google Ads conversion tracking for JavaScript and TypeScript. Zero-dependency gtag.js wrapper with eager, lazy, and manual script loading.",
+      "license": "MIT",
+      "repository": "https://github.com/adkit/ads-tracking",
+      "npmUrl": "https://www.npmjs.com/package/%40adkit%2Fgoogle-ads-tracking",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T12:14:53.621Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 93
+    },
+    {
+      "name": "@adkit/meta-pixel",
+      "version": "1.2.1",
+      "description": "Platform-agnostic Meta Pixel tracking wrapper with TypeScript support",
+      "license": "MIT",
+      "repository": "https://github.com/adkit/ads-tracking",
+      "npmUrl": "https://www.npmjs.com/package/%40adkit%2Fmeta-pixel",
+      "category": "data",
+      "createdAt": "2026-07-29T12:15:04.123Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 78
+    },
+    {
+      "name": "@adkit/meta-pixel-next",
+      "version": "1.1.1",
+      "description": "Next.js integration for Meta Pixel tracking - auto PageView on route changes",
+      "license": "MIT",
+      "repository": "https://github.com/adkit/ads-tracking",
+      "npmUrl": "https://www.npmjs.com/package/%40adkit%2Fmeta-pixel-next",
+      "category": "frontend",
+      "createdAt": "2026-07-29T12:15:32.009Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 85
+    },
+    {
+      "name": "@adkit/meta-pixel-react",
+      "version": "1.1.1",
+      "description": "React wrapper for Meta Pixel tracking with TypeScript support",
+      "license": "MIT",
+      "repository": "https://github.com/adkit/ads-tracking",
+      "npmUrl": "https://www.npmjs.com/package/%40adkit%2Fmeta-pixel-react",
+      "category": "frontend",
+      "createdAt": "2026-07-29T12:15:21.103Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 80
+    },
+    {
+      "name": "@adlc/herdr",
+      "version": "1.7.0",
+      "description": "ADLC surfaced at the terminal-multiplexer layer: a herdr plugin showing per-pane ticket/phase/gate state, a backlog board, and gate actions. Published for discovery — herdr itself installs this plugin from the GitHub subdirectory, not from npm.",
+      "license": "MIT",
+      "repository": "https://github.com/voodootikigod/adlc",
+      "npmUrl": "https://www.npmjs.com/package/%40adlc%2Fherdr",
+      "category": "cli",
+      "createdAt": "2026-07-29T12:49:08.125Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 83
+    },
+    {
+      "name": "@aethexai/react",
+      "version": "1.0.0",
+      "description": "React SDK for Aethex voice agents. useAethexCall() hides WebRTC entirely.",
+      "license": "MIT",
+      "repository": "https://github.com/aethexai/aethex-react",
+      "npmUrl": "https://www.npmjs.com/package/%40aethexai%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-28T02:09:39.830Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 79
+    },
+    {
       "name": "@affic/sdk",
       "version": "0.1.0",
       "description": "Official Node.js SDK for the Affic integration API",
@@ -492,6 +564,18 @@
       "createdAt": "2026-07-29T07:38:58.042Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 73
+    },
+    {
+      "name": "@ariaskit/optipix",
+      "version": "1.0.0",
+      "description": "A fast, colorful CLI that scans a folder and optimizes every image with sharp — pick the output format, dimensions and quality.",
+      "license": "MIT",
+      "repository": "https://github.com/JorgeRosbel/optipix",
+      "npmUrl": "https://www.npmjs.com/package/%40ariaskit%2Foptipix",
+      "category": "data",
+      "createdAt": "2026-07-29T12:27:12.884Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 92
     },
     {
       "name": "@arkv/timezones",
@@ -2088,6 +2172,18 @@
       "createdAt": "2026-07-28T00:16:01.310Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 60
+    },
+    {
+      "name": "@estebanforge/pi-antigravity-bridge",
+      "version": "1.0.0",
+      "description": "Streaming Gemini provider for pi, built on the agy CLI. Registers antigravity/* models in pi's /model picker via SQLite polling + protobuf decode of agy's conversation DBs.",
+      "license": "MIT",
+      "repository": "https://github.com/EstebanForge/pi-antigravity-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40estebanforge%2Fpi-antigravity-bridge",
+      "category": "data",
+      "createdAt": "2026-07-29T13:02:59.668Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 93
     },
     {
       "name": "@ethancaudill/pgmask",
@@ -3746,6 +3842,18 @@
       "score": 60
     },
     {
+      "name": "@ishant89/react-native-geonavkit",
+      "version": "1.0.1",
+      "description": "Lightweight, dependency-free geospatial math for React Native, Expo, web and Node — great-circle bearing/distance/destination, nautical-mile conversion, geo shape polygons, and path resampling.",
+      "license": "MIT",
+      "repository": "https://github.com/ishantve/GeoNavKit",
+      "npmUrl": "https://www.npmjs.com/package/%40ishant89%2Freact-native-geonavkit",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:40:20.428Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 81
+    },
+    {
       "name": "@ismailza/ngx-api-client",
       "version": "0.1.0",
       "description": "A typed, interceptor-driven HTTP layer for Angular: versioned URLs, RFC 9457 problem+json error normalisation, retry with backoff, and pluggable error/success handlers.",
@@ -4142,6 +4250,18 @@
       "score": 63
     },
     {
+      "name": "@libreconsent/bridge",
+      "version": "1.1.0",
+      "description": "Read-only external CMP bridge for libreconsent.",
+      "license": "MIT",
+      "repository": "https://github.com/nicolasestrem/libreconsent",
+      "npmUrl": "https://www.npmjs.com/package/%40libreconsent%2Fbridge",
+      "category": "utilities",
+      "createdAt": "2026-07-29T05:45:55.973Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 80
+    },
+    {
       "name": "@libreconsent/core",
       "version": "1.0.0",
       "description": "Core state and consent infrastructure for libreconsent.",
@@ -4152,6 +4272,18 @@
       "createdAt": "2026-07-29T05:42:51.487Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 75
+    },
+    {
+      "name": "@libreconsent/ui",
+      "version": "1.1.0",
+      "description": "Consent banner and preferences UI for libreconsent.",
+      "license": "MIT",
+      "repository": "https://github.com/nicolasestrem/libreconsent",
+      "npmUrl": "https://www.npmjs.com/package/%40libreconsent%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-07-29T05:45:44.814Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 83
     },
     {
       "name": "@liiift-studio/confettitext",
@@ -5414,6 +5546,18 @@
       "score": 61
     },
     {
+      "name": "@psync/anti-jailbreak",
+      "version": "0.2.0",
+      "description": "A lightweight and reliable React Native Nitro Module to detect rooted Android devices and jailbroken iOS devices using C++, Kotlin, and Swift. Built for security-focused mobile applications.",
+      "license": "MIT",
+      "repository": "https://github.com/psync/anti-jailbreak",
+      "npmUrl": "https://www.npmjs.com/package/%40psync%2Fanti-jailbreak",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:27:35.106Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 89
+    },
+    {
       "name": "@pulsenetwork/lp-copilot-mcp",
       "version": "0.1.0",
       "description": "LP copilot for AI agents: enumerate your concentrated-liquidity positions on 11 chains for free, then buy deterministic backtested range scenarios, IL forecasts, position health and points-campaign EV per call (x402 USDC, no API key). Non-custodial — your",
@@ -6506,6 +6650,18 @@
       "score": 59
     },
     {
+      "name": "@sycghj/pi-permission-system",
+      "version": "24.1.0",
+      "description": "Permission enforcement extension for the Pi coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/sycghj/pi-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40sycghj%2Fpi-permission-system",
+      "category": "utilities",
+      "createdAt": "2026-07-29T11:28:46.221Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 85
+    },
+    {
       "name": "@sz.ws/cms",
       "version": "0.2.1",
       "description": "CLI for sz.ws CMS — `setup` wires the repo to your Cloudflare account, `add` installs code extensions.",
@@ -6576,6 +6732,18 @@
       "createdAt": "2026-07-28T04:41:55.042Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 74
+    },
+    {
+      "name": "@telecmi/react-native-callkeep",
+      "version": "4.3.16",
+      "description": "react-native-callkeep 4.3.16 with the duplicate @ReactMethod fix (Android / RN 0.76+ crash at startup). Ships as a dependency of @telecmi/piopiy-native — apps install nothing and patch nothing. Fork of https://github.com/react-native-webrtc/react-native-c",
+      "license": "ISC",
+      "repository": "https://github.com/telecmi/react-native-callkeep",
+      "npmUrl": "https://www.npmjs.com/package/%40telecmi%2Freact-native-callkeep",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:03:06.190Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 80
     },
     {
       "name": "@tengxiaohtx/agent-connect",
@@ -8138,6 +8306,18 @@
       "score": 84
     },
     {
+      "name": "bedrock-ui-stream",
+      "version": "0.1.1",
+      "description": "Translate an Amazon Bedrock Agent InvokeAgent response stream into an AI SDK UI message stream, for use with useChat.",
+      "license": "MIT",
+      "repository": "https://github.com/theRizwan/bedrock-ui-stream",
+      "npmUrl": "https://www.npmjs.com/package/bedrock-ui-stream",
+      "category": "utilities",
+      "createdAt": "2026-07-29T12:34:36.791Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 81
+    },
+    {
       "name": "beeengine",
       "version": "2.0.0",
       "description": "Motore di gioco 2D modulare per HTML5 Canvas: fisica platformer, scene, input, asset, collisioni e HUD.",
@@ -9590,6 +9770,18 @@
       "score": 90
     },
     {
+      "name": "fiscalia",
+      "version": "1.0.0",
+      "description": "Formules fiscales et sociales françaises pour travailleurs non salariés : plafond Madelin, PER, indemnités journalières, TMI, capitalisation et amortissement. Pures, typées, testées. Barèmes 2026.",
+      "license": "MIT",
+      "repository": "https://github.com/Eliebaga/fiscalia",
+      "npmUrl": "https://www.npmjs.com/package/fiscalia",
+      "category": "testing",
+      "createdAt": "2026-07-29T13:18:17.173Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 84
+    },
+    {
       "name": "flatcash-mcp",
       "version": "1.0.1",
       "description": "MCP server for AI agents to earn FLAT tokens (CPI-pegged stablecoin). Register in 5 seconds, earn bounties, withdraw to Ethereum.",
@@ -9780,6 +9972,18 @@
       "createdAt": "2026-07-25T19:30:16.790Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 60
+    },
+    {
+      "name": "gitscout-cli",
+      "version": "1.0.2",
+      "description": "Pre-clone static security scanner for GitHub repositories and local codebases. Detects malicious lifecycle scripts, credential theft, obfuscated payloads, trojan source, typosquatting, data exfiltration, and lockfile integrity issues.",
+      "license": "MIT",
+      "repository": "https://github.com/Adityazzzzz/GitScout",
+      "npmUrl": "https://www.npmjs.com/package/gitscout-cli",
+      "category": "data",
+      "createdAt": "2026-07-29T12:14:18.163Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 80
     },
     {
       "name": "gittersync",
@@ -10658,6 +10862,18 @@
       "score": 63
     },
     {
+      "name": "local-cli-bridge",
+      "version": "0.1.1",
+      "description": "A minimal, self hosted OpenAI compatible adapter for one shot completions through locally authenticated CLI model tools. A development and testing bridge, not a hosted model service.",
+      "license": "MIT",
+      "repository": "https://github.com/JediConcepts/local-cli-bridge",
+      "npmUrl": "https://www.npmjs.com/package/local-cli-bridge",
+      "category": "testing",
+      "createdAt": "2026-07-29T12:32:56.643Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 79
+    },
+    {
       "name": "localarena",
       "version": "0.1.0",
       "description": "Local-first pairwise evaluation, deterministic scheduling, and Elo ranking.",
@@ -11292,6 +11508,18 @@
       "createdAt": "2026-07-28T10:40:57.948Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 85
+    },
+    {
+      "name": "n8n-nodes-captchaai-detect",
+      "version": "1.0.0",
+      "description": "CaptchaAI Detect community node for n8n - finds CAPTCHA widgets (reCAPTCHA, Turnstile, GeeTest, and more) on a page across every frame and returns their identifying parameters. Detection only - never solves, never injects tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/CaptchaAI/n8n-captchaai-detector",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-captchaai-detect",
+      "category": "testing",
+      "createdAt": "2026-07-29T13:01:56.983Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 94
     },
     {
       "name": "n8n-nodes-cliptoframe",
@@ -12038,6 +12266,18 @@
       "score": 73
     },
     {
+      "name": "pgguard-mcp",
+      "version": "0.1.0",
+      "description": "Read-only MCP server for Postgres. A deny-by-default policy file decides which tables and columns an AI agent can see; every query runs inside a BEGIN READ ONLY transaction with a statement timeout, and every decision lands in an audit log.",
+      "license": "MIT",
+      "repository": "https://github.com/Azzaraell/pgguard-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pgguard-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T11:52:49.948Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 90
+    },
+    {
       "name": "phi-leak-guard",
       "version": "0.0.1",
       "description": "Deterministic PHI-leak assertions for LLM output, runnable in your normal test suite. HIPAA Safe Harbor + NHS/UK. No LLM calls, no data leaves your machine.",
@@ -12290,6 +12530,18 @@
       "score": 79
     },
     {
+      "name": "playwright-flow-recorder",
+      "version": "1.0.1",
+      "description": "Record a browser walkthrough as a semantic event stream (JSONL) — multiple candidate selectors, recorded assertions, and intent notes — then let an AI agent convert it into tests that reuse your existing step library.",
+      "license": "MIT",
+      "repository": "https://github.com/Rkcr007/playwright-flow-recorder",
+      "npmUrl": "https://www.npmjs.com/package/playwright-flow-recorder",
+      "category": "testing",
+      "createdAt": "2026-07-29T12:12:00.633Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 100
+    },
+    {
       "name": "playwright-power-automate-reporter",
       "version": "1.0.0",
       "description": "Playwright reporter and standalone CLI that posts an Adaptive Card run summary to Microsoft Teams via a Power Automate HTTP trigger.",
@@ -12468,6 +12720,18 @@
       "createdAt": "2026-07-28T12:28:59.616Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 100
+    },
+    {
+      "name": "prepot-cli",
+      "version": "1.0.1",
+      "description": "Install skills, agents, workflows, and hooks into every AI coding assistant from a single source.",
+      "license": "MIT",
+      "repository": "https://github.com/clndl/prepot",
+      "npmUrl": "https://www.npmjs.com/package/prepot-cli",
+      "category": "cli",
+      "createdAt": "2026-07-29T12:21:40.930Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 81
     },
     {
       "name": "presentator",
@@ -12696,6 +12960,18 @@
       "createdAt": "2026-07-28T17:13:57.664Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 71
+    },
+    {
+      "name": "react-native-niimbot",
+      "version": "0.1.0",
+      "description": "Print to Niimbot BLE label printers (B21 Pro, B1 Pro, B1, M2-H, D11) from React Native / Expo on iOS and Android.",
+      "license": "MIT",
+      "repository": "https://github.com/power-of-life-labs/react-native-niimbot",
+      "npmUrl": "https://www.npmjs.com/package/react-native-niimbot",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:39:15.789Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 79
     },
     {
       "name": "react-native-nitro-logger",
@@ -13176,6 +13452,18 @@
       "createdAt": "2026-07-26T01:26:24.316Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 61
+    },
+    {
+      "name": "semantic-selector",
+      "version": "0.1.0",
+      "description": "Generate a semantic, identity-only CSS selector for a DOM element — ranks each ancestor by meaningful identity (id/url/name/class/ARIA), never by position; resolves ambiguity out-of-band rather than via positional ordinals",
+      "license": "MIT",
+      "repository": "https://github.com/eoghanmurray/semantic-selector",
+      "npmUrl": "https://www.npmjs.com/package/semantic-selector",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:41:44.460Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 81
     },
     {
       "name": "seps-cli",
@@ -13812,6 +14100,18 @@
       "createdAt": "2026-07-29T04:33:57.232Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 80
+    },
+    {
+      "name": "tickwick",
+      "version": "1.0.0",
+      "description": "Framework-agnostic stock charting library with candlesticks, technical indicators, and LLM-friendly declarative API",
+      "license": "MIT",
+      "repository": "https://github.com/tickwick-co/tickwick",
+      "npmUrl": "https://www.npmjs.com/package/tickwick",
+      "category": "frontend",
+      "createdAt": "2026-07-26T01:47:49.179Z",
+      "discoveredAt": "2026-07-29T13:50:11.010Z",
+      "score": 91
     },
     {
       "name": "tieline",
