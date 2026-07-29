@@ -314,6 +314,18 @@
       "score": 74
     },
     {
+      "name": "@agenttool/wallet-zerone",
+      "version": "0.1.2",
+      "description": "Offline-first Zerone chain adapter for Agent Wallet intents and exact Cosmos direct-sign bytes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cambridgetcg/agenttool",
+      "npmUrl": "https://www.npmjs.com/package/%40agenttool%2Fwallet-zerone",
+      "category": "utilities",
+      "createdAt": "2026-07-29T22:04:01.640Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 71
+    },
+    {
       "name": "@agilo/medusa-invoices-plugin",
       "version": "1.0.0",
       "description": "Professional invoice generation plugin for MedusaJS with customizable templates and automatic PDF creation.",
@@ -1670,6 +1682,42 @@
       "score": 75
     },
     {
+      "name": "@cosyte/cli",
+      "version": "0.0.1",
+      "description": "The cosyte CLI: a PHI-safe developer front door over the @cosyte/* healthcare parsers. Parse HL7 v2 / FHIR from a file or stdin to typed JSON, with a documented exit-code contract.",
+      "license": "MIT",
+      "repository": "https://github.com/cosyte/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40cosyte%2Fcli",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T21:59:13.119Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 80
+    },
+    {
+      "name": "@cosyte/synth",
+      "version": "0.0.1",
+      "description": "Deterministic, seedable synthetic healthcare-fixture generator for Node.js and TypeScript — spec-clean by construction, never real PHI.",
+      "license": "MIT",
+      "repository": "https://github.com/cosyte/synth",
+      "npmUrl": "https://www.npmjs.com/package/%40cosyte%2Fsynth",
+      "category": "testing",
+      "createdAt": "2026-07-29T21:59:46.053Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 77
+    },
+    {
+      "name": "@cosyte/transform",
+      "version": "0.0.2",
+      "description": "HL7 v2 → FHIR R4 transformation library for Node.js and TypeScript — IG-grounded, fail-safe, value-free diagnostics; never a confident wrong FHIR value.",
+      "license": "MIT",
+      "repository": "https://github.com/cosyte/transform",
+      "npmUrl": "https://www.npmjs.com/package/%40cosyte%2Ftransform",
+      "category": "data",
+      "createdAt": "2026-07-29T21:59:07.793Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 70
+    },
+    {
       "name": "@counterroll/sdk",
       "version": "0.2.0",
       "description": "Check before your agent pays. The TypeScript client for Counterroll — policy checks + signed, hash-chained receipts for x402 agent spending.",
@@ -2640,6 +2688,18 @@
       "createdAt": "2026-07-28T08:03:49.569Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 79
+    },
+    {
+      "name": "@foleyjs/core",
+      "version": "2.3.0",
+      "description": "Sound effects for the interface, performed live. 28 interaction cues synthesized with Web Audio — zero dependencies, zero audio files.",
+      "license": "MIT",
+      "repository": "https://github.com/eakbulut/foley",
+      "npmUrl": "https://www.npmjs.com/package/%40foleyjs%2Fcore",
+      "category": "data",
+      "createdAt": "2026-07-29T21:55:12.732Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 71
     },
     {
       "name": "@followingseas/pilot",
@@ -3926,6 +3986,18 @@
       "score": 79
     },
     {
+      "name": "@hermesplant/assurance-guard",
+      "version": "0.1.0",
+      "description": "Dependency-light local policy guard and typed client for Hermes Agent Commerce Assurance.",
+      "license": "MIT",
+      "repository": "https://github.com/JesseGdotIO/HermesPlant",
+      "npmUrl": "https://www.npmjs.com/package/%40hermesplant%2Fassurance-guard",
+      "category": "cli",
+      "createdAt": "2026-07-29T21:39:51.025Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 70
+    },
+    {
       "name": "@himynameisdave/oxlint-config",
       "version": "1.0.0",
       "description": "An opinionated oxlint config, by and for himynameisdave.",
@@ -5030,6 +5102,30 @@
       "score": 69
     },
     {
+      "name": "@medyll/idae-sync",
+      "version": "1.0.1",
+      "description": "Sync scaffolding for Idae (Outbox store, SyncAdapter, deliverers)",
+      "license": "ISC",
+      "repository": "https://github.com/medyll/idae",
+      "npmUrl": "https://www.npmjs.com/package/%40medyll%2Fidae-sync",
+      "category": "utilities",
+      "createdAt": "2026-07-29T22:34:14.032Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 66
+    },
+    {
+      "name": "@medyll/qoolie",
+      "version": "0.0.2",
+      "description": "Client database IndexedDB the easy way, add server sync",
+      "license": "ISC",
+      "repository": "https://github.com/medyll/idae",
+      "npmUrl": "https://www.npmjs.com/package/%40medyll%2Fqoolie",
+      "category": "frontend",
+      "createdAt": "2026-07-29T22:34:16.848Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 65
+    },
+    {
       "name": "@meitner/tiptap-table-plus",
       "version": "3.1.1",
       "description": "Meitner fork of tiptap-table-plus — Tiptap table extra options like duplicate column, duplicate row etc...",
@@ -5786,6 +5882,18 @@
       "score": 77
     },
     {
+      "name": "@oxyhq/crowdsource-contracts",
+      "version": "0.1.0",
+      "description": "Versioned CrowdSource contracts: case envelope, resources, taxonomy, policies, reviews, decisions, webhooks and reputation events",
+      "license": "MIT",
+      "repository": "https://github.com/OxyHQ/CrowdSource",
+      "npmUrl": "https://www.npmjs.com/package/%40oxyhq%2Fcrowdsource-contracts",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T22:41:27.830Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 70
+    },
+    {
       "name": "@p9v/core",
       "version": "0.0.1",
       "description": "Prefetch → View. A Relay-style data layer for REST + TanStack Query: fragment colocation, data masking, and prefetch enforcement that makes request waterfalls structurally impossible.",
@@ -5930,6 +6038,18 @@
       "score": 81
     },
     {
+      "name": "@pinooxhq/luma",
+      "version": "0.2.0",
+      "description": "Luma — A modern Vue 3 dashboard framework built on PrimeVue. Themeable, customizable, and ready for production.",
+      "license": "MIT",
+      "repository": "https://github.com/pinoox/luma",
+      "npmUrl": "https://www.npmjs.com/package/%40pinooxhq%2Fluma",
+      "category": "frontend",
+      "createdAt": "2026-07-29T21:19:55.592Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 81
+    },
+    {
       "name": "@plainconceptsplatform/loop-task",
       "version": "2.6.0",
       "description": "Loop engineering toolkit. Run any command on a cadence, in the background, managed from a terminal board. Schedule tests, builds, syncs, or agent prompts.",
@@ -6060,6 +6180,18 @@
       "createdAt": "2026-07-25T18:16:15.781Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 61
+    },
+    {
+      "name": "@promovaweb/clickupfy",
+      "version": "0.3.0",
+      "description": "CLI e servidor MCP para gerenciar Sprints e trabalho de desenvolvimento no ClickUp.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/promovaweb/clickupfy",
+      "npmUrl": "https://www.npmjs.com/package/%40promovaweb%2Fclickupfy",
+      "category": "cli",
+      "createdAt": "2026-07-29T22:46:53.408Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 68
     },
     {
       "name": "@psync/anti-jailbreak",
@@ -6278,6 +6410,18 @@
       "score": 76
     },
     {
+      "name": "@rayyyyyofsun/watchty",
+      "version": "0.1.0",
+      "description": "Watch Cursor Agent shell commands in Ghostty tabs (pull-mode works in any terminal)",
+      "license": "MIT",
+      "repository": "https://github.com/skyaara/watchty",
+      "npmUrl": "https://www.npmjs.com/package/%40rayyyyyofsun%2Fwatchty",
+      "category": "cli",
+      "createdAt": "2026-07-29T21:45:47.765Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 70
+    },
+    {
       "name": "@razorwind/design-md",
       "version": "0.0.4",
       "description": "Razorwind design-md package that can create a DESIGN.md design-system specification file from design tokens or read a DESIGN.md file and return the design-system specification.",
@@ -6386,6 +6530,18 @@
       "score": 56
     },
     {
+      "name": "@relintio/angular-agent",
+      "version": "1.0.0",
+      "description": "Official Angular WAF protection agent for Relintio.",
+      "license": "MIT",
+      "repository": "https://github.com/Relintio/relintio-angular-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fangular-agent",
+      "category": "frontend",
+      "createdAt": "2026-07-29T22:24:27.651Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 77
+    },
+    {
       "name": "@relintio/browser-core",
       "version": "1.0.0",
       "description": "Framework-agnostic browser agent core for Relintio. Shared by the React, Vue, Svelte, Angular and Expo SDKs.",
@@ -6422,6 +6578,30 @@
       "score": 78
     },
     {
+      "name": "@relintio/express",
+      "version": "1.0.0",
+      "description": "Express adapter for the Relintio agent. One app.use() for bot mitigation, threat detection and adaptive content protection.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Relintio/relintio-express-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fexpress",
+      "category": "backend",
+      "createdAt": "2026-07-29T22:24:14.890Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 88
+    },
+    {
+      "name": "@relintio/firebase",
+      "version": "1.0.0",
+      "description": "Relintio for Firebase Cloud Functions. Wraps an onRequest handler with the Node agent.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Relintio/relintio-firebase-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Ffirebase",
+      "category": "devops",
+      "createdAt": "2026-07-29T22:24:13.624Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 82
+    },
+    {
       "name": "@relintio/nuxt",
       "version": "1.0.0",
       "description": "Nuxt 3 module for Relintio. Nitro middleware on the server and challenge handling in the browser, with the right key on each side.",
@@ -6444,6 +6624,18 @@
       "createdAt": "2026-07-29T20:05:40.582Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 78
+    },
+    {
+      "name": "@relintio/vercel",
+      "version": "1.0.0",
+      "description": "Relintio as Vercel Edge Middleware. Blocks at the edge PoP before the request costs an invocation.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Relintio/relintio-vercel-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fvercel",
+      "category": "utilities",
+      "createdAt": "2026-07-29T22:24:17.197Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 85
     },
     {
       "name": "@relintio/vue-agent",
@@ -8894,6 +9086,18 @@
       "score": 71
     },
     {
+      "name": "analog-filter-designer",
+      "version": "1.0.0",
+      "description": "Browser-based analog filter design tool: complex-valued MNA solver, Bode/pole-zero/transient analysis, validated against ngspice.",
+      "license": "MIT",
+      "repository": "https://github.com/nishadsuresh/analog-filter-designer",
+      "npmUrl": "https://www.npmjs.com/package/analog-filter-designer",
+      "category": "frontend",
+      "createdAt": "2026-07-29T22:17:44.220Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 72
+    },
+    {
       "name": "anki-xml",
       "version": "0.0.1",
       "description": "AI-agent-friendly CLI for importing, querying, and updating Anki flashcards via AnkiConnect. Built for autonomous loops: deterministic, idempotent, recoverable, composable.",
@@ -9806,6 +10010,18 @@
       "score": 52
     },
     {
+      "name": "cloudflare-dynamic-dns-service",
+      "version": "1.0.0",
+      "description": "Cloudflare Dynamic DNS Service for Bun",
+      "license": "MIT",
+      "repository": "https://github.com/Avaray/cloudflare-dynamic-dns-service",
+      "npmUrl": "https://www.npmjs.com/package/cloudflare-dynamic-dns-service",
+      "category": "cli",
+      "createdAt": "2026-07-29T22:31:33.077Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 66
+    },
+    {
       "name": "cockroach-browser",
       "version": "0.1.0",
       "description": "A local-first browser runtime for AI agents with authorized sessions, snapshot-scoped references, evidence capture, MCP, and Maqam policy hooks.",
@@ -10260,6 +10476,18 @@
       "createdAt": "2026-07-29T16:42:34.861Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 96
+    },
+    {
+      "name": "dependency-companion",
+      "version": "1.0.1",
+      "description": "Interactive dependency analyzer and architecture companion for JavaScript and TypeScript codebases",
+      "license": "MIT",
+      "repository": "https://github.com/nihadio/dependency-companion",
+      "npmUrl": "https://www.npmjs.com/package/dependency-companion",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T18:46:38.342Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 85
     },
     {
       "name": "design-lagann",
@@ -11016,6 +11244,18 @@
       "createdAt": "2026-07-25T16:40:15.010Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 86
+    },
+    {
+      "name": "gemini-web-sdk",
+      "version": "2.2.0",
+      "description": "Unofficial Node.js client for gemini.google.com — inspired by Gemini-API (Python). Supports streaming, chat sessions, gems, file uploads, and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/Expert-Vision-Software/gemini-web-sdk",
+      "npmUrl": "https://www.npmjs.com/package/gemini-web-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-29T22:37:36.497Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 95
     },
     {
       "name": "generated-web-client",
@@ -12470,6 +12710,18 @@
       "score": 76
     },
     {
+      "name": "mdns-local",
+      "version": "0.1.0",
+      "description": "Pure JavaScript mDNS/DNS-SD for Node.js - service discovery and advertising for local networks. Callback-based, dual-stack IPv4/IPv6, RFC 6762/6763 compliant. No native bindings.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/colocohen/mdns-local",
+      "npmUrl": "https://www.npmjs.com/package/mdns-local",
+      "category": "utilities",
+      "createdAt": "2026-07-29T22:46:37.007Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 87
+    },
+    {
       "name": "medusa-search-select",
       "version": "0.1.0",
       "description": "A searchable, accessible select/combobox component for React, built for Medusa.js storefronts and admin dashboards (but usable in any React app).",
@@ -13430,6 +13682,18 @@
       "score": 78
     },
     {
+      "name": "paganel-ui",
+      "version": "0.2.0",
+      "description": "A Tailwind CSS based design system: component classes + vanilla JS behaviors, framework-agnostic (Rails, plain HTML, or any JS toolchain).",
+      "license": "MIT",
+      "repository": "https://github.com/ihortok/paganel-ui",
+      "npmUrl": "https://www.npmjs.com/package/paganel-ui",
+      "category": "frontend",
+      "createdAt": "2026-07-27T11:03:15.564Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 77
+    },
+    {
       "name": "paletteguard",
       "version": "0.1.0",
       "description": "Find chart colours your colourblind users can't tell apart. Runs in CI.",
@@ -13884,6 +14148,18 @@
       "createdAt": "2026-07-28T22:38:42.700Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 58
+    },
+    {
+      "name": "port-mapper",
+      "version": "0.1.0",
+      "description": "Pure JavaScript NAT port mapping for Node.js — UPnP-IGD, NAT-PMP and PCP. Client, server and diagnostics.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/colocohen/port-mapper",
+      "npmUrl": "https://www.npmjs.com/package/port-mapper",
+      "category": "backend",
+      "createdAt": "2026-07-29T22:35:11.056Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 80
     },
     {
       "name": "portable-agent-stack",
@@ -15722,6 +15998,18 @@
       "score": 82
     },
     {
+      "name": "turnlens",
+      "version": "0.1.1",
+      "description": "Per-turn token and cost monitoring for AI coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/kelesmert/turnlens",
+      "npmUrl": "https://www.npmjs.com/package/turnlens",
+      "category": "cli",
+      "createdAt": "2026-07-29T21:48:57.274Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 62
+    },
+    {
       "name": "twenty-bells",
       "version": "1.0.0",
       "description": "The Bell — an activity feed for Twenty: what changed in the workspace, team notes with their comments, documents, and the tasks that are overdue.",
@@ -16212,6 +16500,18 @@
       "createdAt": "2026-07-29T08:04:18.904Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 74
+    },
+    {
+      "name": "weavatrix-js",
+      "version": "0.3.15",
+      "description": "JavaScript engine of Weavatrix, the local repository intelligence MCP for AI coding agents: an always-fresh architecture graph with production-first evidence — blast radius, dead code, endpoints, clones, history, Health and architecture safeguards, with h",
+      "license": "MIT",
+      "repository": "https://github.com/sergii-ziborov/weavatrix-js",
+      "npmUrl": "https://www.npmjs.com/package/weavatrix-js",
+      "category": "utilities",
+      "createdAt": "2026-07-29T22:18:36.377Z",
+      "discoveredAt": "2026-07-29T22:53:38.817Z",
+      "score": 90
     },
     {
       "name": "weaveeye-scan",
