@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122278606,
-  "lastRunAt": "2026-07-29T22:53:38.817Z",
+  "lastSequence": 122283853,
+  "lastRunAt": "2026-07-29T23:51:07.640Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@medyll/idae-machine-server",
+      "name": "@osdk/integration-testing",
+      "attempts": 1
+    },
+    {
+      "name": "@chamba/opencode-extras",
       "attempts": 1
     }
   ]

@@ -830,6 +830,66 @@
       "score": 84
     },
     {
+      "name": "@axiomify/cache",
+      "version": "7.0.1",
+      "description": "Response caching for Axiomify — ETag/conditional GET for dynamic responses, Cache-Control helpers, pluggable memory/Redis stores, stale-while-revalidate.",
+      "license": "MIT",
+      "repository": "https://github.com/OTopman/axiomify",
+      "npmUrl": "https://www.npmjs.com/package/%40axiomify%2Fcache",
+      "category": "data",
+      "createdAt": "2026-07-29T23:09:10.141Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 77
+    },
+    {
+      "name": "@axiomify/compress",
+      "version": "7.0.1",
+      "description": "HTTP response compression for Axiomify — brotli, gzip and deflate with content negotiation, streaming support and sensible MIME/size heuristics.",
+      "license": "MIT",
+      "repository": "https://github.com/OTopman/axiomify",
+      "npmUrl": "https://www.npmjs.com/package/%40axiomify%2Fcompress",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:09:25.052Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 66
+    },
+    {
+      "name": "@axiomify/db",
+      "version": "7.0.1",
+      "description": "Database integration for Axiomify — register any client (Prisma, Drizzle, pg, mysql2, better-sqlite3) through DI with health checks, graceful shutdown and vault-scoped credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/OTopman/axiomify",
+      "npmUrl": "https://www.npmjs.com/package/%40axiomify%2Fdb",
+      "category": "data",
+      "createdAt": "2026-07-29T23:09:34.793Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 82
+    },
+    {
+      "name": "@axiomify/session",
+      "version": "7.0.1",
+      "description": "Cookie sessions for Axiomify — signed session cookies, pluggable stores (memory shipped, Redis/DB via SessionStore interface), rolling expiry and ID regeneration.",
+      "license": "MIT",
+      "repository": "https://github.com/OTopman/axiomify",
+      "npmUrl": "https://www.npmjs.com/package/%40axiomify%2Fsession",
+      "category": "data",
+      "createdAt": "2026-07-29T23:10:13.009Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 75
+    },
+    {
+      "name": "@axiomify/testing",
+      "version": "7.0.1",
+      "description": "Inject-style testing utilities for Axiomify — no sockets, no ports: build requests, capture responses, assert against route Zod schemas.",
+      "license": "MIT",
+      "repository": "https://github.com/OTopman/axiomify",
+      "npmUrl": "https://www.npmjs.com/package/%40axiomify%2Ftesting",
+      "category": "testing",
+      "createdAt": "2026-07-29T23:10:22.137Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 68
+    },
+    {
       "name": "@axxify/agents",
       "version": "1.0.0",
       "description": "Pre-built AI agents for AgentOS (Research, Planner, Coder, Reviewer, Memory, Support, Finance, Vision, Email, Browser, SQL, Supervisor, Judge)",
@@ -960,6 +1020,18 @@
       "createdAt": "2026-07-28T21:26:51.800Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 79
+    },
+    {
+      "name": "@bbridge/sdk",
+      "version": "0.1.0",
+      "description": "Reference TypeScript client for the eCash (XEC) <-> Ethereum bridge",
+      "license": "MIT",
+      "repository": "https://github.com/badger-cash/bbridge",
+      "npmUrl": "https://www.npmjs.com/package/%40bbridge%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T23:40:48.512Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 68
     },
     {
       "name": "@belalwaheed/octagon-mist",
@@ -1200,6 +1272,18 @@
       "createdAt": "2026-07-25T15:08:43.850Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 68
+    },
+    {
+      "name": "@bymax-one/nest-cache",
+      "version": "1.0.0",
+      "description": "Typed Redis cache for NestJS based on ioredis 5, with namespace strategy, Pub/Sub and Lua script management.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-cache",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-cache",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:11:04.879Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 88
     },
     {
       "name": "@caldera18/smartfetch",
@@ -2414,6 +2498,18 @@
       "score": 61
     },
     {
+      "name": "@eksses/eafe",
+      "version": "11.0.2",
+      "description": "Autonomous elytra flight engine for mineflayer — fly anywhere in Minecraft with 3 lines of code. Handles takeoff, climb, cruise, terrain avoidance, and safe landing automatically.",
+      "license": "MIT",
+      "repository": "https://github.com/eksses/EAFE",
+      "npmUrl": "https://www.npmjs.com/package/%40eksses%2Feafe",
+      "category": "cli",
+      "createdAt": "2026-07-29T23:42:36.768Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 70
+    },
+    {
       "name": "@envpit/sdk",
       "version": "0.1.0",
       "description": "Official Node.js/TypeScript SDK for EnvPit — configuration & secrets management without enterprise complexity.",
@@ -2762,6 +2858,18 @@
       "score": 87
     },
     {
+      "name": "@formisch/react-native",
+      "version": "0.1.0",
+      "description": "The lightweight, schema-first, and fully type-safe form library for React Native",
+      "license": "MIT",
+      "repository": "https://github.com/open-circle/formisch",
+      "npmUrl": "https://www.npmjs.com/package/%40formisch%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-07-29T23:31:48.333Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 58
+    },
+    {
       "name": "@fredng-missionplus/slack-mcp",
       "version": "4.7.0",
       "description": "Slack MCP without OAuth — 21 tools, session-based, local-first. Free OSS + hosted tier from $19/mo.",
@@ -3095,6 +3203,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-27T23:27:02.513Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/bbl",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BBL (build etherscan-bbl-d979c468-1785367033740, commit 72db935, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/bbl",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbbl",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T23:17:37.655Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 56
     },
     {
@@ -5090,6 +5210,18 @@
       "score": 79
     },
     {
+      "name": "@meclabsai/sdk",
+      "version": "0.1.0",
+      "description": "Official TypeScript SDK for the MeclabsAI public API",
+      "license": "MIT",
+      "repository": "https://github.com/Convrrt/vega",
+      "npmUrl": "https://www.npmjs.com/package/%40meclabsai%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:02:28.285Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 73
+    },
+    {
       "name": "@mediaforge/blastradius",
       "version": "0.2.0",
       "description": "What can the credentials on this machine actually destroy?",
@@ -5100,6 +5232,30 @@
       "createdAt": "2026-07-29T13:20:56.822Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 69
+    },
+    {
+      "name": "@medicine-wheel/creative-problem-solving",
+      "version": "0.5.5",
+      "description": "Creative problem solving, routed at the door: name the prior state you are restoring. Named one — this is a fire, and gap analysis is the right instrument. Named none — you are creating, and structural tension is. Re-exports @medicine-wheel/creative-orien",
+      "license": "MIT",
+      "repository": "https://github.com/jgwill/medicine-wheel",
+      "npmUrl": "https://www.npmjs.com/package/%40medicine-wheel%2Fcreative-problem-solving",
+      "category": "devops",
+      "createdAt": "2026-07-26T06:14:29.325Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 57
+    },
+    {
+      "name": "@medicine-wheel/infra",
+      "version": "0.5.5",
+      "description": "Typed infrastructure facets for the Medicine Wheel Developer Suite — hosts, tenants, services, and port bindings as facets keyed by relational node id, with port-conflict detection over declared ∪ observed state",
+      "license": "MIT",
+      "repository": "https://github.com/jgwill/medicine-wheel",
+      "npmUrl": "https://www.npmjs.com/package/%40medicine-wheel%2Finfra",
+      "category": "data",
+      "createdAt": "2026-07-29T23:19:35.321Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 64
     },
     {
       "name": "@medyll/idae-sync",
@@ -5256,6 +5412,18 @@
       "createdAt": "2026-07-29T15:11:54.244Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 91
+    },
+    {
+      "name": "@microsoft/wiqd",
+      "version": "0.9.0",
+      "description": "Work IQ Dev — developer CLI for M365 Copilot agent lifecycle",
+      "license": "MIT",
+      "repository": "https://github.com/microsoft/wiqd",
+      "npmUrl": "https://www.npmjs.com/package/%40microsoft%2Fwiqd",
+      "category": "cli",
+      "createdAt": "2026-07-28T19:23:30.105Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 66
     },
     {
       "name": "@minhduydev/pi-harness",
@@ -5556,6 +5724,18 @@
       "createdAt": "2026-07-27T20:20:49.667Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 84
+    },
+    {
+      "name": "@next-lane/mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol (MCP) server for Next Lane — read & write a project's workflows/SDLC and core entities from external agents (Claude Desktop, Claude Code, etc.).",
+      "license": "MIT",
+      "repository": "https://github.com/Overcastly-AI/Next-Lane",
+      "npmUrl": "https://www.npmjs.com/package/%40next-lane%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:35:14.276Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 86
     },
     {
       "name": "@next-server-tools/standalone",
@@ -7380,6 +7560,18 @@
       "createdAt": "2026-07-25T22:06:53.993Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 78
+    },
+    {
+      "name": "@stopcock/fp-compiler",
+      "version": "2.0.0",
+      "description": "Build-time lowering for portable Stopcock FP pipelines",
+      "license": "MIT",
+      "repository": "https://github.com/tdeaks/stopcock",
+      "npmUrl": "https://www.npmjs.com/package/%40stopcock%2Ffp-compiler",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T21:08:03.995Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 65
     },
     {
       "name": "@storybrandhq/gtm-cookie-consent",
@@ -10190,6 +10382,18 @@
       "score": 81
     },
     {
+      "name": "contractbot",
+      "version": "0.1.1",
+      "description": "Review approved OpenAPI contract changes and verify compatibility in CI.",
+      "license": "MIT",
+      "repository": "https://github.com/optimusbuilder/contractbot",
+      "npmUrl": "https://www.npmjs.com/package/contractbot",
+      "category": "testing",
+      "createdAt": "2026-07-27T14:37:28.459Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 65
+    },
+    {
       "name": "convex-oxlint",
       "version": "1.0.0",
       "description": "Oxlint port of @convex-dev/eslint-plugin — a drop-in replacement that keeps the same rule ids, messages, spans and fixes.",
@@ -10934,6 +11138,18 @@
       "score": 78
     },
     {
+      "name": "express-token-revoker",
+      "version": "0.1.0",
+      "description": "High-performance, crash-safe token revocation middleware for Express — Bloom filters with automatic rotation, WAL-based crash recovery, and optional gRPC admin.",
+      "license": "MIT",
+      "repository": "https://github.com/pierreraby/express-token-revoker",
+      "npmUrl": "https://www.npmjs.com/package/express-token-revoker",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:10:26.579Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 84
+    },
+    {
       "name": "faster-latex",
       "version": "0.1.0",
       "description": "Render full LaTeX documents to HTML (with MathML math) in the browser — pure Rust compiled to WebAssembly.",
@@ -11100,6 +11316,18 @@
       "createdAt": "2026-07-29T13:18:17.173Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 84
+    },
+    {
+      "name": "flag-resizer",
+      "version": "0.0.2",
+      "description": "Generate typed, optimized PNG and WebP flag assets from bundled SVG artwork.",
+      "license": "MIT AND CC-BY-4.0",
+      "repository": "https://github.com/Celtian/flag-resizer",
+      "npmUrl": "https://www.npmjs.com/package/flag-resizer",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T23:13:49.831Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 69
     },
     {
       "name": "flatcash-mcp",
@@ -12120,6 +12348,18 @@
       "createdAt": "2026-07-25T23:56:38.125Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 75
+    },
+    {
+      "name": "lazy-progressive-image",
+      "version": "1.0.0",
+      "description": "Universal progressive image loading component for Web Components and React.",
+      "license": "MIT",
+      "repository": "https://github.com/jcscott2015/lazy-progressive-image",
+      "npmUrl": "https://www.npmjs.com/package/lazy-progressive-image",
+      "category": "frontend",
+      "createdAt": "2026-07-29T23:32:07.171Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 67
     },
     {
       "name": "lbp-growth-calendar-cli",
@@ -13274,6 +13514,18 @@
       "score": 71
     },
     {
+      "name": "node-ai-env",
+      "version": "0.1.0",
+      "description": "Fast, modern, beautiful environment variable validation library for Node.js and Bun",
+      "license": "MIT",
+      "repository": "https://github.com/dew-coders/node-ai-env",
+      "npmUrl": "https://www.npmjs.com/package/node-ai-env",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T22:58:26.632Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 76
+    },
+    {
       "name": "node-red-contrib-gx-ble",
       "version": "0.1.0",
       "description": "BLE device discovery and battery/BMS status nodes for Node-RED on Victron Venus OS (Cerbo GX) and any Linux with BlueZ — pure JS over D-Bus, no root, no compiled code",
@@ -14414,6 +14666,18 @@
       "score": 77
     },
     {
+      "name": "rampa-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Rampa — LATAM stablecoin cash-out, FX, spreads, yields and withdrawal fees. Free comparison tools out of the box; paid endpoints via x402 on Algorand when you configure a wallet.",
+      "license": "MIT",
+      "repository": "https://github.com/javierpmateos/rampa-x402",
+      "npmUrl": "https://www.npmjs.com/package/rampa-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:29:57.191Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 66
+    },
+    {
       "name": "react-device-lab",
       "version": "1.0.0",
       "description": "Accessible React components for previewing web applications across named device viewports.",
@@ -14954,6 +15218,18 @@
       "score": 97
     },
     {
+      "name": "run-dex",
+      "version": "0.1.0",
+      "description": "CLI-based multi-agent coding orchestrator — plan, execute, review on top of any coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/Nishchal-007/dex",
+      "npmUrl": "https://www.npmjs.com/package/run-dex",
+      "category": "cli",
+      "createdAt": "2026-07-29T23:49:51.765Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 79
+    },
+    {
       "name": "safe-whatsapp-mcp",
       "version": "0.2.0",
       "description": "Local MCP server for reading a personal WhatsApp linked device and sending through an editable private browser review.",
@@ -15216,6 +15492,18 @@
       "createdAt": "2026-07-26T11:31:12.879Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 76
+    },
+    {
+      "name": "shopify-scraper",
+      "version": "1.0.0",
+      "description": "A general-purpose Shopify product scraper. Feed it collection URLs, get back a JSON array of products.",
+      "license": "MIT",
+      "repository": "https://github.com/seancanlas/shopify-scraper",
+      "npmUrl": "https://www.npmjs.com/package/shopify-scraper",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:01:18.336Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 62
     },
     {
       "name": "sidder",
@@ -16476,6 +16764,18 @@
       "createdAt": "2026-07-26T03:46:50.146Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 83
+    },
+    {
+      "name": "wayleave",
+      "version": "0.1.2",
+      "description": "Charge AI agents for passage across your app. Verify agent signatures (Web Bot Auth / Ed25519), classify every request, and return 402 with a price on routes you choose. Humans browse free.",
+      "license": "MIT",
+      "repository": "https://github.com/gibrancorbin11-hub/wayleave",
+      "npmUrl": "https://www.npmjs.com/package/wayleave",
+      "category": "backend",
+      "createdAt": "2026-07-29T23:19:39.585Z",
+      "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 57
     },
     {
       "name": "wdio-pretty-json-reporter",
