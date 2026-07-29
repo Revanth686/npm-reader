@@ -62,6 +62,18 @@
       "score": 76
     },
     {
+      "name": "@absuitecore/trust",
+      "version": "1.0.0",
+      "description": "Evidence-based trust for multi-agent systems: explainable scores, output grounding checks, agent-to-agent monitoring, correlation-aware arbitration and reciprocal contracts.",
+      "license": "MIT",
+      "repository": "https://github.com/iamGodofall/ABSuite-core",
+      "npmUrl": "https://www.npmjs.com/package/%40absuitecore%2Ftrust",
+      "category": "devops",
+      "createdAt": "2026-07-29T04:04:51.850Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 89
+    },
+    {
       "name": "@adaskothebeast/http-params-processor-value-from-decimal",
       "version": "12.0.0",
       "description": "decimal.js input strategy for HttpParamsProcessor, enabling lossless decimal query parameters.",
@@ -1886,6 +1898,18 @@
       "score": 64
     },
     {
+      "name": "@doubleflower/pi-claude",
+      "version": "0.82.2",
+      "description": "Claude Code-styled fork of Pi, a coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/CoderDoubleflower/pi-claude",
+      "npmUrl": "https://www.npmjs.com/package/%40doubleflower%2Fpi-claude",
+      "category": "cli",
+      "createdAt": "2026-07-29T04:22:08.008Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 76
+    },
+    {
       "name": "@dror-jp/yasashii-org-mcp",
       "version": "1.0.0",
       "description": "MCP server for yasashii.org — human-verified Easy Japanese (やさしい日本語) versions of Japanese administrative procedures and disaster-preparedness information. Zero dependencies.",
@@ -1980,6 +2004,18 @@
       "createdAt": "2026-07-26T15:24:29.865Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 61
+    },
+    {
+      "name": "@envpit/sdk",
+      "version": "0.1.0",
+      "description": "Official Node.js/TypeScript SDK for EnvPit — configuration & secrets management without enterprise complexity.",
+      "license": "MIT",
+      "repository": "https://github.com/ShoDeBiz/envpit-community",
+      "npmUrl": "https://www.npmjs.com/package/%40envpit%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T04:02:12.406Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 71
     },
     {
       "name": "@essence-lang/stdlib",
@@ -3206,6 +3242,30 @@
       "score": 60
     },
     {
+      "name": "@guardion/shadow-ai",
+      "version": "0.1.0",
+      "description": "Cross-platform Shadow AI discovery — inventories AI apps, agents, MCP servers, skills and plugins on a device",
+      "license": "MIT",
+      "repository": "https://github.com/GuardionAI/guardion",
+      "npmUrl": "https://www.npmjs.com/package/%40guardion%2Fshadow-ai",
+      "category": "backend",
+      "createdAt": "2026-07-29T03:25:48.569Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 72
+    },
+    {
+      "name": "@guuey/widget-auth",
+      "version": "0.1.0",
+      "description": "Mint end-user identity tokens for a guuey embeddable widget from your own backend. One call, zero runtime dependencies — your app secret stays on your server and the platform holds the signing key.",
+      "license": "MIT",
+      "repository": "https://github.com/withguuey/guuey-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40guuey%2Fwidget-auth",
+      "category": "backend",
+      "createdAt": "2026-07-29T02:51:22.986Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 81
+    },
+    {
       "name": "@handiapp/mcp",
       "version": "1.0.0",
       "description": "MCP server for HANDI — find verified artisans, browse the shop, and manage a cart from an LLM.",
@@ -3890,6 +3950,18 @@
       "score": 73
     },
     {
+      "name": "@kubohiroya/turbowarp-async-input",
+      "version": "0.1.0",
+      "description": "A target-scoped asynchronous keyboard, pointer, and accumulated pose input extension for TurboWarp.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/kubohiroya/turbowarp-async-input",
+      "npmUrl": "https://www.npmjs.com/package/%40kubohiroya%2Fturbowarp-async-input",
+      "category": "utilities",
+      "createdAt": "2026-07-29T04:18:36.735Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 69
+    },
+    {
       "name": "@kuralle-syrinx/cli",
       "version": "4.4.0",
       "description": "Agent-facing CLI for Syrinx — run a turn or a text exchange with deterministic, machine-readable (--json) output and exit codes. Not a console: no REPL, no chat loop, no microphone.",
@@ -4440,6 +4512,18 @@
       "createdAt": "2026-07-27T07:02:01.079Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 96
+    },
+    {
+      "name": "@muhammadusmangm/loopguard",
+      "version": "0.1.0",
+      "description": "A linter and governance layer for AI agent loops. Catches runaway, unverified, or unsupervised agentic loops before they cost you.",
+      "license": "MIT",
+      "repository": "https://github.com/MuhammadUsmanGM/loopguard",
+      "npmUrl": "https://www.npmjs.com/package/%40muhammadusmangm%2Floopguard",
+      "category": "utilities",
+      "createdAt": "2026-07-29T05:02:39.388Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 76
     },
     {
       "name": "@musepi/pi-agent-core",
@@ -5870,6 +5954,18 @@
       "score": 64
     },
     {
+      "name": "@snae/n8n-nodes-puppeteer",
+      "version": "1.5.2",
+      "description": "n8n node for browser automation using Puppeteer (forked from drudge/n8n-nodes-puppeteer with dependency fix for n8n community node installer)",
+      "license": "MIT",
+      "repository": "https://github.com/imsnae/n8n-nodes-puppeteer",
+      "npmUrl": "https://www.npmjs.com/package/%40snae%2Fn8n-nodes-puppeteer",
+      "category": "frontend",
+      "createdAt": "2026-07-29T03:07:18.178Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 92
+    },
+    {
       "name": "@sonn-audio/node-upnp",
       "version": "0.1.0",
       "description": "UPnP AV toolkit: SSDP, SOAP, DIDL-Lite, GENA, plus a MediaRenderer server, a control-point client, and a MediaServer framework. Protocol only — inject your own content and playback.",
@@ -6182,6 +6278,18 @@
       "score": 81
     },
     {
+      "name": "@sweetsunnyflower/react-smart-captcha",
+      "version": "0.1.1",
+      "description": "Framework-portable human-verification library. Seven builtin captcha kinds behind one React widget, server-side authority, inline-baked image assets, zero third-party service.",
+      "license": "MIT",
+      "repository": "https://github.com/SweetSunnyFlower/react-smart-captcha",
+      "npmUrl": "https://www.npmjs.com/package/%40sweetsunnyflower%2Freact-smart-captcha",
+      "category": "frontend",
+      "createdAt": "2026-07-29T02:31:41.077Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 87
+    },
+    {
       "name": "@swifty.js/swiftx",
       "version": "0.0.1",
       "description": "Swiftx — Native cli coding agent",
@@ -6228,6 +6336,18 @@
       "createdAt": "2026-07-25T16:41:36.964Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 66
+    },
+    {
+      "name": "@takustaqu/atmosphere",
+      "version": "0.1.0",
+      "description": "A WebGL renderer that reproduces the sky from time and weather",
+      "license": "MIT",
+      "repository": "https://github.com/takustaqu/atmosphere",
+      "npmUrl": "https://www.npmjs.com/package/%40takustaqu%2Fatmosphere",
+      "category": "devops",
+      "createdAt": "2026-07-29T04:00:01.619Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 72
     },
     {
       "name": "@tanglat/splitfx",
@@ -6300,6 +6420,18 @@
       "createdAt": "2026-07-27T22:16:05.131Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 60
+    },
+    {
+      "name": "@theabmmohi/bohudur",
+      "version": "1.0.0",
+      "description": "Unofficial Node.js SDK for the Bohudur Payment API",
+      "license": "MIT",
+      "repository": "https://github.com/theabmmohi/bohudur",
+      "npmUrl": "https://www.npmjs.com/package/%40theabmmohi%2Fbohudur",
+      "category": "backend",
+      "createdAt": "2026-07-29T04:11:47.028Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 69
     },
     {
       "name": "@theasanai/beacon",
@@ -6554,6 +6686,18 @@
       "score": 70
     },
     {
+      "name": "@usefy/json-viewer",
+      "version": "0.2.0",
+      "description": "Virtualized JSON tree viewer for React — bounded DOM at any payload size via a lazy order-statistic index, chunked search, and a zero-dependency headless core",
+      "license": "MIT",
+      "repository": "https://github.com/mirunamu00/usefy",
+      "npmUrl": "https://www.npmjs.com/package/%40usefy%2Fjson-viewer",
+      "category": "frontend",
+      "createdAt": "2026-07-29T05:08:20.538Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 85
+    },
+    {
       "name": "@usefy/qr-code",
       "version": "0.2.0",
       "description": "QR code generator for React — hand-written ISO/IEC 18004 encoder with Reed–Solomon error correction, SVG/canvas/PNG output, module & eye shapes, gradients, logo embedding with scannability validation, and a zero-dependency RSC-safe headless core",
@@ -6648,6 +6792,18 @@
       "createdAt": "2026-07-28T12:16:19.719Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 77
+    },
+    {
+      "name": "@vaduno/stripe",
+      "version": "0.1.1",
+      "description": "Stripe Issuing rail adapter for Vaduno. Makes the guard the real-time authorization brain for card charges — approve/decline each issuing_authorization.request by policy, within Stripe's 2s window, hash-chained. Never holds keys to funds or card PANs.",
+      "license": "MIT",
+      "repository": "https://github.com/premsreelathasugeendran/vaduno",
+      "npmUrl": "https://www.npmjs.com/package/%40vaduno%2Fstripe",
+      "category": "cli",
+      "createdAt": "2026-07-28T12:17:07.029Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 72
     },
     {
       "name": "@vaduno/transparency",
@@ -7368,6 +7524,18 @@
       "createdAt": "2026-07-28T00:49:03.964Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 100
+    },
+    {
+      "name": "agentdyno",
+      "version": "0.7.4",
+      "description": "The dyno bench for local coding agents: scan your machine, fit the right open model, and PROVE it can drive tools before you wire up Goose or Cline. Includes a guided setup wizard (CLI or browser UI), model switcher, local dashboard/API, LAN/remote mode,",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sauravGit/agentdyno",
+      "npmUrl": "https://www.npmjs.com/package/agentdyno",
+      "category": "frontend",
+      "createdAt": "2026-07-29T02:24:12.750Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 75
     },
     {
       "name": "agentlongevity",
@@ -8834,6 +9002,18 @@
       "score": 80
     },
     {
+      "name": "emoji-remover-js",
+      "version": "1.0.0",
+      "description": "Fast, lightweight, and Unicode-aware toolkit to remove, detect, extract, replace, and clean emojis in JavaScript and Node.js applications.",
+      "license": "MIT",
+      "repository": "https://github.com/ashraf-g/emoji-remover",
+      "npmUrl": "https://www.npmjs.com/package/emoji-remover-js",
+      "category": "utilities",
+      "createdAt": "2026-07-29T04:33:07.799Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 84
+    },
+    {
       "name": "en16931",
       "version": "0.1.0",
       "description": "EN 16931 e-invoice validation in pure TypeScript — runs the official CEF Schematron artefacts (CII stable, UBL experimental) without Java or Docker",
@@ -9360,6 +9540,18 @@
       "createdAt": "2026-07-25T17:00:38.416Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 79
+    },
+    {
+      "name": "gutterpress",
+      "version": "0.0.0",
+      "description": "Markdown-to-PDF converter for professional print layout using Paged.js and Ghostscript.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/dimm-city/gutterpress",
+      "npmUrl": "https://www.npmjs.com/package/gutterpress",
+      "category": "utilities",
+      "createdAt": "2026-07-29T03:07:14.056Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 74
     },
     {
       "name": "halon-sdk",
@@ -11198,6 +11390,18 @@
       "score": 75
     },
     {
+      "name": "opencode-github-sync",
+      "version": "3.0.1",
+      "description": "Sync your OpenCode config, skills, and selected sessions across machines via a private GitHub repo — as a plugin or a CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/doomsday616/opencode-github-sync",
+      "npmUrl": "https://www.npmjs.com/package/opencode-github-sync",
+      "category": "cli",
+      "createdAt": "2026-07-29T03:21:52.428Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 79
+    },
+    {
       "name": "opencode-qoder-bridge",
       "version": "0.1.0",
       "description": "opencode plugin that bridges Qoder AI models via @qoder-ai/qoder-agent-sdk",
@@ -11342,6 +11546,18 @@
       "score": 78
     },
     {
+      "name": "paletteguard",
+      "version": "0.1.0",
+      "description": "Find chart colours your colourblind users can't tell apart. Runs in CI.",
+      "license": "MIT",
+      "repository": "https://github.com/Rudevin17/PaletteGuard",
+      "npmUrl": "https://www.npmjs.com/package/paletteguard",
+      "category": "data",
+      "createdAt": "2026-07-29T03:29:56.169Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 77
+    },
+    {
       "name": "papercade",
       "version": "0.2.0",
       "description": "A pixel × hand-drawn design library. NES.css × Excalidraw, with a character in it.",
@@ -11378,6 +11594,18 @@
       "score": 82
     },
     {
+      "name": "payload-plugin-unirate",
+      "version": "0.1.0",
+      "description": "Payload CMS v3 plugin for the UniRate currency-exchange API — server-side proxy endpoints (rate/convert/currencies/vat) and a prefilled currency select field. Zero runtime deps.",
+      "license": "MIT",
+      "repository": "https://github.com/UniRate-API/payload-plugin-unirate",
+      "npmUrl": "https://www.npmjs.com/package/payload-plugin-unirate",
+      "category": "backend",
+      "createdAt": "2026-07-29T04:11:03.460Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 72
+    },
+    {
       "name": "pgcloak",
       "version": "0.1.0",
       "description": "Mask real PII in a Postgres database for safe local development and testing.",
@@ -11402,6 +11630,18 @@
       "score": 72
     },
     {
+      "name": "pi-ai-git-commit",
+      "version": "0.0.2",
+      "description": "A Pi extension that generates and reviews Git commit messages through a side-channel LLM call.",
+      "license": "MIT",
+      "repository": "https://github.com/xiaoyang33/pi-ai-git-commit",
+      "npmUrl": "https://www.npmjs.com/package/pi-ai-git-commit",
+      "category": "utilities",
+      "createdAt": "2026-07-29T04:52:50.487Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 73
+    },
+    {
       "name": "pi-browse-replies",
       "version": "0.1.0",
       "description": "Browse, edit, and cleanly copy previous Pi assistant replies from the prompt editor.",
@@ -11412,6 +11652,18 @@
       "createdAt": "2026-07-25T19:41:10.688Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 53
+    },
+    {
+      "name": "pi-ccg",
+      "version": "3.2.5",
+      "description": "Pi CLI workflow with bounded dynamic subagents, role-specific models, automated testing, and targeted review loops",
+      "license": "MIT",
+      "repository": "https://github.com/qinye6/pi-ccg",
+      "npmUrl": "https://www.npmjs.com/package/pi-ccg",
+      "category": "testing",
+      "createdAt": "2026-07-27T13:49:32.097Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 76
     },
     {
       "name": "pi-doppelclaude",
@@ -12650,6 +12902,18 @@
       "score": 76
     },
     {
+      "name": "slicekit",
+      "version": "0.1.0",
+      "description": "Sync marked-up slices of your files against slices published in git repositories.",
+      "license": "MIT",
+      "repository": "https://github.com/brianwestphal/slicekit",
+      "npmUrl": "https://www.npmjs.com/package/slicekit",
+      "category": "cli",
+      "createdAt": "2026-07-29T03:33:58.726Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 70
+    },
+    {
       "name": "sntnl-cli",
       "version": "4.0.0",
       "description": "Sentinel Security Intelligence — SAST, supply chain, threat intel, and Skills/MCP for AI coding agents.",
@@ -12854,6 +13118,18 @@
       "score": 78
     },
     {
+      "name": "style-alignment",
+      "version": "2.0.0",
+      "description": "A multi-platform AI agent skill for pixel-level frontend design alignment with boundary enforcement and feedback-driven methodology evolution. Supports Claude Code, Codex, Cursor, TRAE, and AGENTS.md.",
+      "license": "MIT",
+      "repository": "https://github.com/Xstly1014/style-alignment",
+      "npmUrl": "https://www.npmjs.com/package/style-alignment",
+      "category": "frontend",
+      "createdAt": "2026-07-29T03:44:14.412Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 80
+    },
+    {
       "name": "stylewright",
       "version": "0.1.0",
       "description": "Writing skills for coding agents, distilled from named standards. Installs into Claude Code, Claude Cowork, and Codex.",
@@ -13044,6 +13320,18 @@
       "createdAt": "2026-07-25T23:14:03.736Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 56
+    },
+    {
+      "name": "threenative-asset-mcp",
+      "version": "0.4.0",
+      "description": "MCP server for discovering and safely downloading 3D and game-audio assets from curated public sources.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/jonit-dev/threenative-asset-mcp",
+      "npmUrl": "https://www.npmjs.com/package/threenative-asset-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T04:33:57.232Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 80
     },
     {
       "name": "tieline",
@@ -13608,6 +13896,18 @@
       "createdAt": "2026-07-28T12:13:21.135Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 89
+    },
+    {
+      "name": "weaveeye-scan",
+      "version": "0.3.1",
+      "description": "Fail your build when a tracker sends data before consent. A pre-consent tracking gate for CI (GDPR / ePrivacy / CIPA).",
+      "license": "MIT",
+      "repository": "https://github.com/mohitgauniyal/weaveeye-ci",
+      "npmUrl": "https://www.npmjs.com/package/weaveeye-scan",
+      "category": "testing",
+      "createdAt": "2026-07-29T04:11:05.081Z",
+      "discoveredAt": "2026-07-29T05:14:48.184Z",
+      "score": 73
     },
     {
       "name": "whatshipped",

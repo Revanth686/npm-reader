@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122087153,
-  "lastRunAt": "2026-07-29T01:51:35.570Z",
+  "lastSequence": 122107364,
+  "lastRunAt": "2026-07-29T05:14:48.184Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nodebuilder/n8n-nodes-probe4",
+      "attempts": 2
+    },
+    {
+      "name": "@habenula-ai/contracts",
       "attempts": 1
     },
     {
-      "name": "@neurcode-ai/share-format",
+      "name": "@habenula-ai/credentials",
+      "attempts": 1
+    },
+    {
+      "name": "@habenula-ai/engine",
+      "attempts": 1
+    },
+    {
+      "name": "@nguyenthdat/opencode-antigravity-auth",
+      "attempts": 1
+    },
+    {
+      "name": "@bigking67/review-craft",
       "attempts": 1
     }
   ]
