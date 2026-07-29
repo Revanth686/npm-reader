@@ -218,6 +218,18 @@
       "score": 83
     },
     {
+      "name": "@ae402/sdk",
+      "version": "0.1.0",
+      "description": "AgentEscrow402 TypeScript SDK — read-only HTTP client, Ed25519 signature verification, and HMAC-SHA256 webhook signature verification for AE402 escrow payments on Casper.",
+      "license": "MIT",
+      "repository": "https://github.com/alexbelij/AgentEscrow402",
+      "npmUrl": "https://www.npmjs.com/package/%40ae402%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-29T20:10:35.640Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 73
+    },
+    {
       "name": "@aethexai/react",
       "version": "1.0.0",
       "description": "React SDK for Aethex voice agents. useAethexCall() hides WebRTC entirely.",
@@ -2594,6 +2606,18 @@
       "score": 73
     },
     {
+      "name": "@forbes-placement/story-angle-generator",
+      "version": "1.0.0",
+      "description": "Forbes Story Angle Generator is an AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications.",
+      "license": "MIT",
+      "repository": "https://github.com/forbes-placement/forbes-story-angle-generator",
+      "npmUrl": "https://www.npmjs.com/package/%40forbes-placement%2Fstory-angle-generator",
+      "category": "data",
+      "createdAt": "2026-07-29T19:25:38.696Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 84
+    },
+    {
       "name": "@forinda/kickjs-grpc",
       "version": "0.0.0",
       "description": "Connect RPC transport for KickJS — gRPC, gRPC-Web, and Connect protocol served from your existing app, with decorators, DI, and Context Contributors",
@@ -3638,6 +3662,18 @@
       "score": 72
     },
     {
+      "name": "@gubernaut/plugin-gcc",
+      "version": "1.0.0",
+      "description": "ElizaOS plugin: route agent LLM calls through the Gubernaut Cognitive Controller (GCC) local proxy — deterministic homeostatic governance, runaway-loop hard-stop, and cost containment.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/thegubernaut/gubernaut",
+      "npmUrl": "https://www.npmjs.com/package/%40gubernaut%2Fplugin-gcc",
+      "category": "utilities",
+      "createdAt": "2026-07-29T19:15:55.250Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 71
+    },
+    {
       "name": "@guuey/widget-auth",
       "version": "0.1.0",
       "description": "Mint end-user identity tokens for a guuey embeddable widget from your own backend. One call, zero runtime dependencies — your app secret stays on your server and the platform holds the signing key.",
@@ -3804,6 +3840,18 @@
       "createdAt": "2026-07-27T01:22:48.399Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 69
+    },
+    {
+      "name": "@hokulanitopping/sync-client",
+      "version": "0.1.0",
+      "description": "Reusable offline-first sync layer (PowerSync) for company apps: local-first database client, REST upload connector, and sync-status UI.",
+      "license": "MIT",
+      "repository": "https://github.com/HokulaniTopping/offline-expo",
+      "npmUrl": "https://www.npmjs.com/package/%40hokulanitopping%2Fsync-client",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:14:58.302Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 77
     },
     {
       "name": "@honlnk/picsense",
@@ -4344,6 +4392,18 @@
       "createdAt": "2026-07-25T20:52:22.788Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 51
+    },
+    {
+      "name": "@klucznik/react-sortable-tree",
+      "version": "5.0.1",
+      "description": "Drag-and-drop sortable component for nested data and hierarchies",
+      "license": "MIT",
+      "repository": "https://github.com/klucznik/react-sortable-tree",
+      "npmUrl": "https://www.npmjs.com/package/%40klucznik%2Freact-sortable-tree",
+      "category": "frontend",
+      "createdAt": "2026-07-29T19:18:06.988Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 72
     },
     {
       "name": "@kora.kanchan/auria",
@@ -6170,6 +6230,78 @@
       "score": 73
     },
     {
+      "name": "@relintio/browser-core",
+      "version": "1.0.0",
+      "description": "Framework-agnostic browser agent core for Relintio. Shared by the React, Vue, Svelte, Angular and Expo SDKs.",
+      "license": "MIT",
+      "repository": "https://github.com/Relintio/relintio-browser-core",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fbrowser-core",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:04:18.498Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 80
+    },
+    {
+      "name": "@relintio/edge-core",
+      "version": "1.0.0",
+      "description": "The Relintio agent protocol for Web-standard edge runtimes. Shared engine behind @relintio/vercel and @relintio/supabase.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Relintio/relintio-edge-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fedge-core",
+      "category": "utilities",
+      "createdAt": "2026-07-29T20:04:24.616Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 90
+    },
+    {
+      "name": "@relintio/expo-agent",
+      "version": "1.0.0",
+      "description": "Official Expo and React Native WAF protection agent for Relintio.",
+      "license": "MIT",
+      "repository": "https://github.com/Relintio/relintio-expo-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fexpo-agent",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:06:18.009Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 78
+    },
+    {
+      "name": "@relintio/nuxt",
+      "version": "1.0.0",
+      "description": "Nuxt 3 module for Relintio. Nitro middleware on the server and challenge handling in the browser, with the right key on each side.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Relintio/relintio-nuxt-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fnuxt",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:05:29.758Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 89
+    },
+    {
+      "name": "@relintio/svelte-agent",
+      "version": "1.0.0",
+      "description": "Official Svelte and SvelteKit WAF protection agent for Relintio.",
+      "license": "MIT",
+      "repository": "https://github.com/Relintio/relintio-svelte-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fsvelte-agent",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:05:40.582Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 78
+    },
+    {
+      "name": "@relintio/vue-agent",
+      "version": "1.0.0",
+      "description": "Official Vue 3 WAF protection agent for Relintio.",
+      "license": "MIT",
+      "repository": "https://github.com/Relintio/relintio-vue-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40relintio%2Fvue-agent",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:05:49.051Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 76
+    },
+    {
       "name": "@remnic/capture-screen",
       "version": "9.24.1",
       "description": "Desktop screen-activity capture daemon for Remnic — local spool, loopback HTTP API, and replay ingestion for the activity source `screen` (à-la-carte)",
@@ -6470,6 +6602,30 @@
       "score": 78
     },
     {
+      "name": "@shbernal/ts-pptx",
+      "version": "0.0.1",
+      "description": "Create PowerPoint presentations (.pptx) from TypeScript and modern JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/shbernal/ts-pptx",
+      "npmUrl": "https://www.npmjs.com/package/%40shbernal%2Fts-pptx",
+      "category": "frontend",
+      "createdAt": "2026-07-29T19:47:38.253Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 71
+    },
+    {
+      "name": "@shbernal/ts-xlsx",
+      "version": "1.0.0",
+      "description": "A TypeScript-first library for reading and writing xlsx (OOXML) spreadsheets.",
+      "license": "MIT",
+      "repository": "https://github.com/shbernal/ts-xlsx",
+      "npmUrl": "https://www.npmjs.com/package/%40shbernal%2Fts-xlsx",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T19:20:47.110Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 83
+    },
+    {
       "name": "@shiranui_isuzu/unity-mcp",
       "version": "3.1.0",
       "description": "MCP server and CLI for driving the Unity Editor. Pairs with the jp.shiranui-isuzu.unity-mcp Unity package.",
@@ -6672,6 +6828,18 @@
       "createdAt": "2026-07-29T03:07:18.178Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 92
+    },
+    {
+      "name": "@sonisoft/sn-credstore",
+      "version": "1.0.0",
+      "description": "Headless-safe credential storage for the ServiceNow SDK. Replaces the OS-keyring backend so non-interactive agents can authenticate.",
+      "license": "MIT",
+      "repository": "https://github.com/sonisoft-cnanda/sn-credstore",
+      "npmUrl": "https://www.npmjs.com/package/%40sonisoft%2Fsn-credstore",
+      "category": "backend",
+      "createdAt": "2026-07-29T20:07:16.687Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 91
     },
     {
       "name": "@sonn-audio/node-upnp",
@@ -7550,6 +7718,18 @@
       "score": 60
     },
     {
+      "name": "@uuon-foundation/wave-field-3d-engine",
+      "version": "1.0.1",
+      "description": "Parametric wave-deformation engine — 24 physically-grounded algorithms applied to 3D geometry with animated GLB morph-target export",
+      "license": "LicenseRef-USAL-1.0",
+      "repository": "https://github.com/UUON-Foundation/wave-field-3d-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40uuon-foundation%2Fwave-field-3d-engine",
+      "category": "data",
+      "createdAt": "2026-07-29T19:24:34.013Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 76
+    },
+    {
       "name": "@vaduno/revocation",
       "version": "0.1.0",
       "description": "Revocation registry for Vaduno mandates: W3C Bitstring Status List credentials, instant fail-closed revocation at authorization time, agent-wide kill, and best-effort fan-out to rail-native revocation. Never holds funds or keys.",
@@ -8318,6 +8498,18 @@
       "score": 63
     },
     {
+      "name": "agent-master-setup",
+      "version": "1.1.0",
+      "description": "Portable project state, validation evidence, and reliable handoffs across Claude Code, Codex, Cursor, and other coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/AnupDangi/Claude-Master-Setup",
+      "npmUrl": "https://www.npmjs.com/package/agent-master-setup",
+      "category": "utilities",
+      "createdAt": "2026-07-29T19:21:55.091Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 87
+    },
+    {
       "name": "agent-memory-kit",
       "version": "1.0.0",
       "description": "A file-based long-term memory layer for Codex CLI: human-readable markdown cards, per-session index injection, on-demand recall, and human-reviewed consolidation. 给 Codex 装一层看得见、改得动、管得住的长期记忆。",
@@ -8436,6 +8628,18 @@
       "createdAt": "2026-07-27T03:23:11.148Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 74
+    },
+    {
+      "name": "aix-ai",
+      "version": "1.0.0",
+      "description": "aix — AI coding assistant for your terminal. 40 providers, 40 vibes, 24 tools, 80 achievements. Many completely free.",
+      "license": "MIT",
+      "repository": "https://github.com/fuegotechnology/aix",
+      "npmUrl": "https://www.npmjs.com/package/aix-ai",
+      "category": "cli",
+      "createdAt": "2026-07-29T20:42:46.391Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 91
     },
     {
       "name": "alberta-buck-core",
@@ -9204,6 +9408,18 @@
       "createdAt": "2026-07-26T11:50:10.699Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 83
+    },
+    {
+      "name": "chromapakz",
+      "version": "0.3.0",
+      "description": "Lossless RGB + bit-exact auxiliary signals (depth, object IDs, …) in one WebM (VP9). WebCodecs in the browser, with a per-operation WASM (libvpx) fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/kmatzen/ChromaPakZ",
+      "npmUrl": "https://www.npmjs.com/package/chromapakz",
+      "category": "frontend",
+      "createdAt": "2026-07-29T19:29:00.245Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 81
     },
     {
       "name": "chronologyjs",
@@ -10106,6 +10322,18 @@
       "score": 67
     },
     {
+      "name": "ensure-claude-plugins",
+      "version": "1.0.0",
+      "description": "Install the Claude Code plugins a repository declares in .claude/settings.json — silently, idempotently, never failing the caller.",
+      "license": "MIT",
+      "repository": "https://github.com/expofp/ensure-claude-plugins",
+      "npmUrl": "https://www.npmjs.com/package/ensure-claude-plugins",
+      "category": "utilities",
+      "createdAt": "2026-07-29T20:37:06.349Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 89
+    },
+    {
       "name": "epos-printer-sdk",
       "version": "0.2.0",
       "description": "Modern TypeScript library port of Epson's ePOS SDK, transcription from vendor's IIFE bundle. Ships EposHttpPrinter — a lightweight, socket-free, fully async/await client for the ePOS-Print HTTP web service (built for the TM-T88V) — plus the full callback-",
@@ -10238,6 +10466,18 @@
       "score": 78
     },
     {
+      "name": "faster-latex",
+      "version": "0.1.0",
+      "description": "Render full LaTeX documents to HTML (with MathML math) in the browser — pure Rust compiled to WebAssembly.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/matthova/faster-latex",
+      "npmUrl": "https://www.npmjs.com/package/faster-latex",
+      "category": "frontend",
+      "createdAt": "2026-07-29T20:41:23.663Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 72
+    },
+    {
       "name": "favicon-motion",
       "version": "0.1.0",
       "description": "A lightweight, canvas-powered animated favicon library. Draw procedurally, or animate from frames, sprite sheets, video, Lottie, or dotLottie — no animated SVG, no bloated core.",
@@ -10260,6 +10500,18 @@
       "createdAt": "2026-07-28T13:35:46.992Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 79
+    },
+    {
+      "name": "fcestimator",
+      "version": "0.1.0",
+      "description": "FCEstimator — a scalable, customizable project cost estimator widget for React. Configure any set of services, fields, and pricing formulas (with variables, conditionals, and dependencies) and drop it into any site.",
+      "license": "MIT",
+      "repository": "https://github.com/gameheartstudios/fcestimator",
+      "npmUrl": "https://www.npmjs.com/package/fcestimator",
+      "category": "frontend",
+      "createdAt": "2026-07-29T19:07:57.265Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 84
     },
     {
       "name": "fcichs",
@@ -10728,6 +10980,18 @@
       "createdAt": "2026-07-29T14:37:35.586Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 81
+    },
+    {
+      "name": "handwriting-physics-engine",
+      "version": "1.0.1",
+      "description": "Force-based pen physics simulator for stroke graphs — simulate realistic handwriting motion, pressure, and tremor in JS/TS/React.",
+      "license": "MIT",
+      "repository": "https://github.com/mahendra189/handwriting-physics-engine",
+      "npmUrl": "https://www.npmjs.com/package/handwriting-physics-engine",
+      "category": "frontend",
+      "createdAt": "2026-07-29T18:48:23.589Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 79
     },
     {
       "name": "hardyscript",
@@ -13526,6 +13790,18 @@
       "score": 80
     },
     {
+      "name": "qfence",
+      "version": "1.0.0",
+      "description": "Bounded async concurrency with retry integrated into admission control. Zero deps. ESM + CJS.",
+      "license": "MIT",
+      "repository": "https://github.com/v-84/qfence",
+      "npmUrl": "https://www.npmjs.com/package/qfence",
+      "category": "utilities",
+      "createdAt": "2026-07-29T20:13:42.856Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 89
+    },
+    {
       "name": "qualityclouds-mcp-init",
       "version": "0.1.1",
       "description": "Single source-of-truth registry of MCP clients powering every Quality Clouds one-click install surface (Phase 1b, QSA-1278).",
@@ -14100,6 +14376,18 @@
       "createdAt": "2026-07-28T09:36:40.632Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 80
+    },
+    {
+      "name": "rtl-for-claude",
+      "version": "1.4.0",
+      "description": "Right-to-left text (Persian, Arabic, Urdu, Hebrew …) and the Vazirmatn font in the Claude Desktop app and the Claude Code / Codex chats. One command, 100% local, fully reversible.",
+      "license": "MIT",
+      "repository": "https://github.com/mahdigh99/rtl-for-claude",
+      "npmUrl": "https://www.npmjs.com/package/rtl-for-claude",
+      "category": "utilities",
+      "createdAt": "2026-07-29T19:48:20.146Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 86
     },
     {
       "name": "rtsp-streamer",
@@ -14892,6 +15180,18 @@
       "createdAt": "2026-07-25T23:14:03.736Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 56
+    },
+    {
+      "name": "three-rtt",
+      "version": "0.1.1",
+      "description": "Render-to-texture live DOM/web content onto Three.js meshes: no iframe, curvature-correct, fully interactive.",
+      "license": "MIT",
+      "repository": "https://github.com/AnotherJulia/three-rtt",
+      "npmUrl": "https://www.npmjs.com/package/three-rtt",
+      "category": "frontend",
+      "createdAt": "2026-07-29T19:53:55.548Z",
+      "discoveredAt": "2026-07-29T20:43:46.425Z",
+      "score": 78
     },
     {
       "name": "threenative-asset-mcp",
