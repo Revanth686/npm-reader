@@ -254,6 +254,18 @@
       "score": 61
     },
     {
+      "name": "@affset/mcp",
+      "version": "0.1.1",
+      "description": "MCP server for the affset ad platform — stats, campaigns, zones, payouts, targeting, sub labels, and team from your chat client.",
+      "license": "MIT",
+      "repository": "https://github.com/affset/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40affset%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-29T15:38:59.374Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 72
+    },
+    {
       "name": "@afosecure/meshsdk",
       "version": "0.1.2",
       "description": "A modern, lightweight React SDK for building peer-to-peer video communication applications. Built on WebRTC with a clean, composable rust API.",
@@ -1382,6 +1394,18 @@
       "score": 80
     },
     {
+      "name": "@clappr/telemetry",
+      "version": "0.2.3",
+      "description": "Telemetry package for Clappr player",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/clappr/clappr",
+      "npmUrl": "https://www.npmjs.com/package/%40clappr%2Ftelemetry",
+      "category": "utilities",
+      "createdAt": "2026-07-29T21:08:32.504Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 53
+    },
+    {
       "name": "@clavenar/agent-sdk",
       "version": "1.6.0",
       "description": "Wrap your Anthropic / OpenAI client. Every tool call is inspected by Clavenar before it runs.",
@@ -1836,6 +1860,18 @@
       "createdAt": "2026-07-26T21:41:25.714Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 56
+    },
+    {
+      "name": "@dexgate/decision-middleware",
+      "version": "0.1.0",
+      "description": "Dexgate Decision Execution Governance middleware — evaluate tool calls via SDE PDP (contract v0.1). HTTP /v1/decide + library API.",
+      "license": "MIT",
+      "repository": "https://github.com/dexgate-ai/decision-middleware",
+      "npmUrl": "https://www.npmjs.com/package/%40dexgate%2Fdecision-middleware",
+      "category": "backend",
+      "createdAt": "2026-07-29T21:28:58.434Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 79
     },
     {
       "name": "@dgkit/betting-math",
@@ -2426,6 +2462,18 @@
       "score": 62
     },
     {
+      "name": "@feitoza-ui/core",
+      "version": "0.3.0",
+      "description": "React and TypeScript UI Engineering Platform focused on foundations, primitives, accessibility, testing, and documentation.",
+      "license": "MIT",
+      "repository": "https://github.com/Mornieur/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40feitoza-ui%2Fcore",
+      "category": "testing",
+      "createdAt": "2026-07-29T21:27:15.527Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 68
+    },
+    {
       "name": "@feralfile/source-resolver",
       "version": "1.0.1",
       "description": "Keyless source resolver utilities for extracting artwork token coordinates from marketplace inputs.",
@@ -2954,6 +3002,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/aethusdt",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for aEthUSDT (build etherscan-aethusdt-23878914-1785358669429, commit 73f258f, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/aethusdt",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Faethusdt",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T20:58:15.596Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/aioz",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for AIOZ (build etherscan-aioz-626e8036-1785099252577, commit ea904c4, branch etherscan)",
@@ -3132,6 +3192,18 @@
       "createdAt": "2026-07-25T16:46:07.913Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/ff",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FF (build etherscan-ff-fa1c09fc-1785360765405, commit de0f74e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ff",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fff",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T21:33:10.577Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/fwarewards",
@@ -3314,6 +3386,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/orta",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ORTA (build etherscan-orta-cb20b537-1785360785399, commit 3a84546, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/orta",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Forta",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T21:33:37.779Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/plsgt",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for PLSGT (build etherscan-plsgt-bc89d5c6-1785082874897, commit 774f45b, branch etherscan)",
@@ -3324,6 +3408,18 @@
       "createdAt": "2026-07-26T16:21:40.151Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/rb",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RB (build etherscan-rb-e9159833-1785358949366, commit 5f4d977, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rb",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frb",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T21:02:53.761Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/relayapprovalproxyv3",
@@ -3554,6 +3650,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/zk",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for ZK (build etherscan-zk-c71b5f63-1785358113947, commit 56336b9, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/zk",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fzk",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T13:58:19.420Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/zkp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for $ZKP (build etherscan-zkp-909e34d3-1785067830381, commit 97fe4c4, branch etherscan)",
@@ -3744,6 +3852,30 @@
       "createdAt": "2026-07-27T21:26:52.713Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 60
+    },
+    {
+      "name": "@hashpower/oracle-abi",
+      "version": "2.0.0",
+      "description": "ABIs and deployment addresses for the Hashpower hashprice oracle contracts (HashpriceBTC, HashpriceUSD) on Base",
+      "license": "MIT",
+      "repository": "https://github.com/Lumerin-protocol/hashprice-oracle",
+      "npmUrl": "https://www.npmjs.com/package/%40hashpower%2Foracle-abi",
+      "category": "devops",
+      "createdAt": "2026-07-28T19:21:33.458Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 51
+    },
+    {
+      "name": "@hashpower/perps-abi",
+      "version": "2.0.0",
+      "description": "ABIs and deployment addresses for the Hashpower perpetuals CLOB (HashPowerPerpsDEX) on Base",
+      "license": "MIT",
+      "repository": "https://github.com/Lumerin-protocol/derivatives-marketplace",
+      "npmUrl": "https://www.npmjs.com/package/%40hashpower%2Fperps-abi",
+      "category": "devops",
+      "createdAt": "2026-07-29T15:19:15.217Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 52
     },
     {
       "name": "@hectorpalmatellez/toki",
@@ -4908,6 +5040,18 @@
       "createdAt": "2026-07-29T07:53:03.955Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 78
+    },
+    {
+      "name": "@memberjunction/ai-segmentation",
+      "version": "5.50.0",
+      "description": "MemberJunction: Content Segmentation — pluggable chunking strategies for RAG ingestion",
+      "license": "ISC",
+      "repository": "https://github.com/MemberJunction/MJ",
+      "npmUrl": "https://www.npmjs.com/package/%40memberjunction%2Fai-segmentation",
+      "category": "utilities",
+      "createdAt": "2026-07-28T16:55:40.956Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 61
     },
     {
       "name": "@meonode/compiler",
@@ -6230,6 +6374,18 @@
       "score": 73
     },
     {
+      "name": "@relaymessenger/cli",
+      "version": "0.3.1",
+      "description": "Relay — messaging for agents. Bridge Claude Code, Codex, Hermes Agent, or OpenClaw to Relay. https://relayapp.im",
+      "license": "MIT",
+      "repository": "https://github.com/relaymessenger/relayapp",
+      "npmUrl": "https://www.npmjs.com/package/%40relaymessenger%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-07-29T00:23:43.764Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
+    },
+    {
       "name": "@relintio/browser-core",
       "version": "1.0.0",
       "description": "Framework-agnostic browser agent core for Relintio. Shared by the React, Vue, Svelte, Angular and Expo SDKs.",
@@ -7010,6 +7166,18 @@
       "score": 70
     },
     {
+      "name": "@stjbrown/agent-knowledge-skills",
+      "version": "0.2.0",
+      "description": "Portable Agent Skills for building, documenting, and maintaining Open Knowledge Format knowledge bundles",
+      "license": "MIT",
+      "repository": "https://github.com/stjbrown/agent-knowledge",
+      "npmUrl": "https://www.npmjs.com/package/%40stjbrown%2Fagent-knowledge-skills",
+      "category": "data",
+      "createdAt": "2026-07-29T13:50:17.044Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
+    },
+    {
       "name": "@stone-js/i18n",
       "version": "0.8.6",
       "description": "Framework-agnostic, cloud-native i18n for Stone.js. Zero-config: drop your translations in app/i18n/<lang>/ and use them identically on the backend and the frontend. Powered by i18next.",
@@ -7056,6 +7224,18 @@
       "createdAt": "2026-07-28T16:25:47.323Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 61
+    },
+    {
+      "name": "@strixgov/governed-action",
+      "version": "0.1.0",
+      "description": "Wrap one consequential mutation — a REST call, a GitHub merge, any async operation — in a governed action that produces an independently verifiable signed receipt.",
+      "license": "MIT",
+      "repository": "https://github.com/Strixgov/strix",
+      "npmUrl": "https://www.npmjs.com/package/%40strixgov%2Fgoverned-action",
+      "category": "utilities",
+      "createdAt": "2026-07-29T21:06:27.619Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 57
     },
     {
       "name": "@stylusnexus/agent-plugins",
@@ -8498,6 +8678,18 @@
       "score": 63
     },
     {
+      "name": "agent-hands",
+      "version": "0.1.0",
+      "description": "Human-rate mouse and keyboard for agent-browser sessions. Drives Chrome over raw CDP at 60-100Hz with Fitts-law motion, Bezier paths and lognormal keystroke timing — without touching the physical cursor.",
+      "license": "MIT",
+      "repository": "https://github.com/yassiEmp/agent-hands",
+      "npmUrl": "https://www.npmjs.com/package/agent-hands",
+      "category": "frontend",
+      "createdAt": "2026-07-29T21:00:19.513Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 54
+    },
+    {
       "name": "agent-master-setup",
       "version": "1.1.0",
       "description": "Portable project state, validation evidence, and reliable handoffs across Claude Code, Codex, Cursor, and other coding agents.",
@@ -8532,6 +8724,18 @@
       "createdAt": "2026-07-26T17:18:37.569Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 73
+    },
+    {
+      "name": "agent-playtime",
+      "version": "0.2.0",
+      "description": "Steam-style playtime tracking for CLI agent harnesses: Claude Code, Codex and OpenCode",
+      "license": "MIT",
+      "repository": "https://github.com/fmarcac/agent-playtime",
+      "npmUrl": "https://www.npmjs.com/package/agent-playtime",
+      "category": "cli",
+      "createdAt": "2026-07-29T21:00:43.118Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 70
     },
     {
       "name": "agent-sanitizer",
@@ -9120,6 +9324,18 @@
       "createdAt": "2026-07-29T01:28:58.066Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 78
+    },
+    {
+      "name": "boredload",
+      "version": "0.1.0",
+      "description": "A tiny, framework-agnostic Canvas 2D minigame you show during loading states instead of a boring spinner.",
+      "license": "MIT",
+      "repository": "https://github.com/salamancacm/boredload",
+      "npmUrl": "https://www.npmjs.com/package/boredload",
+      "category": "frontend",
+      "createdAt": "2026-07-29T21:34:20.229Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 80
     },
     {
       "name": "bosskit",
@@ -9806,6 +10022,18 @@
       "score": 88
     },
     {
+      "name": "create-fastify-typescript",
+      "version": "1.0.0",
+      "description": "A starter project for Fastify with TypeScript",
+      "license": "ISC",
+      "repository": "https://github.com/WangShai123/create-fastify-typescript",
+      "npmUrl": "https://www.npmjs.com/package/create-fastify-typescript",
+      "category": "backend",
+      "createdAt": "2026-07-29T21:20:45.363Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 53
+    },
+    {
       "name": "create-hackpack",
       "version": "1.0.1",
       "description": "CLI to scaffold full-stack hackathon projects in seconds. Pick a framework, add features (UI, auth, DB, AI), generate CRUD pages, deploy to Cloudflare Workers. Run with npx create-hackpack.",
@@ -10296,6 +10524,18 @@
       "createdAt": "2026-07-29T04:33:07.799Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 84
+    },
+    {
+      "name": "empilha",
+      "version": "0.1.1",
+      "description": "Framework HTTP para Bun e TypeScript baseado em decorators e Web Standards.",
+      "license": "MIT",
+      "repository": "https://github.com/empilhajs/empilha",
+      "npmUrl": "https://www.npmjs.com/package/empilha",
+      "category": "backend",
+      "createdAt": "2026-07-29T18:43:24.928Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 53
     },
     {
       "name": "empirical-sdd",
@@ -12926,6 +13166,18 @@
       "score": 56
     },
     {
+      "name": "omega-security-scanner",
+      "version": "7.0.0",
+      "description": "OMEGA Scanner v7.0 — Ultimate Autonomous Pentest Engine by @c4ccz. 100+ Protocols, 3000+ Payloads, Auto-Discovery, Real Connections.",
+      "license": "MIT",
+      "repository": "https://github.com/c4ccz/omega-scanner",
+      "npmUrl": "https://www.npmjs.com/package/omega-security-scanner",
+      "category": "testing",
+      "createdAt": "2026-07-29T20:58:44.203Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 62
+    },
+    {
       "name": "onchain-forensics",
       "version": "0.1.0",
       "description": "Twelve checks you run before you pay, and after you've been robbed. MCP server + plain modules. No keys, no accounts, read-only.",
@@ -13092,6 +13344,18 @@
       "createdAt": "2026-07-26T18:07:58.236Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 81
+    },
+    {
+      "name": "ossclip",
+      "version": "0.1.0",
+      "description": "Local-first CLI video producer: cuts silence and fillers, word-timed captions, face-aware framing, and LLM-planned code-rendered graphics — transcription and rendering never leave your machine",
+      "license": "MIT",
+      "repository": "https://github.com/AhsanAyaz/ossclip",
+      "npmUrl": "https://www.npmjs.com/package/ossclip",
+      "category": "cli",
+      "createdAt": "2026-07-29T21:25:35.141Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 53
     },
     {
       "name": "overdraw",
@@ -13740,6 +14004,18 @@
       "createdAt": "2026-07-28T19:38:35.976Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 100
+    },
+    {
+      "name": "print-it-now",
+      "version": "0.1.1",
+      "description": "Headless PDF printing for Node.js and Bun on Windows, macOS and Linux. PDFium + winspool on Windows, CUPS everywhere else.",
+      "license": "MIT",
+      "repository": "https://github.com/iteufel/print-it-now",
+      "npmUrl": "https://www.npmjs.com/package/print-it-now",
+      "category": "backend",
+      "createdAt": "2026-07-29T20:56:00.341Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 82
     },
     {
       "name": "project-brain-protocol",
@@ -14748,6 +15024,18 @@
       "createdAt": "2026-07-29T15:48:44.355Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 62
+    },
+    {
+      "name": "skill-prompt-evolution",
+      "version": "1.0.0",
+      "description": "Unified task-observer skill for OpenCode — continuous skill discovery and improvement with Spanish-first pattern detection, DB mining, and auto-install.",
+      "license": "SEE LICENSE IN LICENSE.txt",
+      "repository": "https://github.com/tmogeid/skill-prompt-evolution",
+      "npmUrl": "https://www.npmjs.com/package/skill-prompt-evolution",
+      "category": "backend",
+      "createdAt": "2026-07-29T20:56:30.487Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 91
     },
     {
       "name": "slicekit",
@@ -15780,6 +16068,18 @@
       "createdAt": "2026-07-29T09:01:32.028Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 90
+    },
+    {
+      "name": "vite-plugin-effcss",
+      "version": "1.0.0",
+      "description": "Vite plugin for EffCSS — captures CSS via Vite SSR pipeline, injects into HTML",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/msabitov/vite-plugin-effcss",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-effcss",
+      "category": "frontend",
+      "createdAt": "2026-07-29T21:21:06.253Z",
+      "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 52
     },
     {
       "name": "vite-plugin-grundlage",

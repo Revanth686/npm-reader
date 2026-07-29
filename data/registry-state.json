@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122263656,
-  "lastRunAt": "2026-07-29T20:43:46.425Z",
+  "lastSequence": 122271105,
+  "lastRunAt": "2026-07-29T21:38:30.710Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@natui/dev",
+      "name": "@pegma/webhooks",
+      "attempts": 1
+    },
+    {
+      "name": "@textmode/og",
       "attempts": 1
     }
   ]
