@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122071904,
-  "lastRunAt": "2026-07-28T23:45:36.453Z",
+  "lastSequence": 122087153,
+  "lastRunAt": "2026-07-29T01:51:35.570Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@astrada.co/card-enrollment-sdk",
+      "name": "@nodebuilder/n8n-nodes-probe4",
+      "attempts": 1
+    },
+    {
+      "name": "@neurcode-ai/share-format",
       "attempts": 1
     }
   ]
