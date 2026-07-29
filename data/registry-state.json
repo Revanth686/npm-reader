@@ -1,51 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122217620,
-  "lastRunAt": "2026-07-29T15:45:20.548Z",
+  "lastSequence": 122231593,
+  "lastRunAt": "2026-07-29T17:06:34.631Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@nodebuilder/n8n-nodes-probe4",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@talrace/ngx-colorpicker",
+      "name": "@gdwhisper/omniterm-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@userkit/js",
+      "name": "@gdwhisper/omniterm-linux-arm64",
       "attempts": 1
     },
     {
-      "name": "@userkit/react",
+      "name": "@gdwhisper/omniterm-linux-x64",
       "attempts": 1
     },
     {
-      "name": "@userkit/nextjs",
+      "name": "@gdwhisper/omniterm-win32-x64",
       "attempts": 1
     },
     {
-      "name": "@presentation-md/theme-heritage-editorial",
+      "name": "@hectasquare/medusa-plugin-variant-promotions",
       "attempts": 1
     },
     {
-      "name": "@presentation-md/theme-fintech-clean",
-      "attempts": 1
-    },
-    {
-      "name": "@presentation-md/theme-developer-dark",
-      "attempts": 1
-    },
-    {
-      "name": "@presentation-md/theme-data-editorial",
-      "attempts": 1
-    },
-    {
-      "name": "@presentation-md/theme-scandinavian",
-      "attempts": 1
-    },
-    {
-      "name": "@nan0web/ui-web",
+      "name": "@bd-gongfu-ai/engineering-nexus",
       "attempts": 1
     }
   ]
