@@ -1,27 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122402447,
-  "lastRunAt": "2026-07-30T14:26:47.902Z",
+  "lastSequence": 122422104,
+  "lastRunAt": "2026-07-30T16:06:41.087Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@qtestorgz/sdk",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@poolsideai/n8n-nodes-poolside",
+      "name": "@coffer-org/plugin-geo",
       "attempts": 1
     },
     {
-      "name": "@modelhealth/viewer-react",
+      "name": "@coffer-org/plugin-webchat",
       "attempts": 1
     },
     {
-      "name": "@mondaydotcomorg/schema-registry-v6",
-      "attempts": 1
-    },
-    {
-      "name": "@volcengine/volcsms",
+      "name": "@wiolett/gateway-inference",
       "attempts": 1
     }
   ]

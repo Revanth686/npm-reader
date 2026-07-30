@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "001k-cli",
+      "version": "1.0.0",
+      "description": "CLI and AI-agent skill for 001k.bot — deposits, withdrawals, swaps, transfers, limit orders, and AML checks",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/OO1kBOT/001k-cli",
+      "npmUrl": "https://www.npmjs.com/package/001k-cli",
+      "category": "backend",
+      "createdAt": "2026-07-30T15:46:37.830Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 82
+    },
+    {
       "name": "1322-client",
       "version": "0.1.0",
       "description": "Unified TypeScript/JavaScript client for the 1322 real-time social monitoring API (X/Twitter, Truth Social, Instagram, YouTube, Binance Square, News).",
@@ -60,6 +72,18 @@
       "createdAt": "2026-07-25T17:33:06.550Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 76
+    },
+    {
+      "name": "@abiezon/qagent",
+      "version": "0.1.2",
+      "description": "Agentic QA hub — spec-tool agnostic",
+      "license": "MIT",
+      "repository": "https://github.com/abiezon/qagent",
+      "npmUrl": "https://www.npmjs.com/package/%40abiezon%2Fqagent",
+      "category": "testing",
+      "createdAt": "2026-07-30T14:30:34.350Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 67
     },
     {
       "name": "@absuitecore/trust",
@@ -660,6 +684,66 @@
       "createdAt": "2026-07-27T01:41:34.404Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 63
+    },
+    {
+      "name": "@apilium/altretta-plugin",
+      "version": "1.0.1",
+      "description": "The altretta-plugin author CLI: keygen, pack (sign), and verify Altretta plugins. Ships a prebuilt native binary per platform, resolved at run time.",
+      "license": "Apache-2.0 OR Commercial",
+      "repository": "https://github.com/ApiliumCode/altretta-plugins-legacy",
+      "npmUrl": "https://www.npmjs.com/package/%40apilium%2Faltretta-plugin",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:51:43.947Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 66
+    },
+    {
+      "name": "@apilium/altretta-plugin-darwin-arm64",
+      "version": "1.0.1",
+      "description": "Prebuilt altretta-plugin binary for macOS (Apple Silicon). Installed automatically as an optional dependency of @apilium/altretta-plugin — the Altretta plugin author CLI.",
+      "license": "Apache-2.0 OR Commercial",
+      "repository": "https://github.com/ApiliumCode/altretta-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40apilium%2Faltretta-plugin-darwin-arm64",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:51:00.371Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 70
+    },
+    {
+      "name": "@apilium/altretta-plugin-darwin-x64",
+      "version": "1.0.1",
+      "description": "Prebuilt altretta-plugin binary for macOS (Intel). Installed automatically as an optional dependency of @apilium/altretta-plugin — the Altretta plugin author CLI.",
+      "license": "Apache-2.0 OR Commercial",
+      "repository": "https://github.com/ApiliumCode/altretta-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40apilium%2Faltretta-plugin-darwin-x64",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:51:10.252Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 69
+    },
+    {
+      "name": "@apilium/altretta-plugin-linux-x64",
+      "version": "1.0.1",
+      "description": "Prebuilt altretta-plugin binary for Linux (x64). Installed automatically as an optional dependency of @apilium/altretta-plugin — the Altretta plugin author CLI.",
+      "license": "Apache-2.0 OR Commercial",
+      "repository": "https://github.com/ApiliumCode/altretta-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40apilium%2Faltretta-plugin-linux-x64",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:51:24.594Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 69
+    },
+    {
+      "name": "@apilium/altretta-plugin-win32-x64",
+      "version": "1.0.1",
+      "description": "Prebuilt altretta-plugin binary for Windows (x64). Installed automatically as an optional dependency of @apilium/altretta-plugin — the Altretta plugin author CLI.",
+      "license": "Apache-2.0 OR Commercial",
+      "repository": "https://github.com/ApiliumCode/altretta-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40apilium%2Faltretta-plugin-win32-x64",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:51:36.972Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 69
     },
     {
       "name": "@aplinkosministerija/viisp-v3-oidc",
@@ -2114,6 +2198,18 @@
       "score": 61
     },
     {
+      "name": "@deepixels/entry-mcp",
+      "version": "3.1.1",
+      "description": "MCP server for EntryIdP — the biometric-first OpenID Connect identity provider. Integration assistant for AI coding tools across web SPA, web server/BFF, iOS, Android, React Native, Flutter, and resource-server APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/deepixels-holdings/entry-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40deepixels%2Fentry-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-30T14:30:44.839Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 80
+    },
+    {
       "name": "@denizeffects/dropnav",
       "version": "0.1.0",
       "description": "A navigation that behaves like a droplet. One circle in a corner that leans toward your cursor, then splits into the nav items through liquid bridges. Analytic metaball SVG, no blur filters.",
@@ -3000,6 +3096,18 @@
       "createdAt": "2026-07-28T08:03:49.569Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 79
+    },
+    {
+      "name": "@flowconsent/server-sdk",
+      "version": "0.1.0",
+      "description": "Décision de consentement FlowConsent côté serveur : lit le cookie first-party (contrat v1), refuse par défaut, vérifie les signatures de webhook. Zéro dépendance, compatible edge.",
+      "license": "MIT",
+      "repository": "https://github.com/BeBranded-xyz/flowapps",
+      "npmUrl": "https://www.npmjs.com/package/%40flowconsent%2Fserver-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-30T15:00:12.388Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 75
     },
     {
       "name": "@foleyjs/core",
@@ -4118,6 +4226,18 @@
       "score": 83
     },
     {
+      "name": "@gopherium/godmin",
+      "version": "0.1.0",
+      "description": "The admin kit for Gopherium projects: host layer for React admin applications on the WordPress Design System.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/gopherium/godmin",
+      "npmUrl": "https://www.npmjs.com/package/%40gopherium%2Fgodmin",
+      "category": "frontend",
+      "createdAt": "2026-07-30T15:58:07.021Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 62
+    },
+    {
       "name": "@goxtechnologies/infor-visual-mcp",
       "version": "0.0.1",
       "description": "Infor VISUAL MCP — Model Context Protocol server for the VISUAL ERP (sales, inventory, purchasing, financials, shop floor, lot trace). Self-documenting category tools, safe-by-default writes. Under active development (not functional for live VISUAL yet).",
@@ -4632,6 +4752,18 @@
       "createdAt": "2026-07-25T16:59:48.231Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 72
+    },
+    {
+      "name": "@illodev/workfile",
+      "version": "0.1.0",
+      "description": "Repository-native protocol and local MCP server for Work, Docs, History and durable project Memory.",
+      "license": "MIT",
+      "repository": "https://github.com/illodev/workfile",
+      "npmUrl": "https://www.npmjs.com/package/%40illodev%2Fworkfile",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:37:35.609Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 75
     },
     {
       "name": "@incorta/overlay-db",
@@ -5894,6 +6026,18 @@
       "score": 95
     },
     {
+      "name": "@mrmendez/atlas",
+      "version": "0.2.3",
+      "description": "Local-first documentation ingestion, retrieval, and MCP/server access for multi-repo engineering docs.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/moxellabs/atlas",
+      "npmUrl": "https://www.npmjs.com/package/%40mrmendez%2Fatlas",
+      "category": "backend",
+      "createdAt": "2026-07-30T15:14:21.493Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 65
+    },
+    {
       "name": "@mrzr/api-client",
       "version": "1.0.1",
       "description": "Dependency-free typed REST client with automatic token refresh, Web Worker isolation and cross-tab auth sync. Works in React, Vue, Next.js, Nuxt, SSR and plain JS.",
@@ -6446,6 +6590,18 @@
       "score": 71
     },
     {
+      "name": "@orkestrapay/cse",
+      "version": "1.0.5",
+      "description": "Orkestra client-side encryption (CSE) browser SDK — encrypts card data into a JWE Compact (RSA-OAEP-256 + A256GCM) using only the Web Crypto API.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/orkestra-pay/cse",
+      "npmUrl": "https://www.npmjs.com/package/%40orkestrapay%2Fcse",
+      "category": "frontend",
+      "createdAt": "2026-07-30T15:54:32.698Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 77
+    },
+    {
       "name": "@orpc-agent/cli",
       "version": "0.3.0",
       "description": "Capability inventory and CI drift gate for oRPC Agent applications. Independent community project, not affiliated with or endorsed by the oRPC maintainers.",
@@ -6743,6 +6899,18 @@
       "category": "backend",
       "createdAt": "2026-07-29T14:14:10.171Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
+      "score": 74
+    },
+    {
+      "name": "@poolsideai/n8n-nodes-poolside",
+      "version": "0.1.2",
+      "description": "n8n community node that connects Poolside's Laguna models to AI Agents and chains via Poolside's OpenAI-compatible inference API",
+      "license": "MIT",
+      "repository": "https://github.com/poolsideai/n8n-poolside-node",
+      "npmUrl": "https://www.npmjs.com/package/%40poolsideai%2Fn8n-nodes-poolside",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:22:38.996Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 74
     },
     {
@@ -8114,6 +8282,30 @@
       "score": 75
     },
     {
+      "name": "@sp-api-sdk/finances-invoices-api-2026-06-25",
+      "version": "1.1.0",
+      "description": "The Selling Partner API for Invoices enables you to retrieve invoice data and streamline your bookkeeping processes.",
+      "license": "MIT",
+      "repository": "https://github.com/bizon/selling-partner-api-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40sp-api-sdk%2Ffinances-invoices-api-2026-06-25",
+      "category": "backend",
+      "createdAt": "2026-07-30T13:29:41.819Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 62
+    },
+    {
+      "name": "@sp-api-sdk/fulfillment-outbound-api-2026-07-04",
+      "version": "1.1.0",
+      "description": "The Selling Partner API for Fulfillment Outbound lets you create applications that help a seller fulfill Multi-Channel Fulfillment orders using their inventory in Amazon's fulfillment network. You can get information on both potential and existing fulfill",
+      "license": "MIT",
+      "repository": "https://github.com/bizon/selling-partner-api-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40sp-api-sdk%2Ffulfillment-outbound-api-2026-07-04",
+      "category": "backend",
+      "createdAt": "2026-07-30T13:32:20.837Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 72
+    },
+    {
       "name": "@spatialpack/cli",
       "version": "0.1.0",
       "description": "SpatialPack CLI — analyze, optimize, readiness, autocorrect, batch-autocorrect, ar-parity, visual-diff, recipe-search, USDZ for glTF/GLB. `npx @spatialpack/cli`.",
@@ -8954,6 +9146,30 @@
       "score": 59
     },
     {
+      "name": "@uploadcare/ai-image-editor",
+      "version": "0.2.0",
+      "description": "AI image generation and editing web component for Uploadcare: create images from text prompts, enhance and edit existing ones, and plug into the Uploadcare File Uploader.",
+      "license": "MIT",
+      "repository": "https://github.com/uploadcare/ai-image-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40uploadcare%2Fai-image-editor",
+      "category": "frontend",
+      "createdAt": "2026-07-30T14:34:47.821Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 69
+    },
+    {
+      "name": "@uploadcare/react-ai-image-editor",
+      "version": "0.2.0",
+      "description": "React component for Uploadcare's AI image generation and editing — typed props and events, SSR-safe, works in Next.js Server Components out of the box.",
+      "license": "MIT",
+      "repository": "https://github.com/uploadcare/ai-image-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40uploadcare%2Freact-ai-image-editor",
+      "category": "frontend",
+      "createdAt": "2026-07-30T14:35:21.681Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 62
+    },
+    {
       "name": "@upstash/box-pi",
       "version": "0.1.0",
       "description": "Pi coding agent extension that runs all tool calls inside a remote Upstash Box sandbox while the agent runs locally",
@@ -9132,6 +9348,18 @@
       "createdAt": "2026-07-28T15:11:16.877Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 85
+    },
+    {
+      "name": "@varent/nest-observability",
+      "version": "0.0.1",
+      "description": "Nest Observability Kit",
+      "license": "ISC",
+      "repository": "https://github.com/destro9670/nest-observability",
+      "npmUrl": "https://www.npmjs.com/package/%40varent%2Fnest-observability",
+      "category": "backend",
+      "createdAt": "2026-07-30T14:37:15.267Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 62
     },
     {
       "name": "@vdaluz/astro-affiliate",
@@ -9876,6 +10104,18 @@
       "createdAt": "2026-07-26T04:06:13.983Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 75
+    },
+    {
+      "name": "adversary",
+      "version": "0.2.0",
+      "description": "Generate explained adversarial test inputs - boundary values, i18n/Unicode edge cases, and injection strings - from a schema. Every case says which technique produced it and why it might break your code.",
+      "license": "MIT",
+      "repository": "https://github.com/james-kanghj/adversary",
+      "npmUrl": "https://www.npmjs.com/package/adversary",
+      "category": "testing",
+      "createdAt": "2026-07-30T15:48:05.329Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 79
     },
     {
       "name": "aes-framework",
@@ -10920,6 +11160,18 @@
       "createdAt": "2026-07-27T09:21:08.810Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 76
+    },
+    {
+      "name": "chassis-mcp",
+      "version": "0.1.1",
+      "description": "MCP server that scaffolds Chassis backends — an Express 5 + TypeScript starter with a database, auth and an optional Next.js front end. Lets an AI agent create a working, tested project in one tool call.",
+      "license": "MIT",
+      "repository": "https://github.com/dvd90/chassis",
+      "npmUrl": "https://www.npmjs.com/package/chassis-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-29T07:30:01.328Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 61
     },
     {
       "name": "chat-resumer",
@@ -15470,6 +15722,18 @@
       "score": 72
     },
     {
+      "name": "pgautopilot",
+      "version": "1.0.0",
+      "description": "PGAutoPilot — an MCP server that lets AI assistants safely explore, query, and manage any PostgreSQL database. Zero setup, auto-discovery, production-safe.",
+      "license": "MIT",
+      "repository": "https://github.com/cyberreinxy/pgautopilot",
+      "npmUrl": "https://www.npmjs.com/package/pgautopilot",
+      "category": "backend",
+      "createdAt": "2026-07-30T15:06:10.143Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 95
+    },
+    {
       "name": "pgcloak",
       "version": "0.1.0",
       "description": "Mask real PII in a Postgres database for safe local development and testing.",
@@ -15636,6 +15900,18 @@
       "createdAt": "2026-07-26T06:51:02.243Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 49
+    },
+    {
+      "name": "pi-oura-hr",
+      "version": "1.1.1",
+      "description": "Oura Ring client primitives + optional pi footer (heart rate, readiness)",
+      "license": "MIT",
+      "repository": "https://github.com/BrianM0330/oura-hr",
+      "npmUrl": "https://www.npmjs.com/package/pi-oura-hr",
+      "category": "cli",
+      "createdAt": "2026-07-30T07:01:00.300Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 63
     },
     {
       "name": "pi-super",
@@ -16934,6 +17210,18 @@
       "score": 83
     },
     {
+      "name": "segment-state",
+      "version": "0.0.1",
+      "description": "Framework-agnostic, path-addressed state with O(observed) memory and transactional commits.",
+      "license": "MIT",
+      "repository": "https://github.com/WebEferen/segment",
+      "npmUrl": "https://www.npmjs.com/package/segment-state",
+      "category": "frontend",
+      "createdAt": "2026-07-30T15:47:15.760Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 71
+    },
+    {
       "name": "selvedge-mcp",
       "version": "0.3.9",
       "description": "Long-term memory for AI-coded codebases — a `git blame` for AI agents, for the *why*, not just which line which model touched. Captured live, by the agent, as the change happens. (npx shim for the Python `selvedge` MCP server on PyPI.)",
@@ -17388,6 +17676,18 @@
       "createdAt": "2026-07-28T19:03:56.161Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 88
+    },
+    {
+      "name": "stable-marker-layout",
+      "version": "0.1.0",
+      "description": "Deterministic, projection-agnostic layout and decluttering for moving point annotations.",
+      "license": "MIT",
+      "repository": "https://github.com/seoulpro/stable-marker-layout",
+      "npmUrl": "https://www.npmjs.com/package/stable-marker-layout",
+      "category": "utilities",
+      "createdAt": "2026-07-30T15:22:56.413Z",
+      "discoveredAt": "2026-07-30T16:06:41.087Z",
+      "score": 70
     },
     {
       "name": "staffed",
