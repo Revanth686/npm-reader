@@ -554,6 +554,18 @@
       "score": 49
     },
     {
+      "name": "@alperlabs/crap4ts",
+      "version": "0.2.1",
+      "description": "A CRAP metric analyzer for TypeScript projects, with extra AI-slop heuristics. Modeled after crap4java.",
+      "license": "MIT",
+      "repository": "https://github.com/alperlabs/crap4ts",
+      "npmUrl": "https://www.npmjs.com/package/%40alperlabs%2Fcrap4ts",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T22:50:09.165Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 74
+    },
+    {
       "name": "@alwatr/loom",
       "version": "10.0.1",
       "description": "A tiny, zero-dependency static site generator core that renders TSX templates to HTML strings — no React, no virtual DOM.",
@@ -1452,6 +1464,18 @@
       "createdAt": "2026-07-30T02:18:41.582Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 66
+    },
+    {
+      "name": "@blorq/nice-grpc-web",
+      "version": "3.3.11",
+      "description": "A Browser gRPC library that is nice to you",
+      "license": "MIT",
+      "repository": "https://github.com/blorq/nice-grpc",
+      "npmUrl": "https://www.npmjs.com/package/%40blorq%2Fnice-grpc-web",
+      "category": "frontend",
+      "createdAt": "2026-07-30T22:06:31.029Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 78
     },
     {
       "name": "@boldsec/supabase",
@@ -2366,6 +2390,18 @@
       "score": 61
     },
     {
+      "name": "@decionis/langchain",
+      "version": "0.1.0",
+      "description": "Gate any LangChain.js tool or LangGraph.js node on a signed Decionis Decision Dossier.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/decionis/Decionis",
+      "npmUrl": "https://www.npmjs.com/package/%40decionis%2Flangchain",
+      "category": "devops",
+      "createdAt": "2026-07-30T22:07:16.995Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 66
+    },
+    {
       "name": "@decionis/mcp",
       "version": "0.1.0",
       "description": "Decionis MCP policy tools and native Codex, Copilot, and Claude execution hooks.",
@@ -2520,6 +2556,18 @@
       "createdAt": "2026-07-27T17:25:37.479Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 72
+    },
+    {
+      "name": "@digid-sdk/firma-autografa-react",
+      "version": "1.0.0",
+      "description": "SDK React para el flujo de firma autógrafa de Digid",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/digid-mexico/digid-sdk-react",
+      "npmUrl": "https://www.npmjs.com/package/%40digid-sdk%2Ffirma-autografa-react",
+      "category": "frontend",
+      "createdAt": "2026-07-30T22:41:05.763Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 75
     },
     {
       "name": "@dioschub/client",
@@ -3240,6 +3288,18 @@
       "createdAt": "2026-07-25T18:47:22.440Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 100
+    },
+    {
+      "name": "@firstpick/pi-skill-subagent-governance",
+      "version": "0.1.0",
+      "description": "Portable Agent Skill that governs delegation admissibility for a parent orchestrator, covering zero-or-multiple fanout, the static two-worker minimum, role-fit balance, one-writer isolation, worker handoffs, bounded retry safety, and reviewer finding disp",
+      "license": "MIT",
+      "repository": "https://github.com/Firstp1ck/pi-coding-agent-forge",
+      "npmUrl": "https://www.npmjs.com/package/%40firstpick%2Fpi-skill-subagent-governance",
+      "category": "utilities",
+      "createdAt": "2026-07-30T22:23:05.098Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 59
     },
     {
       "name": "@fish59fish/dynamic-workflows",
@@ -4128,6 +4188,18 @@
       "createdAt": "2026-07-27T23:53:58.510Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/liquidityconnector",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LiquidityConnector (build etherscan-liquidityconnector-ad4021dc-1785451346181, commit a37725d, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/liquidityconnector",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fliquidityconnector",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T22:42:49.263Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 59
     },
     {
       "name": "@gitmyabi/lp",
@@ -5654,6 +5726,18 @@
       "score": 69
     },
     {
+      "name": "@kuntay/swisseph-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for Swiss Ephemeris. Gives an LLM exact astronomical and astrological calculations instead of plausible-looking guesses.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/kuntayerkus/swisseph-wasm",
+      "npmUrl": "https://www.npmjs.com/package/%40kuntay%2Fswisseph-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T23:05:40.668Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 61
+    },
+    {
       "name": "@kuralle-syrinx/cli",
       "version": "4.4.0",
       "description": "Agent-facing CLI for Syrinx — run a turn or a text exchange with deterministic, machine-readable (--json) output and exit codes. Not a console: no REPL, no chat loop, no microphone.",
@@ -6024,6 +6108,18 @@
       "createdAt": "2026-07-26T08:24:18.078Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 74
+    },
+    {
+      "name": "@maroffo/pi-forge",
+      "version": "0.1.0",
+      "description": "Opinionated multi-provider coding harness for the pi agent",
+      "license": "MIT",
+      "repository": "https://github.com/maroffo/pi-forge",
+      "npmUrl": "https://www.npmjs.com/package/%40maroffo%2Fpi-forge",
+      "category": "utilities",
+      "createdAt": "2026-07-30T22:09:37.506Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 63
     },
     {
       "name": "@massa-ai/codex-plugin",
@@ -8246,6 +8342,18 @@
       "score": 82
     },
     {
+      "name": "@salve-software/react-native-salve-db",
+      "version": "0.1.1",
+      "description": "Offline-first SQLite database for React Native with a 100% native sync engine (Swift/Kotlin + C++).",
+      "license": "MIT",
+      "repository": "https://github.com/Salve-Software/react-native-salve-db",
+      "npmUrl": "https://www.npmjs.com/package/%40salve-software%2Freact-native-salve-db",
+      "category": "frontend",
+      "createdAt": "2026-07-29T11:50:30.542Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 63
+    },
+    {
       "name": "@salvor-run/cli",
       "version": "0.5.2",
       "description": "Salvor CLI: run, resume, list, history, and replay for durable agent runs",
@@ -8532,6 +8640,18 @@
       "createdAt": "2026-07-27T16:17:27.225Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 74
+    },
+    {
+      "name": "@shopeasy/knowledge",
+      "version": "0.1.0",
+      "description": "Gerencia a base de conhecimento (Markdown) do ShopEasy e monta o melhor contexto textual possível para enviar a uma IA sem RAG/vetores.",
+      "license": "MIT",
+      "repository": "https://github.com/shopeasy-bot/knowledge",
+      "npmUrl": "https://www.npmjs.com/package/%40shopeasy%2Fknowledge",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T22:53:29.613Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 75
     },
     {
       "name": "@shotlingo/localization-readiness",
@@ -9986,6 +10106,30 @@
       "score": 86
     },
     {
+      "name": "@usva-ui/react",
+      "version": "1.0.1",
+      "description": "A React design language in three themes: kajo is atmospheric and dark, sisu is dense and quick, savi is the light ground. One token vocabulary under all three.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/matt-pasek/usva",
+      "npmUrl": "https://www.npmjs.com/package/%40usva-ui%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-30T22:11:08.197Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 76
+    },
+    {
+      "name": "@usva-ui/tokens",
+      "version": "1.0.1",
+      "description": "The token layer for usva: semantic role tokens, three themes, a Tailwind v4 theme.css, and W3C DTCG plus Tokens Studio exports for Figma.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/matt-pasek/usva",
+      "npmUrl": "https://www.npmjs.com/package/%40usva-ui%2Ftokens",
+      "category": "frontend",
+      "createdAt": "2026-07-30T22:11:07.616Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 67
+    },
+    {
       "name": "@uuon-foundation/pythagorean-graph-engine",
       "version": "1.0.0",
       "description": "Interactive 3D Pythagorean tree engine. Recursive topology with F=(P,E,R,C) procedural compression. Runs in browser, no install. UUON Foundation.",
@@ -10812,6 +10956,18 @@
       "createdAt": "2026-07-26T21:18:47.263Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 77
+    },
+    {
+      "name": "active-bezel",
+      "version": "0.1.0",
+      "description": "Active Bezels: executable companions to a specific ROM. A .ab package runs once per emulated frame, reads the emulator's live memory regions, and renders the complete final scene — maps, HUDs, reconstructed world graphics, artwork — around or over the ori",
+      "license": "MIT",
+      "repository": "https://github.com/monteslu/active-bezels",
+      "npmUrl": "https://www.npmjs.com/package/active-bezel",
+      "category": "devops",
+      "createdAt": "2026-07-30T23:09:00.611Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 65
     },
     {
       "name": "actorboy",
@@ -11784,6 +11940,18 @@
       "createdAt": "2026-07-30T00:21:20.151Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 55
+    },
+    {
+      "name": "bsb-validate",
+      "version": "1.0.0",
+      "description": "Validate, format, decode and look up Australian BSB (Bank State Branch) numbers. Offline validation plus optional lookups via the free BSBFinder API.",
+      "license": "MIT",
+      "repository": "https://github.com/YOUR_GITHUB_USERNAME/bsb-validate",
+      "npmUrl": "https://www.npmjs.com/package/bsb-validate",
+      "category": "backend",
+      "createdAt": "2026-07-30T22:36:11.147Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 66
     },
     {
       "name": "budgetbro-mcp",
@@ -13106,6 +13274,18 @@
       "score": 84
     },
     {
+      "name": "electron-ipc-module",
+      "version": "0.2.0",
+      "description": "Modular, type-safe Electron IPC with auto-generated preload bridges",
+      "license": "MIT",
+      "repository": "https://github.com/antelm-dev/electron-ipc-module",
+      "npmUrl": "https://www.npmjs.com/package/electron-ipc-module",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T14:14:52.391Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 70
+    },
+    {
       "name": "eleventy-plugin-deskcrew",
       "version": "1.0.1",
       "description": "Add the DeskCrew support widget to an Eleventy site: live chat, AI answers from your knowledge base, and a help center. One plugin, no template changes.",
@@ -13944,6 +14124,18 @@
       "createdAt": "2026-07-25T19:04:45.845Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 58
+    },
+    {
+      "name": "guidehalo",
+      "version": "0.1.0",
+      "description": "Photo/avatar website guide widget for onboarding tours and product walkthroughs.",
+      "license": "MIT",
+      "repository": "https://github.com/codingnewbie13/GuideHalo",
+      "npmUrl": "https://www.npmjs.com/package/guidehalo",
+      "category": "frontend",
+      "createdAt": "2026-07-30T23:13:06.421Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 65
     },
     {
       "name": "gum-sdk",
@@ -15014,6 +15206,18 @@
       "score": 53
     },
     {
+      "name": "locus-code-mcp",
+      "version": "0.2.1",
+      "description": "Locus MCP - AI-driven semantic code search client",
+      "license": "MIT",
+      "repository": "https://github.com/zj0808/locus-mcp",
+      "npmUrl": "https://www.npmjs.com/package/locus-code-mcp",
+      "category": "cli",
+      "createdAt": "2026-07-30T22:49:28.292Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 70
+    },
+    {
       "name": "logapp-ui",
       "version": "1.1.2",
       "description": "Live log viewer with a Grafana-style browser UI for any local server. Pipe a process into it and watch live logs at localhost:9999.",
@@ -15758,6 +15962,18 @@
       "score": 75
     },
     {
+      "name": "n8n-nodes-buzz",
+      "version": "0.1.1",
+      "description": "Send signed messages from self-hosted n8n workflows to Buzz channels",
+      "license": "MIT",
+      "repository": "https://github.com/AutonomousWork/n8n-buzz",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-buzz",
+      "category": "utilities",
+      "createdAt": "2026-07-30T22:14:55.873Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 62
+    },
+    {
       "name": "n8n-nodes-captchaai",
       "version": "1.0.2",
       "description": "Official CaptchaAI community node for n8n - solve reCAPTCHA, Turnstile, GeeTest, and many other CAPTCHA types inside your workflows.",
@@ -16418,6 +16634,18 @@
       "score": 64
     },
     {
+      "name": "opencode-cache-ttl",
+      "version": "1.0.0",
+      "description": "opencode plugin that upgrades Anthropic's prompt cache from a 5-minute TTL to 1 hour",
+      "license": "MIT",
+      "repository": "https://github.com/klaveren/opencode-cache-ttl",
+      "npmUrl": "https://www.npmjs.com/package/opencode-cache-ttl",
+      "category": "utilities",
+      "createdAt": "2026-07-30T22:17:59.051Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 86
+    },
+    {
       "name": "opencode-devin-auth",
       "version": "0.4.1",
       "description": "OpenCode plugin for Devin/Cognition authentication — use Devin models in OpenCode",
@@ -16452,6 +16680,30 @@
       "createdAt": "2026-07-25T22:18:55.558Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 55
+    },
+    {
+      "name": "opencode-session-identity",
+      "version": "1.0.0",
+      "description": "opencode plugin that exposes the current session id to the agent via shell env and system prompt",
+      "license": "MIT",
+      "repository": "https://github.com/klaveren/opencode-session-identity",
+      "npmUrl": "https://www.npmjs.com/package/opencode-session-identity",
+      "category": "cli",
+      "createdAt": "2026-07-30T22:18:03.909Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 75
+    },
+    {
+      "name": "opencode-session-keepalive",
+      "version": "1.0.0",
+      "description": "opencode plugin that keeps idle sessions' prompt caches warm with minimal pings, and stops when it stops paying",
+      "license": "MIT",
+      "repository": "https://github.com/klaveren/opencode-session-keepalive",
+      "npmUrl": "https://www.npmjs.com/package/opencode-session-keepalive",
+      "category": "utilities",
+      "createdAt": "2026-07-30T22:18:01.689Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 87
     },
     {
       "name": "openmergelens",
@@ -16920,6 +17172,18 @@
       "createdAt": "2026-07-30T07:01:00.300Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 63
+    },
+    {
+      "name": "pi-shimmer-quotes-spinner",
+      "version": "1.0.0",
+      "description": "Elegant animated spinner with rotating quotes for Pi — merges Claude-style shimmer (✢ ✳ ✶ ✻ ✽), editable quotes, and full customisation",
+      "license": "MIT",
+      "repository": "https://github.com/yoyo406/pi-shimmer-quotes-spinner",
+      "npmUrl": "https://www.npmjs.com/package/pi-shimmer-quotes-spinner",
+      "category": "utilities",
+      "createdAt": "2026-07-30T23:02:40.439Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 74
     },
     {
       "name": "pi-super",
@@ -18446,6 +18710,18 @@
       "score": 76
     },
     {
+      "name": "shellphone",
+      "version": "0.1.0",
+      "description": "A context bridge between Claude Code and Claude Chat. Lobster Telephone, but for two Claudes.",
+      "license": "MIT",
+      "repository": "https://github.com/gtaghon1/shellphone",
+      "npmUrl": "https://www.npmjs.com/package/shellphone",
+      "category": "cli",
+      "createdAt": "2026-07-30T22:25:06.621Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 67
+    },
+    {
       "name": "shiki-umd",
       "version": "4.3.1",
       "description": "Shiki syntax highlighter bundled as self-contained UMD/ESM files, for direct <script> and CDN usage",
@@ -19464,6 +19740,30 @@
       "createdAt": "2026-07-29T21:48:57.274Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 62
+    },
+    {
+      "name": "tw-server",
+      "version": "1.0.0",
+      "description": "Dev server for Twine/SugarCube stories: builds with tweego, type-checks the story's TypeScript (including code in passages), and live-reloads the browser on change.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/pelosis-big-knockers/tw-server",
+      "npmUrl": "https://www.npmjs.com/package/tw-server",
+      "category": "frontend",
+      "createdAt": "2026-07-30T22:11:39.344Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 76
+    },
+    {
+      "name": "tw-sugarcube-ts-tools",
+      "version": "0.12.1",
+      "description": "Editor intelligence for SugarCube in TypeScript/JavaScript: real types on hover, parameter and return-type checking, completion, and go-to-definition for members of setup, State.variables, State.temporary, and settings.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/pelosis-big-knockers/tw-sugarcube-ts-tools",
+      "npmUrl": "https://www.npmjs.com/package/tw-sugarcube-ts-tools",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T22:11:54.465Z",
+      "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 78
     },
     {
       "name": "twenty-bells",

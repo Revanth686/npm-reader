@@ -1,23 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122475412,
-  "lastRunAt": "2026-07-30T22:05:08.036Z",
+  "lastSequence": 122483483,
+  "lastRunAt": "2026-07-30T23:15:43.875Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@asirihewage/git-explain",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@decionis/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@decionis/verify",
-      "attempts": 1
-    },
-    {
-      "name": "@decionis/iso8583",
+      "name": "@ghilteras/opencode-auto-bg",
       "attempts": 1
     }
   ]
