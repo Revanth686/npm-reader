@@ -362,6 +362,18 @@
       "score": 59
     },
     {
+      "name": "@aiquants/platform-packaging",
+      "version": "0.1.0",
+      "description": "Build tooling that turns a Go command into per-platform npm packages (esbuild/Biome-style os+cpu split with optionalDependencies, bin-field executable bits, and publish-order guards)",
+      "license": "MIT",
+      "repository": "https://github.com/fehde-k/aiquants",
+      "npmUrl": "https://www.npmjs.com/package/%40aiquants%2Fplatform-packaging",
+      "category": "data",
+      "createdAt": "2026-07-30T07:33:08.733Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 84
+    },
+    {
       "name": "@aiquants/storage-api",
       "version": "0.3.0",
       "description": "Server-side TypeScript client for the multi-backend storage-api ConnectRPC service (local filesystem, Google Cloud Storage, Google Drive, in-memory) over a UNIX domain socket.",
@@ -384,6 +396,18 @@
       "createdAt": "2026-07-27T07:10:44.655Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 91
+    },
+    {
+      "name": "@alayrasystems/nexus",
+      "version": "1.5.1",
+      "description": "AI key pool proxy — route Claude, Gemini, GPT through one OpenAI-compatible endpoint",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+      "npmUrl": "https://www.npmjs.com/package/%40alayrasystems%2Fnexus",
+      "category": "devops",
+      "createdAt": "2026-07-30T09:42:36.989Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 86
     },
     {
       "name": "@alexify/migronaut",
@@ -2630,6 +2654,18 @@
       "score": 70
     },
     {
+      "name": "@eliyantosarage/hostinger-mcp",
+      "version": "2.0.0",
+      "description": "The most complete MCP server for Hostinger — 280+ tools, OAuth, HTTP transport, retry/cache, batch operations, deploy automation",
+      "license": "MIT",
+      "repository": "https://github.com/rifqi96/hostinger-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40eliyantosarage%2Fhostinger-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-30T09:44:49.263Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 81
+    },
+    {
       "name": "@envpit/sdk",
       "version": "0.1.0",
       "description": "Official Node.js/TypeScript SDK for EnvPit — configuration & secrets management without enterprise complexity.",
@@ -4046,6 +4082,18 @@
       "score": 69
     },
     {
+      "name": "@granturismo/devicespecs",
+      "version": "1.0.0",
+      "description": "A strongly-typed, modern TypeScript/JavaScript client library for the DeviceSpecs API. Query structured, clean, and normalized specifications, chipsets, and physical metrics for over 12,000 mobile devices.",
+      "license": "MIT",
+      "repository": "https://github.com/granturismo/DeviceSpecs",
+      "npmUrl": "https://www.npmjs.com/package/%40granturismo%2Fdevicespecs",
+      "category": "backend",
+      "createdAt": "2026-07-30T08:55:39.838Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 75
+    },
+    {
       "name": "@groundcraft/crawl",
       "version": "1.0.0",
       "description": "Groundcraft Crawl — scrape, search, map and crawl the web through one metered API. CLI, SDK and MCP server.",
@@ -4584,6 +4632,18 @@
       "createdAt": "2026-07-25T14:54:16.738Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 60
+    },
+    {
+      "name": "@ios27_design_system/rails",
+      "version": "1.0.0",
+      "description": "iOS 27 design system for Rails 8 + Hotwire — CSS tokens, Stimulus controllers, ERB partials",
+      "license": "MIT",
+      "repository": "https://github.com/seunghan91/ios27-design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40ios27_design_system%2Frails",
+      "category": "frontend",
+      "createdAt": "2026-07-30T10:11:57.604Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 81
     },
     {
       "name": "@ishant89/react-native-geonavkit",
@@ -6602,6 +6662,18 @@
       "score": 68
     },
     {
+      "name": "@propeller-commerce/propeller-v2-punchout",
+      "version": "0.1.0",
+      "description": "OCI + cXML PunchOut protocol logic for the Propeller eCommerce V2 platform — parses PunchOutSetupRequest XML, builds PunchOutSetupResponse / PunchOutOrderMessage / OCI NEW_ITEM field sets from a cart via a configurable field mapping. Server-side, framewor",
+      "license": "MIT",
+      "repository": "https://github.com/propeller-commerce/propeller-v2-punchout",
+      "npmUrl": "https://www.npmjs.com/package/%40propeller-commerce%2Fpropeller-v2-punchout",
+      "category": "backend",
+      "createdAt": "2026-07-30T10:08:23.807Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 77
+    },
+    {
       "name": "@psync/anti-jailbreak",
       "version": "0.2.0",
       "description": "A lightweight and reliable React Native Nitro Module to detect rooted Android devices and jailbroken iOS devices using C++, Kotlin, and Swift. Built for security-focused mobile applications.",
@@ -6744,6 +6816,18 @@
       "createdAt": "2026-07-26T08:44:37.490Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 79
+    },
+    {
+      "name": "@querykitjs/class-validator",
+      "version": "1.0.0",
+      "description": "class-validator decorators and DTOs that validate the querykit request contract (filters, sort, pagination) — types stay in sync with @querykitjs/core.",
+      "license": "MIT",
+      "repository": "https://github.com/svkhrobbeck/querykit",
+      "npmUrl": "https://www.npmjs.com/package/%40querykitjs%2Fclass-validator",
+      "category": "backend",
+      "createdAt": "2026-07-30T07:23:23.798Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 93
     },
     {
       "name": "@r3e/neo-mcp",
@@ -7682,6 +7766,18 @@
       "score": 92
     },
     {
+      "name": "@snowseo/beacon",
+      "version": "0.1.0",
+      "description": "Serve Markdown twins to AI crawlers, make them discoverable, and measure which crawlers actually arrive.",
+      "license": "MIT",
+      "repository": "https://github.com/Snow-SEO/beacon",
+      "npmUrl": "https://www.npmjs.com/package/%40snowseo%2Fbeacon",
+      "category": "utilities",
+      "createdAt": "2026-07-30T09:25:50.809Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 76
+    },
+    {
       "name": "@snowy117/pi-tmux-bash",
       "version": "0.0.15",
       "description": "Drop-in bash replacement that runs commands in the background using tmux. Forked from @richardgill/pi-tmux-bash with support for non-git directories.",
@@ -8390,6 +8486,18 @@
       "score": 73
     },
     {
+      "name": "@tm30cms/cms",
+      "version": "5.7.6",
+      "description": "An open source headless CMS solution to create and manage your own API. It provides a powerful dashboard and features to make your life easier. Databases supported: MySQL, MariaDB, PostgreSQL, SQLite",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/strapi/strapi",
+      "npmUrl": "https://www.npmjs.com/package/%40tm30cms%2Fcms",
+      "category": "frontend",
+      "createdAt": "2026-07-30T08:55:35.233Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 92
+    },
+    {
       "name": "@tokamak-zk-evm/snark-browser-compat",
       "version": "2.1.3",
       "description": "@tokamak-zk-evm/snark-browser-compat provides browser-compatible Tokamak zk-EVM proof generation, verification, and artifact conversion.",
@@ -8519,6 +8627,18 @@
       "category": "testing",
       "createdAt": "2026-07-28T22:43:21.318Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
+      "score": 80
+    },
+    {
+      "name": "@tzwzx/store-shots",
+      "version": "1.0.0",
+      "description": "Generate App Store screenshots where the live preview is the exact final output.",
+      "license": "MIT",
+      "repository": "https://github.com/tzwzx/store-shots",
+      "npmUrl": "https://www.npmjs.com/package/%40tzwzx%2Fstore-shots",
+      "category": "utilities",
+      "createdAt": "2026-07-30T08:16:57.052Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 80
     },
     {
@@ -9782,6 +9902,18 @@
       "score": 96
     },
     {
+      "name": "anyword",
+      "version": "1.0.0",
+      "description": "Micro text segmenter — locale-correct words, graphemes and sentences, safe counting and truncation, one native Intl wrapper.",
+      "license": "MIT",
+      "repository": "https://github.com/kirilinsky/anyword",
+      "npmUrl": "https://www.npmjs.com/package/anyword",
+      "category": "frontend",
+      "createdAt": "2026-07-30T08:08:19.526Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 90
+    },
+    {
       "name": "arc-honest-money",
       "version": "0.1.0",
       "description": "Four dependency-light primitives for verifiable agent money on Arc: prove an x402 payment, cap agent spend in code, cross-check a price against a second venue, and pay with an on-chain reconcilable memo.",
@@ -10538,6 +10670,18 @@
       "score": 81
     },
     {
+      "name": "chrome-bridge-mcp",
+      "version": "1.9.0",
+      "description": "MCP server with 60 tools for browser automation via Chrome extension. Works on ChromeOS/Crostini.",
+      "license": "MIT",
+      "repository": "https://github.com/frsorrentino/chrome-bridge",
+      "npmUrl": "https://www.npmjs.com/package/chrome-bridge-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-30T07:39:30.977Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 89
+    },
+    {
       "name": "chronologyjs",
       "version": "2.0.1",
       "description": "A JSON-configurable universal calendar system — a variable-base numeral calculator. Supports Gregorian, Islamic (Hijri), and Chinese lunar calendars out of the box.",
@@ -10632,6 +10776,18 @@
       "createdAt": "2026-07-28T11:51:36.392Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 86
+    },
+    {
+      "name": "claude-security",
+      "version": "0.1.1",
+      "description": "Claude-powered security scanning: CLI and TypeScript SDK that drives the Claude Agent SDK through bundled scan skills and seals results into a verifiable scan contract (JSON, SARIF, Markdown).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vrk176/claude-security",
+      "npmUrl": "https://www.npmjs.com/package/claude-security",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T09:12:16.378Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 87
     },
     {
       "name": "claude-session-namer",
@@ -12482,6 +12638,18 @@
       "score": 78
     },
     {
+      "name": "hexwright",
+      "version": "0.1.0",
+      "description": "Design graph for hexagonal-architecture codebases. Renders what a branch changed as one picture a human can confirm at a glance, and gives a coding agent boundary verdicts it can run on itself before asking for review.",
+      "license": "MIT",
+      "repository": "https://github.com/vonkernel/hexwright",
+      "npmUrl": "https://www.npmjs.com/package/hexwright",
+      "category": "backend",
+      "createdAt": "2026-07-30T10:02:39.020Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 90
+    },
+    {
       "name": "homebridge-airspace-fan",
       "version": "1.0.0",
       "description": "A Homebridge plugin to control AirScape-style whole-house fans via their fanspd.cgi HTTP interface, with optional attic temperature sensor support.",
@@ -12540,6 +12708,18 @@
       "createdAt": "2026-07-26T23:55:50.139Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 86
+    },
+    {
+      "name": "hostinger-mcp-server",
+      "version": "2.0.1",
+      "description": "The most complete MCP server for Hostinger — 280+ tools, OAuth, HTTP transport, retry/cache, batch operations, deploy automation",
+      "license": "MIT",
+      "repository": "https://github.com/idugeni/hostinger-mcp",
+      "npmUrl": "https://www.npmjs.com/package/hostinger-mcp-server",
+      "category": "frontend",
+      "createdAt": "2026-07-30T09:45:59.504Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 92
     },
     {
       "name": "htmx-magnify",
@@ -13094,6 +13274,18 @@
       "score": 90
     },
     {
+      "name": "letsinit",
+      "version": "1.0.0",
+      "description": "LetsInit CLI for scaffolding frontend, backend, mobile, and API projects",
+      "license": "MIT",
+      "repository": "https://github.com/RajanDhamala/cli",
+      "npmUrl": "https://www.npmjs.com/package/letsinit",
+      "category": "frontend",
+      "createdAt": "2026-07-30T08:55:46.069Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 77
+    },
+    {
       "name": "liarjs",
       "version": "0.1.0",
       "description": "Score a browser against itself — does its JavaScript fingerprint match what the network layer actually saw? CLI + library for Playwright, Puppeteer and any browser with a debug port.",
@@ -13332,6 +13524,18 @@
       "createdAt": "2026-07-28T07:42:58.127Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 77
+    },
+    {
+      "name": "lumina-components",
+      "version": "0.1.0",
+      "description": "A modern, accessible, and feature-rich React component library built with TypeScript, SCSS Modules, and CVA — featuring 26 production-ready components",
+      "license": "MIT",
+      "repository": "https://github.com/Gokul652003/lumina-components",
+      "npmUrl": "https://www.npmjs.com/package/lumina-components",
+      "category": "frontend",
+      "createdAt": "2026-07-30T08:36:45.839Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 75
     },
     {
       "name": "lunx-dev",
@@ -13884,6 +14088,18 @@
       "createdAt": "2026-07-27T06:30:21.307Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 92
+    },
+    {
+      "name": "mps-pdfh5",
+      "version": "1.0.0",
+      "description": "JS plugin of preview PDF  for mobile. web/h5/移动端PDF预览手势缩放插件",
+      "license": "MIT",
+      "repository": "https://github.com/gjTool/pdfh5",
+      "npmUrl": "https://www.npmjs.com/package/mps-pdfh5",
+      "category": "utilities",
+      "createdAt": "2026-07-30T07:53:30.229Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 83
     },
     {
       "name": "my-md-baileys",
@@ -14486,6 +14702,18 @@
       "score": 79
     },
     {
+      "name": "open-moderation-lexicon",
+      "version": "0.1.0",
+      "description": "Multilingual keyword-based moderation toolkit (TypeScript SDK, REST API, CLI) built on an open sensitive-word lexicon with Aho-Corasick matching.",
+      "license": "MIT",
+      "repository": "https://github.com/open-moderation-lexicon/open-moderation-lexicon",
+      "npmUrl": "https://www.npmjs.com/package/open-moderation-lexicon",
+      "category": "backend",
+      "createdAt": "2026-07-30T08:23:03.739Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 80
+    },
+    {
       "name": "open-workflow-kit",
       "version": "1.1.0",
       "description": "将完成定义编译为 Completion Contract、可复现证据与多 Agent 交付闸门的零依赖工作流 kit。",
@@ -14628,6 +14856,18 @@
       "createdAt": "2026-07-29T21:25:35.141Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 53
+    },
+    {
+      "name": "oui-spec",
+      "version": "0.1.0",
+      "description": "OUI — The OpenUI Specification. A machine-readable contract for agent-controllable user interfaces.",
+      "license": "MIT",
+      "repository": "https://github.com/wesreid/oui",
+      "npmUrl": "https://www.npmjs.com/package/oui-spec",
+      "category": "devops",
+      "createdAt": "2026-07-30T09:52:53.991Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 73
     },
     {
       "name": "overdraw",
@@ -15902,6 +16142,18 @@
       "score": 89
     },
     {
+      "name": "rn-inputforge",
+      "version": "0.1.1",
+      "description": "A production-ready, highly customizable input field system for React Native (bare CLI) — text/email/number/phone/password/search fields, description fields, chat input, built-in validation, theming, icons, and keyboard-aware form navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/saadwaheed10/rn-inputforge",
+      "npmUrl": "https://www.npmjs.com/package/rn-inputforge",
+      "category": "frontend",
+      "createdAt": "2026-07-30T08:44:38.989Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 82
+    },
+    {
       "name": "rn-sim-mcp",
       "version": "0.1.0",
       "description": "MCP server for React Native iOS simulator work. Composes XcodeBuildMCP and ios-simulator-mcp behind one curated tool surface, and adds the React component tree, resolved styles and layout audit tools neither of them has.",
@@ -15948,6 +16200,18 @@
       "createdAt": "2026-07-27T18:59:17.162Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 78
+    },
+    {
+      "name": "routeguard-authz",
+      "version": "0.1.1",
+      "description": "Route-native role/permission authorization middleware for Express. Tag routes with a resource at registration time; verbs and permissions are checked automatically, no per-route boilerplate.",
+      "license": "MIT",
+      "repository": "https://github.com/nisar7/routeguard-authz",
+      "npmUrl": "https://www.npmjs.com/package/routeguard-authz",
+      "category": "backend",
+      "createdAt": "2026-07-30T08:14:07.176Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 81
     },
     {
       "name": "rr-html",
@@ -16970,6 +17234,18 @@
       "score": 56
     },
     {
+      "name": "titen-memory",
+      "version": "0.1.0",
+      "description": "Collaborative memory fabric for AI agents — evidence-grounded observe/claim/compile/feedback over Bun+SQLite or Cloudflare Workers+D1",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/RamaAditya49/titen",
+      "npmUrl": "https://www.npmjs.com/package/titen-memory",
+      "category": "data",
+      "createdAt": "2026-07-30T10:07:12.566Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 79
+    },
+    {
       "name": "tododdle-mcp",
       "version": "2.2.0",
       "description": "Agent-first task, project context, and time tracking for ToDoddle",
@@ -17690,6 +17966,18 @@
       "score": 74
     },
     {
+      "name": "weavatrix-git",
+      "version": "0.3.1",
+      "description": "Blazingly fast, bounded, read-only Git MCP server for AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/sergii-ziborov/weavatrix-git",
+      "npmUrl": "https://www.npmjs.com/package/weavatrix-git",
+      "category": "backend",
+      "createdAt": "2026-07-30T09:23:48.066Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 75
+    },
+    {
       "name": "weavatrix-js",
       "version": "0.3.15",
       "description": "JavaScript engine of Weavatrix, the local repository intelligence MCP for AI coding agents: an always-fresh architecture graph with production-first evidence — blast radius, dead code, endpoints, clones, history, Health and architecture safeguards, with h",
@@ -17964,6 +18252,18 @@
       "createdAt": "2026-07-28T07:22:30.891Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 83
+    },
+    {
+      "name": "yukumo",
+      "version": "1.0.0",
+      "description": "High-performance, framework-agnostic Lavalink v4 client for JavaScript and TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/titanxdevz/Yukumo",
+      "npmUrl": "https://www.npmjs.com/package/yukumo",
+      "category": "data",
+      "createdAt": "2026-07-30T08:24:57.146Z",
+      "discoveredAt": "2026-07-30T10:15:02.599Z",
+      "score": 79
     },
     {
       "name": "zep-sdk",
