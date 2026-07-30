@@ -398,6 +398,18 @@
       "score": 59
     },
     {
+      "name": "@aide-gg/thinking-orbs",
+      "version": "0.1.1",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light. Fork of thinking-orbs by Jakub Antalik, adding an idle at-rest state and smoother transitions.",
+      "license": "MIT",
+      "repository": "https://github.com/Ogyeet10/thinking-orbs-animated",
+      "npmUrl": "https://www.npmjs.com/package/%40aide-gg%2Fthinking-orbs",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:32:12.863Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 69
+    },
+    {
       "name": "@aiquants/platform-packaging",
       "version": "0.1.0",
       "description": "Build tooling that turns a Go command into per-platform npm packages (esbuild/Biome-style os+cpu split with optionalDependencies, bin-field executable bits, and publish-order guards)",
@@ -624,6 +636,18 @@
       "createdAt": "2026-07-29T18:49:37.307Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 76
+    },
+    {
+      "name": "@andrsrxn/icons",
+      "version": "2.0.0",
+      "description": "Over 600 free duotone icons library for @andrsrxn/ui",
+      "license": "MIT",
+      "repository": "https://github.com/andrsrxn/icons",
+      "npmUrl": "https://www.npmjs.com/package/%40andrsrxn%2Ficons",
+      "category": "frontend",
+      "createdAt": "2026-07-29T19:02:00.887Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 66
     },
     {
       "name": "@andy8647/pi-balance",
@@ -1008,6 +1032,18 @@
       "createdAt": "2026-07-30T05:26:02.531Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 90
+    },
+    {
+      "name": "@aws-sdk/client-pricing-plan-manager",
+      "version": "3.1099.0",
+      "description": "AWS SDK for JavaScript Pricing Plan Manager Client for Node.js, Browser and React Native",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aws/aws-sdk-js-v3",
+      "npmUrl": "https://www.npmjs.com/package/%40aws-sdk%2Fclient-pricing-plan-manager",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:55:10.484Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 68
     },
     {
       "name": "@axiomify/cache",
@@ -2762,6 +2798,18 @@
       "score": 70
     },
     {
+      "name": "@edraj/sauron-browser",
+      "version": "1.3.0",
+      "description": "Sauron browser SDK: automatic error reporting + product analytics for the web.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/edraj/sauron",
+      "npmUrl": "https://www.npmjs.com/package/%40edraj%2Fsauron-browser",
+      "category": "frontend",
+      "createdAt": "2026-07-27T22:03:44.543Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 81
+    },
+    {
       "name": "@edraj/sauron-node",
       "version": "1.0.0",
       "description": "Sauron server-side Node/TypeScript SDK: product-analytics events + exception capture for Node backends.",
@@ -3038,6 +3086,18 @@
       "score": 73
     },
     {
+      "name": "@financica/nbb-cbso",
+      "version": "0.1.0",
+      "description": "Belgian annual-accounts filing for the NBB/BNB Central Balance Sheet Office: build, validate and render NBB-CBSO XBRL instance documents.",
+      "license": "MIT",
+      "repository": "https://github.com/financica/nbb-cbso",
+      "npmUrl": "https://www.npmjs.com/package/%40financica%2Fnbb-cbso",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T17:42:25.435Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 64
+    },
+    {
       "name": "@finchagentic/mcp",
       "version": "4.0.0",
       "description": "The runtime layer for Agentic AI. 121 MCP tools: persistent memory, autonomous agents, vault storage, scheduled workflows, DeFi on Base (base_mcp_*), Robinhood Chain tokenized stocks and arbitrary crypto with V3/V4 smart routing (rh_*), live market data,",
@@ -3072,6 +3132,18 @@
       "createdAt": "2026-07-28T12:22:04.954Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 78
+    },
+    {
+      "name": "@flaskbb/markdown-toolbar-element",
+      "version": "1.0.0",
+      "description": "Markdown formatting buttons for text inputs. A FlaskBB maintained fork of @github/markdown-toolbar-element.",
+      "license": "MIT",
+      "repository": "https://github.com/flaskbb/markdown-toolbar-element",
+      "npmUrl": "https://www.npmjs.com/package/%40flaskbb%2Fmarkdown-toolbar-element",
+      "category": "data",
+      "createdAt": "2026-07-30T18:25:07.308Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 67
     },
     {
       "name": "@flatzer/widget",
@@ -3240,6 +3312,18 @@
       "createdAt": "2026-07-29T23:31:48.333Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 58
+    },
+    {
+      "name": "@frase/headless-adapter",
+      "version": "0.1.0",
+      "description": "Drop-in Next.js (App Router) route handlers and a delivery-API client for headless FraseCMS frontends. Serves the per-post markdown, llms.txt, and llms-full.txt agent-readiness surfaces on your own canonical domain, at parity with Frase-rendered sites.",
+      "license": "MIT",
+      "repository": "https://github.com/frase-io/newfrase",
+      "npmUrl": "https://www.npmjs.com/package/%40frase%2Fheadless-adapter",
+      "category": "frontend",
+      "createdAt": "2026-07-30T19:04:19.356Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 72
     },
     {
       "name": "@fredng-missionplus/slack-mcp",
@@ -6866,6 +6950,18 @@
       "score": 75
     },
     {
+      "name": "@peoples-court/x402-disputes",
+      "version": "0.1.0",
+      "description": "A consent-aware x402 dispute evidence and adjudication extension for People's Court.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shunhe-wang/peoples-court-x402-disputes",
+      "npmUrl": "https://www.npmjs.com/package/%40peoples-court%2Fx402-disputes",
+      "category": "utilities",
+      "createdAt": "2026-07-30T18:05:46.377Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 68
+    },
+    {
       "name": "@phibrowser/cli",
       "version": "0.1.0",
       "description": "Command-line browser automation for Phi Browser — drives agent Spaces over CDP, playwright-cli style",
@@ -6984,6 +7080,18 @@
       "createdAt": "2026-07-27T09:37:33.544Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 96
+    },
+    {
+      "name": "@pnllabs/plugin-pnllabs",
+      "version": "1.0.1",
+      "description": "Trust & risk verdicts for AI trading agents on Solana: realized-PnL wallet trust (not peak scores), wallet funding forensics, token safety, and trade cost. Pay-per-call via x402, free tier to try.",
+      "license": "MIT",
+      "repository": "https://github.com/PnLlabs/plugin-pnllabs",
+      "npmUrl": "https://www.npmjs.com/package/%40pnllabs%2Fplugin-pnllabs",
+      "category": "utilities",
+      "createdAt": "2026-07-30T18:36:38.250Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 66
     },
     {
       "name": "@pontalabs/baileys-yue",
@@ -7334,6 +7442,18 @@
       "score": 93
     },
     {
+      "name": "@qvac/audiogen-ggml",
+      "version": "0.1.0",
+      "description": "Audio generation (music) addon for qvac",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/tetherto/qvac",
+      "npmUrl": "https://www.npmjs.com/package/%40qvac%2Faudiogen-ggml",
+      "category": "utilities",
+      "createdAt": "2026-07-27T11:54:11.006Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 61
+    },
+    {
       "name": "@r3e/neo-mcp",
       "version": "3.1.0",
       "description": "MCP server and HTTP API for Neo N3 and Neo X blockchain integration",
@@ -7524,6 +7644,30 @@
       "createdAt": "2026-07-28T19:03:30.174Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 73
+    },
+    {
+      "name": "@reintersect/svelte-check",
+      "version": "4.7.4",
+      "description": "Svelte Code Checker Terminal Interface",
+      "license": "MIT",
+      "repository": "https://github.com/sveltejs/language-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40reintersect%2Fsvelte-check",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:21:19.366Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 67
+    },
+    {
+      "name": "@reintersect/svelte-language-server",
+      "version": "0.18.3",
+      "description": "A language server for Svelte",
+      "license": "MIT",
+      "repository": "https://github.com/sveltejs/language-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40reintersect%2Fsvelte-language-server",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:20:05.092Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 62
     },
     {
       "name": "@relaymessenger/cli",
@@ -8522,6 +8666,18 @@
       "score": 90
     },
     {
+      "name": "@stardust-cms/iframe-adapter",
+      "version": "0.1.0",
+      "description": "Typed, framework-agnostic protocol plus iframe/host adapters for building in-iframe visual editors, transported over frame-link.",
+      "license": "MIT",
+      "repository": "https://github.com/dcassil/stardust-iframe-adapter",
+      "npmUrl": "https://www.npmjs.com/package/%40stardust-cms%2Fiframe-adapter",
+      "category": "frontend",
+      "createdAt": "2026-07-30T19:06:34.892Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 71
+    },
+    {
       "name": "@stayingapi/sdk",
       "version": "1.0.0",
       "description": "Official TypeScript/JavaScript SDK for the StayingAPI cross-platform accommodation data API.",
@@ -9312,6 +9468,18 @@
       "createdAt": "2026-07-26T22:08:10.075Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 59
+    },
+    {
+      "name": "@unpunnyfuns/faro-tanstack-router",
+      "version": "1.0.0",
+      "description": "Grafana Faro instrumentation for TanStack Router",
+      "license": "MIT",
+      "repository": "https://github.com/unpunnyfuns/faro-tanstack-router",
+      "npmUrl": "https://www.npmjs.com/package/%40unpunnyfuns%2Ffaro-tanstack-router",
+      "category": "utilities",
+      "createdAt": "2026-07-30T18:36:54.332Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 62
     },
     {
       "name": "@uploadcare/ai-image-editor",
@@ -11534,6 +11702,18 @@
       "score": 71
     },
     {
+      "name": "claude-mcp-doctor",
+      "version": "1.0.0",
+      "description": "Diagnose Claude Desktop MCP config problems and get copy-paste fixes. Beginner-friendly, Japanese/English, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/h-kazuki-pixel/claude-mcp-doctor",
+      "npmUrl": "https://www.npmjs.com/package/claude-mcp-doctor",
+      "category": "cli",
+      "createdAt": "2026-07-30T18:42:29.201Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 69
+    },
+    {
       "name": "claude-mrc",
       "version": "0.1.0",
       "description": "Grab your Claude Code session on your phone. Launch it visibly in a real terminal on your machine, then pick it up from claude.ai/code or the mobile app.",
@@ -11954,6 +12134,18 @@
       "score": 92
     },
     {
+      "name": "create-ocp",
+      "version": "0.2.0",
+      "description": "Scaffold an OCP (Organizational Context Protocol) organization — a git-native markdown substrate that humans read and AI agents consume.",
+      "license": "MIT",
+      "repository": "https://github.com/organizationalcontextprotocol/create-ocp",
+      "npmUrl": "https://www.npmjs.com/package/create-ocp",
+      "category": "utilities",
+      "createdAt": "2026-07-30T04:20:23.315Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 83
+    },
+    {
       "name": "create-shells",
       "version": "0.1.0",
       "description": "Scaffolder + kit for driving a Claude Code session from an external front end using only lifecycle hooks and the filesystem.",
@@ -12204,6 +12396,18 @@
       "createdAt": "2026-07-26T18:46:38.342Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 85
+    },
+    {
+      "name": "desic-okx-agent",
+      "version": "0.1.1",
+      "description": "Independent Desic runtime, MCP server, CLI, and agent skills for OKX",
+      "license": "MIT",
+      "repository": "https://github.com/xiazhi88/desic-okx-agent",
+      "npmUrl": "https://www.npmjs.com/package/desic-okx-agent",
+      "category": "backend",
+      "createdAt": "2026-07-30T17:32:10.948Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 62
     },
     {
       "name": "design-lagann",
@@ -13034,6 +13238,18 @@
       "score": 90
     },
     {
+      "name": "gdocs-native",
+      "version": "0.2.0",
+      "description": "MCP server that gives AI agents semantic, index-free control over Google Docs — read as markdown, edit by intent, collaborate safely under concurrent human edits",
+      "license": "MIT",
+      "repository": "https://github.com/JOSETRA44/mcp-google-docs",
+      "npmUrl": "https://www.npmjs.com/package/gdocs-native",
+      "category": "backend",
+      "createdAt": "2026-07-27T18:30:29.248Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 83
+    },
+    {
       "name": "gemini-notebook-mcp",
       "version": "2.0.0",
       "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
@@ -13392,6 +13608,18 @@
       "createdAt": "2026-07-28T22:06:59.739Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 64
+    },
+    {
+      "name": "hcg-date-picker",
+      "version": "1.0.0",
+      "description": "Lightweight dependency-free vanilla JavaScript date picker with calendar, date range with hover preview, multiple dates, event labels, time, and datetime modes, month/year quick navigation, min/max limits, and TypeScript types.",
+      "license": "MIT",
+      "repository": "https://github.com/html-code-generator/hcg-date-picker",
+      "npmUrl": "https://www.npmjs.com/package/hcg-date-picker",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T18:18:25.900Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 69
     },
     {
       "name": "hco-mcp",
@@ -14064,6 +14292,18 @@
       "createdAt": "2026-07-29T10:50:12.890Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 69
+    },
+    {
+      "name": "leaflet-india-boundary",
+      "version": "0.1.0",
+      "description": "India's official boundary through Jammu & Kashmir, Ladakh and Aksai Chin as a Leaflet overlay, styled to match OpenStreetMap's own borders. Framework-agnostic GeoJSON + carto-derived style values inside, so MapLibre and OpenLayers work too.",
+      "license": "MIT AND ODbL-1.0",
+      "repository": "https://github.com/lux-in-tenebris-lucet/leaflet-india-boundary",
+      "npmUrl": "https://www.npmjs.com/package/leaflet-india-boundary",
+      "category": "devops",
+      "createdAt": "2026-07-30T18:38:08.983Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 90
     },
     {
       "name": "lensglass",
@@ -16454,6 +16694,18 @@
       "score": 74
     },
     {
+      "name": "practice-fusion-mcp",
+      "version": "0.4.0",
+      "description": "FHIR-first, read-only MCP server for Practice Fusion",
+      "license": "MIT",
+      "repository": "https://github.com/kushaim/practice-fusion-mcp",
+      "npmUrl": "https://www.npmjs.com/package/practice-fusion-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T18:51:31.126Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 67
+    },
+    {
       "name": "prd-architect",
       "version": "1.0.0",
       "description": "Architect — analyze a JavaScript/TypeScript repository and generate production-quality technical documentation (README, architecture, API, database, AI-agent context) using static analysis and optional AI providers (Anthropic, OpenAI-compatible, Ollama).",
@@ -17112,6 +17364,18 @@
       "createdAt": "2026-07-26T17:04:56.791Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 59
+    },
+    {
+      "name": "result-rpc",
+      "version": "0.1.0",
+      "description": "Typed RPC for React: errors accumulate along the call path and discharge along the component tree",
+      "license": "MIT",
+      "repository": "https://github.com/jokull/result-rpc",
+      "npmUrl": "https://www.npmjs.com/package/result-rpc",
+      "category": "frontend",
+      "createdAt": "2026-07-30T17:38:31.900Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 75
     },
     {
       "name": "retrace-cli",
@@ -18098,6 +18362,18 @@
       "score": 62
     },
     {
+      "name": "svelte-adapter-bunserve",
+      "version": "0.0.1",
+      "description": "SvelteKit adapter for Bun - Bun.serve HTTP with the svelte-adapter-uws realtime DX, no native addon",
+      "license": "MIT",
+      "repository": "https://github.com/lanteanio/svelte-adapter-bunserve",
+      "npmUrl": "https://www.npmjs.com/package/svelte-adapter-bunserve",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:54:05.325Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 73
+    },
+    {
       "name": "svelte-qr-label",
       "version": "0.1.0",
       "description": "Svelte 5 component for the QR Label Designer — drag-and-drop label designer with PDF, PNG, and ZPL export.",
@@ -18108,6 +18384,18 @@
       "createdAt": "2026-07-26T09:10:16.774Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 73
+    },
+    {
+      "name": "sveltekit-medusa-ui",
+      "version": "2.18.0",
+      "description": "Ready-made SvelteKit components for the Medusa storefronts",
+      "license": "MIT",
+      "repository": "https://github.com/pevey/sveltekit-medusa-ui",
+      "npmUrl": "https://www.npmjs.com/package/sveltekit-medusa-ui",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:55:46.973Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 83
     },
     {
       "name": "synctera-sdk",
@@ -18936,6 +19224,18 @@
       "createdAt": "2026-07-28T04:13:04.653Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 83
+    },
+    {
+      "name": "vinyl-kit",
+      "version": "0.1.0",
+      "description": "A tintable vinyl record built from one grayscale mask and a CSS blend mode — disc, sleeve with slide-out choreography, stacks, and cover-accent extraction. React, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/alexisbohns/vinyl-kit",
+      "npmUrl": "https://www.npmjs.com/package/vinyl-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-30T18:01:20.242Z",
+      "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 84
     },
     {
       "name": "virtual-anchor",
