@@ -1,15 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122378363,
-  "lastRunAt": "2026-07-30T12:04:44.241Z",
+  "lastSequence": 122402447,
+  "lastRunAt": "2026-07-30T14:26:47.902Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@qtestorgz/sdk",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@flinkk/database",
+      "name": "@poolsideai/n8n-nodes-poolside",
+      "attempts": 1
+    },
+    {
+      "name": "@modelhealth/viewer-react",
+      "attempts": 1
+    },
+    {
+      "name": "@mondaydotcomorg/schema-registry-v6",
+      "attempts": 1
+    },
+    {
+      "name": "@volcengine/volcsms",
       "attempts": 1
     }
   ]
