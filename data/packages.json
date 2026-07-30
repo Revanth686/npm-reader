@@ -326,6 +326,18 @@
       "score": 62
     },
     {
+      "name": "@agentchatme/claude-code",
+      "version": "0.0.139411411",
+      "description": "AgentChat for Claude Code — give your Claude Code agent a persistent @handle other agents can DM. Wires user-scoped MCP, lifecycle hooks and identity directly through one NPX command.",
+      "license": "MIT",
+      "repository": "https://github.com/agentchatme/agentchat-claude-code",
+      "npmUrl": "https://www.npmjs.com/package/%40agentchatme%2Fclaude-code",
+      "category": "utilities",
+      "createdAt": "2026-07-30T20:48:33.897Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 63
+    },
+    {
       "name": "@agenthippo-ai/hippoclaw",
       "version": "2026.7.28",
       "description": "Multi-channel AI gateway with extensible messaging integrations",
@@ -1044,6 +1056,18 @@
       "createdAt": "2026-07-25T19:46:27.431Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 70
+    },
+    {
+      "name": "@attache/cli",
+      "version": "0.4.0",
+      "description": "Check an Envoy config from the command line. Findings that point at a line, in a form CI can read — no Envoy binary, no network, any platform Node runs on.",
+      "license": "MIT",
+      "repository": "https://github.com/emmettl/attache",
+      "npmUrl": "https://www.npmjs.com/package/%40attache%2Fcli",
+      "category": "data",
+      "createdAt": "2026-07-30T21:13:41.253Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 74
     },
     {
       "name": "@austencloud/agent-hub",
@@ -1862,6 +1886,18 @@
       "score": 57
     },
     {
+      "name": "@cloudflarebase/db",
+      "version": "0.1.1",
+      "description": "Firestore-style JSON documents with live queries on Cloudflare Durable Objects, one isolated instance per collection - the database primitive behind Cloudflarebase.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cloudflarebase/cloudflarebase",
+      "npmUrl": "https://www.npmjs.com/package/%40cloudflarebase%2Fdb",
+      "category": "data",
+      "createdAt": "2026-07-30T20:53:04.644Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 58
+    },
+    {
       "name": "@cocoapuffs813/ecc-universal",
       "version": "2.0.0",
       "description": "Harness-native agent operating system for Codex, OpenCode, Cursor, Gemini, Claude Code, and terminal workflows - skills, hooks, rules, MCP conventions, and operator control-plane patterns",
@@ -1884,6 +1920,18 @@
       "createdAt": "2026-07-28T20:40:15.784Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 94
+    },
+    {
+      "name": "@coda-rho-bot/oath-keeper",
+      "version": "1.0.0",
+      "description": "Passively detects when agents make follow-up promises and automatically delivers on them. Cron is for things you plan. Oath Keeper is for things you promise.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/coda-rho-bot/mods",
+      "npmUrl": "https://www.npmjs.com/package/%40coda-rho-bot%2Foath-keeper",
+      "category": "utilities",
+      "createdAt": "2026-07-30T21:51:14.069Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 91
     },
     {
       "name": "@code-yeongyu/senpi-agent-core",
@@ -3026,6 +3074,18 @@
       "score": 65
     },
     {
+      "name": "@explita/tiptap-extension-image",
+      "version": "0.1.0",
+      "description": "A framework-agnostic TipTap v3 image extension with upload placeholders, drag-and-drop uploads, resizing, alignment controls, and external image sources.",
+      "license": "MIT",
+      "repository": "https://github.com/explita/tiptap-extension-image",
+      "npmUrl": "https://www.npmjs.com/package/%40explita%2Ftiptap-extension-image",
+      "category": "frontend",
+      "createdAt": "2026-07-30T20:56:49.656Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 80
+    },
+    {
       "name": "@falkordb/n8n-nodes-graphrag",
       "version": "0.2.0",
       "description": "n8n community node — wraps the FalkorDB GraphRAG-Server REST API for knowledge-graph ingestion and retrieval.",
@@ -3072,6 +3132,18 @@
       "createdAt": "2026-07-30T19:40:13.113Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 76
+    },
+    {
+      "name": "@felipemeriga/kioku",
+      "version": "0.1.1",
+      "description": "Kioku (記憶) — second brain for your repos. Wires a local repo to your Kioku instance: MCP server, SessionStart hook, capture Stop hook, CLAUDE.md snippet.",
+      "license": "MIT",
+      "repository": "https://github.com/felipemeriga/kioku",
+      "npmUrl": "https://www.npmjs.com/package/%40felipemeriga%2Fkioku",
+      "category": "backend",
+      "createdAt": "2026-07-30T21:14:38.521Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 61
     },
     {
       "name": "@feralfile/source-resolver",
@@ -3662,6 +3734,18 @@
       "score": 67
     },
     {
+      "name": "@gitmyabi/abu",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ABU (build etherscan-abu-2800144a-1785448019813, commit 59c397b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/abu",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fabu",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:47:25.163Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/account",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for Account (build etherscan-account-6a26400f-1785020085682, commit 8328238, branch etherscan)",
@@ -3890,6 +3974,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/ethvault",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for EthVault (build etherscan-ethvault-4c09bc47-1785447009343, commit 835f24b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ethvault",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fethvault",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:30:36.509Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/ff",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for FF (build etherscan-ff-fa1c09fc-1785360765405, commit de0f74e, branch etherscan)",
@@ -3938,6 +4034,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/godpull",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for GODPULL (build etherscan-godpull-00edb012-1785446483919, commit 4c0a013, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/godpull",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgodpull",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:21:49.892Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/https-safe-ad",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for https://safe.ad (build etherscan-https-safe-ad-31a24064-1785067264819, commit ef57165, branch etherscan)",
@@ -3971,6 +4079,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-25T17:36:11.451Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/kbtc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for kBTC (build etherscan-kbtc-73e0c0d4-1785447089308, commit 1759fc6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/kbtc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fkbtc",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:31:54.852Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 56
     },
     {
@@ -4322,6 +4442,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/vesta",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for VESTA (build etherscan-vesta-d295a944-1785447324331, commit 01497e6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/vesta",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fvesta",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:35:48.539Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/vxvopresale",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for VxvoPresale (build etherscan-vxvopresale-06048a18-1785285725893, commit 6d8c7b0, branch etherscan)",
@@ -4332,6 +4464,18 @@
       "createdAt": "2026-07-29T00:42:31.216Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/xsushi",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for xSUSHI (build etherscan-xsushi-8798249c-1785447149177, commit 676c5fa, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/xsushi",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fxsushi",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:32:53.323Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/yielddistributor",
@@ -5726,6 +5870,18 @@
       "score": 72
     },
     {
+      "name": "@loregpt/mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for Lore — coordination memory for multi-agent AI systems. Exposes create_run, memory_write, and memory_pack as MCP tools over stdio.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lore-gpt/lore",
+      "npmUrl": "https://www.npmjs.com/package/%40loregpt%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T20:58:19.162Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 64
+    },
+    {
       "name": "@lovelace_lol/embody",
       "version": "0.0.1",
       "description": "Renderer-agnostic character animation runtime for facial AUs, visemes, and bone-driven motion",
@@ -6444,6 +6600,18 @@
       "createdAt": "2026-07-29T16:29:27.448Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 62
+    },
+    {
+      "name": "@nativectx/ui",
+      "version": "0.1.0",
+      "description": "React Native components for building cross-platform apps with Material Design.",
+      "license": "MIT",
+      "repository": "https://github.com/nativectx/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40nativectx%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-07-30T21:37:57.083Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 66
     },
     {
       "name": "@naviary-sanctuary/kinship-graph",
@@ -7332,6 +7500,18 @@
       "createdAt": "2026-07-30T10:08:23.807Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 77
+    },
+    {
+      "name": "@psychometric-fyi/career-intelligence",
+      "version": "1.0.0",
+      "description": "Psychometric Career Intelligence is an educational resource exploring the science of psychometric assessments and career decision making. Built by Psychometric.fyi",
+      "license": "MIT",
+      "repository": "https://github.com/Psychometric-fyi/Psychometric-career-intelligence",
+      "npmUrl": "https://www.npmjs.com/package/%40psychometric-fyi%2Fcareer-intelligence",
+      "category": "testing",
+      "createdAt": "2026-07-30T22:00:05.029Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 82
     },
     {
       "name": "@psync/anti-jailbreak",
@@ -8450,6 +8630,18 @@
       "score": 76
     },
     {
+      "name": "@siestai-memory/sdk",
+      "version": "0.1.0",
+      "description": "Official TypeScript SDK for the Siestai memory API — long-term memory for AI agents (per-user & per-team memory, semantic recall, context assembly, episodic cases).",
+      "license": "MIT",
+      "repository": "https://github.com/Siestai/siestai-enterprise",
+      "npmUrl": "https://www.npmjs.com/package/%40siestai-memory%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-30T21:07:38.141Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 83
+    },
+    {
       "name": "@sigilcore/warrant-core",
       "version": "0.1.0",
       "description": "Platform-neutral parsing, canonicalization, and cryptographic primitives for Sigil Warrant policies.",
@@ -8508,6 +8700,30 @@
       "createdAt": "2026-07-25T19:40:55.482Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 71
+    },
+    {
+      "name": "@simplybuilder/core",
+      "version": "2.0.1",
+      "description": "Unified integration layer for @simplybuilder/core-event and @simplybuilder/core-dom. Imports both modules and wires them together via `domModuleExtends(EventModule)` for declarative event binding and memory-safe cleanup.",
+      "license": "MIT",
+      "repository": "https://github.com/SimplyBuilder/sb-core-v2",
+      "npmUrl": "https://www.npmjs.com/package/%40simplybuilder%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:13:10.759Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 66
+    },
+    {
+      "name": "@simplybuilder/core-dom",
+      "version": "2.0.1",
+      "description": "DOM manipulation module for @simplybuilder/core. Provides element creation, attribute management, DOM tree construction, and element removal with optional event module integration.",
+      "license": "MIT",
+      "repository": "https://github.com/SimplyBuilder/sb-core-v2",
+      "npmUrl": "https://www.npmjs.com/package/%40simplybuilder%2Fcore-dom",
+      "category": "frontend",
+      "createdAt": "2026-07-26T14:12:50.082Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 67
     },
     {
       "name": "@singerbj/gh-runner",
@@ -10358,6 +10574,18 @@
       "score": 71
     },
     {
+      "name": "@ysaere/sdk",
+      "version": "0.2.1",
+      "description": "Ysaere TypeScript SDK — typed /v1 client for builders and machine users. Multi-agent research swarms with a Trust Receipt on every report.",
+      "license": "MIT",
+      "repository": "https://github.com/ysaere/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40ysaere%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T20:33:50.744Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 58
+    },
+    {
       "name": "@yuthent/server",
       "version": "0.5.0",
       "description": "Express middleware for verifying Yuthent SDK retry headers — Post-Session Execution Assurance (PSEA) on the server side.",
@@ -10416,6 +10644,18 @@
       "createdAt": "2026-07-26T20:48:55.369Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 48
+    },
+    {
+      "name": "@zenixsolutions/lumics-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for the Lumics network monitoring platform. Community project, not affiliated with or endorsed by Lumics or NetCuras.",
+      "license": "MIT",
+      "repository": "https://github.com/ZenixSolutions/lumics-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40zenixsolutions%2Flumics-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T21:35:49.838Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 82
     },
     {
       "name": "@zerotohundred/mcp-server",
@@ -11390,6 +11630,18 @@
       "score": 73
     },
     {
+      "name": "blazar-dev",
+      "version": "2.2.0",
+      "description": "Blazar Dev — squad de engenharia com IA da Blazar Co.: metodologia SDD+TDD com gates de produção, subagents, skills e pipeline visível. Instala em Claude Code, Codex, OpenCode, Antigravity e Cursor.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/phsilvaoficial/blazar-dev",
+      "npmUrl": "https://www.npmjs.com/package/blazar-dev",
+      "category": "utilities",
+      "createdAt": "2026-07-30T21:29:33.407Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 88
+    },
+    {
       "name": "blind-panel",
       "version": "0.1.0",
       "description": "Blind pairwise evaluation — seeded blinding, position-bias detection, and inter-rater agreement. The win rate is the number that means least.",
@@ -12024,6 +12276,18 @@
       "createdAt": "2026-07-26T12:27:42.067Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 52
+    },
+    {
+      "name": "clipboard-image-terminal",
+      "version": "0.3.1",
+      "description": "Paste clipboard images as file paths into the VS Code terminal. Built for AI coding tools on WSL.",
+      "license": "MIT",
+      "repository": "https://github.com/muammar-yacoob/clipboard-image-terminal",
+      "npmUrl": "https://www.npmjs.com/package/clipboard-image-terminal",
+      "category": "cli",
+      "createdAt": "2026-07-30T21:11:08.437Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 66
     },
     {
       "name": "cloudflare-dynamic-dns-service",
@@ -16490,6 +16754,18 @@
       "score": 90
     },
     {
+      "name": "phaser-isometric",
+      "version": "0.1.0",
+      "description": "Isometric plugin for Phaser 4: projection, elevation-aware picking, deterministic depth ordering, O(1) culling and correct world bounds.",
+      "license": "MIT",
+      "repository": "https://github.com/VanniMnemonic/phaser-isometric",
+      "npmUrl": "https://www.npmjs.com/package/phaser-isometric",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T21:02:15.052Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 72
+    },
+    {
       "name": "phi-leak-guard",
       "version": "0.0.1",
       "description": "Deterministic PHI-leak assertions for LLM output, runnable in your normal test suite. HIPAA Safe Harbor + NHS/UK. No LLM calls, no data leaves your machine.",
@@ -17088,6 +17364,18 @@
       "createdAt": "2026-07-28T19:38:25.326Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 83
+    },
+    {
+      "name": "proxytop",
+      "version": "1.0.0",
+      "description": "A btop-style macOS proxy, VPN, tunnel, and per-application network path inspector",
+      "license": "MIT",
+      "repository": "https://github.com/cliecy/proxytop",
+      "npmUrl": "https://www.npmjs.com/package/proxytop",
+      "category": "utilities",
+      "createdAt": "2026-07-30T20:42:52.722Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 71
     },
     {
       "name": "qa-engineer",
@@ -19452,6 +19740,18 @@
       "createdAt": "2026-07-26T09:38:20.446Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 76
+    },
+    {
+      "name": "vendorprint",
+      "version": "0.3.0",
+      "description": "A careful, evidence-first CLI for discovering company technology signals in public DNS.",
+      "license": "MIT",
+      "repository": "https://github.com/danahmadi/vendorprint_cli",
+      "npmUrl": "https://www.npmjs.com/package/vendorprint",
+      "category": "cli",
+      "createdAt": "2026-07-30T16:11:30.339Z",
+      "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 68
     },
     {
       "name": "verihook",

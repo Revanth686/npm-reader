@@ -1,35 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122466604,
-  "lastRunAt": "2026-07-30T20:57:53.947Z",
+  "lastSequence": 122475412,
+  "lastRunAt": "2026-07-30T22:05:08.036Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@asirihewage/git-explain",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@bandf/framework-state",
+      "name": "@decionis/sdk",
       "attempts": 1
     },
     {
-      "name": "@bandf/framework-ui",
+      "name": "@decionis/verify",
       "attempts": 1
     },
     {
-      "name": "@bandf/framework-identity",
-      "attempts": 1
-    },
-    {
-      "name": "@bandf/framework",
-      "attempts": 1
-    },
-    {
-      "name": "@foss.global/ci-spec",
-      "attempts": 1
-    },
-    {
-      "name": "@explita/tiptap-extension-image",
+      "name": "@decionis/iso8583",
       "attempts": 1
     }
   ]
