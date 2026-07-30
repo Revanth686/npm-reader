@@ -1022,6 +1022,18 @@
       "score": 79
     },
     {
+      "name": "@bbridge/authorizer",
+      "version": "0.1.0",
+      "description": "Reference implementation of the bbridge Authorizer service core: deposit confirmation with vault UTXO quarantine, and withdrawal postage co-signing",
+      "license": "MIT",
+      "repository": "https://github.com/badger-cash/bbridge",
+      "npmUrl": "https://www.npmjs.com/package/%40bbridge%2Fauthorizer",
+      "category": "utilities",
+      "createdAt": "2026-07-30T00:35:06.104Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 64
+    },
+    {
       "name": "@bbridge/sdk",
       "version": "0.1.0",
       "description": "Reference TypeScript client for the eCash (XEC) <-> Ethereum bridge",
@@ -1862,6 +1874,18 @@
       "score": 83
     },
     {
+      "name": "@cristiannorga/harness",
+      "version": "1.4.0",
+      "description": "Instalador interactivo de harness para opencode CLI con modelos Qwen3.7",
+      "license": "MIT",
+      "repository": "https://github.com/CristianNorga/rsc-harness-opencode",
+      "npmUrl": "https://www.npmjs.com/package/%40cristiannorga%2Fharness",
+      "category": "cli",
+      "createdAt": "2026-07-30T00:09:48.563Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 56
+    },
+    {
       "name": "@crisvsgame/cadence",
       "version": "1.0.0",
       "description": "A lightweight TypeScript library for shared requestAnimationFrame timing and lifecycle coordination.",
@@ -1932,6 +1956,18 @@
       "createdAt": "2026-07-26T14:40:04.472Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "@dbzdrums/notation",
+      "version": "0.2.0",
+      "description": "Type-safe TypeScript library for authoring and rendering drum notation.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/DBZDrums/dbzdrums-notation",
+      "npmUrl": "https://www.npmjs.com/package/%40dbzdrums%2Fnotation",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T22:35:27.333Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 61
     },
     {
       "name": "@denizeffects/dropnav",
@@ -2772,6 +2808,18 @@
       "createdAt": "2026-07-26T18:41:30.188Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 72
+    },
+    {
+      "name": "@florentin-one/mcp-metacognitive-monitoring",
+      "version": "0.4.13",
+      "description": "MCP server for diagrammatic thinking and spatial representation",
+      "license": "MIT",
+      "repository": "https://github.com/florentin-one-cloud/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40florentin-one%2Fmcp-metacognitive-monitoring",
+      "category": "backend",
+      "createdAt": "2026-07-30T01:36:06.932Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 54
     },
     {
       "name": "@flow-grid/core",
@@ -3624,6 +3672,18 @@
       "createdAt": "2026-07-25T14:37:31.934Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 59
+    },
+    {
+      "name": "@gitmyabi/rlb",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RLB (build etherscan-rlb-046eee2c-1785369424718, commit 5694d65, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rlb",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frlb",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T23:57:29.244Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/safersafes",
@@ -4584,6 +4644,18 @@
       "createdAt": "2026-07-27T22:19:37.839Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 90
+    },
+    {
+      "name": "@joaoluft/grounded-llm",
+      "version": "0.2.2",
+      "description": "TypeScript library to reduce hallucination in LLM-generated responses and decisions by grounding them in retrieved context.",
+      "license": "MIT",
+      "repository": "https://github.com/joaoluft/grounded-llm",
+      "npmUrl": "https://www.npmjs.com/package/%40joaoluft%2Fgrounded-llm",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T01:37:38.070Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 62
     },
     {
       "name": "@joshuanode/n8n-nodes-autoelevate",
@@ -6230,6 +6302,18 @@
       "score": 81
     },
     {
+      "name": "@pipeworx/mcp-us-dmv",
+      "version": "0.1.1",
+      "description": "US state DMV data: vehicle and EV registrations, office locators, live wait times",
+      "license": "MIT",
+      "repository": "https://github.com/pipeworx-io/mcp-us-dmv",
+      "npmUrl": "https://www.npmjs.com/package/%40pipeworx%2Fmcp-us-dmv",
+      "category": "backend",
+      "createdAt": "2026-07-30T00:43:30.144Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 59
+    },
+    {
       "name": "@plainconceptsplatform/loop-task",
       "version": "2.6.0",
       "description": "Loop engineering toolkit. Run any command on a cadence, in the background, managed from a terminal board. Schedule tests, builds, syncs, or agent prompts.",
@@ -7850,6 +7934,18 @@
       "score": 74
     },
     {
+      "name": "@tayomi/skiller",
+      "version": "0.1.0",
+      "description": "A compiler for agent skills: build the file that ships from sources you maintain, instead of hand-writing every copy. v1 strips author-only comments; composable blocks with slots are next.",
+      "license": "MIT",
+      "repository": "https://github.com/mopi1402/skiller",
+      "npmUrl": "https://www.npmjs.com/package/%40tayomi%2Fskiller",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T23:54:57.608Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 63
+    },
+    {
       "name": "@telecmi/react-native-callkeep",
       "version": "4.3.16",
       "description": "react-native-callkeep 4.3.16 with the duplicate @ReactMethod fix (Android / RN 0.76+ crash at startup). Ships as a dependency of @telecmi/piopiy-native — apps install nothing and patch nothing. Fork of https://github.com/react-native-webrtc/react-native-c",
@@ -8294,6 +8390,18 @@
       "score": 76
     },
     {
+      "name": "@vaduno/postgres",
+      "version": "0.2.1",
+      "description": "Postgres-backed SpendLimiter and ConsumeStore for Vaduno. Makes rolling spend caps and consume-once mandates hold across MULTIPLE INSTANCES, not just one process. Never holds funds or keys to funds.",
+      "license": "MIT",
+      "repository": "https://github.com/premsreelathasugeendran/vaduno",
+      "npmUrl": "https://www.npmjs.com/package/%40vaduno%2Fpostgres",
+      "category": "data",
+      "createdAt": "2026-07-29T12:50:42.307Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 57
+    },
+    {
       "name": "@vaduno/revocation",
       "version": "0.1.0",
       "description": "Revocation registry for Vaduno mandates: W3C Bitstring Status List credentials, instant fail-closed revocation at authorization time, agent-wide kill, and best-effort fan-out to rail-native revocation. Never holds funds or keys.",
@@ -8556,6 +8664,18 @@
       "createdAt": "2026-07-29T09:27:42.242Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 86
+    },
+    {
+      "name": "@vonage/reports",
+      "version": "1.1.0",
+      "description": "The Reports API enables you to request a report of activity for your Vonage account.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Vonage/vonage-node-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40vonage%2Freports",
+      "category": "backend",
+      "createdAt": "2026-07-29T18:07:16.073Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 72
     },
     {
       "name": "@vul-os/kotva-sync",
@@ -9206,6 +9326,18 @@
       "score": 79
     },
     {
+      "name": "ainative-opencode-memory-mcp",
+      "version": "0.1.0",
+      "description": "OpenCode memory MCP — persistent cross-session memory for OpenCode (and any MCP coding agent), powered by AINative ZeroDB. OpenCode is stateless; this gives your agent long-term memory that survives restarts. Works with Kimi K2/K3, GLM, DeepSeek, Qwen Cod",
+      "license": "MIT",
+      "repository": "https://github.com/AINative-Studio/core",
+      "npmUrl": "https://www.npmjs.com/package/ainative-opencode-memory-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T00:12:34.777Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 60
+    },
+    {
       "name": "aipm-mcp-server",
       "version": "0.5.0",
       "description": "MCP server for AI Process Manager: structured Windows state for AI agents (processes, windows, UI Automation) — no screenshots",
@@ -9806,6 +9938,30 @@
       "score": 72
     },
     {
+      "name": "browserhive",
+      "version": "0.0.1",
+      "description": "Local-first MCP server for parallel, isolated browser sessions with vault-backed credential injection and an opt-in admin dashboard.",
+      "license": "MIT",
+      "repository": "https://github.com/arg1998/BrowserHive",
+      "npmUrl": "https://www.npmjs.com/package/browserhive",
+      "category": "testing",
+      "createdAt": "2026-07-30T00:21:20.151Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 55
+    },
+    {
+      "name": "budgetbro-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for BudgetBro - expenses, recurring subscriptions, trip budgets and cashflow, backed by the BudgetBro Lambda API.",
+      "license": "MIT",
+      "repository": "https://github.com/oktran-io/budget-bro-lambda",
+      "npmUrl": "https://www.npmjs.com/package/budgetbro-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T00:29:51.190Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 59
+    },
+    {
       "name": "buildloop",
       "version": "0.1.0",
       "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
@@ -10128,6 +10284,18 @@
       "createdAt": "2026-07-28T11:51:36.392Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 86
+    },
+    {
+      "name": "claude-session-namer",
+      "version": "0.1.0",
+      "description": "Auto-title Claude Code sessions - and re-title them when the conversation drifts",
+      "license": "MIT",
+      "repository": "https://github.com/sturimcode/claude-session-namer",
+      "npmUrl": "https://www.npmjs.com/package/claude-session-namer",
+      "category": "utilities",
+      "createdAt": "2026-07-30T00:29:58.233Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 68
     },
     {
       "name": "claude-skills-kit",
@@ -10502,6 +10670,18 @@
       "score": 65
     },
     {
+      "name": "create-stellar-agentic",
+      "version": "0.1.1",
+      "description": "Scaffold a Stellar dApp with the Stellar Agentic Framework — contracts, frontend, backend, and agentic payments in one command",
+      "license": "MIT",
+      "repository": "https://github.com/rylsherdamz-rgb/stellar-agentic-framework",
+      "npmUrl": "https://www.npmjs.com/package/create-stellar-agentic",
+      "category": "frontend",
+      "createdAt": "2026-07-30T00:07:31.284Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 82
+    },
+    {
       "name": "crux-axi",
       "version": "1.0.0",
       "description": "HTML is the new markdown. Crux is the new editor for your HTML artifacts.",
@@ -10584,6 +10764,18 @@
       "createdAt": "2026-07-26T09:14:14.109Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 90
+    },
+    {
+      "name": "daddy-chill",
+      "version": "1.0.0",
+      "description": "An Agent Skill that pins AI output to an 8th-grade reading level, with a benchmark that proves it.",
+      "license": "MIT",
+      "repository": "https://github.com/Delanyo32/daddy-chill",
+      "npmUrl": "https://www.npmjs.com/package/daddy-chill",
+      "category": "utilities",
+      "createdAt": "2026-07-30T00:17:00.139Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 60
     },
     {
       "name": "dashmq-connector",
@@ -11378,6 +11570,18 @@
       "score": 88
     },
     {
+      "name": "forgedoc",
+      "version": "1.0.0",
+      "description": "Web components for AI-authored interactive planning documents.",
+      "license": "MIT",
+      "repository": "https://github.com/MrBns/plankit",
+      "npmUrl": "https://www.npmjs.com/package/forgedoc",
+      "category": "utilities",
+      "createdAt": "2026-07-30T01:28:45.794Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 68
+    },
+    {
       "name": "formco-core",
       "version": "0.6.0",
       "description": "Lightweight, re-render conscious form controls for React",
@@ -11546,6 +11750,18 @@
       "score": 60
     },
     {
+      "name": "gitcraque",
+      "version": "0.1.0",
+      "description": "Cliente Git de desktop sem Electron: grafo de historico, drag-and-drop semantico e rebase interativo automatizado — backend Node.js puro servindo uma SPA React em localhost",
+      "license": "MIT",
+      "repository": "https://github.com/frederico-kluser/GitCraque",
+      "npmUrl": "https://www.npmjs.com/package/gitcraque",
+      "category": "frontend",
+      "createdAt": "2026-07-30T01:22:11.141Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 86
+    },
+    {
       "name": "gitscout-cli",
       "version": "1.0.2",
       "description": "Pre-clone static security scanner for GitHub repositories and local codebases. Detects malicious lifecycle scripts, credential theft, obfuscated payloads, trojan source, typosquatting, data exfiltration, and lockfile integrity issues.",
@@ -11616,6 +11832,18 @@
       "createdAt": "2026-07-27T06:42:27.938Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 71
+    },
+    {
+      "name": "gren-coverage-node",
+      "version": "1.0.0",
+      "description": "Code coverage (line, function, and when/if branch) for Gren node applications",
+      "license": "ISC",
+      "repository": "https://github.com/gilramir/gren-coverage-node",
+      "npmUrl": "https://www.npmjs.com/package/gren-coverage-node",
+      "category": "utilities",
+      "createdAt": "2026-07-30T01:35:41.995Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 75
     },
     {
       "name": "guacd-ts",
@@ -12302,6 +12530,18 @@
       "score": 84
     },
     {
+      "name": "kyw-dev",
+      "version": "0.1.1",
+      "description": "A spec-driven development workflow plugin for Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/kimyeongwoo/kyw-dev",
+      "npmUrl": "https://www.npmjs.com/package/kyw-dev",
+      "category": "utilities",
+      "createdAt": "2026-07-29T11:53:18.654Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 63
+    },
+    {
       "name": "l-nexus",
       "version": "0.4.0",
       "description": "Central portátil de configuração e diretrizes para agentes de IA — skills, roles, guidelines e templates versionados",
@@ -12734,6 +12974,18 @@
       "score": 51
     },
     {
+      "name": "marmot-ledger-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Marmot Ledger — AI-powered personal finance management via natural language",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/here-tunan/marmot-ledger",
+      "npmUrl": "https://www.npmjs.com/package/marmot-ledger-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T01:07:24.005Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 74
+    },
+    {
       "name": "mars-plugged",
       "version": "0.1.0",
       "description": "Raw Solana + x402 toolkit: talk to Anchor programs with no IDL, decode accounts from a byte-offset table, and build x402 payment envelopes by hand.",
@@ -13104,6 +13356,18 @@
       "createdAt": "2026-07-26T08:15:54.677Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 65
+    },
+    {
+      "name": "minio-put-mcp",
+      "version": "1.0.1",
+      "description": "MinIO PUT MCP服务器 - 只上传、不查询、不删除，按 did/sid/fid 三级路径自动归档",
+      "license": "MIT",
+      "repository": "https://github.com/zymeli/minio-put-mcp",
+      "npmUrl": "https://www.npmjs.com/package/minio-put-mcp",
+      "category": "utilities",
+      "createdAt": "2026-07-30T01:38:20.556Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 64
     },
     {
       "name": "model-roundtable",
@@ -13668,6 +13932,18 @@
       "createdAt": "2026-07-26T09:30:20.627Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 56
+    },
+    {
+      "name": "office-file-viewer",
+      "version": "0.0.2",
+      "description": "A browser-based React component for offline preview of DOC/DOCX/WPS, XLS/XLSX, and PPT/PPTX files.",
+      "license": "MIT",
+      "repository": "https://github.com/gyxing/office-file-viewer",
+      "npmUrl": "https://www.npmjs.com/package/office-file-viewer",
+      "category": "frontend",
+      "createdAt": "2026-07-29T02:01:45.464Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 79
     },
     {
       "name": "omega-security-scanner",
@@ -15674,6 +15950,18 @@
       "score": 68
     },
     {
+      "name": "spec-init",
+      "version": "1.1.0",
+      "description": "Throughspec - Spec-driven. Drift-proof. Token-lean. Scaffolds a Claude Code project around a deterministic SDLC.",
+      "license": "MIT",
+      "repository": "https://github.com/VishalPatil18/throughspec",
+      "npmUrl": "https://www.npmjs.com/package/spec-init",
+      "category": "utilities",
+      "createdAt": "2026-07-27T02:19:06.233Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 60
+    },
+    {
       "name": "sphere-visual-lab",
       "version": "0.1.0",
       "description": "Reusable animated WebGL visuals for React, Three.js, and React Three Fiber.",
@@ -16968,6 +17256,18 @@
       "createdAt": "2026-07-29T05:39:12.639Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 78
+    },
+    {
+      "name": "witherspoon-course-template",
+      "version": "1.0.0",
+      "description": "Shared Astro template that builds a self-contained static site from any approved course directory.",
+      "license": "MIT",
+      "repository": "https://github.com/colinmollenhour/witherspoon",
+      "npmUrl": "https://www.npmjs.com/package/witherspoon-course-template",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T01:11:30.514Z",
+      "discoveredAt": "2026-07-30T01:44:02.648Z",
+      "score": 68
     },
     {
       "name": "wordprint",

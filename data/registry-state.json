@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122283853,
-  "lastRunAt": "2026-07-29T23:51:07.640Z",
+  "lastSequence": 122294451,
+  "lastRunAt": "2026-07-30T01:44:02.648Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@osdk/integration-testing",
+      "name": "@qtestorgz/sdk",
       "attempts": 1
     },
     {
-      "name": "@chamba/opencode-extras",
+      "name": "@schovest/pi-mcp-adapter",
+      "attempts": 1
+    },
+    {
+      "name": "@worldclonelab/decision-mcp",
       "attempts": 1
     }
   ]
