@@ -1,111 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122312224,
-  "lastRunAt": "2026-07-30T04:51:23.168Z",
+  "lastSequence": 122330768,
+  "lastRunAt": "2026-07-30T07:23:45.140Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@qtestorgz/sdk",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@rsmax/babel-plugin-jsx-to-wxml",
+      "name": "@turingfocus/chat-protocol",
       "attempts": 1
     },
     {
-      "name": "@roster-lock/utils",
+      "name": "@agenthub-ai/empty",
       "attempts": 1
     },
     {
-      "name": "@roster-lock/ts-client",
+      "name": "@danielleallyssa/sqs-scaling-card-gallery",
       "attempts": 1
     },
     {
-      "name": "@roster-lock/shared",
+      "name": "@querykitjs/class-validator",
       "attempts": 1
     },
     {
-      "name": "@roster-lock/dl-archive-rar",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-archive-tar",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-archive-zip",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-compression-brotli",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-compression-gzip",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/untrusted-config-json",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/untrusted-config-json5",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/untrusted-config-jsonnet",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-shared",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/untrusted-lua",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/untrusted-ts",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-protocol-ftp",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-protocol-git",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-protocol-http",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-protocol-ipfs",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-protocol-s3",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/dl-protocol-torrent",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/plugin-runtime",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/config-editor-cli",
-      "attempts": 1
-    },
-    {
-      "name": "@roster-lock/match-agent",
-      "attempts": 1
-    },
-    {
-      "name": "@allowly/mcp",
+      "name": "@on-panda/on-panda-core",
       "attempts": 1
     }
   ]
