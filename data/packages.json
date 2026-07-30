@@ -1046,6 +1046,18 @@
       "score": 68
     },
     {
+      "name": "@bedolla/enriazure",
+      "version": "0.1.0",
+      "description": "Azure DevOps Server-only MCP with multi-collection administration and guarded CRUD.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/Bedolla/EnriAzure",
+      "npmUrl": "https://www.npmjs.com/package/%40bedolla%2Fenriazure",
+      "category": "backend",
+      "createdAt": "2026-07-30T02:04:11.557Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 68
+    },
+    {
       "name": "@belalwaheed/octagon-mist",
       "version": "1.0.0",
       "description": "Framework-agnostic design system with Filter Octagon (dark) and Minimal Mist (light) themes — OKLCH color ramps, semantic tokens, and 8 output formats",
@@ -1140,6 +1152,30 @@
       "createdAt": "2026-07-25T13:25:58.485Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 49
+    },
+    {
+      "name": "@blipr/mcp",
+      "version": "0.4.0",
+      "description": "MCP server that lets AI agents send Blipr push alerts to your phone — your agent can page you.",
+      "license": "MIT",
+      "repository": "https://github.com/applogico/blipr-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40blipr%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T02:18:41.582Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 66
+    },
+    {
+      "name": "@boldsec/supabase",
+      "version": "0.1.0",
+      "description": "BoLD live authorization monitoring for Supabase: a fetch-level wrapper for supabase-js watches your PostgREST/RPC traffic for cross-user access (BOLA/IDOR) and mass-assignment (BOPLA) risks. Metadata only, fail-safe, zero query-builder patching.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Sahith59/BoLD",
+      "npmUrl": "https://www.npmjs.com/package/%40boldsec%2Fsupabase",
+      "category": "data",
+      "createdAt": "2026-07-30T03:24:46.915Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 88
     },
     {
       "name": "@bongodevs/lavalink-client",
@@ -1476,6 +1512,18 @@
       "createdAt": "2026-07-25T13:33:08.887Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 75
+    },
+    {
+      "name": "@cipherstash/stack-prisma",
+      "version": "0.0.0",
+      "description": "CipherStash extension for Prisma Next: searchable application-layer field-level encryption for Postgres (EQL v3), with domain-typed encrypted columns, the eql* query operators, bulk encrypt/decrypt middleware, and a baseline migration that installs the EQ",
+      "license": "MIT",
+      "repository": "https://github.com/cipherstash/stack",
+      "npmUrl": "https://www.npmjs.com/package/%40cipherstash%2Fstack-prisma",
+      "category": "frontend",
+      "createdAt": "2026-07-30T04:46:12.934Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 68
     },
     {
       "name": "@cixzhang/brownie",
@@ -5546,6 +5594,18 @@
       "score": 59
     },
     {
+      "name": "@modracx/ruler-js",
+      "version": "1.0.0",
+      "description": "Lightweight on-screen ruler, draggable snap guides and element measurement overlay for web pages, with inch/cm/mm/px units and a crosshair.",
+      "license": "MIT",
+      "repository": "https://github.com/Modracx/ruler-js",
+      "npmUrl": "https://www.npmjs.com/package/%40modracx%2Fruler-js",
+      "category": "frontend",
+      "createdAt": "2026-07-30T03:56:34.910Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 93
+    },
+    {
       "name": "@molviewer/core",
       "version": "0.3.0",
       "description": "Extensible, offline, web-native 3D molecular viewer for small molecules and MD trajectories.",
@@ -6746,6 +6806,18 @@
       "score": 74
     },
     {
+      "name": "@react-querybuilder/migrate-raqb",
+      "version": "8.21.2",
+      "description": "Conversion utilities for migrating between react-awesome-query-builder and react-querybuilder",
+      "license": "MIT",
+      "repository": "https://github.com/react-querybuilder/migrate-raqb",
+      "npmUrl": "https://www.npmjs.com/package/%40react-querybuilder%2Fmigrate-raqb",
+      "category": "frontend",
+      "createdAt": "2026-07-30T01:53:09.338Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 80
+    },
+    {
       "name": "@reactdays/react",
       "version": "1.0.0",
       "description": "Official React SDK for the ReactDays CMS. Render your articles, knowledge base, FAQs, and categories on your own site.",
@@ -7118,6 +7190,18 @@
       "score": 46
     },
     {
+      "name": "@schovest/pi-mcp-adapter",
+      "version": "0.1.2",
+      "description": "MCP (Model Context Protocol) adapter extension for Pi coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/schovest/pi-package-mono",
+      "npmUrl": "https://www.npmjs.com/package/%40schovest%2Fpi-mcp-adapter",
+      "category": "utilities",
+      "createdAt": "2026-07-30T03:11:04.207Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 74
+    },
+    {
       "name": "@scicco/opencode-sql-security-guardrails",
       "version": "0.1.0",
       "description": "OpenCode plugin and skill templates for SQL security guardrails.",
@@ -7416,6 +7500,18 @@
       "createdAt": "2026-07-25T22:48:32.952Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 76
+    },
+    {
+      "name": "@smounters/kit",
+      "version": "2.3.0",
+      "description": "Batteries for Imperium services: structured logging, Redis module with a distributed lock, SSRF-safe fetch, decimal money, request context, env schemas",
+      "license": "MIT",
+      "repository": "https://github.com/smounters/smounters-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40smounters%2Fkit",
+      "category": "backend",
+      "createdAt": "2026-07-30T04:09:29.468Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 71
     },
     {
       "name": "@smounters/ui",
@@ -8090,6 +8186,18 @@
       "score": 62
     },
     {
+      "name": "@ticatec/hierarchy-data",
+      "version": "0.1.0",
+      "description": "A lightweight, framework-agnostic ESM TypeScript library for managing hierarchical tree structures, parent-child relationships, node lookups, automatic sorting, and flattened list transformations.",
+      "license": "MIT",
+      "repository": "https://github.com/ticatec/hierarchy-data",
+      "npmUrl": "https://www.npmjs.com/package/%40ticatec%2Fhierarchy-data",
+      "category": "data",
+      "createdAt": "2026-07-30T03:05:29.770Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 85
+    },
+    {
       "name": "@time-provider/plugin-moment-timezone",
       "version": "0.1.0",
       "description": "Time-Provider : Moment.js plugin ~ TypeScript library for injecting time and timers with adapters for multiple date libraries.",
@@ -8184,6 +8292,18 @@
       "createdAt": "2026-07-27T23:26:15.233Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 65
+    },
+    {
+      "name": "@triplebooks/mcp",
+      "version": "0.1.0",
+      "description": "TripleBooks MCP server — connect Claude Desktop, Cursor, and other MCP clients to your books via the workspace API.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/triplebooks/platform",
+      "npmUrl": "https://www.npmjs.com/package/%40triplebooks%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-30T02:17:05.961Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 75
     },
     {
       "name": "@trueyy-sdk/node",
@@ -8616,6 +8736,18 @@
       "createdAt": "2026-07-28T18:33:55.535Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 68
+    },
+    {
+      "name": "@vervian/choiceui",
+      "version": "0.15.0",
+      "description": "Governance for design systems that live as code. Extract a manifest of your Tailwind tokens and components, enforce it for humans and AI, and generate browsable design-system pages.",
+      "license": "MIT",
+      "repository": "https://github.com/pjeremylist/choiceui",
+      "npmUrl": "https://www.npmjs.com/package/%40vervian%2Fchoiceui",
+      "category": "cli",
+      "createdAt": "2026-07-30T02:15:30.366Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 82
     },
     {
       "name": "@vetox-bot/vito",
@@ -10538,6 +10670,18 @@
       "score": 77
     },
     {
+      "name": "context-fold",
+      "version": "0.1.0",
+      "description": "Deterministic, reversible in-session context compaction for the Pi coding agent — folds stale tool output out of the model's view, never out of the session.",
+      "license": "MIT",
+      "repository": "https://github.com/Middlewatch/context-fold",
+      "npmUrl": "https://www.npmjs.com/package/context-fold",
+      "category": "utilities",
+      "createdAt": "2026-07-30T03:01:41.141Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 79
+    },
+    {
       "name": "contextengine-plugin",
       "version": "0.5.0",
       "description": "Augment-class portable Context Engine — multi-signal FTS/symbol/semantic retrieval, graph expand, MMR pack, MCP for coding agents.",
@@ -10860,6 +11004,18 @@
       "createdAt": "2026-07-27T23:06:27.479Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 85
+    },
+    {
+      "name": "deltadotta",
+      "version": "0.1.0",
+      "description": "<p align=\"center\">   <img src=\"public/deltadotta-logo.svg\" width=\"420\" alt=\"DeltaDotta\" /> </p>",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/abdullahbilalawan/deltadotta",
+      "npmUrl": "https://www.npmjs.com/package/deltadotta",
+      "category": "cli",
+      "createdAt": "2026-07-30T04:31:13.492Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 75
     },
     {
       "name": "demoshot",
@@ -11438,6 +11594,18 @@
       "score": 71
     },
     {
+      "name": "fetch-runtime",
+      "version": "1.2.0",
+      "description": "Opinionated, caching, retrying fetch client",
+      "license": "ISC",
+      "repository": "https://github.com/npm/make-fetch-happen",
+      "npmUrl": "https://www.npmjs.com/package/fetch-runtime",
+      "category": "backend",
+      "createdAt": "2026-07-30T04:49:42.842Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 78
+    },
+    {
       "name": "figma-design-bridge",
       "version": "0.1.0",
       "description": "MCP server that lets an agent write design specs onto a Figma canvas",
@@ -11580,6 +11748,18 @@
       "createdAt": "2026-07-30T01:28:45.794Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 68
+    },
+    {
+      "name": "forkflow",
+      "version": "0.1.0",
+      "description": "Fork-based release automation and shared frontend scripts, runnable with npx",
+      "license": "MIT",
+      "repository": "https://github.com/dattran92/forkflow",
+      "npmUrl": "https://www.npmjs.com/package/forkflow",
+      "category": "frontend",
+      "createdAt": "2026-07-30T03:12:13.701Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 75
     },
     {
       "name": "formco-core",
@@ -12182,6 +12362,18 @@
       "score": 74
     },
     {
+      "name": "idrive-skills",
+      "version": "1.1.1",
+      "description": "Fork of the open agent skills ecosystem with --path option and Daedalus agent support",
+      "license": "MIT",
+      "repository": "https://github.com/perfei/idrive-skills",
+      "npmUrl": "https://www.npmjs.com/package/idrive-skills",
+      "category": "cli",
+      "createdAt": "2026-07-30T02:46:29.415Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 88
+    },
+    {
       "name": "image-puma",
       "version": "1.0.0",
       "description": "Local Image Puma MCP server for planning and running batch image preparation",
@@ -12324,6 +12516,18 @@
       "createdAt": "2026-07-27T10:49:50.863Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 87
+    },
+    {
+      "name": "jackal-cli",
+      "version": "0.2.0",
+      "description": "Point Claude Code at a custom Anthropic-compatible endpoint (LiteLLM, a corporate AI gateway, any proxy) without touching your normal claude login.",
+      "license": "MIT",
+      "repository": "https://github.com/VladTemp27/jackal",
+      "npmUrl": "https://www.npmjs.com/package/jackal-cli",
+      "category": "backend",
+      "createdAt": "2026-07-29T04:25:29.610Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 84
     },
     {
       "name": "jangsang",
@@ -13934,6 +14138,18 @@
       "score": 56
     },
     {
+      "name": "ocp-core",
+      "version": "0.1.0",
+      "description": "Load, validate, and project OCP (Organizational Context Protocol) substrates — git-native organizational context in markdown, readable by humans and AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/organizationalcontextprotocol/core",
+      "npmUrl": "https://www.npmjs.com/package/ocp-core",
+      "category": "utilities",
+      "createdAt": "2026-07-30T04:20:20.534Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 83
+    },
+    {
       "name": "office-file-viewer",
       "version": "0.0.2",
       "description": "A browser-based React component for offline preview of DOC/DOCX/WPS, XLS/XLSX, and PPT/PPTX files.",
@@ -14846,6 +15062,18 @@
       "score": 100
     },
     {
+      "name": "provegate",
+      "version": "0.3.0",
+      "description": "Gate autonomous AI coding on machine-checkable evidence. Prove it, then let it propagate.",
+      "license": "MIT",
+      "repository": "https://github.com/provegate/provegate",
+      "npmUrl": "https://www.npmjs.com/package/provegate",
+      "category": "cli",
+      "createdAt": "2026-07-30T02:13:05.752Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 74
+    },
+    {
       "name": "proveml",
       "version": "1.0.0",
       "description": "Deterministic claim-level verification for AI-generated text with Markdown-native inline markup.",
@@ -15024,6 +15252,18 @@
       "createdAt": "2026-07-26T18:27:11.917Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 72
+    },
+    {
+      "name": "react-native-day-change",
+      "version": "0.1.0",
+      "description": "Know exactly when the day changes in React Native — midnight, clock tampering, timezone shifts and app resume. New Architecture TurboModule with typed events and custom day boundaries.",
+      "license": "MIT",
+      "repository": "https://github.com/abhishekdharwal/react-native-day-change",
+      "npmUrl": "https://www.npmjs.com/package/react-native-day-change",
+      "category": "frontend",
+      "createdAt": "2026-07-30T04:25:46.106Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 83
     },
     {
       "name": "react-native-dither-kit",
@@ -15878,6 +16118,18 @@
       "score": 91
     },
     {
+      "name": "skills-path",
+      "version": "1.1.0",
+      "description": "Fork of the open agent skills ecosystem with a --path option for npx skills add",
+      "license": "MIT",
+      "repository": "https://github.com/perfei/skills-path",
+      "npmUrl": "https://www.npmjs.com/package/skills-path",
+      "category": "cli",
+      "createdAt": "2026-07-30T02:06:34.792Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 87
+    },
+    {
       "name": "slicekit",
       "version": "0.1.0",
       "description": "Sync marked-up slices of your files against slices published in git repositories.",
@@ -15960,6 +16212,18 @@
       "createdAt": "2026-07-27T02:19:06.233Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 60
+    },
+    {
+      "name": "specpilot-kit",
+      "version": "0.6.0",
+      "description": "A lightweight, repository-backed AI coding harness for Claude Code and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/jianghuife/SpecPilot",
+      "npmUrl": "https://www.npmjs.com/package/specpilot-kit",
+      "category": "utilities",
+      "createdAt": "2026-07-29T09:59:50.562Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 69
     },
     {
       "name": "sphere-visual-lab",
@@ -16068,6 +16332,18 @@
       "createdAt": "2026-07-27T17:14:15.392Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 86
+    },
+    {
+      "name": "stellar-agent-search",
+      "version": "0.1.0",
+      "description": "Read-only MCP server and CLI for Stellar 8004 discovery, declared-evidence ranking, and bounded contract probes.",
+      "license": "MIT",
+      "repository": "https://github.com/berkingurcan/stellar-agent-search",
+      "npmUrl": "https://www.npmjs.com/package/stellar-agent-search",
+      "category": "backend",
+      "createdAt": "2026-07-30T02:06:30.143Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 81
     },
     {
       "name": "storecheck",
@@ -16982,6 +17258,18 @@
       "score": 68
     },
     {
+      "name": "voxshot",
+      "version": "0.1.0",
+      "description": "Browser-first Zero-Shot Text-to-Speech for JavaScript and TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/m96-chan/voxshot",
+      "npmUrl": "https://www.npmjs.com/package/voxshot",
+      "category": "frontend",
+      "createdAt": "2026-07-30T04:29:17.707Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 70
+    },
+    {
       "name": "vue-asset-map",
       "version": "1.0.1",
       "description": "Interactive infrastructure asset map for Vue 3, built on Vue Flow",
@@ -16992,6 +17280,18 @@
       "createdAt": "2026-07-25T21:35:45.544Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 78
+    },
+    {
+      "name": "vue-relative-rotation-chart",
+      "version": "0.1.1",
+      "description": "Vue 3 SVG Relative Rotation Graph (RRG) chart — RS-Ratio × RS-Momentum quadrants, tails, labels, playback. Renderer only.",
+      "license": "MIT",
+      "repository": "https://github.com/RabeeHanna/vue-relative-rotation-chart",
+      "npmUrl": "https://www.npmjs.com/package/vue-relative-rotation-chart",
+      "category": "frontend",
+      "createdAt": "2026-07-30T03:36:17.569Z",
+      "discoveredAt": "2026-07-30T04:51:23.168Z",
+      "score": 71
     },
     {
       "name": "vuetify-grid-table",

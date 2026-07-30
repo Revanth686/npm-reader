@@ -1,19 +1,111 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122294451,
-  "lastRunAt": "2026-07-30T01:44:02.648Z",
+  "lastSequence": 122312224,
+  "lastRunAt": "2026-07-30T04:51:23.168Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@qtestorgz/sdk",
+      "attempts": 2
+    },
+    {
+      "name": "@rsmax/babel-plugin-jsx-to-wxml",
       "attempts": 1
     },
     {
-      "name": "@schovest/pi-mcp-adapter",
+      "name": "@roster-lock/utils",
       "attempts": 1
     },
     {
-      "name": "@worldclonelab/decision-mcp",
+      "name": "@roster-lock/ts-client",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/shared",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-archive-rar",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-archive-tar",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-archive-zip",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-compression-brotli",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-compression-gzip",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/untrusted-config-json",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/untrusted-config-json5",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/untrusted-config-jsonnet",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-shared",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/untrusted-lua",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/untrusted-ts",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-protocol-ftp",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-protocol-git",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-protocol-http",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-protocol-ipfs",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-protocol-s3",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/dl-protocol-torrent",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/plugin-runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/config-editor-cli",
+      "attempts": 1
+    },
+    {
+      "name": "@roster-lock/match-agent",
+      "attempts": 1
+    },
+    {
+      "name": "@allowly/mcp",
       "attempts": 1
     }
   ]
