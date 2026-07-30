@@ -1,15 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122451336,
-  "lastRunAt": "2026-07-30T19:12:41.836Z",
+  "lastSequence": 122466604,
+  "lastRunAt": "2026-07-30T20:57:53.947Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@asirihewage/git-explain",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@zackrobertstech/n8n-nodes-ncentral",
+      "name": "@bandf/framework-state",
+      "attempts": 1
+    },
+    {
+      "name": "@bandf/framework-ui",
+      "attempts": 1
+    },
+    {
+      "name": "@bandf/framework-identity",
+      "attempts": 1
+    },
+    {
+      "name": "@bandf/framework",
+      "attempts": 1
+    },
+    {
+      "name": "@foss.global/ci-spec",
+      "attempts": 1
+    },
+    {
+      "name": "@explita/tiptap-extension-image",
       "attempts": 1
     }
   ]
