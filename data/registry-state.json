@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122483483,
-  "lastRunAt": "2026-07-30T23:15:43.875Z",
+  "lastSequence": 122500848,
+  "lastRunAt": "2026-07-31T02:01:43.367Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@asirihewage/git-explain",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@ghilteras/opencode-auto-bg",
+      "name": "@absolutejs/hotkeys",
+      "attempts": 1
+    },
+    {
+      "name": "@gitmyabi/aiat",
       "attempts": 1
     }
   ]
