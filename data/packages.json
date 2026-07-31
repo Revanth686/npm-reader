@@ -2642,6 +2642,18 @@
       "score": 70
     },
     {
+      "name": "@dasasian/gdocs-mcp",
+      "version": "0.1.0",
+      "description": "An MCP server that lets an AI agent treat a Google Doc like a local file — read, edit, review suggestions, and manage comments, across multiple Google accounts.",
+      "license": "MIT",
+      "repository": "https://github.com/dasasian/gdocs-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40dasasian%2Fgdocs-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-31T19:49:55.832Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 85
+    },
+    {
       "name": "@dash0/agent-skills",
       "version": "1.3.1",
       "description": "OpenTelemetry skills and reference documentation for AI coding assistants",
@@ -2916,6 +2928,18 @@
       "createdAt": "2026-07-29T18:11:36.650Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 81
+    },
+    {
+      "name": "@dltech/pgbase",
+      "version": "0.0.0",
+      "description": "Self-hosted Postgres BaaS for NestJS + Prisma: RLS-guarded live queries over a typed client SDK (CQS)",
+      "license": "MIT",
+      "repository": "https://github.com/dennisofficial/pgbase",
+      "npmUrl": "https://www.npmjs.com/package/%40dltech%2Fpgbase",
+      "category": "backend",
+      "createdAt": "2026-07-31T20:41:32.522Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 80
     },
     {
       "name": "@dmemo/cli",
@@ -3218,6 +3242,30 @@
       "score": 76
     },
     {
+      "name": "@dravensoft/arena-angular",
+      "version": "5.0.0",
+      "description": "Arena, the Dravensoft design system: standalone Angular components on a shared Tailwind recipe layer.",
+      "license": "MIT",
+      "repository": "https://github.com/dravensoft-dev/Identity",
+      "npmUrl": "https://www.npmjs.com/package/%40dravensoft%2Farena-angular",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:56:16.837Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 76
+    },
+    {
+      "name": "@dravensoft/arena-react",
+      "version": "5.0.0",
+      "description": "Arena, the Dravensoft design system: React components styled entirely by design tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/dravensoft-dev/Identity",
+      "npmUrl": "https://www.npmjs.com/package/%40dravensoft%2Farena-react",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:55:26.612Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 72
+    },
+    {
       "name": "@dror-jp/yasashii-org-mcp",
       "version": "1.0.0",
       "description": "MCP server for yasashii.org — human-verified Easy Japanese (やさしい日本語) versions of Japanese administrative procedures and disaster-preparedness information. Zero dependencies.",
@@ -3420,6 +3468,18 @@
       "createdAt": "2026-07-29T13:02:59.668Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 93
+    },
+    {
+      "name": "@estebanforge/pi-git-me",
+      "version": "1.1.0",
+      "description": "Git + GitHub PR tools for Pi that act as YOU. Reads git status/diff/log and the current PR via gh CLI; generates commit messages, PR titles/bodies, and PR review comments with an editable preview dialog before anything touches git or the PR. Model picks t",
+      "license": "MIT",
+      "repository": "https://github.com/EstebanForge/pi-git-me",
+      "npmUrl": "https://www.npmjs.com/package/%40estebanforge%2Fpi-git-me",
+      "category": "cli",
+      "createdAt": "2026-07-31T19:54:10.258Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 100
     },
     {
       "name": "@ethancaudill/pgmask",
@@ -4020,6 +4080,18 @@
       "createdAt": "2026-07-28T17:40:23.651Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 63
+    },
+    {
+      "name": "@gasolinaradar/dgeg-collector",
+      "version": "1.0.0",
+      "description": "Collector for the official DGEG fuel station dataset (Portugal) returning normalized fuel stations",
+      "license": "MIT",
+      "repository": "https://github.com/gasolinaradar/dgeg-collector",
+      "npmUrl": "https://www.npmjs.com/package/%40gasolinaradar%2Fdgeg-collector",
+      "category": "data",
+      "createdAt": "2026-07-31T19:32:50.731Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 83
     },
     {
       "name": "@gasolinaradar/miterd-collector",
@@ -7922,6 +7994,18 @@
       "score": 76
     },
     {
+      "name": "@opentutorial/core",
+      "version": "0.2.0",
+      "description": "Spec-driven in-app tour engine. Zero runtime deps, React + vanilla adapters, spotlight/hotspot/beacon modes.",
+      "license": "MIT",
+      "repository": "https://github.com/JeanPaulDot/OpenTutorial",
+      "npmUrl": "https://www.npmjs.com/package/%40opentutorial%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:15:38.283Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 78
+    },
+    {
       "name": "@opitacode/dark-memory-mcp",
       "version": "2.5.0",
       "description": "dark-memory-mcp cross-platform wrapper Ã¢â‚¬â€ installs the right binary for your OS via optionalDependencies. Persistent memory + vibe-loop engine + agent governance for AI agents (MCP server).",
@@ -8318,6 +8402,18 @@
       "score": 66
     },
     {
+      "name": "@pnllabs/solana-agent-kit-plugin",
+      "version": "1.0.0",
+      "description": "Trust & risk verdicts for Solana Agent Kit agents: wallet trust from realized on-chain PnL (not peak scores), wallet funding forensics, token safety, and real trade cost — verify before your agent moves money. Free tier, then pay-per-call via x402.",
+      "license": "MIT",
+      "repository": "https://github.com/PnLlabs/solana-agent-kit-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40pnllabs%2Fsolana-agent-kit-plugin",
+      "category": "utilities",
+      "createdAt": "2026-07-31T20:37:28.220Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 73
+    },
+    {
       "name": "@pontalabs/baileys-yue",
       "version": "1.0.0",
       "description": "PontaLabs Baileys is a lightweight, modern, and customizable WhatsApp Web API library built on Baileys.",
@@ -8340,6 +8436,18 @@
       "createdAt": "2026-07-30T14:22:38.996Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 74
+    },
+    {
+      "name": "@poolstatis/sdk",
+      "version": "0.3.0",
+      "description": "Zero-dependency Poolstatis SDK for Node, immediate browser analytics, engagement, attribution and privacy-bounded experience evidence.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lim5max/poolstatis",
+      "npmUrl": "https://www.npmjs.com/package/%40poolstatis%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-07-28T12:27:46.941Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 73
     },
     {
       "name": "@pooriaarab/vibemovie",
@@ -9938,6 +10046,18 @@
       "score": 63
     },
     {
+      "name": "@softwarenerd/deemon-ng",
+      "version": "1.0.1",
+      "description": "Run a long-lived process in the background and attach to it -- without ever losing the reason it failed.",
+      "license": "MIT",
+      "repository": "https://github.com/softwarenerd/deemon-ng",
+      "npmUrl": "https://www.npmjs.com/package/%40softwarenerd%2Fdeemon-ng",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T19:54:51.847Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 78
+    },
+    {
       "name": "@sonisoft/sn-credstore",
       "version": "1.0.0",
       "description": "Headless-safe credential storage for the ServiceNow SDK. Replaces the OS-keyring backend so non-interactive agents can authenticate.",
@@ -10440,6 +10560,18 @@
       "createdAt": "2026-07-29T11:28:46.221Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 85
+    },
+    {
+      "name": "@system-as-code/cli",
+      "version": "1.0.0",
+      "description": "[System-as-Code : <hm generate system-as-code.yml> ] - From a single YAML file generate entire software systems, from code to deployment, choosing from a rich set of certified technology blueprints and verified industry domain models.",
+      "license": "ISC",
+      "repository": "https://github.com/Harbormaster-AI/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40system-as-code%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:25:23.540Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 75
     },
     {
       "name": "@sz.ws/cms",
@@ -12110,6 +12242,18 @@
       "score": 81
     },
     {
+      "name": "a11y-scroll-cue",
+      "version": "1.0.0",
+      "description": "A progressive-enhancement cue for horizontally overflowing content.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/A11y-Scroll-Cue",
+      "npmUrl": "https://www.npmjs.com/package/a11y-scroll-cue",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T20:20:10.864Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 69
+    },
+    {
       "name": "a11y-server-error-bridge",
       "version": "1.0.0",
       "description": "Accessible server-error normalization, field mapping, rendering, focus recovery, localization, and optional integration with existing form plugins.",
@@ -13622,6 +13766,18 @@
       "score": 96
     },
     {
+      "name": "ci-health-audit",
+      "version": "0.1.1",
+      "description": "Deterministic 0-10 code health score for JS/TS codebases — usable as a CLI, GitHub Action, or pre-commit/pre-push gate.",
+      "license": "MIT",
+      "repository": "https://github.com/dcassil/ci-health-audit",
+      "npmUrl": "https://www.npmjs.com/package/ci-health-audit",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T20:28:30.126Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 81
+    },
+    {
       "name": "circuitarium-mcp",
       "version": "0.2.0",
       "description": "Circuitarium MCP is a model-neutral server for circuit artifacts with CRUMBLE, an unofficial, version-pinned CRUMB .cru integration.",
@@ -13848,6 +14004,18 @@
       "createdAt": "2026-07-30T21:11:08.437Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 66
+    },
+    {
+      "name": "clipugc",
+      "version": "0.3.0",
+      "description": "Official CLI for ClipUGC — create AI characters, generate looks, and produce UGC-style videos for your mobile app from the terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/mirzemehdi/ClipUGC-CLI",
+      "npmUrl": "https://www.npmjs.com/package/clipugc",
+      "category": "cli",
+      "createdAt": "2026-07-31T20:17:27.052Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 73
     },
     {
       "name": "cloudflare-dynamic-dns-service",
@@ -14462,6 +14630,18 @@
       "score": 71
     },
     {
+      "name": "decision-kit",
+      "version": "1.0.0",
+      "description": "The ultimate TypeScript & React library for decision-making algorithms, random selection, spinner wheels, weighted sampling, dice notation, and team generators.",
+      "license": "MIT",
+      "repository": "https://github.com/USERNAME/decision-kit",
+      "npmUrl": "https://www.npmjs.com/package/decision-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-31T20:46:33.110Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 81
+    },
+    {
       "name": "decivo-rescue",
       "version": "1.0.0",
       "description": "Kostenloser Sicherheits-/Produktionsreife-Scan für KI-gebaute Web-Apps (Lovable, Bolt, v0, Cursor, Replit). Prüft eine öffentliche URL und liefert einen Vibe Readiness Score mit Go/Iterate/Stop-Verdikt.",
@@ -14868,6 +15048,18 @@
       "createdAt": "2026-07-25T23:02:46.066Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 54
+    },
+    {
+      "name": "emaillint-core",
+      "version": "0.9.0",
+      "description": "Deterministic static analysis engine for HTML emails. Finds unsupported or inconsistently-rendered HTML/CSS before you send a campaign.",
+      "license": "MIT",
+      "repository": "https://github.com/alurulabs/emaillint",
+      "npmUrl": "https://www.npmjs.com/package/emaillint-core",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:55:08.439Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 67
     },
     {
       "name": "embertop",
@@ -15818,6 +16010,18 @@
       "score": 74
     },
     {
+      "name": "gymrat",
+      "version": "0.1.0",
+      "description": "Standalone A/B benchmark runner with paired sampling and benchstat-style reports",
+      "license": "MIT",
+      "repository": "https://github.com/jeffzi/gymrat",
+      "npmUrl": "https://www.npmjs.com/package/gymrat",
+      "category": "data",
+      "createdAt": "2026-07-31T19:48:45.612Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 74
+    },
+    {
       "name": "hafez",
       "version": "1.0.1",
       "description": "Agent-native personal knowledge vault: markdown + YAML frontmatter, SQLite FTS5 search, git-backed",
@@ -16188,6 +16392,18 @@
       "createdAt": "2026-07-29T14:42:30.331Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 78
+    },
+    {
+      "name": "hytale-atlas",
+      "version": "0.1.1",
+      "description": "Unofficial local indexer for Hytale asset packs, exposed to AI agents over MCP. Not affiliated with or endorsed by Hypixel Studios.",
+      "license": "MIT",
+      "repository": "https://github.com/ZnZq/hytale_atlas",
+      "npmUrl": "https://www.npmjs.com/package/hytale-atlas",
+      "category": "devops",
+      "createdAt": "2026-07-31T19:23:29.684Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 71
     },
     {
       "name": "iconfont-mcp-server",
@@ -18614,6 +18830,18 @@
       "score": 74
     },
     {
+      "name": "opencodex-connect",
+      "version": "0.1.0",
+      "description": "Point Codex at a remote opencodex proxy with config injection and model catalog sync. Unofficial companion tool.",
+      "license": "MIT",
+      "repository": "https://github.com/nbsp1221/opencodex-connect",
+      "npmUrl": "https://www.npmjs.com/package/opencodex-connect",
+      "category": "cli",
+      "createdAt": "2026-07-31T19:22:28.047Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 66
+    },
+    {
       "name": "openmergelens",
       "version": "1.0.0",
       "description": "Local, agent-agnostic AI code reviews for GitHub pull requests.",
@@ -18684,6 +18912,18 @@
       "createdAt": "2026-07-28T23:48:21.932Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 64
+    },
+    {
+      "name": "opentui-motion",
+      "version": "0.1.0",
+      "description": "Declarative motion and spring animations for OpenTUI",
+      "license": "MIT",
+      "repository": "https://github.com/neriousy/opentui-motion",
+      "npmUrl": "https://www.npmjs.com/package/opentui-motion",
+      "category": "cli",
+      "createdAt": "2026-07-31T19:54:36.827Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 67
     },
     {
       "name": "orbi-runner",
@@ -18972,6 +19212,18 @@
       "createdAt": "2026-07-31T01:30:51.346Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 74
+    },
+    {
+      "name": "photo-pigeon",
+      "version": "0.1.0",
+      "description": "Back up photos to Google Photos automatically on Windows: watch a folder, auto upload every new photo, no browser tab open",
+      "license": "MIT",
+      "repository": "https://github.com/justerlex/photo-pigeon",
+      "npmUrl": "https://www.npmjs.com/package/photo-pigeon",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:49:37.881Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 77
     },
     {
       "name": "pi-ai-git-commit",
@@ -19898,6 +20150,18 @@
       "score": 82
     },
     {
+      "name": "react-native-island",
+      "version": "0.1.1",
+      "description": "Cross-platform Live Activities for React Native — iOS Live Activities (Lock Screen + Dynamic Island) and Android ongoing notifications rendered from your RN UI, on the New Architecture.",
+      "license": "MIT",
+      "repository": "https://github.com/tristanheilman/react-native-island",
+      "npmUrl": "https://www.npmjs.com/package/react-native-island",
+      "category": "frontend",
+      "createdAt": "2026-07-31T19:17:05.458Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 77
+    },
+    {
       "name": "react-native-jet-markdown",
       "version": "0.2.0",
       "description": "High-performance native Markdown renderer and editor for React Native",
@@ -20532,6 +20796,18 @@
       "createdAt": "2026-07-25T13:08:06.580Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 87
+    },
+    {
+      "name": "scrapingdog-sdk",
+      "version": "1.0.1",
+      "description": "Official Node.js SDK for the Scrapingdog API — scrape any website and get structured data from Google, Amazon, YouTube, and 60+ more scrapers.",
+      "license": "MIT",
+      "repository": "https://github.com/Darshan972/scrapingdog-sdk",
+      "npmUrl": "https://www.npmjs.com/package/scrapingdog-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-31T20:03:23.560Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 94
     },
     {
       "name": "screeps-integration-tests",
@@ -22082,6 +22358,18 @@
       "score": 74
     },
     {
+      "name": "ui5.touch.controls",
+      "version": "1.0.1",
+      "description": "UI5 Library: ui5.touch.controls — touch-friendly OpenUI5 controls with configurable sizes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mariokernich/ui5-touch-controls",
+      "npmUrl": "https://www.npmjs.com/package/ui5.touch.controls",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T18:36:45.504Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 69
+    },
+    {
       "name": "ulbase-js",
       "version": "3.0.0",
       "description": "Ultra‑Lightweight Firestore‑like Database for Node.js",
@@ -22584,6 +22872,18 @@
       "createdAt": "2026-07-27T10:49:12.972Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 90
+    },
+    {
+      "name": "vulcan-agentic-sdk",
+      "version": "1.0.0",
+      "description": "Production-grade AI Agent SDK — multi-provider, typed, observable, and framework-free.",
+      "license": "MIT",
+      "repository": "https://github.com/its-rahul-r15/VULCAN-SDK",
+      "npmUrl": "https://www.npmjs.com/package/vulcan-agentic-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T19:24:33.993Z",
+      "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 81
     },
     {
       "name": "wanas-zbooks-cli",
