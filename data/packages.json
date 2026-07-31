@@ -1130,6 +1130,18 @@
       "score": 83
     },
     {
+      "name": "@assemblyline-agents/vps",
+      "version": "1.0.0",
+      "description": "Official Assembly Line generic VPS deployment plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/jasonbadeaux/assembly-line",
+      "npmUrl": "https://www.npmjs.com/package/%40assemblyline-agents%2Fvps",
+      "category": "devops",
+      "createdAt": "2026-07-31T01:31:39.940Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 59
+    },
+    {
       "name": "@atoapayments/agent-pay",
       "version": "0.0.1",
       "description": "The ergonomic, standalone SDK for agentic payments: embed payments in your product, or give your AI agent a payment tool, under a signed, capped, payee-scoped contract over HTTP. Three nouns — agent, contract, payment.",
@@ -2028,6 +2040,18 @@
       "createdAt": "2026-07-26T22:39:30.317Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 89
+    },
+    {
+      "name": "@chennai-academy/mind-profile-ai",
+      "version": "1.0.0",
+      "description": "AI Powered Student Intelligence & Career Guidance Platform — Chennai Academy Mind Profile AI. Built by Chennai.Academy.",
+      "license": "MIT",
+      "repository": "https://github.com/chennai-academy/chennai-academy-mind-profile-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40chennai-academy%2Fmind-profile-ai",
+      "category": "data",
+      "createdAt": "2026-07-31T21:30:08.071Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 78
     },
     {
       "name": "@chibi.pl/nest-sequelize-db",
@@ -3314,6 +3338,18 @@
       "score": 78
     },
     {
+      "name": "@edenbuilds/blackbox",
+      "version": "0.1.0",
+      "description": "Flight recorder for coding agents — reduces Claude Code and Codex transcripts into one append-only event log you can query.",
+      "license": "MIT",
+      "repository": "https://github.com/edenbuilds/blackbox",
+      "npmUrl": "https://www.npmjs.com/package/%40edenbuilds%2Fblackbox",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T21:06:32.466Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 76
+    },
+    {
       "name": "@edge-markets/connect-cli",
       "version": "1.0.0",
       "description": "Certificate helper for EDGE Connect partners — check a CSR or certificate, get the fingerprint EDGE needs, and test an mTLS connection",
@@ -4106,6 +4142,18 @@
       "score": 72
     },
     {
+      "name": "@gasolinaradar/plenergy-collector",
+      "version": "1.0.0",
+      "description": "Collector for the Plenergy fuel station dataset (Spain) returning normalized fuel stations with prices",
+      "license": "MIT",
+      "repository": "https://github.com/gasolinaradar/plenergy-collector",
+      "npmUrl": "https://www.npmjs.com/package/%40gasolinaradar%2Fplenergy-collector",
+      "category": "data",
+      "createdAt": "2026-07-31T21:08:35.025Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 83
+    },
+    {
       "name": "@gateco/sdk",
       "version": "1.5.1",
       "description": "TypeScript SDK for the Gateco API. Zero runtime dependencies -- uses native `fetch`.",
@@ -4488,6 +4536,18 @@
       "createdAt": "2026-07-25T16:46:07.913Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/ethlockbox",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ETHLockbox (build etherscan-ethlockbox-322b47ff-1785531516197, commit b9684b8, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ethlockbox",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fethlockbox",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T20:59:00.906Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/ethvault",
@@ -5964,6 +6024,18 @@
       "createdAt": "2026-07-26T03:23:26.054Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 69
+    },
+    {
+      "name": "@jantstack/adonis-audit",
+      "version": "1.0.0",
+      "description": "Audit trail engine for AdonisJS + Lucid: one transactional store plus fan-out sinks, a Lucid CRUD mixin, polymorphic actors and entities, and a safe-by-default snapshot where auditable ⊆ serializable — fields hidden from your API never reach the trail.",
+      "license": "MIT",
+      "repository": "https://github.com/jantstack/adonis-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40jantstack%2Fadonis-audit",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:47:14.000Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 90
     },
     {
       "name": "@jantstack/adonis-authz",
@@ -8594,6 +8666,18 @@
       "score": 89
     },
     {
+      "name": "@puffle/cookiejar",
+      "version": "0.2.0",
+      "description": "Local-only cookie bundle manager: pick cookies from your browsers, group them into password-protected bundles, hand a bundle to a coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/DevelopIQ-ai/cookiejar",
+      "npmUrl": "https://www.npmjs.com/package/%40puffle%2Fcookiejar",
+      "category": "frontend",
+      "createdAt": "2026-07-31T02:38:20.479Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 78
+    },
+    {
       "name": "@puffle/pattystack",
       "version": "0.1.0",
       "description": "Stack your own Codex/ChatGPT subscriptions behind one local, OpenAI-compatible endpoint.",
@@ -10250,6 +10334,18 @@
       "score": 90
     },
     {
+      "name": "@stablekernel/opencode-bgrun",
+      "version": "0.1.2",
+      "description": "Background job runner for AI coding agents with live session wake-to-act on OpenCode.",
+      "license": "MIT",
+      "repository": "https://github.com/stablekernel/opencode-bgrun",
+      "npmUrl": "https://www.npmjs.com/package/%40stablekernel%2Fopencode-bgrun",
+      "category": "utilities",
+      "createdAt": "2026-07-31T20:58:46.942Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 65
+    },
+    {
       "name": "@stardust-cms/iframe-adapter",
       "version": "0.1.0",
       "description": "Typed, framework-agnostic protocol plus iframe/host adapters for building in-iframe visual editors, transported over frame-link.",
@@ -11774,6 +11870,18 @@
       "score": 63
     },
     {
+      "name": "@wasm-gaming/smbros-wasm",
+      "version": "0.1.0",
+      "description": "Super Mario Bros. Remastered (Godot 4) exported to WebAssembly, with a JS SDK conforming to the wasm-gaming engine contract.",
+      "license": "MIT",
+      "repository": "https://github.com/wasm-gaming/smbros-wasm",
+      "npmUrl": "https://www.npmjs.com/package/%40wasm-gaming%2Fsmbros-wasm",
+      "category": "data",
+      "createdAt": "2026-07-31T20:58:02.925Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 61
+    },
+    {
       "name": "@waukeshamakerspace/deploy-kit",
       "version": "0.2.0",
       "description": "The house delivery machinery for Waukesha Makerspace services: the Lambda bundler that knows why @fastify/swagger-ui must stay external, the samconfig generator, and the SPA hosting deploys",
@@ -11880,6 +11988,18 @@
       "createdAt": "2026-07-28T23:14:26.298Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 90
+    },
+    {
+      "name": "@xemahq/license-verifier",
+      "version": "0.1.0",
+      "description": "Offline verification of a Xema license — Ed25519 JWS against an embedded public key, lifecycle resolution and entitlement evaluation. Zero dependencies, Node built-ins only, so it runs in the CLI from a bare checkout and in the air-gap installer on a disc",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/xema-dev/xema-kernel-contracts",
+      "npmUrl": "https://www.npmjs.com/package/%40xemahq%2Flicense-verifier",
+      "category": "cli",
+      "createdAt": "2026-07-31T21:32:38.476Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 70
     },
     {
       "name": "@xenonbyte/server-helper",
@@ -12984,6 +13104,18 @@
       "createdAt": "2026-07-29T16:19:08.842Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 71
+    },
+    {
+      "name": "authshore",
+      "version": "1.0.2",
+      "description": "AuthShore CLI - auth infrastructure for coding agents. User pools, secrets vault, token management. As easy as git.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/jyswee/authshore",
+      "npmUrl": "https://www.npmjs.com/package/authshore",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:49:13.627Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 66
     },
     {
       "name": "auto-skelly",
@@ -14208,6 +14340,18 @@
       "createdAt": "2026-07-25T16:30:29.331Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 62
+    },
+    {
+      "name": "consolium",
+      "version": "0.5.0",
+      "description": "Lightweight TypeScript toolkit for terminal input, ANSI formatting, responsive layouts, frames, and tables.",
+      "license": "MIT",
+      "repository": "https://github.com/elemental-mind/consolium",
+      "npmUrl": "https://www.npmjs.com/package/consolium",
+      "category": "data",
+      "createdAt": "2026-07-31T21:00:46.911Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 80
     },
     {
       "name": "consultame-sdk",
@@ -15842,6 +15986,18 @@
       "score": 86
     },
     {
+      "name": "gitpin",
+      "version": "0.5.3",
+      "description": "Prove and verify multi-repo agent claims at Git HEAD—index-free evidence packs with path, line, and full SHA.",
+      "license": "MIT",
+      "repository": "https://github.com/shmindmaster/gitpin",
+      "npmUrl": "https://www.npmjs.com/package/gitpin",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:20:41.725Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 61
+    },
+    {
       "name": "gitscout-cli",
       "version": "1.0.2",
       "description": "Pre-clone static security scanner for GitHub repositories and local codebases. Detects malicious lifecycle scripts, credential theft, obfuscated payloads, trojan source, typosquatting, data exfiltration, and lockfile integrity issues.",
@@ -16274,6 +16430,18 @@
       "score": 70
     },
     {
+      "name": "homebridge-octopus-energy-live",
+      "version": "0.2.0",
+      "description": "Display Octopus Energy electricity and gas smart meter data through Homebridge",
+      "license": "MIT",
+      "repository": "https://github.com/Ai-Lampy/homebridge-octopus-energy-live",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-octopus-energy-live",
+      "category": "data",
+      "createdAt": "2026-07-31T20:25:48.562Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 64
+    },
+    {
       "name": "homebridge-prograde",
       "version": "0.1.1",
       "description": "HomeKit bridge for the ProGrade / Emax EM2251 WiFi grill thermometer. The device reports directly to your Homebridge host over UDP — no vendor app, no cloud account, no extra hardware.",
@@ -16308,6 +16476,18 @@
       "createdAt": "2026-07-26T23:55:50.139Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 86
+    },
+    {
+      "name": "hoodgrow-x402-aa",
+      "version": "0.1.0",
+      "description": "Give an ERC-4337 / account-abstraction agent a dedicated, non-custodial EOA so it can pay x402 (HTTP 402) challenges — smart-wallet signatures don't yet settle on today's facilitators.",
+      "license": "MIT",
+      "repository": "https://github.com/MeMikko/hoodgrow-x402-aa-ts",
+      "npmUrl": "https://www.npmjs.com/package/hoodgrow-x402-aa",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:27:09.205Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 60
     },
     {
       "name": "hoodsynapse",
@@ -16524,6 +16704,18 @@
       "createdAt": "2026-07-29T00:56:17.093Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 80
+    },
+    {
+      "name": "intervals-icu-sdk",
+      "version": "0.1.1",
+      "description": "Unofficial TypeScript SDK for the Intervals.icu API. Fully typed, zero runtime dependencies, generated from the official OpenAPI spec.",
+      "license": "MIT",
+      "repository": "https://github.com/jcurbelo/intervals-icu-sdk",
+      "npmUrl": "https://www.npmjs.com/package/intervals-icu-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:03:06.394Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 81
     },
     {
       "name": "iobroker-sync",
@@ -17702,6 +17894,30 @@
       "score": 71
     },
     {
+      "name": "melvex-design",
+      "version": "1.1.0",
+      "description": "Instalador oficial da skill Melvex Design com uma experiência de terminal própria.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/jaop2158-sketch/melvex-design",
+      "npmUrl": "https://www.npmjs.com/package/melvex-design",
+      "category": "frontend",
+      "createdAt": "2026-07-31T21:09:33.280Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 59
+    },
+    {
+      "name": "memoryrouter-codex",
+      "version": "1.0.0",
+      "description": "Automatic, project-scoped MemoryRouter memory for OpenAI Codex",
+      "license": "MIT",
+      "repository": "https://github.com/MemoryRouter/MemoryRouter",
+      "npmUrl": "https://www.npmjs.com/package/memoryrouter-codex",
+      "category": "utilities",
+      "createdAt": "2026-07-31T21:41:53.137Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 78
+    },
+    {
       "name": "meowverlay",
       "version": "0.1.2",
       "description": "An autonomous animated cat that lives on your macOS desktop",
@@ -17712,6 +17928,18 @@
       "createdAt": "2026-07-26T14:03:56.887Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "meptos",
+      "version": "2.0.0",
+      "description": "Modern TypeScript rewrite of Zepto.js — jQuery-compatible DOM library for evergreen browsers",
+      "license": "MIT",
+      "repository": "https://github.com/oreoorbitz/Mepto",
+      "npmUrl": "https://www.npmjs.com/package/meptos",
+      "category": "frontend",
+      "createdAt": "2026-07-31T21:24:20.421Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 75
     },
     {
       "name": "mermaid-bpmn",
@@ -19214,6 +19442,18 @@
       "score": 74
     },
     {
+      "name": "phoenix-agent",
+      "version": "1.1.0",
+      "description": "Phoenix Agent - Autonomous AI system agent for Windows",
+      "license": "MIT",
+      "repository": "https://github.com/phoenix-agent/phoenix-agent",
+      "npmUrl": "https://www.npmjs.com/package/phoenix-agent",
+      "category": "cli",
+      "createdAt": "2026-07-27T11:08:05.251Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 61
+    },
+    {
       "name": "photo-pigeon",
       "version": "0.1.0",
       "description": "Back up photos to Google Photos automatically on Windows: watch a folder, auto upload every new photo, no browser tab open",
@@ -20282,6 +20522,18 @@
       "score": 97
     },
     {
+      "name": "react-outside-kit",
+      "version": "0.1.0",
+      "description": "A lightweight React library for outside interactions and UI dismissal.",
+      "license": "MIT",
+      "repository": "https://github.com/ashraf-med/react-outside-kit",
+      "npmUrl": "https://www.npmjs.com/package/react-outside-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-31T21:19:34.440Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 64
+    },
+    {
       "name": "react-page-builder-free",
       "version": "2.0.1",
       "description": "Free React page builder — drag-and-drop visual editor built on Gutenberg blocks, with an SSR-safe renderer for Next.js, Remix, and Vite. Open-source, no-code page builder for React apps via onSave/onLoad hooks.",
@@ -20798,6 +21050,18 @@
       "score": 87
     },
     {
+      "name": "scrapingdog-mcp",
+      "version": "0.1.1",
+      "description": "Model Context Protocol (MCP) server for the Scrapingdog web-scraping and SERP APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/Darshan972/Scrapingdog-mcp",
+      "npmUrl": "https://www.npmjs.com/package/scrapingdog-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:21:29.233Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 59
+    },
+    {
       "name": "scrapingdog-sdk",
       "version": "1.0.1",
       "description": "Official Node.js SDK for the Scrapingdog API — scrape any website and get structured data from Google, Amazon, YouTube, and 60+ more scrapers.",
@@ -21108,6 +21372,18 @@
       "createdAt": "2026-07-26T11:31:12.879Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 76
+    },
+    {
+      "name": "shopify-mcp-extended",
+      "version": "2.0.0",
+      "description": "MCP Server for the Shopify Admin GraphQL API. Extended fork of shopify-mcp adding draft order tools with the full quote/discount breakdown, plus metaobject and metafield definition tools.",
+      "license": "MIT",
+      "repository": "https://github.com/okitoxo/shopify-mcp",
+      "npmUrl": "https://www.npmjs.com/package/shopify-mcp-extended",
+      "category": "backend",
+      "createdAt": "2026-07-31T21:50:51.030Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 92
     },
     {
       "name": "shopify-scraper",
@@ -22514,6 +22790,18 @@
       "score": 54
     },
     {
+      "name": "uui-scan",
+      "version": "0.1.1",
+      "description": "Escanea una pantalla (web hoy, escritorio después) y devuelve el catálogo de selectores: cada campo con su id, name, tipo, si es obligatorio y con qué selector alcanzarlo. CLI + servidor MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/eriosgit/universal-ui-engine",
+      "npmUrl": "https://www.npmjs.com/package/uui-scan",
+      "category": "testing",
+      "createdAt": "2026-07-31T21:20:02.167Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 85
+    },
+    {
       "name": "valida-cnpj-alfanumerico",
       "version": "1.0.0",
       "description": "Validação, formatação e geração de CNPJ alfanumérico (e numérico) conforme a IN RFB nº 2.229/2024 — algoritmo oficial da Receita Federal, zero dependências, funciona em Node.js e navegador.",
@@ -22788,6 +23076,18 @@
       "createdAt": "2026-07-28T15:55:56.017Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 68
+    },
+    {
+      "name": "vitorrent",
+      "version": "0.1.0",
+      "description": "A BitTorrent client that lives in the terminal, built on @opentui + SolidJS + WebTorrent, running on Bun.",
+      "license": "MIT",
+      "repository": "https://github.com/vishwa-ko-9/vitorrent",
+      "npmUrl": "https://www.npmjs.com/package/vitorrent",
+      "category": "cli",
+      "createdAt": "2026-07-31T21:40:31.815Z",
+      "discoveredAt": "2026-07-31T21:59:15.429Z",
+      "score": 72
     },
     {
       "name": "voryn-core",
