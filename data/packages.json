@@ -1790,6 +1790,18 @@
       "score": 71
     },
     {
+      "name": "@carrieros/cli",
+      "version": "0.1.0",
+      "description": "Carrier OS command-line interface — an interactive shell plus commands for the Carrier OS developer platform (chat, sessions, files, usage) over the public /v1 API.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/carrieros-ai/carrieros-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40carrieros%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-07-31T04:54:21.358Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 84
+    },
+    {
       "name": "@cenzontle/hilo-mcp",
       "version": "0.2.0",
       "description": "Servidor MCP que acompaña la integración con Hilo: contrato de la API, validación de payloads, verificación de webhooks y pruebas contra sandbox.",
@@ -2414,6 +2426,18 @@
       "score": 85
     },
     {
+      "name": "@danqiusheng/nest-nacos",
+      "version": "1.0.0",
+      "description": "NestJS Nacos 插件 - 服务发现 + 配置中心（基于 nacos-sdk-nodejs，支持 gRPC / Nacos 2.x & 3.x）",
+      "license": "MIT",
+      "repository": "https://github.com/danqiusheng/nest-nacos",
+      "npmUrl": "https://www.npmjs.com/package/%40danqiusheng%2Fnest-nacos",
+      "category": "backend",
+      "createdAt": "2026-07-31T03:15:00.062Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 83
+    },
+    {
       "name": "@danypops/enigma",
       "version": "0.1.0",
       "description": "Encrypted credential vault and supervisor daemon: holds delegated OAuth/API credentials for other daemons, injects them as env into spawned children, never exposes them to anything else",
@@ -2448,6 +2472,18 @@
       "createdAt": "2026-07-26T14:40:04.472Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "@dbx-tools/search",
+      "version": "0.6.9",
+      "description": "A Meilisearch-style shortcut over Databricks AI Search (Vector Search): a search client, agent tools, and an AppKit plugin.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/reggie-db/dbx-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40dbx-tools%2Fsearch",
+      "category": "data",
+      "createdAt": "2026-07-31T02:10:59.902Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 62
     },
     {
       "name": "@dbzdrums/notation",
@@ -3516,6 +3552,18 @@
       "createdAt": "2026-07-26T02:07:43.884Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 73
+    },
+    {
+      "name": "@folsom/tspdf",
+      "version": "0.1.0",
+      "description": "A pure-TypeScript PDF core: lazy parsing, append-only writing, AcroForm read/fill/flatten/synthesize, and text extraction. No WASM.",
+      "license": "MIT",
+      "repository": "https://github.com/folsomintel/tspdf",
+      "npmUrl": "https://www.npmjs.com/package/%40folsom%2Ftspdf",
+      "category": "frontend",
+      "createdAt": "2026-07-31T03:58:39.938Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 75
     },
     {
       "name": "@forbes-placement/story-angle-generator",
@@ -4778,6 +4826,18 @@
       "score": 59
     },
     {
+      "name": "@groundtruth-sh/cli",
+      "version": "0.1.0",
+      "description": "Verify CLAUDE.md / AGENTS.md against the actual repo — a compiler and CI gate for agent-context assertions.",
+      "license": "MIT",
+      "repository": "https://github.com/jaystewart-dev/groundtruth",
+      "npmUrl": "https://www.npmjs.com/package/%40groundtruth-sh%2Fcli",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T04:51:48.161Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 71
+    },
+    {
       "name": "@grovemotorco/livery-cli",
       "version": "1.0.0",
       "description": "Generate shareable images of source code from the command line",
@@ -5784,6 +5844,18 @@
       "createdAt": "2026-07-29T19:18:06.988Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 72
+    },
+    {
+      "name": "@kne/react-bot",
+      "version": "0.1.1",
+      "description": "一个用于 AI 对话与 IM 消息展示的 React 组件库，提供 ReactBot、MessageList、MessageInput、VoiceInput，支持 SSE 流式/Ajax 双模式、Markdown 渲染、语音输入与可扩展工具栏",
+      "license": "ISC",
+      "repository": "https://github.com/kne-union/react-bot",
+      "npmUrl": "https://www.npmjs.com/package/%40kne%2Freact-bot",
+      "category": "frontend",
+      "createdAt": "2026-07-31T04:57:14.180Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 82
     },
     {
       "name": "@knime/kds-echarts",
@@ -6794,6 +6866,18 @@
       "score": 79
     },
     {
+      "name": "@nanobpm/nano-ide-connector-slack",
+      "version": "1.0.0",
+      "description": "Slack connector pack for the Nano/Urban RAD console: a two-edge I/O connector — a 'Send Slack Message' component/worker (outbound) and a Slack events/slash-command trigger source (inbound). ADR 0033 / 0025 / 0050.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jwulf/nano-ide",
+      "npmUrl": "https://www.npmjs.com/package/%40nanobpm%2Fnano-ide-connector-slack",
+      "category": "utilities",
+      "createdAt": "2026-07-31T03:02:54.602Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 72
+    },
+    {
       "name": "@nanobpm/nano-ide-lang-node",
       "version": "1.0.0",
       "description": "Node.js/TypeScript language pack for the Nano RAD IDE: .ts/.js grammar, a Node toolchain (run on `node --experimental-strip-types`, typecheck with `tsc`), and a Camunda 8 client starter that uses the official @camunda8/orchestration-cluster-api SDK. Lets",
@@ -7790,6 +7874,18 @@
       "score": 89
     },
     {
+      "name": "@puffle/pattystack",
+      "version": "0.1.0",
+      "description": "Stack your own Codex/ChatGPT subscriptions behind one local, OpenAI-compatible endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/DevelopIQ-ai/codex-patty",
+      "npmUrl": "https://www.npmjs.com/package/%40puffle%2Fpattystack",
+      "category": "utilities",
+      "createdAt": "2026-07-31T02:39:41.830Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 70
+    },
+    {
       "name": "@pulsenetwork/lp-copilot-mcp",
       "version": "0.1.0",
       "description": "LP copilot for AI agents: enumerate your concentrated-liquidity positions on 11 chains for free, then buy deterministic backtested range scenarios, IL forecasts, position health and points-campaign EV per call (x402 USDC, no API key). Non-custodial — your",
@@ -8592,6 +8688,18 @@
       "createdAt": "2026-07-26T11:26:49.151Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 72
+    },
+    {
+      "name": "@sanmis/crawler",
+      "version": "1.0.1",
+      "description": "Enterprise-grade declarative web crawler engine for policy & information monitoring — multi-source, LLM extraction, pluggable industry presets (tax, education, social-security, government)",
+      "license": "MIT",
+      "repository": "https://github.com/TaxWise/taxwise",
+      "npmUrl": "https://www.npmjs.com/package/%40sanmis%2Fcrawler",
+      "category": "testing",
+      "createdAt": "2026-07-31T02:25:09.135Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 98
     },
     {
       "name": "@saptarishi/cds-plugin-vector-hana",
@@ -10790,6 +10898,18 @@
       "score": 75
     },
     {
+      "name": "@wuguishifu/nx-expo-native-modules",
+      "version": "0.0.1",
+      "description": "Nx plugin that scaffolds Expo native modules with Swift and Kotlin implementations inside an Nx workspace.",
+      "license": "MIT",
+      "repository": "https://github.com/wuguishifu/generators",
+      "npmUrl": "https://www.npmjs.com/package/%40wuguishifu%2Fnx-expo-native-modules",
+      "category": "frontend",
+      "createdAt": "2026-07-31T03:08:54.038Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 67
+    },
+    {
       "name": "@xbbg/xnews",
       "version": "0.1.1",
       "description": "Build market news feeds from free public sources, including Yahoo Finance, Google News, SEC EDGAR, major market and wire feeds, plus YouTube subscriptions, captions, and realtime local or hosted audio transcription.",
@@ -11016,6 +11136,18 @@
       "createdAt": "2026-07-25T16:07:30.201Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 59
+    },
+    {
+      "name": "@zhenhuang/pi-xai-search",
+      "version": "0.1.0",
+      "description": "Model-independent live X search for Pi, powered by xAI's native x_search tool",
+      "license": "MIT",
+      "repository": "https://github.com/ZhenHuangLab/pi-xai-search",
+      "npmUrl": "https://www.npmjs.com/package/%40zhenhuang%2Fpi-xai-search",
+      "category": "utilities",
+      "createdAt": "2026-07-31T05:20:11.628Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 68
     },
     {
       "name": "@zweiundeins/cashctrl-ts-sdk",
@@ -11306,6 +11438,18 @@
       "score": 73
     },
     {
+      "name": "agent-pipx",
+      "version": "0.3.0",
+      "description": "Audit a repo's AI-agent configuration — config, rules, styles, environment — against the AGENTS.md standard, for any coding agent (Claude Code, Codex, Kimi, Cursor, Antigravity, Gemini).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kyizinlatt/agent-pipx",
+      "npmUrl": "https://www.npmjs.com/package/agent-pipx",
+      "category": "utilities",
+      "createdAt": "2026-07-31T05:41:32.925Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 66
+    },
+    {
       "name": "agent-playtime",
       "version": "0.2.0",
       "description": "Steam-style playtime tracking for CLI agent harnesses: Claude Code, Codex and OpenCode",
@@ -11328,6 +11472,18 @@
       "createdAt": "2026-07-28T00:49:03.964Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 100
+    },
+    {
+      "name": "agent-skills-zh",
+      "version": "0.7.0",
+      "description": "中文工程 Agent Skills 集合及跨平台安装助手",
+      "license": "MIT",
+      "repository": "https://github.com/iZiTTMarvin/agent-skills-zh",
+      "npmUrl": "https://www.npmjs.com/package/agent-skills-zh",
+      "category": "utilities",
+      "createdAt": "2026-07-30T09:26:42.961Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 64
     },
     {
       "name": "agentdyno",
@@ -11424,6 +11580,18 @@
       "createdAt": "2026-07-30T00:12:34.777Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 60
+    },
+    {
+      "name": "aiomatrix",
+      "version": "0.3.1",
+      "description": "Aiogram-like framework for Matrix bots: routers, filters, FSM, inline keyboards, E2EE and MiniApps",
+      "license": "MIT",
+      "repository": "https://github.com/HowardSalibert/aiomatrix",
+      "npmUrl": "https://www.npmjs.com/package/aiomatrix",
+      "category": "utilities",
+      "createdAt": "2026-07-31T02:03:32.350Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 79
     },
     {
       "name": "aipm-mcp-server",
@@ -12914,6 +13082,18 @@
       "score": 69
     },
     {
+      "name": "copc-cesium",
+      "version": "1.0.0",
+      "description": "CesiumJS provider for streaming and rendering COPC point clouds",
+      "license": "ISC",
+      "repository": "https://github.com/seongyooo/copc-cesium",
+      "npmUrl": "https://www.npmjs.com/package/copc-cesium",
+      "category": "devops",
+      "createdAt": "2026-07-31T03:32:46.706Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 78
+    },
+    {
       "name": "cordova-plugin-yandex-mapkit",
       "version": "1.0.0",
       "description": "A provider-focused Cordova bridge for embedding Yandex MapKit on Android and iOS.",
@@ -13008,6 +13188,18 @@
       "createdAt": "2026-07-29T14:35:10.630Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 92
+    },
+    {
+      "name": "create-nimbus-connector",
+      "version": "0.1.0",
+      "description": "A generator for [**Nimbus**](https://github.com/nimbus-agent/Nimbus) MCP connector packages. Nimbus's `packages/mcp-connectors/` holds 94+ connectors built from one rigid shape — a `server.ts`, a `nimbus.extension.json` manifest, a `tsconfig.json`, a `pac",
+      "license": "MIT",
+      "repository": "https://github.com/nimbus-agent/create-nimbus-connector",
+      "npmUrl": "https://www.npmjs.com/package/create-nimbus-connector",
+      "category": "backend",
+      "createdAt": "2026-07-31T05:28:58.205Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 70
     },
     {
       "name": "create-ocp",
@@ -13778,6 +13970,18 @@
       "score": 84
     },
     {
+      "name": "faberwright",
+      "version": "0.3.1",
+      "description": "Faber: an agentic AI coding assistant for your terminal — streams, edits with diff approval, runs your tests, and remembers your project across sessions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JibanKumar-cloud/faber",
+      "npmUrl": "https://www.npmjs.com/package/faberwright",
+      "category": "testing",
+      "createdAt": "2026-07-31T03:06:35.506Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 85
+    },
+    {
       "name": "faster-latex",
       "version": "0.1.0",
       "description": "Render full LaTeX documents to HTML (with MathML math) in the browser — pure Rust compiled to WebAssembly.",
@@ -14342,6 +14546,18 @@
       "score": 75
     },
     {
+      "name": "gstinapi",
+      "version": "1.0.0",
+      "description": "GSTIN verification for Node.js — look up any Indian GST number and get the legal name, status, taxpayer type and registered address.",
+      "license": "MIT",
+      "repository": "https://github.com/CsoftTarun/gstinapi-node",
+      "npmUrl": "https://www.npmjs.com/package/gstinapi",
+      "category": "backend",
+      "createdAt": "2026-07-31T05:31:02.070Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 71
+    },
+    {
       "name": "guacd-ts",
       "version": "0.1.0",
       "description": "TypeScript library for bridging WebSocket connections to Apache Guacamole guacd daemon",
@@ -14664,6 +14880,18 @@
       "createdAt": "2026-07-26T23:55:50.139Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 86
+    },
+    {
+      "name": "hoodsynapse",
+      "version": "1.1.0",
+      "description": "Command-line access to Robinhood Chain — tokenized equities, stablecoins and memecoins with price and liquidity, plus history from the Hood Synapse index.",
+      "license": "MIT",
+      "repository": "https://github.com/hoodsynapse/hood-synapse",
+      "npmUrl": "https://www.npmjs.com/package/hoodsynapse",
+      "category": "cli",
+      "createdAt": "2026-07-26T19:03:14.244Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 65
     },
     {
       "name": "hostinger-mcp-server",
@@ -16082,6 +16310,18 @@
       "score": 71
     },
     {
+      "name": "mobile-release-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for managing mobile app releases on App Store Connect and Google Play Console",
+      "license": "MIT",
+      "repository": "https://github.com/Jeronimo0228/mobile-release-mcp",
+      "npmUrl": "https://www.npmjs.com/package/mobile-release-mcp",
+      "category": "testing",
+      "createdAt": "2026-07-31T05:39:00.408Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 71
+    },
+    {
       "name": "model-roundtable",
       "version": "1.0.0",
       "description": "Structured multi-model debate with adversarial personas, scoring cards, and moderator synthesis",
@@ -16956,6 +17196,18 @@
       "createdAt": "2026-07-28T14:13:07.203Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 84
+    },
+    {
+      "name": "opensocrates",
+      "version": "1.0.0",
+      "description": "Install and manage the OpenSocrates reasoning framework for Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/ParkerHwang/OpenSocrates",
+      "npmUrl": "https://www.npmjs.com/package/opensocrates",
+      "category": "utilities",
+      "createdAt": "2026-07-31T03:52:40.670Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 67
     },
     {
       "name": "openswap",
@@ -17916,6 +18168,18 @@
       "createdAt": "2026-07-29T20:13:42.856Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 89
+    },
+    {
+      "name": "qrcode-decode-ultra",
+      "version": "1.0.0",
+      "description": "Fast browser QR scanner core — native → jsQR zero-WASM fast path with an opt-in OpenCV WeChat tier, Web Worker by default.",
+      "license": "MIT",
+      "repository": "https://github.com/zoexx/qrcode-decode-ultra",
+      "npmUrl": "https://www.npmjs.com/package/qrcode-decode-ultra",
+      "category": "frontend",
+      "createdAt": "2026-07-31T04:55:01.083Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 80
     },
     {
       "name": "qualityclouds-mcp-init",
@@ -19562,6 +19826,18 @@
       "score": 79
     },
     {
+      "name": "tapproval",
+      "version": "0.1.0",
+      "description": "Approve or deny your coding agent's permission prompts from your phone",
+      "license": "MIT",
+      "repository": "https://github.com/dikshantrajput/tapproval",
+      "npmUrl": "https://www.npmjs.com/package/tapproval",
+      "category": "utilities",
+      "createdAt": "2026-07-31T05:08:55.430Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 71
+    },
+    {
       "name": "taptones",
       "version": "1.1.0",
       "description": "Ultra-lightweight, zero-dependency synthesized Web Audio & Web Haptics micro-library for web UI feedback with 0KB downloaded audio assets.",
@@ -20498,6 +20774,18 @@
       "score": 68
     },
     {
+      "name": "voryn-core",
+      "version": "0.1.1",
+      "description": "A change engine for JavaScript and TypeScript objects — diff, apply, reverse, merge, and undo/redo for structured data.",
+      "license": "MIT",
+      "repository": "https://github.com/anish-gyawali/voryn",
+      "npmUrl": "https://www.npmjs.com/package/voryn-core",
+      "category": "data",
+      "createdAt": "2026-07-29T06:50:04.026Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 63
+    },
+    {
       "name": "voxshot",
       "version": "0.1.0",
       "description": "Browser-first Zero-Shot Text-to-Speech for JavaScript and TypeScript",
@@ -20676,6 +20964,18 @@
       "createdAt": "2026-07-29T04:11:05.081Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 73
+    },
+    {
+      "name": "website-auditor-mcp",
+      "version": "1.0.7",
+      "description": "MCP server for website-auditor.io — AI-visibility (GEO) and site-audit tools for ChatGPT, Perplexity, Claude and Gemini, callable from any MCP client.",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/SpikeyCoder/website-auditor-mcp",
+      "npmUrl": "https://www.npmjs.com/package/website-auditor-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-31T02:38:30.611Z",
+      "discoveredAt": "2026-07-31T05:43:07.814Z",
+      "score": 84
     },
     {
       "name": "webui98",
