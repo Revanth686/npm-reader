@@ -50,6 +50,18 @@
       "score": 68
     },
     {
+      "name": "@12signals/html-distill",
+      "version": "0.1.0",
+      "description": "Structure-preserving HTML normalizer for LLM input. Turns real-world marketing pages, landing pages and SPA output into stable, semantically-hinted HTML — without throwing away the boilerplate that carries the signal.",
+      "license": "MIT",
+      "repository": "https://github.com/12signals/html-distill",
+      "npmUrl": "https://www.npmjs.com/package/%4012signals%2Fhtml-distill",
+      "category": "backend",
+      "createdAt": "2026-07-31T06:26:09.852Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 84
+    },
+    {
       "name": "@3sln/trove",
       "version": "0.0.2",
       "description": "Trove — a self-hostable, plugin-extensible Google Drive. Semantic search, pluggable storage (S3 / filesystem / NAS), and a VS Code-style contribution system with sandboxed plugins.",
@@ -504,6 +516,18 @@
       "createdAt": "2026-07-30T19:44:17.057Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 75
+    },
+    {
+      "name": "@alex-apps/ng-token-saver",
+      "version": "0.1.1",
+      "description": "MCP server for Angular: compiler-backed template answers, component contracts and version-accurate facts that save AI agents tokens",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/Alex88Ryabov/alex-apps-ng-token-saver",
+      "npmUrl": "https://www.npmjs.com/package/%40alex-apps%2Fng-token-saver",
+      "category": "frontend",
+      "createdAt": "2026-07-31T05:50:35.350Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 77
     },
     {
       "name": "@alexify/migronaut",
@@ -1118,6 +1142,18 @@
       "score": 84
     },
     {
+      "name": "@automacene/stegodata",
+      "version": "1.0.0",
+      "description": "Language-agnostic protocol for embedding structured steganographic memory into unstructured files—turning documents, images, and media into self-contained, context-aware containers for AI pipelines.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Automacene/stegodata",
+      "npmUrl": "https://www.npmjs.com/package/%40automacene%2Fstegodata",
+      "category": "data",
+      "createdAt": "2026-07-31T08:37:40.101Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 89
+    },
+    {
       "name": "@automationarchitect/trust",
       "version": "1.0.0",
       "description": "TRUST — Trust Reporting & Unified Security Testing. Zero-dependency security verification for web, API, storage, AI-agent and mobile targets.",
@@ -1308,6 +1344,18 @@
       "createdAt": "2026-07-29T07:14:29.921Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 95
+    },
+    {
+      "name": "@backupdata/js-sdk",
+      "version": "0.1.0",
+      "description": "Backup Data SDK for JavaScript/TypeScript: workspace-scoped incremental, content-addressed backup and restore with SIWE / email / API-key authentication and optional client-side encryption.",
+      "license": "MIT",
+      "repository": "https://github.com/Backup-Data-io/js-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40backupdata%2Fjs-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-31T05:58:50.799Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 77
     },
     {
       "name": "@bacnh85/pi-model-tools",
@@ -5114,6 +5162,18 @@
       "score": 77
     },
     {
+      "name": "@homebridge-plugins/homebridge-tuya-web",
+      "version": "1.1.6",
+      "description": "Homebridge plugin for use with Tuya devices (uses Home Assistant Tuya Web API)",
+      "license": "MIT",
+      "repository": "https://github.com/homebridge-plugins/homebridge-tuya-web",
+      "npmUrl": "https://www.npmjs.com/package/%40homebridge-plugins%2Fhomebridge-tuya-web",
+      "category": "backend",
+      "createdAt": "2026-07-31T07:29:50.482Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 81
+    },
+    {
       "name": "@honlnk/picsense",
       "version": "0.1.0",
       "description": "A local MCP server that gives unimodal LLMs multimodal vision — image/video recognition with multi-turn iterative analysis.",
@@ -5894,6 +5954,30 @@
       "score": 69
     },
     {
+      "name": "@kotuke/bitizen",
+      "version": "2.0.0",
+      "description": "Deterministic, zero-dependency pixel avatars: the whole figure is personal, in two styles",
+      "license": "MIT",
+      "repository": "https://github.com/kotuke/bitizen",
+      "npmUrl": "https://www.npmjs.com/package/%40kotuke%2Fbitizen",
+      "category": "utilities",
+      "createdAt": "2026-07-31T07:34:18.955Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 78
+    },
+    {
+      "name": "@kotuke/bitling",
+      "version": "1.1.0",
+      "description": "Deterministic, zero-dependency pixel avatar identicons: a shared robot with a personal color sigil",
+      "license": "MIT",
+      "repository": "https://github.com/kotuke/bitling",
+      "npmUrl": "https://www.npmjs.com/package/%40kotuke%2Fbitling",
+      "category": "utilities",
+      "createdAt": "2026-07-31T07:33:57.682Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 74
+    },
+    {
       "name": "@kreiseck/elda",
       "version": "0.2.0",
       "description": "ELDA Transfer-Webservice (österreichische Sozialversicherung) für Node",
@@ -6638,6 +6722,54 @@
       "score": 66
     },
     {
+      "name": "@millcrest/file-fetcher",
+      "version": "0.0.2",
+      "description": "Authenticated, segmented, resumable file downloads in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/millcrest/react-download-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40millcrest%2Ffile-fetcher",
+      "category": "frontend",
+      "createdAt": "2026-07-31T08:22:59.424Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 72
+    },
+    {
+      "name": "@mingcute/icons",
+      "version": "3.0.1",
+      "description": "Framework-neutral Mingcute icon definitions for Core Regular and Filled.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mingcute-design/mingcute-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40mingcute%2Ficons",
+      "category": "data",
+      "createdAt": "2026-07-30T09:27:45.082Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 78
+    },
+    {
+      "name": "@mingcute/vanilla",
+      "version": "3.0.1",
+      "description": "Mingcute SVG strings and DOM helpers for vanilla JavaScript.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mingcute-design/mingcute-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40mingcute%2Fvanilla",
+      "category": "frontend",
+      "createdAt": "2026-07-30T09:30:00.622Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 71
+    },
+    {
+      "name": "@mingcute/web-components",
+      "version": "3.0.1",
+      "description": "Mingcute SVG icon custom elements.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mingcute-design/mingcute-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40mingcute%2Fweb-components",
+      "category": "utilities",
+      "createdAt": "2026-07-30T09:30:32.400Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 73
+    },
+    {
       "name": "@minhduydev/pi-harness",
       "version": "2.0.0",
       "description": "A portable Pi Coding Agent package with curated extensions, skills, prompts, and themes.",
@@ -7094,6 +7226,18 @@
       "score": 86
     },
     {
+      "name": "@nightwalk/mini-headless",
+      "version": "0.0.1",
+      "description": "Headless Mini Program simulator for screenshots, input, navigation, Elements, Console, and Network on macOS 13+.",
+      "license": "MIT",
+      "repository": "https://github.com/Nightwalk2001/MiniHeadless",
+      "npmUrl": "https://www.npmjs.com/package/%40nightwalk%2Fmini-headless",
+      "category": "utilities",
+      "createdAt": "2026-07-31T06:42:46.159Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 73
+    },
+    {
       "name": "@nilskluewer/pi-atlassian-mcp",
       "version": "0.2.0",
       "description": "Bridge the Atlassian Rovo MCP server (Jira, Confluence) into Pi with per-session, opt-in tool selection.",
@@ -7380,6 +7524,18 @@
       "createdAt": "2026-07-28T17:32:05.431Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 71
+    },
+    {
+      "name": "@oracle-agent/oracle",
+      "version": "0.1.0",
+      "description": "Oracle: prepare-only multichain agent control plane. Policy-bounded intents for a user-signed wallet. Self-custody by default — the public package never takes your key. Built for Hermes; no model key required.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/demi-hl/oracle",
+      "npmUrl": "https://www.npmjs.com/package/%40oracle-agent%2Foracle",
+      "category": "utilities",
+      "createdAt": "2026-07-31T07:46:13.297Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 86
     },
     {
       "name": "@orkestrapay/cse",
@@ -8256,6 +8412,18 @@
       "createdAt": "2026-07-26T14:09:47.039Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 74
+    },
+    {
+      "name": "@razorwind/tamagui",
+      "version": "0.0.2",
+      "description": "Razorwind plugin that creates Tamagui theme tokens from Razorwind design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Ftamagui",
+      "category": "data",
+      "createdAt": "2026-07-31T06:33:17.848Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 70
     },
     {
       "name": "@react-querybuilder/migrate-raqb",
@@ -9396,6 +9564,18 @@
       "createdAt": "2026-07-28T00:24:58.360Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 89
+    },
+    {
+      "name": "@spinajs/orm-cli",
+      "version": "2.0.488",
+      "description": "CLI commands for spinajs ORM migrations",
+      "license": "MIT",
+      "repository": "https://github.com/spinajs/main",
+      "npmUrl": "https://www.npmjs.com/package/%40spinajs%2Form-cli",
+      "category": "data",
+      "createdAt": "2026-07-30T08:32:33.540Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 71
     },
     {
       "name": "@spinajs/telemetry",
@@ -11846,6 +12026,18 @@
       "score": 73
     },
     {
+      "name": "astro-d1-search",
+      "version": "1.0.0",
+      "description": "Astro integration for site search backed by Cloudflare D1 (SQLite FTS5): build-time indexing, an injected search API endpoint, bm25 + recency ranking",
+      "license": "MIT",
+      "repository": "https://github.com/mrmartineau/astro-d1-search",
+      "npmUrl": "https://www.npmjs.com/package/astro-d1-search",
+      "category": "backend",
+      "createdAt": "2026-07-31T07:48:41.954Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 92
+    },
+    {
       "name": "astrovisor-skill",
       "version": "1.0.1",
       "description": "Universal AstroVisor Agent Skill with private Markdown profiles, safe credential onboarding, and live-schema MCP workflows.",
@@ -11988,6 +12180,18 @@
       "createdAt": "2026-07-30T13:04:42.718Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 74
+    },
+    {
+      "name": "baileys-foxxy",
+      "version": "1.0.0",
+      "description": "Message builder super lengkap buat @whiskeysockets/baileys — button, button v2, table, carousel, poster, fake link preview, fake quoted status, album, contact, location, event, dan lainnya.",
+      "license": "MIT",
+      "repository": "https://github.com/Wanz/baileys-foxxy",
+      "npmUrl": "https://www.npmjs.com/package/baileys-foxxy",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T07:04:20.390Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 98
     },
     {
       "name": "ballast-cli",
@@ -12144,6 +12348,18 @@
       "createdAt": "2026-07-27T19:11:20.028Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 73
+    },
+    {
+      "name": "blattbot",
+      "version": "0.2.0",
+      "description": "Agentic LaTeX editing for Overleaf — Claude edits a synced working copy, verifies by compiling, and shows you a reviewable diff before anything is pushed. Local-first, with an integrated citation pipeline.",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "repository": "https://github.com/lckylke/blattbot",
+      "npmUrl": "https://www.npmjs.com/package/blattbot",
+      "category": "devops",
+      "createdAt": "2026-07-30T17:59:05.431Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 75
     },
     {
       "name": "blazar-dev",
@@ -12326,6 +12542,18 @@
       "score": 59
     },
     {
+      "name": "build-meta-injector",
+      "version": "1.0.0",
+      "description": "Inject build time, version, environment and Git metadata into HTML across modern frontend build tools.",
+      "license": "MIT",
+      "repository": "https://github.com/z-Zihan/build-meta-injector",
+      "npmUrl": "https://www.npmjs.com/package/build-meta-injector",
+      "category": "frontend",
+      "createdAt": "2026-07-31T08:12:38.452Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 77
+    },
+    {
       "name": "buildloop",
       "version": "0.1.0",
       "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
@@ -12336,6 +12564,18 @@
       "createdAt": "2026-07-25T16:47:03.576Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 73
+    },
+    {
+      "name": "bun-plugin-qiankun",
+      "version": "1.0.1",
+      "description": "Transform Bun-built HTML for qiankun micro-frontend compatibility. Inspired by vite-plugin-qiankun.",
+      "license": "MIT",
+      "repository": "https://github.com/rosald/bun-plugin-qiankun",
+      "npmUrl": "https://www.npmjs.com/package/bun-plugin-qiankun",
+      "category": "frontend",
+      "createdAt": "2026-07-30T07:50:32.163Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 79
     },
     {
       "name": "burnlink",
@@ -13934,6 +14174,18 @@
       "score": 79
     },
     {
+      "name": "etymd",
+      "version": "0.1.0",
+      "description": "Keep your agent instructions true — verify AGENTS.md, CLAUDE.md, rules & skills against the actual repo, with drift caught over time and a regression ledger.",
+      "license": "MIT",
+      "repository": "https://github.com/triartleet/etymd",
+      "npmUrl": "https://www.npmjs.com/package/etymd",
+      "category": "cli",
+      "createdAt": "2026-07-31T08:37:23.655Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 78
+    },
+    {
       "name": "expo-turbo",
       "version": "0.1.0",
       "description": "Host-neutral Turbo XML runtime for Expo React Native and Rails",
@@ -14366,6 +14618,18 @@
       "score": 86
     },
     {
+      "name": "gemini-watermark",
+      "version": "0.1.1",
+      "description": "Detect, remove, and add Gemini visible image watermarks via deterministic reverse alpha blending. Faithful TypeScript port of GeminiWatermarkTool. Zero dependencies, runs in browsers and Node.",
+      "license": "MIT",
+      "repository": "https://github.com/zikcheng/gemini-watermark",
+      "npmUrl": "https://www.npmjs.com/package/gemini-watermark",
+      "category": "frontend",
+      "createdAt": "2026-07-31T07:53:17.741Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 83
+    },
+    {
       "name": "gemini-web-sdk",
       "version": "2.2.0",
       "description": "Unofficial Node.js client for gemini.google.com — inspired by Gemini-API (Python). Supports streaming, chat sessions, gems, file uploads, and TypeScript.",
@@ -14412,6 +14676,18 @@
       "createdAt": "2026-07-27T22:24:43.076Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 72
+    },
+    {
+      "name": "gifwarp",
+      "version": "0.1.0",
+      "description": "The fastest zero-dependency GIF encoder and decoder for JavaScript. Typed-array fast paths, lazy frame decoding, and full canvas composition.",
+      "license": "MIT",
+      "repository": "https://github.com/activeguild/gifwarp",
+      "npmUrl": "https://www.npmjs.com/package/gifwarp",
+      "category": "testing",
+      "createdAt": "2026-07-31T06:53:06.252Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 81
     },
     {
       "name": "gilang-storage-sdk",
@@ -20102,6 +20378,18 @@
       "score": 79
     },
     {
+      "name": "tlvdemux",
+      "version": "0.1.0",
+      "description": "ARIB MMT/TLV demultiplexer for browsers, workers, and Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/makeding/tlvdemux",
+      "npmUrl": "https://www.npmjs.com/package/tlvdemux",
+      "category": "frontend",
+      "createdAt": "2026-07-31T07:01:08.995Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 72
+    },
+    {
       "name": "tododdle-mcp",
       "version": "2.2.0",
       "description": "Agent-first task, project context, and time tracking for ToDoddle",
@@ -20892,6 +21180,18 @@
       "createdAt": "2026-07-26T03:46:50.146Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 83
+    },
+    {
+      "name": "wavelab",
+      "version": "0.2.0",
+      "description": "Wave-based experiment scheduler for AI agents: run hundreds of parameterized experiments (benchmarks, sweeps, paper reproduction) with durable job state, metric extraction, and agent-friendly summaries.",
+      "license": "MIT",
+      "repository": "https://github.com/LKRCharon/wavelab",
+      "npmUrl": "https://www.npmjs.com/package/wavelab",
+      "category": "devops",
+      "createdAt": "2026-07-31T07:45:06.766Z",
+      "discoveredAt": "2026-07-31T08:37:42.384Z",
+      "score": 74
     },
     {
       "name": "wayleave",
