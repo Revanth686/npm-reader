@@ -134,6 +134,18 @@
       "score": 74
     },
     {
+      "name": "@adaptive-ds/caddy-projects",
+      "version": "0.3.0",
+      "description": "API + CLI to manage Caddy projects: JSON project definitions, generated Caddy config, git-tracked history.",
+      "license": "MIT",
+      "repository": "https://github.com/david1gp/caddy-projects",
+      "npmUrl": "https://www.npmjs.com/package/%40adaptive-ds%2Fcaddy-projects",
+      "category": "backend",
+      "createdAt": "2026-07-29T08:00:06.826Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 70
+    },
+    {
       "name": "@adaskothebeast/http-params-processor-value-from-decimal",
       "version": "12.0.0",
       "description": "decimal.js input strategy for HttpParamsProcessor, enabling lossless decimal query parameters.",
@@ -588,6 +600,18 @@
       "createdAt": "2026-07-30T22:50:09.165Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 74
+    },
+    {
+      "name": "@alsocoder/apna-editor",
+      "version": "0.1.1",
+      "description": "A rich text editor React component with toolbar, fullscreen, HTML mode, tables, and optional image upload API.",
+      "license": "MIT",
+      "repository": "https://github.com/alsocoders/apna-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40alsocoder%2Fapna-editor",
+      "category": "frontend",
+      "createdAt": "2026-07-31T13:03:46.564Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 70
     },
     {
       "name": "@alwatr/loom",
@@ -1370,6 +1394,18 @@
       "score": 79
     },
     {
+      "name": "@bakidev/durable-rate-limiter",
+      "version": "0.9.0",
+      "description": "A shared rate limiter and concurrency gate for Cloudflare Workers, backed by a Durable Object.",
+      "license": "MIT",
+      "repository": "https://github.com/mnkasikci/durable-rate-limiter",
+      "npmUrl": "https://www.npmjs.com/package/%40bakidev%2Fdurable-rate-limiter",
+      "category": "devops",
+      "createdAt": "2026-07-31T13:34:25.005Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 79
+    },
+    {
       "name": "@bard_philosopher/codegraph",
       "version": "1.5.1",
       "description": "Local-first code intelligence for AI agents (MCP). Self-contained — bundles its own runtime.",
@@ -1454,6 +1490,18 @@
       "score": 70
     },
     {
+      "name": "@beleggo/mcp",
+      "version": "0.1.0",
+      "description": "Local, on-device Model Context Protocol server for EN 16931 e-invoices — validate, fix, convert, generate and explain XRechnung/ZUGFeRD/Peppol from an AI agent, with nothing uploaded",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/beleggo/beleggo",
+      "npmUrl": "https://www.npmjs.com/package/%40beleggo%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-31T13:25:03.209Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 69
+    },
+    {
       "name": "@benjamin-small/browser-terminal",
       "version": "0.1.0",
       "description": "A terminal/tmux experience for any web page, powered by a Rust/WASM core with structured-value pipes.",
@@ -1464,6 +1512,18 @@
       "createdAt": "2026-07-26T22:28:08.289Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 62
+    },
+    {
+      "name": "@bevyl-ai/rerender",
+      "version": "0.1.0",
+      "description": "Zero-dependency random-access frame extraction from mp4 URLs, plus a drop-in MIT Remotion alternative that renders real DOM to MP4 with WebCodecs and mediabunny. No ffmpeg.",
+      "license": "MIT",
+      "repository": "https://github.com/bevyl-ai/rerender",
+      "npmUrl": "https://www.npmjs.com/package/%40bevyl-ai%2Frerender",
+      "category": "frontend",
+      "createdAt": "2026-07-31T11:48:54.666Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 82
     },
     {
       "name": "@bigblueboo/expert",
@@ -2690,6 +2750,18 @@
       "score": 75
     },
     {
+      "name": "@dhiravpatel/node-doctor",
+      "version": "1.0.1",
+      "description": "Deterministic, offline-first static analysis for Node.js backends — catches the defects that compile, pass tests, and fail under concurrency.",
+      "license": "MIT",
+      "repository": "https://github.com/DhiravPatel/node_doctor",
+      "npmUrl": "https://www.npmjs.com/package/%40dhiravpatel%2Fnode-doctor",
+      "category": "testing",
+      "createdAt": "2026-07-31T11:54:12.459Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 94
+    },
+    {
       "name": "@diceforge-sdk/presenter-physics",
       "version": "0.6.0",
       "description": "Physics motion for DiceForge dice: simulates a roll, then remaps each die so the already-resolved face lands where the simulation put it.",
@@ -2820,6 +2892,18 @@
       "createdAt": "2026-07-26T01:36:50.747Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 77
+    },
+    {
+      "name": "@dmit-fyi/brainprint-analytics",
+      "version": "1.0.0",
+      "description": "DMIT BrainPrint Analytics is an intelligent assessment platform for fingerprint analysis, cognitive profiling, learning preferences, personality insights, and career guidance. Built by DMIT.fyi.",
+      "license": "MIT",
+      "repository": "https://github.com/dmit-fyi/dmit-brainprint-analytics",
+      "npmUrl": "https://www.npmjs.com/package/%40dmit-fyi%2Fbrainprint-analytics",
+      "category": "data",
+      "createdAt": "2026-07-31T13:11:55.437Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 84
     },
     {
       "name": "@dmm1/daemon-ui",
@@ -3516,6 +3600,18 @@
       "createdAt": "2026-07-30T18:25:07.308Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 67
+    },
+    {
+      "name": "@flatina/bun-zipper",
+      "version": "0.1.1",
+      "description": "ZIP container reader/writer for Bun. No bundled compression algorithm — deflate is the runtime's.",
+      "license": "MIT",
+      "repository": "https://github.com/flatina/bun-zipper",
+      "npmUrl": "https://www.npmjs.com/package/%40flatina%2Fbun-zipper",
+      "category": "utilities",
+      "createdAt": "2026-07-31T10:23:24.894Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 69
     },
     {
       "name": "@flatzer/widget",
@@ -6518,6 +6614,18 @@
       "score": 74
     },
     {
+      "name": "@maxter-dev/design-system",
+      "version": "1.0.0",
+      "description": "Framework-neutral CSS and Sass foundations for Maxter Dev products",
+      "license": "MIT",
+      "repository": "https://github.com/MatoMakuch/maxterdev",
+      "npmUrl": "https://www.npmjs.com/package/%40maxter-dev%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-07-31T12:31:14.964Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 72
+    },
+    {
       "name": "@mdevs/openprovider",
       "version": "0.1.0",
       "description": "Avec OpenProvider, profitez de Codex ou Claude Code avec vos fournisseurs d'IA personnalisés !",
@@ -6900,6 +7008,18 @@
       "createdAt": "2026-07-27T18:15:28.577Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 77
+    },
+    {
+      "name": "@moneva/mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for the Moneva Platform API: onboard customers, price and send payouts, and drive the sandbox from any MCP host.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Moneva-OPS/moneva-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40moneva%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-07-31T11:12:21.329Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 70
     },
     {
       "name": "@mortice/mapwright",
@@ -10226,6 +10346,18 @@
       "score": 69
     },
     {
+      "name": "@theyoungwolf/lexorank",
+      "version": "0.1.0",
+      "description": "A feature-rich TypeScript implementation of the LexoRank ordered-ranking algorithm: bucket overflow, major/minor fractional precision, and batch insertion.",
+      "license": "MIT",
+      "repository": "https://github.com/theyoungwolf-dev/lexorank",
+      "npmUrl": "https://www.npmjs.com/package/%40theyoungwolf%2Flexorank",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T12:17:59.020Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 83
+    },
+    {
       "name": "@thiagocolen/corruptatron",
       "version": "1.0.0",
       "description": "Generate random algorithmic glitch variations of an image",
@@ -10814,6 +10946,18 @@
       "score": 74
     },
     {
+      "name": "@venespana/opencode-vision",
+      "version": "0.1.1",
+      "description": "OpenCode plugin: vision for text-only models — intercepts pasted images, materializes to disk, routes to a VisionBackend, injects description back into chat context.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/venespana/opencode-vision",
+      "npmUrl": "https://www.npmjs.com/package/%40venespana%2Fopencode-vision",
+      "category": "backend",
+      "createdAt": "2026-07-31T13:24:15.287Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 80
+    },
+    {
       "name": "@venizia/ignis-filter",
       "version": "0.1.1",
       "description": "Engine-neutral query filter vocabulary for TypeScript: the `{ where, order, limit, offset, skip, fields, include }` shape, comparison/pattern/null/array/logical operators, and sort direction constants. Isomorphic by construction - no node builtins and no",
@@ -11232,6 +11376,18 @@
       "createdAt": "2026-07-27T19:15:09.381Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 79
+    },
+    {
+      "name": "@xstoudi/ngx-webstorage",
+      "version": "22.0.0",
+      "description": "This library provides an easy to use service to manage the web storages (local and session) from your Angular application. It provides also two decorators to synchronize the component attributes and the web storages.",
+      "license": "MIT",
+      "repository": "https://github.com/PillowPillow/ng2-webstorage",
+      "npmUrl": "https://www.npmjs.com/package/%40xstoudi%2Fngx-webstorage",
+      "category": "frontend",
+      "createdAt": "2026-07-31T13:23:17.795Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 90
     },
     {
       "name": "@xulthekl/team-flow",
@@ -12336,6 +12492,18 @@
       "createdAt": "2026-07-28T16:33:18.107Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 84
+    },
+    {
+      "name": "bc-atlas",
+      "version": "0.5.0",
+      "description": "BC Atlas generates D2 architecture diagrams and executable user documentation for Microsoft Dynamics 365 Business Central.",
+      "license": "MIT",
+      "repository": "https://github.com/SchulzOli/ALD2Tree",
+      "npmUrl": "https://www.npmjs.com/package/bc-atlas",
+      "category": "utilities",
+      "createdAt": "2026-07-31T13:26:52.781Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 80
     },
     {
       "name": "bedrock-ui-stream",
@@ -13559,6 +13727,18 @@
       "category": "utilities",
       "createdAt": "2026-07-30T04:20:23.315Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
+      "score": 83
+    },
+    {
+      "name": "create-scrum-agents",
+      "version": "1.0.0",
+      "description": "Install portable .agents kit for Cursor, Claude, GitHub Copilot, and Codex",
+      "license": "MIT",
+      "repository": "https://github.com/taitran12310/scrum-agents",
+      "npmUrl": "https://www.npmjs.com/package/create-scrum-agents",
+      "category": "utilities",
+      "createdAt": "2026-07-31T11:50:32.906Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 83
     },
     {
@@ -15530,6 +15710,18 @@
       "score": 80
     },
     {
+      "name": "iobroker-sync",
+      "version": "1.0.0",
+      "description": "CLI to sync ioBroker JavaScript/TypeScript scripts with a local folder",
+      "license": "MIT",
+      "repository": "https://github.com/mschmicking/iobroker-sync",
+      "npmUrl": "https://www.npmjs.com/package/iobroker-sync",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T13:21:09.232Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 77
+    },
+    {
       "name": "iobroker.nut2",
       "version": "0.5.3",
       "description": "ioBroker adapter for Network UPS Tools (NUT) monitoring",
@@ -17270,6 +17462,18 @@
       "score": 70
     },
     {
+      "name": "ngx-toastr-v22",
+      "version": "22.0.1",
+      "description": "<div align=\"center\">\r   <img src=\"https://raw.githubusercontent.com/scttcper/ngx-toastr/master/misc/documentation-assets/ngx-toastr-example.png\" width=\"300\" alt=\"Angular Toastr\">\r   <br>\r   <h1>ngx-toastr</h1>\r   <br>\r   <a href=\"https://www.npmjs.org/pac",
+      "license": "MIT",
+      "repository": "https://github.com/bhatnagar-ankur/ngx-toastr",
+      "npmUrl": "https://www.npmjs.com/package/ngx-toastr-v22",
+      "category": "frontend",
+      "createdAt": "2026-07-31T11:55:37.298Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 80
+    },
+    {
       "name": "ngx-validx",
       "version": "1.0.1",
       "description": "A lightweight, highly performant, and automatic Angular form validation error handling library using Signals.",
@@ -17628,6 +17832,18 @@
       "createdAt": "2026-07-29T03:21:52.428Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 79
+    },
+    {
+      "name": "opencode-okf-context",
+      "version": "0.1.2",
+      "description": "OpenCode plugin: progressive disclosure + auto-unload for OKF (Open Knowledge Format) knowledge bundles. Inspired by DCP's outbound-only context transformation.",
+      "license": "MIT",
+      "repository": "https://github.com/likai-hust/opencode-okf-context",
+      "npmUrl": "https://www.npmjs.com/package/opencode-okf-context",
+      "category": "data",
+      "createdAt": "2026-07-31T13:37:37.150Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 80
     },
     {
       "name": "opencode-qoder-bridge",
@@ -19082,6 +19298,18 @@
       "score": 97
     },
     {
+      "name": "react-page-builder-free",
+      "version": "2.0.1",
+      "description": "Free React page builder — drag-and-drop visual editor built on Gutenberg blocks, with an SSR-safe renderer for Next.js, Remix, and Vite. Open-source, no-code page builder for React apps via onSave/onLoad hooks.",
+      "license": "MIT",
+      "repository": "https://github.com/bhavik-dreamz/react-page-builder-free",
+      "npmUrl": "https://www.npmjs.com/package/react-page-builder-free",
+      "category": "frontend",
+      "createdAt": "2026-07-31T12:11:37.793Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 100
+    },
+    {
       "name": "react-talking-avatar",
       "version": "0.1.1",
       "description": "Detect a face/avatar from an uploaded or remote image and animate its lips while audio plays (simulated talking).",
@@ -19224,6 +19452,18 @@
       "createdAt": "2026-07-30T20:11:43.646Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 68
+    },
+    {
+      "name": "repo-diet",
+      "version": "0.1.0",
+      "description": "See what is eating your AI coding context. Local-first repository context auditor with interactive reports.",
+      "license": "MIT",
+      "repository": "https://github.com/fy-06/repo-diet",
+      "npmUrl": "https://www.npmjs.com/package/repo-diet",
+      "category": "cli",
+      "createdAt": "2026-07-31T13:13:51.026Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 74
     },
     {
       "name": "repo-ranger",
@@ -19778,6 +20018,18 @@
       "score": 57
     },
     {
+      "name": "sharecrate",
+      "version": "1.0.0",
+      "description": "Private file sharing with link-only access, password protection and download analytics",
+      "license": "MIT",
+      "repository": "https://github.com/neikiri/sharecrate",
+      "npmUrl": "https://www.npmjs.com/package/sharecrate",
+      "category": "data",
+      "createdAt": "2026-07-31T12:44:44.655Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 78
+    },
+    {
       "name": "sharpwave",
       "version": "0.1.0",
       "description": "Long-term memory for AI agents. An MCP server that remembers across sessions, forgets what stops mattering, and consolidates the rest — modeled on how the hippocampus actually works.",
@@ -20054,6 +20306,18 @@
       "score": 60
     },
     {
+      "name": "spec-lane",
+      "version": "0.1.0",
+      "description": "A local-first delivery-lane orchestrator: Intent -> Spec/Critic -> Implement -> Verify -> Done, with cost estimation/calibration, a resource-aware next-task view, a spec-consensus gate, and a knowledge lens for review lessons.",
+      "license": "MIT",
+      "repository": "https://github.com/shiki-yusuke/lane",
+      "npmUrl": "https://www.npmjs.com/package/spec-lane",
+      "category": "cli",
+      "createdAt": "2026-07-31T12:04:46.410Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 85
+    },
+    {
       "name": "specpilot-kit",
       "version": "0.6.0",
       "description": "A lightweight, repository-backed AI coding harness for Claude Code and Codex.",
@@ -20174,6 +20438,18 @@
       "score": 94
     },
     {
+      "name": "starlingbank-sdk",
+      "version": "1.0.1",
+      "description": "Complete, production-grade TypeScript/JavaScript SDK for the Starling Bank Public API (accounts, balances, payments, cards, savings goals, transactions, OAuth2, webhooks, and more).",
+      "license": "MIT",
+      "repository": "https://github.com/iamkanishka/starlingbank-sdk",
+      "npmUrl": "https://www.npmjs.com/package/starlingbank-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-31T11:26:37.276Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 84
+    },
+    {
       "name": "stateset-nsr-mcp",
       "version": "0.7.2",
       "description": "MCP server exposing the StateSet NSR neuro-symbolic reasoning API — verified decisions with machine-checkable proofs, as agent-native tools.",
@@ -20268,6 +20544,18 @@
       "createdAt": "2026-07-29T03:44:14.412Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 80
+    },
+    {
+      "name": "style-switch",
+      "version": "1.0.0",
+      "description": "StyleSwitch library for switching between document style sheets.",
+      "license": "CC-BY-SA-4.0",
+      "repository": "https://github.com/iiic/StyleSwitch",
+      "npmUrl": "https://www.npmjs.com/package/style-switch",
+      "category": "frontend",
+      "createdAt": "2026-07-31T11:54:21.754Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 82
     },
     {
       "name": "stylewright",
@@ -21408,6 +21696,18 @@
       "createdAt": "2026-07-30T03:36:17.569Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 71
+    },
+    {
+      "name": "vue-route-state",
+      "version": "0.2.0",
+      "description": "Minimal Vue 3 composables for keeping reactive state in Vue Router query parameters.",
+      "license": "MIT",
+      "repository": "https://github.com/KosAlyohyn/vue-route-state",
+      "npmUrl": "https://www.npmjs.com/package/vue-route-state",
+      "category": "frontend",
+      "createdAt": "2026-07-29T08:02:41.189Z",
+      "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 76
     },
     {
       "name": "vue-timewise",
