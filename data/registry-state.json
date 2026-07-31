@@ -1,11 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122637485,
-  "lastRunAt": "2026-07-31T17:24:36.430Z",
+  "lastSequence": 122653584,
+  "lastRunAt": "2026-07-31T19:11:50.029Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@iveri/eslint-config",
+      "name": "@memoized-dom/compiler",
+      "attempts": 1
+    },
+    {
+      "name": "@radkode/ai-kit",
+      "attempts": 1
+    },
+    {
+      "name": "@gitmyabi/wabi",
+      "attempts": 1
+    },
+    {
+      "name": "@geraschenko/clauctl",
       "attempts": 1
     }
   ]
