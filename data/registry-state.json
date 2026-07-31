@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122597830,
-  "lastRunAt": "2026-07-31T13:45:05.804Z",
+  "lastSequence": 122623175,
+  "lastRunAt": "2026-07-31T15:56:07.612Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@finos/cucumber-testing-steps",
+      "name": "@noirstack/ldapjs",
       "attempts": 1
     },
     {
-      "name": "@dyumant/nebula",
+      "name": "@noirstack/pg-view-generator",
+      "attempts": 1
+    },
+    {
+      "name": "@noirstack/winrm-client",
+      "attempts": 1
+    },
+    {
+      "name": "@thewillmoss/anchor-mcp",
       "attempts": 1
     }
   ]
