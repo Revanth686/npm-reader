@@ -578,6 +578,18 @@
       "score": 76
     },
     {
+      "name": "@aksp/opencrew",
+      "version": "1.0.0",
+      "description": "A reworked build of OpenSquad (by Renato Asse) — create AI agent crews that work together, right from your IDE. Multi-agent orchestration with an npm installer.",
+      "license": "MIT",
+      "repository": "https://github.com/alberthpalhares/opencrew",
+      "npmUrl": "https://www.npmjs.com/package/%40aksp%2Fopencrew",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T13:57:49.561Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 75
+    },
+    {
       "name": "@alayrasystems/nexus",
       "version": "1.5.1",
       "description": "AI key pool proxy — route Claude, Gemini, GPT through one OpenAI-compatible endpoint",
@@ -1248,6 +1260,18 @@
       "createdAt": "2026-07-31T01:31:39.940Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 59
+    },
+    {
+      "name": "@astathedev/study-buddy",
+      "version": "1.0.0",
+      "description": "Mentor mode for AI coding tools: plans and teaches beginner software engineering students instead of writing solutions for them. Works with Claude Code, Cursor, Codex/AGENTS.md, and GitHub Copilot.",
+      "license": "MIT",
+      "repository": "https://github.com/invictusdhahri/study-buddy",
+      "npmUrl": "https://www.npmjs.com/package/%40astathedev%2Fstudy-buddy",
+      "category": "utilities",
+      "createdAt": "2026-08-01T14:04:39.428Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 71
     },
     {
       "name": "@atoapayments/agent-pay",
@@ -4586,6 +4610,18 @@
       "score": 67
     },
     {
+      "name": "@gengirish/skills-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that lets any AI agent discover, search, and install agent skills from across the GitHub ecosystem (Anthropic, Superpowers, wshobson, antigravity, Composio, and 9,000+ more).",
+      "license": "MIT",
+      "repository": "https://github.com/gengirish/skills-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40gengirish%2Fskills-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T14:10:26.970Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 96
+    },
+    {
       "name": "@georgedong32/pi-review",
       "version": "0.3.1",
       "description": "Pi extension for fan-out code review: N parallel reviewer subagents + a cheap-model gate",
@@ -5954,6 +5990,18 @@
       "score": 70
     },
     {
+      "name": "@heysalad/junoguard",
+      "version": "0.1.0",
+      "description": "Supervision for AI coding agents — scan every package before it installs, cap what your agent spends. MCP server + CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/cosmicoral/TokenGuard",
+      "npmUrl": "https://www.npmjs.com/package/%40heysalad%2Fjunoguard",
+      "category": "backend",
+      "createdAt": "2026-08-01T13:55:49.525Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 72
+    },
+    {
       "name": "@himynameisdave/oxlint-config",
       "version": "1.0.0",
       "description": "An opinionated oxlint config, by and for himynameisdave.",
@@ -6242,6 +6290,18 @@
       "score": 73
     },
     {
+      "name": "@iamnishankhan/opencode-kit",
+      "version": "1.0.0",
+      "description": "OpenCode kit with agents, skills, and commands",
+      "license": "MIT",
+      "repository": "https://github.com/iamnishankhan/opencode-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40iamnishankhan%2Fopencode-kit",
+      "category": "cli",
+      "createdAt": "2026-08-01T13:07:40.652Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 74
+    },
+    {
       "name": "@idle-runner/react",
       "version": "1.1.0",
       "description": "React hooks for @idle-runner/core — defer and time-slice non-urgent work on the main thread.",
@@ -6324,6 +6384,66 @@
       "createdAt": "2026-07-30T14:37:35.609Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 75
+    },
+    {
+      "name": "@ilomee/aura-angular",
+      "version": "1.0.0",
+      "description": "Aura Design System — Angular component library (standalone primitives, layout, recipes) built on @ilomee/aura-core tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/ilomee/aura",
+      "npmUrl": "https://www.npmjs.com/package/%40ilomee%2Faura-angular",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:06:20.763Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 82
+    },
+    {
+      "name": "@ilomee/aura-core",
+      "version": "1.0.0",
+      "description": "Aura Design System core — design tokens (CSS variables, JS tokens), base component styles, class builders, component contracts, and headless DOM behaviour (focus trap, positioning, dismiss, scroll lock)",
+      "license": "MIT",
+      "repository": "https://github.com/ilomee/aura",
+      "npmUrl": "https://www.npmjs.com/package/%40ilomee%2Faura-core",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:06:20.734Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 87
+    },
+    {
+      "name": "@ilomee/aura-react",
+      "version": "1.0.0",
+      "description": "Aura Design System — React 19 component library (primitives, layout, recipes) built on @ilomee/aura-core tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/ilomee/aura",
+      "npmUrl": "https://www.npmjs.com/package/%40ilomee%2Faura-react",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:06:20.820Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 81
+    },
+    {
+      "name": "@ilomee/aura-svelte",
+      "version": "1.0.0",
+      "description": "Aura Design System — Svelte 5 component library (primitives, layout, recipes) built on @ilomee/aura-core tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/ilomee/aura",
+      "npmUrl": "https://www.npmjs.com/package/%40ilomee%2Faura-svelte",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:06:20.698Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 81
+    },
+    {
+      "name": "@ilomee/aura-vue",
+      "version": "1.0.0",
+      "description": "Aura Design System — Vue 3 component library (primitives, layout, recipes) built on @ilomee/aura-core tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/ilomee/aura",
+      "npmUrl": "https://www.npmjs.com/package/%40ilomee%2Faura-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:06:20.704Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 80
     },
     {
       "name": "@incorta/overlay-db",
@@ -7140,6 +7260,18 @@
       "createdAt": "2026-07-27T15:36:50.312Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 73
+    },
+    {
+      "name": "@legenki/print2medusa",
+      "version": "0.2.0",
+      "description": "Printful → Medusa v2 plugin: product sync, auto fulfillment, and admin tools",
+      "license": "MIT",
+      "repository": "https://github.com/legenki/print2medusa",
+      "npmUrl": "https://www.npmjs.com/package/%40legenki%2Fprint2medusa",
+      "category": "utilities",
+      "createdAt": "2026-07-30T05:40:01.998Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 74
     },
     {
       "name": "@leo-cmp/l-nexus",
@@ -8184,6 +8316,18 @@
       "createdAt": "2026-07-26T01:25:41.211Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 73
+    },
+    {
+      "name": "@myida/sdk",
+      "version": "1.0.0",
+      "description": "TypeScript SDK for the IDA decentralized identity platform — mint DIDs, provision AI agents, issue W3C Verifiable Credentials, record trust signals, and anchor ZK proofs on the ADI blockchain.",
+      "license": "MIT",
+      "repository": "https://github.com/myida/ida-core",
+      "npmUrl": "https://www.npmjs.com/package/%40myida%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-01T13:31:13.840Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 99
     },
     {
       "name": "@mythicalos/telemetry",
@@ -11558,6 +11702,18 @@
       "score": 98
     },
     {
+      "name": "@sunerpy/oh-my-openagent",
+      "version": "4.20.0",
+      "description": "Modified fork of oh-my-openagent (code-yeongyu/oh-my-openagent). Fixes the todo-continuation-enforcer so real tool progress lifts the continuation block. See FORK-NOTICE.md.",
+      "license": "SUL-1.0",
+      "repository": "https://github.com/sunerpy/oh-my-openagent",
+      "npmUrl": "https://www.npmjs.com/package/%40sunerpy%2Foh-my-openagent",
+      "category": "utilities",
+      "createdAt": "2026-08-01T14:14:36.962Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 91
+    },
+    {
       "name": "@superbased/opencode-plugin",
       "version": "1.27.0",
       "description": "SuperBased Observer for OpenCode — registers the local observer MCP server (token, cost and cache observability). Requires the `observer` binary already on your PATH (npm i -g @superbased/observer, or pipx install superbased-observer) — this package is wi",
@@ -13872,6 +14028,18 @@
       "createdAt": "2026-07-29T21:00:43.118Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 70
+    },
+    {
+      "name": "agent-rack",
+      "version": "0.1.1",
+      "description": "Model Context Protocol (MCP) Server for running agy, claude, opencode, and CLI AI coding agents as tools",
+      "license": "MIT",
+      "repository": "https://github.com/lakpriya1s/agent-rack",
+      "npmUrl": "https://www.npmjs.com/package/agent-rack",
+      "category": "backend",
+      "createdAt": "2026-08-01T14:33:51.918Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 72
     },
     {
       "name": "agent-sanitizer",
@@ -17030,6 +17198,18 @@
       "score": 79
     },
     {
+      "name": "fca-riyad",
+      "version": "37.0.0",
+      "description": "Facebook Chat API - Modified by Riyad | Stable, Auto Re-login, Fixed setMessageReaction",
+      "license": "MIT",
+      "repository": "https://github.com/Riyad/fca-riyad",
+      "npmUrl": "https://www.npmjs.com/package/fca-riyad",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:22:03.817Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 86
+    },
+    {
       "name": "fcestimator",
       "version": "0.1.0",
       "description": "FCEstimator — a scalable, customizable project cost estimator widget for React. Configure any set of services, fields, and pricing formulas (with variables, conditionals, and dependencies) and drop it into any site.",
@@ -17112,6 +17292,18 @@
       "createdAt": "2026-07-31T10:49:31.837Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 83
+    },
+    {
+      "name": "figloom-verify",
+      "version": "0.0.1",
+      "description": "CLI-first Figma-to-web and web-to-web visual verification with stable capture and artifact-based done gates.",
+      "license": "MIT",
+      "repository": "https://github.com/hungify/figloom",
+      "npmUrl": "https://www.npmjs.com/package/figloom-verify",
+      "category": "testing",
+      "createdAt": "2026-08-01T13:17:41.243Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 72
     },
     {
       "name": "figma-design-bridge",
@@ -18996,6 +19188,18 @@
       "createdAt": "2026-07-25T22:30:10.749Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 53
+    },
+    {
+      "name": "localfit",
+      "version": "0.1.0",
+      "description": "The decision layer for in-browser AI: given a model id, tells you if this browser can run it, over which backend, which quant variant, and exactly how many bytes it will download.",
+      "license": "MIT",
+      "repository": "https://github.com/ansumanshah/localfit",
+      "npmUrl": "https://www.npmjs.com/package/localfit",
+      "category": "frontend",
+      "createdAt": "2026-08-01T13:45:13.441Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 75
     },
     {
       "name": "locus-code-mcp",
@@ -21314,6 +21518,18 @@
       "score": 69
     },
     {
+      "name": "pi-fabric-role-router",
+      "version": "0.4.0",
+      "description": "Centralized role-based model, thinking, and tool routing for Pi Fabric",
+      "license": "MIT",
+      "repository": "https://github.com/hazrid93/pi-fabric-role-router",
+      "npmUrl": "https://www.npmjs.com/package/pi-fabric-role-router",
+      "category": "utilities",
+      "createdAt": "2026-08-01T13:34:27.430Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 73
+    },
+    {
       "name": "pi-glean",
       "version": "0.1.0",
       "description": "Zero-config web search and URL fetching for pi — works with no API keys, and uses your ChatGPT Plus/Pro or xAI subscription for higher-quality answers when available. Plus GitHub repos, PDFs, YouTube, and video frames.",
@@ -21446,6 +21662,18 @@
       "score": 85
     },
     {
+      "name": "pi-worktree-extension",
+      "version": "1.0.0",
+      "description": "Managed Git worktrees and session transitions for Pi",
+      "license": "MIT",
+      "repository": "https://github.com/AjayPoshak/pi-worktree-extension",
+      "npmUrl": "https://www.npmjs.com/package/pi-worktree-extension",
+      "category": "utilities",
+      "createdAt": "2026-08-01T14:15:17.341Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 73
+    },
+    {
       "name": "picassoweb",
       "version": "0.8.0",
       "description": "PicassoWeb — MCP server that turns any website into a faithful replication kit: design tokens, real assets, animations, layout trees, section clones, screenshots, and pixel-diff verification.",
@@ -21552,6 +21780,18 @@
       "createdAt": "2026-07-28T13:32:26.717Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 79
+    },
+    {
+      "name": "playwright-audio-mocking",
+      "version": "0.1.1",
+      "description": "Stream arbitrary audio files into getUserMedia() microphone input from Playwright. Works on Chromium, Firefox and WebKit, with runtime play/pause/stop/loop control.",
+      "license": "MIT",
+      "repository": "https://github.com/tsuemura/playwright-audio-mocking",
+      "npmUrl": "https://www.npmjs.com/package/playwright-audio-mocking",
+      "category": "testing",
+      "createdAt": "2026-08-01T13:06:18.691Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 78
     },
     {
       "name": "playwright-flow-recorder",
@@ -22104,6 +22344,18 @@
       "createdAt": "2026-07-26T20:23:35.063Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 65
+    },
+    {
+      "name": "react-easy-captcha",
+      "version": "1.2.0",
+      "description": "First-party image CAPTCHA for React: typed EasyCaptcha widget plus Node challenge issue/verify with pluggable storage. No third-party CAPTCHA provider.",
+      "license": "MIT",
+      "repository": "https://github.com/DonMohsen/react-easy-captcha",
+      "npmUrl": "https://www.npmjs.com/package/react-easy-captcha",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:31:47.229Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 84
     },
     {
       "name": "react-geo-data",
@@ -22838,6 +23090,18 @@
       "score": 80
     },
     {
+      "name": "rtifact",
+      "version": "1.0.0",
+      "description": "Turn agent-authored JSX into portable, interactive HTML artifacts.",
+      "license": "MIT",
+      "repository": "https://github.com/sirawats/rtifact",
+      "npmUrl": "https://www.npmjs.com/package/rtifact",
+      "category": "frontend",
+      "createdAt": "2026-08-01T14:47:32.209Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 82
+    },
+    {
       "name": "rtl-for-claude",
       "version": "1.4.0",
       "description": "Right-to-left text (Persian, Arabic, Urdu, Hebrew …) and the Vazirmatn font in the Claude Desktop app and the Claude Code / Codex chats. One command, 100% local, fully reversible.",
@@ -22910,6 +23174,18 @@
       "score": 79
     },
     {
+      "name": "sanity-plugin-sgntech-footnotes",
+      "version": "1.0.0",
+      "description": "Footnotes and sources for Sanity Studio — mark a passage, write the note; numbering is derived from the text, so it never drifts. Ships a React renderer with a linked list and backlinks.",
+      "license": "MIT",
+      "repository": "https://github.com/netz-sg/sanity-plugin-sgntech-footnotes",
+      "npmUrl": "https://www.npmjs.com/package/sanity-plugin-sgntech-footnotes",
+      "category": "frontend",
+      "createdAt": "2026-08-01T13:08:17.885Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 84
+    },
+    {
       "name": "sanity-plugin-sgntech-gallery",
       "version": "1.0.0",
       "description": "Image galleries as a Portable Text block for Sanity Studio — grid or carousel, fed from the Sanity Media Library, with a design-agnostic React renderer.",
@@ -22932,6 +23208,18 @@
       "createdAt": "2026-08-01T08:32:11.485Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 69
+    },
+    {
+      "name": "sanity-plugin-sgntech-release",
+      "version": "1.0.0",
+      "description": "Album, EP and single blocks for Sanity Studio — cover, facts and tracklist inside an article, with placeholders for tracks that have not been announced yet.",
+      "license": "MIT",
+      "repository": "https://github.com/netz-sg/sanity-plugin-sgntech-release",
+      "npmUrl": "https://www.npmjs.com/package/sanity-plugin-sgntech-release",
+      "category": "utilities",
+      "createdAt": "2026-08-01T14:39:41.678Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 86
     },
     {
       "name": "sarwa-tools",
@@ -23364,6 +23652,18 @@
       "createdAt": "2026-07-30T09:32:18.418Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 73
+    },
+    {
+      "name": "signalk-dmi",
+      "version": "0.6.0",
+      "description": "Signal K plugin that ingests DMI (Danish Meteorological Institute) free open data — HARMONIE forecasts, met observations, WAM waves, DKSS ocean (sea level, current, water temperature) — into Signal K paths and the v2 Weather API. Authoritative Danish met/",
+      "license": "MIT",
+      "repository": "https://github.com/dennismilton/signalk-dmi",
+      "npmUrl": "https://www.npmjs.com/package/signalk-dmi",
+      "category": "backend",
+      "createdAt": "2026-08-01T13:47:07.115Z",
+      "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 88
     },
     {
       "name": "signalk-performance-monitor",
