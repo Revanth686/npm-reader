@@ -2462,6 +2462,18 @@
       "score": 58
     },
     {
+      "name": "@cniackz/mnemo",
+      "version": "0.1.1",
+      "description": "Portable, open memory for AI agents. Plain Markdown files you own, readable by any agent.",
+      "license": "MIT",
+      "repository": "https://github.com/cniackz/mnemo",
+      "npmUrl": "https://www.npmjs.com/package/%40cniackz%2Fmnemo",
+      "category": "utilities",
+      "createdAt": "2026-08-01T14:21:46.702Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 59
+    },
+    {
       "name": "@cocoapuffs813/ecc-universal",
       "version": "2.0.0",
       "description": "Harness-native agent operating system for Codex, OpenCode, Cursor, Gemini, Claude Code, and terminal workflows - skills, hooks, rules, MCP conventions, and operator control-plane patterns",
@@ -5030,6 +5042,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/deposit",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Deposit (build etherscan-deposit-91204550-1785601706310, commit 3475c8d, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/deposit",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdeposit",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T16:28:47.993Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/dodocp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DODOCp (build etherscan-dodocp-048b8926-1785062302827, commit 483d46a, branch etherscan)",
@@ -5232,6 +5256,18 @@
       "createdAt": "2026-07-27T23:53:58.510Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/legionpreliquidsale",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LegionPreLiquidSale (build etherscan-legionpreliquidsale-053d22b5-1785600376186, commit 90e34bf, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/legionpreliquidsale",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flegionpreliquidsale",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T16:06:38.614Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 59
     },
     {
       "name": "@gitmyabi/liquidityconnector",
@@ -6518,6 +6554,30 @@
       "score": 80
     },
     {
+      "name": "@imqueue/datadog",
+      "version": "3.2.0",
+      "description": "Datadog APM tracing for @imqueue microservices — an unofficial community integration that drop-in replaces Datadog's own dd-trace package and traces every RPC",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/imqueue/datadog",
+      "npmUrl": "https://www.npmjs.com/package/%40imqueue%2Fdatadog",
+      "category": "data",
+      "createdAt": "2026-08-01T16:25:59.455Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 73
+    },
+    {
+      "name": "@imqueue/pg-sequelize",
+      "version": "4.2.0",
+      "description": "Sequelize/Postgres toolkit for @imqueue microservices — turns a query described as data (filters, paging, ordering, fields) into one efficient statement, plus database views as models and the Postgres index options Sequelize cannot express",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/imqueue/pg-sequelize",
+      "npmUrl": "https://www.npmjs.com/package/%40imqueue%2Fpg-sequelize",
+      "category": "backend",
+      "createdAt": "2026-08-01T16:25:36.482Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 74
+    },
+    {
       "name": "@incorta/overlay-db",
       "version": "0.1.1",
       "description": "A PostgreSQL wire-protocol endpoint that serves reads from an upstream Postgres and keeps INSERT/UPDATE/DELETEs in a local, branchable Parquet overlay — merged into query results on the fly, never written back upstream.",
@@ -6576,6 +6636,18 @@
       "createdAt": "2026-08-01T15:31:44.312Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 48
+    },
+    {
+      "name": "@initorigin/io-cli",
+      "version": "0.1.1",
+      "description": "Give a coding agent a task in your terminal and watch it work. No account, no service — it runs on your machine against whichever model you point it at.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/initorigin/io-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40initorigin%2Fio-cli",
+      "category": "cli",
+      "createdAt": "2026-08-01T16:26:43.877Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 58
     },
     {
       "name": "@instush/mcp",
@@ -11186,6 +11258,18 @@
       "score": 57
     },
     {
+      "name": "@simpleworkjs/bao-conf",
+      "version": "1.0.1",
+      "description": "OpenBao/Vault KV-v2 secrets overlay for @simpleworkjs/conf — deep-merge boot secrets from OpenBao over the sync-loaded config object.",
+      "license": "MIT",
+      "repository": "https://github.com/simpleworkjs/bao-conf",
+      "npmUrl": "https://www.npmjs.com/package/%40simpleworkjs%2Fbao-conf",
+      "category": "utilities",
+      "createdAt": "2026-08-01T16:08:07.168Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 80
+    },
+    {
       "name": "@simpleworkjs/directory-schema",
       "version": "1.0.0",
       "description": "The shared sso<->client directory contract: resource kinds, metadata convention keys, the { results } envelope, the security projection (strips secrets), and a thin discovery HTTP client. Consumed by sso-manager-node (projection + schema) and jump-host (c",
@@ -11496,6 +11580,18 @@
       "createdAt": "2026-07-26T09:26:28.002Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 74
+    },
+    {
+      "name": "@soterai/mcp-gateway",
+      "version": "0.2.0",
+      "description": "SoterAI MCP Gateway — inline MCP enforcement proxy with policy-based tool-call interception, approval workflow, and result secret-scanning. Zero-dependency, works with any MCP-aware AI stack.",
+      "license": "MIT",
+      "repository": "https://github.com/yashchauhan66/Soter-AI",
+      "npmUrl": "https://www.npmjs.com/package/%40soterai%2Fmcp-gateway",
+      "category": "utilities",
+      "createdAt": "2026-08-01T16:29:31.092Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 75
     },
     {
       "name": "@soulfiremc/sdk",
@@ -12660,6 +12756,30 @@
       "createdAt": "2026-07-25T19:43:42.641Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 54
+    },
+    {
+      "name": "@uchit/agentcheck",
+      "version": "0.1.0",
+      "description": "Produce an evidence pack for an agent deployment. Separates what a human declared from what a command verified, and refuses to give you a score.",
+      "license": "MIT",
+      "repository": "https://github.com/uchit/agentcheck",
+      "npmUrl": "https://www.npmjs.com/package/%40uchit%2Fagentcheck",
+      "category": "devops",
+      "createdAt": "2026-08-01T16:15:27.644Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 62
+    },
+    {
+      "name": "@uiverify/vitest",
+      "version": "1.0.0",
+      "description": "Vitest browser-mode capture SDK for UI Verify (uiverify.ai): add uiverifyPlugin() to your Vitest config and each browser-mode test archives its final DOM (serialized DOM + resource bytes) to be replayed + visually diffed by UI Verify. Produces an archive",
+      "license": "MIT",
+      "repository": "https://github.com/uiverify/uiverify",
+      "npmUrl": "https://www.npmjs.com/package/%40uiverify%2Fvitest",
+      "category": "testing",
+      "createdAt": "2026-07-31T21:17:32.209Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 65
     },
     {
       "name": "@umg0/umg0",
@@ -14594,6 +14714,18 @@
       "score": 88
     },
     {
+      "name": "aronnax-ui",
+      "version": "0.1.0",
+      "description": "A Tailwind CSS v4 design system: semantic light/dark tokens, component classes, and vanilla-JS behaviors driven by data attributes. Framework-agnostic (Rails, plain HTML, or any JS toolchain).",
+      "license": "MIT",
+      "repository": "https://github.com/AronnaxSpace/aronnax-ui",
+      "npmUrl": "https://www.npmjs.com/package/aronnax-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-01T16:46:59.669Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 89
+    },
+    {
       "name": "artefactby-ozon-seller-api",
       "version": "0.1.0",
       "description": "Unofficial typed TypeScript client for the Ozon Seller API. Zero runtime dependencies.",
@@ -14688,6 +14820,18 @@
       "createdAt": "2026-07-27T21:49:27.855Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 90
+    },
+    {
+      "name": "asuka.pi",
+      "version": "0.0.1",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/Asukadaisiki/pi",
+      "npmUrl": "https://www.npmjs.com/package/asuka.pi",
+      "category": "cli",
+      "createdAt": "2026-08-01T16:24:27.081Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 69
     },
     {
       "name": "async-combinators",
@@ -15338,6 +15482,18 @@
       "score": 59
     },
     {
+      "name": "cardano-tessera-respond",
+      "version": "0.1.0",
+      "description": "The embeddable <tessera-respond> custom element: renders the CIP-179 answering UI from a survey definition + responder identity, validates and (for sealed surveys) timelock-encrypts in-widget, and emits a ready-to-attach label-17 payload back to the host.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mpizenberg/Tessera",
+      "npmUrl": "https://www.npmjs.com/package/cardano-tessera-respond",
+      "category": "devops",
+      "createdAt": "2026-08-01T16:32:44.032Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 84
+    },
+    {
       "name": "cardily",
       "version": "0.5.0",
       "description": "Virtual Visa cards for AI agents — pay USDC or HBAR on Hedera, get a card in ~60s",
@@ -15900,6 +16056,18 @@
       "createdAt": "2026-07-29T15:45:32.651Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 84
+    },
+    {
+      "name": "code-observatory",
+      "version": "0.1.1",
+      "description": "Local-first workflow observatory that renders coding-agent-authored .observatory workflow files as an interactive canvas.",
+      "license": "MIT",
+      "repository": "https://github.com/WinterArc21/HQ",
+      "npmUrl": "https://www.npmjs.com/package/code-observatory",
+      "category": "cli",
+      "createdAt": "2026-07-30T13:31:33.639Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 68
     },
     {
       "name": "code-preview-element",
@@ -17306,6 +17474,18 @@
       "score": 68
     },
     {
+      "name": "expo-vicall-call-manager",
+      "version": "0.2.0",
+      "description": "Expo module for native VoIP calls and system Picture-in-Picture on iOS and Android",
+      "license": "MIT",
+      "repository": "https://github.com/ngocdevv/expo-vicall-call-manager",
+      "npmUrl": "https://www.npmjs.com/package/expo-vicall-call-manager",
+      "category": "frontend",
+      "createdAt": "2026-07-29T10:22:30.498Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 74
+    },
+    {
       "name": "express-audit",
       "version": "0.1.1",
       "description": "Deterministic security and production readiness auditor for Express.js applications.",
@@ -17652,6 +17832,18 @@
       "createdAt": "2026-07-27T11:11:50.882Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 88
+    },
+    {
+      "name": "football-bingo-api",
+      "version": "1.0.0",
+      "description": "Football Bingo API",
+      "license": "ISC",
+      "repository": "https://github.com/Nimisoere/football-bingo-api",
+      "npmUrl": "https://www.npmjs.com/package/football-bingo-api",
+      "category": "backend",
+      "createdAt": "2026-08-01T16:50:00.489Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 58
     },
     {
       "name": "forgedoc",
@@ -18182,6 +18374,18 @@
       "score": 79
     },
     {
+      "name": "har-forensics-mcp",
+      "version": "0.1.0",
+      "description": "Audit a .har capture from your editor: third-party blast radius, leaked credentials, JWT forensics, CSP generation, and redaction. Reads local files, makes no network calls.",
+      "license": "MIT",
+      "repository": "https://github.com/aryanspv/har-forensics-mcp",
+      "npmUrl": "https://www.npmjs.com/package/har-forensics-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-01T16:13:44.287Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 62
+    },
+    {
       "name": "hardyscript",
       "version": "1.5.1",
       "description": "HardyScript: JavaScript/TypeScript → COUNPRE64 / ESP32 / Arduino / STM32 / Raspberry Pi unified hardware programming compiler",
@@ -18336,6 +18540,18 @@
       "createdAt": "2026-07-30T12:55:39.123Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 78
+    },
+    {
+      "name": "hermes-compose",
+      "version": "0.1.1",
+      "description": "Strict task-scoped Docker Compose lifecycle provider for Hermes",
+      "license": "ISC",
+      "repository": "https://github.com/kaspernj/hermes-compose",
+      "npmUrl": "https://www.npmjs.com/package/hermes-compose",
+      "category": "devops",
+      "createdAt": "2026-07-29T19:18:47.392Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 61
     },
     {
       "name": "hexo-theme-tranquility",
@@ -21518,6 +21734,18 @@
       "score": 70
     },
     {
+      "name": "paperclip-plugin-slack-socket",
+      "version": "0.1.1",
+      "description": "Slack Socket Mode plugin for Paperclip: agent chat, notifications, approvals, ask-human tool. No public URL required.",
+      "license": "MIT",
+      "repository": "https://github.com/0xCVH/paperclip-plugin-slack-socket",
+      "npmUrl": "https://www.npmjs.com/package/paperclip-plugin-slack-socket",
+      "category": "cli",
+      "createdAt": "2026-08-01T13:11:35.743Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 61
+    },
+    {
       "name": "paperpony",
       "version": "0.1.0",
       "description": "Official JavaScript and TypeScript SDK for the PaperPony API: render PDFs from HTML or stored templates, and read the jobs they produce.",
@@ -21564,6 +21792,18 @@
       "createdAt": "2026-07-30T19:19:45.029Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 83
+    },
+    {
+      "name": "pdf-codec",
+      "version": "1.0.0",
+      "description": "Hand-written, dependency-minimal PDF codec: parses arbitrary real-world PDFs and generates new ones, built on document-content-model's LayoutDocument pivot and Zod 4 codecs.",
+      "license": "MIT",
+      "repository": "https://github.com/ExaDev/pdf-codec",
+      "npmUrl": "https://www.npmjs.com/package/pdf-codec",
+      "category": "utilities",
+      "createdAt": "2026-08-01T13:47:40.510Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 93
     },
     {
       "name": "pdfkernel",
@@ -24074,6 +24314,18 @@
       "score": 70
     },
     {
+      "name": "smooth-stream-text",
+      "version": "0.1.1",
+      "description": "Smooth out bursty LLM text streams and reveal them as a left-to-right wave. Headless core with zero dependencies, plus React, Vue, Svelte and Web Component wrappers.",
+      "license": "MIT",
+      "repository": "https://github.com/crmapache/smooth-stream-text",
+      "npmUrl": "https://www.npmjs.com/package/smooth-stream-text",
+      "category": "frontend",
+      "createdAt": "2026-08-01T16:36:56.230Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 86
+    },
+    {
       "name": "sntnl-cli",
       "version": "4.0.0",
       "description": "Sentinel Security Intelligence — SAST, supply chain, threat intel, and Skills/MCP for AI coding agents.",
@@ -24144,6 +24396,18 @@
       "createdAt": "2026-07-28T02:16:54.085Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 68
+    },
+    {
+      "name": "soter-pii",
+      "version": "1.1.0",
+      "description": "Lightweight, zero-dependency PII & secret redactor. Luhn/Verhoeff checksum validation, ReDoS-safe, deterministic regex-based detection for emails, phones, cards, secrets, API keys, and more. Sponsored by SoterAI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/yashchauhan66/Soter-AI",
+      "npmUrl": "https://www.npmjs.com/package/soter-pii",
+      "category": "backend",
+      "createdAt": "2026-08-01T16:25:35.791Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 81
     },
     {
       "name": "spec-init",
@@ -24612,6 +24876,18 @@
       "createdAt": "2026-07-26T12:23:30.547Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 70
+    },
+    {
+      "name": "tbl-ai-code-review",
+      "version": "1.0.1",
+      "description": "Reusable AI code-review workflow for Java repos — installs the .ai-review package and a /review slash command for VS Code Copilot Chat (context → review skills → impact analysis → unit tests → JaCoCo coverage gate → Vietnamese report)",
+      "license": "MIT",
+      "repository": "https://github.com/tblong2105/tbl-ai-code-review",
+      "npmUrl": "https://www.npmjs.com/package/tbl-ai-code-review",
+      "category": "testing",
+      "createdAt": "2026-08-01T16:04:05.379Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 64
     },
     {
       "name": "teamcodex",
@@ -25346,6 +25622,18 @@
       "score": 71
     },
     {
+      "name": "use-preload-images",
+      "version": "0.1.1",
+      "description": "Preload and decode images before your app renders — progress bar included. The asset loader React never shipped.",
+      "license": "MIT",
+      "repository": "https://github.com/jasmeetsidhu02/UsePreloadImages",
+      "npmUrl": "https://www.npmjs.com/package/use-preload-images",
+      "category": "frontend",
+      "createdAt": "2026-08-01T16:27:43.980Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 62
+    },
+    {
       "name": "usertrust-acs-adapter",
       "version": "1.5.0",
       "description": "ACS/AGT composite-evaluator adapter: external policy decides, the usertrust ledger reserves",
@@ -26028,6 +26316,18 @@
       "createdAt": "2026-07-29T13:32:52.079Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 84
+    },
+    {
+      "name": "whats-loaded-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that shows what is consuming your agent's context window before the conversation starts — skill descriptions, memory files and their imports, and configured MCP servers — ranked, with duplicates called out.",
+      "license": "MIT",
+      "repository": "https://github.com/stcmain/whats-loaded-mcp",
+      "npmUrl": "https://www.npmjs.com/package/whats-loaded-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T16:31:12.337Z",
+      "discoveredAt": "2026-08-01T16:52:11.362Z",
+      "score": 76
     },
     {
       "name": "whats-running-mcp",
