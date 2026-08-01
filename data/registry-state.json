@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122758417,
-  "lastRunAt": "2026-08-01T16:52:11.362Z",
+  "lastSequence": 122762575,
+  "lastRunAt": "2026-08-01T17:46:24.569Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@aibo666/ebo-publish-check",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@kaidn/mcp",
+      "name": "@vantageos/corpus",
+      "attempts": 1
+    },
+    {
+      "name": "@sentinel-ai-sdk/agent",
       "attempts": 1
     }
   ]
