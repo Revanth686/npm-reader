@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122680656,
-  "lastRunAt": "2026-07-31T23:04:18.047Z",
+  "lastSequence": 122694652,
+  "lastRunAt": "2026-08-01T02:02:35.924Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@codincod/codemirror-lang-perl",
+      "name": "@mdbase-dev/connect",
+      "attempts": 1
+    },
+    {
+      "name": "@mdbase-dev/connect-dev",
+      "attempts": 1
+    },
+    {
+      "name": "@mdbase-dev/connect-sync",
+      "attempts": 1
+    },
+    {
+      "name": "@mdbase-dev/pickle",
+      "attempts": 1
+    },
+    {
+      "name": "@mdbase-dev/connect-webhooks",
       "attempts": 1
     }
   ]

@@ -1238,6 +1238,18 @@
       "score": 84
     },
     {
+      "name": "@authowl/core",
+      "version": "0.10.0",
+      "description": "Framework-agnostic client for AuthOwl, the multi-tenant auth SaaS.",
+      "license": "MIT",
+      "repository": "https://github.com/mstfash/authowl-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40authowl%2Fcore",
+      "category": "cli",
+      "createdAt": "2026-07-31T23:21:43.588Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 61
+    },
+    {
       "name": "@automacene/stegodata",
       "version": "1.0.0",
       "description": "Language-agnostic protocol for embedding structured steganographic memory into unstructured files—turning documents, images, and media into self-contained, context-aware containers for AI pipelines.",
@@ -1898,6 +1910,18 @@
       "score": 96
     },
     {
+      "name": "@bysking/vv-switch",
+      "version": "0.0.1",
+      "description": "js实现的claude和codex的大模型转发代理工具，支持供应商配置，支持可视化日志查看",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/bysking/vv-switch",
+      "npmUrl": "https://www.npmjs.com/package/%40bysking%2Fvv-switch",
+      "category": "backend",
+      "createdAt": "2026-08-01T01:52:43.363Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 68
+    },
+    {
       "name": "@caldera18/smartfetch",
       "version": "1.0.1",
       "description": "A resilient fetch wrapper with interceptors, retries, and timeouts",
@@ -1920,6 +1944,18 @@
       "createdAt": "2026-07-25T15:34:44.551Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 81
+    },
+    {
+      "name": "@camoseed/evm-elf",
+      "version": "1.0.0",
+      "description": "Multi-chain EVM CLI for wallets and contracts",
+      "license": "MIT",
+      "repository": "https://github.com/galekseev/evm-elf",
+      "npmUrl": "https://www.npmjs.com/package/%40camoseed%2Fevm-elf",
+      "category": "cli",
+      "createdAt": "2026-07-31T23:09:39.764Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 78
     },
     {
       "name": "@capacitor/contacts",
@@ -2076,6 +2112,18 @@
       "createdAt": "2026-07-31T21:30:08.071Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 78
+    },
+    {
+      "name": "@chestnutlabs/gcode-renderer-2d",
+      "version": "0.4.0",
+      "description": "Low-resource Canvas 2D layer renderer for the Chestnut Labs G-code viewer (DD-014 / E8): an opt-in current/adjacent-layer 2D view over the existing ToolpathIR for low-GPU/low-memory/WebGL-blocked devices. No three, no framework.",
+      "license": "MIT",
+      "repository": "https://github.com/ChestnutLabs/gcode-preview",
+      "npmUrl": "https://www.npmjs.com/package/%40chestnutlabs%2Fgcode-renderer-2d",
+      "category": "utilities",
+      "createdAt": "2026-07-28T08:39:06.886Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 60
     },
     {
       "name": "@chibi.pl/nest-sequelize-db",
@@ -3612,6 +3660,18 @@
       "createdAt": "2026-07-26T12:53:53.359Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 70
+    },
+    {
+      "name": "@falzz1010/laravel-mcp-server",
+      "version": "1.0.0",
+      "description": "Secure MCP Server for Laravel development — AI-powered artisan commands, log inspection, and code management with 10-layer security",
+      "license": "MIT",
+      "repository": "https://github.com/Falzz1010/laravel-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40falzz1010%2Flaravel-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-01T01:22:42.034Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 93
     },
     {
       "name": "@feedlog/widget",
@@ -6758,6 +6818,18 @@
       "score": 70
     },
     {
+      "name": "@localize-work/i18next-backend",
+      "version": "0.9.0",
+      "description": "i18next backend plugin for localize.work — loads published translation JSON from the CDN and posts missing keys back to the API in development",
+      "license": "MIT",
+      "repository": "https://github.com/localize-work/localize-work-i18next-backend",
+      "npmUrl": "https://www.npmjs.com/package/%40localize-work%2Fi18next-backend",
+      "category": "backend",
+      "createdAt": "2026-07-31T23:04:50.420Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 64
+    },
+    {
       "name": "@lodado/personaut",
       "version": "0.3.0",
       "description": "Evidence-first behavioral testing CLI for running persona-based Playwright sessions from StudySpec files.",
@@ -8138,6 +8210,42 @@
       "score": 72
     },
     {
+      "name": "@openagentid/claude-agent",
+      "version": "0.1.0",
+      "description": "OpenAgent identity, capability control, and audit for the Claude Agent SDK — drop-in plugin that gives any Claude agent a verified did:oas:* identity, scoped credential access, and tamper-evident audit logging.",
+      "license": "Apache-2.0 OR MIT",
+      "repository": "https://github.com/OpenAgentID/openagent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40openagentid%2Fclaude-agent",
+      "category": "utilities",
+      "createdAt": "2026-08-01T01:49:02.721Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 68
+    },
+    {
+      "name": "@openagentid/mcp",
+      "version": "0.1.0",
+      "description": "OpenAgent middleware for the Model Context Protocol — adds OAS identity, Arsenal capability tokens, and AEGIS authorization to any MCP server in three lines.",
+      "license": "Apache-2.0 OR MIT",
+      "repository": "https://github.com/OpenAgentID/openagent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40openagentid%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T01:48:59.550Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 66
+    },
+    {
+      "name": "@openagentid/oas-vanilla",
+      "version": "1.0.0",
+      "description": "Zero-dependency, browser-native JavaScript SDK for the Open Agent Specification (OAS) identity standard",
+      "license": "MIT",
+      "repository": "https://github.com/openagent-id/oas-vanilla",
+      "npmUrl": "https://www.npmjs.com/package/%40openagentid%2Foas-vanilla",
+      "category": "frontend",
+      "createdAt": "2026-08-01T01:48:42.440Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 86
+    },
+    {
       "name": "@openparse/core",
       "version": "0.2.0",
       "description": "Open-source, LlamaParse-like document parsing for Node.js. Bring your own LLM key.",
@@ -8736,6 +8844,18 @@
       "createdAt": "2026-07-30T10:08:23.807Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 77
+    },
+    {
+      "name": "@prowl-ai/brandbook",
+      "version": "1.7.0",
+      "description": "Prowl's brand system as an agent plugin — operator voice, terminology, canonical product facts, and the Editorial Luxury design system with machine-readable tokens.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/PROWL-AI/prowl-brandbook",
+      "npmUrl": "https://www.npmjs.com/package/%40prowl-ai%2Fbrandbook",
+      "category": "utilities",
+      "createdAt": "2026-08-01T00:33:15.425Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 84
     },
     {
       "name": "@psychometric-fyi/career-intelligence",
@@ -9434,6 +9554,18 @@
       "score": 81
     },
     {
+      "name": "@reyanshgupta/ditto-cli",
+      "version": "0.3.3",
+      "description": "Switch between multiple Claude Code, Codex, opencode, and OMP accounts on one machine",
+      "license": "MIT",
+      "repository": "https://github.com/reyanshgupta/ditto-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40reyanshgupta%2Fditto-cli",
+      "category": "cli",
+      "createdAt": "2026-07-31T23:13:54.315Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 70
+    },
+    {
       "name": "@rhizomatics/signalk-delta-squelch-plugin",
       "version": "0.2.0",
       "description": "Rounds noisy SignalK values to their sensor's real precision and squelches deltas that don't change at that precision, cutting delta volume at the source for every consumer.",
@@ -9528,6 +9660,30 @@
       "createdAt": "2026-07-31T14:40:24.491Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 100
+    },
+    {
+      "name": "@runloop/reflex-cli",
+      "version": "0.1.0",
+      "description": "Terminal client for Reflex: browse and chat with agents, launch new ones, and connect this machine as a workstation agents can work on.",
+      "license": "MIT",
+      "repository": "https://github.com/runloopai/reflex-os",
+      "npmUrl": "https://www.npmjs.com/package/%40runloop%2Freflex-cli",
+      "category": "cli",
+      "createdAt": "2026-08-01T00:54:54.605Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 75
+    },
+    {
+      "name": "@runloop/reflex-client",
+      "version": "0.1.0",
+      "description": "Typed API client and live event stream for Reflex, authenticated with a personal API key.",
+      "license": "MIT",
+      "repository": "https://github.com/runloopai/reflex-os",
+      "npmUrl": "https://www.npmjs.com/package/%40runloop%2Freflex-client",
+      "category": "backend",
+      "createdAt": "2026-08-01T00:54:47.506Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 62
     },
     {
       "name": "@rxabdullah/xdi-fca",
@@ -9720,6 +9876,18 @@
       "createdAt": "2026-07-29T16:51:17.711Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 68
+    },
+    {
+      "name": "@seatlayer/server",
+      "version": "0.1.0",
+      "description": "Official Node.js server SDK for the SeatLayer reserved-seating API. Secret-key only — never ship this to a browser.",
+      "license": "MIT",
+      "repository": "https://github.com/seatlayer/seatlayer-node",
+      "npmUrl": "https://www.npmjs.com/package/%40seatlayer%2Fserver",
+      "category": "frontend",
+      "createdAt": "2026-08-01T01:35:41.660Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 74
     },
     {
       "name": "@sebamomann/plants-mcp",
@@ -10212,6 +10380,18 @@
       "createdAt": "2026-07-29T03:07:18.178Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 92
+    },
+    {
+      "name": "@snapgridjs/vue",
+      "version": "0.9.1",
+      "description": "Vue 3 grid-layout components built on dnd-kit — a react-grid-layout v2 alternative.",
+      "license": "MIT",
+      "repository": "https://github.com/eleung/snapgrid",
+      "npmUrl": "https://www.npmjs.com/package/%40snapgridjs%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-08-01T01:58:09.829Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 60
     },
     {
       "name": "@snowseo/beacon",
@@ -10802,6 +10982,18 @@
       "score": 85
     },
     {
+      "name": "@sylphx/citra",
+      "version": "4.1.2",
+      "description": "Citra — PDF evidence for agents (Sylphx). Local-first structured text, tables, OCR, visual evidence, citations via MCP/CLI/SDK. Package id transitional: @sylphx/pdf-reader-mcp.",
+      "license": "MIT",
+      "repository": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40sylphx%2Fcitra",
+      "category": "cli",
+      "createdAt": "2026-07-31T23:38:20.157Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 90
+    },
+    {
       "name": "@sylphx/lookout",
       "version": "0.1.1",
       "description": "Lookout — local-first web instrument for agents. Search, fetch, extract, cache with citeable excerpts. No required API key. SDK · CLI · MCP.",
@@ -10812,6 +11004,18 @@
       "createdAt": "2026-07-31T22:45:32.914Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 52
+    },
+    {
+      "name": "@sylphx/prism",
+      "version": "0.2.3",
+      "description": "Prism — local media router for agents (Sylphx). Sniff + delegate to Citra/Iris/Cue. One MCP call reads PDF, image, or video by sniffing format and delegating to Sylphx Reader siblings. (brand alias of @sylphx/smart-reader-mcp)",
+      "license": "MIT",
+      "repository": "https://github.com/SylphxAI/smart-reader-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40sylphx%2Fprism",
+      "category": "data",
+      "createdAt": "2026-07-31T23:36:52.019Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 80
     },
     {
       "name": "@system-as-code/cli",
@@ -12420,6 +12624,18 @@
       "createdAt": "2026-07-31T22:57:21.186Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 69
+    },
+    {
+      "name": "@zoijs/sanitize",
+      "version": "0.1.0",
+      "description": "Turn an untrusted HTML string into safe DOM nodes for Zoijs — allowlist-based, zero-dependency, reuses the core's URL/attribute guards. No JSX, no build step.",
+      "license": "MIT",
+      "repository": "https://github.com/Zoijs/zoijs",
+      "npmUrl": "https://www.npmjs.com/package/%40zoijs%2Fsanitize",
+      "category": "frontend",
+      "createdAt": "2026-08-01T01:27:10.051Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 63
     },
     {
       "name": "@zweiundeins/cashctrl-ts-sdk",
@@ -14448,6 +14664,18 @@
       "createdAt": "2026-07-26T19:47:14.952Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 71
+    },
+    {
+      "name": "codex-agent-view",
+      "version": "0.2.0",
+      "description": "Local read-only companion monitor for Codex parent tasks and subagents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JunhoYoon95/codex-agent-view",
+      "npmUrl": "https://www.npmjs.com/package/codex-agent-view",
+      "category": "utilities",
+      "createdAt": "2026-08-01T01:44:10.066Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 65
     },
     {
       "name": "codex-claude-bridge-feishu",
@@ -17186,6 +17414,18 @@
       "score": 100
     },
     {
+      "name": "kei-transaction",
+      "version": "0.1.0",
+      "description": "Real currencies and items for browser games. One install, no payment infrastructure.",
+      "license": "MIT",
+      "repository": "https://github.com/keicoin-org/kei-transaction",
+      "npmUrl": "https://www.npmjs.com/package/kei-transaction",
+      "category": "frontend",
+      "createdAt": "2026-08-01T00:19:32.831Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 78
+    },
+    {
       "name": "keiri-core",
       "version": "1.1.1",
       "description": "日本の給与・税・社会保険の計算ロジック（DOM非依存の純関数）。手取り・社会保険料・源泉徴収・住民税・ふるさと納税・iDeCo/小規模企業共済などの節税額・相続/贈与税ほか34種。公式の計算例・保険料額表と1銭まで照合したテスト付き。keiri-tools.com の計算エンジンそのもの。",
@@ -18674,6 +18914,18 @@
       "score": 85
     },
     {
+      "name": "n8n-nodes-workday-career-sites-api",
+      "version": "0.1.1",
+      "description": "Find the companies using Workday and every career site each one runs: tenant, datacenter, careers URL, direct jobs API URL, and live open-role count as structured items. Apify-backed n8n community node, pay-per-result, and usable as an AI agent tool.",
+      "license": "MIT",
+      "repository": "https://github.com/johnisanerd/n8n-nodes-workday-career-sites-api",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-workday-career-sites-api",
+      "category": "backend",
+      "createdAt": "2026-07-31T23:46:53.421Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 66
+    },
+    {
       "name": "n8n-nodes-workday-jobs-api",
       "version": "0.1.0",
       "description": "Get every job posting from any Workday careers site: titles, locations, posted dates, pay ranges, and apply URLs as structured items. Apify-backed n8n community node, pay-per-result, and usable as an AI agent tool.",
@@ -19044,6 +19296,18 @@
       "createdAt": "2026-07-29T07:05:50.093Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 77
+    },
+    {
+      "name": "ntee-valet",
+      "version": "0.1.1",
+      "description": "API-server companion for ntee-db — schema-defined caching, cache search, take-based rate limiting, and HTTP response caching, with Express and Fastify adapters",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nickooan/ntee-valet",
+      "npmUrl": "https://www.npmjs.com/package/ntee-valet",
+      "category": "backend",
+      "createdAt": "2026-08-01T01:28:12.922Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 85
     },
     {
       "name": "nvcalendar",
@@ -22634,6 +22898,18 @@
       "score": 79
     },
     {
+      "name": "tkntracker",
+      "version": "1.0.0",
+      "description": "Track AI tokens across Claude Code, Codex, Cursor, Grok, OpenCode & 20+ agents. Local-first dashboard. One command: tkntracker web",
+      "license": "MIT",
+      "repository": "https://github.com/junaiddshaukat/tkntracker",
+      "npmUrl": "https://www.npmjs.com/package/tkntracker",
+      "category": "cli",
+      "createdAt": "2026-08-01T00:04:37.185Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 92
+    },
+    {
       "name": "tlvdemux",
       "version": "0.1.0",
       "description": "ARIB MMT/TLV demultiplexer for browsers, workers, and Node.js",
@@ -22824,6 +23100,18 @@
       "createdAt": "2026-07-27T19:43:57.612Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 82
+    },
+    {
+      "name": "trippy-mcp",
+      "version": "0.1.1",
+      "description": "Trippy MCP — let AI agents (Claude Code, Codex, Cursor) launch and trade tokens on Injective: SHROOM Pad bonding curves + any-token swaps through the Choice aggregator. Non-custodial: the key is generated and stays on your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/danvaneijck/trippy-mcp",
+      "npmUrl": "https://www.npmjs.com/package/trippy-mcp",
+      "category": "utilities",
+      "createdAt": "2026-07-31T23:20:02.780Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 69
     },
     {
       "name": "trust-verify",
@@ -23316,6 +23604,18 @@
       "createdAt": "2026-07-29T21:21:06.253Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 52
+    },
+    {
+      "name": "vite-plugin-favicon-pwa",
+      "version": "1.0.0",
+      "description": "Vite plugin that generates favicons, Apple touch icons, PWA icons, and a web app manifest from one SVG.",
+      "license": "MIT",
+      "repository": "https://github.com/cpswsg/vite-plugin-favicon-pwa",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-favicon-pwa",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T00:26:49.736Z",
+      "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 90
     },
     {
       "name": "vite-plugin-grundlage",
