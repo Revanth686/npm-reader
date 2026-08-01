@@ -458,6 +458,18 @@
       "score": 69
     },
     {
+      "name": "@aiosbrain/aios",
+      "version": "0.9.1",
+      "description": "Agent-native operating system for an individual contributor: governed workspace scaffold, multi-agent harnesses with rubric-gated self-correction, AIOS Team Brain sync client, and a local GUI.",
+      "license": "MIT",
+      "repository": "https://github.com/aiosbrain/aios-workspace",
+      "npmUrl": "https://www.npmjs.com/package/%40aiosbrain%2Faios",
+      "category": "cli",
+      "createdAt": "2026-08-01T08:07:48.714Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 69
+    },
+    {
       "name": "@aiquants/platform-packaging",
       "version": "0.1.0",
       "description": "Build tooling that turns a Go command into per-platform npm packages (esbuild/Biome-style os+cpu split with optionalDependencies, bin-field executable bits, and publish-order guards)",
@@ -3530,6 +3542,18 @@
       "score": 80
     },
     {
+      "name": "@dword-design/type-fest-fork",
+      "version": "0.0.1",
+      "description": "A collection of essential TypeScript types",
+      "license": "(MIT OR CC0-1.0)",
+      "repository": "https://github.com/sindresorhus/type-fest",
+      "npmUrl": "https://www.npmjs.com/package/%40dword-design%2Ftype-fest-fork",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T09:46:14.061Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 74
+    },
+    {
       "name": "@dzhechkov/skills-tutorial-factory",
       "version": "0.1.0",
       "description": "package-tutorial-factory — a meta-skill that turns any harness-hub package into a Head-First-style gamified edu-site learning course. Composes skills-book-digitizer (IP-safe distillation), edu-site-generator (render), and the code-skills-creator meta-fact",
@@ -4380,6 +4404,18 @@
       "createdAt": "2026-07-28T17:40:23.651Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 63
+    },
+    {
+      "name": "@gasolinaradar/bonarea-collector",
+      "version": "1.0.0",
+      "description": "Collector for the BonÀrea fuel station locator (Spain) returning normalized fuel stations with prices",
+      "license": "MIT",
+      "repository": "https://github.com/gasolinaradar/bonarea-collector",
+      "npmUrl": "https://www.npmjs.com/package/%40gasolinaradar%2Fbonarea-collector",
+      "category": "data",
+      "createdAt": "2026-08-01T09:37:32.818Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 85
     },
     {
       "name": "@gasolinaradar/dgeg-collector",
@@ -6254,6 +6290,18 @@
       "score": 64
     },
     {
+      "name": "@istmx/skills",
+      "version": "1.0.0",
+      "description": "Context-as-a-Service (CaaS) for AI Coding Agents. Elite orchestrators for Cursor, Windsurf, Gemini, and Claude.",
+      "license": "MIT",
+      "repository": "https://github.com/istmX/skills",
+      "npmUrl": "https://www.npmjs.com/package/%40istmx%2Fskills",
+      "category": "utilities",
+      "createdAt": "2026-08-01T08:26:46.138Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 61
+    },
+    {
       "name": "@itc-steve/pi-herdr",
       "version": "1.1.0",
       "description": "Pi extension: Herdr-visible subagent herd — local-first difficulty routing, pointer-batched results, markdown handoffs, and herdr terminal control.",
@@ -6323,6 +6371,18 @@
       "category": "backend",
       "createdAt": "2026-07-31T18:46:08.107Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
+      "score": 69
+    },
+    {
+      "name": "@ivandigitalsolutions/react-native-camerax",
+      "version": "0.1.0",
+      "description": "Enterprise-grade React Native CameraX library for Android and iOS with Camera, Gallery, Image Processing, and future QR Scanner support.",
+      "license": "MIT",
+      "repository": "https://github.com/vinod1988/react-native-camerax",
+      "npmUrl": "https://www.npmjs.com/package/%40ivandigitalsolutions%2Freact-native-camerax",
+      "category": "frontend",
+      "createdAt": "2026-08-01T09:50:43.588Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 69
     },
     {
@@ -6552,6 +6612,18 @@
       "createdAt": "2026-07-30T19:31:40.932Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 81
+    },
+    {
+      "name": "@jugaaadi/joystick",
+      "version": "0.0.1",
+      "description": "A dark, touch-first analogue joystick for React. Drag past the ring and it keeps accelerating — precise near the centre, fast at the edge. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/MateenKhan/joystick",
+      "npmUrl": "https://www.npmjs.com/package/%40jugaaadi%2Fjoystick",
+      "category": "frontend",
+      "createdAt": "2026-08-01T09:30:46.211Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 86
     },
     {
       "name": "@juglipaff/multicall4",
@@ -8666,6 +8738,18 @@
       "score": 88
     },
     {
+      "name": "@paid-tw/payment-ecpay",
+      "version": "0.2.0",
+      "description": "ECPay 綠界 adapter for @paid-tw/payment — AIO (redirect) + 站內付 2.0 ECPG (token) + 非信用卡幕後取號 (ATM/CVS/BARCODE) + 信用卡幕後授權 (BackAuth).",
+      "license": "MIT",
+      "repository": "https://github.com/paid-tw/payment",
+      "npmUrl": "https://www.npmjs.com/package/%40paid-tw%2Fpayment-ecpay",
+      "category": "utilities",
+      "createdAt": "2026-07-31T15:24:27.594Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 72
+    },
+    {
       "name": "@paladini/linkedin-publisher-mcp",
       "version": "0.1.1",
       "description": "Publish LinkedIn Articles from DEV.to via browser automation — Markdown formatting, draft-first, MCP tools.",
@@ -8916,6 +9000,18 @@
       "createdAt": "2026-07-30T00:43:30.144Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 59
+    },
+    {
+      "name": "@pkg-nec/fork-ts-checker-webpack-plugin",
+      "version": "9.1.0",
+      "description": "Runs typescript type checker and linter on separate process.",
+      "license": "MIT",
+      "repository": "https://github.com/pkg-nec/fork-ts-checker-webpack-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40pkg-nec%2Ffork-ts-checker-webpack-plugin",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T09:48:09.284Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 82
     },
     {
       "name": "@plainconceptsplatform/loop-task",
@@ -11522,6 +11618,18 @@
       "score": 83
     },
     {
+      "name": "@tekmidian/clickr",
+      "version": "0.3.0",
+      "description": "Clickr — macOS screen measurement and input control MCP for Claude Code. Screenshot any display, click any global coordinate, type into any application.",
+      "license": "MIT",
+      "repository": "https://github.com/mnott/Clickr",
+      "npmUrl": "https://www.npmjs.com/package/%40tekmidian%2Fclickr",
+      "category": "backend",
+      "createdAt": "2026-08-01T08:29:56.878Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 85
+    },
+    {
       "name": "@telecmi/react-native-callkeep",
       "version": "4.3.16",
       "description": "react-native-callkeep 4.3.16 with the duplicate @ReactMethod fix (Android / RN 0.76+ crash at startup). Ships as a dependency of @telecmi/piopiy-native — apps install nothing and patch nothing. Fork of https://github.com/react-native-webrtc/react-native-c",
@@ -13202,6 +13310,18 @@
       "score": 77
     },
     {
+      "name": "abulafia",
+      "version": "0.2.40",
+      "description": "Research-first CLI agent built on Pi and alphaXiv",
+      "license": "MIT",
+      "repository": "https://github.com/Enicast/Abulafia",
+      "npmUrl": "https://www.npmjs.com/package/abulafia",
+      "category": "cli",
+      "createdAt": "2026-08-01T08:20:48.668Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 62
+    },
+    {
       "name": "active-bezel",
       "version": "0.1.0",
       "description": "Active Bezels: executable companions to a specific ROM. A .ab package runs once per emulated frame, reads the emulator's live memory regions, and renders the complete final scene — maps, HUDs, reconstructed world graphics, artwork — around or over the ori",
@@ -13236,6 +13356,18 @@
       "createdAt": "2026-07-30T16:09:39.786Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 75
+    },
+    {
+      "name": "adlc-skills-cli",
+      "version": "0.4.0",
+      "description": "Generic CLI that wraps npx skills add and converts installed skills to slash commands + lifecycle event hooks for any coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/tikalk/adlc-skills-cli",
+      "npmUrl": "https://www.npmjs.com/package/adlc-skills-cli",
+      "category": "cli",
+      "createdAt": "2026-08-01T09:46:33.135Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 83
     },
     {
       "name": "admitiq",
@@ -15266,6 +15398,18 @@
       "score": 62
     },
     {
+      "name": "connect-project",
+      "version": "1.0.0",
+      "description": "Production-ready CLI to scan, diagnose, repair, and optimize JavaScript full-stack projects.",
+      "license": "MIT",
+      "repository": "https://github.com/vatsarun-dev/connect-project",
+      "npmUrl": "https://www.npmjs.com/package/connect-project",
+      "category": "frontend",
+      "createdAt": "2026-08-01T09:56:37.657Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 89
+    },
+    {
       "name": "consolium",
       "version": "0.5.0",
       "description": "Lightweight TypeScript toolkit for terminal input, ANSI formatting, responsive layouts, frames, and tables.",
@@ -15914,6 +16058,18 @@
       "score": 83
     },
     {
+      "name": "discord-management-mcp",
+      "version": "0.1.0",
+      "description": "Safe-by-default Discord management MCP server with JSON backups, restore planning, and guarded mutations.",
+      "license": "MIT",
+      "repository": "https://github.com/TheStreamCode/discord-management-mcp",
+      "npmUrl": "https://www.npmjs.com/package/discord-management-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T08:55:23.324Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 64
+    },
+    {
       "name": "dj-atlassian-axi",
       "version": "0.1.0",
       "description": "Jira and Confluence over the shell - AXI-standard agent-facing CLI for the Atlassian Cloud REST API.",
@@ -16032,6 +16188,18 @@
       "createdAt": "2026-07-27T06:01:29.458Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 76
+    },
+    {
+      "name": "edfcore",
+      "version": "0.1.0",
+      "description": "Modern, typed, zero-dependency reader for EDF, EDF+, BDF and BDF+ biosignal files. Works in browsers and Node with true random access.",
+      "license": "MIT",
+      "repository": "https://github.com/tayal-sarthak/edfcore",
+      "npmUrl": "https://www.npmjs.com/package/edfcore",
+      "category": "frontend",
+      "createdAt": "2026-08-01T08:48:35.468Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 83
     },
     {
       "name": "el-filtro",
@@ -16716,6 +16884,18 @@
       "createdAt": "2026-07-29T16:52:27.946Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 65
+    },
+    {
+      "name": "foyer-cli",
+      "version": "0.1.0",
+      "description": "Ask your project directories questions from anywhere — no cd, no TUI, nothing lost.",
+      "license": "MIT",
+      "repository": "https://github.com/AI-Driven-R-D-Dept/foyer",
+      "npmUrl": "https://www.npmjs.com/package/foyer-cli",
+      "category": "cli",
+      "createdAt": "2026-08-01T08:23:36.718Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 68
     },
     {
       "name": "friction-cli",
@@ -17784,6 +17964,18 @@
       "createdAt": "2026-07-28T05:03:36.170Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 74
+    },
+    {
+      "name": "java-stack-ai-agent",
+      "version": "1.0.0",
+      "description": "Production-grade AI agent scaffolding for Cursor, Claude Code, Kiro & Antigravity — Spring Boot 3 + Next.js full-stack, rules, workflows, agents, CodeGraph, and cross-tool handoff.",
+      "license": "MIT",
+      "repository": "https://github.com/khoantd/java-stack-ai-agent",
+      "npmUrl": "https://www.npmjs.com/package/java-stack-ai-agent",
+      "category": "utilities",
+      "createdAt": "2026-08-01T09:35:35.549Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 98
     },
     {
       "name": "jira-delivery-mcp",
@@ -19322,6 +19514,18 @@
       "score": 87
     },
     {
+      "name": "n8n-nodes-jira-reports",
+      "version": "0.1.0",
+      "description": "Enterprise-grade Jira Cloud reporting node for n8n. Generates 20 analytics report types (executive dashboard, velocity, burndown, SLA, aging, workload, and more) with JSON, Markdown, HTML, CSV-ready and AI-summary output.",
+      "license": "MIT",
+      "repository": "https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/n8n-nodes-jira-reports",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-jira-reports",
+      "category": "devops",
+      "createdAt": "2026-08-01T08:14:09.820Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 80
+    },
+    {
       "name": "n8n-nodes-nukeapi",
       "version": "1.0.0",
       "description": "n8n community node for NukeAPI — GDPR/CCPA/LGPD user-deletion API. Delete a user across 78+ SaaS tools with one call and get a signed audit trail.",
@@ -19632,6 +19836,18 @@
       "createdAt": "2026-07-26T19:09:11.823Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 71
+    },
+    {
+      "name": "niche-idea-pipeline",
+      "version": "1.0.1",
+      "description": "Four chained Agent-Skills that take a vague idea prompt to a stress-tested, buildable product spec — with real web research at every step. One command installs them into Claude Code, pi, opencode, or OpenAI Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/beast-ofcourse/niche-idea-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/niche-idea-pipeline",
+      "category": "testing",
+      "createdAt": "2026-08-01T09:35:51.845Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 92
     },
     {
       "name": "node-ai-env",
@@ -20124,6 +20340,18 @@
       "createdAt": "2026-07-31T08:52:14.915Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 74
+    },
+    {
+      "name": "opencode-tamer-judge",
+      "version": "1.1.0",
+      "description": "LLM-powered judge for opencode - blocks file modifications without explicit user permission",
+      "license": "MIT",
+      "repository": "https://github.com/yourusername/opencode-tamer-judge",
+      "npmUrl": "https://www.npmjs.com/package/opencode-tamer-judge",
+      "category": "devops",
+      "createdAt": "2026-07-29T11:44:10.053Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 62
     },
     {
       "name": "opencodex-connect",
@@ -21254,6 +21482,18 @@
       "score": 96
     },
     {
+      "name": "quicksnip",
+      "version": "0.2.0",
+      "description": "Upload images and videos to QuickSnip and get a share link",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/awesomemotive/quicksnip",
+      "npmUrl": "https://www.npmjs.com/package/quicksnip",
+      "category": "cli",
+      "createdAt": "2026-07-28T17:32:53.180Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 65
+    },
+    {
       "name": "quito-engine",
       "version": "0.0.0",
       "description": "Fast OpenSCAD-compatible geometry engine (Quito) compiled to WebAssembly — parse .scad source and render solid 3D meshes in the browser or Node.",
@@ -22130,6 +22370,30 @@
       "score": 79
     },
     {
+      "name": "sanity-plugin-sgntech-gallery",
+      "version": "1.0.0",
+      "description": "Image galleries as a Portable Text block for Sanity Studio — grid or carousel, fed from the Sanity Media Library, with a design-agnostic React renderer.",
+      "license": "MIT",
+      "repository": "https://github.com/netz-sg/sanity-plugin-sgntech-gallery",
+      "npmUrl": "https://www.npmjs.com/package/sanity-plugin-sgntech-gallery",
+      "category": "frontend",
+      "createdAt": "2026-08-01T09:36:55.042Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 87
+    },
+    {
+      "name": "sanity-plugin-sgntech-instagram-embed",
+      "version": "1.0.1",
+      "description": "Embed Instagram posts, reels and IGTV videos anywhere inside a Sanity Studio article — including a React renderer for the frontend.",
+      "license": "MIT",
+      "repository": "https://github.com/netz-sg/sanity-plugin-sgntech-instagram-embed",
+      "npmUrl": "https://www.npmjs.com/package/sanity-plugin-sgntech-instagram-embed",
+      "category": "frontend",
+      "createdAt": "2026-08-01T08:32:11.485Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 69
+    },
+    {
       "name": "sarwa-tools",
       "version": "1.1.1",
       "description": "Unofficial read-only Sarwa CLI, MCP server, and Node API for humans, scripts, and AI agents.",
@@ -22536,6 +22800,18 @@
       "createdAt": "2026-07-31T16:41:43.362Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 68
+    },
+    {
+      "name": "signalint-mcp",
+      "version": "0.2.0",
+      "description": "Agent-optimized code feedback MCP server for JavaScript and TypeScript projects.",
+      "license": "MIT",
+      "repository": "https://github.com/TranQui004/signalint",
+      "npmUrl": "https://www.npmjs.com/package/signalint-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T07:28:17.842Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 66
     },
     {
       "name": "signalk-bignumbers",
@@ -23316,6 +23592,18 @@
       "createdAt": "2026-07-26T23:35:51.640Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 71
+    },
+    {
+      "name": "the-voyage-ai",
+      "version": "0.2.0",
+      "description": "A product-agnostic AI crew that chooses a destination and ships what matters.",
+      "license": "MIT",
+      "repository": "https://github.com/markwillcraft/voyage",
+      "npmUrl": "https://www.npmjs.com/package/the-voyage-ai",
+      "category": "utilities",
+      "createdAt": "2026-08-01T09:59:55.659Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 75
     },
     {
       "name": "three-blockbench",
@@ -24492,6 +24780,18 @@
       "createdAt": "2026-07-29T04:11:05.081Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 73
+    },
+    {
+      "name": "webrtc-mcp-server",
+      "version": "0.4.0",
+      "description": "WebRTC MCP Server — peer-to-peer multi-agent communication, room-based signaling, and video stream bridging via low-latency DataChannels.",
+      "license": "MIT",
+      "repository": "https://github.com/Stuko0/webrtc-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/webrtc-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-01T08:12:25.784Z",
+      "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 75
     },
     {
       "name": "website-auditor-mcp",
