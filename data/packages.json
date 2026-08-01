@@ -98,6 +98,18 @@
       "score": 67
     },
     {
+      "name": "@absolutejs/dispatch-telnyx",
+      "version": "0.1.0",
+      "description": "Production Telnyx SMS, MMS, and RCS messaging for @absolutejs/dispatch with signed webhooks, consent-safe scheduling, registration workflows, and readiness checks.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/absolutejs/dispatch-adapters",
+      "npmUrl": "https://www.npmjs.com/package/%40absolutejs%2Fdispatch-telnyx",
+      "category": "utilities",
+      "createdAt": "2026-08-01T18:03:56.391Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 59
+    },
+    {
       "name": "@absuitecore/trust",
       "version": "1.0.0",
       "description": "Evidence-based trust for multi-agent systems: explainable scores, output grounding checks, agent-to-agent monitoring, correlation-aware arbitration and reciprocal contracts.",
@@ -444,6 +456,18 @@
       "createdAt": "2026-07-29T22:04:01.640Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 71
+    },
+    {
+      "name": "@aggregator-gg/sdk",
+      "version": "1.0.0",
+      "description": "TypeScript SDK for The Aggregator machine API",
+      "license": "MIT",
+      "repository": "https://github.com/aggregator-gg/developer-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40aggregator-gg%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-01T18:02:28.996Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 72
     },
     {
       "name": "@agilo/medusa-invoices-plugin",
@@ -2930,6 +2954,18 @@
       "score": 64
     },
     {
+      "name": "@curatelabs/graphforge-agent-skills",
+      "version": "0.5.1",
+      "description": "NPX-distributed agent skills and adapters for GraphForge",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/CurateLabs/graphforge",
+      "npmUrl": "https://www.npmjs.com/package/%40curatelabs%2Fgraphforge-agent-skills",
+      "category": "utilities",
+      "createdAt": "2026-08-01T18:49:30.599Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 57
+    },
+    {
       "name": "@cutedyno/node",
       "version": "1.1.0",
       "description": "Official Node.js client for the CuteDyno API. Publish to social platforms on behalf of your own customers.",
@@ -5090,6 +5126,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/dfz",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DFZ (build etherscan-dfz-a74c0b5a-1785607929417, commit f3f69f6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dfz",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdfz",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T18:12:33.380Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/dodocp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DODOCp (build etherscan-dodocp-048b8926-1785062302827, commit 483d46a, branch etherscan)",
@@ -5136,6 +5184,18 @@
       "createdAt": "2026-07-30T21:30:36.509Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/fey",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FEY (build etherscan-fey-e8e06a56-1785609755329, commit 057761a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/fey",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ffey",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T18:42:57.744Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/ff",
@@ -5375,6 +5435,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-25T22:47:39.474Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/natg",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for NATG (build etherscan-natg-59c32334-1785606568633, commit 89636ae, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/natg",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fnatg",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T17:49:49.779Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 56
     },
     {
@@ -5688,6 +5760,18 @@
       "createdAt": "2026-07-26T21:20:59.863Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/use",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for USE (build etherscan-use-1eb8d280-1785607989377, commit 9221b95, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/use",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fuse",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T18:13:31.468Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/verusproof",
@@ -7646,6 +7730,18 @@
       "score": 83
     },
     {
+      "name": "@libster/smart-state",
+      "version": "1.0.0",
+      "description": "A production-ready React component that automatically renders the correct UI based on application state — loading, error, empty, offline, unauthorized, forbidden, notFound, maintenance, or success.",
+      "license": "MIT",
+      "repository": "https://github.com/vijoy-paul/libster-smart-state",
+      "npmUrl": "https://www.npmjs.com/package/%40libster%2Fsmart-state",
+      "category": "frontend",
+      "createdAt": "2026-08-01T18:25:39.212Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 95
+    },
+    {
       "name": "@liiift-studio/confettitext",
       "version": "1.0.0",
       "description": "Confetti cannon where every particle is a real letter from your text — a burst of DOM letter-spans with physics, variable-font weight jitter, and a canvas-confetti-familiar API",
@@ -7728,6 +7824,18 @@
       "createdAt": "2026-07-27T09:03:27.601Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 72
+    },
+    {
+      "name": "@loopingai/core",
+      "version": "0.1.0",
+      "description": "Shared, mandatory foundation for Looping agents on Cloudflare Workers: zero-trust A2A, durable task lifecycle, delegation and subagent runtime, test harness.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/Looping-AI/looping-core",
+      "npmUrl": "https://www.npmjs.com/package/%40loopingai%2Fcore",
+      "category": "testing",
+      "createdAt": "2026-08-01T17:47:35.041Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 85
     },
     {
       "name": "@loregpt/mcp",
@@ -9494,6 +9602,18 @@
       "score": 78
     },
     {
+      "name": "@pasquelin/map3d",
+      "version": "0.1.1",
+      "description": "Bibliothèque React de cartographie 3D (Three.js + Google Photorealistic 3D Tiles) : globe, markers, clusters, tracés, dessin, entièrement thémable.",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "repository": "https://github.com/pasquelin/map3D",
+      "npmUrl": "https://www.npmjs.com/package/%40pasquelin%2Fmap3d",
+      "category": "frontend",
+      "createdAt": "2026-08-01T17:55:28.852Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 56
+    },
+    {
       "name": "@pastepile/mcp",
       "version": "0.1.1",
       "description": "Model Context Protocol server for Pastepile - durable, URL-addressable memory for AI coding assistants. Save and retrieve knowledge from Claude, Cursor, Windsurf, and any MCP client.",
@@ -11126,6 +11246,18 @@
       "score": 78
     },
     {
+      "name": "@sentinel-ai-sdk/agent",
+      "version": "1.0.1",
+      "description": "Open-source TypeScript AI Agent SDK with Loom middleware and Sentinel reliability tracing",
+      "license": "MIT",
+      "repository": "https://github.com/faizanio/sentinel-agent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40sentinel-ai-sdk%2Fagent",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T17:45:22.427Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 88
+    },
+    {
       "name": "@seydx/ciao",
       "version": "1.3.10",
       "description": "ciao is a RFC 6763 compliant dns-sd library, advertising on multicast dns (RFC 6762) implemented in plain Typescript/JavaScript",
@@ -12204,6 +12336,18 @@
       "createdAt": "2026-07-27T14:10:36.582Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 81
+    },
+    {
+      "name": "@swarmmachina/swm-logs",
+      "version": "0.1.1",
+      "description": "Zero-dependency structured JSON logger for Node.js",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/SwarmMachina/swm-logs",
+      "npmUrl": "https://www.npmjs.com/package/%40swarmmachina%2Fswm-logs",
+      "category": "utilities",
+      "createdAt": "2026-08-01T17:52:37.128Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 69
     },
     {
       "name": "@sweetsunnyflower/react-smart-captcha",
@@ -13598,6 +13742,18 @@
       "score": 63
     },
     {
+      "name": "@w3booster/sdk",
+      "version": "0.1.1",
+      "description": "One SDK for realtime W3Booster match data in overlays and web apps.",
+      "license": "MIT",
+      "repository": "https://github.com/W3Booster/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40w3booster%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-01T16:24:36.258Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 56
+    },
+    {
       "name": "@w3wide/admob-manager-mcp",
       "version": "2.6.0",
       "description": "Google AdMob REST API MCP Server for AI Agents (Claude Desktop, Cursor, AGY)",
@@ -14532,6 +14688,18 @@
       "createdAt": "2026-07-30T09:26:42.961Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 64
+    },
+    {
+      "name": "agentab",
+      "version": "2.0.1",
+      "description": "AgenTab — browser MCP server. Let AI agents drive a real Chrome browser with your logged-in sessions, confined to their own tab group. Works with Claude Code, Codex, Gemini CLI, and Antigravity.",
+      "license": "MIT",
+      "repository": "https://github.com/mrbeandev/Browse-MCP",
+      "npmUrl": "https://www.npmjs.com/package/agentab",
+      "category": "frontend",
+      "createdAt": "2026-08-01T17:52:23.518Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 68
     },
     {
       "name": "agentdyno",
@@ -15530,6 +15698,18 @@
       "score": 72
     },
     {
+      "name": "browserbuddy",
+      "version": "0.1.0",
+      "description": "A shared browser for you and your coding agent: an MCP server plus a WebExtension that let an agent see and drive the same browser window you are already using.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/smm-h/browserbuddy",
+      "npmUrl": "https://www.npmjs.com/package/browserbuddy",
+      "category": "frontend",
+      "createdAt": "2026-08-01T18:23:47.326Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 68
+    },
+    {
       "name": "browserhive",
       "version": "0.0.1",
       "description": "Local-first MCP server for parallel, isolated browser sessions with vault-backed credential injection and an opt-in admin dashboard.",
@@ -16070,6 +16250,18 @@
       "score": 86
     },
     {
+      "name": "claude-retro",
+      "version": "0.1.1",
+      "description": "An automatic retrospective for your AI pair programmer. Mines your local Claude Code session transcripts for friction — tool errors, permission denials, corrections, retry loops — and drafts concrete fixes for your CLAUDE.md and settings.",
+      "license": "MIT",
+      "repository": "https://github.com/syahra712/claude-retro",
+      "npmUrl": "https://www.npmjs.com/package/claude-retro",
+      "category": "cli",
+      "createdAt": "2026-08-01T17:42:14.839Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 67
+    },
+    {
       "name": "claude-security",
       "version": "0.1.1",
       "description": "Claude-powered security scanning: CLI and TypeScript SDK that drives the Claude Agent SDK through bundled scan skills and seals results into a verifiable scan contract (JSON, SARIF, Markdown).",
@@ -16586,6 +16778,18 @@
       "score": 78
     },
     {
+      "name": "copilot-byok-switcher",
+      "version": "0.1.0",
+      "description": "Cross-platform launcher for GitHub Copilot CLI custom model providers (BYOK), with interactive selection and automatic model defaults.",
+      "license": "MIT",
+      "repository": "https://github.com/TheStreamCode/copilot-byok-switcher",
+      "npmUrl": "https://www.npmjs.com/package/copilot-byok-switcher",
+      "category": "data",
+      "createdAt": "2026-08-01T18:20:10.153Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 79
+    },
+    {
       "name": "cordova-plugin-yandex-mapkit",
       "version": "1.0.0",
       "description": "A provider-focused Cordova bridge for embedding Yandex MapKit on Android and iOS.",
@@ -16596,6 +16800,18 @@
       "createdAt": "2026-07-27T11:02:46.510Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 77
+    },
+    {
+      "name": "cortex-sdk",
+      "version": "0.3.0",
+      "description": "Typed TypeScript client for Cortex — agent memory that catches contradictions at write time and returns what is still true.",
+      "license": "MIT",
+      "repository": "https://github.com/AAGAM17/prism",
+      "npmUrl": "https://www.npmjs.com/package/cortex-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T17:56:40.594Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 82
     },
     {
       "name": "countersign-mcp",
@@ -19319,6 +19535,18 @@
       "category": "utilities",
       "createdAt": "2026-08-01T11:46:40.065Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
+      "score": 73
+    },
+    {
+      "name": "just-another-sdk",
+      "version": "0.1.0",
+      "description": "A TypeScript agent SDK with zero runtime dependencies. Define an agent, give it tools, run the loop, get a typed result.",
+      "license": "MIT",
+      "repository": "https://github.com/KARDT89/just-another-sdk",
+      "npmUrl": "https://www.npmjs.com/package/just-another-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T17:53:59.372Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 73
     },
     {
@@ -23990,6 +24218,30 @@
       "score": 86
     },
     {
+      "name": "sanity-plugin-sgntech-review",
+      "version": "1.0.0",
+      "description": "Review blocks for Sanity Studio — score, verdict, pros and cons inside an article, with schema.org/Review markup for search results.",
+      "license": "MIT",
+      "repository": "https://github.com/netz-sg/sanity-plugin-sgntech-review",
+      "npmUrl": "https://www.npmjs.com/package/sanity-plugin-sgntech-review",
+      "category": "utilities",
+      "createdAt": "2026-08-01T17:59:30.443Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 85
+    },
+    {
+      "name": "sanity-plugin-sgntech-setlist",
+      "version": "1.0.0",
+      "description": "Setlist blocks for Sanity Studio — the songs of a show in columns, encores as their own section, numbered straight through.",
+      "license": "MIT",
+      "repository": "https://github.com/netz-sg/sanity-plugin-sgntech-setlist",
+      "npmUrl": "https://www.npmjs.com/package/sanity-plugin-sgntech-setlist",
+      "category": "utilities",
+      "createdAt": "2026-08-01T18:13:28.772Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 76
+    },
+    {
       "name": "sarwa-tools",
       "version": "1.1.1",
       "description": "Unofficial read-only Sarwa CLI, MCP server, and Node API for humans, scripts, and AI agents.",
@@ -25010,6 +25262,18 @@
       "score": 62
     },
     {
+      "name": "surilens",
+      "version": "1.0.0",
+      "description": "Enterprise-grade real-time backend execution visualizer & observability platform for Node.js across Express, Fastify, NestJS, Koa, and Hono.",
+      "license": "MIT",
+      "repository": "https://github.com/sonisuryansh/surilens",
+      "npmUrl": "https://www.npmjs.com/package/surilens",
+      "category": "backend",
+      "createdAt": "2026-08-01T18:25:01.819Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 84
+    },
+    {
       "name": "svelte-adapter-bunserve",
       "version": "0.0.1",
       "description": "SvelteKit adapter for Bun - Bun.serve HTTP with the svelte-adapter-uws realtime DX, no native addon",
@@ -25404,6 +25668,18 @@
       "createdAt": "2026-07-30T12:28:11.599Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 79
+    },
+    {
+      "name": "tinhead-mcp",
+      "version": "0.0.0",
+      "description": "A local MCP door onto your Tinhead thought tree. Holds your key on your machine; the server never gets one it can use.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Tinhead-app/tinhead-mcp",
+      "npmUrl": "https://www.npmjs.com/package/tinhead-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T18:37:53.417Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 71
     },
     {
       "name": "tiptap-chat-composer",
@@ -25811,6 +26087,18 @@
       "category": "utilities",
       "createdAt": "2026-07-26T04:21:55.755Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
+      "score": 72
+    },
+    {
+      "name": "umactually",
+      "version": "0.6.19",
+      "description": "Provider-agnostic PR review action with redaction and SonarQube import.",
+      "license": "MIT",
+      "repository": "https://github.com/JosiahSiegel/umactually",
+      "npmUrl": "https://www.npmjs.com/package/umactually",
+      "category": "utilities",
+      "createdAt": "2026-08-01T18:32:28.177Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 72
     },
     {
@@ -26604,6 +26892,18 @@
       "createdAt": "2026-07-29T13:32:52.079Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 84
+    },
+    {
+      "name": "wharf-tui",
+      "version": "0.1.9",
+      "description": "Keyboard-driven terminal SSH client with a local-first encrypted vault",
+      "license": "MIT",
+      "repository": "https://github.com/Janne6565/wharf-tui",
+      "npmUrl": "https://www.npmjs.com/package/wharf-tui",
+      "category": "cli",
+      "createdAt": "2026-08-01T14:42:54.812Z",
+      "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 67
     },
     {
       "name": "whats-inherited-mcp",
