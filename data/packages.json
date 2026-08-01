@@ -110,6 +110,18 @@
       "score": 59
     },
     {
+      "name": "@absolutejs/dispatch-vonage",
+      "version": "0.1.0",
+      "description": "Production Vonage Messages API adapter for AbsoluteJS with multichannel failover, signed durable webhooks, consent, readiness, and 10DLC inspection.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/absolutejs/dispatch-adapters",
+      "npmUrl": "https://www.npmjs.com/package/%40absolutejs%2Fdispatch-vonage",
+      "category": "backend",
+      "createdAt": "2026-08-01T19:29:32.140Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 56
+    },
+    {
       "name": "@absuitecore/trust",
       "version": "1.0.0",
       "description": "Evidence-based trust for multi-agent systems: explainable scores, output grounding checks, agent-to-agent monitoring, correlation-aware arbitration and reciprocal contracts.",
@@ -1058,6 +1070,18 @@
       "score": 74
     },
     {
+      "name": "@appouse/godaddy-dns-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol (MCP) server for managing GoDaddy DNS records — list, add, replace and delete records from Claude and other AI assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/appouse/godaddy-dns-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40appouse%2Fgodaddy-dns-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T19:42:42.417Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 72
+    },
+    {
       "name": "@aquartier/openledger",
       "version": "0.15.0",
       "description": "OpenLedger — The Harness Layer for Personal Finance",
@@ -1164,6 +1188,18 @@
       "createdAt": "2026-07-26T10:35:12.800Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 71
+    },
+    {
+      "name": "@arraypress/llms-txt-astro",
+      "version": "1.0.0",
+      "description": "Idiomatic /llms.txt route for Astro — resolves the site origin and serves the file. A thin wrapper over @arraypress/llms-txt.",
+      "license": "MIT",
+      "repository": "https://github.com/arraypress/llms-txt-astro",
+      "npmUrl": "https://www.npmjs.com/package/%40arraypress%2Fllms-txt-astro",
+      "category": "utilities",
+      "createdAt": "2026-08-01T19:31:51.717Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 55
     },
     {
       "name": "@art-ws/teamai",
@@ -2486,6 +2522,18 @@
       "score": 87
     },
     {
+      "name": "@cle-does-things/llms-sdk-wasm",
+      "version": "0.1.0",
+      "description": "Unified interface to call OpenAI and Anthropic-compatible LLM APIs from your browser",
+      "license": "MIT",
+      "repository": "https://github.com/AstraBert/llms-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40cle-does-things%2Fllms-sdk-wasm",
+      "category": "frontend",
+      "createdAt": "2026-08-01T20:00:21.721Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 55
+    },
+    {
       "name": "@cloudbitmaps/roaring",
       "version": "0.1.0",
       "description": "Distributed, cloud-native Roaring Bitmaps — query and intersect billion-scale integer sets over tiered cloud storage (RAM → NoSQL → object store), at a fraction of an always-on cache.",
@@ -3012,6 +3060,18 @@
       "createdAt": "2026-07-31T09:35:56.566Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 90
+    },
+    {
+      "name": "@dankest-llc/xchain-sdk",
+      "version": "2.0.0",
+      "description": "xchain-sdk generates XChain Platform ACTION commands and encodes them into unsigned blockchain transactions as well as pulls data from the XChain APIs such as balances and transaction history.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/XChain-platform/xchain-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40dankest-llc%2Fxchain-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-01T19:20:42.380Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 79
     },
     {
       "name": "@danqiusheng/nest-nacos",
@@ -4190,6 +4250,18 @@
       "score": 57
     },
     {
+      "name": "@fideus-labs/nd-image-codecs",
+      "version": "0.0.1",
+      "description": "Composable Zarr v3 codecs (nd-delta, nd-lift-ht, nd-zfp) for ND scientific images — cross-axis lifting, HTJ2K coefficient planes, and ZFP, with an axis-aware codec-series builder (WebAssembly).",
+      "license": "MIT",
+      "repository": "https://github.com/fideus-labs/nd-image-codecs",
+      "npmUrl": "https://www.npmjs.com/package/%40fideus-labs%2Fnd-image-codecs",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T19:54:24.972Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 57
+    },
+    {
       "name": "@financica/gst-einvoice-qr",
       "version": "0.1.0",
       "description": "Decode, cryptographically verify and reconcile the signed QR code printed on Indian GST e-invoices (IRP / IRN). Zero dependencies.",
@@ -4836,6 +4908,18 @@
       "createdAt": "2026-07-25T13:37:14.995Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 69
+    },
+    {
+      "name": "@getomnichain/omnichain",
+      "version": "0.2.1",
+      "description": "Multi-chain SDK for EVM, Solana, UTXO (BTC/LTC/DOGE/DASH/ZEC/BCH), TON, and Tron. TypeScript parity port of omnichain-py.",
+      "license": "MIT",
+      "repository": "https://github.com/getomnichain/omnichain",
+      "npmUrl": "https://www.npmjs.com/package/%40getomnichain%2Fomnichain",
+      "category": "build-tools",
+      "createdAt": "2026-07-27T20:41:09.067Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 55
     },
     {
       "name": "@getpipher/herdr-sysmon",
@@ -5486,6 +5570,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/pine",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PINE (build etherscan-pine-569424c5-1785614492721, commit efe6839, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/pine",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpine",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T20:01:56.575Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/plsgt",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for PLSGT (build etherscan-plsgt-bc89d5c6-1785082874897, commit 774f45b, branch etherscan)",
@@ -6000,6 +6096,18 @@
       "createdAt": "2026-07-30T17:23:37.118Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 69
+    },
+    {
+      "name": "@gradient-ui/gradient-engine",
+      "version": "0.5.0",
+      "description": "Framework-free gradient generation engine for CSS, SVG, canvas, effects and material tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/Deadida322/gradientUi",
+      "npmUrl": "https://www.npmjs.com/package/%40gradient-ui%2Fgradient-engine",
+      "category": "frontend",
+      "createdAt": "2026-08-01T19:32:27.048Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 59
     },
     {
       "name": "@granturismo/devicespecs",
@@ -7128,6 +7236,18 @@
       "createdAt": "2026-07-30T01:37:38.070Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 62
+    },
+    {
+      "name": "@jokerized/decksmith",
+      "version": "0.1.0",
+      "description": "Turn a source document into an animated explanation deck.",
+      "license": "MIT",
+      "repository": "https://github.com/ca1773130n/DeckSmith",
+      "npmUrl": "https://www.npmjs.com/package/%40jokerized%2Fdecksmith",
+      "category": "utilities",
+      "createdAt": "2026-08-01T19:54:20.064Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 73
     },
     {
       "name": "@jordandavila/fluid-canvas",
@@ -8978,6 +9098,18 @@
       "score": 73
     },
     {
+      "name": "@nik_makwana/ngx-smart-form",
+      "version": "0.9.0",
+      "description": "A flexible, configuration-driven dynamic form library for Angular applications built on Reactive Forms.",
+      "license": "MIT",
+      "repository": "https://github.com/Nikmakwana94/ngx-smart-form",
+      "npmUrl": "https://www.npmjs.com/package/%40nik_makwana%2Fngx-smart-form",
+      "category": "frontend",
+      "createdAt": "2026-08-01T19:40:37.328Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 74
+    },
+    {
       "name": "@nilskluewer/pi-atlassian-mcp",
       "version": "0.2.0",
       "description": "Bridge the Atlassian Rovo MCP server (Jira, Confluence) into Pi with per-session, opt-in tool selection.",
@@ -9794,6 +9926,30 @@
       "score": 68
     },
     {
+      "name": "@pieceful/ravel-language-service",
+      "version": "0.2.0",
+      "description": "Source-mapped language request routing and safe edit classification for Ravel.",
+      "license": "MIT",
+      "repository": "https://github.com/jostylr/ravel",
+      "npmUrl": "https://www.npmjs.com/package/%40pieceful%2Fravel-language-service",
+      "category": "utilities",
+      "createdAt": "2026-08-01T19:52:53.394Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 62
+    },
+    {
+      "name": "@pieceful/ravel-projection",
+      "version": "0.2.0",
+      "description": "Browser-safe virtual documents, source projections, and generated-code context for Ravel.",
+      "license": "MIT",
+      "repository": "https://github.com/jostylr/ravel",
+      "npmUrl": "https://www.npmjs.com/package/%40pieceful%2Fravel-projection",
+      "category": "frontend",
+      "createdAt": "2026-08-01T19:52:47.304Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 55
+    },
+    {
       "name": "@pinooxhq/luma",
       "version": "0.2.0",
       "description": "Luma — A modern Vue 3 dashboard framework built on PrimeVue. Themeable, customizable, and ready for production.",
@@ -10440,6 +10596,18 @@
       "createdAt": "2026-07-26T16:08:05.448Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@ravid7000/skills",
+      "version": "0.2.0",
+      "description": "Reusable Agent Skills for Claude Code, Cursor, Codex, Copilot and other AI coding agents — research, observability instrumentation, and skill authoring.",
+      "license": "MIT",
+      "repository": "https://github.com/ravid7000/skills",
+      "npmUrl": "https://www.npmjs.com/package/%40ravid7000%2Fskills",
+      "category": "utilities",
+      "createdAt": "2026-08-01T19:18:07.762Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 74
     },
     {
       "name": "@raydotac/ftpkeyence",
@@ -12158,6 +12326,18 @@
       "score": 79
     },
     {
+      "name": "@stratejya/operon-cli",
+      "version": "1.0.7",
+      "description": "Official command-line client for the Operon Agent Runtime in Obsidian.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/hasanyilmaz/operon",
+      "npmUrl": "https://www.npmjs.com/package/%40stratejya%2Foperon-cli",
+      "category": "cli",
+      "createdAt": "2026-08-01T19:12:59.598Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 59
+    },
+    {
       "name": "@stratum-hq/compliance",
       "version": "0.1.0",
       "description": "Content-free compliance kernel for Stratum: baseline coverage scoring, a finding state machine, and a control type vocabulary",
@@ -12576,6 +12756,18 @@
       "createdAt": "2026-07-29T13:03:06.190Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 80
+    },
+    {
+      "name": "@telorun/kv-store",
+      "version": "0.3.0",
+      "description": "The Telo KvStore.Store contract — a durable, non-evicting key/value store with atomic conditional writes — plus KeyedClaim, the claim/settle/release protocol implemented once over those primitives so no backend reimplements it.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/telorun/telo",
+      "npmUrl": "https://www.npmjs.com/package/%40telorun%2Fkv-store",
+      "category": "backend",
+      "createdAt": "2026-07-27T05:53:06.245Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 60
     },
     {
       "name": "@tengxiaohtx/agent-connect",
@@ -13176,6 +13368,18 @@
       "createdAt": "2026-08-01T12:16:07.485Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 64
+    },
+    {
+      "name": "@urbicon-ui/sv",
+      "version": "6.48.0",
+      "description": "Svelte CLI (sv) community add-on for Urbicon UI — installs the blocks library and the urbicon CLI, wires the Tailwind 4 stylesheet, and hands over to the design-loop onboarding.",
+      "license": "MIT",
+      "repository": "https://github.com/urbicon/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40urbicon-ui%2Fsv",
+      "category": "frontend",
+      "createdAt": "2026-08-01T19:56:46.970Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 57
     },
     {
       "name": "@usefy/json-viewer",
@@ -16970,6 +17174,18 @@
       "score": 82
     },
     {
+      "name": "crisismode",
+      "version": "0.9.0",
+      "description": "AI-powered infrastructure recovery — detect, diagnose, and recover stateful systems",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/trs-80/crisismode",
+      "npmUrl": "https://www.npmjs.com/package/crisismode",
+      "category": "data",
+      "createdAt": "2026-08-01T19:45:27.967Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 78
+    },
+    {
       "name": "cron-last-due",
       "version": "1.0.0",
       "description": "When was this cron job last due? Timezone-aware previous-fire-time and missed-run detection for watchdogs. No dependencies.",
@@ -19670,6 +19886,18 @@
       "score": 68
     },
     {
+      "name": "kilo-vision-bridge",
+      "version": "0.1.0",
+      "description": "Dynamic visual-response skill for Kilo. Registers the native vision_analyze tool (model configured by the user via the Kilo Code agent model override on vision-agent) with the vision-agent subagent as fallback, and teaches a text-only orchestrator to extr",
+      "license": "MIT",
+      "repository": "https://github.com/chengsongren/kilo-vision-bridge",
+      "npmUrl": "https://www.npmjs.com/package/kilo-vision-bridge",
+      "category": "cli",
+      "createdAt": "2026-08-01T19:59:29.863Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 80
+    },
+    {
       "name": "kinglobayiiecho-cli-tr",
       "version": "1.4.0",
       "description": "Echo CLI — a Claude Code style agentic AI assistant for your terminal. Animated input, skills, plan/auto modes, research, code editing — via the Echo AI gateway.",
@@ -21782,6 +22010,18 @@
       "score": 76
     },
     {
+      "name": "openapi-ai-sdk",
+      "version": "0.3.0",
+      "description": "TypeScript SDK for openapi.ai — a drop-in extension of the OpenAI client, plus capability contracts: schema-frozen interfaces called like functions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sireto/openapi-ai",
+      "npmUrl": "https://www.npmjs.com/package/openapi-ai-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-01T14:27:16.915Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 73
+    },
+    {
       "name": "opencard-export",
       "version": "0.4.0",
       "description": "macOS CLI to scan Apple Pay card art and data and contribute it to OpenCard DB. Runs locally; nothing is uploaded.",
@@ -23678,6 +23918,18 @@
       "score": 96
     },
     {
+      "name": "reasonix-plugin-git-context",
+      "version": "0.1.0",
+      "description": "External MCP plugin for DeepSeek-Reasonix: read-only git blame / log / show / diff and PR-context helper tools over stdio JSON-RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/kashifmahi/reasonix-plugin-git-context",
+      "npmUrl": "https://www.npmjs.com/package/reasonix-plugin-git-context",
+      "category": "utilities",
+      "createdAt": "2026-08-01T19:12:14.489Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 62
+    },
+    {
       "name": "reckon-graph",
       "version": "0.1.16",
       "description": "Reckon Graph — a local code-intelligence MCP server. Reckons the whole codebase (edit-ready source, risk-scored diffs, subsystem maps) instead of grepping it.",
@@ -25562,6 +25814,18 @@
       "score": 49
     },
     {
+      "name": "thedelegator",
+      "version": "0.1.0",
+      "description": "Coordination-free parallelism for multiple AI coding agents. Disjoint lanes, enforced by CI. Status derived from git, never self-reported.",
+      "license": "MIT",
+      "repository": "https://github.com/uset82/thedelegator",
+      "npmUrl": "https://www.npmjs.com/package/thedelegator",
+      "category": "devops",
+      "createdAt": "2026-08-01T19:18:07.126Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 81
+    },
+    {
       "name": "three-blockbench",
       "version": "0.1.0",
       "description": "Load Blockbench .bbmodel projects as native Three.js geometry, textures, skeletons, and animation clips.",
@@ -25656,6 +25920,18 @@
       "createdAt": "2026-07-30T11:01:34.672Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 67
+    },
+    {
+      "name": "tiktok-kit",
+      "version": "0.2.0",
+      "description": "TikTok account intelligence kit for Claude Code. Read-only analysis of ads and organic data over MCP, producing a prioritized growth direction.",
+      "license": "MIT",
+      "repository": "https://github.com/LeDucAnhPhuong/tiktok-kit",
+      "npmUrl": "https://www.npmjs.com/package/tiktok-kit",
+      "category": "data",
+      "createdAt": "2026-08-01T19:47:40.438Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 56
     },
     {
       "name": "tinctjs",
@@ -26906,6 +27182,18 @@
       "score": 67
     },
     {
+      "name": "whats-allowed-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that shows what your coding agent can do without asking you: every settings file that contributes permission rules, which one wins, what runs unattended, and the rules Claude Code accepts and then ignores.",
+      "license": "MIT",
+      "repository": "https://github.com/stcmain/whats-allowed-mcp",
+      "npmUrl": "https://www.npmjs.com/package/whats-allowed-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T19:39:39.875Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 90
+    },
+    {
       "name": "whats-inherited-mcp",
       "version": "0.1.0",
       "description": "MCP server that shows what a checkout you did not write tells your agent to do — instruction files, hook commands wired to agent events, MCP servers it declares, and the skills and subagents it ships.",
@@ -27144,6 +27432,18 @@
       "createdAt": "2026-07-26T11:05:48.133Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 60
+    },
+    {
+      "name": "xchain-mcp",
+      "version": "2.0.0",
+      "description": "Model Context Protocol (MCP) stdio server for the XChain Platform: read chain/token/balance data on BTC, LTC and DOGE (mainnet/testnet/regtest), and optionally submit policy-gated actions, backed by the XChain SDK.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/XChain-platform/xchain-sdk",
+      "npmUrl": "https://www.npmjs.com/package/xchain-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-01T19:25:19.539Z",
+      "discoveredAt": "2026-08-01T20:08:31.863Z",
+      "score": 58
     },
     {
       "name": "xls-to-xlsx",

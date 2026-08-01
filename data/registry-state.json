@@ -1,12 +1,28 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122767672,
-  "lastRunAt": "2026-08-01T18:57:13.793Z",
+  "lastSequence": 122773135,
+  "lastRunAt": "2026-08-01T20:08:31.863Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@aibo666/ebo-publish-check",
-      "attempts": 4
+      "attempts": 5
+    },
+    {
+      "name": "@comfig/gcp-secret-manager",
+      "attempts": 1
+    },
+    {
+      "name": "@comfig/aws-secrets-manager",
+      "attempts": 1
+    },
+    {
+      "name": "@tryinget/pi-code-mode",
+      "attempts": 1
+    },
+    {
+      "name": "@liq-code/sdk",
+      "attempts": 1
     }
   ]
 }
