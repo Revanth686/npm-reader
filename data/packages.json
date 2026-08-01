@@ -1502,6 +1502,18 @@
       "score": 69
     },
     {
+      "name": "@barryfan2045/pi-remote",
+      "version": "0.1.0",
+      "description": "Run pi coding agent headlessly from your messenger (Matrix, Telegram, WhatsApp, Slack, Discord). Slash commands, skills and prompts fully supported via the RPC protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/Hi-Barry/pi-remote",
+      "npmUrl": "https://www.npmjs.com/package/%40barryfan2045%2Fpi-remote",
+      "category": "utilities",
+      "createdAt": "2026-08-01T04:12:16.846Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 79
+    },
+    {
       "name": "@base44/app-plugin-commerce",
       "version": "0.1.0",
       "description": "Base44 Commerce plugin — entities, backend functions, shared commerce engine, admin UI and the commerce skill, shipped as copyable source",
@@ -1548,6 +1560,18 @@
       "createdAt": "2026-07-29T23:40:48.512Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 68
+    },
+    {
+      "name": "@beardjs/ai-backend-kit",
+      "version": "1.3.0",
+      "description": "AI backend kit CLI for layered Node.js/TypeScript services — syncs .cursor / .claude / .codex tool kits plus shared docs into a service.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/beardjs/ai-backend-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40beardjs%2Fai-backend-kit",
+      "category": "backend",
+      "createdAt": "2026-08-01T04:01:51.116Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 76
     },
     {
       "name": "@bedolla/enriazure",
@@ -2522,6 +2546,18 @@
       "score": 75
     },
     {
+      "name": "@converly/sdk-node",
+      "version": "1.0.1",
+      "description": "Server-side conversion tracking for Node backends. Report any conversion your code confirms (SaaS signups, custom form leads, bookings) to Converly, which fires it to Google Ads, Meta, GA4 and more via their server-side APIs (Enhanced Conversions, CAPI) a",
+      "license": "MIT",
+      "repository": "https://github.com/aaronbeashel/converly-delivery-service",
+      "npmUrl": "https://www.npmjs.com/package/%40converly%2Fsdk-node",
+      "category": "backend",
+      "createdAt": "2026-08-01T04:50:12.529Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 100
+    },
+    {
       "name": "@cosyte/cli",
       "version": "0.0.1",
       "description": "The cosyte CLI: a PHI-safe developer front door over the @cosyte/* healthcare parsers. Parse HL7 v2 / FHIR from a file or stdin to typed JSON, with a documented exit-code contract.",
@@ -2894,6 +2930,18 @@
       "score": 56
     },
     {
+      "name": "@devpablocristo/arca-facturacion",
+      "version": "2.2.0",
+      "description": "SDK para Facturación Electrónica con ARCA (ex AFIP) - WSFE, WSFEX, CAEA, QR",
+      "license": "MIT",
+      "repository": "https://github.com/devpablocristo/arca-facturacion",
+      "npmUrl": "https://www.npmjs.com/package/%40devpablocristo%2Farca-facturacion",
+      "category": "devops",
+      "createdAt": "2026-08-01T05:12:05.739Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 87
+    },
+    {
       "name": "@dexgate/decision-middleware",
       "version": "0.1.0",
       "description": "Dexgate Decision Execution Governance middleware — evaluate tool calls via SDE PDP (contract v0.1). HTTP /v1/decide + library API.",
@@ -3024,6 +3072,42 @@
       "createdAt": "2026-07-29T18:11:36.650Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 81
+    },
+    {
+      "name": "@dltech/ai-testing",
+      "version": "1.0.0",
+      "description": "Standalone CLI eval runner for LangChain chains/agents. Define a module, run it, see a score table with below-threshold case dumps. Tracing is optional via ai-testing.config.ts.",
+      "license": "MIT",
+      "repository": "https://github.com/dennisofficial/langchain-testing-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40dltech%2Fai-testing",
+      "category": "testing",
+      "createdAt": "2026-08-01T02:14:24.617Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 97
+    },
+    {
+      "name": "@dltech/jwt-auth",
+      "version": "1.0.0",
+      "description": "Universal JWT authentication: a client-side Auth singleton for web (httpOnly cookies) and mobile (token persistence, network-outage detection) plus a Passport-free NestJS server module (JwtService via jose, BaseAuthGuard, route decorators)",
+      "license": "MIT",
+      "repository": "https://github.com/dennisofficial/jwt-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40dltech%2Fjwt-auth",
+      "category": "frontend",
+      "createdAt": "2026-08-01T02:14:18.285Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 90
+    },
+    {
+      "name": "@dltech/nestjs-core",
+      "version": "1.0.0",
+      "description": "Essential NestJS utilities: typed env config, structured request logging, a declarative module builder for TypeORM/Mongoose/BullMQ, a TypeORM dev seeder, an SSE async-generator decorator, and a shutdown guard.",
+      "license": "MIT",
+      "repository": "https://github.com/dennisofficial/nestjs-core-essentials",
+      "npmUrl": "https://www.npmjs.com/package/%40dltech%2Fnestjs-core",
+      "category": "backend",
+      "createdAt": "2026-08-01T02:14:31.759Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 73
     },
     {
       "name": "@dltech/pgbase",
@@ -6494,6 +6578,18 @@
       "score": 51
     },
     {
+      "name": "@khanhicetea/pi-wui",
+      "version": "0.1.5",
+      "description": "A session-scoped Web UI portal for Pi and MCP-compatible coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/khanhicetea/pi-wui",
+      "npmUrl": "https://www.npmjs.com/package/%40khanhicetea%2Fpi-wui",
+      "category": "utilities",
+      "createdAt": "2026-08-01T03:23:20.261Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 71
+    },
+    {
       "name": "@klucznik/react-sortable-tree",
       "version": "5.0.1",
       "description": "Drag-and-drop sortable component for nested data and hierarchies",
@@ -6588,6 +6684,18 @@
       "createdAt": "2026-07-28T15:27:25.637Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 73
+    },
+    {
+      "name": "@krislintigo/luro",
+      "version": "1.0.0",
+      "description": "Tiny chainable fetch client — build a request by chaining, await it to send it.",
+      "license": "MIT",
+      "repository": "https://github.com/krislintigo/luro",
+      "npmUrl": "https://www.npmjs.com/package/%40krislintigo%2Fluro",
+      "category": "backend",
+      "createdAt": "2026-08-01T05:01:22.041Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 72
     },
     {
       "name": "@kubohiroya/turbowarp-async-input",
@@ -7586,6 +7694,18 @@
       "score": 70
     },
     {
+      "name": "@mpaycards/uapi-sdk",
+      "version": "1.0.1",
+      "description": "Node.js SDK for the Mpay User API, with automatic HMAC-SHA256 request signing.",
+      "license": "MIT",
+      "repository": "https://github.com/fundway/mpay_uapi_sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40mpaycards%2Fuapi-sdk",
+      "category": "backend",
+      "createdAt": "2026-07-31T11:06:03.428Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 69
+    },
+    {
       "name": "@mrmendez/atlas",
       "version": "0.2.3",
       "description": "Local-first documentation ingestion, retrieval, and MCP/server access for multi-repo engineering docs.",
@@ -8162,6 +8282,18 @@
       "score": 86
     },
     {
+      "name": "@omegas/continuity",
+      "version": "0.2.0",
+      "description": "Open-source viewer and transfer tool for personal Claude Code and Codex configs",
+      "license": "MIT",
+      "repository": "https://github.com/OmegaAgent/omegas-dev",
+      "npmUrl": "https://www.npmjs.com/package/%40omegas%2Fcontinuity",
+      "category": "utilities",
+      "createdAt": "2026-08-01T02:37:28.184Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 75
+    },
+    {
       "name": "@omnifox/mcp-server",
       "version": "0.2.0",
       "description": "Official Omnifox.io Model Context Protocol (MCP) server — 48 tools over the Omnifox v1 REST API for Claude, Cursor, Continue and any MCP client. Every tool verified end-to-end against a live workspace.",
@@ -8402,6 +8534,30 @@
       "score": 88
     },
     {
+      "name": "@paladini/linkedin-publisher-mcp",
+      "version": "0.1.1",
+      "description": "Publish LinkedIn Articles from DEV.to via browser automation — Markdown formatting, draft-first, MCP tools.",
+      "license": "MIT",
+      "repository": "https://github.com/paladini/publish-agents",
+      "npmUrl": "https://www.npmjs.com/package/%40paladini%2Flinkedin-publisher-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-31T02:44:03.741Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 71
+    },
+    {
+      "name": "@paladini/medium-publisher-mcp",
+      "version": "0.2.2",
+      "description": "Publish to Medium via browser automation — DEV.to import, auto-fix formatting, MCP tools, persistent session.",
+      "license": "MIT",
+      "repository": "https://github.com/paladini/publish-agents",
+      "npmUrl": "https://www.npmjs.com/package/%40paladini%2Fmedium-publisher-mcp",
+      "category": "frontend",
+      "createdAt": "2026-07-31T02:43:50.225Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 73
+    },
+    {
       "name": "@panmdaa/colors",
       "version": "0.1.0",
       "description": "HCT color space, Material Design 3 dynamic themes, WCAG contrast utilities — zero dependencies",
@@ -8412,6 +8568,18 @@
       "createdAt": "2026-07-29T00:06:37.352Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 79
+    },
+    {
+      "name": "@paputechxyz/claude-code-backup",
+      "version": "0.2.1",
+      "description": "Automatic backup and sync of all Claude Code settings to GitHub",
+      "license": "MIT",
+      "repository": "https://github.com/paputechxyz/claude-code-backup",
+      "npmUrl": "https://www.npmjs.com/package/%40paputechxyz%2Fclaude-code-backup",
+      "category": "utilities",
+      "createdAt": "2026-08-01T02:36:17.349Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 70
     },
     {
       "name": "@pastepile/mcp",
@@ -10368,6 +10536,54 @@
       "createdAt": "2026-07-28T16:27:25.722Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 64
+    },
+    {
+      "name": "@snacode/sd-agent-core",
+      "version": "0.82.1",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/FrankieYuan8828/snacode",
+      "npmUrl": "https://www.npmjs.com/package/%40snacode%2Fsd-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-01T02:37:08.971Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 69
+    },
+    {
+      "name": "@snacode/sd-ai",
+      "version": "0.82.1",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/FrankieYuan8828/snacode",
+      "npmUrl": "https://www.npmjs.com/package/%40snacode%2Fsd-ai",
+      "category": "backend",
+      "createdAt": "2026-08-01T02:36:47.207Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 73
+    },
+    {
+      "name": "@snacode/sd-coding-agent",
+      "version": "0.82.1",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/FrankieYuan8828/snacode",
+      "npmUrl": "https://www.npmjs.com/package/%40snacode%2Fsd-coding-agent",
+      "category": "cli",
+      "createdAt": "2026-08-01T02:37:21.344Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 69
+    },
+    {
+      "name": "@snacode/sd-tui",
+      "version": "0.82.1",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/FrankieYuan8828/snacode",
+      "npmUrl": "https://www.npmjs.com/package/%40snacode%2Fsd-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T02:36:57.741Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 73
     },
     {
       "name": "@snae/n8n-nodes-puppeteer",
@@ -12410,6 +12626,18 @@
       "score": 79
     },
     {
+      "name": "@xsat10/baileys",
+      "version": "7.0.0",
+      "description": "WhatsApp API Modification By Xsat",
+      "license": "MIT",
+      "repository": "https://github.com/Badzz88/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40xsat10%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-08-01T05:24:22.070Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 79
+    },
+    {
       "name": "@xstoudi/ngx-webstorage",
       "version": "22.0.0",
       "description": "This library provides an easy to use service to manage the web storages (local and session) from your Angular application. It provides also two decorators to synchronize the component attributes and the web storages.",
@@ -14268,6 +14496,18 @@
       "createdAt": "2026-07-28T17:46:59.548Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 65
+    },
+    {
+      "name": "choose-security",
+      "version": "1.0.0",
+      "description": "Install the Choose-Security 3-skill security chain (review → document → remediate) into Claude Code, pi, and opencode in one command.",
+      "license": "MIT",
+      "repository": "https://github.com/beast-ofcourse/Choose-Security",
+      "npmUrl": "https://www.npmjs.com/package/choose-security",
+      "category": "utilities",
+      "createdAt": "2026-08-01T05:23:47.641Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 87
     },
     {
       "name": "chromafix-a11y",
@@ -17294,6 +17534,18 @@
       "score": 87
     },
     {
+      "name": "istiak-cli",
+      "version": "1.0.1",
+      "description": "A modern AI-powered command-line assistant for developers.",
+      "license": "MIT",
+      "repository": "https://github.com/istiakrahman15/istiak-cli",
+      "npmUrl": "https://www.npmjs.com/package/istiak-cli",
+      "category": "cli",
+      "createdAt": "2026-08-01T02:56:54.781Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 75
+    },
+    {
       "name": "jackal-cli",
       "version": "0.2.0",
       "description": "Point Claude Code at a custom Anthropic-compatible endpoint (LiteLLM, a corporate AI gateway, any proxy) without touching your normal claude login.",
@@ -18398,6 +18650,18 @@
       "score": 87
     },
     {
+      "name": "media-gen-pro-mcp",
+      "version": "0.2.0",
+      "description": "Image and video generation as an MCP tool. GPT Image 2, Gemini, Recraft, Seedream, Grok, Arrow SVG, plus MiniMax and Seedance video; reference images and context supported; returns file paths, not megabytes of base64.",
+      "license": "MIT",
+      "repository": "https://github.com/fledgeling-co/media-gen-pro-mcp",
+      "npmUrl": "https://www.npmjs.com/package/media-gen-pro-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-01T04:51:35.049Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 90
+    },
+    {
       "name": "medusa-search-select",
       "version": "0.1.0",
       "description": "A searchable, accessible select/combobox component for React, built for Medusa.js storefronts and admin dashboards (but usable in any React app).",
@@ -19214,6 +19478,18 @@
       "score": 86
     },
     {
+      "name": "notmymachine",
+      "version": "1.0.0",
+      "description": "Runs your test suite in other timezones, locales and home directories to find the tests that only pass on your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/zuhairadnansutrisno2502-lab/notmymachine",
+      "npmUrl": "https://www.npmjs.com/package/notmymachine",
+      "category": "testing",
+      "createdAt": "2026-08-01T05:30:19.421Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 72
+    },
+    {
       "name": "novapay",
       "version": "1.0.1",
       "description": "NovaPay Internet Acquiring and Checkout API client for Node.js",
@@ -19536,6 +19812,18 @@
       "createdAt": "2026-07-29T03:21:52.428Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 79
+    },
+    {
+      "name": "opencode-gpt-multiauth",
+      "version": "6.11.2",
+      "description": "OpenCode plugin for ChatGPT Plus/Pro OAuth with Codex/GPT-5 routing, multi-account rotation, account switching, health checks, diagnostics, and recovery tools",
+      "license": "MIT",
+      "repository": "https://github.com/WilfredLemus/opencode-gpt-multiauth",
+      "npmUrl": "https://www.npmjs.com/package/opencode-gpt-multiauth",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T04:36:54.658Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 71
     },
     {
       "name": "opencode-okf-context",
@@ -21444,6 +21732,18 @@
       "createdAt": "2026-07-27T14:44:09.375Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 76
+    },
+    {
+      "name": "roost-top",
+      "version": "0.4.0",
+      "description": "top for Claude Code -- live sessions, models, context, and the subagents they spawn",
+      "license": "MIT",
+      "repository": "https://github.com/gmhoward9289-ops/roost",
+      "npmUrl": "https://www.npmjs.com/package/roost-top",
+      "category": "utilities",
+      "createdAt": "2026-08-01T02:48:13.392Z",
+      "discoveredAt": "2026-08-01T05:34:32.095Z",
+      "score": 70
     },
     {
       "name": "rotpilot",
