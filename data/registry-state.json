@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122783146,
-  "lastRunAt": "2026-08-01T22:45:45.916Z",
+  "lastSequence": 122786562,
+  "lastRunAt": "2026-08-01T23:42:55.944Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@aibo666/ebo-publish-check",
-      "attempts": 7
-    },
-    {
-      "name": "@danieljvdm/dev-kit",
+      "name": "@custombots/custombot",
       "attempts": 1
     },
     {
-      "name": "@mutsuna/ui",
+      "name": "@agent-ctrl/client",
       "attempts": 1
     },
     {
-      "name": "@reptilianhq/chain-indexer-contract",
+      "name": "@corthan/react",
       "attempts": 1
     }
   ]
