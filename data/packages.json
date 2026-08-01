@@ -494,6 +494,18 @@
       "score": 91
     },
     {
+      "name": "@aizvi/auth-postgres",
+      "version": "1.1.0",
+      "description": "PostgreSQL storage adapter for @aizvi/auth. postgresAdapter() opens its own connection pool via pg; createPostgresAuthAdapter() also works with any client you already have open, including pg.Pool, pg.Client, or @electric-sql/pglite.",
+      "license": "MIT",
+      "repository": "https://github.com/Aizvi/auth",
+      "npmUrl": "https://www.npmjs.com/package/%40aizvi%2Fauth-postgres",
+      "category": "data",
+      "createdAt": "2026-08-01T05:31:45.287Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 86
+    },
+    {
       "name": "@ajarallah/matn",
       "version": "1.3.0",
       "description": "A calm, right-to-left Markdown reader for Arabic: reading themes, embedded Arabic fonts, syntax highlighting, Mermaid diagrams, callouts, wikilinks, search, and live reload. Runs locally in your browser.",
@@ -816,6 +828,18 @@
       "createdAt": "2026-07-27T19:49:04.970Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 78
+    },
+    {
+      "name": "@antihero/filidate",
+      "version": "0.2.0",
+      "description": "Lightweight, extensible, type-safe file validation for browsers and Node.js. Validates File, Blob, Buffer, ArrayBuffer, Uint8Array and file paths against declarative schemas.",
+      "license": "MIT",
+      "repository": "https://github.com/Lelianto/filidate",
+      "npmUrl": "https://www.npmjs.com/package/%40antihero%2Ffilidate",
+      "category": "frontend",
+      "createdAt": "2026-08-01T06:03:21.638Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 87
     },
     {
       "name": "@antihero/nano-cache",
@@ -1478,6 +1502,18 @@
       "score": 79
     },
     {
+      "name": "@bacnh85/pi-ux",
+      "version": "0.4.2",
+      "description": "Anti-slop UI/UX design discipline for your Pi agent — anchors a lintable DESIGN.md, runs deterministic slop-audit gates (APCA contrast + tokens + states + slop tells), works with text-only models, ships reference design-system presets.",
+      "license": "MIT",
+      "repository": "https://github.com/bacnh85/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40bacnh85%2Fpi-ux",
+      "category": "devops",
+      "createdAt": "2026-07-31T03:42:06.468Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 66
+    },
+    {
       "name": "@bakidev/durable-rate-limiter",
       "version": "0.9.0",
       "description": "A shared rate limiter and concurrency gate for Cloudflare Workers, backed by a Durable Object.",
@@ -1836,6 +1872,30 @@
       "createdAt": "2026-07-27T15:03:03.696Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 87
+    },
+    {
+      "name": "@browsers-cli/se-mcp",
+      "version": "0.1.0",
+      "description": "MCP (Model Context Protocol) server for se-cli — exposes all Selenium browser automation commands as MCP tools for AI agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/se-cli/se-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40browsers-cli%2Fse-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-01T07:52:04.067Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 76
+    },
+    {
+      "name": "@bruxa/stfca",
+      "version": "1.2.30",
+      "description": "Unofficial Facebook Chat API for Node.js with Auto-Update System - Enhanced by ST | Sheikh Tamim",
+      "license": "MIT",
+      "repository": "https://github.com/bruxa6t9/ST-FCA",
+      "npmUrl": "https://www.npmjs.com/package/%40bruxa%2Fstfca",
+      "category": "backend",
+      "createdAt": "2026-08-01T07:50:00.563Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 89
     },
     {
       "name": "@bsv/air-gap",
@@ -3482,6 +3542,18 @@
       "score": 85
     },
     {
+      "name": "@eborja/cortex",
+      "version": "0.1.1",
+      "description": "Cortex — the operator for Synapse standing agents: scaffold, provision, run, and health-check role-based agents that brief from a Synapse vault and talk over Block's Buzz. Ships no Buzz code; orchestrates a separately-installed relay.",
+      "license": "MIT",
+      "repository": "https://github.com/eborjaa/cortex",
+      "npmUrl": "https://www.npmjs.com/package/%40eborja%2Fcortex",
+      "category": "utilities",
+      "createdAt": "2026-07-31T21:40:07.934Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 68
+    },
+    {
       "name": "@eclipsesource/review-guard-mcp",
       "version": "0.1.1",
       "description": "MCP server that lets agents work on GitHub PR reviews behind a safety boundary: pending (draft) reviews by default, submitting as an explicit opt-in",
@@ -3744,6 +3816,18 @@
       "createdAt": "2026-07-26T12:53:53.359Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 70
+    },
+    {
+      "name": "@falzo/cli",
+      "version": "2.1.0",
+      "description": "Install, sync, diagnose and measure your purchased Falzo AI engineering squad from the terminal. Dependency-free Node 20 CLI over MCP, with opt-in privacy-first usage telemetry and a token-saver installer.",
+      "license": "MIT",
+      "repository": "https://github.com/juliofalbo/ai-squad-on-demand",
+      "npmUrl": "https://www.npmjs.com/package/%40falzo%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-01T05:41:16.310Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 100
     },
     {
       "name": "@falzz1010/laravel-mcp-server",
@@ -4308,6 +4392,18 @@
       "createdAt": "2026-07-31T19:32:50.731Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 83
+    },
+    {
+      "name": "@gasolinaradar/dgt-ev-collector",
+      "version": "1.0.0",
+      "description": "Collector for the official DGT EV charging station dataset (Spain) returning normalized EV charging stations",
+      "license": "MIT",
+      "repository": "https://github.com/gasolinaradar/dgt-ev-collector",
+      "npmUrl": "https://www.npmjs.com/package/%40gasolinaradar%2Fdgt-ev-collector",
+      "category": "data",
+      "createdAt": "2026-08-01T07:44:49.087Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 82
     },
     {
       "name": "@gasolinaradar/miterd-collector",
@@ -5774,6 +5870,18 @@
       "score": 81
     },
     {
+      "name": "@homielab/jsonlet",
+      "version": "1.0.0",
+      "description": "The safest way to store small and medium-sized application state in a local JSON file.",
+      "license": "MIT",
+      "repository": "https://github.com/homielab/jsonlet",
+      "npmUrl": "https://www.npmjs.com/package/%40homielab%2Fjsonlet",
+      "category": "data",
+      "createdAt": "2026-08-01T05:38:00.361Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 70
+    },
+    {
       "name": "@honlnk/picsense",
       "version": "0.1.0",
       "description": "A local MCP server that gives unimodal LLMs multimodal vision — image/video recognition with multi-turn iterative analysis.",
@@ -6576,6 +6684,18 @@
       "createdAt": "2026-07-25T20:52:22.788Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 51
+    },
+    {
+      "name": "@keys-i/seer",
+      "version": "1.0.0",
+      "description": "Build-time localization, JSON content, SEO, and AI-search metadata for any website.",
+      "license": "MIT",
+      "repository": "https://github.com/keys-i/seer",
+      "npmUrl": "https://www.npmjs.com/package/%40keys-i%2Fseer",
+      "category": "data",
+      "createdAt": "2026-08-01T07:32:40.487Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 71
     },
     {
       "name": "@khanhicetea/pi-wui",
@@ -7622,6 +7742,18 @@
       "score": 93
     },
     {
+      "name": "@moesi/react",
+      "version": "1.0.0",
+      "description": "Headless React provider and typed hooks for Moesi clients.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/leekt/deployer",
+      "npmUrl": "https://www.npmjs.com/package/%40moesi%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-01T06:10:40.257Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 75
+    },
+    {
       "name": "@molviewer/core",
       "version": "0.3.0",
       "description": "Extensible, offline, web-native 3D molecular viewer for small molecules and MD trajectories.",
@@ -8580,6 +8712,18 @@
       "createdAt": "2026-08-01T02:36:17.349Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 70
+    },
+    {
+      "name": "@parthobepary/nuxt-meta-pixel",
+      "version": "1.0.1",
+      "description": "A lightweight Facebook/Meta Pixel package for Nuxt 4",
+      "license": "MIT",
+      "repository": "https://github.com/parthobepary/facebook-pixel",
+      "npmUrl": "https://www.npmjs.com/package/%40parthobepary%2Fnuxt-meta-pixel",
+      "category": "utilities",
+      "createdAt": "2026-08-01T07:42:17.167Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 78
     },
     {
       "name": "@pastepile/mcp",
@@ -10370,6 +10514,18 @@
       "score": 60
     },
     {
+      "name": "@simdad/wordlist-core",
+      "version": "0.1.1",
+      "description": "Excisor's engine: a pure, deterministic, dependency-free de-identification engine. Wordlist + structured HIPAA/FERPA/GDPR shape detection, mask/placeholder/generalize/safe-harbor/pseudonym transforms, checksum validators, and batch mode with a redaction c",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SIM-DAD/wordlist-core",
+      "npmUrl": "https://www.npmjs.com/package/%40simdad%2Fwordlist-core",
+      "category": "data",
+      "createdAt": "2026-08-01T07:46:14.262Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 80
+    },
+    {
       "name": "@simon-says-build/harbormaster",
       "version": "0.6.0",
       "description": "A localhost daemon that leases each caller its own port block — isolated Firebase emulator sandboxes, Metro/Expo ports, private iOS simulators — reaped when the caller exits. No port collisions, no shared instances, no pkill. Formerly firebase-ports.",
@@ -10848,6 +11004,18 @@
       "createdAt": "2026-07-28T01:20:59.976Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 72
+    },
+    {
+      "name": "@spore-host/advisor-ts",
+      "version": "0.1.0",
+      "description": "Browser-native AI advisor for research computing on AWS — answers \"what should I run this on?\" and \"what will it cost?\" by calling the spore.host tools for every hardware fact, with Amazon Bedrock supplying only the workload reasoning.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/spore-host/advisor-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40spore-host%2Fadvisor-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-01T06:28:24.993Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 90
     },
     {
       "name": "@ss22219/skilldb",
@@ -11496,6 +11664,18 @@
       "createdAt": "2026-07-26T17:17:18.397Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 71
+    },
+    {
+      "name": "@thefireflysparkle/codelens-cli",
+      "version": "0.1.1",
+      "description": "Multi-agent LLM code review tool. A context agent builds RAG embeddings over your codebase and feeds a review agent that reasons over git diffs, streaming its review token-by-token.",
+      "license": "MIT",
+      "repository": "https://github.com/thefireflysparkle/codelens-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thefireflysparkle%2Fcodelens-cli",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T06:09:53.113Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 74
     },
     {
       "name": "@thenamespace/ens-components-v2",
@@ -13007,6 +13187,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-26T21:18:47.263Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 77
+    },
+    {
+      "name": "a2done",
+      "version": "0.2.0",
+      "description": "Enforcement layer for AI coding agents: finish every item you asked for, stop generating slop, stop repeating corrected mistakes — proven by machine-checked evidence, not the agent's own word.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/0leg-design/a2done-monorepo",
+      "npmUrl": "https://www.npmjs.com/package/a2done",
+      "category": "utilities",
+      "createdAt": "2026-08-01T07:19:04.928Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 77
     },
     {
@@ -14988,6 +15180,18 @@
       "createdAt": "2026-07-28T14:37:30.437Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 85
+    },
+    {
+      "name": "coinlobster-mcp",
+      "version": "1.0.0",
+      "description": "Live crypto whale trades across 15 exchanges + on-chain DEX flow (Ethereum, Base, Arbitrum), Smart Money Radar, liquidations and outcome-scored signals. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/coinlobster/coinlobster-mcp",
+      "npmUrl": "https://www.npmjs.com/package/coinlobster-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T05:39:45.072Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 90
     },
     {
       "name": "coldmail-reseller-mcp",
@@ -17330,6 +17534,18 @@
       "score": 71
     },
     {
+      "name": "icemoon-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for controlling real, physical iPhones with AI — no jailbreak. Launcher for the Icemoon macOS app.",
+      "license": "MIT",
+      "repository": "https://github.com/icemoon-dev/icemoon-mcp",
+      "npmUrl": "https://www.npmjs.com/package/icemoon-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-01T06:39:36.029Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 76
+    },
+    {
       "name": "iconfont-mcp-server",
       "version": "1.0.1",
       "description": "MCP server for iconfont.cn - search, browse and download icons via AI assistants",
@@ -19262,6 +19478,18 @@
       "score": 94
     },
     {
+      "name": "nerium-sdk",
+      "version": "0.1.0",
+      "description": "Provider-agnostic. Infrastructure-agnostic. Runtime-agnostic. Zero deps for llms calls.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/ElBenjaMasLindo/nerium",
+      "npmUrl": "https://www.npmjs.com/package/nerium-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T08:05:12.897Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 69
+    },
+    {
       "name": "nestjs-graphql-regenerate",
       "version": "0.1.0",
       "description": "Regenerate a NestJS code-first GraphQL schema without booting the app",
@@ -19826,6 +20054,18 @@
       "score": 71
     },
     {
+      "name": "opencode-lark-bridge",
+      "version": "0.1.0",
+      "description": "OpenCode plugin to push permission/task/question events to Feishu (Lark) via lark-cli",
+      "license": "MIT",
+      "repository": "https://github.com/leo-lab-2026/opencode-lark-bridge",
+      "npmUrl": "https://www.npmjs.com/package/opencode-lark-bridge",
+      "category": "cli",
+      "createdAt": "2026-08-01T07:55:59.537Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 67
+    },
+    {
       "name": "opencode-okf-context",
       "version": "0.1.2",
       "description": "OpenCode plugin: progressive disclosure + auto-unload for OKF (Open Knowledge Format) knowledge bundles. Inspired by DCP's outbound-only context transformation.",
@@ -20184,6 +20424,18 @@
       "createdAt": "2026-07-30T19:19:45.029Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 83
+    },
+    {
+      "name": "pdfkernel",
+      "version": "0.1.0",
+      "description": "A pure-TypeScript PDF core: lazy parsing, append-only writing, AcroForm read/fill/flatten/synthesize, and text extraction. No WASM.",
+      "license": "MIT",
+      "repository": "https://github.com/folsomintel/pdfkernel",
+      "npmUrl": "https://www.npmjs.com/package/pdfkernel",
+      "category": "frontend",
+      "createdAt": "2026-08-01T05:46:32.396Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 75
     },
     {
       "name": "pg-hybrid-rrf",
@@ -22454,6 +22706,18 @@
       "score": 86
     },
     {
+      "name": "socketio-kit",
+      "version": "0.2.0",
+      "description": "Developer-friendly Socket.IO SDK wrapper for Client & Express Server with type-safety, room helpers, React hooks, and automatic cleanup.",
+      "license": "MIT",
+      "repository": "https://github.com/darmawandoni6/socket-kit",
+      "npmUrl": "https://www.npmjs.com/package/socketio-kit",
+      "category": "frontend",
+      "createdAt": "2026-07-30T06:56:51.247Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 70
+    },
+    {
       "name": "solana-agent-kit-plugin-risk-api",
       "version": "1.0.0",
       "description": "Solana Agent Kit plugin for the TNT House Risk-Data API — Solana token risk scoring and on-chain insider wallet cluster detection.",
@@ -22776,6 +23040,18 @@
       "createdAt": "2026-07-27T04:40:43.915Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 73
+    },
+    {
+      "name": "supamaus",
+      "version": "0.1.0",
+      "description": "SupaMaus CLI — record and publish AI-guided product tours by driving a real browser; MCP server for Claude Code and Codex.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/milind-soni/tip-tour",
+      "npmUrl": "https://www.npmjs.com/package/supamaus",
+      "category": "frontend",
+      "createdAt": "2026-08-01T07:32:23.290Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 70
     },
     {
       "name": "superdocs-app-cli",
@@ -23508,6 +23784,18 @@
       "createdAt": "2026-07-26T07:35:29.982Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 74
+    },
+    {
+      "name": "uganda-locale",
+      "version": "0.9.1",
+      "description": "Open, versioned dataset and library of Uganda's administrative units — regions, districts, cities, counties, municipalities, subcounties, town councils, parishes, wards, villages, cells and zones.",
+      "license": "SEE LICENSE-CODE.md AND LICENSE-DATA.md",
+      "repository": "https://github.com/kakandemanwell/uganda",
+      "npmUrl": "https://www.npmjs.com/package/uganda-locale",
+      "category": "data",
+      "createdAt": "2026-08-01T07:43:16.817Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 89
     },
     {
       "name": "ui5.touch.controls",
@@ -24480,6 +24768,18 @@
       "createdAt": "2026-07-26T11:05:48.133Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 60
+    },
+    {
+      "name": "xls-to-xlsx",
+      "version": "1.2.3",
+      "description": "Secure XLS → XLSX converter (also CSV/ODS/JSON). Pure-JS helpers + a tiny client SDK + a hardened, CVE-scanned Docker image.",
+      "license": "MIT",
+      "repository": "https://github.com/helloderekg/xls-converter",
+      "npmUrl": "https://www.npmjs.com/package/xls-to-xlsx",
+      "category": "cli",
+      "createdAt": "2026-08-01T05:47:01.614Z",
+      "discoveredAt": "2026-08-01T08:06:42.936Z",
+      "score": 92
     },
     {
       "name": "xplain-sdk",
