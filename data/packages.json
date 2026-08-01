@@ -506,6 +506,18 @@
       "score": 80
     },
     {
+      "name": "@ai-nd-co/codex-web-remote",
+      "version": "0.1.0",
+      "description": "One-command web remote for openai/codex app-server: bundled UI + host-side security-boundary proxy + smart auto-launch.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ai-nd-co/codex-web-remote",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-nd-co%2Fcodex-web-remote",
+      "category": "backend",
+      "createdAt": "2026-08-01T22:39:55.663Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 75
+    },
+    {
       "name": "@ai-router/openai-compatible-errors",
       "version": "0.1.0",
       "description": "Normalize OpenAI-compatible API errors into typed categories, retry plans, request IDs, and redacted diagnostics",
@@ -1284,6 +1296,18 @@
       "createdAt": "2026-07-28T05:37:50.811Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 68
+    },
+    {
+      "name": "@arvoretech/canopy",
+      "version": "0.1.0",
+      "description": "Canopy — watch and drive your existing browser (Arc/Chrome) with AI agents: MCP + CDP daemon, live cockpit with replay, visible AI cursor.",
+      "license": "MIT",
+      "repository": "https://github.com/arvoreeducacao/canopy",
+      "npmUrl": "https://www.npmjs.com/package/%40arvoretech%2Fcanopy",
+      "category": "frontend",
+      "createdAt": "2026-08-01T22:44:25.603Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 81
     },
     {
       "name": "@aryasaatvik/motel",
@@ -3254,6 +3278,18 @@
       "score": 87
     },
     {
+      "name": "@deploy-your-app/capacitor-update-manager",
+      "version": "0.2.1",
+      "description": "Live update and analytics plugin for CapacitorJS apps — part of the DeployYourApp platform",
+      "license": "MIT",
+      "repository": "https://github.com/Craigzyc/DeployYourApp",
+      "npmUrl": "https://www.npmjs.com/package/%40deploy-your-app%2Fcapacitor-update-manager",
+      "category": "data",
+      "createdAt": "2026-07-31T20:20:59.829Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 69
+    },
+    {
       "name": "@dev_config/client-api-kit",
       "version": "1.0.1",
       "description": "Generic, type-safe API client built on axios and api-response-kit's response envelope. Framework-agnostic 'resources' for server components/server actions, plus a TanStack Query hooks layer for client components. Generic CRUD, offset + cursor pagination,",
@@ -3422,6 +3458,54 @@
       "score": 75
     },
     {
+      "name": "@dinglebear/rarcane",
+      "version": "0.4.4",
+      "description": "MCP server and CLI for Arcane: manage Docker containers, images, networks, volumes, and Compose projects over stdio or streamable HTTP, with auth.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/rarcane",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Frarcane",
+      "category": "backend",
+      "createdAt": "2026-08-01T22:34:33.586Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 84
+    },
+    {
+      "name": "@dinglebear/rgotify",
+      "version": "0.1.2",
+      "description": "MCP server and CLI for Gotify: send push notifications and manage messages, apps, and clients over stdio or streamable HTTP, with auth.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/rgotify",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Frgotify",
+      "category": "backend",
+      "createdAt": "2026-08-01T22:34:49.897Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 83
+    },
+    {
+      "name": "@dinglebear/rtailscale",
+      "version": "0.1.4",
+      "description": "MCP server and CLI for Tailscale: inspect and manage tailnet devices, routes, users, keys, DNS, and ACL policy over stdio or streamable HTTP.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/rtailscale",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Frtailscale",
+      "category": "backend",
+      "createdAt": "2026-08-01T22:35:07.210Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 84
+    },
+    {
+      "name": "@dinglebear/runifi",
+      "version": "0.2.5",
+      "description": "MCP server and CLI for UniFi Network controllers: clients, devices, WLANs, firewall, and health over stdio or streamable HTTP, with auth.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/runifi",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Frunifi",
+      "category": "backend",
+      "createdAt": "2026-08-01T22:35:19.135Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 83
+    },
+    {
       "name": "@dioschub/client",
       "version": "0.1.2",
       "description": "Client SDK for the DioscHub Assistant Kit — script loader and typed command API (createDiosc).",
@@ -3456,6 +3540,18 @@
       "createdAt": "2026-07-29T18:11:36.650Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 81
+    },
+    {
+      "name": "@dloizides/ui-motion",
+      "version": "1.0.1",
+      "description": "Themable, brand-agnostic React Native (RN-web) motion primitives — useEnterExit, FadeIn, Collapse, PressableScale, Skeleton — built on RN Animated, driven by @dloizides/design-tokens motion tokens, and gated on @dloizides/rn-web-hooks useReducedMotion (ev",
+      "license": "MIT",
+      "repository": "https://github.com/openmindednewby/ui-motion",
+      "npmUrl": "https://www.npmjs.com/package/%40dloizides%2Fui-motion",
+      "category": "frontend",
+      "createdAt": "2026-08-01T22:21:29.531Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 73
     },
     {
       "name": "@dltech/ai-testing",
@@ -6410,6 +6506,18 @@
       "score": 64
     },
     {
+      "name": "@hedra/cli",
+      "version": "0.2.0",
+      "description": "Command-line interface for the Hedra Web API",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hedra-labs/hedra-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40hedra%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-01T21:58:14.228Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 62
+    },
+    {
       "name": "@hellomoksedul/media-uploader",
       "version": "1.0.1",
       "description": "A fully customizable, headless media upload library for React & Next.js. Includes image editor, cropper, filters, Unsplash integration and 4 field variants.",
@@ -7788,6 +7896,18 @@
       "createdAt": "2026-07-29T04:18:36.735Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 69
+    },
+    {
+      "name": "@kumokodo/tetrameter-core",
+      "version": "0.1.1",
+      "description": "Tetrameter — four measures of AI inference: energy, carbon, water and land, plus cost. Reference implementation of the Green Software Foundation SCI for AI specification. Every number carries an evidence tier, an uncertainty range and its sources.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/samwsimpson/tetrameter-core",
+      "npmUrl": "https://www.npmjs.com/package/%40kumokodo%2Ftetrameter-core",
+      "category": "devops",
+      "createdAt": "2026-08-01T21:19:07.665Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 62
     },
     {
       "name": "@kuntay/swisseph-mcp",
@@ -10106,6 +10226,18 @@
       "score": 59
     },
     {
+      "name": "@pixodesk/svg-animator-rn",
+      "version": "1.0.22",
+      "description": "Pixodesk SVG animator for React Native — renders animator documents via react-native-svg, driven natively by react-native-reanimated",
+      "license": "MIT",
+      "repository": "https://github.com/pixodesk/pixodesk-svg-animator",
+      "npmUrl": "https://www.npmjs.com/package/%40pixodesk%2Fsvg-animator-rn",
+      "category": "frontend",
+      "createdAt": "2026-07-30T21:34:35.134Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 73
+    },
+    {
       "name": "@pixu1980/pi-ask",
       "version": "0.1.1",
       "description": "Interactive Q&A for pi coding agent - multiple choice and single answer questions with notes and custom answers, Claude Code style",
@@ -10668,6 +10800,18 @@
       "createdAt": "2026-07-30T07:23:23.798Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 93
+    },
+    {
+      "name": "@quphoria/react-oauth2-code-pkce",
+      "version": "1.24.1",
+      "description": "Provider agnostic react package for OAuth2 Authorization Code flow with PKCE",
+      "license": "MIT",
+      "repository": "https://github.com/Quphoria/react-oauth2-pkce",
+      "npmUrl": "https://www.npmjs.com/package/%40quphoria%2Freact-oauth2-code-pkce",
+      "category": "frontend",
+      "createdAt": "2026-08-01T22:23:08.628Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 87
     },
     {
       "name": "@qvac/asr-ggml",
@@ -13478,6 +13622,18 @@
       "score": 62
     },
     {
+      "name": "@undolog/sdk",
+      "version": "0.2.0",
+      "description": "TypeScript SDK for the UndoLog effect-tracking and exactly-once execution system",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/UndoBase/UndoLog",
+      "npmUrl": "https://www.npmjs.com/package/%40undolog%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T21:41:29.725Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 76
+    },
+    {
       "name": "@unibaseio/bitagent-cli",
       "version": "0.1.0",
       "description": "BitAgent CLI — hire agents, run agents, and trade agent tokens on the BitAgent platform",
@@ -16190,6 +16346,18 @@
       "score": 47
     },
     {
+      "name": "bytecode-ai",
+      "version": "1.0.0",
+      "description": "ByteCode — multi-provider agent harness with Claude Code semantics and an opencode-style provider layer",
+      "license": "MIT",
+      "repository": "https://github.com/abelduartek/ByteCode",
+      "npmUrl": "https://www.npmjs.com/package/bytecode-ai",
+      "category": "cli",
+      "createdAt": "2026-08-01T21:41:02.459Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 86
+    },
+    {
       "name": "cabalspy",
       "version": "0.1.1",
       "description": "KOL and smart money wallet tracking API for Solana, Base, BNB Chain, Ethereum and Robinhood Chain. Realtime KOL trades, whale wallets, copy-trading signals, bundle detection, token holders and PnL over REST and WebSocket.",
@@ -16826,6 +16994,18 @@
       "score": 66
     },
     {
+      "name": "cockpit-claude",
+      "version": "1.0.0",
+      "description": "A four-line instrument panel for a Claude Code session: context, spend, rate-limit pace, and every session sharing your limit.",
+      "license": "MIT",
+      "repository": "https://github.com/noluyorAbi/cockpit-claude",
+      "npmUrl": "https://www.npmjs.com/package/cockpit-claude",
+      "category": "cli",
+      "createdAt": "2026-08-01T21:18:50.007Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 82
+    },
+    {
       "name": "cockroach-browser",
       "version": "0.1.0",
       "description": "A local-first browser runtime for AI agents with authorized sessions, snapshot-scoped references, evidence capture, MCP, and Maqam policy hooks.",
@@ -17112,6 +17292,18 @@
       "createdAt": "2026-07-26T23:35:31.788Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 78
+    },
+    {
+      "name": "context-audit",
+      "version": "0.2.1",
+      "description": "Audit every AI coding tool's instruction files in one run — Claude Code skills/agents/commands, Codex prompts and AGENTS.md, Cursor rules. What they cost every session, which never fire, and whether any are doing something they shouldn't. Deterministic, o",
+      "license": "MIT",
+      "repository": "https://github.com/fayzan123/context-audit",
+      "npmUrl": "https://www.npmjs.com/package/context-audit",
+      "category": "utilities",
+      "createdAt": "2026-08-01T22:20:03.771Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 90
     },
     {
       "name": "context-auth",
@@ -19094,6 +19286,18 @@
       "score": 75
     },
     {
+      "name": "grit-datatype",
+      "version": "1.0.0",
+      "description": "Check what a quantized tensor actually means: GRIT descriptors carry the full numeric contract (element format, group sizes, scale formats, zero points, sparsity, rounding) as 64 bytes with a 64-bit id, verifiable against the bytes in O(1). Spec v1, zero",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/singhpratech/grit-datatype",
+      "npmUrl": "https://www.npmjs.com/package/grit-datatype",
+      "category": "data",
+      "createdAt": "2026-08-01T22:31:32.850Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 64
+    },
+    {
       "name": "gstinapi",
       "version": "1.0.0",
       "description": "GSTIN verification for Node.js — look up any Indian GST number and get the legal name, status, taxpayer type and registered address.",
@@ -19742,6 +19946,18 @@
       "score": 77
     },
     {
+      "name": "inquirex-widget",
+      "version": "0.8.0",
+      "description": "Embeddable copilot-style questionnaire widget powered by Inquirex flow definitions",
+      "license": "MIT",
+      "repository": "https://github.com/inquirex/inquirex-js",
+      "npmUrl": "https://www.npmjs.com/package/inquirex-widget",
+      "category": "utilities",
+      "createdAt": "2026-08-01T22:07:56.110Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 58
+    },
+    {
       "name": "insomnia-plugin-collection-linter",
       "version": "1.0.0",
       "description": "Local-only Insomnia workspace linting: duplicate names, risky URLs, auth query strings, environment hygiene, and redacted reports.",
@@ -20052,6 +20268,18 @@
       "createdAt": "2026-07-25T16:03:10.263Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 100
+    },
+    {
+      "name": "keepline",
+      "version": "0.1.1",
+      "description": "Typed WebSocket client that keeps the line up: reconnection with jittered backoff, heartbeats and half-open detection, schema validation, reconnect-surviving subscriptions, and a real observability stream. ESM-first, zero dependencies, with React 19 bindi",
+      "license": "MIT",
+      "repository": "https://github.com/TomasSestak/keepline",
+      "npmUrl": "https://www.npmjs.com/package/keepline",
+      "category": "frontend",
+      "createdAt": "2026-08-01T21:52:19.806Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 90
     },
     {
       "name": "kei-transaction",
@@ -21396,6 +21624,18 @@
       "createdAt": "2026-07-31T17:24:01.632Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 74
+    },
+    {
+      "name": "mvx-audit",
+      "version": "3.1.0",
+      "description": "Reproducible security auditing, threat intelligence, and isolated analysis for Chrome extensions",
+      "license": "MIT",
+      "repository": "https://github.com/hyj28/mvx-audit",
+      "npmUrl": "https://www.npmjs.com/package/mvx-audit",
+      "category": "devops",
+      "createdAt": "2026-08-01T22:14:59.967Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 79
     },
     {
       "name": "my-md-baileys",
@@ -23606,6 +23846,18 @@
       "score": 84
     },
     {
+      "name": "promptometer-core",
+      "version": "1.0.0",
+      "description": "Zero-dependency prompt evaluation engine — scores, anti-patterns, adversarial tests, rewrites. JS/Python parity.",
+      "license": "MIT",
+      "repository": "https://github.com/j0sp0nc3/promptometer",
+      "npmUrl": "https://www.npmjs.com/package/promptometer-core",
+      "category": "testing",
+      "createdAt": "2026-08-01T21:18:20.391Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 62
+    },
+    {
       "name": "provegate",
       "version": "0.3.0",
       "description": "Gate autonomous AI coding on machine-checkable evidence. Prove it, then let it propagate.",
@@ -23844,6 +24096,18 @@
       "createdAt": "2026-08-01T14:31:47.229Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 84
+    },
+    {
+      "name": "react-financial-input",
+      "version": "0.1.1",
+      "description": "Zero-dependency React financial input that formats as you type and handles desktop, iOS and Android input events.",
+      "license": "MIT",
+      "repository": "https://github.com/david-chau/react-financial-input",
+      "npmUrl": "https://www.npmjs.com/package/react-financial-input",
+      "category": "frontend",
+      "createdAt": "2026-08-01T22:37:41.807Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 78
     },
     {
       "name": "react-geo-data",
@@ -24168,6 +24432,18 @@
       "createdAt": "2026-07-27T07:54:13.329Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 80
+    },
+    {
+      "name": "react-viz-suite",
+      "version": "0.3.2",
+      "description": "Shared design tokens and React UI primitives (SoftList, charts, cards, tables)",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/giginkrishnan/react-viz-suite",
+      "npmUrl": "https://www.npmjs.com/package/react-viz-suite",
+      "category": "frontend",
+      "createdAt": "2026-08-01T08:38:21.580Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 60
     },
     {
       "name": "real-shadows",
@@ -24768,6 +25044,18 @@
       "createdAt": "2026-07-30T10:31:38.155Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 78
+    },
+    {
+      "name": "scenepipe",
+      "version": "0.2.0",
+      "description": "npx scenepipe — AI-authored, Remotion-rendered, brand-consistent short-form video. No AI-generated rendering code, ever.",
+      "license": "MIT",
+      "repository": "https://github.com/shashikanth-gs/ScenePipe",
+      "npmUrl": "https://www.npmjs.com/package/scenepipe",
+      "category": "data",
+      "createdAt": "2026-08-01T21:39:10.979Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 60
     },
     {
       "name": "scorm-mcp-server",
@@ -25476,6 +25764,18 @@
       "createdAt": "2026-08-01T20:53:43.532Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 84
+    },
+    {
+      "name": "spanplane",
+      "version": "0.8.2",
+      "description": "A local-first A2A agent testing workbench for discovery, conversations, protocol operations, streaming, and content-aware artifacts.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shashikanth-gs/spanplane",
+      "npmUrl": "https://www.npmjs.com/package/spanplane",
+      "category": "testing",
+      "createdAt": "2026-08-01T21:39:33.877Z",
+      "discoveredAt": "2026-08-01T22:45:45.916Z",
+      "score": 77
     },
     {
       "name": "spec-init",
