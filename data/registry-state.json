@@ -1,63 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122748962,
-  "lastRunAt": "2026-08-01T14:52:59.449Z",
+  "lastSequence": 122753658,
+  "lastRunAt": "2026-08-01T15:48:21.608Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@sylphx/keel-contracts",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-ecs",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-input",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-physics",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-physics-simple",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-testkit",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-ui",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-assets",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-three",
-      "attempts": 1
-    },
-    {
       "name": "@sylphx/keel-std",
-      "attempts": 1
-    },
-    {
-      "name": "@sylphx/keel-anim",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@sylphx/keel-platform",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@sylphx/keel-physics-rapier",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@sylphx/keel",
+      "attempts": 2
+    },
+    {
+      "name": "@aibo666/ebo-publish-check",
       "attempts": 1
     }
   ]
