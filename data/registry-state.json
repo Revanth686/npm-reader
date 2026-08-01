@@ -1,11 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122730120,
-  "lastRunAt": "2026-08-01T10:07:55.060Z",
+  "lastSequence": 122734798,
+  "lastRunAt": "2026-08-01T11:32:46.434Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@messagevisor/parsers",
+      "name": "@confluxjs/create-conflux",
+      "attempts": 1
+    },
+    {
+      "name": "@arcevo/facet-tokens",
+      "attempts": 1
+    },
+    {
+      "name": "@agenttool/hf-kingdom-lab",
       "attempts": 1
     }
   ]
