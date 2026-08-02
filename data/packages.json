@@ -386,6 +386,30 @@
       "score": 83
     },
     {
+      "name": "@adobe-thillai/aio-cli-plugin-ccca",
+      "version": "1.0.0",
+      "description": "Claude Code commands, hooks, and SDLC workflow for Adobe Commerce / Magento 2 module development — phase-driven lifecycle from requirements to production-ready module.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/OneAdobe/project-ccca",
+      "npmUrl": "https://www.npmjs.com/package/%40adobe-thillai%2Faio-cli-plugin-ccca",
+      "category": "cli",
+      "createdAt": "2026-08-02T13:46:31.852Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 93
+    },
+    {
+      "name": "@adobe-thillai/aio-cli-plugin-ccma",
+      "version": "1.0.0",
+      "description": "Phase-gated SDLC commands, specialist agents, guardrails, and domain knowledge for Adobe App Builder development in Claude Code.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/OneAdobe/project-ccma",
+      "npmUrl": "https://www.npmjs.com/package/%40adobe-thillai%2Faio-cli-plugin-ccma",
+      "category": "frontend",
+      "createdAt": "2026-08-02T13:40:55.627Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 82
+    },
+    {
       "name": "@ae402/sdk",
       "version": "0.1.0",
       "description": "AgentEscrow402 TypeScript SDK — read-only HTTP client, Ed25519 signature verification, and HMAC-SHA256 webhook signature verification for AE402 escrow payments on Casper.",
@@ -600,6 +624,18 @@
       "createdAt": "2026-07-29T14:10:27.761Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 80
+    },
+    {
+      "name": "@ai-atomic-workflow/graph-scheduler",
+      "version": "0.1.0",
+      "description": "Graph-driven work-order system for AI agents — explicit phases, scoped context, and non-bypassable approval gates.",
+      "license": "MIT",
+      "repository": "https://github.com/makara/ai-atomic-workflow",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-atomic-workflow%2Fgraph-scheduler",
+      "category": "backend",
+      "createdAt": "2026-08-02T13:54:46.560Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 81
     },
     {
       "name": "@ai-nd-co/codex-web-remote",
@@ -1910,6 +1946,18 @@
       "score": 79
     },
     {
+      "name": "@baruk/design-system",
+      "version": "1.11.0",
+      "description": "Baruk Design System — tokens, temas multi-tenant e componentes React do ecossistema Baruk. Contrato oficial de tokens: --bk-* (ADR-ECO-0010).",
+      "license": "MIT",
+      "repository": "https://github.com/WellingtonOliveira12/baruk-design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40baruk%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-08-02T13:28:57.771Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 90
+    },
+    {
       "name": "@base44/app-plugin-commerce",
       "version": "0.1.0",
       "description": "Base44 Commerce plugin — entities, backend functions, shared commerce engine, admin UI and the commerce skill, shipped as copyable source",
@@ -2016,6 +2064,18 @@
       "createdAt": "2026-07-30T17:28:11.834Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 59
+    },
+    {
+      "name": "@bencibro/postmcp",
+      "version": "1.0.1",
+      "description": "MCP server for AI-driven API testing — HTTP, GraphQL, WebSocket, OAuth2, assertions, chained test suites, and SQLite-persisted history with JSON diff comparison.",
+      "license": "MIT",
+      "repository": "https://github.com/atomgit/postmcp",
+      "npmUrl": "https://www.npmjs.com/package/%40bencibro%2Fpostmcp",
+      "category": "testing",
+      "createdAt": "2026-08-02T14:46:19.591Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 96
     },
     {
       "name": "@benjamin-small/browser-terminal",
@@ -4778,6 +4838,18 @@
       "score": 93
     },
     {
+      "name": "@fastergeo/rules",
+      "version": "0.2.1",
+      "description": "FasterGEO rule engine — deterministic GEO/SEO/content lint with agent-fixable suggestions. Forked from @ijonis/geo-lint (MIT).",
+      "license": "MIT",
+      "repository": "https://github.com/arronyounging/fastergeo",
+      "npmUrl": "https://www.npmjs.com/package/%40fastergeo%2Frules",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T14:46:00.212Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 82
+    },
+    {
       "name": "@feedlog/widget",
       "version": "0.0.1",
       "description": "Embeddable feedback widget for FeedLog. One function, zero runtime dependencies.",
@@ -5184,6 +5256,18 @@
       "createdAt": "2026-07-29T23:31:48.333Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 58
+    },
+    {
+      "name": "@franklinww/create-agent-os",
+      "version": "2.2.0",
+      "description": "BETA. Scaffold an agent OS workspace: skill-powered AI workflows + an LLM Wiki template in one repo. Includes vibe coding framework and meta-skill management. Pure Node — no python, no pip.",
+      "license": "MIT",
+      "repository": "https://github.com/codersdfs/agent-os",
+      "npmUrl": "https://www.npmjs.com/package/%40franklinww%2Fcreate-agent-os",
+      "category": "utilities",
+      "createdAt": "2026-08-02T14:25:29.275Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 76
     },
     {
       "name": "@frase/headless-adapter",
@@ -9650,6 +9734,18 @@
       "score": 70
     },
     {
+      "name": "@miyamo2/astro-recommend-article",
+      "version": "0.1.0",
+      "description": "Astro content loader that adds vector-similarity-based article recommendations to your content collections, powered by Qdrant and OpenAI embeddings",
+      "license": "MIT",
+      "repository": "https://github.com/miyamo2/astro-recommend-article",
+      "npmUrl": "https://www.npmjs.com/package/%40miyamo2%2Fastro-recommend-article",
+      "category": "utilities",
+      "createdAt": "2026-08-02T13:30:27.065Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 84
+    },
+    {
       "name": "@mkhalif/ledgerai",
       "version": "0.1.0",
       "description": "Tamper-evident audit log for AI actions, recorded into your own Postgres.",
@@ -9732,6 +9828,18 @@
       "createdAt": "2026-07-25T14:01:14.410Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 67
+    },
+    {
+      "name": "@moumensoliman/crust",
+      "version": "0.1.1",
+      "description": "Production-build regression analysis for Next.js App Router: route modes, bundle attribution, static-shell composition, and source blame.",
+      "license": "MIT",
+      "repository": "https://github.com/moumen-soliman/crust",
+      "npmUrl": "https://www.npmjs.com/package/%40moumensoliman%2Fcrust",
+      "category": "data",
+      "createdAt": "2026-08-02T13:02:10.763Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 77
     },
     {
       "name": "@mounsecom/dsers-mcp",
@@ -10500,6 +10608,18 @@
       "createdAt": "2026-07-27T22:13:19.760Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 78
+    },
+    {
+      "name": "@octocodeai/octocode-awareness",
+      "version": "1.0.1",
+      "description": "Octocode Awareness: always-on workspace coordination — awareness, collaboration, learning, memory/wiki, bookkeeping, housekeeping, reflection — zero npm runtime deps.",
+      "license": "MIT",
+      "repository": "https://github.com/bgauryy/octocode-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40octocodeai%2Foctocode-awareness",
+      "category": "data",
+      "createdAt": "2026-08-02T13:34:24.269Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 79
     },
     {
       "name": "@odla-ai/camel",
@@ -12302,6 +12422,18 @@
       "score": 85
     },
     {
+      "name": "@ret2hell/pi-herdr-orchestrator",
+      "version": "0.1.1",
+      "description": "Pi-native orchestrator over Herdr: plan, dispatch worker agents, review with an independent reviewer, all gated on your approval.",
+      "license": "MIT",
+      "repository": "https://github.com/Ret2Hell/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40ret2hell%2Fpi-herdr-orchestrator",
+      "category": "backend",
+      "createdAt": "2026-08-02T13:37:33.016Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 78
+    },
+    {
       "name": "@revolist/dash-datagrid",
       "version": "4.23.24",
       "description": "RevoGrid Core wrapper for Plotly Dash.",
@@ -12384,6 +12516,18 @@
       "createdAt": "2026-07-31T18:14:31.505Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 74
+    },
+    {
+      "name": "@rohhitrz/jonaki",
+      "version": "0.1.0",
+      "description": "Jonaki — the agent SDK you can actually test. Record a run, replay it offline, deterministically.",
+      "license": "MIT",
+      "repository": "https://github.com/rohhitrz/jonaki",
+      "npmUrl": "https://www.npmjs.com/package/%40rohhitrz%2Fjonaki",
+      "category": "testing",
+      "createdAt": "2026-08-02T14:29:48.282Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 75
     },
     {
       "name": "@royashbrook/waterbear",
@@ -13944,6 +14088,18 @@
       "createdAt": "2026-07-26T10:15:06.609Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 59
+    },
+    {
+      "name": "@surea11y/test-matchers",
+      "version": "1.0.0",
+      "description": "Accessibility matcher for surea11y -- assert expect(container).toHaveNoA11yViolations() in jsdom-based component/unit tests, under Jest or Vitest.",
+      "license": "MIT",
+      "repository": "https://github.com/rumoroso/surea11y-core-test-matchers",
+      "npmUrl": "https://www.npmjs.com/package/%40surea11y%2Ftest-matchers",
+      "category": "testing",
+      "createdAt": "2026-08-02T13:56:56.253Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 74
     },
     {
       "name": "@surea11y/webdriverio",
@@ -16274,6 +16430,18 @@
       "score": 62
     },
     {
+      "name": "achintya-sdk",
+      "version": "0.1.1",
+      "description": "A provider-agnostic TypeScript agent SDK: tools with schemas, guardrails, sessions, handoffs, streaming and tracing.",
+      "license": "MIT",
+      "repository": "https://github.com/bhrdwjuddhv/Achintya-sdk",
+      "npmUrl": "https://www.npmjs.com/package/achintya-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T13:34:29.259Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 73
+    },
+    {
       "name": "active-bezel",
       "version": "0.1.0",
       "description": "Active Bezels: executable companions to a specific ROM. A .ab package runs once per emulated frame, reads the emulator's live memory regions, and renders the complete final scene — maps, HUDs, reconstructed world graphics, artwork — around or over the ori",
@@ -17316,6 +17484,18 @@
       "createdAt": "2026-07-30T06:11:42.006Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 85
+    },
+    {
+      "name": "benni",
+      "version": "0.1.0",
+      "description": "The end-to-end typed Redis client for TypeScript — one API across Node, Bun, Deno, and the edge.",
+      "license": "MIT",
+      "repository": "https://github.com/ChiChuRita/benni",
+      "npmUrl": "https://www.npmjs.com/package/benni",
+      "category": "backend",
+      "createdAt": "2026-08-02T13:51:18.273Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 79
     },
     {
       "name": "betbetter-mcp",
@@ -18684,6 +18864,18 @@
       "createdAt": "2026-08-01T09:56:37.657Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 89
+    },
+    {
+      "name": "consent-gate",
+      "version": "0.1.0",
+      "description": "Structural cookie-consent gating. Declare trackers with a category; the library owns injection and refuses to load anything before that category is granted. Vanilla core + optional React wrapper, built on CookieConsent v3.",
+      "license": "MIT",
+      "repository": "https://github.com/ever-co/consent-kit",
+      "npmUrl": "https://www.npmjs.com/package/consent-gate",
+      "category": "frontend",
+      "createdAt": "2026-08-02T13:13:01.390Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 90
     },
     {
       "name": "consolium",
@@ -20354,6 +20546,18 @@
       "score": 84
     },
     {
+      "name": "five46",
+      "version": "0.1.0",
+      "description": "BYOK, fully local agentic E2E and API testing: point five46 at a live URL or API and a goal, an LLM (your own OpenAI/Anthropic/Gemini/Groq/Bedrock key) drives a real local Playwright browser or real HTTP requests toward it, and writes a real, standalone,",
+      "license": "MIT",
+      "repository": "https://github.com/sekharsdet/five46",
+      "npmUrl": "https://www.npmjs.com/package/five46",
+      "category": "testing",
+      "createdAt": "2026-08-02T14:29:12.177Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 90
+    },
+    {
       "name": "flag-resizer",
       "version": "0.0.2",
       "description": "Generate typed, optimized PNG and WebP flag assets from bundled SVG artwork.",
@@ -21422,6 +21626,18 @@
       "score": 95
     },
     {
+      "name": "humanpen-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for HumanPen - lower AI-detection scores, fix citations, condense and translate document files, keeping formatting intact.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/humanpen/humanpen-mcp",
+      "npmUrl": "https://www.npmjs.com/package/humanpen-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T13:49:36.051Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 77
+    },
+    {
       "name": "hypen-engine",
       "version": "0.6.1",
       "description": "A Rust implementation of the Hypen engine",
@@ -21672,6 +21888,18 @@
       "createdAt": "2026-07-27T19:07:24.833Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 70
+    },
+    {
+      "name": "iryx-ui",
+      "version": "0.1.0",
+      "description": "Iryx — an artful Vue 3 component library built on Reka UI and Tailwind CSS v4.",
+      "license": "MIT",
+      "repository": "https://github.com/therok1/iryx-ui",
+      "npmUrl": "https://www.npmjs.com/package/iryx-ui",
+      "category": "frontend",
+      "createdAt": "2026-07-29T18:01:51.287Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 71
     },
     {
       "name": "ispf-core",
@@ -23004,6 +23232,18 @@
       "createdAt": "2026-08-01T04:51:35.049Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 90
+    },
+    {
+      "name": "medusa-payment-cutluy",
+      "version": "0.2.0",
+      "description": "Medusa Payment Module Provider for CutLuy — Bakong KHQR scan-to-pay (asynchronous payment method).",
+      "license": "MIT",
+      "repository": "https://github.com/gavined1/medusa-payment-cutluy",
+      "npmUrl": "https://www.npmjs.com/package/medusa-payment-cutluy",
+      "category": "utilities",
+      "createdAt": "2026-08-02T13:33:53.313Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 73
     },
     {
       "name": "medusa-search-select",
@@ -25010,6 +25250,18 @@
       "score": 81
     },
     {
+      "name": "pi-crypto-gate",
+      "version": "0.2.0",
+      "description": "Pi-family policy gate between an AI agent and an onchain wallet: propose a payment, the gate allows it, holds it for human approval, or blocks it, with an append-only receipt log. Sits downstream of a crypto screener; pairs with pi-gate.",
+      "license": "MIT",
+      "repository": "https://github.com/renezander030/pi-crypto-gate",
+      "npmUrl": "https://www.npmjs.com/package/pi-crypto-gate",
+      "category": "utilities",
+      "createdAt": "2026-08-02T14:11:44.738Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 88
+    },
+    {
       "name": "pi-doppelclaude",
       "version": "0.7.0",
       "description": "Pi provider that runs your Claude Code subscription as pi models via the Claude Agent SDK.",
@@ -26210,6 +26462,18 @@
       "score": 53
     },
     {
+      "name": "react-native-pixelflow",
+      "version": "0.1.0",
+      "description": "One package for responsive React Native UI — responsive dimensions, typography, spacing, flex, fonts and theming, built directly on React Native's native StyleSheet API.",
+      "license": "MIT",
+      "repository": "https://github.com/saadwaheed10/react-native-pixelflow",
+      "npmUrl": "https://www.npmjs.com/package/react-native-pixelflow",
+      "category": "frontend",
+      "createdAt": "2026-08-02T14:26:58.558Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 74
+    },
+    {
       "name": "react-native-plain-text",
       "version": "0.5.0",
       "description": "A faster, lower-memory React Native <Text> alternative for simple, single-style text",
@@ -26675,6 +26939,18 @@
       "category": "frontend",
       "createdAt": "2026-08-01T17:00:20.590Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
+      "score": 86
+    },
+    {
+      "name": "robinhood-volume-alerts",
+      "version": "0.2.0",
+      "description": "Telegram bot for Robinhood Chain crypto (chain ID 4663). Learns every token's normal per-minute trading volume from live on-chain swaps and alerts on volume spikes, whale trades, price moves, liquidity pulls, launches, and watched wallets. Tracks how its",
+      "license": "MIT",
+      "repository": "https://github.com/nirholas/robinhood-volume-alerts",
+      "npmUrl": "https://www.npmjs.com/package/robinhood-volume-alerts",
+      "category": "data",
+      "createdAt": "2026-08-02T14:51:59.086Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 86
     },
     {
@@ -28310,6 +28586,18 @@
       "score": 66
     },
     {
+      "name": "terms-acceptance",
+      "version": "0.1.0",
+      "description": "Versioned, provable terms-of-service acceptance records. Storage-agnostic core plus adapters for TypeORM/NestJS, Better Auth, Clerk and Firebase Auth, and an optional React checkbox and re-accept modal.",
+      "license": "MIT",
+      "repository": "https://github.com/ever-co/terms-acceptance",
+      "npmUrl": "https://www.npmjs.com/package/terms-acceptance",
+      "category": "frontend",
+      "createdAt": "2026-08-02T13:13:39.671Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 90
+    },
+    {
       "name": "terra-ballom",
       "version": "1.0.0",
       "description": "BALLOM — Terra Ecosystem Phantom Proxy, API Gateway & DNS Masking Engine at $0 Cost",
@@ -29040,6 +29328,18 @@
       "createdAt": "2026-07-27T00:39:18.076Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 61
+    },
+    {
+      "name": "unsmuggle",
+      "version": "0.1.1",
+      "description": "Undo ASCII smuggling: strips and DECODES hidden instructions from Unicode Tags, variation selectors and zero-width binary, plus spotlighting and advisory injection heuristics. Zero dependencies. Does not claim to prevent prompt injection.",
+      "license": "MIT",
+      "repository": "https://github.com/moji2002/unsmuggle",
+      "npmUrl": "https://www.npmjs.com/package/unsmuggle",
+      "category": "data",
+      "createdAt": "2026-07-26T18:24:57.047Z",
+      "discoveredAt": "2026-08-02T14:55:20.034Z",
+      "score": 90
     },
     {
       "name": "usa-dam-data",
