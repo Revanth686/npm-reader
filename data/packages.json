@@ -74,6 +74,18 @@
       "score": 84
     },
     {
+      "name": "@3dpacking/mcp-server",
+      "version": "0.1.0",
+      "description": "Container and truck load planning for AI assistants. Describe a shipment in plain English, get back the containers it fits in and a link to the 3D load plan.",
+      "license": "MIT",
+      "repository": "https://github.com/onurgumus/3dpacking-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%403dpacking%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-02T11:08:59.321Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 60
+    },
+    {
       "name": "@3sln/trove",
       "version": "0.0.2",
       "description": "Trove — a self-hostable, plugin-extensible Google Drive. Semantic search, pluggable storage (S3 / filesystem / NAS), and a VS Code-style contribution system with sandboxed plugins.",
@@ -156,6 +168,18 @@
       "createdAt": "2026-08-01T19:29:32.140Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 56
+    },
+    {
+      "name": "@absuitecore/notary",
+      "version": "1.0.0",
+      "description": "A disinterested witness to a chain head. Counter-signs the head of a hash chain so that rewriting history becomes detectable by someone with no stake in the answer.",
+      "license": "MIT",
+      "repository": "https://github.com/iamGodofall/ABSuite-core",
+      "npmUrl": "https://www.npmjs.com/package/%40absuitecore%2Fnotary",
+      "category": "utilities",
+      "createdAt": "2026-08-02T11:19:27.869Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 65
     },
     {
       "name": "@absuitecore/trust",
@@ -720,6 +744,18 @@
       "createdAt": "2026-08-01T13:57:49.561Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 75
+    },
+    {
+      "name": "@alainux/wirestate",
+      "version": "0.3.1",
+      "description": "Visual executable specifications using hierarchical state machines, interactive wireframes, and runtime verification.",
+      "license": "MIT",
+      "repository": "https://github.com/alainux/wirestate",
+      "npmUrl": "https://www.npmjs.com/package/%40alainux%2Fwirestate",
+      "category": "testing",
+      "createdAt": "2026-08-02T11:17:17.271Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 81
     },
     {
       "name": "@alayrasystems/nexus",
@@ -2340,6 +2376,42 @@
       "createdAt": "2026-07-26T07:33:36.116Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 70
+    },
+    {
+      "name": "@buildwithabid/llm-bench",
+      "version": "1.0.0",
+      "description": "Terminal CLI to benchmark LLM providers and compare speed, cost, and response quality across OpenAI, Anthropic, Gemini, and Groq.",
+      "license": "MIT",
+      "repository": "https://github.com/BuildWithAbid/llm-bench",
+      "npmUrl": "https://www.npmjs.com/package/%40buildwithabid%2Fllm-bench",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T11:10:47.979Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 86
+    },
+    {
+      "name": "@buildwithabid/mcp-shield",
+      "version": "1.0.0",
+      "description": "Security scanner for MCP servers. Find vulnerabilities before your AI agent does.",
+      "license": "MIT",
+      "repository": "https://github.com/BuildWithAbid/mcp-shield",
+      "npmUrl": "https://www.npmjs.com/package/%40buildwithabid%2Fmcp-shield",
+      "category": "backend",
+      "createdAt": "2026-08-02T11:09:49.397Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 88
+    },
+    {
+      "name": "@buildwithabid/mcp-testkit",
+      "version": "1.0.0",
+      "description": "Testing framework for MCP (Model Context Protocol) servers. Custom matchers, schema validation, fuzz testing, and snapshot support for vitest and jest.",
+      "license": "MIT",
+      "repository": "https://github.com/BuildWithAbid/mcp-testkit",
+      "npmUrl": "https://www.npmjs.com/package/%40buildwithabid%2Fmcp-testkit",
+      "category": "testing",
+      "createdAt": "2026-08-02T11:10:42.325Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 95
     },
     {
       "name": "@bumpyclock/pi-codex-compat",
@@ -4236,6 +4308,18 @@
       "createdAt": "2026-07-29T04:22:08.008Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 76
+    },
+    {
+      "name": "@dpdpguard/claude-code-plugin",
+      "version": "1.0.0",
+      "description": "Claude Code plugin for multi-regulation privacy compliance (DPDP Act, GDPR, CCPA, PDPA)",
+      "license": "MIT",
+      "repository": "https://github.com/dpdp-guard-ai/claude-code-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40dpdpguard%2Fclaude-code-plugin",
+      "category": "utilities",
+      "createdAt": "2026-08-02T11:07:51.109Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 68
     },
     {
       "name": "@dpuse/dpuse-tool-adaltas-csv-parser",
@@ -6338,6 +6422,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/stockmarkettrbasistrade",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for StockMarketTRBasisTrade (build etherscan-stockmarkettrbasistrade-827ce7e8-1785665740578, commit a9cf778, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/stockmarkettrbasistrade",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fstockmarkettrbasistrade",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T10:16:04.345Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 60
+    },
+    {
       "name": "@gitmyabi/submitimports",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for SubmitImports (build etherscan-submitimports-27c76df6-1784984082227, commit cc1a568, branch etherscan)",
@@ -7358,6 +7454,18 @@
       "score": 100
     },
     {
+      "name": "@iappx/entity-repo-gql",
+      "version": "1.0.1",
+      "description": "A schema agnostic GraphQL dialect for @iappx/entity-repo: compile the query AST into documents, with filters, ordering, paging, selection, variables and responses as swappable strategies.",
+      "license": "MIT",
+      "repository": "https://github.com/iappx/entity-repo-gql",
+      "npmUrl": "https://www.npmjs.com/package/%40iappx%2Fentity-repo-gql",
+      "category": "data",
+      "createdAt": "2026-08-02T10:55:43.060Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 98
+    },
+    {
       "name": "@iappx/entity-repo-query",
       "version": "1.0.0",
       "description": "A transport agnostic query AST for @iappx/entity-repo: build filters, ordering, paging and selection once, compile them with any dialect.",
@@ -7368,6 +7476,18 @@
       "createdAt": "2026-08-02T09:18:32.507Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 93
+    },
+    {
+      "name": "@iappx/entity-repo-rest",
+      "version": "1.0.1",
+      "description": "The REST dialect for @iappx/entity-repo: compile a query AST into HTTP requests with swappable encoders, url builders, request factories and response adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/iappx/entity-repo-rest",
+      "npmUrl": "https://www.npmjs.com/package/%40iappx%2Fentity-repo-rest",
+      "category": "backend",
+      "createdAt": "2026-08-02T10:58:04.297Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 95
     },
     {
       "name": "@iappx/gql-builder",
@@ -8750,6 +8870,18 @@
       "score": 85
     },
     {
+      "name": "@loopingai/plugins",
+      "version": "0.1.0",
+      "description": "Optional, composable capabilities for Looping agents: ARC-AGI-3, browser rendering, workspace, episodic recall, and pre-turn triage. One subpath per plugin, so a bundle grows only with what it imports.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/Looping-AI/looping-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40loopingai%2Fplugins",
+      "category": "frontend",
+      "createdAt": "2026-08-02T11:15:49.090Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 67
+    },
+    {
       "name": "@loregpt/mcp",
       "version": "0.1.0",
       "description": "Model Context Protocol server for Lore — coordination memory for multi-agent AI systems. Exposes create_run, memory_write, and memory_pack as MCP tools over stdio.",
@@ -8940,6 +9072,18 @@
       "createdAt": "2026-07-29T15:39:35.270Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 65
+    },
+    {
+      "name": "@maptiles-doctor/core",
+      "version": "0.1.1",
+      "description": "Contract-checking engine behind MapTiles Doctor: reads a MapLibre/Mapbox style and the tile, glyph and sprite artifacts it depends on, and reports where they disagree.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/schmidi000/maptiles-doctor",
+      "npmUrl": "https://www.npmjs.com/package/%40maptiles-doctor%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-02T10:36:18.098Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 74
     },
     {
       "name": "@marcus5914/google-photos-album-image-url-fetch",
@@ -9336,6 +9480,18 @@
       "createdAt": "2026-07-29T15:11:54.244Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 91
+    },
+    {
+      "name": "@michalpiszczek/ai-economics-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for AI economics: token cost, context windows, agent-hour cost, LLM energy, joules per verified task, Proof-Adjusted Autonomy, revocation exposure and more. Wraps the free piszczek.pl/tools API — no key required.",
+      "license": "MIT",
+      "repository": "https://github.com/pich/ai-economics-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40michalpiszczek%2Fai-economics-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T11:08:04.806Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 73
     },
     {
       "name": "@microsoft/wiqd",
@@ -9746,6 +9902,18 @@
       "score": 68
     },
     {
+      "name": "@narumitw/pi-analytics",
+      "version": "0.45.0",
+      "description": "Local-first usage analytics for Pi models, skills, tools, and reliability.",
+      "license": "MIT",
+      "repository": "https://github.com/narumiruna/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40narumitw%2Fpi-analytics",
+      "category": "utilities",
+      "createdAt": "2026-08-02T10:57:56.918Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 67
+    },
+    {
       "name": "@narumitw/pi-file-context",
       "version": "0.1.0",
       "description": "Experimental Pi extension for attaching file ranges and Git provenance as context.",
@@ -9828,6 +9996,18 @@
       "createdAt": "2026-07-26T09:49:31.092Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 75
+    },
+    {
+      "name": "@neeyo/mantine-datatable",
+      "version": "0.1.0",
+      "description": "The lightweight, dependency-free, dark-theme aware table component for your Mantine UI data-rich applications, featuring asynchronous data loading support, pagination, intuitive Gmail-style additive batch rows selection, column sorting, custom cell data r",
+      "license": "MIT",
+      "repository": "https://github.com/documatrix/mantine-datatable",
+      "npmUrl": "https://www.npmjs.com/package/%40neeyo%2Fmantine-datatable",
+      "category": "frontend",
+      "createdAt": "2026-08-02T10:30:46.415Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 81
     },
     {
       "name": "@nekora-ai/core",
@@ -12950,6 +13130,18 @@
       "score": 64
     },
     {
+      "name": "@sn0wfr/split-flap",
+      "version": "1.0.0",
+      "description": "Zero-dependency split-flap (airport departure board) text display for the web. Vanilla core + native <split-flap> custom element + optional React wrapper.",
+      "license": "MIT",
+      "repository": "https://github.com/Sn0wFR/Split-flap",
+      "npmUrl": "https://www.npmjs.com/package/%40sn0wfr%2Fsplit-flap",
+      "category": "frontend",
+      "createdAt": "2026-08-02T10:18:58.142Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 86
+    },
+    {
       "name": "@snacode/sd-agent-core",
       "version": "0.82.1",
       "description": "General-purpose agent with transport abstraction, state management, and attachment support",
@@ -15242,6 +15434,18 @@
       "score": 63
     },
     {
+      "name": "@wasm-gaming/celeste-wasm",
+      "version": "0.1.0",
+      "description": "Celeste + the Everest mod loader running on the .NET WebAssembly runtime, with a JS SDK conforming to the wasm-gaming engine contract.",
+      "license": "MIT",
+      "repository": "https://github.com/wasm-gaming/celeste-wasm",
+      "npmUrl": "https://www.npmjs.com/package/%40wasm-gaming%2Fceleste-wasm",
+      "category": "data",
+      "createdAt": "2026-08-02T11:22:22.350Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 63
+    },
+    {
       "name": "@wasm-gaming/smbros-wasm",
       "version": "0.1.0",
       "description": "Super Mario Bros. Remastered (Godot 4) exported to WebAssembly, with a JS SDK conforming to the wasm-gaming engine contract.",
@@ -15528,6 +15732,18 @@
       "createdAt": "2026-07-28T14:36:58.167Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 69
+    },
+    {
+      "name": "@yishan-io/pi-lsp",
+      "version": "0.1.0",
+      "description": "Pi extension exposing configurable, language-agnostic LSP diagnostics and source-fix tools.",
+      "license": "MIT",
+      "repository": "https://github.com/yishan-io/yishan-mono",
+      "npmUrl": "https://www.npmjs.com/package/%40yishan-io%2Fpi-lsp",
+      "category": "backend",
+      "createdAt": "2026-08-02T10:25:10.848Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 77
     },
     {
       "name": "@yourlivingroom/cardcatalog",
@@ -17330,6 +17546,18 @@
       "score": 68
     },
     {
+      "name": "cache-viewer",
+      "version": "1.0.0",
+      "description": "Embeddable web UI for inspecting in-process memory caches (and Redis) in Node.js services",
+      "license": "MIT",
+      "repository": "https://github.com/KanerA/cache-viewer",
+      "npmUrl": "https://www.npmjs.com/package/cache-viewer",
+      "category": "backend",
+      "createdAt": "2026-08-02T10:06:38.331Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 75
+    },
+    {
       "name": "callspec",
       "version": "0.1.0",
       "description": "Registry-first RPC: HTTP, OpenAPI docs, MCP, and typed client from one defineRoute registry",
@@ -17448,6 +17676,18 @@
       "createdAt": "2026-07-31T16:22:59.605Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 81
+    },
+    {
+      "name": "ccprof",
+      "version": "0.1.1",
+      "description": "Deterministic local profiler that reconciles Claude Code session logs with the final Git diff to show where minutes can be recovered in a PR.",
+      "license": "MIT",
+      "repository": "https://github.com/t09tanaka/ccprof",
+      "npmUrl": "https://www.npmjs.com/package/ccprof",
+      "category": "cli",
+      "createdAt": "2026-08-02T11:15:12.714Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 74
     },
     {
       "name": "cdk-github-microvm-runners",
@@ -22070,6 +22310,18 @@
       "score": 100
     },
     {
+      "name": "lupyy4u",
+      "version": "1.0.1",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/WhiskeySockets/Baileys",
+      "npmUrl": "https://www.npmjs.com/package/lupyy4u",
+      "category": "utilities",
+      "createdAt": "2026-08-02T11:27:46.449Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 69
+    },
+    {
       "name": "macos-keyboard-backlight",
       "version": "1.1.0",
       "description": "Control the MacBook keyboard backlight from the command line or Node - get/set brightness and toggle ambient auto-brightness. No native build step.",
@@ -24746,6 +24998,18 @@
       "score": 72
     },
     {
+      "name": "pixel-math-wasm",
+      "version": "0.1.0",
+      "description": "37 image-processing and math algorithms compiled to WebAssembly — pixel filters, FFT / DCT, PCA, K-Means / K-NN, MLP neural networks, 2D particle physics, SPH fluid simulation, and VFX rendering",
+      "license": "MIT",
+      "repository": "https://github.com/pangyongsheng/pixel-math-wasm",
+      "npmUrl": "https://www.npmjs.com/package/pixel-math-wasm",
+      "category": "utilities",
+      "createdAt": "2026-08-02T10:50:43.237Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 82
+    },
+    {
       "name": "pkgpulse-mcp",
       "version": "1.0.0",
       "description": "MCP server for pkgpulse: dependency intelligence for AI coding agents via x402 (USDC on Base). npm package health scores, typosquat/hallucination checks, and whole-package.json dependency audits — pay per call, no API key.",
@@ -25188,6 +25452,18 @@
       "createdAt": "2026-08-02T09:47:16.898Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 72
+    },
+    {
+      "name": "pw-advanced-http",
+      "version": "3.3.2",
+      "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+      "license": "MIT",
+      "repository": "https://github.com/pw-repo/pw-advanced-http",
+      "npmUrl": "https://www.npmjs.com/package/pw-advanced-http",
+      "category": "backend",
+      "createdAt": "2026-08-02T10:58:15.906Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 81
     },
     {
       "name": "qa-engineer",
@@ -26784,6 +27060,18 @@
       "createdAt": "2026-07-29T23:01:18.336Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 62
+    },
+    {
+      "name": "si-coder-agent",
+      "version": "0.2.0",
+      "description": "Zero-human full-stack deployment skill bundle for AI agents (Claude Code / OpenClaw / Gemini): GitHub + Dokploy + Convex (self-hosted & Cloud) + Vercel + Hostinger DNS, via modular /sc-* slash commands.",
+      "license": "MIT",
+      "repository": "https://github.com/rahmanef63/si-coder-agent",
+      "npmUrl": "https://www.npmjs.com/package/si-coder-agent",
+      "category": "devops",
+      "createdAt": "2026-08-02T11:17:22.411Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 90
     },
     {
       "name": "sidder",
@@ -29508,6 +29796,18 @@
       "createdAt": "2026-07-26T11:05:48.133Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 60
+    },
+    {
+      "name": "x402-codesearch-mcp",
+      "version": "0.1.0",
+      "description": "Free MCP server: index a repo's files (free) into the live x402-codesearch Worker so it can be semantically searched. Open funnel twin of the paid x402-gated codesearch HTTP API.",
+      "license": "MIT",
+      "repository": "https://github.com/liminalpepe/x402-codesearch-mcp",
+      "npmUrl": "https://www.npmjs.com/package/x402-codesearch-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T10:24:01.551Z",
+      "discoveredAt": "2026-08-02T11:31:01.933Z",
+      "score": 63
     },
     {
       "name": "x402-repohealth-mcp",
