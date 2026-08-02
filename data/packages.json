@@ -2702,6 +2702,18 @@
       "score": 60
     },
     {
+      "name": "@cesarobedfl/aws-spapi-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Amazon SP-API - real-time inventory health, sales metrics, and price updates",
+      "license": "MIT",
+      "repository": "https://github.com/CesarObedFL/aws_node_selling_partner_api",
+      "npmUrl": "https://www.npmjs.com/package/%40cesarobedfl%2Faws-spapi-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T15:51:34.216Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 71
+    },
+    {
       "name": "@chaeco/auto-api-docs",
       "version": "0.0.1",
       "description": "Automatic API documentation generator for Node.js frameworks. OpenAPI 3.0 (JSON/YAML), self-contained HTML, Postman Collection 2.1, and Markdown from @chaeco/auto-router's route registry.",
@@ -3840,6 +3852,18 @@
       "createdAt": "2026-07-31T11:54:12.459Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 94
+    },
+    {
+      "name": "@di-framework/core",
+      "version": "4.0.0",
+      "description": "Lightweight, zero-dependency TypeScript Dependency Injection framework using decorators. Works seamlessly with SWC and TypeScript's native decorator support.",
+      "license": "MIT",
+      "repository": "https://github.com/di-framework/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:04:05.863Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 91
     },
     {
       "name": "@di-framework/graphql",
@@ -5882,6 +5906,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/blockhashstore",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BlockhashStore (build etherscan-blockhashstore-aa25602b-1785686378843, commit 11c6d07, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/blockhashstore",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fblockhashstore",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:00:00.025Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/boson",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BOSON (build etherscan-boson-c477d038-1785083640270, commit 30ced60, branch etherscan)",
@@ -6059,6 +6095,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-25T16:46:07.913Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/dschief",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DSChief (build etherscan-dschief-0a3f6849-1785686118856, commit b1e4780, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dschief",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdschief",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T15:55:45.097Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 57
     },
     {
@@ -6434,6 +6482,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/optimismportal2",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for OptimismPortal2 (build etherscan-optimismportal2-66d94ee8-1785687554636, commit d3992e6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/optimismportal2",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Foptimismportal2",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:19:38.681Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 59
+    },
+    {
       "name": "@gitmyabi/orta",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ORTA (build etherscan-orta-cb20b537-1785360785399, commit 3a84546, branch etherscan)",
@@ -6612,6 +6672,18 @@
       "createdAt": "2026-07-28T23:21:38.823Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/stkaave",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for stkAAVE (build etherscan-stkaave-4da27a54-1785688244870, commit b12b8b7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/stkaave",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fstkaave",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:31:11.595Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/stockmarkettrbasistrade",
@@ -6890,6 +6962,18 @@
       "score": 83
     },
     {
+      "name": "@glitch-guy0/shikigami",
+      "version": "0.1.0",
+      "description": "TypeScript Agent SDK with hexagonal architecture — core defines ports, adapters are injected",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Glitch-guy0/shikigami-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40glitch-guy0%2Fshikigami",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:33:47.245Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 71
+    },
+    {
       "name": "@glowbox/neon",
       "version": "1.8.0",
       "description": "Glass-tube neon sign component — text bent into single-stroke tubes (vendored Hershey faces), visible unlit glass, electrode strike sequences, ageing tubes, flasher programs and an optional transformer hum, in the glowbox family.",
@@ -6948,6 +7032,18 @@
       "createdAt": "2026-08-01T14:55:49.627Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 80
+    },
+    {
+      "name": "@goodciso/aware",
+      "version": "2.11.0",
+      "description": "AWARE - Autonomous Compliance Infrastructure for AI Agents",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/GoodCISO/aware",
+      "npmUrl": "https://www.npmjs.com/package/%40goodciso%2Faware",
+      "category": "devops",
+      "createdAt": "2026-08-02T16:40:11.215Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 77
     },
     {
       "name": "@gopherium/godmin",
@@ -8592,6 +8688,18 @@
       "createdAt": "2026-07-31T01:28:57.394Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 81
+    },
+    {
+      "name": "@kemetra/seshat-bi",
+      "version": "0.8.1",
+      "description": "Seshat BI agent skills bundle for Claude Code — governed seven-stage BI readiness workflow and reviewed public knowledge. Content only; the CLI ships separately on PyPI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Kemetra/Seshat-BI",
+      "npmUrl": "https://www.npmjs.com/package/%40kemetra%2Fseshat-bi",
+      "category": "data",
+      "createdAt": "2026-08-02T16:46:15.739Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 82
     },
     {
       "name": "@keverdjs/node",
@@ -11738,6 +11846,18 @@
       "score": 61
     },
     {
+      "name": "@prohostai/mcp-server",
+      "version": "0.6.1",
+      "description": "ProhostAI MCP server for Claude Desktop and Claude Code",
+      "license": "MIT",
+      "repository": "https://github.com/prohostai/backend-service",
+      "npmUrl": "https://www.npmjs.com/package/%40prohostai%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-01T14:35:43.547Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 61
+    },
+    {
       "name": "@promovaweb/clickupfy",
       "version": "0.3.0",
       "description": "CLI e servidor MCP para gerenciar Sprints e trabalho de desenvolvimento no ClickUp.",
@@ -12336,6 +12456,18 @@
       "createdAt": "2026-07-31T23:02:27.984Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 57
+    },
+    {
+      "name": "@redpop/apple-calendar-mcp",
+      "version": "0.1.1",
+      "description": "MCP server for Apple Calendar on macOS: read events, create them, and find free time — via EventKit, with a permission grant that survives updates",
+      "license": "MIT",
+      "repository": "https://github.com/redpop/apple-calendar-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40redpop%2Fapple-calendar-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T12:59:54.392Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 61
     },
     {
       "name": "@refokus-agency/marquee",
@@ -14822,6 +14954,18 @@
       "score": 73
     },
     {
+      "name": "@tinovn/tino-sdk",
+      "version": "1.0.0",
+      "description": "Official Node.js SDK for the Tino UserAPI (https://api.tino.vn)",
+      "license": "MIT",
+      "repository": "https://github.com/tinovn/tino-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40tinovn%2Ftino-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-02T16:14:03.094Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 59
+    },
+    {
       "name": "@tm30cms/cms",
       "version": "5.7.6",
       "description": "An open source headless CMS solution to create and manage your own API. It provides a powerful dashboard and features to make your life easier. Databases supported: MySQL, MariaDB, PostgreSQL, SQLite",
@@ -15468,6 +15612,18 @@
       "createdAt": "2026-08-01T17:19:03.658Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 66
+    },
+    {
+      "name": "@vantageos/mcp-protocol-kit",
+      "version": "0.2.0",
+      "description": "MCP protocol 2026-07-28 helpers: resultType, CacheableResult, server/discover — SDK-keyed list results (tools/prompts/resources), a conformant tools/call builder, and capability discovery, shared across MCP servers.",
+      "license": "FSL-1.1-Apache-2.0",
+      "repository": "https://github.com/elpiarthera/mcp-protocol-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40vantageos%2Fmcp-protocol-kit",
+      "category": "backend",
+      "createdAt": "2026-08-01T17:37:31.428Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 59
     },
     {
       "name": "@varent/nest-observability",
@@ -18734,6 +18890,18 @@
       "score": 88
     },
     {
+      "name": "cleave-crypto",
+      "version": "0.1.0",
+      "description": "Post-quantum hybrid file encryption with key commitment, ratcheted chunk authentication and verifiable erasure. Runs in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/farbodghasemlu/cleave-crypto",
+      "npmUrl": "https://www.npmjs.com/package/cleave-crypto",
+      "category": "frontend",
+      "createdAt": "2026-08-02T16:15:36.315Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 78
+    },
+    {
       "name": "cli-memory",
       "version": "1.0.0",
       "description": "Local-first, private long-term memory for AI agents. Everything runs on your machine — data never leaves your disk. Backed by LanceDB and Ollama embeddings",
@@ -20522,6 +20690,18 @@
       "score": 84
     },
     {
+      "name": "ezagent",
+      "version": "0.1.0",
+      "description": "A lightweight, provider-agnostic TypeScript SDK for building transparent AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/ravindra-builds/EzAgent",
+      "npmUrl": "https://www.npmjs.com/package/ezagent",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:45:21.337Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 60
+    },
+    {
       "name": "faberwright",
       "version": "0.3.1",
       "description": "Faber: an agentic AI coding assistant for your terminal — streams, edits with diff approval, runs your tests, and remembers your project across sessions.",
@@ -21830,6 +22010,18 @@
       "score": 92
     },
     {
+      "name": "hostnextra-monitor",
+      "version": "1.0.0",
+      "description": "Official lightweight server monitoring plugin for the HostnExtra CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/hostnextra/monitor",
+      "npmUrl": "https://www.npmjs.com/package/hostnextra-monitor",
+      "category": "backend",
+      "createdAt": "2026-08-02T16:23:36.430Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 66
+    },
+    {
       "name": "hqflow",
       "version": "0.2.0",
       "description": "Local-first workflow mapping for coding agents, rendered as an interactive canvas.",
@@ -22250,6 +22442,30 @@
       "score": 94
     },
     {
+      "name": "jl-optimize-images",
+      "version": "1.0.1",
+      "description": "Pure TypeScript image compression library with zero framework dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/cjorgeluis122333/jl-image-manger",
+      "npmUrl": "https://www.npmjs.com/package/jl-optimize-images",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T15:09:19.180Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 84
+    },
+    {
+      "name": "jl-optimize-images-react",
+      "version": "1.0.1",
+      "description": "React components and hooks for jl-optimize-images",
+      "license": "MIT",
+      "repository": "https://github.com/cjorgeluis122333/jl-image-manger",
+      "npmUrl": "https://www.npmjs.com/package/jl-optimize-images-react",
+      "category": "frontend",
+      "createdAt": "2026-08-02T15:10:03.600Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 84
+    },
+    {
       "name": "joplin-plugin-agenda2",
       "version": "4.0.0",
       "description": "An agenda/calendar/schedule panel for Joplin that shows all uncompleted to-dos with a due date, on desktop and mobile.",
@@ -22596,6 +22812,18 @@
       "createdAt": "2026-08-01T23:42:00.537Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 70
+    },
+    {
+      "name": "lazarus-mcp",
+      "version": "1.0.0",
+      "description": "Serveur MCP du langage LAZARUS : permet à n'importe quel agent IA (Claude, etc.) d'ÉCRIRE et d'EXÉCUTER du code LAZARUS pour de vrai — sortie console, dessins SVG, mémoire persistante.",
+      "license": "MIT",
+      "repository": "https://github.com/lazarus-language/lazarus",
+      "npmUrl": "https://www.npmjs.com/package/lazarus-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-02T16:01:52.136Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 60
     },
     {
       "name": "lazy-progressive-image",
@@ -23028,6 +23256,18 @@
       "createdAt": "2026-07-28T06:57:34.195Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 100
+    },
+    {
+      "name": "lupyy",
+      "version": "1.0.4",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/WhiskeySockets/Baileys",
+      "npmUrl": "https://www.npmjs.com/package/lupyy",
+      "category": "utilities",
+      "createdAt": "2026-08-01T23:44:10.711Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 69
     },
     {
       "name": "lupyy4u",
@@ -23894,6 +24134,18 @@
       "score": 75
     },
     {
+      "name": "n8n-nodes-beel",
+      "version": "0.1.0",
+      "description": "n8n community node for BeeL — Spanish invoicing with VeriFactu compliance, generated from the OpenAPI contract",
+      "license": "MIT",
+      "repository": "https://github.com/beel-es/n8n-nodes-beel",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-beel",
+      "category": "backend",
+      "createdAt": "2026-08-02T16:40:16.927Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 79
+    },
+    {
       "name": "n8n-nodes-buzz",
       "version": "0.1.1",
       "description": "Send signed messages from self-hosted n8n workflows to Buzz channels",
@@ -24290,6 +24542,18 @@
       "score": 62
     },
     {
+      "name": "nexus-canon",
+      "version": "1.0.0",
+      "description": "Portable agent memory in a git repo you own — the canonical agent history & memory store (canon): sync, translate, pull, capability artifacts, and project knowledge graphs across AI coding harnesses.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Spitfire-Products/nexus-cortex",
+      "npmUrl": "https://www.npmjs.com/package/nexus-canon",
+      "category": "utilities",
+      "createdAt": "2026-08-02T16:40:56.882Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 64
+    },
+    {
       "name": "nexustrade",
       "version": "0.1.0",
       "description": "Typed TypeScript SDK for NexusTrade portfolio authoring, backtesting, and optimization",
@@ -24468,6 +24732,18 @@
       "createdAt": "2026-07-28T21:57:50.886Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 86
+    },
+    {
+      "name": "note-ticket",
+      "version": "0.1.0",
+      "description": "Markdown-frontmatter ticket tracker: `tk` CLI plus a TicketManager library API",
+      "license": "MIT",
+      "repository": "https://github.com/Thorg-App/note-ticket",
+      "npmUrl": "https://www.npmjs.com/package/note-ticket",
+      "category": "backend",
+      "createdAt": "2026-08-02T16:32:25.016Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 60
     },
     {
       "name": "notmymachine",
@@ -25728,6 +26004,18 @@
       "createdAt": "2026-07-25T15:22:53.325Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 77
+    },
+    {
+      "name": "picotile",
+      "version": "0.1.0",
+      "description": "Deterministic dithered dot avatars generated from a name and a seed.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/GafelSon/picotile",
+      "npmUrl": "https://www.npmjs.com/package/picotile",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:23:48.763Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 58
     },
     {
       "name": "pigeonsms.js",
@@ -29388,6 +29676,18 @@
       "createdAt": "2026-07-31T00:11:56.577Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 90
+    },
+    {
+      "name": "ts-ast-mcp",
+      "version": "0.1.1",
+      "description": "A Model Context Protocol (MCP) server for deep structural analysis of TypeScript and JavaScript source code. Unlike text-based search, this server parses your code with the TypeScript Compiler API and walks the real AST - types, functions, call relationsh",
+      "license": "MIT",
+      "repository": "https://github.com/gclluch/ts-ast-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ts-ast-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T00:26:58.944Z",
+      "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 70
     },
     {
       "name": "turkiye-suc-haritasi",
