@@ -1526,6 +1526,18 @@
       "score": 67
     },
     {
+      "name": "@artymclabin/qa-review",
+      "version": "0.3.7",
+      "description": "Interactive on-page QA review overlay (spotlight walkthrough, approve/reject verdict ledger) with a framework-agnostic server handler factory and a self-provisioning Postgres store.",
+      "license": "MIT",
+      "repository": "https://github.com/ArtyMcLabin/qa-review",
+      "npmUrl": "https://www.npmjs.com/package/%40artymclabin%2Fqa-review",
+      "category": "backend",
+      "createdAt": "2026-08-02T23:34:45.197Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 54
+    },
+    {
       "name": "@aruct/mcp",
       "version": "0.3.3",
       "description": "Model Context Protocol server for Aruct 3D editor",
@@ -2750,6 +2762,18 @@
       "score": 55
     },
     {
+      "name": "@canshift/core",
+      "version": "1.0.0",
+      "description": "CANShift shared configuration domain types, schemas, and validation",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/CANShift/canshift-core",
+      "npmUrl": "https://www.npmjs.com/package/%40canshift%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-02T23:25:24.502Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 76
+    },
+    {
       "name": "@capacitor/contacts",
       "version": "1.0.0",
       "description": "Access, search, pick, create, update and remove device contacts.",
@@ -3252,6 +3276,30 @@
       "createdAt": "2026-07-26T21:11:21.877Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 74
+    },
+    {
+      "name": "@cogs/config",
+      "version": "0.4.0",
+      "description": "Framework-agnostic layered-dotenv loader — resolves the canonical .env file chain, expands ${VAR} references, and folds values into process.env with deploy-injected variables staying authoritative. Dual ESM+CJS so it works from an ESM --import preload or",
+      "license": "MIT",
+      "repository": "https://github.com/catesandrew/cogs",
+      "npmUrl": "https://www.npmjs.com/package/%40cogs%2Fconfig",
+      "category": "utilities",
+      "createdAt": "2026-08-02T20:35:42.982Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 48
+    },
+    {
+      "name": "@cogs/errors",
+      "version": "0.2.0",
+      "description": "A suite of error classes which help you throw the most appropriate error in any situation",
+      "license": "MIT",
+      "repository": "https://github.com/catesandrew/cogs",
+      "npmUrl": "https://www.npmjs.com/package/%40cogs%2Ferrors",
+      "category": "utilities",
+      "createdAt": "2026-08-02T22:55:29.152Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 50
     },
     {
       "name": "@coinexams/lightning",
@@ -5738,6 +5786,18 @@
       "score": 84
     },
     {
+      "name": "@fxone/prop-flow",
+      "version": "2.0.0",
+      "description": "trace an optional prop across every JSX call site and tell whether its `?` is justified",
+      "license": "MIT",
+      "repository": "https://github.com/fxOne/tools",
+      "npmUrl": "https://www.npmjs.com/package/%40fxone%2Fprop-flow",
+      "category": "frontend",
+      "createdAt": "2026-08-02T19:51:38.398Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 73
+    },
+    {
       "name": "@gabrielion/opnsense-mcp",
       "version": "0.1.0",
       "description": "A safety-first MCP server for OPNsense",
@@ -6722,6 +6782,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/normies",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for NORMIES (build etherscan-normies-9eb6e202-1785712585714, commit edb3d0e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/normies",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fnormies",
+      "category": "data",
+      "createdAt": "2026-08-02T23:16:49.137Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/notch",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for NOTCH (build etherscan-notch-f9087c46-1785063353174, commit 4871980, branch etherscan)",
@@ -6950,6 +7022,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/spcx",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SPCX (build etherscan-spcx-a17f3837-1785713320823, commit 7b2000d, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/spcx",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fspcx",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T23:29:01.569Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/stkaave",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for stkAAVE (build etherscan-stkaave-4da27a54-1785688244870, commit b12b8b7, branch etherscan)",
@@ -7008,6 +7092,18 @@
       "createdAt": "2026-08-01T05:12:11.907Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/toolregistry",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ToolRegistry (build etherscan-toolregistry-265bb2db-1785713570892, commit 9aeca6f, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/toolregistry",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftoolregistry",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T23:33:12.893Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/tp",
@@ -7092,6 +7188,18 @@
       "createdAt": "2026-07-26T21:20:59.863Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/usat",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for USAT (build etherscan-usat-07041776-1785713261131, commit d00f874, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/usat",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fusat",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T23:28:03.606Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/usduc",
@@ -10334,6 +10442,18 @@
       "score": 84
     },
     {
+      "name": "@mkdnsite/dmint",
+      "version": "1.0.0",
+      "description": "Download a Mintlify docs site as a local directory of Markdown files",
+      "license": "MIT",
+      "repository": "https://github.com/mkdnsite/dmint",
+      "npmUrl": "https://www.npmjs.com/package/%40mkdnsite%2Fdmint",
+      "category": "cli",
+      "createdAt": "2026-08-02T23:09:48.935Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 64
+    },
+    {
       "name": "@mkhalif/ledgerai",
       "version": "0.1.0",
       "description": "Tamper-evident audit log for AI actions, recorded into your own Postgres.",
@@ -12914,6 +13034,18 @@
       "score": 57
     },
     {
+      "name": "@reconugc/mcp",
+      "version": "0.1.0",
+      "description": "RECON UGC MCP server — search viral TikToks, read breakdowns, compare videos, and pull your competitor board from any AI tool.",
+      "license": "MIT",
+      "repository": "https://github.com/ottiwroteit/infiltrate",
+      "npmUrl": "https://www.npmjs.com/package/%40reconugc%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T23:22:38.536Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 47
+    },
+    {
       "name": "@redpop/apple-calendar-mcp",
       "version": "0.1.1",
       "description": "MCP server for Apple Calendar on macOS: read events, create them, and find free time — via EventKit, with a permission grant that survives updates",
@@ -13214,6 +13346,18 @@
       "score": 42
     },
     {
+      "name": "@rickyli79/async-lock-and-run",
+      "version": "0.1.4",
+      "description": "Run async functions under a per-key mutual exclusion lock.",
+      "license": "MIT",
+      "repository": "https://github.com/RickyLi79/async-lock-and-run",
+      "npmUrl": "https://www.npmjs.com/package/%40rickyli79%2Fasync-lock-and-run",
+      "category": "utilities",
+      "createdAt": "2026-08-02T22:40:47.500Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 65
+    },
+    {
       "name": "@rios0rios0/backstage-plugin-code-health",
       "version": "1.0.0",
       "description": "Backstage frontend plugin that shows CI status, releases, tags, compliance checks and contributor metrics for every GitHub and Azure DevOps repository",
@@ -13224,6 +13368,18 @@
       "createdAt": "2026-07-28T23:30:14.516Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 91
+    },
+    {
+      "name": "@rivaleteam/pulse",
+      "version": "0.1.0",
+      "description": "End-to-end encrypted messaging fabric for the browser and Node: Noise transport, Double Ratchet payloads, a blind relay, and a tokenized binary wire format. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/rivaleteam/pulse",
+      "npmUrl": "https://www.npmjs.com/package/%40rivaleteam%2Fpulse",
+      "category": "frontend",
+      "createdAt": "2026-08-02T22:56:36.896Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 88
     },
     {
       "name": "@rjava/agent-bus",
@@ -13740,6 +13896,18 @@
       "createdAt": "2026-07-29T16:51:17.711Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 68
+    },
+    {
+      "name": "@screamer-labs/screamer",
+      "version": "2.1.0",
+      "description": "WASM build of screamer, a high-performance causal streaming time-series operator library, compiled from the same C++ core as the Python package.",
+      "license": "MIT",
+      "repository": "https://github.com/screamer-labs/screamer",
+      "npmUrl": "https://www.npmjs.com/package/%40screamer-labs%2Fscreamer",
+      "category": "data",
+      "createdAt": "2026-08-02T22:46:04.424Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 65
     },
     {
       "name": "@se-oss/v2ray",
@@ -15720,6 +15888,42 @@
       "createdAt": "2026-07-30T19:29:58.380Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 73
+    },
+    {
+      "name": "@thomas-powers-jr/cadence-core",
+      "version": "1.54.0",
+      "description": "CADENCE engine — the DRAFT→BUILD→SETTLE loop, configurable quality gates, and the host-agnostic `cadence` CLI for AI-assisted development.",
+      "license": "MIT",
+      "repository": "https://github.com/thomas-powers-jr/cadence",
+      "npmUrl": "https://www.npmjs.com/package/%40thomas-powers-jr%2Fcadence-core",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T23:03:34.475Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 93
+    },
+    {
+      "name": "@thomas-powers-jr/cadence-host-claude-code",
+      "version": "1.54.0",
+      "description": "Claude Code adapter for CADENCE — installs lifecycle hooks and slash commands that drive the CADENCE engine from inside Claude Code.",
+      "license": "MIT",
+      "repository": "https://github.com/thomas-powers-jr/cadence",
+      "npmUrl": "https://www.npmjs.com/package/%40thomas-powers-jr%2Fcadence-host-claude-code",
+      "category": "utilities",
+      "createdAt": "2026-08-02T23:03:39.871Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 47
+    },
+    {
+      "name": "@thomas-powers-jr/cadence-host-codex",
+      "version": "1.54.0",
+      "description": "OpenAI Codex CLI adapter for CADENCE — installs lifecycle hooks and slash commands that drive the CADENCE engine from inside Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/thomas-powers-jr/cadence",
+      "npmUrl": "https://www.npmjs.com/package/%40thomas-powers-jr%2Fcadence-host-codex",
+      "category": "cli",
+      "createdAt": "2026-08-02T23:03:44.094Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 53
     },
     {
       "name": "@thrain/blackout",
@@ -20726,6 +20930,18 @@
       "score": 60
     },
     {
+      "name": "daemon-sdk",
+      "version": "1.0.0",
+      "description": "A minimal agent SDK with native tool calling and streaming, OpenAI-compatible (OpenAI, Groq, Gemini)",
+      "license": "ISC",
+      "repository": "https://github.com/adityau5090/GenAI-Js",
+      "npmUrl": "https://www.npmjs.com/package/daemon-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-02T23:30:32.673Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 50
+    },
+    {
       "name": "daleel",
       "version": "0.3.0",
       "description": "Daleel (دليل) — scan a codebase for Saudi DGA (Digital Government Authority) design-system readiness: RTL-first, IBM Plex Sans Arabic, WCAG 2.1 AA. AST-verified, report-only, plus an optional HarfBuzz `--render` font-proof (covers + joins Arabic, no tofu)",
@@ -23150,6 +23366,30 @@
       "score": 70
     },
     {
+      "name": "hubspot-request-verify",
+      "version": "1.1.0",
+      "description": "Small utility to verify HubSpot webhook, custom app, and UI extension signatures.",
+      "license": "MIT",
+      "repository": "https://github.com/DaganCardinal/hubspot-request-verify",
+      "npmUrl": "https://www.npmjs.com/package/hubspot-request-verify",
+      "category": "utilities",
+      "createdAt": "2026-07-26T16:02:24.631Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 61
+    },
+    {
+      "name": "hug-models",
+      "version": "0.2.0",
+      "description": "Model dependency manifests and update checks for Transformers.js applications.",
+      "license": "MIT",
+      "repository": "https://github.com/erkde/hug-models",
+      "npmUrl": "https://www.npmjs.com/package/hug-models",
+      "category": "data",
+      "createdAt": "2026-08-02T22:10:00.402Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 53
+    },
+    {
       "name": "huischeck",
       "version": "1.0.0",
       "description": "Paste a Dutch house listing, get a scored due-diligence report: commute gates, erfpacht, neighbourhood safety, amenities, mortgage affordability and a condition read from the photos. Self-hosted, web dashboard included.",
@@ -23292,6 +23532,18 @@
       "createdAt": "2026-07-27T15:56:08.953Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 81
+    },
+    {
+      "name": "inferix-code",
+      "version": "0.4.0",
+      "description": "INFERIX CODE — a terminal coding agent that builds whole projects",
+      "license": "MIT",
+      "repository": "https://github.com/inferix/inferix-code",
+      "npmUrl": "https://www.npmjs.com/package/inferix-code",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T23:11:33.038Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 72
     },
     {
       "name": "ingot-scan",
@@ -23664,6 +23916,18 @@
       "createdAt": "2026-08-02T20:13:25.031Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 77
+    },
+    {
+      "name": "kanbanthing",
+      "version": "0.1.0",
+      "description": "Terminal client for KanbanThing boards. Create a board and list, add, move and edit cards from a shell, with --json on every command so scripts and AI agents can drive the same board a person has open in a browser.",
+      "license": "MIT",
+      "repository": "https://github.com/tronschell/kanban-cli",
+      "npmUrl": "https://www.npmjs.com/package/kanbanthing",
+      "category": "frontend",
+      "createdAt": "2026-08-02T22:59:57.961Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 78
     },
     {
       "name": "kanpai-toast",
@@ -25550,6 +25814,18 @@
       "score": 78
     },
     {
+      "name": "n8n-nodes-supabase-storage",
+      "version": "0.1.0",
+      "description": "List, download, upload and delete files in Supabase Storage from n8n, using the built-in Supabase credential.",
+      "license": "MIT",
+      "repository": "https://github.com/pirazor/n8n-nodes-supabase-storage",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-supabase-storage",
+      "category": "utilities",
+      "createdAt": "2026-08-02T23:21:10.047Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 50
+    },
+    {
       "name": "n8n-nodes-whatsapp-advanced",
       "version": "1.0.0",
       "description": "Advanced WhatsApp Business node for n8n: template-aware variable fields, Cloud API and Marketing Messages API endpoint routing, and full Meta error-code handling with delivery-status parsing.",
@@ -27218,6 +27494,18 @@
       "score": 82
     },
     {
+      "name": "pi-vigil",
+      "version": "0.1.0",
+      "description": "Pi extension for asynchronous, turn-based subagents",
+      "license": "MIT",
+      "repository": "https://github.com/itgeorge/pi-vigil",
+      "npmUrl": "https://www.npmjs.com/package/pi-vigil",
+      "category": "utilities",
+      "createdAt": "2026-08-02T23:18:45.424Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 73
+    },
+    {
       "name": "pi-web-i18n",
       "version": "1.0.1",
       "description": "UI language pack (i18n) for jmfederico/pi-web — DOM overlay translations with zh-CN default, English, and Japanese.",
@@ -27900,6 +28188,18 @@
       "createdAt": "2026-07-31T04:55:01.083Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 80
+    },
+    {
+      "name": "qrtoba",
+      "version": "2.0.1",
+      "description": "RTL-first CSS framework for Arabic & Islamic web interfaces.",
+      "license": "MIT",
+      "repository": "https://github.com/qrtoba/qrtoba",
+      "npmUrl": "https://www.npmjs.com/package/qrtoba",
+      "category": "frontend",
+      "createdAt": "2026-08-02T22:44:46.533Z",
+      "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 67
     },
     {
       "name": "qualityclouds-mcp-init",
