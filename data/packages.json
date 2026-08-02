@@ -50,6 +50,18 @@
       "score": 68
     },
     {
+      "name": "8bit-sfx",
+      "version": "0.4.1",
+      "description": "2200 free, deterministic, procedurally generated 8-bit sound effects (WAV) with per-effect catalog descriptions and a tiny dependency-free JS API for browsers and Node.",
+      "license": "MIT",
+      "repository": "https://github.com/cportka/8bit-sfx",
+      "npmUrl": "https://www.npmjs.com/package/8bit-sfx",
+      "category": "frontend",
+      "createdAt": "2026-08-01T23:49:01.055Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 62
+    },
+    {
       "name": "@12signals/html-distill",
       "version": "0.1.0",
       "description": "Structure-preserving HTML normalizer for LLM input. Turns real-world marketing pages, landing pages and SPA output into stable, semantically-hinted HTML — without throwing away the boilerplate that carries the signal.",
@@ -396,6 +408,18 @@
       "createdAt": "2026-07-26T18:10:20.381Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 63
+    },
+    {
+      "name": "@agent-manifest/client",
+      "version": "0.0.0",
+      "description": "Reading client for Agent Manifest v1.0 declarations. Parses, canonicalises, fingerprints, compares and structurally validates manifests. It reports where a document came from and what cannot be concluded from it; it does not score, rank, certify or enforc",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agent-manifest/agent-manifest-client",
+      "npmUrl": "https://www.npmjs.com/package/%40agent-manifest%2Fclient",
+      "category": "cli",
+      "createdAt": "2026-08-02T01:20:50.077Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 76
     },
     {
       "name": "@agentchatme/agent-core",
@@ -1322,6 +1346,18 @@
       "score": 52
     },
     {
+      "name": "@asaje/skills",
+      "version": "1.0.1",
+      "description": "Production-grade AI coding agent skills library — 28 reusable, security-audited skills for OpenCode, Claude Code, Cursor, Codex CLI, Windsurf, and GitHub Copilot",
+      "license": "MIT",
+      "repository": "https://github.com/asaje379/opencts-skills",
+      "npmUrl": "https://www.npmjs.com/package/%40asaje%2Fskills",
+      "category": "cli",
+      "createdAt": "2026-08-02T00:07:56.762Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 96
+    },
+    {
       "name": "@asenajs/asena-kafka",
       "version": "1.0.0",
       "description": "Kafka integration for AsenaJS - service client and microservice transport",
@@ -1932,6 +1968,18 @@
       "createdAt": "2026-07-26T15:12:17.791Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 51
+    },
+    {
+      "name": "@binaryoperations/json-tree-editor",
+      "version": "1.0.0",
+      "description": "Interactive JSON tree editor — Solid components + framework-agnostic web component",
+      "license": "MIT",
+      "repository": "https://github.com/binaryoperations/json-tree-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40binaryoperations%2Fjson-tree-editor",
+      "category": "utilities",
+      "createdAt": "2026-08-01T23:56:28.963Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 78
     },
     {
       "name": "@bipo-ape/roll",
@@ -2928,6 +2976,18 @@
       "createdAt": "2026-08-01T17:36:15.447Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 75
+    },
+    {
+      "name": "@coreyhiggins/grain",
+      "version": "0.2.0",
+      "description": "Routes each prompt to the right discipline and injects only the guidance that matches. Costs nothing on conversational turns, and surfaces the skill you forgot you installed.",
+      "license": "MIT",
+      "repository": "https://github.com/coreyhiggins/grain",
+      "npmUrl": "https://www.npmjs.com/package/%40coreyhiggins%2Fgrain",
+      "category": "devops",
+      "createdAt": "2026-08-02T01:14:54.932Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 87
     },
     {
       "name": "@cosyte/cli",
@@ -4188,6 +4248,18 @@
       "createdAt": "2026-07-29T04:02:12.406Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 71
+    },
+    {
+      "name": "@espressif/rainmaker-neo-base-sdk",
+      "version": "1.0.0",
+      "description": "ESP RainMaker Neo TypeScript SDK for JS-based apps — Cognito auth, MQTT control, device provisioning, groups, and real-time node updates.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/espressif/esp-rainmaker-neo-app-sdk-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40espressif%2Frainmaker-neo-base-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-02T00:39:13.613Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 75
     },
     {
       "name": "@essence-lang/stdlib",
@@ -6446,6 +6518,18 @@
       "score": 71
     },
     {
+      "name": "@guideloop/vanilla",
+      "version": "2.0.2",
+      "description": "Framework-agnostic guided tour library — imperative API + Web Components powered by @guideloop/core",
+      "license": "MIT",
+      "repository": "https://github.com/oznksc/guideloop",
+      "npmUrl": "https://www.npmjs.com/package/%40guideloop%2Fvanilla",
+      "category": "backend",
+      "createdAt": "2026-08-02T01:18:55.460Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 60
+    },
+    {
       "name": "@guuey/widget-auth",
       "version": "0.1.0",
       "description": "Mint end-user identity tokens for a guuey embeddable widget from your own backend. One call, zero runtime dependencies — your app secret stays on your server and the platform holds the signing key.",
@@ -7406,6 +7490,18 @@
       "score": 52
     },
     {
+      "name": "@james.valencia/mcp-reportia",
+      "version": "0.1.1",
+      "description": "Servidor MCP (Model Context Protocol) independiente que envuelve la API HTTP real de Reportia. Pensado para ser consumido por otra aplicación de IA vía npx/stdio.",
+      "license": "MIT",
+      "repository": "https://github.com/javalenciacai/mcp-reportia",
+      "npmUrl": "https://www.npmjs.com/package/%40james.valencia%2Fmcp-reportia",
+      "category": "frontend",
+      "createdAt": "2026-08-02T00:46:11.053Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 80
+    },
+    {
       "name": "@jango-blockchained/hoox-tui",
       "version": "0.1.8",
       "description": "Hoox algorithmic trading terminal operations center — OpenTUI dashboard",
@@ -8354,6 +8450,30 @@
       "score": 68
     },
     {
+      "name": "@lyra-protocol/record",
+      "version": "0.1.0",
+      "description": "Permanent, publicly verifiable trade ledger for autonomous trading agents. Writes to Arweave through Irys.",
+      "license": "MIT",
+      "repository": "https://github.com/lyra-protocol/lyra-record",
+      "npmUrl": "https://www.npmjs.com/package/%40lyra-protocol%2Frecord",
+      "category": "utilities",
+      "createdAt": "2026-08-01T23:45:43.156Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 76
+    },
+    {
+      "name": "@madebyclowd/taiga-mcp-server",
+      "version": "0.1.0",
+      "description": "MCP server for Taiga (Cloud and self-hosted) — projects, epics, user stories, tasks, issues, sprints, wiki, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/madebyclowd/taiga-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40madebyclowd%2Ftaiga-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-02T01:34:02.360Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 73
+    },
+    {
       "name": "@mailkite/better-auth",
       "version": "0.1.0",
       "description": "Send Better Auth's magic links, OTPs, verification, password-reset and organization-invite emails through MailKite.",
@@ -8832,6 +8952,18 @@
       "createdAt": "2026-07-26T05:05:10.169Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 77
+    },
+    {
+      "name": "@michael-evrythngwrx/sonner-vue",
+      "version": "0.1.0",
+      "description": "An opinionated toast component for Vue 3. A faithful port of sonner.",
+      "license": "MIT",
+      "repository": "https://github.com/michael-evrythngwrx/sonner-vue",
+      "npmUrl": "https://www.npmjs.com/package/%40michael-evrythngwrx%2Fsonner-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-02T00:33:17.147Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 66
     },
     {
       "name": "@michaelthielemann/kestrel",
@@ -9314,6 +9446,18 @@
       "score": 94
     },
     {
+      "name": "@neefactory/skillsmithy",
+      "version": "1.0.0",
+      "description": "Mint, migrate, validate, and package portable Agent Skill projects.",
+      "license": "MIT",
+      "repository": "https://github.com/neefactory/skillsmithy",
+      "npmUrl": "https://www.npmjs.com/package/%40neefactory%2Fskillsmithy",
+      "category": "utilities",
+      "createdAt": "2026-08-02T00:33:30.888Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 66
+    },
+    {
       "name": "@neerajvipparla/agentbridge",
       "version": "0.1.0",
       "description": "Fork Claude Code chat sessions into OpenCode and back, versioned as local git commits. A bidirectional Claude Code <-> OpenCode context bridge.",
@@ -9588,6 +9732,54 @@
       "createdAt": "2026-08-01T11:04:13.233Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 63
+    },
+    {
+      "name": "@nowtwo-llc/fireworksify",
+      "version": "3.0.1",
+      "description": "The best way to get fireworks to explode all over a website.",
+      "license": "MIT",
+      "repository": "https://github.com/nowtwo-llc/nowtwo-fireworksify",
+      "npmUrl": "https://www.npmjs.com/package/%40nowtwo-llc%2Ffireworksify",
+      "category": "frontend",
+      "createdAt": "2026-08-02T01:51:23.255Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 61
+    },
+    {
+      "name": "@nowtwo-llc/hedgehogify",
+      "version": "3.0.1",
+      "description": "The best way to get hedgehogs to explode all over a website.",
+      "license": "MIT",
+      "repository": "https://github.com/nowtwo-llc/nowtwo-hedgehogify",
+      "npmUrl": "https://www.npmjs.com/package/%40nowtwo-llc%2Fhedgehogify",
+      "category": "frontend",
+      "createdAt": "2026-08-02T01:46:51.667Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 69
+    },
+    {
+      "name": "@nowtwo-llc/quick-switcher",
+      "version": "4.0.1",
+      "description": "Keyboard-driven command palette for the web, with nested drill-down searches, breadcrumb navigation, and usage-based result ranking. No runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/nowtwo-llc/nowtwo-quick-switcher",
+      "npmUrl": "https://www.npmjs.com/package/%40nowtwo-llc%2Fquick-switcher",
+      "category": "devops",
+      "createdAt": "2026-08-02T01:50:20.904Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 90
+    },
+    {
+      "name": "@nowtwollc/quick-switcher",
+      "version": "4.0.0",
+      "description": "Keyboard-driven command palette for the web, with nested drill-down searches, breadcrumb navigation, and usage-based result ranking. No runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/nowtwo-llc/nowtwo-quick-switcher",
+      "npmUrl": "https://www.npmjs.com/package/%40nowtwollc%2Fquick-switcher",
+      "category": "devops",
+      "createdAt": "2026-08-02T01:29:53.978Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 90
     },
     {
       "name": "@nsect/cli",
@@ -12434,6 +12626,18 @@
       "score": 78
     },
     {
+      "name": "@soliton-id/web-sdk",
+      "version": "1.0.0",
+      "description": "Soliton identity verification for the browser: opens the hosted verification flow in a full-viewport overlay iframe on your page and reports lifecycle events. Verdicts and portraits are fetched by your backend, never exposed in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/georgesabr/next-app",
+      "npmUrl": "https://www.npmjs.com/package/%40soliton-id%2Fweb-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-02T01:50:03.714Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 82
+    },
+    {
       "name": "@sonisoft/sn-credstore",
       "version": "1.0.0",
       "description": "Headless-safe credential storage for the ServiceNow SDK. Replaces the OS-keyring backend so non-interactive agents can authenticate.",
@@ -13694,6 +13898,18 @@
       "score": 63
     },
     {
+      "name": "@tsforge7/platega-sdk-nestjs",
+      "version": "0.1.7",
+      "description": "platega sdk for nestjs",
+      "license": "ISC",
+      "repository": "https://github.com/tsforge/platega-sdk-nestjs",
+      "npmUrl": "https://www.npmjs.com/package/%40tsforge7%2Fplatega-sdk-nestjs",
+      "category": "backend",
+      "createdAt": "2026-08-01T23:43:20.346Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 70
+    },
+    {
       "name": "@tui-games/tui",
       "version": "0.2.13",
       "description": "Play familiar single-player games in a lightweight HTML overlay while your agents work.",
@@ -14628,6 +14844,30 @@
       "createdAt": "2026-08-01T15:04:16.846Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 83
+    },
+    {
+      "name": "@wireservers/react-natives",
+      "version": "2.1.2",
+      "description": "A comprehensive React Native component library built with NativeWind and Tailwind Variants",
+      "license": "MIT",
+      "repository": "https://github.com/wireservers/react-natives",
+      "npmUrl": "https://www.npmjs.com/package/%40wireservers%2Freact-natives",
+      "category": "frontend",
+      "createdAt": "2026-08-02T01:38:19.232Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 81
+    },
+    {
+      "name": "@wireservers/react-natives-pro",
+      "version": "0.1.0",
+      "description": "Premium components for @wireservers/react-natives — DataGrid Pro, Scheduler, and date-range tooling",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/wireservers/react-natives",
+      "npmUrl": "https://www.npmjs.com/package/%40wireservers%2Freact-natives-pro",
+      "category": "frontend",
+      "createdAt": "2026-08-02T01:38:11.240Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 71
     },
     {
       "name": "@wismaz/vitest-browser-angular",
@@ -15804,6 +16044,18 @@
       "createdAt": "2026-07-25T19:46:54.685Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 88
+    },
+    {
+      "name": "ariseguard",
+      "version": "0.1.0",
+      "description": "Every bug you defeat becomes a guard that hunts its own kind. A pattern and a runner for the checks your linter cannot express.",
+      "license": "PolyForm-Shield-1.0.0",
+      "repository": "https://github.com/hossamhamdy99/arise",
+      "npmUrl": "https://www.npmjs.com/package/ariseguard",
+      "category": "backend",
+      "createdAt": "2026-08-01T23:53:54.742Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 69
     },
     {
       "name": "aronnax-ui",
@@ -18686,6 +18938,18 @@
       "score": 78
     },
     {
+      "name": "eve-verify",
+      "version": "1.0.0",
+      "description": "Independently verify EVE Proof governed-AI decision certificates (Ed25519 over RFC 8785 JCS). Fully offline.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/eve-neurosystems/eve-verify",
+      "npmUrl": "https://www.npmjs.com/package/eve-verify",
+      "category": "testing",
+      "createdAt": "2026-08-02T01:49:17.390Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 71
+    },
+    {
       "name": "even-demo-kit",
       "version": "0.2.0",
       "description": "Turn Even Realities G2 simulator captures into real-looking AR glasses demos — transparent images & videos, one command.",
@@ -19368,6 +19632,18 @@
       "createdAt": "2026-07-25T14:29:26.000Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 59
+    },
+    {
+      "name": "git-artifact",
+      "version": "0.1.2",
+      "description": "Live commit-graph dashboard for your repo. Local-first, read-only, no telemetry.",
+      "license": "MIT",
+      "repository": "https://github.com/David-Feldt/git-artifact",
+      "npmUrl": "https://www.npmjs.com/package/git-artifact",
+      "category": "cli",
+      "createdAt": "2026-08-02T01:14:55.783Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 72
     },
     {
       "name": "git-multi-commit",
@@ -21072,6 +21348,18 @@
       "createdAt": "2026-07-26T16:00:14.040Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 91
+    },
+    {
+      "name": "lomboktablesheet",
+      "version": "1.0.1",
+      "description": "Fast, lightweight, portable Table + Spreadsheet library. Core engine, framework-agnostic.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/codinglombok/LombokTableSheet",
+      "npmUrl": "https://www.npmjs.com/package/lomboktablesheet",
+      "category": "data",
+      "createdAt": "2026-08-02T01:31:09.508Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 88
     },
     {
       "name": "loopback-mcp-server",
@@ -28332,6 +28620,18 @@
       "createdAt": "2026-07-26T11:05:48.133Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 60
+    },
+    {
+      "name": "x402-repohealth-mcp",
+      "version": "0.1.0",
+      "description": "Free MCP server that computes a GitHub repo maintenance/abandonment health score (0-100) + verdict from live GitHub data. Open twin of the paid x402-gated repohealth HTTP API.",
+      "license": "MIT",
+      "repository": "https://github.com/liminalpepe/x402-repohealth-mcp",
+      "npmUrl": "https://www.npmjs.com/package/x402-repohealth-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T01:48:40.426Z",
+      "discoveredAt": "2026-08-02T01:59:35.775Z",
+      "score": 66
     },
     {
       "name": "xchain-mcp",
