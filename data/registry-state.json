@@ -1,11 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122869884,
-  "lastRunAt": "2026-08-02T18:58:02.569Z",
+  "lastSequence": 122875229,
+  "lastRunAt": "2026-08-02T20:09:56.019Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@nexploy/nodes",
+      "name": "@theagilemonkeys/facility",
+      "attempts": 1
+    },
+    {
+      "name": "@boarteam/fix-dict-fixt11",
+      "attempts": 1
+    },
+    {
+      "name": "@boarteam/fix-dict-fix50sp2",
+      "attempts": 1
+    },
+    {
+      "name": "@keicoin/market",
       "attempts": 1
     }
   ]
