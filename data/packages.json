@@ -4118,6 +4118,30 @@
       "score": 94
     },
     {
+      "name": "@dinglebear/labby",
+      "version": "1.8.6",
+      "description": "Rust MCP gateway with Code Mode, authentication, setup, logs, CLI, HTTP API, and operator web UI.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/dinglebear-ai/labby",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Flabby",
+      "category": "backend",
+      "createdAt": "2026-08-02T22:26:39.016Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 89
+    },
+    {
+      "name": "@dinglebear/rapprise",
+      "version": "0.2.1",
+      "description": "MCP server and CLI for Apprise: fan out notifications to dozens of delivery backends over stdio or streamable HTTP, with auth and plugin packaging.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/rapprise",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Frapprise",
+      "category": "backend",
+      "createdAt": "2026-08-02T22:17:07.112Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 84
+    },
+    {
       "name": "@dinglebear/rarcane",
       "version": "0.4.4",
       "description": "MCP server and CLI for Arcane: manage Docker containers, images, networks, volumes, and Compose projects over stdio or streamable HTTP, with auth.",
@@ -4176,6 +4200,18 @@
       "createdAt": "2026-08-02T06:33:09.017Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 94
+    },
+    {
+      "name": "@dinglebear/soma",
+      "version": "0.8.2",
+      "description": "RMCP runtime for provider-backed agents with CLI, REST, HTTP MCP, plugins, and scaffold support.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/soma",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Fsoma",
+      "category": "backend",
+      "createdAt": "2026-08-02T22:24:57.608Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 79
     },
     {
       "name": "@dinglebear/synapse",
@@ -8294,6 +8330,18 @@
       "score": 84
     },
     {
+      "name": "@indoortoolkit/indoor-osm-parser",
+      "version": "0.1.0",
+      "description": "Parser and domain model for Simple Indoor Tagging data from raw Overpass JSON.",
+      "license": "MIT",
+      "repository": "https://github.com/IndoorToolkit/indoor-osm-parser",
+      "npmUrl": "https://www.npmjs.com/package/%40indoortoolkit%2Findoor-osm-parser",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:45:12.398Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 71
+    },
+    {
       "name": "@inis-run/ai-sdk",
       "version": "0.1.0",
       "description": "Vercel AI SDK tools for inis.run sandboxes",
@@ -9156,6 +9204,18 @@
       "createdAt": "2026-07-29T04:18:36.735Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 69
+    },
+    {
+      "name": "@kubohiroya/turbowarp-tmpose",
+      "version": "1.3.0",
+      "description": "A TurboWarp extension for camera-based pose recognition using Teachable Machine Pose models.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/kubohiroya/turbowarp-tmpose",
+      "npmUrl": "https://www.npmjs.com/package/%40kubohiroya%2Fturbowarp-tmpose",
+      "category": "utilities",
+      "createdAt": "2026-08-02T22:38:14.683Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 79
     },
     {
       "name": "@kud/gandi",
@@ -13262,6 +13322,150 @@
       "score": 58
     },
     {
+      "name": "@rozie-ui/date-picker-angular",
+      "version": "0.1.2",
+      "description": "Idiomatic Angular headless WAI-ARIA single-date calendar (month grid, prev/next nav, weekStartsOn, min/max/disabledDates, roving keyboard focus, ControlValueAccessor) — one accessible Rozie source compiled to Angular.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fdate-picker-angular",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:38.891Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 90
+    },
+    {
+      "name": "@rozie-ui/date-picker-lit",
+      "version": "0.1.2",
+      "description": "Idiomatic Lit headless WAI-ARIA single-date calendar (month grid, prev/next nav, weekStartsOn, min/max/disabledDates, roving keyboard focus) — one accessible Rozie source compiled to a Lit custom element.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fdate-picker-lit",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:38:33.017Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 87
+    },
+    {
+      "name": "@rozie-ui/date-picker-react",
+      "version": "0.1.2",
+      "description": "Idiomatic React headless WAI-ARIA single-date calendar (month grid, prev/next nav, weekStartsOn, min/max/disabledDates, roving keyboard focus) — one accessible Rozie source compiled to React.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fdate-picker-react",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:24.287Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 89
+    },
+    {
+      "name": "@rozie-ui/date-picker-solid",
+      "version": "0.1.2",
+      "description": "Idiomatic Solid headless WAI-ARIA single-date calendar (month grid, prev/next nav, weekStartsOn, min/max/disabledDates, roving keyboard focus) — one accessible Rozie source compiled to Solid.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fdate-picker-solid",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:38:30.146Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 86
+    },
+    {
+      "name": "@rozie-ui/date-picker-svelte",
+      "version": "0.1.2",
+      "description": "Idiomatic Svelte headless WAI-ARIA single-date calendar (month grid, prev/next nav, weekStartsOn, min/max/disabledDates, roving keyboard focus) — one accessible Rozie source compiled to Svelte.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fdate-picker-svelte",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:35.978Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 87
+    },
+    {
+      "name": "@rozie-ui/date-picker-vue",
+      "version": "0.1.2",
+      "description": "Idiomatic Vue headless WAI-ARIA single-date calendar (month grid, prev/next nav, weekStartsOn, min/max/disabledDates, roving keyboard focus) — one accessible Rozie source compiled to Vue.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fdate-picker-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:27.149Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 87
+    },
+    {
+      "name": "@rozie-ui/tags-angular",
+      "version": "0.1.2",
+      "description": "Idiomatic Angular headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) with ControlValueAccessor — one accessible Rozie source compiled to Angular.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Ftags-angular",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:58.072Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 77
+    },
+    {
+      "name": "@rozie-ui/tags-lit",
+      "version": "0.1.2",
+      "description": "Idiomatic Lit headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) — one accessible Rozie source compiled to a Lit custom element.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Ftags-lit",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:38:51.913Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 74
+    },
+    {
+      "name": "@rozie-ui/tags-react",
+      "version": "0.1.2",
+      "description": "Idiomatic React headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) — one accessible Rozie source compiled to React.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Ftags-react",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:42.630Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 74
+    },
+    {
+      "name": "@rozie-ui/tags-solid",
+      "version": "0.1.2",
+      "description": "Idiomatic Solid headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) — one accessible Rozie source compiled to Solid.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Ftags-solid",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:38:48.812Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 73
+    },
+    {
+      "name": "@rozie-ui/tags-svelte",
+      "version": "0.1.2",
+      "description": "Idiomatic Svelte headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) — one accessible Rozie source compiled to Svelte.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Ftags-svelte",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:54.949Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 73
+    },
+    {
+      "name": "@rozie-ui/tags-vue",
+      "version": "0.1.2",
+      "description": "Idiomatic Vue headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) — one accessible Rozie source compiled to Vue.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Ftags-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:38:45.820Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 74
+    },
+    {
       "name": "@rs-native-kit/security",
       "version": "0.1.0",
       "description": "Enterprise-grade React Native security SDK: root/jailbreak/emulator/hook detection, tamper & signature integrity, VPN/proxy/screen monitoring, SSL pinning helpers, and a configurable device risk engine.",
@@ -16140,6 +16344,18 @@
       "createdAt": "2026-08-01T10:08:50.436Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 66
+    },
+    {
+      "name": "@uuon-foundation/pscience-perception-engine",
+      "version": "1.0.0",
+      "description": "Perception-before-compression reasoning engine for clouud. Holds all valid interpretations as a wavefunction before collapsing to the most information-dense candidate. The prefrontal cortex of clouud.",
+      "license": "LicenseRef-USAL-1.0",
+      "repository": "https://github.com/UUON-Foundation/pscience-perception-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40uuon-foundation%2Fpscience-perception-engine",
+      "category": "data",
+      "createdAt": "2026-08-02T22:28:13.926Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 96
     },
     {
       "name": "@uuon-foundation/pythagorean-graph-engine",
@@ -19610,6 +19826,18 @@
       "score": 88
     },
     {
+      "name": "clawgram",
+      "version": "2.0.0",
+      "description": "Clawgram — personal Telegram (MTProto userbot) channel for OpenClaw. Your AI assistant reads and responds as you.",
+      "license": "MIT",
+      "repository": "https://github.com/d3pre5s/clawgram",
+      "npmUrl": "https://www.npmjs.com/package/clawgram",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:11:15.746Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 87
+    },
+    {
       "name": "cleave-crypto",
       "version": "0.1.0",
       "description": "Post-quantum hybrid file encryption with key commitment, ratcheted chunk authentication and verifiable erasure. Runs in the browser.",
@@ -22730,6 +22958,18 @@
       "score": 81
     },
     {
+      "name": "homebridge-hon-haier-ac",
+      "version": "1.0.0",
+      "description": "Control Haier air conditioners that use the hOn cloud app from HomeKit via Homebridge: power, mode, temperature, fan speed and swing.",
+      "license": "MIT",
+      "repository": "https://github.com/pandizajner/homebridge-hon-haier-ac",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-hon-haier-ac",
+      "category": "cli",
+      "createdAt": "2026-08-02T22:35:24.670Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 89
+    },
+    {
       "name": "homebridge-landroid-v2",
       "version": "2.0.1",
       "description": "Homebridge plugin for Worx Landroid (and Kress, Ferrex, Landxcape) robotic lawn mowers. Maintained v2 fork with the Worx cloud API fixes.",
@@ -25824,6 +26064,18 @@
       "createdAt": "2026-08-01T01:28:12.922Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 85
+    },
+    {
+      "name": "nuxt-convex-module",
+      "version": "0.0.0",
+      "description": "Convex for Vue & Nuxt — a faithful port of Convex's official React/Next integration (queries, mutations, actions, pagination, file storage, SSR) with opt-in Better Auth and Polar",
+      "license": "MIT",
+      "repository": "https://github.com/qruto/nuxt-convex-module",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-convex-module",
+      "category": "frontend",
+      "createdAt": "2026-08-02T22:31:14.539Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 83
     },
     {
       "name": "nvcalendar",
@@ -29330,6 +29582,18 @@
       "score": 76
     },
     {
+      "name": "sideeye",
+      "version": "0.2.0",
+      "description": "Decide which architecture, backend, and API patterns to use — and which to reject — with a skeptical staff-engineer lens. A skill for Claude Code and Codex, plus a standalone routing library.",
+      "license": "MIT",
+      "repository": "https://github.com/justjammin/sideeye",
+      "npmUrl": "https://www.npmjs.com/package/sideeye",
+      "category": "backend",
+      "createdAt": "2026-08-02T22:25:30.462Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 89
+    },
+    {
       "name": "sievekit",
       "version": "0.1.0",
       "description": "Portable, file-based agent protocol and skill library that installs in one command and works across coding agents.",
@@ -30698,6 +30962,18 @@
       "score": 57
     },
     {
+      "name": "tokenhours-live",
+      "version": "0.2.0",
+      "description": "Real-time AI build-cost meter. A localhost proxy that prices every model call live and shows a running total in an instrument HUD â€” and sees nothing: prompts, responses and keys never leave your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/LeadGenius1/tokenhours-live",
+      "npmUrl": "https://www.npmjs.com/package/tokenhours-live",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T22:06:55.601Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 75
+    },
+    {
       "name": "toolgz",
       "version": "0.1.1",
       "description": "Compress LLM tool definitions to reclaim context window. Measured across Anthropic, OpenAI, Google and xAI.",
@@ -30840,6 +31116,18 @@
       "createdAt": "2026-08-02T06:51:43.047Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 76
+    },
+    {
+      "name": "truecopy",
+      "version": "0.0.2",
+      "description": "Read tables out of PDFs, and refuse the readings you cannot trust. Learns each document's own shape, so a new issuer needs no new configuration.",
+      "license": "MIT",
+      "repository": "https://github.com/florianmousseau/truecopy",
+      "npmUrl": "https://www.npmjs.com/package/truecopy",
+      "category": "frontend",
+      "createdAt": "2026-08-02T21:27:27.321Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 84
     },
     {
       "name": "trust-verify",
@@ -31128,6 +31416,18 @@
       "createdAt": "2026-07-26T18:24:57.047Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 90
+    },
+    {
+      "name": "unswayed",
+      "version": "0.1.0",
+      "description": "Statistical parity gate for swapping AI models: sample every provider, fail CI only on certified regressions — with an honest \"undecided\" when your sample count can't prove anything.",
+      "license": "MIT",
+      "repository": "https://github.com/Umer9538/unswayed-js",
+      "npmUrl": "https://www.npmjs.com/package/unswayed",
+      "category": "testing",
+      "createdAt": "2026-08-02T21:58:10.841Z",
+      "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 73
     },
     {
       "name": "usa-dam-data",
