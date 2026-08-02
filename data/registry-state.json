@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122828111,
-  "lastRunAt": "2026-08-02T11:31:01.933Z",
+  "lastSequence": 122836575,
+  "lastRunAt": "2026-08-02T13:03:05.537Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@redpop/apple-calendar-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@moumensoliman/crust",
+      "attempts": 1
+    },
+    {
+      "name": "@viloris/vela-api",
+      "attempts": 1
+    }
+  ]
 }

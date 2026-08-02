@@ -3590,6 +3590,18 @@
       "score": 69
     },
     {
+      "name": "@desek/pi-opentelemetry",
+      "version": "0.1.0",
+      "description": "pi coding-agent extension that exports OpenTelemetry metrics, log events, and traces over OTLP gRPC, at parity with Claude Code's built-in telemetry. It installs as a no-op: it emits nothing unless enabled, stays silent when no collector is reachable, and",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/desek/agent-observability",
+      "npmUrl": "https://www.npmjs.com/package/%40desek%2Fpi-opentelemetry",
+      "category": "utilities",
+      "createdAt": "2026-08-02T12:11:25.836Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 86
+    },
+    {
       "name": "@dev_config/client-api-kit",
       "version": "1.0.1",
       "description": "Generic, type-safe API client built on axios and api-response-kit's response envelope. Framework-agnostic 'resources' for server components/server actions, plus a TanStack Query hooks layer for client components. Generic CRUD, offset + cursor pagination,",
@@ -4332,6 +4344,18 @@
       "createdAt": "2026-08-02T09:45:18.369Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 69
+    },
+    {
+      "name": "@dpuse/dpuse-tool-d3-visualiser",
+      "version": "0.0.18",
+      "description": "A TypeScript wrapper for D3, Billboard.js, and Observable Plot that implements the Data Positioning chart-rendering interface, providing ERD (dagre), Sankey (d3-sankey), network (d3-force), tree (d3-hierarchy), and bar chart (billboard.js, Observable Plot",
+      "license": "MIT",
+      "repository": "https://github.com/dpuse/dpuse-tool-d3-visualiser",
+      "npmUrl": "https://www.npmjs.com/package/%40dpuse%2Fdpuse-tool-d3-visualiser",
+      "category": "data",
+      "createdAt": "2026-08-02T12:20:26.573Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 70
     },
     {
       "name": "@dravensoft/arena-angular",
@@ -5220,6 +5244,18 @@
       "createdAt": "2026-07-28T16:11:50.832Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 72
+    },
+    {
+      "name": "@frondruntime/devtools",
+      "version": "0.4.0",
+      "description": "Attach a Frond runtime to the local devtools hub.",
+      "license": "MIT",
+      "repository": "https://github.com/frondruntime/frond",
+      "npmUrl": "https://www.npmjs.com/package/%40frondruntime%2Fdevtools",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T14:43:05.763Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 64
     },
     {
       "name": "@frondruntime/hub",
@@ -6768,6 +6804,18 @@
       "createdAt": "2026-07-30T15:58:07.021Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 62
+    },
+    {
+      "name": "@governancer-foundation/funnel-base-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that serves validated primary-source statutory text + a citation validation ledger as queryable resources and tools, so Claude Code sessions and CI agents can fetch verbatim law text and cross-check citations at write time. Bring your own corpu",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/governancer-foundation/funnel-base-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40governancer-foundation%2Ffunnel-base-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T11:39:55.135Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 66
     },
     {
       "name": "@goxtechnologies/infor-visual-mcp",
@@ -8966,6 +9014,18 @@
       "score": 73
     },
     {
+      "name": "@magical-index/alidocs-web-mcp",
+      "version": "0.1.0",
+      "description": "Local MCP bridge that exposes the DingTalk Doc (alidocs) page already open in your browser to any MCP host over stdio.",
+      "license": "MIT",
+      "repository": "https://github.com/magical-index/alidocs-web-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40magical-index%2Falidocs-web-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:28:29.002Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 67
+    },
+    {
       "name": "@mailkite/better-auth",
       "version": "0.1.0",
       "description": "Send Better Auth's magic links, OTPs, verification, password-reset and organization-invite emails through MailKite.",
@@ -10850,6 +10910,18 @@
       "score": 70
     },
     {
+      "name": "@parthivpandya/agent-fabric",
+      "version": "0.1.0",
+      "description": "Shared memory layer for multi-agent AI systems. Let your agents remember, recall, and coordinate — without stepping on each other.",
+      "license": "MIT",
+      "repository": "https://github.com/user/agent-fabric",
+      "npmUrl": "https://www.npmjs.com/package/%40parthivpandya%2Fagent-fabric",
+      "category": "utilities",
+      "createdAt": "2026-08-02T12:50:33.176Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 77
+    },
+    {
       "name": "@parthobepary/nuxt-meta-pixel",
       "version": "1.0.1",
       "description": "A lightweight Facebook/Meta Pixel package for Nuxt 4",
@@ -12026,6 +12098,18 @@
       "score": 73
     },
     {
+      "name": "@regfish/api-v1",
+      "version": "0.1.0",
+      "description": "TypeScript client for the regfish API v1 — domains, DNS records and zones, DNSSEC, web hosting and TLS certificates.",
+      "license": "MIT",
+      "repository": "https://github.com/regfish/regfish-api-v1-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40regfish%2Fapi-v1",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:18:21.059Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 75
+    },
+    {
       "name": "@reintersect/svelte-check",
       "version": "4.7.4",
       "description": "Svelte Code Checker Terminal Interface",
@@ -12722,6 +12806,30 @@
       "score": 75
     },
     {
+      "name": "@shardev/capacitor-google-auth",
+      "version": "1.0.1",
+      "description": "Capacitor plugin for native Google sign-in using GoogleSignIn on iOS and Google Sign-In (play-services-auth) on Android",
+      "license": "MIT",
+      "repository": "https://github.com/shardev/capacitor-google-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40shardev%2Fcapacitor-google-auth",
+      "category": "devops",
+      "createdAt": "2026-08-02T12:24:22.389Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 91
+    },
+    {
+      "name": "@shardev/capacitor-microsoft-auth",
+      "version": "1.0.1",
+      "description": "Capacitor plugin for native Microsoft sign-in (Microsoft Entra ID / Azure AD) using MSAL on iOS and Android",
+      "license": "MIT",
+      "repository": "https://github.com/shardev/capacitor-microsoft-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40shardev%2Fcapacitor-microsoft-auth",
+      "category": "devops",
+      "createdAt": "2026-08-02T12:15:07.169Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 90
+    },
+    {
       "name": "@shbernal/ts-pptx",
       "version": "0.0.1",
       "description": "Create PowerPoint presentations (.pptx) from TypeScript and modern JavaScript",
@@ -13046,6 +13154,30 @@
       "score": 66
     },
     {
+      "name": "@skynet-initiative/sky-remote",
+      "version": "0.1.1",
+      "description": "Consent-first co-browse for the web. The customer signs, on their own device, before anything is shared.",
+      "license": "BUSL-1.1",
+      "repository": "https://github.com/Skynet-Initiative/sky-remote-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40skynet-initiative%2Fsky-remote",
+      "category": "utilities",
+      "createdAt": "2026-08-02T12:25:59.355Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 70
+    },
+    {
+      "name": "@skynet-initiative/smart-cookies",
+      "version": "0.1.1",
+      "description": "Browser SDK loader for Smart Cookies — product analytics, session replay and heatmaps. Injects the recorder, resolves a typed handle, and lets a page restrict what is captured on it. Cookieless by default.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Skynet-Initiative/smart-cookies-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40skynet-initiative%2Fsmart-cookies",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:26:08.102Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 73
+    },
+    {
       "name": "@slastra/yplib",
       "version": "0.1.0",
       "description": "YPL thermal label printer protocol: framing, CRC, 1-bit raster, and a Web Bluetooth transport. Reverse-engineered and verified against hardware captures.",
@@ -13056,6 +13188,18 @@
       "createdAt": "2026-07-25T18:46:17.622Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 70
+    },
+    {
+      "name": "@slicedearth/whoisleuth-cli",
+      "version": "1.32.0",
+      "description": "Local-first WHOIS, RDAP, DNS, TLS, certificate transparency, and domain investigation CLI.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/slicedearth/whoisleuth",
+      "npmUrl": "https://www.npmjs.com/package/%40slicedearth%2Fwhoisleuth-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:02:25.129Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 65
     },
     {
       "name": "@slide-agent/core",
@@ -13704,6 +13848,18 @@
       "createdAt": "2026-07-27T20:06:30.246Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 98
+    },
+    {
+      "name": "@sume-com/sdk",
+      "version": "0.1.3",
+      "description": "TypeScript client for the Sume HTTP API, with run polling and webhook verification helpers.",
+      "license": "MIT",
+      "repository": "https://github.com/sumelabs/sume-com",
+      "npmUrl": "https://www.npmjs.com/package/%40sume-com%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-02T11:46:28.748Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 65
     },
     {
       "name": "@sunerpy/oh-my-openagent",
@@ -15878,6 +16034,18 @@
       "score": 91
     },
     {
+      "name": "@zerone-agent/agent-sdk",
+      "version": "1.0.0",
+      "description": "Open-source Agent SDK. Runs the full agent loop in-process — no local CLI required. Deploy anywhere: cloud, serverless, Docker, CI/CD.",
+      "license": "MIT",
+      "repository": "https://github.com/zerone-agents/agent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40zerone-agent%2Fagent-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-02T11:39:03.889Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 93
+    },
+    {
       "name": "@zerotohundred/mcp-server",
       "version": "0.1.0",
       "description": "Z2H Model Context Protocol server — list software on Z2H from Claude Code, Cursor, Windsurf, Continue, and any MCP client.",
@@ -16848,6 +17016,18 @@
       "createdAt": "2026-07-29T09:33:31.307Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 73
+    },
+    {
+      "name": "astra-coder",
+      "version": "1.0.0",
+      "description": "Minimal terminal coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/VishalDevx/astra",
+      "npmUrl": "https://www.npmjs.com/package/astra-coder",
+      "category": "cli",
+      "createdAt": "2026-08-02T11:32:00.408Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 72
     },
     {
       "name": "astro-d1-search",
@@ -17868,6 +18048,18 @@
       "createdAt": "2026-07-30T07:39:30.977Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 89
+    },
+    {
+      "name": "chrono-fa",
+      "version": "0.1.0",
+      "description": "Deterministic natural-language date and time parser for Persian (Farsi)",
+      "license": "MIT",
+      "repository": "https://github.com/rezacom/chrono-fa",
+      "npmUrl": "https://www.npmjs.com/package/chrono-fa",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:47:37.012Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 71
     },
     {
       "name": "chronologyjs",
@@ -19034,6 +19226,18 @@
       "score": 85
     },
     {
+      "name": "dbmlgraph",
+      "version": "0.1.1",
+      "description": "DBML → LLM-ready markdown knowledge graph (index, per-table, per-domain) + RAG export",
+      "license": "MIT",
+      "repository": "https://github.com/verryp/dbmlgraph",
+      "npmUrl": "https://www.npmjs.com/package/dbmlgraph",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:09:34.112Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 71
+    },
+    {
       "name": "ddd-tactical-core-boilerplate",
       "version": "2.0.0",
       "description": "Reusable TypeScript building blocks for tactical Domain-Driven Design",
@@ -19886,6 +20090,30 @@
       "score": 85
     },
     {
+      "name": "farrier-kit",
+      "version": "1.0.1",
+      "description": "Lightning payment primitives that work anywhere: bolt11 decoding, preimage verification, LNURL-pay resolution and timeout-safe JSON fetch. Zero-dependency core on @noble, browser and Node from one codebase.",
+      "license": "MIT",
+      "repository": "https://github.com/forgesworn/farrier-kit",
+      "npmUrl": "https://www.npmjs.com/package/farrier-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:55:30.254Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 100
+    },
+    {
+      "name": "fast-financial-charts",
+      "version": "1.5.1",
+      "description": "WebGL2 financial charts for the web: 90 indicators, drawings, multi-pane layouts, live tick streaming, and an MCP tool surface for AI agents. Headless, MIT licensed, and battle-tested in the Pairlens trading terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/Pairlens/fast-financial-charts",
+      "npmUrl": "https://www.npmjs.com/package/fast-financial-charts",
+      "category": "testing",
+      "createdAt": "2026-08-02T12:33:14.750Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 98
+    },
+    {
       "name": "faster-latex",
       "version": "0.1.0",
       "description": "Render full LaTeX documents to HTML (with MathML math) in the browser — pure Rust compiled to WebAssembly.",
@@ -20208,6 +20436,18 @@
       "createdAt": "2026-08-01T16:50:00.489Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 58
+    },
+    {
+      "name": "forge-auth",
+      "version": "0.1.0",
+      "description": "A lightweight authentication toolkit: secure building blocks (password hashing, JWT, middleware) with sensible defaults — no database, no opinions.",
+      "license": "MIT",
+      "repository": "https://github.com/DV09developer/forge-auth",
+      "npmUrl": "https://www.npmjs.com/package/forge-auth",
+      "category": "backend",
+      "createdAt": "2026-08-02T12:31:40.319Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 76
     },
     {
       "name": "forgedoc",
@@ -23186,6 +23426,18 @@
       "score": 94
     },
     {
+      "name": "n8n-nodes-city-timezone-lookup",
+      "version": "1.0.0",
+      "description": "Lookup timezone ID, local time, UTC offset, and DST status by city + country (or coordinates) in n8n workflows, with optional nearest-match fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/tudor555/n8n-nodes-city-timezone-lookup",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-city-timezone-lookup",
+      "category": "devops",
+      "createdAt": "2026-08-02T12:41:37.792Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 94
+    },
+    {
       "name": "n8n-nodes-cliptoframe",
       "version": "0.1.1",
       "description": "n8n community node for ClipToFrame — extract still frames and metadata from video URLs via a hosted API (no FFmpeg needed, works on n8n Cloud)",
@@ -23474,6 +23726,18 @@
       "score": 70
     },
     {
+      "name": "newsreel",
+      "version": "0.1.0",
+      "description": "Build narrated videos from a config file: reports, demos, ads, launch films. Playwright drives your real app, narration runs locally, ffmpeg assembles it with cards, a music bed and 35 generated scenes",
+      "license": "MIT",
+      "repository": "https://github.com/e3o8o/newsreel",
+      "npmUrl": "https://www.npmjs.com/package/newsreel",
+      "category": "testing",
+      "createdAt": "2026-08-02T12:57:31.727Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 90
+    },
+    {
       "name": "nex-typed",
       "version": "0.1.1",
       "description": "A modern TypeScript typing animation library for the browser. Create terminal-style typing effects with full control over animation, cursor behavior, and callbacks.",
@@ -23616,6 +23880,18 @@
       "createdAt": "2026-08-01T09:35:51.845Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 92
+    },
+    {
+      "name": "node-ai-context-manager",
+      "version": "1.0.0",
+      "description": "Lightweight, provider-agnostic LLM conversation context manager for Node.js and TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/Lo-kith/ai-context-manager",
+      "npmUrl": "https://www.npmjs.com/package/node-ai-context-manager",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T12:35:06.609Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 83
     },
     {
       "name": "node-ai-env",
@@ -25032,6 +25308,18 @@
       "createdAt": "2026-07-28T13:32:26.717Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 79
+    },
+    {
+      "name": "playreel",
+      "version": "0.1.0",
+      "description": "Storyboard-as-code promo videos of live websites: deterministic virtual-time 60fps capture + ffmpeg post-production",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rdtsm/playreel",
+      "npmUrl": "https://www.npmjs.com/package/playreel",
+      "category": "testing",
+      "createdAt": "2026-08-02T12:42:10.767Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 68
     },
     {
       "name": "playwright-audio-mocking",
@@ -29880,6 +30168,18 @@
       "createdAt": "2026-07-26T21:26:04.352Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 67
+    },
+    {
+      "name": "yt-transcript-gemini-mcp",
+      "version": "0.1.0",
+      "description": "YouTube transcripts as an MCP tool. Free captions first, Gemini transcription when they are missing or bad, yt-dlp last. Returns text, not a bill.",
+      "license": "MIT",
+      "repository": "https://github.com/fledgeling-co/yt-transcript-gemini-mcp",
+      "npmUrl": "https://www.npmjs.com/package/yt-transcript-gemini-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-02T11:34:38.210Z",
+      "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 84
     },
     {
       "name": "ytstats",
