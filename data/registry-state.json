@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122805314,
-  "lastRunAt": "2026-08-02T05:31:45.592Z",
+  "lastSequence": 122814386,
+  "lastRunAt": "2026-08-02T08:08:41.471Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@address-bd/core",
+      "name": "@dunx/openapi",
       "attempts": 1
     },
     {
-      "name": "@aiwayds/pi-sidebar-panel",
+      "name": "@dunx/auth",
+      "attempts": 1
+    },
+    {
+      "name": "@dunx/testing",
       "attempts": 1
     }
   ]

@@ -1406,6 +1406,18 @@
       "score": 52
     },
     {
+      "name": "@arythmatic/flow-cli",
+      "version": "0.1.0",
+      "description": "Send API requests from your terminal, and run the collections you already have in Arythmatic Flow.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/askmeidentitycorp/aryth-flow",
+      "npmUrl": "https://www.npmjs.com/package/%40arythmatic%2Fflow-cli",
+      "category": "testing",
+      "createdAt": "2026-08-02T07:11:53.327Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 77
+    },
+    {
       "name": "@asaje/skills",
       "version": "1.0.1",
       "description": "Production-grade AI coding agent skills library — 28 reusable, security-audited skills for OpenCode, Claude Code, Cursor, Codex CLI, Windsurf, and GitHub Copilot",
@@ -3230,6 +3242,18 @@
       "score": 72
     },
     {
+      "name": "@crixue/opencode-voice-stt",
+      "version": "0.1.0",
+      "description": "Speech-to-text for OpenCode. Record voice prompts with whisper-cpp, normalized for coding through any OpenAI-compatible LLM endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/crixue/opencode-voice-stt",
+      "npmUrl": "https://www.npmjs.com/package/%40crixue%2Fopencode-voice-stt",
+      "category": "data",
+      "createdAt": "2026-08-02T06:58:41.465Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 75
+    },
+    {
       "name": "@cruglobal/flags",
       "version": "0.1.0",
       "description": "Official Node.js client for Cru's pipeline feature flag service. Zero dependencies, synchronous flag reads, fail-static polling with ETag revalidation.",
@@ -3530,6 +3554,42 @@
       "score": 56
     },
     {
+      "name": "@devotel-orbit/mcp-server",
+      "version": "0.1.0",
+      "description": "Orbit by Devotel — Model Context Protocol (MCP) server. Exposes Orbit CPaaS APIs (SMS, WhatsApp, Email, Voice, Contacts, Campaigns, Journeys, Numbers, Memory, KB) as first-class tools so Claude Code, Claude Desktop, Cursor, and any other MCP-aware agent c",
+      "license": "MIT",
+      "repository": "https://github.com/Devotel/orbit-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40devotel-orbit%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-02T06:17:22.032Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 90
+    },
+    {
+      "name": "@devotel-orbit/voice-client",
+      "version": "0.1.0",
+      "description": "Official client SDK for the Orbit Voice protocol — low-latency WebSocket bridge to Orbit's AI voice agents. Browser, Node, and React Native (Expo) for in-app voice. Built for low latency, observability, and developer ergonomics.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Devotel/orbit-voice-client",
+      "npmUrl": "https://www.npmjs.com/package/%40devotel-orbit%2Fvoice-client",
+      "category": "frontend",
+      "createdAt": "2026-08-02T06:16:46.202Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 81
+    },
+    {
+      "name": "@devotel-orbit/web",
+      "version": "0.2.1",
+      "description": "Official browser SDK for Orbit by Devotel — embeddable chat widget, SIP/WebRTC softphone, AI voice agent, video rooms, verification UI, web push, in-app messages, feature flags, personalization, CDP + web analytics, CRM CTI bridge, and declarative <orbit-",
+      "license": "MIT",
+      "repository": "https://github.com/Devotel/orbit-web",
+      "npmUrl": "https://www.npmjs.com/package/%40devotel-orbit%2Fweb",
+      "category": "frontend",
+      "createdAt": "2026-08-02T06:14:18.764Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 90
+    },
+    {
       "name": "@devpablocristo/arca-facturacion",
       "version": "2.2.0",
       "description": "SDK para Facturación Electrónica con ARCA (ex AFIP) - WSFE, WSFEX, CAEA, QR",
@@ -3662,6 +3722,18 @@
       "score": 75
     },
     {
+      "name": "@dinglebear/cortex",
+      "version": "3.11.1",
+      "description": "Self-hosted log aggregation and investigation for homelabs: syslog, Docker, OTLP, and AI transcripts in SQLite/FTS, exposed over MCP, CLI, and REST.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/cortex",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Fcortex",
+      "category": "backend",
+      "createdAt": "2026-08-02T05:33:18.530Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 94
+    },
+    {
       "name": "@dinglebear/rarcane",
       "version": "0.4.4",
       "description": "MCP server and CLI for Arcane: manage Docker containers, images, networks, volumes, and Compose projects over stdio or streamable HTTP, with auth.",
@@ -3710,6 +3782,30 @@
       "score": 83
     },
     {
+      "name": "@dinglebear/rytdl",
+      "version": "1.0.4",
+      "description": "MCP server and CLI for yt-dlp: search and download media, embed metadata and cover art, then deliver to local, SSH, or rclone targets and Plex.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/rytdl",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Frytdl",
+      "category": "backend",
+      "createdAt": "2026-08-02T06:33:09.017Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 94
+    },
+    {
+      "name": "@dinglebear/synapse",
+      "version": "1.0.0",
+      "description": "MCP server and CLI for host and container operations: Docker and Compose control, SSH, host inspection, logs, ZFS, and safe file transfer.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/synapse",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Fsynapse",
+      "category": "backend",
+      "createdAt": "2026-08-02T05:57:52.212Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 93
+    },
+    {
       "name": "@dinglebear/unraid",
       "version": "0.2.5",
       "description": "Rust MCP server and CLI for Unraid GraphQL operations across NAS, Docker, VM, and storage workflows.",
@@ -3720,6 +3816,18 @@
       "createdAt": "2026-08-01T22:56:50.239Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 80
+    },
+    {
+      "name": "@dinglebear/yarr",
+      "version": "2.2.2",
+      "description": "MCP server and CLI for self-hosted media fleets: Sonarr, Radarr, Prowlarr, Bazarr, Tautulli, Overseerr, SABnzbd, qBittorrent, Plex, Jellyfin, and Tracearr.",
+      "license": "MIT",
+      "repository": "https://github.com/dinglebear-ai/yarr",
+      "npmUrl": "https://www.npmjs.com/package/%40dinglebear%2Fyarr",
+      "category": "backend",
+      "createdAt": "2026-08-02T05:42:48.788Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 95
     },
     {
       "name": "@dioschub/client",
@@ -7190,6 +7298,18 @@
       "score": 74
     },
     {
+      "name": "@iappx/gql-builder",
+      "version": "1.0.0",
+      "description": "A dependency-free TypeScript GraphQL document builder: compose queries, mutations and subscriptions as an object tree and print them with variables extracted automatically.",
+      "license": "MIT",
+      "repository": "https://github.com/iappx/gql-builder",
+      "npmUrl": "https://www.npmjs.com/package/%40iappx%2Fgql-builder",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T07:05:31.106Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 97
+    },
+    {
       "name": "@icodenet/eval-dashboards",
       "version": "0.1.0",
       "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs.",
@@ -7622,6 +7742,18 @@
       "score": 52
     },
     {
+      "name": "@jackgreen2018/pdf-engine-wasm",
+      "version": "1.0.1",
+      "description": "A lightweight, high-performance PDF processing library that runs in the browser and Node.js via Rust/WASM. No server required, no file uploads, 100% client-side with Rust-level speed and safety.",
+      "license": "MIT",
+      "repository": "https://github.com/jackgreen/pdf-engine-wasm",
+      "npmUrl": "https://www.npmjs.com/package/%40jackgreen2018%2Fpdf-engine-wasm",
+      "category": "frontend",
+      "createdAt": "2026-08-02T07:49:37.404Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 84
+    },
+    {
       "name": "@james.valencia/mcp-reportia",
       "version": "0.1.1",
       "description": "Servidor MCP (Model Context Protocol) independiente que envuelve la API HTTP real de Reportia. Pensado para ser consumido por otra aplicación de IA vía npx/stdio.",
@@ -7895,6 +8027,18 @@
       "category": "frontend",
       "createdAt": "2026-08-01T09:30:46.211Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
+      "score": 86
+    },
+    {
+      "name": "@jugaaadi/table",
+      "version": "0.0.1",
+      "description": "A world-class, spreadsheet-style data table for React built on TanStack Table v8 — editable cells, formulas, rich column types, borders/formatting, find & replace, shareable views, and a build-your-own blank sheet.",
+      "license": "MIT",
+      "repository": "https://github.com/MateenKhan/table",
+      "npmUrl": "https://www.npmjs.com/package/%40jugaaadi%2Ftable",
+      "category": "frontend",
+      "createdAt": "2026-08-02T06:19:23.897Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 86
     },
     {
@@ -9624,6 +9768,18 @@
       "createdAt": "2026-08-02T04:16:41.343Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 89
+    },
+    {
+      "name": "@nekosuneprojects/gaming-infos",
+      "version": "2.1.0",
+      "description": "Multi-game data loader (VRChat, Genshin Impact, and more to come) for worlds, groups, players, and characters. Fetches live from the NekoSuneVR V5 API with local JSON fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/NekoSuneProjects/gaming-infos",
+      "npmUrl": "https://www.npmjs.com/package/%40nekosuneprojects%2Fgaming-infos",
+      "category": "backend",
+      "createdAt": "2026-08-02T07:44:45.766Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 85
     },
     {
       "name": "@neograce/cli",
@@ -12624,6 +12780,18 @@
       "createdAt": "2026-07-25T18:46:17.622Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 70
+    },
+    {
+      "name": "@slide-agent/core",
+      "version": "0.0.1",
+      "description": "Portable AI-agent skill and TypeScript toolkit for creating, editing, rendering, and validating editable PowerPoint presentations.",
+      "license": "MIT",
+      "repository": "https://github.com/ghassenbrg/slide-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40slide-agent%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T07:31:04.290Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 75
     },
     {
       "name": "@smallthinkingmachines/video-context-mcp",
@@ -16202,6 +16370,18 @@
       "score": 63
     },
     {
+      "name": "archimedes-github-pr-mcp",
+      "version": "1.0.0",
+      "description": "Permission-gated MCP server for listing, reviewing, commenting on, and labeling GitHub pull requests",
+      "license": "MIT",
+      "repository": "https://github.com/2daime-same/autonomous-income-runner",
+      "npmUrl": "https://www.npmjs.com/package/archimedes-github-pr-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T07:13:35.730Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 79
+    },
+    {
       "name": "arclear-sdk",
       "version": "3.0.0",
       "description": "Permissionless multilateral obligation-netting clearinghouse primitive for any ERC-20 on Arc — 100 micropayments, 1 settlement.",
@@ -18098,6 +18278,18 @@
       "score": 81
     },
     {
+      "name": "create-agentpress",
+      "version": "1.0.0",
+      "description": "AgentPress: scaffold AI-agent-ready WordPress sites on Laragon (Windows) — instant vhosts, https, premium plugin licensing, MCP wiring.",
+      "license": "GPL-2.0-or-later",
+      "repository": "https://github.com/briansmith80/agentpress",
+      "npmUrl": "https://www.npmjs.com/package/create-agentpress",
+      "category": "backend",
+      "createdAt": "2026-08-02T07:17:12.854Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 89
+    },
+    {
       "name": "create-aiox-superpowers",
       "version": "1.0.2",
       "description": "Hybrid framework combining AIOX Core multi-agent orchestration with Superpowers skill-driven methodology for OpenCode CLI",
@@ -18720,6 +18912,18 @@
       "createdAt": "2026-07-28T09:52:55.137Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 83
+    },
+    {
+      "name": "document-cli",
+      "version": "1.0.0",
+      "description": "CLI and interactive Ink TUI for documents.js: every docx/pptx/odt/odp/ods/odg/odf/odm/odb conversion, bridge, and editor as a scriptable command or a terminal app.",
+      "license": "MIT",
+      "repository": "https://github.com/ExaDev/document-cli",
+      "npmUrl": "https://www.npmjs.com/package/document-cli",
+      "category": "cli",
+      "createdAt": "2026-08-02T04:38:51.738Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 96
     },
     {
       "name": "doing-leetcode",
@@ -19632,6 +19836,18 @@
       "createdAt": "2026-08-01T08:23:36.718Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 68
+    },
+    {
+      "name": "fractal-agentic",
+      "version": "2.2.0",
+      "description": "Domain bosses, /orchestrate delivery runtime, and vendored skills for AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/fractalmandala/fractal-agentic",
+      "npmUrl": "https://www.npmjs.com/package/fractal-agentic",
+      "category": "frontend",
+      "createdAt": "2026-08-02T06:52:57.625Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 82
     },
     {
       "name": "framebasecss",
@@ -25790,6 +26006,18 @@
       "score": 79
     },
     {
+      "name": "saffron-mobile-enhancer",
+      "version": "1.0.0",
+      "description": "Drop-in mobile experience upgrade Drop-in mobile experience upgrade. One script tag makes any website mobile-amazing. Bottom nav, sheets, touch feedback, PWA — all automatic.",
+      "license": "MIT",
+      "repository": "https://github.com/aladdinhamed/saffron-mobile-enhancer",
+      "npmUrl": "https://www.npmjs.com/package/saffron-mobile-enhancer",
+      "category": "utilities",
+      "createdAt": "2026-08-02T05:57:33.867Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 77
+    },
+    {
       "name": "saman-payment-pos",
       "version": "1.0.1",
       "description": "TypeScript SDK for the SSP1126 (Saman Electronic Payment) POS terminal — ISO-8583 over TCP/Serial",
@@ -26016,6 +26244,18 @@
       "createdAt": "2026-07-28T17:35:11.689Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 83
+    },
+    {
+      "name": "seenit",
+      "version": "0.3.0",
+      "description": "Has this already been written? Asks a copy/paste detector the question it does not answer — before you write, not after. Matches through renames and reformatting.",
+      "license": "MIT",
+      "repository": "https://github.com/arjunmukeshh/seenit",
+      "npmUrl": "https://www.npmjs.com/package/seenit",
+      "category": "backend",
+      "createdAt": "2026-08-02T06:00:59.593Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 80
     },
     {
       "name": "seepient",
@@ -26522,6 +26762,18 @@
       "score": 86
     },
     {
+      "name": "smthrs",
+      "version": "0.33.0",
+      "description": "Multi-agent workflows with full observability and time travel: watch every step live, rewind, fork, and replay any run. Claude Code, Codex, Gemini, any model or harness.",
+      "license": "MIT",
+      "repository": "https://github.com/smithersai/smithers",
+      "npmUrl": "https://www.npmjs.com/package/smthrs",
+      "category": "frontend",
+      "createdAt": "2026-08-02T06:14:16.895Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 86
+    },
+    {
       "name": "sntnl-cli",
       "version": "4.0.0",
       "description": "Sentinel Security Intelligence — SAST, supply chain, threat intel, and Skills/MCP for AI coding agents.",
@@ -26832,6 +27084,18 @@
       "createdAt": "2026-07-30T14:18:57.556Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 79
+    },
+    {
+      "name": "stopslop",
+      "version": "0.1.0",
+      "description": "Detects AI-agent slop that linters miss: over-complex functions, god modules/classes, dumped responsibilities.",
+      "license": "MIT",
+      "repository": "https://github.com/BaryshevRS/stopslop",
+      "npmUrl": "https://www.npmjs.com/package/stopslop",
+      "category": "utilities",
+      "createdAt": "2026-08-02T05:53:08.151Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 77
     },
     {
       "name": "storecheck",
@@ -27686,6 +27950,18 @@
       "score": 69
     },
     {
+      "name": "tron-energy-calculator",
+      "version": "1.0.0",
+      "description": "Calculate the real cost of TRON (TRC20) USDT transfers: energy needed, TRX burned, and burn-vs-rent comparison. Live chain parameters, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/GetTronEnergy/tron-energy-calculator",
+      "npmUrl": "https://www.npmjs.com/package/tron-energy-calculator",
+      "category": "devops",
+      "createdAt": "2026-08-02T06:51:43.047Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 76
+    },
+    {
       "name": "trust-verify",
       "version": "1.0.1",
       "description": "TRUST — Trust Reporting & Unified Security Testing. Zero-dependency security verification for web, API, storage, AI-agent and mobile targets.",
@@ -27996,6 +28272,18 @@
       "createdAt": "2026-07-31T21:20:02.167Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 85
+    },
+    {
+      "name": "ux-review",
+      "version": "1.0.0",
+      "description": "Local-first, agentic UX analysis for web apps — evaluate the user experience from source, runtime behavior, and product intent, with nothing leaving your machine.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SteveBowden/ux-review",
+      "npmUrl": "https://www.npmjs.com/package/ux-review",
+      "category": "testing",
+      "createdAt": "2026-08-02T05:38:55.126Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 96
     },
     {
       "name": "valida-cnpj-alfanumerico",
@@ -29100,6 +29388,18 @@
       "createdAt": "2026-08-01T10:18:42.796Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 85
+    },
+    {
+      "name": "zod-form-action",
+      "version": "0.1.0",
+      "description": "A tiny, zero-dependency helper for wiring Zod (or any schema with safeParse) into React's useActionState — typed field errors, no boilerplate.",
+      "license": "MIT",
+      "repository": "https://github.com/Vish05/zod-form-action",
+      "npmUrl": "https://www.npmjs.com/package/zod-form-action",
+      "category": "frontend",
+      "createdAt": "2026-08-02T06:04:31.022Z",
+      "discoveredAt": "2026-08-02T08:08:41.471Z",
+      "score": 77
     }
   ]
 }
