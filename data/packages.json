@@ -614,6 +614,30 @@
       "score": 81
     },
     {
+      "name": "@agentportal/metrics",
+      "version": "0.1.0",
+      "description": "OpenTelemetry metrics bridge for agentportal: turns diagnostics_channel runs/usage/spawn/exit/retry/breaker/rate-limit/permission signals into OTel counters and histograms (GenAI semantic conventions where they apply). @opentelemetry/api is a peer depende",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/btwld/agentportal",
+      "npmUrl": "https://www.npmjs.com/package/%40agentportal%2Fmetrics",
+      "category": "backend",
+      "createdAt": "2026-08-02T20:47:42.220Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 57
+    },
+    {
+      "name": "@agentportal/notify",
+      "version": "0.1.0",
+      "description": "Walk-away notifications for agentportal: a RecordObserver that maps approval-needed / error / turn-done observability records to a terminal bell, an OS desktop notification, or a webhook. Metadata-only by default; fire-and-forget with a bounded queue so i",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/btwld/agentportal",
+      "npmUrl": "https://www.npmjs.com/package/%40agentportal%2Fnotify",
+      "category": "backend",
+      "createdAt": "2026-08-02T20:47:43.630Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 66
+    },
+    {
       "name": "@agenttool/hf-kingdom-lab",
       "version": "0.1.0",
       "description": "Bounded Hugging Face training archaeology, provenance, and situated-flow evidence for AgentTool and KINGDOM.",
@@ -1514,6 +1538,18 @@
       "score": 68
     },
     {
+      "name": "@arulcornelious/ngx-ai",
+      "version": "0.1.0",
+      "description": "RxJS-friendly Angular client for OpenAI-compatible chat APIs (OpenAI, xAI Grok, or your own proxy) with first-class streaming support.",
+      "license": "MIT",
+      "repository": "https://github.com/arul1998/ngx-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40arulcornelious%2Fngx-ai",
+      "category": "frontend",
+      "createdAt": "2026-08-02T20:56:16.836Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 65
+    },
+    {
       "name": "@arvoretech/canopy",
       "version": "0.1.0",
       "description": "Canopy — watch and drive your existing browser (Arc/Chrome) with AI agents: MCP + CDP daemon, live cockpit with replay, visible AI cursor.",
@@ -2330,6 +2366,30 @@
       "score": 78
     },
     {
+      "name": "@boarteam/fix-dict-fix50sp2",
+      "version": "1.0.0",
+      "description": "FIX 5.0 SP2 over FIXT.1.1 as a self-contained dictionary (fields, components, messages, datatypes, enums) for @boarteam/fix. FIXT session envelope + base-SP2 application layer, generated from QuickFIX/J data dictionaries.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/boarteam/fix-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40boarteam%2Ffix-dict-fix50sp2",
+      "category": "data",
+      "createdAt": "2026-08-02T20:09:38.485Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 70
+    },
+    {
+      "name": "@boarteam/fix-dict-fixt11",
+      "version": "1.0.0",
+      "description": "FIXT.1.1 transport-layer dictionary (session envelope + admin messages) for @boarteam/fix. The session half of the transport/application split introduced by FIX 5.0; generated from the QuickFIX/J FIXT11 data dictionary.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/boarteam/fix-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40boarteam%2Ffix-dict-fixt11",
+      "category": "data",
+      "createdAt": "2026-08-02T20:09:25.066Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 66
+    },
+    {
       "name": "@boldsec/supabase",
       "version": "0.1.0",
       "description": "BoLD live authorization monitoring for Supabase: a fetch-level wrapper for supabase-js watches your PostgREST/RPC traffic for cross-user access (BOLA/IDOR) and mass-assignment (BOPLA) risks. Metadata only, fail-safe, zero query-builder patching.",
@@ -2676,6 +2736,18 @@
       "createdAt": "2026-08-01T15:04:50.659Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 46
+    },
+    {
+      "name": "@candelahq/opencode",
+      "version": "0.4.0",
+      "description": "OpenCode plugin for Candela — conversational cost queries, budget tracking, model configuration, and LLM observability",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/candelahq/opencode-candela",
+      "npmUrl": "https://www.npmjs.com/package/%40candelahq%2Fopencode",
+      "category": "utilities",
+      "createdAt": "2026-08-02T20:32:14.112Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 55
     },
     {
       "name": "@capacitor/contacts",
@@ -4022,6 +4094,18 @@
       "score": 75
     },
     {
+      "name": "@digitaldefiance/apple-silicon-caps",
+      "version": "0.1.0",
+      "description": "Honest three-state Apple Silicon hardware capability detection. Reports detected / not-present / undetectable with the evidence for each.",
+      "license": "MIT",
+      "repository": "https://github.com/Digital-Defiance/apple-silicon-caps",
+      "npmUrl": "https://www.npmjs.com/package/%40digitaldefiance%2Fapple-silicon-caps",
+      "category": "utilities",
+      "createdAt": "2026-08-02T20:54:07.457Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 83
+    },
+    {
       "name": "@dinglebear/cortex",
       "version": "3.11.1",
       "description": "Self-hosted log aggregation and investigation for homelabs: syslog, Docker, OTLP, and AI transcripts in SQLite/FTS, exposed over MCP, CLI, and REST.",
@@ -4860,6 +4944,18 @@
       "createdAt": "2026-07-29T04:02:12.406Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 71
+    },
+    {
+      "name": "@erickmorales91/nest-query-budget",
+      "version": "0.1.0",
+      "description": "Define and enforce database query budgets in NestJS tests to detect excessive, duplicated, repeated, and slow queries before production.",
+      "license": "MIT",
+      "repository": "https://github.com/erick9125/nest-query-budget",
+      "npmUrl": "https://www.npmjs.com/package/%40erickmorales91%2Fnest-query-budget",
+      "category": "testing",
+      "createdAt": "2026-08-02T20:31:54.601Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 81
     },
     {
       "name": "@espressif/rainmaker-neo-base-sdk",
@@ -6266,6 +6362,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/ftw",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FTW (build etherscan-ftw-306fd3e7-1785703966831, commit 506cbe7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ftw",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fftw",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T20:53:08.604Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/fwarewards",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for FWARewards (build etherscan-fwarewards-6a1a1c0c-1785104490180, commit 12c1090, branch etherscan)",
@@ -6552,6 +6660,18 @@
       "createdAt": "2026-08-01T22:51:57.193Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/namewrapper",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for NameWrapper (build etherscan-namewrapper-d4416b13-1785702621398, commit 53d46ad, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/namewrapper",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fnamewrapper",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T20:30:48.790Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/natg",
@@ -7007,6 +7127,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-01T17:40:36.374Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/xpr",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for XPR (build etherscan-xpr-d7efb00d-1785703466687, commit 6249777, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/xpr",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fxpr",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T20:44:48.753Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 56
     },
     {
@@ -9110,6 +9242,18 @@
       "score": 66
     },
     {
+      "name": "@latice/flags-react-native",
+      "version": "0.2.0",
+      "description": "Country flag components for React Native. Lightweight, tree-shakable.",
+      "license": "ISC",
+      "repository": "https://github.com/the-latice/flags",
+      "npmUrl": "https://www.npmjs.com/package/%40latice%2Fflags-react-native",
+      "category": "frontend",
+      "createdAt": "2026-08-02T20:15:28.531Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 55
+    },
+    {
       "name": "@ledgerproof/queue",
       "version": "1.0.0",
       "description": "Execution persistence for AI agents: durable commitments that survive crashes, wait without burning retries, and resume automatically when conditions change. Zero dependencies.",
@@ -10020,6 +10164,18 @@
       "createdAt": "2026-07-28T19:23:30.105Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 66
+    },
+    {
+      "name": "@mikiguillamon/n8n-nodes-bark",
+      "version": "0.1.0",
+      "description": "n8n community node for Bark push notifications with guided operations and custom API requests.",
+      "license": "MIT",
+      "repository": "https://github.com/mikiguillamon/n8n-nodes-bark",
+      "npmUrl": "https://www.npmjs.com/package/%40mikiguillamon%2Fn8n-nodes-bark",
+      "category": "backend",
+      "createdAt": "2026-08-02T21:07:01.915Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 59
     },
     {
       "name": "@millcrest/file-fetcher",
@@ -13346,6 +13502,18 @@
       "score": 46
     },
     {
+      "name": "@scaffoldly/tush",
+      "version": "0.0.4",
+      "description": "Publish an interactive shell over a tunnel and hand back a URL",
+      "license": "MIT",
+      "repository": "https://github.com/scaffoldly/tush",
+      "npmUrl": "https://www.npmjs.com/package/%40scaffoldly%2Ftush",
+      "category": "cli",
+      "createdAt": "2026-08-02T20:37:59.738Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 57
+    },
+    {
       "name": "@schovest/pi-mcp-adapter",
       "version": "0.1.2",
       "description": "MCP (Model Context Protocol) adapter extension for Pi coding agent",
@@ -13728,6 +13896,18 @@
       "createdAt": "2026-07-29T16:07:34.953Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 76
+    },
+    {
+      "name": "@sidnei_ali/factory-agent",
+      "version": "0.2.0",
+      "description": "Fábrica de software multiagente orientada por especificações e evidências",
+      "license": "MIT",
+      "repository": "https://github.com/sidneiali/factory-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40sidnei_ali%2Ffactory-agent",
+      "category": "cli",
+      "createdAt": "2026-08-02T20:34:20.076Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 55
     },
     {
       "name": "@siestai-memory/sdk",
@@ -18110,6 +18290,18 @@
       "score": 80
     },
     {
+      "name": "asyncsnippet",
+      "version": "0.1.0",
+      "description": "Code snippet generator for asynchronous protocol operations, using an AsyncAPI operation as the source of truth (WebSocket only for now)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/catosaurusrex/asyncsnippet",
+      "npmUrl": "https://www.npmjs.com/package/asyncsnippet",
+      "category": "backend",
+      "createdAt": "2026-08-02T20:59:07.541Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 54
+    },
+    {
       "name": "atlas-tui",
       "version": "0.2.0",
       "description": "Terminal UI client for the Atlas daemon",
@@ -20858,6 +21050,18 @@
       "score": 70
     },
     {
+      "name": "elephantswap-smart-order-router",
+      "version": "0.0.1",
+      "description": "elephantswap Smart Order Router",
+      "license": "GPL",
+      "repository": "https://github.com/Uniswap/smart-order-router",
+      "npmUrl": "https://www.npmjs.com/package/elephantswap-smart-order-router",
+      "category": "utilities",
+      "createdAt": "2026-08-02T20:25:19.698Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 53
+    },
+    {
       "name": "eleventy-plugin-deskcrew",
       "version": "1.0.1",
       "description": "Add the DeskCrew support widget to an Eleventy site: live chat, AI answers from your knowledge base, and a help center. One plugin, no template changes.",
@@ -22490,6 +22694,18 @@
       "score": 90
     },
     {
+      "name": "highlevel-cli",
+      "version": "2.0.0",
+      "description": "Command-line interface for GoHighLevel, built around the writes that lose data",
+      "license": "MIT",
+      "repository": "https://github.com/chowdhuryrz/highlevel-cli",
+      "npmUrl": "https://www.npmjs.com/package/highlevel-cli",
+      "category": "data",
+      "createdAt": "2026-08-02T20:28:09.132Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 79
+    },
+    {
       "name": "homajs",
       "version": "1.0.0",
       "description": "A lightweight zero-dependency Node.js web framework with native TypeScript support.",
@@ -23196,6 +23412,18 @@
       "createdAt": "2026-07-29T17:51:58.804Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 91
+    },
+    {
+      "name": "kaltrader",
+      "version": "0.1.0",
+      "description": "KalTrader, an MCP server that gives Claude, ChatGPT, and other AI assistants full access to the Kalshi trading API.",
+      "license": "MIT",
+      "repository": "https://github.com/SakethSripada/KalTraderMCP",
+      "npmUrl": "https://www.npmjs.com/package/kaltrader",
+      "category": "backend",
+      "createdAt": "2026-08-02T20:13:25.031Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 77
     },
     {
       "name": "kanpai-toast",
@@ -25202,6 +25430,18 @@
       "score": 69
     },
     {
+      "name": "nested-boundaries",
+      "version": "0.1.0",
+      "description": "Enforce the Recursive Deep Modules convention from paths alone: nested module boundaries for ESLint, oxlint, and Biome, plus cycle detection and structural checks.",
+      "license": "MIT",
+      "repository": "https://github.com/dylanmoz/nested-boundaries",
+      "npmUrl": "https://www.npmjs.com/package/nested-boundaries",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:07:36.066Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 76
+    },
+    {
       "name": "nestjs-graphql-regenerate",
       "version": "0.1.0",
       "description": "Regenerate a NestJS code-first GraphQL schema without booting the app",
@@ -26918,6 +27158,18 @@
       "score": 78
     },
     {
+      "name": "playwright-captcha",
+      "version": "1.0.0",
+      "description": "Simple and lightweight Node.js SDK for Playwright that facilitates the automation of text CAPTCHA and reCAPTCHA in enterprise browser automation workflows.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/domtasks/playwright-captcha-solver-nodejs",
+      "npmUrl": "https://www.npmjs.com/package/playwright-captcha",
+      "category": "testing",
+      "createdAt": "2026-08-02T20:13:25.882Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 95
+    },
+    {
       "name": "playwright-flow-recorder",
       "version": "1.0.1",
       "description": "Record a browser walkthrough as a semantic event stream (JSONL) — multiple candidate selectors, recorded assertions, and intent notes — then let an AI agent convert it into tests that reuse your existing step library.",
@@ -27206,6 +27458,18 @@
       "score": 82
     },
     {
+      "name": "process-ai",
+      "version": "0.2.0",
+      "description": "Framework method-agnóstico de mapeamento de processos ponta-a-ponta — equipe de agentes IA (Déa+Bento+Miguel+Júlia+Zanoni) que conduz o usuário por Q&A até documentar o processo completo (SIPOC→hierarquia→BPMN→POPs) com confiança 🟢🟡🔴 verificável e rast",
+      "license": "MIT",
+      "repository": "https://github.com/process-ai/process-ai",
+      "npmUrl": "https://www.npmjs.com/package/process-ai",
+      "category": "utilities",
+      "createdAt": "2026-08-02T20:11:13.333Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 78
+    },
+    {
       "name": "project-brain-protocol",
       "version": "1.0.0",
       "description": "Lightweight, cross-agent second-brain protocol for vibe-coded projects. Automatically maintained by AI coding agents.",
@@ -27324,6 +27588,18 @@
       "createdAt": "2026-08-02T09:47:16.898Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 72
+    },
+    {
+      "name": "puppeteer-captcha",
+      "version": "1.0.0",
+      "description": "Simple and lightweight Node.js SDK for Puppeteer that facilitates the automation of text CAPTCHA and reCAPTCHA in enterprise browser automation workflows.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/domtasks/puppeteer-captcha-solver-nodejs",
+      "npmUrl": "https://www.npmjs.com/package/puppeteer-captcha",
+      "category": "frontend",
+      "createdAt": "2026-08-02T20:11:07.944Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 95
     },
     {
       "name": "pw-advanced-http",
@@ -28740,6 +29016,18 @@
       "createdAt": "2026-07-30T18:50:22.438Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 86
+    },
+    {
+      "name": "selenium-captcha",
+      "version": "1.0.0",
+      "description": "Simple and lightweight Node.js SDK for Selenium that facilitates the automation of text CAPTCHA and reCAPTCHA in enterprise browser automation workflows.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/domtasks/selenium-captcha-solver-nodejs",
+      "npmUrl": "https://www.npmjs.com/package/selenium-captcha",
+      "category": "frontend",
+      "createdAt": "2026-08-02T20:12:49.584Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 95
     },
     {
       "name": "selvedge-mcp",
@@ -30264,6 +30552,18 @@
       "createdAt": "2026-08-01T18:37:53.417Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 71
+    },
+    {
+      "name": "tiny-ci-info",
+      "version": "1.0.0",
+      "description": "Detect the current CI environment — tiny, zero-dependency, extensible",
+      "license": "MIT",
+      "repository": "https://github.com/suveshmoza/tiny-ci-info",
+      "npmUrl": "https://www.npmjs.com/package/tiny-ci-info",
+      "category": "devops",
+      "createdAt": "2026-08-02T19:43:33.075Z",
+      "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 56
     },
     {
       "name": "tiptap-chat-composer",
