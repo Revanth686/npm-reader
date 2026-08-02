@@ -62,6 +62,18 @@
       "score": 62
     },
     {
+      "name": "@06parnil/cubit.js",
+      "version": "1.0.0",
+      "description": "A lightweight, dependency-free JavaScript engine for modeling, manipulating, and visualizing NxN cubes.",
+      "license": "MIT",
+      "repository": "https://github.com/parnilV06/Cubit.JS",
+      "npmUrl": "https://www.npmjs.com/package/%4006parnil%2Fcubit.js",
+      "category": "utilities",
+      "createdAt": "2026-08-02T17:34:08.313Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 90
+    },
+    {
       "name": "@12signals/html-distill",
       "version": "0.1.0",
       "description": "Structure-preserving HTML normalizer for LLM input. Turns real-world marketing pages, landing pages and SPA output into stable, semantically-hinted HTML — without throwing away the boilerplate that carries the signal.",
@@ -480,6 +492,30 @@
       "createdAt": "2026-07-26T18:10:20.381Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 63
+    },
+    {
+      "name": "@agenetix/agent-sdk",
+      "version": "1.0.2",
+      "description": "First-party AG-UI client for MCP Stack Agents. Add an LLM-powered agent to your web app while server tools stay on MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/agenetix/agent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40agenetix%2Fagent-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-02T04:49:25.153Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 72
+    },
+    {
+      "name": "@agenetix/cli",
+      "version": "1.0.4",
+      "description": "MCP Stack command-line interface for managing organizations, MCP servers, gateways, and agents.",
+      "license": "MIT",
+      "repository": "https://github.com/agenetix/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40agenetix%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-02T04:49:05.320Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 58
     },
     {
       "name": "@agenetix/docs",
@@ -5066,6 +5102,18 @@
       "score": 57
     },
     {
+      "name": "@fileshed/kysely-node-sqlite",
+      "version": "0.1.0",
+      "description": "Kysely dialect for Node's built-in node:sqlite, with statement routing decided by StatementSync.columns().",
+      "license": "MIT",
+      "repository": "https://github.com/fileshed/kysely-node-sqlite",
+      "npmUrl": "https://www.npmjs.com/package/%40fileshed%2Fkysely-node-sqlite",
+      "category": "data",
+      "createdAt": "2026-08-02T17:10:55.893Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 70
+    },
+    {
       "name": "@financica/gst-einvoice-qr",
       "version": "0.1.0",
       "description": "Decode, cryptographically verify and reconcile the signed QR code printed on Indian GST e-invoices (IRP / IRN). Zero dependencies.",
@@ -6050,6 +6098,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/delay",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for Delay (build etherscan-delay-d54895b1-1785690445293, commit eff6372, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/delay",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdelay",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T07:35:05.258Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/deposit",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for Deposit (build etherscan-deposit-91204550-1785601706310, commit 3475c8d, branch etherscan)",
@@ -6314,6 +6374,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/kyota",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for KYOTA (build etherscan-kyota-07b90b31-1785689790227, commit cea777f, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/kyota",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fkyota",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T16:56:55.168Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/l1resolver",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for L1Resolver (build etherscan-l1resolver-de904963-1785109136748, commit 2f3bb58, branch etherscan)",
@@ -6479,6 +6551,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-31T22:52:51.174Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/onesig",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for OneSig (build etherscan-onesig-6ac55e73-1785692696323, commit 54993bc, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/onesig",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fonesig",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T17:45:23.072Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
       "score": 57
     },
     {
@@ -6815,6 +6899,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-26T21:20:59.863Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/usduc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for USDUC (build etherscan-usduc-ecedb6f8-1785690410297, commit 1e5fb39, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/usduc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fusduc",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T17:07:16.348Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
       "score": 57
     },
     {
@@ -9350,6 +9446,18 @@
       "score": 82
     },
     {
+      "name": "@makecrypto/medusa-plugin-digital-downloads",
+      "version": "0.3.1",
+      "description": "Native-feeling digital products, protected downloads, streaming, entitlements, and software licenses for Medusa v2.",
+      "license": "MIT",
+      "repository": "https://github.com/makepay-apps/medusa-plugin-digital-downloads",
+      "npmUrl": "https://www.npmjs.com/package/%40makecrypto%2Fmedusa-plugin-digital-downloads",
+      "category": "utilities",
+      "createdAt": "2026-08-02T16:57:51.628Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 81
+    },
+    {
       "name": "@mallary/n8n-nodes-mallary",
       "version": "0.1.0",
       "description": "Official Mallary n8n community node for social media posts, comments, analytics, uploads, and webhooks.",
@@ -9660,6 +9768,18 @@
       "createdAt": "2026-07-29T07:53:03.955Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 78
+    },
+    {
+      "name": "@melloj/apmf",
+      "version": "0.3.0",
+      "description": "AI Project Memory Framework (APMF) — Universal AI Project Memory & Context Framework",
+      "license": "MIT",
+      "repository": "https://github.com/MellojFront/APMF",
+      "npmUrl": "https://www.npmjs.com/package/%40melloj%2Fapmf",
+      "category": "utilities",
+      "createdAt": "2026-08-02T14:06:59.408Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 70
     },
     {
       "name": "@memberjunction/ai-segmentation",
@@ -10010,6 +10130,18 @@
       "score": 70
     },
     {
+      "name": "@moradata/cli",
+      "version": "0.1.0",
+      "description": "Agent-first framework to build and manage a Malloy semantic layer for trusted queries",
+      "license": "MIT",
+      "repository": "https://github.com/moradata/mora-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40moradata%2Fcli",
+      "category": "data",
+      "createdAt": "2026-08-02T17:34:13.055Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 70
+    },
+    {
       "name": "@mortice/mapwright",
       "version": "0.8.0",
       "description": "Mortice Mapwright — a deterministic map of what a repository contains, what changed, and what it affects",
@@ -10104,6 +10236,18 @@
       "createdAt": "2026-07-27T07:02:01.079Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 96
+    },
+    {
+      "name": "@mtdt/nextgen-design-system",
+      "version": "0.1.0",
+      "description": "The NextGen design system: accessible React components for building SaaS platforms, designed to be readable by machines as well as people.",
+      "license": "MIT",
+      "repository": "https://github.com/niravbhatt1317/nextgen-design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40mtdt%2Fnextgen-design-system",
+      "category": "frontend",
+      "createdAt": "2026-08-02T17:33:50.867Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 77
     },
     {
       "name": "@mudlet/mudlet-web",
@@ -10332,6 +10476,18 @@
       "createdAt": "2026-07-27T05:06:48.891Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 94
+    },
+    {
+      "name": "@ndunl075/atrium",
+      "version": "0.3.0",
+      "description": "A shared workspace that multiple AI agents join in order to do one job together.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ndunl075/Atrium",
+      "npmUrl": "https://www.npmjs.com/package/%40ndunl075%2Fatrium",
+      "category": "devops",
+      "createdAt": "2026-08-02T16:54:18.199Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 72
     },
     {
       "name": "@neefactory/skillsmithy",
@@ -11196,6 +11352,18 @@
       "createdAt": "2026-07-31T15:24:27.594Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 72
+    },
+    {
+      "name": "@pairlens/fast-financial-charts",
+      "version": "1.5.3",
+      "description": "WebGL2 financial charts for the web: 90 indicators, drawings, multi-pane layouts, live tick streaming, and an MCP tool surface for AI agents. Headless, MIT licensed, and battle-tested in the Pairlens trading terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/Pairlens/fast-financial-charts",
+      "npmUrl": "https://www.npmjs.com/package/%40pairlens%2Ffast-financial-charts",
+      "category": "testing",
+      "createdAt": "2026-08-02T16:47:15.020Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 98
     },
     {
       "name": "@paladini/linkedin-publisher-mcp",
@@ -12686,6 +12854,18 @@
       "score": 85
     },
     {
+      "name": "@reputemap/mcp",
+      "version": "0.1.0",
+      "description": "ReputeMap MCP — manage Google Business Profile reviews from Claude, Cursor or any MCP client: review inbox, stats, review requests. Zero-dependency stdio bridge to the hosted Streamable HTTP endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/reputemap/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40reputemap%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T16:56:08.028Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 63
+    },
+    {
       "name": "@ret2hell/pi-herdr-orchestrator",
       "version": "0.1.1",
       "description": "Pi-native orchestrator over Herdr: plan, dispatch worker agents, review with an independent reviewer, all gated on your approval.",
@@ -13536,6 +13716,18 @@
       "createdAt": "2026-07-27T03:21:32.807Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 77
+    },
+    {
+      "name": "@sitharaj88/macctl",
+      "version": "0.1.0",
+      "description": "macOS desktop-automation MCP server — accessibility-tree-first control of windows, input, screen capture, and the system, exposed over the Model Context Protocol.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sitharaj88/macctl",
+      "npmUrl": "https://www.npmjs.com/package/%40sitharaj88%2Fmacctl",
+      "category": "backend",
+      "createdAt": "2026-08-02T17:10:15.469Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 82
     },
     {
       "name": "@sitharaj88/winctl",
@@ -15528,6 +15720,18 @@
       "createdAt": "2026-07-28T16:31:51.440Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 60
+    },
+    {
+      "name": "@uuon-foundation/recursive-fractal-engine",
+      "version": "1.0.0",
+      "description": "A WebGL2 fractal engine with 7744 distinct dynamical systems from one shader. Quantum generators, composable transforms, and full parameter provenance.",
+      "license": "LicenseRef-USAL-1.0",
+      "repository": "https://github.com/UUON-Foundation/recursive-fractal-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40uuon-foundation%2Frecursive-fractal-engine",
+      "category": "data",
+      "createdAt": "2026-08-02T17:00:06.595Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 62
     },
     {
       "name": "@uuon-foundation/wave-field-3d-engine",
@@ -20222,6 +20426,18 @@
       "score": 76
     },
     {
+      "name": "ebill-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for the Swiss eBill portal — read your bill archive and download the PDFs. Read-only: it cannot approve, release or pay anything",
+      "license": "MIT",
+      "repository": "https://github.com/sapn95/ebill-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ebill-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T17:40:58.118Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 69
+    },
+    {
       "name": "edfcore",
       "version": "0.1.0",
       "description": "Modern, typed, zero-dependency reader for EDF, EDF+, BDF and BDF+ biosignal files. Works in browsers and Node with true random access.",
@@ -21158,6 +21374,18 @@
       "score": 87
     },
     {
+      "name": "frameproof-video-qa",
+      "version": "0.8.1",
+      "description": "Source-aware verification, production preflight, render-health receipts, revision gates, and guarded repair loops for AI-generated and programmatic video.",
+      "license": "MIT",
+      "repository": "https://github.com/yocchi12345jp/frameproof-video-qa",
+      "npmUrl": "https://www.npmjs.com/package/frameproof-video-qa",
+      "category": "testing",
+      "createdAt": "2026-08-02T17:27:19.757Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 85
+    },
+    {
       "name": "frey-codegen",
       "version": "1.0.1",
       "description": "Interactive CLI generator for file and folder templates with placeholder substitution.",
@@ -21866,6 +22094,18 @@
       "score": 90
     },
     {
+      "name": "homajs",
+      "version": "1.0.0",
+      "description": "A lightweight zero-dependency Node.js web framework with native TypeScript support.",
+      "license": "MIT",
+      "repository": "https://github.com/parsamoloody/homa",
+      "npmUrl": "https://www.npmjs.com/package/homajs",
+      "category": "backend",
+      "createdAt": "2026-08-02T17:41:01.539Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 80
+    },
+    {
       "name": "homebridge-airspace-fan",
       "version": "1.0.0",
       "description": "A Homebridge plugin to control AirScape-style whole-house fans via their fanspd.cgi HTTP interface, with optional attic temperature sensor support.",
@@ -22262,6 +22502,18 @@
       "score": 80
     },
     {
+      "name": "interactive-3d-website-skill",
+      "version": "1.0.1",
+      "description": "AI agent skill for building premium interactive 3D scroll-driven websites from a GLB model. Works with Claude Code, OpenAI Codex, Gemini, and any AI coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/saayalabs/interactive-3d-website-skill",
+      "npmUrl": "https://www.npmjs.com/package/interactive-3d-website-skill",
+      "category": "frontend",
+      "createdAt": "2026-08-02T17:24:40.428Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 96
+    },
+    {
       "name": "intervals-icu-sdk",
       "version": "0.1.1",
       "description": "Unofficial TypeScript SDK for the Intervals.icu API. Fully typed, zero runtime dependencies, generated from the official OpenAPI spec.",
@@ -22308,6 +22560,18 @@
       "createdAt": "2026-07-26T07:10:04.918Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 69
+    },
+    {
+      "name": "ioredis-om-typed",
+      "version": "6.0.0",
+      "description": "A robust, performance-focused and full-featured Redis client for Node.js.",
+      "license": "MIT",
+      "repository": "https://github.com/redis/ioredis",
+      "npmUrl": "https://www.npmjs.com/package/ioredis-om-typed",
+      "category": "data",
+      "createdAt": "2026-08-02T16:52:25.480Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 75
     },
     {
       "name": "ios-agent-mcp",
@@ -24396,6 +24660,18 @@
       "createdAt": "2026-07-31T17:18:08.586Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 83
+    },
+    {
+      "name": "naija-id",
+      "version": "0.3.0",
+      "description": "Zero-dependency validators and normalizers for Nigerian identifiers — phone (E.164), NIN, BVN, CAC (RC/BN/IT/LP) and TIN.",
+      "license": "MIT",
+      "repository": "https://github.com/lintdeveloper/naija-id",
+      "npmUrl": "https://www.npmjs.com/package/naija-id",
+      "category": "data",
+      "createdAt": "2026-08-02T16:53:02.909Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 60
     },
     {
       "name": "naijalingo",
@@ -27170,6 +27446,18 @@
       "score": 65
     },
     {
+      "name": "recursive-fractal-engine",
+      "version": "1.0.0",
+      "description": "A WebGL2 fractal engine with 7744 distinct dynamical systems from one shader. Quantum generators, composable transforms, and full parameter provenance.",
+      "license": "LicenseRef-USAL-1.0",
+      "repository": "https://github.com/UUON-Foundation/recursive-fractal-engine",
+      "npmUrl": "https://www.npmjs.com/package/recursive-fractal-engine",
+      "category": "data",
+      "createdAt": "2026-08-02T16:56:00.128Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 62
+    },
+    {
       "name": "redmine-context",
       "version": "1.0.0",
       "description": "Consumidor de Redmine que entrega contexto completo de issues (texto + mídia extraída localmente) para qualquer LLM",
@@ -28380,6 +28668,18 @@
       "createdAt": "2026-07-29T20:56:30.487Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 91
+    },
+    {
+      "name": "skillbarn",
+      "version": "0.0.1",
+      "description": "Vendor agent skills into a project, reproducibly, from a committed lockfile",
+      "license": "MIT",
+      "repository": "https://github.com/shbernal/skillbarn",
+      "npmUrl": "https://www.npmjs.com/package/skillbarn",
+      "category": "cli",
+      "createdAt": "2026-08-02T17:41:03.873Z",
+      "discoveredAt": "2026-08-02T17:46:33.450Z",
+      "score": 58
     },
     {
       "name": "skills-path",
