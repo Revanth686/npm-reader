@@ -674,6 +674,18 @@
       "score": 59
     },
     {
+      "name": "@aicoo/local-agent",
+      "version": "0.1.1",
+      "description": "Open agent-to-agent messaging protocol, local runtime bridge, and reference control plane for reaching a live local coding agent (Claude Code / Codex) safely.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Aicoo-Team/aicoo-local-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40aicoo%2Flocal-agent",
+      "category": "utilities",
+      "createdAt": "2026-08-02T09:55:29.982Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 65
+    },
+    {
       "name": "@aide-gg/thinking-orbs",
       "version": "0.1.1",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light. Fork of thinking-orbs by Jakub Antalik, adding an idle at-rest state and smoother transitions.",
@@ -2090,6 +2102,18 @@
       "score": 62
     },
     {
+      "name": "@beremaran/opencode-agent-tree",
+      "version": "0.1.0",
+      "description": "Force opencode to act as an orchestrator: every task is decomposed and delegated to subagents, with user-configurable models per agent.",
+      "license": "MIT",
+      "repository": "https://github.com/beremaran/opencode-agent-tree",
+      "npmUrl": "https://www.npmjs.com/package/%40beremaran%2Fopencode-agent-tree",
+      "category": "utilities",
+      "createdAt": "2026-08-02T15:45:13.194Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 64
+    },
+    {
       "name": "@bevyl-ai/rerender",
       "version": "0.1.0",
       "description": "Zero-dependency random-access frame extraction from mp4 URLs, plus a drop-in MIT Remotion alternative that renders real DOM to MP4 with WebCodecs and mediabunny. No ffmpeg.",
@@ -2522,6 +2546,18 @@
       "score": 96
     },
     {
+      "name": "@bymax-one/nest-realtime",
+      "version": "1.0.1",
+      "description": "Realtime backend → frontend communication for NestJS — dual-transport SSE (default) and WebSocket (opt-in) with a unified server-side API.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-realtime",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-realtime",
+      "category": "frontend",
+      "createdAt": "2026-08-02T12:55:51.523Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 93
+    },
+    {
       "name": "@bysking/vv-switch",
       "version": "0.0.1",
       "description": "js实现的claude和codex的大模型转发代理工具，支持供应商配置，支持可视化日志查看",
@@ -2700,6 +2736,18 @@
       "createdAt": "2026-07-31T15:46:37.840Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 73
+    },
+    {
+      "name": "@charcuterie/logic",
+      "version": "1.0.0",
+      "description": "The five Charcuterie state kinds — Visibility, VisibilityGroup, SinglePicker, MultiplePicker, RovingFocus, and Status — as framework-free cores with React and Preact bindings.",
+      "license": "MIT",
+      "repository": "https://github.com/Sawtaytoes/charcuterie",
+      "npmUrl": "https://www.npmjs.com/package/%40charcuterie%2Flogic",
+      "category": "frontend",
+      "createdAt": "2026-07-31T04:30:58.657Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 60
     },
     {
       "name": "@charlie.act7/gemini-notebook-mcp",
@@ -4178,6 +4226,18 @@
       "score": 95
     },
     {
+      "name": "@dmytromykhailiuk/data-store",
+      "version": "1.0.0",
+      "description": "Offline-first IndexedDB datastore with a persistent outbox, push/pull sync, conflict resolution, multi-table transactions and a typed filter DSL. Framework-agnostic, transport-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/data-store",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fdata-store",
+      "category": "frontend",
+      "createdAt": "2026-08-02T14:57:51.391Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 97
+    },
+    {
       "name": "@dmytromykhailiuk/execution-blocker",
       "version": "1.0.0",
       "description": "Promise-based FIFO execution lock with independent queues per id — run async logic strictly one at a time. Zero dependencies.",
@@ -4415,6 +4475,18 @@
       "category": "data",
       "createdAt": "2026-08-02T12:20:26.573Z",
       "discoveredAt": "2026-08-02T13:03:05.537Z",
+      "score": 70
+    },
+    {
+      "name": "@dpuse/dpuse-tool-file-previewer",
+      "version": "0.0.58",
+      "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) [![npm version](https://img.shields.io/npm/v/@dpuse/dpuse-tool-file-previewer.svg)](https://www.npmjs.com/package/@dpuse/dpuse-tool-file-previewer)",
+      "license": "MIT",
+      "repository": "https://github.com/dpuse/dpuse-tool-file-previewer",
+      "npmUrl": "https://www.npmjs.com/package/%40dpuse%2Fdpuse-tool-file-previewer",
+      "category": "backend",
+      "createdAt": "2026-08-02T15:06:11.879Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 70
     },
     {
@@ -8402,6 +8474,18 @@
       "score": 70
     },
     {
+      "name": "@juno-ai/bind",
+      "version": "1.0.0",
+      "description": "Agent harness: deterministic LLM provider routing core and turn contracts (turn kernel arrives in later phases). MIT-licensed; published to npm from the canonical repo via scripts/publish-bind.ts (docs/bind.md).",
+      "license": "MIT",
+      "repository": "https://github.com/juno-ai-labs/agent-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40juno-ai%2Fbind",
+      "category": "utilities",
+      "createdAt": "2026-08-02T15:25:40.050Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 66
+    },
+    {
       "name": "@k2b/nessi",
       "version": "0.10.0",
       "description": "Minimal agent loop and provider adapters for nessi.",
@@ -10538,6 +10622,18 @@
       "score": 96
     },
     {
+      "name": "@nudje/browser",
+      "version": "0.1.0",
+      "description": "Official Nudje SDK for the browser — privacy-first autocapture + event ingestion (public key).",
+      "license": "MIT",
+      "repository": "https://github.com/nudje/nudje-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40nudje%2Fbrowser",
+      "category": "frontend",
+      "createdAt": "2026-08-02T14:59:27.411Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 66
+    },
+    {
       "name": "@nukeapi/sdk",
       "version": "1.0.0",
       "description": "Official TypeScript SDK for NukeAPI — GDPR/CCPA/LGPD user-deletion API.",
@@ -10812,6 +10908,18 @@
       "createdAt": "2026-07-28T15:38:27.173Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 76
+    },
+    {
+      "name": "@opensecureai/firewall",
+      "version": "0.1.0",
+      "description": "Dependency-light LLM guardrail that decides whether text should be allowed, flagged, or blocked before it reaches a model — composing prompt-injection detection with PII/secret redaction under a configurable policy.",
+      "license": "MIT",
+      "repository": "https://github.com/rkstar2025/opensecureai-website",
+      "npmUrl": "https://www.npmjs.com/package/%40opensecureai%2Ffirewall",
+      "category": "devops",
+      "createdAt": "2026-08-02T15:09:02.343Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 64
     },
     {
       "name": "@opentutorial/core",
@@ -12002,6 +12110,18 @@
       "score": 86
     },
     {
+      "name": "@rakku2/baileys",
+      "version": "0.3.19",
+      "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
+      "license": "MIT",
+      "repository": "https://github.com/rakku2/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40rakku2%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-08-02T15:26:09.763Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 83
+    },
+    {
       "name": "@ratel-ai/cloud-sdk",
       "version": "0.2.0",
       "description": "Management & supervised self-improvement client for Ratel Cloud — catalog writes, intent analysis, and skill-suggestion review over the cloud API, plus the OpenTelemetry destination on /otel. Dependency-free at the root; pure HTTP, no native addon.",
@@ -12060,6 +12180,18 @@
       "createdAt": "2026-07-29T21:45:47.765Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 70
+    },
+    {
+      "name": "@razorwind/css",
+      "version": "0.0.2",
+      "description": "Razorwind CSS plugin that can create CSS files from design tokens or read a CSS file and return the design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fcss",
+      "category": "frontend",
+      "createdAt": "2026-08-02T15:46:52.071Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 71
     },
     {
       "name": "@razorwind/design-md",
@@ -14330,6 +14462,18 @@
       "score": 66
     },
     {
+      "name": "@tavojs/core",
+      "version": "1.0.0",
+      "description": "A lightweight TSX framework with file-based routing, SSR, MVC components, and realtime stores.",
+      "license": "MIT",
+      "repository": "https://github.com/tavojs/core",
+      "npmUrl": "https://www.npmjs.com/package/%40tavojs%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-02T15:22:19.546Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 59
+    },
+    {
       "name": "@tawandotorg/direct-answers",
       "version": "2.0.0",
       "description": "Claude Code plugin for verdict-first answers: position before reasoning, labeled facts vs assumptions, and an audit trail for assumptions inherited from project context.",
@@ -14892,6 +15036,18 @@
       "createdAt": "2026-07-28T22:43:21.318Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 80
+    },
+    {
+      "name": "@typedstandards/civic-typed-harness",
+      "version": "0.1.0",
+      "description": "Civic-domain harness for Typed Standards evidence packages — the DOMAIN layer of the ADR-0021 format/domain line: civic PROV-O vocabulary and provenance builder, datHere envelope-policy derivations, and the capture machinery (trace builder, skill-metadata",
+      "license": "MIT",
+      "repository": "https://github.com/npstorey/civic-ai-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40typedstandards%2Fcivic-typed-harness",
+      "category": "frontend",
+      "createdAt": "2026-08-02T14:56:29.538Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 67
     },
     {
       "name": "@typedstandards/produce-core",
@@ -16778,6 +16934,18 @@
       "score": 82
     },
     {
+      "name": "ai-dual-testing",
+      "version": "1.0.0",
+      "description": "One-command AI testing skill for Vibe Code projects. Auto-detects your AI tool (Cursor, Antigravity, Claude Code, Windsurf) and injects dual-track verification.",
+      "license": "MIT",
+      "repository": "https://github.com/kinderhealth/ai-dual-testing",
+      "npmUrl": "https://www.npmjs.com/package/ai-dual-testing",
+      "category": "testing",
+      "createdAt": "2026-08-02T15:44:27.630Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 64
+    },
+    {
       "name": "ai4kanban-ui",
       "version": "0.4.0",
       "description": "Local kanban board UI — run it on your machine to see the board and spawn agents (claude -p) to do the kanban work. Files in docs/kanban/ stay the source of truth.",
@@ -16934,6 +17102,18 @@
       "score": 71
     },
     {
+      "name": "ampline-claude",
+      "version": "0.1.0",
+      "description": "A color-graded, zero-dependency statusline for Claude Code — a 16-step model/effort color wheel, context and rate-limit usage, git state, and session cost, all on one line.",
+      "license": "MIT",
+      "repository": "https://github.com/carterptull/ampline-claude",
+      "npmUrl": "https://www.npmjs.com/package/ampline-claude",
+      "category": "cli",
+      "createdAt": "2026-08-02T15:11:10.741Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 79
+    },
+    {
       "name": "analog-filter-designer",
       "version": "1.0.0",
       "description": "Browser-based analog filter design tool: complex-valued MNA solver, Bode/pole-zero/transient analysis, validated against ngspice.",
@@ -16944,6 +17124,18 @@
       "createdAt": "2026-07-29T22:17:44.220Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 72
+    },
+    {
+      "name": "android-sqlite-mcp",
+      "version": "1.0.2",
+      "description": "A Model Context Protocol (MCP) server to connect AI agents directly to the embedded SQLite/Room databases of your Android applications.",
+      "license": "MIT",
+      "repository": "https://github.com/Feliicks/android-sqlite-mcp",
+      "npmUrl": "https://www.npmjs.com/package/android-sqlite-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T13:50:43.551Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 58
     },
     {
       "name": "anki-xml",
@@ -17870,6 +18062,18 @@
       "score": 47
     },
     {
+      "name": "bylaw-ui",
+      "version": "0.1.0",
+      "description": "Executable geometric contracts for rendered user interfaces",
+      "license": "MIT",
+      "repository": "https://github.com/ryanzidago/bylaw",
+      "npmUrl": "https://www.npmjs.com/package/bylaw-ui",
+      "category": "testing",
+      "createdAt": "2026-08-02T15:31:54.990Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 63
+    },
+    {
       "name": "bytecode-ai",
       "version": "1.0.0",
       "description": "ByteCode — multi-provider agent harness with Claude Code semantics and an opencode-style provider layer",
@@ -17880,6 +18084,42 @@
       "createdAt": "2026-08-01T21:41:02.459Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 86
+    },
+    {
+      "name": "c2pa-html",
+      "version": "0.2.0",
+      "description": "C2PA manifest embedding, referencing, and hard binding for HTML documents",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/writerslogic/c2pa-html",
+      "npmUrl": "https://www.npmjs.com/package/c2pa-html",
+      "category": "devops",
+      "createdAt": "2026-08-02T15:31:42.733Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 62
+    },
+    {
+      "name": "c2pa-unstructured-text",
+      "version": "0.2.0",
+      "description": "C2PA manifest embedding and hard binding for unstructured text using Unicode variation selectors",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/writerslogic/c2pa-unstructured-text",
+      "npmUrl": "https://www.npmjs.com/package/c2pa-unstructured-text",
+      "category": "utilities",
+      "createdAt": "2026-08-02T15:32:12.392Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 64
+    },
+    {
+      "name": "c2pa-vtt",
+      "version": "0.2.0",
+      "description": "C2PA manifest embedding and hard binding for WebVTT subtitle and caption files",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/writerslogic/c2pa-vtt",
+      "npmUrl": "https://www.npmjs.com/package/c2pa-vtt",
+      "category": "utilities",
+      "createdAt": "2026-08-02T15:03:22.436Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 61
     },
     {
       "name": "cabalspy",
@@ -20196,6 +20436,18 @@
       "createdAt": "2026-07-31T09:47:11.372Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 91
+    },
+    {
+      "name": "expo-native-select-picker",
+      "version": "0.3.0",
+      "description": "Native iOS select picker for Expo — the settings-style option list with search, A–Z index, and checkmark",
+      "license": "MIT",
+      "repository": "https://github.com/alfonsobries/expo-native-select-picker",
+      "npmUrl": "https://www.npmjs.com/package/expo-native-select-picker",
+      "category": "frontend",
+      "createdAt": "2026-08-02T13:17:58.886Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 69
     },
     {
       "name": "expo-turbo",
@@ -23112,6 +23364,18 @@
       "createdAt": "2026-07-26T19:30:32.197Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 76
+    },
+    {
+      "name": "mcp-omni-context",
+      "version": "1.0.1",
+      "description": "Universal vision & file processor MCP server for LLMs: OCR screenshots, read code/text files, and dump zip archives as a clean sequential file-tree dump.",
+      "license": "MIT",
+      "repository": "https://github.com/0xnurrabby/mcp-omni-context",
+      "npmUrl": "https://www.npmjs.com/package/mcp-omni-context",
+      "category": "backend",
+      "createdAt": "2026-08-02T15:23:17.150Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 90
     },
     {
       "name": "mcp-sandbox",
@@ -27422,6 +27686,18 @@
       "score": 81
     },
     {
+      "name": "seo-crawl-audit",
+      "version": "0.1.2",
+      "description": "Local-first CLI for SEO audits, resumable crawls, HTML reports, and regression checks.",
+      "license": "MIT",
+      "repository": "https://github.com/MelnixDev/seo-crawl-audit",
+      "npmUrl": "https://www.npmjs.com/package/seo-crawl-audit",
+      "category": "testing",
+      "createdAt": "2026-08-02T15:04:43.786Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 74
+    },
+    {
       "name": "seps-cli",
       "version": "1.0.0",
       "description": "Format separator/header comment markers so labels are centered and each line fills up to a character limit.",
@@ -28526,6 +28802,18 @@
       "score": 64
     },
     {
+      "name": "tdcv2",
+      "version": "0.1.1",
+      "description": "Deterministic test-data generator: coherent records, exact proportions, and any text format you describe. Same seed, same bytes. Also usable as a faker — one call, one value — from the same data packs.",
+      "license": "MIT",
+      "repository": "https://github.com/NickLiapin/tdcv2",
+      "npmUrl": "https://www.npmjs.com/package/tdcv2",
+      "category": "testing",
+      "createdAt": "2026-08-02T14:19:39.633Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 90
+    },
+    {
       "name": "teamcodex",
       "version": "1.0.0",
       "description": "One local proxy for both Claude Code and Codex. Quota-aware account rotation, zero dependencies.",
@@ -29268,6 +29556,18 @@
       "createdAt": "2026-07-30T05:03:06.585Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 78
+    },
+    {
+      "name": "unicode-picker",
+      "version": "0.1.0",
+      "description": "A framework-agnostic, tree-shakable Unicode character picker component in vanilla TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/jcubic/unicode-picker",
+      "npmUrl": "https://www.npmjs.com/package/unicode-picker",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T15:24:26.636Z",
+      "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 73
     },
     {
       "name": "unit-client",
