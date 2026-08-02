@@ -86,6 +86,18 @@
       "score": 80
     },
     {
+      "name": "@a3s-lab/office",
+      "version": "0.1.0",
+      "description": "Open-source browser editors for documents, Markdown, spreadsheets, presentations, and PDFs.",
+      "license": "MIT",
+      "repository": "https://github.com/A3S-Lab/Office",
+      "npmUrl": "https://www.npmjs.com/package/%40a3s-lab%2Foffice",
+      "category": "frontend",
+      "createdAt": "2026-08-02T01:59:33.521Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 77
+    },
+    {
       "name": "@aayambansal/squint",
       "version": "0.1.1",
       "description": "Lovable for your terminal — a frontend harness on top of Claude Code, Codex, and other coding agents.",
@@ -156,6 +168,18 @@
       "createdAt": "2026-07-29T04:04:51.850Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 89
+    },
+    {
+      "name": "@ackrate/core",
+      "version": "0.3.2",
+      "description": "High-level TypeScript SDK for contract-enforced ackrate agent-payment mandates on Stellar.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/reapp-protocol/ackrate-research-arena",
+      "npmUrl": "https://www.npmjs.com/package/%40ackrate%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-01T04:21:13.892Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 79
     },
     {
       "name": "@actionpulse/browser",
@@ -408,6 +432,30 @@
       "createdAt": "2026-07-26T18:10:20.381Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 63
+    },
+    {
+      "name": "@agenetix/docs",
+      "version": "1.0.0",
+      "description": "App Router-native MDX documentation for Next.js with reusable layouts, search, TOC, and locale-aware routing.",
+      "license": "MIT",
+      "repository": "https://github.com/agenetix/mcpstack-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40agenetix%2Fdocs",
+      "category": "frontend",
+      "createdAt": "2026-08-02T04:49:51.733Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 80
+    },
+    {
+      "name": "@agenetix/openapi-to-mcp",
+      "version": "1.0.1",
+      "description": "Convert OpenAPI specifications to MCP (Model Context Protocol) servers with optional MCP Stack telemetry",
+      "license": "MIT",
+      "repository": "https://github.com/emcy-ai/mcpstack-openapi-to-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40agenetix%2Fopenapi-to-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T04:49:32.478Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 82
     },
     {
       "name": "@agent-manifest/client",
@@ -792,6 +840,18 @@
       "createdAt": "2026-07-31T13:03:46.564Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 70
+    },
+    {
+      "name": "@alvinahmad/blueprin-sdk",
+      "version": "1.0.0",
+      "description": "Official SDK for building plugins, connectors, extensions and integrations for Blueprin",
+      "license": "MIT",
+      "repository": "https://github.com/qalvinahmad/blueprin-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40alvinahmad%2Fblueprin-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T04:20:26.563Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 76
     },
     {
       "name": "@alwatr/loom",
@@ -1404,6 +1464,18 @@
       "createdAt": "2026-07-26T21:32:01.354Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 83
+    },
+    {
+      "name": "@askjo/camofox-browser-mcp",
+      "version": "1.13.1",
+      "description": "Standalone stdio MCP server exposing the camofox-browser REST API as MCP tools (Claude Code, Codex, agy, Cursor, opencode). Proxies to an already-running camofox-browser REST server — does not itself require the browser binary, Playwright, or the core ser",
+      "license": "MIT",
+      "repository": "https://github.com/jo-inc/camofox-browser",
+      "npmUrl": "https://www.npmjs.com/package/%40askjo%2Fcamofox-browser-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-02T02:39:11.149Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 98
     },
     {
       "name": "@assemblyline-agents/vps",
@@ -2918,6 +2990,42 @@
       "score": 59
     },
     {
+      "name": "@conorbronsdon/apple-podcasts-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Apple Podcasts Connect owner analytics via the Reporter protocol — plays, followers, and per-episode listening. Not the public iTunes catalog.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/conorbronsdon/apple-podcasts-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40conorbronsdon%2Fapple-podcasts-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T03:34:25.956Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 81
+    },
+    {
+      "name": "@conorbronsdon/gsc-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Google Search Console — SEO analytics and automation for AI agents: search performance, striking-distance keywords, sitemaps, and URL inspection.",
+      "license": "MIT",
+      "repository": "https://github.com/conorbronsdon/gsc-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40conorbronsdon%2Fgsc-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T03:34:55.782Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 82
+    },
+    {
+      "name": "@conorbronsdon/postlint-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that checks a social post against a platform's real character limit — X t.co URL weighting, Bluesky graphemes, LinkedIn, Threads, Mastodon. Pure compute, no network.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/conorbronsdon/postlint-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40conorbronsdon%2Fpostlint-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T03:34:13.891Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 87
+    },
+    {
       "name": "@conscia-code/design-system",
       "version": "0.1.2",
       "description": "The shared React component library for building clear, consistent, and accessible Conscia product experiences.",
@@ -3468,6 +3576,18 @@
       "createdAt": "2026-07-31T11:54:12.459Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 94
+    },
+    {
+      "name": "@di-framework/graphql",
+      "version": "3.0.2",
+      "description": "Radically object-oriented, decorator-driven GraphQL for di-framework. Domain objects are the schema; decorators declare semantic exposure, ownership and boundaries.",
+      "license": "MIT",
+      "repository": "https://github.com/geoffsee/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fgraphql",
+      "category": "frontend",
+      "createdAt": "2026-08-02T03:12:01.176Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 90
     },
     {
       "name": "@diceforge-sdk/presenter-physics",
@@ -6974,6 +7094,18 @@
       "score": 68
     },
     {
+      "name": "@hyperlogue/captain-miao",
+      "version": "0.2.0",
+      "description": "TUI dashboard to monitor and manage multiple Claude Code and Codex sessions in Kitty or zellij. Runs the matching prebuilt native binary (shipped as a per-platform optional dependency); works with `npx @hyperlogue/captain-miao` and `bunx @hyperlogue/capta",
+      "license": "MIT",
+      "repository": "https://github.com/hyperlogue/captain-miao",
+      "npmUrl": "https://www.npmjs.com/package/%40hyperlogue%2Fcaptain-miao",
+      "category": "data",
+      "createdAt": "2026-08-02T03:03:01.566Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 84
+    },
+    {
       "name": "@hyphen_solution/cli",
       "version": "0.1.0",
       "description": "Command line interface for the Hyphen AI gateway — chat, model list, agent setup, diagnostics and an MCP server.",
@@ -8330,6 +8462,18 @@
       "score": 67
     },
     {
+      "name": "@liteasy/linter",
+      "version": "1.1.8",
+      "description": "A linter for EventCatalog to validate frontmatter and resource references",
+      "license": "MIT",
+      "repository": "https://github.com/event-catalog/eventcatalog",
+      "npmUrl": "https://www.npmjs.com/package/%40liteasy%2Flinter",
+      "category": "utilities",
+      "createdAt": "2026-08-02T04:52:46.278Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 77
+    },
+    {
       "name": "@llipe.com/dev-tasks",
       "version": "0.6.4",
       "description": "Multi-repo context tooling for dev-tasks",
@@ -9468,6 +9612,18 @@
       "createdAt": "2026-07-26T09:49:31.092Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 75
+    },
+    {
+      "name": "@nekora-ai/core",
+      "version": "1.0.2",
+      "description": "TypeScript-first, provider-agnostic AI Agent SDK built from scratch for reliable autonomous agents",
+      "license": "MIT",
+      "repository": "https://github.com/Swati-a11/NekoraSDK",
+      "npmUrl": "https://www.npmjs.com/package/%40nekora-ai%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T04:16:41.343Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 89
     },
     {
       "name": "@neograce/cli",
@@ -10704,6 +10860,18 @@
       "createdAt": "2026-07-31T20:37:28.220Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 73
+    },
+    {
+      "name": "@poluru-labs/enterprise-design-system-react",
+      "version": "1.0.0",
+      "description": "Enterprise Design System — React components, design tokens, ThemeProvider, ToastProvider, and Storybook.",
+      "license": "MIT",
+      "repository": "https://github.com/poluru-labs/enterprise-design-system-react",
+      "npmUrl": "https://www.npmjs.com/package/%40poluru-labs%2Fenterprise-design-system-react",
+      "category": "testing",
+      "createdAt": "2026-08-02T04:52:48.429Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 75
     },
     {
       "name": "@pontalabs/baileys-yue",
@@ -12420,6 +12588,18 @@
       "createdAt": "2026-07-27T03:21:32.807Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 77
+    },
+    {
+      "name": "@sitharaj88/winctl",
+      "version": "1.0.1",
+      "description": "WinCtl — full Windows desktop control for Claude and other MCP clients: screen capture, UI Automation, synthetic input, window and process management, files and shell, behind tiered permissions with audit logging.",
+      "license": "MIT",
+      "repository": "https://github.com/sitharaj88/winctl",
+      "npmUrl": "https://www.npmjs.com/package/%40sitharaj88%2Fwinctl",
+      "category": "cli",
+      "createdAt": "2026-08-02T04:43:40.145Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 100
     },
     {
       "name": "@sjtu-ai4math/snl-basics",
@@ -17630,6 +17810,18 @@
       "score": 90
     },
     {
+      "name": "colada-db",
+      "version": "0.1.0",
+      "description": "AI-first, local-first client database — normalized reactive entity store with pluggable durability engines (IndexedDB, OPFS SQLite)",
+      "license": "MIT",
+      "repository": "https://github.com/Danny-Devs/colada-db",
+      "npmUrl": "https://www.npmjs.com/package/colada-db",
+      "category": "frontend",
+      "createdAt": "2026-08-02T02:03:42.156Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 83
+    },
+    {
       "name": "coldmail-reseller-mcp",
       "version": "1.0.0",
       "description": "MCP server for the ColdMail Reseller integration API — manage users, domains, mailboxes, orders, subscriptions, exports, DNS, and warmup through natural language.",
@@ -17664,6 +17856,18 @@
       "createdAt": "2026-07-31T17:00:23.683Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 75
+    },
+    {
+      "name": "commentnuker",
+      "version": "1.0.0",
+      "description": "Comment Nuker -- interactive comment cleaner that strips comments out of any codebase block by block, and provably cannot eat your code. A real parser (acorn for JS, tree-sitter for everything else) marks every comment and a token-stream gate refuses any",
+      "license": "openSource*",
+      "repository": "https://github.com/jonhardwick-spec/ccn",
+      "npmUrl": "https://www.npmjs.com/package/commentnuker",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T03:37:19.585Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 100
     },
     {
       "name": "commit-master",
@@ -18060,6 +18264,18 @@
       "createdAt": "2026-08-01T11:02:07.058Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 64
+    },
+    {
+      "name": "crossline",
+      "version": "0.1.0",
+      "description": "Prove that no user can see another user's data — automatically, on every commit.",
+      "license": "MIT",
+      "repository": "https://github.com/jdora09769-bot/crossline",
+      "npmUrl": "https://www.npmjs.com/package/crossline",
+      "category": "testing",
+      "createdAt": "2026-08-02T03:21:33.017Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 78
     },
     {
       "name": "crux-axi",
@@ -20150,6 +20366,18 @@
       "score": 71
     },
     {
+      "name": "homebridge-mitsubishi-heatpump",
+      "version": "2.0.1",
+      "description": "Homebridge plugin for Mitsubishi ductless heat pumps (MLZ/MSZ) over the Mitsubishi Comfort v3 API, with local LAN control, fan speed and vane control",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ukaratay/homebridge-mitsubishi-heatpump",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-mitsubishi-heatpump",
+      "category": "backend",
+      "createdAt": "2026-08-02T03:00:07.668Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 89
+    },
+    {
       "name": "homebridge-mynest",
       "version": "0.1.1",
       "description": "A Homebridge plugin for Nest thermostats, Nest Protect, and Nest temperature sensors using a Nest Account access token",
@@ -21696,6 +21924,18 @@
       "createdAt": "2026-07-28T09:51:16.123Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 76
+    },
+    {
+      "name": "mcp-agent-reliability",
+      "version": "1.0.1",
+      "description": "MCP server that helps AI agents stay reliable by scoring tool descriptions, estimating token costs, simulating tool choice, and generating tests.",
+      "license": "MIT",
+      "repository": "https://github.com/princeruhulofficial/mcp-agent-reliability",
+      "npmUrl": "https://www.npmjs.com/package/mcp-agent-reliability",
+      "category": "testing",
+      "createdAt": "2026-08-02T04:21:28.204Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 86
     },
     {
       "name": "mcp-crypto-arbitrage",
@@ -23786,6 +24026,18 @@
       "score": 76
     },
     {
+      "name": "pi-courier",
+      "version": "0.1.0",
+      "description": "Run pi coding agent from Matrix. Slash commands, skills and prompts fully work from messengers via the RPC protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/Hi-Barry/pi-remote",
+      "npmUrl": "https://www.npmjs.com/package/pi-courier",
+      "category": "utilities",
+      "createdAt": "2026-08-02T05:24:41.574Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 81
+    },
+    {
       "name": "pi-doppelclaude",
       "version": "0.7.0",
       "description": "Pi provider that runs your Claude Code subscription as pi models via the Claude Agent SDK.",
@@ -24926,6 +25178,18 @@
       "score": 78
     },
     {
+      "name": "react-native-smartapi",
+      "version": "1.0.0",
+      "description": "Enterprise-grade, zero-config API management layer for React Native (Bare Workflow). Built-in HTTP client, interceptors, error engine, caching, retry, auth, offline queue, and React hooks — no Axios required.",
+      "license": "MIT",
+      "repository": "https://github.com/saadwaheed10/react-native-smartapi",
+      "npmUrl": "https://www.npmjs.com/package/react-native-smartapi",
+      "category": "frontend",
+      "createdAt": "2026-08-02T04:50:25.033Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 96
+    },
+    {
       "name": "react-number-word-converter",
       "version": "1.0.0",
       "description": "One plugin all language — React number to words converter by sayed021. Convert numbers to English, Bangla, Arabic or any custom locale with RTL, i18n, and TypeScript support.",
@@ -25608,6 +25872,18 @@
       "createdAt": "2026-08-01T18:13:28.772Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 76
+    },
+    {
+      "name": "sarvamai-cli",
+      "version": "0.2.11",
+      "description": "An agentic CLI coding assistant powered by Sarvam AI — built on the official sarvamai SDK, with OpenAI-compatible fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/indic-ai-contribs/sarvamai-cli",
+      "npmUrl": "https://www.npmjs.com/package/sarvamai-cli",
+      "category": "cli",
+      "createdAt": "2026-08-02T04:59:35.799Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 82
     },
     {
       "name": "sarwa-tools",
@@ -26630,6 +26906,18 @@
       "score": 73
     },
     {
+      "name": "subtractive-synthesizers.js",
+      "version": "0.1.0",
+      "description": "Analog-style subtractive synthesizers for the browser. Computed on the fly, no samples, tens of kilobytes.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/keunwoochoi/subtractive-synthesizers.js",
+      "npmUrl": "https://www.npmjs.com/package/subtractive-synthesizers.js",
+      "category": "frontend",
+      "createdAt": "2026-08-02T04:42:36.523Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 80
+    },
+    {
       "name": "supamaus",
       "version": "0.1.0",
       "description": "SupaMaus CLI — record and publish AI-guided product tours by driving a real browser; MCP server for Claude Code and Codex.",
@@ -26916,6 +27204,18 @@
       "createdAt": "2026-07-25T15:26:41.678Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 66
+    },
+    {
+      "name": "terra-ballom",
+      "version": "1.0.0",
+      "description": "BALLOM — Terra Ecosystem Phantom Proxy, API Gateway & DNS Masking Engine at $0 Cost",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/Ballom",
+      "npmUrl": "https://www.npmjs.com/package/terra-ballom",
+      "category": "frontend",
+      "createdAt": "2026-08-02T02:17:04.431Z",
+      "discoveredAt": "2026-08-02T05:31:45.592Z",
+      "score": 85
     },
     {
       "name": "terra-combase",
