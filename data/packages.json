@@ -2270,6 +2270,18 @@
       "score": 76
     },
     {
+      "name": "@brpaz/bruno-openapi-sync",
+      "version": "1.0.2",
+      "description": "Sync an OpenAPI spec into a Bruno collection (OpenCollection YAML) without clobbering user-owned content.",
+      "license": "MIT",
+      "repository": "https://github.com/brpaz/bruno-openapi-sync",
+      "npmUrl": "https://www.npmjs.com/package/%40brpaz%2Fbruno-openapi-sync",
+      "category": "backend",
+      "createdAt": "2026-08-02T09:39:10.450Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 68
+    },
+    {
       "name": "@bruxa/stfca",
       "version": "1.2.30",
       "description": "Unofficial Facebook Chat API for Node.js with Auto-Update System - Enhanced by ST | Sheikh Tamim",
@@ -4226,6 +4238,18 @@
       "score": 76
     },
     {
+      "name": "@dpuse/dpuse-tool-adaltas-csv-parser",
+      "version": "0.0.153",
+      "description": "[![npm version](https://img.shields.io/npm/v/@dpuse/dpuse-tool-adaltas-csv-parser.svg)](https://www.npmjs.com/package/@dpuse/dpuse-tool-adaltas-csv-parser) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)",
+      "license": "MIT",
+      "repository": "https://github.com/dpuse/dpuse-tool-adaltas-csv-parser",
+      "npmUrl": "https://www.npmjs.com/package/%40dpuse%2Fdpuse-tool-adaltas-csv-parser",
+      "category": "backend",
+      "createdAt": "2026-08-02T09:45:18.369Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 69
+    },
+    {
       "name": "@dravensoft/arena-angular",
       "version": "5.0.0",
       "description": "Arena, the Dravensoft design system: standalone Angular components on a shared Tailwind recipe layer.",
@@ -4260,6 +4284,30 @@
       "createdAt": "2026-07-29T00:48:39.636Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 57
+    },
+    {
+      "name": "@dunx/auth",
+      "version": "0.2.0",
+      "description": "Better Auth for dunx: its handler mounted on Bun.serve, a session guard reading @Public() and @Roles(), the caller in async context, and Bun.password hashing",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/petarzarkov/dunx",
+      "npmUrl": "https://www.npmjs.com/package/%40dunx%2Fauth",
+      "category": "utilities",
+      "createdAt": "2026-08-02T08:08:25.565Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 81
+    },
+    {
+      "name": "@dunx/openapi",
+      "version": "0.2.0",
+      "description": "OpenAPI 3.1 documents and a dependency-free docs page for dunx controllers, generated from the schemas the routes already validate",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/petarzarkov/dunx",
+      "npmUrl": "https://www.npmjs.com/package/%40dunx%2Fopenapi",
+      "category": "backend",
+      "createdAt": "2026-08-02T08:08:14.969Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 73
     },
     {
       "name": "@duskel/cassette",
@@ -7298,6 +7346,30 @@
       "score": 74
     },
     {
+      "name": "@iappx/drizzle-active-record",
+      "version": "1.0.0",
+      "description": "A decorator-driven Active Record layer over Drizzle ORM for PostgreSQL: declare entities with decorators, get a chainable query builder, relations, soft delete and hydration on top of the generated Drizzle schema.",
+      "license": "MIT",
+      "repository": "https://github.com/iappx/drizzle-active-record",
+      "npmUrl": "https://www.npmjs.com/package/%40iappx%2Fdrizzle-active-record",
+      "category": "data",
+      "createdAt": "2026-08-02T09:05:51.689Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 100
+    },
+    {
+      "name": "@iappx/entity-repo-query",
+      "version": "1.0.0",
+      "description": "A transport agnostic query AST for @iappx/entity-repo: build filters, ordering, paging and selection once, compile them with any dialect.",
+      "license": "MIT",
+      "repository": "https://github.com/iappx/entity-repo-query",
+      "npmUrl": "https://www.npmjs.com/package/%40iappx%2Fentity-repo-query",
+      "category": "data",
+      "createdAt": "2026-08-02T09:18:32.507Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 93
+    },
+    {
       "name": "@iappx/gql-builder",
       "version": "1.0.0",
       "description": "A dependency-free TypeScript GraphQL document builder: compose queries, mutations and subscriptions as an object tree and print them with variables extracted automatically.",
@@ -9780,6 +9852,18 @@
       "createdAt": "2026-08-02T07:44:45.766Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 85
+    },
+    {
+      "name": "@nemesis-shield-autogon/edge",
+      "version": "0.1.1",
+      "description": "Nemesis Shield — Edge SDK for Deno / Cloudflare Workers / Vercel Edge / Supabase Edge Functions. Positive-security: learns your app's normal behavior and blocks off-baseline requests (auth bypass, path traversal, scanners) in enforce mode. Web-standard (R",
+      "license": "MIT",
+      "repository": "https://github.com/eobi/nemesis_shield_sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40nemesis-shield-autogon%2Fedge",
+      "category": "data",
+      "createdAt": "2026-07-31T20:08:32.664Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 70
     },
     {
       "name": "@neograce/cli",
@@ -12266,6 +12350,18 @@
       "score": 74
     },
     {
+      "name": "@satyadip28/isoform",
+      "version": "0.3.1",
+      "description": "Machined 3D system architecture diagrams for the browser — part catalog, document model, router, renderer and a mountable editor",
+      "license": "MIT",
+      "repository": "https://github.com/SatyadipPaul/isoform",
+      "npmUrl": "https://www.npmjs.com/package/%40satyadip28%2Fisoform",
+      "category": "frontend",
+      "createdAt": "2026-08-02T09:13:58.328Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 74
+    },
+    {
       "name": "@savantlink/sdk",
       "version": "2.1.10",
       "description": "A package that contains reusable components and services for the SavantLink design system and architecture.",
@@ -13248,6 +13344,18 @@
       "createdAt": "2026-07-30T19:06:34.892Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 71
+    },
+    {
+      "name": "@stashbase/agent-proxy",
+      "version": "0.2.0",
+      "description": "Scoped credential proxy and sandboxed tool runner for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/stashbase/agent-proxy",
+      "npmUrl": "https://www.npmjs.com/package/%40stashbase%2Fagent-proxy",
+      "category": "utilities",
+      "createdAt": "2026-08-01T10:45:58.441Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 70
     },
     {
       "name": "@stayingapi/sdk",
@@ -14532,6 +14640,18 @@
       "createdAt": "2026-07-27T05:23:48.117Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 73
+    },
+    {
+      "name": "@username-parveen/frontend-excellence",
+      "version": "1.0.0",
+      "description": "Production-grade Frontend Engineering & UI/UX Skill framework for AI coding agents (Claude Code, Gemini CLI, Cursor, Windsurf, Copilot, Codex).",
+      "license": "MIT",
+      "repository": "https://github.com/frontend-excellence/frontend-excellence",
+      "npmUrl": "https://www.npmjs.com/package/%40username-parveen%2Ffrontend-excellence",
+      "category": "frontend",
+      "createdAt": "2026-08-02T09:49:05.444Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 70
     },
     {
       "name": "@usespan/agent-sdk",
@@ -16176,6 +16296,18 @@
       "createdAt": "2026-07-27T03:23:11.148Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 74
+    },
+    {
+      "name": "airgen",
+      "version": "0.1.1",
+      "description": "Reactive TypeScript type generator for Airtable Custom Extensions: watches the base schema from inside the extension and writes airtable-schema.ts to disk via a local daemon.",
+      "license": "MIT",
+      "repository": "https://github.com/pbotsaris/airgen",
+      "npmUrl": "https://www.npmjs.com/package/airgen",
+      "category": "frontend",
+      "createdAt": "2026-08-02T09:24:31.524Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 68
     },
     {
       "name": "aix-ai",
@@ -17894,6 +18026,18 @@
       "score": 71
     },
     {
+      "name": "codeorion",
+      "version": "1.0.0",
+      "description": "Static scan for AI-generated technical debt — hallucinated (phantom) npm dependencies and dead-code candidates. Runs locally, no account needed.",
+      "license": "MIT",
+      "repository": "https://github.com/DelTa-0/codeaudit",
+      "npmUrl": "https://www.npmjs.com/package/codeorion",
+      "category": "cli",
+      "createdAt": "2026-08-02T08:33:50.756Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 89
+    },
+    {
       "name": "codex-agent-view",
       "version": "0.2.0",
       "description": "Local read-only companion monitor for Codex parent tasks and subagents.",
@@ -18240,6 +18384,18 @@
       "createdAt": "2026-08-01T18:20:10.153Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 79
+    },
+    {
+      "name": "coptic-readings",
+      "version": "1.0.0",
+      "description": "Day-round Coptic katamaros reading references for a given date (annual, Great Lent, Holy Fifty).",
+      "license": "MIT",
+      "repository": "https://github.com/tonymelek/coptic-tools",
+      "npmUrl": "https://www.npmjs.com/package/coptic-readings",
+      "category": "utilities",
+      "createdAt": "2026-08-02T09:48:50.622Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 76
     },
     {
       "name": "cordova-plugin-yandex-mapkit",
@@ -18636,6 +18792,18 @@
       "createdAt": "2026-07-28T11:50:56.375Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 85
+    },
+    {
+      "name": "ddd-tactical-core-boilerplate",
+      "version": "2.0.0",
+      "description": "Reusable TypeScript building blocks for tactical Domain-Driven Design",
+      "license": "MIT",
+      "repository": "https://github.com/bitloops/ddd-tactical-core-boilerplate",
+      "npmUrl": "https://www.npmjs.com/package/ddd-tactical-core-boilerplate",
+      "category": "frontend",
+      "createdAt": "2026-08-02T07:40:07.463Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 80
     },
     {
       "name": "ddg-kit",
@@ -19428,6 +19596,18 @@
       "createdAt": "2026-07-27T11:04:40.015Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 78
+    },
+    {
+      "name": "express-error-tools",
+      "version": "1.0.0",
+      "description": "A lightweight, unopinionated, and highly effective global error-handling utility for Express.js applications.",
+      "license": "ISC",
+      "repository": "https://github.com/muhammedhabeebkv/express-error-tools",
+      "npmUrl": "https://www.npmjs.com/package/express-error-tools",
+      "category": "backend",
+      "createdAt": "2026-08-02T09:13:33.630Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 73
     },
     {
       "name": "express-leak-detector",
@@ -20292,6 +20472,18 @@
       "createdAt": "2026-07-29T03:07:14.056Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 74
+    },
+    {
+      "name": "gxw2-skill",
+      "version": "1.4.0",
+      "description": "Pi skill: generates Structured Text (ST) code and CSV variable import files for Mitsubishi Electric FX series PLCs (FX3U, FX3G, FX3S, FX5U) in GX Works 2.",
+      "license": "MIT",
+      "repository": "https://github.com/Serhioromano/gxw2-skill",
+      "npmUrl": "https://www.npmjs.com/package/gxw2-skill",
+      "category": "utilities",
+      "createdAt": "2026-08-02T09:26:57.140Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 72
     },
     {
       "name": "gymrat",
@@ -21648,6 +21840,18 @@
       "createdAt": "2026-07-30T11:19:36.461Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 72
+    },
+    {
+      "name": "live-reactions",
+      "version": "0.1.0",
+      "description": "Google Meet-style flying emoji reactions for any web app: send a reaction over Laravel Echo, raw WebSocket, BroadcastChannel or your own channel. Rate limiting, aggregation and TTL included. Zero dependencies, no SaaS. Vanilla, Vue and React bindings.",
+      "license": "MIT",
+      "repository": "https://github.com/qretro/live-reactions",
+      "npmUrl": "https://www.npmjs.com/package/live-reactions",
+      "category": "frontend",
+      "createdAt": "2026-08-02T09:32:54.696Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 80
     },
     {
       "name": "llm-date-guard",
@@ -23606,6 +23810,18 @@
       "score": 71
     },
     {
+      "name": "opencode-huddle",
+      "version": "0.1.1",
+      "description": "Huddle v1 — share a live OpenCode session with friends through a temporary browser link.",
+      "license": "MIT",
+      "repository": "https://github.com/sebastianlungu/opencode-huddle",
+      "npmUrl": "https://www.npmjs.com/package/opencode-huddle",
+      "category": "frontend",
+      "createdAt": "2026-08-02T08:44:45.540Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 70
+    },
+    {
       "name": "opencode-lark-bridge",
       "version": "0.1.0",
       "description": "OpenCode plugin to push permission/task/question events to Feishu (Lark) via lark-cli",
@@ -24204,6 +24420,18 @@
       "createdAt": "2026-07-27T13:49:32.097Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 76
+    },
+    {
+      "name": "pi-cliproxiapi-auth",
+      "version": "1.0.1",
+      "description": "Pi-mono (omp) extension for CLIProxyAPI — connect, /v1/models discovery, models.json + models.dev enrichment",
+      "license": "MIT",
+      "repository": "https://github.com/GRomR1/pi-cliproxiapi-auth",
+      "npmUrl": "https://www.npmjs.com/package/pi-cliproxiapi-auth",
+      "category": "backend",
+      "createdAt": "2026-08-02T09:23:26.527Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 77
     },
     {
       "name": "pi-codex-fast-mode",
@@ -24924,6 +25152,42 @@
       "createdAt": "2026-07-30T20:42:52.722Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 71
+    },
+    {
+      "name": "pspt-docx",
+      "version": "1.0.0",
+      "description": "ProductSpecSDK ported to use pspt-core: generates Word (.docx) product specification documents.",
+      "license": "MIT",
+      "repository": "https://github.com/AnakPakIqbal/pspt",
+      "npmUrl": "https://www.npmjs.com/package/pspt-docx",
+      "category": "devops",
+      "createdAt": "2026-08-02T09:46:45.639Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 77
+    },
+    {
+      "name": "pspt-lang",
+      "version": "1.0.0",
+      "description": "Hand-written lexer/parser/codegen for the .pspt DSL, compiling to plain JS calling pspt-docx/pspt-xlsx setters.",
+      "license": "MIT",
+      "repository": "https://github.com/AnakPakIqbal/pspt",
+      "npmUrl": "https://www.npmjs.com/package/pspt-lang",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T09:47:41.624Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 79
+    },
+    {
+      "name": "pspt-xlsx",
+      "version": "1.0.0",
+      "description": "ExcelTrackerSDK ported to use pspt-core: generates Excel (.xlsx) Gantt project trackers.",
+      "license": "MIT",
+      "repository": "https://github.com/AnakPakIqbal/pspt",
+      "npmUrl": "https://www.npmjs.com/package/pspt-xlsx",
+      "category": "utilities",
+      "createdAt": "2026-08-02T09:47:16.898Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 72
     },
     {
       "name": "qa-engineer",
@@ -28812,6 +29076,42 @@
       "createdAt": "2026-07-29T08:04:18.904Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 74
+    },
+    {
+      "name": "weasley-autoresearch",
+      "version": "1.6.3",
+      "description": "Guarded autonomous experiment loops for pi: measure changes, keep wins, and revert regressions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/potatohoney-p/weasley-autoresearch",
+      "npmUrl": "https://www.npmjs.com/package/weasley-autoresearch",
+      "category": "utilities",
+      "createdAt": "2026-08-02T08:26:23.861Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 72
+    },
+    {
+      "name": "weasley-podex",
+      "version": "2.2.9",
+      "description": "Weasley Podex — a local multi-runtime AI assistant for Web, Terminal, Telegram, Discord, and desktop workflows",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/potatohoney-p/weasley-podex",
+      "npmUrl": "https://www.npmjs.com/package/weasley-podex",
+      "category": "frontend",
+      "createdAt": "2026-08-02T08:28:58.611Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 91
+    },
+    {
+      "name": "weasley-subagents",
+      "version": "0.39.0",
+      "description": "Open-source Pi orchestration for focused subagents, parallel reviews, workflows, and background runs",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/potatohoney-p/weasley-subagents",
+      "npmUrl": "https://www.npmjs.com/package/weasley-subagents",
+      "category": "utilities",
+      "createdAt": "2026-08-02T08:26:32.739Z",
+      "discoveredAt": "2026-08-02T10:06:06.996Z",
+      "score": 69
     },
     {
       "name": "weavatrix-git",
