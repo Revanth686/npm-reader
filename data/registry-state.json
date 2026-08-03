@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122893348,
-  "lastRunAt": "2026-08-02T23:44:22.420Z",
+  "lastSequence": 122905519,
+  "lastRunAt": "2026-08-03T02:02:01.589Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@huohuahub/cli",
+      "name": "@rozie-ui/embla-solid",
+      "attempts": 1
+    },
+    {
+      "name": "@rozie-ui/otp-angular",
       "attempts": 1
     }
   ]

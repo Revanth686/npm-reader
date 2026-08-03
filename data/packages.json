@@ -1070,6 +1070,18 @@
       "score": 82
     },
     {
+      "name": "@amenophis1er/claude-voice",
+      "version": "0.2.0",
+      "description": "Give Claude Code a voice — selective, tasteful spoken summaries and attention cues. Quiet by default.",
+      "license": "MIT",
+      "repository": "https://github.com/amenophis1er/claude-voice",
+      "npmUrl": "https://www.npmjs.com/package/%40amenophis1er%2Fclaude-voice",
+      "category": "utilities",
+      "createdAt": "2026-08-03T01:18:07.375Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 67
+    },
+    {
       "name": "@amplib/ui",
       "version": "0.1.0",
       "description": "A hypertoken theme for dense tool interfaces. Stark black and white, monospaced, zero radius — emphasis by polarity rather than hue.",
@@ -2100,6 +2112,30 @@
       "createdAt": "2026-07-28T21:26:51.800Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 79
+    },
+    {
+      "name": "@bayar-sdk/core",
+      "version": "0.0.1",
+      "description": "Core contract, types, errors and provider contract tests for bayar-sdk — an unofficial multi-provider payment gateway SDK (TypeScript) for Midtrans & Xendit.",
+      "license": "MIT",
+      "repository": "https://github.com/cakfan/bayar-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40bayar-sdk%2Fcore",
+      "category": "testing",
+      "createdAt": "2026-08-02T21:09:16.890Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 61
+    },
+    {
+      "name": "@bayar-sdk/hono",
+      "version": "0.0.1",
+      "description": "Hono middleware for bayar-sdk — expose PaymentProvider instances (Midtrans, Xendit) as REST routes for charge, refund, status and webhook.",
+      "license": "MIT",
+      "repository": "https://github.com/cakfan/bayar-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40bayar-sdk%2Fhono",
+      "category": "backend",
+      "createdAt": "2026-08-02T21:09:45.744Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 61
     },
     {
       "name": "@bbridge/authorizer",
@@ -3878,6 +3914,18 @@
       "score": 80
     },
     {
+      "name": "@dendiem/caliper",
+      "version": "0.2.0",
+      "description": "MCP server that lets a coding agent ask the developer to review ambiguous UI regions directly in the running dev preview.",
+      "license": "MIT",
+      "repository": "https://github.com/DenDiem/caliper",
+      "npmUrl": "https://www.npmjs.com/package/%40dendiem%2Fcaliper",
+      "category": "backend",
+      "createdAt": "2026-08-02T22:27:27.257Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 70
+    },
+    {
       "name": "@denizeffects/dropnav",
       "version": "0.1.0",
       "description": "A navigation that behaves like a droplet. One circle in a corner that leans toward your cursor, then splits into the nav items through liquid bridges. Analytic metaball SVG, no blur filters.",
@@ -4874,6 +4922,18 @@
       "score": 78
     },
     {
+      "name": "@eddieparc/senpi-multiaccounts",
+      "version": "0.1.0",
+      "description": "Senpi addon: multi-account subscriptions for Claude, OpenAI Codex and Kiro — per-account usage, cache-preserving routing, usage-aware placement and 429 failover.",
+      "license": "MIT",
+      "repository": "https://github.com/eddieparc/senpi-multiaccounts",
+      "npmUrl": "https://www.npmjs.com/package/%40eddieparc%2Fsenpi-multiaccounts",
+      "category": "utilities",
+      "createdAt": "2026-08-03T00:59:49.270Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 82
+    },
+    {
       "name": "@edenbuilds/blackbox",
       "version": "0.1.0",
       "description": "Flight recorder for coding agents — reduces Claude Code and Codex transcripts into one append-only event log you can query.",
@@ -4956,6 +5016,18 @@
       "createdAt": "2026-07-26T02:52:05.647Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 76
+    },
+    {
+      "name": "@effected/schemastore",
+      "version": "0.1.1",
+      "description": "Build, version and lint SchemaStore-shaped Draft-07 JSON Schema documents from Effect Schema sources: document assembly, catalog entries, versioned catalogs and canonical JSON serialization.",
+      "license": "MIT",
+      "repository": "https://github.com/spencerbeggs/effected",
+      "npmUrl": "https://www.npmjs.com/package/%40effected%2Fschemastore",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T00:02:01.390Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 83
     },
     {
       "name": "@effetune/dsp",
@@ -5340,6 +5412,18 @@
       "createdAt": "2026-07-25T18:10:15.213Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 73
+    },
+    {
+      "name": "@financica/nace-codes",
+      "version": "3.0.0",
+      "description": "TypeScript library for NACE and NACEBEL economic activity classification codes",
+      "license": "MIT",
+      "repository": "https://github.com/financica/ts-libs",
+      "npmUrl": "https://www.npmjs.com/package/%40financica%2Fnace-codes",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T00:44:34.910Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 79
     },
     {
       "name": "@financica/nbb-cbso",
@@ -7536,6 +7620,18 @@
       "createdAt": "2026-07-30T08:55:39.838Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 75
+    },
+    {
+      "name": "@graphglue/dokka-vitepress",
+      "version": "1.0.0",
+      "description": "Turns Dokka HTML output into a VitePress API reference: markdown pages, a sidebar, and scoped Dokka styles.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/graphglue/dokka-vitepress",
+      "npmUrl": "https://www.npmjs.com/package/%40graphglue%2Fdokka-vitepress",
+      "category": "backend",
+      "createdAt": "2026-08-02T23:33:38.031Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 71
     },
     {
       "name": "@groundcraft/crawl",
@@ -10646,6 +10742,18 @@
       "score": 96
     },
     {
+      "name": "@mshkq/vditor",
+      "version": "1.0.26",
+      "description": "Vditor - A markdown editor written in TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/Vanessa219/vditor",
+      "npmUrl": "https://www.npmjs.com/package/%40mshkq%2Fvditor",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T00:08:01.884Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 70
+    },
+    {
       "name": "@mtdt/nextgen-design-system",
       "version": "0.1.0",
       "description": "The NextGen design system: accessible React components for building SaaS platforms, designed to be readable by machines as well as people.",
@@ -10812,6 +10920,18 @@
       "createdAt": "2026-07-28T18:40:23.054Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 68
+    },
+    {
+      "name": "@naowalrahman/codex-monitor",
+      "version": "0.2.0",
+      "description": "Event-driven monitors for the Codex CLI: pause the agent until an arbitrary condition becomes true. No LLM polling loops.",
+      "license": "MIT",
+      "repository": "https://github.com/naowalrahman/codex-monitor",
+      "npmUrl": "https://www.npmjs.com/package/%40naowalrahman%2Fcodex-monitor",
+      "category": "cli",
+      "createdAt": "2026-08-03T00:17:19.763Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 78
     },
     {
       "name": "@narumitw/pi-analytics",
@@ -13550,6 +13670,30 @@
       "score": 87
     },
     {
+      "name": "@rozie-ui/otp-lit",
+      "version": "0.1.2",
+      "description": "Idiomatic Lit headless WAI-ARIA one-time-code / PIN input (segmented cells, paste-to-distribute, keyboard nav, SMS autofill, masking) — one accessible Rozie source compiled to a Lit custom element.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fotp-lit",
+      "category": "utilities",
+      "createdAt": "2026-08-03T01:58:53.890Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 62
+    },
+    {
+      "name": "@rozie-ui/otp-react",
+      "version": "0.1.2",
+      "description": "Idiomatic React headless WAI-ARIA one-time-code / PIN input (segmented cells, paste-to-distribute, keyboard nav, SMS autofill, masking) — one accessible Rozie source compiled to React.",
+      "license": "MIT",
+      "repository": "https://github.com/One-Learning-Community/rozie.js",
+      "npmUrl": "https://www.npmjs.com/package/%40rozie-ui%2Fotp-react",
+      "category": "frontend",
+      "createdAt": "2026-08-03T01:58:45.381Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 61
+    },
+    {
       "name": "@rozie-ui/tags-angular",
       "version": "0.1.2",
       "description": "Idiomatic Angular headless WAI-ARIA tags / token input (chips with removable controls, type-to-add with configurable delimiters, paste-to-bulk-add, dedup, validation, max cap) with ControlValueAccessor — one accessible Rozie source compiled to Angular.",
@@ -15624,6 +15768,18 @@
       "createdAt": "2026-07-29T23:54:57.608Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 63
+    },
+    {
+      "name": "@tc96/collection-views",
+      "version": "0.4.0",
+      "description": "Domain-neutral collection views for React applications using COSS primitives and DnD Kit.",
+      "license": "MIT",
+      "repository": "https://github.com/gblsmlo/kanban",
+      "npmUrl": "https://www.npmjs.com/package/%40tc96%2Fcollection-views",
+      "category": "frontend",
+      "createdAt": "2026-08-03T01:20:49.141Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 76
     },
     {
       "name": "@teejeeh/skills",
@@ -18170,6 +18326,18 @@
       "score": 90
     },
     {
+      "name": "agentspec-rdd",
+      "version": "0.2.0",
+      "description": "Installer for the AgentSpec SDD workflow — 5-phase spec-driven development for Claude Code and Codex",
+      "license": "MIT",
+      "repository": "https://github.com/ip2cloud/agentspec-sdd",
+      "npmUrl": "https://www.npmjs.com/package/agentspec-rdd",
+      "category": "utilities",
+      "createdAt": "2026-08-02T23:55:00.115Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 72
+    },
+    {
       "name": "agi-super-team",
       "version": "1.4.0",
       "description": "Evidence-backed AI team packs with preview-first installation and repository contracts",
@@ -19442,6 +19610,18 @@
       "score": 75
     },
     {
+      "name": "cachora",
+      "version": "0.1.0",
+      "description": "A type-safe, resilient and extensible cache toolkit for Node.js and NestJS",
+      "license": "MIT",
+      "repository": "https://github.com/alireza-askarpour/cachora",
+      "npmUrl": "https://www.npmjs.com/package/cachora",
+      "category": "backend",
+      "createdAt": "2026-08-03T00:21:50.745Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 66
+    },
+    {
       "name": "callspec",
       "version": "0.1.0",
       "description": "Registry-first RPC: HTTP, OpenAPI docs, MCP, and typed client from one defineRoute registry",
@@ -20114,6 +20294,18 @@
       "score": 66
     },
     {
+      "name": "cmail-cli",
+      "version": "0.1.0",
+      "description": "cmail: realtime email for humans and coding agents. Web inbox with live updates, Gmail attach, your own domain via inbound.new, machines that register as agent VMs you can email tasks to, and an MCP server so your AIs can query the whole inbox. Installs t",
+      "license": "MIT",
+      "repository": "https://github.com/manaflow-ai/cmail",
+      "npmUrl": "https://www.npmjs.com/package/cmail-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-03T01:30:04.651Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 69
+    },
+    {
       "name": "cockpit-claude",
       "version": "1.0.0",
       "description": "A four-line instrument panel for a Claude Code session: context, spend, rate-limit pace, and every session sharing your limit.",
@@ -20750,6 +20942,18 @@
       "score": 83
     },
     {
+      "name": "create-playce-agent",
+      "version": "0.1.0",
+      "description": "Scaffold a Playce agent — one command: registers you, writes .env, installs deps. `npm create playce-agent@latest`",
+      "license": "MIT",
+      "repository": "https://github.com/playceai/playce-kit",
+      "npmUrl": "https://www.npmjs.com/package/create-playce-agent",
+      "category": "testing",
+      "createdAt": "2026-08-03T00:52:32.696Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 74
+    },
+    {
       "name": "create-scrum-agents",
       "version": "1.0.0",
       "description": "Install portable .agents kit for Cursor, Claude, GitHub Copilot, and Codex",
@@ -21194,6 +21398,18 @@
       "score": 81
     },
     {
+      "name": "design-qa-loader",
+      "version": "0.1.1",
+      "description": "Turbopack loader that injects data-source and data-component attributes into JSX host elements, so design QA tooling can map a rendered element back to its source location.",
+      "license": "MIT",
+      "repository": "https://github.com/YeonKyuJeon/design-qa-bridge",
+      "npmUrl": "https://www.npmjs.com/package/design-qa-loader",
+      "category": "data",
+      "createdAt": "2026-08-02T13:51:48.502Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 63
+    },
+    {
       "name": "designesy-score",
       "version": "0.4.0",
       "description": "Score any URL against the Designesy design-system contract — 40 deterministic checks, one grade, no vibe-tax. Zero dependencies.",
@@ -21614,6 +21830,18 @@
       "score": 84
     },
     {
+      "name": "emoji-resolve",
+      "version": "2.0.0",
+      "description": "Platform-agnostic emoji → shortcode resolver. LLM-friendly fuzzy matching for Slack, Discord, and friends.",
+      "license": "MIT",
+      "repository": "https://github.com/supermemoryai/emoji-resolve",
+      "npmUrl": "https://www.npmjs.com/package/emoji-resolve",
+      "category": "frontend",
+      "createdAt": "2026-08-03T01:28:01.416Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 72
+    },
+    {
       "name": "empilha",
       "version": "0.1.1",
       "description": "Framework HTTP para Bun e TypeScript baseado em decorators e Web Standards.",
@@ -21768,6 +21996,18 @@
       "createdAt": "2026-07-26T00:45:33.149Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 65
+    },
+    {
+      "name": "eslint-plugin-sequelize-security",
+      "version": "0.1.0",
+      "description": "ESLint plugin for the Sequelize ORM — detects SQL injection in raw sequelize.query() and Sequelize.literal() calls built with string concatenation or template literals.",
+      "license": "MIT",
+      "repository": "https://github.com/ofri-peretz/eslint",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-sequelize-security",
+      "category": "data",
+      "createdAt": "2026-08-03T00:07:45.599Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 86
     },
     {
       "name": "eslint-plugin-skies",
@@ -22418,6 +22658,18 @@
       "score": 87
     },
     {
+      "name": "framecoded",
+      "version": "0.1.1",
+      "description": "CLI that converts published Framer websites into clean, editable Next.js, TanStack Start, or Astro projects.",
+      "license": "MIT",
+      "repository": "https://github.com/kerim0x1/framecoded",
+      "npmUrl": "https://www.npmjs.com/package/framecoded",
+      "category": "frontend",
+      "createdAt": "2026-08-03T00:50:50.617Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 80
+    },
+    {
       "name": "frameproof-video-qa",
       "version": "0.8.1",
       "description": "Source-aware verification, production preflight, render-health receipts, revision gates, and guarded repair loops for AI-generated and programmatic video.",
@@ -22608,6 +22860,18 @@
       "createdAt": "2026-07-27T22:24:43.076Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 72
+    },
+    {
+      "name": "ghostedit",
+      "version": "0.1.0",
+      "description": "Self-contained inline content editing overlay for React apps. Hotkey-activated, adapter-driven, themeable.",
+      "license": "MIT",
+      "repository": "https://github.com/CrackN147/ghostedit",
+      "npmUrl": "https://www.npmjs.com/package/ghostedit",
+      "category": "frontend",
+      "createdAt": "2026-08-03T00:42:19.774Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 70
     },
     {
       "name": "gifwarp",
@@ -27410,6 +27674,18 @@
       "score": 92
     },
     {
+      "name": "pi-magpi",
+      "version": "1.0.1",
+      "description": "Token-frugal web fetch & search for pi. Smart handlers (GitHub, GitLab, package registries, Wikipedia, Stack Exchange, Reddit, HN, arXiv, PDFs, llms.txt), timestamped disk cache, extensible handler system. No API keys.",
+      "license": "MIT",
+      "repository": "https://github.com/grainologic/magpi",
+      "npmUrl": "https://www.npmjs.com/package/pi-magpi",
+      "category": "backend",
+      "createdAt": "2026-08-03T01:03:12.489Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 96
+    },
+    {
       "name": "pi-okf",
       "version": "0.2.0",
       "description": "CLI for creating and validating Open Knowledge Format (OKF) v0.1 Draft bundles",
@@ -28514,6 +28790,18 @@
       "score": 82
     },
     {
+      "name": "react-native-ino-player",
+      "version": "0.1.0",
+      "description": "A full-featured media(audio/video) player for React Native ecosystem. Supports Android, iOS, Web, and Windows (New Architecture).",
+      "license": "MIT",
+      "repository": "https://github.com/I-am-Pritam-20/react-native-ino-player",
+      "npmUrl": "https://www.npmjs.com/package/react-native-ino-player",
+      "category": "frontend",
+      "createdAt": "2026-08-03T00:19:56.888Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 68
+    },
+    {
       "name": "react-native-island",
       "version": "0.1.1",
       "description": "Cross-platform Live Activities for React Native — iOS Live Activities (Lock Screen + Dynamic Island) and Android ongoing notifications rendered from your RN UI, on the New Architecture.",
@@ -28980,6 +29268,18 @@
       "createdAt": "2026-07-27T02:05:19.327Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 65
+    },
+    {
+      "name": "retronvim",
+      "version": "0.4.8",
+      "description": "minimal whichkey, lazyvim, terax, yazi, zsh and kanata setup",
+      "license": "GPL3",
+      "repository": "https://github.com/YeferYV/RetroNvim",
+      "npmUrl": "https://www.npmjs.com/package/retronvim",
+      "category": "cli",
+      "createdAt": "2026-08-03T01:47:20.641Z",
+      "discoveredAt": "2026-08-03T02:02:01.589Z",
+      "score": 76
     },
     {
       "name": "reuse-ui-kit",
