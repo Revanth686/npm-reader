@@ -86,6 +86,18 @@
       "score": 84
     },
     {
+      "name": "@1jehuang/sdk",
+      "version": "1.0.0",
+      "description": "TypeScript SDK for the jcode harness API (protocol v1)",
+      "license": "MIT",
+      "repository": "https://github.com/1jehuang/jcode",
+      "npmUrl": "https://www.npmjs.com/package/%401jehuang%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-03T08:51:34.300Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 77
+    },
+    {
       "name": "@3dpacking/mcp-server",
       "version": "0.1.0",
       "description": "Container and truck load planning for AI assistants. Describe a shipment in plain English, get back the containers it fits in and a link to the 3D load plan.",
@@ -3038,6 +3050,18 @@
       "score": 63
     },
     {
+      "name": "@chipmates/cctap",
+      "version": "0.1.0",
+      "description": "Terminal-native attention router for parallel Claude Code sessions. One glyph per session, and one keypress to the one that needs you.",
+      "license": "MIT",
+      "repository": "https://github.com/chipmates/cctap",
+      "npmUrl": "https://www.npmjs.com/package/%40chipmates%2Fcctap",
+      "category": "cli",
+      "createdAt": "2026-08-03T08:20:40.253Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 79
+    },
+    {
       "name": "@chonksxyz/studio",
       "version": "0.1.0",
       "description": "A dependency-free toolkit for building pixel art studios: configurable grids, undo/redo history, draw and erase input, configurable keyboard shortcuts, image export, and design persistence.",
@@ -4862,6 +4886,18 @@
       "score": 57
     },
     {
+      "name": "@dulcetlabs/react-native-google-signin",
+      "version": "1.0.1",
+      "description": "A premium, Google-compliant Sign-In library for React Native. Dual-flow support — modern Credential Manager + classic GoogleSignInClient. Built directly on Google's official SDKs with no hacks.",
+      "license": "MIT",
+      "repository": "https://github.com/Dulcet-Labs/react-native-google-signin",
+      "npmUrl": "https://www.npmjs.com/package/%40dulcetlabs%2Freact-native-google-signin",
+      "category": "frontend",
+      "createdAt": "2026-08-03T08:51:42.587Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 90
+    },
+    {
       "name": "@dunx/auth",
       "version": "0.2.0",
       "description": "Better Auth for dunx: its handler mounted on Bun.serve, a session guard reading @Public() and @Roles(), the caller in async context, and Bun.password hashing",
@@ -5112,6 +5148,18 @@
       "createdAt": "2026-08-03T05:21:48.697Z",
       "discoveredAt": "2026-08-03T05:50:48.787Z",
       "score": 85
+    },
+    {
+      "name": "@enterpret/servicenow-mcp",
+      "version": "0.1.0",
+      "description": "Enterpret's fork of onlyflowstech/servicenow-mcp. 17 tools over the ServiceNow Table API; adds a SERVICENOW_OAUTH_BEARER env mode so a broker-supplied (Nango) OAuth token is used for auth.",
+      "license": "MIT",
+      "repository": "https://github.com/aavaz-ai/servicenow-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40enterpret%2Fservicenow-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-03T09:09:42.019Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 76
     },
     {
       "name": "@entrybit/sdk",
@@ -7898,6 +7946,18 @@
       "score": 62
     },
     {
+      "name": "@hellokit/media-uploader",
+      "version": "1.0.0",
+      "description": "A fully customizable, headless media upload library for React & Next.js. Includes image editor, cropper, filters, Unsplash integration and 4 field variants.",
+      "license": "MIT",
+      "repository": "https://github.com/hellokit/media-uploader.moksedul.com",
+      "npmUrl": "https://www.npmjs.com/package/%40hellokit%2Fmedia-uploader",
+      "category": "frontend",
+      "createdAt": "2026-08-03T06:27:44.416Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 93
+    },
+    {
       "name": "@hellomoksedul/media-uploader",
       "version": "1.0.1",
       "description": "A fully customizable, headless media upload library for React & Next.js. Includes image editor, cropper, filters, Unsplash integration and 4 field variants.",
@@ -8870,6 +8930,18 @@
       "score": 98
     },
     {
+      "name": "@jaydeepgadhiya/guarddog",
+      "version": "1.0.0",
+      "description": "Static analysis for Node.js & Express apps. Parses your code and reports injection, auth, async and schema bugs with a security score and an HTML report.",
+      "license": "MIT",
+      "repository": "https://github.com/JaydeepGadhiya/express-guarddog",
+      "npmUrl": "https://www.npmjs.com/package/%40jaydeepgadhiya%2Fguarddog",
+      "category": "backend",
+      "createdAt": "2026-08-03T08:46:09.928Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 93
+    },
+    {
       "name": "@jenfang/ui-agent",
       "version": "0.1.0",
       "description": "Live design-token editing and layout auditing in the browser, with write-back to source and hand-off to a coding agent",
@@ -9204,6 +9276,18 @@
       "createdAt": "2026-07-25T13:41:59.439Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 81
+    },
+    {
+      "name": "@kaos-intelligence/epub-forge",
+      "version": "0.1.1",
+      "description": "EPUB 3.3 production harness — extract MDX/PDF/IDML/INDD manuscripts, assemble conformance-grade EPUBs (reflowable + fixed-layout), self-heal via a reviewer loop, and validate with EPUBCheck. One pipeline. Any source. Beautiful output.",
+      "license": "MIT",
+      "repository": "https://github.com/kaOS-Intelligence/sovereign",
+      "npmUrl": "https://www.npmjs.com/package/%40kaos-intelligence%2Fepub-forge",
+      "category": "data",
+      "createdAt": "2026-08-03T09:08:43.491Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 90
     },
     {
       "name": "@karibsen/eponyme",
@@ -10610,6 +10694,18 @@
       "score": 59
     },
     {
+      "name": "@mnci/oxlint-config",
+      "version": "0.1.1",
+      "description": "The shared oxlint + oxfmt config every mnci-generated monorepo can use — the same lint and style opinion as @mnci/eslint-config, on the Rust toolchain, with the rules oxlint lacks bridged from the real ESLint plugins.",
+      "license": "MIT",
+      "repository": "https://github.com/russoedu/MoNecromanCi",
+      "npmUrl": "https://www.npmjs.com/package/%40mnci%2Foxlint-config",
+      "category": "devops",
+      "createdAt": "2026-08-03T07:34:45.177Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 81
+    },
+    {
       "name": "@mnwamnowich/s3-vfs",
       "version": "1.0.1",
       "description": "Amazon S3 provider for the Node.js virtual file system (node:vfs)",
@@ -11256,6 +11352,18 @@
       "createdAt": "2026-07-30T05:42:36.389Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 70
+    },
+    {
+      "name": "@nilskluewer/pi-auto-permission-gate",
+      "version": "0.3.0",
+      "description": "Confirm or block dangerous bash commands before the Pi coding agent executes them.",
+      "license": "MIT",
+      "repository": "https://github.com/nilskluewer/pi-auto-permission-gate",
+      "npmUrl": "https://www.npmjs.com/package/%40nilskluewer%2Fpi-auto-permission-gate",
+      "category": "utilities",
+      "createdAt": "2026-08-03T09:09:39.297Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 77
     },
     {
       "name": "@nilskluewer/pi-subagent",
@@ -11976,6 +12084,18 @@
       "createdAt": "2026-08-01T02:36:17.349Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 70
+    },
+    {
+      "name": "@parsekit/string-to-number",
+      "version": "1.0.0",
+      "description": "A zero-dependency TypeScript utility for safely converting strings and primitive values to finite numbers",
+      "license": "MIT",
+      "repository": "https://github.com/srikarphanikumar/parsekit-str-to-num",
+      "npmUrl": "https://www.npmjs.com/package/%40parsekit%2Fstring-to-number",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T07:24:26.428Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 76
     },
     {
       "name": "@parthivpandya/agent-fabric",
@@ -14160,6 +14280,18 @@
       "createdAt": "2026-07-27T14:14:55.904Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 85
+    },
+    {
+      "name": "@semics-tech/mongolite",
+      "version": "1.1.0",
+      "description": "A MongoDB-like client using SQLite as a persistent store, written in TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/semics-tech/mongolite",
+      "npmUrl": "https://www.npmjs.com/package/%40semics-tech%2Fmongolite",
+      "category": "data",
+      "createdAt": "2026-08-03T07:38:27.134Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 81
     },
     {
       "name": "@semyonfox/seol",
@@ -17438,6 +17570,54 @@
       "score": 83
     },
     {
+      "name": "@winbeau/beaupi",
+      "version": "1.0.0",
+      "description": "BeauPi terminal coding agent with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/winbeau/beaupi",
+      "npmUrl": "https://www.npmjs.com/package/%40winbeau%2Fbeaupi",
+      "category": "cli",
+      "createdAt": "2026-08-03T09:22:53.339Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 80
+    },
+    {
+      "name": "@winbeau/beaupi-agent-core",
+      "version": "1.0.0",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/winbeau/beaupi",
+      "npmUrl": "https://www.npmjs.com/package/%40winbeau%2Fbeaupi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-03T09:22:07.309Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 79
+    },
+    {
+      "name": "@winbeau/beaupi-ai",
+      "version": "1.0.0",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/winbeau/beaupi",
+      "npmUrl": "https://www.npmjs.com/package/%40winbeau%2Fbeaupi-ai",
+      "category": "backend",
+      "createdAt": "2026-08-03T09:21:57.579Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 83
+    },
+    {
+      "name": "@winbeau/beaupi-tui",
+      "version": "1.0.0",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/winbeau/beaupi",
+      "npmUrl": "https://www.npmjs.com/package/%40winbeau%2Fbeaupi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T09:22:02.022Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 83
+    },
+    {
       "name": "@wireservers/react-natives",
       "version": "2.1.2",
       "description": "A comprehensive React Native component library built with NativeWind and Tailwind Variants",
@@ -18180,6 +18360,18 @@
       "createdAt": "2026-07-30T15:48:05.329Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 79
+    },
+    {
+      "name": "aegis-provenance",
+      "version": "0.1.0",
+      "description": "Provenance-enforcing context proxy for LLM inputs with signed spans, deterministic egress checks, and receipt auditing.",
+      "license": "MIT",
+      "repository": "https://github.com/holeyfield33-art/aegis-provenance",
+      "npmUrl": "https://www.npmjs.com/package/aegis-provenance",
+      "category": "devops",
+      "createdAt": "2026-08-03T08:14:49.032Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 77
     },
     {
       "name": "aes-framework",
@@ -19104,6 +19296,18 @@
       "createdAt": "2026-07-28T11:31:33.901Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 93
+    },
+    {
+      "name": "baffle-ts",
+      "version": "1.0.0",
+      "description": "A tiny dependency-free TypeScript library for obfuscating and revealing DOM text. A modern TypeScript successor to the archived baffle.js.",
+      "license": "MIT",
+      "repository": "https://github.com/andreasnicolaou/baffle-ts",
+      "npmUrl": "https://www.npmjs.com/package/baffle-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-03T08:40:41.112Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 92
     },
     {
       "name": "bai-provider",
@@ -20136,6 +20340,18 @@
       "createdAt": "2026-07-31T18:55:32.383Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 85
+    },
+    {
+      "name": "claude-code-teams",
+      "version": "0.18.1",
+      "description": "A Claude Code plugin (not a library — see README) for a multi-agent feature-delivery pipeline: BA/legacy analysis, prototyping, planning, parallel FE/BE/integrations implementation, QA/security/performance review, PR gate. 60 agents and 239 skills across",
+      "license": "MIT",
+      "repository": "https://github.com/iammuhammadasimofficial/claude-code-teams",
+      "npmUrl": "https://www.npmjs.com/package/claude-code-teams",
+      "category": "frontend",
+      "createdAt": "2026-08-03T07:50:31.489Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 90
     },
     {
       "name": "claude-code-telegram-bot",
@@ -25934,6 +26150,18 @@
       "score": 71
     },
     {
+      "name": "momentium-cli",
+      "version": "0.1.1",
+      "description": "Momentium CLI — manage your projects, tasks, and calendar events from the terminal",
+      "license": "MIT",
+      "repository": "https://github.com/crcatala/momentium-cli",
+      "npmUrl": "https://www.npmjs.com/package/momentium-cli",
+      "category": "cli",
+      "createdAt": "2026-08-03T07:07:19.824Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 78
+    },
+    {
       "name": "moneyhub-sdk",
       "version": "1.0.0",
       "description": "Production-grade TypeScript SDK for the Moneyhub Open Finance API: account aggregation (AIS), payments (PIS), OpenID Connect authentication, and webhook verification.",
@@ -26328,6 +26556,18 @@
       "createdAt": "2026-08-02T23:21:10.047Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 50
+    },
+    {
+      "name": "n8n-nodes-synology-filestation",
+      "version": "1.0.0",
+      "description": "n8n community node for Synology DSM File Station — browse, upload, download, copy, move, rename and delete files, create sharing links, search, compress/extract archives, checksums, thumbnails and more",
+      "license": "MIT",
+      "repository": "https://github.com/BenNotix/n8n-nodes-synology-filestation",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-synology-filestation",
+      "category": "utilities",
+      "createdAt": "2026-08-03T08:30:39.393Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 84
     },
     {
       "name": "n8n-nodes-whatsapp-advanced",
@@ -26952,6 +27192,18 @@
       "createdAt": "2026-07-29T20:58:44.203Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 62
+    },
+    {
+      "name": "omp-smart-approve",
+      "version": "0.1.1",
+      "description": "An LLM safety judge in front of tool calls OMP would otherwise auto-approve. Hard-blocks clear attacks and clear mistakes, escalates genuine uncertainty to a human.",
+      "license": "MIT",
+      "repository": "https://github.com/andrew-nguyen/omp-smart-approve",
+      "npmUrl": "https://www.npmjs.com/package/omp-smart-approve",
+      "category": "utilities",
+      "createdAt": "2026-08-03T05:39:15.658Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 80
     },
     {
       "name": "onchain-forensics",
@@ -28850,6 +29102,18 @@
       "score": 93
     },
     {
+      "name": "rapidoddsapi",
+      "version": "0.1.0",
+      "description": "Official Node.js SDK for RapidOddsAPI: bookmaker odds, live scores and player stats over REST and WebSocket.",
+      "license": "MIT",
+      "repository": "https://github.com/rapidoddsapi/rapidoddsapi-node",
+      "npmUrl": "https://www.npmjs.com/package/rapidoddsapi",
+      "category": "backend",
+      "createdAt": "2026-08-03T07:16:13.216Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 78
+    },
+    {
       "name": "rate-forge",
       "version": "1.0.3",
       "description": "Framework-agnostic rate limiter for Node.js supporting multiple algorithms and storage backends including Memory, Redis, MongoDB, and PostgreSQL.",
@@ -29124,6 +29388,18 @@
       "createdAt": "2026-07-28T17:13:57.664Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 71
+    },
+    {
+      "name": "react-native-network-debug",
+      "version": "1.2.0",
+      "description": "An in-app HTTP traffic inspector for React Native — zero dependencies, redesigned UI, RN 0.81+",
+      "license": "MIT",
+      "repository": "https://github.com/tranhuuthinhit/react-native-network-debug",
+      "npmUrl": "https://www.npmjs.com/package/react-native-network-debug",
+      "category": "frontend",
+      "createdAt": "2026-08-03T08:56:18.749Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 89
     },
     {
       "name": "react-native-niimbot",
@@ -32402,6 +32678,18 @@
       "score": 96
     },
     {
+      "name": "uxml-preview",
+      "version": "0.1.0",
+      "description": "Preview Unity UI Toolkit UXML/USS in a browser without the Unity Editor. Uses Yoga (WebAssembly), the same layout engine UI Toolkit uses: 242 of 244 element coordinates identical to Unity 6. Parses and writes files back byte-for-byte.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ReuHomi/uxml-preview",
+      "npmUrl": "https://www.npmjs.com/package/uxml-preview",
+      "category": "frontend",
+      "createdAt": "2026-08-03T07:57:59.858Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 90
+    },
+    {
       "name": "valida-cnpj-alfanumerico",
       "version": "1.0.0",
       "description": "Validação, formatação e geração de CNPJ alfanumérico (e numérico) conforme a IN RFB nº 2.229/2024 — algoritmo oficial da Receita Federal, zero dependências, funciona em Node.js e navegador.",
@@ -32748,6 +33036,18 @@
       "createdAt": "2026-07-30T04:29:17.707Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 70
+    },
+    {
+      "name": "vue-agent-timeline",
+      "version": "0.1.0",
+      "description": "Vue 3 timeline component for streaming AI Agent events (routing / thinking / tool_use / tool_result / text / usage). Battle-tested at production risk-control scale.",
+      "license": "MIT",
+      "repository": "https://github.com/JasonYuuuuu/vue-agent-timeline",
+      "npmUrl": "https://www.npmjs.com/package/vue-agent-timeline",
+      "category": "testing",
+      "createdAt": "2026-08-03T07:35:42.892Z",
+      "discoveredAt": "2026-08-03T09:27:32.902Z",
+      "score": 80
     },
     {
       "name": "vue-asset-map",

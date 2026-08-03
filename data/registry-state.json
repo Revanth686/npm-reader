@@ -1,11 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122928751,
-  "lastRunAt": "2026-08-03T05:50:48.787Z",
+  "lastSequence": 122961473,
+  "lastRunAt": "2026-08-03T09:27:32.902Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@thesteau/artleta-canvas",
+      "name": "@jabdori/maxt-linux-arm64-gnu",
+      "attempts": 1
+    },
+    {
+      "name": "@jabdori/maxt-darwin-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@jabdori/maxt-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@jabdori/maxt-win32-x64-msvc",
+      "attempts": 1
+    },
+    {
+      "name": "@jabdori/maxt",
+      "attempts": 1
+    },
+    {
+      "name": "@pharmaquant-sheets/engine-render",
+      "attempts": 1
+    },
+    {
+      "name": "@pharmaquant-sheets/sheets-data-validation",
+      "attempts": 1
+    },
+    {
+      "name": "@oiyo-example/wot-starter",
       "attempts": 1
     }
   ]
