@@ -974,6 +974,18 @@
       "score": 77
     },
     {
+      "name": "@alexar76/awr-verify",
+      "version": "2.0.0",
+      "description": "Verify an AWR/2 work receipt in Node or the browser with zero dependencies — W3C Verifiable Credential, eddsa-jcs-2022 over RFC 8785, did:key. One of three implementations passing the AWR/2 conformance suite.",
+      "license": "MIT",
+      "repository": "https://github.com/alexar76/aicom",
+      "npmUrl": "https://www.npmjs.com/package/%40alexar76%2Fawr-verify",
+      "category": "frontend",
+      "createdAt": "2026-08-03T19:52:35.690Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 73
+    },
+    {
       "name": "@alexify/migronaut",
       "version": "1.0.0",
       "description": "Elegant, fast, fully-typed, zero-dependency MongoDB migrations for Node.js",
@@ -2820,6 +2832,18 @@
       "createdAt": "2026-08-02T12:55:51.523Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 93
+    },
+    {
+      "name": "@bymax-one/nest-storage",
+      "version": "1.0.0",
+      "description": "Provider-agnostic S3-compatible object storage for NestJS. Works with AWS S3, DigitalOcean Spaces, Cloudflare R2, Backblaze B2, MinIO, Wasabi.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-storage",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-storage",
+      "category": "backend",
+      "createdAt": "2026-08-03T20:49:11.851Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 94
     },
     {
       "name": "@bysking/vv-switch",
@@ -8858,6 +8882,18 @@
       "score": 71
     },
     {
+      "name": "@infloapp/share-sdk",
+      "version": "1.0.0",
+      "description": "Inflo Component Leasing Platform SDK for sharing components",
+      "license": "MIT",
+      "repository": "https://github.com/inflo/share-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40infloapp%2Fshare-sdk",
+      "category": "data",
+      "createdAt": "2026-08-03T20:12:08.884Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 73
+    },
+    {
       "name": "@inis-run/ai-sdk",
       "version": "0.1.0",
       "description": "Vercel AI SDK tools for inis.run sandboxes",
@@ -8976,6 +9012,18 @@
       "createdAt": "2026-08-01T08:26:46.138Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 61
+    },
+    {
+      "name": "@isudev/gutenberg",
+      "version": "0.1.0",
+      "description": "Standalone components, controls, fields and hooks for the WordPress Gutenberg editor.",
+      "license": "MIT",
+      "repository": "https://github.com/IsuDevelopment/gutenberg-components",
+      "npmUrl": "https://www.npmjs.com/package/%40isudev%2Fgutenberg",
+      "category": "frontend",
+      "createdAt": "2026-08-03T19:23:03.127Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 74
     },
     {
       "name": "@itc-steve/pi-herdr",
@@ -9492,6 +9540,18 @@
       "createdAt": "2026-07-25T13:41:59.439Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 81
+    },
+    {
+      "name": "@kamilmielnik/gaddag",
+      "version": "1.0.0",
+      "description": "GADDAG data structure implementation in TypeScript. Highly performant. No dependencies. Built for a Scrabble Solver.",
+      "license": "MIT",
+      "repository": "https://github.com/kamilmielnik/gaddag",
+      "npmUrl": "https://www.npmjs.com/package/%40kamilmielnik%2Fgaddag",
+      "category": "data",
+      "createdAt": "2026-08-03T19:18:40.687Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 91
     },
     {
       "name": "@kaos-intelligence/epub-forge",
@@ -10262,6 +10322,18 @@
       "score": 82
     },
     {
+      "name": "@makashif/particles",
+      "version": "1.0.0",
+      "description": "Cinematic particle text & logo engine for any website — one drop-in component for React, Vue, Svelte, Angular, Astro or plain HTML, with a live tuning GUI, 10 presets and transparent-canvas support.",
+      "license": "MIT",
+      "repository": "https://github.com/makashif/particles",
+      "npmUrl": "https://www.npmjs.com/package/%40makashif%2Fparticles",
+      "category": "frontend",
+      "createdAt": "2026-08-03T20:31:05.357Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 99
+    },
+    {
       "name": "@makecrypto/medusa-plugin-digital-downloads",
       "version": "0.3.1",
       "description": "Native-feeling digital products, protected downloads, streaming, entitlements, and software licenses for Medusa v2.",
@@ -10896,6 +10968,30 @@
       "createdAt": "2026-07-26T07:18:28.215Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 70
+    },
+    {
+      "name": "@miyamo2/astro-algolia-index",
+      "version": "0.1.0",
+      "description": "Astro integration that pushes your build's records to an Algolia index, with an atomic replace-all reindex and a build-time record sink",
+      "license": "MIT",
+      "repository": "https://github.com/miyamo2/astro-algolia-index",
+      "npmUrl": "https://www.npmjs.com/package/%40miyamo2%2Fastro-algolia-index",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T19:54:11.878Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 77
+    },
+    {
+      "name": "@miyamo2/astro-image-placeholder",
+      "version": "0.1.0",
+      "description": "Blur/LQIP placeholders for Astro images, as an Image Service and a remark visitor",
+      "license": "MIT",
+      "repository": "https://github.com/miyamo2/astro-image-placeholder",
+      "npmUrl": "https://www.npmjs.com/package/%40miyamo2%2Fastro-image-placeholder",
+      "category": "utilities",
+      "createdAt": "2026-08-03T19:59:20.016Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 74
     },
     {
       "name": "@miyamo2/astro-recommend-article",
@@ -14870,6 +14966,18 @@
       "score": 88
     },
     {
+      "name": "@shikhar4uu/chai-sdk",
+      "version": "0.1.0",
+      "description": "Brew your own AI agents. A dependency-free TypeScript agent SDK: one loop, real tools, handoffs, guardrails, memory, structured output, streaming and tracing.",
+      "license": "MIT",
+      "repository": "https://github.com/shikhar4uu/chai-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40shikhar4uu%2Fchai-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T19:33:27.587Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 85
+    },
+    {
       "name": "@shinyaigeek/lumen",
       "version": "0.1.0",
       "description": "A local web canvas that lets a coding agent describe rich UI (OpenUI Lang) and see it rendered live on localhost. Ships an MCP server + CLI.",
@@ -16572,6 +16680,18 @@
       "createdAt": "2026-07-27T10:39:16.435Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 80
+    },
+    {
+      "name": "@the-efficacious/brand",
+      "version": "0.2.0",
+      "description": "Efficacious brand system — design tokens, theme CSS, UnoCSS preset, and logo artwork for Efficacious, CommandSuite, and TurnDB.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/the-efficacious/brand",
+      "npmUrl": "https://www.npmjs.com/package/%40the-efficacious%2Fbrand",
+      "category": "frontend",
+      "createdAt": "2026-08-03T20:22:27.000Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 74
     },
     {
       "name": "@the-rfp-hub/standard",
@@ -19838,6 +19958,18 @@
       "score": 60
     },
     {
+      "name": "audiobox",
+      "version": "1.0.0",
+      "description": "Zero-dependency audio toolkit for TypeScript and JavaScript. Decode, convert, cut, resample, normalize and encode audio — MP3, WAV, FLAC, AIFF, CAF, AU — in the browser, Node, Deno, Bun and edge runtimes.",
+      "license": "MIT",
+      "repository": "https://github.com/jmsansan/audiobox",
+      "npmUrl": "https://www.npmjs.com/package/audiobox",
+      "category": "frontend",
+      "createdAt": "2026-08-03T19:22:23.708Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 100
+    },
+    {
       "name": "audittest-vision",
       "version": "1.0.1",
       "description": "CLI que automatiza auditoria de accesibilidad (WCAG 2.1) y deteccion de errores visuales de layout en paginas web",
@@ -22574,6 +22706,18 @@
       "score": 70
     },
     {
+      "name": "doctofam",
+      "version": "1.0.0",
+      "description": "DoctoFam CLI — manage the patients, appointments, invoices and payments of your clinic from the terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/doctofam/cli",
+      "npmUrl": "https://www.npmjs.com/package/doctofam",
+      "category": "cli",
+      "createdAt": "2026-08-03T20:01:36.619Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 82
+    },
+    {
       "name": "docujoint",
       "version": "0.1.0",
       "description": "Deterministic documentation-format engine: you declare the format (an OKF profile), it parses your markdown into a joinable IR — findings, dashboards, and a graph projection",
@@ -22596,6 +22740,18 @@
       "createdAt": "2026-08-02T04:38:51.738Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 96
+    },
+    {
+      "name": "dododentist",
+      "version": "1.0.0",
+      "description": "DodoDentist CLI — manage the patients, appointments, treatments, invoices and payments of your dental clinic from the terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dododentist/cli",
+      "npmUrl": "https://www.npmjs.com/package/dododentist",
+      "category": "cli",
+      "createdAt": "2026-08-03T20:01:22.055Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 77
     },
     {
       "name": "doing-leetcode",
@@ -23340,6 +23496,18 @@
       "createdAt": "2026-07-31T10:18:00.928Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 75
+    },
+    {
+      "name": "express-ogc-api",
+      "version": "1.0.0",
+      "description": "Modern Express.js middleware for OGC API standards",
+      "license": "MIT",
+      "repository": "https://github.com/am2222/express-ogc-api",
+      "npmUrl": "https://www.npmjs.com/package/express-ogc-api",
+      "category": "backend",
+      "createdAt": "2026-08-03T20:33:58.166Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 77
     },
     {
       "name": "express-rate-limit-redis-sliding",
@@ -24098,6 +24266,18 @@
       "score": 65
     },
     {
+      "name": "gh-glance",
+      "version": "0.3.0",
+      "description": "A live-refreshing GitHub dashboard for your terminal: Actions, Issues, Pull Requests, and Security alerts in one narrow pane",
+      "license": "MIT",
+      "repository": "https://github.com/juan294/gh-glance",
+      "npmUrl": "https://www.npmjs.com/package/gh-glance",
+      "category": "cli",
+      "createdAt": "2026-08-03T19:50:12.218Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 78
+    },
+    {
       "name": "ghost-social-client",
       "version": "1.0.0",
       "description": "Ghost Social Layer — SDK client for the first cryptographic social network for AI agents. Connect Claude, Gemini, GPT, ElizaOS, or any autonomous agent. Every post Ed25519-signed, every identity verifiable.",
@@ -24396,6 +24576,18 @@
       "createdAt": "2026-08-02T09:26:57.140Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 72
+    },
+    {
+      "name": "gymflexa",
+      "version": "1.0.0",
+      "description": "GymFlexa CLI — manage the gyms, members, services, appointments and payments of your gym from the terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/gymflexa/cli",
+      "npmUrl": "https://www.npmjs.com/package/gymflexa",
+      "category": "cli",
+      "createdAt": "2026-08-03T20:01:49.451Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 80
     },
     {
       "name": "gymrat",
@@ -24854,6 +25046,18 @@
       "score": 66
     },
     {
+      "name": "hotelumo",
+      "version": "1.0.0",
+      "description": "Hotelumo CLI — manage the reservations, guests, rooms and rates of your hotels from the terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hotelumo/cli",
+      "npmUrl": "https://www.npmjs.com/package/hotelumo",
+      "category": "cli",
+      "createdAt": "2026-08-03T20:02:17.001Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 83
+    },
+    {
       "name": "hqflow",
       "version": "0.2.0",
       "description": "Local-first workflow mapping for coding agents, rendered as an interactive canvas.",
@@ -25154,6 +25358,18 @@
       "score": 81
     },
     {
+      "name": "invoicevista",
+      "version": "1.0.0",
+      "description": "InvoiceVista CLI — manage invoices, quotes, customers, products and payments from the terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/invoicevista/cli",
+      "npmUrl": "https://www.npmjs.com/package/invoicevista",
+      "category": "cli",
+      "createdAt": "2026-08-03T20:02:30.853Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 81
+    },
+    {
       "name": "iobroker-sync",
       "version": "1.0.0",
       "description": "CLI to sync ioBroker JavaScript/TypeScript scripts with a local folder",
@@ -25236,6 +25452,18 @@
       "createdAt": "2026-07-29T18:01:51.287Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 71
+    },
+    {
+      "name": "iso-building-generator",
+      "version": "1.0.0",
+      "description": "Seeded procedural generator for detailed isometric SVG buildings, with a CSS motion layer. Zero dependencies, no build step.",
+      "license": "MIT",
+      "repository": "https://github.com/N3R01N/iso-building-generator",
+      "npmUrl": "https://www.npmjs.com/package/iso-building-generator",
+      "category": "frontend",
+      "createdAt": "2026-08-03T20:05:45.953Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 92
     },
     {
       "name": "ispf-core",
@@ -25380,6 +25608,18 @@
       "createdAt": "2026-07-29T21:24:27.438Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 80
+    },
+    {
+      "name": "jquery.coverflow",
+      "version": "1.3.5",
+      "description": "A jQuery-based Coverflow component with optional mousewheel, CSS3 interpolation, transformations, touch swipe, reflections and more.",
+      "license": "MIT",
+      "repository": "https://github.com/vanderlee/coverflow",
+      "npmUrl": "https://www.npmjs.com/package/jquery.coverflow",
+      "category": "frontend",
+      "createdAt": "2026-08-03T20:07:27.440Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 82
     },
     {
       "name": "jsafa-pdf",
@@ -25910,6 +26150,18 @@
       "score": 71
     },
     {
+      "name": "link-to-screenshot",
+      "version": "2.0.1",
+      "description": "An npm package and CLI to capture website screenshots, HTML renders, and PDFs from any link or URL",
+      "license": "MIT",
+      "repository": "https://github.com/sea-deep/link-to-screenshot",
+      "npmUrl": "https://www.npmjs.com/package/link-to-screenshot",
+      "category": "cli",
+      "createdAt": "2026-08-03T19:19:51.969Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 76
+    },
+    {
       "name": "linkdirecte",
       "version": "1.0.0",
       "description": "Your first-rate SDK for working with EcoleDirecte data.",
@@ -26100,6 +26352,18 @@
       "createdAt": "2026-07-29T12:32:56.643Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 79
+    },
+    {
+      "name": "local-model-workers-mcp",
+      "version": "2.0.0",
+      "description": "Local Model Workers MCP server for bounded repository exploration, code graph queries, type/lint fixes, and test proposals delegated to local LLMs (LM Studio, Ollama, vLLM, LocalAI).",
+      "license": "MIT",
+      "repository": "https://github.com/gaabrielrd/local-model-workers-mcp",
+      "npmUrl": "https://www.npmjs.com/package/local-model-workers-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-03T20:09:53.834Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 98
     },
     {
       "name": "localarena",
@@ -26460,6 +26724,18 @@
       "createdAt": "2026-07-25T14:37:03.719Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 66
+    },
+    {
+      "name": "marvin-kb",
+      "version": "1.0.0",
+      "description": "Scaffolds a project's knowledge base for working with AI agents — one source, thin adapters, memory versioned inside the repository.",
+      "license": "MIT",
+      "repository": "https://github.com/Josuebmota/Marvin",
+      "npmUrl": "https://www.npmjs.com/package/marvin-kb",
+      "category": "utilities",
+      "createdAt": "2026-08-03T20:28:41.931Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 91
     },
     {
       "name": "marvin-mcp",
@@ -33998,6 +34274,18 @@
       "score": 73
     },
     {
+      "name": "veterical",
+      "version": "1.0.0",
+      "description": "Veterical CLI — manage the clients, patients, appointments, invoices, payments and vaccinations of your veterinary clinic from the terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/veterical/cli",
+      "npmUrl": "https://www.npmjs.com/package/veterical",
+      "category": "cli",
+      "createdAt": "2026-08-03T20:02:45.220Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 85
+    },
+    {
       "name": "veyra-sdk-react-native",
       "version": "1.0.6",
       "description": "Official React Native SDK for Veyra contactless payments — SoftPOS merchant acceptance and wallet tap/QR payments.",
@@ -34884,6 +35172,18 @@
       "createdAt": "2026-08-02T01:48:40.426Z",
       "discoveredAt": "2026-08-02T01:59:35.775Z",
       "score": 66
+    },
+    {
+      "name": "x402-verify",
+      "version": "1.0.0",
+      "description": "Zero-dependency verifier for x402 Signed Offers & Receipts: JWS (EdDSA/Ed25519), did:web resolution, schema conformance, and externally anchored key history. Works on any issuer's artifacts.",
+      "license": "MIT",
+      "repository": "https://github.com/seancrecord/scvd-general-store-repo",
+      "npmUrl": "https://www.npmjs.com/package/x402-verify",
+      "category": "data",
+      "createdAt": "2026-08-03T20:12:11.675Z",
+      "discoveredAt": "2026-08-03T20:56:43.208Z",
+      "score": 97
     },
     {
       "name": "xchain-mcp",

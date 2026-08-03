@@ -1,52 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123064417,
-  "lastRunAt": "2026-08-03T19:21:31.086Z",
+  "lastSequence": 123077631,
+  "lastRunAt": "2026-08-03T20:56:43.208Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@pharmaquant-sheets/engine-render",
-      "attempts": 5
+      "attempts": 6
     },
     {
       "name": "@pharmaquant-sheets/sheets-data-validation",
-      "attempts": 5
-    },
-    {
-      "name": "@kamilmielnik/gaddag",
-      "attempts": 1
-    },
-    {
-      "name": "@dudousxd/nestjs-catalog-store-clickhouse",
-      "attempts": 1
-    },
-    {
-      "name": "@dudousxd/nestjs-catalog-telescope",
-      "attempts": 1
-    },
-    {
-      "name": "@dudousxd/nestjs-catalog-store-fanout",
-      "attempts": 1
-    },
-    {
-      "name": "@dudousxd/nestjs-catalog-react",
-      "attempts": 1
-    },
-    {
-      "name": "@dudousxd/nestjs-catalog-store-mikro-orm",
-      "attempts": 1
-    },
-    {
-      "name": "@dudousxd/nestjs-catalog",
-      "attempts": 1
-    },
-    {
-      "name": "@8monkey/pi-media",
-      "attempts": 1
-    },
-    {
-      "name": "@vruum/mcp",
-      "attempts": 1
+      "attempts": 6
     }
   ]
 }
