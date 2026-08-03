@@ -1,39 +1,59 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123030322,
-  "lastRunAt": "2026-08-03T15:32:57.343Z",
+  "lastSequence": 123051104,
+  "lastRunAt": "2026-08-03T17:44:53.720Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@pharmaquant-sheets/engine-render",
-      "attempts": 3
+      "attempts": 4
     },
     {
       "name": "@pharmaquant-sheets/sheets-data-validation",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@aburi/effects-drizzle",
+      "name": "@ownfold/drizzle",
       "attempts": 1
     },
     {
-      "name": "@vnejs/module.controller.tabs",
+      "name": "@ownfold/sqlite",
       "attempts": 1
     },
     {
-      "name": "@voicelabs/sdk",
+      "name": "@chichex/ideas",
       "attempts": 1
     },
     {
-      "name": "@kybernesis/arcana",
+      "name": "@extrimian/kms",
       "attempts": 1
     },
     {
-      "name": "@authowl/expo",
+      "name": "@ownfold/node",
       "attempts": 1
     },
     {
-      "name": "@cues/sawdust-react",
+      "name": "@ownfold/react",
+      "attempts": 1
+    },
+    {
+      "name": "@ownfold/hono",
+      "attempts": 1
+    },
+    {
+      "name": "@ownfold/next",
+      "attempts": 1
+    },
+    {
+      "name": "@almanzor/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@ownfold/tanstack-start",
+      "attempts": 1
+    },
+    {
+      "name": "@x12i/api-playground",
       "attempts": 1
     }
   ]

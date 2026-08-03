@@ -782,6 +782,18 @@
       "score": 59
     },
     {
+      "name": "@ai-zen/socket-pty",
+      "version": "0.1.0",
+      "description": "Lightweight PTY transport exposed over a socket — anyone can connect and read/write a managed terminal process. Cross-platform (Windows ConPTY via node-pty).",
+      "license": "MIT",
+      "repository": "https://github.com/ai-zen/socket-pty",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-zen%2Fsocket-pty",
+      "category": "data",
+      "createdAt": "2026-08-03T16:21:07.966Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 75
+    },
+    {
       "name": "@aicoo/local-agent",
       "version": "0.1.1",
       "description": "Open agent-to-agent messaging protocol, local runtime bridge, and reference control plane for reaching a live local coding agent (Claude Code / Codex) safely.",
@@ -1056,6 +1068,18 @@
       "createdAt": "2026-07-31T13:03:46.564Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 70
+    },
+    {
+      "name": "@altrsoftware/shield",
+      "version": "0.0.2",
+      "description": "ALTR Shield Node.js SDK — protect and restore sensitive data via the Shield data plane, with an XML token envelope and streaming detokenization.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/altrsoftware/shield-sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40altrsoftware%2Fshield",
+      "category": "data",
+      "createdAt": "2026-08-03T16:53:50.679Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 84
     },
     {
       "name": "@alvinahmad/blueprin-sdk",
@@ -3386,6 +3410,18 @@
       "score": 74
     },
     {
+      "name": "@codryx/agent-dev-pipeline",
+      "version": "0.4.0",
+      "description": "Spec-anchored development with six mechanical gates: SCOPE, PRD, RFC, TDD, code, proof. Proof comes from running your tests, not from a claim. The verdict is an exit code. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Codryx-Tec/agent-dev-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/%40codryx%2Fagent-dev-pipeline",
+      "category": "testing",
+      "createdAt": "2026-08-03T17:07:44.386Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 87
+    },
+    {
       "name": "@cogs/config",
       "version": "0.4.0",
       "description": "Framework-agnostic layered-dotenv loader — resolves the canonical .env file chain, expands ${VAR} references, and folds values into process.env with deploy-injected variables staying authoritative. Dual ESM+CJS so it works from an ESM --import preload or",
@@ -4466,6 +4502,18 @@
       "score": 81
     },
     {
+      "name": "@djeventplannerhub/djep-sdk",
+      "version": "1.1.1",
+      "description": "Official Node.js SDK for the DJ Event Planner (DJEP) REST API",
+      "license": "MIT",
+      "repository": "https://github.com/djeventplannerhub/djep-node-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40djeventplannerhub%2Fdjep-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-03T17:05:26.606Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 74
+    },
+    {
       "name": "@dloizides/ui-motion",
       "version": "1.0.1",
       "description": "Themable, brand-agnostic React Native (RN-web) motion primitives — useEnterExit, FadeIn, Collapse, PressableScale, Skeleton — built on RN Animated, driven by @dloizides/design-tokens motion tokens, and gated on @dloizides/rn-web-hooks useReducedMotion (ev",
@@ -5064,6 +5112,18 @@
       "createdAt": "2026-08-03T13:54:17.482Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 83
+    },
+    {
+      "name": "@edmingle/web-video-sdk",
+      "version": "0.1.4",
+      "description": "Web SDK to fetch Edmingle teaching materials and play their videos in an embedded player, with resume, dynamic watermarking, DRM support and progress reporting. Framework-agnostic core plus a React/Next.js adapter.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Edmingle/edmingle-web-player-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40edmingle%2Fweb-video-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-03T16:52:42.406Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 86
     },
     {
       "name": "@edraj/sauron-browser",
@@ -10670,6 +10730,18 @@
       "score": 66
     },
     {
+      "name": "@migiht/claude-code-polyglot",
+      "version": "0.1.0",
+      "description": "Work with Claude Code in your native language: a local proxy translates your prompts for the model and its replies for you, fully offline. Code, paths, and tool calls are never touched.",
+      "license": "MIT",
+      "repository": "https://github.com/Migiht/claude-code-polyglot",
+      "npmUrl": "https://www.npmjs.com/package/%40migiht%2Fclaude-code-polyglot",
+      "category": "utilities",
+      "createdAt": "2026-08-03T17:35:47.002Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 73
+    },
+    {
       "name": "@mikiguillamon/n8n-nodes-bark",
       "version": "0.1.0",
       "description": "n8n community node for Bark push notifications with guided operations and custom API requests.",
@@ -10692,6 +10764,18 @@
       "createdAt": "2026-07-31T08:22:59.424Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 72
+    },
+    {
+      "name": "@mindraseugen/utility-kit",
+      "version": "1.0.0",
+      "description": "A lightweight JavaScript utility library for modern web development. Includes DOM manipulation, math operations, array utilities, string helpers, and general purpose functions.",
+      "license": "MIT",
+      "repository": "https://github.com/MindrasEugen/utility-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40mindraseugen%2Futility-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-03T17:20:58.357Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 75
     },
     {
       "name": "@mingcute/icons",
@@ -12434,6 +12518,18 @@
       "score": 68
     },
     {
+      "name": "@pharmatools/groundwork",
+      "version": "0.2.0",
+      "description": "Groundwork — a deployment-readiness harness for document-QA AI systems. Scaffolds redaction, grounding evals, a CI regression gate, and a guided playbook into your repo, so a small team can take a prototype to safe production.",
+      "license": "MIT",
+      "repository": "https://github.com/nickjlamb/groundwork",
+      "npmUrl": "https://www.npmjs.com/package/%40pharmatools%2Fgroundwork",
+      "category": "devops",
+      "createdAt": "2026-08-03T16:10:14.563Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 69
+    },
+    {
       "name": "@phibrowser/cli",
       "version": "0.1.0",
       "description": "Command-line browser automation for Phi Browser — drives agent Spaces over CDP, playwright-cli style",
@@ -12708,6 +12804,18 @@
       "createdAt": "2026-08-02T04:52:48.429Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 75
+    },
+    {
+      "name": "@polymind-inc/agent-framework-a2a",
+      "version": "0.1.1",
+      "description": "Agent2Agent (A2A) protocol client for the Agent Framework: use a remote A2A agent as an agent.",
+      "license": "MIT",
+      "repository": "https://github.com/polymind-inc/agent-framework-js",
+      "npmUrl": "https://www.npmjs.com/package/%40polymind-inc%2Fagent-framework-a2a",
+      "category": "cli",
+      "createdAt": "2026-08-03T17:04:31.510Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 68
     },
     {
       "name": "@pontalabs/baileys-yue",
@@ -13248,6 +13356,18 @@
       "createdAt": "2026-08-02T15:26:09.763Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 83
+    },
+    {
+      "name": "@rapid-rn/create",
+      "version": "0.1.1",
+      "description": "⚡ Create production-ready React Native + Expo apps in seconds. Interactive CLI that scaffolds Auth, Navigation, Theme System, Storage, Bottom Sheet and more — fully wired and typed.",
+      "license": "MIT",
+      "repository": "https://github.com/narasimha2615/rapid-rn",
+      "npmUrl": "https://www.npmjs.com/package/%40rapid-rn%2Fcreate",
+      "category": "frontend",
+      "createdAt": "2026-07-29T07:16:24.425Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 77
     },
     {
       "name": "@ratel-ai/cloud-sdk",
@@ -14150,6 +14270,18 @@
       "score": 63
     },
     {
+      "name": "@sahilkhatiwada/mock-data-generator",
+      "version": "1.0.2",
+      "description": "Generate realistic mock data without external dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/sahilkhatiwada/mock-data-generator",
+      "npmUrl": "https://www.npmjs.com/package/%40sahilkhatiwada%2Fmock-data-generator",
+      "category": "testing",
+      "createdAt": "2026-08-03T17:36:01.030Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 76
+    },
+    {
       "name": "@salatech/auth-toolkit",
       "version": "0.1.0",
       "description": "Unified OTP, deep-link, and biometric auth toolkit for React Native and Expo apps",
@@ -14390,6 +14522,18 @@
       "score": 69
     },
     {
+      "name": "@sealed-api-gateway/console",
+      "version": "0.1.0",
+      "description": "A password-gated, Network-tab-style console for reading the traffic @sealed-api-gateway/core seals.",
+      "license": "MIT",
+      "repository": "https://github.com/JAINEELPATEL/sealed-api-gateway-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40sealed-api-gateway%2Fconsole",
+      "category": "backend",
+      "createdAt": "2026-08-03T17:28:02.147Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 71
+    },
+    {
       "name": "@seatlayer/server",
       "version": "0.1.0",
       "description": "Official Node.js server SDK for the SeatLayer reserved-seating API. Secret-key only — never ship this to a browser.",
@@ -14460,6 +14604,18 @@
       "createdAt": "2026-07-25T22:06:14.876Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 65
+    },
+    {
+      "name": "@senad-d/drawme",
+      "version": "0.1.0",
+      "description": "Pi extension: turn natural-language descriptions into .drawio diagrams and export to PNG/SVG/PDF/JPG via the draw.io desktop CLI. Local-only, no network.",
+      "license": "MIT",
+      "repository": "https://github.com/senad-d/DrawMe",
+      "npmUrl": "https://www.npmjs.com/package/%40senad-d%2Fdrawme",
+      "category": "cli",
+      "createdAt": "2026-08-03T15:43:43.871Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 85
     },
     {
       "name": "@send-broadcast/sdk",
@@ -15492,6 +15648,18 @@
       "createdAt": "2026-07-28T00:24:58.360Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 89
+    },
+    {
+      "name": "@specport/specport",
+      "version": "0.1.0",
+      "description": "Deterministic final-tree review coverage and contract scaffolding for AI-assisted code changes",
+      "license": "MIT",
+      "repository": "https://github.com/stancsz/specport",
+      "npmUrl": "https://www.npmjs.com/package/%40specport%2Fspecport",
+      "category": "utilities",
+      "createdAt": "2026-08-03T17:36:04.263Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 71
     },
     {
       "name": "@spinajs/orm-cli",
@@ -17570,6 +17738,18 @@
       "score": 82
     },
     {
+      "name": "@voicelabs/sdk",
+      "version": "0.1.0",
+      "description": "Official TypeScript SDK for the VoiceLabs API — text-to-speech and transcription over HTTP.",
+      "license": "MIT",
+      "repository": "https://github.com/DevinoSolutions/voicelabs",
+      "npmUrl": "https://www.npmjs.com/package/%40voicelabs%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-03T15:29:54.986Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 68
+    },
+    {
       "name": "@voluma/three-transform-gizmo",
       "version": "0.2.0",
       "description": "Custom three.js transform gizmo with per-axis/per-plane extrude scaling, angle-sector rotation and themeable styling. Near drop-in replacement for TransformControls.",
@@ -18084,6 +18264,18 @@
       "createdAt": "2026-08-02T10:25:10.848Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 77
+    },
+    {
+      "name": "@youkale/pi-hermes-memory",
+      "version": "0.7.15",
+      "description": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 368 tests. Ported from Hermes agent.",
+      "license": "MIT",
+      "repository": "https://github.com/youkale/pi-hermes-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40youkale%2Fpi-hermes-memory",
+      "category": "testing",
+      "createdAt": "2026-08-03T16:54:47.764Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 90
     },
     {
       "name": "@yourlivingroom/cardcatalog",
@@ -18770,6 +18962,18 @@
       "score": 100
     },
     {
+      "name": "agent-session-router",
+      "version": "0.1.0",
+      "description": "Agent-agnostic webhook router that pushes external events into running AI coding CLI sessions (Claude Code, Codex).",
+      "license": "MIT",
+      "repository": "https://github.com/Anish98821/agent-session-router",
+      "npmUrl": "https://www.npmjs.com/package/agent-session-router",
+      "category": "cli",
+      "createdAt": "2026-08-03T16:55:35.711Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 77
+    },
+    {
       "name": "agent-simple-english",
       "version": "0.1.0",
       "description": "ASD-STE100 Simplified Technical English lint engine, CLI, and host adapters",
@@ -18804,6 +19008,18 @@
       "createdAt": "2026-08-01T17:52:23.518Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 68
+    },
+    {
+      "name": "agentconfiging",
+      "version": "0.1.0",
+      "description": "Local control center for AI agent configuration. `npx agentconfiging` opens a web UI over the agent setup in your repo.",
+      "license": "MIT",
+      "repository": "https://github.com/junoddev/agentconfiging",
+      "npmUrl": "https://www.npmjs.com/package/agentconfiging",
+      "category": "utilities",
+      "createdAt": "2026-08-03T17:38:57.847Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 75
     },
     {
       "name": "agentdyno",
@@ -20618,6 +20834,18 @@
       "score": 83
     },
     {
+      "name": "cituna-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Cituna: daily AI-visibility tracking (per-engine citations, positions, and the answer receipts), audits, gaps, and live Google Search Console data, for Claude and other MCP clients.",
+      "license": "MIT",
+      "repository": "https://github.com/cituna/cituna-mcp",
+      "npmUrl": "https://www.npmjs.com/package/cituna-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-03T17:43:27.609Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 95
+    },
+    {
       "name": "civic-data-adapters",
       "version": "0.2.0",
       "description": "TypeScript adapters for municipal and civic government data: Legistar, Socrata, USASpending, ProPublica Nonprofit Explorer, CrimeWatch, HTML/PDF police blotters, and meeting minutes, behind one pluggable registry with robots.txt compliance and bring-your-",
@@ -21206,6 +21434,18 @@
       "score": 65
     },
     {
+      "name": "compendium-mcp",
+      "version": "0.1.1",
+      "description": "MCP server that compresses, summarizes, and filters context to minimize LLM token usage",
+      "license": "MIT",
+      "repository": "https://github.com/hocestnonsatis/Compendium",
+      "npmUrl": "https://www.npmjs.com/package/compendium-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-03T16:19:44.083Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 71
+    },
+    {
       "name": "compliancelayer",
       "version": "1.0.1",
       "description": "Official Node.js SDK for the ComplianceLayer security scanning API",
@@ -21216,6 +21456,18 @@
       "createdAt": "2026-07-29T18:49:13.571Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 70
+    },
+    {
+      "name": "composite-voice",
+      "version": "0.2.0",
+      "description": "Extensible composite AI voice-agent browser SDK",
+      "license": "MIT",
+      "repository": "https://github.com/composite-voice/composite-voice",
+      "npmUrl": "https://www.npmjs.com/package/composite-voice",
+      "category": "frontend",
+      "createdAt": "2026-08-03T14:44:39.258Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 74
     },
     {
       "name": "compress-edge",
@@ -22610,6 +22862,18 @@
       "score": 64
     },
     {
+      "name": "eridu-tech",
+      "version": "0.57.2",
+      "description": "The library offers flexible, framework-agnostic solutions for modern web applications, built on adaptable components that integrate seamlessly with popular frameworks like Next Js.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/eridu-tech/eridu-tech-core",
+      "npmUrl": "https://www.npmjs.com/package/eridu-tech",
+      "category": "frontend",
+      "createdAt": "2026-08-03T16:51:50.384Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 88
+    },
+    {
       "name": "error-san",
       "version": "0.1.0",
       "description": "Typed error handling: declare, throw, done.",
@@ -22836,6 +23100,18 @@
       "createdAt": "2026-07-31T09:47:11.372Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 91
+    },
+    {
+      "name": "expo-modern-table",
+      "version": "0.1.1",
+      "description": "A modern, feature-rich data table for Expo and React Native — sorting, filtering, sticky columns, row/column reorder, theming, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/melihmuratpesmen/expo-modern-table",
+      "npmUrl": "https://www.npmjs.com/package/expo-modern-table",
+      "category": "frontend",
+      "createdAt": "2026-08-03T16:16:09.603Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 68
     },
     {
       "name": "expo-native-select-picker",
@@ -25368,6 +25644,18 @@
       "createdAt": "2026-07-30T18:38:08.983Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 90
+    },
+    {
+      "name": "leaflet-streetview",
+      "version": "1.0.0",
+      "description": "Leaflet control with a draggable pegman that opens street-level imagery (Google Street View, Bing Streetside, Mapillary, Yandex Panoramas, Apple Look Around) at any map location. No API key, no billing — it just opens the provider at the coordinate.",
+      "license": "MIT",
+      "repository": "https://github.com/ezefferth/leaflet-streetview",
+      "npmUrl": "https://www.npmjs.com/package/leaflet-streetview",
+      "category": "backend",
+      "createdAt": "2026-08-03T16:35:57.251Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 76
     },
     {
       "name": "lensglass",
@@ -34224,6 +34512,18 @@
       "createdAt": "2026-07-25T23:23:49.013Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 58
+    },
+    {
+      "name": "wp-env-macos",
+      "version": "2.0.0",
+      "description": "A drop-in @wordpress/env replacement that runs the wp-env test environment on Apple's native `container` runtime via opossum.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/afragen/wp-env-macos",
+      "npmUrl": "https://www.npmjs.com/package/wp-env-macos",
+      "category": "testing",
+      "createdAt": "2026-08-03T16:21:39.380Z",
+      "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 86
     },
     {
       "name": "wp-fetch",
