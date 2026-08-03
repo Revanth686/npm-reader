@@ -4286,6 +4286,42 @@
       "score": 94
     },
     {
+      "name": "@di-framework/ai",
+      "version": "4.1.0",
+      "description": "Declarative library for building AI applications",
+      "license": "MIT",
+      "repository": "https://github.com/di-framework/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fai",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T22:03:57.959Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 84
+    },
+    {
+      "name": "@di-framework/auth",
+      "version": "4.1.0",
+      "description": "Authentication for di-framework — sessions, JWT/JWS bearer, OAuth2/OIDC, and WebAuthn passkeys on WebCrypto with zero runtime dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/di-framework/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fauth",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T22:06:35.931Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 93
+    },
+    {
+      "name": "@di-framework/config",
+      "version": "4.1.0",
+      "description": "Typed, validated configuration for di-framework — load from env/files, validate, and inject via DI.",
+      "license": "MIT",
+      "repository": "https://github.com/di-framework/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fconfig",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T19:04:52.748Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 57
+    },
+    {
       "name": "@di-framework/core",
       "version": "4.0.0",
       "description": "Lightweight, zero-dependency TypeScript Dependency Injection framework using decorators. Works seamlessly with SWC and TypeScript's native decorator support.",
@@ -4296,6 +4332,18 @@
       "createdAt": "2026-08-02T16:04:05.863Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 91
+    },
+    {
+      "name": "@di-framework/events",
+      "version": "4.1.0",
+      "description": "Bridge di-framework container events to external brokers (Kafka, NATS) via pluggable transports.",
+      "license": "MIT",
+      "repository": "https://github.com/di-framework/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fevents",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T19:04:10.657Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 63
     },
     {
       "name": "@di-framework/graphql",
@@ -5246,6 +5294,18 @@
       "score": 76
     },
     {
+      "name": "@effected/jsonl",
+      "version": "0.1.0",
+      "description": "Append-only, schema-validated JSONL journals as a definable Effect service.",
+      "license": "MIT",
+      "repository": "https://github.com/spencerbeggs/effected",
+      "npmUrl": "https://www.npmjs.com/package/%40effected%2Fjsonl",
+      "category": "utilities",
+      "createdAt": "2026-08-03T22:19:44.475Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 69
+    },
+    {
       "name": "@effected/sbom",
       "version": "0.2.0",
       "description": "CycloneDX 1.6 SBOM construction, SLSA provenance, NTIA validation and Sigstore signing as typed services.",
@@ -6192,6 +6252,18 @@
       "createdAt": "2026-07-29T17:09:48.679Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 63
+    },
+    {
+      "name": "@galaxy-foundry/audit-citations",
+      "version": "0.1.0",
+      "description": "Deterministic scholarly-citation extraction, resolution, evidence capture, and audit reporting.",
+      "license": "MIT",
+      "repository": "https://github.com/jmchilton/foundry-lib",
+      "npmUrl": "https://www.npmjs.com/package/%40galaxy-foundry%2Faudit-citations",
+      "category": "data",
+      "createdAt": "2026-08-03T22:55:20.288Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 69
     },
     {
       "name": "@galaxy-foundry/kind-schema",
@@ -7262,6 +7334,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/pnkstr",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PNKSTR (build etherscan-pnkstr-c50673ed-1785796364241, commit 923ec32, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/pnkstr",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpnkstr",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T22:33:06.387Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/project-wyvern-exchange",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for Project Wyvern Exchange (build etherscan-project-wyvern-exchange-7be8076f-1785579161436, commit 5ec40a2, branch etherscan)",
@@ -7550,6 +7634,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/tuskss",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Tuskss (build etherscan-tuskss-22115e97-1785798755134, commit 304fc2b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/tuskss",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftuskss",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T23:12:57.574Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/uniswapv2router02",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for UniswapV2Router02 (build etherscan-uniswapv2router02-7a250d56-1785280243693, commit da0daba, branch etherscan)",
@@ -7704,6 +7800,18 @@
       "createdAt": "2026-07-26T15:28:34.101Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/yt-strcx-27aug2026",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for YT-STRCx-27AUG2026 (build etherscan-yt-strcx-27aug2026-dc88cc25-1785796379245, commit 9343055, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/yt-strcx-27aug2026",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fyt-strcx-27aug2026",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T22:33:31.814Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 59
     },
     {
       "name": "@gitmyabi/zk",
@@ -9266,6 +9374,18 @@
       "score": 75
     },
     {
+      "name": "@jere2k03/agentic-harness",
+      "version": "1.0.1",
+      "description": "A minimal, adapter-based TypeScript harness for building tool-using LLM agents.",
+      "license": "MIT",
+      "repository": "https://github.com/Jere2k03/agentic-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40jere2k03%2Fagentic-harness",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T23:05:17.323Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 66
+    },
+    {
       "name": "@jeyabbalas/quac",
       "version": "1.0.0",
       "description": "Data quality control for tabular data — validate a dataset against a JSON Schema and QC rules, and get a styled five-sheet Excel report. Runs entirely in the browser, or headless on Node.",
@@ -9996,6 +10116,18 @@
       "createdAt": "2026-07-30T05:40:01.998Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 74
+    },
+    {
+      "name": "@lekman/claude-docker",
+      "version": "0.2.0",
+      "description": "Run one Claude Code task in an isolated container that clones only that task's repo and branch.",
+      "license": "MIT",
+      "repository": "https://github.com/lekman/ai-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40lekman%2Fclaude-docker",
+      "category": "devops",
+      "createdAt": "2026-08-03T10:00:28.422Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 69
     },
     {
       "name": "@leo-cmp/l-nexus",
@@ -12158,6 +12290,18 @@
       "score": 80
     },
     {
+      "name": "@old-school-chronicle/vellum",
+      "version": "0.2.0",
+      "description": "OSC \"Vellum\" brand design tokens — framework-agnostic CSS custom properties shared by the Foundry module and the web app",
+      "license": "MIT",
+      "repository": "https://github.com/tasandberg/old-school-chronicle",
+      "npmUrl": "https://www.npmjs.com/package/%40old-school-chronicle%2Fvellum",
+      "category": "frontend",
+      "createdAt": "2026-08-01T04:36:25.391Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 62
+    },
+    {
       "name": "@olive-so/solana-sdk",
       "version": "0.1.0",
       "description": "Client and maker SDK for the Olive Solana options program: maker WebSocket transport, V4 quote signing, canonical PDAs, and IDL-backed transaction construction.",
@@ -13070,6 +13214,18 @@
       "score": 68
     },
     {
+      "name": "@pond-ts/process",
+      "version": "0.55.0",
+      "description": "Computations as data over pond-ts: processing graphs authored fluently or composed as JSON, resolved against a declared op vocabulary with content-addressed caching, provenance, and per-node timings. Experimental, pre-1.0.",
+      "license": "MIT",
+      "repository": "https://github.com/pond-ts/pond",
+      "npmUrl": "https://www.npmjs.com/package/%40pond-ts%2Fprocess",
+      "category": "data",
+      "createdAt": "2026-08-03T22:12:08.529Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 70
+    },
+    {
       "name": "@pontalabs/baileys-yue",
       "version": "1.0.0",
       "description": "PontaLabs Baileys is a lightweight, modern, and customizable WhatsApp Web API library built on Baileys.",
@@ -13778,6 +13934,18 @@
       "score": 70
     },
     {
+      "name": "@razsdev/datasieve-prisma",
+      "version": "0.1.0",
+      "description": "The first DataSieve adapter: translates DSQL's QueryAST into Prisma Client calls.",
+      "license": "MIT",
+      "repository": "https://github.com/RAZermenoSaracho/datasieve",
+      "npmUrl": "https://www.npmjs.com/package/%40razsdev%2Fdatasieve-prisma",
+      "category": "data",
+      "createdAt": "2026-08-03T22:58:13.134Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 57
+    },
+    {
       "name": "@rchh/lowcode-plugin-datasource-pane",
       "version": "1.0.11",
       "description": "Lowcode Engine data source pane",
@@ -14112,6 +14280,18 @@
       "createdAt": "2026-08-03T21:26:18.568Z",
       "discoveredAt": "2026-08-03T22:05:36.466Z",
       "score": 67
+    },
+    {
+      "name": "@replayfyapp/react-native",
+      "version": "0.0.1",
+      "description": "Session replay, product analytics & error monitoring for React Native",
+      "license": "MIT",
+      "repository": "https://github.com/replayfy/react-native",
+      "npmUrl": "https://www.npmjs.com/package/%40replayfyapp%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-08-03T22:36:13.569Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 61
     },
     {
       "name": "@reputemap/mcp",
@@ -17162,6 +17342,18 @@
       "score": 78
     },
     {
+      "name": "@transclude/core",
+      "version": "0.1.1",
+      "description": "An HTML-first server framework. A page is an .html file, the directory tree is the route table, and any fragment of a page is a URL of its own. Runs on Node, Bun, Deno and workerd, and ships no client JavaScript by default.",
+      "license": "MIT",
+      "repository": "https://github.com/transclude-dev/transclude",
+      "npmUrl": "https://www.npmjs.com/package/%40transclude%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-03T22:04:31.400Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 68
+    },
+    {
       "name": "@triago/cli",
       "version": "0.1.1",
       "description": "Human-in-the-loop decision surface for CLI coding agents: the agent posts a card of findings, you triage them in a browser with the keyboard, and your decisions come back as structured data. Local-only, MCP-native.",
@@ -17172,6 +17364,18 @@
       "createdAt": "2026-07-27T05:15:39.407Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 90
+    },
+    {
+      "name": "@tribu-do/workbench-cli",
+      "version": "0.1.0",
+      "description": "AI-first sandboxed agentic development workbench — task orchestration, hierarchical memory, sandbox mediation, multi-agent parity, pluggable deployment.",
+      "license": "MIT",
+      "repository": "https://github.com/tribu-do/workbench-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40tribu-do%2Fworkbench-cli",
+      "category": "cli",
+      "createdAt": "2026-08-03T22:43:45.220Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 65
     },
     {
       "name": "@tributary-so/pools-client",
@@ -17412,6 +17616,18 @@
       "createdAt": "2026-07-30T10:55:51.527Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 74
+    },
+    {
+      "name": "@unikraft/cloud",
+      "version": "0.1.0",
+      "description": "Official JavaScript/TypeScript SDK for the Unikraft Cloud Platform API",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/unikraft-cloud/js-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40unikraft%2Fcloud",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:45:31.326Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 71
     },
     {
       "name": "@unirate/express",
@@ -18396,6 +18612,18 @@
       "createdAt": "2026-08-01T15:04:16.846Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 83
+    },
+    {
+      "name": "@willink-labs/pulse",
+      "version": "1.1.0",
+      "description": "PULSE — i-Willink's design system as CSS custom properties. The web binding of the Flutter package pulse_theme, generated from the same DTCG token contract.",
+      "license": "MIT",
+      "repository": "https://github.com/willink-oss/pulse_theme",
+      "npmUrl": "https://www.npmjs.com/package/%40willink-labs%2Fpulse",
+      "category": "frontend",
+      "createdAt": "2026-08-03T15:04:46.692Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 85
     },
     {
       "name": "@willslzr/ration",
@@ -22562,6 +22790,18 @@
       "score": 72
     },
     {
+      "name": "datasieve",
+      "version": "0.1.0",
+      "description": "The TypeScript-first backend data engine. Describe the data you want once, in one database-agnostic query language; DataSieve determines how to retrieve it.",
+      "license": "MIT",
+      "repository": "https://github.com/RAZermenoSaracho/datasieve",
+      "npmUrl": "https://www.npmjs.com/package/datasieve",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:58:25.053Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 66
+    },
+    {
       "name": "date-squirrel",
       "version": "2.0.2",
       "description": "A year/month/day drill-down date picker with a nutty tang. Zero dependencies, framework-agnostic.",
@@ -22932,6 +23172,18 @@
       "createdAt": "2026-07-28T06:02:29.897Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 80
+    },
+    {
+      "name": "dolly-cli",
+      "version": "0.1.0",
+      "description": "Generate images, video, voice and music from the terminal. Quote before you spend.",
+      "license": "MIT",
+      "repository": "https://github.com/tristan998/dolly",
+      "npmUrl": "https://www.npmjs.com/package/dolly-cli",
+      "category": "cli",
+      "createdAt": "2026-08-03T23:14:32.132Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 63
     },
     {
       "name": "donkeyq",
@@ -24684,6 +24936,18 @@
       "createdAt": "2026-08-01T22:31:32.850Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 64
+    },
+    {
+      "name": "gsap-presets-kit",
+      "version": "0.1.0",
+      "description": "Un set pequeño, tipado y validado en runtime de helpers para GSAP: animateFrom, animateTo y animateFromTo, más presets de SplitText, Typewriter y Marquee, con soporte de ScrollTrigger y timelines.",
+      "license": "MIT",
+      "repository": "https://github.com/orlandolopez/gsap-presets-kit",
+      "npmUrl": "https://www.npmjs.com/package/gsap-presets-kit",
+      "category": "utilities",
+      "createdAt": "2026-08-03T22:45:48.058Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 84
     },
     {
       "name": "gstinapi",
@@ -31442,6 +31706,18 @@
       "score": 59
     },
     {
+      "name": "restitch",
+      "version": "0.1.0",
+      "description": "See your agent runs as runs, not as forty disconnected HTTP requests.",
+      "license": "MIT",
+      "repository": "https://github.com/olalekanteeblaze/restitch",
+      "npmUrl": "https://www.npmjs.com/package/restitch",
+      "category": "backend",
+      "createdAt": "2026-08-03T23:06:38.963Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 71
+    },
+    {
       "name": "result-rpc",
       "version": "0.1.0",
       "description": "Typed RPC for React: errors accumulate along the call path and discharge along the component tree",
@@ -34778,6 +35054,18 @@
       "score": 78
     },
     {
+      "name": "vue-facets",
+      "version": "0.1.0",
+      "description": "Faceted filtering composable for Vue 3: filtered results, automatic disabled-facet state, and/or modes and a shareable query string.",
+      "license": "MIT",
+      "repository": "https://github.com/IBakeCookies/vue-facets",
+      "npmUrl": "https://www.npmjs.com/package/vue-facets",
+      "category": "frontend",
+      "createdAt": "2026-08-03T23:09:04.688Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 83
+    },
+    {
       "name": "vue-relative-rotation-chart",
       "version": "0.1.1",
       "description": "Vue 3 SVG Relative Rotation Graph (RRG) chart — RS-Ratio × RS-Momentum quadrants, tails, labels, playback. Renderer only.",
@@ -35052,6 +35340,18 @@
       "createdAt": "2026-07-29T04:11:05.081Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 73
+    },
+    {
+      "name": "webentail",
+      "version": "0.4.0",
+      "description": "WebEntail turns facts and rules into answers and proofs.",
+      "license": "MIT",
+      "repository": "https://github.com/eyereasoner/webentail",
+      "npmUrl": "https://www.npmjs.com/package/webentail",
+      "category": "utilities",
+      "createdAt": "2026-08-03T22:10:11.746Z",
+      "discoveredAt": "2026-08-03T23:15:27.142Z",
+      "score": 63
     },
     {
       "name": "webrtc-mcp-server",

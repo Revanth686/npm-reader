@@ -1,27 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123085236,
-  "lastRunAt": "2026-08-03T22:05:36.466Z",
+  "lastSequence": 123092505,
+  "lastRunAt": "2026-08-03T23:15:27.142Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@pharmaquant-sheets/engine-render",
-      "attempts": 7
-    },
-    {
-      "name": "@pharmaquant-sheets/sheets-data-validation",
-      "attempts": 7
-    },
-    {
-      "name": "@di-framework/ai",
+      "name": "@nestjs-redisx/pubsub",
       "attempts": 1
     },
     {
-      "name": "@transclude/core",
-      "attempts": 1
-    },
-    {
-      "name": "@sinequa/agent-builder",
+      "name": "@manudev.jsx/agents",
       "attempts": 1
     }
   ]
