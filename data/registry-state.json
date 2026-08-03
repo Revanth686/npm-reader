@@ -1,59 +1,51 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123051104,
-  "lastRunAt": "2026-08-03T17:44:53.720Z",
+  "lastSequence": 123064417,
+  "lastRunAt": "2026-08-03T19:21:31.086Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@pharmaquant-sheets/engine-render",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@pharmaquant-sheets/sheets-data-validation",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@ownfold/drizzle",
+      "name": "@kamilmielnik/gaddag",
       "attempts": 1
     },
     {
-      "name": "@ownfold/sqlite",
+      "name": "@dudousxd/nestjs-catalog-store-clickhouse",
       "attempts": 1
     },
     {
-      "name": "@chichex/ideas",
+      "name": "@dudousxd/nestjs-catalog-telescope",
       "attempts": 1
     },
     {
-      "name": "@extrimian/kms",
+      "name": "@dudousxd/nestjs-catalog-store-fanout",
       "attempts": 1
     },
     {
-      "name": "@ownfold/node",
+      "name": "@dudousxd/nestjs-catalog-react",
       "attempts": 1
     },
     {
-      "name": "@ownfold/react",
+      "name": "@dudousxd/nestjs-catalog-store-mikro-orm",
       "attempts": 1
     },
     {
-      "name": "@ownfold/hono",
+      "name": "@dudousxd/nestjs-catalog",
       "attempts": 1
     },
     {
-      "name": "@ownfold/next",
+      "name": "@8monkey/pi-media",
       "attempts": 1
     },
     {
-      "name": "@almanzor/cli",
-      "attempts": 1
-    },
-    {
-      "name": "@ownfold/tanstack-start",
-      "attempts": 1
-    },
-    {
-      "name": "@x12i/api-playground",
+      "name": "@vruum/mcp",
       "attempts": 1
     }
   ]
