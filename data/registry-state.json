@@ -1,39 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122961473,
-  "lastRunAt": "2026-08-03T09:27:32.902Z",
+  "lastSequence": 122997979,
+  "lastRunAt": "2026-08-03T12:51:24.961Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@jabdori/maxt-linux-arm64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@jabdori/maxt-darwin-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@jabdori/maxt-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@jabdori/maxt-win32-x64-msvc",
-      "attempts": 1
-    },
-    {
-      "name": "@jabdori/maxt",
-      "attempts": 1
-    },
-    {
       "name": "@pharmaquant-sheets/engine-render",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@pharmaquant-sheets/sheets-data-validation",
+      "attempts": 2
+    },
+    {
+      "name": "@byteplus/apig",
       "attempts": 1
     },
     {
-      "name": "@oiyo-example/wot-starter",
+      "name": "@deeplearning615/atguigu-utils",
+      "attempts": 1
+    },
+    {
+      "name": "@byteplus/apig20221112",
+      "attempts": 1
+    },
+    {
+      "name": "@michaelwhelan/rn-startup-perf",
       "attempts": 1
     }
   ]
