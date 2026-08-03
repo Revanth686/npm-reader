@@ -1,31 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 122997979,
-  "lastRunAt": "2026-08-03T12:51:24.961Z",
+  "lastSequence": 123030322,
+  "lastRunAt": "2026-08-03T15:32:57.343Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@pharmaquant-sheets/engine-render",
-      "attempts": 2
+      "attempts": 3
     },
     {
       "name": "@pharmaquant-sheets/sheets-data-validation",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@byteplus/apig",
+      "name": "@aburi/effects-drizzle",
       "attempts": 1
     },
     {
-      "name": "@deeplearning615/atguigu-utils",
+      "name": "@vnejs/module.controller.tabs",
       "attempts": 1
     },
     {
-      "name": "@byteplus/apig20221112",
+      "name": "@voicelabs/sdk",
       "attempts": 1
     },
     {
-      "name": "@michaelwhelan/rn-startup-perf",
+      "name": "@kybernesis/arcana",
+      "attempts": 1
+    },
+    {
+      "name": "@authowl/expo",
+      "attempts": 1
+    },
+    {
+      "name": "@cues/sawdust-react",
       "attempts": 1
     }
   ]

@@ -5054,6 +5054,18 @@
       "score": 70
     },
     {
+      "name": "@edgeproc/errors",
+      "version": "0.1.0",
+      "description": "Canonical error glue: register a per-app catalog, classify raw failures into stable codes, describe via your own i18next, serialize to RFC 9457 Problem Details. Zero runtime deps.",
+      "license": "MIT",
+      "repository": "https://github.com/hseshadr/errors",
+      "npmUrl": "https://www.npmjs.com/package/%40edgeproc%2Ferrors",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T13:54:17.482Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 83
+    },
+    {
       "name": "@edraj/sauron-browser",
       "version": "1.3.0",
       "description": "Sauron browser SDK: automatic error reporting + product analytics for the web.",
@@ -7970,6 +7982,18 @@
       "score": 84
     },
     {
+      "name": "@hawkeyexl/inference",
+      "version": "0.0.1",
+      "description": "Shared TypeScript LLM inference layer: schema-constrained completion across Anthropic, OpenAI-compatible, and Claude CLI providers, with caching, cost accounting, and an LLM-as-judge ensemble.",
+      "license": "MIT",
+      "repository": "https://github.com/hawkeyexl/inference",
+      "npmUrl": "https://www.npmjs.com/package/%40hawkeyexl%2Finference",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T15:03:32.077Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 79
+    },
+    {
       "name": "@hazrid1993/pi-advisor",
       "version": "0.6.2",
       "description": "A second model that peer-reviews every turn of your main pi agent and injects concise advice. Pick any model from your registry as the advisor.",
@@ -8496,6 +8520,18 @@
       "createdAt": "2026-08-01T20:26:38.932Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 49
+    },
+    {
+      "name": "@icpaas/ai",
+      "version": "1.0.0",
+      "description": "SDK for ICPaaS AI Voice and Text Widgets with session-based authentication",
+      "license": "MIT",
+      "repository": "https://github.com/icpaas/ai-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40icpaas%2Fai",
+      "category": "utilities",
+      "createdAt": "2026-08-03T13:21:53.720Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 84
     },
     {
       "name": "@idle-runner/react",
@@ -14570,6 +14606,30 @@
       "score": 83
     },
     {
+      "name": "@sherlock1982/ng-idle-core",
+      "version": "22.0.0",
+      "description": "A module for detecting and responding to the user becoming idle in Angular applications.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sherlock1982/ng2-idle",
+      "npmUrl": "https://www.npmjs.com/package/%40sherlock1982%2Fng-idle-core",
+      "category": "frontend",
+      "createdAt": "2026-08-03T14:42:24.153Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 84
+    },
+    {
+      "name": "@sherlock1982/ng-idle-keepalive",
+      "version": "22.0.0",
+      "description": "Module that works with @sherlock1982/ng-idle-core to keep a user session alive while user is active.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sherlock1982/ng2-idle",
+      "npmUrl": "https://www.npmjs.com/package/%40sherlock1982%2Fng-idle-keepalive",
+      "category": "frontend",
+      "createdAt": "2026-08-03T14:42:46.222Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 88
+    },
+    {
       "name": "@shinyaigeek/lumen",
       "version": "0.1.0",
       "description": "A local web canvas that lets a coding agent describe rich UI (OpenUI Lang) and see it rendered live on localhost. Ships an MCP server + CLI.",
@@ -15974,6 +16034,18 @@
       "score": 67
     },
     {
+      "name": "@tabilo/ai-code-review",
+      "version": "1.0.1",
+      "description": "Reusable, multi-language AI code-review workflow for VS Code Copilot. Installs /ai-review Agent Skills (java, react, vue, angular packs) plus a per-repo .ai-code-review/ payload: git context collection, routing, impact analysis, tests, coverage gate and a",
+      "license": "MIT",
+      "repository": "https://github.com/tblong2105/ai-code-review",
+      "npmUrl": "https://www.npmjs.com/package/%40tabilo%2Fai-code-review",
+      "category": "testing",
+      "createdAt": "2026-08-03T12:55:28.431Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 100
+    },
+    {
       "name": "@takazudo/pgen",
       "version": "0.1.0",
       "description": "Generate deterministic visual patterns from text seeds — 36 curated pattern families, ~2,444 registered pattern variants, from geometric tiles to noise-based textures",
@@ -17198,6 +17270,18 @@
       "score": 62
     },
     {
+      "name": "@vasilvestre/opencode-plain-style",
+      "version": "1.0.0",
+      "description": "Plain-language writing rules for opencode agents, injected into every system prompt. Enforces ISO 24495-1 principles on commits, comments, docs, and chat prose.",
+      "license": "MIT",
+      "repository": "https://github.com/vasilvestre/opencode-plain-style",
+      "npmUrl": "https://www.npmjs.com/package/%40vasilvestre%2Fopencode-plain-style",
+      "category": "devops",
+      "createdAt": "2026-07-29T11:50:53.655Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 79
+    },
+    {
       "name": "@vcxcvii/rainmaker",
       "version": "0.2.0",
       "description": "Open-source SEO and AEO agent. Ranks every finding by distance to revenue, checks the live SERP before briefing anything, and records whether the fix worked.",
@@ -17448,6 +17532,18 @@
       "createdAt": "2026-07-27T14:05:26.640Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 73
+    },
+    {
+      "name": "@vipentti/planlet",
+      "version": "0.1.0",
+      "description": "Repository-local planning and task management for AI coding agents: focused Markdown planlets plus a deterministic CLI and portable agent skills. Small plans. Clear handoffs.",
+      "license": "MIT",
+      "repository": "https://github.com/vipentti/planlet",
+      "npmUrl": "https://www.npmjs.com/package/%40vipentti%2Fplanlet",
+      "category": "cli",
+      "createdAt": "2026-08-03T15:05:07.015Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 85
     },
     {
       "name": "@vivari/core",
@@ -18072,6 +18168,18 @@
       "createdAt": "2026-07-30T23:55:39.583Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 97
+    },
+    {
+      "name": "@zapifyapi/mcp-server",
+      "version": "1.0.0",
+      "description": "MCP server for ZapifyAPI — 32 agent-ready tools across image processing, text analysis, network diagnostics, developer utilities, and data conversion, selected from a catalogue of 40+ APIs",
+      "license": "MIT",
+      "repository": "https://github.com/TamirKashy/zapifyapi-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40zapifyapi%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-03T13:23:37.506Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 79
     },
     {
       "name": "@zeeptech/toolkit",
@@ -20270,6 +20378,18 @@
       "score": 87
     },
     {
+      "name": "chainlesschain-ide",
+      "version": "0.37.40",
+      "description": "Bridges the ChainlessChain `cc` agent CLI to VS Code: exposes the active selection, diagnostics, open editors, and native diff review as MCP tools the agent can call.",
+      "license": "MIT",
+      "repository": "https://github.com/chainlesschain/chainlesschain",
+      "npmUrl": "https://www.npmjs.com/package/chainlesschain-ide",
+      "category": "cli",
+      "createdAt": "2026-08-03T13:58:33.433Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 78
+    },
+    {
       "name": "chameleon-cv",
       "version": "0.1.0",
       "description": "AI-powered resume tailor — tailor your CV to any job posting with ATS-optimized PDFs",
@@ -20448,6 +20568,18 @@
       "createdAt": "2026-07-29T05:58:31.844Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 96
+    },
+    {
+      "name": "chronos-skill",
+      "version": "1.0.0",
+      "description": "Time awareness for AI coding agents. Hook-backed ledger, 7 decision rules, 8 platforms. Stops your agent from guessing when and how long ago.",
+      "license": "MIT",
+      "repository": "https://github.com/OthmanAdi/chronos",
+      "npmUrl": "https://www.npmjs.com/package/chronos-skill",
+      "category": "data",
+      "createdAt": "2026-08-03T13:29:23.824Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 88
     },
     {
       "name": "ci-health-audit",
@@ -22070,6 +22202,18 @@
       "score": 80
     },
     {
+      "name": "donkeyq",
+      "version": "0.1.0",
+      "description": "A cheap SQS on Redis with at-least-once delivery, retries, exponential backoff, and a dead-letter queue for projects that already run Redis.",
+      "license": "MIT",
+      "repository": "https://github.com/rocky-jaiswal/donkeyq-ts",
+      "npmUrl": "https://www.npmjs.com/package/donkeyq",
+      "category": "data",
+      "createdAt": "2026-08-03T14:36:08.427Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 80
+    },
+    {
       "name": "doubt-ai",
       "version": "0.5.0",
       "description": "Turn contested questions into interactive, source-grounded evidence maps.",
@@ -22766,6 +22910,18 @@
       "score": 75
     },
     {
+      "name": "express-rate-limit-redis-sliding",
+      "version": "0.1.1",
+      "description": "Exact sliding-window rate limiting for Express, backed by Redis sorted sets. Multiple limits per route evaluated atomically in one round trip. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/kayoinreality/express-rate-limit-redis-sliding",
+      "npmUrl": "https://www.npmjs.com/package/express-rate-limit-redis-sliding",
+      "category": "backend",
+      "createdAt": "2026-08-03T13:48:29.265Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 85
+    },
+    {
       "name": "express-token-revoker",
       "version": "0.1.0",
       "description": "High-performance, crash-safe token revocation middleware for Express — Bloom filters with automatic rotation, WAL-based crash recovery, and optional gRPC admin.",
@@ -22848,6 +23004,18 @@
       "createdAt": "2026-07-29T20:41:23.663Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 72
+    },
+    {
+      "name": "fastify-sliding-limiter",
+      "version": "0.1.0",
+      "description": "Exact sliding-window rate limiting for Fastify, backed by Redis sorted sets. Multiple limits per route evaluated atomically in one round trip. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/kayoinreality/fastify-sliding-limiter",
+      "npmUrl": "https://www.npmjs.com/package/fastify-sliding-limiter",
+      "category": "backend",
+      "createdAt": "2026-08-03T14:35:40.395Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 86
     },
     {
       "name": "favicon-motion",
@@ -23604,6 +23772,18 @@
       "createdAt": "2026-07-31T01:49:53.512Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 62
+    },
+    {
+      "name": "gmira",
+      "version": "0.1.0",
+      "description": "21 Claude Code skills for building web interfaces that do not look AI-generated. Written visual direction first, 7 shadcn registries (514 components), a GPU floor for WebGL, Playwright acceptance across 5 viewports.",
+      "license": "MIT",
+      "repository": "https://github.com/OthmanAdi/gmira",
+      "npmUrl": "https://www.npmjs.com/package/gmira",
+      "category": "testing",
+      "createdAt": "2026-08-03T13:29:05.337Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 86
     },
     {
       "name": "godot-mcp-bridge",
@@ -25082,6 +25262,18 @@
       "score": 75
     },
     {
+      "name": "layercall",
+      "version": "1.0.0",
+      "description": "Official LayerCall client — score an IP, email, phone, domain or a whole signup for fraud in one call. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/hirajha/layercall-sdk",
+      "npmUrl": "https://www.npmjs.com/package/layercall",
+      "category": "frontend",
+      "createdAt": "2026-08-03T14:58:07.740Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 81
+    },
+    {
       "name": "layerkit",
       "version": "0.1.0",
       "description": "Agent-first multi-vendor data-layer toolkit: install skills/hooks into Codex, Claude Code, Cursor, Copilot, OpenCode, OpenHands; research vendor docs; proposal pipeline; Java-first client output; evals.",
@@ -26342,6 +26534,18 @@
       "score": 71
     },
     {
+      "name": "mobile-ai-context",
+      "version": "0.1.0",
+      "description": "Mobile-first AI context engine for Claude Code, Cursor, Gemini CLI, and Antigravity. Production-aware Flutter support with growing React Native, Expo, Android, and iOS scanning.",
+      "license": "MIT",
+      "repository": "https://github.com/techvootsolutions/mobile-ai-context",
+      "npmUrl": "https://www.npmjs.com/package/mobile-ai-context",
+      "category": "frontend",
+      "createdAt": "2026-08-03T14:00:31.995Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 87
+    },
+    {
       "name": "mobile-release-mcp",
       "version": "0.2.0",
       "description": "MCP server for managing mobile app releases on App Store Connect and Google Play Console",
@@ -26640,6 +26844,18 @@
       "createdAt": "2026-08-01T23:12:46.476Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 59
+    },
+    {
+      "name": "n8n-nodes-furious",
+      "version": "1.0.1",
+      "description": "n8n community node for Furious Squad — CRM, companies, proposals, projects, invoices, purchases, timesheets, HR and more, on your own Furious instance",
+      "license": "MIT",
+      "repository": "https://github.com/BenNotix/n8n-nodes-furious",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-furious",
+      "category": "devops",
+      "createdAt": "2026-08-03T13:09:01.624Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 93
     },
     {
       "name": "n8n-nodes-genudo",
@@ -27422,6 +27638,18 @@
       "score": 62
     },
     {
+      "name": "omerfaruk-agent-os",
+      "version": "4.0.0",
+      "description": "Project-aware, evidence-driven operating system, multi-agent CLI, and secure MCP desktop bridge for coding agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Omerfaruk-aydn/Agent_OS",
+      "npmUrl": "https://www.npmjs.com/package/omerfaruk-agent-os",
+      "category": "cli",
+      "createdAt": "2026-08-03T15:29:23.816Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 91
+    },
+    {
       "name": "omp-smart-approve",
       "version": "0.1.1",
       "description": "An LLM safety judge in front of tool calls OMP would otherwise auto-approve. Hard-blocks clear attacks and clear mistakes, escalates genuine uncertainty to a human.",
@@ -27816,6 +28044,18 @@
       "createdAt": "2026-07-31T19:54:36.827Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 67
+    },
+    {
+      "name": "openui-forge",
+      "version": "1.0.0",
+      "description": "Cross-IDE, multi-stack agent skill for OpenUI (the Open Standard for Generative UI). Core skill plus stack variants for OpenAI, Anthropic, LangChain, Vercel, Python, Go, Rust, C#, Java, Ruby, PHP, Elixir.",
+      "license": "MIT",
+      "repository": "https://github.com/OthmanAdi/openui-forge",
+      "npmUrl": "https://www.npmjs.com/package/openui-forge",
+      "category": "utilities",
+      "createdAt": "2026-08-03T13:29:20.199Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 94
     },
     {
       "name": "opticore-postgres",
@@ -28728,6 +28968,18 @@
       "createdAt": "2026-08-03T10:30:02.378Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 90
+    },
+    {
+      "name": "planning-with-teams",
+      "version": "2.0.0",
+      "description": "Manus-style context engineering for Claude Code Agent Teams. Coordinate multiple agents through shared planning files on disk.",
+      "license": "MIT",
+      "repository": "https://github.com/OthmanAdi/planning-with-teams",
+      "npmUrl": "https://www.npmjs.com/package/planning-with-teams",
+      "category": "utilities",
+      "createdAt": "2026-08-03T13:29:16.809Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 87
     },
     {
       "name": "playreel",
@@ -29786,6 +30038,18 @@
       "score": 97
     },
     {
+      "name": "react-odontogram-modul",
+      "version": "2.0.1",
+      "description": "Interactive, SVG-based dental odontogram (dental chart) editor for React + TypeScript — multi-surface caries/filling charting, endodontic/prosthetic/periodontal states, FDI/Universal/Palmer numbering, HL7 FHIR R4 export/import, and ICDAS scoring.",
+      "license": "MIT",
+      "repository": "https://github.com/ZoliQua/React-Odontogram-Modul",
+      "npmUrl": "https://www.npmjs.com/package/react-odontogram-modul",
+      "category": "frontend",
+      "createdAt": "2026-08-03T14:28:11.779Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 100
+    },
+    {
       "name": "react-outside-kit",
       "version": "0.1.0",
       "description": "A lightweight React library for outside interactions and UI dismissal.",
@@ -30408,6 +30672,18 @@
       "createdAt": "2026-08-01T10:19:49.956Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 60
+    },
+    {
+      "name": "rytena-agent",
+      "version": "1.0.0",
+      "description": "Production memory leak detection for Node.js — detects leaks, finds the exact file and line, and generates AI-powered fixes.",
+      "license": "MIT",
+      "repository": "https://github.com/AayushShukla1438/Rytena",
+      "npmUrl": "https://www.npmjs.com/package/rytena-agent",
+      "category": "data",
+      "createdAt": "2026-08-03T15:25:36.935Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 79
     },
     {
       "name": "safe-whatsapp-mcp",
@@ -31596,6 +31872,18 @@
       "createdAt": "2026-07-27T17:14:15.392Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 86
+    },
+    {
+      "name": "stellar-agent-pay",
+      "version": "0.1.1",
+      "description": "Stellar CLI plugin that lets AI agents unlock x402 paid HTTP resources with USDC under an auditable spending policy",
+      "license": "MIT",
+      "repository": "https://github.com/JosueBrenes/stellar-agent-pay",
+      "npmUrl": "https://www.npmjs.com/package/stellar-agent-pay",
+      "category": "backend",
+      "createdAt": "2026-08-03T14:54:02.519Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 81
     },
     {
       "name": "stellar-agent-search",
@@ -34044,6 +34332,18 @@
       "createdAt": "2026-07-30T16:49:06.558Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 69
+    },
+    {
+      "name": "yindee-skill",
+      "version": "1.0.1",
+      "description": "Token-efficient development harness for AI coding agents. Less context, better context.",
+      "license": "MIT",
+      "repository": "https://github.com/yindeejs/skill-yindee",
+      "npmUrl": "https://www.npmjs.com/package/yindee-skill",
+      "category": "devops",
+      "createdAt": "2026-08-03T14:08:20.231Z",
+      "discoveredAt": "2026-08-03T15:32:57.343Z",
+      "score": 84
     },
     {
       "name": "yourindie-mcp",
