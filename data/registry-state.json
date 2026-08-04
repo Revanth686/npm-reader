@@ -1,23 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123201983,
-  "lastRunAt": "2026-08-04T12:26:03.401Z",
+  "lastSequence": 123235833,
+  "lastRunAt": "2026-08-04T14:58:53.255Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@zzzgenesis00/bitcoin-lib",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@zzzgenesis00/near-api",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@zzzgenesis00/spl-token-utils",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@mussy/core",
+      "name": "@dantesito/spreadsheet-odm",
+      "attempts": 1
+    },
+    {
+      "name": "@dantesito/spreadsheet-docs",
+      "attempts": 1
+    },
+    {
+      "name": "@nessframework/components",
       "attempts": 1
     }
   ]
