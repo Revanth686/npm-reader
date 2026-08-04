@@ -3206,6 +3206,18 @@
       "score": 46
     },
     {
+      "name": "@cancjs/unhandled-rejection",
+      "version": "1.0.0",
+      "description": "Global handler that silences CancelError rejections from @cancjs/promise.",
+      "license": "MIT",
+      "repository": "https://github.com/cancjs/canc",
+      "npmUrl": "https://www.npmjs.com/package/%40cancjs%2Funhandled-rejection",
+      "category": "utilities",
+      "createdAt": "2026-08-04T08:47:52.090Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 83
+    },
+    {
       "name": "@candelahq/opencode",
       "version": "0.4.0",
       "description": "OpenCode plugin for Candela — conversational cost queries, budget tracking, model configuration, and LLM observability",
@@ -3386,6 +3398,18 @@
       "score": 86
     },
     {
+      "name": "@charlie.act7/jintia",
+      "version": "11.0.0",
+      "description": "Instala y ejecuta Jintia, la skill de diseño instruccional universitario verificable.",
+      "license": "MIT",
+      "repository": "https://github.com/CharlieCardenasToledo/instructional-designer-skill",
+      "npmUrl": "https://www.npmjs.com/package/%40charlie.act7%2Fjintia",
+      "category": "devops",
+      "createdAt": "2026-08-02T13:06:22.270Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 76
+    },
+    {
       "name": "@chativa/rn-webview",
       "version": "0.9.1",
       "description": "Chativa RN WebView — embeds the Chativa web chat widget in a react-native-webview, bridged to native props/callbacks, so any existing @chativa/connector-* works unmodified. See README.md for architecture and the native-fallback tracking issues.",
@@ -3528,6 +3552,18 @@
       "createdAt": "2026-07-26T23:32:03.463Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 65
+    },
+    {
+      "name": "@clakta/javascript",
+      "version": "1.0.4",
+      "description": "<p align=\"center\">   <h1 align=\"center\">@clakta/javascript</h1>",
+      "license": "MIT",
+      "repository": "https://github.com/clakta/clakta-js",
+      "npmUrl": "https://www.npmjs.com/package/%40clakta%2Fjavascript",
+      "category": "utilities",
+      "createdAt": "2026-07-31T19:25:51.278Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 66
     },
     {
       "name": "@clank.run/framework",
@@ -4536,6 +4572,18 @@
       "createdAt": "2026-07-28T09:02:20.532Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 100
+    },
+    {
+      "name": "@devalade/adonis-chariow",
+      "version": "0.1.0",
+      "description": "Chariow integration for AdonisJS — checkout, licenses and signed Pulse webhooks",
+      "license": "MIT",
+      "repository": "https://github.com/devalade/adonis-chariow",
+      "npmUrl": "https://www.npmjs.com/package/%40devalade%2Fadonis-chariow",
+      "category": "utilities",
+      "createdAt": "2026-08-04T22:04:07.966Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 68
     },
     {
       "name": "@devcodex/opentelemetry",
@@ -9230,6 +9278,30 @@
       "score": 73
     },
     {
+      "name": "@horizon-integrations/tecimob-crm",
+      "version": "1.1.1",
+      "description": "Adapter de integração com o CRM Tecimob — padrão Airbyte (@horizon-js/integrations-core)",
+      "license": "MIT",
+      "repository": "https://github.com/imobland/horizon-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40horizon-integrations%2Ftecimob-crm",
+      "category": "devops",
+      "createdAt": "2026-08-04T22:20:34.081Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 64
+    },
+    {
+      "name": "@horizon-integrations/tecimob-crm-client",
+      "version": "1.0.1",
+      "description": "Client HTTP tipado pra consumir a API do horizon-integrations-hub (rotas /api/providers/tecimob/v1/*). Instalado nos sites das imobiliárias pra puxar imóveis e enviar leads via hub, preservando Anti-Corruption Layer.",
+      "license": "MIT",
+      "repository": "https://github.com/imobland/horizon-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40horizon-integrations%2Ftecimob-crm-client",
+      "category": "backend",
+      "createdAt": "2026-08-04T22:20:42.553Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 69
+    },
+    {
       "name": "@houla/live-connector",
       "version": "0.1.0",
       "description": "Receive Hou.la live events (gifts, hearts, chat and more) in real time and wire them into anything: OBS overlays, games, lights, bots.",
@@ -10800,6 +10872,18 @@
       "createdAt": "2026-07-27T01:45:46.451Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 59
+    },
+    {
+      "name": "@laikacms/vite-plugin",
+      "version": "3.0.1",
+      "description": "Vite plugin for Laika CMS: mounts the storage, documents, and assets JSON:API in the dev/preview server, backed by a repository of your choice (a filesystem repository by default).",
+      "license": "MIT",
+      "repository": "https://github.com/laikacms/laikacms",
+      "npmUrl": "https://www.npmjs.com/package/%40laikacms%2Fvite-plugin",
+      "category": "backend",
+      "createdAt": "2026-08-04T21:34:03.884Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 75
     },
     {
       "name": "@laioutr/app-essentials-seo",
@@ -13334,6 +13418,18 @@
       "score": 87
     },
     {
+      "name": "@nowtwo-llc/frontend-rubric",
+      "version": "10.0.0",
+      "description": "A dependency-light rubric editor for the browser: criteria, weighted grading scales, standards alignment and drag-to-reorder, rendered straight into a host form.",
+      "license": "MIT",
+      "repository": "https://github.com/nowtwo-llc/nowtwo-frontend-rubric",
+      "npmUrl": "https://www.npmjs.com/package/%40nowtwo-llc%2Ffrontend-rubric",
+      "category": "frontend",
+      "createdAt": "2026-08-04T21:40:03.536Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 96
+    },
+    {
       "name": "@nowtwo-llc/hedgehogify",
       "version": "3.0.1",
       "description": "The best way to get hedgehogs to explode all over a website.",
@@ -13404,6 +13500,18 @@
       "createdAt": "2026-07-26T10:59:04.304Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 71
+    },
+    {
+      "name": "@nxtlinq/acp-proxy",
+      "version": "0.1.0",
+      "description": "Attestation-backed policy enforcement proxy for ACP agents",
+      "license": "MIT",
+      "repository": "https://github.com/nxtlinqit/nxtlinq-acp-proxy",
+      "npmUrl": "https://www.npmjs.com/package/%40nxtlinq%2Facp-proxy",
+      "category": "testing",
+      "createdAt": "2026-08-04T22:31:08.035Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 65
     },
     {
       "name": "@nynb/dev-cleaner",
@@ -14630,6 +14738,18 @@
       "score": 87
     },
     {
+      "name": "@pouriahlabs/baton",
+      "version": "1.0.0",
+      "description": "Two AI agent seats in one window: one builds, one reviews.",
+      "license": "MIT",
+      "repository": "https://github.com/PouriahLabs/baton",
+      "npmUrl": "https://www.npmjs.com/package/%40pouriahlabs%2Fbaton",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T22:26:05.190Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 75
+    },
+    {
       "name": "@prakhhxrcodes/codevitals",
       "version": "0.1.1",
       "description": "AI-powered Repository Health Analysis & Project Intelligence MCP Server",
@@ -14844,6 +14964,18 @@
       "createdAt": "2026-07-27T01:40:24.472Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 59
+    },
+    {
+      "name": "@purplehaxttv/skillscan",
+      "version": "0.1.1",
+      "description": "SonarQube-style security scanner for Claude Code skill files",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/edgecases-PurpleHax/skillscan",
+      "npmUrl": "https://www.npmjs.com/package/%40purplehaxttv%2Fskillscan",
+      "category": "utilities",
+      "createdAt": "2026-08-04T21:23:46.232Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 72
     },
     {
       "name": "@putervision/state-memory-mcp",
@@ -17990,6 +18122,18 @@
       "score": 61
     },
     {
+      "name": "@streetinsider/visibility-engine",
+      "version": "1.0.0",
+      "description": "StreetInsider Visibility Engine is a lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.",
+      "license": "MIT",
+      "repository": "https://github.com/GetOnStreetInsider/StreetInsider-Visibility-Engine",
+      "npmUrl": "https://www.npmjs.com/package/%40streetinsider%2Fvisibility-engine",
+      "category": "data",
+      "createdAt": "2026-08-04T21:55:28.332Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 85
+    },
+    {
       "name": "@strixgov/governed-action",
       "version": "0.1.0",
       "description": "Wrap one consequential mutation — a REST call, a GitHub merge, any async operation — in a governed action that produces an independently verifiable signed receipt.",
@@ -20294,6 +20438,18 @@
       "score": 83
     },
     {
+      "name": "@wierdbytes/autogent",
+      "version": "0.1.1",
+      "description": "Standalone Nostr agent on the Pi SDK (autogent-nostr), with a Buzz Desktop backend provider that deploys it.",
+      "license": "MIT",
+      "repository": "https://github.com/wierdbytes/autogent",
+      "npmUrl": "https://www.npmjs.com/package/%40wierdbytes%2Fautogent",
+      "category": "backend",
+      "createdAt": "2026-08-04T22:28:07.634Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 70
+    },
+    {
       "name": "@williamsuchun/sessionport",
       "version": "0.1.0",
       "description": "Export, normalize and convert coding-agent session transcripts between Claude Code, Codex and portable formats.",
@@ -21864,6 +22020,18 @@
       "createdAt": "2026-08-02T18:38:48.977Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 88
+    },
+    {
+      "name": "animus-engine-mcp",
+      "version": "0.1.1",
+      "description": "Servidor Model Context Protocol (MCP) oficial para Animus Engine / Bralidus RaaS. Conecta IA (Claude Desktop, Cursor, agentes) a jurisprudencia de la Corte Suprema de Chile, inteligencia economica y datos B2G de Mercado Publico, en vivo.",
+      "license": "MIT",
+      "repository": "https://github.com/lucifxr63/stars",
+      "npmUrl": "https://www.npmjs.com/package/animus-engine-mcp",
+      "category": "devops",
+      "createdAt": "2026-08-04T05:20:48.083Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 90
     },
     {
       "name": "anki-xml",
@@ -25406,6 +25574,18 @@
       "score": 76
     },
     {
+      "name": "ds-canon",
+      "version": "0.1.0",
+      "description": "Your design system's canon, queryable by agents over MCP: what exists, what is deprecated, what breaks if you touch it.",
+      "license": "MIT",
+      "repository": "https://github.com/jtrainer357/ds-canon",
+      "npmUrl": "https://www.npmjs.com/package/ds-canon",
+      "category": "utilities",
+      "createdAt": "2026-08-04T22:16:39.595Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 69
+    },
+    {
       "name": "earsiv-istisna",
       "version": "0.1.0",
       "description": "GİB e-Arşiv Portal'ının resmi olmayan API'si üzerinden yalnızca hizmet ihracı (KDV'den istisna, ISTISNA tipi) faturası kesen komut satırı aracı; mal ihracatı, tevkifat, özel matrah, e-SMM veya normal SATIS faturası desteklemez.",
@@ -26076,6 +26256,18 @@
       "createdAt": "2026-08-02T09:13:33.630Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 73
+    },
+    {
+      "name": "express-htcpcp-418",
+      "version": "1.0.1",
+      "description": "RFC 2324 compliant Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0) middleware for Express.",
+      "license": "MIT",
+      "repository": "https://github.com/SerafinoBarwinski/express-htcpcp-418",
+      "npmUrl": "https://www.npmjs.com/package/express-htcpcp-418",
+      "category": "backend",
+      "createdAt": "2026-08-04T21:51:49.499Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 71
     },
     {
       "name": "express-leak-detector",
@@ -27984,6 +28176,18 @@
       "createdAt": "2026-08-01T22:07:56.110Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 58
+    },
+    {
+      "name": "inscript-editor",
+      "version": "0.1.1",
+      "description": "Standalone TipTap-based rich text editor extracted from Inscript.",
+      "license": "MIT",
+      "repository": "https://github.com/harshankur/inscript-editor",
+      "npmUrl": "https://www.npmjs.com/package/inscript-editor",
+      "category": "frontend",
+      "createdAt": "2026-08-04T07:44:34.663Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 72
     },
     {
       "name": "insomnia-plugin-collection-linter",
@@ -31620,6 +31824,18 @@
       "createdAt": "2026-07-31T13:37:37.150Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 80
+    },
+    {
+      "name": "opencode-plugin-cost-guard",
+      "version": "0.1.0",
+      "description": "The opencode cost guard plugin: stop AI token waste. Live session watch, runaway context detection, auto-compaction, spend budgets & alerts, JSONL savings reports. Cuts LLM API spend by capping paid-model context and taming cache replay.",
+      "license": "MIT",
+      "repository": "https://github.com/yuseferi/opencode-cost-guard",
+      "npmUrl": "https://www.npmjs.com/package/opencode-plugin-cost-guard",
+      "category": "backend",
+      "createdAt": "2026-08-04T22:46:21.717Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 77
     },
     {
       "name": "opencode-qoder-bridge",
@@ -35762,6 +35978,18 @@
       "score": 74
     },
     {
+      "name": "solidity-jwt",
+      "version": "0.1.0",
+      "description": "Verify RS256 JSON Web Tokens inside a smart contract. RSASSA-PKCS1-v1_5 over SHA-256 via the EIP-198 modexp precompile, with base64url decoding and claim extraction.",
+      "license": "MIT",
+      "repository": "https://github.com/successaje/flint",
+      "npmUrl": "https://www.npmjs.com/package/solidity-jwt",
+      "category": "testing",
+      "createdAt": "2026-08-04T22:48:40.166Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 69
+    },
+    {
       "name": "som-style",
       "version": "0.1.1",
       "description": "Mobile-first CSS-in-JS helper with OKLCH design tokens by default",
@@ -35834,6 +36062,18 @@
       "score": 84
     },
     {
+      "name": "sourcery-eval",
+      "version": "0.1.1",
+      "description": "Find the best search API for your agent. Same query, same model, same judge, swap only the retrieval provider: Firecrawl, Tavily, Exa, Bright Data, keyless baseline.",
+      "license": "MIT",
+      "repository": "https://github.com/sameerhimati/sourcery",
+      "npmUrl": "https://www.npmjs.com/package/sourcery-eval",
+      "category": "backend",
+      "createdAt": "2026-08-04T22:07:06.361Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 86
+    },
+    {
       "name": "spanplane",
       "version": "0.8.2",
       "description": "A local-first A2A agent testing workbench for discovery, conversations, protocol operations, streaming, and content-aware artifacts.",
@@ -35904,6 +36144,30 @@
       "createdAt": "2026-07-27T11:13:23.977Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 75
+    },
+    {
+      "name": "spin-card-react-web",
+      "version": "0.2.0",
+      "description": "A composable React card with an organic tilt and cinematic spin transition.",
+      "license": "MIT",
+      "repository": "https://github.com/PoloGarcia/spin-card-react-web",
+      "npmUrl": "https://www.npmjs.com/package/spin-card-react-web",
+      "category": "frontend",
+      "createdAt": "2026-08-04T02:40:55.691Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 67
+    },
+    {
+      "name": "sri-ec",
+      "version": "0.1.0",
+      "description": "Cliente Node.js/TypeScript para facturación electrónica del SRI Ecuador (port de teran-sri-ec).",
+      "license": "MIT",
+      "repository": "https://github.com/JonathanTeran/teran-sri-ec-node",
+      "npmUrl": "https://www.npmjs.com/package/sri-ec",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T21:57:48.596Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 62
     },
     {
       "name": "sri-lanka-police",
@@ -36026,6 +36290,18 @@
       "score": 66
     },
     {
+      "name": "stats-for-devs",
+      "version": "0.0.1",
+      "description": "A floating, draggable dev HUD (YouTube-nerd-stats style) with live viewport, breakpoint, responsiveness, mobile-input, performance and interaction metrics - drop it into any web page",
+      "license": "MIT",
+      "repository": "https://github.com/webextensions/stats-for-devs",
+      "npmUrl": "https://www.npmjs.com/package/stats-for-devs",
+      "category": "frontend",
+      "createdAt": "2026-08-04T21:50:32.549Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 88
+    },
+    {
       "name": "steledb",
       "version": "0.1.0",
       "description": "A TypeScript library that treats a set of JSON files as a static relational database, deriving integrity validation and typed queries from one schema definition",
@@ -36096,6 +36372,18 @@
       "createdAt": "2026-07-26T09:51:31.810Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 73
+    },
+    {
+      "name": "storiesfly",
+      "version": "0.1.0",
+      "description": "TypeScript client for the StoriesFly API: Instagram stories, profiles, highlights, media URLs, shadow ban checks and follower/unfollower tracking.",
+      "license": "MIT",
+      "repository": "https://github.com/coolpac/storiesfly-api-client",
+      "npmUrl": "https://www.npmjs.com/package/storiesfly",
+      "category": "backend",
+      "createdAt": "2026-08-04T21:44:56.481Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 84
     },
     {
       "name": "stratum-db",
@@ -36480,6 +36768,18 @@
       "createdAt": "2026-07-26T09:57:56.605Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 79
+    },
+    {
+      "name": "tec-mapkit",
+      "version": "1.0.0",
+      "description": "Embeddable dark-themed vector map engine. Framework-agnostic core with a React binding, pluggable basemaps, clustered marker layers, zone overlays, and road-network distance/time routing.",
+      "license": "MIT",
+      "repository": "https://github.com/Kiztbz/TEC",
+      "npmUrl": "https://www.npmjs.com/package/tec-mapkit",
+      "category": "frontend",
+      "createdAt": "2026-08-04T22:02:46.774Z",
+      "discoveredAt": "2026-08-04T22:54:44.404Z",
+      "score": 89
     },
     {
       "name": "technical-seo-mcp",
