@@ -1,27 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123125612,
-  "lastRunAt": "2026-08-04T04:56:35.171Z",
+  "lastSequence": 123146591,
+  "lastRunAt": "2026-08-04T07:35:01.840Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@zzzgenesis00/bitcoin-lib",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@zzzgenesis00/near-api",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@zzzgenesis00/spl-token-utils",
+      "attempts": 2
+    },
+    {
+      "name": "@postview/cli-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@karais89/xacc",
+      "name": "@postview/cli-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@elfa-ai/mcp",
+      "name": "@postview/cli-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@postview/cli-linux-arm64",
       "attempts": 1
     }
   ]

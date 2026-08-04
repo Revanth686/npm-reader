@@ -2774,6 +2774,18 @@
       "score": 72
     },
     {
+      "name": "@bubblyworld/xgboost-ts",
+      "version": "1.0.0",
+      "description": "A wasm build of XGBoost with a convenient typescript interface. Runs with zero dependencies in both node and web environments.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Bubblyworld/xgboost-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40bubblyworld%2Fxgboost-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T06:24:58.567Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 84
+    },
+    {
       "name": "@bugban/js",
       "version": "1.0.0",
       "description": "Bugban error & performance monitoring SDK — framework-agnostic JavaScript/TypeScript core for browsers and Node.js.",
@@ -4080,6 +4092,18 @@
       "createdAt": "2026-07-30T16:30:09.072Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 87
+    },
+    {
+      "name": "@dashboardbase/mcp",
+      "version": "1.0.0",
+      "description": "MCP server that validates Dashboardbase widget endpoint responses and setup files against the live contract.",
+      "license": "MIT",
+      "repository": "https://github.com/dashboardbase/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40dashboardbase%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T05:29:16.704Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 90
     },
     {
       "name": "@dawod/thmanyah-font-web",
@@ -5412,6 +5436,18 @@
       "createdAt": "2026-07-29T23:42:36.768Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 70
+    },
+    {
+      "name": "@elefthei/try-ts",
+      "version": "0.1.1",
+      "description": "Bun/TypeScript SDK for speculative shell execution: run commands in an overlay sandbox, inspect the filesystem changes, then commit or discard",
+      "license": "MIT",
+      "repository": "https://github.com/elefthei/try-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40elefthei%2Ftry-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T04:39:57.900Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 78
     },
     {
       "name": "@eliyantosarage/hostinger-mcp",
@@ -9890,6 +9926,18 @@
       "score": 90
     },
     {
+      "name": "@keicoin/economy",
+      "version": "0.2.0",
+      "description": "Declarative game-economy recipes for Kei: rewards, sinks, and atomic shop/craft exchanges, with a dry run before anything is signed.",
+      "license": "MIT",
+      "repository": "https://github.com/keicoin-org/kei-transaction",
+      "npmUrl": "https://www.npmjs.com/package/%40keicoin%2Feconomy",
+      "category": "devops",
+      "createdAt": "2026-08-04T03:06:41.232Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 79
+    },
+    {
       "name": "@kelabome/agents",
       "version": "0.3.2",
       "description": "Attach your own coding agent — opencode or Claude Code — to a kelabo: an MCP server, the live transcript delivered into the session you already have open, and a board to post back to.",
@@ -11534,6 +11582,66 @@
       "score": 88
     },
     {
+      "name": "@molecule/app-device",
+      "version": "1.0.1",
+      "description": "Device information interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-device",
+      "category": "frontend",
+      "createdAt": "2026-08-03T22:28:55.894Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 76
+    },
+    {
+      "name": "@molecule/app-filesystem",
+      "version": "1.0.1",
+      "description": "Device filesystem access interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-filesystem",
+      "category": "utilities",
+      "createdAt": "2026-08-03T23:50:38.477Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 75
+    },
+    {
+      "name": "@molecule/app-health",
+      "version": "1.0.1",
+      "description": "Health and fitness data interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-health",
+      "category": "data",
+      "createdAt": "2026-08-03T23:53:15.488Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 75
+    },
+    {
+      "name": "@molecule/app-iap",
+      "version": "1.0.1",
+      "description": "In-App Purchases interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-iap",
+      "category": "utilities",
+      "createdAt": "2026-08-03T23:54:46.338Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 76
+    },
+    {
+      "name": "@molecule/app-motion",
+      "version": "1.0.1",
+      "description": "Accelerometer and gyroscope interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-motion",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:37:15.773Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 75
+    },
+    {
       "name": "@molecule/app-push",
       "version": "1.0.0",
       "description": "Client-side push notifications interface for molecule.dev",
@@ -12048,6 +12156,18 @@
       "createdAt": "2026-07-30T21:37:57.083Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 66
+    },
+    {
+      "name": "@naveen-aixa/pptx-viewer",
+      "version": "2.0.2",
+      "description": "React PowerPoint viewer and editor component: render, edit, and export PPTX slides in the browser.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ChristopherVR/pptx-viewer",
+      "npmUrl": "https://www.npmjs.com/package/%40naveen-aixa%2Fpptx-viewer",
+      "category": "frontend",
+      "createdAt": "2026-08-04T05:29:38.097Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 89
     },
     {
       "name": "@naviary-sanctuary/kinship-graph",
@@ -14112,6 +14232,18 @@
       "createdAt": "2026-07-27T11:54:11.006Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 61
+    },
+    {
+      "name": "@qwerty-xcv/baileys",
+      "version": "0.0.1",
+      "description": "A WebSockets library for interacting with WhatsApp Web — fork of Baileys with extra socket layers (communities, interop, privacy, GraphQL) and special message helpers.",
+      "license": "MIT",
+      "repository": "https://github.com/Xazepysk/qwerty-xcv-baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40qwerty-xcv%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-08-04T06:59:46.749Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 77
     },
     {
       "name": "@r3e/neo-mcp",
@@ -17738,6 +17870,18 @@
       "score": 78
     },
     {
+      "name": "@tradetrust-tt/token-registry-community-sandbox",
+      "version": "1.0.0",
+      "description": "<h1 align=\"center\">   <p align=\"center\">Token Registry — Community Sandbox</p>   <a href=\"https://tradetrust.io\"><img src=\"docs/images/tt-logo.png\" alt=\"TradeTrust Token Registry Community Sandbox\" /></a> </h1>",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/TradeTrust/token-registry-community-sandbox",
+      "npmUrl": "https://www.npmjs.com/package/%40tradetrust-tt%2Ftoken-registry-community-sandbox",
+      "category": "backend",
+      "createdAt": "2026-08-04T05:29:28.781Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 80
+    },
+    {
       "name": "@transclude/core",
       "version": "0.1.1",
       "description": "An HTML-first server framework. A page is an .html file, the directory tree is the route table, and any fragment of a page is a URL of its own. Runs on Node, Bun, Deno and workerd, and ships no client JavaScript by default.",
@@ -19778,6 +19922,18 @@
       "score": 77
     },
     {
+      "name": "aasolutions-omnichat",
+      "version": "1.0.0",
+      "description": "Direct omnichannel chat SDK for Node/TypeScript — Telegram, Slack, Google Chat, Teams, WhatsApp. No server needed — install, connect your channels, handle messages.",
+      "license": "MIT",
+      "repository": "https://github.com/omnichat/chat-sdk",
+      "npmUrl": "https://www.npmjs.com/package/aasolutions-omnichat",
+      "category": "backend",
+      "createdAt": "2026-08-04T07:04:35.173Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 80
+    },
+    {
       "name": "abulafia",
       "version": "0.2.40",
       "description": "Research-first CLI agent built on Pi and alphaXiv",
@@ -19994,6 +20150,18 @@
       "score": 93
     },
     {
+      "name": "agent-outfitter",
+      "version": "0.1.0",
+      "description": "Library-first agent package manager: resolve, verify, and install agent primitives — skills, MCP servers, and instruction fragments — into Claude Code, Codex, or any harness, from an await-able TypeScript API.",
+      "license": "MIT",
+      "repository": "https://github.com/Liam-Johnston/agent-outfitter",
+      "npmUrl": "https://www.npmjs.com/package/agent-outfitter",
+      "category": "backend",
+      "createdAt": "2026-08-04T07:04:56.863Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 90
+    },
+    {
       "name": "agent-pay-bridge",
       "version": "0.1.0",
       "description": "One interface for AI agent payments across x402, AP2, and ACP — auto-detects which protocol a merchant supports and pays through it.",
@@ -20088,6 +20256,18 @@
       "createdAt": "2026-07-30T09:26:42.961Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 64
+    },
+    {
+      "name": "agent-wizard",
+      "version": "0.1.0",
+      "description": "AI coding assistant configuration wizard - Set up your AI tools in minutes, not hours",
+      "license": "MIT",
+      "repository": "https://github.com/uptodatelabs/agent-wizard",
+      "npmUrl": "https://www.npmjs.com/package/agent-wizard",
+      "category": "cli",
+      "createdAt": "2026-08-04T05:21:47.023Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 78
     },
     {
       "name": "agentab",
@@ -20208,6 +20388,18 @@
       "createdAt": "2026-08-02T15:44:27.630Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 64
+    },
+    {
+      "name": "ai-workbench.js",
+      "version": "1.0.0",
+      "description": "Dependency-free machine-learning algorithms, preprocessing, semi-supervised learning, and finite-MDP reinforcement learning for JavaScript.",
+      "license": "MIT",
+      "repository": "https://github.com/Liurguva/ai-workbench.js",
+      "npmUrl": "https://www.npmjs.com/package/ai-workbench.js",
+      "category": "frontend",
+      "createdAt": "2026-08-04T05:35:17.365Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 86
     },
     {
       "name": "ai4kanban-ui",
@@ -21998,6 +22190,18 @@
       "score": 83
     },
     {
+      "name": "claude-api-manager",
+      "version": "2.0.0",
+      "description": "TUI dashboard for managing Claude Code API configurations. Save multiple API profiles and switch providers with a keystroke.",
+      "license": "MIT",
+      "repository": "https://github.com/uptodatelabs/claude-api-manager",
+      "npmUrl": "https://www.npmjs.com/package/claude-api-manager",
+      "category": "backend",
+      "createdAt": "2026-08-04T06:05:18.609Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 92
+    },
+    {
       "name": "claude-code-branching",
       "version": "1.0.0",
       "description": "Branching for Claude Code conversations: branch tree, global catalogue, restart from any message",
@@ -22596,6 +22800,18 @@
       "createdAt": "2026-07-31T22:48:09.376Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 65
+    },
+    {
+      "name": "company-skills",
+      "version": "0.1.0",
+      "description": "The open agent skills ecosystem (Comate/Chinese friendly CLI)",
+      "license": "MIT",
+      "repository": "https://github.com/vercel-labs/skills",
+      "npmUrl": "https://www.npmjs.com/package/company-skills",
+      "category": "cli",
+      "createdAt": "2026-08-04T06:33:40.891Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 76
     },
     {
       "name": "compendium-mcp",
@@ -23820,6 +24036,18 @@
       "createdAt": "2026-08-01T23:12:24.307Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 52
+    },
+    {
+      "name": "ekrina",
+      "version": "1.0.0",
+      "description": "Zero-dependency fuzzy matching with tiered scoring, highlight ranges, and one-edit typo rescue",
+      "license": "MIT",
+      "repository": "https://github.com/MMMikeM/ekrina",
+      "npmUrl": "https://www.npmjs.com/package/ekrina",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T05:54:33.355Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 87
     },
     {
       "name": "el-filtro",
@@ -28994,6 +29222,18 @@
       "score": 81
     },
     {
+      "name": "next-spinks-posts",
+      "version": "1.1.1",
+      "description": "Flexible and generic React & Next.js product grid component library supporting custom API mappers, pagination, and detail views.",
+      "license": "MIT",
+      "repository": "https://github.com/samsaifi/next-spinks-posts",
+      "npmUrl": "https://www.npmjs.com/package/next-spinks-posts",
+      "category": "frontend",
+      "createdAt": "2026-08-04T06:24:58.129Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 80
+    },
+    {
       "name": "nexthink-mcp-server",
       "version": "2.0.0",
       "description": "Enterprise-grade Model Context Protocol (MCP) server exposing Nexthink DEX telemetry (NQL), Remote Actions, and engagement workflows to LLM agents. Targets MCP spec 2025-11-25 with pluggable auth for every Nexthink credential type.",
@@ -29774,6 +30014,18 @@
       "score": 66
     },
     {
+      "name": "opencraft-skills",
+      "version": "1.2.0",
+      "description": "Portable end-to-end Agent Skills for meaningful, secure, production-ready product development",
+      "license": "MIT",
+      "repository": "https://github.com/Lelianto/opencraft-skills",
+      "npmUrl": "https://www.npmjs.com/package/opencraft-skills",
+      "category": "utilities",
+      "createdAt": "2026-08-04T05:38:06.154Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 87
+    },
+    {
       "name": "openmergelens",
       "version": "1.0.0",
       "description": "Local, agent-agnostic AI code reviews for GitHub pull requests.",
@@ -29928,6 +30180,18 @@
       "createdAt": "2026-08-02T18:57:10.466Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 89
+    },
+    {
+      "name": "orcana-runtime",
+      "version": "0.5.0",
+      "description": "Orcana Runtime — model-agnostic agent runtime for evidence-gated recursive self-evolution.",
+      "license": "MIT",
+      "repository": "https://github.com/Leo-Ayh-Oday/orcana-runtime",
+      "npmUrl": "https://www.npmjs.com/package/orcana-runtime",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T09:19:39.941Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 77
     },
     {
       "name": "orita-sdk",
@@ -30348,6 +30612,18 @@
       "createdAt": "2026-07-27T13:49:32.097Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 76
+    },
+    {
+      "name": "pi-claude-subscription-connector",
+      "version": "1.0.1",
+      "description": "Use your Claude Pro/Max subscription with pi: keeps Anthropic OAuth requests billed to your plan (not extra usage) and adds a live 🧠 usage status line to the footer.",
+      "license": "MIT",
+      "repository": "https://github.com/Akshay-patel7/pi-claude-subscription-connector",
+      "npmUrl": "https://www.npmjs.com/package/pi-claude-subscription-connector",
+      "category": "utilities",
+      "createdAt": "2026-08-04T05:25:12.710Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 78
     },
     {
       "name": "pi-cliproxiapi-auth",
@@ -35606,6 +35882,18 @@
       "score": 72
     },
     {
+      "name": "vkeyboardhand",
+      "version": "1.0.3",
+      "description": "vkeyboardhand · Interactive Virtual Keyboard Touch-Typing Teaching Component! 交互式指法教学组件：SVG 键盘图 + SVG 手势图 + JavaScript 事件驱动联动，兼容 Vue/React/Angular，支持本地引入、CDN、npm。",
+      "license": "MIT",
+      "repository": "https://github.com/ayuday/vkeyboardhand",
+      "npmUrl": "https://www.npmjs.com/package/vkeyboardhand",
+      "category": "frontend",
+      "createdAt": "2026-08-04T05:29:49.339Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 96
+    },
+    {
       "name": "voryn-core",
       "version": "0.1.1",
       "description": "A change engine for JavaScript and TypeScript objects — diff, apply, reverse, merge, and undo/redo for structured data.",
@@ -35940,6 +36228,18 @@
       "createdAt": "2026-07-29T04:11:05.081Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 73
+    },
+    {
+      "name": "web-xpu-ops",
+      "version": "0.1.0",
+      "description": "Web primitive layer implementations for xPU: one reference per op, one implementation per backend, and tests that hold them together.",
+      "license": "MIT",
+      "repository": "https://github.com/m96-chan/web-xpu-ops",
+      "npmUrl": "https://www.npmjs.com/package/web-xpu-ops",
+      "category": "testing",
+      "createdAt": "2026-08-04T07:24:27.655Z",
+      "discoveredAt": "2026-08-04T07:35:01.840Z",
+      "score": 83
     },
     {
       "name": "webentail",
