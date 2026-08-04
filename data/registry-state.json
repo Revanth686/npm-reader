@@ -1,31 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123235833,
-  "lastRunAt": "2026-08-04T14:58:53.255Z",
+  "lastSequence": 123257108,
+  "lastRunAt": "2026-08-04T16:52:41.345Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@zzzgenesis00/bitcoin-lib",
-      "attempts": 5
+      "attempts": 6
     },
     {
       "name": "@zzzgenesis00/near-api",
-      "attempts": 5
+      "attempts": 6
     },
     {
       "name": "@zzzgenesis00/spl-token-utils",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@dantesito/spreadsheet-odm",
+      "name": "@wildorder/program-pipeline",
       "attempts": 1
     },
     {
-      "name": "@dantesito/spreadsheet-docs",
+      "name": "@fieldwork-ai/cli",
       "attempts": 1
     },
     {
-      "name": "@nessframework/components",
+      "name": "@csark0812/mcp-dev",
+      "attempts": 1
+    },
+    {
+      "name": "@andreaarrighi/pi-meat",
+      "attempts": 1
+    },
+    {
+      "name": "@williamsuchun/sessionport",
       "attempts": 1
     }
   ]

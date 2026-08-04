@@ -122,6 +122,18 @@
       "score": 60
     },
     {
+      "name": "@3sln/js-tools",
+      "version": "0.1.1",
+      "description": "Content-addressed builder and dev server for unbundled ES module applications.",
+      "license": "MIT",
+      "repository": "https://github.com/3sln/js-tools",
+      "npmUrl": "https://www.npmjs.com/package/%403sln%2Fjs-tools",
+      "category": "backend",
+      "createdAt": "2026-08-04T15:23:06.017Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 71
+    },
+    {
       "name": "@3sln/trove",
       "version": "0.0.2",
       "description": "Trove — a self-hostable, plugin-extensible Google Drive. Semantic search, pluggable storage (S3 / filesystem / NAS), and a VS Code-style contribution system with sandboxed plugins.",
@@ -780,6 +792,18 @@
       "createdAt": "2026-08-01T22:39:55.663Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 75
+    },
+    {
+      "name": "@ai-outfitter/channels",
+      "version": "1.5.0",
+      "description": "Pi extension that pushes channel events (email/Slack/Signal/…) into an agent session, waking it only when real work arrives.",
+      "license": "MIT",
+      "repository": "https://github.com/ai-outfitter/channels",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-outfitter%2Fchannels",
+      "category": "utilities",
+      "createdAt": "2026-08-04T16:35:17.605Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 78
     },
     {
       "name": "@ai-router/openai-compatible-errors",
@@ -1980,6 +2004,18 @@
       "createdAt": "2026-07-30T21:13:41.253Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 74
+    },
+    {
+      "name": "@atul-labs/dmag",
+      "version": "0.2.1",
+      "description": "Universal coding companion - reasoning, efficient code, design intelligence, project memory, crash recovery. LTS release.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ATUL-Labs/dmag",
+      "npmUrl": "https://www.npmjs.com/package/%40atul-labs%2Fdmag",
+      "category": "frontend",
+      "createdAt": "2026-08-04T15:46:58.873Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 82
     },
     {
       "name": "@auron-labs/opencode-worktrunk",
@@ -3758,6 +3794,18 @@
       "score": 63
     },
     {
+      "name": "@companionintelligence/hermes-memory",
+      "version": "2026.8.4",
+      "description": "Companion Intelligence memory provider for Hermes — passively ingests conversation context into a self-hosted knowledge graph.",
+      "license": "MIT",
+      "repository": "https://github.com/companionintelligence/CI-Hermes",
+      "npmUrl": "https://www.npmjs.com/package/%40companionintelligence%2Fhermes-memory",
+      "category": "utilities",
+      "createdAt": "2026-08-03T10:52:00.739Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 79
+    },
+    {
       "name": "@compare-xml/cli",
       "version": "0.1.0",
       "description": "Command-line tool and MCP server for structured XML comparison.",
@@ -4236,6 +4284,30 @@
       "createdAt": "2026-07-26T14:40:04.472Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "@db-node/sse",
+      "version": "0.1.1",
+      "description": "Type-safe Server-Sent Events toolkit for Node — connection hub, topic multiplexing, active push, Last-Event-Id replay, heartbeat, auth.",
+      "license": "MIT",
+      "repository": "https://github.com/your-org/db-node",
+      "npmUrl": "https://www.npmjs.com/package/%40db-node%2Fsse",
+      "category": "backend",
+      "createdAt": "2026-08-04T15:43:46.971Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 75
+    },
+    {
+      "name": "@db-node/websocket",
+      "version": "0.1.0",
+      "description": "Type-safe WebSocket toolkit for Node — connections, rooms (IM / customer service / e-commerce), channels (multiplex), presence (office), RPC, heartbeat, JWT auth.",
+      "license": "MIT",
+      "repository": "https://github.com/your-org/db-node",
+      "npmUrl": "https://www.npmjs.com/package/%40db-node%2Fwebsocket",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T15:44:43.017Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 86
     },
     {
       "name": "@dbx-tools/search",
@@ -5186,6 +5258,18 @@
       "score": 73
     },
     {
+      "name": "@dokieli/notifications",
+      "version": "1.0.0",
+      "description": "W3C Linked Data Notifications (LDN) implementation of the Sender and Consumer roles, using the Activity Vocabulary and ActivityStreams 2.0 (AS2) as compacted JSON-LD, with support for HTML+RDFa serialization. The library allows clients to use their own pa",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dokieli/notifications",
+      "npmUrl": "https://www.npmjs.com/package/%40dokieli%2Fnotifications",
+      "category": "data",
+      "createdAt": "2026-08-04T15:52:07.953Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 73
+    },
+    {
       "name": "@dongzijie1/pi-ai",
       "version": "0.82.1",
       "description": "Unified LLM API with automatic model discovery and provider configuration",
@@ -5796,6 +5880,18 @@
       "createdAt": "2026-07-28T16:20:17.737Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 73
+    },
+    {
+      "name": "@evgkch/fsmjs",
+      "version": "1.0.0",
+      "description": "A small, typed finite-state-machine library — a Mealy transducer written as one table whose edges are five plain words, and whose graph is a projection you can serialize, draw and analyse",
+      "license": "MIT",
+      "repository": "https://github.com/evgkch/fsmjs",
+      "npmUrl": "https://www.npmjs.com/package/%40evgkch%2Ffsmjs",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T15:46:36.808Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 92
     },
     {
       "name": "@exellix/ai-tasks-docs",
@@ -8498,6 +8594,18 @@
       "score": 60
     },
     {
+      "name": "@guilelab/astrological",
+      "version": "1.0.1",
+      "description": "Biblioteca completa em Typescript para cálculos de mapa astral e astronomia",
+      "license": "ISC",
+      "repository": "https://github.com/guibonafini/guilelab-astrological",
+      "npmUrl": "https://www.npmjs.com/package/%40guilelab%2Fastrological",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T15:23:14.933Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 78
+    },
+    {
       "name": "@guuey/widget-auth",
       "version": "0.1.0",
       "description": "Mint end-user identity tokens for a guuey embeddable widget from your own backend. One call, zero runtime dependencies — your app secret stays on your server and the platform holds the signing key.",
@@ -9662,6 +9770,18 @@
       "score": 52
     },
     {
+      "name": "@jabez007/obsidian-vault-mcp",
+      "version": "0.1.0",
+      "description": "Obsidian vault MCP server with local RAG capabilities for Codex and compatible MCP hosts",
+      "license": "MIT",
+      "repository": "https://github.com/jabez007/obsidian-vault-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40jabez007%2Fobsidian-vault-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T15:01:18.388Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 76
+    },
+    {
       "name": "@jackgreen2018/pdf-engine-wasm",
       "version": "1.0.1",
       "description": "A lightweight, high-performance PDF processing library that runs in the browser and Node.js via Rust/WASM. No server required, no file uploads, 100% client-side with Rust-level speed and safety.",
@@ -9672,6 +9792,18 @@
       "createdAt": "2026-08-02T07:49:37.404Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 84
+    },
+    {
+      "name": "@jakub-plichcinski/kairos-mcp",
+      "version": "4.8.3",
+      "description": "MCP server for agent automation: persistent memory and deterministic workflow execution for AI agents and chats",
+      "license": "MIT",
+      "repository": "https://github.com/jakub-plichcinski/kairos-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40jakub-plichcinski%2Fkairos-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T15:59:39.277Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 91
     },
     {
       "name": "@james.valencia/mcp-reportia",
@@ -12902,6 +13034,18 @@
       "score": 79
     },
     {
+      "name": "@normful/pi-auto-name",
+      "version": "1.0.0",
+      "description": "Auto-generates names in your language for Pi sessions, tmux windows, herder panes/tabs, zellij panes/tabs so you can easily view what each Pi is doing",
+      "license": "MIT",
+      "repository": "https://github.com/normful/pi-bakery",
+      "npmUrl": "https://www.npmjs.com/package/%40normful%2Fpi-auto-name",
+      "category": "data",
+      "createdAt": "2026-08-04T15:56:31.221Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 93
+    },
+    {
       "name": "@northern-breeze/goatlogger",
       "version": "2.0.2",
       "description": "Async, non-blocking logger SDK with remote ingest, automatic batching, exponential-backoff retry, and a dead-letter queue.",
@@ -13452,6 +13596,18 @@
       "createdAt": "2026-07-28T23:24:33.035Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 60
+    },
+    {
+      "name": "@os-eco/warren-cli",
+      "version": "0.14.0",
+      "description": "Self-hostable control plane for ephemeral cloud agents — spawn sandboxed agents at your GitHub repos, watch them work live, steer them, get a branch back",
+      "license": "MIT",
+      "repository": "https://github.com/jayminwest/warren",
+      "npmUrl": "https://www.npmjs.com/package/%40os-eco%2Fwarren-cli",
+      "category": "cli",
+      "createdAt": "2026-08-04T16:06:17.645Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 79
     },
     {
       "name": "@otok/mcp",
@@ -16212,6 +16368,18 @@
       "createdAt": "2026-08-03T14:42:46.222Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 88
+    },
+    {
+      "name": "@shiftyasan/mcp-server",
+      "version": "0.1.0",
+      "description": "Model Context Protocol (MCP) server for the Shiftyasan public solver API. Lets AI agents call the shift scheduling solver from MCP-aware hosts (Claude Desktop, Cursor, Continue, etc.). Public beta — the API and this package may change.",
+      "license": "MIT",
+      "repository": "https://github.com/shiftyasan/mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40shiftyasan%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-04T16:17:33.357Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 81
     },
     {
       "name": "@shikhar4uu/chai-sdk",
@@ -20138,6 +20306,18 @@
       "score": 48
     },
     {
+      "name": "@zenixsolutions/hudu-mcp",
+      "version": "0.1.0",
+      "description": "Community MCP server for the Hudu IT documentation REST API. Full documented API surface, secret-safe by default.",
+      "license": "MIT",
+      "repository": "https://github.com/ZenixSolutions/hudu-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40zenixsolutions%2Fhudu-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T16:38:47.625Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 73
+    },
+    {
       "name": "@zenixsolutions/lumics-mcp",
       "version": "0.1.0",
       "description": "Model Context Protocol server for the Lumics network monitoring platform. Community project, not affiliated with or endorsed by Lumics or NetCuras.",
@@ -23642,6 +23822,18 @@
       "score": 82
     },
     {
+      "name": "cosmemilton-report",
+      "version": "0.1.0",
+      "description": "Report builder React para Next.js — definição declarativa de relatórios com export em PDF, CSV, XLSX, JSON e TSV, editor visual de layout e config em camadas.",
+      "license": "ISC",
+      "repository": "https://github.com/cosmemilton/cosmemilton-report",
+      "npmUrl": "https://www.npmjs.com/package/cosmemilton-report",
+      "category": "frontend",
+      "createdAt": "2026-08-04T16:31:43.710Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 83
+    },
+    {
       "name": "countersign-mcp",
       "version": "0.1.0",
       "description": "Transaction firewall and intent-verification layer for AI agents transacting onchain. Countersign firewalls the MCP execution path of the OKX OnchainOS stack.",
@@ -23652,6 +23844,18 @@
       "createdAt": "2026-07-26T01:07:22.165Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 81
+    },
+    {
+      "name": "craneship",
+      "version": "4.0.0",
+      "description": "Build, tag and push docker images, with the tags derived from the git ref.",
+      "license": "MIT",
+      "repository": "https://github.com/tada5hi/craneship",
+      "npmUrl": "https://www.npmjs.com/package/craneship",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T15:55:09.242Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 87
     },
     {
       "name": "create-agentpress",
@@ -23904,6 +24108,18 @@
       "createdAt": "2026-08-03T12:11:15.740Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 98
+    },
+    {
+      "name": "csp-compatible-viewer",
+      "version": "1.0.0",
+      "description": "CSP-safe Angular file preview for PDF, images, HTML, Word (.docx), and Excel (.xlsx/.csv). Fetches via connect-src and renders blobs client-side — no iframe framing of third-party origins.",
+      "license": "MIT",
+      "repository": "https://github.com/your-org/csp-compatible-viewer",
+      "npmUrl": "https://www.npmjs.com/package/csp-compatible-viewer",
+      "category": "frontend",
+      "createdAt": "2026-08-04T15:10:56.934Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 85
     },
     {
       "name": "css-animation-utils",
@@ -28766,6 +28982,18 @@
       "score": 93
     },
     {
+      "name": "mcp-metacritic",
+      "version": "1.0.0",
+      "description": "MCP server for Metacritic. Search films, shows and games, read Metascores and critic reviews with attribution. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-metacritic",
+      "npmUrl": "https://www.npmjs.com/package/mcp-metacritic",
+      "category": "backend",
+      "createdAt": "2026-08-04T15:12:28.649Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 93
+    },
+    {
       "name": "mcp-metering",
       "version": "0.1.0",
       "description": "Reliable, idempotent usage metering for MCP servers you already run in production. Retrofit-friendly: no stack requirements, no database lock-in.",
@@ -32702,6 +32930,18 @@
       "score": 74
     },
     {
+      "name": "react-native-async-storage-viewer",
+      "version": "1.0.0",
+      "description": "Real-time AsyncStorage viewer and editor for React Native — debug, inspect, search, and modify storage data from a web browser dashboard. Zero native dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/SrinivasanNamachivayan/react-native-async-storage-viewer",
+      "npmUrl": "https://www.npmjs.com/package/react-native-async-storage-viewer",
+      "category": "frontend",
+      "createdAt": "2026-08-04T16:26:05.858Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 77
+    },
+    {
       "name": "react-native-brownfield-playground",
       "version": "1.0.0",
       "description": "Brownfield React Native SDK — present/dismiss UI and session APIs for React Native, Android, and iOS hosts",
@@ -33108,6 +33348,18 @@
       "createdAt": "2026-08-01T19:12:14.489Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 62
+    },
+    {
+      "name": "recast-gailrio-fix",
+      "version": "0.23.19",
+      "description": "JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator",
+      "license": "MIT",
+      "repository": "https://github.com/benjamn/recast",
+      "npmUrl": "https://www.npmjs.com/package/recast-gailrio-fix",
+      "category": "data",
+      "createdAt": "2026-08-04T15:32:27.047Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 76
     },
     {
       "name": "reckon-graph",
@@ -33564,6 +33816,30 @@
       "createdAt": "2026-07-30T08:14:07.176Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 81
+    },
+    {
+      "name": "rowstore",
+      "version": "0.1.0",
+      "description": "An in-memory row store that decides its own indexes by watching the queries you actually run. No index declarations, no configuration: it counts predicate shapes, builds an index the moment the arithmetic says it pays, maintains it incrementally through m",
+      "license": "MIT",
+      "repository": "https://github.com/destbreso/rowstore",
+      "npmUrl": "https://www.npmjs.com/package/rowstore",
+      "category": "data",
+      "createdAt": "2026-08-04T15:54:19.573Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 79
+    },
+    {
+      "name": "rowtoll",
+      "version": "0.1.0",
+      "description": "A benchmark harness for in-memory JavaScript collections and query engines: every result checked against Array.prototype.filter, rows examined counted through the records themselves, and the best possible index set computed by exhaustive search, across wo",
+      "license": "MIT",
+      "repository": "https://github.com/destbreso/rowtoll",
+      "npmUrl": "https://www.npmjs.com/package/rowtoll",
+      "category": "data",
+      "createdAt": "2026-08-04T15:11:12.689Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 90
     },
     {
       "name": "rr-html",
@@ -34704,6 +34980,18 @@
       "createdAt": "2026-07-28T02:16:54.085Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 68
+    },
+    {
+      "name": "sort-members",
+      "version": "1.0.0",
+      "description": "Приводит TS/JS-классы и Angular-шаблоны к единому стилю одной командой: порядок членов класса, модификаторы доступа, группировка импортов, отступы switch-case — и отдельно порядок атрибутов в HTML-тегах. Порядок сортировки по умолчанию (сверху вниз): 1) i",
+      "license": "MIT",
+      "repository": "https://github.com/mixa-r/member-ordering-extension-main-2",
+      "npmUrl": "https://www.npmjs.com/package/sort-members",
+      "category": "frontend",
+      "createdAt": "2026-08-04T16:01:57.209Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 90
     },
     {
       "name": "soter-pii",
@@ -37392,6 +37680,18 @@
       "createdAt": "2026-07-27T21:13:59.277Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 76
+    },
+    {
+      "name": "winr-web-sdk",
+      "version": "2.2.0",
+      "description": "Web SDK for WINR sweepstakes platform",
+      "license": "MIT",
+      "repository": "https://github.com/AVAFLI/winr_web_sdk",
+      "npmUrl": "https://www.npmjs.com/package/winr-web-sdk",
+      "category": "data",
+      "createdAt": "2026-08-04T15:18:49.052Z",
+      "discoveredAt": "2026-08-04T16:52:41.345Z",
+      "score": 75
     },
     {
       "name": "winter-avatar",
