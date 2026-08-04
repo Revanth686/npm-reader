@@ -1,39 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123257108,
-  "lastRunAt": "2026-08-04T16:52:41.345Z",
+  "lastSequence": 123271952,
+  "lastRunAt": "2026-08-04T18:19:51.652Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@zzzgenesis00/bitcoin-lib",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@zzzgenesis00/near-api",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@zzzgenesis00/spl-token-utils",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@wildorder/program-pipeline",
+      "name": "@salesforce/ui-theme-manager",
       "attempts": 1
     },
     {
-      "name": "@fieldwork-ai/cli",
+      "name": "@evestack/composio",
       "attempts": 1
     },
     {
-      "name": "@csark0812/mcp-dev",
+      "name": "@evestack/sandbox-opensandbox",
       "attempts": 1
     },
     {
-      "name": "@andreaarrighi/pi-meat",
-      "attempts": 1
-    },
-    {
-      "name": "@williamsuchun/sessionport",
+      "name": "@ololoepepe/api-zustand-bindings",
       "attempts": 1
     }
   ]
