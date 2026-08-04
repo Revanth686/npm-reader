@@ -1274,6 +1274,18 @@
       "score": 79
     },
     {
+      "name": "@ancher-ai/cli",
+      "version": "0.1.1",
+      "description": "Command line for Ancher, your personal knowledge base and research assistant: capture notes, search them by meaning, chat with the agent, and script the whole Ancher API.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/streamify-one/ancher-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40ancher-ai%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-04T03:24:22.062Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 76
+    },
+    {
       "name": "@andreykazanin/teams-mcp",
       "version": "1.1.0",
       "description": "Hardened fork of Teams MCP — Microsoft Graph Teams integration for AI assistants",
@@ -5258,6 +5270,18 @@
       "score": 78
     },
     {
+      "name": "@ecls-studio/rerius",
+      "version": "1.1.1",
+      "description": "Rerius — binary analysis, disassembler, CFG, symbolic execution, decompiler. x86-64 · AArch64 · RISC-V. Zero external dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ECLS-Studio/rerius",
+      "npmUrl": "https://www.npmjs.com/package/%40ecls-studio%2Frerius",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T09:02:49.407Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 93
+    },
+    {
       "name": "@eddieparc/senpi-multiaccounts",
       "version": "0.1.0",
       "description": "Senpi addon: multi-account subscriptions for Claude, OpenAI Codex and Kiro — per-account usage, cache-preserving routing, usage-aware placement and 429 failover.",
@@ -6468,6 +6492,18 @@
       "createdAt": "2026-08-01T14:10:26.970Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 96
+    },
+    {
+      "name": "@geoapify/iana-timezone-metadata",
+      "version": "1.0.0",
+      "description": "Compact IANA timezone metadata, aliases, UTC offsets, DST states, transitions, and country lookups.",
+      "license": "MIT",
+      "repository": "https://github.com/geoapify/iana-timezone-metadata",
+      "npmUrl": "https://www.npmjs.com/package/%40geoapify%2Fiana-timezone-metadata",
+      "category": "backend",
+      "createdAt": "2026-08-04T08:05:10.239Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 89
     },
     {
       "name": "@georgedong32/pi-review",
@@ -8102,6 +8138,18 @@
       "score": 66
     },
     {
+      "name": "@govplane/cli",
+      "version": "1.0.0",
+      "description": "Govplane CLI — validate and inspect Govplane policy drafts and bundles locally, with no account and no network required.",
+      "license": "MIT",
+      "repository": "https://github.com/Govplane/govplane-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40govplane%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-04T09:44:55.713Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 84
+    },
+    {
       "name": "@goxtechnologies/infor-visual-mcp",
       "version": "0.0.1",
       "description": "Infor VISUAL MCP — Model Context Protocol server for the VISUAL ERP (sales, inventory, purchasing, financials, shop floor, lot trace). Self-documenting category tools, safe-by-default writes. Under active development (not functional for live VISUAL yet).",
@@ -8328,6 +8376,18 @@
       "createdAt": "2026-07-28T04:50:25.041Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 73
+    },
+    {
+      "name": "@happyskillsai/skill-drift-check",
+      "version": "0.1.0",
+      "description": "Passive, non-blocking drift detection for AI agent skills installed alongside a CLI — tells the user when their installed skills (and optionally the CLI itself) have fallen behind the registry, without ever making them wait on the network.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/happyskillsai/skill-drift-check",
+      "npmUrl": "https://www.npmjs.com/package/%40happyskillsai%2Fskill-drift-check",
+      "category": "cli",
+      "createdAt": "2026-08-04T07:46:44.568Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 86
     },
     {
       "name": "@harrify/whatsapp",
@@ -10658,6 +10718,18 @@
       "score": 82
     },
     {
+      "name": "@makashif/brand",
+      "version": "1.0.1",
+      "description": "A branded developer signature for every surface — an interactive DevTools console card, a live on-page brand card, and an ANSI terminal banner. One drop-in for Next.js, Astro, Nuxt, SvelteKit, Node, Express or plain HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/makashif/particles",
+      "npmUrl": "https://www.npmjs.com/package/%40makashif%2Fbrand",
+      "category": "frontend",
+      "createdAt": "2026-08-04T09:17:26.189Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 100
+    },
+    {
       "name": "@makashif/particles",
       "version": "1.0.0",
       "description": "Cinematic particle text & logo engine for any website — one drop-in component for React, Vue, Svelte, Angular, Astro or plain HTML, with a live tuning GUI, 10 presets and transparent-canvas support.",
@@ -12578,6 +12650,18 @@
       "score": 63
     },
     {
+      "name": "@nomiwsd/product-engineer-pro",
+      "version": "1.0.2",
+      "description": "Portable AI coding skill: production-grade full-stack engineering standards for Next.js, React, TypeScript, Tailwind, shadcn/ui, Node.js, Express, NestJS, PostgreSQL, and MongoDB.",
+      "license": "MIT",
+      "repository": "https://github.com/nomiwsd/product-engineer-pro-skill-new",
+      "npmUrl": "https://www.npmjs.com/package/%40nomiwsd%2Fproduct-engineer-pro",
+      "category": "frontend",
+      "createdAt": "2026-08-04T08:59:03.716Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 79
+    },
+    {
       "name": "@northern-breeze/goatlogger",
       "version": "2.0.2",
       "description": "Async, non-blocking logger SDK with remote ingest, automatic batching, exponential-backoff retry, and a dead-letter queue.",
@@ -14088,6 +14172,18 @@
       "createdAt": "2026-07-25T18:59:02.288Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 54
+    },
+    {
+      "name": "@qoder-ai/better-harness",
+      "version": "0.4.1",
+      "description": "Build an AI-ready engineering system for safe coding-agent delivery and continuous software improvement.",
+      "license": "MIT",
+      "repository": "https://github.com/QoderAI/better-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40qoder-ai%2Fbetter-harness",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T09:35:00.016Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 74
     },
     {
       "name": "@qrcodesdk/angular",
@@ -17522,6 +17618,18 @@
       "score": 80
     },
     {
+      "name": "@tetrac/sdk",
+      "version": "0.2.0",
+      "description": "TypeScript SDK for the TetracTrading API (tetrac.xyz) — multi-exchange market data, the Tetractechnical scanner, market intelligence, and trade execution, with built-in Solana x402 micropayment auth.",
+      "license": "MIT",
+      "repository": "https://github.com/tetrac-official/tetrac-ts-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40tetrac%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-04T09:37:06.333Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 89
+    },
+    {
       "name": "@teunlao/vidin",
       "version": "0.1.0",
       "description": "Turn a video (bug report, screen recording) into an agent-readable set of annotated keyframes. CLI + MCP server; the only native dependency is ffmpeg.",
@@ -18120,6 +18228,18 @@
       "createdAt": "2026-07-31T21:17:32.209Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 65
+    },
+    {
+      "name": "@ulisesv.com/country-state-city",
+      "version": "3.2.3",
+      "description": "Library for fetching Country, its States and Cities",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/harpreetkhalsagtbit/country-state-city",
+      "npmUrl": "https://www.npmjs.com/package/%40ulisesv.com%2Fcountry-state-city",
+      "category": "devops",
+      "createdAt": "2026-08-04T08:20:41.206Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 76
     },
     {
       "name": "@umg0/umg0",
@@ -19778,6 +19898,18 @@
       "score": 75
     },
     {
+      "name": "@zzusp/agent-channel-host",
+      "version": "1.0.0",
+      "description": "An event-driven Channel host for isolated, resumable agent runtime conversations.",
+      "license": "MIT",
+      "repository": "https://github.com/HiQ-AI/agent-channel-host",
+      "npmUrl": "https://www.npmjs.com/package/%40zzusp%2Fagent-channel-host",
+      "category": "utilities",
+      "createdAt": "2026-08-04T08:36:39.530Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 78
+    },
+    {
       "name": "@~lyre/model",
       "version": "0.1.0",
       "description": "Eloquent/Lyre-style model layer for SvelteKit + Drizzle. A base Repository carrying all CRUD + a fluent chainable query API, driven by a per-model spec and a query-string grammar (dynamic filtering/sorting/search/relations/pagination), with auto-generated",
@@ -20772,6 +20904,18 @@
       "createdAt": "2026-08-02T07:13:35.730Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 79
+    },
+    {
+      "name": "architecture-guard",
+      "version": "2.0.1",
+      "description": "SDD-tool-agnostic architecture governance orchestrator for Spec Kit, OpenSpec, and generic Markdown workflows. Detects the active SDD tool and applies the matching adapter automatically.",
+      "license": "MIT",
+      "repository": "https://github.com/DyanGalih/spec-kit-architecture-guard",
+      "npmUrl": "https://www.npmjs.com/package/architecture-guard",
+      "category": "utilities",
+      "createdAt": "2026-08-04T09:42:28.918Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 85
     },
     {
       "name": "arclear-sdk",
@@ -23006,6 +23150,18 @@
       "score": 69
     },
     {
+      "name": "cool-nwc",
+      "version": "2.2.0",
+      "description": "Tamper-evident, offline-verifiable evidence for AI systems — sealed inside a hardware TEE. Hybrid post-quantum signatures (ML-DSA-65 + Ed25519), an RFC 6962 transparency log, measurement-sealed keys via Phala dstack, RA-TLS capture, and a verifier that tr",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/KenidoesCode/cool-sdk",
+      "npmUrl": "https://www.npmjs.com/package/cool-nwc",
+      "category": "testing",
+      "createdAt": "2026-08-04T08:35:55.219Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 87
+    },
+    {
       "name": "cooladmin",
       "version": "3.4.0",
       "description": "CoolAdmin — Bootstrap 5.3 admin dashboard template. 35 pages, vanilla JavaScript, no jQuery. Chart.js, FullCalendar 7, Leaflet, dark-mode tokens, command palette, and an optional Pug + SCSS + Vite source pipeline.",
@@ -23712,6 +23868,18 @@
       "createdAt": "2026-08-02T13:51:48.502Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 63
+    },
+    {
+      "name": "design-system-agent",
+      "version": "1.1.0",
+      "description": "Master AI Design System agent — initialize .ai project scaffolding and guide Efferd-aligned UI reconstruction",
+      "license": "MIT",
+      "repository": "https://github.com/breezyx28/master-ai-design-system",
+      "npmUrl": "https://www.npmjs.com/package/design-system-agent",
+      "category": "cli",
+      "createdAt": "2026-08-04T00:06:06.950Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 76
     },
     {
       "name": "designesy-score",
@@ -26882,6 +27050,18 @@
       "score": 60
     },
     {
+      "name": "kalaris-myriad",
+      "version": "1.0.0",
+      "description": "CLI and data package for the MYRIAD 10,000-node biotech agent task graph.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/KalarisLabs/myriad",
+      "npmUrl": "https://www.npmjs.com/package/kalaris-myriad",
+      "category": "data",
+      "createdAt": "2026-08-04T10:13:13.328Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 79
+    },
+    {
       "name": "kalshi-client",
       "version": "1.0.0",
       "description": "Production-grade, fully-typed TypeScript SDK for the Kalshi Predictions API (REST + WebSocket) — RSA-PSS request signing, typed resources, automatic retries, rate-limit awareness, and a reconnecting WebSocket client with sequence-gap recovery.",
@@ -27014,6 +27194,18 @@
       "score": 69
     },
     {
+      "name": "kenya-towns",
+      "version": "1.1.1",
+      "description": "Comprehensive dataset of Kenyan towns, cities, satellite/informal settlements, and administrative wards, with query helpers.",
+      "license": "MIT",
+      "repository": "https://github.com/Kellymuterian/kenya-towns",
+      "npmUrl": "https://www.npmjs.com/package/kenya-towns",
+      "category": "data",
+      "createdAt": "2026-08-04T09:31:00.800Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 92
+    },
+    {
       "name": "kerf-dev",
       "version": "0.2.0",
       "description": "Find and fix third-party dependency risk — vulnerabilities your code actually reaches, provider API drift that breaks your usage, and risky upgrades. Read-only scan + an MCP fix channel your own coding agent drives.",
@@ -27096,6 +27288,18 @@
       "createdAt": "2026-07-25T14:56:53.335Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 69
+    },
+    {
+      "name": "krawlify-agent",
+      "version": "1.0.0",
+      "description": "Crawl a specific list of pages through a real Chrome — bot checks included — and get an Excel SEO report. Claude Code skill + CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/kamenarov/krawlify-skill",
+      "npmUrl": "https://www.npmjs.com/package/krawlify-agent",
+      "category": "testing",
+      "createdAt": "2026-08-04T08:42:57.229Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 90
     },
     {
       "name": "kspreadsheet",
@@ -28056,6 +28260,18 @@
       "createdAt": "2026-08-02T04:21:28.204Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 86
+    },
+    {
+      "name": "mcp-animenewsnetwork",
+      "version": "1.0.0",
+      "description": "MCP server for Anime News Network. Search the anime and manga encyclopedia, read cast, staff and episodes, and follow the news wire. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-animenewsnetwork",
+      "npmUrl": "https://www.npmjs.com/package/mcp-animenewsnetwork",
+      "category": "backend",
+      "createdAt": "2026-08-04T09:37:29.221Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 95
     },
     {
       "name": "mcp-crypto-arbitrage",
@@ -29702,6 +29918,18 @@
       "score": 91
     },
     {
+      "name": "omni-vision-pro",
+      "version": "1.0.0",
+      "description": "Production-grade MCP server for ordered image analysis, code context, and safe ZIP inspection.",
+      "license": "MIT",
+      "repository": "https://github.com/0xnurrabby/omni-vision-pro",
+      "npmUrl": "https://www.npmjs.com/package/omni-vision-pro",
+      "category": "backend",
+      "createdAt": "2026-08-04T09:04:26.591Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 81
+    },
+    {
       "name": "omp-smart-approve",
       "version": "0.1.1",
       "description": "An LLM safety judge in front of tool calls OMP would otherwise auto-approve. Hard-blocks clear attacks and clear mistakes, escalates genuine uncertainty to a human.",
@@ -29880,6 +30108,18 @@
       "createdAt": "2026-07-28T01:45:14.420Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 75
+    },
+    {
+      "name": "opencode-foreman",
+      "version": "0.1.0",
+      "description": "Let Claude plan and validate coding tasks while OpenCode CLI, driven by a free model, does the implementation. CLI + MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/Namit-nair/opencode-foreman",
+      "npmUrl": "https://www.npmjs.com/package/opencode-foreman",
+      "category": "backend",
+      "createdAt": "2026-08-04T09:54:25.996Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 78
     },
     {
       "name": "opencode-github-sync",
@@ -30590,6 +30830,18 @@
       "score": 73
     },
     {
+      "name": "pi-atlas",
+      "version": "0.1.0",
+      "description": "Event-driven coding extensions for the pi agent — async tasks, goal-driven auto-continue, and Feishu notifications for unattended infra/SRE runs.",
+      "license": "MIT",
+      "repository": "https://github.com/Menghuan1918/pi-atlas",
+      "npmUrl": "https://www.npmjs.com/package/pi-atlas",
+      "category": "utilities",
+      "createdAt": "2026-08-04T08:47:28.757Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 80
+    },
+    {
       "name": "pi-browse-replies",
       "version": "0.1.0",
       "description": "Browse, edit, and cleanly copy previous Pi assistant replies from the prompt editor.",
@@ -31284,6 +31536,18 @@
       "createdAt": "2026-07-28T15:15:48.241Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 71
+    },
+    {
+      "name": "postjson-watch",
+      "version": "1.0.0",
+      "description": "Watch a directory tree and POST .json files as their raw contents whenever they are saved, from any editor, on any OS.",
+      "license": "MIT",
+      "repository": "https://github.com/jamiecrisp/postjson-watch",
+      "npmUrl": "https://www.npmjs.com/package/postjson-watch",
+      "category": "backend",
+      "createdAt": "2026-08-04T09:25:06.749Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 87
     },
     {
       "name": "pouch-rwa",
@@ -33470,6 +33734,18 @@
       "score": 76
     },
     {
+      "name": "shipsmith",
+      "version": "1.1.0",
+      "description": "AI-orchestrated SDLC engine — run DAG workflows that take software from idea to ship",
+      "license": "MIT",
+      "repository": "https://github.com/ngocsangairvds-tech/vsaf",
+      "npmUrl": "https://www.npmjs.com/package/shipsmith",
+      "category": "utilities",
+      "createdAt": "2026-08-04T08:17:24.023Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 82
+    },
+    {
       "name": "shoot-cc",
       "version": "0.1.0",
       "description": "No cap, for real. Stops AI coding agents from claiming \"done\" unless it can actually prove it. Zero dependencies.",
@@ -34634,6 +34910,18 @@
       "score": 77
     },
     {
+      "name": "terra-sinchlor",
+      "version": "1.0.0",
+      "description": "SINCHLOR — Terra Ecosystem Secrets Camouflage, Credential Masking & Ephemeral Credentials Engine at $0 Cost",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/Sinchlor",
+      "npmUrl": "https://www.npmjs.com/package/terra-sinchlor",
+      "category": "utilities",
+      "createdAt": "2026-08-04T09:42:56.045Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 86
+    },
+    {
       "name": "terra-termes",
       "version": "1.0.0",
       "description": "TERMES — Terra Ecosystem Autonomous Web Digesting, Headless Automation & Inverted APIs Engine at $0 Cost",
@@ -35352,6 +35640,18 @@
       "createdAt": "2026-08-02T15:24:26.636Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 73
+    },
+    {
+      "name": "unillm-sdk",
+      "version": "0.1.0",
+      "description": "零依赖的统一大模型接入包:一个配置搞定 OpenAI / Anthropic / Gemini / 豆包 / DeepSeek / Kimi / 通义 / GLM / Grok / Ollama 等主流大模型,内置可视化 Dashboard 与 CLI 脚手架",
+      "license": "MIT",
+      "repository": "https://github.com/DanZai233/unillm-sdk",
+      "npmUrl": "https://www.npmjs.com/package/unillm-sdk",
+      "category": "cli",
+      "createdAt": "2026-08-04T08:13:38.780Z",
+      "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 75
     },
     {
       "name": "unit-client",
