@@ -1,35 +1,51 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123271952,
-  "lastRunAt": "2026-08-04T18:19:51.652Z",
+  "lastSequence": 123287766,
+  "lastRunAt": "2026-08-04T20:02:30.667Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@zzzgenesis00/bitcoin-lib",
-      "attempts": 7
-    },
-    {
-      "name": "@zzzgenesis00/near-api",
-      "attempts": 7
-    },
-    {
-      "name": "@zzzgenesis00/spl-token-utils",
-      "attempts": 7
-    },
-    {
-      "name": "@salesforce/ui-theme-manager",
+      "name": "@aopslabs/domain-core-docman",
       "attempts": 1
     },
     {
-      "name": "@evestack/composio",
+      "name": "@aopslabs/domain-pg-bootstrap-docman",
       "attempts": 1
     },
     {
-      "name": "@evestack/sandbox-opensandbox",
+      "name": "@aopslabs/domain-runtime-config-docman",
       "attempts": 1
     },
     {
-      "name": "@ololoepepe/api-zustand-bindings",
+      "name": "@aopslabs/domain-dm-docman",
+      "attempts": 1
+    },
+    {
+      "name": "@aopslabs/domain-kit-docman",
+      "attempts": 1
+    },
+    {
+      "name": "@aopslabs/domain-host-plugin-docman",
+      "attempts": 1
+    },
+    {
+      "name": "@aopslabs/domain-product-docman",
+      "attempts": 1
+    },
+    {
+      "name": "@telegraph/checkbox",
+      "attempts": 1
+    },
+    {
+      "name": "@ha7ch/raily",
+      "attempts": 1
+    },
+    {
+      "name": "@vedanshshetti/expressjs",
+      "attempts": 1
+    },
+    {
+      "name": "@studiometa/ui-autoload",
       "attempts": 1
     }
   ]
