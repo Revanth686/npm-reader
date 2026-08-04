@@ -3422,6 +3422,18 @@
       "score": 94
     },
     {
+      "name": "@cocreate/server-tls",
+      "version": "1.12.0",
+      "description": "An automated multi-tenant TLS SSL/TLS certificate provisioning and management wrapper for CoCreate, featuring distributed http-01 challenge syncing via custom CRUD gateways, automatic 2048-bit RSA key generation, staggered renewal windows, and hot proxy r",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/CoCreate-app/CoCreate-server-tls",
+      "npmUrl": "https://www.npmjs.com/package/%40cocreate%2Fserver-tls",
+      "category": "backend",
+      "createdAt": "2026-08-04T04:11:47.996Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 92
+    },
+    {
       "name": "@coda-rho-bot/oath-keeper",
       "version": "1.0.0",
       "description": "Passively detects when agents make follow-up promises and automatically delivers on them. Cron is for things you plan. Oath Keeper is for things you promise.",
@@ -7982,6 +7994,18 @@
       "score": 83
     },
     {
+      "name": "@gluecrawl/n8n-nodes-gluecrawl",
+      "version": "1.0.1",
+      "description": "n8n community nodes for Gluecrawl — agentic web scraping. Create jobs from a plain-English goal, start runs, pull structured rows, and trigger workflows on run completion.",
+      "license": "MIT",
+      "repository": "https://github.com/deep-soup-labs/gluecrawl-n8n",
+      "npmUrl": "https://www.npmjs.com/package/%40gluecrawl%2Fn8n-nodes-gluecrawl",
+      "category": "backend",
+      "createdAt": "2026-08-04T04:16:11.214Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 91
+    },
+    {
       "name": "@glyphkiln/core",
       "version": "0.4.0",
       "description": "Deterministic, vector-first rendering for professional social-media graphics.",
@@ -11352,6 +11376,162 @@
       "createdAt": "2026-08-01T06:10:40.257Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 75
+    },
+    {
+      "name": "@molecule/api-calendar-microsoft",
+      "version": "1.0.1",
+      "description": "Microsoft Outlook / Office 365 Calendar bond for molecule.dev — read busy-blocks + write booking events via Microsoft Graph v1.0 REST API",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-calendar-microsoft",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:26:13.063Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 89
+    },
+    {
+      "name": "@molecule/api-channel",
+      "version": "1.0.1",
+      "description": "Outbound messaging channel core interface (Slack/Discord/WhatsApp/Telegram/Messenger)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-channel",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:10.187Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 84
+    },
+    {
+      "name": "@molecule/api-compliance",
+      "version": "1.0.1",
+      "description": "GDPR and data compliance core interface for molecule.dev — user data export, deletion, consent management, and processing logs",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-compliance",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:11.109Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 86
+    },
+    {
+      "name": "@molecule/api-email-templates",
+      "version": "1.0.1",
+      "description": "Transactional email templates for molecule.dev: i18n-driven subject/text/html templates with variable interpolation, sent via the bonded email transport",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-email-templates",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:13.918Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 85
+    },
+    {
+      "name": "@molecule/api-emails-inbound-ses",
+      "version": "1.0.1",
+      "description": "AWS SES inbound email provider — parses SNS notification payloads carrying SES inbound messages into normalized InboundEmail.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-emails-inbound-ses",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:26:20.853Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 86
+    },
+    {
+      "name": "@molecule/api-entitlements",
+      "version": "1.0.1",
+      "description": "Tier-based entitlements core interface for molecule.dev: typed quantitative limits per subscription plan, plan-key cache, and tier-aware middleware factories",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-entitlements",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:14.547Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 87
+    },
+    {
+      "name": "@molecule/api-geolocation",
+      "version": "1.0.1",
+      "description": "Geolocation core interface for molecule.dev — geocoding, reverse geocoding, distance calculation, autocomplete, and timezone lookups",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-geolocation",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:18.172Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 87
+    },
+    {
+      "name": "@molecule/api-media-streaming",
+      "version": "1.0.1",
+      "description": "Media streaming core interface for molecule.dev — create adaptive streams, transcode, generate manifests, and retrieve segments",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-media-streaming",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:20.148Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 84
+    },
+    {
+      "name": "@molecule/api-resource-device-auth-token",
+      "version": "1.0.1",
+      "description": "Per-device long-lived bearer tokens — hashed at rest, scoped, revocable, with last-used tracking. Distinct from human user session tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-resource-device-auth-token",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:55.116Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 85
+    },
+    {
+      "name": "@molecule/api-trash",
+      "version": "1.0.1",
+      "description": "Polymorphic soft-delete + restore + purge helper for any resource (note-taking, doc-collab, kanban, project-management, wiki, etc.).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-trash",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:28:06.541Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 85
+    },
+    {
+      "name": "@molecule/api-wearable",
+      "version": "1.0.1",
+      "description": "Wearable cloud-API ingestion core for molecule.dev — normalized contract for Fitbit, Oura, Withings, and other consumer wearable providers",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-wearable",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:31.163Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 87
+    },
+    {
+      "name": "@molecule/api-wearable-fitbit",
+      "version": "1.0.1",
+      "description": "Fitbit Web API bond for molecule.dev — daily activity, sleep, heart-rate, and weight ingestion via OAuth 2.0 PKCE",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-wearable-fitbit",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:00.388Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 85
+    },
+    {
+      "name": "@molecule/api-wearable-oura",
+      "version": "1.0.1",
+      "description": "Oura Ring Cloud API v2 bond for molecule.dev — daily activity, sleep (REM/deep/light), and heart-rate ingestion via OAuth 2.0",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-wearable-oura",
+      "category": "backend",
+      "createdAt": "2026-08-03T22:27:00.427Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 88
     },
     {
       "name": "@molecule/app-push",
@@ -19118,6 +19298,42 @@
       "score": 76
     },
     {
+      "name": "@yahyeapps/stream-chain",
+      "version": "4.2.2",
+      "description": "Chain functions, generators, Node streams, and Web streams into a pipeline with backpressure support.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/uhop/stream-chain",
+      "npmUrl": "https://www.npmjs.com/package/%40yahyeapps%2Fstream-chain",
+      "category": "data",
+      "createdAt": "2026-08-04T02:15:16.851Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 90
+    },
+    {
+      "name": "@yahyeapps/stream-chain-clone",
+      "version": "4.2.2",
+      "description": "Chain functions, generators, Node streams, and Web streams into a pipeline with backpressure support.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/uhop/stream-chain",
+      "npmUrl": "https://www.npmjs.com/package/%40yahyeapps%2Fstream-chain-clone",
+      "category": "data",
+      "createdAt": "2026-08-04T02:09:34.665Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 90
+    },
+    {
+      "name": "@yahyeapps/stream-json",
+      "version": "3.3.0",
+      "description": "A micro-library of stream components for building custom JSON and JSONC processing pipelines with a minimal memory footprint — parse, filter, and transform JSON far larger than available memory with a SAX-inspired token API, on Node.js or Web Streams.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/uhop/stream-json",
+      "npmUrl": "https://www.npmjs.com/package/%40yahyeapps%2Fstream-json",
+      "category": "backend",
+      "createdAt": "2026-08-04T01:59:29.333Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 90
+    },
+    {
       "name": "@yeetgodpro1324/jokelboard-ts",
       "version": "1.1.0",
       "description": "TypeScript client for the Jokelboard API",
@@ -22430,6 +22646,18 @@
       "score": 62
     },
     {
+      "name": "computeledger-cli",
+      "version": "0.1.0",
+      "description": "Provider-agnostic CLI and MCP server that signs, hash-chains, and verifies compute usage receipts (GPU-hours, workload type, hardware) so any third party can audit them without trusting the issuer.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/RudrenduPaul/ComputeLedger",
+      "npmUrl": "https://www.npmjs.com/package/computeledger-cli",
+      "category": "testing",
+      "createdAt": "2026-08-04T04:20:06.664Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 89
+    },
+    {
       "name": "connect-project",
       "version": "1.0.0",
       "description": "Production-ready CLI to scan, diagnose, repair, and optimize JavaScript full-stack projects.",
@@ -23280,6 +23508,18 @@
       "createdAt": "2026-07-31T16:32:23.364Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 75
+    },
+    {
+      "name": "deskcert-cli",
+      "version": "0.1.0",
+      "description": "Certify whether an AI agent is safe to operate your internal web application before production rollout. Author a YAML task suite against your own app, run it with Playwright, and gate CI/CD on a forbidden-action safety score.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/RudrenduPaul/DeskCert-CLI",
+      "npmUrl": "https://www.npmjs.com/package/deskcert-cli",
+      "category": "testing",
+      "createdAt": "2026-08-04T02:50:21.174Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 90
     },
     {
       "name": "desktop-location-sdk",
@@ -29786,6 +30026,18 @@
       "score": 62
     },
     {
+      "name": "paceproof-cli",
+      "version": "0.1.0",
+      "description": "CLI + MCP server that verifies Ed25519-signed compute-attestation records from any provider and reports what compute was actually run, by whom, and whether every signature checks out. Read-only reporting layer -- does not sign or generate attestations.",
+      "license": "MIT",
+      "repository": "https://github.com/RudrenduPaul/PaceProof",
+      "npmUrl": "https://www.npmjs.com/package/paceproof-cli",
+      "category": "testing",
+      "createdAt": "2026-08-04T04:32:15.031Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 90
+    },
+    {
       "name": "package-contract",
       "version": "1.0.0",
       "description": "Test the npm package your users actually install.",
@@ -30420,6 +30672,18 @@
       "createdAt": "2026-08-02T16:23:48.763Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 58
+    },
+    {
+      "name": "pict-externalui",
+      "version": "1.0.0",
+      "description": "Host a pict application over a socket-first external UI protocol, so native providers (Godot, Tauri, and others) render its views.",
+      "license": "MIT",
+      "repository": "https://github.com/fable-retold/pict-externalui",
+      "npmUrl": "https://www.npmjs.com/package/pict-externalui",
+      "category": "utilities",
+      "createdAt": "2026-08-04T02:45:19.892Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 87
     },
     {
       "name": "pigeonsms.js",
@@ -31812,6 +32076,18 @@
       "createdAt": "2026-07-30T16:11:17.971Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 91
+    },
+    {
+      "name": "reepub",
+      "version": "1.1.0",
+      "description": "Scanned PDFs, web pages and broken EPUBs into clean, reflowable EPUB3 that passes official epubcheck at zero errors. Apple Vision OCR on your own Mac, and the OCR ships as its own CLI. 100% offline.",
+      "license": "MIT",
+      "repository": "https://github.com/CVERInc/reepub",
+      "npmUrl": "https://www.npmjs.com/package/reepub",
+      "category": "cli",
+      "createdAt": "2026-08-04T04:18:32.362Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 99
     },
     {
       "name": "relintio",
@@ -33230,6 +33506,18 @@
       "score": 70
     },
     {
+      "name": "slimdex-mcp",
+      "version": "1.0.0",
+      "description": "A local MCP server for narrow code retrieval: outlines, symbol context, a dependency graph, and persistent memory instead of whole-file reads.",
+      "license": "MIT",
+      "repository": "https://github.com/Siddhukaushik/slimdex-mcp",
+      "npmUrl": "https://www.npmjs.com/package/slimdex-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T01:56:31.387Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 88
+    },
+    {
       "name": "smooth-stream-text",
       "version": "0.1.1",
       "description": "Smooth out bursty LLM text streams and reveal them as a left-to-right wave. Headless core with zero dependencies, plus React, Vue, Svelte and Web Component wrappers.",
@@ -33792,6 +34080,18 @@
       "createdAt": "2026-07-30T18:55:46.973Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 83
+    },
+    {
+      "name": "swarmmesh-cli",
+      "version": "0.1.0",
+      "description": "SwarmMesh: a shared-context and memory coordination server for swarms of parallel AI agents. HTTP + WebSocket mesh server, CLI, and MCP surface implementing the SwarmMesh protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/RudrenduPaul/swarmmesh",
+      "npmUrl": "https://www.npmjs.com/package/swarmmesh-cli",
+      "category": "backend",
+      "createdAt": "2026-08-04T03:08:35.471Z",
+      "discoveredAt": "2026-08-04T04:56:35.171Z",
+      "score": 88
     },
     {
       "name": "synctera-sdk",
