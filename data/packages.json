@@ -1094,6 +1094,18 @@
       "score": 70
     },
     {
+      "name": "@alsocoder/apna-table",
+      "version": "0.1.1",
+      "description": "A flexible React data table with client/server modes, sorting, filters, pagination, row selection, and bulk actions.",
+      "license": "MIT",
+      "repository": "https://github.com/alsocoders/apna-table",
+      "npmUrl": "https://www.npmjs.com/package/%40alsocoder%2Fapna-table",
+      "category": "frontend",
+      "createdAt": "2026-08-03T03:33:41.264Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 68
+    },
+    {
       "name": "@altrsoftware/shield",
       "version": "0.0.2",
       "description": "ALTR Shield Node.js SDK — protect and restore sensitive data via the Shield data plane, with an XML token envelope and streaming detokenization.",
@@ -1884,6 +1896,30 @@
       "createdAt": "2026-07-30T21:13:41.253Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 74
+    },
+    {
+      "name": "@auron-labs/opencode-worktrunk",
+      "version": "0.2.0",
+      "description": "OpenCode plugin that wraps the Worktrunk CLI (`wt`) for git worktree management — list, switch/create, remove, merge, step, and arbitrary `wt` passthrough.",
+      "license": "MIT",
+      "repository": "https://github.com/auron-labs/opencode-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40auron-labs%2Fopencode-worktrunk",
+      "category": "cli",
+      "createdAt": "2026-08-04T00:51:26.063Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 69
+    },
+    {
+      "name": "@auspex0/parley",
+      "version": "1.0.1",
+      "description": "Parley — one local chat room shared by you, Claude (Claude Code CLI) and Codex (OpenAI Codex CLI), with a web UI, lurk mode and per-room talk/work modes.",
+      "license": "MIT",
+      "repository": "https://github.com/auspex0/parley",
+      "npmUrl": "https://www.npmjs.com/package/%40auspex0%2Fparley",
+      "category": "cli",
+      "createdAt": "2026-08-03T23:43:58.497Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 85
     },
     {
       "name": "@austencloud/agent-hub",
@@ -5798,6 +5834,18 @@
       "score": 100
     },
     {
+      "name": "@firstpick/pi-package-questionnaire",
+      "version": "0.1.0",
+      "description": "Native TUI and RPC questionnaires for the Pi coding agent, with resumable clarification.",
+      "license": "MIT",
+      "repository": "https://github.com/Firstp1ck/pi-coding-agent-forge",
+      "npmUrl": "https://www.npmjs.com/package/%40firstpick%2Fpi-package-questionnaire",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:35:39.999Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 68
+    },
+    {
       "name": "@firstpick/pi-skill-subagent-governance",
       "version": "0.1.0",
       "description": "Portable Agent Skill that governs delegation admissibility for a parent orchestrator, covering zero-or-multiple fanout, the static two-worker minimum, role-fit balance, one-writer isolation, worker handoffs, bounded retry safety, and reviewer finding disp",
@@ -6348,6 +6396,18 @@
       "createdAt": "2026-07-28T18:26:21.137Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 67
+    },
+    {
+      "name": "@gcoder1991/pi-mesh",
+      "version": "0.1.0",
+      "description": "Host-owned child-agent mesh for Pi, exposed as typed extension tools",
+      "license": "MIT",
+      "repository": "https://github.com/gcoder1991/pi-mesh",
+      "npmUrl": "https://www.npmjs.com/package/%40gcoder1991%2Fpi-mesh",
+      "category": "utilities",
+      "createdAt": "2026-08-04T01:08:39.451Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 66
     },
     {
       "name": "@gengirish/skills-mcp",
@@ -9662,6 +9722,18 @@
       "score": 66
     },
     {
+      "name": "@justai/yanyan",
+      "version": "0.1.1",
+      "description": "@justai/yanyan is a React component for building endless horizontal rows of content that a person moves through with the keyboard. It is designed for interfaces where a pointer is not the primary input — a television across a room, a remote control, or si",
+      "license": "MIT",
+      "repository": "https://github.com/justai-pro/fn-yanyan",
+      "npmUrl": "https://www.npmjs.com/package/%40justai%2Fyanyan",
+      "category": "frontend",
+      "createdAt": "2026-08-04T00:11:14.005Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 67
+    },
+    {
       "name": "@jvault/sdk",
       "version": "0.1.1",
       "description": "Embed JVault staking-v2 (TON) in any app — no backend required.",
@@ -11282,6 +11354,126 @@
       "score": 75
     },
     {
+      "name": "@molecule/app-push",
+      "version": "1.0.0",
+      "description": "Client-side push notifications interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-push",
+      "category": "cli",
+      "createdAt": "2026-08-04T00:43:51.301Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 73
+    },
+    {
+      "name": "@molecule/app-react",
+      "version": "1.0.0",
+      "description": "React framework bindings for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-react",
+      "category": "frontend",
+      "createdAt": "2026-08-04T00:45:11.982Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 64
+    },
+    {
+      "name": "@molecule/app-rich-text",
+      "version": "1.0.0",
+      "description": "Rich text editor interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-rich-text",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:46:47.184Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 76
+    },
+    {
+      "name": "@molecule/app-screen-orientation",
+      "version": "1.0.0",
+      "description": "Screen orientation interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-screen-orientation",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:47:40.408Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 74
+    },
+    {
+      "name": "@molecule/app-share",
+      "version": "1.0.0",
+      "description": "Native share sheet interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-share",
+      "category": "devops",
+      "createdAt": "2026-08-04T00:49:26.762Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 73
+    },
+    {
+      "name": "@molecule/app-solid",
+      "version": "1.0.0",
+      "description": "Solid.js framework bindings for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-solid",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:50:47.163Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 64
+    },
+    {
+      "name": "@molecule/app-splash-screen",
+      "version": "1.0.0",
+      "description": "Splash screen control interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-splash-screen",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:51:27.070Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 73
+    },
+    {
+      "name": "@molecule/app-status-bar",
+      "version": "1.0.0",
+      "description": "Status bar customization interface for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-status-bar",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:52:20.669Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 75
+    },
+    {
+      "name": "@molecule/app-svelte",
+      "version": "1.0.0",
+      "description": "Svelte framework bindings for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-svelte",
+      "category": "frontend",
+      "createdAt": "2026-08-04T00:53:52.624Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 64
+    },
+    {
+      "name": "@molecule/app-video",
+      "version": "1.0.0",
+      "description": "Video player interface and utilities for molecule.dev",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapp-video",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:58:08.667Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 75
+    },
+    {
       "name": "@molviewer/core",
       "version": "0.3.0",
       "description": "Extensible, offline, web-native 3D molecular viewer for small molecules and MD trajectories.",
@@ -11642,6 +11834,18 @@
       "score": 57
     },
     {
+      "name": "@narumitw/pi-recall",
+      "version": "0.48.1",
+      "description": "Experimental Pi extension for saving and recalling messages across sessions.",
+      "license": "MIT",
+      "repository": "https://github.com/narumiruna/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40narumitw%2Fpi-recall",
+      "category": "utilities",
+      "createdAt": "2026-08-03T18:28:56.113Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 65
+    },
+    {
       "name": "@narumitw/pi-stamp",
       "version": "0.38.0",
       "description": "Pi extension that shows timestamps for user and assistant messages.",
@@ -11808,6 +12012,18 @@
       "createdAt": "2026-07-25T15:20:22.229Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 59
+    },
+    {
+      "name": "@nestjs-redisx/pubsub",
+      "version": "1.7.0",
+      "description": "Redis Pub/Sub plugin for NestJS RedisX: typed publish/subscribe, pattern subscriptions, @Subscribe decorator with auto-discovery, and a dedicated subscriber connection",
+      "license": "MIT",
+      "repository": "https://github.com/nestjs-redisx/nestjs-redisx",
+      "npmUrl": "https://www.npmjs.com/package/%40nestjs-redisx%2Fpubsub",
+      "category": "backend",
+      "createdAt": "2026-08-03T23:13:07.181Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 64
     },
     {
       "name": "@neurelectra-oss/youtube-captions",
@@ -18614,6 +18830,18 @@
       "score": 83
     },
     {
+      "name": "@williamthorsen/kb",
+      "version": "0.3.0",
+      "description": "Knowledge-base foundation: discovery, config, frontmatter parsing, records, tags, and vault-integrity checks",
+      "license": "ISC",
+      "repository": "https://github.com/williamthorsen/codeassembly",
+      "npmUrl": "https://www.npmjs.com/package/%40williamthorsen%2Fkb",
+      "category": "utilities",
+      "createdAt": "2026-08-03T09:40:42.297Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 68
+    },
+    {
       "name": "@willink-labs/pulse",
       "version": "1.1.0",
       "description": "PULSE — i-Willink's design system as CSS custom properties. The web binding of the Flutter package pulse_theme, generated from the same DTCG token contract.",
@@ -19682,6 +19910,18 @@
       "score": 75
     },
     {
+      "name": "agentic-house-search",
+      "version": "0.1.0",
+      "description": "MCP server for UK neighbourhood research: a full postcode report (demographics, crime, deprivation, prices, fibre, 5G, transport, amenities, schools, planning constraints) plus a searchable registry of the 45 open datasets behind it.",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/asturksever/agentic-house-search-data-registry",
+      "npmUrl": "https://www.npmjs.com/package/agentic-house-search",
+      "category": "backend",
+      "createdAt": "2026-08-04T00:56:45.944Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 68
+    },
+    {
       "name": "agentictools",
       "version": "1.0.0",
       "description": "Search 41,000+ agent skills, MCP servers, Claude Code plugins, and agentic loops from your terminal. The CLI for getagentictools.com.",
@@ -20064,6 +20304,18 @@
       "createdAt": "2026-07-31T22:45:30.701Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 46
+    },
+    {
+      "name": "appship-cli",
+      "version": "0.1.1",
+      "description": "Open-source AI release assistant that analyzes your mobile app and prepares everything required for App Store and Google Play submission",
+      "license": "MIT",
+      "repository": "https://github.com/gunwooko/appship",
+      "npmUrl": "https://www.npmjs.com/package/appship-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-03T23:41:46.695Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 68
     },
     {
       "name": "appskyline",
@@ -21888,6 +22140,18 @@
       "createdAt": "2026-07-25T17:20:29.919Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 66
+    },
+    {
+      "name": "codeassembly",
+      "version": "0.4.0",
+      "description": "CLI that installs reusable AI agent guidance (rulebooks, skills, and subagents) into coding-harness directories",
+      "license": "ISC",
+      "repository": "https://github.com/williamthorsen/codeassembly",
+      "npmUrl": "https://www.npmjs.com/package/codeassembly",
+      "category": "cli",
+      "createdAt": "2026-08-03T08:33:19.925Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 71
     },
     {
       "name": "codefabric",
@@ -25284,6 +25548,18 @@
       "createdAt": "2026-07-29T19:18:47.392Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 61
+    },
+    {
+      "name": "hero-scroll-controller",
+      "version": "1.0.0",
+      "description": "Premium scroll-driven hero section with 3D text rotation and physics-based animations (spring, rubber band, friction, momentum, overscroll)",
+      "license": "MIT",
+      "repository": "https://github.com/KenneJunior/scroll-controller",
+      "npmUrl": "https://www.npmjs.com/package/hero-scroll-controller",
+      "category": "utilities",
+      "createdAt": "2026-08-03T23:46:55.366Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 73
     },
     {
       "name": "hexo-theme-tranquility",
@@ -32534,6 +32810,18 @@
       "score": 68
     },
     {
+      "name": "shadewright",
+      "version": "3.2.0",
+      "description": "The GSV design system: canon, tokens, component contract, component library, and the linter that enforces them.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/mistakeknot/shadewright",
+      "npmUrl": "https://www.npmjs.com/package/shadewright",
+      "category": "utilities",
+      "createdAt": "2026-08-04T00:45:18.099Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 71
+    },
+    {
       "name": "shadow-monitor-mcp",
       "version": "1.0.0",
       "description": "MCP server for inspecting Shadow Monitor diagnostic bundles (rrweb session replay, network, console, and storage capture) locally — works with any MCP client.",
@@ -34788,6 +35076,18 @@
       "createdAt": "2026-07-26T07:32:50.295Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 85
+    },
+    {
+      "name": "verimemo",
+      "version": "0.1.0",
+      "description": "Verified local Markdown memory for Codex Desktop, Codex CLI, and ChatGPT Desktop on Windows.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vezlin1/verimemo",
+      "npmUrl": "https://www.npmjs.com/package/verimemo",
+      "category": "cli",
+      "createdAt": "2026-08-03T23:49:19.063Z",
+      "discoveredAt": "2026-08-04T01:47:25.426Z",
+      "score": 68
     },
     {
       "name": "veriquote",
