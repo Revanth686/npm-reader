@@ -926,6 +926,18 @@
       "score": 81
     },
     {
+      "name": "@airi.live/mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Airi — upload, transcode, DRM-encrypt and publish video from your AI assistant",
+      "license": "ISC",
+      "repository": "https://github.com/raestrada95/airi-kms",
+      "npmUrl": "https://www.npmjs.com/package/%40airi.live%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T23:40:17.532Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 76
+    },
+    {
       "name": "@aivin-labs/sdk",
       "version": "1.0.0",
       "description": "Aivin Plugin SDK - gRPC client/server for building plugins that run inside the Aivin platform (agentic engine, vector search, workspace, tasks, and more)",
@@ -1406,6 +1418,18 @@
       "score": 76
     },
     {
+      "name": "@andrewmason7/antigravity-boost",
+      "version": "1.0.1",
+      "description": "Developer productivity & speed booster plugin for Google Antigravity featuring automatic Git WIP checkpoints, interactive dependency resolution, smart permission gating, and project convention adaptation.",
+      "license": "MIT",
+      "repository": "https://github.com/AndrewMason7/antigravity-boost",
+      "npmUrl": "https://www.npmjs.com/package/%40andrewmason7%2Fantigravity-boost",
+      "category": "utilities",
+      "createdAt": "2026-08-04T23:42:52.290Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 75
+    },
+    {
       "name": "@andreykazanin/teams-mcp",
       "version": "1.1.0",
       "description": "Hardened fork of Teams MCP — Microsoft Graph Teams integration for AI assistants",
@@ -1764,6 +1788,18 @@
       "createdAt": "2026-07-26T10:35:12.800Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 71
+    },
+    {
+      "name": "@arrai-innovations/vitepress-theme",
+      "version": "1.0.0",
+      "description": "The shared Arrai Innovations documentation theme for VitePress.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/arrai-innovations/vitepress-theme",
+      "npmUrl": "https://www.npmjs.com/package/%40arrai-innovations%2Fvitepress-theme",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T22:39:36.707Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 52
     },
     {
       "name": "@arraypress/llms-txt-astro",
@@ -2232,6 +2268,66 @@
       "createdAt": "2026-07-29T23:10:22.137Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 68
+    },
+    {
+      "name": "@axiru/agent-spend-guardrails",
+      "version": "0.1.0",
+      "description": "Deterministic spend guardrails for AI agents. Define policies, evaluate spend intents, get allow / require_approval / deny with stable, replayable reason codes. No SaaS dependency.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AxiruAI/axiru-oss",
+      "npmUrl": "https://www.npmjs.com/package/%40axiru%2Fagent-spend-guardrails",
+      "category": "devops",
+      "createdAt": "2026-08-04T23:30:03.700Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 78
+    },
+    {
+      "name": "@axiru/agt-extension",
+      "version": "0.1.0",
+      "description": "Axiru extension for the Microsoft Agent Governance Toolkit (AGT). Routes payment-action tool calls to Axiru's policy engine; non-payment tool calls fall through to AGT's defaults.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AxiruAI/axiru-oss",
+      "npmUrl": "https://www.npmjs.com/package/%40axiru%2Fagt-extension",
+      "category": "utilities",
+      "createdAt": "2026-08-04T23:30:30.407Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 67
+    },
+    {
+      "name": "@axiru/spec",
+      "version": "0.1.0",
+      "description": "The Axiru policy and evidence vocabulary. Typed OutboundValueTransfer union, Policy v2 rule schema, rail registry, and x402 signed offer and receipt evidence records. Zero runtime dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AxiruAI/axiru-oss",
+      "npmUrl": "https://www.npmjs.com/package/%40axiru%2Fspec",
+      "category": "devops",
+      "createdAt": "2026-08-04T23:21:32.252Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 86
+    },
+    {
+      "name": "@axiru/x402-policy-middleware",
+      "version": "0.1.0",
+      "description": "Policy pre-authorization middleware for x402 (HTTP 402 Payment Required) flows. Wraps an x402 facilitator request with a governance decision check and emits a signed authorization token the signer can verify before broadcasting on-chain.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AxiruAI/axiru-oss",
+      "npmUrl": "https://www.npmjs.com/package/%40axiru%2Fx402-policy-middleware",
+      "category": "backend",
+      "createdAt": "2026-08-04T23:30:14.625Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 72
+    },
+    {
+      "name": "@axiru/x402-receipt-verifier",
+      "version": "0.1.0",
+      "description": "Verify x402 SignedOffers and SignedReceipts (JWS and EIP-712) independently of the party that issued them. Zero runtime dependencies beyond the Axiru spec types.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AxiruAI/axiru-oss",
+      "npmUrl": "https://www.npmjs.com/package/%40axiru%2Fx402-receipt-verifier",
+      "category": "devops",
+      "createdAt": "2026-08-04T23:30:23.591Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 66
     },
     {
       "name": "@axxify/agents",
@@ -8282,6 +8378,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/unisocks",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for Unisocks (build etherscan-unisocks-8b4ed9cf-1785885859322, commit b56dc8f, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/unisocks",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Funisocks",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T16:59:16.537Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/uniswapv2router02",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for UniswapV2Router02 (build etherscan-uniswapv2router02-7a250d56-1785280243693, commit da0daba, branch etherscan)",
@@ -8856,6 +8964,18 @@
       "createdAt": "2026-08-03T22:03:51.173Z",
       "discoveredAt": "2026-08-03T22:05:36.466Z",
       "score": 73
+    },
+    {
+      "name": "@haic/cli",
+      "version": "0.3.0",
+      "description": "A natural-language programming language for AI to write software in. Compiles to Java, TypeScript, Python and Go, plus Docker, Kubernetes, Terraform and AWS.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dscanavall11/hadl",
+      "npmUrl": "https://www.npmjs.com/package/%40haic%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-08-03T05:32:37.823Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 55
     },
     {
       "name": "@hamzu/api-pilot",
@@ -14748,6 +14868,18 @@
       "createdAt": "2026-08-04T22:26:05.190Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 75
+    },
+    {
+      "name": "@practicalworks/guardrails",
+      "version": "0.1.1",
+      "description": "The shop's shared git hooks, installed by one dependency. Run `factory-guardrails install` from a repo's prepare script.",
+      "license": "MIT",
+      "repository": "https://github.com/PracticalWorks/practical-works-factory",
+      "npmUrl": "https://www.npmjs.com/package/%40practicalworks%2Fguardrails",
+      "category": "utilities",
+      "createdAt": "2026-08-04T22:51:56.387Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 47
     },
     {
       "name": "@prakhhxrcodes/codevitals",
@@ -21734,6 +21866,18 @@
       "score": 90
     },
     {
+      "name": "agents-studio",
+      "version": "0.1.1",
+      "description": "A workbench for Claude Code — run several sessions at once, each on its own branch, put recurring work on a schedule, and see what everything cost.",
+      "license": "MIT",
+      "repository": "https://github.com/davidrodriguezpozo/agents-ui",
+      "npmUrl": "https://www.npmjs.com/package/agents-studio",
+      "category": "utilities",
+      "createdAt": "2026-08-04T23:01:10.908Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 76
+    },
+    {
       "name": "agentspec-rdd",
       "version": "0.2.0",
       "description": "Installer for the AgentSpec SDD workflow — 5-phase spec-driven development for Claude Code and Codex",
@@ -23714,6 +23858,18 @@
       "score": 99
     },
     {
+      "name": "claude-code-tokens",
+      "version": "0.1.0",
+      "description": "Reactive token & cost status line for the Claude Code TUI",
+      "license": "MIT",
+      "repository": "https://github.com/yuseferi/claude-code-tokens",
+      "npmUrl": "https://www.npmjs.com/package/claude-code-tokens",
+      "category": "frontend",
+      "createdAt": "2026-08-04T23:22:22.523Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 51
+    },
+    {
       "name": "claude-code-usage-widget",
       "version": "1.0.0",
       "description": "Floating desktop widget that shows how much of your Claude Code plan you have used, plus where your usage is going per project.",
@@ -23820,6 +23976,18 @@
       "createdAt": "2026-07-28T10:02:26.673Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 100
+    },
+    {
+      "name": "claude-token-statusbar",
+      "version": "0.1.0",
+      "description": "Reactive token & cost status line for the Claude Code TUI",
+      "license": "MIT",
+      "repository": "https://github.com/yuseferi/claude-token-statusbar",
+      "npmUrl": "https://www.npmjs.com/package/claude-token-statusbar",
+      "category": "frontend",
+      "createdAt": "2026-08-04T23:26:39.735Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 52
     },
     {
       "name": "claude-usage-statusline",
@@ -25358,6 +25526,18 @@
       "score": 83
     },
     {
+      "name": "dino-trunk",
+      "version": "0.1.0",
+      "description": "Responsive, width-aware button-label collapse for React — shrink labels through shorter variants down to icon-only as space runs out, with anti-flicker hysteresis. Zero runtime dependencies; pure, testable core.",
+      "license": "MIT",
+      "repository": "https://github.com/oohalakkadi/dino-trunk",
+      "npmUrl": "https://www.npmjs.com/package/dino-trunk",
+      "category": "testing",
+      "createdAt": "2026-08-04T23:05:12.417Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 60
+    },
+    {
       "name": "discord-html-transcript",
       "version": "1.2.0",
       "description": "Pixel-accurate, self-contained HTML transcripts for Discord channels. XSS-safe by construction, CSP-locked, split into parts when a file would exceed the guild's upload limit.",
@@ -25970,6 +26150,18 @@
       "score": 82
     },
     {
+      "name": "esim-mcp",
+      "version": "0.1.1",
+      "description": "MCP server for travel eSIM plan discovery. Compare regional and local eSIM plans across countries.",
+      "license": "MIT",
+      "repository": "https://github.com/kakha13/esim-mcp",
+      "npmUrl": "https://www.npmjs.com/package/esim-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T23:16:27.819Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 53
+    },
+    {
       "name": "eslint-plugin-drizzle-security",
       "version": "0.1.0",
       "description": "ESLint plugin for drizzle-orm — detects SQL injection in raw queries built with string concatenation or template literals.",
@@ -26558,6 +26750,18 @@
       "score": 55
     },
     {
+      "name": "figma-plugin-rpc",
+      "version": "0.2.2",
+      "description": "Type-safe RPC for Figma plugins — request/response procedures and server→client notifications over postMessage, with built-in Figma transports.",
+      "license": "MIT",
+      "repository": "https://github.com/denyspupin/figma-plugin-rpc",
+      "npmUrl": "https://www.npmjs.com/package/figma-plugin-rpc",
+      "category": "backend",
+      "createdAt": "2026-08-04T23:08:05.213Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 59
+    },
+    {
       "name": "figma-unlimited-mcp",
       "version": "0.1.0",
       "description": "MCP server that lets an AI agent read and edit FigJam boards through a local Figma plugin — no REST or Dev Mode quotas.",
@@ -26664,6 +26868,18 @@
       "createdAt": "2026-07-29T23:13:49.831Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 69
+    },
+    {
+      "name": "flare-fdc",
+      "version": "0.1.0",
+      "description": "Client for Flare's Data Connector (FDC). Turn an XRPL payment — or a proven non-payment — into a Merkle proof an on-chain verifier accepts, with the indexer-lag retry already handled.",
+      "license": "MIT",
+      "repository": "https://github.com/successaje/flint",
+      "npmUrl": "https://www.npmjs.com/package/flare-fdc",
+      "category": "testing",
+      "createdAt": "2026-08-04T23:06:15.695Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 63
     },
     {
       "name": "flatcash-mcp",
@@ -26808,6 +27024,18 @@
       "createdAt": "2026-07-29T16:52:27.946Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 65
+    },
+    {
+      "name": "foundry-trace-inspector-core",
+      "version": "0.2.0",
+      "description": "Headless library for connecting to Microsoft Foundry and normalizing agent traces into a clean, typed model.",
+      "license": "MIT",
+      "repository": "https://github.com/jubins/ai-foundry-agent-inspector",
+      "npmUrl": "https://www.npmjs.com/package/foundry-trace-inspector-core",
+      "category": "data",
+      "createdAt": "2026-08-04T21:49:06.169Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 46
     },
     {
       "name": "foyer-cli",
@@ -28718,6 +28946,18 @@
       "score": 69
     },
     {
+      "name": "kenkage-mcp",
+      "version": "0.1.1",
+      "description": "MCP server exposing kenkage's on-device, isolation-by-construction DOM+JS engine as agent tools: safely load/parse a page, query the DOM, and run untrusted JavaScript in a real WASM sandbox — no headless browser, no server round-trip.",
+      "license": "MIT",
+      "repository": "https://github.com/labKnowledge/kenkage-wasm-package",
+      "npmUrl": "https://www.npmjs.com/package/kenkage-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-04T21:31:21.762Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 56
+    },
+    {
       "name": "kenya-towns",
       "version": "1.1.1",
       "description": "Comprehensive dataset of Kenyan towns, cities, satellite/informal settlements, and administrative wards, with query helpers.",
@@ -29964,6 +30204,18 @@
       "createdAt": "2026-07-28T19:11:41.341Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 94
+    },
+    {
+      "name": "mcpee-dba",
+      "version": "1.0.0",
+      "description": "Boost DBA 360: agents, skills, specs, patterns and templates for expert SQL Server operations and modernization.",
+      "license": "MIT",
+      "repository": "https://github.com/Sertxito/boost_DBA",
+      "npmUrl": "https://www.npmjs.com/package/mcpee-dba",
+      "category": "backend",
+      "createdAt": "2026-08-04T23:00:00.289Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 54
     },
     {
       "name": "mcpfy-sdk",
@@ -31812,6 +32064,18 @@
       "createdAt": "2026-08-01T07:55:59.537Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 67
+    },
+    {
+      "name": "opencode-mcp-bridge",
+      "version": "0.1.1",
+      "description": "Local MCP server that hands coding tasks to a temporary OpenCode session and reports back when finished.",
+      "license": "MIT",
+      "repository": "https://github.com/teodorgross/opencode-mcp-bridge",
+      "npmUrl": "https://www.npmjs.com/package/opencode-mcp-bridge",
+      "category": "backend",
+      "createdAt": "2026-08-04T22:58:55.419Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 70
     },
     {
       "name": "opencode-okf-context",
@@ -34982,6 +35246,18 @@
       "score": 79
     },
     {
+      "name": "rx-state-bridge",
+      "version": "1.0.0",
+      "description": "Framework-agnostic RxJS operators that bridge async streams with UI state primitives (React Hooks, Angular Signals, Vue Refs) — declarative loading, error and success feedback with zero boilerplate.",
+      "license": "MIT",
+      "repository": "https://github.com/samuelcsantana/rx-state-bridge",
+      "npmUrl": "https://www.npmjs.com/package/rx-state-bridge",
+      "category": "frontend",
+      "createdAt": "2026-08-04T23:50:31.024Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 73
+    },
+    {
       "name": "rytena-agent",
       "version": "1.0.0",
       "description": "Production memory leak detection for Node.js — detects leaks, finds the exact file and line, and generates AI-powered fixes.",
@@ -37178,6 +37454,18 @@
       "score": 72
     },
     {
+      "name": "to-steam-artwork",
+      "version": "1.0.0",
+      "description": "Convert images, GIFs, and videos into Steam-ready featured artwork.",
+      "license": "MIT",
+      "repository": "https://github.com/ShadowNineX/ToSteamArtwork",
+      "npmUrl": "https://www.npmjs.com/package/to-steam-artwork",
+      "category": "cli",
+      "createdAt": "2026-08-04T23:30:03.767Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 57
+    },
+    {
       "name": "tododdle-mcp",
       "version": "2.2.0",
       "description": "Agent-first task, project context, and time tracking for ToDoddle",
@@ -37608,6 +37896,18 @@
       "createdAt": "2026-07-26T04:21:55.755Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 72
+    },
+    {
+      "name": "ultra-format",
+      "version": "0.1.1",
+      "description": "Lightweight library for formatting and masking phone numbers by country, with support for operator-specific masks.",
+      "license": "MIT",
+      "repository": "https://github.com/IbraimovEr1an/ultra-format",
+      "npmUrl": "https://www.npmjs.com/package/ultra-format",
+      "category": "data",
+      "createdAt": "2026-08-04T15:23:19.240Z",
+      "discoveredAt": "2026-08-04T23:55:34.389Z",
+      "score": 47
     },
     {
       "name": "umactually",
