@@ -230,6 +230,18 @@
       "score": 89
     },
     {
+      "name": "@accreation/rtkx",
+      "version": "1.0.6",
+      "description": "Extensions for Redux Toolkit Query — WebSocket support and chained queries",
+      "license": "MIT",
+      "repository": "https://github.com/accreation/rtkx",
+      "npmUrl": "https://www.npmjs.com/package/%40accreation%2Frtkx",
+      "category": "frontend",
+      "createdAt": "2026-08-04T10:44:54.450Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 79
+    },
+    {
       "name": "@ackrate/core",
       "version": "0.3.2",
       "description": "High-level TypeScript SDK for contract-enforced ackrate agent-payment mandates on Stellar.",
@@ -456,6 +468,18 @@
       "createdAt": "2026-07-29T20:10:35.640Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 73
+    },
+    {
+      "name": "@aefree/pi-codecks",
+      "version": "0.8.0",
+      "description": "Pi tools, skills, and prompts for safe Codecks project-management workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/aefreedman/pi-codecks",
+      "npmUrl": "https://www.npmjs.com/package/%40aefree%2Fpi-codecks",
+      "category": "utilities",
+      "createdAt": "2026-08-04T11:39:11.689Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 69
     },
     {
       "name": "@aefree/pi-plastic",
@@ -2894,6 +2918,18 @@
       "score": 68
     },
     {
+      "name": "@bymax-one/nest-ai-tokens",
+      "version": "1.0.0",
+      "description": "AI token metering & usage-based billing for NestJS 11: provider usage normalizer (×9), versioned effective-dated pricing, immutable append-only ledger, prepaid wallets, multi-dimension budgets, and markup/margin. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-ai-tokens",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-ai-tokens",
+      "category": "backend",
+      "createdAt": "2026-08-04T12:08:20.890Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 100
+    },
+    {
       "name": "@bymax-one/nest-cache",
       "version": "1.0.0",
       "description": "Typed Redis cache for NestJS based on ioredis 5, with namespace strategy, Pub/Sub and Lua script management.",
@@ -2904,6 +2940,30 @@
       "createdAt": "2026-07-29T23:11:04.879Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 88
+    },
+    {
+      "name": "@bymax-one/nest-config",
+      "version": "1.0.0",
+      "description": "Typed and validated environment configuration entry point for NestJS 11 applications, built on Zod v4.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-config",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-config",
+      "category": "backend",
+      "createdAt": "2026-08-04T11:28:57.199Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 90
+    },
+    {
+      "name": "@bymax-one/nest-core",
+      "version": "1.0.1",
+      "description": "Zero-dependency NestJS 11 application foundation kit: error-envelope exception filter, request-timing interceptor, pagination helpers, health endpoints, and an optional Prometheus metrics endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-core",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-core",
+      "category": "backend",
+      "createdAt": "2026-08-04T11:12:16.132Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 97
     },
     {
       "name": "@bymax-one/nest-notification",
@@ -4238,6 +4298,18 @@
       "score": 86
     },
     {
+      "name": "@designless/react-native",
+      "version": "0.1.0",
+      "description": "Your brand in a React Native app. Colours, type, spacing and marks come from your published brand, and change when you publish.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/designlesshq/designless-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40designless%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-07-29T02:56:17.738Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 80
+    },
+    {
       "name": "@dev_config/client-api-kit",
       "version": "1.0.1",
       "description": "Generic, type-safe API client built on axios and api-response-kit's response envelope. Framework-agnostic 'resources' for server components/server actions, plus a TanStack Query hooks layer for client components. Generic CRUD, offset + cursor pagination,",
@@ -4440,6 +4512,18 @@
       "createdAt": "2026-08-02T03:12:01.176Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 90
+    },
+    {
+      "name": "@diagrams-so/sdk",
+      "version": "1.2.0",
+      "description": "TypeScript SDK for the Diagrams.so public API — generate, edit, and manage cloud architecture diagrams with AI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/RedHold/diagrams-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40diagrams-so%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-03T07:54:38.842Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 70
     },
     {
       "name": "@diceforge-sdk/presenter-physics",
@@ -5042,6 +5126,18 @@
       "score": 72
     },
     {
+      "name": "@docon/staff-portal",
+      "version": "1.0.1",
+      "description": "Standalone Thyrocare Staff Portal Component - Drop-in booking and ULC flow",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/pharmeasy/thyrocare-admin",
+      "npmUrl": "https://www.npmjs.com/package/%40docon%2Fstaff-portal",
+      "category": "frontend",
+      "createdAt": "2026-08-04T10:52:42.117Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 73
+    },
+    {
       "name": "@dongzijie1/pi-ai",
       "version": "0.82.1",
       "description": "Unified LLM API with automatic model discovery and provider configuration",
@@ -5076,6 +5172,18 @@
       "createdAt": "2026-07-27T22:50:55.141Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 64
+    },
+    {
+      "name": "@double-coding/pixel-print",
+      "version": "1.0.0",
+      "description": "PixelPrint —— Figma D2C 工具,一键安装 Claude Code Skill,自动将 Figma 设计稿转换为前端代码(H5 / React Native / xtaro)",
+      "license": "MIT",
+      "repository": "https://github.com/double-coding-lab/PixelPrint",
+      "npmUrl": "https://www.npmjs.com/package/%40double-coding%2Fpixel-print",
+      "category": "frontend",
+      "createdAt": "2026-08-04T11:19:47.819Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 85
     },
     {
       "name": "@doubleflower/pi-claude",
@@ -6012,6 +6120,18 @@
       "createdAt": "2026-07-27T16:33:52.039Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 74
+    },
+    {
+      "name": "@flipcodes/hub",
+      "version": "0.1.0",
+      "description": "Venue hub — one on-site box that serves manifest/verify/scans to every lane on the venue LAN, owns venue-wide single-use admission during an internet outage, and reconciles to the cloud as one client.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/flip-codes/flip-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40flipcodes%2Fhub",
+      "category": "cli",
+      "createdAt": "2026-08-04T10:52:52.150Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 80
     },
     {
       "name": "@florasync/squarespace-mcp",
@@ -10478,6 +10598,18 @@
       "score": 67
     },
     {
+      "name": "@linktoany/sdk",
+      "version": "0.3.0",
+      "description": "Official Node.js / TypeScript SDK for the LinkToAny Unified API — auth, account connection and unified entity execution.",
+      "license": "MIT",
+      "repository": "https://github.com/Link-To-Any/unified-api-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40linktoany%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-04T10:27:27.503Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 69
+    },
+    {
       "name": "@liteasy/linter",
       "version": "1.1.8",
       "description": "A linter for EventCatalog to validate frontmatter and resource references",
@@ -11292,6 +11424,18 @@
       "createdAt": "2026-07-31T08:22:59.424Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 72
+    },
+    {
+      "name": "@minato-32/statement-notify",
+      "version": "0.1.1",
+      "description": "Cross-platform, reactive in-app notification store for web apps: a durable notification feed with injectable transport and storage that survives IndexedDB-stripped WebViews by falling back from a host key-value store to browser storage to memory.",
+      "license": "MIT",
+      "repository": "https://github.com/minato-32/statement-notify",
+      "npmUrl": "https://www.npmjs.com/package/%40minato-32%2Fstatement-notify",
+      "category": "frontend",
+      "createdAt": "2026-08-03T12:40:58.378Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 77
     },
     {
       "name": "@mindraseugen/utility-kit",
@@ -15338,6 +15482,18 @@
       "score": 62
     },
     {
+      "name": "@ruvector/rvforge",
+      "version": "0.1.0",
+      "description": "RVForge — one canonical RVF to signed platform installers",
+      "license": "MIT",
+      "repository": "https://github.com/ruvnet/ruvector",
+      "npmUrl": "https://www.npmjs.com/package/%40ruvector%2Frvforge",
+      "category": "data",
+      "createdAt": "2026-08-04T11:14:50.400Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 69
+    },
+    {
       "name": "@rvasqz86/smallcloud",
       "version": "0.1.1",
       "description": "Self-hosted cloud for small software: deploy static sites and Node.js apps to private, sandboxed, magic-link-protected HTTPS URLs in seconds. Agent-native (MCP), scale-to-zero, persistent storage, share-by-link.",
@@ -16106,6 +16262,18 @@
       "score": 69
     },
     {
+      "name": "@silencedis/sorted-linked-list",
+      "version": "1.0.0",
+      "description": "A stable, always-sorted doubly linked list for TypeScript and modern JavaScript.",
+      "license": "MIT",
+      "repository": "https://github.com/silencedis/sorted-linked-list-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40silencedis%2Fsorted-linked-list",
+      "category": "data",
+      "createdAt": "2026-08-04T11:00:12.159Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 71
+    },
+    {
       "name": "@simdad/wordlist-core",
       "version": "0.1.1",
       "description": "Excisor's engine: a pure, deterministic, dependency-free de-identification engine. Wordlist + structured HIPAA/FERPA/GDPR shape detection, mask/placeholder/generalize/safe-harbor/pseudonym transforms, checksum validators, and batch mode with a redaction c",
@@ -16608,6 +16776,18 @@
       "createdAt": "2026-08-02T01:50:03.714Z",
       "discoveredAt": "2026-08-02T01:59:35.775Z",
       "score": 82
+    },
+    {
+      "name": "@somnia-chain/markets-sdk",
+      "version": "0.20.0",
+      "description": "Zero-latency client for the Somnia Markets order books (spot + binary): hydrates a consistent Envio/Hasura snapshot, then materializes subsequent blocks — including the resting order book — from chain logs into a reactive store (with React hooks). Writes",
+      "license": "MIT",
+      "repository": "https://github.com/somnia-chain/somnia-markets",
+      "npmUrl": "https://www.npmjs.com/package/%40somnia-chain%2Fmarkets-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-04T11:27:46.616Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 70
     },
     {
       "name": "@sonisoft/sn-credstore",
@@ -20042,6 +20222,18 @@
       "score": 77
     },
     {
+      "name": "a11y-tour-guide",
+      "version": "1.0.0",
+      "description": "A framework-agnostic, accessible guided tour for the web.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/a11y-tour-guide",
+      "npmUrl": "https://www.npmjs.com/package/a11y-tour-guide",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T11:46:32.835Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 75
+    },
+    {
       "name": "a2done",
       "version": "0.2.0",
       "description": "Enforcement layer for AI coding agents: finish every item you asked for, stop generating slop, stop repeating corrected mistakes — proven by machine-checked evidence, not the agent's own word.",
@@ -21062,6 +21254,18 @@
       "score": 92
     },
     {
+      "name": "astro-takumi-fork",
+      "version": "2.0.4",
+      "description": "Generate Open Graph images for your Astro site using Takumi.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/Kayxue/astro-takumi-fork",
+      "npmUrl": "https://www.npmjs.com/package/astro-takumi-fork",
+      "category": "utilities",
+      "createdAt": "2026-08-04T10:33:36.021Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 80
+    },
+    {
       "name": "astrovisor-skill",
       "version": "1.0.1",
       "description": "Universal AstroVisor Agent Skill with private Markdown profiles, safe credential onboarding, and live-schema MCP workflows.",
@@ -21912,6 +22116,18 @@
       "createdAt": "2026-08-01T21:01:58.883Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 58
+    },
+    {
+      "name": "capacitor-token-vault",
+      "version": "0.1.0",
+      "description": "Capacitor plugin that keeps auth tokens in iOS Keychain, Android Keystore, and sessionStorage on the web. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/AfanasievN/capacitor-token-vault",
+      "npmUrl": "https://www.npmjs.com/package/capacitor-token-vault",
+      "category": "devops",
+      "createdAt": "2026-08-04T10:48:02.332Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 83
     },
     {
       "name": "cardano-tessera-respond",
@@ -26978,6 +27194,18 @@
       "score": 84
     },
     {
+      "name": "jm-ksef",
+      "version": "0.1.0",
+      "description": "Plug-and-play JS/TS client for the Polish KSeF (Krajowy System e-Faktur) API v2 — authentication, invoice sessions (online + batch), querying, export, and verification. Zero dependencies, runs on Node 18+, browsers, and Cloudflare Workers (WebCrypto only)",
+      "license": "MIT",
+      "repository": "https://github.com/JMatuszczakk/jm-ksef-sdk",
+      "npmUrl": "https://www.npmjs.com/package/jm-ksef",
+      "category": "frontend",
+      "createdAt": "2026-08-04T11:42:35.970Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 72
+    },
+    {
       "name": "joplin-plugin-agenda2",
       "version": "4.0.0",
       "description": "An agenda/calendar/schedule panel for Joplin that shows all uncompleted to-dos with a due date, on desktop and mobile.",
@@ -28884,6 +29112,18 @@
       "createdAt": "2026-07-31T17:24:01.632Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 74
+    },
+    {
+      "name": "music-scrollbar-widget",
+      "version": "1.0.1",
+      "description": "Dynamic scrollbar & floating Spotify media player widget for React",
+      "license": "MIT",
+      "repository": "https://github.com/khaekelvin/music-scrollbar-widget",
+      "npmUrl": "https://www.npmjs.com/package/music-scrollbar-widget",
+      "category": "frontend",
+      "createdAt": "2026-08-04T10:04:52.593Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 72
     },
     {
       "name": "mvx-audit",
@@ -31068,6 +31308,18 @@
       "createdAt": "2026-07-30T07:01:00.300Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 63
+    },
+    {
+      "name": "pi-permission-ai-guard",
+      "version": "0.1.0",
+      "description": "Token-optimized LLM permission reviewer — a pi-permission-system Authorizer chain link",
+      "license": "MIT",
+      "repository": "https://github.com/kuoruan/pi-mono",
+      "npmUrl": "https://www.npmjs.com/package/pi-permission-ai-guard",
+      "category": "utilities",
+      "createdAt": "2026-08-04T10:33:26.988Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 76
     },
     {
       "name": "pi-provider-lemonade",
@@ -34334,6 +34586,18 @@
       "score": 70
     },
     {
+      "name": "staff-portal",
+      "version": "1.0.2",
+      "description": "Standalone Thyrocare Staff Portal Component - Drop-in booking and ULC flow",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/pharmeasy/thyrocare-admin",
+      "npmUrl": "https://www.npmjs.com/package/staff-portal",
+      "category": "frontend",
+      "createdAt": "2026-08-04T12:14:48.747Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 73
+    },
+    {
       "name": "staffed",
       "version": "1.1.0",
       "description": "Staff any project with coordinated subagent roles. Includes eleven product personas spanning research, definition, design, implementation, release, launch, and measurement, with no runtime or dependencies.",
@@ -35618,6 +35882,18 @@
       "score": 72
     },
     {
+      "name": "un7z-opfs",
+      "version": "1.0.1",
+      "description": "7z archive extraction straight into the browser's Origin Private File System, from inside a Web Worker",
+      "license": "SEE LICENSE IN License.txt",
+      "repository": "https://github.com/caiiiycuk/un7z-opfs",
+      "npmUrl": "https://www.npmjs.com/package/un7z-opfs",
+      "category": "frontend",
+      "createdAt": "2026-08-04T12:18:35.137Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 84
+    },
+    {
       "name": "unfired-skills",
       "version": "0.1.0",
       "description": "Reconstruct the skill listing Claude saw in every past session, and classify what was truncated before the model could match it.",
@@ -36422,6 +36698,18 @@
       "score": 74
     },
     {
+      "name": "waycontext",
+      "version": "0.3.1",
+      "description": "Engineering intelligence for AI coding agents: indexes a codebase into symbols, a relationship graph and vector embeddings, and serves it over MCP",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lammatrac/waycontext",
+      "npmUrl": "https://www.npmjs.com/package/waycontext",
+      "category": "utilities",
+      "createdAt": "2026-08-04T10:57:10.777Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 79
+    },
+    {
       "name": "wayleave",
       "version": "0.1.2",
       "description": "Charge AI agents for passage across your app. Verify agent signatures (Web Bot Auth / Ed25519), classify every request, and return 402 with a price on routes you choose. Humans browse free.",
@@ -36936,6 +37224,18 @@
       "createdAt": "2026-07-26T11:05:48.133Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 60
+    },
+    {
+      "name": "wts-star-rating",
+      "version": "1.0.1",
+      "description": "Accessible, dependency-free star rating and review score component for JavaScript, TypeScript, Angular, React, Vue, Svelte, and Web Components.",
+      "license": "MIT",
+      "repository": "https://github.com/Suman201/wts-star-rating-angular-example",
+      "npmUrl": "https://www.npmjs.com/package/wts-star-rating",
+      "category": "frontend",
+      "createdAt": "2026-08-04T10:05:04.285Z",
+      "discoveredAt": "2026-08-04T12:26:03.401Z",
+      "score": 83
     },
     {
       "name": "x402-codesearch-mcp",

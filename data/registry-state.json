@@ -1,27 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123177542,
-  "lastRunAt": "2026-08-04T10:28:52.050Z",
+  "lastSequence": 123201983,
+  "lastRunAt": "2026-08-04T12:26:03.401Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@zzzgenesis00/bitcoin-lib",
-      "attempts": 3
+      "attempts": 4
     },
     {
       "name": "@zzzgenesis00/near-api",
-      "attempts": 3
+      "attempts": 4
     },
     {
       "name": "@zzzgenesis00/spl-token-utils",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@linktoany/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@tavojs/analytics",
+      "name": "@mussy/core",
       "attempts": 1
     }
   ]
