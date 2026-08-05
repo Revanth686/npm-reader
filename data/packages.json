@@ -3590,6 +3590,18 @@
       "score": 71
     },
     {
+      "name": "@chad3814/secret-provider",
+      "version": "1.1.0",
+      "description": "Composable async credential providers — a first-to-resolve chain with memoization, in the shape of the AWS SDK's provider pattern, for any secret source.",
+      "license": "MIT",
+      "repository": "https://github.com/chad3814/secret-provider",
+      "npmUrl": "https://www.npmjs.com/package/%40chad3814%2Fsecret-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-05T19:17:11.991Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 64
+    },
+    {
       "name": "@chaeco/auto-api-docs",
       "version": "0.0.1",
       "description": "Automatic API documentation generator for Node.js frameworks. OpenAPI 3.0 (JSON/YAML), self-contained HTML, Postman Collection 2.1, and Markdown from @chaeco/auto-router's route registry.",
@@ -4946,6 +4958,18 @@
       "score": 74
     },
     {
+      "name": "@devjmd/rocket-league-stats-api",
+      "version": "0.1.0",
+      "description": "Fully typed, zero dependency client for the official Rocket League Stats API. Reads live match ticks and events over a local TCP socket and sends spectator or replay commands back to the game.",
+      "license": "MIT",
+      "repository": "https://github.com/DevJMD/rocket-league-stats-api",
+      "npmUrl": "https://www.npmjs.com/package/%40devjmd%2Frocket-league-stats-api",
+      "category": "backend",
+      "createdAt": "2026-08-05T20:55:41.297Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 77
+    },
+    {
       "name": "@devotel-orbit/mcp-server",
       "version": "0.1.0",
       "description": "Orbit by Devotel — Model Context Protocol (MCP) server. Exposes Orbit CPaaS APIs (SMS, WhatsApp, Email, Voice, Contacts, Campaigns, Journeys, Numbers, Memory, KB) as first-class tools so Claude Code, Claude Desktop, Cursor, and any other MCP-aware agent c",
@@ -6276,6 +6300,18 @@
       "createdAt": "2026-08-03T09:09:42.019Z",
       "discoveredAt": "2026-08-03T09:27:32.902Z",
       "score": 76
+    },
+    {
+      "name": "@entro314labs/plugin-apple-intelligence",
+      "version": "0.7.0",
+      "description": "Apple Intelligence for Tauri: guest bindings for tauri-plugin-apple-intelligence plus a Vercel AI SDK provider with pluggable transports",
+      "license": "MIT",
+      "repository": "https://github.com/entro314-labs/tauri-plugin-apple-intelligence",
+      "npmUrl": "https://www.npmjs.com/package/%40entro314labs%2Fplugin-apple-intelligence",
+      "category": "utilities",
+      "createdAt": "2026-08-05T20:09:48.084Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 74
     },
     {
       "name": "@entrybit/sdk",
@@ -8378,6 +8414,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/rariminev3",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RariMineV3 (build etherscan-rariminev3-a2d9ded6-1785962113556, commit fc7d4fa, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rariminev3",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frariminev3",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T20:35:39.721Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/rb",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for RB (build etherscan-rb-e9159833-1785358949366, commit 5f4d977, branch etherscan)",
@@ -9062,6 +9110,18 @@
       "score": 84
     },
     {
+      "name": "@govplane/cli-toolkit",
+      "version": "1.0.0",
+      "description": "Govplane CLI Toolkit — the free advanced toolkit for building, signing and simulating Govplane policy bundles locally.",
+      "license": "MIT",
+      "repository": "https://github.com/Govplane/govplane-cli-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40govplane%2Fcli-toolkit",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T19:47:11.627Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 78
+    },
+    {
       "name": "@goxtechnologies/infor-visual-mcp",
       "version": "0.0.1",
       "description": "Infor VISUAL MCP — Model Context Protocol server for the VISUAL ERP (sales, inventory, purchasing, financials, shop floor, lot trace). Self-documenting category tools, safe-by-default writes. Under active development (not functional for live VISUAL yet).",
@@ -9312,6 +9372,18 @@
       "createdAt": "2026-07-26T17:03:09.450Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 66
+    },
+    {
+      "name": "@hanzo/replay",
+      "version": "0.1.0",
+      "description": "Hanzo Replay — browser session-replay recorder. Wraps rrweb to capture a replayable DOM movie, batches it, and POSTs it to the ONE ingest door (POST /v1/replay) attributed by a publishable pk- key. Masks at CAPTURE time using @hanzo/observe's redaction po",
+      "license": "MIT",
+      "repository": "https://github.com/hanzoai/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40hanzo%2Freplay",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:40:03.433Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 73
     },
     {
       "name": "@hanzogui/telemetry",
@@ -11210,6 +11282,18 @@
       "score": 71
     },
     {
+      "name": "@kindred-core/sdk",
+      "version": "0.1.0",
+      "description": "The typed client partners use to call Kindred Core. Zero runtime dependencies (native fetch + AbortController), so it runs unchanged in Deno edge functions, Node, and any modern bundler. Advisory reads fail OPEN — a Core outage degrades a partner app to '",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/kindredcore/kindred-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40kindred-core%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T19:35:54.198Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 70
+    },
+    {
       "name": "@kingpepe2/sdk",
       "version": "1.0.0",
       "description": "Official KingPepe Core JSON-RPC SDK (TypeScript). A typed RPC client for talking to a KingPepe (KPEPE) node/wallet. Does not store coins or keys.",
@@ -11930,6 +12014,18 @@
       "score": 67
     },
     {
+      "name": "@magmonium/cli",
+      "version": "0.7.9",
+      "description": "A powerful and extensible asset compilation tool that can be shared across multiple projects",
+      "license": "MIT",
+      "repository": "https://github.com/magmonium/nx",
+      "npmUrl": "https://www.npmjs.com/package/%40magmonium%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:31:39.730Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 73
+    },
+    {
       "name": "@mailkite/better-auth",
       "version": "0.1.0",
       "description": "Send Better Auth's magic links, OTPs, verification, password-reset and organization-invite emails through MailKite.",
@@ -12612,6 +12708,18 @@
       "createdAt": "2026-07-28T19:23:30.105Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 66
+    },
+    {
+      "name": "@midwess/unb",
+      "version": "2.0.0",
+      "description": "Target-routed duplex messaging for TypeScript on Node.js and browsers",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Midwess/unb",
+      "npmUrl": "https://www.npmjs.com/package/%40midwess%2Funb",
+      "category": "frontend",
+      "createdAt": "2026-08-05T19:47:11.721Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 76
     },
     {
       "name": "@migiht/claude-code-polyglot",
@@ -22070,6 +22178,18 @@
       "score": 67
     },
     {
+      "name": "@wundercorp/agentvm",
+      "version": "0.14.1",
+      "description": "Apache-2.0 CLI for AgentVM managed cloud desktops, servers, retail usage billing, and OS access.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/wundercorp/agentvm",
+      "npmUrl": "https://www.npmjs.com/package/%40wundercorp%2Fagentvm",
+      "category": "backend",
+      "createdAt": "2026-08-05T19:53:02.495Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 59
+    },
+    {
       "name": "@xbbg/xnews",
       "version": "0.1.1",
       "description": "Build market news feeds from free public sources, including Yahoo Finance, Google News, SEC EDGAR, major market and wire feeds, plus YouTube subscriptions, captions, and realtime local or hosted audio transcription.",
@@ -26366,6 +26486,30 @@
       "score": 66
     },
     {
+      "name": "create-fastgrid",
+      "version": "3.2.2",
+      "description": "Create Angular, React, Vue, Svelte or HTML starter projects, tutorials and advanced examples for FastGrid and FastSheet, including data grids, tree grids, virtual scrolling, XLSX spreadsheets and AI.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/coqsoft/fastgrid-frameworks",
+      "npmUrl": "https://www.npmjs.com/package/create-fastgrid",
+      "category": "frontend",
+      "createdAt": "2026-08-05T14:18:17.784Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 72
+    },
+    {
+      "name": "create-fastgrid-angular",
+      "version": "3.2.2",
+      "description": "Create Angular starter projects, tutorials and advanced examples for FastGrid and FastSheet, including data grids, tree grids, virtual scrolling, XLSX spreadsheets and AI.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/coqsoft/fastgrid-frameworks",
+      "npmUrl": "https://www.npmjs.com/package/create-fastgrid-angular",
+      "category": "frontend",
+      "createdAt": "2026-08-05T14:18:23.554Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 68
+    },
+    {
       "name": "create-fastgrid-html",
       "version": "3.2.1",
       "description": "Create universal HTML + JavaScript starter projects, tutorials and advanced examples for FastGrid and FastSheet, including data grids, tree grids, virtual scrolling, XLSX spreadsheets and AI.",
@@ -26376,6 +26520,42 @@
       "createdAt": "2026-08-05T14:18:49.682Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 79
+    },
+    {
+      "name": "create-fastgrid-react",
+      "version": "3.2.2",
+      "description": "Create React starter projects, tutorials and advanced examples for FastGrid and FastSheet, including data grids, tree grids, virtual scrolling, XLSX spreadsheets and AI.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/coqsoft/fastgrid-frameworks",
+      "npmUrl": "https://www.npmjs.com/package/create-fastgrid-react",
+      "category": "frontend",
+      "createdAt": "2026-08-05T14:18:30.543Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 67
+    },
+    {
+      "name": "create-fastgrid-svelte",
+      "version": "3.2.2",
+      "description": "Create Svelte starter projects, tutorials and advanced examples for FastGrid and FastSheet, including data grids, tree grids, virtual scrolling, XLSX spreadsheets and AI.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/coqsoft/fastgrid-frameworks",
+      "npmUrl": "https://www.npmjs.com/package/create-fastgrid-svelte",
+      "category": "frontend",
+      "createdAt": "2026-08-05T14:18:42.979Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 68
+    },
+    {
+      "name": "create-fastgrid-vue",
+      "version": "3.2.2",
+      "description": "Create Vue starter projects, tutorials and advanced examples for FastGrid and FastSheet, including data grids, tree grids, virtual scrolling, XLSX spreadsheets and AI.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/coqsoft/fastgrid-frameworks",
+      "npmUrl": "https://www.npmjs.com/package/create-fastgrid-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-05T14:18:36.259Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 67
     },
     {
       "name": "create-fastify-typescript",
@@ -28286,6 +28466,18 @@
       "score": 80
     },
     {
+      "name": "fastify-query",
+      "version": "0.2.0",
+      "description": "Fastify plugin for QUERY routes with JSONPath and JSON Pointer filtering",
+      "license": "MIT",
+      "repository": "https://github.com/LiviaMedeiros/fastify-query",
+      "npmUrl": "https://www.npmjs.com/package/fastify-query",
+      "category": "backend",
+      "createdAt": "2026-08-04T15:50:46.848Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 68
+    },
+    {
       "name": "fastify-sliding-limiter",
       "version": "0.1.0",
       "description": "Exact sliding-window rate limiting for Fastify, backed by Redis sorted sets. Multiple limits per route evaluated atomically in one round trip. Zero runtime dependencies.",
@@ -28368,6 +28560,18 @@
       "createdAt": "2026-08-03T11:27:48.233Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 96
+    },
+    {
+      "name": "featureboard",
+      "version": "0.1.1",
+      "description": "Embedded, MongoDB-backed feature request board for Node.js. One-vote-per-user upvoting, comments, status triage, and two React UIs you mount inside your Express app.",
+      "license": "MIT",
+      "repository": "https://github.com/JeffJassky/featureboard",
+      "npmUrl": "https://www.npmjs.com/package/featureboard",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:12:08.687Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 78
     },
     {
       "name": "fedcm-server",
@@ -29138,6 +29342,18 @@
       "score": 60
     },
     {
+      "name": "git-online-helper-runner",
+      "version": "1.0.0",
+      "description": "Terminal dashboard that polls the Git Online Helper backend for own_ci todos and executes them with Claude Code",
+      "license": "MIT",
+      "repository": "https://github.com/git-online-helper/issues",
+      "npmUrl": "https://www.npmjs.com/package/git-online-helper-runner",
+      "category": "backend",
+      "createdAt": "2026-08-05T19:59:44.757Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 71
+    },
+    {
       "name": "gitatlas",
       "version": "0.10.0",
       "description": "Multi-repo architecture maps you can zoom into. C4-from-code, open source.",
@@ -29232,6 +29448,18 @@
       "createdAt": "2026-08-03T13:29:05.337Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 86
+    },
+    {
+      "name": "godot-assistant",
+      "version": "1.0.0",
+      "description": "Production-grade MCP server for the Godot Engine. Lets AI coding agents inspect, edit, run, and visually verify Godot 4 projects.",
+      "license": "MIT",
+      "repository": "https://github.com/jmsansan/godot-assistant",
+      "npmUrl": "https://www.npmjs.com/package/godot-assistant",
+      "category": "backend",
+      "createdAt": "2026-08-05T20:10:53.759Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 90
     },
     {
       "name": "godot-mcp-bridge",
@@ -30096,6 +30324,18 @@
       "createdAt": "2026-07-28T18:23:28.498Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 64
+    },
+    {
+      "name": "imagepdftools",
+      "version": "0.1.1",
+      "description": "Browser-side image compression (JPEG, WebP, PNG, SVG) powered by MozJPEG, libwebp, UPNG.js. All processing runs client-side, no uploads. Extracted from imagepdf.tools.",
+      "license": "MIT",
+      "repository": "https://github.com/imagepdftools/imagepdftools",
+      "npmUrl": "https://www.npmjs.com/package/imagepdftools",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:29:17.757Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 60
     },
     {
       "name": "imagepipe",
@@ -34046,6 +34286,18 @@
       "score": 76
     },
     {
+      "name": "openagentpet",
+      "version": "1.0.0",
+      "description": "A floating macOS Pet for local Claude Code sessions",
+      "license": "MIT",
+      "repository": "https://github.com/niebag/openagentpet",
+      "npmUrl": "https://www.npmjs.com/package/openagentpet",
+      "category": "utilities",
+      "createdAt": "2026-08-05T20:48:00.457Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 72
+    },
+    {
       "name": "openapi-ai-sdk",
       "version": "0.3.0",
       "description": "TypeScript SDK for openapi.ai — a drop-in extension of the OpenAI client, plus capability contracts: schema-frozen interfaces called like functions.",
@@ -35714,6 +35966,18 @@
       "score": 77
     },
     {
+      "name": "polarispay-sdk",
+      "version": "0.2.0",
+      "description": "One object, three payment modes: pay now, subscribe, or split into instalments. On-chain BNPL for any EVM checkout.",
+      "license": "MIT",
+      "repository": "https://github.com/nickthelegend/polarispay-keeperhub",
+      "npmUrl": "https://www.npmjs.com/package/polarispay-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-05T20:39:56.307Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 59
+    },
+    {
       "name": "polish-statutory-interest",
       "version": "0.1.0",
       "description": "Zero-dependency calculation of Polish statutory late-payment interest, segmented across NBP reference-rate changes and half-year commercial rates.",
@@ -36648,6 +36912,18 @@
       "createdAt": "2026-07-30T14:12:37.233Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 82
+    },
+    {
+      "name": "react-native-http-inspector",
+      "version": "0.1.1",
+      "description": "In-app HTTP inspector for React Native. Inspect requests, responses, headers and JSON payloads on device. Zero deps.",
+      "license": "MIT",
+      "repository": "https://github.com/devAdrish/react-native-http-inspector",
+      "npmUrl": "https://www.npmjs.com/package/react-native-http-inspector",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:44:06.773Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 74
     },
     {
       "name": "react-native-image-crop-data",
@@ -37968,6 +38244,18 @@
       "createdAt": "2026-07-25T17:19:58.814Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 79
+    },
+    {
+      "name": "secrets-le-mcp",
+      "version": "2.2.2",
+      "description": "Detect hardcoded secrets in source and config, reporting masked previews and never the values themselves.",
+      "license": "MIT",
+      "repository": "https://github.com/nolindnaidoo/secrets-le",
+      "npmUrl": "https://www.npmjs.com/package/secrets-le-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-05T19:08:07.596Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
+      "score": 58
     },
     {
       "name": "seed-squarespace",
@@ -41195,6 +41483,18 @@
       "category": "frontend",
       "createdAt": "2026-07-28T15:55:56.017Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
+      "score": 68
+    },
+    {
+      "name": "vitepress-plugin-outline-depth",
+      "version": "1.1.0",
+      "description": "VitePress plugin that controls the heading level depth of the sidebar (outline / table of contents)",
+      "license": "MIT",
+      "repository": "https://github.com/otomad/vitepress-plugin-outline-depth",
+      "npmUrl": "https://www.npmjs.com/package/vitepress-plugin-outline-depth",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T20:03:55.186Z",
+      "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 68
     },
     {

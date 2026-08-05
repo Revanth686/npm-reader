@@ -1,51 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123502438,
-  "lastRunAt": "2026-08-05T19:37:09.080Z",
+  "lastSequence": 123515334,
+  "lastRunAt": "2026-08-05T20:59:00.670Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@walid-baharwal/handoff-linux-x64",
+      "name": "@x12i/memorix-opx-pack",
       "attempts": 1
     },
     {
-      "name": "@walid-baharwal/handoff-linux-arm64",
+      "name": "@faimulus/driver-sdk",
       "attempts": 1
     },
     {
-      "name": "@walid-baharwal/handoff-darwin-x64",
+      "name": "@chameleon-labs/lattice-tokens",
       "attempts": 1
     },
     {
-      "name": "@walid-baharwal/handoff-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@walid-baharwal/handoff-windows-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@walid-baharwal/handoff",
-      "attempts": 1
-    },
-    {
-      "name": "@richardgill/pi-context-commands",
-      "attempts": 1
-    },
-    {
-      "name": "@richardgill/pi-project-resources",
-      "attempts": 1
-    },
-    {
-      "name": "@kindred-core/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@codincod/codemirror-lang-crystal",
-      "attempts": 1
-    },
-    {
-      "name": "@luminarylane/wordpress-mcp-server",
+      "name": "@chameleon-labs/lattice-react",
       "attempts": 1
     }
   ]
