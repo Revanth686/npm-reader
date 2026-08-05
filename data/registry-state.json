@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123315207,
-  "lastRunAt": "2026-08-04T23:55:34.389Z",
+  "lastSequence": 123328565,
+  "lastRunAt": "2026-08-05T01:53:39.845Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@miadi/voice-client",
+      "attempts": 1
+    },
+    {
+      "name": "@qfei-design/make-app-actions",
+      "attempts": 1
+    }
+  ]
 }
