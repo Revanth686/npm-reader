@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123428083,
-  "lastRunAt": "2026-08-05T12:23:20.486Z",
+  "lastSequence": 123454731,
+  "lastRunAt": "2026-08-05T14:42:18.626Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@keboola/validate-ui-mcp",
+      "name": "graphwork",
+      "attempts": 1
+    },
+    {
+      "name": "@izara_project/izara-core-library-graph-const",
+      "attempts": 1
+    },
+    {
+      "name": "fast-ssim-wasm",
+      "attempts": 1
+    },
+    {
+      "name": "@orbitproxysdk/core-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@orbitproxysdk/core-darwin-x64",
       "attempts": 1
     }
   ]
