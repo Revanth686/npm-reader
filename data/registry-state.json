@@ -1,27 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123454731,
-  "lastRunAt": "2026-08-05T14:42:18.626Z",
+  "lastSequence": 123472067,
+  "lastRunAt": "2026-08-05T16:21:22.907Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "graphwork",
+      "name": "@1auth/authn-webauthn-passkey",
       "attempts": 1
     },
     {
-      "name": "@izara_project/izara-core-library-graph-const",
+      "name": "@doskoi64/optioner-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "fast-ssim-wasm",
+      "name": "@doskoi64/optioner",
       "attempts": 1
     },
     {
-      "name": "@orbitproxysdk/core-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@orbitproxysdk/core-darwin-x64",
+      "name": "@1auth/authn-webauthn-securitykey",
       "attempts": 1
     }
   ]

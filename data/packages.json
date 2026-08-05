@@ -74,6 +74,30 @@
       "score": 90
     },
     {
+      "name": "@12-apps/entitlements",
+      "version": "1.2.0",
+      "description": "Generic, portable plan/feature entitlements library: layered resolution (code/plan/status/tenant), numeric quotas, per-feature revoke policy and 402-vs-403 denial semantics. Framework-free core with storage adapters plus an optional React binding. Knows n",
+      "license": "MIT",
+      "repository": "https://github.com/12-apps/shared-packages",
+      "npmUrl": "https://www.npmjs.com/package/%4012-apps%2Fentitlements",
+      "category": "frontend",
+      "createdAt": "2026-08-05T02:17:05.828Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 80
+    },
+    {
+      "name": "@12-apps/rbac",
+      "version": "1.2.0",
+      "description": "Generic, portable Role-Based Access Control library. Framework-free core plus optional React and framework-neutral server (Next) adapters. Zero app coupling.",
+      "license": "MIT",
+      "repository": "https://github.com/12-apps/shared-packages",
+      "npmUrl": "https://www.npmjs.com/package/%4012-apps%2Frbac",
+      "category": "frontend",
+      "createdAt": "2026-08-05T02:17:34.595Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 75
+    },
+    {
       "name": "@12signals/html-distill",
       "version": "0.1.0",
       "description": "Structure-preserving HTML normalizer for LLM input. Turns real-world marketing pages, landing pages and SPA output into stable, semantically-hinted HTML — without throwing away the boilerplate that carries the signal.",
@@ -804,6 +828,18 @@
       "createdAt": "2026-07-29T14:10:27.761Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 80
+    },
+    {
+      "name": "@ahasend/sdk",
+      "version": "0.1.0",
+      "description": "Official Node.js TypeScript SDK for the AhaSend transactional email API.",
+      "license": "MIT",
+      "repository": "https://github.com/AhaSend/ahasend-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40ahasend%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:54:36.318Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 71
     },
     {
       "name": "@ai-atomic-workflow/graph-scheduler",
@@ -4250,6 +4286,30 @@
       "score": 73
     },
     {
+      "name": "@contensu/directus-extension-image-carousel-interface",
+      "version": "1.0.1",
+      "description": "A Directus interface that presents the image files linked to an item as a browsable carousel, with thumbnails, autoplay, and keyboard navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/contensu/directus-extension-image-carousel-interface",
+      "npmUrl": "https://www.npmjs.com/package/%40contensu%2Fdirectus-extension-image-carousel-interface",
+      "category": "utilities",
+      "createdAt": "2026-08-05T15:10:35.840Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 68
+    },
+    {
+      "name": "@contensu/directus-extension-model-viewer-interface",
+      "version": "1.0.1",
+      "description": "A Directus interface that renders 3D model files (glTF/GLB, STL, OBJ, PLY) from a file field in an interactive three.js viewer with orbit controls.",
+      "license": "MIT",
+      "repository": "https://github.com/contensu/directus-extension-model-viewer-interface",
+      "npmUrl": "https://www.npmjs.com/package/%40contensu%2Fdirectus-extension-model-viewer-interface",
+      "category": "utilities",
+      "createdAt": "2026-08-05T15:11:02.674Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 86
+    },
+    {
       "name": "@contentvidya/ui",
       "version": "1.4.2",
       "description": "A universal, framework-agnostic UI component library built with Mitosis. Write once, compile to React, Svelte, and Web Components.",
@@ -6144,6 +6204,18 @@
       "createdAt": "2026-07-30T09:44:49.263Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 81
+    },
+    {
+      "name": "@emergen/engineering-standard",
+      "version": "1.0.0",
+      "description": "Emergen production engineering standards and AI coding agent skills for Next.js, NestJS, PostgreSQL, TypeORM, React Native, and Flutter",
+      "license": "MIT",
+      "repository": "https://github.com/emergen-io/emergen-engineering-standard",
+      "npmUrl": "https://www.npmjs.com/package/%40emergen%2Fengineering-standard",
+      "category": "frontend",
+      "createdAt": "2026-08-05T14:44:43.125Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 73
     },
     {
       "name": "@enconvert/n8n-nodes-enconvert",
@@ -11906,6 +11978,18 @@
       "score": 74
     },
     {
+      "name": "@marketbasketanalysis/mcp",
+      "version": "0.6.0",
+      "description": "MCP server for MarketBasketAnalysis. 19 tools for AI shopping, merchant ops, B2B agents: recommendations, substitutes, cart bundle completion, rationale, cross-sell scoring, basket cohesion, return risk, reorder prediction, subscription kits, weekly plan,",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/48x-ai/marketbasketanalysis",
+      "npmUrl": "https://www.npmjs.com/package/%40marketbasketanalysis%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:23:44.984Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 90
+    },
+    {
       "name": "@maroffo/pi-forge",
       "version": "0.1.0",
       "description": "Opinionated multi-provider coding harness for the pi agent",
@@ -13838,6 +13922,18 @@
       "score": 94
     },
     {
+      "name": "@nazarkalytiuk/rusc-xlsx-reader",
+      "version": "1.0.0",
+      "description": "Fast, memory-bounded XLSX reader for Node.js powered by Calamine and NAPI-RS",
+      "license": "MIT",
+      "repository": "https://github.com/NazarKalytiuk/napi_rust_xlsxreader",
+      "npmUrl": "https://www.npmjs.com/package/%40nazarkalytiuk%2Frusc-xlsx-reader",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:31:13.715Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 70
+    },
+    {
       "name": "@ndunl075/atrium",
       "version": "0.3.0",
       "description": "A shared workspace that multiple AI agents join in order to do one job together.",
@@ -14292,6 +14388,18 @@
       "createdAt": "2026-08-04T19:22:36.439Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 71
+    },
+    {
+      "name": "@novacraft-engineering/react-native-live-activity",
+      "version": "0.1.0",
+      "description": "Dead-simple live-updating notifications for React Native — iOS Live Activities (ActivityKit + Dynamic Island) and Android ongoing progress notifications, one API.",
+      "license": "MIT",
+      "repository": "https://github.com/Jaybee4real/react-native-live-activity",
+      "npmUrl": "https://www.npmjs.com/package/%40novacraft-engineering%2Freact-native-live-activity",
+      "category": "frontend",
+      "createdAt": "2026-08-05T15:06:18.827Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 86
     },
     {
       "name": "@nowtwo-llc/fireworksify",
@@ -24158,6 +24266,18 @@
       "score": 79
     },
     {
+      "name": "brickken-sdk",
+      "version": "0.1.0",
+      "description": "TypeScript SDK for the Brickken tokenization and agentic APIs (Dapp, x402/ERC-8004, RAMS/ERC-8226)",
+      "license": "MIT",
+      "repository": "https://github.com/Brickken/brickken-sdk",
+      "npmUrl": "https://www.npmjs.com/package/brickken-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-05T16:18:16.713Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 75
+    },
+    {
       "name": "brisk-aitesting",
       "version": "0.1.0",
       "description": "AI-native modular testing engine for SaaS, APIs, UI workflows, and contracts.",
@@ -24960,6 +25080,18 @@
       "createdAt": "2026-07-28T15:28:20.693Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 85
+    },
+    {
+      "name": "claude-control-tower",
+      "version": "0.1.0",
+      "description": "Mission control for Claude Code — a status line that tells you what to do, not just what happened.",
+      "license": "MIT",
+      "repository": "https://github.com/koffih/claude-control-tower",
+      "npmUrl": "https://www.npmjs.com/package/claude-control-tower",
+      "category": "cli",
+      "createdAt": "2026-08-05T15:55:32.288Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 73
     },
     {
       "name": "claude-loops-pack",
@@ -26232,6 +26364,18 @@
       "createdAt": "2026-07-28T02:57:45.565Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 68
+    },
+    {
+      "name": "curl-to-postman",
+      "version": "0.2.0",
+      "description": "Convert curl commands found in Markdown, HTML, or shell sources into a Postman Collection v2.1.0 file.",
+      "license": "MIT",
+      "repository": "https://github.com/shashi-hans/curl-to-postman",
+      "npmUrl": "https://www.npmjs.com/package/curl-to-postman",
+      "category": "backend",
+      "createdAt": "2026-08-04T07:23:07.028Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 72
     },
     {
       "name": "cursor-token-saver",
@@ -30398,6 +30542,18 @@
       "score": 78
     },
     {
+      "name": "kits-ngx-validation",
+      "version": "0.0.1",
+      "description": "A reusable, scalable and extensible validation library for Angular reactive forms.",
+      "license": "MIT",
+      "repository": "https://github.com/EngYouniss/kits-ngx-validation-package",
+      "npmUrl": "https://www.npmjs.com/package/kits-ngx-validation",
+      "category": "frontend",
+      "createdAt": "2026-08-05T16:16:04.943Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 72
+    },
+    {
       "name": "kontur-diadok-api-sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK для работы с API Контур.Диадок — сервисом электронного документооборота",
@@ -32846,6 +33002,18 @@
       "score": 79
     },
     {
+      "name": "ngx-onboarding-flow",
+      "version": "0.1.0",
+      "description": "Config-driven, event-driven onboarding & product-tour engine for Angular. Define the whole tour in one typed object; the engine coordinates async transitions (business events, routing, DOM) and paints the overlay with Driver.js.",
+      "license": "MIT",
+      "repository": "https://github.com/MarcinKurylo/ngx-onboarding-flow",
+      "npmUrl": "https://www.npmjs.com/package/ngx-onboarding-flow",
+      "category": "frontend",
+      "createdAt": "2026-08-05T16:09:20.989Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 90
+    },
+    {
       "name": "ngx-retoast",
       "version": "1.0.1",
       "description": "A toast notification library for Angular",
@@ -33888,6 +34056,18 @@
       "createdAt": "2026-07-26T18:07:58.236Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 81
+    },
+    {
+      "name": "os-exec-mcp",
+      "version": "0.1.0",
+      "description": "Secure MCP server for parallel and dependency-aware OS command execution",
+      "license": "MIT",
+      "repository": "https://github.com/kimata1007/os-exec-mcp",
+      "npmUrl": "https://www.npmjs.com/package/os-exec-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:50:43.491Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 69
     },
     {
       "name": "ossclip",
@@ -35126,6 +35306,18 @@
       "score": 87
     },
     {
+      "name": "posturecheck-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for domain security checks — SPF, DKIM, DMARC, MTA-STS, TLS certificates and protocol support, and HTTP security headers.",
+      "license": "MIT",
+      "repository": "https://github.com/mvg777/posturecheck-mcp",
+      "npmUrl": "https://www.npmjs.com/package/posturecheck-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-05T15:51:26.448Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 69
+    },
+    {
       "name": "pouch-rwa",
       "version": "0.1.0",
       "description": "pouch: an RWA trading wallet for AI agents on Robinhood Chain. SDK + MCP server with built-in guardrails for autonomous tokenized-stock trading.",
@@ -35256,6 +35448,18 @@
       "createdAt": "2026-07-29T20:56:00.341Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 82
+    },
+    {
+      "name": "privateer-speak",
+      "version": "0.2.0",
+      "description": "Voice for Pi coding agents — /speak reads each turn's final answer aloud, /talk records and transcribes voice input into the composer, both through pluggable providers (local OS voices, any OpenAI-compatible endpoint, or a host-registered provider such as",
+      "license": "MIT",
+      "repository": "https://github.com/privateer-agent/privateer-speak",
+      "npmUrl": "https://www.npmjs.com/package/privateer-speak",
+      "category": "utilities",
+      "createdAt": "2026-08-03T17:52:27.695Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 80
     },
     {
       "name": "process-ai",
@@ -35412,6 +35616,18 @@
       "createdAt": "2026-08-02T20:11:07.944Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 95
+    },
+    {
+      "name": "purrfectionist",
+      "version": "0.2.0",
+      "description": "The design cat that claws AI slop out of your frontend.",
+      "license": "MIT",
+      "repository": "https://github.com/Blackajiro/Purrfectionist",
+      "npmUrl": "https://www.npmjs.com/package/purrfectionist",
+      "category": "frontend",
+      "createdAt": "2026-08-05T16:14:25.577Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 70
     },
     {
       "name": "pw-advanced-http",
@@ -35916,6 +36132,18 @@
       "createdAt": "2026-07-30T14:12:37.233Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 82
+    },
+    {
+      "name": "react-native-ime-text-input",
+      "version": "0.2.0",
+      "description": "Drop-in replacement for React Native's TextInput, backed directly by UIKit on iOS, restoring the Japanese/CJK IME composition underline that Fabric drops.",
+      "license": "MIT",
+      "repository": "https://github.com/kazutoyo/react-native-ime-text-input",
+      "npmUrl": "https://www.npmjs.com/package/react-native-ime-text-input",
+      "category": "frontend",
+      "createdAt": "2026-08-05T01:59:04.030Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 76
     },
     {
       "name": "react-native-ino-player",
@@ -37490,6 +37718,18 @@
       "score": 57
     },
     {
+      "name": "shapeup-sdlc",
+      "version": "1.6.3",
+      "description": "Shape Up for coding agents — with gates the agent can't talk its way past. Harness for Claude Code, compiled to Cursor, Antigravity and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/nguyenvanphituoc/shapeup-sdlc-plugin",
+      "npmUrl": "https://www.npmjs.com/package/shapeup-sdlc",
+      "category": "utilities",
+      "createdAt": "2026-08-05T16:01:34.069Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 84
+    },
+    {
       "name": "sharecrate",
       "version": "1.0.0",
       "description": "Private file sharing with link-only access, password protection and download analytics",
@@ -38016,6 +38256,18 @@
       "createdAt": "2026-08-04T20:32:49.394Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 65
+    },
+    {
+      "name": "soroban-memory",
+      "version": "0.1.0",
+      "description": "Persistent memory layer for Stellar/Soroban projects. Scans your repo, links code to on-chain reality, and serves the result to you and to your AI agents over MCP.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/duraznito16/stellar-memory",
+      "npmUrl": "https://www.npmjs.com/package/soroban-memory",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:28:19.253Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 81
     },
     {
       "name": "sort-large-csv",
@@ -38748,6 +39000,18 @@
       "createdAt": "2026-07-29T16:31:28.705Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 90
+    },
+    {
+      "name": "tauri-audit",
+      "version": "0.1.0",
+      "description": "Static security analyzer for Tauri v2/v1 apps — separates severity from confidence, keeps high-confidence false positives at zero.",
+      "license": "MIT",
+      "repository": "https://github.com/gyugyu86/tauri-audit",
+      "npmUrl": "https://www.npmjs.com/package/tauri-audit",
+      "category": "cli",
+      "createdAt": "2026-08-05T15:04:09.705Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 75
     },
     {
       "name": "taxme-mcp",
@@ -40046,6 +40310,18 @@
       "score": 76
     },
     {
+      "name": "velsgenerate",
+      "version": "0.1.0",
+      "description": "CLI для генерации фото/видео/аудио через KIE API (kie.ai). Ноль зависимостей, живой реестр моделей.",
+      "license": "MIT",
+      "repository": "https://github.com/nick-vels/VelsGenerate",
+      "npmUrl": "https://www.npmjs.com/package/velsgenerate",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:54:54.834Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 78
+    },
+    {
       "name": "vendorprint",
       "version": "0.3.0",
       "description": "A careful, evidence-first CLI for discovering company technology signals in public DNS.",
@@ -40140,6 +40416,18 @@
       "createdAt": "2026-07-31T14:14:22.609Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 74
+    },
+    {
+      "name": "vibe-performance",
+      "version": "1.0.0",
+      "description": "Discovery-first, DSA-grounded performance and scalability skill for AI coding agents (Kiro, Cursor, Claude Code, Windsurf, Copilot, and similar). One command installs it into whichever tool you're using.",
+      "license": "MIT",
+      "repository": "https://github.com/rishabhchauhan/vibe-performance",
+      "npmUrl": "https://www.npmjs.com/package/vibe-performance",
+      "category": "data",
+      "createdAt": "2026-08-05T16:17:31.738Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 100
     },
     {
       "name": "vibemovie",
@@ -40488,6 +40776,18 @@
       "createdAt": "2026-08-01T14:46:46.555Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 55
+    },
+    {
+      "name": "wacz-pdf",
+      "version": "1.0.0",
+      "description": "Render the HTML pages in a WACZ web archive to PDF, one per page, via wabac.js replay in headless Chromium",
+      "license": "MIT",
+      "repository": "https://github.com/edsu/wacz-pdf",
+      "npmUrl": "https://www.npmjs.com/package/wacz-pdf",
+      "category": "testing",
+      "createdAt": "2026-08-05T15:01:15.011Z",
+      "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 76
     },
     {
       "name": "wall-mcp",
