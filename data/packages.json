@@ -1178,6 +1178,18 @@
       "score": 87
     },
     {
+      "name": "@algorismus/elementor-ultra-playground",
+      "version": "1.0.1",
+      "description": "One command → a local WordPress with Elementor + the Elementor Ultra companion plugin, ready for exjsx and MCP. No Docker, no PHP, no git clone. Boots from a pre-baked snapshot in seconds.",
+      "license": "MIT",
+      "repository": "https://github.com/Algorismus-io/elementor-ultra-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40algorismus%2Felementor-ultra-playground",
+      "category": "devops",
+      "createdAt": "2026-08-05T13:46:38.703Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 66
+    },
+    {
       "name": "@ali.camargo/tournament-brackets",
       "version": "1.3.0",
       "description": "Reusable single-elimination tournament brackets — vanilla ESM core with optional jQuery adapter (React/Vue/Angular planned)",
@@ -2510,6 +2522,18 @@
       "score": 68
     },
     {
+      "name": "@azure/ai-translation-document",
+      "version": "1.0.0",
+      "description": "SDK for Microsoft Translation Document service",
+      "license": "MIT",
+      "repository": "https://github.com/Azure/azure-sdk-for-js",
+      "npmUrl": "https://www.npmjs.com/package/%40azure%2Fai-translation-document",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:00:44.970Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 76
+    },
+    {
       "name": "@bacano/sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK for building websites on the Bacano ERP",
@@ -3408,6 +3432,18 @@
       "createdAt": "2026-07-25T15:34:44.551Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 81
+    },
+    {
+      "name": "@calrk/clarity",
+      "version": "0.1.0",
+      "description": "Canvas image filter library - composable, pipeline-style filters over ImageData",
+      "license": "MIT",
+      "repository": "https://github.com/calrk/Clarity",
+      "npmUrl": "https://www.npmjs.com/package/%40calrk%2Fclarity",
+      "category": "frontend",
+      "createdAt": "2026-08-05T21:27:17.552Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 77
     },
     {
       "name": "@camoseed/evm-elf",
@@ -4476,6 +4512,18 @@
       "createdAt": "2026-07-25T18:39:10.530Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 57
+    },
+    {
+      "name": "@crewhaus/hangar-ui",
+      "version": "0.5.0",
+      "description": "The Hangar web console's static UI — zero-build, dependency-free browser ES modules embedded as text assets for the single-binary CLI to hand to the hangar server",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/crewhaus/factory",
+      "npmUrl": "https://www.npmjs.com/package/%40crewhaus%2Fhangar-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-05T21:58:07.699Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 66
     },
     {
       "name": "@crisphive/mcp",
@@ -6432,6 +6480,18 @@
       "createdAt": "2026-07-28T16:20:17.737Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 73
+    },
+    {
+      "name": "@evestack/mcp",
+      "version": "0.1.0",
+      "description": "evestack's control plane as an MCP server. Ask Claude Code why last night's agent run got denied, what it cost, and turn it into a regression test — over stdio, read-only by default.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SammyTourani/evestack",
+      "npmUrl": "https://www.npmjs.com/package/%40evestack%2Fmcp",
+      "category": "testing",
+      "createdAt": "2026-08-05T21:17:56.191Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 79
     },
     {
       "name": "@evgkch/fsmjs",
@@ -20042,6 +20102,18 @@
       "score": 74
     },
     {
+      "name": "@tayomi/cc-views",
+      "version": "1.0.27",
+      "description": "Template-driven terminal rendering for Claude Code's MessageDisplay hook: data blocks in, coloured views on screen, zero tokens spent on presentation.",
+      "license": "MIT",
+      "repository": "https://github.com/mopi1402/tayomi-cc-views",
+      "npmUrl": "https://www.npmjs.com/package/%40tayomi%2Fcc-views",
+      "category": "data",
+      "createdAt": "2026-07-31T00:07:28.452Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 68
+    },
+    {
       "name": "@tayomi/skiller",
       "version": "0.1.0",
       "description": "A compiler for agent skills: build the file that ships from sources you maintain, instead of hand-writing every copy. v1 strips author-only comments; composable blocks with slots are next.",
@@ -21590,6 +21662,18 @@
       "score": 82
     },
     {
+      "name": "@very-good-software/spreadsheet",
+      "version": "0.1.0",
+      "description": "Streaming reader for Excel .xlsx and OpenDocument .ods, in Node and the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/christophgockel/very-good-spreadsheet",
+      "npmUrl": "https://www.npmjs.com/package/%40very-good-software%2Fspreadsheet",
+      "category": "frontend",
+      "createdAt": "2026-08-04T23:13:14.662Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 70
+    },
+    {
       "name": "@vetox-bot/vito",
       "version": "1.0.0",
       "description": "Official Node.js SDK for the Vito API — check balances, charge users, pay users out, and verify webhooks for the Vito virtual currency.",
@@ -22128,6 +22212,18 @@
       "createdAt": "2026-07-26T16:50:42.852Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 62
+    },
+    {
+      "name": "@withseismic/grid",
+      "version": "0.1.0",
+      "description": "Both axes are twelfths. A layout system where a page is right when its parts sum to twelve in each direction.",
+      "license": "MIT",
+      "repository": "https://github.com/dougwithseismic/withseismic-grid",
+      "npmUrl": "https://www.npmjs.com/package/%40withseismic%2Fgrid",
+      "category": "utilities",
+      "createdAt": "2026-08-05T21:00:08.309Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 68
     },
     {
       "name": "@wnlx/redisq",
@@ -26714,6 +26810,18 @@
       "score": 64
     },
     {
+      "name": "crosscode-cli",
+      "version": "0.1.0",
+      "description": "Real-time codebase sync between teammates. You edit a file, their checkout updates within seconds; same-line conflicts go to your own coding agent over MCP",
+      "license": "MIT",
+      "repository": "https://github.com/amsultan2010/crosscode",
+      "npmUrl": "https://www.npmjs.com/package/crosscode-cli",
+      "category": "cli",
+      "createdAt": "2026-08-05T21:24:56.255Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 79
+    },
+    {
       "name": "crossline",
       "version": "0.1.0",
       "description": "Prove that no user can see another user's data — automatically, on every commit.",
@@ -27458,6 +27566,18 @@
       "score": 63
     },
     {
+      "name": "dom-layout-shim",
+      "version": "0.2.0",
+      "description": "Patch deterministic layout and hit testing into DOM-like test environments.",
+      "license": "Unlicense",
+      "repository": "https://github.com/BenjaBobs/dom-layout-shim",
+      "npmUrl": "https://www.npmjs.com/package/dom-layout-shim",
+      "category": "testing",
+      "createdAt": "2026-07-28T21:32:49.426Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 67
+    },
+    {
       "name": "domain-trust-toolkit",
       "version": "1.0.0",
       "description": "Check a domain's trustworthiness in one command — the open scoring methodology behind the truster.info Safety Score (domain age via RDAP, DNS/email auth, TLS, HTTP hygiene, URLhaus blocklist, TLD abuse tier, Tranco rank).",
@@ -27732,6 +27852,18 @@
       "createdAt": "2026-07-25T23:02:46.066Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 54
+    },
+    {
+      "name": "email-intel-mcp",
+      "version": "0.3.0",
+      "description": "Email infrastructure fingerprinting as an MCP server and a CLI. Provider detection, SPF/DKIM/DMARC posture graded A+ to F, header analysis. macOS, zero dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rashidazarang/email-intel",
+      "npmUrl": "https://www.npmjs.com/package/email-intel-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T21:08:17.641Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 72
     },
     {
       "name": "email-local-mcp",
@@ -29438,6 +29570,18 @@
       "score": 62
     },
     {
+      "name": "glove-working-environment",
+      "version": "0.1.0",
+      "description": "A small, fast, in-memory, sandboxed persistent working environment for LLM agents — a virtual filesystem the model acts on across many tool calls: write and persist scripts, run them, capture outputs, inspect intermediates, and iterate. No networking, no",
+      "license": "MIT",
+      "repository": "https://github.com/porkytheblack/glove",
+      "npmUrl": "https://www.npmjs.com/package/glove-working-environment",
+      "category": "utilities",
+      "createdAt": "2026-08-05T21:28:09.862Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 70
+    },
+    {
       "name": "gmira",
       "version": "0.1.0",
       "description": "21 Claude Code skills for building web interfaces that do not look AI-generated. Written visual direction first, 7 shadcn registries (514 components), a GPU floor for WebGL, Playwright acceptance across 5 viewports.",
@@ -29844,6 +29988,18 @@
       "createdAt": "2026-07-28T01:34:33.227Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 66
+    },
+    {
+      "name": "headless-canvas",
+      "version": "0.5.0",
+      "description": "Headless, declarative React canvas for placing, moving, resizing, scaling and rotating positioned elements — zero visual styles, one pointer listener, geometric hit-testing. Your DOM stays yours.",
+      "license": "MIT",
+      "repository": "https://github.com/AntonLapshin/headless-canvas",
+      "npmUrl": "https://www.npmjs.com/package/headless-canvas",
+      "category": "testing",
+      "createdAt": "2026-08-05T22:08:42.405Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 89
     },
     {
       "name": "heisentest",
@@ -32318,6 +32474,18 @@
       "score": 54
     },
     {
+      "name": "mcp-libraryofcongress",
+      "version": "1.0.0",
+      "description": "MCP server for the Library of Congress. Search inside digitised newspaper pages, browse the catalogue by format, and read records and collections. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-libraryofcongress",
+      "npmUrl": "https://www.npmjs.com/package/mcp-libraryofcongress",
+      "category": "backend",
+      "createdAt": "2026-08-05T21:38:03.406Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 92
+    },
+    {
       "name": "mcp-lyricscom",
       "version": "0.1.0",
       "description": "MCP server for lyrics.com. Search song lyrics by word or by title, and fetch full lyrics. No API key required.",
@@ -32460,6 +32628,18 @@
       "createdAt": "2026-07-28T19:11:41.341Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 94
+    },
+    {
+      "name": "mcp-wikibooks-cookbook",
+      "version": "1.0.0",
+      "description": "MCP server for the Wikibooks Cookbook. Search recipes, read ingredients and steps, and rescale quantities without ending up with 2.4 eggs. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-wikibooks-cookbook",
+      "npmUrl": "https://www.npmjs.com/package/mcp-wikibooks-cookbook",
+      "category": "backend",
+      "createdAt": "2026-08-05T21:47:07.484Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 91
     },
     {
       "name": "mcpee-dba",
@@ -33408,6 +33588,18 @@
       "createdAt": "2026-08-03T17:59:14.818Z",
       "discoveredAt": "2026-08-03T19:21:31.086Z",
       "score": 79
+    },
+    {
+      "name": "n8n-testkit",
+      "version": "0.1.0",
+      "description": "Run the JavaScript in your n8n Code nodes against fixtures and fail the build when it regresses. No n8n instance, no credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/perly-dev/n8n-testkit",
+      "npmUrl": "https://www.npmjs.com/package/n8n-testkit",
+      "category": "testing",
+      "createdAt": "2026-08-05T22:04:57.753Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 69
     },
     {
       "name": "naija-id",
@@ -34536,6 +34728,18 @@
       "createdAt": "2026-07-31T08:52:14.915Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 74
+    },
+    {
+      "name": "opencode-speak",
+      "version": "1.0.0",
+      "description": "Text-to-speech plugin for OpenCode — hear LLM responses spoken aloud using Kokoro or Supertonic 3",
+      "license": "MIT",
+      "repository": "https://github.com/ahmed0magdy/opencode-speak",
+      "npmUrl": "https://www.npmjs.com/package/opencode-speak",
+      "category": "utilities",
+      "createdAt": "2026-08-05T21:43:33.300Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 70
     },
     {
       "name": "opencode-tamer-judge",
@@ -36300,6 +36504,18 @@
       "createdAt": "2026-08-01T21:18:20.391Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 62
+    },
+    {
+      "name": "proofreel",
+      "version": "1.0.0",
+      "description": "Videoya yakılmış altyazılardaki imla hatalarını zaman damgasıyla bulan CLI aracı — sıfır npm bağımlılığı",
+      "license": "MIT",
+      "repository": "https://github.com/onlipr/proofreel",
+      "npmUrl": "https://www.npmjs.com/package/proofreel",
+      "category": "cli",
+      "createdAt": "2026-08-05T21:43:42.707Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 82
     },
     {
       "name": "provegate",
@@ -38774,6 +38990,18 @@
       "score": 70
     },
     {
+      "name": "singulariti",
+      "version": "1.0.0",
+      "description": "Installs the ultradesign skill for Claude — a skill that refuses generic AI-slop design, abandons the default look, pins down real design intent, and gates every output through a slop detector.",
+      "license": "MIT",
+      "repository": "https://github.com/fasiaa/design-skill-package",
+      "npmUrl": "https://www.npmjs.com/package/singulariti",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:13:03.796Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 71
+    },
+    {
       "name": "sitegraph",
       "version": "0.1.0",
       "description": "One page registry generates your prerendered HTML, a linked JSON-LD @graph, sitemap.xml, rss.xml and llms.txt — so they cannot drift apart.",
@@ -39266,6 +39494,18 @@
       "score": 91
     },
     {
+      "name": "sshepherd",
+      "version": "0.0.3",
+      "description": "Framework de agentes que leva um dev sem experiencia de sysadmin do zero absoluto ate uma aplicacao publicada em VPS proprio, com servidor endurecido, deploy versionado e rollback em um comando.",
+      "license": "MIT",
+      "repository": "https://github.com/sandeco/sshepherd",
+      "npmUrl": "https://www.npmjs.com/package/sshepherd",
+      "category": "devops",
+      "createdAt": "2026-08-05T21:01:31.557Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 77
+    },
+    {
       "name": "sshlg-skills",
       "version": "0.5.4",
       "description": "One launcher/updater for the ssheleg skill family (super-ux, task-pipeline, make-skill, sheleg-design, seo-aeo-audit) across every agent — Claude Code, Cursor, OpenCode, Kilo, Kimi, Hermes, OpenClaw, Codex, and more.",
@@ -39420,6 +39660,18 @@
       "createdAt": "2026-07-30T02:06:30.143Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 81
+    },
+    {
+      "name": "stetmark",
+      "version": "0.1.0",
+      "description": "stet — let it stand. Your agents ask once, your answer stands. A local verdict gate that turns your taste into rules coding agents obey.",
+      "license": "MIT",
+      "repository": "https://github.com/elberacasa/stet",
+      "npmUrl": "https://www.npmjs.com/package/stetmark",
+      "category": "utilities",
+      "createdAt": "2026-08-05T17:41:13.687Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 71
     },
     {
       "name": "stitchmath-core",
@@ -39674,6 +39926,18 @@
       "score": 73
     },
     {
+      "name": "svelte-metal-fx",
+      "version": "0.1.0",
+      "description": "Animated WebGL liquid metal shader effect for Svelte buttons and UI components. A Svelte 5 port of metal-fx.",
+      "license": "MIT",
+      "repository": "https://github.com/maxmillionbeatz/metal-fx",
+      "npmUrl": "https://www.npmjs.com/package/svelte-metal-fx",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:10:50.833Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 65
+    },
+    {
       "name": "svelte-qr-label",
       "version": "0.1.0",
       "description": "Svelte 5 component for the QR Label Designer — drag-and-drop label designer with PDF, PNG, and ZPL export.",
@@ -39780,6 +40044,18 @@
       "createdAt": "2026-07-31T09:18:00.274Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 77
+    },
+    {
+      "name": "taintmcp",
+      "version": "0.1.0",
+      "description": "A runtime, client-side security gateway for the Model Context Protocol (MCP). Blocks indirect prompt injection, tool poisoning, rug-pulls, and tool shadowing.",
+      "license": "MIT",
+      "repository": "https://github.com/khs28/taintmcp",
+      "npmUrl": "https://www.npmjs.com/package/taintmcp",
+      "category": "cli",
+      "createdAt": "2026-08-05T21:36:31.465Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 81
     },
     {
       "name": "tantra",
@@ -40934,6 +41210,18 @@
       "score": 94
     },
     {
+      "name": "unknown-keys",
+      "version": "1.0.0",
+      "description": "Report the keys a document carries that its JSON Schema does not describe — the config typo, named, with the keys that were allowed",
+      "license": "MIT",
+      "repository": "https://github.com/stamat/unknown-keys",
+      "npmUrl": "https://www.npmjs.com/package/unknown-keys",
+      "category": "utilities",
+      "createdAt": "2026-08-05T21:25:07.401Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 73
+    },
+    {
       "name": "unport-cli",
       "version": "0.1.0",
       "description": "Run Docker Compose projects without publishing host ports",
@@ -41184,6 +41472,18 @@
       "createdAt": "2026-08-05T15:54:54.834Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 78
+    },
+    {
+      "name": "velsvisual",
+      "version": "0.2.0",
+      "description": "CLI для генерации фото/видео/аудио через KIE API (kie.ai). Ноль зависимостей, живой реестр моделей.",
+      "license": "MIT",
+      "repository": "https://github.com/nick-vels/VelsVisual",
+      "npmUrl": "https://www.npmjs.com/package/velsvisual",
+      "category": "backend",
+      "createdAt": "2026-08-05T21:56:09.975Z",
+      "discoveredAt": "2026-08-05T22:14:01.136Z",
+      "score": 79
     },
     {
       "name": "vendorprint",

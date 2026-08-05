@@ -1,23 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123515334,
-  "lastRunAt": "2026-08-05T20:59:00.670Z",
+  "lastSequence": 123526272,
+  "lastRunAt": "2026-08-05T22:14:01.136Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@x12i/memorix-opx-pack",
+      "name": "@crewhaus/harness-inventory",
       "attempts": 1
     },
     {
-      "name": "@faimulus/driver-sdk",
+      "name": "@crewhaus/preflight",
       "attempts": 1
     },
     {
-      "name": "@chameleon-labs/lattice-tokens",
+      "name": "@crewhaus/harness-supervisor",
       "attempts": 1
     },
     {
-      "name": "@chameleon-labs/lattice-react",
+      "name": "@votetracker/sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@gitmyabi/elem",
+      "attempts": 1
+    },
+    {
+      "name": "@driftbox/rack",
       "attempts": 1
     }
   ]
