@@ -1,15 +1,55 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123350481,
-  "lastRunAt": "2026-08-05T04:58:30.965Z",
+  "lastSequence": 123374418,
+  "lastRunAt": "2026-08-05T07:39:52.818Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@scriptixlabs/strio",
+      "name": "@ce1pers/pagination-helpers",
       "attempts": 1
     },
     {
-      "name": "@kybernesis/evals",
+      "name": "@nnkogift/dhis2-form-utils-dhis2-ui",
+      "attempts": 1
+    },
+    {
+      "name": "@nnkogift/dhis2-form-utils-mui",
+      "attempts": 1
+    },
+    {
+      "name": "@nnkogift/dhis2-form-utils-mantine",
+      "attempts": 1
+    },
+    {
+      "name": "@nnkogift/dhis2-form-utils-metadata",
+      "attempts": 1
+    },
+    {
+      "name": "@nnkogift/dhis2-form-utils-devtools",
+      "attempts": 1
+    },
+    {
+      "name": "@nnkogift/dhis2-form-utils-rules",
+      "attempts": 1
+    },
+    {
+      "name": "@nnkogift/dhis2-form-utils-hooks",
+      "attempts": 1
+    },
+    {
+      "name": "@gantt-chart/core",
+      "attempts": 1
+    },
+    {
+      "name": "@gantt-chart/themes",
+      "attempts": 1
+    },
+    {
+      "name": "@gantt-chart/echarts",
+      "attempts": 1
+    },
+    {
+      "name": "@gantt-chart/react",
       "attempts": 1
     }
   ]
