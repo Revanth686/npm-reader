@@ -1046,6 +1046,18 @@
       "score": 76
     },
     {
+      "name": "@akshar5/cohall",
+      "version": "0.2.0",
+      "description": "Let coding agents delegate work across your own devices.",
+      "license": "MIT",
+      "repository": "https://github.com/AksharP5/cohall",
+      "npmUrl": "https://www.npmjs.com/package/%40akshar5%2Fcohall",
+      "category": "cli",
+      "createdAt": "2026-08-05T22:44:00.509Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 57
+    },
+    {
       "name": "@aksp/opencrew",
       "version": "1.0.0",
       "description": "A reworked build of OpenSquad (by Renato Asse) — create AI agent crews that work together, right from your IDE. Multi-agent orchestration with an npm installer.",
@@ -1392,6 +1404,18 @@
       "createdAt": "2026-08-03T01:18:07.375Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 67
+    },
+    {
+      "name": "@amirhosseinnouri/momgen",
+      "version": "1.0.0",
+      "description": "Turn a meeting recording into a short Minutes of Meeting markdown file.",
+      "license": "MIT",
+      "repository": "https://github.com/amirhosseinNouri/momgen",
+      "npmUrl": "https://www.npmjs.com/package/%40amirhosseinnouri%2Fmomgen",
+      "category": "cli",
+      "createdAt": "2026-08-05T22:20:29.717Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 71
     },
     {
       "name": "@amplib/ui",
@@ -1800,6 +1824,18 @@
       "createdAt": "2026-07-31T01:36:00.417Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 78
+    },
+    {
+      "name": "@arcus-xyz/da-reader",
+      "version": "0.1.0",
+      "description": "Read and decode perps-chain Data Availability records (S3 block-inputs): SigV4 fetch, SBE fill decode, market units, real-time tip following.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/arcus-xyz/da-reader",
+      "npmUrl": "https://www.npmjs.com/package/%40arcus-xyz%2Fda-reader",
+      "category": "data",
+      "createdAt": "2026-08-05T23:16:13.733Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 62
     },
     {
       "name": "@argon-agent/cli",
@@ -2316,6 +2352,30 @@
       "createdAt": "2026-07-30T23:24:20.112Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 67
+    },
+    {
+      "name": "@avsbhq/flags-adapter",
+      "version": "1.0.2",
+      "description": "A vs B adapter for the Flags SDK: evaluate A vs B feature flags and experiments from flag declarations, with server-side exposure tracking.",
+      "license": "MIT",
+      "repository": "https://github.com/avsbhq/a-vs-b",
+      "npmUrl": "https://www.npmjs.com/package/%40avsbhq%2Fflags-adapter",
+      "category": "testing",
+      "createdAt": "2026-08-05T23:09:12.108Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 83
+    },
+    {
+      "name": "@avsbhq/nuxt",
+      "version": "1.0.2",
+      "description": "Nuxt module for A vs B feature flags: one line in nuxt.config, auto-imported composables, and a server-side datafile bootstrap so the first paint shows real values.",
+      "license": "MIT",
+      "repository": "https://github.com/avsbhq/a-vs-b",
+      "npmUrl": "https://www.npmjs.com/package/%40avsbhq%2Fnuxt",
+      "category": "testing",
+      "createdAt": "2026-08-05T23:09:09.580Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 92
     },
     {
       "name": "@aws-sdk/client-pricing-plan-manager",
@@ -3180,6 +3240,42 @@
       "createdAt": "2026-08-02T09:39:10.450Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 68
+    },
+    {
+      "name": "@brustack/react-theme-transitions",
+      "version": "1.0.0",
+      "description": "React hook for animated dark/light theme transitions using the View Transitions API",
+      "license": "MIT",
+      "repository": "https://github.com/brustack/theme-transitions",
+      "npmUrl": "https://www.npmjs.com/package/%40brustack%2Freact-theme-transitions",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:40:57.255Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 64
+    },
+    {
+      "name": "@brustack/theme-transitions-core",
+      "version": "1.0.0",
+      "description": "Framework-agnostic core for animated dark/light theme transitions using the View Transitions API",
+      "license": "MIT",
+      "repository": "https://github.com/brustack/theme-transitions",
+      "npmUrl": "https://www.npmjs.com/package/%40brustack%2Ftheme-transitions-core",
+      "category": "backend",
+      "createdAt": "2026-08-05T22:40:53.748Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 71
+    },
+    {
+      "name": "@brustack/vue-theme-transitions",
+      "version": "1.0.0",
+      "description": "Vue 3 composable for animated dark/light theme transitions using the View Transitions API",
+      "license": "MIT",
+      "repository": "https://github.com/brustack/theme-transitions",
+      "npmUrl": "https://www.npmjs.com/package/%40brustack%2Fvue-theme-transitions",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:40:57.346Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 63
     },
     {
       "name": "@bruxa/stfca",
@@ -4514,6 +4610,18 @@
       "score": 57
     },
     {
+      "name": "@crewhaus/hangar-server",
+      "version": "0.5.0",
+      "description": "The Hangar manager's local HTTP server: token-gated loopback API over the machine-wide harness registry — fleet rows with cached rollups, per-harness detail/spec/preflight/sessions/evals/memory/cost views, registry CRUD, and the M2 driver surface (supervi",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/crewhaus/factory",
+      "npmUrl": "https://www.npmjs.com/package/%40crewhaus%2Fhangar-server",
+      "category": "backend",
+      "createdAt": "2026-08-05T22:20:08.987Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 70
+    },
+    {
       "name": "@crewhaus/hangar-ui",
       "version": "0.5.0",
       "description": "The Hangar web console's static UI — zero-build, dependency-free browser ES modules embedded as text assets for the single-binary CLI to hand to the hangar server",
@@ -4524,6 +4632,18 @@
       "createdAt": "2026-08-05T21:58:07.699Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 66
+    },
+    {
+      "name": "@crewhaus/harness-supervisor",
+      "version": "0.5.0",
+      "description": "The harness process layer: runfiles + adoption, per-shape spawn contracts, exit classification and restart policy, durable log capture with a TraceEvent pump, port ledger, and the mutating-job queue",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/crewhaus/factory",
+      "npmUrl": "https://www.npmjs.com/package/%40crewhaus%2Fharness-supervisor",
+      "category": "utilities",
+      "createdAt": "2026-08-05T22:09:43.701Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 62
     },
     {
       "name": "@crisphive/mcp",
@@ -5966,6 +6086,30 @@
       "score": 70
     },
     {
+      "name": "@draftbase/renderer",
+      "version": "0.1.0",
+      "description": "Framework-agnostic MDX renderer for Draftbase content (React, Next.js RSC, React Native, Astro, Vite, Vue)",
+      "license": "MIT",
+      "repository": "https://github.com/draftbase-co/draftbase-monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40draftbase%2Frenderer",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:31:36.260Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 76
+    },
+    {
+      "name": "@draftbase/sdk",
+      "version": "0.1.0",
+      "description": "Node.js / Next.js client for fetching content from Draftbase",
+      "license": "MIT",
+      "repository": "https://github.com/draftbase-co/draftbase-monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40draftbase%2Fsdk",
+      "category": "cli",
+      "createdAt": "2026-08-05T22:30:57.467Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 66
+    },
+    {
       "name": "@dravensoft/arena-angular",
       "version": "5.0.0",
       "description": "Arena, the Dravensoft design system: standalone Angular components on a shared Tailwind recipe layer.",
@@ -5987,6 +6131,18 @@
       "category": "frontend",
       "createdAt": "2026-07-31T19:55:26.612Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
+      "score": 72
+    },
+    {
+      "name": "@driftbox/rack",
+      "version": "0.1.0",
+      "description": "A modular synth rack: modules, cables between any of them, one graph at sample rate in a single AudioWorklet.",
+      "license": "MIT",
+      "repository": "https://github.com/emmettl/driftbox",
+      "npmUrl": "https://www.npmjs.com/package/%40driftbox%2Frack",
+      "category": "utilities",
+      "createdAt": "2026-08-05T22:13:56.044Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 72
     },
     {
@@ -10262,6 +10418,18 @@
       "score": 75
     },
     {
+      "name": "@illuma/cli",
+      "version": "0.0.2",
+      "description": "Command-line tooling for Illuma dependency-injection projects — `illuma lint` predicts container failures before runtime",
+      "license": "MIT",
+      "repository": "https://github.com/git-illuma/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40illuma%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-05T22:32:45.499Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 62
+    },
+    {
       "name": "@ilomee/aura-angular",
       "version": "1.0.0",
       "description": "Aura Design System — Angular component library (standalone primitives, layout, recipes) built on @ilomee/aura-core tokens.",
@@ -11124,6 +11292,18 @@
       "createdAt": "2026-08-04T00:11:14.005Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 67
+    },
+    {
+      "name": "@juste-app/sdk",
+      "version": "1.0.0",
+      "description": "SDK officiel Juste pour Node.js — OAuth 2.1 + PKCE et débits /v1/charge. Usage SERVEUR uniquement.",
+      "license": "MIT",
+      "repository": "https://github.com/Djilsou/Juste",
+      "npmUrl": "https://www.npmjs.com/package/%40juste-app%2Fsdk",
+      "category": "devops",
+      "createdAt": "2026-08-05T23:08:49.973Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 76
     },
     {
       "name": "@jvault/sdk",
@@ -12012,6 +12192,18 @@
       "createdAt": "2026-07-28T02:25:26.426Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 74
+    },
+    {
+      "name": "@luxfi/design",
+      "version": "0.1.0",
+      "description": "Lux Design System — the Lux brand layer over @hanzo/design. Monochrome, dark-default tokens with the Lux gold, plus components and brand assets. CSS + typed programmatic tokens.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/luxfi/design",
+      "npmUrl": "https://www.npmjs.com/package/%40luxfi%2Fdesign",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:59:36.085Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 73
     },
     {
       "name": "@lyhue1991/pi-codex",
@@ -14834,6 +15026,18 @@
       "score": 65
     },
     {
+      "name": "@nxtlinq/authorization-gateway",
+      "version": "0.2.0",
+      "description": "Protocol-neutral attestation-backed authorization boundary with an ACP adapter",
+      "license": "MIT",
+      "repository": "https://github.com/nxtlinqit/nxtlinq-authorization-gateway",
+      "npmUrl": "https://www.npmjs.com/package/%40nxtlinq%2Fauthorization-gateway",
+      "category": "testing",
+      "createdAt": "2026-08-05T22:37:55.469Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 69
+    },
+    {
       "name": "@nynb/dev-cleaner",
       "version": "0.1.0",
       "description": "Interactive TUI that finds regenerable build artifacts across a projects directory and moves them to the Trash.",
@@ -16634,6 +16838,18 @@
       "score": 82
     },
     {
+      "name": "@rafamacalaba/armada",
+      "version": "1.0.1",
+      "description": "Turn any repo into a self-organizing AI engineering team — one command, 8 specialists, evidence-gated delivery. For opencode.",
+      "license": "MIT",
+      "repository": "https://github.com/rafmacalaba/armada",
+      "npmUrl": "https://www.npmjs.com/package/%40rafamacalaba%2Farmada",
+      "category": "cli",
+      "createdAt": "2026-08-05T22:35:39.012Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 92
+    },
+    {
       "name": "@rakku-kun/baileys",
       "version": "2.0.4",
       "description": "💧 Rakku Baileys - WhatsApp Multi-Device Library with intelligent @lid/@jid mapping",
@@ -16778,6 +16994,18 @@
       "score": 98
     },
     {
+      "name": "@razorwind/color-variants",
+      "version": "0.0.3",
+      "description": "Razorwind color variants plugin that can create color variants from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fcolor-variants",
+      "category": "data",
+      "createdAt": "2026-08-05T09:58:23.489Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 70
+    },
+    {
       "name": "@razorwind/css",
       "version": "0.0.2",
       "description": "Razorwind CSS plugin that can create CSS files from design tokens or read a CSS file and return the design tokens.",
@@ -16860,6 +17088,18 @@
       "createdAt": "2026-07-31T06:33:17.848Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 70
+    },
+    {
+      "name": "@razorwind/vsce",
+      "version": "0.0.3",
+      "description": "Razorwind Visual Studio Code Extension plugin that creates theming extensions from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fvsce",
+      "category": "data",
+      "createdAt": "2026-08-05T09:58:17.576Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 73
     },
     {
       "name": "@razsdev/datasieve-prisma",
@@ -17400,6 +17640,18 @@
       "createdAt": "2026-08-02T14:29:48.282Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 75
+    },
+    {
+      "name": "@rosarium/boost",
+      "version": "1.0.1",
+      "description": "The speed of a single-page web application without having to write any JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/hotwired/turbo",
+      "npmUrl": "https://www.npmjs.com/package/%40rosarium%2Fboost",
+      "category": "frontend",
+      "createdAt": "2026-08-05T19:09:55.317Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 61
     },
     {
       "name": "@royashbrook/waterbear",
@@ -21780,6 +22032,18 @@
       "createdAt": "2026-07-29T18:07:16.073Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 72
+    },
+    {
+      "name": "@votetracker/sdk",
+      "version": "0.1.0",
+      "description": "Official TypeScript/JavaScript SDK for the VoteTracker API and webhook forwarding",
+      "license": "MIT",
+      "repository": "https://github.com/votetracker-bot/sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40votetracker%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-05T22:13:44.886Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 71
     },
     {
       "name": "@vruum/mcp",
@@ -26378,6 +26642,18 @@
       "score": 65
     },
     {
+      "name": "convex-multiplayer-cursors",
+      "version": "0.1.1",
+      "description": "Figma-style real-time multiplayer cursors for Convex: a reusable component (room presence with heartbeat/TTL, batched cursor trails) plus a React overlay with interpolated replay.",
+      "license": "MIT",
+      "repository": "https://github.com/Iann29/convex-multiplayer-cursors",
+      "npmUrl": "https://www.npmjs.com/package/convex-multiplayer-cursors",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:37:26.360Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 66
+    },
+    {
       "name": "convex-oxlint",
       "version": "1.0.0",
       "description": "Oxlint port of @convex-dev/eslint-plugin — a drop-in replacement that keeps the same rule ids, messages, spans and fixes.",
@@ -29750,6 +30026,18 @@
       "score": 79
     },
     {
+      "name": "guspira",
+      "version": "0.1.0",
+      "description": "A reactive GUI toolkit for creative coding sketches — signals, sliders, tabs, presets.",
+      "license": "MIT",
+      "repository": "https://github.com/spite/guspira",
+      "npmUrl": "https://www.npmjs.com/package/guspira",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:52:39.251Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 76
+    },
+    {
       "name": "gutterpress",
       "version": "0.0.0",
       "description": "Markdown-to-PDF converter for professional print layout using Paged.js and Ghostscript.",
@@ -30372,6 +30660,18 @@
       "createdAt": "2026-08-05T18:46:56.481Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 74
+    },
+    {
+      "name": "hydrargyri-each",
+      "version": "1.0.0",
+      "description": "List rendering for hydrargyri — <hg-each> clones the <template> you wrote, one row per item, binding by names, never code",
+      "license": "MIT",
+      "repository": "https://github.com/stamat/hydrargyri-each",
+      "npmUrl": "https://www.npmjs.com/package/hydrargyri-each",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:42:24.253Z",
+      "discoveredAt": "2026-08-05T23:18:00.507Z",
+      "score": 82
     },
     {
       "name": "hypen-engine",
