@@ -2150,6 +2150,18 @@
       "score": 70
     },
     {
+      "name": "@atscale-ps/ps-utils-dev",
+      "version": "3.0.0",
+      "description": "AtScale PS utilities — CLI and library for SML generation, deployment, and analysis",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AtScaleInc/ps-utils",
+      "npmUrl": "https://www.npmjs.com/package/%40atscale-ps%2Fps-utils-dev",
+      "category": "cli",
+      "createdAt": "2026-08-05T18:57:09.676Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 68
+    },
+    {
       "name": "@attache/cli",
       "version": "0.4.0",
       "description": "Check an Envoy config from the command line. Findings that point at a line, in a form CI can read — no Envoy binary, no network, any platform Node runs on.",
@@ -9122,6 +9134,18 @@
       "score": 92
     },
     {
+      "name": "@groeponline/pi-agent-orchestrator",
+      "version": "0.18.0",
+      "description": "Multi-agent orchestration for Pi: autonomous subagents, worktrees, swarms, schedules, handoffs, prompt compression, and live TUI observability.",
+      "license": "MIT",
+      "repository": "https://github.com/GroepOnline/pi-agent-orchestrator",
+      "npmUrl": "https://www.npmjs.com/package/%40groeponline%2Fpi-agent-orchestrator",
+      "category": "utilities",
+      "createdAt": "2026-08-05T18:44:45.996Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 78
+    },
+    {
       "name": "@groundcraft/crawl",
       "version": "1.0.0",
       "description": "Groundcraft Crawl — scrape, search, map and crawl the web through one metered API. CLI, SDK and MCP server.",
@@ -9828,6 +9852,18 @@
       "createdAt": "2026-07-26T10:29:15.938Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 75
+    },
+    {
+      "name": "@hyvmind/drpc",
+      "version": "0.0.0",
+      "description": "A faithful Node/TypeScript implementation of the dRPC wire protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/hyvmind-io/drpc",
+      "npmUrl": "https://www.npmjs.com/package/%40hyvmind%2Fdrpc",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T18:56:12.383Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 64
     },
     {
       "name": "@ia2-dev/rdf-value-editor",
@@ -12227,6 +12263,18 @@
       "category": "frontend",
       "createdAt": "2026-07-31T12:31:14.964Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
+      "score": 72
+    },
+    {
+      "name": "@mbelyayev/tailwind-utopia",
+      "version": "1.2.0",
+      "description": "A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales.",
+      "license": "MIT",
+      "repository": "https://github.com/mbelyayev/tailwind-utopia",
+      "npmUrl": "https://www.npmjs.com/package/%40mbelyayev%2Ftailwind-utopia",
+      "category": "frontend",
+      "createdAt": "2026-08-05T19:24:38.820Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 72
     },
     {
@@ -15084,6 +15132,18 @@
       "createdAt": "2026-07-28T12:50:53.179Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 75
+    },
+    {
+      "name": "@orjok/commons",
+      "version": "1.0.2",
+      "description": "Orjok platform shared business logic for React and React Native",
+      "license": "MIT",
+      "repository": "https://github.com/orjok/orjok",
+      "npmUrl": "https://www.npmjs.com/package/%40orjok%2Fcommons",
+      "category": "frontend",
+      "createdAt": "2026-08-05T18:55:37.160Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 65
     },
     {
       "name": "@orkestrapay/cse",
@@ -21134,6 +21194,18 @@
       "score": 85
     },
     {
+      "name": "@vampaz/vite-plugin-local-tls",
+      "version": "0.0.1",
+      "description": "Zero-dependency local HTTPS routing for concurrent Vite checkouts.",
+      "license": "MIT",
+      "repository": "https://github.com/vampaz/vite-plugin-local-tls",
+      "npmUrl": "https://www.npmjs.com/package/%40vampaz%2Fvite-plugin-local-tls",
+      "category": "backend",
+      "createdAt": "2026-08-05T19:04:28.543Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 68
+    },
+    {
       "name": "@vantageos/mcp-auth-kit",
       "version": "0.1.0",
       "description": "MCP OAuth 2.1 resource-server facade — 401 challenge, RFC 9728 Protected Resource Metadata, RFC 8414 Authorization-Server discovery, RS256 JWKS verification, audience/issuer binding. Reuses @vantageos/cloud-identity unchanged for tenant/scope resolution d",
@@ -24074,6 +24146,18 @@
       "score": 98
     },
     {
+      "name": "bakeware",
+      "version": "0.0.1",
+      "description": "Vanilla-extract utility functions to simplify layout, rhythm, and styling",
+      "license": "MIT",
+      "repository": "https://github.com/stldo/bakeware",
+      "npmUrl": "https://www.npmjs.com/package/bakeware",
+      "category": "frontend",
+      "createdAt": "2026-08-05T19:07:20.835Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 67
+    },
+    {
       "name": "balanced-random",
       "version": "1.0.0",
       "description": "Stateful random generator that balances draws toward a target probability distribution, reducing unfair-feeling streaks while staying random.",
@@ -24674,6 +24758,18 @@
       "score": 68
     },
     {
+      "name": "cablegram",
+      "version": "1.0.0",
+      "description": "Headless newsletter manager/sender — APIs only.",
+      "license": "MIT",
+      "repository": "https://github.com/djensen47/cablegram",
+      "npmUrl": "https://www.npmjs.com/package/cablegram",
+      "category": "backend",
+      "createdAt": "2026-08-05T18:07:58.366Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 64
+    },
+    {
       "name": "cache-viewer",
       "version": "1.0.0",
       "description": "Embeddable web UI for inspecting in-process memory caches (and Redis) in Node.js services",
@@ -24852,6 +24948,18 @@
       "createdAt": "2026-07-31T16:22:59.605Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 81
+    },
+    {
+      "name": "ccline-cli",
+      "version": "0.2.0",
+      "description": "A fast, fail-soft statusline toolkit for Claude Code.",
+      "license": "MIT",
+      "repository": "https://github.com/br9704/ccline",
+      "npmUrl": "https://www.npmjs.com/package/ccline-cli",
+      "category": "cli",
+      "createdAt": "2026-08-05T16:18:59.910Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 63
     },
     {
       "name": "ccprof",
@@ -25514,6 +25622,18 @@
       "score": 66
     },
     {
+      "name": "cloudflare-range-cache",
+      "version": "1.0.0",
+      "description": "Cache HTTP Range (206 Partial Content) responses at the Cloudflare edge without Enterprise — a dependency-free Worker that chunk-caches large media and reassembles correct 206 responses.",
+      "license": "MIT",
+      "repository": "https://github.com/KinoBD/cloudflare-range-cache",
+      "npmUrl": "https://www.npmjs.com/package/cloudflare-range-cache",
+      "category": "backend",
+      "createdAt": "2026-08-05T18:35:29.237Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 72
+    },
+    {
       "name": "cmail-cli",
       "version": "0.1.0",
       "description": "cmail: realtime email for humans and coding agents. Web inbox with live updates, Gmail attach, your own domain via inbound.new, machines that register as agent VMs you can email tasks to, and an MCP server so your AIs can query the whole inbox. Installs t",
@@ -25908,6 +26028,18 @@
       "createdAt": "2026-08-04T04:20:06.664Z",
       "discoveredAt": "2026-08-04T04:56:35.171Z",
       "score": 89
+    },
+    {
+      "name": "concert-operate-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for IBM Concert Operate (AIOps) v2 API",
+      "license": "MIT",
+      "repository": "https://github.com/ibm-client-engineering/concert-operate-mcp",
+      "npmUrl": "https://www.npmjs.com/package/concert-operate-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T15:40:20.705Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 75
     },
     {
       "name": "connect-project",
@@ -28046,6 +28178,18 @@
       "score": 85
     },
     {
+      "name": "fakeborn",
+      "version": "1.1.0",
+      "description": "Generate fake data born from your validation schema — pass a validator (Zod, Valibot) to fake() and get a value that satisfies it.",
+      "license": "ISC",
+      "repository": "https://github.com/lakardion/fakeborn",
+      "npmUrl": "https://www.npmjs.com/package/fakeborn",
+      "category": "testing",
+      "createdAt": "2026-07-30T19:33:33.380Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 66
+    },
+    {
       "name": "familyplate-save-widget",
       "version": "1.0.1",
       "description": "Embeddable \"Save to FamilyPlate\" button — lets visitors save the recipe on the current page into the FamilyPlate meal planner.",
@@ -28908,6 +29052,18 @@
       "createdAt": "2026-08-03T19:50:12.218Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 78
+    },
+    {
+      "name": "ghost-inspector-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for the Ghost Inspector API — analyze, validate and safely update end-to-end browser tests from any MCP-capable agent",
+      "license": "MIT",
+      "repository": "https://github.com/charliemtnez/ghost-inspector-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ghost-inspector-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-05T18:27:51.734Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 76
     },
     {
       "name": "ghost-social-client",
@@ -29822,6 +29978,18 @@
       "score": 77
     },
     {
+      "name": "hydrargyri",
+      "version": "1.0.0",
+      "description": "Reactive web components in the light DOM — declarative binds and handlers on markup you already wrote",
+      "license": "MIT",
+      "repository": "https://github.com/stamat/hydrargyri",
+      "npmUrl": "https://www.npmjs.com/package/hydrargyri",
+      "category": "frontend",
+      "createdAt": "2026-08-05T18:46:56.481Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 74
+    },
+    {
       "name": "hypen-engine",
       "version": "0.6.1",
       "description": "A Rust implementation of the Hypen engine",
@@ -29904,6 +30072,18 @@
       "createdAt": "2026-07-30T02:46:29.415Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 88
+    },
+    {
+      "name": "image-and-video-compressor-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for image-and-video-compressor — lets coding agents compress images and videos, probe media, and discover what the local ffmpeg and sharp builds actually support.",
+      "license": "MIT",
+      "repository": "https://github.com/rohanpoudel2/image_video_compressor",
+      "npmUrl": "https://www.npmjs.com/package/image-and-video-compressor-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T19:31:36.784Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 71
     },
     {
       "name": "image-puma",
@@ -29999,6 +30179,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-02T23:11:33.038Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
+      "score": 72
+    },
+    {
+      "name": "infraweaver",
+      "version": "0.1.0",
+      "description": "GitHub Action that remediates Terraform to best practices and opens one scoped pull request per concern.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/infraweaver-io/infraweaver-action",
+      "npmUrl": "https://www.npmjs.com/package/infraweaver",
+      "category": "data",
+      "createdAt": "2026-08-05T18:45:59.466Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 72
     },
     {
@@ -30156,6 +30348,18 @@
       "createdAt": "2026-07-31T13:21:09.232Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 77
+    },
+    {
+      "name": "iobroker.lamarzocco",
+      "version": "0.7.1",
+      "description": "Unofficial cloud integration for monitoring and controlling La Marzocco espresso machines in ioBroker",
+      "license": "MIT",
+      "repository": "https://github.com/mrandreschmitz/ioBroker.lamarzocco",
+      "npmUrl": "https://www.npmjs.com/package/iobroker.lamarzocco",
+      "category": "devops",
+      "createdAt": "2026-08-05T19:26:42.879Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 70
     },
     {
       "name": "iobroker.nut2",
@@ -30878,6 +31082,18 @@
       "score": 75
     },
     {
+      "name": "lark-kimi-bridge",
+      "version": "0.7.0",
+      "description": "Bridge Feishu/Lark messenger with local CLI coding agents (Claude Code, Codex, Kimi Code)",
+      "license": "MIT",
+      "repository": "https://github.com/SilasWander/lark-kimi-bridge",
+      "npmUrl": "https://www.npmjs.com/package/lark-kimi-bridge",
+      "category": "cli",
+      "createdAt": "2026-08-05T18:50:50.231Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 78
+    },
+    {
       "name": "layercall",
       "version": "1.0.0",
       "description": "Official LayerCall client — score an IP, email, phone, domain or a whole signup for fraud in one call. Zero dependencies.",
@@ -31392,6 +31608,18 @@
       "createdAt": "2026-07-27T11:34:02.679Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 83
+    },
+    {
+      "name": "loreweave",
+      "version": "0.1.0",
+      "description": "A temporal knowledge engine for markdown vaults — indexes, links, remembers, forgets, and dreams. Local-first, agent-ready (MCP).",
+      "license": "MIT",
+      "repository": "https://github.com/lets-order-some-fries/loreweave",
+      "npmUrl": "https://www.npmjs.com/package/loreweave",
+      "category": "utilities",
+      "createdAt": "2026-08-05T19:14:35.393Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 82
     },
     {
       "name": "lossless-context-mcp",
@@ -33444,6 +33672,18 @@
       "createdAt": "2026-08-01T05:30:19.421Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 72
+    },
+    {
+      "name": "novacheck",
+      "version": "0.3.0",
+      "description": "Local-first CLI that scores trust & security of AI-generated projects before you publish.",
+      "license": "MIT",
+      "repository": "https://github.com/NovaCoding-G/NovaCheck",
+      "npmUrl": "https://www.npmjs.com/package/novacheck",
+      "category": "cli",
+      "createdAt": "2026-08-05T19:21:39.474Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 64
     },
     {
       "name": "novapay",
@@ -35700,6 +35940,18 @@
       "createdAt": "2026-07-29T20:56:00.341Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 82
+    },
+    {
+      "name": "prioritize-client",
+      "version": "1.3.0",
+      "description": "Official spec-first TypeScript/JavaScript client for the Prioritize REST API (generated with OpenAPI Generator, typescript-fetch).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/phaller222/prioritize-typescript-client",
+      "npmUrl": "https://www.npmjs.com/package/prioritize-client",
+      "category": "backend",
+      "createdAt": "2026-08-05T19:24:34.562Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 64
     },
     {
       "name": "privateer-speak",
@@ -38342,6 +38594,18 @@
       "score": 58
     },
     {
+      "name": "skillbench-cli",
+      "version": "0.3.1",
+      "description": "Build, validate, evaluate, and distribute portable Agent Skills from a polished terminal UI.",
+      "license": "MIT",
+      "repository": "https://github.com/alexrett/skillbench",
+      "npmUrl": "https://www.npmjs.com/package/skillbench-cli",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T19:18:20.691Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 63
+    },
+    {
       "name": "skills-path",
       "version": "1.1.0",
       "description": "Fork of the open agent skills ecosystem with a --path option for npx skills add",
@@ -39530,6 +39794,18 @@
       "score": 83
     },
     {
+      "name": "thistripbtw-mcp",
+      "version": "1.1.0",
+      "description": "Persistent, shareable travel workspaces for AI agents. Hand someone a complete, editable travel plan as a private map link. No account, no API key, no card.",
+      "license": "MIT",
+      "repository": "https://github.com/peterbartsch/thistripbtw-mcp",
+      "npmUrl": "https://www.npmjs.com/package/thistripbtw-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-02T03:18:07.178Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 89
+    },
+    {
       "name": "three-blockbench",
       "version": "0.1.0",
       "description": "Load Blockbench .bbmodel projects as native Three.js geometry, textures, skeletons, and animation clips.",
@@ -39888,6 +40164,18 @@
       "createdAt": "2026-07-28T11:13:41.125Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 76
+    },
+    {
+      "name": "traceipt-verify",
+      "version": "0.1.0",
+      "description": "Independent verifier for Traceipt x402 payment receipts — Ed25519 signature vs the issuer's JWKS, RFC 6962 Merkle inclusion, and the on-chain anchor check on Base. Proves a receipt without the Traceipt server. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/bluetieroperations-create/traceipt-verify",
+      "npmUrl": "https://www.npmjs.com/package/traceipt-verify",
+      "category": "backend",
+      "createdAt": "2026-08-05T18:39:09.324Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 71
     },
     {
       "name": "track-post",
@@ -41796,6 +42084,18 @@
       "createdAt": "2026-08-01T19:25:19.539Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 58
+    },
+    {
+      "name": "xliffai",
+      "version": "0.1.0",
+      "description": "Translate XLIFF files with AI, batching groups of segments per request and proposing results as <mtc:match> candidates",
+      "license": "EPL-1.0",
+      "repository": "https://github.com/maxprograms-com/XliffAI",
+      "npmUrl": "https://www.npmjs.com/package/xliffai",
+      "category": "cli",
+      "createdAt": "2026-08-05T19:07:47.945Z",
+      "discoveredAt": "2026-08-05T19:37:09.080Z",
+      "score": 65
     },
     {
       "name": "xls-to-xlsx",
