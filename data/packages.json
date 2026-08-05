@@ -5090,6 +5090,18 @@
       "score": 90
     },
     {
+      "name": "@di-framework/socket",
+      "version": "0.1.0",
+      "description": "Decorator-driven WebSocket, TCP, and UDP for di-framework — @SocketGateway / @OnMessage with a WebCrypto secure channel",
+      "license": "MIT",
+      "repository": "https://github.com/di-framework/di-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40di-framework%2Fsocket",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T17:53:51.077Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 73
+    },
+    {
       "name": "@diagrams-so/sdk",
       "version": "1.2.0",
       "description": "TypeScript SDK for the Diagrams.so public API — generate, edit, and manage cloud architecture diagrams with AI.",
@@ -5604,6 +5616,18 @@
       "createdAt": "2026-07-28T10:31:34.226Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 86
+    },
+    {
+      "name": "@dmytromykhailiuk/offline",
+      "version": "1.0.0",
+      "description": "Full offline mode for SPAs: a post-build CLI that generates a service worker and precache manifest, plus a promise-based OfflineTracker that reports when the app is ready to work offline.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/offline",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Foffline",
+      "category": "backend",
+      "createdAt": "2026-08-05T17:06:40.601Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 90
     },
     {
       "name": "@dmytromykhailiuk/preact-signal-effects",
@@ -9962,6 +9986,18 @@
       "score": 84
     },
     {
+      "name": "@idifavour/recurve",
+      "version": "0.1.0",
+      "description": "Stateless recurring subscription billing for Paystack — retries/dunning, proration, lifecycle tracking, webhook verification, and saved-card charging. You own the storage.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/idifavour/recurve",
+      "npmUrl": "https://www.npmjs.com/package/%40idifavour%2Frecurve",
+      "category": "utilities",
+      "createdAt": "2026-08-05T16:29:57.788Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 81
+    },
+    {
       "name": "@idle-runner/react",
       "version": "1.1.0",
       "description": "React hooks for @idle-runner/core — defer and time-slice non-urgent work on the main thread.",
@@ -10248,6 +10284,30 @@
       "createdAt": "2026-08-01T16:26:43.877Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 58
+    },
+    {
+      "name": "@insession/chat-state",
+      "version": "0.1.0",
+      "description": "A dependency-free, framework-agnostic chat state machine for realtime shared rooms: message normalization, sticker/emoji validation, reply and reaction handling, and a pinned message. reduce() is a pure function that returns the next state plus effect des",
+      "license": "MIT",
+      "repository": "https://github.com/insession-space/insession-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40insession%2Fchat-state",
+      "category": "frontend",
+      "createdAt": "2026-08-05T17:05:37.488Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 82
+    },
+    {
+      "name": "@insession/plugin-watch-party-state",
+      "version": "0.1.0",
+      "description": "A dependency-free, framework-agnostic Watch Party state machine: server-authoritative synchronized video/audio playback with a queue and history. reduce() is a pure function that returns the next state plus effect descriptors for the host to execute.",
+      "license": "MIT",
+      "repository": "https://github.com/insession-space/insession-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40insession%2Fplugin-watch-party-state",
+      "category": "backend",
+      "createdAt": "2026-08-05T16:41:51.469Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 82
     },
     {
       "name": "@insession/plugin-whiteboard-state",
@@ -10706,6 +10766,18 @@
       "score": 73
     },
     {
+      "name": "@josemurilors/github-standards",
+      "version": "2.1.0",
+      "description": "CLI to standardize GitHub repositories with bilingual documentation, CI/CD pipelines, and 4-layer secret security for Vibe Coding",
+      "license": "MIT",
+      "repository": "https://github.com/josemurilors/boas-praticas-github",
+      "npmUrl": "https://www.npmjs.com/package/%40josemurilors%2Fgithub-standards",
+      "category": "cli",
+      "createdAt": "2026-08-05T17:13:03.749Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 85
+    },
+    {
       "name": "@joshbochu/pi-grok-build-ui",
       "version": "0.3.0",
       "description": "PiGrokBuild UI: an unofficial Grok Build presentation layer for Pi",
@@ -11150,6 +11222,18 @@
       "score": 77
     },
     {
+      "name": "@kontourai/ephemeris",
+      "version": "0.4.0",
+      "description": "Kontour's external time actor: a deadline engine (data-derived freshness wake-ups that nudge Flow) plus a pure recurring-schedule core (cron/at/every, timezone/DST-aware, catch-up). It triggers; it never authors.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kontourai/ephemeris",
+      "npmUrl": "https://www.npmjs.com/package/%40kontourai%2Fephemeris",
+      "category": "data",
+      "createdAt": "2026-08-05T16:53:04.489Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 90
+    },
+    {
       "name": "@kora.kanchan/auria",
       "version": "0.2.0",
       "description": "Accessibility + responsive-layout auditor: URL in -> narrated video, axe/layout/keyboard reports (MD/PDF/JSON/SARIF/JUnit), VPAT/ACR compliance, and dashboards out.",
@@ -11352,6 +11436,18 @@
       "createdAt": "2026-07-28T22:15:20.638Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 66
+    },
+    {
+      "name": "@lapointelabs/tripwire",
+      "version": "0.1.0",
+      "description": "Security scan for Claude Code, Cursor, and coding agents — injection sinks, secrets, prompt-injection surfaces, and repo lies that mislead LLMs.",
+      "license": "MIT",
+      "repository": "https://github.com/lapointelabs/tripwire",
+      "npmUrl": "https://www.npmjs.com/package/%40lapointelabs%2Ftripwire",
+      "category": "data",
+      "createdAt": "2026-08-05T17:45:40.575Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 84
     },
     {
       "name": "@latice/flags-react-native",
@@ -19130,6 +19226,18 @@
       "score": 71
     },
     {
+      "name": "@startstorez/portal-sdk",
+      "version": "0.1.0",
+      "description": "Server SDK and React widget for StartStorez Apps Portal — report installs, fire events, read plan limits, and render in-app popups. Fails open by design.",
+      "license": "MIT",
+      "repository": "https://github.com/startstorez/apps-portal-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40startstorez%2Fportal-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-05T17:50:17.242Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 79
+    },
+    {
       "name": "@stashbase/agent-proxy",
       "version": "0.2.0",
       "description": "Scoped credential proxy and sandboxed tool runner for AI agents",
@@ -19658,6 +19766,18 @@
       "score": 100
     },
     {
+      "name": "@tactical-ddd/core",
+      "version": "0.1.5",
+      "description": "[![npm version](https://img.shields.io/npm/v/@tactical-ddd/core)](https://www.npmjs.com/package/@tactical-ddd/core) [![npm downloads](https://img.shields.io/npm/dm/@tactical-ddd/core)](https://www.npmjs.com/package/@tactical-ddd/core) [![license](https://",
+      "license": "MIT",
+      "repository": "https://github.com/kayun/tactical-ddd",
+      "npmUrl": "https://www.npmjs.com/package/%40tactical-ddd%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-03T16:04:08.561Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 85
+    },
+    {
       "name": "@takazudo/pgen",
       "version": "0.1.0",
       "description": "Generate deterministic visual patterns from text seeds — 36 curated pattern families, ~2,444 registered pattern variants, from geometric tiles to noise-based textures",
@@ -19908,6 +20028,18 @@
       "createdAt": "2026-07-29T13:47:18.409Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 80
+    },
+    {
+      "name": "@teobouancheau/n8n-nodes-caldav",
+      "version": "1.0.0",
+      "description": "n8n nodes for CalDAV calendars: events, tasks, free/busy, and a polling trigger for Apple iCloud, Google, Nextcloud, Fastmail, Radicale, Baikal, and any RFC 4791 server",
+      "license": "MIT",
+      "repository": "https://github.com/teobouancheau/n8n-nodes-caldav",
+      "npmUrl": "https://www.npmjs.com/package/%40teobouancheau%2Fn8n-nodes-caldav",
+      "category": "backend",
+      "createdAt": "2026-08-05T16:26:44.077Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 76
     },
     {
       "name": "@tetrac/sdk",
@@ -20172,6 +20304,18 @@
       "createdAt": "2026-07-25T20:46:50.261Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 50
+    },
+    {
+      "name": "@timo972/cc-router",
+      "version": "0.7.0",
+      "description": "Cache-aware session router for Claude Max OAuth tokens — use multiple Claude Max accounts with Claude Code",
+      "license": "MIT",
+      "repository": "https://github.com/Timo972/cc-router",
+      "npmUrl": "https://www.npmjs.com/package/%40timo972%2Fcc-router",
+      "category": "utilities",
+      "createdAt": "2026-08-05T17:22:28.123Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 74
     },
     {
       "name": "@timpulver/molle",
@@ -22920,6 +23064,18 @@
       "createdAt": "2026-07-30T09:26:42.961Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 64
+    },
+    {
+      "name": "agent-vorcl-flow",
+      "version": "1.6.0",
+      "description": "Установщик: плагин Agent-Vorcl-Flow для Claude Code + адаптер для Codex (skills + MCP + AGENTS.md). Сам плагин ничего не хостит.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Vitammiin/agent-vorcl-flow",
+      "npmUrl": "https://www.npmjs.com/package/agent-vorcl-flow",
+      "category": "utilities",
+      "createdAt": "2026-08-05T16:26:11.481Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 92
     },
     {
       "name": "agent-wizard",
@@ -26990,6 +27146,18 @@
       "score": 63
     },
     {
+      "name": "domain-trust-toolkit",
+      "version": "1.0.0",
+      "description": "Check a domain's trustworthiness in one command — the open scoring methodology behind the truster.info Safety Score (domain age via RDAP, DNS/email auth, TLS, HTTP hygiene, URLhaus blocklist, TLD abuse tier, Tranco rank).",
+      "license": "MIT",
+      "repository": "https://github.com/trusterinfo/domain-trust-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/domain-trust-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-08-05T17:07:13.630Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 93
+    },
+    {
       "name": "donkeyq",
       "version": "0.1.0",
       "description": "A cheap SQS on Redis with at-least-once delivery, retries, exponential backoff, and a dead-letter queue for projects that already run Redis.",
@@ -27660,6 +27828,18 @@
       "createdAt": "2026-07-26T14:51:08.066Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 79
+    },
+    {
+      "name": "ethiopic-text",
+      "version": "0.1.0",
+      "description": "Search, matching, and normalization for Ethiopic script (Amharic, Tigrinya, Ge'ez). Fixes homophone folding — \"ሠላም\" matching \"ሰላም\". Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Alphaguyasa/ethiopic-text",
+      "npmUrl": "https://www.npmjs.com/package/ethiopic-text",
+      "category": "data",
+      "createdAt": "2026-08-05T17:39:22.575Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 85
     },
     {
       "name": "etymd",
@@ -28442,6 +28622,18 @@
       "score": 82
     },
     {
+      "name": "fragrance-dupes",
+      "version": "1.0.0",
+      "description": "Zero-dependency 'smells like' scoring for perfumes: note-overlap match % between fragrance pyramids (top/heart/base), distinctive-note selection by global rarity, and dupe ranking — the algorithm behind parfica.com's dupe finder.",
+      "license": "MIT",
+      "repository": "https://github.com/parfica/fragrance-dupes",
+      "npmUrl": "https://www.npmjs.com/package/fragrance-dupes",
+      "category": "utilities",
+      "createdAt": "2026-08-05T17:07:54.117Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 73
+    },
+    {
       "name": "framebasecss",
       "version": "1.2.0",
       "description": "A plug-and-use, framework-free CSS foundation for semantic HTML sites and AI-assisted workflows.",
@@ -28812,6 +29004,18 @@
       "createdAt": "2026-07-30T01:22:11.141Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 86
+    },
+    {
+      "name": "github-standards-cli",
+      "version": "2.1.1",
+      "description": "CLI to standardize GitHub repositories with bilingual documentation, CI/CD pipelines, and 4-layer secret security for Vibe Coding",
+      "license": "MIT",
+      "repository": "https://github.com/josemurilors/boas-praticas-github",
+      "npmUrl": "https://www.npmjs.com/package/github-standards-cli",
+      "category": "cli",
+      "createdAt": "2026-08-05T17:24:36.922Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 85
     },
     {
       "name": "gitpin",
@@ -31008,6 +31212,18 @@
       "createdAt": "2026-07-31T10:47:12.578Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 82
+    },
+    {
+      "name": "llm-dock",
+      "version": "0.1.0",
+      "description": "Local model-name gateway: map any custom alias to any OpenAI-compatible model, so Claude Desktop / Claude Code / OpenAI clients can use DeepSeek, OpenRouter, local servers, etc.",
+      "license": "MIT",
+      "repository": "https://github.com/divyansh-shandilya/llm-dock",
+      "npmUrl": "https://www.npmjs.com/package/llm-dock",
+      "category": "backend",
+      "createdAt": "2026-08-05T17:25:22.660Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 83
     },
     {
       "name": "llm-failover-proxy",
@@ -33866,6 +34082,18 @@
       "score": 87
     },
     {
+      "name": "opendice",
+      "version": "1.1.0",
+      "description": "Roll dice in JavaScript or TypeScript. A formula parser and one roll() over a CSPRNG with modulo-bias rejection.",
+      "license": "MIT",
+      "repository": "https://github.com/SirDarcanos/opendice",
+      "npmUrl": "https://www.npmjs.com/package/opendice",
+      "category": "frontend",
+      "createdAt": "2026-08-05T17:57:19.623Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 85
+    },
+    {
       "name": "openmergelens",
       "version": "1.0.0",
       "description": "Local, agent-agnostic AI code reviews for GitHub pull requests.",
@@ -34068,6 +34296,18 @@
       "createdAt": "2026-08-05T15:50:43.491Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 69
+    },
+    {
+      "name": "osf-data-marketplace",
+      "version": "1.0.1",
+      "description": "MCP server for OSF - Open Source Filings. 15 free tools with no wallet and no signup: sanctions and debarment screening against 11 authorities, SEC filings, CVE and KEV, federal spending, patents, research papers and more. 6 paid tools over x402 USDC on B",
+      "license": "MIT",
+      "repository": "https://github.com/onefreeman1337/osf-data-marketplace",
+      "npmUrl": "https://www.npmjs.com/package/osf-data-marketplace",
+      "category": "backend",
+      "createdAt": "2026-08-05T17:14:37.559Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 100
     },
     {
       "name": "ossclip",
@@ -34692,6 +34932,18 @@
       "createdAt": "2026-07-26T06:53:15.005Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 80
+    },
+    {
+      "name": "pi-herdr-agents",
+      "version": "0.0.2",
+      "description": "Asynchronous Pi subagents and approved review workflows in Herdr, with optional isolated Git worktrees",
+      "license": "MIT",
+      "repository": "https://github.com/giuseppecrj/pi-herdr-agents",
+      "npmUrl": "https://www.npmjs.com/package/pi-herdr-agents",
+      "category": "utilities",
+      "createdAt": "2026-08-05T16:31:31.361Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 74
     },
     {
       "name": "pi-io-tools",
@@ -35474,6 +35726,18 @@
       "score": 78
     },
     {
+      "name": "productmarketplace-react-native-sdk",
+      "version": "0.2.0",
+      "description": "React Native SDK to embed the Adneto Product Marketplace web app inside your app via an in-app WebView, using a backend-generated auth token.",
+      "license": "MIT",
+      "repository": "https://github.com/Adneto-Technology-Pvt-Ltd/productmarketplace_react_native_sdk",
+      "npmUrl": "https://www.npmjs.com/package/productmarketplace-react-native-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-05T16:31:00.456Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 74
+    },
+    {
       "name": "project-brain-protocol",
       "version": "1.0.0",
       "description": "Lightweight, cross-agent second-brain protocol for vibe-coded projects. Automatically maintained by AI coding agents.",
@@ -36132,6 +36396,18 @@
       "createdAt": "2026-07-30T14:12:37.233Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 82
+    },
+    {
+      "name": "react-native-image-crop-data",
+      "version": "0.1.0",
+      "description": "Non-destructive image cropping for React Native: store crop transforms as data, replay them on any renderer, and rasterize the source image only on explicit export.",
+      "license": "MIT",
+      "repository": "https://github.com/ivansaldayev/react-native-image-crop-data",
+      "npmUrl": "https://www.npmjs.com/package/react-native-image-crop-data",
+      "category": "frontend",
+      "createdAt": "2026-08-05T17:44:52.593Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 80
     },
     {
       "name": "react-native-ime-text-input",
@@ -39866,6 +40142,18 @@
       "score": 74
     },
     {
+      "name": "ua-plates",
+      "version": "1.0.0",
+      "description": "Tiny zero-dependency parser for Ukrainian vehicle registration plates: Cyrillic-lookalike normalization, format/type detection (civilian, police, military, diplomatic, trailer, temporary, vanity) and region decoding by series.",
+      "license": "MIT",
+      "repository": "https://github.com/trustcarinfo/ua-plates",
+      "npmUrl": "https://www.npmjs.com/package/ua-plates",
+      "category": "data",
+      "createdAt": "2026-08-05T17:06:49.024Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 84
+    },
+    {
       "name": "uganda-locale",
       "version": "0.9.1",
       "description": "Open, versioned dataset and library of Uganda's administrative units — regions, districts, cities, counties, municipalities, subcounties, town councils, parishes, wards, villages, cells and zones.",
@@ -40332,6 +40620,18 @@
       "createdAt": "2026-07-30T16:11:30.339Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 68
+    },
+    {
+      "name": "venice-video-mcp",
+      "version": "0.4.1",
+      "description": "Token-lean MCP server that wraps the Venice Video Harness CLI (v2.3.x with automatic Seedance R2V → Wan 2.7 keyframes, no-overlap audio scheduling, and continuity rules). 6 verb tools + companion skills for consistency-first AI video creation.",
+      "license": "MIT",
+      "repository": "https://github.com/jordanurbs/venice-video-mcp",
+      "npmUrl": "https://www.npmjs.com/package/venice-video-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T17:04:11.210Z",
+      "discoveredAt": "2026-08-05T17:58:42.701Z",
+      "score": 90
     },
     {
       "name": "verihook",

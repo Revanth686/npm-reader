@@ -1,23 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123472067,
-  "lastRunAt": "2026-08-05T16:21:22.907Z",
+  "lastSequence": 123487883,
+  "lastRunAt": "2026-08-05T17:58:42.701Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@1auth/authn-webauthn-passkey",
-      "attempts": 1
-    },
-    {
-      "name": "@doskoi64/optioner-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@doskoi64/optioner",
-      "attempts": 1
-    },
-    {
-      "name": "@1auth/authn-webauthn-securitykey",
+      "name": "@cawerbr/backend-auth",
       "attempts": 1
     }
   ]
