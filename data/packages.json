@@ -3170,6 +3170,18 @@
       "score": 60
     },
     {
+      "name": "@bowmark/mcp",
+      "version": "2.1.0",
+      "description": "Bowmark MCP over stdio — a thin bridge to the hosted Bowmark MCP at https://api.bowmark.ai/mcp. The web as callable functions: read a typed library, write a script, Bowmark runs it on the live sites.",
+      "license": "MIT",
+      "repository": "https://github.com/bowmark-ai/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40bowmark%2Fmcp",
+      "category": "frontend",
+      "createdAt": "2026-08-06T01:56:25.203Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 82
+    },
+    {
       "name": "@box-model/web",
       "version": "0.0.1",
       "description": "Accessible, framework-agnostic web components for the Box Model design system.",
@@ -3792,6 +3804,18 @@
       "createdAt": "2026-08-05T08:11:45.273Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 88
+    },
+    {
+      "name": "@chakra-email/preview",
+      "version": "0.1.0",
+      "description": "Local React email preview server with live rendering, template variants, and email linting.",
+      "license": "MIT",
+      "repository": "https://github.com/chakra-email/chakra-email",
+      "npmUrl": "https://www.npmjs.com/package/%40chakra-email%2Fpreview",
+      "category": "testing",
+      "createdAt": "2026-08-06T02:42:04.968Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 76
     },
     {
       "name": "@characteros/nexus-sdk",
@@ -7466,6 +7490,18 @@
       "score": 84
     },
     {
+      "name": "@future-unknown/methodry",
+      "version": "0.6.0",
+      "description": "Tiny JSON-RPC 2.0 client with Proxy-sugar method calls, pluggable auth, batching, and lifecycle hooks. Works in browsers, Node, and CLIs.",
+      "license": "MIT",
+      "repository": "https://github.com/future-unknown/methodry",
+      "npmUrl": "https://www.npmjs.com/package/%40future-unknown%2Fmethodry",
+      "category": "frontend",
+      "createdAt": "2026-08-06T04:31:35.645Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 79
+    },
+    {
       "name": "@fxone/prop-flow",
       "version": "2.0.0",
       "description": "trace an optional prop across every JSX call site and tell whether its `?` is justified",
@@ -9530,6 +9566,18 @@
       "score": 60
     },
     {
+      "name": "@gtmi/mcp-status-callback",
+      "version": "2.0.1",
+      "description": "Public HTTPS callback URLs for local development via a Twilio-account-authenticated WSS relay. No ngrok, no local HTTP listener.",
+      "license": "MIT",
+      "repository": "https://github.com/twilio-demos/mcp-status-callback",
+      "npmUrl": "https://www.npmjs.com/package/%40gtmi%2Fmcp-status-callback",
+      "category": "backend",
+      "createdAt": "2026-08-06T03:02:23.850Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 79
+    },
+    {
       "name": "@guardion/shadow-ai",
       "version": "0.1.0",
       "description": "Cross-platform Shadow AI discovery — inventories AI apps, agents, MCP servers, skills and plugins on a device",
@@ -10730,6 +10778,18 @@
       "score": 80
     },
     {
+      "name": "@insession/space",
+      "version": "0.1.0",
+      "description": "A dependency-free engine for headless realtime spaces: bring your own WebSocket server and storage, and this owns who is connected, which extension owns which slice of its state, how actions reach the right reducer, and when timers need re-arming. Every t",
+      "license": "MIT",
+      "repository": "https://github.com/insession-space/insession-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40insession%2Fspace",
+      "category": "backend",
+      "createdAt": "2026-08-06T03:53:01.933Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 84
+    },
+    {
       "name": "@instush/mcp",
       "version": "0.3.0",
       "description": "Local MCP bridge for driving the Instush video editor from coding agents (Claude Code, Codex, …). Content-free translator: MCP on the agent side, a private localhost WebSocket to the editor tab.",
@@ -10740,6 +10800,42 @@
       "createdAt": "2026-07-25T14:54:16.738Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 60
+    },
+    {
+      "name": "@integraledger/binding-evm-mpp",
+      "version": "0.2.5",
+      "description": "Welds an LCP record into an MPP settlement on EVM by Id-Reuse (LCP §8.3.5).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fbinding-evm-mpp",
+      "category": "utilities",
+      "createdAt": "2026-08-06T03:37:00.976Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 73
+    },
+    {
+      "name": "@integraledger/binding-tempo-mpp",
+      "version": "0.2.4",
+      "description": "Welds an ATR hash into a Tempo TIP-20 settlement under MPP.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fbinding-tempo-mpp",
+      "category": "utilities",
+      "createdAt": "2026-08-06T03:37:07.683Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 73
+    },
+    {
+      "name": "@integraledger/placement-ack",
+      "version": "0.1.5",
+      "description": "Places an LCP reference into an Agent Commerce Kit (ACK) payment receipt, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fplacement-ack",
+      "category": "utilities",
+      "createdAt": "2026-08-06T03:37:08.109Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 73
     },
     {
       "name": "@ios27_design_system/rails",
@@ -10884,6 +10980,18 @@
       "createdAt": "2026-07-31T14:36:06.013Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 81
+    },
+    {
+      "name": "@iuashrafi/rate-limiter",
+      "version": "1.0.0",
+      "description": "A production-grade, distributed rate limiting library for Node.js with pluggable algorithms (fixed window, sliding window log, sliding window counter, token bucket, leaky bucket) and pluggable storage (in-memory, Redis).",
+      "license": "MIT",
+      "repository": "https://github.com/iuashrafi/ratelimit-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40iuashrafi%2Frate-limiter",
+      "category": "backend",
+      "createdAt": "2026-08-06T04:32:52.880Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 74
     },
     {
       "name": "@ivaisoft/bws-webauthn-mcp",
@@ -14546,6 +14654,18 @@
       "score": 70
     },
     {
+      "name": "@nch1802/jenkins-mcp",
+      "version": "0.1.0",
+      "description": "MCP server (stdio) for Jenkins: discover jobs and their real parameters, trigger builds without blocking, and read build status and logs. Multi-environment aware.",
+      "license": "MIT",
+      "repository": "https://github.com/nch180297/jenkins-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40nch1802%2Fjenkins-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T04:52:01.776Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 79
+    },
+    {
       "name": "@ndunl075/atrium",
       "version": "0.3.0",
       "description": "A shared workspace that multiple AI agents join in order to do one job together.",
@@ -15120,6 +15240,18 @@
       "createdAt": "2026-07-26T10:59:04.304Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 71
+    },
+    {
+      "name": "@nxeon_studio/tmn-voucher",
+      "version": "3.1.3",
+      "description": "SDK ภาษา TypeScript สำหรับตรวจสอบและแลกคูปองอั่งเปา TrueMoney Wallet แบบ third-party",
+      "license": "ISC",
+      "repository": "https://github.com/ChavaphonBoonchan/tmn-voucher",
+      "npmUrl": "https://www.npmjs.com/package/%40nxeon_studio%2Ftmn-voucher",
+      "category": "build-tools",
+      "createdAt": "2026-08-06T03:08:04.758Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 80
     },
     {
       "name": "@nxtlinq/acp-proxy",
@@ -21362,6 +21494,18 @@
       "score": 79
     },
     {
+      "name": "@unirate/fastify",
+      "version": "0.1.0",
+      "description": "Official Fastify plugin for the UniRate currency-exchange API. Decorates your Fastify instance with a typed `unirate` client and optionally registers read-only proxy routes that keep your API key server-side. Zero runtime deps; fastify is a peer.",
+      "license": "MIT",
+      "repository": "https://github.com/UniRate-API/fastify-unirate",
+      "npmUrl": "https://www.npmjs.com/package/%40unirate%2Ffastify",
+      "category": "backend",
+      "createdAt": "2026-08-06T03:56:40.074Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 73
+    },
+    {
       "name": "@uniweb/projections",
       "version": "0.1.1",
       "description": "Projections of a Uniweb site's content — agent index, per-page markdown, search index. Pure JS, runs anywhere.",
@@ -22716,6 +22860,18 @@
       "createdAt": "2026-07-26T22:33:37.319Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 64
+    },
+    {
+      "name": "@xnkee/n8n-nodes-cobalt",
+      "version": "0.1.0",
+      "description": "n8n community nodes for a self-hosted cobalt instance: download video, audio and photos from YouTube, TikTok, Instagram, X/Twitter, Reddit and 16 more services",
+      "license": "MIT",
+      "repository": "https://github.com/xnkee/n8n-nodes-cobalt",
+      "npmUrl": "https://www.npmjs.com/package/%40xnkee%2Fn8n-nodes-cobalt",
+      "category": "utilities",
+      "createdAt": "2026-08-06T02:11:48.688Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 79
     },
     {
       "name": "@xof/cors",
@@ -26270,6 +26426,18 @@
       "score": 69
     },
     {
+      "name": "cn-llm-bench",
+      "version": "0.1.1",
+      "description": "Compare providers serving China's frontier models — time to first token, throughput, price and success rate, measured side by side.",
+      "license": "MIT",
+      "repository": "https://github.com/collinliu/cn-llm-bench",
+      "npmUrl": "https://www.npmjs.com/package/cn-llm-bench",
+      "category": "backend",
+      "createdAt": "2026-08-05T12:32:50.051Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 78
+    },
+    {
       "name": "cockpit-claude",
       "version": "1.0.0",
       "description": "A four-line instrument panel for a Claude Code session: context, spend, rate-limit pace, and every session sharing your limit.",
@@ -28286,6 +28454,18 @@
       "score": 54
     },
     {
+      "name": "elysia-nnn-socket-client",
+      "version": "1.0.0",
+      "description": "WebSocket client for elysia-nnn-socket 1.0 — room:join/leave with ack protocol, auto-prefixed room events, multi-arg payload packing, reconnect re-join",
+      "license": "MIT",
+      "repository": "https://github.com/theanh-it/elysia-nnn-socket-client",
+      "npmUrl": "https://www.npmjs.com/package/elysia-nnn-socket-client",
+      "category": "cli",
+      "createdAt": "2026-08-06T04:58:09.174Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 75
+    },
+    {
       "name": "email-intel-mcp",
       "version": "0.3.0",
       "description": "Email infrastructure fingerprinting as an MCP server and a CLI. Provider detection, SPF/DKIM/DMARC posture graded A+ to F, header analysis. macOS, zero dependencies.",
@@ -29904,6 +30084,18 @@
       "createdAt": "2026-08-03T00:42:19.774Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 70
+    },
+    {
+      "name": "giffycdn",
+      "version": "1.1.0",
+      "description": "A programmatic interface to get GIFs from giffycdn",
+      "license": "MIT",
+      "repository": "https://github.com/iceefruit/giffycdn",
+      "npmUrl": "https://www.npmjs.com/package/giffycdn",
+      "category": "frontend",
+      "createdAt": "2026-08-06T02:22:45.134Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 75
     },
     {
       "name": "gifwarp",
@@ -31610,6 +31802,18 @@
       "score": 60
     },
     {
+      "name": "kaivo",
+      "version": "2.2.0",
+      "description": "A lightweight, TypeScript-first library built on unjs/h3 for quickly creating HTTP servers.",
+      "license": "MIT",
+      "repository": "https://github.com/OpenKnights/kaivo",
+      "npmUrl": "https://www.npmjs.com/package/kaivo",
+      "category": "testing",
+      "createdAt": "2026-08-06T02:58:15.640Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 81
+    },
+    {
       "name": "kalaris-myriad",
       "version": "1.0.0",
       "description": "CLI and data package for the MYRIAD 10,000-node biotech agent task graph.",
@@ -32882,6 +33086,18 @@
       "score": 54
     },
     {
+      "name": "material-plus-ui",
+      "version": "0.0.1",
+      "description": "A React component library that extends Material UI — the components MUI does not ship, and wider versions of the ones it does. Built on @mui/material, Base UI and Tailwind CSS v4. ESM only, types included.",
+      "license": "MIT",
+      "repository": "https://github.com/jooy2/material-plus",
+      "npmUrl": "https://www.npmjs.com/package/material-plus-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-06T02:07:00.829Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 73
+    },
+    {
       "name": "matterbridge-midea",
       "version": "0.1.19",
       "description": "Matterbridge plugin for Midea SmartHome air conditioners",
@@ -33072,6 +33288,18 @@
       "createdAt": "2026-08-03T02:48:31.893Z",
       "discoveredAt": "2026-08-03T05:50:48.787Z",
       "score": 86
+    },
+    {
+      "name": "mcp-queue-doctor",
+      "version": "0.1.0",
+      "description": "MCP server that diagnoses pg-boss job queues — evidence-backed findings for retry storms, stuck jobs, missed schedules and expiry overruns, each with the safest recovery action.",
+      "license": "MIT",
+      "repository": "https://github.com/ethanasm/mcp-queue-doctor",
+      "npmUrl": "https://www.npmjs.com/package/mcp-queue-doctor",
+      "category": "backend",
+      "createdAt": "2026-08-06T04:12:47.731Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 81
     },
     {
       "name": "mcp-sandbox",
@@ -36026,6 +36254,18 @@
       "score": 77
     },
     {
+      "name": "pi-coact",
+      "version": "1.3.0",
+      "description": "CoACT — action-preserving observation compression for Pi coding agents (forked from pi-context-prune).",
+      "license": "MIT",
+      "repository": "https://github.com/pinion05/PI-CoACT",
+      "npmUrl": "https://www.npmjs.com/package/pi-coact",
+      "category": "utilities",
+      "createdAt": "2026-08-06T02:55:30.878Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 78
+    },
+    {
       "name": "pi-codex-fast-mode",
       "version": "0.2.0",
       "description": "A correctness-first OpenAI Codex Fast mode extension for Pi: explicit, persistent, provider-scoped, and honest about cost and backend downgrades.",
@@ -36362,6 +36602,18 @@
       "score": 73
     },
     {
+      "name": "pi-warm-cache",
+      "version": "0.2.0",
+      "description": "Pi extension that keeps supported provider prompt caches warm during long idle gaps",
+      "license": "MIT",
+      "repository": "https://github.com/ribbons-digital/pi-warm-cache",
+      "npmUrl": "https://www.npmjs.com/package/pi-warm-cache",
+      "category": "utilities",
+      "createdAt": "2026-08-06T03:14:29.045Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 74
+    },
+    {
       "name": "pi-web-i18n",
       "version": "1.0.1",
       "description": "UI language pack (i18n) for jmfederico/pi-web — DOM overlay translations with zh-CN default, English, and Japanese.",
@@ -36648,6 +36900,18 @@
       "createdAt": "2026-08-05T13:44:11.390Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 95
+    },
+    {
+      "name": "playwright-test-health",
+      "version": "0.2.0",
+      "description": "Flake triage and test-health analytics for any Playwright suite: flake scores, broken-vs-flaky classification, failure clustering and duration regressions, from a history it keeps itself",
+      "license": "MIT",
+      "repository": "https://github.com/darvinpatel/playwright-test-health",
+      "npmUrl": "https://www.npmjs.com/package/playwright-test-health",
+      "category": "testing",
+      "createdAt": "2026-08-06T03:55:27.370Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 88
     },
     {
       "name": "pngjs-nextgen",
@@ -37430,6 +37694,18 @@
       "score": 100
     },
     {
+      "name": "react-auto-i18n",
+      "version": "0.1.1",
+      "description": "Automatic i18n scanner and code transformer for React Native apps",
+      "license": "MIT",
+      "repository": "https://github.com/SiandjaRemy/react-auto-i18n",
+      "npmUrl": "https://www.npmjs.com/package/react-auto-i18n",
+      "category": "frontend",
+      "createdAt": "2026-08-06T02:34:32.221Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 76
+    },
+    {
       "name": "react-decor",
       "version": "0.3.0",
       "description": "Compile-time @ decorators for React function components — pure JSX composition, zero runtime, no HOCs.",
@@ -37752,6 +38028,18 @@
       "createdAt": "2026-08-04T19:43:22.448Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 76
+    },
+    {
+      "name": "react-native-leap",
+      "version": "0.1.0",
+      "description": "On-device LFM2 / LFM2.5 inference for React Native & Expo via Liquid AI's LEAP SDK. Streaming chat, thinking models, constrained JSON, function calling — powered by Nitro Modules.",
+      "license": "MIT",
+      "repository": "https://github.com/hung-yueh/react-native-leap",
+      "npmUrl": "https://www.npmjs.com/package/react-native-leap",
+      "category": "frontend",
+      "createdAt": "2026-08-06T04:35:54.639Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 80
     },
     {
       "name": "react-native-local-llm",
@@ -39420,6 +39708,18 @@
       "createdAt": "2026-07-29T23:01:18.336Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 62
+    },
+    {
+      "name": "shotlist",
+      "version": "0.1.0",
+      "description": "Repeatable, annotated UI screenshots from declarative recipes. No code per shot.",
+      "license": "MIT",
+      "repository": "https://github.com/SirDarcanos/shotlist",
+      "npmUrl": "https://www.npmjs.com/package/shotlist",
+      "category": "testing",
+      "createdAt": "2026-08-05T14:40:22.965Z",
+      "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 74
     },
     {
       "name": "si-coder-agent",
