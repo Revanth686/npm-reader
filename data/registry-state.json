@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123644621,
-  "lastRunAt": "2026-08-06T12:54:14.409Z",
+  "lastSequence": 123667695,
+  "lastRunAt": "2026-08-06T15:06:30.900Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@bablast/n8n-nodes-bablast",
+      "name": "@elyvel/mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@elyvel/permission",
+      "attempts": 1
+    },
+    {
+      "name": "@rallycry/card-tech",
+      "attempts": 1
+    },
+    {
+      "name": "@lockally/angular",
+      "attempts": 1
+    },
+    {
+      "name": "@rallycry/microgame-core",
       "attempts": 1
     }
   ]
