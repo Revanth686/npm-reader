@@ -2642,6 +2642,18 @@
       "score": 76
     },
     {
+      "name": "@bablast/client",
+      "version": "1.1.0",
+      "description": "TypeScript SDK for the Bablast WhatsApp messaging API.",
+      "license": "MIT",
+      "repository": "https://github.com/bablast/bablast-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40bablast%2Fclient",
+      "category": "backend",
+      "createdAt": "2026-08-06T12:43:38.740Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 71
+    },
+    {
       "name": "@bacano/sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK for building websites on the Bacano ERP",
@@ -6194,6 +6206,18 @@
       "score": 68
     },
     {
+      "name": "@dplace/apple-notes-mcp",
+      "version": "2.0.1",
+      "description": "MCP server for Apple Notes (macOS, via JXA/osascript)",
+      "license": "MIT",
+      "repository": "https://github.com/dgplace/apple-notes-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40dplace%2Fapple-notes-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T12:53:07.249Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 81
+    },
+    {
       "name": "@dpuse/dpuse-tool-adaltas-csv-parser",
       "version": "0.0.153",
       "description": "[![npm version](https://img.shields.io/npm/v/@dpuse/dpuse-tool-adaltas-csv-parser.svg)](https://www.npmjs.com/package/@dpuse/dpuse-tool-adaltas-csv-parser) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)",
@@ -9722,6 +9746,18 @@
       "score": 81
     },
     {
+      "name": "@gyeonghokim/gerrit-cli",
+      "version": "0.0.1",
+      "description": "Command-line client for Gerrit code review, and the binary behind the gerrit-cli agent skill.",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/GyeongHoKim/gerrit-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40gyeonghokim%2Fgerrit-cli",
+      "category": "cli",
+      "createdAt": "2026-08-06T12:43:38.088Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 73
+    },
+    {
       "name": "@gyeonghokim/gerrit-mcp-server",
       "version": "0.0.1",
       "description": "Model Context Protocol server for Gerrit code review. Point any MCP-capable agent at your Gerrit host.",
@@ -10703,6 +10739,18 @@
       "category": "frontend",
       "createdAt": "2026-08-01T14:06:20.704Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
+      "score": 80
+    },
+    {
+      "name": "@immeodk/pr-signoff",
+      "version": "2.0.0",
+      "description": "Pull Request Signoff Tool - Run CI checks and create status checks for pull requests",
+      "license": "MIT",
+      "repository": "https://github.com/immeodk/oss-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40immeodk%2Fpr-signoff",
+      "category": "devops",
+      "createdAt": "2026-08-06T12:28:46.112Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 80
     },
     {
@@ -11870,6 +11918,18 @@
       "score": 72
     },
     {
+      "name": "@klunqlabs/klunq-widget",
+      "version": "1.0.0",
+      "description": "Embeddable AI chat widget built with Preact, Tailwind CSS v4, LangChain, and TypeScript. Designed to be dropped into any existing web page with zero side effects.",
+      "license": "MIT",
+      "repository": "https://github.com/klunqlabs/klunq-widget",
+      "npmUrl": "https://www.npmjs.com/package/%40klunqlabs%2Fklunq-widget",
+      "category": "frontend",
+      "createdAt": "2026-08-06T11:16:32.480Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 85
+    },
+    {
       "name": "@kne/overflow-items",
       "version": "0.1.0",
       "description": "测量剩余宽度并自动决定露出若干 item 的 React 溢出收起库，提供组件、Hook 与纯函数，支持更多插槽与防抖。",
@@ -12590,6 +12650,18 @@
       "score": 76
     },
     {
+      "name": "@m-doc/core",
+      "version": "1.1.0",
+      "description": "mdoc / mDL (ISO/IEC 18013-5 & 18013-7) issuance and verification for TypeScript",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lukasjhan/mdoc",
+      "npmUrl": "https://www.npmjs.com/package/%40m-doc%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-06T11:43:02.054Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 83
+    },
+    {
       "name": "@madebyclowd/taiga-mcp-server",
       "version": "0.1.0",
       "description": "MCP server for Taiga (Cloud and self-hosted) — projects, epics, user stories, tasks, issues, sprints, wiki, and more.",
@@ -12840,6 +12912,18 @@
       "createdAt": "2026-07-30T22:09:37.506Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 63
+    },
+    {
+      "name": "@marufhosen-cdda/biwd-api-key-card",
+      "version": "1.0.0",
+      "description": "A React component that validates an API key against a built-in expected value (BIWD-1234) and renders the result in a status card.",
+      "license": "MIT",
+      "repository": "https://github.com/marufhosen-cdda/biwd-api-key-card",
+      "npmUrl": "https://www.npmjs.com/package/%40marufhosen-cdda%2Fbiwd-api-key-card",
+      "category": "frontend",
+      "createdAt": "2026-08-06T11:00:30.072Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 71
     },
     {
       "name": "@massa-ai/codex-plugin",
@@ -15554,6 +15638,18 @@
       "score": 76
     },
     {
+      "name": "@obsvr/sdk",
+      "version": "0.11.1",
+      "description": "Secure and prove AI agents and LLMs — enforce policy in real time, block sensitive data, and reconstruct exactly what governed it",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/obsvr-dev/obsvr-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40obsvr%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-06T12:01:35.795Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 82
+    },
+    {
       "name": "@ocean8219/formualizer",
       "version": "0.7.1",
       "description": "Embeddable spreadsheet engine — parse, evaluate & mutate Excel workbooks in the browser. 320+ functions, Arrow-powered.",
@@ -17498,6 +17594,18 @@
       "score": 71
     },
     {
+      "name": "@razorwind/cursor",
+      "version": "0.0.3",
+      "description": "Razorwind Cursor theme extension plugin that creates VSIX themes from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fcursor",
+      "category": "data",
+      "createdAt": "2026-08-06T10:30:44.564Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 74
+    },
+    {
       "name": "@razorwind/design-md",
       "version": "0.0.4",
       "description": "Razorwind design-md package that can create a DESIGN.md design-system specification file from design tokens or read a DESIGN.md file and return the design-system specification.",
@@ -17522,6 +17630,30 @@
       "score": 72
     },
     {
+      "name": "@razorwind/ghostty",
+      "version": "0.0.2",
+      "description": "Razorwind plugin that generates Ghostty terminal themes from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fghostty",
+      "category": "data",
+      "createdAt": "2026-08-06T11:24:20.808Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 71
+    },
+    {
+      "name": "@razorwind/notepad-plus-plus",
+      "version": "0.0.2",
+      "description": "Razorwind plugin that generates Notepad++ themes from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fnotepad-plus-plus",
+      "category": "data",
+      "createdAt": "2026-08-06T11:24:21.103Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 72
+    },
+    {
       "name": "@razorwind/shadcn",
       "version": "0.0.4",
       "description": "Razorwind Shadcn package that can create Shadcn UI registry files from design tokens/components or read a Shadcn UI registry file and return the design tokens/components.",
@@ -17532,6 +17664,18 @@
       "createdAt": "2026-07-26T14:09:45.484Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 77
+    },
+    {
+      "name": "@razorwind/shiki",
+      "version": "0.0.2",
+      "description": "Razorwind plugin that generates Shiki / TextMate themes from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fshiki",
+      "category": "data",
+      "createdAt": "2026-08-06T11:24:31.863Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 73
     },
     {
       "name": "@razorwind/storybook",
@@ -17580,6 +17724,18 @@
       "createdAt": "2026-08-05T09:58:17.576Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 73
+    },
+    {
+      "name": "@razorwind/zsh",
+      "version": "0.0.2",
+      "description": "Razorwind plugin that generates Oh My Zsh themes from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fzsh",
+      "category": "data",
+      "createdAt": "2026-08-06T11:24:41.754Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 72
     },
     {
       "name": "@razsdev/datasieve-prisma",
@@ -17892,6 +18048,18 @@
       "createdAt": "2026-07-25T14:15:00.070Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "@rentlyorg/react-native-amazon-kvs",
+      "version": "0.1.0",
+      "description": "React Native bridge for Amazon Kinesis Video Streams (KVS), enabling native integration for real-time video streaming, signaling, and media communication on Android and iOS.",
+      "license": "MIT",
+      "repository": "https://github.com/sriharsha-rently/react-native-amazon-kvs",
+      "npmUrl": "https://www.npmjs.com/package/%40rentlyorg%2Freact-native-amazon-kvs",
+      "category": "frontend",
+      "createdAt": "2026-08-06T12:18:00.022Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 73
     },
     {
       "name": "@repass/tracker",
@@ -23222,6 +23390,18 @@
       "score": 90
     },
     {
+      "name": "@xueca/code-guardian",
+      "version": "0.1.0",
+      "description": "MCP Server for AI code quality checks — file size, ESLint, architecture compliance, anti-patterns, and comment standards",
+      "license": "MIT",
+      "repository": "https://github.com/xueca/code-guardian",
+      "npmUrl": "https://www.npmjs.com/package/%40xueca%2Fcode-guardian",
+      "category": "frontend",
+      "createdAt": "2026-08-06T11:13:46.878Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 82
+    },
+    {
       "name": "@xulthekl/team-flow",
       "version": "0.22.4",
       "description": "Unified plugin (23 skills + 8 agents) integrating team-flow, compound-engineering, architecture-design, prototype, design-system, workflow-orchestrator, workflow-bootstrap, e2e, session-handoff, workflow-feedback for multi-agent coding tools.",
@@ -24290,6 +24470,18 @@
       "score": 68
     },
     {
+      "name": "agentic-test-contracts",
+      "version": "1.0.0",
+      "description": "JSON Schemas for the artifacts agentic test pipelines pass between each other, plus a blank tool-agnostic profile template you scaffold with npx.",
+      "license": "MIT",
+      "repository": "https://github.com/naelmarwan1/agentic-test-contracts",
+      "npmUrl": "https://www.npmjs.com/package/agentic-test-contracts",
+      "category": "testing",
+      "createdAt": "2026-08-06T11:37:08.955Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 83
+    },
+    {
       "name": "agentictools",
       "version": "1.0.0",
       "description": "Search 41,000+ agent skills, MCP servers, Claude Code plugins, and agentic loops from your terminal. The CLI for getagentictools.com.",
@@ -24456,6 +24648,18 @@
       "createdAt": "2026-07-27T12:05:53.215Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 79
+    },
+    {
+      "name": "aimem-mcp",
+      "version": "0.1.1",
+      "description": "Local-first, project-scoped MCP memory server for AI coding assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/yogesh-joshi-0333/aimem",
+      "npmUrl": "https://www.npmjs.com/package/aimem-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T10:20:41.784Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 77
     },
     {
       "name": "ainative-opencode-memory-mcp",
@@ -26162,6 +26366,18 @@
       "score": 80
     },
     {
+      "name": "cf-knex",
+      "version": "0.1.0",
+      "description": "Knex for Cloudflare Workers — TiDB Serverless, MySQL, Postgres, D1 and Turso, direct or via Hyperdrive",
+      "license": "MIT",
+      "repository": "https://github.com/addwot/cf-knex",
+      "npmUrl": "https://www.npmjs.com/package/cf-knex",
+      "category": "backend",
+      "createdAt": "2026-08-06T12:27:35.832Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 80
+    },
+    {
       "name": "cgraph",
       "version": "0.1.1",
       "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
@@ -26534,6 +26750,18 @@
       "score": 73
     },
     {
+      "name": "claude-excalidraw-diagrams",
+      "version": "1.0.0",
+      "description": "Installs a Claude Code skill that generates real, editable .excalidraw diagrams — flowcharts, architectures, mind maps, sequence diagrams, ERDs and slide decks — instead of ASCII art.",
+      "license": "MIT",
+      "repository": "https://github.com/naelmarwan1/claude-excalidraw-diagrams",
+      "npmUrl": "https://www.npmjs.com/package/claude-excalidraw-diagrams",
+      "category": "devops",
+      "createdAt": "2026-08-06T12:10:17.126Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 78
+    },
+    {
       "name": "claude-loops-pack",
       "version": "0.1.0",
       "description": "Cinco loops de trabalho (/loop-mvp, /loop-bug, /loop-landing, /loop-conteudo, /loop-saas) para o Claude Code: planeje, execute, teste, corrija e repita até entregar.",
@@ -26580,6 +26808,18 @@
       "createdAt": "2026-07-28T11:51:36.392Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 86
+    },
+    {
+      "name": "claude-plugin-catalog",
+      "version": "1.0.0",
+      "description": "Walk a Claude Code plugin tree, parse every SKILL.md into a structured catalog, and render MDX docs pages — with a tolerant YAML fallback for frontmatter that strict parsers reject.",
+      "license": "MIT",
+      "repository": "https://github.com/naelmarwan1/claude-plugin-catalog",
+      "npmUrl": "https://www.npmjs.com/package/claude-plugin-catalog",
+      "category": "utilities",
+      "createdAt": "2026-08-06T12:10:35.789Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 85
     },
     {
       "name": "claude-retro",
@@ -27156,6 +27396,18 @@
       "createdAt": "2026-07-31T22:48:09.376Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 65
+    },
+    {
+      "name": "commvault-release-comparison-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for comparing Commvault release versions and analyzing changes",
+      "license": "MIT",
+      "repository": "https://github.com/csawantgit/commvault-release-comparison-mcp",
+      "npmUrl": "https://www.npmjs.com/package/commvault-release-comparison-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T12:17:20.884Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 75
     },
     {
       "name": "company-skills",
@@ -28596,6 +28848,18 @@
       "createdAt": "2026-08-05T17:07:13.630Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 93
+    },
+    {
+      "name": "dompruner-mcp",
+      "version": "0.3.0",
+      "description": "MCP server that reduces web page token cost by 90%+ via DOM AST extraction — no API key required",
+      "license": "MIT",
+      "repository": "https://github.com/dong7812/dompruner-mcp",
+      "npmUrl": "https://www.npmjs.com/package/dompruner-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-06T11:12:58.442Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 79
     },
     {
       "name": "donkeyq",
@@ -31236,6 +31500,18 @@
       "createdAt": "2026-08-06T10:28:27.612Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 100
+    },
+    {
+      "name": "hilan-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for Hilan (Hilanet, net.hilan.co.il) employee self-service — pull payslips and Form 106 into an AI assistant, for any tenant.",
+      "license": "MIT",
+      "repository": "https://github.com/udah1/hilan-mcp",
+      "npmUrl": "https://www.npmjs.com/package/hilan-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T11:36:18.251Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 75
     },
     {
       "name": "homajs",
@@ -38426,6 +38702,18 @@
       "score": 84
     },
     {
+      "name": "react-native-cavynext",
+      "version": "0.1.0",
+      "description": "A cross-platform integration test framework for React Native, written in TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/tvanlaerhoven/react-native-cavynext",
+      "npmUrl": "https://www.npmjs.com/package/react-native-cavynext",
+      "category": "testing",
+      "createdAt": "2026-08-06T11:01:31.321Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
+      "score": 72
+    },
+    {
       "name": "react-native-cupertino-tabs",
       "version": "1.0.0",
       "description": "A customizable native iOS tabs and segmented control component for React Native.",
@@ -41723,6 +42011,18 @@
       "category": "backend",
       "createdAt": "2026-07-30T20:16:52.957Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
+      "score": 74
+    },
+    {
+      "name": "terra-formica",
+      "version": "2.0.0",
+      "description": "Formica — The Formic Mesh: $0 Cost Event Mesh, Distributed K/V Cache, Telemetry, WAF Security Gateway & Universal Purge Engine for the Terra Ecosystem",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/Formica",
+      "npmUrl": "https://www.npmjs.com/package/terra-formica",
+      "category": "backend",
+      "createdAt": "2026-08-06T12:51:35.916Z",
+      "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 74
     },
     {
