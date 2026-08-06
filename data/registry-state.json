@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123534058,
-  "lastRunAt": "2026-08-05T23:18:00.507Z",
+  "lastSequence": 123550788,
+  "lastRunAt": "2026-08-06T01:49:46.050Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@achimismaili/easy-web-swa",
+      "name": "@ohos-ports/node-telegram-cli",
+      "attempts": 1
+    },
+    {
+      "name": "@ohos-ports/leakage",
       "attempts": 1
     }
   ]

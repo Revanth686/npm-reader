@@ -770,6 +770,42 @@
       "score": 66
     },
     {
+      "name": "@agentproto/adapter-knowledge-corpus",
+      "version": "0.2.1",
+      "description": "Composable knowledge adapter: implements @agentproto/knowledge-engine's IKnowledgeProvider over an AIP-10 @agentproto/corpus workspace, wrapping any backing IKnowledgeProvider and hydrating every hit with canonical AIP-10 provenance + access policy. Publi",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agentproto/ts",
+      "npmUrl": "https://www.npmjs.com/package/%40agentproto%2Fadapter-knowledge-corpus",
+      "category": "utilities",
+      "createdAt": "2026-07-27T12:00:43.433Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 69
+    },
+    {
+      "name": "@agentproto/adapter-knowledge-gbrain-doc",
+      "version": "0.2.1",
+      "description": "Knowledge adapter: implements @agentproto/knowledge-engine's IKnowledgeProvider over a gbrain server's document API (put_page / search) via pure fetch over its JSON-RPC /mcp endpoint. gbrain fuses lexical (tsvector) + semantic recall. Registers as a provi",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agentproto/ts",
+      "npmUrl": "https://www.npmjs.com/package/%40agentproto%2Fadapter-knowledge-gbrain-doc",
+      "category": "backend",
+      "createdAt": "2026-07-27T12:00:42.139Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 67
+    },
+    {
+      "name": "@agentproto/adapter-knowledge-qdrant",
+      "version": "0.2.1",
+      "description": "Knowledge adapter: implements @agentproto/knowledge-engine's IKnowledgeProvider over a Qdrant collection via pure fetch (upsert/search/scroll) with OpenAI-compatible embeddings (text-embedding-3-small, 1536d). Optional tenant-scoped payload filtering isol",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agentproto/ts",
+      "npmUrl": "https://www.npmjs.com/package/%40agentproto%2Fadapter-knowledge-qdrant",
+      "category": "utilities",
+      "createdAt": "2026-07-27T12:00:53.752Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 66
+    },
+    {
       "name": "@agentsbloom/sdk",
       "version": "0.2.0",
       "description": "Universal Node.js/Express SDK to convert any e-commerce store into an Agent-Ready API (UCP, ACP, AP2, WebMCP, Web Bot Auth).",
@@ -7622,6 +7658,18 @@
       "score": 69
     },
     {
+      "name": "@geotager/core",
+      "version": "1.0.2",
+      "description": "Read, write and remove EXIF GPS geotags: photo and video location metadata for JPEG, HEIC, AVIF, PNG, WebP, TIFF and MP4. Lossless, Node and browser.",
+      "license": "MIT",
+      "repository": "https://github.com/MathieuSoysal/geotager",
+      "npmUrl": "https://www.npmjs.com/package/%40geotager%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-06T00:19:08.101Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 76
+    },
+    {
       "name": "@get-on-investing/investing-navigator",
       "version": "1.0.0",
       "description": "Investing Navigator is an intelligent investing assistant that helps users explore investment opportunities, understand financial concepts, and navigate the markets with greater confidence. Built by GetOnInvesting.com",
@@ -9398,6 +9446,18 @@
       "score": 71
     },
     {
+      "name": "@gravvfi/mcp",
+      "version": "0.1.0",
+      "description": "MCP server for the Gravv payments API — onboard customers, open accounts, move money, issue cards.",
+      "license": "MIT",
+      "repository": "https://github.com/GravityFinance/gravv-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40gravvfi%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T01:36:08.107Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 71
+    },
+    {
       "name": "@groeponline/opencodex",
       "version": "1.0.0",
       "description": "GroepOnline fork — Universal provider proxy for OpenAI Codex & Claude Code. Use any LLM with Codex CLI/App/SDK and Claude Code.",
@@ -9528,6 +9588,18 @@
       "createdAt": "2026-07-29T02:51:22.986Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 81
+    },
+    {
+      "name": "@gyeonghokim/gerrit-mcp-server",
+      "version": "0.0.1",
+      "description": "Model Context Protocol server for Gerrit code review. Point any MCP-capable agent at your Gerrit host.",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/GyeongHoKim/gerrit-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40gyeonghokim%2Fgerrit-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-06T01:35:15.771Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 66
     },
     {
       "name": "@hablala/client",
@@ -12818,6 +12890,18 @@
       "score": 90
     },
     {
+      "name": "@metahub-ai/assay",
+      "version": "0.1.0",
+      "description": "Evaluate AI artifacts — skills, MCP servers, agents and plugins — and produce a scored, signable, reproducible report.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/metahub-ai/assay",
+      "npmUrl": "https://www.npmjs.com/package/%40metahub-ai%2Fassay",
+      "category": "backend",
+      "createdAt": "2026-08-06T01:25:10.421Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 81
+    },
+    {
       "name": "@mgrilec/apm",
       "version": "0.1.1",
       "description": "npm launcher for the Microsoft APM CLI",
@@ -12972,6 +13056,18 @@
       "createdAt": "2026-08-05T19:47:11.721Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 76
+    },
+    {
+      "name": "@mightybs/squad-hub",
+      "version": "0.1.0",
+      "description": "One place to see and control your Squad sessions, across every substrate.",
+      "license": "MIT",
+      "repository": "https://github.com/swigerb/squad-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40mightybs%2Fsquad-hub",
+      "category": "cli",
+      "createdAt": "2026-08-06T01:36:05.486Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 67
     },
     {
       "name": "@migiht/claude-code-polyglot",
@@ -14004,6 +14100,18 @@
       "createdAt": "2026-08-05T11:21:27.201Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 76
+    },
+    {
+      "name": "@moradata/cache",
+      "version": "0.1.0",
+      "description": "Keep a local DuckDB copy of the warehouse tables your semantic layer reads, so exploration is fast, free and off production",
+      "license": "MIT",
+      "repository": "https://github.com/mora/mora-cache",
+      "npmUrl": "https://www.npmjs.com/package/%40moradata%2Fcache",
+      "category": "data",
+      "createdAt": "2026-08-06T00:24:51.589Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 71
     },
     {
       "name": "@moradata/cli",
@@ -24542,6 +24650,18 @@
       "score": 66
     },
     {
+      "name": "auto-adventure",
+      "version": "0.1.0",
+      "description": "A terminal RPG on an infinite, seamless, procedurally generated world, with an LLM as its author rather than its renderer.",
+      "license": "MIT",
+      "repository": "https://github.com/mshafir/auto-adventure",
+      "npmUrl": "https://www.npmjs.com/package/auto-adventure",
+      "category": "cli",
+      "createdAt": "2026-08-06T01:44:20.183Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 82
+    },
+    {
       "name": "auto-skelly",
       "version": "1.0.0",
       "description": "Framework-agnostic skeleton loading placeholders. Auto-generates animated skeletons from your existing markup to improve perceived load time.",
@@ -24936,6 +25056,30 @@
       "createdAt": "2026-07-29T01:28:58.066Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 78
+    },
+    {
+      "name": "bookmarks-lifecycle",
+      "version": "0.2.0",
+      "description": "Give your saved bookmarks a lifecycle: 24 hours to decide, 30 days to watch, or keep. Nothing is ever deleted — lapsed items just leave your attention, not your disk. A local MCP server, no accounts, no cloud.",
+      "license": "MIT",
+      "repository": "https://github.com/Fisher521/bookmarks-lifecycle",
+      "npmUrl": "https://www.npmjs.com/package/bookmarks-lifecycle",
+      "category": "frontend",
+      "createdAt": "2026-08-06T01:35:34.119Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 90
+    },
+    {
+      "name": "bookmarks-mcp",
+      "version": "0.1.0",
+      "description": "Your bookmarks, wherever they live, readable by your AI. Local read-only MCP server for Chrome, Edge, Brave, Arc, Vivaldi, Firefox, Safari (incl. Reading List) bookmarks and Pocket/Instapaper/Raindrop export files.",
+      "license": "MIT",
+      "repository": "https://github.com/Fisher521/bookmarks-mcp",
+      "npmUrl": "https://www.npmjs.com/package/bookmarks-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-06T01:35:02.988Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 71
     },
     {
       "name": "boredload",
@@ -27230,6 +27374,18 @@
       "score": 72
     },
     {
+      "name": "cursor-browser-cli",
+      "version": "1.0.0",
+      "description": "CLI + MCP to drive Cursor IDE's built-in Browser Tab from Grok Build, Claude Code, Codex, or shell",
+      "license": "MIT",
+      "repository": "https://github.com/bcharleson/cursor-browser-cli",
+      "npmUrl": "https://www.npmjs.com/package/cursor-browser-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-05T23:55:40.074Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 89
+    },
+    {
       "name": "cursor-token-saver",
       "version": "0.10.1",
       "description": "A cognitive layer for Cursor's AI agent: lossless token savings via a content-addressed evidence store, plus verifiable semantic memory, project world model and skill runbooks. Fully local, zero telemetry. | 给 Cursor agent 的认知层：内容寻址证据库无损省 token；可验证语义记忆、项目",
@@ -28610,6 +28766,18 @@
       "score": 91
     },
     {
+      "name": "evolink-seedance-2-5",
+      "version": "1.0.0",
+      "description": "Seedance 2.5 text, image, and reference video API examples plus an installable EvoLink agent skill.",
+      "license": "MIT",
+      "repository": "https://github.com/Evolink-AI/seedance-2-5-video-generate-api-skill",
+      "npmUrl": "https://www.npmjs.com/package/evolink-seedance-2-5",
+      "category": "backend",
+      "createdAt": "2026-08-06T01:46:33.857Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 89
+    },
+    {
       "name": "expo-modern-table",
       "version": "0.1.1",
       "description": "A modern, feature-rich data table for Expo and React Native — sorting, filtering, sticky columns, row/column reorder, theming, and more.",
@@ -28632,6 +28800,18 @@
       "createdAt": "2026-08-02T13:17:58.886Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 69
+    },
+    {
+      "name": "expo-tnk",
+      "version": "1.0.0",
+      "description": "Tnk Factory Offerwall SDK module for Expo",
+      "license": "MIT",
+      "repository": "https://github.com/hills-corp/expo-tnk",
+      "npmUrl": "https://www.npmjs.com/package/expo-tnk",
+      "category": "frontend",
+      "createdAt": "2026-08-06T00:34:17.614Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 73
     },
     {
       "name": "expo-turbo",
@@ -29150,6 +29330,18 @@
       "score": 90
     },
     {
+      "name": "firstpass-proxy",
+      "version": "0.4.1",
+      "description": "Drop-in, Anthropic-compatible LLM proxy that routes each request to the cheapest model that provably passes a quality gate, escalates on failure, and records a tamper-evident audit trace.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dshakes/firstpass",
+      "npmUrl": "https://www.npmjs.com/package/firstpass-proxy",
+      "category": "backend",
+      "createdAt": "2026-08-06T01:47:58.218Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 82
+    },
+    {
       "name": "fiscalia",
       "version": "1.0.0",
       "description": "Formules fiscales et sociales françaises pour travailleurs non salariés : plafond Madelin, PER, indemnités journalières, TMI, capitalisation et amortissement. Pures, typées, testées. Barèmes 2026.",
@@ -29640,6 +29832,18 @@
       "createdAt": "2026-07-26T04:16:29.185Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 88
+    },
+    {
+      "name": "geotager",
+      "version": "1.0.2",
+      "description": "Read, write and remove EXIF GPS geotags from the command line: photo and video location metadata for JPEG, HEIC, PNG, WebP, TIFF, MP4. Nothing is uploaded.",
+      "license": "MIT",
+      "repository": "https://github.com/MathieuSoysal/geotager",
+      "npmUrl": "https://www.npmjs.com/package/geotager",
+      "category": "data",
+      "createdAt": "2026-08-06T00:36:45.580Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 73
     },
     {
       "name": "getsecret-sdk",
@@ -31152,6 +31356,18 @@
       "createdAt": "2026-08-03T20:05:45.953Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 92
+    },
+    {
+      "name": "isotope-zero",
+      "version": "1.0.0",
+      "description": "Global `izero` CLI launcher for isotope-zero — a sub-millisecond, local-first cognitive memory layer for AI agents. This npm package is a thin launcher that manages an isolated Python env and delegates to the Python `izero` CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/svanikhansh/Isotope-Zero",
+      "npmUrl": "https://www.npmjs.com/package/isotope-zero",
+      "category": "cli",
+      "createdAt": "2026-08-06T01:22:45.280Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 74
     },
     {
       "name": "ispf-core",
@@ -35402,6 +35618,18 @@
       "score": 90
     },
     {
+      "name": "package-consumer-check",
+      "version": "0.1.0",
+      "description": "A TypeScript library and CLI for testing packed npm packages in clean consumer projects before publishing.",
+      "license": "MIT",
+      "repository": "https://github.com/cagrikacmaz/package-consumer-check",
+      "npmUrl": "https://www.npmjs.com/package/package-consumer-check",
+      "category": "testing",
+      "createdAt": "2026-08-06T00:11:14.748Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 71
+    },
+    {
       "name": "package-contract",
       "version": "1.0.0",
       "description": "Test the npm package your users actually install.",
@@ -35868,6 +36096,18 @@
       "createdAt": "2026-08-04T06:03:17.159Z",
       "discoveredAt": "2026-08-05T01:53:39.845Z",
       "score": 72
+    },
+    {
+      "name": "pi-deepseek-responses-search",
+      "version": "0.1.0",
+      "description": "DeepSeek V4 on the Responses API with native server-side web search (OpenCode Zen/Go + DeepSeek first-party) — search markers shown in the thinking chain",
+      "license": "MIT",
+      "repository": "https://github.com/chasedream1129/pi-deepseek-responses-search",
+      "npmUrl": "https://www.npmjs.com/package/pi-deepseek-responses-search",
+      "category": "backend",
+      "createdAt": "2026-08-06T00:44:00.881Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 75
     },
     {
       "name": "pi-doppelclaude",
@@ -38930,6 +39170,18 @@
       "score": 77
     },
     {
+      "name": "septic",
+      "version": "1.0.0",
+      "description": "Config-driven backend for the poops ecosystem: one poops.json, a SQLite schema + REST CRUD + auth.",
+      "license": "MIT",
+      "repository": "https://github.com/stamat/septic",
+      "npmUrl": "https://www.npmjs.com/package/septic",
+      "category": "backend",
+      "createdAt": "2026-08-06T00:24:40.347Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 81
+    },
+    {
       "name": "service-worker-kernel",
       "version": "0.1.0",
       "description": "A composable virtual service-worker kernel with layered fetch semantics, lifecycle isolation, enrollment policy, and legacy registration bridging.",
@@ -39770,6 +40022,18 @@
       "score": 67
     },
     {
+      "name": "squad-hub",
+      "version": "0.1.0",
+      "description": "One place to see and control your Squad sessions, across every substrate.",
+      "license": "MIT",
+      "repository": "https://github.com/swigerb/squad-hub",
+      "npmUrl": "https://www.npmjs.com/package/squad-hub",
+      "category": "cli",
+      "createdAt": "2026-08-06T01:36:02.210Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 67
+    },
+    {
       "name": "sri-ec",
       "version": "0.1.0",
       "description": "Cliente Node.js/TypeScript para facturación electrónica del SRI Ecuador (port de teran-sri-ec).",
@@ -40164,6 +40428,18 @@
       "createdAt": "2026-08-01T07:32:23.290Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 70
+    },
+    {
+      "name": "supdesk",
+      "version": "0.1.0",
+      "description": "Server-side TypeScript client for the SupDesk API. Runs in Node, Deno, Bun, and Cloudflare Workers. Not for browser use — the API key is a secret.",
+      "license": "MIT",
+      "repository": "https://github.com/RabinApps/supdesk-node",
+      "npmUrl": "https://www.npmjs.com/package/supdesk",
+      "category": "frontend",
+      "createdAt": "2026-08-06T00:20:55.646Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 84
     },
     {
       "name": "superandom",
@@ -40872,6 +41148,18 @@
       "createdAt": "2026-08-01T00:04:37.185Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 92
+    },
+    {
+      "name": "tldkit",
+      "version": "1.0.1",
+      "description": "A zero-dependency, ESM-first drop-in replacement for tldts and psl. Same API, same Public Suffix List, a fraction of the install size.",
+      "license": "MIT",
+      "repository": "https://github.com/Damin3927/tldkit",
+      "npmUrl": "https://www.npmjs.com/package/tldkit",
+      "category": "frontend",
+      "createdAt": "2026-08-06T00:47:24.029Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 93
     },
     {
       "name": "tlvdemux",
@@ -43104,6 +43392,18 @@
       "createdAt": "2026-08-01T10:41:41.651Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 64
+    },
+    {
+      "name": "zelvior-runtime",
+      "version": "0.3.1",
+      "description": "Dependency-free, adaptive browser runtime for lazy loading, scheduling, and self-tuning performance based on live device/browser conditions.",
+      "license": "MIT",
+      "repository": "https://github.com/zelvior/zelvior-runtime",
+      "npmUrl": "https://www.npmjs.com/package/zelvior-runtime",
+      "category": "frontend",
+      "createdAt": "2026-08-05T23:48:51.960Z",
+      "discoveredAt": "2026-08-06T01:49:46.050Z",
+      "score": 71
     },
     {
       "name": "zep-sdk",
