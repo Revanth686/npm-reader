@@ -614,6 +614,18 @@
       "score": 72
     },
     {
+      "name": "@aforoai/storefront-widgets",
+      "version": "1.0.2",
+      "description": "Embeddable widgets for Aforo's storefront — pricing card, subscribe button, invoice list, and embedded checkout. Drop into any HTML page, React app, or Vue app to add Aforo billing surfaces with your own branding. Three integration tiers: script tag, npm,",
+      "license": "MIT",
+      "repository": "https://github.com/aforoai/aforo-nextgen-UI",
+      "npmUrl": "https://www.npmjs.com/package/%40aforoai%2Fstorefront-widgets",
+      "category": "frontend",
+      "createdAt": "2026-08-06T06:25:53.618Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 95
+    },
+    {
       "name": "@afosecure/meshsdk",
       "version": "0.1.2",
       "description": "A modern, lightweight React SDK for building peer-to-peer video communication applications. Built on WebRTC with a clean, composable rust API.",
@@ -3182,6 +3194,18 @@
       "score": 82
     },
     {
+      "name": "@bowmark/web",
+      "version": "1.0.0",
+      "description": "The public client for the Bowmark capability library — real TypeScript for the whole bowmark.* surface, with no Bowmark source on the caller's disk. ZERO runtime dependencies, deliberately and permanently.",
+      "license": "MIT",
+      "repository": "https://github.com/bowmark-ai/web",
+      "npmUrl": "https://www.npmjs.com/package/%40bowmark%2Fweb",
+      "category": "frontend",
+      "createdAt": "2026-08-05T22:18:59.792Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 90
+    },
+    {
       "name": "@box-model/web",
       "version": "0.0.1",
       "description": "Accessible, framework-agnostic web components for the Box Model design system.",
@@ -5628,6 +5652,54 @@
       "createdAt": "2026-07-28T16:41:03.717Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 73
+    },
+    {
+      "name": "@directorkit/gql",
+      "version": "0.1.1",
+      "description": "A configured urql client for Nuxt with typed query/mutation/subscription composables — SSR payload hydration, abortable queries, persisted documents. No components.",
+      "license": "MIT",
+      "repository": "https://github.com/Thomasparsley/director",
+      "npmUrl": "https://www.npmjs.com/package/%40directorkit%2Fgql",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:49:13.540Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 80
+    },
+    {
+      "name": "@directorkit/identity",
+      "version": "0.1.1",
+      "description": "Session/auth state for Nuxt behind an app-supplied IdentityApi — session machine, token lifecycle, keep-alive. No components.",
+      "license": "MIT",
+      "repository": "https://github.com/Thomasparsley/director",
+      "npmUrl": "https://www.npmjs.com/package/%40directorkit%2Fidentity",
+      "category": "frontend",
+      "createdAt": "2026-08-05T20:49:13.962Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 78
+    },
+    {
+      "name": "@distilled.cloud/astro",
+      "version": "0.17.1",
+      "description": "Programmatic Astro integration implementing the framework-core Framework service (build/dev), with the deploy target passed as a value; ships the wrangler-free Cloudflare Workers target (a fork of @astrojs/cloudflare over @distilled.cloud/cloudflare-vite-",
+      "license": "MIT",
+      "repository": "https://github.com/alchemy-run/cloudflare-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40distilled.cloud%2Fastro",
+      "category": "build-tools",
+      "createdAt": "2026-08-06T07:00:17.558Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 78
+    },
+    {
+      "name": "@distilled.cloud/waku",
+      "version": "0.17.1",
+      "description": "Wrangler-free Waku integration implementing the framework-core Framework service: programmatic build/dev with the deploy platform behind a DeployTarget value (Cloudflare Workers built in at ./cloudflare).",
+      "license": "MIT",
+      "repository": "https://github.com/alchemy-run/cloudflare-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40distilled.cloud%2Fwaku",
+      "category": "data",
+      "createdAt": "2026-08-06T07:00:21.641Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 80
     },
     {
       "name": "@divergent.dev/connect",
@@ -10754,6 +10826,42 @@
       "score": 82
     },
     {
+      "name": "@insession/extension-chat",
+      "version": "0.2.1",
+      "description": "A dependency-free, framework-agnostic chat state machine for realtime shared rooms: message normalization, sticker/emoji validation, reply and reaction handling, and a pinned message. reduce() is a pure function that returns the next state plus effect des",
+      "license": "MIT",
+      "repository": "https://github.com/insession-space/insession-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40insession%2Fextension-chat",
+      "category": "frontend",
+      "createdAt": "2026-08-06T05:10:40.789Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 82
+    },
+    {
+      "name": "@insession/extension-watch-party",
+      "version": "0.4.1",
+      "description": "A dependency-free, framework-agnostic Watch Party state machine: server-authoritative synchronized video/audio playback with a queue and history. reduce() is a pure function that returns the next state plus effect descriptors for the host to execute.",
+      "license": "MIT",
+      "repository": "https://github.com/insession-space/insession-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40insession%2Fextension-watch-party",
+      "category": "backend",
+      "createdAt": "2026-08-06T05:09:55.840Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 82
+    },
+    {
+      "name": "@insession/extension-whiteboard",
+      "version": "0.2.1",
+      "description": "A dependency-free, framework-agnostic Whiteboard state machine: shared free-draw strokes/shapes plus an optional \"drawing telephone\" relay game. The server holds the authoritative state; reduce() is a pure function.",
+      "license": "MIT",
+      "repository": "https://github.com/insession-space/insession-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40insession%2Fextension-whiteboard",
+      "category": "backend",
+      "createdAt": "2026-08-06T05:08:42.854Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 80
+    },
+    {
       "name": "@insession/plugin-watch-party-state",
       "version": "0.1.0",
       "description": "A dependency-free, framework-agnostic Watch Party state machine: server-authoritative synchronized video/audio playback with a queue and history. reduce() is a pure function that returns the next state plus effect descriptors for the host to execute.",
@@ -11738,6 +11846,18 @@
       "score": 72
     },
     {
+      "name": "@kne/overflow-items",
+      "version": "0.1.0",
+      "description": "测量剩余宽度并自动决定露出若干 item 的 React 溢出收起库，提供组件、Hook 与纯函数，支持更多插槽与防抖。",
+      "license": "ISC",
+      "repository": "https://github.com/kne-union/overflow-items",
+      "npmUrl": "https://www.npmjs.com/package/%40kne%2Foverflow-items",
+      "category": "frontend",
+      "createdAt": "2026-08-06T06:46:55.082Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 76
+    },
+    {
       "name": "@kne/react-bot",
       "version": "0.1.1",
       "description": "一个用于 AI 对话与 IM 消息展示的 React 组件库，提供 ReactBot、MessageList、MessageInput、VoiceInput，支持 SSE 流式/Ajax 双模式、Markdown 渲染、语音输入与可扩展工具栏",
@@ -11832,6 +11952,30 @@
       "createdAt": "2026-07-28T15:27:25.637Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 73
+    },
+    {
+      "name": "@krisfremen/pi-memory",
+      "version": "0.4.1",
+      "description": "Pi coding agent extension for memory with qmd-powered semantic search across daily logs, long-term memory, and scratchpad",
+      "license": "MIT",
+      "repository": "https://github.com/krisfremen/pi-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40krisfremen%2Fpi-memory",
+      "category": "utilities",
+      "createdAt": "2026-08-06T06:25:23.172Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 78
+    },
+    {
+      "name": "@krisfremen/qmd",
+      "version": "2.7.0",
+      "description": "Query Markup Documents - On-device hybrid search for markdown files with BM25, vector search, and LLM reranking",
+      "license": "MIT",
+      "repository": "https://github.com/krisfremen/qmd",
+      "npmUrl": "https://www.npmjs.com/package/%40krisfremen%2Fqmd",
+      "category": "data",
+      "createdAt": "2026-08-06T06:10:37.011Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 91
     },
     {
       "name": "@krislintigo/luro",
@@ -12552,6 +12696,18 @@
       "createdAt": "2026-07-25T20:22:23.266Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 59
+    },
+    {
+      "name": "@mambalabsdev/mcp-ai-tooling-detector",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs AI Tooling Detector actor on Apify. Give it a company domain and it returns whether the company only declares AI, actually deploys AI tooling on its site, or charges money for AI, with the evidence behind the verdict as flat",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-ai-tooling-detector",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-ai-tooling-detector",
+      "category": "frontend",
+      "createdAt": "2026-08-06T05:35:25.107Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 88
     },
     {
       "name": "@mamdouh-aboammar/antigravity-superpowers",
@@ -13500,6 +13656,18 @@
       "createdAt": "2026-08-03T22:27:10.187Z",
       "discoveredAt": "2026-08-04T04:56:35.171Z",
       "score": 84
+    },
+    {
+      "name": "@molecule/api-code-sandbox-flyio",
+      "version": "1.0.1",
+      "description": "Fly.io Machines (Firecracker microVM) code sandbox provider",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-code-sandbox-flyio",
+      "category": "backend",
+      "createdAt": "2026-08-06T05:51:14.330Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 77
     },
     {
       "name": "@molecule/api-compliance",
@@ -15314,6 +15482,18 @@
       "score": 80
     },
     {
+      "name": "@oasts/cli",
+      "version": "0.0.2",
+      "description": "OpenAPI-to-TypeScript compiler with fully typed errors, compile-time auth checks, and a zero-dependency fetch client — plus first-party Zod, TanStack Query, and MSW artifacts.",
+      "license": "MIT",
+      "repository": "https://github.com/eve0415/oasts",
+      "npmUrl": "https://www.npmjs.com/package/%40oasts%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-05T23:46:05.825Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 87
+    },
+    {
       "name": "@oaverify/check",
       "version": "5.4.0",
       "description": "The composed OpenAPI document check behind `oaverify check`: hygiene, schema, conformance, example and ReDoS passes over a resolved spec, graded into one finding list.",
@@ -16116,6 +16296,18 @@
       "createdAt": "2026-07-28T20:48:39.586Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 75
+    },
+    {
+      "name": "@pelec/homer-pi",
+      "version": "0.1.1",
+      "description": "Stop multi-agent coding drift: contracts, path leases, evidence gates + optional self-improving dispatch (Homer-meta) for Pi",
+      "license": "MIT",
+      "repository": "https://github.com/Retr0-rgb-lab/Homer",
+      "npmUrl": "https://www.npmjs.com/package/%40pelec%2Fhomer-pi",
+      "category": "utilities",
+      "createdAt": "2026-08-06T05:36:27.280Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 77
     },
     {
       "name": "@pellux/goodvibes-daemon",
@@ -18674,6 +18866,18 @@
       "score": 81
     },
     {
+      "name": "@semperi/restaurant-marketing-skills",
+      "version": "0.1.0",
+      "description": "Agent skills for independent restaurant marketing — review replies, review analysis, and menu copy. Works on what an owner already has: no account, no paid API.",
+      "license": "MIT",
+      "repository": "https://github.com/semperi/restaurant-marketing-skills",
+      "npmUrl": "https://www.npmjs.com/package/%40semperi%2Frestaurant-marketing-skills",
+      "category": "backend",
+      "createdAt": "2026-08-06T07:35:26.173Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 79
+    },
+    {
       "name": "@semyonfox/seol",
       "version": "2.1.0",
       "description": "Fast launcher for the native Seol static artifact publisher",
@@ -20436,6 +20640,18 @@
       "createdAt": "2026-07-31T19:25:23.540Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 75
+    },
+    {
+      "name": "@sythos/js_barcode_universal",
+      "version": "0.1.0",
+      "description": "Read and write barcodes in JavaScript. 100% original code, zero runtime dependencies. QR Code, EAN/UPC, ISBN, Code 128, Code 39, Code 93, ITF, Codabar, MSI, Code 11 and Pharmacode.",
+      "license": "MIT",
+      "repository": "https://github.com/Sythos/JS_Barcode_Universal",
+      "npmUrl": "https://www.npmjs.com/package/%40sythos%2Fjs_barcode_universal",
+      "category": "frontend",
+      "createdAt": "2026-08-06T06:53:00.849Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 88
     },
     {
       "name": "@sz.ws/cms",
@@ -26558,6 +26774,18 @@
       "score": 89
     },
     {
+      "name": "codepend",
+      "version": "0.1.0",
+      "description": "Stats, On This Day memories and a Wrapped-style year in review for Claude Code, Codex and Cursor. Reads your local agent history and builds one self-contained HTML page. Runs locally, uploads nothing, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/shatzibitten/codepend",
+      "npmUrl": "https://www.npmjs.com/package/codepend",
+      "category": "data",
+      "createdAt": "2026-08-06T07:21:04.946Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 90
+    },
+    {
       "name": "coderoom-cli",
       "version": "1.0.0",
       "description": "Локальный агент для работы с кодом в терминале и браузере: читает и правит файлы, запускает команды. 58 моделей по одному ключу. Без внешних зависимостей.",
@@ -29954,6 +30182,18 @@
       "score": 83
     },
     {
+      "name": "geekstackflow",
+      "version": "0.4.0",
+      "description": "A structured AI workflow for planning, coding, reviewing, testing, refactoring, and shipping software. Karpathy-style LLM wiki with mandatory qmd search, two-file task tracking, six agent roles, eighteen starter skills, multi-tool portable (Claude Code, C",
+      "license": "MIT",
+      "repository": "https://github.com/bibennurbani/geekstack-flow",
+      "npmUrl": "https://www.npmjs.com/package/geekstackflow",
+      "category": "testing",
+      "createdAt": "2026-08-06T07:28:07.493Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 90
+    },
+    {
       "name": "gemini-notebook-mcp",
       "version": "2.0.0",
       "description": "MCP server for Google Gemini Notebook (formerly NotebookLM) — chat, source ingestion, audio overviews, citations, stdio + Streamable-HTTP transports.",
@@ -33338,6 +33578,18 @@
       "score": 85
     },
     {
+      "name": "mcp-six-eyes",
+      "version": "1.1.0",
+      "description": "MCP server that gives text-only AI agents image understanding via vision APIs",
+      "license": "MIT",
+      "repository": "https://github.com/RimunAce/mcp-six-eyes",
+      "npmUrl": "https://www.npmjs.com/package/mcp-six-eyes",
+      "category": "backend",
+      "createdAt": "2026-08-06T08:11:42.857Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 87
+    },
+    {
       "name": "mcp-surface",
       "version": "0.1.1",
       "description": "See the tool surface your MCP server actually exposes: probe it like a real client, validate schemas, and fail CI when the surface changes unintentionally.",
@@ -34466,6 +34718,18 @@
       "score": 70
     },
     {
+      "name": "netcafe-sdk",
+      "version": "1.1.0",
+      "description": "Zero-dependency toolbox for AI agents: web search, page-to-markdown, diagrams, transcription, PDF, cross-session memory, and one-sentence app deployment, plus a real per-call model cost dataset (CC BY 4.0).",
+      "license": "MIT",
+      "repository": "https://github.com/mario03690/netcafe-sdk",
+      "npmUrl": "https://www.npmjs.com/package/netcafe-sdk",
+      "category": "data",
+      "createdAt": "2026-08-06T06:07:47.330Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 79
+    },
+    {
       "name": "newsreel",
       "version": "0.1.0",
       "description": "Build narrated videos from a config file: reports, demos, ads, launch films. Playwright drives your real app, narration runs locally, ffmpeg assembles it with cards, a music bed and 35 generated scenes",
@@ -34500,6 +34764,18 @@
       "createdAt": "2026-07-25T15:50:44.502Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 89
+    },
+    {
+      "name": "next-dev-inspector",
+      "version": "0.2.0",
+      "description": "Dev-only floating inspector for Next.js + React 18/19: hover or click any DOM element to see which source file rendered it, open it in your editor, view props/state, reverse-lookup i18n keys, and flash DOM updates.",
+      "license": "MIT",
+      "repository": "https://github.com/Infinitietechnologies/dev-inspector",
+      "npmUrl": "https://www.npmjs.com/package/next-dev-inspector",
+      "category": "frontend",
+      "createdAt": "2026-08-06T08:11:17.481Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 86
     },
     {
       "name": "next-smart-router",
@@ -39566,6 +39842,18 @@
       "score": 85
     },
     {
+      "name": "shadow-proxy",
+      "version": "2.7.1",
+      "description": "Reactive DOM binding via Recursive Proxy — zero dependencies, CSP-safe, no eval/new Function",
+      "license": "MIT",
+      "repository": "https://github.com/israel-nogueira/shadow-proxy",
+      "npmUrl": "https://www.npmjs.com/package/shadow-proxy",
+      "category": "frontend",
+      "createdAt": "2026-08-06T05:56:27.906Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 89
+    },
+    {
       "name": "shadscan-svelte",
       "version": "0.7.0",
       "description": "Audit React and Svelte shadcn apps for missing UI fundamentals.",
@@ -40620,6 +40908,18 @@
       "createdAt": "2026-08-03T18:32:36.753Z",
       "discoveredAt": "2026-08-03T19:21:31.086Z",
       "score": 75
+    },
+    {
+      "name": "stroopwatch",
+      "version": "0.1.0",
+      "description": "A watchtower for Stellar payment channels: settles what you earned before the buyer's refund window closes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aguilar1x/stroopwatch",
+      "npmUrl": "https://www.npmjs.com/package/stroopwatch",
+      "category": "utilities",
+      "createdAt": "2026-08-06T07:01:56.982Z",
+      "discoveredAt": "2026-08-06T08:19:20.704Z",
+      "score": 78
     },
     {
       "name": "structdelta",
