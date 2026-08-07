@@ -1874,6 +1874,18 @@
       "score": 67
     },
     {
+      "name": "@any-ai/cli",
+      "version": "0.1.0",
+      "description": "Coding agent CLI with IPython-backed tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40any-ai%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-07T15:48:52.190Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 68
+    },
+    {
       "name": "@anyblades/buildawesome-kit-config",
       "version": "1.4.0",
       "description": "A ready-to-go `buildawesome.config.js` for popular 11ty plugins, bundled with npm scripts in one reusable, zero-maintenance package.",
@@ -5678,6 +5690,18 @@
       "score": 74
     },
     {
+      "name": "@devlite/nodejs",
+      "version": "0.1.1",
+      "description": "DevLite Node.js SDK — AI-powered observability with 1-3 line integration. Automatic error grouping, source context, user impact tracking, and sensitive-data scrubbing built in.",
+      "license": "MIT",
+      "repository": "https://github.com/ishvexa-hub/devlite-node",
+      "npmUrl": "https://www.npmjs.com/package/%40devlite%2Fnodejs",
+      "category": "data",
+      "createdAt": "2026-08-07T14:56:56.213Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 74
+    },
+    {
       "name": "@devotel-orbit/mcp-server",
       "version": "0.1.0",
       "description": "Orbit by Devotel — Model Context Protocol (MCP) server. Exposes Orbit CPaaS APIs (SMS, WhatsApp, Email, Voice, Contacts, Campaigns, Journeys, Numbers, Memory, KB) as first-class tools so Claude Code, Claude Desktop, Cursor, and any other MCP-aware agent c",
@@ -6818,6 +6842,18 @@
       "score": 72
     },
     {
+      "name": "@drcomgenius/n8n-nodes-anydoc",
+      "version": "0.1.1",
+      "description": "n8n community node that converts Word, PowerPoint, Excel, PDF, RTF, EPUB, CSV, and OpenDocument files to clean Markdown using @firecrawl/anydoc.",
+      "license": "MIT",
+      "repository": "https://github.com/comgenius/n8n-nodes-anydoc",
+      "npmUrl": "https://www.npmjs.com/package/%40drcomgenius%2Fn8n-nodes-anydoc",
+      "category": "utilities",
+      "createdAt": "2026-08-07T14:54:44.215Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 64
+    },
+    {
       "name": "@driftbox/rack",
       "version": "0.1.0",
       "description": "A modular synth rack: modules, cables between any of them, one graph at sample rate in a single AudioWorklet.",
@@ -7514,6 +7550,30 @@
       "score": 60
     },
     {
+      "name": "@factset/sdk-factsetbanks",
+      "version": "0.1.0",
+      "description": "FactSet Banks client library for JavaScript",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/factset/enterprise-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40factset%2Fsdk-factsetbanks",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:47:44.356Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 60
+    },
+    {
+      "name": "@factset/sdk-factsetmacroeconomics",
+      "version": "0.1.0",
+      "description": "FactSet Macroeconomics client library for JavaScript",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/factset/enterprise-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40factset%2Fsdk-factsetmacroeconomics",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:47:53.912Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 57
+    },
+    {
       "name": "@falkordb/n8n-nodes-graphrag",
       "version": "0.2.0",
       "description": "n8n community node — wraps the FalkorDB GraphRAG-Server REST API for knowledge-graph ingestion and retrieval.",
@@ -7620,6 +7680,18 @@
       "createdAt": "2026-07-27T07:31:20.646Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 61
+    },
+    {
+      "name": "@fest-lib/object",
+      "version": "0.1.0",
+      "description": "Reactive object utilities and helpers (fest-lib)",
+      "license": "MIT",
+      "repository": "https://github.com/fest-live/object.ts",
+      "npmUrl": "https://www.npmjs.com/package/%40fest-lib%2Fobject",
+      "category": "frontend",
+      "createdAt": "2026-08-07T14:58:59.794Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 64
     },
     {
       "name": "@fft-visualizer/core",
@@ -8759,6 +8831,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-26T20:54:37.095Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/amc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for AMC (build etherscan-amc-426a688e-1786114542067, commit f98f14e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/amc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Famc",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T14:56:09.876Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 56
     },
     {
@@ -10910,6 +10994,18 @@
       "score": 70
     },
     {
+      "name": "@hey-amanthakur/throttle-box",
+      "version": "1.0.0",
+      "description": "Throttle-Box — a framework-agnostic token bucket API rate limiter for Express, Fastify, Koa and NestJS. Zero runtime dependencies, pluggable store.",
+      "license": "MIT",
+      "repository": "https://github.com/hey-amanthakur/throttle-box",
+      "npmUrl": "https://www.npmjs.com/package/%40hey-amanthakur%2Fthrottle-box",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:28:26.057Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 94
+    },
+    {
       "name": "@heysalad/junoguard",
       "version": "0.1.0",
       "description": "Supervision for AI coding agents — scan every package before it installs, cap what your agent spends. MCP server + CLI.",
@@ -11904,6 +12000,18 @@
       "createdAt": "2026-08-06T03:37:08.109Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
       "score": 73
+    },
+    {
+      "name": "@intisy-ai/gemini-translator",
+      "version": "0.1.2",
+      "description": "Gemini wire-format <-> canonical IR translator (Java + TeaVM single source), a core-ir submodule library.",
+      "license": "MIT",
+      "repository": "https://github.com/intisy-ai/gemini-translator",
+      "npmUrl": "https://www.npmjs.com/package/%40intisy-ai%2Fgemini-translator",
+      "category": "data",
+      "createdAt": "2026-08-07T14:25:35.910Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 54
     },
     {
       "name": "@ios27_design_system/rails",
@@ -13776,6 +13884,18 @@
       "createdAt": "2026-07-31T10:04:36.697Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 68
+    },
+    {
+      "name": "@lyra-ds/alpine",
+      "version": "0.1.0",
+      "description": "Lyra DS — Alpine.js plugin porting the exact state machines of the interactive @lyra-ds/react components. All appearance comes from @lyra-ds/styles .lyra-* classes; one Alpine.data() per component.",
+      "license": "MIT",
+      "repository": "https://github.com/lyra-ds/lyra",
+      "npmUrl": "https://www.npmjs.com/package/%40lyra-ds%2Falpine",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:33:52.259Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 57
     },
     {
       "name": "@lyra-protocol/record",
@@ -19850,6 +19970,18 @@
       "score": 91
     },
     {
+      "name": "@risuai-workbench/cbs-language-server",
+      "version": "0.1.1",
+      "description": "Language Server Protocol implementation for CBS (Curly Braced Syntax)",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/noelkim12/risuai-workbench",
+      "npmUrl": "https://www.npmjs.com/package/%40risuai-workbench%2Fcbs-language-server",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:31:58.828Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 56
+    },
+    {
       "name": "@ritim/browser-sdk",
       "version": "0.1.0",
       "description": "Privacy-first real user monitoring for the web. Framework-independent, sends no personal data.",
@@ -21072,6 +21204,18 @@
       "createdAt": "2026-07-30T22:53:29.613Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 75
+    },
+    {
+      "name": "@shortstravelmgmt/component-lib",
+      "version": "0.1.0",
+      "description": "STM Hub Design System - Reusable React component library with Storybook integration",
+      "license": "MIT",
+      "repository": "https://github.com/ShortsTravel/component-lib",
+      "npmUrl": "https://www.npmjs.com/package/%40shortstravelmgmt%2Fcomponent-lib",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:07:43.521Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 55
     },
     {
       "name": "@shotlingo/localization-readiness",
@@ -25334,6 +25478,18 @@
       "score": 78
     },
     {
+      "name": "@writavo/mcp-server",
+      "version": "0.1.0",
+      "description": "MCP server for the Writavo Content API. Draft, edit, organise, schedule and publish a Site's content from any AI assistant, with tools generated from the published OpenAPI specification.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/SparkleOfficial/writavo-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40writavo%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:45:25.382Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 60
+    },
+    {
       "name": "@wuguishifu/nx-expo-native-modules",
       "version": "0.0.1",
       "description": "Nx plugin that scaffolds Expo native modules with Swift and Kotlin implementations inside an Nx workspace.",
@@ -25548,6 +25704,18 @@
       "createdAt": "2026-08-04T01:59:29.333Z",
       "discoveredAt": "2026-08-04T04:56:35.171Z",
       "score": 90
+    },
+    {
+      "name": "@yakult-green-tea/qq-music-api",
+      "version": "2.1.0",
+      "description": "QQ 音乐 API 服务，Rain120/qq-music-api 的修改版：新增原生扫码登录（QQ / 微信）、二维码会话取消接口，并可作为 npm 包内嵌进 Docker 或 Electron 主进程。仅供学习使用。",
+      "license": "MIT",
+      "repository": "https://github.com/yakult-green-tea/qq-music-api",
+      "npmUrl": "https://www.npmjs.com/package/%40yakult-green-tea%2Fqq-music-api",
+      "category": "backend",
+      "createdAt": "2026-08-07T14:56:45.671Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 77
     },
     {
       "name": "@yanib/tool-call-guard",
@@ -32414,6 +32582,18 @@
       "score": 84
     },
     {
+      "name": "exprforge",
+      "version": "0.1.0",
+      "description": "Author a math expression once as an AST, emit identical-behavior implementations in JS, TypeScript, Python, C#, Lua, QB64, C, Java, Go, and Rust.",
+      "license": "MIT",
+      "repository": "https://github.com/theraccoonbear/exprforge",
+      "npmUrl": "https://www.npmjs.com/package/exprforge",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:39:56.974Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 76
+    },
+    {
       "name": "ezagent",
       "version": "0.1.0",
       "description": "A lightweight, provider-agnostic TypeScript SDK for building transparent AI agents.",
@@ -34644,6 +34824,18 @@
       "createdAt": "2026-08-01T06:39:36.029Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 76
+    },
+    {
+      "name": "icfmcp",
+      "version": "0.1.0",
+      "description": "MCP server that lets AI harnesses search and read Indent Comma Format (ICF) knowledge files via their ICX indexes",
+      "license": "MIT",
+      "repository": "https://github.com/icformat/icfmcp",
+      "npmUrl": "https://www.npmjs.com/package/icfmcp",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:48:10.151Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 57
     },
     {
       "name": "iconfont-mcp-server",
@@ -38450,6 +38642,18 @@
       "score": 72
     },
     {
+      "name": "nexboard",
+      "version": "1.1.1",
+      "description": "Dashboard moderne de gestion d'entreprise — clients, projets, devis, factures",
+      "license": "MIT",
+      "repository": "https://github.com/nexyrosweb/nexboard",
+      "npmUrl": "https://www.npmjs.com/package/nexboard",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:16:42.116Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 83
+    },
+    {
       "name": "next-blogpanel",
       "version": "1.0.0",
       "description": "A drop-in blog engine for Next.js — admin panel, block editor, SEO, and media, all backed by your own MongoDB.",
@@ -39470,6 +39674,18 @@
       "score": 70
     },
     {
+      "name": "opencode-idle-continue",
+      "version": "1.0.1",
+      "description": "OpenCode plugin that automatically sends prompts to continue processing when idle. Supports traditional mode and subagent mode with file monitoring and hot reload.",
+      "license": "MIT",
+      "repository": "https://github.com/jiangjianbo/opencode-idle-continue",
+      "npmUrl": "https://www.npmjs.com/package/opencode-idle-continue",
+      "category": "utilities",
+      "createdAt": "2026-08-05T17:40:39.688Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 74
+    },
+    {
       "name": "opencode-lark-bridge",
       "version": "0.1.0",
       "description": "OpenCode plugin to push permission/task/question events to Feishu (Lark) via lark-cli",
@@ -39660,6 +39876,18 @@
       "createdAt": "2026-08-05T09:31:49.530Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 98
+    },
+    {
+      "name": "openrscad-engine",
+      "version": "0.9.0",
+      "description": "Fast OpenSCAD-compatible geometry engine (OpenRSCAD) compiled to WebAssembly — parse .scad source and render solid 3D meshes in the browser or Node.",
+      "license": "Apache-2.0 OR MIT",
+      "repository": "https://github.com/matthova/openrscad",
+      "npmUrl": "https://www.npmjs.com/package/openrscad-engine",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:15:35.576Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 65
     },
     {
       "name": "opensocrates",
@@ -39936,6 +40164,18 @@
       "createdAt": "2026-07-26T11:07:57.977Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 59
+    },
+    {
+      "name": "oxlint-config-setup",
+      "version": "0.1.0",
+      "description": "Opinionated, prebuilt Oxlint configurations for modern TypeScript projects.",
+      "license": "MIT",
+      "repository": "https://github.com/sebastian-software/oxlint-config-setup",
+      "npmUrl": "https://www.npmjs.com/package/oxlint-config-setup",
+      "category": "frontend",
+      "createdAt": "2026-08-07T12:57:51.011Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 74
     },
     {
       "name": "oxlint-plugin-react-use-propswithchildren",
@@ -40488,6 +40728,18 @@
       "createdAt": "2026-08-01T12:54:44.078Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 76
+    },
+    {
+      "name": "pi-continual-harness",
+      "version": "0.1.1",
+      "description": "Online self-improvement layer for pi. A unified, in-trajectory harness-state store (prompt notes, memory, skill descriptions, sub-agent specs) with a manual /refine that proposes evidence-backed structured CRUD deltas. Composes with pi-reflect (offline) a",
+      "license": "MIT",
+      "repository": "https://github.com/pungggi/pi-continual-harness",
+      "npmUrl": "https://www.npmjs.com/package/pi-continual-harness",
+      "category": "utilities",
+      "createdAt": "2026-08-07T15:07:46.764Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 64
     },
     {
       "name": "pi-courier",
@@ -42300,6 +42552,18 @@
       "createdAt": "2026-07-30T13:28:35.953Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 82
+    },
+    {
+      "name": "react-native-geolocation-plus",
+      "version": "1.0.0",
+      "description": "Fork of @react-native-community/geolocation (Android) with a Play Services timeout fix, all four location accuracy tiers, and graceful permission fallback",
+      "license": "MIT",
+      "repository": "https://github.com/prateek00739/react-native-geolocation-plus",
+      "npmUrl": "https://www.npmjs.com/package/react-native-geolocation-plus",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:22:47.907Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 87
     },
     {
       "name": "react-native-glass-wrap",
@@ -45494,6 +45758,18 @@
       "score": 89
     },
     {
+      "name": "tabby-better-vault",
+      "version": "1.0.0",
+      "description": "Unlock the Tabby Vault automatically using your operating system's native keychain — no third-party password manager required.",
+      "license": "MIT",
+      "repository": "https://github.com/TooMuhtsh/tabby-better-vault",
+      "npmUrl": "https://www.npmjs.com/package/tabby-better-vault",
+      "category": "utilities",
+      "createdAt": "2026-08-07T15:44:52.107Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 60
+    },
+    {
       "name": "taetype-wasm",
       "version": "1.0.0",
       "description": "Decode, subset, shape, and rasterize fonts in WebAssembly - zero unsafe, browser-only.",
@@ -45540,6 +45816,18 @@
       "createdAt": "2026-08-01T20:15:28.250Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 100
+    },
+    {
+      "name": "tailwind-vite-font-kit",
+      "version": "0.1.0",
+      "description": "Self-hosted Google fonts with metric-matched fallbacks for TanStack Start + Tailwind v4, as one Vite plugin",
+      "license": "MIT",
+      "repository": "https://github.com/hbmartin/tailwind-vite-font-kit",
+      "npmUrl": "https://www.npmjs.com/package/tailwind-vite-font-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:21:08.039Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 64
     },
     {
       "name": "tailwindcss-animate-compiler",
@@ -48600,6 +48888,18 @@
       "createdAt": "2026-08-02T06:04:31.022Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 77
+    },
+    {
+      "name": "zynlepay-node",
+      "version": "0.1.0",
+      "description": "Unofficial TypeScript SDK for the ZynlePay payments API (card, mobile money, wallet-to-bank).",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/engineervix/zynlepay-node",
+      "npmUrl": "https://www.npmjs.com/package/zynlepay-node",
+      "category": "backend",
+      "createdAt": "2026-08-07T14:57:56.083Z",
+      "discoveredAt": "2026-08-07T15:50:48.842Z",
+      "score": 57
     }
   ]
 }

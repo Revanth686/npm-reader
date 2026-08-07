@@ -1,31 +1,63 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123833885,
-  "lastRunAt": "2026-08-07T14:56:04.882Z",
+  "lastSequence": 123843226,
+  "lastRunAt": "2026-08-07T15:50:48.842Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@qlinter/core",
+      "name": "@joshdholtz/thoth-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@aguslop0921/pioneer-ui",
+      "name": "@joshdholtz/thoth-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@galaxy-foundry/content-reader",
+      "name": "@amojs.dev/core",
       "attempts": 1
     },
     {
-      "name": "@drcomgenius/n8n-nodes-anydoc",
+      "name": "@joshdholtz/thoth-linux-arm64",
       "attempts": 1
     },
     {
-      "name": "@machize/queue-kafka",
+      "name": "@joshdholtz/thoth-linux-x64",
       "attempts": 1
     },
     {
-      "name": "@fest-lib/core",
+      "name": "@joshdholtz/thoth-win32-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@joshdholtz/thoth-win32-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@joshdholtz/thoth",
+      "attempts": 1
+    },
+    {
+      "name": "@bitaffair/mdnx",
+      "attempts": 1
+    },
+    {
+      "name": "@12-apps/observability-backend",
+      "attempts": 1
+    },
+    {
+      "name": "@12-apps/observability-frontend",
+      "attempts": 1
+    },
+    {
+      "name": "@samva/markup",
+      "attempts": 1
+    },
+    {
+      "name": "@payscribe/checkout-js",
+      "attempts": 1
+    },
+    {
+      "name": "@samva/vite",
       "attempts": 1
     }
   ]
