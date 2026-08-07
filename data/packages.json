@@ -1514,6 +1514,18 @@
       "score": 73
     },
     {
+      "name": "@amritk/lynx-secure-storage",
+      "version": "0.1.0",
+      "description": "Encrypted key-value storage for Lynx: Keychain on iOS, EncryptedSharedPreferences on Android, and a promise-shaped facade that reaches them from the main thread.",
+      "license": "MIT",
+      "repository": "https://github.com/amritk/mini",
+      "npmUrl": "https://www.npmjs.com/package/%40amritk%2Flynx-secure-storage",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T05:59:06.650Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 84
+    },
+    {
       "name": "@amritk/mini-lynx",
       "version": "0.1.0",
       "description": "A signals runtime for Lynx: real elements created once and mutated forever, driving Lynx's Element PAPI directly, with no virtual tree.",
@@ -6950,6 +6962,18 @@
       "score": 73
     },
     {
+      "name": "@evestack/budget",
+      "version": "0.2.0",
+      "description": "Dollar spend caps for eve agents, per session and per principal per day. Backed by the Postgres you already run, so a cap survives the session that a new session would otherwise reset.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SammyTourani/evestack",
+      "npmUrl": "https://www.npmjs.com/package/%40evestack%2Fbudget",
+      "category": "data",
+      "createdAt": "2026-08-05T03:27:53.479Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 80
+    },
+    {
       "name": "@evestack/mcp",
       "version": "0.1.0",
       "description": "evestack's control plane as an MCP server. Ask Claude Code why last night's agent run got denied, what it cost, and turn it into a regression test — over stdio, read-only by default.",
@@ -7260,6 +7284,18 @@
       "createdAt": "2026-07-25T18:47:22.440Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 100
+    },
+    {
+      "name": "@firecrawl/firecrawl-convex",
+      "version": "0.1.1",
+      "description": "Firecrawl component for Convex: scrape, map, and search the web, and run durable crawls with reactive progress.",
+      "license": "MIT",
+      "repository": "https://github.com/firecrawl/firecrawl-convex",
+      "npmUrl": "https://www.npmjs.com/package/%40firecrawl%2Ffirecrawl-convex",
+      "category": "frontend",
+      "createdAt": "2026-08-07T05:56:32.596Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 75
     },
     {
       "name": "@firetell/firetell-client-sdk",
@@ -7908,6 +7944,18 @@
       "createdAt": "2026-08-04T01:08:39.451Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 66
+    },
+    {
+      "name": "@genesis-tech/genesispay-seller",
+      "version": "0.8.0",
+      "description": "Framework-agnostic x402 payment gate for sellers, powered by GenesisPay.",
+      "license": "MIT",
+      "repository": "https://github.com/GenesisTechAT/genesispay-js",
+      "npmUrl": "https://www.npmjs.com/package/%40genesis-tech%2Fgenesispay-seller",
+      "category": "backend",
+      "createdAt": "2026-08-07T07:01:35.240Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 75
     },
     {
       "name": "@gengirish/skills-mcp",
@@ -11798,6 +11846,18 @@
       "score": 64
     },
     {
+      "name": "@jottingcn/miniaudio-node",
+      "version": "1.6.0",
+      "description": "High-performance native audio playback for Node.js and Bun. Built with Rust and the powerful rodio audio engine.",
+      "license": "MIT",
+      "repository": "https://github.com/JottingCN/miniaudio-node",
+      "npmUrl": "https://www.npmjs.com/package/%40jottingcn%2Fminiaudio-node",
+      "category": "data",
+      "createdAt": "2026-08-07T06:04:59.377Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 84
+    },
+    {
       "name": "@js-ak/remote-objects",
       "version": "1.1.0",
       "description": "Actor-style remote objects on Node.js worker threads - write normal classes, call them like local instances.",
@@ -12816,6 +12876,138 @@
       "createdAt": "2026-08-05T10:25:50.216Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 77
+    },
+    {
+      "name": "@loomidev/bottom-nav",
+      "version": "0.2.0",
+      "description": "<loomi-bottom-nav>/<loomi-bottom-nav-item> — a mobile bottom navigation bar with badges, active-state styles, and framework-agnostic routing.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fbottom-nav",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:10.283Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 78
+    },
+    {
+      "name": "@loomidev/core",
+      "version": "0.2.0",
+      "description": "Shared runtime assets for loomi components: theme styles, palette, the accent helper and small DOM utilities. The loomi analogue of BladewindUI's core package.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-07T06:49:22.452Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 73
+    },
+    {
+      "name": "@loomidev/countries",
+      "version": "0.2.0",
+      "description": "<loomi-countries> — a searchable country dropdown with flag icons, plus a phone-number mode (flag + dial code + number input).",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fcountries",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:22.663Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 82
+    },
+    {
+      "name": "@loomidev/creditcard",
+      "version": "0.2.0",
+      "description": "<loomi-creditcard> — a flippable, themeable credit card input with live network-logo detection.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fcreditcard",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:22.875Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 73
+    },
+    {
+      "name": "@loomidev/data-grid",
+      "version": "0.2.0",
+      "description": "<loomi-data-grid> — a modular data grid with a lean core (rendering, sorting, pagination, selection, column resizing, sticky headers, keyboard navigation, custom cell rendering) plus opt-in modules for filtering, row grouping, tree data, export, inline ed",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fdata-grid",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:23.812Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 84
+    },
+    {
+      "name": "@loomidev/drawer",
+      "version": "0.2.0",
+      "description": "<loomi-drawer> — a sliding edge panel with optional backdrop, focus trap, and customizable animations.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fdrawer",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:24.073Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 72
+    },
+    {
+      "name": "@loomidev/input",
+      "version": "0.2.0",
+      "description": "<loomi-input> — a themeable text input web component with floating labels, prefixes/suffixes, icons and validation.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Finput",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:34.586Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 73
+    },
+    {
+      "name": "@loomidev/lightbox",
+      "version": "0.2.0",
+      "description": "<loomi-lightbox-image> — click an image to view it fullscreen. Wraps a single existing image with no shared container; give matching `group` values to enable Next/Prev between scattered images.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Flightbox",
+      "category": "cli",
+      "createdAt": "2026-08-07T06:49:33.818Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 79
+    },
+    {
+      "name": "@loomidev/photo-gallery",
+      "version": "0.2.0",
+      "description": "<loomi-photo-gallery> — an album grid with zoom/square/slideshow controls and a lightbox viewer.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fphoto-gallery",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:39.439Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 73
+    },
+    {
+      "name": "@loomidev/text-editor",
+      "version": "0.2.0",
+      "description": "<loomi-text-editor> — a themeable rich-text editor web component with configurable tools, a floating label, and inline validation.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Ftext-editor",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:53.471Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 75
+    },
+    {
+      "name": "@loomidev/timezonepicker",
+      "version": "0.2.0",
+      "description": "<loomi-timezonepicker> — a searchable IANA timezone dropdown with live UTC offsets and local time.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Ftimezonepicker",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:58.354Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 75
     },
     {
       "name": "@loopingai/a2a-protocol",
@@ -22370,6 +22562,18 @@
       "score": 69
     },
     {
+      "name": "@trybullet/cli",
+      "version": "1.3.12",
+      "description": "The fastest coding agent — terminal edition. Same router, tools and agent loop as the Bullet desktop app, in your shell.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/trybullet/bullet",
+      "npmUrl": "https://www.npmjs.com/package/%40trybullet%2Fcli",
+      "category": "testing",
+      "createdAt": "2026-08-07T06:52:50.843Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 84
+    },
+    {
       "name": "@tryinget/pi-code-mode",
       "version": "0.1.0",
       "description": "Python and JavaScript code-mode tool with persistent logical state and an explicit host capability registry for Pi",
@@ -23628,6 +23832,18 @@
       "createdAt": "2026-07-31T16:37:42.055Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 63
+    },
+    {
+      "name": "@warpgogol/changelog-live",
+      "version": "0.2.0",
+      "description": "AI-powered CHANGELOG.md generator from git history with multi-language support",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/syrokomskyi/changelog-live",
+      "npmUrl": "https://www.npmjs.com/package/%40warpgogol%2Fchangelog-live",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:19:00.482Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 75
     },
     {
       "name": "@wasm-gaming/celeste-wasm",
@@ -25164,6 +25380,18 @@
       "createdAt": "2026-08-01T17:52:23.518Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 68
+    },
+    {
+      "name": "agentbrain-cli",
+      "version": "1.0.0",
+      "description": "CLI for AgentBrain enterprise data hub - interact with organizations, connectors, knowledge bases, and workflows",
+      "license": "MIT",
+      "repository": "https://github.com/nextlevelbuilder/agentbrain-cli",
+      "npmUrl": "https://www.npmjs.com/package/agentbrain-cli",
+      "category": "data",
+      "createdAt": "2026-08-07T06:24:23.676Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 85
     },
     {
       "name": "agentconfiging",
@@ -29544,6 +29772,18 @@
       "createdAt": "2026-08-07T04:53:11.628Z",
       "discoveredAt": "2026-08-07T05:57:15.695Z",
       "score": 54
+    },
+    {
+      "name": "devharness",
+      "version": "0.8.0",
+      "description": "MCP server that connects AI assistants to Chrome DevTools Protocol for runtime debugging - set breakpoints, inspect variables, monitor network traffic, and automate browser interactions",
+      "license": "MIT",
+      "repository": "https://github.com/InDate/devharness",
+      "npmUrl": "https://www.npmjs.com/package/devharness",
+      "category": "frontend",
+      "createdAt": "2026-08-07T06:23:41.748Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 74
     },
     {
       "name": "devinpipe",
@@ -35810,6 +36050,18 @@
       "score": 90
     },
     {
+      "name": "myapikey",
+      "version": "0.1.0",
+      "description": "Personal LLM API gateway & proxy — one address + one API key for all your models. Forwards OpenAI & Anthropic calls to your backends with failover and a circuit breaker. Pure passthrough, no format translation. Self-hosted (CLI + web UI).",
+      "license": "MIT",
+      "repository": "https://github.com/vat-wiki/myapikey",
+      "npmUrl": "https://www.npmjs.com/package/myapikey",
+      "category": "frontend",
+      "createdAt": "2026-08-07T06:13:19.299Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 86
+    },
+    {
       "name": "mysql-boss",
       "version": "0.1.0",
       "description": "A pg-boss-inspired job queue for MySQL 8.0.1+",
@@ -36924,6 +37176,18 @@
       "createdAt": "2026-08-02T22:31:14.539Z",
       "discoveredAt": "2026-08-02T22:47:14.561Z",
       "score": 83
+    },
+    {
+      "name": "nuxt-google-ga",
+      "version": "1.0.0",
+      "description": "Google Analytics module for Nuxt 3/4 with GA4, GTM, Universal Analytics, e-commerce tracking, lazy loading, and GDPR consent mode",
+      "license": "MIT",
+      "repository": "https://github.com/parthobepary/google-ga",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-google-ga",
+      "category": "frontend",
+      "createdAt": "2026-08-07T06:07:18.939Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 87
     },
     {
       "name": "nvcalendar",
@@ -40658,6 +40922,18 @@
       "score": 73
     },
     {
+      "name": "rendemo-plugin",
+      "version": "1.0.1",
+      "description": "The Rendemo Claude Code plugin. /rendemo:demo installs a published demo on your site; /rendemo:tour authors a marker-anchored product tour. Wraps the Rendemo MCP server so you state an intent instead of picking tools.",
+      "license": "MIT",
+      "repository": "https://github.com/jakegrepo/rendemo-plugin",
+      "npmUrl": "https://www.npmjs.com/package/rendemo-plugin",
+      "category": "backend",
+      "createdAt": "2026-08-07T06:30:40.004Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 96
+    },
+    {
       "name": "render-useful-mcp",
       "version": "1.0.1",
       "description": "A complete, production-grade Model Context Protocol server for the Render Public API — all 207 official endpoints plus higher-level workflow tools.",
@@ -42516,6 +42792,18 @@
       "createdAt": "2026-08-04T22:07:06.361Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 86
+    },
+    {
+      "name": "space-invaders-tui",
+      "version": "2.0.0",
+      "description": "A roguelite shmup for your terminal: fly, shoot, and pick one of three random perks every level-up. Play locally, over SSH, or let an LLM play via MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/Avee4k/space-invaders-tui",
+      "npmUrl": "https://www.npmjs.com/package/space-invaders-tui",
+      "category": "frontend",
+      "createdAt": "2026-08-06T19:00:16.466Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 75
     },
     {
       "name": "spanplane",
@@ -45900,6 +46188,18 @@
       "createdAt": "2026-08-04T10:05:04.285Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 83
+    },
+    {
+      "name": "wurld-core",
+      "version": "1.1.1",
+      "description": "Reader, writer and live-streaming primitives for the wurld posed sensor-video format",
+      "license": "MIT",
+      "repository": "https://github.com/kmatzen/wurld",
+      "npmUrl": "https://www.npmjs.com/package/wurld-core",
+      "category": "data",
+      "createdAt": "2026-08-07T06:58:20.861Z",
+      "discoveredAt": "2026-08-07T07:11:36.999Z",
+      "score": 88
     },
     {
       "name": "x402-codesearch-mcp",
