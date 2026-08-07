@@ -1190,6 +1190,18 @@
       "score": 75
     },
     {
+      "name": "@alainux/orb",
+      "version": "0.5.3",
+      "description": "Conversational realtime voice control for the Pi coding harness, with hardware-timed Go audio and autonomous Pi task orchestration.",
+      "license": "MIT",
+      "repository": "https://github.com/alainux/orb",
+      "npmUrl": "https://www.npmjs.com/package/%40alainux%2Forb",
+      "category": "utilities",
+      "createdAt": "2026-08-07T12:47:38.336Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 69
+    },
+    {
       "name": "@alainux/wirestate",
       "version": "0.3.1",
       "description": "Visual executable specifications using hierarchical state machines, interactive wireframes, and runtime verification.",
@@ -3590,6 +3602,18 @@
       "score": 84
     },
     {
+      "name": "@budiauktioner/buildi-primitives",
+      "version": "0.1.1",
+      "description": "Swedish, EU and international value-object primitives — validation, normalization, masking, and text scanning. TypeScript port of Buildi.Primitives (.NET).",
+      "license": "MIT",
+      "repository": "https://github.com/budiauktioner/buildi-primitives",
+      "npmUrl": "https://www.npmjs.com/package/%40budiauktioner%2Fbuildi-primitives",
+      "category": "data",
+      "createdAt": "2026-08-07T12:53:52.039Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 83
+    },
+    {
       "name": "@bugban/js",
       "version": "1.0.0",
       "description": "Bugban error & performance monitoring SDK — framework-agnostic JavaScript/TypeScript core for browsers and Node.js.",
@@ -4212,6 +4236,18 @@
       "createdAt": "2026-08-03T08:20:40.253Z",
       "discoveredAt": "2026-08-03T09:27:32.902Z",
       "score": 79
+    },
+    {
+      "name": "@chirag127/oz-ai",
+      "version": "0.2.0",
+      "description": "Single client-side AI client for the fleet — wraps g4f (@gpt4free/g4f.dev) with multi-provider failover (default auto-router → DeepInfra → Puter). Framework-agnostic TS. chat/complete/vision/image/listModels, streaming, AbortSignal. Change the provider st",
+      "license": "MIT",
+      "repository": "https://github.com/chirag127/oz-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40chirag127%2Foz-ai",
+      "category": "cli",
+      "createdAt": "2026-08-07T13:00:01.214Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 60
     },
     {
       "name": "@chonksxyz/studio",
@@ -7730,6 +7766,18 @@
       "score": 78
     },
     {
+      "name": "@flame0510/rev4a",
+      "version": "1.1.8",
+      "description": "Rev4a — Revolution for Agents. OpenClaw agent fleet orchestrator.",
+      "license": "MIT",
+      "repository": "https://github.com/Flame0510/rev4a",
+      "npmUrl": "https://www.npmjs.com/package/%40flame0510%2Frev4a",
+      "category": "utilities",
+      "createdAt": "2026-08-07T12:27:51.541Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 61
+    },
+    {
       "name": "@flaskbb/markdown-toolbar-element",
       "version": "1.0.0",
       "description": "Markdown formatting buttons for text inputs. A FlaskBB maintained fork of @github/markdown-toolbar-element.",
@@ -8928,6 +8976,18 @@
       "createdAt": "2026-08-02T15:55:45.097Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/eacaggregator",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for EACAggregator (build etherscan-eacaggregator-a569d910-1786109215262, commit 37b26e3, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/eacaggregator",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Feacaggregator",
+      "category": "build-tools",
+      "createdAt": "2026-08-04T03:41:44.083Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/ena",
@@ -10404,6 +10464,18 @@
       "createdAt": "2026-07-29T02:51:22.986Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 81
+    },
+    {
+      "name": "@gwinnguyen/qa-skills",
+      "version": "1.0.2",
+      "description": "Deterministic, evidence-backed QA runtime for Codex, Claude Code, and Cursor: versioned artifact contracts, a Playwright Runtime Browser Driver, redacted evidence, and reproducible release gates. Never calls an LLM.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dangnhit/qa-tester",
+      "npmUrl": "https://www.npmjs.com/package/%40gwinnguyen%2Fqa-skills",
+      "category": "testing",
+      "createdAt": "2026-08-07T13:18:52.305Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 100
     },
     {
       "name": "@gyeonghokim/gerrit-cli",
@@ -12204,6 +12276,18 @@
       "createdAt": "2026-08-01T19:54:20.064Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 73
+    },
+    {
+      "name": "@jonusnattapong/oracle",
+      "version": "0.8.0",
+      "description": "Oracle Assistant — an MCP-powered AI assistant with persistent memory, a knowledge base, web access, and an inter-agent message bus for Claude Code, opencode, and other coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/OraclePersonal/Oracle",
+      "npmUrl": "https://www.npmjs.com/package/%40jonusnattapong%2Foracle",
+      "category": "backend",
+      "createdAt": "2026-08-07T13:19:45.931Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 88
     },
     {
       "name": "@jordandavila/fluid-canvas",
@@ -15638,6 +15722,18 @@
       "score": 70
     },
     {
+      "name": "@moyai/pi-session-hoarder",
+      "version": "0.2.0",
+      "description": "🐿️ A Pi extension that archives sessions into local content-addressed storage.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/moyai-ai/pi-session-hoarder",
+      "npmUrl": "https://www.npmjs.com/package/%40moyai%2Fpi-session-hoarder",
+      "category": "utilities",
+      "createdAt": "2026-08-03T13:58:36.922Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 59
+    },
+    {
       "name": "@mpaycards/uapi-sdk",
       "version": "1.0.1",
       "description": "Node.js SDK for the Mpay User API, with automatic HMAC-SHA256 request signing.",
@@ -18050,6 +18146,30 @@
       "score": 64
     },
     {
+      "name": "@politty/valibot",
+      "version": "0.0.0",
+      "description": "A lightweight CLI framework inspired by citty with valibot integration for type-safe metadata management",
+      "license": "MIT",
+      "repository": "https://github.com/toiroakr/politty",
+      "npmUrl": "https://www.npmjs.com/package/%40politty%2Fvalibot",
+      "category": "data",
+      "createdAt": "2026-08-07T13:09:05.405Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 72
+    },
+    {
+      "name": "@politty/zod",
+      "version": "0.0.0",
+      "description": "A lightweight CLI framework inspired by citty with zod v4 registry integration for type-safe metadata management",
+      "license": "MIT",
+      "repository": "https://github.com/toiroakr/politty",
+      "npmUrl": "https://www.npmjs.com/package/%40politty%2Fzod",
+      "category": "data",
+      "createdAt": "2026-08-07T13:08:51.638Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 73
+    },
+    {
       "name": "@poluru-labs/enterprise-design-system-react",
       "version": "1.0.0",
       "description": "Enterprise Design System — React components, design tokens, ThemeProvider, ToastProvider, and Storybook.",
@@ -18060,6 +18180,18 @@
       "createdAt": "2026-08-02T04:52:48.429Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 75
+    },
+    {
+      "name": "@polycrestlabs/agentkit-ui",
+      "version": "0.4.0",
+      "description": "The AgentKit conversation UI kit for Angular: the v2 frame vocabulary (loaded/token/tool/question/questionForm/followups/citation/usage/heartbeat/message/done/error), the agent-turn state machine with an ordered rich timeline and durable hydration, and th",
+      "license": "MIT",
+      "repository": "https://github.com/Polycrest-Labs/agentkit",
+      "npmUrl": "https://www.npmjs.com/package/%40polycrestlabs%2Fagentkit-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-04T23:16:53.354Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 61
     },
     {
       "name": "@polymind-inc/agent-framework-a2a",
@@ -18156,6 +18288,18 @@
       "createdAt": "2026-08-04T22:26:05.190Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 75
+    },
+    {
+      "name": "@powoftwo/strapi-plugin-media-library-handler",
+      "version": "0.1.7",
+      "description": "Strapi 5 plugin for managing Media Library folders and files through the Content API",
+      "license": "MIT",
+      "repository": "https://github.com/powoftwo/strapi-plugin-media-library-handler",
+      "npmUrl": "https://www.npmjs.com/package/%40powoftwo%2Fstrapi-plugin-media-library-handler",
+      "category": "backend",
+      "createdAt": "2026-08-07T13:36:12.989Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 63
     },
     {
       "name": "@practicalworks/guardrails",
@@ -18732,6 +18876,18 @@
       "createdAt": "2026-08-05T22:35:39.012Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 92
+    },
+    {
+      "name": "@rajubepary/twigx",
+      "version": "0.0.1",
+      "description": "A Git worktree and PR management CLI tool for streamlined development workflows",
+      "license": "MIT",
+      "repository": "https://github.com/rajubepary/twigx",
+      "npmUrl": "https://www.npmjs.com/package/%40rajubepary%2Ftwigx",
+      "category": "cli",
+      "createdAt": "2026-08-07T13:40:47.223Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 62
     },
     {
       "name": "@rakku-kun/baileys",
@@ -22850,6 +23006,18 @@
       "score": 74
     },
     {
+      "name": "@the-meridian/cli",
+      "version": "1.0.0",
+      "description": "Meridian CLI — managed remote development databases for Shopify apps built on Meridian.",
+      "license": "MIT",
+      "repository": "https://github.com/the-meridian-ai/meridian-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40the-meridian%2Fcli",
+      "category": "data",
+      "createdAt": "2026-08-07T13:02:17.111Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 82
+    },
+    {
       "name": "@the-rfp-hub/standard",
       "version": "1.0.1",
       "description": "RFP Hub Standard — canonical JSON Schema + generated TypeScript types for Ethereum-ecosystem funding opportunities.",
@@ -23076,6 +23244,18 @@
       "createdAt": "2026-07-26T00:25:09.955Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 73
+    },
+    {
+      "name": "@tindtechnologies/sindriui-react",
+      "version": "1.0.0",
+      "description": "SindriUI React is TIND's fork of PrimeReact 10.9.8, the last MIT-licensed release before the library moved to a commercial licence. It provides the same rich set of React UI components, maintained for use in TIND products.",
+      "license": "MIT",
+      "repository": "https://github.com/tind/sindriui-react",
+      "npmUrl": "https://www.npmjs.com/package/%40tindtechnologies%2Fsindriui-react",
+      "category": "frontend",
+      "createdAt": "2026-08-07T12:53:10.391Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 66
     },
     {
       "name": "@tinovn/tino-sdk",
@@ -25586,6 +25766,18 @@
       "score": 69
     },
     {
+      "name": "@ziyarago/glass-ui-kit",
+      "version": "1.31.0",
+      "description": "A modern glassmorphism-inspired Vue 3 + TypeScript component library — ~139 components across 12 groups, two palettes, dark mode and 6 locales.",
+      "license": "MIT",
+      "repository": "https://github.com/ziyarago/glass-ui-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40ziyarago%2Fglass-ui-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-07T13:16:51.626Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 90
+    },
+    {
       "name": "@zobi.dev/embedded-sdk",
       "version": "1.0.0",
       "description": "SDK for embedding resources from Zobi into your own application",
@@ -26004,6 +26196,18 @@
       "createdAt": "2026-07-25T20:57:29.098Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 66
+    },
+    {
+      "name": "afk-term",
+      "version": "0.1.0",
+      "description": "Terminal screensavers for when you step away. Thirty effects, no dependencies, one command.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/noluyorAbi/afk",
+      "npmUrl": "https://www.npmjs.com/package/afk-term",
+      "category": "cli",
+      "createdAt": "2026-08-07T13:51:52.594Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 75
     },
     {
       "name": "agent-capability-contract",
@@ -33182,6 +33386,18 @@
       "score": 62
     },
     {
+      "name": "glove-image",
+      "version": "0.1.0",
+      "description": "Image workflows for the Glove agent framework — prompt pipelines with enhancer inbetweens, first-class characters and scenes, reference images and assembly, behind a BYO image-model adapter.",
+      "license": "MIT",
+      "repository": "https://github.com/porkytheblack/glove",
+      "npmUrl": "https://www.npmjs.com/package/glove-image",
+      "category": "utilities",
+      "createdAt": "2026-08-07T13:08:09.110Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 69
+    },
+    {
       "name": "glove-working-environment",
       "version": "0.1.0",
       "description": "A small, fast, in-memory, sandboxed persistent working environment for LLM agents — a virtual filesystem the model acts on across many tool calls: write and persist scripts, run them, capture outputs, inspect intermediates, and iterate. No networking, no",
@@ -33998,6 +34214,18 @@
       "score": 63
     },
     {
+      "name": "hs-dev-manager",
+      "version": "0.2.0",
+      "description": "Interactive CLI for safely managing HubSpot Design Manager files across multiple accounts",
+      "license": "MIT",
+      "repository": "https://github.com/robstermarinho/hs-dev-manager",
+      "npmUrl": "https://www.npmjs.com/package/hs-dev-manager",
+      "category": "cli",
+      "createdAt": "2026-07-25T16:46:23.743Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 62
+    },
+    {
       "name": "htmlpdfx",
       "version": "1.0.0",
       "description": "Modern HTML-to-PDF for JavaScript & TypeScript. One unified API across Node, Bun, and the browser. Uses a real Chromium engine when available (selectable text, perfect CSS, native page breaks) and falls back to a fixed canvas pipeline in the browser.",
@@ -34080,6 +34308,18 @@
       "createdAt": "2026-08-06T09:57:14.725Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 89
+    },
+    {
+      "name": "human-writer",
+      "version": "0.1.1",
+      "description": "Text that writes itself on, as an SVG. Streams AI output, understands Markdown, and reports its own byte cost.",
+      "license": "MIT",
+      "repository": "https://github.com/iota-hq/manim-svg-animator",
+      "npmUrl": "https://www.npmjs.com/package/human-writer",
+      "category": "utilities",
+      "createdAt": "2026-08-07T13:30:34.645Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 71
     },
     {
       "name": "humanpen-mcp",
@@ -35990,6 +36230,18 @@
       "score": 69
     },
     {
+      "name": "macca-method",
+      "version": "1.0.0",
+      "description": "CLI installer for MACCA AI spec-driven development skills.",
+      "license": "MIT",
+      "repository": "https://github.com/firdaus12p/MACCA-METHOD",
+      "npmUrl": "https://www.npmjs.com/package/macca-method",
+      "category": "cli",
+      "createdAt": "2026-08-07T13:13:42.742Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 75
+    },
+    {
       "name": "macos-keyboard-backlight",
       "version": "1.1.0",
       "description": "Control the MacBook keyboard backlight from the command line or Node - get/set brightness and toggle ambient auto-brightness. No native build step.",
@@ -36636,6 +36888,18 @@
       "createdAt": "2026-08-06T13:56:16.832Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 91
+    },
+    {
+      "name": "mcpee-uxdesign",
+      "version": "1.0.0",
+      "description": "BoostDesign UX/UI pack for GitHub Copilot with agents, instructions, skills, and design-token references.",
+      "license": "MIT",
+      "repository": "https://github.com/Sertxito/boost_design-UX-with-Intent",
+      "npmUrl": "https://www.npmjs.com/package/mcpee-uxdesign",
+      "category": "utilities",
+      "createdAt": "2026-08-07T12:52:16.798Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 76
     },
     {
       "name": "mcpfy-sdk",
@@ -38039,6 +38303,18 @@
       "category": "backend",
       "createdAt": "2026-08-07T03:17:10.374Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 80
+    },
+    {
+      "name": "nexus-memory-trust",
+      "version": "1.1.0",
+      "description": "AI Memory Operating System вЂ” desktop application for intelligent memory management",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/NexusMemoryTrust-dev-groupe/nexus",
+      "npmUrl": "https://www.npmjs.com/package/nexus-memory-trust",
+      "category": "utilities",
+      "createdAt": "2026-08-07T13:26:35.303Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 80
     },
     {
@@ -40188,6 +40464,18 @@
       "createdAt": "2026-08-04T10:33:26.988Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 76
+    },
+    {
+      "name": "pi-profile-archive",
+      "version": "0.1.0",
+      "description": "Profile manager for the pi coding agent — switch, save, archive, and git-version your settings.json profiles. Built on top of the runtime profile concept with a focus on safe, history-preserving changes.",
+      "license": "MIT",
+      "repository": "https://github.com/cv588888888888888888888ju/pi-profile-archive",
+      "npmUrl": "https://www.npmjs.com/package/pi-profile-archive",
+      "category": "utilities",
+      "createdAt": "2026-08-07T13:15:25.892Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 61
     },
     {
       "name": "pi-provider-lemonade",
@@ -44748,6 +45036,18 @@
       "createdAt": "2026-08-06T10:10:44.809Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 96
+    },
+    {
+      "name": "supabase-schema-tool",
+      "version": "1.0.1",
+      "description": "A CLI tool that organizes a PostgreSQL or Supabase SQL schema export into a clean directory structure.",
+      "license": "MIT",
+      "repository": "https://github.com/kkantdev/supabase-schema-tool",
+      "npmUrl": "https://www.npmjs.com/package/supabase-schema-tool",
+      "category": "data",
+      "createdAt": "2026-08-07T13:33:17.542Z",
+      "discoveredAt": "2026-08-07T13:59:25.856Z",
+      "score": 60
     },
     {
       "name": "supamaus",
