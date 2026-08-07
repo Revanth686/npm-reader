@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123736509,
-  "lastRunAt": "2026-08-07T04:32:40.756Z",
+  "lastSequence": 123745964,
+  "lastRunAt": "2026-08-07T05:57:15.695Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@abhivorn/validation-kit",
+      "attempts": 1
+    },
+    {
+      "name": "@sunny-base-web/shadcn-ui",
+      "attempts": 1
+    },
+    {
+      "name": "@firecrawl/firecrawl-convex",
+      "attempts": 1
+    },
+    {
+      "name": "@huyooo/ones-api",
+      "attempts": 1
+    }
+  ]
 }
