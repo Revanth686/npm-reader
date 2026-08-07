@@ -3818,6 +3818,18 @@
       "score": 84
     },
     {
+      "name": "@cavsnode/dedup-sdk",
+      "version": "0.2.0",
+      "description": "Official TypeScript SDK for the CAVS Deduplication Service — content-defined chunking, tenant-scoped deduplication and versioned objects over your own object storage.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/orelvis15/cavs-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40cavsnode%2Fdedup-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T04:20:35.695Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 82
+    },
+    {
       "name": "@cclabsnz/sf-orgintel",
       "version": "0.1.0",
       "description": "Understand how a Salesforce org actually works — its processes, people, and couplings — from metadata and behavioral data, entirely locally.",
@@ -6494,6 +6506,18 @@
       "score": 90
     },
     {
+      "name": "@ecoma-io/nx-polyglot-graph",
+      "version": "0.1.0",
+      "description": "Polyglot module-boundary enforcement for an Nx workspace: cross-project graph edges for Go, Rust and Python, and boundary checking across every language its analyzers read",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ecoma-io/lattice",
+      "npmUrl": "https://www.npmjs.com/package/%40ecoma-io%2Fnx-polyglot-graph",
+      "category": "backend",
+      "createdAt": "2026-08-07T02:47:18.732Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 71
+    },
+    {
       "name": "@eddieparc/senpi-multiaccounts",
       "version": "0.1.0",
       "description": "Senpi addon: multi-account subscriptions for Claude, OpenAI Codex and Kiro — per-account usage, cache-preserving routing, usage-aware placement and 429 failover.",
@@ -7920,6 +7944,18 @@
       "createdAt": "2026-07-25T14:48:20.159Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 62
+    },
+    {
+      "name": "@getbitid/core",
+      "version": "0.2.0",
+      "description": "The BitID SDK: a verified-identity engine (createBitID) plus 'Sign in with BitID' — wallet status, QR verification sessions, liveness, and scoped agent delegation. Zero runtime dependencies; runs unchanged in React Native, the browser, and Node.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/linefinancial/bitid-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40getbitid%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-06T12:23:05.051Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 76
     },
     {
       "name": "@getclog/clog",
@@ -10454,6 +10490,18 @@
       "score": 83
     },
     {
+      "name": "@hybridlabor-api/bdb-dev-uber-recipe-wrapper",
+      "version": "1.0.1",
+      "description": "Autonomous, cross-platform Uber tax invoice fetcher, batch downloader, and PDF accounting analyzer",
+      "license": "MIT",
+      "repository": "https://github.com/hybridlabor-api/uber-invoice-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40hybridlabor-api%2Fbdb-dev-uber-recipe-wrapper",
+      "category": "testing",
+      "createdAt": "2026-08-07T03:44:05.284Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 75
+    },
+    {
       "name": "@hybridlabor-api/heimdall-token-saver",
       "version": "2.6.3",
       "description": "Ultra-fast context compression engine for CLI tool outputs in AI agent workflows.",
@@ -11304,6 +11352,30 @@
       "createdAt": "2026-08-01T09:50:43.588Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 69
+    },
+    {
+      "name": "@iyulab/canopy",
+      "version": "0.1.2",
+      "description": "Publishing renderer: turn a tree of markdown notes into a static website.",
+      "license": "MIT",
+      "repository": "https://github.com/iyulab/canopy",
+      "npmUrl": "https://www.npmjs.com/package/%40iyulab%2Fcanopy",
+      "category": "utilities",
+      "createdAt": "2026-08-06T13:12:02.171Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 67
+    },
+    {
+      "name": "@iyulab/canopy-page",
+      "version": "0.1.0",
+      "description": "Authoring pipeline for documentation sites: one settings file, integrity checks, and a build.",
+      "license": "MIT",
+      "repository": "https://github.com/iyulab/canopy-page",
+      "npmUrl": "https://www.npmjs.com/package/%40iyulab%2Fcanopy-page",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T03:43:13.290Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 65
     },
     {
       "name": "@j_moleiro/app-params",
@@ -15554,6 +15626,18 @@
       "score": 79
     },
     {
+      "name": "@noorm/lumpi",
+      "version": "0.83.0",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40noorm%2Flumpi",
+      "category": "data",
+      "createdAt": "2026-08-07T04:24:10.231Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 69
+    },
+    {
       "name": "@normful/pi-auto-name",
       "version": "1.0.0",
       "description": "Auto-generates names in your language for Pi sessions, tmux windows, herder panes/tabs, zellij panes/tabs so you can easily view what each Pi is doing",
@@ -16368,6 +16452,18 @@
       "createdAt": "2026-08-04T14:40:24.394Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 87
+    },
+    {
+      "name": "@p404c/mcp-remote",
+      "version": "0.1.39",
+      "description": "Remote proxy for Model Context Protocol, allowing local-only clients to connect to remote servers using oAuth (fork: honours an empty scopes_supported so servers advertising no scopes authenticate)",
+      "license": "MIT",
+      "repository": "https://github.com/p404/mcp-remote",
+      "npmUrl": "https://www.npmjs.com/package/%40p404c%2Fmcp-remote",
+      "category": "backend",
+      "createdAt": "2026-08-07T03:06:07.554Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 79
     },
     {
       "name": "@p9v/core",
@@ -18578,6 +18674,18 @@
       "score": 82
     },
     {
+      "name": "@romulocrj/js_pdf",
+      "version": "0.1.6",
+      "description": "JavaScript port of DavBfr/dart_pdf. Dependency-free PDF composition for pure ECMAScript hosts (browser importmap, ClearScript, Node).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/romulocrj/js_pdf",
+      "npmUrl": "https://www.npmjs.com/package/%40romulocrj%2Fjs_pdf",
+      "category": "frontend",
+      "createdAt": "2026-08-07T03:35:19.619Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 69
+    },
+    {
       "name": "@rosarium/boost",
       "version": "1.0.1",
       "description": "The speed of a single-page web application without having to write any JavaScript",
@@ -20162,6 +20270,18 @@
       "score": 75
     },
     {
+      "name": "@slop-detector/slop-detector",
+      "version": "0.1.0",
+      "description": "Score text 0-100 on how AI-written it looks, and get back the exact lines that scored. Dependency-free heuristics ported from the not-ai skill.",
+      "license": "MIT",
+      "repository": "https://github.com/bhaumikmistry/slop-detector",
+      "npmUrl": "https://www.npmjs.com/package/%40slop-detector%2Fslop-detector",
+      "category": "utilities",
+      "createdAt": "2026-08-07T02:26:11.890Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 65
+    },
+    {
       "name": "@smallthinkingmachines/video-context-mcp",
       "version": "0.8.0",
       "description": "Model-agnostic MCP server that turns videos into an interactive, queryable knowledge structure — transcript, keyframes, OCR, and search that any MCP client can scrub lazily",
@@ -21614,6 +21734,18 @@
       "score": 80
     },
     {
+      "name": "@thariman/ccstatusline",
+      "version": "2.2.27",
+      "description": "A customizable status line formatter for Claude Code CLI",
+      "license": "MIT",
+      "repository": "https://github.com/sirmalloc/ccstatusline",
+      "npmUrl": "https://www.npmjs.com/package/%40thariman%2Fccstatusline",
+      "category": "data",
+      "createdAt": "2026-08-07T04:22:18.219Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 75
+    },
+    {
       "name": "@the-efficacious/brand",
       "version": "0.2.0",
       "description": "Efficacious brand system — design tokens, theme CSS, UnoCSS preset, and logo artwork for Efficacious, CommandSuite, and TurnDB.",
@@ -22992,6 +23124,30 @@
       "createdAt": "2026-08-01T12:30:30.244Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 68
+    },
+    {
+      "name": "@vertexa/prisma",
+      "version": "7.8.0",
+      "description": "Prisma is an open-source database toolkit. It includes a JavaScript/TypeScript ORM for Node.js, migrations and a modern GUI to view and edit the data in your database. You can use Prisma in new projects or add it to an existing one.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/prisma/prisma",
+      "npmUrl": "https://www.npmjs.com/package/%40vertexa%2Fprisma",
+      "category": "backend",
+      "createdAt": "2026-08-07T03:31:14.878Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 80
+    },
+    {
+      "name": "@vertexa/prisma-client",
+      "version": "7.8.0",
+      "description": "Prisma Client is an auto-generated, type-safe and modern JavaScript/TypeScript ORM for Node.js that's tailored to your data. Supports PostgreSQL, CockroachDB, MySQL, MariaDB, SQL Server, SQLite & MongoDB databases.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/prisma/prisma",
+      "npmUrl": "https://www.npmjs.com/package/%40vertexa%2Fprisma-client",
+      "category": "backend",
+      "createdAt": "2026-08-07T03:30:58.429Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 69
     },
     {
       "name": "@vervian/choiceui",
@@ -26534,6 +26690,18 @@
       "score": 47
     },
     {
+      "name": "burnscope",
+      "version": "0.1.0",
+      "description": "Reconstructs project completeness over time from a GitHub repo's issue history, and forecasts when the backlog reaches zero.",
+      "license": "MIT",
+      "repository": "https://github.com/asklar/burnscope",
+      "npmUrl": "https://www.npmjs.com/package/burnscope",
+      "category": "cli",
+      "createdAt": "2026-08-07T02:28:58.621Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 71
+    },
+    {
       "name": "bylaw-ui",
       "version": "0.1.0",
       "description": "Executable geometric contracts for rendered user interfaces",
@@ -27314,6 +27482,18 @@
       "score": 85
     },
     {
+      "name": "claude-restarter",
+      "version": "0.2.0",
+      "description": "Automatically wait out Claude Code usage limits and resume the session (reset time + a 2-minute margin).",
+      "license": "MIT",
+      "repository": "https://github.com/kyrolloszakaria/claude-restarter",
+      "npmUrl": "https://www.npmjs.com/package/claude-restarter",
+      "category": "cli",
+      "createdAt": "2026-08-07T03:11:47.944Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 69
+    },
+    {
       "name": "claude-retro",
       "version": "0.1.1",
       "description": "An automatic retrospective for your AI pair programmer. Mines your local Claude Code session transcripts for friction — tool errors, permission denials, corrections, retry loops — and drafts concrete fixes for your CLAUDE.md and settings.",
@@ -27734,6 +27914,18 @@
       "score": 73
     },
     {
+      "name": "codex-memory-intelligence",
+      "version": "0.6.0",
+      "description": "Local-first project memory, dependency intelligence, impact analysis, and pre-change advisory for AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/lenhonbp/codex-memory-intelligence",
+      "npmUrl": "https://www.npmjs.com/package/codex-memory-intelligence",
+      "category": "utilities",
+      "createdAt": "2026-08-06T05:57:55.078Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 76
+    },
+    {
       "name": "codex-patty",
       "version": "0.1.0",
       "description": "Stack your own Codex/ChatGPT subscriptions behind one local, OpenAI-compatible endpoint.",
@@ -27900,6 +28092,18 @@
       "createdAt": "2026-07-31T22:48:09.376Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 65
+    },
+    {
+      "name": "commonmind",
+      "version": "0.1.0",
+      "description": "CockroachDB-as-memory for the agentic workforce. Capture · recall · act — reliably, globally, at any scale.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/LandCruiserWorld/commonmind",
+      "npmUrl": "https://www.npmjs.com/package/commonmind",
+      "category": "utilities",
+      "createdAt": "2026-08-07T04:20:13.869Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 76
     },
     {
       "name": "commvault-release-comparison-mcp",
@@ -31598,6 +31802,18 @@
       "score": 74
     },
     {
+      "name": "graph-atlas-mcp",
+      "version": "0.1.0",
+      "description": "MCP server tracking undocumented and documented Microsoft Graph API schema changes across Entra ID, Entra ID Governance, Identity & Access Management, Entra Agent ID, and Information Protection — with an interactive MCP Apps schema visualiser.",
+      "license": "MIT",
+      "repository": "https://github.com/darrenjrobinson/graph-atlas-mcp",
+      "npmUrl": "https://www.npmjs.com/package/graph-atlas-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-07T04:19:56.118Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 88
+    },
+    {
       "name": "graph-skill",
       "version": "0.5.0",
       "description": "Auto-detecting graph workflow with local checks, caching, selective retries, resume, and interactive reports",
@@ -33938,6 +34154,18 @@
       "score": 82
     },
     {
+      "name": "llmuid",
+      "version": "1.0.0",
+      "description": "Identifiers designed to survive being read, copied and re-emitted by language models",
+      "license": "MIT",
+      "repository": "https://github.com/philippelyp/llmuid-javascript",
+      "npmUrl": "https://www.npmjs.com/package/llmuid",
+      "category": "utilities",
+      "createdAt": "2026-08-07T04:29:56.448Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 72
+    },
+    {
       "name": "llmwiki-bridge-start",
       "version": "0.0.1",
       "description": "Local adoption harness for connecting pre-built LLMWiki knowledge sources to agent bridges and coding-agent clients.",
@@ -34140,6 +34368,18 @@
       "createdAt": "2026-07-30T08:36:45.839Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 75
+    },
+    {
+      "name": "lumina-sight",
+      "version": "0.5.0",
+      "description": "Pi Agent extension bundle: multi-session self-evolving knowledge base (LuminaVault) + conversational investment research SOP (5-step). Install into any Pi Agent to build your own knowledge base.",
+      "license": "MIT",
+      "repository": "https://github.com/huakuiiii/lumina-sight",
+      "npmUrl": "https://www.npmjs.com/package/lumina-sight",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T03:29:07.132Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 70
     },
     {
       "name": "lunx-dev",
@@ -34368,6 +34608,18 @@
       "createdAt": "2026-07-30T01:07:24.005Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 74
+    },
+    {
+      "name": "marrow-review",
+      "version": "0.2.0",
+      "description": "Review large pull requests in the terminal: the diff abridged to what carries meaning, findings anchored to lines, one GitHub review.",
+      "license": "MIT",
+      "repository": "https://github.com/srtfisher/marrow-review",
+      "npmUrl": "https://www.npmjs.com/package/marrow-review",
+      "category": "cli",
+      "createdAt": "2026-08-07T02:31:41.636Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 79
     },
     {
       "name": "mars-plugged",
@@ -34752,6 +35004,18 @@
       "createdAt": "2026-07-28T19:11:41.341Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 94
+    },
+    {
+      "name": "mcp-wacta",
+      "version": "1.2.0",
+      "description": "Servidor MCP (Model Context Protocol) para operar la suite WaCta de WordPress: configuración, Registro Único de CTAs y analítica de WhatsApp, con Application Passwords. Cero dependencias.",
+      "license": "MIT",
+      "repository": "https://github.com/Kanzando/Mcp-Wacta",
+      "npmUrl": "https://www.npmjs.com/package/mcp-wacta",
+      "category": "devops",
+      "createdAt": "2026-08-07T04:16:39.663Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 81
     },
     {
       "name": "mcp-wikibooks-cookbook",
@@ -36000,6 +36264,18 @@
       "createdAt": "2026-08-02T16:40:56.882Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 64
+    },
+    {
+      "name": "nexus-launch",
+      "version": "0.1.1",
+      "description": "Agent-friendly EVM token launch planning, simulation, execution, and verification, with an MCP server",
+      "license": "MIT",
+      "repository": "https://github.com/iloveenergydrinks/frontal",
+      "npmUrl": "https://www.npmjs.com/package/nexus-launch",
+      "category": "backend",
+      "createdAt": "2026-08-07T03:17:10.374Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 80
     },
     {
       "name": "nexustrade",
@@ -43706,6 +43982,18 @@
       "score": 84
     },
     {
+      "name": "ui-picker",
+      "version": "0.1.1",
+      "description": "Local-first UI design system server for coding agents — style packs, a color-theory engine, checkable UX/UI guidelines, and a human-in-the-loop picker, served over MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/CodeStrux/ui-picker",
+      "npmUrl": "https://www.npmjs.com/package/ui-picker",
+      "category": "backend",
+      "createdAt": "2026-08-07T03:48:32.466Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 86
+    },
+    {
       "name": "ui5-cap-ai-features",
       "version": "1.0.0",
       "description": "AI text-processing features for CAP + UI5 apps in one package: a CDS plugin serving an AI service backed by SAP AI Core, and the be.wl.ai UI5 control library (AI Polish Button, AI Translate Button, AI Autocomplete, ...) that consumes it",
@@ -45000,6 +45288,18 @@
       "createdAt": "2026-07-29T13:32:52.079Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 84
+    },
+    {
+      "name": "wgpu-bun",
+      "version": "29.0.0",
+      "description": "Bun FFI binding to wgpu-native, API-compatible with the `webgpu` npm package. Pre-alpha: skeleton only.",
+      "license": "MIT",
+      "repository": "https://github.com/argon-chat/wgpu",
+      "npmUrl": "https://www.npmjs.com/package/wgpu-bun",
+      "category": "backend",
+      "createdAt": "2026-08-07T03:42:54.469Z",
+      "discoveredAt": "2026-08-07T04:32:40.756Z",
+      "score": 86
     },
     {
       "name": "wharf-tui",
