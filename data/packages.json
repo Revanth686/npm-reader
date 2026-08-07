@@ -230,6 +230,18 @@
       "score": 76
     },
     {
+      "name": "@9punk/9cli",
+      "version": "0.1.0",
+      "description": "9CLI — a local multi-session command center for Claude Code and other CLI agents. Finds your projects, spawns real sessions in them, and shows every one on a board in your browser.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/seowizard9-lang/9CLI-Multi-Session-Manager",
+      "npmUrl": "https://www.npmjs.com/package/%409punk%2F9cli",
+      "category": "frontend",
+      "createdAt": "2026-08-07T17:12:08.959Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 68
+    },
+    {
       "name": "@a3s-lab/office",
       "version": "0.1.0",
       "description": "Open-source browser editors for documents, Markdown, spreadsheets, presentations, and PDFs.",
@@ -3278,6 +3290,18 @@
       "score": 65
     },
     {
+      "name": "@bierwirth-it/n8n-nodes-linkedin-formatter",
+      "version": "1.0.0",
+      "description": "Turn Markdown into ready-to-post LinkedIn content — with proper handling of German umlauts",
+      "license": "MIT",
+      "repository": "https://github.com/bierwirth-it/n8n-nodes-linkedin-formatter",
+      "npmUrl": "https://www.npmjs.com/package/%40bierwirth-it%2Fn8n-nodes-linkedin-formatter",
+      "category": "data",
+      "createdAt": "2026-08-07T17:33:09.199Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 61
+    },
+    {
       "name": "@bigblueboo/expert",
       "version": "0.1.0",
       "description": "A blocking GPT-5.6 Pro consultation CLI for agents.",
@@ -4200,6 +4224,54 @@
       "createdAt": "2026-08-05T08:11:45.273Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 88
+    },
+    {
+      "name": "@chakra-docs/chakra",
+      "version": "0.1.0",
+      "description": "Chakra UI component layer for Chakra Docs.",
+      "license": "MIT",
+      "repository": "https://github.com/chakra-docs/chakra-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40chakra-docs%2Fchakra",
+      "category": "frontend",
+      "createdAt": "2026-08-07T17:16:09.066Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 68
+    },
+    {
+      "name": "@chakra-docs/core",
+      "version": "0.1.0",
+      "description": "Framework-agnostic Markdown and MDX document models and manifest utilities for documentation sites.",
+      "license": "MIT",
+      "repository": "https://github.com/chakra-docs/chakra-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40chakra-docs%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T17:15:50.391Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 56
+    },
+    {
+      "name": "@chakra-docs/next",
+      "version": "0.1.0",
+      "description": "Next.js App and Pages Router integration for Chakra Docs documentation sites.",
+      "license": "MIT",
+      "repository": "https://github.com/chakra-docs/chakra-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40chakra-docs%2Fnext",
+      "category": "frontend",
+      "createdAt": "2026-08-07T17:16:17.823Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 69
+    },
+    {
+      "name": "@chakra-docs/source-filesystem",
+      "version": "0.1.0",
+      "description": "Filesystem Markdown and MDX content source for Chakra Docs.",
+      "license": "MIT",
+      "repository": "https://github.com/chakra-docs/chakra-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40chakra-docs%2Fsource-filesystem",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T17:15:59.583Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 56
     },
     {
       "name": "@chakra-email/preview",
@@ -8162,6 +8234,18 @@
       "score": 78
     },
     {
+      "name": "@forgemeshlabs/utility-grid-mcp",
+      "version": "0.1.1",
+      "description": "ForgeMesh Utility Grid, by ForgeMesh Labs — 415+ small agent utility jobs (OCR, vision, audio, embeddings, web extraction, dictionary/slang, chess, math, conversions, time, geo/space data, and x402 ecosystem intelligence) behind 6 meta-tools instead of on",
+      "license": "MIT",
+      "repository": "https://github.com/forgemeshlabs/utility-grid-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40forgemeshlabs%2Futility-grid-mcp",
+      "category": "data",
+      "createdAt": "2026-07-30T13:42:09.341Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 68
+    },
+    {
       "name": "@forinda/kickjs-grpc",
       "version": "0.0.0",
       "description": "Connect RPC transport for KickJS — gRPC, gRPC-Web, and Connect protocol served from your existing app, with decorators, DI, and Context Contributors",
@@ -8786,6 +8870,18 @@
       "score": 56
     },
     {
+      "name": "@ghilteras/opencode-reasoning-pruner",
+      "version": "1.0.0",
+      "description": "Prunes historical reasoning parts from the message history sent to the LLM (keeping the last turn's), saving context window and tokens on reasoning models. Model-agnostic; uses the idiomatic experimental.chat.messages.transform hook.",
+      "license": "MIT",
+      "repository": "https://github.com/Ghilteras/opencode-reasoning-pruner",
+      "npmUrl": "https://www.npmjs.com/package/%40ghilteras%2Fopencode-reasoning-pruner",
+      "category": "data",
+      "createdAt": "2026-08-07T16:45:18.734Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 60
+    },
+    {
       "name": "@ghoul07/opencode-antigravity-auth",
       "version": "1.6.0",
       "description": "Google Antigravity IDE OAuth auth plugin for Opencode - access Gemini 3 Pro and Claude 4.6 using Google credentials",
@@ -8999,6 +9095,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-26T21:24:03.345Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/cgmb",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for CGMB (build etherscan-cgmb-cf068d28-1786123780186, commit 68ddf50, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/cgmb",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcgmb",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T17:30:04.324Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
       "score": 56
     },
     {
@@ -9612,6 +9720,18 @@
       "createdAt": "2026-08-01T17:49:49.779Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/nft-worlds",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for NFT Worlds (build etherscan-nft-worlds-bd4455da-1786122304542, commit fc235a3, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/nft-worlds",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fnft-worlds",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T17:05:28.610Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/nodeoperatorregistry",
@@ -11138,6 +11258,18 @@
       "score": 76
     },
     {
+      "name": "@hocinemk/ytdl-js",
+      "version": "1.0.0",
+      "description": "JS wrapper around the ytdl-core binary — JSON-in/JSON-out video downloads",
+      "license": "MIT",
+      "repository": "https://github.com/hocineMK03/ytdl-js",
+      "npmUrl": "https://www.npmjs.com/package/%40hocinemk%2Fytdl-js",
+      "category": "devops",
+      "createdAt": "2026-08-07T17:21:57.438Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 72
+    },
+    {
       "name": "@hokulanitopping/sync-client",
       "version": "0.1.0",
       "description": "Reusable offline-first sync layer (PowerSync) for company apps: local-first database client, REST upload connector, and sync-status UI.",
@@ -12374,6 +12506,18 @@
       "score": 80
     },
     {
+      "name": "@janfr/mcp-abap-adt",
+      "version": "2.1.0",
+      "description": "ABAP ADT (ABAP Development Tools) MCP Server for interacting with SAP systems",
+      "license": "MIT",
+      "repository": "https://github.com/janfrl/mcp-abap-adt",
+      "npmUrl": "https://www.npmjs.com/package/%40janfr%2Fmcp-abap-adt",
+      "category": "backend",
+      "createdAt": "2026-08-06T17:07:10.401Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 77
+    },
+    {
       "name": "@jango-blockchained/hoox-tui",
       "version": "0.1.8",
       "description": "Hoox algorithmic trading terminal operations center — OpenTUI dashboard",
@@ -12960,6 +13104,18 @@
       "createdAt": "2026-08-04T03:06:41.232Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 79
+    },
+    {
+      "name": "@kejue/sonus-web",
+      "version": "0.0.1",
+      "description": "Embed a Sonus voice agent in your own web app.",
+      "license": "MIT",
+      "repository": "https://github.com/KejueAI/sonus-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40kejue%2Fsonus-web",
+      "category": "utilities",
+      "createdAt": "2026-08-07T16:58:09.434Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 60
     },
     {
       "name": "@kelabome/agents",
@@ -20678,6 +20834,42 @@
       "score": 63
     },
     {
+      "name": "@rxova/react-file-input",
+      "version": "0.0.0",
+      "description": "A file picker and drop zone that validates, deduplicates and revokes its own preview URLs — and never uploads anything. Headless, zero-dependency.",
+      "license": "MIT",
+      "repository": "https://github.com/rxova/react-inputs",
+      "npmUrl": "https://www.npmjs.com/package/%40rxova%2Freact-file-input",
+      "category": "frontend",
+      "createdAt": "2026-08-07T17:11:17.266Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 82
+    },
+    {
+      "name": "@rxova/react-tags-input",
+      "version": "0.0.0",
+      "description": "A tag / token input with real roving-tabindex keyboard navigation and announced add and remove. Headless, zero-dependency.",
+      "license": "MIT",
+      "repository": "https://github.com/rxova/react-inputs",
+      "npmUrl": "https://www.npmjs.com/package/%40rxova%2Freact-tags-input",
+      "category": "frontend",
+      "createdAt": "2026-08-07T17:11:08.755Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 80
+    },
+    {
+      "name": "@rxova/react-time-input",
+      "version": "0.0.0",
+      "description": "A segmented, keyboard-first time field with no clock popup and no date library. 12/24-hour from Intl. Headless, zero-dependency.",
+      "license": "MIT",
+      "repository": "https://github.com/rxova/react-inputs",
+      "npmUrl": "https://www.npmjs.com/package/%40rxova%2Freact-time-input",
+      "category": "frontend",
+      "createdAt": "2026-08-07T17:10:58.503Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 80
+    },
+    {
       "name": "@safecore/aegis-cli",
       "version": "1.0.0",
       "description": "AEGIS CLI — orquestracao da frota: instancias, releases, canais, discos e diagnostico.",
@@ -23208,6 +23400,18 @@
       "createdAt": "2026-08-03T01:20:49.141Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 76
+    },
+    {
+      "name": "@team-volt/agent-lcm",
+      "version": "0.0.1",
+      "description": "Shared local context memory for agent harnesses.",
+      "license": "MIT",
+      "repository": "https://github.com/Team-Volt/agent-lcm",
+      "npmUrl": "https://www.npmjs.com/package/%40team-volt%2Fagent-lcm",
+      "category": "utilities",
+      "createdAt": "2026-08-07T16:48:07.874Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 62
     },
     {
       "name": "@teejeeh/skills",
@@ -27566,6 +27770,18 @@
       "score": 78
     },
     {
+      "name": "anylocale",
+      "version": "1.0.0",
+      "description": "Small locale-info reader — when you need to know text direction, first day of week, weekend, calendars and time zones for any locale, straight from native Intl.",
+      "license": "MIT",
+      "repository": "https://github.com/kirilinsky/anyfamily",
+      "npmUrl": "https://www.npmjs.com/package/anylocale",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T16:51:39.936Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 92
+    },
+    {
       "name": "anymail-mcp",
       "version": "1.1.0",
       "description": "Universal MCP server exposing any IMAP/SMTP mailbox (Gmail, Outlook, iCloud, Fastmail, ProtonMail, Yahoo, Zoho, any IMAP/SMTP server) as Model Context Protocol tools.",
@@ -30050,6 +30266,18 @@
       "score": 93
     },
     {
+      "name": "codesocket",
+      "version": "0.2.0",
+      "description": "CodeSocket desktop companion: headless WebSocket coding server that pairs with the iOS app, clones repos, runs the agent loop, and opens PRs.",
+      "license": "MIT",
+      "repository": "https://github.com/kind365/code-mobile-ai",
+      "npmUrl": "https://www.npmjs.com/package/codesocket",
+      "category": "backend",
+      "createdAt": "2026-08-07T17:22:43.003Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 62
+    },
+    {
       "name": "codex-agent-view",
       "version": "0.2.0",
       "description": "Local read-only companion monitor for Codex parent tasks and subagents.",
@@ -31644,6 +31872,18 @@
       "createdAt": "2026-08-04T23:05:12.417Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 60
+    },
+    {
+      "name": "diopsis",
+      "version": "0.1.0",
+      "description": "Visual regression for Storybook — diffs the static build; identical locally and in CI.",
+      "license": "MIT",
+      "repository": "https://github.com/triartleet/diopsis",
+      "npmUrl": "https://www.npmjs.com/package/diopsis",
+      "category": "testing",
+      "createdAt": "2026-08-07T17:04:00.533Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 74
     },
     {
       "name": "discord-html-transcript",
@@ -38054,6 +38294,18 @@
       "score": 62
     },
     {
+      "name": "monsocket",
+      "version": "0.1.0",
+      "description": "Socket.io for Monad — realtime multiplayer rooms, presence, broadcast and shared state where every action is an onchain transaction",
+      "license": "MIT",
+      "repository": "https://github.com/Pratikkale26/monsocket",
+      "npmUrl": "https://www.npmjs.com/package/monsocket",
+      "category": "utilities",
+      "createdAt": "2026-08-07T16:46:33.663Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 59
+    },
+    {
       "name": "monzo-sdk",
       "version": "1.0.0",
       "description": "A complete, type-safe, production-grade Node.js/TypeScript SDK for the Monzo API (OAuth2, Accounts, Balance, Pots, Transactions, Feed Items, Attachments, Receipts, Webhooks).",
@@ -41918,6 +42170,18 @@
       "score": 100
     },
     {
+      "name": "pph21",
+      "version": "1.0.1",
+      "description": "Indonesian employee income tax (PPh Pasal 21) calculator — PTKP, TER (PMK 168/2023), Article 17, BPJS, and PMK 105/2025 DTP, all as internal, upgradable constants.",
+      "license": "MIT",
+      "repository": "https://github.com/muhroyhan/pph21",
+      "npmUrl": "https://www.npmjs.com/package/pph21",
+      "category": "utilities",
+      "createdAt": "2026-08-07T14:56:02.604Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 78
+    },
+    {
       "name": "pptx-wasm",
       "version": "0.1.0",
       "description": "Browser-native, read-only .pptx renderer. Rust/WASM core, canvas output, no server-side conversion and nothing uploaded.",
@@ -42228,6 +42492,18 @@
       "createdAt": "2026-08-02T20:11:07.944Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 95
+    },
+    {
+      "name": "purejsimage",
+      "version": "0.2.0",
+      "description": "Low-memory, dependency-free image processing in pure TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/a-r-d/PureJsImage",
+      "npmUrl": "https://www.npmjs.com/package/purejsimage",
+      "category": "backend",
+      "createdAt": "2026-08-07T06:09:53.008Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 66
     },
     {
       "name": "purrfectionist",
@@ -45842,6 +46118,18 @@
       "score": 63
     },
     {
+      "name": "sui-analytics-mcp",
+      "version": "1.0.0",
+      "description": "Read-only Sui blockchain analytics: 47 tools, protocol-aware tx decoding, no API keys or wallet.",
+      "license": "MIT",
+      "repository": "https://github.com/0xfreak0/sui-mcp",
+      "npmUrl": "https://www.npmjs.com/package/sui-analytics-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-07T17:24:35.995Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 89
+    },
+    {
       "name": "summon-agents",
       "version": "0.1.0",
       "description": "Turn one approved plan into a team of AI coding agents that build it in parallel, in isolated git worktrees, from inside your editor.",
@@ -45960,6 +46248,18 @@
       "createdAt": "2026-08-01T18:25:01.819Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 84
+    },
+    {
+      "name": "sv-number-mcp",
+      "version": "1.0.0",
+      "description": "Phone numbers for AI agents: order a private number in any country, read the SMS verification code, hand it back.",
+      "license": "MIT",
+      "repository": "https://github.com/sv-number/mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/sv-number-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-07T16:55:49.512Z",
+      "discoveredAt": "2026-08-07T17:34:15.191Z",
+      "score": 60
     },
     {
       "name": "svelte-adapter-bunserve",
