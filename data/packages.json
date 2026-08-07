@@ -2714,6 +2714,30 @@
       "score": 92
     },
     {
+      "name": "@aws-sdk/client-agent-registry",
+      "version": "3.1106.0",
+      "description": "AWS SDK for JavaScript Agent Registry Client for Node.js, Browser and React Native",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aws/aws-sdk-js-v3",
+      "npmUrl": "https://www.npmjs.com/package/%40aws-sdk%2Fclient-agent-registry",
+      "category": "frontend",
+      "createdAt": "2026-08-06T19:07:24.776Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 57
+    },
+    {
+      "name": "@aws-sdk/client-agent-registry-control",
+      "version": "3.1106.0",
+      "description": "AWS SDK for JavaScript Agent Registry Control Client for Node.js, Browser and React Native",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aws/aws-sdk-js-v3",
+      "npmUrl": "https://www.npmjs.com/package/%40aws-sdk%2Fclient-agent-registry-control",
+      "category": "frontend",
+      "createdAt": "2026-08-06T19:07:25.535Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 69
+    },
+    {
       "name": "@aws-sdk/client-pricing-plan-manager",
       "version": "3.1099.0",
       "description": "AWS SDK for JavaScript Pricing Plan Manager Client for Node.js, Browser and React Native",
@@ -5402,6 +5426,18 @@
       "score": 83
     },
     {
+      "name": "@cycgraph/tools",
+      "version": "0.1.1",
+      "description": "Curated, plug-in tools for @cycgraph/orchestrator: SSRF-guarded web access and pure data utilities, built on defineTool.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/wmcmahan/cycgraph",
+      "npmUrl": "https://www.npmjs.com/package/%40cycgraph%2Ftools",
+      "category": "data",
+      "createdAt": "2026-08-04T13:52:16.683Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 59
+    },
+    {
       "name": "@cyronius/lm-ag-ui",
       "version": "1.1.0",
       "description": "React hooks and utilities for building chat interfaces powered by the AG-UI streaming protocol.",
@@ -5556,6 +5592,18 @@
       "createdAt": "2026-08-04T05:29:16.704Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 90
+    },
+    {
+      "name": "@dawn-ai/postgres-storage",
+      "version": "0.8.19",
+      "description": "<p align=\"center\">   <img src=\"https://raw.githubusercontent.com/cacheplane/dawnai/main/docs/brand/dawn-logo-horizontal-black-on-white.png\" alt=\"Dawn\" width=\"180\" /> </p>",
+      "license": "MIT",
+      "repository": "https://github.com/cacheplane/dawnai",
+      "npmUrl": "https://www.npmjs.com/package/%40dawn-ai%2Fpostgres-storage",
+      "category": "backend",
+      "createdAt": "2026-08-07T18:47:46.408Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 60
     },
     {
       "name": "@dawod/thmanyah-font-web",
@@ -5784,6 +5832,18 @@
       "createdAt": "2026-07-27T06:15:23.886Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 71
+    },
+    {
+      "name": "@devdotdebuger/argus-sdk",
+      "version": "1.0.0",
+      "description": "Production-grade TypeScript SDK for the Argus verification platform",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/argus-ai/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40devdotdebuger%2Fargus-sdk",
+      "category": "data",
+      "createdAt": "2026-08-07T18:43:38.330Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 67
     },
     {
       "name": "@developerehsan/nextjs-logger",
@@ -6804,6 +6864,18 @@
       "createdAt": "2026-08-04T10:52:42.117Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 73
+    },
+    {
+      "name": "@dofek/peloton",
+      "version": "0.1.1",
+      "description": "Unofficial Peloton API client with reverse-engineered Auth0 authentication",
+      "license": "MIT",
+      "repository": "https://github.com/Asherlc/dofek",
+      "npmUrl": "https://www.npmjs.com/package/%40dofek%2Fpeloton",
+      "category": "backend",
+      "createdAt": "2026-07-26T04:42:56.886Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 55
     },
     {
       "name": "@dokieli/notifications",
@@ -9770,6 +9842,18 @@
       "score": 61
     },
     {
+      "name": "@gitmyabi/mutm",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MUTM (build etherscan-mutm-26bdee9e-1786128411866, commit 8bde5e1, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mutm",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmutm",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T18:47:16.906Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/myrt",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for MYRT (build etherscan-myrt-3fc98a88-1786079218431, commit c541e3f, branch etherscan)",
@@ -9948,6 +10032,18 @@
       "createdAt": "2026-08-01T10:13:05.331Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 60
+    },
+    {
+      "name": "@gitmyabi/pt-sena-24apr2025",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PT-sENA-24APR2025 (build etherscan-pt-sena-24apr2025-e0e4d07e-1786131472931, commit e0d5969, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/pt-sena-24apr2025",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpt-sena-24apr2025",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T19:38:16.198Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 59
     },
     {
       "name": "@gitmyabi/rariminev3",
@@ -10836,6 +10932,18 @@
       "createdAt": "2026-07-29T03:25:48.569Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 72
+    },
+    {
+      "name": "@gubernaut/core",
+      "version": "1.0.1",
+      "description": "The Gubernaut controller, in-process, for JavaScript. A deterministic runtime governor for LLM agents that reads three bounded numbers and no tokens, and hard-stops runaway loops. Embedded wasm, no dependencies, runs in Node, Deno, Bun, workerd and the br",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/thegubernaut/gubernaut",
+      "npmUrl": "https://www.npmjs.com/package/%40gubernaut%2Fcore",
+      "category": "devops",
+      "createdAt": "2026-08-07T18:45:36.092Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 85
     },
     {
       "name": "@gubernaut/plugin-gcc",
@@ -13680,6 +13788,18 @@
       "createdAt": "2026-08-07T16:14:58.288Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 70
+    },
+    {
+      "name": "@launchdarkly/ai-server",
+      "version": "0.1.1",
+      "description": "LaunchDarkly AI client core",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/launchdarkly/js-ai-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40launchdarkly%2Fai-server",
+      "category": "backend",
+      "createdAt": "2026-08-05T23:54:27.695Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 62
     },
     {
       "name": "@ledgerproof/queue",
@@ -18444,6 +18564,18 @@
       "createdAt": "2026-08-04T17:30:41.593Z",
       "discoveredAt": "2026-08-04T18:19:51.652Z",
       "score": 71
+    },
+    {
+      "name": "@pensketch/core",
+      "version": "0.1.0",
+      "description": "Hand-sketched SVG diagrams from plain data. Tiny, seeded, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/alpha-nu/pensketch",
+      "npmUrl": "https://www.npmjs.com/package/%40pensketch%2Fcore",
+      "category": "data",
+      "createdAt": "2026-08-07T18:53:06.646Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 54
     },
     {
       "name": "@peoples-court/x402-disputes",
@@ -25322,6 +25454,18 @@
       "score": 70
     },
     {
+      "name": "@vetojs/core",
+      "version": "0.1.0",
+      "description": "Type-safe authorization for TypeScript where rules are data. RSC-native, compiles to SQL, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/ivan-yuldashev/veto",
+      "npmUrl": "https://www.npmjs.com/package/%40vetojs%2Fcore",
+      "category": "data",
+      "createdAt": "2026-08-07T19:02:49.519Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 57
+    },
+    {
       "name": "@vetox-bot/vito",
       "version": "1.0.0",
       "description": "Official Node.js SDK for the Vito API — check balances, charge users, pay users out, and verify webhooks for the Vito virtual currency.",
@@ -25332,6 +25476,18 @@
       "createdAt": "2026-07-29T07:45:23.362Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 91
+    },
+    {
+      "name": "@videohati/node",
+      "version": "2.0.0",
+      "description": "Official Node.js SDK for the Videohati video platform API",
+      "license": "MIT",
+      "repository": "https://github.com/videohati/videohati",
+      "npmUrl": "https://www.npmjs.com/package/%40videohati%2Fnode",
+      "category": "backend",
+      "createdAt": "2026-08-04T01:53:36.621Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 57
     },
     {
       "name": "@vigdx/flipbook",
@@ -25596,6 +25752,18 @@
       "createdAt": "2026-08-01T11:09:49.951Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 78
+    },
+    {
+      "name": "@walkcroach/sdk",
+      "version": "0.2.0",
+      "description": "Typed client for the WalkCroach agentic memory layer — durable, tenant-scoped, provenance-preserving memory on CockroachDB",
+      "license": "MIT",
+      "repository": "https://github.com/Tolu-Orina/walkcroach",
+      "npmUrl": "https://www.npmjs.com/package/%40walkcroach%2Fsdk",
+      "category": "cli",
+      "createdAt": "2026-08-07T18:33:32.105Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 60
     },
     {
       "name": "@warpfx/mcp",
@@ -27914,6 +28082,18 @@
       "score": 78
     },
     {
+      "name": "anu-whatsapp",
+      "version": "0.1.0",
+      "description": "Composable TypeScript SDK for the WhatsApp Business API.",
+      "license": "MIT",
+      "repository": "https://github.com/zeeetech/anu-ts",
+      "npmUrl": "https://www.npmjs.com/package/anu-whatsapp",
+      "category": "backend",
+      "createdAt": "2026-08-07T19:32:57.487Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 63
+    },
+    {
       "name": "anylocale",
       "version": "1.0.0",
       "description": "Small locale-info reader — when you need to know text direction, first day of week, weekend, calendars and time zones for any locale, straight from native Intl.",
@@ -28308,6 +28488,18 @@
       "createdAt": "2026-07-31T20:30:18.091Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 53
+    },
+    {
+      "name": "atman-guru",
+      "version": "0.1.0",
+      "description": "Atman, um Guru Digital Interativo para conversa, journal e autoconhecimento.",
+      "license": "MIT",
+      "repository": "https://github.com/N1ghthill/atman-guru",
+      "npmUrl": "https://www.npmjs.com/package/atman-guru",
+      "category": "devops",
+      "createdAt": "2026-08-07T18:55:12.502Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 69
     },
     {
       "name": "atnfc.js",
@@ -29075,6 +29267,18 @@
       "category": "backend",
       "createdAt": "2026-07-30T22:36:11.147Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
+      "score": 66
+    },
+    {
+      "name": "btw-enhanced",
+      "version": "1.1.1",
+      "description": "omp extension: /btww — a multi-turn /btw. Ephemeral side conversation with follow-up questions, without polluting the main session context.",
+      "license": "MIT",
+      "repository": "https://github.com/Dani-Sh/btw-enhanced",
+      "npmUrl": "https://www.npmjs.com/package/btw-enhanced",
+      "category": "utilities",
+      "createdAt": "2026-08-07T19:05:11.126Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
       "score": 66
     },
     {
@@ -33146,6 +33350,18 @@
       "score": 74
     },
     {
+      "name": "expovatar",
+      "version": "0.0.1",
+      "description": "Deterministic avatars from any string for React Native + Expo — gradient & dither, Skia-rendered. A port of hashvatar.",
+      "license": "MIT",
+      "repository": "https://github.com/ministic-dev/expovatar",
+      "npmUrl": "https://www.npmjs.com/package/expovatar",
+      "category": "frontend",
+      "createdAt": "2026-08-07T18:47:12.919Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 61
+    },
+    {
       "name": "express-audit",
       "version": "0.1.1",
       "description": "Deterministic security and production readiness auditor for Express.js applications.",
@@ -33180,6 +33396,18 @@
       "createdAt": "2026-08-04T21:51:49.499Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 71
+    },
+    {
+      "name": "express-idempotency-keys",
+      "version": "0.1.0",
+      "description": "Stripe-style idempotency keys for Express. Safe retries for POST/PATCH/PUT/DELETE, with correct behaviour under concurrency. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/milonpatowary/express-idempotency",
+      "npmUrl": "https://www.npmjs.com/package/express-idempotency-keys",
+      "category": "backend",
+      "createdAt": "2026-08-07T19:19:07.411Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 84
     },
     {
       "name": "express-leak-detector",
@@ -35424,6 +35652,18 @@
       "createdAt": "2026-08-02T13:49:36.051Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 77
+    },
+    {
+      "name": "hwjcode-personal",
+      "version": "1.1.122",
+      "description": "<div align=\"center\">",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hwj123hwj/hwjcode",
+      "npmUrl": "https://www.npmjs.com/package/hwjcode-personal",
+      "category": "cli",
+      "createdAt": "2026-08-06T17:33:01.459Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 60
     },
     {
       "name": "hydrargyri",
@@ -39542,6 +39782,18 @@
       "score": 66
     },
     {
+      "name": "nferapido",
+      "version": "0.1.0",
+      "description": "SDK oficial do NFeRápido — emissão de NF-e, NFC-e, NFS-e (municipal e nacional), CT-e, MDF-e e mais, com idempotência e verificação de webhook",
+      "license": "MIT",
+      "repository": "https://github.com/valedosul55-sketch/nferapido",
+      "npmUrl": "https://www.npmjs.com/package/nferapido",
+      "category": "backend",
+      "createdAt": "2026-08-07T18:48:16.681Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 62
+    },
+    {
       "name": "ng-hub-ui-history",
       "version": "22.0.0",
       "description": "Signal-based multi-object undo/redo history store for Angular applications",
@@ -39816,6 +40068,18 @@
       "createdAt": "2026-08-01T05:30:19.421Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 72
+    },
+    {
+      "name": "nottpr",
+      "version": "1.0.0",
+      "description": "A Node.js JS/TS library for alttpr.com",
+      "license": "MIT",
+      "repository": "https://github.com/JaxxyIV/nottpr",
+      "npmUrl": "https://www.npmjs.com/package/nottpr",
+      "category": "frontend",
+      "createdAt": "2026-08-07T18:43:35.803Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 81
     },
     {
       "name": "novacheck",
@@ -41424,6 +41688,18 @@
       "createdAt": "2026-08-04T08:47:28.757Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 80
+    },
+    {
+      "name": "pi-auto-classifier",
+      "version": "1.1.0",
+      "description": "Pi extension that classifies every final assistant reply against markdown output rules and asks the model to rewrite violations. Ships with an ASD-STE100 Simplified Technical English + TLDR rule.",
+      "license": "MIT",
+      "repository": "https://github.com/marcoskichel/pi-auto-classifier",
+      "npmUrl": "https://www.npmjs.com/package/pi-auto-classifier",
+      "category": "utilities",
+      "createdAt": "2026-08-06T18:45:09.903Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 61
     },
     {
       "name": "pi-browse-replies",
@@ -46274,6 +46550,18 @@
       "score": 84
     },
     {
+      "name": "stratalib",
+      "version": "0.1.1",
+      "description": "StrataLib — MCP server for pre-built code patterns (recalls)",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/eymenoob000-droid/strata",
+      "npmUrl": "https://www.npmjs.com/package/stratalib",
+      "category": "backend",
+      "createdAt": "2026-08-07T19:07:58.920Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 72
+    },
+    {
       "name": "stratum-db",
       "version": "0.1.0",
       "description": "A single-file embedded database with automatic, zero-config version history. SQLite's ergonomics, git's memory.",
@@ -47772,6 +48060,18 @@
       "createdAt": "2026-08-05T17:06:49.024Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 84
+    },
+    {
+      "name": "udodi",
+      "version": "1.0.1",
+      "description": "A lightweight UI/component framework",
+      "license": "MIT",
+      "repository": "https://github.com/udodi-js/udodi",
+      "npmUrl": "https://www.npmjs.com/package/udodi",
+      "category": "utilities",
+      "createdAt": "2026-08-07T13:48:23.046Z",
+      "discoveredAt": "2026-08-07T19:38:29.763Z",
+      "score": 56
     },
     {
       "name": "uganda-locale",

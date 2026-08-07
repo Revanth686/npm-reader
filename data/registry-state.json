@@ -1,27 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123874647,
-  "lastRunAt": "2026-08-07T18:42:17.651Z",
+  "lastSequence": 123883926,
+  "lastRunAt": "2026-08-07T19:38:29.763Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@rbxst/services",
+      "attempts": 2
+    },
+    {
+      "name": "@pr3tik/fyuz",
       "attempts": 1
     },
     {
-      "name": "@kdjlk/my-wasm-app",
+      "name": "@qfioofa/s21-api",
       "attempts": 1
     },
     {
-      "name": "@hiai-gg/agent-plugin-builder",
-      "attempts": 1
-    },
-    {
-      "name": "@agentblog/schema",
-      "attempts": 1
-    },
-    {
-      "name": "@jishnuteegala/stalelink",
+      "name": "@jarwizz/create-jarshop",
       "attempts": 1
     }
   ]
