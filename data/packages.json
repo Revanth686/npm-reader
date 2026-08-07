@@ -1886,6 +1886,18 @@
       "score": 74
     },
     {
+      "name": "@app-swiss-knife/react-native-sdk",
+      "version": "0.1.1",
+      "description": "Subscriptions-only React Native SDK for App Swiss Knife — a drop-in replacement for RevenueCat's react-native-purchases public API.",
+      "license": "MIT",
+      "repository": "https://github.com/Remneys/swiss-knife",
+      "npmUrl": "https://www.npmjs.com/package/%40app-swiss-knife%2Freact-native-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-05T11:19:38.282Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 62
+    },
+    {
       "name": "@appouse/godaddy-dns-mcp",
       "version": "0.1.0",
       "description": "Model Context Protocol (MCP) server for managing GoDaddy DNS records — list, add, replace and delete records from Claude and other AI assistants.",
@@ -5270,6 +5282,18 @@
       "score": 69
     },
     {
+      "name": "@deriv-com/quill-motion-web",
+      "version": "1.0.0",
+      "description": "Video/motion asset URLs for Deriv's Quill design system, synced from Frontify.",
+      "license": "MIT",
+      "repository": "https://github.com/deriv-com/product-design-quill-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40deriv-com%2Fquill-motion-web",
+      "category": "frontend",
+      "createdAt": "2026-08-07T09:10:37.284Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 57
+    },
+    {
       "name": "@desek/pi-opentelemetry",
       "version": "0.1.0",
       "description": "pi coding-agent extension that exports OpenTelemetry metrics, log events, and traces over OTLP gRPC, at parity with Claude Code's built-in telemetry. It installs as a no-op: it emits nothing unless enabled, stays silent when no collector is reachable, and",
@@ -8402,6 +8426,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/capiflowpool",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for CapiflowPool (build etherscan-capiflowpool-4303b936-1786095304738, commit 7ddd01c, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/capiflowpool",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcapiflowpool",
+      "category": "backend",
+      "createdAt": "2026-08-07T09:35:29.704Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/cate",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for CATE (build etherscan-cate-a0045305-1785101018056, commit 4f0db8a, branch etherscan)",
@@ -8750,6 +8786,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/hyper",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for HYPER (build etherscan-hyper-a86c39fa-1786093338755, commit b26065e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/hyper",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fhyper",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T09:02:41.261Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/ind",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for IND (build etherscan-ind-167cb3f2-1784997627864, commit e1bf35b, branch etherscan)",
@@ -8988,6 +9036,18 @@
       "createdAt": "2026-08-01T17:49:49.779Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/nodeoperatorregistry",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for NodeOperatorRegistry (build etherscan-nodeoperatorregistry-aae0b305-1786095264800, commit 9fcb617, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/nodeoperatorregistry",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fnodeoperatorregistry",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T09:34:49.434Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/normies",
@@ -12312,6 +12372,18 @@
       "createdAt": "2026-08-01T12:17:23.376Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 71
+    },
+    {
+      "name": "@klaroshield/sdk",
+      "version": "0.2.0",
+      "description": "The AI Runtime every AI application installs on Day 1 -- retries, budget control, secret/PII redaction, structured output validation, and local logging for LLM calls. Zero required cloud account.",
+      "license": "MIT",
+      "repository": "https://github.com/Klaro-tech/klaroshield-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40klaroshield%2Fsdk",
+      "category": "devops",
+      "createdAt": "2026-08-07T09:06:27.286Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 62
     },
     {
       "name": "@klucznik/react-sortable-tree",
@@ -18998,6 +19070,42 @@
       "score": 65
     },
     {
+      "name": "@ridewolf/city-flythrough",
+      "version": "0.1.1",
+      "description": "A procedural city with living traffic on a 2D canvas: deterministic world generation, traffic lights, roundabouts, lane changes, and adaptive performance. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Ridewolf/city-flythrough",
+      "npmUrl": "https://www.npmjs.com/package/%40ridewolf%2Fcity-flythrough",
+      "category": "data",
+      "createdAt": "2026-08-07T09:00:15.371Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 72
+    },
+    {
+      "name": "@ridewolf/maplibre-zone-editor",
+      "version": "0.1.1",
+      "description": "Headless polygon zone editor for MapLibre GL on top of mapbox-gl-draw: draw/edit modes, undo stack, double-click vertex deletion with a triangle guard, and clean geometry events. Framework-agnostic.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Ridewolf/maplibre-zone-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40ridewolf%2Fmaplibre-zone-editor",
+      "category": "cli",
+      "createdAt": "2026-08-07T09:09:07.154Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 73
+    },
+    {
+      "name": "@ridewolf/track-playback",
+      "version": "0.1.1",
+      "description": "GPS track replay engine: wall-clock interpolation, parked-drift de-jitter, stop/speeding timeline markers, and a speed-coloured scrubber gradient. Pure TS core + optional Vue 3 adapter.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Ridewolf/track-playback",
+      "npmUrl": "https://www.npmjs.com/package/%40ridewolf%2Ftrack-playback",
+      "category": "frontend",
+      "createdAt": "2026-08-07T08:50:17.634Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 77
+    },
+    {
       "name": "@rios0rios0/backstage-plugin-code-health",
       "version": "1.0.0",
       "description": "Backstage frontend plugin that shows CI status, releases, tags, compliance checks and contributor metrics for every GitHub and Azure DevOps repository",
@@ -20004,6 +20112,18 @@
       "createdAt": "2026-07-28T04:33:10.407Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 78
+    },
+    {
+      "name": "@sentdm/n8n-nodes-sent",
+      "version": "0.1.1",
+      "description": "Send SMS, WhatsApp and RCS messages with Sent, look up numbers, read delivery status, and start workflows from verified Sent webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/sentdm/n8n-nodes-sent",
+      "npmUrl": "https://www.npmjs.com/package/%40sentdm%2Fn8n-nodes-sent",
+      "category": "utilities",
+      "createdAt": "2026-08-07T08:50:29.577Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 77
     },
     {
       "name": "@sentinel-ai-sdk/agent",
@@ -22082,6 +22202,30 @@
       "score": 67
     },
     {
+      "name": "@tenilla/components",
+      "version": "0.0.2",
+      "description": "Common components for Tenilla",
+      "license": "MIT",
+      "repository": "https://github.com/baendlorel/tenilla",
+      "npmUrl": "https://www.npmjs.com/package/%40tenilla%2Fcomponents",
+      "category": "frontend",
+      "createdAt": "2026-08-07T08:53:24.236Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 60
+    },
+    {
+      "name": "@tenilla/core",
+      "version": "0.0.3",
+      "description": "Core utilities for Tenilla",
+      "license": "MIT",
+      "repository": "https://github.com/baendlorel/tenilla",
+      "npmUrl": "https://www.npmjs.com/package/%40tenilla%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-07T08:53:05.906Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 60
+    },
+    {
       "name": "@tenkicloud/agentbox-provider",
       "version": "0.1.0",
       "description": "Tenki provider plugin for AgentBox — run coding agents in Tenki Firecracker microVMs",
@@ -23954,6 +24098,18 @@
       "score": 75
     },
     {
+      "name": "@warpgogol/repo-extract",
+      "version": "1.1.0",
+      "description": "Extract apps and packages from a TurboRepo monorepo into standalone public repositories",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/syrokomskyi/repo-extract",
+      "npmUrl": "https://www.npmjs.com/package/%40warpgogol%2Frepo-extract",
+      "category": "utilities",
+      "createdAt": "2026-08-07T09:10:09.996Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 62
+    },
+    {
       "name": "@wasm-gaming/celeste-wasm",
       "version": "0.1.0",
       "description": "Celeste + the Everest mod loader running on the .NET WebAssembly runtime, with a JS SDK conforming to the wasm-gaming engine contract.",
@@ -24648,6 +24804,18 @@
       "createdAt": "2026-07-27T00:40:31.672Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 62
+    },
+    {
+      "name": "@zakhm_sa/qr-code-styling",
+      "version": "2.0.0",
+      "description": "Add a style and an image to your QR code",
+      "license": "MIT",
+      "repository": "https://github.com/7odaifa-ab/qr-code-styling",
+      "npmUrl": "https://www.npmjs.com/package/%40zakhm_sa%2Fqr-code-styling",
+      "category": "utilities",
+      "createdAt": "2026-08-07T08:55:35.259Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 84
     },
     {
       "name": "@zakkster/lite-overlap",
@@ -25632,6 +25800,18 @@
       "createdAt": "2026-07-31T09:25:54.404Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 82
+    },
+    {
+      "name": "agnost-ai-adapter",
+      "version": "0.2.0",
+      "description": "Zero-friction observability wrapper for Vercel AI, OpenAI, Google GenAI, and Mastra agents — automatic telemetry with one line of code",
+      "license": "MIT",
+      "repository": "https://github.com/Sekharendu/Agnost-AI-Adapter",
+      "npmUrl": "https://www.npmjs.com/package/agnost-ai-adapter",
+      "category": "utilities",
+      "createdAt": "2026-08-07T09:01:59.577Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 83
     },
     {
       "name": "ai-commander",
@@ -26966,6 +27146,18 @@
       "score": 81
     },
     {
+      "name": "bnr-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official National Bank of Romania (Romania) daily exchange rates — ~37 currencies vs RON, history since 2005. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/bnr-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/bnr-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-08-07T09:38:11.677Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 65
+    },
+    {
       "name": "boltpatternhq-mcp",
       "version": "1.0.0",
       "description": "Official BoltPatternHQ MCP Server for instant automotive wheel fitment, PCD (Pitch Circle Diameter), center bore, thread size, and offset data query.",
@@ -27216,6 +27408,18 @@
       "createdAt": "2026-07-25T16:47:03.576Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 73
+    },
+    {
+      "name": "buildstory-scan",
+      "version": "0.7.0",
+      "description": "BuildStory read-only local scanner for privacy-preserving AI-assisted project snapshots.",
+      "license": "MIT",
+      "repository": "https://github.com/Arjun-Mishra-312/buildStory",
+      "npmUrl": "https://www.npmjs.com/package/buildstory-scan",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T09:13:33.386Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 72
     },
     {
       "name": "bun-plugin-qiankun",
@@ -27552,6 +27756,18 @@
       "createdAt": "2026-07-27T13:28:22.487Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 90
+    },
+    {
+      "name": "cc-fix",
+      "version": "0.1.0",
+      "description": "Claude Code 环境安全检测与修复 CLI 工具",
+      "license": "MIT",
+      "repository": "https://github.com/gongyijie85/cc-fix",
+      "npmUrl": "https://www.npmjs.com/package/cc-fix",
+      "category": "cli",
+      "createdAt": "2026-08-07T09:32:20.984Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 70
     },
     {
       "name": "ccbeam",
@@ -33974,6 +34190,18 @@
       "score": 73
     },
     {
+      "name": "juror-ai",
+      "version": "1.1.0",
+      "description": "Multi-model PR review that shows you the bill. Duplicate findings collapse into one, with optional agreement filtering.",
+      "license": "MIT",
+      "repository": "https://github.com/juror-ai/juror",
+      "npmUrl": "https://www.npmjs.com/package/juror-ai",
+      "category": "utilities",
+      "createdAt": "2026-08-07T09:09:48.597Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 83
+    },
+    {
       "name": "just-another-sdk",
       "version": "0.1.0",
       "description": "A TypeScript agent SDK with zero runtime dependencies. Define an agent, give it tools, run the loop, get a typed result.",
@@ -34958,6 +35186,18 @@
       "score": 83
     },
     {
+      "name": "lorem-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for Lorem, the design-first AI slide deck editor: read and write decks as code, run the full AI pipeline (outline → build → quality loop → agentic edit), generate imagery, and export native PPTX/PDF — live against a running Lorem server.",
+      "license": "MIT",
+      "repository": "https://github.com/AnkitaShanbhag30/lorem",
+      "npmUrl": "https://www.npmjs.com/package/lorem-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-07T09:21:12.063Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 60
+    },
+    {
       "name": "loreweave",
       "version": "0.1.0",
       "description": "A temporal knowledge engine for markdown vaults — indexes, links, remembers, forgets, and dreams. Local-first, agent-ready (MCP).",
@@ -35556,6 +35796,18 @@
       "createdAt": "2026-08-06T04:12:47.731Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
       "score": 81
+    },
+    {
+      "name": "mcp-recipes",
+      "version": "1.0.0",
+      "description": "MCP server that asks Marmiton and the Wikibooks Cookbook at once, merges the answers, and scales quantities in French and English. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-recipes",
+      "npmUrl": "https://www.npmjs.com/package/mcp-recipes",
+      "category": "backend",
+      "createdAt": "2026-08-07T09:23:29.568Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 95
     },
     {
       "name": "mcp-sandbox",
@@ -36840,6 +37092,18 @@
       "createdAt": "2026-07-26T22:39:23.740Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 86
+    },
+    {
+      "name": "nbu-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official National Bank of Ukraine (Ukraine) daily exchange rates — ~45 currencies vs UAH, history since 1996. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/nbu-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/nbu-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-08-07T09:38:13.672Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 65
     },
     {
       "name": "nepali-date-utils",
@@ -38642,6 +38906,18 @@
       "score": 75
     },
     {
+      "name": "penpot-axi",
+      "version": "0.1.0",
+      "description": "Agent ergonomic CLI over the Penpot MCP. Inspect, read, export, and script Penpot designs with token-efficient TOON output. Prefer this over the raw Penpot MCP tools.",
+      "license": "MIT",
+      "repository": "https://github.com/rhyumiranda/penpot-axi",
+      "npmUrl": "https://www.npmjs.com/package/penpot-axi",
+      "category": "cli",
+      "createdAt": "2026-08-07T09:13:17.669Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 60
+    },
+    {
       "name": "pg-hybrid-rrf",
       "version": "0.1.0",
       "description": "Hybrid search on Postgres (pgvector + full-text) fused by Reciprocal Rank Fusion, because adding a bounded cosine score to an unbounded ts_rank_cd does not do what the weights say.",
@@ -39384,6 +39660,18 @@
       "createdAt": "2026-08-02T10:50:43.237Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 82
+    },
+    {
+      "name": "pixi-rn",
+      "version": "0.1.0",
+      "description": "pixi.js v8 inside React Native on expo-gl: renderer bring-up, retained flex layout, federated native input, texture upload, bitmap text, and a frame loop.",
+      "license": "MIT",
+      "repository": "https://github.com/pserrer/pixi-rn",
+      "npmUrl": "https://www.npmjs.com/package/pixi-rn",
+      "category": "frontend",
+      "createdAt": "2026-08-07T09:32:47.904Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 81
     },
     {
       "name": "pkgpulse-mcp",
@@ -44004,6 +44292,18 @@
       "createdAt": "2026-07-25T15:26:41.678Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 66
+    },
+    {
+      "name": "tenilla",
+      "version": "0.0.3",
+      "description": "A lightweight DOM manipulation framework",
+      "license": "MIT",
+      "repository": "https://github.com/baendlorel/tenilla",
+      "npmUrl": "https://www.npmjs.com/package/tenilla",
+      "category": "frontend",
+      "createdAt": "2026-08-07T08:53:12.173Z",
+      "discoveredAt": "2026-08-07T09:44:09.958Z",
+      "score": 62
     },
     {
       "name": "terms-acceptance",

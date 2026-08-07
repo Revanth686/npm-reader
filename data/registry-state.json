@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123773507,
-  "lastRunAt": "2026-08-07T08:48:04.179Z",
+  "lastSequence": 123784348,
+  "lastRunAt": "2026-08-07T09:44:09.958Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@dagnam/contracts",
+      "name": "@bayoudhi/moose-cli-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@bayoudhi/moose-cli-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@bayoudhi/moose-cli-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@encypherai/c2pa",
+      "attempts": 1
+    },
+    {
+      "name": "dolyame-ui-draghoc",
       "attempts": 1
     }
   ]
