@@ -1,27 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123784348,
-  "lastRunAt": "2026-08-07T09:44:09.958Z",
+  "lastSequence": 123795238,
+  "lastRunAt": "2026-08-07T10:43:40.182Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@bayoudhi/moose-cli-linux-arm64",
+      "name": "@dingjiansoft168/bdt-customer-mcp",
       "attempts": 1
     },
     {
-      "name": "@bayoudhi/moose-cli-darwin-arm64",
+      "name": "@ouhaibing/customer-mcp",
       "attempts": 1
     },
     {
-      "name": "@bayoudhi/moose-cli-linux-x64",
+      "name": "@xenonlabs/provider",
       "attempts": 1
     },
     {
-      "name": "@encypherai/c2pa",
+      "name": "@deckflow/deckrender",
       "attempts": 1
     },
     {
-      "name": "dolyame-ui-draghoc",
+      "name": "@oddment/booki",
+      "attempts": 1
+    },
+    {
+      "name": "@intisy-ai/core",
       "attempts": 1
     }
   ]
