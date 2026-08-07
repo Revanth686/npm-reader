@@ -1,11 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123705926,
-  "lastRunAt": "2026-08-06T23:51:21.775Z",
+  "lastSequence": 123721562,
+  "lastRunAt": "2026-08-07T02:12:46.077Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@texoport/effect-parser-combinators",
+      "name": "@blackbox-labs-llc/axis-cli-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@blackbox-labs-llc/axis-cli-darwin-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@blackbox-labs-llc/axis-cli-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@blackbox-labs-llc/axis-cli-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@blackbox-labs-llc/axis-cli-win32-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@blackbox-labs-llc/axis-cli",
+      "attempts": 1
+    },
+    {
+      "name": "@viloris/zeph",
       "attempts": 1
     }
   ]
