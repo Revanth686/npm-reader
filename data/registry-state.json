@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123890627,
-  "lastRunAt": "2026-08-07T20:32:09.037Z",
+  "lastSequence": 123896055,
+  "lastRunAt": "2026-08-07T21:18:12.811Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@rbxst/services",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@machize/storage-azure",
+      "name": "@prss/docs-theme",
       "attempts": 1
     },
     {
-      "name": "@machize/storage-gcs",
+      "name": "@sunku/email-builder",
       "attempts": 1
     }
   ]
