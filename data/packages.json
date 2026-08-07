@@ -1958,6 +1958,18 @@
       "score": 85
     },
     {
+      "name": "@arcanemachine/inter-agent-pi",
+      "version": "0.2.1",
+      "description": "Pi extension for connecting to the inter-agent message bus",
+      "license": "MIT",
+      "repository": "https://github.com/arcanemachine/inter-agent-pi",
+      "npmUrl": "https://www.npmjs.com/package/%40arcanemachine%2Finter-agent-pi",
+      "category": "utilities",
+      "createdAt": "2026-08-07T08:13:57.366Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 63
+    },
+    {
       "name": "@arch-network/wallet-connect-kit",
       "version": "0.1.0",
       "description": "Wallet connect SDK for Arch Network apps: Bitcoin wallets (via LaserEyes), the Arch Wallet extension, and Turnkey Wallet Hub passkey/email wallets — headless core, React hooks, and a themeable connect modal.",
@@ -4706,6 +4718,30 @@
       "score": 73
     },
     {
+      "name": "@constructorfleet/extension-media-removal",
+      "version": "1.0.1",
+      "description": "Seerr extension: lets users request removal of media they requested.",
+      "license": "MIT",
+      "repository": "https://github.com/constructorfleet/seerr-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40constructorfleet%2Fextension-media-removal",
+      "category": "utilities",
+      "createdAt": "2026-08-07T10:51:28.403Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 66
+    },
+    {
+      "name": "@constructorfleet/extension-sdk",
+      "version": "1.0.1",
+      "description": "Types and helpers for building Seerr extensions.",
+      "license": "MIT",
+      "repository": "https://github.com/constructorfleet/seerr",
+      "npmUrl": "https://www.npmjs.com/package/%40constructorfleet%2Fextension-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T10:45:23.392Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 72
+    },
+    {
       "name": "@contensu/directus-extension-image-carousel-interface",
       "version": "1.0.1",
       "description": "A Directus interface that presents the image files linked to an item as a browsable carousel, with thumbnails, autoplay, and keyboard navigation.",
@@ -5258,6 +5294,18 @@
       "score": 78
     },
     {
+      "name": "@deckflow/deckrender",
+      "version": "0.1.0",
+      "description": "Render any document format into visual artifacts. PPTX, PDF, DOCX, Keynote, HTML and Markdown to images, PDF or video.",
+      "license": "MIT",
+      "repository": "https://github.com/deckflow/deckrender",
+      "npmUrl": "https://www.npmjs.com/package/%40deckflow%2Fdeckrender",
+      "category": "data",
+      "createdAt": "2026-08-07T10:41:49.856Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 67
+    },
+    {
       "name": "@deepak.tewatia/todo-cli",
       "version": "1.0.1",
       "description": "Interactive terminal task management for developers",
@@ -5436,6 +5484,18 @@
       "createdAt": "2026-08-05T20:55:41.297Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 77
+    },
+    {
+      "name": "@devlite/express",
+      "version": "0.1.1",
+      "description": "DevLite Node.js SDK — AI-powered observability with 1-3 line integration. Automatic error grouping, source context, user impact tracking, and sensitive-data scrubbing built in.",
+      "license": "MIT",
+      "repository": "https://github.com/ishvexa-hub/devlite-node",
+      "npmUrl": "https://www.npmjs.com/package/%40devlite%2Fexpress",
+      "category": "backend",
+      "createdAt": "2026-08-07T10:49:24.752Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 74
     },
     {
       "name": "@devotel-orbit/mcp-server",
@@ -6314,6 +6374,18 @@
       "score": 72
     },
     {
+      "name": "@docling/docling-client",
+      "version": "0.2.0",
+      "description": "TypeScript client for Docling Serve and Docling for IBM watsonx.",
+      "license": "MIT",
+      "repository": "https://github.com/docling-project/docling-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40docling%2Fdocling-client",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T11:29:51.364Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 66
+    },
+    {
       "name": "@docon/staff-portal",
       "version": "1.0.1",
       "description": "Standalone Thyrocare Staff Portal Component - Drop-in booking and ULC flow",
@@ -6528,6 +6600,18 @@
       "createdAt": "2026-08-05T22:13:56.044Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 72
+    },
+    {
+      "name": "@dropler/ui-native",
+      "version": "0.1.0",
+      "description": "Themeable, accessible React Native (Expo) primitives with drop-in style presets (flat, glassmorphism, neobrutalism).",
+      "license": "MIT",
+      "repository": "https://github.com/DroplerAI/ui-native",
+      "npmUrl": "https://www.npmjs.com/package/%40dropler%2Fui-native",
+      "category": "frontend",
+      "createdAt": "2026-08-07T11:12:36.583Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 64
     },
     {
       "name": "@dror-jp/yasashii-org-mcp",
@@ -11136,6 +11220,18 @@
       "createdAt": "2026-07-31T10:57:34.762Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 63
+    },
+    {
+      "name": "@ienznotfound/yui-baileys",
+      "version": "1.0.0",
+      "description": "A WebSockets library for interacting with WhatsApp Web",
+      "license": "MIT",
+      "repository": "https://github.com/WhiskeySockets/Baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40ienznotfound%2Fyui-baileys",
+      "category": "utilities",
+      "createdAt": "2026-08-07T11:29:09.047Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 69
     },
     {
       "name": "@igor-guari/pi-flow",
@@ -16886,6 +16982,18 @@
       "score": 76
     },
     {
+      "name": "@openreachtech/renchan-job-bullmq",
+      "version": "1.1.2",
+      "description": "Renchan job modules wrapping BullMQ.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/openreachtech/renchan-job-bullmq",
+      "npmUrl": "https://www.npmjs.com/package/%40openreachtech%2Frenchan-job-bullmq",
+      "category": "utilities",
+      "createdAt": "2026-08-07T11:09:19.977Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 63
+    },
+    {
       "name": "@opensecureai/firewall",
       "version": "0.1.0",
       "description": "Dependency-light LLM guardrail that decides whether text should be allowed, flagged, or blocked before it reaches a model — composing prompt-injection detection with PII/secret redaction under a configurable policy.",
@@ -16956,6 +17064,18 @@
       "createdAt": "2026-07-31T10:42:09.437Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 84
+    },
+    {
+      "name": "@oreefy/datetime",
+      "version": "1.0.0",
+      "description": "A lightweight, zero-dependency TypeScript date-time library for flexible pattern formatting, input binding, duration calculation, and relative time (ago).",
+      "license": "MIT",
+      "repository": "https://github.com/oreefy/oreefy-datetime",
+      "npmUrl": "https://www.npmjs.com/package/%40oreefy%2Fdatetime",
+      "category": "data",
+      "createdAt": "2026-08-07T11:17:08.599Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 75
     },
     {
       "name": "@orion-agents/orion-code",
@@ -18252,6 +18372,18 @@
       "createdAt": "2026-07-30T14:13:43.032Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 82
+    },
+    {
+      "name": "@qt-works/file-transfer-codec",
+      "version": "1.0.3",
+      "description": "Browser and TypeScript library for offline screen-to-camera file transfer using Cimbar visual frames.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/qt-works/file-transfer-codec",
+      "npmUrl": "https://www.npmjs.com/package/%40qt-works%2Ffile-transfer-codec",
+      "category": "frontend",
+      "createdAt": "2026-08-07T06:30:51.704Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 87
     },
     {
       "name": "@quaivault/sdk",
@@ -21626,6 +21758,18 @@
       "score": 65
     },
     {
+      "name": "@storm-software/eslint-plugin-bun",
+      "version": "0.0.3",
+      "description": "An ESLint Plugin that enforces Bun catalog rules in Storm Software projects.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/storm-ops",
+      "npmUrl": "https://www.npmjs.com/package/%40storm-software%2Feslint-plugin-bun",
+      "category": "data",
+      "createdAt": "2026-08-06T09:53:47.109Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 67
+    },
+    {
       "name": "@storybrandhq/gtm-cookie-consent",
       "version": "1.0.0",
       "description": "Consent-gated first-party cookie helpers, synced to GTM consent state via Google Consent Mode.",
@@ -21900,6 +22044,18 @@
       "createdAt": "2026-07-25T23:30:29.279Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 51
+    },
+    {
+      "name": "@sv5ui/datagrid",
+      "version": "0.1.0",
+      "description": "A high-performance data grid for Svelte 5, built on sv5ui",
+      "license": "MIT",
+      "repository": "https://github.com/ndlabdev/sv5ui-datagrid",
+      "npmUrl": "https://www.npmjs.com/package/%40sv5ui%2Fdatagrid",
+      "category": "frontend",
+      "createdAt": "2026-08-07T11:06:54.430Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 73
     },
     {
       "name": "@swapnoneel/open-gpt",
@@ -23570,6 +23726,18 @@
       "score": 70
     },
     {
+      "name": "@vaduno/cloudflare",
+      "version": "0.6.1",
+      "description": "Spend firewall for the Cloudflare Agents SDK x402 client. Wraps your signer so Vaduno policy runs inside signTypedData — a denied payment never has a signature. Never holds funds or keys to funds; you keep your own key.",
+      "license": "MIT",
+      "repository": "https://github.com/premsreelathasugeendran/vaduno",
+      "npmUrl": "https://www.npmjs.com/package/%40vaduno%2Fcloudflare",
+      "category": "data",
+      "createdAt": "2026-08-07T11:19:48.859Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 86
+    },
+    {
       "name": "@vaduno/postgres",
       "version": "0.2.1",
       "description": "Postgres-backed SpendLimiter and ConsumeStore for Vaduno. Makes rolling spend caps and consume-once mandates hold across MULTIPLE INSTANCES, not just one process. Never holds funds or keys to funds.",
@@ -24576,6 +24744,18 @@
       "createdAt": "2026-07-28T12:57:12.862Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 75
+    },
+    {
+      "name": "@work-well/measure-engine",
+      "version": "0.1.0",
+      "description": "Headless eCQM evaluation: executes pre-compiled ELM against a FHIR R4 patient bundle and returns per-define evidence. JVM-free, node:fs-free, and content-free — the measure catalog, ELM and value-set expansions are injected by the consumer (ADR-059).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Taleef7/workwell",
+      "npmUrl": "https://www.npmjs.com/package/%40work-well%2Fmeasure-engine",
+      "category": "cli",
+      "createdAt": "2026-08-07T11:01:28.578Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 63
     },
     {
       "name": "@workser/cli",
@@ -25634,6 +25814,18 @@
       "score": 62
     },
     {
+      "name": "agent-cargo",
+      "version": "0.1.1",
+      "description": "Frontend-focused versioned tooling that ships coding-agent instructions (AGENTS.md, rules, skills, presets) into any repo as a syncable dev dependency",
+      "license": "MIT",
+      "repository": "https://github.com/asalisinasa/agent-cargo",
+      "npmUrl": "https://www.npmjs.com/package/agent-cargo",
+      "category": "frontend",
+      "createdAt": "2026-08-07T10:58:34.186Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 68
+    },
+    {
       "name": "agent-config-audit",
       "version": "0.1.0",
       "description": "Security auditor for AI agent configurations — scans MCP servers, Claude Code settings, agents, skills and hooks for risky permissions, inline secrets, unpinned supply chains and prompt-injection surfaces.",
@@ -25752,6 +25944,18 @@
       "createdAt": "2026-07-29T21:00:43.118Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 70
+    },
+    {
+      "name": "agent-plugin-ts",
+      "version": "0.1.1",
+      "description": "IO-agnostic implementation of the Agent Plugins specification (agent-plugins.org): load, validate, and prepare agent plugins from any IO",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/Toasterson/agent-plugin-ts",
+      "npmUrl": "https://www.npmjs.com/package/agent-plugin-ts",
+      "category": "devops",
+      "createdAt": "2026-08-07T11:23:26.512Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 67
     },
     {
       "name": "agent-rack",
@@ -28260,6 +28464,18 @@
       "createdAt": "2026-07-31T22:10:54.863Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 92
+    },
+    {
+      "name": "circle-so-sdk",
+      "version": "0.1.0",
+      "description": "Typed, zero-dependency client for the Circle.so Admin API v2 — members, access groups, spaces, space groups, token version detection, and real captured API fixtures for testing.",
+      "license": "MIT",
+      "repository": "https://github.com/linyiru/circle-so-sdk",
+      "npmUrl": "https://www.npmjs.com/package/circle-so-sdk",
+      "category": "testing",
+      "createdAt": "2026-08-06T18:45:43.053Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 65
     },
     {
       "name": "circuitarium-mcp",
@@ -34838,6 +35054,18 @@
       "score": 59
     },
     {
+      "name": "lan-direct",
+      "version": "1.0.0",
+      "description": "Skill + browser MCP for coding agents behind a full-tunnel VPN: the app under test reaches domestic services over the real ISP while the agent stays on the tunnel.",
+      "license": "MIT",
+      "repository": "https://github.com/farshadmomo/lan-direct",
+      "npmUrl": "https://www.npmjs.com/package/lan-direct",
+      "category": "testing",
+      "createdAt": "2026-08-07T11:16:43.816Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 94
+    },
+    {
       "name": "langpull",
       "version": "1.0.0",
       "description": "🌍 Open-source internationalization library with 25 languages and 550+ translation keys. Pull translations into any JavaScript project instantly.",
@@ -35714,6 +35942,18 @@
       "score": 51
     },
     {
+      "name": "markserv-marker",
+      "version": "0.1.9",
+      "description": "Single-daemon Markdown preview server with selection-anchored review comments — a markserv fork",
+      "license": "MIT",
+      "repository": "https://github.com/0xys/markserv-marker",
+      "npmUrl": "https://www.npmjs.com/package/markserv-marker",
+      "category": "backend",
+      "createdAt": "2026-07-26T06:05:04.600Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 65
+    },
+    {
       "name": "marmot-ledger-mcp",
       "version": "0.1.0",
       "description": "MCP server for Marmot Ledger — AI-powered personal finance management via natural language",
@@ -36384,6 +36624,18 @@
       "createdAt": "2026-07-28T16:52:26.106Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 60
+    },
+    {
+      "name": "metro-object-logs",
+      "version": "0.1.0",
+      "description": "Real values from your React Native logs in the Metro terminal instead of [Object], and the complete payload in a file your coding agent can read.",
+      "license": "MIT",
+      "repository": "https://github.com/devAdrish/metro-object-logs",
+      "npmUrl": "https://www.npmjs.com/package/metro-object-logs",
+      "category": "frontend",
+      "createdAt": "2026-08-07T11:16:51.631Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 84
     },
     {
       "name": "mf-add-to-shell",
@@ -39110,6 +39362,18 @@
       "score": 72
     },
     {
+      "name": "pcg-ts",
+      "version": "0.6.1",
+      "description": "Deterministic procedural content generation for TypeScript: domain attributes, node graphs, deferred fields, hierarchical streaming. Optional three.js interop.",
+      "license": "MIT",
+      "repository": "https://github.com/C4RL05/pcg-ts",
+      "npmUrl": "https://www.npmjs.com/package/pcg-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-07T10:55:29.948Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 85
+    },
+    {
       "name": "pda-squad",
       "version": "1.0.0",
       "description": "PDA-SQUAD — Framework enxuto de desenvolvimento guiado por IA para MVPs",
@@ -39564,6 +39828,18 @@
       "createdAt": "2026-08-07T05:28:05.036Z",
       "discoveredAt": "2026-08-07T05:57:15.695Z",
       "score": 62
+    },
+    {
+      "name": "pi-inline-image-read",
+      "version": "0.3.0",
+      "description": "Auto-inline binary assets (images, audio) via a custom `read_asset` tool. Images attached directly to vision-capable models; audio transcribed to text via a configured external model. Drop-in upgrade over the built-in `read` tool for binary files.",
+      "license": "MIT",
+      "repository": "https://github.com/chenty/pi-inline-image-read",
+      "npmUrl": "https://www.npmjs.com/package/pi-inline-image-read",
+      "category": "utilities",
+      "createdAt": "2026-08-07T11:16:32.546Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 83
     },
     {
       "name": "pi-io-tools",
@@ -41472,6 +41748,18 @@
       "createdAt": "2026-07-26T21:44:11.243Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 78
+    },
+    {
+      "name": "react-native-quick-settings-tile",
+      "version": "0.1.0",
+      "description": "A Quick Settings tile (Android) and Control Center control (iOS 18+) that deep-link into your React Native (Expo) app.",
+      "license": "MIT",
+      "repository": "https://github.com/probert100/react-native-quick-settings-tile",
+      "npmUrl": "https://www.npmjs.com/package/react-native-quick-settings-tile",
+      "category": "frontend",
+      "createdAt": "2026-08-07T11:04:49.438Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 79
     },
     {
       "name": "react-native-smartapi",
@@ -44796,6 +45084,18 @@
       "createdAt": "2026-07-29T04:33:57.232Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 80
+    },
+    {
+      "name": "tianyan",
+      "version": "0.0.4",
+      "description": "天衍 - 多Agent协同小说创作系统, 7个专家Agent, 5阶段写作流水线, 33维审计, 111位白金作家语料库",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/l1064709321/tianyan",
+      "npmUrl": "https://www.npmjs.com/package/tianyan",
+      "category": "utilities",
+      "createdAt": "2026-08-07T11:02:04.357Z",
+      "discoveredAt": "2026-08-07T11:31:28.775Z",
+      "score": 70
     },
     {
       "name": "tianyi",
