@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123883926,
-  "lastRunAt": "2026-08-07T19:38:29.763Z",
+  "lastSequence": 123890627,
+  "lastRunAt": "2026-08-07T20:32:09.037Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@rbxst/services",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@pr3tik/fyuz",
+      "name": "@machize/storage-azure",
       "attempts": 1
     },
     {
-      "name": "@qfioofa/s21-api",
-      "attempts": 1
-    },
-    {
-      "name": "@jarwizz/create-jarshop",
+      "name": "@machize/storage-gcs",
       "attempts": 1
     }
   ]
