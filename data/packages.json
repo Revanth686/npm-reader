@@ -1478,6 +1478,30 @@
       "score": 83
     },
     {
+      "name": "@allowkit/agent-wallet",
+      "version": "0.1.0",
+      "description": "Self-custodial agent wallet layer for x402: multichain signer bridge over the official @x402 packages (EVM + Solana), Nitro-bridged native custody interfaces (Secure Enclave / StrongBox), and wallet adapters.",
+      "license": "FSL-1.1-ALv2",
+      "repository": "https://github.com/allowkit/react-native-x402",
+      "npmUrl": "https://www.npmjs.com/package/%40allowkit%2Fagent-wallet",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:56:06.224Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 51
+    },
+    {
+      "name": "@allowkit/x402-client",
+      "version": "0.1.0",
+      "description": "x402 protocol client for React Native: 402 handshake, payment construction, client-side security hardening. Thin layer over the official @x402/* packages.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/allowkit/react-native-x402",
+      "npmUrl": "https://www.npmjs.com/package/%40allowkit%2Fx402-client",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:56:02.342Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 40
+    },
+    {
       "name": "@alloysforge/kairo-88",
       "version": "0.1.0",
       "description": "Kairo 88 design system: Japanese 80s product aesthetic for Forge projects.",
@@ -1776,6 +1800,18 @@
       "createdAt": "2026-08-04T03:24:22.062Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 76
+    },
+    {
+      "name": "@andreasnicolaou/typewriter-ts",
+      "version": "1.0.0",
+      "description": "A tiny, dependency-free TypeScript typewriter for browsers and Node.",
+      "license": "MIT",
+      "repository": "https://github.com/andreasnicolaou/typewriter-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40andreasnicolaou%2Ftypewriter-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:41:21.538Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 83
     },
     {
       "name": "@andresh11/pay-preview",
@@ -2688,6 +2724,18 @@
       "createdAt": "2026-07-31T08:37:40.101Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 89
+    },
+    {
+      "name": "@automatalabs/repl-engine",
+      "version": "0.1.1",
+      "description": "The engine package of the **REPL orchestrator** (see [`docs/roadmap/repl-orchestrator.md`](../../docs/roadmap/repl-orchestrator.md)): a persistent JavaScript REPL in a capability-free QuickJS-in-WASM VM. One VM per workspace; the workspace object owns the",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agentprism/agentprism-workflows",
+      "npmUrl": "https://www.npmjs.com/package/%40automatalabs%2Frepl-engine",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:32:55.792Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 70
     },
     {
       "name": "@automationarchitect/trust",
@@ -4008,6 +4056,30 @@
       "createdAt": "2026-08-01T01:52:43.363Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 68
+    },
+    {
+      "name": "@cairnkit/cli",
+      "version": "0.1.0",
+      "description": "cairn check — fails the build when a tour points at UI that no longer exists.",
+      "license": "MIT",
+      "repository": "https://github.com/cairnkit/cairnkit",
+      "npmUrl": "https://www.npmjs.com/package/%40cairnkit%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:27:25.359Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 40
+    },
+    {
+      "name": "@cairnkit/core",
+      "version": "0.1.0",
+      "description": "Framework-free engine for in-app guided tours that fail the build instead of the user.",
+      "license": "MIT",
+      "repository": "https://github.com/cairnkit/cairnkit",
+      "npmUrl": "https://www.npmjs.com/package/%40cairnkit%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:27:25.396Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 42
     },
     {
       "name": "@caldera18/smartfetch",
@@ -8330,6 +8402,18 @@
       "score": 80
     },
     {
+      "name": "@floelabs/cli",
+      "version": "0.2.0",
+      "description": "Floe CLI — the full Floe platform from your terminal: agents, keys, budgets, policies, billing, and metered calls",
+      "license": "MIT",
+      "repository": "https://github.com/Floe-Labs/floe-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40floelabs%2Fcli",
+      "category": "data",
+      "createdAt": "2026-08-05T17:09:47.903Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 57
+    },
+    {
       "name": "@florasync/squarespace-mcp",
       "version": "0.1.0",
       "description": "Squarespace Commerce MCP server for Gemini Spark, Gemini CLI, and other MCP clients.",
@@ -8856,6 +8940,18 @@
       "createdAt": "2026-07-28T18:26:21.137Z",
       "discoveredAt": "2026-07-28T19:11:04.375Z",
       "score": 67
+    },
+    {
+      "name": "@gatewerk/mcp",
+      "version": "1.1.0",
+      "description": "The open-source human oversight station for AI agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/gatewerk/gatewerk",
+      "npmUrl": "https://www.npmjs.com/package/%40gatewerk%2Fmcp",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:45:52.633Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 42
     },
     {
       "name": "@gcoder1991/pi-mesh",
@@ -9998,6 +10094,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/mprd",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MPRD (build etherscan-mprd-3600aaae-1786143107106, commit ce073fc, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mprd",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmprd",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T22:52:10.177Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/mred",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for mRED (build etherscan-mred-d48067f1-1785624697060, commit 51d2985, branch etherscan)",
@@ -10331,6 +10439,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-25T15:11:18.048Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/sfi",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for SFI (build etherscan-sfi-7636d872-1786141666294, commit bc828d1, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/sfi",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsfi",
+      "category": "build-tools",
+      "createdAt": "2026-08-03T22:32:00.197Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
       "score": 56
     },
     {
@@ -15482,6 +15602,18 @@
       "score": 73
     },
     {
+      "name": "@microfeed/cli",
+      "version": "1.0.2",
+      "description": "Manage content on a microfeed instance",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/microfeed/microfeed",
+      "npmUrl": "https://www.npmjs.com/package/%40microfeed%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-07T18:36:29.660Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 69
+    },
+    {
       "name": "@microsoft/wiqd",
       "version": "0.9.0",
       "description": "Work IQ Dev — developer CLI for M365 Copilot agent lifecycle",
@@ -16596,6 +16728,18 @@
       "createdAt": "2026-08-05T11:21:27.201Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 76
+    },
+    {
+      "name": "@moonshine-ai/moonshine-wasm",
+      "version": "0.1.1",
+      "description": "Fast, accurate, on-device speech-to-text, text-to-speech, and voice dialogs in the browser via WebAssembly.",
+      "license": "MIT",
+      "repository": "https://github.com/moonshine-ai/moonshine",
+      "npmUrl": "https://www.npmjs.com/package/%40moonshine-ai%2Fmoonshine-wasm",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:57:57.239Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 80
     },
     {
       "name": "@moonweave-ai/ontotect",
@@ -18362,6 +18506,30 @@
       "score": 71
     },
     {
+      "name": "@oprogress/core",
+      "version": "0.0.1",
+      "description": "NProgress-inspired library with more features",
+      "license": "MIT",
+      "repository": "https://github.com/programming-with-ia/oprogress",
+      "npmUrl": "https://www.npmjs.com/package/%40oprogress%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:35:43.479Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 43
+    },
+    {
+      "name": "@oprogress/next",
+      "version": "0.0.1",
+      "description": "NProgress bar like for Next.js compatible with new app directory",
+      "license": "MIT",
+      "repository": "https://github.com/programming-with-ia/oprogress",
+      "npmUrl": "https://www.npmjs.com/package/%40oprogress%2Fnext",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:39:35.791Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 46
+    },
+    {
       "name": "@oracle-agent/oracle",
       "version": "0.1.0",
       "description": "Oracle: prepare-only multichain agent control plane. Policy-bounded intents for a user-signed wallet. Self-custody by default — the public package never takes your key. Built for Hermes; no model key required.",
@@ -20124,6 +20292,18 @@
       "createdAt": "2026-07-26T16:08:05.448Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 57
+    },
+    {
+      "name": "@ratmath/core",
+      "version": "0.3.0",
+      "description": "Exact integers, rational numbers, rational intervals, and number-only parsing",
+      "license": "MIT",
+      "repository": "https://github.com/jostylr/ratmath-core",
+      "npmUrl": "https://www.npmjs.com/package/%40ratmath%2Fcore",
+      "category": "devops",
+      "createdAt": "2026-07-27T16:55:08.707Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 65
     },
     {
       "name": "@ravid7000/skills",
@@ -23390,6 +23570,18 @@
       "score": 78
     },
     {
+      "name": "@stonedogcode/rbac",
+      "version": "0.1.0",
+      "description": "A shared authorisation model: capabilities, checked against a scope. No role catalogue, no ordering, no framework.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/stonedog-code/stonedog-rbac",
+      "npmUrl": "https://www.npmjs.com/package/%40stonedogcode%2Frbac",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:41:20.758Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 49
+    },
+    {
       "name": "@stonedogcode/style",
       "version": "0.9.0",
       "description": "A Panda CSS design system: a themeable Panda preset plus the React components built on it.",
@@ -25932,6 +26124,18 @@
       "createdAt": "2026-07-29T07:45:23.362Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 91
+    },
+    {
+      "name": "@vib795/agent-memory",
+      "version": "0.1.0",
+      "description": "Durable cross-repo knowledge graph for GitHub Copilot and Claude Code. Markdown source of truth, disposable SQLite index, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/vib795/agent-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40vib795%2Fagent-memory",
+      "category": "data",
+      "createdAt": "2026-08-07T23:00:47.332Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 78
     },
     {
       "name": "@viby/sdk",
@@ -34850,6 +35054,18 @@
       "score": 97
     },
     {
+      "name": "gatewerk",
+      "version": "0.1.0",
+      "description": "The open-source human oversight station for AI agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/gatewerk/gatewerk",
+      "npmUrl": "https://www.npmjs.com/package/gatewerk",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:27:40.906Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 53
+    },
+    {
       "name": "gather-app-bridge",
       "version": "0.1.0",
       "description": "Watches the Gather V2 desktop client on your Mac and streams presence events — who is standing next to you, who is following you — to the Gather Companion iPhone app over your LAN.",
@@ -36482,6 +36698,18 @@
       "score": 77
     },
     {
+      "name": "indexwright",
+      "version": "0.1.0",
+      "description": "Linter for Firestore composite index declarations (firestore.indexes.json)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/uny/indexwright",
+      "npmUrl": "https://www.npmjs.com/package/indexwright",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:55:26.839Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 57
+    },
+    {
       "name": "ineedcruise",
       "version": "0.4.0",
       "description": "A Claude Code skill that finds absurdly cheap cruises and prices the flight that makes them viable. Ranks on true all-in cost per night: fare plus taxes plus the gratuities no booking site shows you.",
@@ -37032,6 +37260,18 @@
       "createdAt": "2026-08-01T11:46:40.065Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 73
+    },
+    {
+      "name": "jupyterlab_ai_code_assistants_extension",
+      "version": "0.6.15",
+      "description": "Jupyterlab extension to replace individual jupyterlab_*_code_extension and integrate into one, that offers joint capability, joint settings page and individual right toolbar panels per code assistant, with the ability in settings to decide which code assi",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/stellarshenson/jupyterlab_ai_code_assistants_extension",
+      "npmUrl": "https://www.npmjs.com/package/jupyterlab_ai_code_assistants_extension",
+      "category": "devops",
+      "createdAt": "2026-08-07T22:40:05.597Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 46
     },
     {
       "name": "juror-ai",
@@ -39780,6 +40020,18 @@
       "createdAt": "2026-08-03T13:09:01.624Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 93
+    },
+    {
+      "name": "n8n-nodes-gatewerk",
+      "version": "0.1.0",
+      "description": "The open-source human oversight station for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/gatewerk/gatewerk",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-gatewerk",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:46:22.240Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 73
     },
     {
       "name": "n8n-nodes-genudo",
@@ -44198,6 +44450,18 @@
       "score": 76
     },
     {
+      "name": "react-bibtex",
+      "version": "0.1.0",
+      "description": "Render BibTeX entries as React elements, with the LaTeX decoded and every fragment styleable.",
+      "license": "MIT",
+      "repository": "https://github.com/AVlyx/react-bibTex",
+      "npmUrl": "https://www.npmjs.com/package/react-bibtex",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:35:40.453Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 59
+    },
+    {
       "name": "react-decor",
       "version": "0.3.0",
       "description": "Compile-time @ decorators for React function components — pure JSX composition, zero runtime, no HOCs.",
@@ -44592,6 +44856,18 @@
       "createdAt": "2026-07-27T00:20:27.269Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 79
+    },
+    {
+      "name": "react-native-mapsforge-vtm-ext-path-color-ramp",
+      "version": "0.1.0",
+      "description": "Per-segment color-ramp path rendering extension for react-native-mapsforge-vtm. Renders paths with colors mapped from data values (slope, elevation, speed, etc.) via a 1D color-ramp texture in the OpenGL fragment shader. Android only.",
+      "license": "MIT",
+      "repository": "https://github.com/jhotadhari/react-native-mapsforge-vtm-ext-path-color-ramp",
+      "npmUrl": "https://www.npmjs.com/package/react-native-mapsforge-vtm-ext-path-color-ramp",
+      "category": "frontend",
+      "createdAt": "2026-08-07T22:57:05.662Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 90
     },
     {
       "name": "react-native-multi-capture",
@@ -46668,6 +46944,18 @@
       "createdAt": "2026-07-31T14:04:00.168Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 81
+    },
+    {
+      "name": "skill-land",
+      "version": "1.0.1",
+      "description": "Install an agent skill to the directory the agent actually reads, then verify it landed. Exits non-zero if it didn't.",
+      "license": "MIT",
+      "repository": "https://github.com/Magithar/skills",
+      "npmUrl": "https://www.npmjs.com/package/skill-land",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:31:00.310Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 77
     },
     {
       "name": "skill-prompt-evolution",
@@ -48876,6 +49164,18 @@
       "createdAt": "2026-08-04T13:58:17.458Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 100
+    },
+    {
+      "name": "txt2sfx-bridge",
+      "version": "0.1.0",
+      "description": "Local daemon that puts an MCP coding agent in the same room as the txt2sfx playground: validate, render, measure and audition soundline without hosting anything.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/txt2sfx/txt2sfx",
+      "npmUrl": "https://www.npmjs.com/package/txt2sfx-bridge",
+      "category": "utilities",
+      "createdAt": "2026-08-07T22:49:21.898Z",
+      "discoveredAt": "2026-08-07T23:03:58.437Z",
+      "score": 73
     },
     {
       "name": "type-to-table",
