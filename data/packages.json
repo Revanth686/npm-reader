@@ -74,6 +74,18 @@
       "score": 90
     },
     {
+      "name": "@0xfig/indie",
+      "version": "1.0.0",
+      "description": "Independent developer product delivery skills for OMP/Pi and generic Agent Skills hosts.",
+      "license": "MIT",
+      "repository": "https://github.com/0xfig-labs/indie",
+      "npmUrl": "https://www.npmjs.com/package/%400xfig%2Findie",
+      "category": "utilities",
+      "createdAt": "2026-08-07T16:31:07.763Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 63
+    },
+    {
       "name": "@12-apps/entitlements",
       "version": "1.2.0",
       "description": "Generic, portable plan/feature entitlements library: layered resolution (code/plan/status/tenant), numeric quotas, per-feature revoke policy and 402-vs-403 denial semantics. Framework-free core with storage adapters plus an optional React binding. Knows n",
@@ -83,6 +95,18 @@
       "category": "frontend",
       "createdAt": "2026-08-05T02:17:05.828Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
+      "score": 80
+    },
+    {
+      "name": "@12-apps/observability-frontend",
+      "version": "1.0.0",
+      "description": "Browser error reporting for a React SPA, on Sentry: deferred init behind a served DSN, the noise rules that keep a deploy from filing one issue per open tab, a PII scrub, a route error boundary and a self-check page that proves the chain is live in the de",
+      "license": "MIT",
+      "repository": "https://github.com/12-apps/shared-packages",
+      "npmUrl": "https://www.npmjs.com/package/%4012-apps%2Fobservability-frontend",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:49:43.499Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 80
     },
     {
@@ -1608,6 +1632,18 @@
       "createdAt": "2026-08-05T22:20:29.717Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 71
+    },
+    {
+      "name": "@amojs.dev/core",
+      "version": "0.7.0",
+      "description": "AmoJS reactive core — signals, html`` templates, mount. Zero dependencies; runs raw in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/amojs-dev/amojs",
+      "npmUrl": "https://www.npmjs.com/package/%40amojs.dev%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-07T15:46:49.645Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 64
     },
     {
       "name": "@amplib/ui",
@@ -7574,6 +7610,18 @@
       "score": 57
     },
     {
+      "name": "@fadsync/mailcheck-edge",
+      "version": "1.0.0",
+      "description": "Ultra-fast email validation, 40M+ disposable email blocking, and anti-fraud Express/Next.js middleware guard for Node.js.",
+      "license": "MIT",
+      "repository": "https://github.com/fadsync/mailcheck-edge",
+      "npmUrl": "https://www.npmjs.com/package/%40fadsync%2Fmailcheck-edge",
+      "category": "backend",
+      "createdAt": "2026-08-07T16:11:15.439Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 76
+    },
+    {
       "name": "@falkordb/n8n-nodes-graphrag",
       "version": "0.2.0",
       "description": "n8n community node — wraps the FalkorDB GraphRAG-Server REST API for knowledge-graph ingestion and retrieval.",
@@ -12002,6 +12050,42 @@
       "score": 73
     },
     {
+      "name": "@integraledger/placement-visa-tap",
+      "version": "0.1.5",
+      "description": "Places an LCP reference into a Visa TAP request. The header sits outside TAP's signature.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fplacement-visa-tap",
+      "category": "utilities",
+      "createdAt": "2026-08-07T15:58:10.210Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 67
+    },
+    {
+      "name": "@integraledger/placement-x402",
+      "version": "0.1.5",
+      "description": "Places an LCP reference into an x402 v2 payment challenge, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fplacement-x402",
+      "category": "utilities",
+      "createdAt": "2026-08-07T15:58:10.317Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 69
+    },
+    {
+      "name": "@integraledger/placements",
+      "version": "0.1.5",
+      "description": "The LCP placement registry — the one place a protocol is registered.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fplacements",
+      "category": "utilities",
+      "createdAt": "2026-08-07T15:58:10.309Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 62
+    },
+    {
       "name": "@intisy-ai/gemini-translator",
       "version": "0.1.2",
       "description": "Gemini wire-format <-> canonical IR translator (Java + TeaVM single source), a core-ir submodule library.",
@@ -13344,6 +13428,18 @@
       "createdAt": "2026-08-02T20:15:28.531Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 55
+    },
+    {
+      "name": "@latimer-woods-tech/operator",
+      "version": "0.8.0",
+      "description": "The shared **operator platform** — the portfolio \"vending machine\" (Factory#1947, [`docs/PORTFOLIO.md`](../../docs/PORTFOLIO.md) layer L2). Built once; every product mounts it instead of hand-rolling a client hierarchy or billing.",
+      "license": "MIT",
+      "repository": "https://github.com/Latimer-Woods-Tech/Factory",
+      "npmUrl": "https://www.npmjs.com/package/%40latimer-woods-tech%2Foperator",
+      "category": "data",
+      "createdAt": "2026-08-07T16:14:58.288Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 70
     },
     {
       "name": "@ledgerproof/queue",
@@ -16598,6 +16694,18 @@
       "score": 66
     },
     {
+      "name": "@nicknisi/pi-composer",
+      "version": "0.3.0",
+      "description": "Configurable boxed input editor for pi, with paste-again-to-expand",
+      "license": "MIT",
+      "repository": "https://github.com/nicknisi/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40nicknisi%2Fpi-composer",
+      "category": "utilities",
+      "createdAt": "2026-08-07T16:15:11.897Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 62
+    },
+    {
       "name": "@nicolaech/n8n-nodes-ibmi-db2-mapepire",
       "version": "0.2.4",
       "description": "Secure n8n community node for Db2 for IBM i using the official Mapepire Node.js client",
@@ -17460,6 +17568,18 @@
       "createdAt": "2026-08-04T14:51:28.651Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 84
+    },
+    {
+      "name": "@openoba/rulsynor-core",
+      "version": "1.0.0",
+      "description": "ERDL deterministic Guard engine — open-source Agent runtime with cryptographic audit chain",
+      "license": "MIT",
+      "repository": "https://github.com/OpenOBA/rulsynor-core",
+      "npmUrl": "https://www.npmjs.com/package/%40openoba%2Frulsynor-core",
+      "category": "devops",
+      "createdAt": "2026-08-07T16:22:14.378Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 89
     },
     {
       "name": "@openparse/core",
@@ -19130,6 +19250,18 @@
       "score": 92
     },
     {
+      "name": "@rajubepary/gwt",
+      "version": "0.0.1",
+      "description": "A Git worktree and PR management CLI tool for streamlined development workflows",
+      "license": "MIT",
+      "repository": "https://github.com/rajubeparybd/gwt",
+      "npmUrl": "https://www.npmjs.com/package/%40rajubepary%2Fgwt",
+      "category": "cli",
+      "createdAt": "2026-08-07T16:29:42.369Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 63
+    },
+    {
       "name": "@rajubepary/twigx",
       "version": "0.0.1",
       "description": "A Git worktree and PR management CLI tool for streamlined development workflows",
@@ -20054,6 +20186,18 @@
       "score": 77
     },
     {
+      "name": "@robinmesh/sdk",
+      "version": "0.1.2",
+      "description": "TypeScript client for RobinMesh, the decentralized AI inference network on Robinhood Chain. Chat completions in the OpenAI shape, token streaming, and a verifiable on-chain settlement receipt for every job.",
+      "license": "MIT",
+      "repository": "https://github.com/robinmeshhq/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40robinmesh%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T16:00:51.266Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 90
+    },
+    {
       "name": "@rockbite/tokenpool-scout",
       "version": "0.3.0",
       "description": "Opt-in macOS and Windows companion for reporting Codex and Claude Code quota information to Tokenpool.",
@@ -20450,6 +20594,18 @@
       "score": 75
     },
     {
+      "name": "@rtorcato/repo-tooling",
+      "version": "2.59.0",
+      "description": "One CLI to scaffold, audit and fix your repo's whole toolchain — linting, tests, commits, releases & CI.",
+      "license": "MIT",
+      "repository": "https://github.com/rtorcato/repo-tooling",
+      "npmUrl": "https://www.npmjs.com/package/%40rtorcato%2Frepo-tooling",
+      "category": "testing",
+      "createdAt": "2026-08-07T16:33:32.615Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 73
+    },
+    {
       "name": "@runboxjs/runboxjs",
       "version": "1.2.0",
       "description": "A powerful WebAssembly-powered sandbox runtime for executing code, managing files, and running commands in isolated environments directly in the browser. Execute JavaScript, Python, Git commands, npm packages, and more in a secure, lightweight sandbox.",
@@ -20604,6 +20760,18 @@
       "createdAt": "2026-07-27T18:40:29.892Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 73
+    },
+    {
+      "name": "@samva/cli",
+      "version": "0.1.0",
+      "description": "Samva CLI — email and platform operations from your terminal",
+      "license": "MIT",
+      "repository": "https://github.com/AryaLabsHQ/samva",
+      "npmUrl": "https://www.npmjs.com/package/%40samva%2Fcli",
+      "category": "data",
+      "createdAt": "2026-08-07T15:55:34.888Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 66
     },
     {
       "name": "@samyx/preview-stacks",
@@ -21672,6 +21840,18 @@
       "createdAt": "2026-07-26T10:09:19.391Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 66
+    },
+    {
+      "name": "@skiesjs/eslint-plugin",
+      "version": "4.0.5",
+      "description": "The Skies Framework frontend harness — SKYFE* rules that keep React Native + web screens wired, not mocked.",
+      "license": "MIT",
+      "repository": "https://github.com/lucasrgt/skies",
+      "npmUrl": "https://www.npmjs.com/package/%40skiesjs%2Feslint-plugin",
+      "category": "frontend",
+      "createdAt": "2026-08-07T16:23:46.202Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 78
     },
     {
       "name": "@skynet-initiative/sky-remote",
@@ -25346,6 +25526,18 @@
       "score": 83
     },
     {
+      "name": "@windlass/vers-js",
+      "version": "0.1.1",
+      "description": "A runtime-agnostic TypeScript library for parsing and validating VErsion Range Specifier (VERS) expressions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/windlasstech/vers-js",
+      "npmUrl": "https://www.npmjs.com/package/%40windlass%2Fvers-js",
+      "category": "backend",
+      "createdAt": "2026-08-07T16:12:25.876Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 75
+    },
+    {
       "name": "@wireservers/react-natives",
       "version": "2.1.2",
       "description": "A comprehensive React Native component library built with NativeWind and Tailwind Variants",
@@ -25716,6 +25908,18 @@
       "createdAt": "2026-08-07T14:56:45.671Z",
       "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 77
+    },
+    {
+      "name": "@yancyyu/agentpanel",
+      "version": "1.10.4",
+      "description": "AgentPanel：本地优先的 AI Agent 工作台与团队协作运行时。",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/yancyuu/agentpanel",
+      "npmUrl": "https://www.npmjs.com/package/%40yancyyu%2Fagentpanel",
+      "category": "utilities",
+      "createdAt": "2026-08-07T15:53:25.910Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 63
     },
     {
       "name": "@yanib/tool-call-guard",
@@ -26136,6 +26340,18 @@
       "createdAt": "2026-08-01T01:27:10.051Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 63
+    },
+    {
+      "name": "@zweer/mage-space-client",
+      "version": "1.0.1",
+      "description": "A TypeScript client for mage.space's internal API. Generate images programmatically.",
+      "license": "MIT",
+      "repository": "https://github.com/Zweer/mage-space-client",
+      "npmUrl": "https://www.npmjs.com/package/%40zweer%2Fmage-space-client",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:30:43.329Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 62
     },
     {
       "name": "@zweiundeins/cashctrl-ts-sdk",
@@ -33866,6 +34082,18 @@
       "score": 76
     },
     {
+      "name": "gonkit",
+      "version": "0.1.1",
+      "description": "One always-on efficiency mode for AI coding agents: terse output, lean code, filtered shell output, graph-first search, and a project memory that hands off.",
+      "license": "Apache-2.0 AND MIT",
+      "repository": "https://github.com/CodeForFee/fuse-repo",
+      "npmUrl": "https://www.npmjs.com/package/gonkit",
+      "category": "cli",
+      "createdAt": "2026-08-07T16:32:36.507Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 70
+    },
+    {
       "name": "gosset",
       "version": "1.1.0",
       "description": "Wearable research studies without the app build — study builder, participant enrollment, HealthKit data collection, and a CLI to run it all from the terminal.",
@@ -34512,6 +34740,18 @@
       "createdAt": "2026-07-28T23:54:54.773Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 66
+    },
+    {
+      "name": "homebridge-skyq-s62-usb",
+      "version": "1.0.0",
+      "description": "Homebridge plugin that polls Sky Q boxes for now-playing data and forwards it to a Systemline S6.2 multi-room audio system via USB-to-RS232 serial cables. Reconstructs the Sky Gnome RS232 protocol so the S6.2 touch screen displays channel and programme in",
+      "license": "MIT",
+      "repository": "https://github.com/rdawson6/homebridge-skyq-s62-usb",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-skyq-s62-usb",
+      "category": "data",
+      "createdAt": "2026-08-07T16:31:35.963Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 76
     },
     {
       "name": "homebridge-tuya-ultimate",
@@ -37188,6 +37428,18 @@
       "createdAt": "2026-07-29T18:44:06.774Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 90
+    },
+    {
+      "name": "mcp-server-anydoc",
+      "version": "1.0.0",
+      "description": "Local MCP server that converts PDF, Word, PowerPoint, Excel and more to Markdown with anydoc. No API key. Files stay on your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/ofershap/mcp-server-anydoc",
+      "npmUrl": "https://www.npmjs.com/package/mcp-server-anydoc",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:55:02.760Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 93
     },
     {
       "name": "mcp-server-web-fetcher",
@@ -40332,6 +40584,18 @@
       "createdAt": "2026-08-05T14:07:24.110Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 75
+    },
+    {
+      "name": "parakeet.wgsl",
+      "version": "1.0.0",
+      "description": "NVIDIA's Parakeet TDT 0.6B V2 model ported to the browser, powered by WebGPU and WebAssembly",
+      "license": "MIT",
+      "repository": "https://github.com/narcotic-sh/parakeet.wgsl",
+      "npmUrl": "https://www.npmjs.com/package/parakeet.wgsl",
+      "category": "frontend",
+      "createdAt": "2026-08-07T16:26:46.173Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 72
     },
     {
       "name": "parley-room",
@@ -45158,6 +45422,18 @@
       "score": 67
     },
     {
+      "name": "spl-pay-per-suite",
+      "version": "1.1.2",
+      "description": "SPL Pay Per Suite — on-spot quotes, Stripe (humans) + x402 agentic commerce (machines). Library, CLI, and MCP.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/ceedot-rock/SlidPhiLabs",
+      "npmUrl": "https://www.npmjs.com/package/spl-pay-per-suite",
+      "category": "data",
+      "createdAt": "2026-08-07T00:42:57.408Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 65
+    },
+    {
       "name": "squad-hub",
       "version": "0.1.0",
       "description": "One place to see and control your Squad sessions, across every substrate.",
@@ -45852,6 +46128,18 @@
       "createdAt": "2026-08-05T21:36:31.465Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 81
+    },
+    {
+      "name": "tanstack-db-notion-adapter",
+      "version": "0.3.0",
+      "description": "Offline-first, end-to-end typed TanStack DB collections backed by Notion data sources",
+      "license": "MIT",
+      "repository": "https://github.com/brianlovin/tanstack-db-notion-adapter",
+      "npmUrl": "https://www.npmjs.com/package/tanstack-db-notion-adapter",
+      "category": "data",
+      "createdAt": "2026-08-06T21:18:08.014Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 68
     },
     {
       "name": "tantra",
@@ -47604,6 +47892,18 @@
       "createdAt": "2026-08-04T18:18:49.142Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 69
+    },
+    {
+      "name": "visual-image-search-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that searches the web for images, composites the results into a numbered contact sheet the model can actually look at, and downloads the ones it picks. Zero-config, no API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/enescanguven/visual-image-search-mcp",
+      "npmUrl": "https://www.npmjs.com/package/visual-image-search-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-07T16:21:19.295Z",
+      "discoveredAt": "2026-08-07T16:43:30.402Z",
+      "score": 81
     },
     {
       "name": "vite-plugin-effcss",

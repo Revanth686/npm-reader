@@ -1,64 +1,7 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123843226,
-  "lastRunAt": "2026-08-07T15:50:48.842Z",
+  "lastSequence": 123855382,
+  "lastRunAt": "2026-08-07T16:43:30.402Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": [
-    {
-      "name": "@joshdholtz/thoth-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@joshdholtz/thoth-darwin-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@amojs.dev/core",
-      "attempts": 1
-    },
-    {
-      "name": "@joshdholtz/thoth-linux-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@joshdholtz/thoth-linux-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@joshdholtz/thoth-win32-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@joshdholtz/thoth-win32-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@joshdholtz/thoth",
-      "attempts": 1
-    },
-    {
-      "name": "@bitaffair/mdnx",
-      "attempts": 1
-    },
-    {
-      "name": "@12-apps/observability-backend",
-      "attempts": 1
-    },
-    {
-      "name": "@12-apps/observability-frontend",
-      "attempts": 1
-    },
-    {
-      "name": "@samva/markup",
-      "attempts": 1
-    },
-    {
-      "name": "@payscribe/checkout-js",
-      "attempts": 1
-    },
-    {
-      "name": "@samva/vite",
-      "attempts": 1
-    }
-  ]
+  "pendingPackages": []
 }
