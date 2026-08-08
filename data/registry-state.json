@@ -1,39 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123985105,
-  "lastRunAt": "2026-08-08T17:28:49.311Z",
+  "lastSequence": 123988206,
+  "lastRunAt": "2026-08-08T18:24:36.518Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@imprynt/sdk",
-      "attempts": 1
-    },
-    {
       "name": "@richardsgee/vibeguard",
+      "attempts": 2
+    },
+    {
+      "name": "@stocksharp/indicators",
       "attempts": 1
     },
     {
-      "name": "@qa-guru/allure-notifications-config",
-      "attempts": 1
-    },
-    {
-      "name": "@qa-guru/allure-notifications-pyramid",
-      "attempts": 1
-    },
-    {
-      "name": "@qa-guru/allure-notifications-core",
-      "attempts": 1
-    },
-    {
-      "name": "@qa-guru/allure-notifications",
-      "attempts": 1
-    },
-    {
-      "name": "@qa-guru/allure-notifications-plugin",
-      "attempts": 1
-    },
-    {
-      "name": "@gitmyabi/nw",
+      "name": "@stocksharp/grid",
       "attempts": 1
     }
   ]
