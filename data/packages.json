@@ -950,6 +950,18 @@
       "score": 49
     },
     {
+      "name": "@agentprodready/ai-provider-anthropic",
+      "version": "1.0.1",
+      "description": "Anthropic Messages API adapter for AgentProdReady AI Provider",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Fai-provider-anthropic",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:22:19.646Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 40
+    },
+    {
       "name": "@agentprodready/memory",
       "version": "1.0.1",
       "description": "**Execution-derived memory** for AgentProdReady — capture, store, search, and recall context from agent runs (distinct from Knowledge / RAG).",
@@ -984,6 +996,18 @@
       "createdAt": "2026-08-08T00:11:33.546Z",
       "discoveredAt": "2026-08-08T07:32:51.663Z",
       "score": 47
+    },
+    {
+      "name": "@agentprodready/vector-store",
+      "version": "1.0.1",
+      "description": "**Provider-independent vector store contracts** (+ in-memory reference) for AgentProdReady semantic / hybrid memory search.",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Fvector-store",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:10:30.904Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 39
     },
     {
       "name": "@agentproto/adapter-knowledge-corpus",
@@ -3288,6 +3312,18 @@
       "createdAt": "2026-07-28T13:27:33.868Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 84
+    },
+    {
+      "name": "@aznabee/freehand-ui",
+      "version": "0.1.1",
+      "description": "Wrap any existing web element with a beautiful, responsive, hand-drawn doodle layer",
+      "license": "MIT",
+      "repository": "https://github.com/Lakshay-art/freehand-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40aznabee%2Ffreehand-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-08T18:52:03.799Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 63
     },
     {
       "name": "@azure/ai-discovery",
@@ -6386,6 +6422,18 @@
       "score": 90
     },
     {
+      "name": "@davidwells/code-inspector-plugin",
+      "version": "1.5.1",
+      "description": "Vite code inspector plugin that preserves source-path attributes in production builds",
+      "license": "MIT",
+      "repository": "https://github.com/DavidWells/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40davidwells%2Fcode-inspector-plugin",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T18:49:58.522Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 42
+    },
+    {
       "name": "@dawn-ai/postgres-storage",
       "version": "0.8.19",
       "description": "<p align=\"center\">   <img src=\"https://raw.githubusercontent.com/cacheplane/dawnai/main/docs/brand/dawn-logo-horizontal-black-on-white.png\" alt=\"Dawn\" width=\"180\" /> </p>",
@@ -7994,6 +8042,18 @@
       "score": 64
     },
     {
+      "name": "@drcomgenius/n8n-nodes-pdf-inspector",
+      "version": "0.1.0",
+      "description": "Fast PDF classification and region-based text extraction (native Rust via napi).",
+      "license": "MIT",
+      "repository": "https://github.com/comgenius/n8n-nodes-pdf-inspector",
+      "npmUrl": "https://www.npmjs.com/package/%40drcomgenius%2Fn8n-nodes-pdf-inspector",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:00:13.826Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 41
+    },
+    {
       "name": "@dreamtree-org/dhruthi",
       "version": "0.3.1",
       "description": "CLI for DigitalOcean Serverless Inference and Inference Router",
@@ -8940,6 +9000,18 @@
       "createdAt": "2026-08-08T08:16:34.360Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 67
+    },
+    {
+      "name": "@fazofazaal/convex-payer",
+      "version": "0.0.1",
+      "description": "A Convex component for Payer checkout sessions and webhooks.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fazofazaal/convex-payer",
+      "npmUrl": "https://www.npmjs.com/package/%40fazofazaal%2Fconvex-payer",
+      "category": "utilities",
+      "createdAt": "2026-08-08T18:32:15.462Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 41
     },
     {
       "name": "@feedlog/widget",
@@ -10574,6 +10646,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/cell",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for CELL (build etherscan-cell-26c8afbb-1786213621465, commit 0b0ee1a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/cell",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcell",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T18:32:31.569Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/cgmb",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for CGMB (build etherscan-cgmb-cf068d28-1786123780186, commit 68ddf50, branch etherscan)",
@@ -10884,6 +10968,18 @@
       "createdAt": "2026-08-01T21:02:08.912Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/erowan",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for erowan (build etherscan-erowan-07bac358-1786215842193, commit fccb2c3, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/erowan",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ferowan",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T19:04:24.152Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/ethlockbox",
@@ -11750,6 +11846,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/raff",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RAFF (build etherscan-raff-77522b6a-1786214136604, commit 459616e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/raff",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fraff",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T18:36:17.968Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/rariminev3",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for RariMineV3 (build etherscan-rariminev3-a2d9ded6-1785962113556, commit fc7d4fa, branch etherscan)",
@@ -12036,6 +12144,18 @@
       "createdAt": "2026-08-08T08:57:13.891Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/standard-sanko-party",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Standard Sanko party (build etherscan-standard-sanko-party-45a4b908-1786213876621, commit 0839413, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/standard-sanko-party",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fstandard-sanko-party",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T18:35:51.720Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/stkaave",
@@ -12492,6 +12612,18 @@
       "createdAt": "2026-08-03T22:33:31.814Z",
       "discoveredAt": "2026-08-03T23:15:27.142Z",
       "score": 59
+    },
+    {
+      "name": "@gitmyabi/yvaave",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for yvAAVE (build etherscan-yvaave-d9788f39-1786215332034, commit 64cdb30, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/yvaave",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fyvaave",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T18:55:57.102Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/zeniq",
@@ -24626,6 +24758,18 @@
       "score": 74
     },
     {
+      "name": "@sarutobi-sasuke/jobscout-mcp",
+      "version": "0.2.0",
+      "description": "A privacy-first, multi-source MCP server for job discovery, normalization, deduplication, and source provenance.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SarutobiSasuke8/jobscout-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40sarutobi-sasuke%2Fjobscout-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:53:07.120Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 53
+    },
+    {
       "name": "@satyadip28/isoform",
       "version": "0.3.1",
       "description": "Machined 3D system architecture diagrams for the browser — part catalog, document model, router, renderer and a mountable editor",
@@ -26472,6 +26616,30 @@
       "createdAt": "2026-07-29T13:50:17.044Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 56
+    },
+    {
+      "name": "@stocksharp/grid",
+      "version": "0.1.1",
+      "description": "Browser data grid for StockSharp: column-driven table rendering, sorting, a column picker for server-rendered tables, and .xlsx export.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/StockSharp/Grids",
+      "npmUrl": "https://www.npmjs.com/package/%40stocksharp%2Fgrid",
+      "category": "frontend",
+      "createdAt": "2026-08-08T18:21:02.326Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 83
+    },
+    {
+      "name": "@stocksharp/indicators",
+      "version": "0.1.1",
+      "description": "StockSharp JS Indicators — ~165 technical-analysis indicators with both a batch and an incremental implementation, a machine-readable catalogue of their parameters, and a parity suite that checks the arithmetic against the C# StockSharp platform. No DOM,",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/StockSharp/JS-Indicators",
+      "npmUrl": "https://www.npmjs.com/package/%40stocksharp%2Findicators",
+      "category": "frontend",
+      "createdAt": "2026-08-08T18:20:41.785Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 64
     },
     {
       "name": "@stone-js/i18n",
@@ -31322,6 +31490,18 @@
       "score": 62
     },
     {
+      "name": "acct-sh",
+      "version": "0.1.0",
+      "description": "Directory-scoped GitHub identity and auth — one account, one identity, one directory tree",
+      "license": "MIT",
+      "repository": "https://github.com/abdull-ah-med/acct",
+      "npmUrl": "https://www.npmjs.com/package/acct-sh",
+      "category": "utilities",
+      "createdAt": "2026-08-08T19:04:05.364Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 42
+    },
+    {
       "name": "achintya-sdk",
       "version": "0.1.1",
       "description": "A provider-agnostic TypeScript agent SDK: tools with schemas, guardrails, sessions, handoffs, streaming and tracing.",
@@ -31872,6 +32052,18 @@
       "createdAt": "2026-07-28T03:02:33.394Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 90
+    },
+    {
+      "name": "agentomy-vigil",
+      "version": "1.0.1",
+      "description": "VIGIL -- Adversarial intelligence benchmark for AI governance platforms. 148 scenarios across 14 threat categories.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getagentomy/vigil",
+      "npmUrl": "https://www.npmjs.com/package/agentomy-vigil",
+      "category": "data",
+      "createdAt": "2026-08-08T18:45:37.004Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 84
     },
     {
       "name": "agents-smart-rrss",
@@ -35858,6 +36050,18 @@
       "score": 77
     },
     {
+      "name": "coroner-cli",
+      "version": "0.0.1",
+      "description": "Every \"done\" gets an autopsy — a proof layer for AI coding agents.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/RichardsGee/coroner",
+      "npmUrl": "https://www.npmjs.com/package/coroner-cli",
+      "category": "testing",
+      "createdAt": "2026-08-08T18:58:30.421Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 42
+    },
+    {
       "name": "cortex-sdk",
       "version": "0.3.0",
       "description": "Typed TypeScript client for Cortex — agent memory that catches contradictions at write time and returns what is still true.",
@@ -36456,6 +36660,18 @@
       "createdAt": "2026-07-26T09:14:14.109Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 90
+    },
+    {
+      "name": "custom-biome-lint",
+      "version": "0.1.0",
+      "description": "Standalone linting tool for Reselect/Redux patterns not in Biome",
+      "license": "MIT",
+      "repository": "https://github.com/anchor-os/custom-biome-lint",
+      "npmUrl": "https://www.npmjs.com/package/custom-biome-lint",
+      "category": "utilities",
+      "createdAt": "2026-08-08T18:52:53.449Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 66
     },
     {
       "name": "cwliql-grammar",
@@ -38028,6 +38244,18 @@
       "createdAt": "2026-08-03T03:25:42.512Z",
       "discoveredAt": "2026-08-03T05:50:48.787Z",
       "score": 82
+    },
+    {
+      "name": "eslint-plugin-oaklint",
+      "version": "0.1.0",
+      "description": "Opinionated oak lint rules for TypeScript, shipped as an ESLint plugin that also runs on Oxlint.",
+      "license": "MIT",
+      "repository": "https://github.com/omaralikhn/oaklint-ts",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-oaklint",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T18:51:48.730Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 55
     },
     {
       "name": "eslint-plugin-postgresql-security",
@@ -42014,6 +42242,18 @@
       "score": 80
     },
     {
+      "name": "king-research-runner",
+      "version": "0.1.0",
+      "description": "Local research runner for King Research CRM — your computer is the backend.",
+      "license": "MIT",
+      "repository": "https://github.com/ck22coding/king-research-runner",
+      "npmUrl": "https://www.npmjs.com/package/king-research-runner",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:51:46.270Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 67
+    },
+    {
       "name": "kinglobayiiecho-cli-tr",
       "version": "1.4.0",
       "description": "Echo CLI — a Claude Code style agentic AI assistant for your terminal. Animated input, skills, plan/auto modes, research, code editing — via the Echo AI gateway.",
@@ -42408,6 +42648,18 @@
       "createdAt": "2026-07-28T22:56:45.216Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 71
+    },
+    {
+      "name": "limyx",
+      "version": "0.1.0",
+      "description": "Distributed rate limiting middleware for Express, backed by Redis. Supports fixed window, sliding window log, sliding window counter, token bucket, and leaky bucket strategies.",
+      "license": "MIT",
+      "repository": "https://github.com/piyush-2k5/Limyx",
+      "npmUrl": "https://www.npmjs.com/package/limyx",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:27:50.109Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 66
     },
     {
       "name": "link-to-screenshot",
@@ -47234,6 +47486,18 @@
       "score": 78
     },
     {
+      "name": "package-intel-mcp",
+      "version": "1.0.0",
+      "description": "MCP server giving coding agents npm/PyPI package health, vulnerability, dependency-graph and download data. Free and zero-config; an optional wallet unlocks paid consolidated risk scores over x402.",
+      "license": "MIT",
+      "repository": "https://github.com/adam121393/package-intel",
+      "npmUrl": "https://www.npmjs.com/package/package-intel-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:51:30.644Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 73
+    },
+    {
       "name": "packetsmith",
       "version": "0.3.1",
       "description": "Terminal agent for Cisco Packet Tracer. Describe a network in plain language and watch the topology build itself.",
@@ -48890,6 +49154,18 @@
       "score": 58
     },
     {
+      "name": "portfoliq-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for PortfolIQ — lets ChatGPT, Claude Desktop, and other MCP-compatible AI clients access a user's portfolio through their personal API key.",
+      "license": "MIT",
+      "repository": "https://github.com/mikepenzin/portfolio-tracker-dashboard",
+      "npmUrl": "https://www.npmjs.com/package/portfoliq-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:30:07.547Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 47
+    },
+    {
       "name": "postale-mcp",
       "version": "1.0.0",
       "description": "MCP server for the postale.io email hosting API — manage domains, mailboxes, aliases, DNS/DKIM, branding and logs from any MCP-compatible AI agent.",
@@ -49416,6 +49692,18 @@
       "createdAt": "2026-08-07T23:56:33.657Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 77
+    },
+    {
+      "name": "pyon-mcp",
+      "version": "0.2.0",
+      "description": "MCP server that lets AI agents drive the Pyon trading platform (api.pyon.io): research, strategy building, backtesting, diagnosis, and parameter optimization",
+      "license": "MIT",
+      "repository": "https://github.com/K4L-EL/pyon-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pyon-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-08T18:47:02.280Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 76
     },
     {
       "name": "qa-engineer",
@@ -51372,6 +51660,18 @@
       "createdAt": "2026-08-05T03:03:52.787Z",
       "discoveredAt": "2026-08-05T04:58:30.965Z",
       "score": 96
+    },
+    {
+      "name": "rust-faf-mcp",
+      "version": "0.4.1",
+      "description": "Persistent project context — Rust-native MCP server. IANA-registered .faf format. npm shim downloads the native binary from GitHub Releases.",
+      "license": "MIT",
+      "repository": "https://github.com/Wolfe-Jam/rust-faf-mcp",
+      "npmUrl": "https://www.npmjs.com/package/rust-faf-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T18:53:08.855Z",
+      "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 64
     },
     {
       "name": "rx-state-bridge",

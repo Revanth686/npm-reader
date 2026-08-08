@@ -1,19 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123988206,
-  "lastRunAt": "2026-08-08T18:24:36.518Z",
+  "lastSequence": 123990987,
+  "lastRunAt": "2026-08-08T19:06:05.897Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@richardsgee/vibeguard",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@stocksharp/indicators",
+      "name": "@kasanie_laski/linters",
       "attempts": 1
     },
     {
-      "name": "@stocksharp/grid",
+      "name": "@george43g/secret-store",
+      "attempts": 1
+    },
+    {
+      "name": "@cloudpdf/contract",
+      "attempts": 1
+    },
+    {
+      "name": "@demystify/play-sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@demystify/play-learn",
+      "attempts": 1
+    },
+    {
+      "name": "@demystify/play-packs",
+      "attempts": 1
+    },
+    {
+      "name": "@demystify/play-runtime",
       "attempts": 1
     }
   ]
