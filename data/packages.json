@@ -614,6 +614,30 @@
       "score": 80
     },
     {
+      "name": "@adlc/context-handoff",
+      "version": "1.9.0",
+      "description": "Context-rot handoff — absolute band signals, session-terminal deny (D1–D3), and operator CLI for write/resume/bypass/repair/unlock (F3 continuity).",
+      "license": "MIT",
+      "repository": "https://github.com/voodootikigod/adlc",
+      "npmUrl": "https://www.npmjs.com/package/%40adlc%2Fcontext-handoff",
+      "category": "cli",
+      "createdAt": "2026-08-08T13:29:16.988Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 56
+    },
+    {
+      "name": "@adlc/gemini",
+      "version": "1.9.0",
+      "description": "ADLC native integration for Google Gemini (antigravity/jetski)",
+      "license": "MIT",
+      "repository": "https://github.com/voodootikigod/adlc",
+      "npmUrl": "https://www.npmjs.com/package/%40adlc%2Fgemini",
+      "category": "utilities",
+      "createdAt": "2026-08-08T13:31:25.674Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 54
+    },
+    {
       "name": "@adlc/herdr",
       "version": "1.7.0",
       "description": "ADLC surfaced at the terminal-multiplexer layer: a herdr plugin showing per-pane ticket/phase/gate state, a backlog board, and gate actions. Published for discovery — herdr itself installs this plugin from the GitHub subdirectory, not from npm.",
@@ -624,6 +648,18 @@
       "createdAt": "2026-07-29T12:49:08.125Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 83
+    },
+    {
+      "name": "@adlc/quartermaster",
+      "version": "1.9.0",
+      "description": "Operator-local channel registry + lifecycle-job routing (the ADLC quartermaster layer) — no LLM calls, no repo-side channel selection.",
+      "license": "MIT",
+      "repository": "https://github.com/voodootikigod/adlc",
+      "npmUrl": "https://www.npmjs.com/package/%40adlc%2Fquartermaster",
+      "category": "cli",
+      "createdAt": "2026-08-08T13:30:18.380Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 56
     },
     {
       "name": "@adobe-thillai/aio-cli-plugin-ccca",
@@ -2748,6 +2784,18 @@
       "createdAt": "2026-07-28T16:09:18.443Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 77
+    },
+    {
+      "name": "@askable-ui/bridge",
+      "version": "0.17.1",
+      "description": "Provider-neutral bridge for sending Askable context to chat surfaces, browser extensions, local MCP bridges, and webhooks",
+      "license": "MIT",
+      "repository": "https://github.com/askable-ui/askable",
+      "npmUrl": "https://www.npmjs.com/package/%40askable-ui%2Fbridge",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:38:30.589Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 53
     },
     {
       "name": "@askalf/plumbline",
@@ -5496,6 +5544,18 @@
       "createdAt": "2026-07-25T13:59:32.279Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 84
+    },
+    {
+      "name": "@codedia/parser",
+      "version": "0.1.0",
+      "description": "LLM-first UI language: parse .aui source into a canonical UI AST and compile it deterministically to React. AST-shaped, token-efficient, and safe by construction.",
+      "license": "MIT",
+      "repository": "https://github.com/fahimc/ai-ui-ast",
+      "npmUrl": "https://www.npmjs.com/package/%40codedia%2Fparser",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:45:12.935Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 72
     },
     {
       "name": "@codeminity/fetch",
@@ -10898,6 +10958,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/dextf",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DEXTF (build etherscan-dextf-5f64ab15-1786222244538, commit 3275e81, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dextf",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdextf",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:51:05.793Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/dfz",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DFZ (build etherscan-dfz-a74c0b5a-1785607929417, commit f3f69f6, branch etherscan)",
@@ -11222,6 +11294,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/grok",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for GROK (build etherscan-grok-8390a1da-1786221489283, commit a5147ef, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/grok",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgrok",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:38:30.334Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/hobbes",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for HOBBES (build etherscan-hobbes-680743aa-1786190028231, commit 8fec6ce, branch etherscan)",
@@ -11496,6 +11580,18 @@
       "createdAt": "2026-07-25T17:38:53.196Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 60
+    },
+    {
+      "name": "@gitmyabi/metis",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Metis (build etherscan-metis-9e32b13c-1786221309303, commit 59fe695, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/metis",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmetis",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:35:32.077Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/mloot",
@@ -11880,6 +11976,18 @@
       "createdAt": "2026-08-01T10:13:05.331Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 60
+    },
+    {
+      "name": "@gitmyabi/propc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PROPC (build etherscan-propc-9ff58067-1786222124540, commit 1d7ec52, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/propc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpropc",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:49:06.562Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/pt-sena-24apr2025",
@@ -12348,6 +12456,18 @@
       "createdAt": "2026-08-08T04:37:48.100Z",
       "discoveredAt": "2026-08-08T04:47:49.989Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/toncoin",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TONCOIN (build etherscan-toncoin-582d872a-1786221419302, commit f4ec437, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/toncoin",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftoncoin",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:37:22.718Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/toolregistry",
@@ -15576,6 +15696,18 @@
       "createdAt": "2026-08-01T21:00:16.978Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 69
+    },
+    {
+      "name": "@jungherz-de/stripe-jack",
+      "version": "1.0.0",
+      "description": "Export Stripe transactions to DATEV (EXTF Buchungsstapel, BEDI documents, PRAP) — German accounting, cron-ready.",
+      "license": "MIT",
+      "repository": "https://github.com/JUNGHERZ/StripeJack",
+      "npmUrl": "https://www.npmjs.com/package/%40jungherz-de%2Fstripe-jack",
+      "category": "cli",
+      "createdAt": "2026-08-08T20:33:19.417Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 91
     },
     {
       "name": "@jungsek/meta-harness",
@@ -21002,6 +21134,18 @@
       "score": 84
     },
     {
+      "name": "@opendocument/odr-core",
+      "version": "6.3.0",
+      "description": "Render documents (ODF, OOXML, legacy MS binary, PDF, ...) to HTML in the browser, with no server",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/opendocument-app/OpenDocument.core",
+      "npmUrl": "https://www.npmjs.com/package/%40opendocument%2Fodr-core",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:05:38.044Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 58
+    },
+    {
       "name": "@openfray/dice",
       "version": "1.0.0",
       "description": "Honest dice for d20 systems: a formula parser and one roll() over a CSPRNG with modulo-bias rejection.",
@@ -22032,6 +22176,18 @@
       "createdAt": "2026-08-07T12:02:59.675Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 82
+    },
+    {
+      "name": "@playza/electrum-client-ts",
+      "version": "1.0.0",
+      "description": "Electrum protocol client for node.js, with JSON-RPC batching and no runtime dependencies. Fork of gemlink/electrum-client-ts.",
+      "license": "MIT",
+      "repository": "https://github.com/forhas/electrum-client-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40playza%2Felectrum-client-ts",
+      "category": "cli",
+      "createdAt": "2026-08-08T20:42:43.319Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 55
     },
     {
       "name": "@pmateusz/pi-workflows",
@@ -26762,6 +26918,18 @@
       "score": 64
     },
     {
+      "name": "@stocksharp/trading-controls",
+      "version": "0.1.0",
+      "description": "Browser trading controls for StockSharp: order blotters, positions, trade history, watchlist and trade feed, each built against one host port and rendering its own DOM.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/StockSharp/JS-TradingControls",
+      "npmUrl": "https://www.npmjs.com/package/%40stocksharp%2Ftrading-controls",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:17:46.193Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 86
+    },
+    {
       "name": "@stone-js/i18n",
       "version": "0.8.6",
       "description": "Framework-agnostic, cloud-native i18n for Stone.js. Zero-config: drop your translations in app/i18n/<lang>/ and use them identically on the backend and the frontend. Powered by i18next.",
@@ -27672,6 +27840,126 @@
       "createdAt": "2026-08-08T14:48:23.652Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 26
+    },
+    {
+      "name": "@teloce/cli",
+      "version": "0.2.0",
+      "description": "Teloce command-line interface - dev, build, debug, create, and more",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fcli",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:25:33.766Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 76
+    },
+    {
+      "name": "@teloce/compiler",
+      "version": "0.2.0",
+      "description": "Teloce template compiler - parses and transforms templates into JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fcompiler",
+      "category": "backend",
+      "createdAt": "2026-08-08T20:25:33.661Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 71
+    },
+    {
+      "name": "@teloce/debugger",
+      "version": "0.2.0",
+      "description": "Teloce human-friendly debugger - translates cryptic errors into plain English with local dashboard",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fdebugger",
+      "category": "utilities",
+      "createdAt": "2026-08-08T20:25:37.292Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 74
+    },
+    {
+      "name": "@teloce/language-service",
+      "version": "0.2.0",
+      "description": "Teloce language service - autocomplete, diagnostics, hover, and formatting for templates",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Flanguage-service",
+      "category": "data",
+      "createdAt": "2026-08-08T20:25:40.214Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 53
+    },
+    {
+      "name": "@teloce/plugin-system",
+      "version": "0.2.0",
+      "description": "Teloce plugin system - extend the template engine with custom directives, filters, components, and more",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fplugin-system",
+      "category": "utilities",
+      "createdAt": "2026-08-08T20:25:40.402Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 74
+    },
+    {
+      "name": "@teloce/reactivity",
+      "version": "0.2.0",
+      "description": "Teloce reactivity system - Signals, Effects, Computed values",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Freactivity",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:25:43.678Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 61
+    },
+    {
+      "name": "@teloce/runtime-core",
+      "version": "0.2.0",
+      "description": "Teloce runtime core - component system, lifecycle, props, slots, directives",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fruntime-core",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:25:46.670Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 59
+    },
+    {
+      "name": "@teloce/server",
+      "version": "0.2.0",
+      "description": "Teloce development server - HTTP server, WebSocket HMR, middleware, and proxy",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fserver",
+      "category": "backend",
+      "createdAt": "2026-08-08T20:25:49.724Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 51
+    },
+    {
+      "name": "@teloce/sfc",
+      "version": "0.2.0",
+      "description": "Teloce Single File Component (.vel) compiler - splits template/script/style sections",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fsfc",
+      "category": "backend",
+      "createdAt": "2026-08-08T20:25:50.165Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 51
+    },
+    {
+      "name": "@teloce/vite-plugin",
+      "version": "0.2.0",
+      "description": "Vite plugin for Teloce - compile .vel Single File Components and templates",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fvite-plugin",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:25:43.673Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 50
     },
     {
       "name": "@telorun/kv-store",
@@ -37044,6 +37332,18 @@
       "createdAt": "2026-08-07T17:38:22.056Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 74
+    },
+    {
+      "name": "dcxv-cli",
+      "version": "0.2.0",
+      "description": "Command-line client for the DCXV GraphQL API (servers, orders, payments, live deploy progress).",
+      "license": "MIT",
+      "repository": "https://github.com/dcxv-com/dcxv-cli",
+      "npmUrl": "https://www.npmjs.com/package/dcxv-cli",
+      "category": "backend",
+      "createdAt": "2026-08-08T20:51:32.050Z",
+      "discoveredAt": "2026-08-08T20:52:20.096Z",
+      "score": 79
     },
     {
       "name": "ddd-charts",
