@@ -3806,6 +3806,30 @@
       "score": 68
     },
     {
+      "name": "@brustack/next-theme-transitions",
+      "version": "1.0.0",
+      "description": "Next.js hook and anti-flash script component for animated dark/light theme transitions using the View Transitions API",
+      "license": "MIT",
+      "repository": "https://github.com/brustack/theme-transitions",
+      "npmUrl": "https://www.npmjs.com/package/%40brustack%2Fnext-theme-transitions",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:52:16.495Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 86
+    },
+    {
+      "name": "@brustack/nuxt-theme-transitions",
+      "version": "2.0.0",
+      "description": "Animated dark/light theme transitions for Nuxt using the View Transitions API",
+      "license": "MIT",
+      "repository": "https://github.com/brustack/theme-transitions",
+      "npmUrl": "https://www.npmjs.com/package/%40brustack%2Fnuxt-theme-transitions",
+      "category": "backend",
+      "createdAt": "2026-08-06T04:44:15.035Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 72
+    },
+    {
       "name": "@brustack/react-theme-transitions",
       "version": "1.0.0",
       "description": "React hook for animated dark/light theme transitions using the View Transitions API",
@@ -8150,6 +8174,18 @@
       "score": 64
     },
     {
+      "name": "@fest-lib/veela",
+      "version": "0.1.2",
+      "description": "Veela CSS framework and runtime loaders (fest-lib)",
+      "license": "MIT",
+      "repository": "https://github.com/fest-live/veela.css",
+      "npmUrl": "https://www.npmjs.com/package/%40fest-lib%2Fveela",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:40:13.188Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 65
+    },
+    {
       "name": "@fft-visualizer/core",
       "version": "0.5.0",
       "description": "Framework-agnostic, WebGL-based real-time audio spectrum analyzer / FFT visualizer — a vanilla TypeScript class. Powers @fft-visualizer/vue.",
@@ -11426,6 +11462,18 @@
       "score": 55
     },
     {
+      "name": "@haitch-diy/sdk",
+      "version": "0.0.1",
+      "description": "Official TypeScript SDK for the Haitch developer API — AI-native hardware product creation across System, CAD, Canvas, Firmware, and Electronics workspaces, plus Store, Partners, files, artifacts, and BOM sourcing.",
+      "license": "MIT",
+      "repository": "https://github.com/Wearer-Lab/haitch-diy",
+      "npmUrl": "https://www.npmjs.com/package/%40haitch-diy%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-08T01:23:18.588Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 90
+    },
+    {
       "name": "@hakanmoral/opencode-session-logger",
       "version": "1.0.0",
       "description": "OpenCode plugin that auto-captures session summaries to an Obsidian wiki vault",
@@ -11918,6 +11966,18 @@
       "score": 51
     },
     {
+      "name": "@honeypot-feed-official/honeypot-feed-widget",
+      "version": "1.0.3",
+      "description": "Embeddable widget for token honeypot detection. Scan any token across 15+ networks for scams, rugpulls, and honeypots.",
+      "license": "MIT",
+      "repository": "https://github.com/honeypotfeed/honeypot-feed-widgets",
+      "npmUrl": "https://www.npmjs.com/package/%40honeypot-feed-official%2Fhoneypot-feed-widget",
+      "category": "devops",
+      "createdAt": "2026-08-08T02:50:22.777Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 76
+    },
+    {
       "name": "@honlnk/picsense",
       "version": "0.1.0",
       "description": "A local MCP server that gives unimodal LLMs multimodal vision — image/video recognition with multi-turn iterative analysis.",
@@ -12048,6 +12108,18 @@
       "createdAt": "2026-07-28T08:01:46.394Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 83
+    },
+    {
+      "name": "@huekit/tokens",
+      "version": "1.0.0",
+      "description": "Turn brand colors into a complete, sRGB-gamut-safe design token set. Scales, readable foregrounds, CSS custom properties. The data spine of huekit.",
+      "license": "MIT",
+      "repository": "https://github.com/doniv01/huekit-tokens",
+      "npmUrl": "https://www.npmjs.com/package/%40huekit%2Ftokens",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:46:10.850Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 80
     },
     {
       "name": "@hurraey/daw-engine-core",
@@ -13226,6 +13298,18 @@
       "score": 98
     },
     {
+      "name": "@jfrader/changelog",
+      "version": "1.1.0",
+      "description": "Zero-dependency changelog system: markdown entries, an agent-facing MD workflow, a build that emits CHANGELOG.md + JSON, and a self-contained end-user page served by a tiny backend.",
+      "license": "MIT",
+      "repository": "https://github.com/jfrader/changelog",
+      "npmUrl": "https://www.npmjs.com/package/%40jfrader%2Fchangelog",
+      "category": "backend",
+      "createdAt": "2026-08-08T02:12:01.571Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 74
+    },
+    {
       "name": "@jini-ai/ui",
       "version": "0.1.0",
       "description": "Renamed from `@jini/components` in this session (2026-07-16) once it became clear one \"components\" bucket undersold the scope: this package is meant to hold more than flat presentational components — pure business logic, hooks, and injectable providers fo",
@@ -13728,6 +13812,18 @@
       "createdAt": "2026-07-28T13:52:07.587Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 90
+    },
+    {
+      "name": "@kecan0406/ttheme",
+      "version": "0.1.0",
+      "description": "Character terminal palettes for ghostty, kitty, alacritty, wezterm and iTerm2",
+      "license": "MIT",
+      "repository": "https://github.com/kecan0406/ttheme",
+      "npmUrl": "https://www.npmjs.com/package/%40kecan0406%2Fttheme",
+      "category": "cli",
+      "createdAt": "2026-08-08T02:58:17.020Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 65
     },
     {
       "name": "@keicoin/economy",
@@ -15818,6 +15914,18 @@
       "score": 73
     },
     {
+      "name": "@mingora/bazi",
+      "version": "0.1.0",
+      "description": "The production BaZi calculation engine behind Mingora, with typed Four Pillars, true solar time, Da Yun, and Five Element analysis.",
+      "license": "MIT",
+      "repository": "https://github.com/mingora-app/bazi",
+      "npmUrl": "https://www.npmjs.com/package/%40mingora%2Fbazi",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T02:50:17.762Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 62
+    },
+    {
       "name": "@minhduydev/pi-harness",
       "version": "2.0.0",
       "description": "A portable Pi Coding Agent package with curated extensions, skills, prompts, and themes.",
@@ -17798,6 +17906,18 @@
       "score": 79
     },
     {
+      "name": "@noorm/lumi",
+      "version": "0.83.2",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/CardSorting/LUMPI",
+      "npmUrl": "https://www.npmjs.com/package/%40noorm%2Flumi",
+      "category": "data",
+      "createdAt": "2026-08-08T01:56:07.420Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 69
+    },
+    {
       "name": "@noorm/lumpi",
       "version": "0.83.0",
       "description": "Coding agent CLI with read, bash, edit, write tools and session management",
@@ -18072,6 +18192,18 @@
       "createdAt": "2026-07-25T23:23:42.857Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 47
+    },
+    {
+      "name": "@nyzzz/whatsapp-bot-engine",
+      "version": "1.0.0",
+      "description": "WhatsApp Web API library for building bots and automation",
+      "license": "MIT",
+      "repository": "https://github.com/WiraaStand/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40nyzzz%2Fwhatsapp-bot-engine",
+      "category": "backend",
+      "createdAt": "2026-08-08T01:11:28.973Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 70
     },
     {
       "name": "@oasissys/oasis-axi",
@@ -20678,6 +20810,18 @@
       "score": 75
     },
     {
+      "name": "@reactorynet/workflow-es-sqlite",
+      "version": "1.0.0",
+      "description": "Embedded SQLite persistence provider for Workflow ES (Reactory fork)",
+      "license": "MIT",
+      "repository": "https://github.com/reactorynet/reactory-workflow-es",
+      "npmUrl": "https://www.npmjs.com/package/%40reactorynet%2Fworkflow-es-sqlite",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:43:56.052Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 61
+    },
+    {
       "name": "@real_jiakai/kagi-mcp",
       "version": "1.0.0",
       "description": "MCP server for Kagi Search using your session token - web & news search, lenses, regions. No API subscription needed.",
@@ -23030,6 +23174,18 @@
       "score": 75
     },
     {
+      "name": "@slipsheet/hugerte",
+      "version": "0.1.1",
+      "description": "HugeRTE editor plugin that adds a PDF upload button. Inserts standardized .slipsheet markup; pairs with @slipsheet/viewer for rendering. API-compatible with TinyMCE 6 (the last MIT-licensed TinyMCE).",
+      "license": "MIT",
+      "repository": "https://github.com/jonto/slipsheet",
+      "npmUrl": "https://www.npmjs.com/package/%40slipsheet%2Fhugerte",
+      "category": "backend",
+      "createdAt": "2026-08-07T00:56:09.816Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 61
+    },
+    {
       "name": "@slop-detector/slop-detector",
       "version": "0.1.0",
       "description": "Score text 0-100 on how AI-written it looks, and get back the exact lines that scored. Dependency-free heuristics ported from the not-ai skill.",
@@ -24182,6 +24338,18 @@
       "score": 77
     },
     {
+      "name": "@synervoz/openai-realtime-toolkit",
+      "version": "1.0.1",
+      "description": "React Native library for on-device audio AI pipelines (VAD, turn detection, ONNX) powered by the Switchboard SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/switchboard-sdk/openai-realtime-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40synervoz%2Fopenai-realtime-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-08-08T02:27:31.858Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 91
+    },
+    {
       "name": "@syntax-raise/date-time-utils",
       "version": "1.0.1",
       "description": "Zero-dependency JavaScript date & time utility library — 449 functions for parsing, formatting, arithmetic, comparison, validation, difference, timezone, relative time, duration, business days, holidays (US, UK, DE, FR, IN, CA, AU, JP, BR, ES, NL, IT), se",
@@ -25068,6 +25236,18 @@
       "createdAt": "2026-08-04T05:29:28.781Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 80
+    },
+    {
+      "name": "@trango/x402-middleware",
+      "version": "0.1.0",
+      "description": "Framework-agnostic X402 stablecoin payment middleware for Hono, Next.js, and Express",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/trangocomputedev/trango-X402-payment-middleware",
+      "npmUrl": "https://www.npmjs.com/package/%40trango%2Fx402-middleware",
+      "category": "backend",
+      "createdAt": "2026-08-08T01:15:49.628Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 75
     },
     {
       "name": "@transclude/core",
@@ -28082,6 +28262,30 @@
       "score": 66
     },
     {
+      "name": "aethercode-cli",
+      "version": "0.2.0",
+      "description": "AETHER - a cross-platform terminal AI coding agent. Chat with LLMs, call tools, and write code straight from your terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/Aetherdz/aethercode",
+      "npmUrl": "https://www.npmjs.com/package/aethercode-cli",
+      "category": "data",
+      "createdAt": "2026-08-08T01:30:11.109Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 78
+    },
+    {
+      "name": "aetherdz",
+      "version": "0.3.0",
+      "description": "AETHER - a cross-platform terminal AI coding agent. Chat with LLMs, call tools, and write code straight from your terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/Aetherdz/aethercode",
+      "npmUrl": "https://www.npmjs.com/package/aetherdz",
+      "category": "data",
+      "createdAt": "2026-08-08T02:21:26.643Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 78
+    },
+    {
       "name": "afk-term",
       "version": "0.1.0",
       "description": "Terminal screensavers for when you step away. Thirty effects, no dependencies, one command.",
@@ -29400,6 +29604,18 @@
       "createdAt": "2026-07-27T04:32:03.804Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 75
+    },
+    {
+      "name": "aura-op-one",
+      "version": "0.1.0",
+      "description": "Aura OP One — the minimal personal and agentic client for the Aura ecosystem. A quiet conversation with memory, a chosen agent, and a verification state you can trust.",
+      "license": "MIT",
+      "repository": "https://github.com/DusanCar-sudo/aura-op-one",
+      "npmUrl": "https://www.npmjs.com/package/aura-op-one",
+      "category": "cli",
+      "createdAt": "2026-08-08T02:57:17.935Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 69
     },
     {
       "name": "authcore-mobile",
@@ -33374,6 +33590,18 @@
       "score": 80
     },
     {
+      "name": "double-meh",
+      "version": "1.0.0",
+      "description": "A modern fetch-native HTTP I/O library for browsers and CLIs: caching, request dedup, retry, streaming, SSE, and transparent bundling. Zero dependencies.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/uhop/double-meh",
+      "npmUrl": "https://www.npmjs.com/package/double-meh",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:20:33.926Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 66
+    },
+    {
       "name": "doubt-ai",
       "version": "0.5.0",
       "description": "Turn contested questions into interactive, source-grounded evidence maps.",
@@ -33708,6 +33936,18 @@
       "createdAt": "2026-07-27T17:45:59.511Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 80
+    },
+    {
+      "name": "emergency-and-helplines",
+      "version": "1.0.0",
+      "description": "Free JSON dataset and CLI of emergency phone numbers and suicide crisis lines for 245 countries, built from Wikipedia. No API key.",
+      "license": "MIT",
+      "repository": "https://github.com/fernando-195/emergency-and-helplines-api",
+      "npmUrl": "https://www.npmjs.com/package/emergency-and-helplines",
+      "category": "backend",
+      "createdAt": "2026-08-08T02:46:00.669Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 93
     },
     {
       "name": "emoji-remover-js",
@@ -38918,6 +39158,18 @@
       "score": 73
     },
     {
+      "name": "materialwind-css",
+      "version": "0.1.0",
+      "description": "Material Design 3 color system for Tailwind CSS 4, with dynamic color.",
+      "license": "MIT",
+      "repository": "https://github.com/saade/materialwind",
+      "npmUrl": "https://www.npmjs.com/package/materialwind-css",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:14:00.241Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 64
+    },
+    {
       "name": "matterbridge-midea",
       "version": "0.1.19",
       "description": "Matterbridge plugin for Midea SmartHome air conditioners",
@@ -39000,6 +39252,18 @@
       "createdAt": "2026-08-05T12:12:08.407Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 90
+    },
+    {
+      "name": "mcp-better",
+      "version": "0.4.0",
+      "description": "AAIF-verified modern MCP setup optimised to the 2026-07-28 model (BETTER textbook). npm shim downloads the native binary from GitHub Releases.",
+      "license": "MIT",
+      "repository": "https://github.com/Wolfe-Jam/mcp-better",
+      "npmUrl": "https://www.npmjs.com/package/mcp-better",
+      "category": "utilities",
+      "createdAt": "2026-08-08T02:29:36.459Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 63
     },
     {
       "name": "mcp-books",
@@ -39588,6 +39852,18 @@
       "createdAt": "2026-07-26T23:29:54.239Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 64
+    },
+    {
+      "name": "mimic-reels-mcp",
+      "version": "0.2.0",
+      "description": "MCP server that recreates the style of a reference reel with your footage and script, using Remotion",
+      "license": "MIT",
+      "repository": "https://github.com/pouyashahrdami/mimic-mcp",
+      "npmUrl": "https://www.npmjs.com/package/mimic-reels-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T21:07:24.440Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 72
     },
     {
       "name": "mimirapi",
@@ -40908,6 +41184,18 @@
       "createdAt": "2026-08-07T03:17:10.374Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 80
+    },
+    {
+      "name": "nexus-launch-agent",
+      "version": "0.2.0",
+      "description": "Conversational, non-custodial multichain launch agent for pons, Flap, and Pump.fun",
+      "license": "MIT",
+      "repository": "https://github.com/iloveenergydrinks/nexusclirh",
+      "npmUrl": "https://www.npmjs.com/package/nexus-launch-agent",
+      "category": "utilities",
+      "createdAt": "2026-08-08T01:13:39.370Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 74
     },
     {
       "name": "nexus-memory-trust",
@@ -47880,6 +48168,18 @@
       "createdAt": "2026-08-05T17:41:13.687Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 71
+    },
+    {
+      "name": "sticky-scroll-trigger",
+      "version": "0.2.0",
+      "description": "A ScrollTrigger helper that uses native CSS position:sticky instead of GSAP pinning",
+      "license": "MIT",
+      "repository": "https://github.com/kuninori-ogino/sticky-scroll-trigger",
+      "npmUrl": "https://www.npmjs.com/package/sticky-scroll-trigger",
+      "category": "frontend",
+      "createdAt": "2026-08-08T01:37:34.824Z",
+      "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 68
     },
     {
       "name": "stitchmath-core",
