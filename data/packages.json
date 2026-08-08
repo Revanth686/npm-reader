@@ -1586,6 +1586,18 @@
       "score": 49
     },
     {
+      "name": "@almondoo/klaus",
+      "version": "0.1.0",
+      "description": "API 検証 CLI: YAML でリクエストフローを定義し、実行・アサーション・履歴管理を行う",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/almondoo/klaus",
+      "npmUrl": "https://www.npmjs.com/package/%40almondoo%2Fklaus",
+      "category": "testing",
+      "createdAt": "2026-08-08T10:22:11.794Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 48
+    },
+    {
       "name": "@alperlabs/crap4ts",
       "version": "0.2.1",
       "description": "A CRAP metric analyzer for TypeScript projects, with extra AI-slop heuristics. Modeled after crap4java.",
@@ -2702,6 +2714,18 @@
       "score": 86
     },
     {
+      "name": "@astrivya/akg-core",
+      "version": "0.1.1",
+      "description": "Astrivya Knowledge Graph engine — SQLite-embedded, FTS5, vector embeddings, graph traversal, impact analysis, 3-way merge sync",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/astrivya/astrivya",
+      "npmUrl": "https://www.npmjs.com/package/%40astrivya%2Fakg-core",
+      "category": "data",
+      "createdAt": "2026-08-08T10:27:36.813Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 53
+    },
+    {
       "name": "@atoapayments/agent-pay",
       "version": "0.0.1",
       "description": "The ergonomic, standalone SDK for agentic payments: embed payments in your product, or give your AI agent a payment tool, under a signed, capped, payee-scoped contract over HTTP. Three nouns — agent, contract, payment.",
@@ -2748,6 +2772,18 @@
       "createdAt": "2026-07-25T19:46:27.431Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 70
+    },
+    {
+      "name": "@atonima/sdk",
+      "version": "0.2.0",
+      "description": "TypeScript runtime for deterministic financial automation, authorization, and execution on Stellar.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/atonima-fi/atonima-core",
+      "npmUrl": "https://www.npmjs.com/package/%40atonima%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T10:23:44.041Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 73
     },
     {
       "name": "@atscale-ps/ps-utils-dev",
@@ -5066,6 +5102,18 @@
       "score": 40
     },
     {
+      "name": "@cmdsend/nodemailer",
+      "version": "0.1.0",
+      "description": "Nodemailer transport for cmdsend.com — transactional email API on Amazon SES",
+      "license": "MIT",
+      "repository": "https://github.com/cmdsend/nodemailer",
+      "npmUrl": "https://www.npmjs.com/package/%40cmdsend%2Fnodemailer",
+      "category": "backend",
+      "createdAt": "2026-08-08T10:19:04.966Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 75
+    },
+    {
       "name": "@cms-lawyers/mycase-mcp",
       "version": "1.2.0",
       "description": "CMS Lawyers fork of the MyCase MCP server with cursor pagination fixes, optional time entry writes, and encrypted OAuth token storage.",
@@ -5748,6 +5796,18 @@
       "createdAt": "2026-07-25T18:39:10.530Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 57
+    },
+    {
+      "name": "@crediolabs/agent-web-wallets",
+      "version": "0.1.0",
+      "description": "Browser-resident agent wallet for Stellar dApps. A Stellar Wallets Kit module backed by a non-extractable WebCrypto key.",
+      "license": "MIT",
+      "repository": "https://github.com/crediolabs-ai/agent-web-wallets",
+      "npmUrl": "https://www.npmjs.com/package/%40crediolabs%2Fagent-web-wallets",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:48:45.755Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 59
     },
     {
       "name": "@crewhaus/hangar-server",
@@ -9854,6 +9914,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/beaconproofs",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BeaconProofs (build etherscan-beaconproofs-c4444c5d-1786184972204, commit 7324024, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/beaconproofs",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbeaconproofs",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T10:29:53.969Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/biggie",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BIGGIE (build etherscan-biggie-95ae2526-1785596694270, commit 990ea46, branch etherscan)",
@@ -10883,6 +10955,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-29T21:33:37.779Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/ovo",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for OVO (build etherscan-ovo-bfc66d8c-1786185157300, commit 1d66235, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ovo",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fovo",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T10:32:58.517Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 56
     },
     {
@@ -14462,6 +14546,18 @@
       "score": 69
     },
     {
+      "name": "@kagayoi/cws-mcp",
+      "version": "2.0.3",
+      "description": "MCP server for Chrome Web Store extension management (V2 API)",
+      "license": "MIT",
+      "repository": "https://github.com/1llum1n4t1s/KG.cws-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40kagayoi%2Fcws-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-06T16:17:05.138Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 68
+    },
+    {
       "name": "@kaidn/mcp",
       "version": "0.2.2",
       "description": "Investigate fraud from Claude, Cursor or any MCP client. Explain any verdict with the evidence behind it, pivot from one signup to every account sharing its device, IP or inbox, check an entity against a cross-operator abuse network, and work the review q",
@@ -17832,6 +17928,18 @@
       "createdAt": "2026-08-06T16:43:47.529Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 90
+    },
+    {
+      "name": "@mrcall/directvoice",
+      "version": "1.0.5",
+      "description": "Browser client for MrCall DirectVoice — WebSocket voice calls with an AI assistant. Opus via WebCodecs, zero dependencies.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/hahnbanach/mrcalldirectvoice",
+      "npmUrl": "https://www.npmjs.com/package/%40mrcall%2Fdirectvoice",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:44:31.050Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 84
     },
     {
       "name": "@mrciphersmith/keryx",
@@ -23978,6 +24086,18 @@
       "score": 77
     },
     {
+      "name": "@siranjeevan/gitnest",
+      "version": "1.0.0",
+      "description": "One Workspace. Multiple Git Identities.",
+      "license": "MIT",
+      "repository": "https://github.com/siranjeevan/GitNest",
+      "npmUrl": "https://www.npmjs.com/package/%40siranjeevan%2Fgitnest",
+      "category": "cli",
+      "createdAt": "2026-08-08T10:28:51.973Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 75
+    },
+    {
       "name": "@sitharaj88/macctl",
       "version": "0.1.0",
       "description": "macOS desktop-automation MCP server — accessibility-tree-first control of windows, input, screen capture, and the system, exposed over the Model Context Protocol.",
@@ -25946,6 +26066,18 @@
       "score": 79
     },
     {
+      "name": "@textbee/sdk",
+      "version": "0.0.2",
+      "description": "Official JavaScript SDK for textbee.dev, the open source SMS gateway",
+      "license": "MIT",
+      "repository": "https://github.com/textbee/textbee-js",
+      "npmUrl": "https://www.npmjs.com/package/%40textbee%2Fsdk",
+      "category": "devops",
+      "createdAt": "2026-08-08T09:54:16.111Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 42
+    },
+    {
       "name": "@textguard/plugin-pii",
       "version": "0.2.0",
       "description": "PII / Compliance detection bundle for TextGuard — email, phone, credit card and IBAN detection with a scan() helper for CI and pre-commit use.",
@@ -26160,6 +26292,18 @@
       "createdAt": "2026-08-02T23:03:44.094Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 53
+    },
+    {
+      "name": "@thomasfosterau/argon2",
+      "version": "0.1.1",
+      "description": "argon2id password hashing for edge runtimes (Cloudflare Workers, Deno, browsers) — the RustCrypto argon2 crate compiled to WebAssembly, synchronous and dependency-free.",
+      "license": "MIT",
+      "repository": "https://github.com/thomasfosterau/rust-wasm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40thomasfosterau%2Fargon2",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:32:30.728Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 60
     },
     {
       "name": "@thomasfosterau/effect-evals",
@@ -31646,6 +31790,18 @@
       "score": 72
     },
     {
+      "name": "bpmn-di-gen",
+      "version": "0.1.0",
+      "description": "Generate readable BPMN Diagram Interchange information for BPMN 2.0 XML.",
+      "license": "MIT",
+      "repository": "https://github.com/ultimatechris/bpmn-di-gen",
+      "npmUrl": "https://www.npmjs.com/package/bpmn-di-gen",
+      "category": "data",
+      "createdAt": "2026-08-08T10:55:35.057Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 57
+    },
+    {
       "name": "brainllm",
       "version": "10.2.0",
       "description": "MCP server that turns TriliumNext Notes into a persistent, graph-structured second brain for Claude and other LLM clients.",
@@ -32844,6 +33000,18 @@
       "createdAt": "2026-07-30T00:29:58.233Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 68
+    },
+    {
+      "name": "claude-skill-vault",
+      "version": "1.0.0",
+      "description": "Lazy-load all Claude Code skills and plugin skills. One command, thousands of context tokens saved, zero change in usage.",
+      "license": "MIT",
+      "repository": "https://github.com/bockmurat/skill-vault",
+      "npmUrl": "https://www.npmjs.com/package/claude-skill-vault",
+      "category": "utilities",
+      "createdAt": "2026-08-08T10:38:05.832Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 64
     },
     {
       "name": "claude-skills-kit",
@@ -34668,6 +34836,18 @@
       "createdAt": "2026-07-30T04:31:13.492Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 75
+    },
+    {
+      "name": "demiurge-ogma",
+      "version": "0.1.0",
+      "description": "One Graph, Many Audiences. OGMA reads a codebase once into a receipt-backed model, then renders it for every audience: engineers, stakeholders, end users. Nothing ships without a certificate.",
+      "license": "MIT",
+      "repository": "https://github.com/eragonlonelyboy-lab/ogma",
+      "npmUrl": "https://www.npmjs.com/package/demiurge-ogma",
+      "category": "utilities",
+      "createdAt": "2026-08-08T10:46:59.895Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 57
     },
     {
       "name": "deml-ui",
@@ -38450,6 +38630,18 @@
       "score": 71
     },
     {
+      "name": "humanise-pw",
+      "version": "0.1.0",
+      "description": "Make Playwright browser automation move like a real human",
+      "license": "MIT",
+      "repository": "https://github.com/vanniaxel06/humanise-pw",
+      "npmUrl": "https://www.npmjs.com/package/humanise-pw",
+      "category": "testing",
+      "createdAt": "2026-08-08T10:44:25.522Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 54
+    },
+    {
       "name": "humanpen-mcp",
       "version": "1.0.0",
       "description": "MCP server for HumanPen - lower AI-detection scores, fix citations, condense and translate document files, keeping formatting intact.",
@@ -40502,6 +40694,18 @@
       "score": 69
     },
     {
+      "name": "lynq-mcp",
+      "version": "0.2.0",
+      "description": "Lynq MCP server - sign in with your Lynq account and let an AI agent manage your widget announcements and surveys",
+      "license": "MIT",
+      "repository": "https://github.com/behzodo/lynq",
+      "npmUrl": "https://www.npmjs.com/package/lynq-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T10:24:10.822Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 44
+    },
+    {
       "name": "macca-method",
       "version": "1.0.0",
       "description": "CLI installer for MACCA AI spec-driven development skills.",
@@ -41988,6 +42192,18 @@
       "createdAt": "2026-07-30T11:14:18.998Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 81
+    },
+    {
+      "name": "n8n-nodes-adacode",
+      "version": "0.1.0",
+      "description": "n8n community node untuk adaCODE — pakai satu API key adaCODE untuk semua model (Claude, GPT, GLM, Qwen, MiniMax, adaCODE house) di workflow n8n, termasuk sebagai Chat Model untuk AI Agent.",
+      "license": "MIT",
+      "repository": "https://github.com/angga-ada-AI/n8n-nodes-adacode",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-adacode",
+      "category": "backend",
+      "createdAt": "2026-08-08T10:34:40.844Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 59
     },
     {
       "name": "n8n-nodes-apple-appstore",
@@ -45242,6 +45458,18 @@
       "score": 73
     },
     {
+      "name": "pi-file-size",
+      "version": "0.1.1",
+      "description": "Non-blocking, event-local file-size guidance for Pi coding agent mutations.",
+      "license": "MIT",
+      "repository": "https://github.com/krajcik/pi-file-size",
+      "npmUrl": "https://www.npmjs.com/package/pi-file-size",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:59:20.801Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 59
+    },
+    {
       "name": "pi-glean",
       "version": "0.1.0",
       "description": "Zero-config web search and URL fetching for pi — works with no API keys, and uses your ChatGPT Plus/Pro or xAI subscription for higher-quality answers when available. Plus GitHub repos, PDFs, YouTube, and video frames.",
@@ -45926,6 +46154,18 @@
       "score": 88
     },
     {
+      "name": "plexure",
+      "version": "0.0.1",
+      "description": "A drifting field of points connected by lines, reacting to the pointer. Scope it to the viewport, a page, any element, or an arbitrary shape. Under 5 kB, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/JC-02/plexure",
+      "npmUrl": "https://www.npmjs.com/package/plexure",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:23:56.191Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 52
+    },
+    {
       "name": "plugin-syndicate",
       "version": "0.1.1",
       "description": "Play The Syndicate from any elizaOS agent — a deterministic, turn-based crime-city game where the loot is real trading cards priced by a live on-chain TCG oracle. Humans and agents share one world and one leaderboard.",
@@ -46404,6 +46644,18 @@
       "createdAt": "2026-08-01T21:18:20.391Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 62
+    },
+    {
+      "name": "prompttap",
+      "version": "0.2.0",
+      "description": "Inspect the model API traffic sent by Claude Code and Codex through a local proxy and dashboard.",
+      "license": "MIT",
+      "repository": "https://github.com/denisbalyko/PromptTap",
+      "npmUrl": "https://www.npmjs.com/package/prompttap",
+      "category": "backend",
+      "createdAt": "2026-08-08T10:27:18.418Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 77
     },
     {
       "name": "proofreel",
@@ -47438,6 +47690,18 @@
       "score": 89
     },
     {
+      "name": "react-native-number-plate-scanner",
+      "version": "0.1.0",
+      "description": "React Native number plate scanner with camera, gallery, and OCR support, initially optimized for Indian vehicle registration numbers.",
+      "license": "MIT",
+      "repository": "https://github.com/ayadav8563/react-native-number-plate-scanner",
+      "npmUrl": "https://www.npmjs.com/package/react-native-number-plate-scanner",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:48:26.169Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 77
+    },
+    {
       "name": "react-native-observability",
       "version": "0.1.1",
       "description": "Production-grade observability and debugging toolkit for React Native with structured logging, error boundaries, on-device debug panel, and zero forced dependencies.",
@@ -48084,6 +48348,18 @@
       "createdAt": "2026-07-30T11:48:27.704Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 70
+    },
+    {
+      "name": "revnix-capacitor",
+      "version": "0.1.0",
+      "description": "Revnix subscriptions and entitlements for Capacitor.",
+      "license": "MIT",
+      "repository": "https://github.com/Oth-tech/RevnixSDK-Capacitor",
+      "npmUrl": "https://www.npmjs.com/package/revnix-capacitor",
+      "category": "devops",
+      "createdAt": "2026-08-08T10:33:04.352Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 61
     },
     {
       "name": "reynolds",
@@ -51650,6 +51926,18 @@
       "score": 76
     },
     {
+      "name": "tron-fee",
+      "version": "1.0.0",
+      "description": "Work out what a TRC-20 transfer costs on TRON before you sign it. Reads getEnergyFee, detects whether the recipient has ever held the token, and compares burning TRX against renting energy. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/perchgpt-prog/tron-fee",
+      "npmUrl": "https://www.npmjs.com/package/tron-fee",
+      "category": "cli",
+      "createdAt": "2026-08-08T10:54:36.124Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 88
+    },
+    {
       "name": "truecopy",
       "version": "0.0.2",
       "description": "Read tables out of PDFs, and refuse the readings you cannot trust. Learns each document's own shape, so a new issuer needs no new configuration.",
@@ -53532,6 +53820,18 @@
       "createdAt": "2026-07-28T14:46:41.748Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 72
+    },
+    {
+      "name": "workspace-sync",
+      "version": "0.1.0",
+      "description": "Security-hardened local Model Context Protocol (MCP) server for multi-project workspaces linked with Testing/Production VPS",
+      "license": "MIT",
+      "repository": "https://github.com/vishwas0developers/workspace-sync",
+      "npmUrl": "https://www.npmjs.com/package/workspace-sync",
+      "category": "testing",
+      "createdAt": "2026-08-08T10:44:25.250Z",
+      "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 74
     },
     {
       "name": "wormhole-x402",

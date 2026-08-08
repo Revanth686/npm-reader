@@ -1,47 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123956326,
-  "lastRunAt": "2026-08-08T10:22:29.119Z",
+  "lastSequence": 123958823,
+  "lastRunAt": "2026-08-08T10:56:13.166Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@assalabs/eslint-config",
+      "name": "@wm-storefront/ui",
       "attempts": 1
     },
     {
-      "name": "@mason-ds/react",
+      "name": "@wm-storefront/commerce-ui",
       "attempts": 1
     },
     {
-      "name": "@mason-ds/vue",
-      "attempts": 1
-    },
-    {
-      "name": "@mason-ds/tokens",
-      "attempts": 1
-    },
-    {
-      "name": "@cmdsend/nodemailer",
-      "attempts": 1
-    },
-    {
-      "name": "@zeldrisho/iconsur",
-      "attempts": 1
-    },
-    {
-      "name": "chakreshram11",
-      "attempts": 1
-    },
-    {
-      "name": "@lla-ma/checkout",
-      "attempts": 1
-    },
-    {
-      "name": "@almondoo/klaus",
-      "attempts": 1
-    },
-    {
-      "name": "@magclaw/notify-owner",
+      "name": "@wm-storefront/config",
       "attempts": 1
     }
   ]
