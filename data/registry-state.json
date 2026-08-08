@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123946900,
-  "lastRunAt": "2026-08-08T08:30:12.394Z",
+  "lastSequence": 123950762,
+  "lastRunAt": "2026-08-08T09:11:55.431Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@jaimehoracio/pistack",
-      "attempts": 7
+      "name": "@microi.net/codex-plugin",
+      "attempts": 1
     },
     {
-      "name": "@rekey.dev/astro",
+      "name": "@mstar-harness/engine",
+      "attempts": 1
+    },
+    {
+      "name": "@sittari/payload-config",
+      "attempts": 1
+    },
+    {
+      "name": "@sittari/payload-next",
+      "attempts": 1
+    },
+    {
+      "name": "@sittari/payload-ui",
+      "attempts": 1
+    },
+    {
+      "name": "@heysengo/react",
       "attempts": 1
     }
   ]
