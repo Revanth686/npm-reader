@@ -1010,6 +1010,18 @@
       "score": 66
     },
     {
+      "name": "@agentrag/client",
+      "version": "0.1.0",
+      "description": "AgentRAG SDK — x402-paid retrieval over your own documents, for agents.",
+      "license": "MIT",
+      "repository": "https://github.com/agentx402-ai/agentrag",
+      "npmUrl": "https://www.npmjs.com/package/%40agentrag%2Fclient",
+      "category": "cli",
+      "createdAt": "2026-08-08T13:02:03.496Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 57
+    },
+    {
       "name": "@agentsbloom/sdk",
       "version": "0.2.0",
       "description": "Universal Node.js/Express SDK to convert any e-commerce store into an Agent-Ready API (UCP, ACP, AP2, WebMCP, Web Bot Auth).",
@@ -1584,6 +1596,30 @@
       "createdAt": "2026-07-25T21:09:05.894Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 49
+    },
+    {
+      "name": "@allratestoday/hmrc-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official HM Revenue & Customs (United Kingdom) monthly exchange rates — ~140 currencies vs GBP, history since 2021. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/hmrc-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fhmrc-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-08-08T12:32:40.158Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 65
+    },
+    {
+      "name": "@allratestoday/ustreasury-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official U.S. Department of the Treasury (United States) quarterly exchange rates — ~145 currencies vs USD, history since 2001. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/ustreasury-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fustreasury-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-08-08T12:32:44.513Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 67
     },
     {
       "name": "@almondoo/klaus",
@@ -5378,6 +5414,18 @@
       "score": 87
     },
     {
+      "name": "@cognitive-fab/polycheck",
+      "version": "0.1.0",
+      "description": "A least-privilege linter for Claude Code agent policies. Ingests a repo's .claude settings + MCP config and outputs a proof (every path into a forbidden region crosses a gate) or a witness: a concrete sequence of allowed tool calls that reaches credential",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cognitive-fab/polycheck",
+      "npmUrl": "https://www.npmjs.com/package/%40cognitive-fab%2Fpolycheck",
+      "category": "devops",
+      "createdAt": "2026-08-08T13:12:46.136Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 82
+    },
+    {
       "name": "@cogs/config",
       "version": "0.4.0",
       "description": "Framework-agnostic layered-dotenv loader — resolves the canonical .env file chain, expands ${VAR} references, and folds values into process.env with deploy-injected variables staying authoritative. Dual ESM+CJS so it works from an ESM --import preload or",
@@ -6912,6 +6960,18 @@
       "createdAt": "2026-08-02T20:54:07.457Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 83
+    },
+    {
+      "name": "@dingalabs/clim",
+      "version": "1.1.0",
+      "description": "Control Claude Code + Codex from your phone. LAN offline or E2E-encrypted cloud. One command: clim claude.",
+      "license": "MIT",
+      "repository": "https://github.com/subrahmanyabhat/clim",
+      "npmUrl": "https://www.npmjs.com/package/%40dingalabs%2Fclim",
+      "category": "cli",
+      "createdAt": "2026-08-08T12:44:28.043Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 70
     },
     {
       "name": "@dinglebear/cortex",
@@ -19322,6 +19382,18 @@
       "score": 71
     },
     {
+      "name": "@numaya/greenlight",
+      "version": "0.2.0",
+      "description": "Lead quality gate for Twenty CRM. Deterministic scoring plus optional AI and search enrichment.",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/rizvi-group/numaya-green-light",
+      "npmUrl": "https://www.npmjs.com/package/%40numaya%2Fgreenlight",
+      "category": "utilities",
+      "createdAt": "2026-08-08T12:27:49.694Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 70
+    },
+    {
       "name": "@nxeon_studio/tmn-voucher",
       "version": "3.1.3",
       "description": "SDK ภาษา TypeScript สำหรับตรวจสอบและแลกคูปองอั่งเปา TrueMoney Wallet แบบ third-party",
@@ -19488,6 +19560,18 @@
       "createdAt": "2026-08-04T13:02:59.926Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 83
+    },
+    {
+      "name": "@odata-filter/express",
+      "version": "1.0.0",
+      "description": "Express middleware for parsing and validating OData filter expressions for comprehensive OData support in Express applications.",
+      "license": "MIT",
+      "repository": "https://github.com/prior-art/odata-filter",
+      "npmUrl": "https://www.npmjs.com/package/%40odata-filter%2Fexpress",
+      "category": "backend",
+      "createdAt": "2026-08-08T12:50:19.004Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 50
     },
     {
       "name": "@odla-ai/camel",
@@ -25178,6 +25262,18 @@
       "score": 73
     },
     {
+      "name": "@stagecaptions/srt-to-vtt",
+      "version": "0.0.1",
+      "description": "A command line tool and JavaScript library that converts subtitle files from SubRip (.srt) format to WebVTT (.vtt) format.",
+      "license": "MIT",
+      "repository": "https://github.com/stagecaptions/srt-to-vtt",
+      "npmUrl": "https://www.npmjs.com/package/%40stagecaptions%2Fsrt-to-vtt",
+      "category": "data",
+      "createdAt": "2026-08-08T13:22:17.247Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 49
+    },
+    {
       "name": "@stardust-cms/iframe-adapter",
       "version": "0.1.0",
       "description": "Typed, framework-agnostic protocol plus iframe/host adapters for building in-iframe visual editors, transported over frame-link.",
@@ -30038,6 +30134,18 @@
       "score": 75
     },
     {
+      "name": "add-fabien-skills",
+      "version": "0.1.0",
+      "description": "Installe les skills de Fabien-skills dans Claude Code, en une commande.",
+      "license": "MIT",
+      "repository": "https://github.com/FabienRabotDutilleul/Fabien-skills",
+      "npmUrl": "https://www.npmjs.com/package/add-fabien-skills",
+      "category": "cli",
+      "createdAt": "2026-08-08T13:27:28.738Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 50
+    },
+    {
       "name": "adlc-skills-cli",
       "version": "0.4.0",
       "description": "Generic CLI that wraps npx skills add and converts installed skills to slash commands + lifecycle event hooks for any coding agent.",
@@ -31464,6 +31572,18 @@
       "createdAt": "2026-08-02T20:59:07.541Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 54
+    },
+    {
+      "name": "atlas-architecture-mcp",
+      "version": "0.2.0",
+      "description": "Headless Atlas: the MCP server and rules CLI for the Atlas architecture workspace — use atlas.yaml from Claude Code, Cursor, Windsurf, Gemini CLI, or Codex without VS Code installed.",
+      "license": "MIT",
+      "repository": "https://github.com/afetiu/project-atlas",
+      "npmUrl": "https://www.npmjs.com/package/atlas-architecture-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T13:24:50.438Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 47
     },
     {
       "name": "atlas-tui",
@@ -34730,6 +34850,18 @@
       "score": 82
     },
     {
+      "name": "create-uks-packet",
+      "version": "1.0.0",
+      "description": "Scaffold a publish-ready UKS knowledge-packet repo — npm create uks-packet@latest",
+      "license": "MIT",
+      "repository": "https://github.com/Vybecode-LTD/SaberTools",
+      "npmUrl": "https://www.npmjs.com/package/create-uks-packet",
+      "category": "testing",
+      "createdAt": "2026-08-08T12:42:29.004Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 45
+    },
+    {
       "name": "crewmates",
       "version": "0.1.0",
       "description": "Lets the Claude Code sessions working on one project see each other: who is active, what each is doing, which files they have touched.",
@@ -35330,6 +35462,42 @@
       "score": 85
     },
     {
+      "name": "depthbake-cli",
+      "version": "1.0.0",
+      "description": "Local-first Depthbake package baker for depth-aware creative web assets.",
+      "license": "MIT",
+      "repository": "https://github.com/atsekkei/depthbake",
+      "npmUrl": "https://www.npmjs.com/package/depthbake-cli",
+      "category": "cli",
+      "createdAt": "2026-08-08T12:46:09.879Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 44
+    },
+    {
+      "name": "depthbake-runtime",
+      "version": "1.0.0",
+      "description": "Renderer-agnostic Depthbake runtime for depth-aware creative web assets.",
+      "license": "MIT",
+      "repository": "https://github.com/atsekkei/depthbake",
+      "npmUrl": "https://www.npmjs.com/package/depthbake-runtime",
+      "category": "utilities",
+      "createdAt": "2026-08-08T12:46:04.983Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 72
+    },
+    {
+      "name": "depthbake-three",
+      "version": "1.0.0",
+      "description": "three.js loader for Depthbake depth-aware creative web assets.",
+      "license": "MIT",
+      "repository": "https://github.com/atsekkei/depthbake",
+      "npmUrl": "https://www.npmjs.com/package/depthbake-three",
+      "category": "utilities",
+      "createdAt": "2026-08-08T12:46:07.558Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 68
+    },
+    {
       "name": "desic-okx-agent",
       "version": "0.1.1",
       "description": "Independent Desic runtime, MCP server, CLI, and agent skills for OKX",
@@ -35808,6 +35976,18 @@
       "createdAt": "2026-07-26T10:43:34.709Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 70
+    },
+    {
+      "name": "dreambuild",
+      "version": "0.2.0",
+      "description": "Connect Claude Code to DreamBuild: real-time directives from your project's owner reach the working agent at turn boundaries.",
+      "license": "MIT",
+      "repository": "https://github.com/mcarrollnow/dreambuild-v2",
+      "npmUrl": "https://www.npmjs.com/package/dreambuild",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T12:22:58.697Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 43
     },
     {
       "name": "driftcite",
@@ -37790,6 +37970,18 @@
       "score": 73
     },
     {
+      "name": "geto-graph",
+      "version": "0.1.1",
+      "description": "SQLite + BM25 codebase symbol graph for pi. Query-first reading: search, refs, blast radius.",
+      "license": "MIT",
+      "repository": "https://github.com/mr-jones123/geto",
+      "npmUrl": "https://www.npmjs.com/package/geto-graph",
+      "category": "data",
+      "createdAt": "2026-08-08T13:12:21.187Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 41
+    },
+    {
       "name": "getsecret-sdk",
       "version": "1.0.0",
       "description": "TypeScript client for the getsecret secure secrets HTTP API",
@@ -38700,6 +38892,18 @@
       "createdAt": "2026-08-06T11:36:18.251Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 75
+    },
+    {
+      "name": "hmrc-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official HM Revenue & Customs (United Kingdom) monthly exchange rates — ~140 currencies vs GBP, history since 2021. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/hmrc-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/hmrc-exchange-rate",
+      "category": "frontend",
+      "createdAt": "2026-08-08T12:32:14.820Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 65
     },
     {
       "name": "hogswap-js-sdk",
@@ -43070,6 +43274,18 @@
       "score": 78
     },
     {
+      "name": "n8n-nodes-rapidapi-pro",
+      "version": "0.1.1",
+      "description": "Call any RapidAPI-hosted API from n8n. Store multiple services in an internal library, import operations + sample parameters straight from a RapidAPI link, and track your usage / remaining quota.",
+      "license": "MIT",
+      "repository": "https://github.com/mehrdadashtari/n8n-nodes-rapidapi",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-rapidapi-pro",
+      "category": "backend",
+      "createdAt": "2026-08-08T13:00:24.791Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 69
+    },
+    {
       "name": "n8n-nodes-rise-crm",
       "version": "1.1.0",
       "description": "n8n community node for RISE CRM. Automate clients, leads, projects, tasks, tickets, invoices, estimates, proposals, invoice payments, timesheets and custom fields through the REST API for RISE CRM plugin by Themesic Interactive.",
@@ -43116,6 +43332,18 @@
       "createdAt": "2026-08-08T10:55:56.867Z",
       "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 59
+    },
+    {
+      "name": "n8n-nodes-sitemap-validator",
+      "version": "0.2.0",
+      "description": "n8n node to load a sitemap and validate every URL inside it: 404 links, 5xx errors, redirect chains, timeouts, and missing lastmod. Can output an Excel report",
+      "license": "MIT",
+      "repository": "https://github.com/mehrdadashtari/n8n-nodes-sitemap-validator",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-sitemap-validator",
+      "category": "utilities",
+      "createdAt": "2026-08-07T11:58:33.364Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 77
     },
     {
       "name": "n8n-nodes-sonilo",
@@ -43452,6 +43680,18 @@
       "createdAt": "2026-07-28T20:30:51.488Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 70
+    },
+    {
+      "name": "netcafe-ai-tools",
+      "version": "0.2.0",
+      "description": "Vercel AI SDK tools that return finished files: PDF, docx, charts, subtitles, invoices, screenshots — one hosted endpoint, free quota, no API key to start.",
+      "license": "MIT",
+      "repository": "https://github.com/mario03690/netcafe-sdk",
+      "npmUrl": "https://www.npmjs.com/package/netcafe-ai-tools",
+      "category": "backend",
+      "createdAt": "2026-08-08T02:25:55.932Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 53
     },
     {
       "name": "netcafe-sdk",
@@ -45288,6 +45528,18 @@
       "createdAt": "2026-07-27T11:03:15.564Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 77
+    },
+    {
+      "name": "pakhale",
+      "version": "0.1.0",
+      "description": "Pratik's personal CLI — coding-agent workflow setup and more",
+      "license": "MIT",
+      "repository": "https://github.com/pratikpakhale/pakhale",
+      "npmUrl": "https://www.npmjs.com/package/pakhale",
+      "category": "cli",
+      "createdAt": "2026-08-08T13:25:31.883Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 42
     },
     {
       "name": "paletteguard",
@@ -50378,6 +50630,18 @@
       "score": 87
     },
     {
+      "name": "skilltax",
+      "version": "0.1.0",
+      "description": "Audit your installed agent skills: see what they cost you in context, which ones never fire, and which ones collide.",
+      "license": "MIT",
+      "repository": "https://github.com/iunkit/skilltax",
+      "npmUrl": "https://www.npmjs.com/package/skilltax",
+      "category": "utilities",
+      "createdAt": "2026-08-08T12:54:11.600Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 77
+    },
+    {
       "name": "slack-to-buzz-bridge",
       "version": "1.1.0",
       "description": "Multi-tenant OAuth bridge between Slack channels and Buzz (Nostr) rooms",
@@ -52910,6 +53174,18 @@
       "score": 72
     },
     {
+      "name": "universal-agent-plugins",
+      "version": "0.1.1",
+      "description": "Universal community installer and lifecycle manager for Agent Plugins 1.0",
+      "license": "MIT",
+      "repository": "https://github.com/777genius/plugin-kit-ai",
+      "npmUrl": "https://www.npmjs.com/package/universal-agent-plugins",
+      "category": "utilities",
+      "createdAt": "2026-08-08T12:54:17.392Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 47
+    },
+    {
       "name": "universal-datetime-picker",
       "version": "2.0.0",
       "description": "Universal date, time, datetime, and range picker for React, Vue, Svelte, Angular, vanilla JS, and CDN — accessible, TypeScript, dayjs, CSS themes",
@@ -53040,6 +53316,18 @@
       "createdAt": "2026-07-26T18:27:25.593Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 54
+    },
+    {
+      "name": "ustreasury-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official U.S. Department of the Treasury (United States) quarterly exchange rates — ~145 currencies vs USD, history since 2001. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/ustreasury-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/ustreasury-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-08-08T12:32:17.168Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 67
     },
     {
       "name": "uui-scan",
@@ -54876,6 +55164,18 @@
       "createdAt": "2026-08-02T06:04:31.022Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 77
+    },
+    {
+      "name": "zod-transformers",
+      "version": "1.0.0",
+      "description": "A collection of reusable Zod transform/superRefine schema factories",
+      "license": "MIT",
+      "repository": "https://github.com/figulusproject/zod-transformers",
+      "npmUrl": "https://www.npmjs.com/package/zod-transformers",
+      "category": "data",
+      "createdAt": "2026-08-08T12:27:13.559Z",
+      "discoveredAt": "2026-08-08T13:27:54.914Z",
+      "score": 59
     },
     {
       "name": "zynlepay-node",
