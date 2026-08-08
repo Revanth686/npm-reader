@@ -2282,6 +2282,54 @@
       "score": 83
     },
     {
+      "name": "@aopslabs/aops-error-catalog",
+      "version": "0.2.1",
+      "description": "Stable AOPS error classifications and operator-facing display helpers.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/eeemzs/aops-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40aopslabs%2Faops-error-catalog",
+      "category": "devops",
+      "createdAt": "2026-08-04T22:00:50.431Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 19
+    },
+    {
+      "name": "@aopslabs/aops-host-registration",
+      "version": "0.2.1",
+      "description": "AOPS host registration defaults and helpers built on the public host registration contract.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/eeemzs/aops-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40aopslabs%2Faops-host-registration",
+      "category": "utilities",
+      "createdAt": "2026-08-04T22:01:06.154Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 20
+    },
+    {
+      "name": "@aopslabs/aops-runtime-config",
+      "version": "0.2.1",
+      "description": "Typed loading and normalization of AOPS runtime configuration.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/eeemzs/aops-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40aopslabs%2Faops-runtime-config",
+      "category": "data",
+      "createdAt": "2026-08-04T22:00:58.082Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 17
+    },
+    {
+      "name": "@aopslabs/api-client",
+      "version": "0.2.1",
+      "description": "Shared HTTP client for `aops-server` API (used by `aops-cli` + `aops-mcp`).",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/eeemzs/aops-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40aopslabs%2Fapi-client",
+      "category": "backend",
+      "createdAt": "2026-08-04T22:00:54.120Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 20
+    },
+    {
       "name": "@apat183/pi-buddy",
       "version": "0.1.1",
       "description": "An animated π mascot for pi — a launch header, a live state widget beside your editor, and a custom spinner. Configurable placement and alignment.",
@@ -10490,6 +10538,18 @@
       "score": 68
     },
     {
+      "name": "@gio-labs/rune",
+      "version": "0.1.1",
+      "description": "Centralized script runner for JS/TS monorepos",
+      "license": "MIT",
+      "repository": "https://github.com/giancarlosisasi/rune",
+      "npmUrl": "https://www.npmjs.com/package/%40gio-labs%2Frune",
+      "category": "cli",
+      "createdAt": "2026-08-08T19:53:13.171Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 31
+    },
+    {
       "name": "@gitmyabi/0xbtc",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for 0xBTC (build etherscan-0xbtc-b6ed7644-1785624551894, commit 856dd0c, branch etherscan)",
@@ -15062,6 +15122,42 @@
       "score": 59
     },
     {
+      "name": "@inversifyjs/config",
+      "version": "1.0.0",
+      "description": "InversifyJS configuration ContainerModule",
+      "license": "MIT",
+      "repository": "https://github.com/inversify/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40inversifyjs%2Fconfig",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T22:33:44.982Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 46
+    },
+    {
+      "name": "@inversifyjs/config-dotenv",
+      "version": "1.0.0",
+      "description": "dotenv ConfigSource for @inversifyjs/config",
+      "license": "MIT",
+      "repository": "https://github.com/inversify/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40inversifyjs%2Fconfig-dotenv",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T22:33:44.778Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 38
+    },
+    {
+      "name": "@inversifyjs/config-yaml",
+      "version": "1.0.0",
+      "description": "YAML ConfigSource for @inversifyjs/config",
+      "license": "MIT",
+      "repository": "https://github.com/inversify/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40inversifyjs%2Fconfig-yaml",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T22:33:44.944Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 36
+    },
+    {
       "name": "@ios27_design_system/rails",
       "version": "1.0.0",
       "description": "iOS 27 design system for Rails 8 + Hotwire — CSS tokens, Stimulus controllers, ERB partials",
@@ -15600,6 +15696,18 @@
       "createdAt": "2026-08-01T19:54:20.064Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 73
+    },
+    {
+      "name": "@joleques/squad-system",
+      "version": "1.0.1",
+      "description": "Instalador de Squad de Chão de Fábrica para Kiro e Codex",
+      "license": "MIT",
+      "repository": "https://github.com/joleques/squad-system",
+      "npmUrl": "https://www.npmjs.com/package/%40joleques%2Fsquad-system",
+      "category": "utilities",
+      "createdAt": "2026-08-08T21:37:21.460Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 51
     },
     {
       "name": "@jonusnattapong/oracle",
@@ -16308,6 +16416,18 @@
       "createdAt": "2026-07-28T19:08:29.543Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 69
+    },
+    {
+      "name": "@korykaai/collab-kit",
+      "version": "0.3.1",
+      "description": "Bootstrap GitHub team workflows — PR templates, CI, git hooks, and docs in one command",
+      "license": "MIT",
+      "repository": "https://github.com/kory-kaai/collab-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40korykaai%2Fcollab-kit",
+      "category": "devops",
+      "createdAt": "2026-08-08T22:30:46.314Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 47
     },
     {
       "name": "@kotuke/bitizen",
@@ -21036,6 +21156,18 @@
       "createdAt": "2026-07-27T22:13:19.760Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 78
+    },
+    {
+      "name": "@octanejs/livestore",
+      "version": "0.0.1",
+      "description": "LiveStore bindings for Octane, ported from @livestore/react over LiveStore's framework-neutral core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/octanejs/octane",
+      "npmUrl": "https://www.npmjs.com/package/%40octanejs%2Flivestore",
+      "category": "frontend",
+      "createdAt": "2026-08-08T22:24:29.065Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 27
     },
     {
       "name": "@octocodeai/octocode-awareness",
@@ -31490,6 +31622,18 @@
       "score": 75
     },
     {
+      "name": "@yoqa/cli",
+      "version": "0.3.5",
+      "description": "Yoqa CLI — drive local mobile QA from the terminal or CI (talks to the Yoqa runner over HTTP)",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Aris-ngoy/qa-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40yoqa%2Fcli",
+      "category": "testing",
+      "createdAt": "2026-08-08T22:20:56.843Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 32
+    },
+    {
       "name": "@youkale/pi-hermes-memory",
       "version": "0.7.15",
       "description": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 368 tests. Ported from Hermes agent.",
@@ -32918,6 +33062,30 @@
       "score": 77
     },
     {
+      "name": "ai-sdk-persistence",
+      "version": "0.0.2",
+      "description": "Name reservation for ai-sdk-threads, which is the package you want. ai-sdk-persistence contains no code.",
+      "license": "MIT",
+      "repository": "https://github.com/nixrajput/ai-sdk-threads",
+      "npmUrl": "https://www.npmjs.com/package/ai-sdk-persistence",
+      "category": "utilities",
+      "createdAt": "2026-08-06T10:23:42.790Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 31
+    },
+    {
+      "name": "ai-sdk-threads",
+      "version": "0.1.0",
+      "description": "Chat thread and message persistence for the Vercel AI SDK - UIMessage-native schema, branching, resumable streams, Postgres and SQLite. Your database, your data.",
+      "license": "MIT",
+      "repository": "https://github.com/nixrajput/ai-sdk-threads",
+      "npmUrl": "https://www.npmjs.com/package/ai-sdk-threads",
+      "category": "data",
+      "createdAt": "2026-08-06T10:23:10.090Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 86
+    },
+    {
       "name": "ai-sse-kit",
       "version": "0.1.0",
       "description": "渐进式 AI 流式对话工具包：SSE 传输、协议适配器（OpenAI/Anthropic/自定义）、流式消息不可变 patch，核心框架无关，React/Vue 双绑定。/ Progressive toolkit for AI streaming: SSE transport, protocol adapters (OpenAI/Anthropic/custom), stream-safe message patching. Framework-agnostic core with React and V",
@@ -32928,6 +33096,18 @@
       "createdAt": "2026-08-08T08:34:19.201Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 56
+    },
+    {
+      "name": "ai-threads",
+      "version": "0.0.2",
+      "description": "Name reservation for ai-sdk-threads, which is the package you want. ai-threads contains no code.",
+      "license": "MIT",
+      "repository": "https://github.com/nixrajput/ai-sdk-threads",
+      "npmUrl": "https://www.npmjs.com/package/ai-threads",
+      "category": "utilities",
+      "createdAt": "2026-08-06T10:23:28.358Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 30
     },
     {
       "name": "ai-workbench.js",
@@ -44822,6 +45002,42 @@
       "score": 91
     },
     {
+      "name": "mcp-yandex-dostavka",
+      "version": "0.0.1",
+      "description": "MCP-сервер для Яндекс Доставки (dostavka.yandex.ru) — расчёт стоимости, заявки и трекинг отправлений. Для Claude, Cursor, Codex и других AI-клиентов.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-yandex-dostavka",
+      "npmUrl": "https://www.npmjs.com/package/mcp-yandex-dostavka",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:20:25.493Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 42
+    },
+    {
+      "name": "mcp-yandex-merchants",
+      "version": "0.0.1",
+      "description": "MCP-сервер для Яндекс Товаров (merchants.yandex.ru) — фиды, товарные предложения и цены. Для Claude, Cursor, Codex и других AI-клиентов.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-yandex-merchants",
+      "npmUrl": "https://www.npmjs.com/package/mcp-yandex-merchants",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:20:28.237Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 39
+    },
+    {
+      "name": "mcp-yandex-webmaster",
+      "version": "0.0.1",
+      "description": "MCP-сервер для Yandex Webmaster — индексация, поисковые запросы, sitemap, диагностика сайта и внешние ссылки. Для Claude, Cursor, Codex и других AI-клиентов.",
+      "license": "MIT",
+      "repository": "https://github.com/askads/mcp-yandex-webmaster",
+      "npmUrl": "https://www.npmjs.com/package/mcp-yandex-webmaster",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:20:31.101Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 43
+    },
+    {
       "name": "mcpee-dba",
       "version": "1.0.0",
       "description": "Boost DBA 360: agents, skills, specs, patterns and templates for expert SQL Server operations and modernization.",
@@ -54026,6 +54242,18 @@
       "score": 74
     },
     {
+      "name": "solid-catalyst",
+      "version": "0.0.0",
+      "description": "A SolidJS port of the Tailwind Catalyst UI kit.",
+      "license": "MIT",
+      "repository": "https://github.com/pistolricks/solid-catalyst",
+      "npmUrl": "https://www.npmjs.com/package/solid-catalyst",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:40:04.570Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 38
+    },
+    {
       "name": "solidity-jwt",
       "version": "0.1.0",
       "description": "Verify RS256 JSON Web Tokens inside a smart contract. RSASSA-PKCS1-v1_5 over SHA-256 via the EIP-198 modexp precompile, with base64url decoding and claim extraction.",
@@ -55370,6 +55598,18 @@
       "score": 79
     },
     {
+      "name": "terra-waisp",
+      "version": "1.3.0",
+      "description": "WAISP — Terra Ecosystem DAST & Red Teaming Engine. Automated security inspection at $0 cost.",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/waisp-repo-public",
+      "npmUrl": "https://www.npmjs.com/package/terra-waisp",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:10:50.295Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 54
+    },
+    {
       "name": "test-arbiter",
       "version": "0.1.1",
       "description": "AI-powered test triage CLI — arbitrates between real bugs and test noise",
@@ -56088,6 +56328,18 @@
       "createdAt": "2026-08-08T19:40:49.009Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 98
+    },
+    {
+      "name": "tuipr",
+      "version": "0.0.1",
+      "description": "Terminal review workstation for agent-generated PRs — budgeted AI review, merge gates, attestation",
+      "license": "MIT",
+      "repository": "https://github.com/sarimarton/tuipr",
+      "npmUrl": "https://www.npmjs.com/package/tuipr",
+      "category": "testing",
+      "createdAt": "2026-08-08T22:50:11.457Z",
+      "discoveredAt": "2026-08-08T22:51:06.233Z",
+      "score": 39
     },
     {
       "name": "tunasync-unity-mcp",
