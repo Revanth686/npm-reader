@@ -1,12 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123939193,
-  "lastRunAt": "2026-08-08T06:37:23.606Z",
+  "lastSequence": 123942961,
+  "lastRunAt": "2026-08-08T07:32:51.663Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@jaimehoracio/pistack",
-      "attempts": 5
+      "attempts": 6
+    },
+    {
+      "name": "@akashanand/contextkit",
+      "attempts": 1
     }
   ]
 }

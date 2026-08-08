@@ -914,6 +914,66 @@
       "score": 66
     },
     {
+      "name": "@agentprodready/agent-framework",
+      "version": "1.0.1",
+      "description": "**Agent definition, validation, registry, lifecycle, packaging, and Runtime invocation handoff for AgentProdReady.**",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Fagent-framework",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:11:39.614Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 71
+    },
+    {
+      "name": "@agentprodready/ai-provider",
+      "version": "1.0.1",
+      "description": "**Vendor-neutral AI contracts** for AgentProdReady — chat, embeddings, streaming, and tool-calling shapes without locking your app to a single model vendor.",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Fai-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:11:15.157Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 49
+    },
+    {
+      "name": "@agentprodready/memory",
+      "version": "1.0.1",
+      "description": "**Execution-derived memory** for AgentProdReady — capture, store, search, and recall context from agent runs (distinct from Knowledge / RAG).",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Fmemory",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:11:45.672Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 46
+    },
+    {
+      "name": "@agentprodready/runtime",
+      "version": "1.0.1",
+      "description": "**Operational execution engine for AgentProdReady** — run work, cancel it, checkpoint it, recover it, and stream results.",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Fruntime",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:10:50.541Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 49
+    },
+    {
+      "name": "@agentprodready/tool-framework",
+      "version": "1.0.1",
+      "description": "**Provider-independent tool contracts** for AgentProdReady — define tools, authorize them, execute them, and emit lifecycle facts without embedding vendor SDKs.",
+      "license": "MIT",
+      "repository": "https://github.com/ameenmari/agentprodready",
+      "npmUrl": "https://www.npmjs.com/package/%40agentprodready%2Ftool-framework",
+      "category": "utilities",
+      "createdAt": "2026-08-08T00:11:33.546Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 47
+    },
+    {
       "name": "@agentproto/adapter-knowledge-corpus",
       "version": "0.2.1",
       "description": "Composable knowledge adapter: implements @agentproto/knowledge-engine's IKnowledgeProvider over an AIP-10 @agentproto/corpus workspace, wrapping any backing IKnowledgeProvider and hydrating every hit with canonical AIP-10 provenance + access policy. Publi",
@@ -7466,6 +7526,18 @@
       "score": 68
     },
     {
+      "name": "@dreki-gg/pi-workflows",
+      "version": "0.3.0",
+      "description": "Secure multi-agent workflow orchestration for pi",
+      "license": "MIT",
+      "repository": "https://github.com/jalbarrang/pi-workflows",
+      "npmUrl": "https://www.npmjs.com/package/%40dreki-gg%2Fpi-workflows",
+      "category": "utilities",
+      "createdAt": "2026-07-28T02:01:38.481Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 53
+    },
+    {
       "name": "@driftbox/rack",
       "version": "0.1.0",
       "description": "A modular synth rack: modules, cables between any of them, one graph at sample rate in a single AudioWorklet.",
@@ -7908,6 +7980,18 @@
       "createdAt": "2026-07-30T09:44:49.263Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 81
+    },
+    {
+      "name": "@elyracode/browser-tools",
+      "version": "0.9.27",
+      "description": "Browser automation for Elyra via Playwright - the agent navigates, clicks, fills, and verifies behavior, with token-cheap accessibility snapshots and screenshots",
+      "license": "MIT",
+      "repository": "https://github.com/kwhorne/elyra",
+      "npmUrl": "https://www.npmjs.com/package/%40elyracode%2Fbrowser-tools",
+      "category": "testing",
+      "createdAt": "2026-08-07T06:34:28.438Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 46
     },
     {
       "name": "@emergen/engineering-standard",
@@ -10502,6 +10586,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/n",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for n (build etherscan-n-9cfa60ea-1786172303690, commit b8eac49, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/n",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fn",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T20:33:48.568Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/namewrapper",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for NameWrapper (build etherscan-namewrapper-d4416b13-1785702621398, commit 53d46ad, branch etherscan)",
@@ -11966,6 +12062,18 @@
       "score": 52
     },
     {
+      "name": "@hausfold/holt",
+      "version": "0.1.0",
+      "description": "TypeScript SDK for holt, the worktree-lifecycle substrate. Shells out to the holt binary; works from Bun or Node, and its types are safe to ship to a browser bundle.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nebelhaus/holt",
+      "npmUrl": "https://www.npmjs.com/package/%40hausfold%2Fholt",
+      "category": "frontend",
+      "createdAt": "2026-08-08T07:16:42.594Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 45
+    },
+    {
       "name": "@havenagent/mcp",
       "version": "0.2.0",
       "description": "Pay-per-call AI media generation (music, image, video, 3D worlds) for MCP agents — USDC on Base via the x402 protocol. No account, no API key.",
@@ -12444,6 +12552,18 @@
       "createdAt": "2026-07-28T08:01:46.394Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 83
+    },
+    {
+      "name": "@huekit/tailwind",
+      "version": "1.0.0",
+      "description": "Turn brand colors into a Tailwind v4 @theme block. OKLCH scales, gamut-fitted, with readable foregrounds. Part of huekit, the OKLCH toolkit for designers.",
+      "license": "MIT",
+      "repository": "https://github.com/doniv01/huekit-tailwind",
+      "npmUrl": "https://www.npmjs.com/package/%40huekit%2Ftailwind",
+      "category": "frontend",
+      "createdAt": "2026-08-08T07:21:40.647Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 76
     },
     {
       "name": "@huekit/tokens",
@@ -21194,6 +21314,18 @@
       "score": 43
     },
     {
+      "name": "@rclone-installer/rclone",
+      "version": "1.75.0",
+      "description": "Platform independent binary installer of rclone for node projects, modeled after @ffmpeg-installer/ffmpeg.",
+      "license": "MIT",
+      "repository": "https://github.com/wooloo26/rclone-installer",
+      "npmUrl": "https://www.npmjs.com/package/%40rclone-installer%2Frclone",
+      "category": "data",
+      "createdAt": "2026-08-08T07:01:35.466Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 69
+    },
+    {
       "name": "@rcrsr/rill-dev",
       "version": "0.1.0",
       "description": "Internal tooling for developing rill itself, not for users of the rill language: the repository standards checker and the custom oxlint rules",
@@ -21852,6 +21984,30 @@
       "createdAt": "2026-08-07T16:00:51.266Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 90
+    },
+    {
+      "name": "@robot-admin/form-validate-core",
+      "version": "1.0.0",
+      "description": "企业级表单验证规则库核心 - 框架无关的验证逻辑层，配合 naive-ui / element-plus adapter 使用",
+      "license": "MIT",
+      "repository": "https://github.com/ChenyCHENYU/robot-admin-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40robot-admin%2Fform-validate-core",
+      "category": "frontend",
+      "createdAt": "2026-08-08T07:26:54.469Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 45
+    },
+    {
+      "name": "@robot-admin/form-validate-element",
+      "version": "1.0.0",
+      "description": "企业级表单验证规则库，专为 Element Plus 设计（基于 form-validate-core，与 naive-ui 版用法完全一致）",
+      "license": "MIT",
+      "repository": "https://github.com/ChenyCHENYU/robot-admin-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40robot-admin%2Fform-validate-element",
+      "category": "frontend",
+      "createdAt": "2026-08-08T07:26:57.089Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 49
     },
     {
       "name": "@rockbite/tokenpool-scout",
@@ -23316,6 +23472,18 @@
       "createdAt": "2026-08-03T21:06:56.760Z",
       "discoveredAt": "2026-08-03T22:05:36.466Z",
       "score": 69
+    },
+    {
+      "name": "@sikandarmoyaldev/progress",
+      "version": "0.0.1",
+      "description": "A lightweight, terminal-friendly progress bar for Node.js CLI tools",
+      "license": "MIT",
+      "repository": "https://github.com/sikandarmoyaldev/node-progress",
+      "npmUrl": "https://www.npmjs.com/package/%40sikandarmoyaldev%2Fprogress",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T06:57:53.217Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 48
     },
     {
       "name": "@silencedis/sorted-linked-list",
@@ -24960,6 +25128,18 @@
       "createdAt": "2026-07-29T04:00:01.619Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 72
+    },
+    {
+      "name": "@talocode/experimentlane",
+      "version": "0.1.0",
+      "description": "Evidence-driven experimentation and performance-receipt engine for AI agents. Record experiments, compare against baselines, change exactly one variable at a time.",
+      "license": "MIT",
+      "repository": "https://github.com/talocode/experimentlane",
+      "npmUrl": "https://www.npmjs.com/package/%40talocode%2Fexperimentlane",
+      "category": "testing",
+      "createdAt": "2026-08-08T06:56:43.085Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 71
     },
     {
       "name": "@tanglat/splitfx",
@@ -26930,6 +27110,18 @@
       "score": 57
     },
     {
+      "name": "@vetojs/react",
+      "version": "0.1.1",
+      "description": "React bindings for @vetojs — <Can>, useAbility, AbilityProvider. The same rules that guard the server decide what the user can reach in the UI.",
+      "license": "MIT",
+      "repository": "https://github.com/ivan-yuldashev/veto",
+      "npmUrl": "https://www.npmjs.com/package/%40vetojs%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-07T19:02:49.112Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 47
+    },
+    {
       "name": "@vetox-bot/vito",
       "version": "1.0.0",
       "description": "Official Node.js SDK for the Vito API — check balances, charge users, pay users out, and verify webhooks for the Vito virtual currency.",
@@ -27842,6 +28034,18 @@
       "score": 79
     },
     {
+      "name": "@xoxo-labs/realtime-transcribe",
+      "version": "0.1.1",
+      "description": "Transport-agnostic client for OpenAI Realtime transcription sessions (gpt-live-transcribe), with an optional React hooks layer.",
+      "license": "MIT",
+      "repository": "https://github.com/xoxo-labs/voice-tryouts",
+      "npmUrl": "https://www.npmjs.com/package/%40xoxo-labs%2Frealtime-transcribe",
+      "category": "frontend",
+      "createdAt": "2026-08-08T07:26:26.195Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 73
+    },
+    {
       "name": "@xsat10/baileys",
       "version": "7.0.0",
       "description": "WhatsApp API Modification By Xsat",
@@ -28248,6 +28452,18 @@
       "createdAt": "2026-08-02T19:07:20.986Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 87
+    },
+    {
+      "name": "@zerolingua/mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Zerø Lingua — lets AI agents read a site's strings, write translations, and approve pending work through the plugin's licensed REST surface.",
+      "license": "GPL-2.0-or-later",
+      "repository": "https://github.com/marcorubiol/zero-lingua",
+      "npmUrl": "https://www.npmjs.com/package/%40zerolingua%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T06:39:42.193Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 45
     },
     {
       "name": "@zerone-agent/agent-sdk",
@@ -30482,6 +30698,18 @@
       "score": 85
     },
     {
+      "name": "belvedir",
+      "version": "0.3.0",
+      "description": "Belvedir SDK - auto-instrument your AI agent so it can improve on its own production traces. (For the command line, install @belvedir/cli.)",
+      "license": "MIT",
+      "repository": "https://github.com/Belvedir/belvedir-platform",
+      "npmUrl": "https://www.npmjs.com/package/belvedir",
+      "category": "cli",
+      "createdAt": "2026-08-08T07:04:24.143Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 57
+    },
+    {
       "name": "benni",
       "version": "0.1.0",
       "description": "The end-to-end typed Redis client for TypeScript — one API across Node, Bun, Deno, and the edge.",
@@ -31296,6 +31524,18 @@
       "createdAt": "2026-08-06T09:11:11.550Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 88
+    },
+    {
+      "name": "cavalier-contours-js",
+      "version": "0.1.1",
+      "description": "Pure TypeScript port of the cavalier_contours Rust library: 2D polyline parallel offsetting (with arc segments) and boolean operations.",
+      "license": "(MIT OR Apache-2.0)",
+      "repository": "https://github.com/msurguy/cavalier-contours-js",
+      "npmUrl": "https://www.npmjs.com/package/cavalier-contours-js",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T06:52:01.489Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 65
     },
     {
       "name": "cbb-mcp-server",
@@ -39722,6 +39962,18 @@
       "score": 82
     },
     {
+      "name": "markdown-it-blockquote-attribution",
+      "version": "1.0.0",
+      "description": "A configurable markdown-it plugin that adds a simple syntax for quote attribution",
+      "license": "MIT",
+      "repository": "https://github.com/nathan-bottomley/markdown-it-blockquote-attribution",
+      "npmUrl": "https://www.npmjs.com/package/markdown-it-blockquote-attribution",
+      "category": "utilities",
+      "createdAt": "2026-08-08T06:56:31.406Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 50
+    },
+    {
       "name": "markdown-it-extensible",
       "version": "1.1.0",
       "description": "A highly extensible, zero-code block container and inline directive engine for markdown-it",
@@ -40152,6 +40404,18 @@
       "createdAt": "2026-08-07T15:55:02.760Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 93
+    },
+    {
+      "name": "mcp-server-pulr",
+      "version": "0.1.1",
+      "description": "MCP server for pulr.ai — secure artifact exchange for AI agents: upload, share, fetch, list, and revoke verified, scannable, expiring artifact URLs.",
+      "license": "MIT",
+      "repository": "https://github.com/taleilon/pulr.ai",
+      "npmUrl": "https://www.npmjs.com/package/mcp-server-pulr",
+      "category": "backend",
+      "createdAt": "2026-08-08T07:29:03.140Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 45
     },
     {
       "name": "mcp-server-web-fetcher",
@@ -42000,6 +42264,18 @@
       "createdAt": "2026-07-28T10:12:38.753Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 79
+    },
+    {
+      "name": "ng-ssr-caching",
+      "version": "22.1.0",
+      "description": "Cache for server-side rendered pages in Angular SSR (and any Express handler).",
+      "license": "MIT",
+      "repository": "https://github.com/nigrosimone/ng-ssr-caching",
+      "npmUrl": "https://www.npmjs.com/package/ng-ssr-caching",
+      "category": "frontend",
+      "createdAt": "2026-08-08T06:55:31.821Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 82
     },
     {
       "name": "ngebail",
@@ -44354,6 +44630,18 @@
       "score": 49
     },
     {
+      "name": "pi-oma-bailian",
+      "version": "0.1.0",
+      "description": "阿里云百炼 (DashScope) 模型 Provider —— pi 扩展，支持多 API Key 管理与精选模型目录",
+      "license": "MIT",
+      "repository": "https://github.com/OhMyAgent/pi-oma-bailian",
+      "npmUrl": "https://www.npmjs.com/package/pi-oma-bailian",
+      "category": "backend",
+      "createdAt": "2026-08-08T07:16:09.435Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 50
+    },
+    {
       "name": "pi-oura-hr",
       "version": "1.1.1",
       "description": "Oura Ring client primitives + optional pi footer (heart rate, readiness)",
@@ -45588,6 +45876,18 @@
       "createdAt": "2026-07-28T17:32:53.180Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 65
+    },
+    {
+      "name": "quillkit",
+      "version": "0.1.0",
+      "description": "The quill author's toolchain: gate a quiver, pack it, look at it, ship it. Carries the studio client it serves.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/borb-sh/quillmark-js",
+      "npmUrl": "https://www.npmjs.com/package/quillkit",
+      "category": "cli",
+      "createdAt": "2026-08-08T07:13:38.571Z",
+      "discoveredAt": "2026-08-08T07:32:51.663Z",
+      "score": 52
     },
     {
       "name": "quito-engine",
