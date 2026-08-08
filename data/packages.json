@@ -4898,6 +4898,18 @@
       "score": 67
     },
     {
+      "name": "@ccatto/nest-pages",
+      "version": "1.0.0",
+      "description": "Catto Pages - NestJS module for admin-authored nested content pages (a page CMS): tree, path resolution, drag-reorder, draft/publish",
+      "license": "MIT",
+      "repository": "https://github.com/ccatto/catto-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40ccatto%2Fnest-pages",
+      "category": "backend",
+      "createdAt": "2026-08-08T23:03:28.574Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 61
+    },
+    {
       "name": "@ccatto/react-analytics",
       "version": "1.1.0",
       "description": "Catto Analytics - drop-in Google Analytics 4 for Next.js + Capacitor: <GoogleAnalyticsCatto/>, trackEvent(), and Capacitor platform dimensions",
@@ -4920,6 +4932,18 @@
       "createdAt": "2026-08-08T10:59:25.871Z",
       "discoveredAt": "2026-08-08T11:22:53.750Z",
       "score": 64
+    },
+    {
+      "name": "@ccatto/react-pages",
+      "version": "1.0.0",
+      "description": "Catto Pages - React page CMS UI: render Markdown pages, admin tree with drag-reorder, page editor, and page-tree -> nav mapping. Transport-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/ccatto/catto-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40ccatto%2Freact-pages",
+      "category": "frontend",
+      "createdAt": "2026-08-08T23:03:36.548Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 63
     },
     {
       "name": "@ccgrapher/adapter-claude-code",
@@ -8582,6 +8606,18 @@
       "score": 63
     },
     {
+      "name": "@edusites/bandeiras-paises",
+      "version": "1.0.0",
+      "description": "Biblioteca JavaScript com as bandeiras dos 196 países em SVG (ISO-3166 alpha-2) e a lista de países em português com DDI. Tree-shakeable: cada bandeira é um chunk próprio, carregado sob demanda. React, Vue, Nuxt, Svelte e JS puro.",
+      "license": "MIT",
+      "repository": "https://github.com/eduardolecdt/edusites-bandeiras-paises",
+      "npmUrl": "https://www.npmjs.com/package/%40edusites%2Fbandeiras-paises",
+      "category": "frontend",
+      "createdAt": "2026-08-08T22:54:56.596Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 87
+    },
+    {
       "name": "@effected/github",
       "version": "0.2.0",
       "description": "Typed GitHub REST and GraphQL services over the octokit core request surface, with app auth and resource helpers.",
@@ -8664,6 +8700,18 @@
       "createdAt": "2026-07-26T15:24:29.865Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 61
+    },
+    {
+      "name": "@efrembaraldo/gsd-pi-hermes-memory",
+      "version": "0.0.1",
+      "description": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for GSD Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 732 tests. Ported from Hermes agent. Fork of chandra447/pi-hermes-memory",
+      "license": "MIT",
+      "repository": "https://github.com/efrembaraldo/gsd-pi-hermes-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40efrembaraldo%2Fgsd-pi-hermes-memory",
+      "category": "testing",
+      "createdAt": "2026-08-08T23:03:27.386Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 90
     },
     {
       "name": "@einsia/agent-git",
@@ -15818,6 +15866,18 @@
       "score": 70
     },
     {
+      "name": "@jsjackson/cli-notify",
+      "version": "0.1.0",
+      "description": "Cross-platform Node adapter for native CLI notifications",
+      "license": "MIT",
+      "repository": "https://github.com/jsj/cli-notify",
+      "npmUrl": "https://www.npmjs.com/package/%40jsjackson%2Fcli-notify",
+      "category": "data",
+      "createdAt": "2026-08-08T22:53:25.660Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 19
+    },
+    {
       "name": "@jsjfin/agent-profit",
       "version": "0.1.1",
       "description": "Typed SDK and guarded x402 CLI for Ailabra Agent Profit Ledger.",
@@ -17124,6 +17184,18 @@
       "createdAt": "2026-08-02T04:52:46.278Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 77
+    },
+    {
+      "name": "@livevariant/react",
+      "version": "0.0.4",
+      "description": "Embeddable React components for LiveVariant: create tests (email/image, page redirect, website), and soon stats and management, in your own app",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/livevariant/livevariant",
+      "npmUrl": "https://www.npmjs.com/package/%40livevariant%2Freact",
+      "category": "testing",
+      "createdAt": "2026-08-07T19:04:09.630Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 34
     },
     {
       "name": "@lizardglobal/payload-collection-references",
@@ -23006,6 +23078,18 @@
       "score": 68
     },
     {
+      "name": "@prompt2md/core",
+      "version": "0.1.1",
+      "description": "Dual-engine processing pipeline: engine router (docling / markitdown), LiteLLM gateway factory, token-optimization primitives.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Hotragn/Prompt2MD",
+      "npmUrl": "https://www.npmjs.com/package/%40prompt2md%2Fcore",
+      "category": "cli",
+      "createdAt": "2026-08-08T09:34:50.031Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 43
+    },
+    {
       "name": "@propeller-commerce/propeller-v2-punchout",
       "version": "0.1.0",
       "description": "OCI + cXML PunchOut protocol logic for the Propeller eCommerce V2 platform — parses PunchOutSetupRequest XML, builds PunchOutSetupResponse / PunchOutOrderMessage / OCI NEW_ITEM field sets from a cart via a configurable field mapping. Server-side, framewor",
@@ -23330,6 +23414,18 @@
       "score": 87
     },
     {
+      "name": "@quadilo/logger-backend",
+      "version": "0.1.0",
+      "description": "Error tracking and structured logging for NestJS, shipping to Elasticsearch instead of Sentry",
+      "license": "MIT",
+      "repository": "https://github.com/quadilo/logger-backend",
+      "npmUrl": "https://www.npmjs.com/package/%40quadilo%2Flogger-backend",
+      "category": "backend",
+      "createdAt": "2026-08-08T23:07:02.950Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 69
+    },
+    {
       "name": "@quaivault/sdk",
       "version": "0.1.1",
       "description": "TypeScript SDK for QuaiVault multisig vaults on Quai Network",
@@ -23376,6 +23472,18 @@
       "createdAt": "2026-08-01T17:36:23.491Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 55
+    },
+    {
+      "name": "@quentinv/chorus",
+      "version": "1.0.0",
+      "description": "Decentralized P2P state synchronization library built on effector + PeerJS",
+      "license": "MIT",
+      "repository": "https://github.com/QuentinV/chorus",
+      "npmUrl": "https://www.npmjs.com/package/%40quentinv%2Fchorus",
+      "category": "frontend",
+      "createdAt": "2026-08-08T23:05:12.654Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 87
     },
     {
       "name": "@querykitjs/class-validator",
@@ -25224,6 +25332,18 @@
       "createdAt": "2026-08-08T18:04:03.305Z",
       "discoveredAt": "2026-08-08T18:24:36.518Z",
       "score": 50
+    },
+    {
+      "name": "@sabrialperenkaya/ai-context",
+      "version": "0.2.0",
+      "description": "AI development context management system - install and manage skills, rules, context managers and external tool integrations across AI coding tools.",
+      "license": "MIT",
+      "repository": "https://github.com/lordgrimx/ai-context",
+      "npmUrl": "https://www.npmjs.com/package/%40sabrialperenkaya%2Fai-context",
+      "category": "cli",
+      "createdAt": "2026-08-08T23:04:57.927Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 84
     },
     {
       "name": "@safecore/aegis-cli",
@@ -33782,6 +33902,18 @@
       "score": 61
     },
     {
+      "name": "artifact-inspector",
+      "version": "0.1.0",
+      "description": "Composable, security-minded URL/byte artifact inspection for Node.js",
+      "license": "ISC",
+      "repository": "https://github.com/dillonstreator/artifact-inspector",
+      "npmUrl": "https://www.npmjs.com/package/artifact-inspector",
+      "category": "data",
+      "createdAt": "2026-08-08T23:07:13.242Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 70
+    },
+    {
       "name": "as2mca-api",
       "version": "0.1.0",
       "description": "Aplication Server 2MCA API HTTP Client",
@@ -35150,6 +35282,18 @@
       "score": 66
     },
     {
+      "name": "calldiff",
+      "version": "0.2.0",
+      "description": "Diff call stacks across git commits (TypeScript, Python, Go, and more)",
+      "license": "MIT",
+      "repository": "https://github.com/tanishqkancharla/calldiff",
+      "npmUrl": "https://www.npmjs.com/package/calldiff",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T23:07:16.240Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 37
+    },
+    {
       "name": "callspec",
       "version": "0.1.0",
       "description": "Registry-first RPC: HTTP, OpenAPI docs, MCP, and typed client from one defineRoute registry",
@@ -35796,6 +35940,18 @@
       "createdAt": "2026-07-25T15:33:39.056Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 69
+    },
+    {
+      "name": "clankchat",
+      "version": "0.1.0",
+      "description": "comms for your coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/simozampa/clankchat",
+      "npmUrl": "https://www.npmjs.com/package/clankchat",
+      "category": "backend",
+      "createdAt": "2026-08-08T22:55:56.820Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 46
     },
     {
       "name": "clankervault",
@@ -42566,6 +42722,18 @@
       "score": 81
     },
     {
+      "name": "intervg",
+      "version": "0.1.0",
+      "description": "Interactive vector animations for the web. An .ivg is a valid SVG that also animates.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/abbasalshalchi/InterVG-web-tool",
+      "npmUrl": "https://www.npmjs.com/package/intervg",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:59:06.461Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 72
+    },
+    {
       "name": "intl-drift",
       "version": "0.1.0",
       "description": "Golden-file drift detection for Intl/ICU/CLDR output. Catch silent formatting changes across Node upgrades and between your server and your users' browsers.",
@@ -44618,6 +44786,18 @@
       "score": 50
     },
     {
+      "name": "matterbridge-rtsp-camera",
+      "version": "0.3.1",
+      "description": "Matterbridge plugin for RTSP cameras using Matter or native HomeKit",
+      "license": "ISC",
+      "repository": "https://github.com/kirchmeyer/matterbridge-rtsp-camera",
+      "npmUrl": "https://www.npmjs.com/package/matterbridge-rtsp-camera",
+      "category": "utilities",
+      "createdAt": "2026-08-08T23:10:02.426Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 57
+    },
+    {
       "name": "matterflux",
       "version": "0.1.0",
       "description": "A cinematic matter-to-energy transition for important UI actions.",
@@ -45192,6 +45372,18 @@
       "createdAt": "2026-07-31T21:41:53.137Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 78
+    },
+    {
+      "name": "meo-skia-canvas",
+      "version": "3.6.0",
+      "description": "A multi-threaded, GPU-accelerated Canvas API for Node, forked from phyron-skia-canvas",
+      "license": "MIT",
+      "repository": "https://github.com/l7aromeo/meo-skia-canvas",
+      "npmUrl": "https://www.npmjs.com/package/meo-skia-canvas",
+      "category": "backend",
+      "createdAt": "2026-08-08T20:35:54.580Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 67
     },
     {
       "name": "meowverlay",
@@ -47438,6 +47630,18 @@
       "score": 56
     },
     {
+      "name": "nyx_wallet",
+      "version": "0.1.1",
+      "description": "SDK de navegador de Nyx Wallet v3: genera la llave en el dispositivo, la reparte 2-de-3 y firma en el cliente",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/andresgonzalezindahouse-ui/nyx-wallet-api-v3",
+      "npmUrl": "https://www.npmjs.com/package/nyx_wallet",
+      "category": "cli",
+      "createdAt": "2026-08-08T22:51:22.719Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 58
+    },
+    {
       "name": "o1js-scan",
       "version": "0.12.0",
       "description": "Static soundness analyzer for o1js / Mina zkApps and Noir circuits",
@@ -48096,6 +48300,18 @@
       "createdAt": "2026-07-25T22:18:55.558Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 55
+    },
+    {
+      "name": "opencode-ralph-loop-support",
+      "version": "1.0.1",
+      "description": "Self-referential development loop for OpenCode — auto-continuation until completion promise",
+      "license": "MIT",
+      "repository": "https://github.com/FountainChan/opencode-ralph-loop",
+      "npmUrl": "https://www.npmjs.com/package/opencode-ralph-loop-support",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:59:45.191Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 63
     },
     {
       "name": "opencode-self-improving-agent",
@@ -50630,6 +50846,18 @@
       "score": 84
     },
     {
+      "name": "prompt2md-skill",
+      "version": "0.1.1",
+      "description": "Install the /prompt2md agent skill: convert messy prompts and documents into token-optimized, layout-aware Markdown with an honest token report.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Hotragn/Prompt2MD",
+      "npmUrl": "https://www.npmjs.com/package/prompt2md-skill",
+      "category": "utilities",
+      "createdAt": "2026-08-08T09:40:03.409Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 52
+    },
+    {
       "name": "promptometer-core",
       "version": "1.0.0",
       "description": "Zero-dependency prompt evaluation engine — scores, anti-patterns, adversarial tests, rewrites. JS/Python parity.",
@@ -52176,6 +52404,18 @@
       "createdAt": "2026-08-06T19:21:57.445Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 92
+    },
+    {
+      "name": "rendfly",
+      "version": "0.1.0",
+      "description": "Production observability for LLM applications and AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/dferreira-ai/rendfly",
+      "npmUrl": "https://www.npmjs.com/package/rendfly",
+      "category": "utilities",
+      "createdAt": "2026-08-08T22:52:38.793Z",
+      "discoveredAt": "2026-08-08T23:13:31.743Z",
+      "score": 29
     },
     {
       "name": "renidly",
