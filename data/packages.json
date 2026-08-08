@@ -1598,6 +1598,18 @@
       "score": 49
     },
     {
+      "name": "@allratestoday/banxico-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official Banco de México (Mexico) daily exchange rates — 4 currencies vs MXN, history since 1993. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/banxico-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fbanxico-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-08-08T14:31:27.915Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 64
+    },
+    {
       "name": "@allratestoday/hmrc-exchange-rate",
       "version": "1.0.2",
       "description": "Official HM Revenue & Customs (United Kingdom) monthly exchange rates — ~140 currencies vs GBP, history since 2021. Zero-dependency Node.js/TypeScript client.",
@@ -4380,6 +4392,18 @@
       "createdAt": "2026-08-03T20:49:11.851Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 94
+    },
+    {
+      "name": "@byok-sdk/keys",
+      "version": "0.1.0",
+      "description": "BYOK SDK key management: provider profiles, credential-backed auth headers, and direct provider transports",
+      "license": "MIT",
+      "repository": "https://github.com/Ancienttwo/byok-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40byok-sdk%2Fkeys",
+      "category": "utilities",
+      "createdAt": "2026-08-08T14:46:50.381Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 55
     },
     {
       "name": "@bysking/vv-switch",
@@ -7766,6 +7790,18 @@
       "score": 70
     },
     {
+      "name": "@draftbase/create",
+      "version": "0.1.0",
+      "description": "Scaffold a Draftbase-backed site from an official example, with login and API keys set up for you",
+      "license": "MIT",
+      "repository": "https://github.com/draftbase-co/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40draftbase%2Fcreate",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:24:36.482Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 42
+    },
+    {
       "name": "@draftbase/renderer",
       "version": "0.1.0",
       "description": "Framework-agnostic MDX renderer for Draftbase content (React, Next.js RSC, React Native, Astro, Vite, Vue)",
@@ -8280,6 +8316,18 @@
       "createdAt": "2026-08-07T10:34:31.610Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 80
+    },
+    {
+      "name": "@elcrm/notifications",
+      "version": "0.3.1",
+      "description": "In-app inbox и Web Push для elCRM: Bell, Service Worker, подписка без FCM/APNs SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/elcrm-lib/elcrm.notifications",
+      "npmUrl": "https://www.npmjs.com/package/%40elcrm%2Fnotifications",
+      "category": "frontend",
+      "createdAt": "2026-08-08T14:30:55.789Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 36
     },
     {
       "name": "@elefthei/try-ts",
@@ -9732,6 +9780,30 @@
       "createdAt": "2026-08-04T08:05:10.239Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 89
+    },
+    {
+      "name": "@george43g/cli-kit",
+      "version": "0.1.0",
+      "description": "Commander helpers + TTY/color/output utilities + env↔flag binder + interactive REPL. Building blocks for the `example-repo-cli` bin in any tool cloned from the starter.",
+      "license": "MIT",
+      "repository": "https://github.com/george43g/mcp-cli-starter-template",
+      "npmUrl": "https://www.npmjs.com/package/%40george43g%2Fcli-kit",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:24:15.377Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 44
+    },
+    {
+      "name": "@george43g/tui-kit",
+      "version": "0.1.0",
+      "description": "Reusable Ink/React TUI building blocks: accent-driven theme system, useDevStats / useMouse / useVimKeys hooks, FullScreenInk wrapper integrated with the shutdown registry, DevStatsPanel, bounded-list eviction helper, and TTL+memory-pressure cache.",
+      "license": "MIT",
+      "repository": "https://github.com/george43g/mcp-cli-starter-template",
+      "npmUrl": "https://www.npmjs.com/package/%40george43g%2Ftui-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-08T14:24:18.271Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 52
     },
     {
       "name": "@georgedong32/pi-review",
@@ -12914,6 +12986,18 @@
       "score": 50
     },
     {
+      "name": "@hey-amanthakur/retry-box",
+      "version": "1.0.0",
+      "description": "Retry-Box — a production-grade, framework-agnostic retry and resilience engine for Node.js. Zero runtime dependencies. Retries, backoff strategies, jitter, failure classification, retry budgets, timeouts, cancellation and circuit breakers.",
+      "license": "MIT",
+      "repository": "https://github.com/hey-amanthakur/retry-box",
+      "npmUrl": "https://www.npmjs.com/package/%40hey-amanthakur%2Fretry-box",
+      "category": "devops",
+      "createdAt": "2026-08-08T14:51:32.521Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 100
+    },
+    {
       "name": "@hey-amanthakur/throttle-box",
       "version": "1.0.0",
       "description": "Throttle-Box — a framework-agnostic token bucket API rate limiter for Express, Fastify, Koa and NestJS. Zero runtime dependencies, pluggable store.",
@@ -15638,6 +15722,18 @@
       "score": 62
     },
     {
+      "name": "@ledgerbox/sdk",
+      "version": "0.1.2",
+      "description": "Extract structured data from bank statements, invoices, receipts, and more with the LedgerBox API.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Verifax-LLC/ledgerbox-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40ledgerbox%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-07-27T02:07:08.148Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 62
+    },
+    {
       "name": "@ledgerproof/queue",
       "version": "1.0.0",
       "description": "Execution persistence for AI agents: durable commitments that survive crashes, wait without burning retries, and resume automatically when conditions change. Zero dependencies.",
@@ -15888,6 +15984,18 @@
       "createdAt": "2026-07-31T23:04:50.420Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 64
+    },
+    {
+      "name": "@localminds/mindgraph",
+      "version": "0.1.0",
+      "description": "AI memory platform — every agent should ask memory before asking the filesystem.",
+      "license": "MIT",
+      "repository": "https://github.com/presencewebdesign/mindgraph",
+      "npmUrl": "https://www.npmjs.com/package/%40localminds%2Fmindgraph",
+      "category": "data",
+      "createdAt": "2026-08-08T14:39:16.815Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 60
     },
     {
       "name": "@lodado/personaut",
@@ -18386,6 +18494,42 @@
       "score": 83
     },
     {
+      "name": "@mrfentmen/modrinth-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Modrinth — search Minecraft mods, filter by loader and game version, browse versions.",
+      "license": "MIT",
+      "repository": "https://github.com/mrfentmen/modrinth-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mrfentmen%2Fmodrinth-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:35:00.461Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 44
+    },
+    {
+      "name": "@mrfentmen/setlist-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Setlist.fm — concert setlists, songs played live, tour history",
+      "license": "MIT",
+      "repository": "https://github.com/mrfentmen/setlist-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mrfentmen%2Fsetlist-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:34:55.265Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 42
+    },
+    {
+      "name": "@mrfentmen/steam-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Steam — store search, prices and discounts, app details, and game news.",
+      "license": "MIT",
+      "repository": "https://github.com/mrfentmen/steam-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mrfentmen%2Fsteam-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:34:57.852Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 42
+    },
+    {
       "name": "@mrmendez/atlas",
       "version": "0.2.3",
       "description": "Local-first documentation ingestion, retrieval, and MCP/server access for multi-repo engineering docs.",
@@ -19692,6 +19836,18 @@
       "createdAt": "2026-07-29T20:18:11.509Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 55
+    },
+    {
+      "name": "@officina-musci/n8n-nodes-svg-processor",
+      "version": "0.2.0",
+      "description": "n8n community node to process SVG files and templates and export to PDF/JPG/PNG",
+      "license": "MIT",
+      "repository": "https://github.com/officina-musci/n8n-nodes-svg-processor",
+      "npmUrl": "https://www.npmjs.com/package/%40officina-musci%2Fn8n-nodes-svg-processor",
+      "category": "devops",
+      "createdAt": "2026-08-08T14:26:33.578Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 44
     },
     {
       "name": "@okeav/idp-core",
@@ -26450,6 +26606,18 @@
       "score": 68
     },
     {
+      "name": "@tellwang/cli",
+      "version": "0.1.0",
+      "description": "Shell access to the TellWang control plane — releases, promotion, deploys, and verification for a Wok.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/piske-alex/tellwang",
+      "npmUrl": "https://www.npmjs.com/package/%40tellwang%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-08T14:48:23.652Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 26
+    },
+    {
       "name": "@telorun/kv-store",
       "version": "0.3.0",
       "description": "The Telo KvStore.Store contract — a durable, non-evicting key/value store with atomic conditional writes — plus KeyedClaim, the claim/settle/release protocol implemented once over those primitives so no backend reimplements it.",
@@ -28872,6 +29040,18 @@
       "createdAt": "2026-08-08T11:46:41.591Z",
       "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 73
+    },
+    {
+      "name": "@webmobix/form-components",
+      "version": "0.1.1",
+      "description": "Form field, canvas, and palette web components (Stencil) — plain HTML / Preact via dist-custom-elements; typed React wrappers ship in @webmobix/form-components-react",
+      "license": "MIT",
+      "repository": "https://github.com/webmobix/form-builder",
+      "npmUrl": "https://www.npmjs.com/package/%40webmobix%2Fform-components",
+      "category": "frontend",
+      "createdAt": "2026-08-08T14:48:41.469Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 52
     },
     {
       "name": "@webrtc-node/trpc-webrtc-link",
@@ -32066,6 +32246,18 @@
       "score": 98
     },
     {
+      "name": "banxico-exchange-rate",
+      "version": "1.0.2",
+      "description": "Official Banco de México (Mexico) daily exchange rates — 4 currencies vs MXN, history since 1993. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/banxico-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/banxico-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:30:38.897Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 63
+    },
+    {
       "name": "baredom",
       "version": "1.0.0",
       "description": "UI library for building high-performance web interfaces with native JavaScript",
@@ -32412,6 +32604,18 @@
       "createdAt": "2026-08-06T01:35:02.988Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 71
+    },
+    {
+      "name": "boosterjr",
+      "version": "0.1.0",
+      "description": "DevTools-like visual editing for local web apps, powered by Codex",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/riitree/Booster-Jr",
+      "npmUrl": "https://www.npmjs.com/package/boosterjr",
+      "category": "frontend",
+      "createdAt": "2026-08-08T14:33:55.291Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 43
     },
     {
       "name": "boredload",
@@ -33923,6 +34127,18 @@
       "category": "backend",
       "createdAt": "2026-08-05T12:32:50.051Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 78
+    },
+    {
+      "name": "cobb-douglas-neuron",
+      "version": "1.0.0",
+      "description": "Experimental comparison of a classical (degree-0) neuron against a degree-(+1) Cobb-Douglas neuron, derived from the logarithmic-exponential conjugation principle.",
+      "license": "MIT",
+      "repository": "https://github.com/Justo-Tapiador/cobb-douglas-neuron",
+      "npmUrl": "https://www.npmjs.com/package/cobb-douglas-neuron",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:51:44.463Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 78
     },
     {
@@ -40694,6 +40910,18 @@
       "score": 82
     },
     {
+      "name": "korea-university-mcp",
+      "version": "0.1.1",
+      "description": "대학알리미·공공데이터포털 대학정보 API를 통합하는 MCP 서버와 CLI",
+      "license": "MIT",
+      "repository": "https://github.com/topnotcher107-dotcom/korea-university-mcp",
+      "npmUrl": "https://www.npmjs.com/package/korea-university-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-07T09:41:14.756Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 34
+    },
+    {
       "name": "kracked-core",
       "version": "1.0.0",
       "description": "Zero-dependency memory & workflow installer for AI coding agents — global identity, project memory, and skills that survive session restarts.",
@@ -43788,6 +44016,18 @@
       "createdAt": "2026-07-26T22:39:23.740Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 86
+    },
+    {
+      "name": "nbmecalc-score-conversion",
+      "version": "1.0.0",
+      "description": "Deterministic NBME, UWSA, Free 120, AMBOSS, and CMS score interpretation helpers for USMLE study planning.",
+      "license": "MIT",
+      "repository": "https://github.com/jiankn/nbmecalc",
+      "npmUrl": "https://www.npmjs.com/package/nbmecalc-score-conversion",
+      "category": "data",
+      "createdAt": "2026-08-08T14:53:18.599Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 57
     },
     {
       "name": "nbu-exchange-rate",
@@ -50090,6 +50330,18 @@
       "score": 79
     },
     {
+      "name": "secretfence",
+      "version": "0.1.0",
+      "description": "Stop secrets before they ever leave your machine. A fast, local-first, developer-friendly secret scanner and pre-push guard for Git repositories.",
+      "license": "MIT",
+      "repository": "https://github.com/ankush4gupta/secretfence",
+      "npmUrl": "https://www.npmjs.com/package/secretfence",
+      "category": "cli",
+      "createdAt": "2026-08-08T14:48:57.531Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 57
+    },
+    {
       "name": "secrets-le-mcp",
       "version": "2.2.2",
       "description": "Detect hardcoded secrets in source and config, reporting masked previews and never the values themselves.",
@@ -50436,6 +50688,18 @@
       "createdAt": "2026-07-25T14:38:34.858Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "shan-ffapi",
+      "version": "1.0.0",
+      "description": "Unofficial Free Fire player data SDK — search players, fetch profiles, stats, items, and send likes. Auto-managed guest authentication with built-in credential pool.",
+      "license": "MIT",
+      "repository": "https://github.com/Sh4nDev/shan-ffapi",
+      "npmUrl": "https://www.npmjs.com/package/shan-ffapi",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:47:56.489Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 64
     },
     {
       "name": "shapeup-sdlc",
@@ -51660,6 +51924,18 @@
       "createdAt": "2026-08-06T19:59:56.425Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 89
+    },
+    {
+      "name": "stresseur",
+      "version": "0.0.2",
+      "description": "Stresseur — API load testing powered by the flows you already have. By the DevTools team.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/the-dev-tools/dev-tools",
+      "npmUrl": "https://www.npmjs.com/package/stresseur",
+      "category": "testing",
+      "createdAt": "2026-08-08T14:40:55.914Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 33
     },
     {
       "name": "stroopwatch",
@@ -53330,6 +53606,18 @@
       "score": 69
     },
     {
+      "name": "uitopia",
+      "version": "0.0.1",
+      "description": "Reserved for UiTOPIA (https://uitopia.design). Not an installable library yet — copy components from the catalog.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/dhanushariah/UiTOPIA",
+      "npmUrl": "https://www.npmjs.com/package/uitopia",
+      "category": "frontend",
+      "createdAt": "2026-08-08T14:44:31.249Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 33
+    },
+    {
       "name": "ulbase-js",
       "version": "3.0.0",
       "description": "Ultra‑Lightweight Firestore‑like Database for Node.js",
@@ -54120,6 +54408,18 @@
       "createdAt": "2026-08-07T12:08:10.494Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 76
+    },
+    {
+      "name": "vitepress-plugin-open-in-editor",
+      "version": "0.1.0",
+      "description": "Hover any paragraph in a VitePress site and jump straight to the source line in your local editor. Works with VS Code Remote SSH.",
+      "license": "MIT",
+      "repository": "https://github.com/b1tzer/vitepress-plugin-open-in-editor",
+      "npmUrl": "https://www.npmjs.com/package/vitepress-plugin-open-in-editor",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:25:20.695Z",
+      "discoveredAt": "2026-08-08T14:55:06.806Z",
+      "score": 60
     },
     {
       "name": "vitepress-plugin-outline-depth",
