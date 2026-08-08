@@ -422,6 +422,18 @@
       "score": 65
     },
     {
+      "name": "@activescott/auth-provider-passkey",
+      "version": "1.0.0",
+      "description": "Passkey (WebAuthn) provider for @activescott/auth",
+      "license": "MIT",
+      "repository": "https://github.com/activescott/auth",
+      "npmUrl": "https://www.npmjs.com/package/%40activescott%2Fauth-provider-passkey",
+      "category": "utilities",
+      "createdAt": "2026-08-02T06:07:09.457Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 68
+    },
+    {
       "name": "@actovision/kaptha-page-builder",
       "version": "1.0.0",
       "description": "Kaptha page builder — document model (core), server-side HTML/CSS renderer, and React visual editor, published as one package with subpath exports.",
@@ -4790,6 +4802,18 @@
       "score": 71
     },
     {
+      "name": "@cexy/wonfca",
+      "version": "1.0.1",
+      "description": "Unofficial Facebook Chat API for Node.js - Interact with Facebook Messenger programmatically",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/bdrakib123/won-fca",
+      "npmUrl": "https://www.npmjs.com/package/%40cexy%2Fwonfca",
+      "category": "backend",
+      "createdAt": "2026-08-02T02:47:34.335Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 89
+    },
+    {
       "name": "@chad3814/secret-provider",
       "version": "1.1.0",
       "description": "Composable async credential providers — a first-to-resolve chain with memoization, in the shape of the AWS SDK's provider pattern, for any secret source.",
@@ -7886,6 +7910,18 @@
       "score": 66
     },
     {
+      "name": "@drakkar.software/octobot-client",
+      "version": "0.4.0",
+      "description": "TypeScript client for the OctoBot node protocol: wallet auth, accounts, automations, strategies, and user actions over the Starfish sync transport.",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/Drakkar-Software/OctoBot",
+      "npmUrl": "https://www.npmjs.com/package/%40drakkar.software%2Foctobot-client",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T16:23:23.203Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 59
+    },
+    {
       "name": "@dravensoft/arena-angular",
       "version": "5.0.0",
       "description": "Arena, the Dravensoft design system: standalone Angular components on a shared Tailwind recipe layer.",
@@ -10274,6 +10310,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/axtion",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for AXTIon (build etherscan-axtion-6a3e77d9-1786206819518, commit 41ebb4a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/axtion",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Faxtion",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T16:34:02.749Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/babydoge",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BabyDoge (build etherscan-babydoge-ac57de9c-1786200902348, commit d330526, branch etherscan)",
@@ -10742,6 +10790,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/ethprime",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for EthPrime (build etherscan-ethprime-e40e1531-1786207324565, commit 44597f0, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ethprime",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fethprime",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T16:42:26.526Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/ethvault",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for EthVault (build etherscan-ethvault-4c09bc47-1785447009343, commit 835f24b, branch etherscan)",
@@ -10848,6 +10908,18 @@
       "createdAt": "2026-08-01T23:24:54.688Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/goatz",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for GOATZ (build etherscan-goatz-3eacf2d8-1786208144768, commit 16bcde8, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/goatz",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgoatz",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T16:56:05.828Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/godpull",
@@ -11867,6 +11939,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-07T04:43:06.917Z",
       "discoveredAt": "2026-08-07T05:57:15.695Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/tclov",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for tCLOV (build etherscan-tclov-57721aef-1786206109263, commit 75680d7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/tclov",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftclov",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T16:22:12.356Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 57
     },
     {
@@ -13476,6 +13560,18 @@
       "createdAt": "2026-07-25T17:11:12.003Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 58
+    },
+    {
+      "name": "@houtini/amazon-creators-mcp",
+      "version": "0.3.2",
+      "description": "Amazon Creators API MCP Server — blog-friendly affiliate product embeds rendered inline via MCP Apps.",
+      "license": "MIT",
+      "repository": "https://github.com/houtini-ai/amazon-creators-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40houtini%2Famazon-creators-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:52:59.941Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 78
     },
     {
       "name": "@houtini/seo-audit-console",
@@ -16010,6 +16106,18 @@
       "score": 76
     },
     {
+      "name": "@lesomnus/grpc-dgram",
+      "version": "0.0.1",
+      "description": "gRPC over unreliable datagram channels — TypeScript port of gRPC-dgram (dRPC wire protocol v1.1)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lesomnus/grpc-dgram",
+      "npmUrl": "https://www.npmjs.com/package/%40lesomnus%2Fgrpc-dgram",
+      "category": "data",
+      "createdAt": "2026-08-08T16:44:26.637Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 73
+    },
+    {
       "name": "@lew-ds/lds",
       "version": "1.0.0",
       "description": "Lew Design System — components as plain HTML, over a one-token CSS architecture, with four themes and light/dark.",
@@ -17256,6 +17364,18 @@
       "createdAt": "2026-07-27T22:05:56.631Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 61
+    },
+    {
+      "name": "@mgtalabs/medusa-brand",
+      "version": "0.1.0",
+      "description": "Commercial-grade Brand Management plugin for Medusa v2 — full CRUD, Module Link-based product assignment, Admin and Store REST APIs, and an Admin dashboard UI.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/TayyabAli204/medusa-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40mgtalabs%2Fmedusa-brand",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:22:57.841Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 71
     },
     {
       "name": "@mhuang98/mcp-compose",
@@ -18758,6 +18878,18 @@
       "score": 65
     },
     {
+      "name": "@mrsametyildirim/athena",
+      "version": "0.2.0",
+      "description": "Athena — a token-thrifty knowledge engine for AI coding agents. Reads every file type (docx/xlsx/pptx/pdf/media/images), finds files across your PC, drives open browser tabs, and grows a linked memory graph. Obsidian + NotebookLM + Playwright in one CLI,",
+      "license": "MIT",
+      "repository": "https://github.com/mrsametyildirim/athena",
+      "npmUrl": "https://www.npmjs.com/package/%40mrsametyildirim%2Fathena",
+      "category": "testing",
+      "createdAt": "2026-08-08T16:45:13.094Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 82
+    },
+    {
       "name": "@mrsametyildirim/bilge",
       "version": "0.1.0",
       "description": "Bilge — token-verimli bir bilgi motoru: Obsidian gibi hafızalı, NotebookLM gibi bilgi emici, Playwright gibi tarayıcı doğrulayan tek CLI. A token-thrifty knowledge engine for Claude Code: memory graph + document ingestion + browser verification + security",
@@ -20102,6 +20234,18 @@
       "score": 44
     },
     {
+      "name": "@oge-ui/layout",
+      "version": "0.7.0",
+      "description": "Signal-based Angular layout family: OgeAccordion with declarative <oge-accordion-item> children or data-driven items, APG keyboard support, single/multiple expansion, lazy rendering, async expand guards, invalid-section indicators and per-panel async cont",
+      "license": "MIT",
+      "repository": "https://github.com/oge-ui/oge-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40oge-ui%2Flayout",
+      "category": "frontend",
+      "createdAt": "2026-08-08T16:46:26.030Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 58
+    },
+    {
       "name": "@okeav/idp-core",
       "version": "0.1.0",
       "description": "Standalone, pluggable identity provider for Node.js/TypeScript backends — OAuth2/OIDC authorization server, password + MFA + social login, session management, and service-to-service JWKS trust. Bring your own MongoDB.",
@@ -20724,6 +20868,18 @@
       "createdAt": "2026-07-30T05:23:13.492Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 66
+    },
+    {
+      "name": "@otto-assistant/opencode-commandcode",
+      "version": "0.2.0",
+      "description": "Command Code in OpenCode — Go-plan ($1) browser OAuth, gateway proxy, Laguna S 2.1, tools/MCP, attachments, compact, usage.",
+      "license": "MIT",
+      "repository": "https://github.com/otto-assistant/opencode-commandcode",
+      "npmUrl": "https://www.npmjs.com/package/%40otto-assistant%2Fopencode-commandcode",
+      "category": "frontend",
+      "createdAt": "2026-08-08T16:30:10.257Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 69
     },
     {
       "name": "@ovation-cxm/coresdk",
@@ -22992,6 +23148,18 @@
       "createdAt": "2026-07-25T14:15:00.070Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "@removals-space/reputation-engine",
+      "version": "1.0.0",
+      "description": "Removals Space Reputation Engine is a digital reputation management and online content analysis tool designed to help individuals, businesses, and digital professionals better understand and manage their online visibility.",
+      "license": "MIT",
+      "repository": "https://github.com/Removal-space/Removals-Space-Reputation-Engine",
+      "npmUrl": "https://www.npmjs.com/package/%40removals-space%2Freputation-engine",
+      "category": "data",
+      "createdAt": "2026-08-08T16:39:06.271Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 87
     },
     {
       "name": "@rentlyorg/react-native-amazon-kvs",
@@ -25550,6 +25718,18 @@
       "score": 82
     },
     {
+      "name": "@solvorx/sx-tool-web",
+      "version": "0.1.0",
+      "description": "Integración de identidad de SolvorX para apps web: login, sesión persistente y logout contra sx-management-service, sin backend propio.",
+      "license": "MIT",
+      "repository": "https://github.com/solvorx/sx-tool-web",
+      "npmUrl": "https://www.npmjs.com/package/%40solvorx%2Fsx-tool-web",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:40:08.664Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 73
+    },
+    {
       "name": "@somnia-chain/markets-sdk",
       "version": "0.20.0",
       "description": "Zero-latency client for the Somnia Markets order books (spot + binary): hydrates a consistent Envio/Hasura snapshot, then materializes subsequent blocks — including the resting order book — from chain logs into a reactive store (with React hooks). Writes",
@@ -27072,6 +27252,18 @@
       "createdAt": "2026-08-04T20:56:09.346Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 60
+    },
+    {
+      "name": "@textmode/build",
+      "version": "0.1.0",
+      "description": "Shared build, dev, and test tooling for the textmode.js ecosystem (Vite, Vitest, GLSL).",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/textmode-art/tooling",
+      "npmUrl": "https://www.npmjs.com/package/%40textmode%2Fbuild",
+      "category": "testing",
+      "createdAt": "2026-08-08T16:23:10.615Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 62
     },
     {
       "name": "@textmode/lint",
@@ -34106,6 +34298,18 @@
       "score": 92
     },
     {
+      "name": "claude-cli-proxy",
+      "version": "1.0.1",
+      "description": "Run a local Anthropic- and OpenAI-compatible API server on top of your Claude Code subscription. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/sasisprite/claude-cli-proxy",
+      "npmUrl": "https://www.npmjs.com/package/claude-cli-proxy",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:51:25.240Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 91
+    },
+    {
       "name": "claude-code-branching",
       "version": "1.0.0",
       "description": "Branching for Claude Code conversations: branch tree, global catalogue, restart from any message",
@@ -38978,6 +39182,18 @@
       "score": 86
     },
     {
+      "name": "github-cli-manager",
+      "version": "1.3.0",
+      "description": "GitHub Repository Manager CLI - kelola Git & GitHub lewat menu interaktif di Termux/Linux tanpa perlu hafal perintah Git.",
+      "license": "MIT",
+      "repository": "https://github.com/catur003/github-manager",
+      "npmUrl": "https://www.npmjs.com/package/github-cli-manager",
+      "category": "cli",
+      "createdAt": "2026-08-08T16:56:00.803Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 73
+    },
+    {
       "name": "github-mcp-server-js",
       "version": "0.1.1",
       "description": "A GitHub MCP server built on octokit.js and the MCP TypeScript SDK v2 — 104 tools across 16 toolsets, packaged as npm and .mcpb Claude Desktop Extension.",
@@ -39972,6 +40188,18 @@
       "createdAt": "2026-08-01T23:10:23.854Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 63
+    },
+    {
+      "name": "hrr-lib",
+      "version": "0.1.0",
+      "description": "Holographic Reduced Representations — minimal, deterministic, zero-dependency phase-vector HRR for Node and edge runtimes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fingerskier/HRR.js",
+      "npmUrl": "https://www.npmjs.com/package/hrr-lib",
+      "category": "utilities",
+      "createdAt": "2026-08-08T16:41:59.654Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 58
     },
     {
       "name": "hs-dev-manager",
@@ -44894,6 +45122,18 @@
       "score": 60
     },
     {
+      "name": "ngx-minimal-modal",
+      "version": "1.0.0",
+      "description": "A tiny, unopinionated library for working with modals.",
+      "license": "MIT",
+      "repository": "https://github.com/ThePipeFox/ngx-minimal-modal",
+      "npmUrl": "https://www.npmjs.com/package/ngx-minimal-modal",
+      "category": "frontend",
+      "createdAt": "2026-08-08T16:24:43.650Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 61
+    },
+    {
       "name": "ngx-notiflow",
       "version": "0.1.0",
       "description": "Modern, signal-based, standalone & zoneless toast/notification library for Angular — a familiar successor to the archived ngx-toastr, with per-region limits & queueing, duplicate counting, promise toasts and serious accessibility. No @angular/animations.",
@@ -45398,6 +45638,18 @@
       "score": 69
     },
     {
+      "name": "oham-stream",
+      "version": "0.2.1",
+      "description": "OHAM — OrthoHolonic Accessible Memory. Sealed-media receiver: exact CPU-only decode of .tsb containers in the browser, plus the one-tag <oham-stream> element. Addresses, not pixels.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/gen-rl-millz/oham",
+      "npmUrl": "https://www.npmjs.com/package/oham-stream",
+      "category": "frontend",
+      "createdAt": "2026-08-06T17:42:42.948Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 64
+    },
+    {
       "name": "omega-security-scanner",
       "version": "7.0.0",
       "description": "OMEGA Scanner v7.0 — Ultimate Autonomous Pentest Engine by @c4ccz. 100+ Protocols, 3000+ Payloads, Auto-Discovery, Real Connections.",
@@ -45864,6 +46116,18 @@
       "createdAt": "2026-08-05T17:40:39.688Z",
       "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 74
+    },
+    {
+      "name": "opencode-idle-poke",
+      "version": "0.1.0",
+      "description": "An OpenCode plugin that proactively sends you a message when you have been silent for a while, with a configurable interval, per-session on/off markers, and an optional adaptive interval. Not usable in one-shot CLI mode.",
+      "license": "MIT",
+      "repository": "https://github.com/10wnekomikoreimu/opencode-idle-poke",
+      "npmUrl": "https://www.npmjs.com/package/opencode-idle-poke",
+      "category": "cli",
+      "createdAt": "2026-08-08T16:26:57.582Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 60
     },
     {
       "name": "opencode-lark-bridge",
@@ -47954,6 +48218,18 @@
       "score": 87
     },
     {
+      "name": "pmtiles-torrent",
+      "version": "0.1.0",
+      "description": "Serve a PMTiles archive from a BitTorrent swarm — a torrent-backed Source for the pmtiles package",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/TechIdiots-LLC/pmtiles-torrent",
+      "npmUrl": "https://www.npmjs.com/package/pmtiles-torrent",
+      "category": "utilities",
+      "createdAt": "2026-08-08T16:43:29.291Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 75
+    },
+    {
       "name": "pngjs-nextgen",
       "version": "7.0.0",
       "description": "Modern continuation of pngjs",
@@ -49548,6 +49824,18 @@
       "createdAt": "2026-08-08T16:11:28.830Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 82
+    },
+    {
+      "name": "react-native-sharp",
+      "version": "0.1.1",
+      "description": "High-performance image processing for React Native — resize, crop, rotate, compress JPEG/PNG/WebP like Node sharp, powered by libvips and Nitro Modules (New Architecture)",
+      "license": "MIT",
+      "repository": "https://github.com/yashp98/react-native-sharp",
+      "npmUrl": "https://www.npmjs.com/package/react-native-sharp",
+      "category": "frontend",
+      "createdAt": "2026-08-08T16:39:23.921Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 72
     },
     {
       "name": "react-native-smartapi",
@@ -55980,6 +56268,18 @@
       "createdAt": "2026-08-07T06:58:20.861Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 88
+    },
+    {
+      "name": "x402-aa-wallet",
+      "version": "0.2.0",
+      "description": "Give an ERC-4337 / account-abstraction agent a dedicated, non-custodial EOA so it can pay x402 (HTTP 402) challenges against any x402 merchant — smart-wallet signatures don't yet settle on today's facilitators. Optional maxAmountUsd spend cap.",
+      "license": "MIT",
+      "repository": "https://github.com/MeMikko/hoodgrow-x402-aa-ts",
+      "npmUrl": "https://www.npmjs.com/package/x402-aa-wallet",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:42:23.702Z",
+      "discoveredAt": "2026-08-08T16:57:46.605Z",
+      "score": 77
     },
     {
       "name": "x402-codesearch-mcp",
