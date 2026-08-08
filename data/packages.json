@@ -5750,6 +5750,30 @@
       "score": 76
     },
     {
+      "name": "@countrystatecity/geojson",
+      "version": "1.0.1",
+      "description": "Countries, states, and cities as GeoJSON Point FeatureCollections, loaded via jsDelivr CDN",
+      "license": "ODbL-1.0",
+      "repository": "https://github.com/dr5hn/countrystatecity-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40countrystatecity%2Fgeojson",
+      "category": "frontend",
+      "createdAt": "2026-08-08T11:33:17.027Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 64
+    },
+    {
+      "name": "@countrystatecity/postalcodes",
+      "version": "1.0.1",
+      "description": "Official postal/ZIP code database with locality search, existence-based validation, and lazy loading",
+      "license": "ODbL-1.0",
+      "repository": "https://github.com/dr5hn/countrystatecity-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40countrystatecity%2Fpostalcodes",
+      "category": "data",
+      "createdAt": "2026-08-08T11:33:09.455Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 72
+    },
+    {
       "name": "@crafter/vcut",
       "version": "0.1.0",
       "description": "Cut dead air out of a recording, reproducibly. Agent-first CLI over ffmpeg.",
@@ -8294,6 +8318,18 @@
       "score": 86
     },
     {
+      "name": "@ericzhaozzz/wechat-channel",
+      "version": "0.1.0",
+      "description": "@ericzhaozzz/wechat-channel — iLink Bot API integration for Pi Agent",
+      "license": "MIT",
+      "repository": "https://github.com/EricZhaoZzz/wechat-channel",
+      "npmUrl": "https://www.npmjs.com/package/%40ericzhaozzz%2Fwechat-channel",
+      "category": "backend",
+      "createdAt": "2026-08-08T11:36:33.147Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 66
+    },
+    {
       "name": "@espressif/rainmaker-neo-base-sdk",
       "version": "1.0.0",
       "description": "ESP RainMaker Neo TypeScript SDK for JS-based apps — Cognito auth, MQTT control, device provisioning, groups, and real-time node updates.",
@@ -9854,6 +9890,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/aaplx",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for AAPLx (build etherscan-aaplx-9d275685-1786191173823, commit cc24452, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/aaplx",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Faaplx",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T12:13:22.127Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/abu",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ABU (build etherscan-abu-2800144a-1785448019813, commit 59c397b, branch etherscan)",
@@ -10526,6 +10574,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/hobbes",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for HOBBES (build etherscan-hobbes-680743aa-1786190028231, commit 8fec6ce, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/hobbes",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fhobbes",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:54:13.621Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/https-safe-ad",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for https://safe.ad (build etherscan-https-safe-ad-31a24064-1785067264819, commit ef57165, branch etherscan)",
@@ -11090,6 +11150,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/presencelogger",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PresenceLogger (build etherscan-presencelogger-330d034e-1786190728466, commit 4ca11c4, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/presencelogger",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpresencelogger",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T12:05:53.613Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/prism",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for PRISM (build etherscan-prism-bd3ab585-1786175749807, commit 66edbbb, branch etherscan)",
@@ -11198,6 +11270,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/rocketminipool",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RocketMinipool (build etherscan-rocketminipool-57189e0b-1786188232970, commit 67f3e46, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rocketminipool",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frocketminipool",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:24:17.992Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/rune",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for RUNE (build etherscan-rune-3155ba85-1786160489744, commit 3fa906e, branch etherscan)",
@@ -11258,6 +11342,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/sand",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SAND (build etherscan-sand-3845bada-1786191333805, commit 819ba85, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/sand",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsand",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T12:15:57.863Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/sdt",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ՍSDT (build etherscan-sdt-0f6b862e-1784992251517, commit cfb229d, branch etherscan)",
@@ -11315,6 +11411,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-25T21:42:55.371Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/sos",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SOS (build etherscan-sos-61af906f-1786190953513, commit b7d7328, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/sos",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsos",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T12:09:37.555Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 56
     },
     {
@@ -11507,6 +11615,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-26T11:55:41.106Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/troy",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TROY (build etherscan-troy-4574562e-1786188558014, commit 60bb4ba, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/troy",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftroy",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:29:39.256Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 56
     },
     {
@@ -12708,6 +12828,18 @@
       "createdAt": "2026-08-07T21:01:57.507Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 71
+    },
+    {
+      "name": "@hiai-gg/agent-plugins-doctor",
+      "version": "0.0.4",
+      "description": "Diagnose and fix Agent Plugins",
+      "license": "MIT",
+      "repository": "https://github.com/HiAi-gg/agent-plugins-doctor",
+      "npmUrl": "https://www.npmjs.com/package/%40hiai-gg%2Fagent-plugins-doctor",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:24:33.380Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 63
     },
     {
       "name": "@highflame/codeoid",
@@ -15842,6 +15974,18 @@
       "score": 71
     },
     {
+      "name": "@lucashungaro/opencode-model-router",
+      "version": "1.5.0",
+      "description": "OpenCode plugin that routes tasks to tiered subagents (fast/medium/heavy) based on complexity",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/lucashungaro/opencode-model-router",
+      "npmUrl": "https://www.npmjs.com/package/%40lucashungaro%2Fopencode-model-router",
+      "category": "utilities",
+      "createdAt": "2026-08-08T11:52:42.191Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 85
+    },
+    {
       "name": "@luxfi/bridge",
       "version": "1.0.7",
       "description": "Lux Bridge SDK — embed bridge.lux.network into any host application",
@@ -16284,6 +16428,18 @@
       "createdAt": "2026-07-28T16:22:57.059Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 65
+    },
+    {
+      "name": "@massing/kernel-conformance",
+      "version": "0.1.0",
+      "description": "The conformance suite every MassingViewer kernel must pass. A published test library, so writing a kernel is `npm i -D` and fix the reds rather than a reverse-engineering exercise.",
+      "license": "MIT",
+      "repository": "https://github.com/MassingCloud/MassingViewer",
+      "npmUrl": "https://www.npmjs.com/package/%40massing%2Fkernel-conformance",
+      "category": "testing",
+      "createdAt": "2026-08-08T12:01:15.599Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 59
     },
     {
       "name": "@masterdeepak15/teamhub-cli",
@@ -19848,6 +20004,18 @@
       "createdAt": "2026-08-07T11:17:08.599Z",
       "discoveredAt": "2026-08-07T11:31:28.775Z",
       "score": 75
+    },
+    {
+      "name": "@oreefy/http",
+      "version": "1.0.0",
+      "description": "Edge-compatible, standardized HTTP handler for secure inter-service communication across Oreefy ecosystem.",
+      "license": "MIT",
+      "repository": "https://github.com/oreefy/oreefy-http",
+      "npmUrl": "https://www.npmjs.com/package/%40oreefy%2Fhttp",
+      "category": "backend",
+      "createdAt": "2026-08-08T11:55:47.511Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 61
     },
     {
       "name": "@oreefy/jwe",
@@ -24458,6 +24626,18 @@
       "score": 87
     },
     {
+      "name": "@smart-waitlist/client",
+      "version": "1.0.0",
+      "description": "Tiny client SDK for Smart-Waitlist templates. Preview-mode (localStorage) and live-mode (REST).",
+      "license": "MIT",
+      "repository": "https://github.com/mystbrent/smartwaitlist-saas",
+      "npmUrl": "https://www.npmjs.com/package/%40smart-waitlist%2Fclient",
+      "category": "cli",
+      "createdAt": "2026-08-08T12:16:54.036Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 59
+    },
+    {
       "name": "@smartlyqofficial/cli",
       "version": "0.1.0",
       "description": "Official command line for the SmartlyQ API - social posting, AI content generation, SEO, CRM, and more.",
@@ -28442,6 +28622,18 @@
       "score": 67
     },
     {
+      "name": "@webbrain/mcp-server",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server that lets any MCP client (Claude Code, Codex, Cursor, OpenClaw) delegate browser tasks to a running WebBrain extension — in the user's real, already-authenticated browser session.",
+      "license": "MIT",
+      "repository": "https://github.com/webbrain-one/webbrain",
+      "npmUrl": "https://www.npmjs.com/package/%40webbrain%2Fmcp-server",
+      "category": "frontend",
+      "createdAt": "2026-08-08T11:46:41.591Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 73
+    },
+    {
       "name": "@webrtc-node/trpc-webrtc-link",
       "version": "0.2.0",
       "description": "A complete tRPC v11 client link and server transport for WebRTC RTCDataChannels.",
@@ -31574,6 +31766,18 @@
       "score": 82
     },
     {
+      "name": "bank-statement-sheet-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Bank Statement Sheet — convert PDF bank statements to transaction data that arrives with a pass/fail reconciliation verdict, so an agent knows whether the numbers are safe to post to a ledger.",
+      "license": "MIT",
+      "repository": "https://github.com/alimpolat/bankstatementconverter",
+      "npmUrl": "https://www.npmjs.com/package/bank-statement-sheet-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T12:05:17.367Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 67
+    },
+    {
       "name": "bankingcircle-sdk",
       "version": "1.0.0",
       "description": "A complete, dependency-free TypeScript client for the Banking Circle Connect API: payments, accounts, virtual accounts, FX (incl. WebSocket streaming), reporting, case management, direct debit, ISO20022, and webhooks.",
@@ -32810,6 +33014,18 @@
       "score": 65
     },
     {
+      "name": "choices-ember",
+      "version": "0.1.2",
+      "description": "Ember v2 addon: reactive Choices.js bridge with optional daisyUI fieldset chrome",
+      "license": "MIT",
+      "repository": "https://github.com/ultish/choices-ember",
+      "npmUrl": "https://www.npmjs.com/package/choices-ember",
+      "category": "frontend",
+      "createdAt": "2026-08-08T12:09:20.018Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 66
+    },
+    {
       "name": "choose-security",
       "version": "1.0.0",
       "description": "Install the Choose-Security 3-skill security chain (review → document → remediate) into Claude Code, pi, and opencode in one command.",
@@ -32856,6 +33072,18 @@
       "createdAt": "2026-07-30T07:39:30.977Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 89
+    },
+    {
+      "name": "chrome-store-cli",
+      "version": "1.3.1",
+      "description": "Unofficial CLI for Chrome / Firefox / Edge extension store publishing — checklist, prepare, pack, upload, publish",
+      "license": "MIT",
+      "repository": "https://github.com/nickylin/chrome-store-cli",
+      "npmUrl": "https://www.npmjs.com/package/chrome-store-cli",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:44:44.086Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 66
     },
     {
       "name": "chrono-fa",
@@ -34502,6 +34730,18 @@
       "score": 82
     },
     {
+      "name": "crewmates",
+      "version": "0.1.0",
+      "description": "Lets the Claude Code sessions working on one project see each other: who is active, what each is doing, which files they have touched.",
+      "license": "MIT",
+      "repository": "https://github.com/asutekku/crewmate",
+      "npmUrl": "https://www.npmjs.com/package/crewmates",
+      "category": "utilities",
+      "createdAt": "2026-08-08T11:41:25.894Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 73
+    },
+    {
       "name": "crisismode",
       "version": "0.9.0",
       "description": "AI-powered infrastructure recovery — detect, diagnose, and recover stateful systems",
@@ -35316,6 +35556,18 @@
       "createdAt": "2026-08-01T08:55:23.324Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 64
+    },
+    {
+      "name": "distill-md",
+      "version": "0.1.0",
+      "description": "Convert any website into clean, agent-ready Markdown. Local-first, fast, deterministic.",
+      "license": "MIT",
+      "repository": "https://github.com/gokulnair2001/distill",
+      "npmUrl": "https://www.npmjs.com/package/distill-md",
+      "category": "backend",
+      "createdAt": "2026-08-08T11:40:38.680Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 61
     },
     {
       "name": "dj-atlassian-axi",
@@ -42854,6 +43106,18 @@
       "score": 57
     },
     {
+      "name": "n8n-nodes-sendletter",
+      "version": "1.0.1",
+      "description": "Send real, printed letters by post from n8n. Print, frank and deliver across Europe, including registered mail with proof of posting.",
+      "license": "MIT",
+      "repository": "https://github.com/gertsnijder/n8n-nodes-sendletter",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-sendletter",
+      "category": "utilities",
+      "createdAt": "2026-08-08T10:55:56.867Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 59
+    },
+    {
       "name": "n8n-nodes-sonilo",
       "version": "0.1.3",
       "description": "n8n community node for Sonilo - generate licensed AI music and sound effects from text prompts or video",
@@ -45551,6 +45815,18 @@
       "category": "utilities",
       "createdAt": "2026-08-06T02:55:30.878Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
+      "score": 78
+    },
+    {
+      "name": "pi-codeui",
+      "version": "1.0.1",
+      "description": "Conversation-first, code-aware terminal workspace for Pi Coding Agent",
+      "license": "MIT",
+      "repository": "https://github.com/alpertarhan/pi-codeui",
+      "npmUrl": "https://www.npmjs.com/package/pi-codeui",
+      "category": "cli",
+      "createdAt": "2026-08-08T12:25:54.413Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 78
     },
     {
@@ -49418,6 +49694,18 @@
       "score": 86
     },
     {
+      "name": "sendletter",
+      "version": "1.0.1",
+      "description": "Send real, physical letters by post from Node. Print, frank and deliver across Europe, including registered mail with proof of posting.",
+      "license": "MIT",
+      "repository": "https://github.com/gertsnijder/sendletter-node",
+      "npmUrl": "https://www.npmjs.com/package/sendletter",
+      "category": "utilities",
+      "createdAt": "2026-08-08T10:56:43.203Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 68
+    },
+    {
       "name": "sentinelauth",
       "version": "1.0.0",
       "description": "Production-grade authentication & authorization service for Express: JWT access + refresh token rotation, OAuth (Google & GitHub), RBAC, email verification, lockout, audit logging, rate limiting and Swagger docs.",
@@ -51120,6 +51408,18 @@
       "createdAt": "2026-07-30T18:55:46.973Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 83
+    },
+    {
+      "name": "swarfkit",
+      "version": "0.1.0",
+      "description": "Find and reclaim the disk space left behind by agent-driven development.",
+      "license": "MIT",
+      "repository": "https://github.com/sundarshahi/swarfkit",
+      "npmUrl": "https://www.npmjs.com/package/swarfkit",
+      "category": "cli",
+      "createdAt": "2026-08-08T11:32:18.638Z",
+      "discoveredAt": "2026-08-08T12:30:05.212Z",
+      "score": 60
     },
     {
       "name": "swarmmesh-cli",
