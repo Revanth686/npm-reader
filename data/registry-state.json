@@ -1,19 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123958823,
-  "lastRunAt": "2026-08-08T10:56:13.166Z",
+  "lastSequence": 123960866,
+  "lastRunAt": "2026-08-08T11:22:53.750Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@wm-storefront/ui",
-      "attempts": 1
-    },
-    {
-      "name": "@wm-storefront/commerce-ui",
-      "attempts": 1
-    },
-    {
-      "name": "@wm-storefront/config",
+      "name": "@vrowzer/oxlint-plugin-service-worker",
       "attempts": 1
     }
   ]

@@ -4586,6 +4586,18 @@
       "score": 82
     },
     {
+      "name": "@ccatto/nest-comments",
+      "version": "1.0.0",
+      "description": "Catto Comments - NestJS moderated comments module (profanity filter + admin moderation + report/flag) for user-generated content",
+      "license": "MIT",
+      "repository": "https://github.com/ccatto/catto-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40ccatto%2Fnest-comments",
+      "category": "backend",
+      "createdAt": "2026-08-08T10:59:18.744Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 67
+    },
+    {
       "name": "@ccatto/react-analytics",
       "version": "1.1.0",
       "description": "Catto Analytics - drop-in Google Analytics 4 for Next.js + Capacitor: <GoogleAnalyticsCatto/>, trackEvent(), and Capacitor platform dimensions",
@@ -4596,6 +4608,18 @@
       "createdAt": "2026-08-07T11:23:34.485Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 69
+    },
+    {
+      "name": "@ccatto/react-comments",
+      "version": "1.0.0",
+      "description": "Catto Comments - React comment thread + moderation UI for user-generated content (profanity pre-check, report/flag, admin moderation). Transport-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/ccatto/catto-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40ccatto%2Freact-comments",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:59:25.871Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 64
     },
     {
       "name": "@ccgrapher/adapter-claude-code",
@@ -6554,6 +6578,18 @@
       "score": 79
     },
     {
+      "name": "@dg02002/lynvo-plugin-server-protocol",
+      "version": "0.1.0",
+      "description": "Lynvo Custom Plugin Server protocol schemas, runtime helpers, and metadata utilities.",
+      "license": "MIT",
+      "repository": "https://github.com/DG02002/lynvo",
+      "npmUrl": "https://www.npmjs.com/package/%40dg02002%2Flynvo-plugin-server-protocol",
+      "category": "backend",
+      "createdAt": "2026-08-08T11:18:26.898Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 38
+    },
+    {
       "name": "@dgkit/betting-math",
       "version": "0.0.0",
       "description": "Pure, exact-rational sports-betting math: odds format conversion, system bet combinatorics, dead heat reduction, Rule 4 deductions, void-leg collapse, each-way settlement, Asian handicap splitting, and cash-out estimates.",
@@ -7764,6 +7800,18 @@
       "createdAt": "2026-08-02T08:08:25.565Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 81
+    },
+    {
+      "name": "@dunx/dashboard",
+      "version": "1.2.0",
+      "description": "An opt-in operations page for a running dunx app: routes, the provider graph, gateways, config and runtime health, with bull-board mounted for the queues",
+      "license": "MIT",
+      "repository": "https://github.com/petarzarkov/dunx",
+      "npmUrl": "https://www.npmjs.com/package/%40dunx%2Fdashboard",
+      "category": "data",
+      "createdAt": "2026-08-08T11:10:25.435Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 95
     },
     {
       "name": "@dunx/openapi",
@@ -10082,6 +10130,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/classycoin",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ClassyCoin (build etherscan-classycoin-30cc0e26-1786187202752, commit 6bd292b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/classycoin",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fclassycoin",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:07:06.666Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/cmtat-base",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for CMTAT_BASE (build etherscan-cmtat-base-f2753202-1785062658098, commit 7dc88f4, branch etherscan)",
@@ -10560,6 +10620,18 @@
       "createdAt": "2026-07-30T21:31:54.852Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/kevin",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for KEVIN (build etherscan-kevin-31555696-1786186907826, commit 0c0f5cc, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/kevin",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fkevin",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:02:14.036Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/kick",
@@ -11474,6 +11546,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/umx",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for UMX (build etherscan-umx-10be9a8d-1786187092776, commit b4a1df6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/umx",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fumx",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:05:20.676Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/unisocks",
       "version": "1.0.1",
       "description": "Auto-generated TypeScript type bindings for Unisocks (build etherscan-unisocks-8b4ed9cf-1785885859322, commit b56dc8f, branch etherscan)",
@@ -11858,6 +11942,18 @@
       "score": 80
     },
     {
+      "name": "@gomzkov/agent-context-test",
+      "version": "0.1.0",
+      "description": "Test whether Codex and Claude can find the instructions and skills a task needs.",
+      "license": "MIT",
+      "repository": "https://github.com/gomzkov/agent-context-test",
+      "npmUrl": "https://www.npmjs.com/package/%40gomzkov%2Fagent-context-test",
+      "category": "testing",
+      "createdAt": "2026-08-08T11:10:43.766Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 55
+    },
+    {
       "name": "@goodciso/aware",
       "version": "2.11.0",
       "description": "AWARE - Autonomous Compliance Infrastructure for AI Agents",
@@ -11976,6 +12072,18 @@
       "createdAt": "2026-08-02T23:33:38.031Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 71
+    },
+    {
+      "name": "@graphmother/react",
+      "version": "0.4.0",
+      "description": "React wrapper for GraphMother - high-performance graph visualization",
+      "license": "MIT",
+      "repository": "https://github.com/tomWhiting/graphmother",
+      "npmUrl": "https://www.npmjs.com/package/%40graphmother%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:58:21.597Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 40
     },
     {
       "name": "@gravvfi/mcp",
@@ -19824,6 +19932,18 @@
       "createdAt": "2026-07-25T21:38:24.810Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 76
+    },
+    {
+      "name": "@otter-engg/cli",
+      "version": "0.1.1",
+      "description": "Otter CLI — standalone engineering intelligence from your terminal",
+      "license": "MIT",
+      "repository": "https://github.com/manasdutta04/otter",
+      "npmUrl": "https://www.npmjs.com/package/%40otter-engg%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-08T11:06:11.080Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 30
     },
     {
       "name": "@otterax/nexus-foundation",
@@ -28346,6 +28466,18 @@
       "score": 83
     },
     {
+      "name": "@webtapejs/toolbox",
+      "version": "0.1.0",
+      "description": "一行 <script> 或一次 import 即可接入的页面会话录制 SDK：后台滑动窗口录制、最近 N 秒一键回溯、哨兵模式自动捕获接口异常，基于 rrweb。",
+      "license": "MIT",
+      "repository": "https://github.com/chernbo/WebTape",
+      "npmUrl": "https://www.npmjs.com/package/%40webtapejs%2Ftoolbox",
+      "category": "utilities",
+      "createdAt": "2026-08-08T10:57:14.082Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 58
+    },
+    {
       "name": "@whd4/foreman",
       "version": "0.5.0",
       "description": "See what your coding agent is doing and what it's costing. Reads cost and context straight from the agent's own transcript, and puts it on screen as a character that reacts to the work.",
@@ -28548,6 +28680,54 @@
       "createdAt": "2026-08-05T21:00:08.309Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 68
+    },
+    {
+      "name": "@wm-storefront/commerce-core",
+      "version": "0.1.1",
+      "description": "Backend-neutral commerce seam (catalog, cart, orders, customer) shared across storefronts. Zero brand data — catalog and store config are injected.",
+      "license": "MIT",
+      "repository": "https://github.com/matevosyanmko/commerce-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40wm-storefront%2Fcommerce-core",
+      "category": "backend",
+      "createdAt": "2026-08-08T10:51:55.386Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 42
+    },
+    {
+      "name": "@wm-storefront/commerce-ui",
+      "version": "0.1.0",
+      "description": "Shared commerce components + providers. Brand values injected via StorefrontProvider.",
+      "license": "MIT",
+      "repository": "https://github.com/matevosyanmko/commerce-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40wm-storefront%2Fcommerce-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:53:03.082Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 38
+    },
+    {
+      "name": "@wm-storefront/config",
+      "version": "0.1.1",
+      "description": "Shared tooling for the storefronts: the Tailwind theme contract, the TypeScript base config and the Prettier config.",
+      "license": "MIT",
+      "repository": "https://github.com/matevosyanmko/commerce-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40wm-storefront%2Fconfig",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:53:22.988Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 37
+    },
+    {
+      "name": "@wm-storefront/ui",
+      "version": "0.1.1",
+      "description": "Brand-agnostic Radix UI primitive wrappers shared across storefronts.",
+      "license": "MIT",
+      "repository": "https://github.com/matevosyanmko/commerce-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40wm-storefront%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-08T10:52:38.433Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 36
     },
     {
       "name": "@wnlx/redisq",
@@ -34274,6 +34454,18 @@
       "score": 74
     },
     {
+      "name": "create-rn-feature-app",
+      "version": "1.0.0",
+      "description": "Create an Expo Router app with a scalable feature-based React Native architecture.",
+      "license": "MIT",
+      "repository": "https://github.com/your-org/create-rn-feature-app",
+      "npmUrl": "https://www.npmjs.com/package/create-rn-feature-app",
+      "category": "frontend",
+      "createdAt": "2026-08-08T11:17:42.270Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 47
+    },
+    {
       "name": "create-scrum-agents",
       "version": "1.0.0",
       "description": "Install portable .agents kit for Cursor, Claude, GitHub Copilot, and Codex",
@@ -38558,6 +38750,18 @@
       "score": 70
     },
     {
+      "name": "http-over-websocket",
+      "version": "0.0.1",
+      "description": "A protocol that has HTTP/2-ish semantics to multiplex HTTP over a single WebSocket connection",
+      "license": "MIT",
+      "repository": "https://github.com/termermc/http-over-websocket",
+      "npmUrl": "https://www.npmjs.com/package/http-over-websocket",
+      "category": "backend",
+      "createdAt": "2026-08-08T11:21:07.098Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 35
+    },
+    {
       "name": "hubspot-request-verify",
       "version": "1.1.0",
       "description": "Small utility to verify HubSpot webhook, custom app, and UI extension signatures.",
@@ -42014,6 +42218,18 @@
       "score": 59
     },
     {
+      "name": "monto-3d-director-desk",
+      "version": "0.0.2",
+      "description": "A browser-based 3D director desk React component built with Vite, Three.js, and React Three Fiber.",
+      "license": "MIT",
+      "repository": "https://github.com/heiheihoho1213/monto-3d-director-desk",
+      "npmUrl": "https://www.npmjs.com/package/monto-3d-director-desk",
+      "category": "frontend",
+      "createdAt": "2026-08-07T08:29:18.666Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 52
+    },
+    {
       "name": "monzo-sdk",
       "version": "1.0.0",
       "description": "A complete, type-safe, production-grade Node.js/TypeScript SDK for the Monzo API (OAuth2, Accounts, Balance, Pots, Transactions, Feed Items, Attachments, Receipts, Webhooks).",
@@ -42624,6 +42840,18 @@
       "createdAt": "2026-08-01T12:32:21.230Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 64
+    },
+    {
+      "name": "n8n-nodes-screpy",
+      "version": "0.1.2",
+      "description": "Official n8n community node for the Screpy REST API.",
+      "license": "MIT",
+      "repository": "https://github.com/screpylabs/n8n-nodes-screpy",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-screpy",
+      "category": "backend",
+      "createdAt": "2026-08-08T09:55:42.616Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 57
     },
     {
       "name": "n8n-nodes-sonilo",
@@ -45398,6 +45626,18 @@
       "score": 88
     },
     {
+      "name": "pi-ctx-vars",
+      "version": "0.1.0",
+      "description": "Variable-based context management for pi: realtime variable population, agent-controlled compaction (pin/archive/drop), and a persistent SQLite store with SQL retrieval.",
+      "license": "MIT",
+      "repository": "https://github.com/bitmvk/pi-ctx-vars",
+      "npmUrl": "https://www.npmjs.com/package/pi-ctx-vars",
+      "category": "data",
+      "createdAt": "2026-08-08T11:21:26.993Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 58
+    },
+    {
       "name": "pi-custom-openai-providers",
       "version": "0.2.0",
       "description": "Maintain multiple OpenAI-compatible providers in pi with /custom-providers; switch between them with /model.",
@@ -45780,6 +46020,18 @@
       "createdAt": "2026-07-28T01:10:15.682Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 66
+    },
+    {
+      "name": "pi-swarm-fix",
+      "version": "0.9.7",
+      "description": "Patched @gjczone/pi-swarm: unique roleNames, coordinator mailbox support, mailbox path injection, auto-route roleName fix (see README)",
+      "license": "MIT",
+      "repository": "https://github.com/zcasual/pi-swarm-fix",
+      "npmUrl": "https://www.npmjs.com/package/pi-swarm-fix",
+      "category": "utilities",
+      "createdAt": "2026-08-08T11:09:35.020Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 46
     },
     {
       "name": "pi-usage-bar-focus",
@@ -53186,6 +53438,18 @@
       "score": 76
     },
     {
+      "name": "wakekit",
+      "version": "0.1.1",
+      "description": "Train a wake word for any language with TTS, run it in the browser. No GPU, no torch, no cloud.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/9zax/wakekit",
+      "npmUrl": "https://www.npmjs.com/package/wakekit",
+      "category": "frontend",
+      "createdAt": "2026-08-08T11:06:06.675Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 55
+    },
+    {
       "name": "wall-mcp",
       "version": "0.1.0",
       "description": "A wall of complete landing pages to compare, choose from, and hand back to your agent as a spec. Runs on the Claude you already have.",
@@ -53460,6 +53724,18 @@
       "createdAt": "2026-08-08T09:59:20.412Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 69
+    },
+    {
+      "name": "webhook-kit",
+      "version": "0.1.0",
+      "description": "Verify webhook signatures from Stripe, GitHub, Slack, Shopify, Telegram, Paddle, Twilio and Standard Webhooks. Zero dependencies, constant-time, runs on Node, Bun, Deno and edge runtimes.",
+      "license": "MIT",
+      "repository": "https://github.com/vinkurov/webhook-kit",
+      "npmUrl": "https://www.npmjs.com/package/webhook-kit",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T11:12:32.238Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 88
     },
     {
       "name": "webrtc-mcp-server",
@@ -53760,6 +54036,18 @@
       "createdAt": "2026-07-29T01:41:17.990Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 82
+    },
+    {
+      "name": "wintip-wallet-sdk",
+      "version": "0.1.0",
+      "description": "Connect a dApp to Wintip Wallet over CIP-0103, the Canton dApp standard.",
+      "license": "MIT",
+      "repository": "https://github.com/winsnip-official/wintip-wallet-sdk",
+      "npmUrl": "https://www.npmjs.com/package/wintip-wallet-sdk",
+      "category": "devops",
+      "createdAt": "2026-08-08T11:02:30.113Z",
+      "discoveredAt": "2026-08-08T11:22:53.750Z",
+      "score": 64
     },
     {
       "name": "with-simple-mutex",
