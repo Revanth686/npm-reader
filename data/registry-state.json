@@ -1,12 +1,28 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123925719,
-  "lastRunAt": "2026-08-08T03:17:24.501Z",
+  "lastSequence": 123931960,
+  "lastRunAt": "2026-08-08T04:47:49.989Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@jaimehoracio/pistack",
-      "attempts": 2
+      "attempts": 3
+    },
+    {
+      "name": "@lukawi/super-plumber",
+      "attempts": 1
+    },
+    {
+      "name": "skill-family-contracts",
+      "attempts": 1
+    },
+    {
+      "name": "skill-family-harness-node",
+      "attempts": 1
+    },
+    {
+      "name": "skill-family-engineering-kit",
+      "attempts": 1
     }
   ]
 }

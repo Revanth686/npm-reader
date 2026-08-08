@@ -3194,6 +3194,18 @@
       "score": 79
     },
     {
+      "name": "@banlan/inkstone",
+      "version": "0.0.2",
+      "description": "Browse and manage conversation history from Claude Code, Codex CLI, OpenCode, Reasonix, and Oh My PI (omp)",
+      "license": "CC-BY-NC-SA-4.0",
+      "repository": "https://github.com/banlanzs/inkstone",
+      "npmUrl": "https://www.npmjs.com/package/%40banlan%2Finkstone",
+      "category": "cli",
+      "createdAt": "2026-08-07T14:36:22.314Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 52
+    },
+    {
       "name": "@bard_philosopher/codegraph",
       "version": "1.5.1",
       "description": "Local-first code intelligence for AI agents (MCP). Self-contained — bundles its own runtime.",
@@ -4670,6 +4682,18 @@
       "score": 60
     },
     {
+      "name": "@chmuto/yandex-direct-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for Yandex Direct API - PPC campaign management, ads, keywords, bids, and statistics",
+      "license": "MIT",
+      "repository": "https://github.com/altrr2/yandex-tools-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40chmuto%2Fyandex-direct-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T04:24:24.090Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 88
+    },
+    {
       "name": "@chonksxyz/studio",
       "version": "0.1.0",
       "description": "A dependency-free toolkit for building pixel art studios: configurable grids, undo/redo history, draw and erase input, configurable keyboard shortcuts, image export, and design persistence.",
@@ -5414,6 +5438,18 @@
       "score": 76
     },
     {
+      "name": "@crafter/vcut",
+      "version": "0.1.0",
+      "description": "Cut dead air out of a recording, reproducibly. Agent-first CLI over ffmpeg.",
+      "license": "MIT",
+      "repository": "https://github.com/Railly/vcut",
+      "npmUrl": "https://www.npmjs.com/package/%40crafter%2Fvcut",
+      "category": "cli",
+      "createdAt": "2026-08-08T04:25:20.822Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 56
+    },
+    {
       "name": "@cratylus/forge",
       "version": "0.1.0",
       "description": "The deterministic projection from canonical meaning onto one harness’s surfaces — resolve, project, validate and deploy a corpus. Owns the mapping and nothing else.",
@@ -5760,6 +5796,18 @@
       "createdAt": "2026-07-25T20:25:39.974Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 70
+    },
+    {
+      "name": "@darksol/remem-v2",
+      "version": "0.1.0",
+      "description": "ReMEM v2 core: intake pipelines, recursive recall, and bounded context assembly for agents",
+      "license": "MIT",
+      "repository": "https://github.com/darks0l/remem-v2",
+      "npmUrl": "https://www.npmjs.com/package/%40darksol%2Fremem-v2",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T04:02:02.304Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 54
     },
     {
       "name": "@dasasian/gdocs-mcp",
@@ -7308,6 +7356,18 @@
       "createdAt": "2026-08-07T14:54:44.215Z",
       "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 64
+    },
+    {
+      "name": "@dreamtree-org/dhruthi",
+      "version": "0.3.1",
+      "description": "CLI for DigitalOcean Serverless Inference and Inference Router",
+      "license": "MIT",
+      "repository": "https://github.com/DreamtreeTech/agentic-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40dreamtree-org%2Fdhruthi",
+      "category": "backend",
+      "createdAt": "2026-08-08T03:45:05.872Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 68
     },
     {
       "name": "@driftbox/rack",
@@ -10490,6 +10550,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/rune",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RUNE (build etherscan-rune-3155ba85-1786160489744, commit 3fa906e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rune",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frune",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T03:41:51.402Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/rvrsz",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for RVRSZ (build etherscan-rvrsz-5d36b2d6-1785603992436, commit d3b2a2d, branch etherscan)",
@@ -10499,6 +10571,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-01T17:06:55.696Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/s0xbtc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for s0xBTC (build etherscan-s0xbtc-0000b10c-1786162370578, commit 30b82ac, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/s0xbtc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fs0xbtc",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T04:13:16.592Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
       "score": 57
     },
     {
@@ -10682,6 +10766,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/tokenlockup",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TokenLockup (build etherscan-tokenlockup-581e27c2-1786163846099, commit 80f19c7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/tokenlockup",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftokenlockup",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T04:37:48.100Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/toolregistry",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ToolRegistry (build etherscan-toolregistry-265bb2db-1785713570892, commit 9aeca6f, branch etherscan)",
@@ -10692,6 +10788,18 @@
       "createdAt": "2026-08-02T23:33:12.893Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/toro",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TORO (build etherscan-toro-ab14f126-1786161460300, commit 6983ddc, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/toro",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftoro",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T03:58:03.492Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/tp",
@@ -25646,6 +25754,18 @@
       "score": 73
     },
     {
+      "name": "@unirate/hono",
+      "version": "0.1.0",
+      "description": "Hono middleware and router for the UniRate currency-exchange API. unirate() attaches a typed client to c.var.unirate; unirateRouter() mounts ready-made /rate, /convert, /currencies, /vat JSON routes with full error mapping. Zero runtime deps; runs on any",
+      "license": "MIT",
+      "repository": "https://github.com/UniRate-API/hono-unirate",
+      "npmUrl": "https://www.npmjs.com/package/%40unirate%2Fhono",
+      "category": "backend",
+      "createdAt": "2026-08-08T03:51:32.232Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 77
+    },
+    {
       "name": "@uniweb/projections",
       "version": "0.1.1",
       "description": "Projections of a Uniweb site's content — agent index, per-page markdown, search index. Pure JS, runs anywhere.",
@@ -26496,6 +26616,18 @@
       "createdAt": "2026-07-27T14:05:26.640Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 73
+    },
+    {
+      "name": "@vinihcrosa/lumem",
+      "version": "0.1.0",
+      "description": "Memory and self-learning layer for coding agents (Claude Code, Codex)",
+      "license": "MIT",
+      "repository": "https://github.com/vinihcrosa/lumem",
+      "npmUrl": "https://www.npmjs.com/package/%40vinihcrosa%2Flumem",
+      "category": "cli",
+      "createdAt": "2026-08-08T04:35:11.857Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 68
     },
     {
       "name": "@vipentti/planlet",
@@ -27480,6 +27612,18 @@
       "createdAt": "2026-08-05T07:22:47.312Z",
       "discoveredAt": "2026-08-05T07:39:52.818Z",
       "score": 100
+    },
+    {
+      "name": "@yokoso/znxcode",
+      "version": "1.1.0",
+      "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models",
+      "license": "MIT",
+      "repository": "https://github.com/mrandi-art/CLI",
+      "npmUrl": "https://www.npmjs.com/package/%40yokoso%2Fznxcode",
+      "category": "cli",
+      "createdAt": "2026-08-08T03:45:44.983Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 75
     },
     {
       "name": "@youkale/pi-hermes-memory",
@@ -28668,6 +28812,18 @@
       "createdAt": "2026-08-02T23:55:00.115Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 72
+    },
+    {
+      "name": "agi-fireworks",
+      "version": "0.1.0",
+      "description": "Turn local coding-agent session logs into a private, offline fireworks show.",
+      "license": "MIT",
+      "repository": "https://github.com/tempi-tech/agi-fireworks",
+      "npmUrl": "https://www.npmjs.com/package/agi-fireworks",
+      "category": "data",
+      "createdAt": "2026-08-08T04:32:35.124Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 66
     },
     {
       "name": "agi-super-team",
@@ -30960,6 +31116,18 @@
       "createdAt": "2026-07-27T22:11:08.321Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 65
+    },
+    {
+      "name": "cheoma",
+      "version": "0.1.0",
+      "description": "Procedural Joseon-era Korean architecture & village generator (three.js) — deterministic plan JSON, hanok/temple/walled-capital geometry, map-data export, CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/midagedev/cheoma",
+      "npmUrl": "https://www.npmjs.com/package/cheoma",
+      "category": "backend",
+      "createdAt": "2026-08-08T03:28:13.634Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 76
     },
     {
       "name": "chisle",
@@ -35690,6 +35858,18 @@
       "score": 70
     },
     {
+      "name": "ghostrail",
+      "version": "0.1.0",
+      "description": "Open source software factory for coding agents. Config-driven loops, pluggable isolation backends, human merge gate.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/timothyjordan/ghostrail",
+      "npmUrl": "https://www.npmjs.com/package/ghostrail",
+      "category": "backend",
+      "createdAt": "2026-08-03T23:31:47.521Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 51
+    },
+    {
       "name": "giffycdn",
       "version": "1.1.0",
       "description": "A programmatic interface to get GIFs from giffycdn",
@@ -35760,6 +35940,18 @@
       "createdAt": "2026-08-05T19:59:44.757Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 71
+    },
+    {
+      "name": "gitanatomy",
+      "version": "1.0.0",
+      "description": "Dissect a Git repository's internal objects (commits, trees, blobs) in an interactive local dashboard",
+      "license": "MIT",
+      "repository": "https://github.com/KRISH-V-0610/git-objects-analyzer",
+      "npmUrl": "https://www.npmjs.com/package/gitanatomy",
+      "category": "cli",
+      "createdAt": "2026-08-08T04:21:20.016Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 57
     },
     {
       "name": "gitatlas",
@@ -37250,6 +37442,18 @@
       "score": 62
     },
     {
+      "name": "insomnia-plugin-response-budget",
+      "version": "1.0.0",
+      "description": "Local-only Insomnia response budget reports for body size, JSON depth, array length, and payload complexity.",
+      "license": "MIT",
+      "repository": "https://github.com/oliviajohns5/insomnia-plugin-response-budget",
+      "npmUrl": "https://www.npmjs.com/package/insomnia-plugin-response-budget",
+      "category": "backend",
+      "createdAt": "2026-08-08T04:47:18.156Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 57
+    },
+    {
       "name": "instinctkit",
       "version": "0.2.1",
       "description": "The survival kit for self-learning Claude Code setups: a starter instincts library plus production guardrails — stall detection, foreground-delegation guard, anti-assumption edits, timeout shield",
@@ -37862,6 +38066,18 @@
       "score": 72
     },
     {
+      "name": "kbgate",
+      "version": "0.3.1",
+      "description": "Universal content management system. Optimized for geeks and LLM",
+      "license": "MIT",
+      "repository": "https://github.com/borysl/jmirror",
+      "npmUrl": "https://www.npmjs.com/package/kbgate",
+      "category": "utilities",
+      "createdAt": "2026-08-08T04:07:35.529Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 56
+    },
+    {
       "name": "kd-screen-guard",
       "version": "1.0.0",
       "description": "Zero-dependency, tamper-resistant, high-security lock screen overlay library with PBKDF2 salted hashing, intruder webcam snapshot review, Web Audio API siren, WebAuthn biometrics, and framework hooks.",
@@ -38436,6 +38652,18 @@
       "createdAt": "2026-08-07T12:35:59.528Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 84
+    },
+    {
+      "name": "liquilens",
+      "version": "0.4.0",
+      "description": "LiquiLens Failure Radar in your terminal — live early-warning board for Indian institutions and FDIC-scored US banks, from public data",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/beepboop2025/liquilens-cli",
+      "npmUrl": "https://www.npmjs.com/package/liquilens",
+      "category": "data",
+      "createdAt": "2026-08-08T04:41:37.490Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 61
     },
     {
       "name": "listening-log",
@@ -39720,6 +39948,18 @@
       "createdAt": "2026-07-31T21:24:20.421Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 75
+    },
+    {
+      "name": "mergesetu",
+      "version": "0.1.1",
+      "description": "Semantic conflict detection for multi-agent Yjs editors. Watches concurrent CRDT merges, flags overlaps, and classifies whether both agent intents still hold — without ever blocking the merge path.",
+      "license": "MIT",
+      "repository": "https://github.com/coderanik/MergeSetu",
+      "npmUrl": "https://www.npmjs.com/package/mergesetu",
+      "category": "utilities",
+      "createdAt": "2026-08-05T13:47:33.222Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 55
     },
     {
       "name": "mermaid-bpmn",
@@ -44522,6 +44762,18 @@
       "score": 74
     },
     {
+      "name": "provekit",
+      "version": "0.1.0",
+      "description": "Attack-tested security scanning for AI-generated code. Catches leaked secrets and the insecure patterns AI agents love to introduce, mapped to the OWASP Top 10. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Th3Circle-app/provekit",
+      "npmUrl": "https://www.npmjs.com/package/provekit",
+      "category": "testing",
+      "createdAt": "2026-08-08T03:19:54.306Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 64
+    },
+    {
       "name": "proveml",
       "version": "1.0.0",
       "description": "Deterministic claim-level verification for AI-generated text with Markdown-native inline markup.",
@@ -45770,6 +46022,18 @@
       "score": 62
     },
     {
+      "name": "recall-memory",
+      "version": "0.1.0",
+      "description": "Transparent cross-chat memory for AI coding sessions. Saves each conversation as a readable markdown note you own, scrubs secrets, and loads recent memories into new chats. Native Claude Code hooks.",
+      "license": "MIT",
+      "repository": "https://github.com/Th3Circle-app/recall",
+      "npmUrl": "https://www.npmjs.com/package/recall-memory",
+      "category": "utilities",
+      "createdAt": "2026-08-08T03:19:56.487Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 55
+    },
+    {
       "name": "recast-gailrio-fix",
       "version": "0.23.19",
       "description": "JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator",
@@ -46968,6 +47232,18 @@
       "createdAt": "2026-08-06T00:24:40.347Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 81
+    },
+    {
+      "name": "serverless-python-requirements-dttl",
+      "version": "7.0.0",
+      "description": "Maintained Python requirements packaging plugin for Serverless Framework and OSLS",
+      "license": "MIT",
+      "repository": "https://github.com/totekp/serverless-python-requirements-dttl",
+      "npmUrl": "https://www.npmjs.com/package/serverless-python-requirements-dttl",
+      "category": "backend",
+      "createdAt": "2026-08-08T03:27:32.362Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 88
     },
     {
       "name": "service-worker-kernel",
@@ -48624,6 +48900,18 @@
       "createdAt": "2026-08-07T15:44:52.107Z",
       "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 60
+    },
+    {
+      "name": "tabligh",
+      "version": "0.1.0",
+      "description": "Tabligh — auto-generate cinematic karaoke Quran reels and publish them to TikTok/Instagram/Facebook/YouTube",
+      "license": "MIT",
+      "repository": "https://github.com/911RS/tabligh",
+      "npmUrl": "https://www.npmjs.com/package/tabligh",
+      "category": "devops",
+      "createdAt": "2026-08-08T04:40:39.059Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 80
     },
     {
       "name": "taetype-wasm",
@@ -51684,6 +51972,18 @@
       "createdAt": "2026-08-03T14:08:20.231Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 84
+    },
+    {
+      "name": "yolo-segdetect-js",
+      "version": "0.1.0",
+      "description": "Browser-side YOLOv8-seg instance segmentation on WebGPU — the browser counterpart to yolo-segdetect-worker, minus Temporal.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/belkassaby/yolo-segdetect-js",
+      "npmUrl": "https://www.npmjs.com/package/yolo-segdetect-js",
+      "category": "frontend",
+      "createdAt": "2026-08-08T04:06:58.971Z",
+      "discoveredAt": "2026-08-08T04:47:49.989Z",
+      "score": 67
     },
     {
       "name": "yourindie-mcp",
