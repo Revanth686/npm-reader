@@ -3374,6 +3374,18 @@
       "score": 84
     },
     {
+      "name": "@ayronforge/haversack",
+      "version": "0.1.1",
+      "description": "Effect-native toolbox for TypeScript: schemas with Brazilian documents, email via Resend, PostHog analytics and feature flags, Stripe, WorkOS/Clerk auth, Cloudflare Workers primitives, and S3-compatible blob storage — every capability a typed Effect servi",
+      "license": "MIT",
+      "repository": "https://github.com/ayronforge/haversack",
+      "npmUrl": "https://www.npmjs.com/package/%40ayronforge%2Fhaversack",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T21:39:42.231Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 86
+    },
+    {
       "name": "@aznabee/freehand-ui",
       "version": "0.1.1",
       "description": "Wrap any existing web element with a beautiful, responsive, hand-drawn doodle layer",
@@ -8738,6 +8750,18 @@
       "score": 85
     },
     {
+      "name": "@enochmk/eda-client",
+      "version": "1.0.1",
+      "description": "Ericsson Data Access (EDA) SOAP API client for AirtelTigo",
+      "license": "MIT",
+      "repository": "https://github.com/enochmk/at-eda-hlr",
+      "npmUrl": "https://www.npmjs.com/package/%40enochmk%2Feda-client",
+      "category": "frontend",
+      "createdAt": "2026-08-06T01:22:56.912Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 66
+    },
+    {
       "name": "@enterpret/servicenow-mcp",
       "version": "0.1.0",
       "description": "Enterpret's fork of onlyflowstech/servicenow-mcp. 17 tools over the ServiceNow Table API; adds a SERVICENOW_OAUTH_BEARER env mode so a broker-supplied (Nango) OAuth token is used for auth.",
@@ -10634,6 +10658,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/babaon",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BABAon (build etherscan-babaon-41765f0f-1786223820289, commit fd56db1, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/babaon",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbabaon",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T21:17:24.494Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/babydoge",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BabyDoge (build etherscan-babydoge-ac57de9c-1786200902348, commit d330526, branch etherscan)",
@@ -11426,6 +11462,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/instadefaultimplementation",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for InstaDefaultImplementation (build etherscan-instadefaultimplementation-fa638fb7-1786226145997, commit efa8933, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/instadefaultimplementation",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Finstadefaultimplementation",
+      "category": "build-tools",
+      "createdAt": "2026-08-02T21:56:32.229Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 61
+    },
+    {
       "name": "@gitmyabi/jam",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for JAM (build etherscan-jam-9fd82ea9-1785000944301, commit 89b2293, branch etherscan)",
@@ -12060,6 +12108,18 @@
       "createdAt": "2026-08-08T08:49:40.055Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/pza",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PZA (build etherscan-pza-c5e71a0f-1786223740256, commit 43b4781, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/pza",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpza",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T21:16:03.921Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/raff",
@@ -15278,6 +15338,18 @@
       "score": 84
     },
     {
+      "name": "@jahidorjahid/react-bdmap",
+      "version": "0.1.0",
+      "description": "An interactive, accessible SVG map of Bangladesh for React — choropleth data binding, selection, tooltips, labels and lat/lng markers. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/exitdump/react-bd-map",
+      "npmUrl": "https://www.npmjs.com/package/%40jahidorjahid%2Freact-bdmap",
+      "category": "frontend",
+      "createdAt": "2026-08-08T22:05:12.682Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 81
+    },
+    {
       "name": "@jakub-plichcinski/kairos-mcp",
       "version": "4.8.3",
       "description": "MCP server for agent automation: persistent memory and deterministic workflow execution for AI agents and chats",
@@ -16646,6 +16718,30 @@
       "score": 74
     },
     {
+      "name": "@leitwerk-dev/local-repo-change",
+      "version": "0.1.0",
+      "description": "Final approval generates and persists a commit message from the accepted plan before deterministic Git finalization. Repository-specific formatting is selected by the server's `commit_messages` locator mapping and pinned when the process launches. Git com",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/leitwerk-dev/leitwerk",
+      "npmUrl": "https://www.npmjs.com/package/%40leitwerk-dev%2Flocal-repo-change",
+      "category": "backend",
+      "createdAt": "2026-08-08T21:25:26.582Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 70
+    },
+    {
+      "name": "@leitwerk-dev/telegram",
+      "version": "0.1.0",
+      "description": "Server-side extension that exposes leitwerk processes through a Telegram bot.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/leitwerk-dev/leitwerk",
+      "npmUrl": "https://www.npmjs.com/package/%40leitwerk-dev%2Ftelegram",
+      "category": "backend",
+      "createdAt": "2026-08-08T21:26:00.054Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 55
+    },
+    {
       "name": "@lekman/claude-docker",
       "version": "0.2.0",
       "description": "Run one Claude Code task in an isolated container that clones only that task's repo and branch.",
@@ -16860,6 +16956,30 @@
       "createdAt": "2026-07-26T16:19:31.475Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 67
+    },
+    {
+      "name": "@linchpinagency/cli",
+      "version": "1.1.1",
+      "description": "Linchpin's command line tool for WordPress and agent workflows — git worktree management, local environment setup, and deterministic verbs agents can call without approval prompts",
+      "license": "GPL-2.0-only",
+      "repository": "https://github.com/linchpin/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40linchpinagency%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-08T21:20:14.384Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 85
+    },
+    {
+      "name": "@linchpinagency/commitlint-config",
+      "version": "1.0.0",
+      "description": "A standardized commitlint configuration for Linchpin projects",
+      "license": "MIT",
+      "repository": "https://github.com/linchpin/commitlint-config",
+      "npmUrl": "https://www.npmjs.com/package/%40linchpinagency%2Fcommitlint-config",
+      "category": "utilities",
+      "createdAt": "2026-08-08T21:19:54.481Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 54
     },
     {
       "name": "@linktoany/sdk",
@@ -18480,6 +18600,18 @@
       "createdAt": "2026-07-30T03:56:34.910Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 93
+    },
+    {
+      "name": "@modyra/plain",
+      "version": "0.6.1",
+      "description": "Zero-dependency vanilla JS/HTML5 form renderer for the Modyra form engine — given a container element and a Dynamic Form Contract, renders real interactive DOM wired to @modyra/widgets' headless controllers.",
+      "license": "MIT",
+      "repository": "https://github.com/modyra/modyra",
+      "npmUrl": "https://www.npmjs.com/package/%40modyra%2Fplain",
+      "category": "frontend",
+      "createdAt": "2026-07-29T13:32:12.954Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 57
     },
     {
       "name": "@moesi/react",
@@ -20222,6 +20354,18 @@
       "score": 66
     },
     {
+      "name": "@nicknisi/pi-codemode",
+      "version": "0.1.0",
+      "description": "Execute model-written TypeScript that orchestrates subagents compositionally — one codemode tool over the first-party in-process runtime",
+      "license": "MIT",
+      "repository": "https://github.com/nicknisi/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40nicknisi%2Fpi-codemode",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T21:16:04.288Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 50
+    },
+    {
       "name": "@nicknisi/pi-composer",
       "version": "0.3.0",
       "description": "Configurable boxed input editor for pi, with paste-again-to-expand",
@@ -20232,6 +20376,18 @@
       "createdAt": "2026-08-07T16:15:11.897Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 62
+    },
+    {
+      "name": "@nicknisi/pi-relay",
+      "version": "0.1.0",
+      "description": "Brokerless session-to-session messaging for pi — a file mailbox that outlives the process, with ask/reply coordination. Formerly @nicknisi/pi-intercom.",
+      "license": "MIT",
+      "repository": "https://github.com/nicknisi/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40nicknisi%2Fpi-relay",
+      "category": "data",
+      "createdAt": "2026-08-08T21:44:30.462Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 53
     },
     {
       "name": "@nicolaech/n8n-nodes-ibmi-db2-mapepire",
@@ -20520,6 +20676,18 @@
       "createdAt": "2026-08-04T19:22:36.439Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 71
+    },
+    {
+      "name": "@nous-research/image-size",
+      "version": "2.0.3",
+      "description": "get dimensions of any image file",
+      "license": "MIT",
+      "repository": "https://github.com/image-size/image-size",
+      "npmUrl": "https://www.npmjs.com/package/%40nous-research%2Fimage-size",
+      "category": "utilities",
+      "createdAt": "2026-08-08T21:31:23.729Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 70
     },
     {
       "name": "@nova_voyager/article-content-renderer-react",
@@ -22308,6 +22476,18 @@
       "createdAt": "2026-08-08T20:42:43.319Z",
       "discoveredAt": "2026-08-08T20:52:20.096Z",
       "score": 55
+    },
+    {
+      "name": "@plif/cli",
+      "version": "0.1.0",
+      "description": "A container-native coding agent for your terminal. Bring your own model.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AnThophicous/plif",
+      "npmUrl": "https://www.npmjs.com/package/%40plif%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-08T21:57:41.818Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 73
     },
     {
       "name": "@pmateusz/pi-workflows",
@@ -30986,6 +31166,18 @@
       "score": 93
     },
     {
+      "name": "@xalosoftware/sekiwa-sdk",
+      "version": "0.4.0",
+      "description": "Framework-neutral Sekiwa Cloud licensing SDK for browsers, servers and hybrid apps",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Diplovee/sekiwa",
+      "npmUrl": "https://www.npmjs.com/package/%40xalosoftware%2Fsekiwa-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-08T22:12:37.072Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 68
+    },
+    {
       "name": "@xbbg/xnews",
       "version": "0.1.1",
       "description": "Build market news feeds from free public sources, including Yahoo Finance, Google News, SEC EDGAR, major market and wire feeds, plus YouTube subscriptions, captions, and realtime local or hosted audio transcription.",
@@ -33194,6 +33386,18 @@
       "score": 96
     },
     {
+      "name": "anypick",
+      "version": "1.0.0",
+      "description": "Switch accounts, route providers and keep your AI coding tools moving.",
+      "license": "MIT",
+      "repository": "https://github.com/outof0/anypick",
+      "npmUrl": "https://www.npmjs.com/package/anypick",
+      "category": "cli",
+      "createdAt": "2026-08-08T22:09:05.162Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 87
+    },
+    {
       "name": "anyword",
       "version": "1.0.0",
       "description": "Micro text segmenter — locale-correct words, graphemes and sentences, safe counting and truncation, one native Intl wrapper.",
@@ -34826,6 +35030,18 @@
       "score": 83
     },
     {
+      "name": "capskip-mcp",
+      "version": "1.0.0",
+      "description": "Captcha solver MCP server for AI agents: solve reCAPTCHA v2/v3, Cloudflare Turnstile, GeeTest and image captchas via CapSkip, a local unlimited captcha solver with no per-solve fees.",
+      "license": "MIT",
+      "repository": "https://github.com/capskip/capskip-mcp",
+      "npmUrl": "https://www.npmjs.com/package/capskip-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-08T22:12:50.221Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 98
+    },
+    {
       "name": "capturist",
       "version": "0.1.0",
       "description": "Production-grade, configuration-driven static screenshot generator for websites and Open Graph images.",
@@ -35952,6 +36168,18 @@
       "createdAt": "2026-07-25T17:20:29.919Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 66
+    },
+    {
+      "name": "codeabc",
+      "version": "0.1.0",
+      "description": "Local-first AI coding orchestrator for Claude Code, Codex, and Gemini",
+      "license": "MIT",
+      "repository": "https://github.com/longniao/codeabc",
+      "npmUrl": "https://www.npmjs.com/package/codeabc",
+      "category": "cli",
+      "createdAt": "2026-08-08T21:22:23.926Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 50
     },
     {
       "name": "codeassembly",
@@ -38135,6 +38363,18 @@
       "category": "frontend",
       "createdAt": "2026-08-08T01:20:33.926Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
+      "score": 66
+    },
+    {
+      "name": "double-meh-sw",
+      "version": "1.0.0",
+      "description": "Service-worker sibling of double-meh: shared cache tier, cross-tab request coalescing, transparent bundling, invalidation hub, and version upgrades — composable modules plus a ready assembly. Works with or without double-meh.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/uhop/double-meh-sw",
+      "npmUrl": "https://www.npmjs.com/package/double-meh-sw",
+      "category": "devops",
+      "createdAt": "2026-08-08T22:04:23.708Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 66
     },
     {
@@ -43250,6 +43490,18 @@
       "score": 65
     },
     {
+      "name": "lien-sdk",
+      "version": "0.1.0",
+      "description": "LIEN protocol SDK — canonical obligation identity, EIP-712 helpers, LienClient, ABIs, and Sepolia deployments for RWA encumbrance infrastructure.",
+      "license": "MIT",
+      "repository": "https://github.com/benjaminnkem/lien",
+      "npmUrl": "https://www.npmjs.com/package/lien-sdk",
+      "category": "cli",
+      "createdAt": "2026-08-08T21:45:46.729Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 65
+    },
+    {
       "name": "lighthouse-audit-utils",
       "version": "1.0.0",
       "description": "Small utilities for driving Lighthouse audits yourself: check scores against thresholds, write reports to disk, and log the fix list to the terminal.",
@@ -44484,6 +44736,18 @@
       "createdAt": "2026-08-06T08:11:42.857Z",
       "discoveredAt": "2026-08-06T08:19:20.704Z",
       "score": 87
+    },
+    {
+      "name": "mcp-size",
+      "version": "0.2.0",
+      "description": "Bundle analyzer for MCP tools — measure MCP schema and context token overhead.",
+      "license": "MIT",
+      "repository": "https://github.com/zororaka00/mcp-size",
+      "npmUrl": "https://www.npmjs.com/package/mcp-size",
+      "category": "cli",
+      "createdAt": "2026-08-08T21:18:44.408Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 75
     },
     {
       "name": "mcp-surface",
@@ -50930,6 +51194,18 @@
       "score": 62
     },
     {
+      "name": "react-native-doc-scanner",
+      "version": "0.1.0",
+      "description": "Real-time AI document scanner for React Native — VisionCamera + ONNX Runtime document detection, OpenCV quality analysis, and PaddleOCR (RapidOCR/ONNX) field extraction for passports, driving licences, and ID cards.",
+      "license": "MIT",
+      "repository": "https://github.com/programmer443/react-native-kyc-sdk",
+      "npmUrl": "https://www.npmjs.com/package/react-native-doc-scanner",
+      "category": "frontend",
+      "createdAt": "2026-08-08T22:17:04.580Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 88
+    },
+    {
       "name": "react-native-fake-filler",
       "version": "0.1.0",
       "description": "Intelligent, zero-config fake form filling for React Native. Auto-detects fields and populates them with realistic, unique, validation-aware fake data for development, QA, and automated testing.",
@@ -53270,6 +53546,18 @@
       "score": 54
     },
     {
+      "name": "sighttrue",
+      "version": "1.1.0",
+      "description": "Dated readings on what you are about to install: dependencies and base images. No account, no key, and nothing you read leaves the machine.",
+      "license": "MIT",
+      "repository": "https://github.com/sighttrue/sighttrue",
+      "npmUrl": "https://www.npmjs.com/package/sighttrue",
+      "category": "devops",
+      "createdAt": "2026-08-08T21:30:49.442Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 58
+    },
+    {
       "name": "sigma-computing-rest-api-sdk",
       "version": "0.1.1",
       "description": "TypeScript SDK for the Sigma Computing REST API",
@@ -54108,6 +54396,18 @@
       "createdAt": "2026-07-28T19:29:28.387Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 66
+    },
+    {
+      "name": "statlyte",
+      "version": "0.1.1",
+      "description": "Live pricing, context windows and identifiers for every major LLM API. Stop hardcoding a model table that goes stale.",
+      "license": "MIT",
+      "repository": "https://github.com/richardwilkinson9/statlyte-data",
+      "npmUrl": "https://www.npmjs.com/package/statlyte",
+      "category": "backend",
+      "createdAt": "2026-08-07T15:54:55.603Z",
+      "discoveredAt": "2026-08-08T22:19:33.077Z",
+      "score": 63
     },
     {
       "name": "stats-for-devs",
