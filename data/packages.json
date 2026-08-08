@@ -86,6 +86,18 @@
       "score": 63
     },
     {
+      "name": "@0xinfrax/payments",
+      "version": "0.1.0",
+      "description": "0xinfrax Payments — zero-business-coupling payment engine (chain / Stripe / x402 / MPP / a2a). Embedded service or standalone library.",
+      "license": "MIT",
+      "repository": "https://github.com/sftgroup/infraX",
+      "npmUrl": "https://www.npmjs.com/package/%400xinfrax%2Fpayments",
+      "category": "utilities",
+      "createdAt": "2026-08-08T19:09:11.636Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 81
+    },
+    {
       "name": "@12-apps/entitlements",
       "version": "1.2.0",
       "description": "Generic, portable plan/feature entitlements library: layered resolution (code/plan/status/tenant), numeric quotas, per-feature revoke policy and 402-vs-403 denial semantics. Framework-free core with storage adapters plus an optional React binding. Knows n",
@@ -9482,6 +9494,18 @@
       "score": 75
     },
     {
+      "name": "@flowstatepm/cortex",
+      "version": "0.1.0",
+      "description": "Working memory for AI agents — persistent cognitive state per project",
+      "license": "MIT",
+      "repository": "https://github.com/ShuromiU/Cortex",
+      "npmUrl": "https://www.npmjs.com/package/%40flowstatepm%2Fcortex",
+      "category": "utilities",
+      "createdAt": "2026-08-08T19:41:27.099Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 70
+    },
+    {
       "name": "@fmfl-devteam/discord-html-transcripts",
       "version": "0.1.0",
       "description": "Generate secure, standalone HTML transcripts from discord.js channels and messages, including Components V2.",
@@ -9890,6 +9914,18 @@
       "score": 85
     },
     {
+      "name": "@gamaraan/next-prompt",
+      "version": "0.1.1",
+      "description": "pi coding-agent extension that suggests the next logical prompt after an agent turn settles (inline ghost, below-editor widget, or both).",
+      "license": "MIT",
+      "repository": "https://github.com/gamaraan/next-prompt-extension",
+      "npmUrl": "https://www.npmjs.com/package/%40gamaraan%2Fnext-prompt",
+      "category": "utilities",
+      "createdAt": "2026-08-08T15:16:56.191Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 65
+    },
+    {
       "name": "@gambadio/apple-productivity-mcp",
       "version": "2.1.1",
       "description": "On-demand local Apple Mail, Calendar, and Reminders MCP server for Claude Code and Codex.",
@@ -10068,6 +10104,18 @@
       "createdAt": "2026-08-08T14:24:15.377Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 44
+    },
+    {
+      "name": "@george43g/secret-store",
+      "version": "0.1.0",
+      "description": "Vendor-neutral secret mechanism for local tools: resolve from process env, .env files, and the OS keychain, with an optional external-command fallback — plus keychain save/delete for setup flows. No vault-vendor logic.",
+      "license": "MIT",
+      "repository": "https://github.com/george43g/mcp-cli-starter-template",
+      "npmUrl": "https://www.npmjs.com/package/%40george43g%2Fsecret-store",
+      "category": "utilities",
+      "createdAt": "2026-08-08T19:03:02.615Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 59
     },
     {
       "name": "@george43g/tui-kit",
@@ -10320,6 +10368,18 @@
       "createdAt": "2026-07-31T16:47:34.720Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 87
+    },
+    {
+      "name": "@gillcash/necktie",
+      "version": "0.2.0",
+      "description": "The angel of late-stage capitalism for your AI agent: an always-on response check and an explicit bounded review loop.",
+      "license": "MIT",
+      "repository": "https://github.com/gillcash/necktie",
+      "npmUrl": "https://www.npmjs.com/package/%40gillcash%2Fnecktie",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:19:59.193Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 68
     },
     {
       "name": "@gitmyabi/0xbtc",
@@ -12167,6 +12227,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-02T16:31:11.595Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/stkwallet",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for stkWALLET (build etherscan-stkwallet-e575cc6e-1786216287301, commit 1589837, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/stkwallet",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fstkwallet",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T19:11:49.455Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 57
     },
     {
@@ -15120,6 +15192,18 @@
       "createdAt": "2026-08-03T08:46:09.928Z",
       "discoveredAt": "2026-08-03T09:27:32.902Z",
       "score": 93
+    },
+    {
+      "name": "@jeelvankhede/agentsmyth",
+      "version": "1.0.1",
+      "description": "Portable AI lifecycle workflow — drop into any repo and let your agent drive structured, evidence-based engineering.",
+      "license": "MIT",
+      "repository": "https://github.com/JeelVankhede/agentsmyth",
+      "npmUrl": "https://www.npmjs.com/package/%40jeelvankhede%2Fagentsmyth",
+      "category": "utilities",
+      "createdAt": "2026-07-25T17:57:44.537Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 85
     },
     {
       "name": "@jenfang/ui-agent",
@@ -23906,6 +23990,18 @@
       "score": 75
     },
     {
+      "name": "@rjsebening/n8n-nodes-digistore24",
+      "version": "0.1.6",
+      "description": "n8n node for the Digistore24 REST API, allowing management of documents, customers, positions, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/rjsebening/n8n-nodes-digistore24",
+      "npmUrl": "https://www.npmjs.com/package/%40rjsebening%2Fn8n-nodes-digistore24",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:00:44.170Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 60
+    },
+    {
       "name": "@rmrdeveloper/swarmroom",
       "version": "1.0.1",
       "description": "Installable sw-* pipeline agents (planner, implementer, reviewer, verifier, fixer, researcher) for Cursor, opencode, and Claude Code.",
@@ -24864,6 +24960,18 @@
       "createdAt": "2026-08-02T22:46:04.424Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 65
+    },
+    {
+      "name": "@screenshotscout/cli",
+      "version": "0.1.0",
+      "description": "Official command-line interface for the Screenshot Scout screenshot API.",
+      "license": "MIT",
+      "repository": "https://github.com/screenshotscout/screenshotscout-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40screenshotscout%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-08T20:13:25.120Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 73
     },
     {
       "name": "@scriptixlabs/encryptix",
@@ -26627,6 +26735,18 @@
       "category": "frontend",
       "createdAt": "2026-08-08T18:21:02.326Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 83
+    },
+    {
+      "name": "@stocksharp/grids",
+      "version": "0.1.1",
+      "description": "Browser data grid for StockSharp: column-driven table rendering, sorting, a column picker for server-rendered tables, and .xlsx export.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/StockSharp/JS-Grids",
+      "npmUrl": "https://www.npmjs.com/package/%40stocksharp%2Fgrids",
+      "category": "frontend",
+      "createdAt": "2026-08-08T19:53:56.536Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 83
     },
     {
@@ -33986,6 +34106,18 @@
       "score": 90
     },
     {
+      "name": "bucket-audit",
+      "version": "1.0.0",
+      "description": "Zero-install, unauthenticated security auditor for AWS S3 and S3-compatible buckets. Runs entirely on Node built-ins.",
+      "license": "MIT",
+      "repository": "https://github.com/HAV-Engineering/bucket-audit",
+      "npmUrl": "https://www.npmjs.com/package/bucket-audit",
+      "category": "testing",
+      "createdAt": "2026-08-08T20:12:54.155Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 91
+    },
+    {
       "name": "budgetbro-mcp",
       "version": "0.1.0",
       "description": "Model Context Protocol server for BudgetBro - expenses, recurring subscriptions, trip budgets and cashflow, backed by the BudgetBro Lambda API.",
@@ -34080,6 +34212,18 @@
       "createdAt": "2026-08-07T02:28:58.621Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 71
+    },
+    {
+      "name": "buzz-axiru",
+      "version": "0.2.0",
+      "description": "Bounded spend authority for Buzz agents. A gating MCP proxy in front of your payment MCP server: policy evaluation before money moves, human approvals in the Buzz channel, and a hash-chained decision log keyed to the agent's Nostr pubkey.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AxiruAI/buzz-axiru",
+      "npmUrl": "https://www.npmjs.com/package/buzz-axiru",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:58:17.526Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 86
     },
     {
       "name": "bx-browser",
@@ -34416,6 +34560,18 @@
       "createdAt": "2026-07-27T05:36:54.727Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 82
+    },
+    {
+      "name": "cc-adapter-v2",
+      "version": "2.0.1",
+      "description": "Lightweight Claude Code → OpenCode bridge. Extracted from oh-my-openagent — drops the heavy agent orchestration, keeps the ecosystem compatibility: commands, skills, MCP, agents, plugins.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/FountainChan/opencode-cc-adapter",
+      "npmUrl": "https://www.npmjs.com/package/cc-adapter-v2",
+      "category": "utilities",
+      "createdAt": "2026-08-08T20:16:39.065Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 76
     },
     {
       "name": "cc-autopilot",
@@ -36888,6 +37044,18 @@
       "createdAt": "2026-08-07T17:38:22.056Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 74
+    },
+    {
+      "name": "ddd-charts",
+      "version": "0.1.0",
+      "description": "Highly customizable 3D charts for React — pie and bar charts with physically-based materials, glass effects and smooth animations. Powered by three.js and @react-three/fiber.",
+      "license": "MIT",
+      "repository": "https://github.com/vsergeev88/ddd-charts",
+      "npmUrl": "https://www.npmjs.com/package/ddd-charts",
+      "category": "frontend",
+      "createdAt": "2026-08-08T20:17:36.121Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 85
     },
     {
       "name": "ddd-tactical-core-boilerplate",
@@ -40610,6 +40778,18 @@
       "score": 75
     },
     {
+      "name": "hitchain",
+      "version": "1.0.0",
+      "description": "Chain API hits sequentially to set up data — no boilerplate, no Postman required",
+      "license": "MIT",
+      "repository": "https://github.com/rpkr-in/hitchain",
+      "npmUrl": "https://www.npmjs.com/package/hitchain",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:43:01.025Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 71
+    },
+    {
       "name": "hmrc-exchange-rate",
       "version": "1.0.2",
       "description": "Official HM Revenue & Customs (United Kingdom) monthly exchange rates — ~140 currencies vs GBP, history since 2021. Zero-dependency Node.js/TypeScript client.",
@@ -41196,6 +41376,18 @@
       "createdAt": "2026-07-27T15:12:14.663Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 74
+    },
+    {
+      "name": "idemkit",
+      "version": "1.0.0",
+      "description": "Make any operation safe to retry: crash-safe idempotency for HTTP requests, queue messages, and function calls, on Redis, Postgres, MongoDB, or DynamoDB.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/idemkit/idemkit",
+      "npmUrl": "https://www.npmjs.com/package/idemkit",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:42:37.693Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 95
     },
     {
       "name": "identark",
@@ -43094,6 +43286,18 @@
       "score": 89
     },
     {
+      "name": "lows-translator",
+      "version": "0.1.0",
+      "description": "Translation API client built for chat: mentions, custom emoji and markdown survive translation instead of being mangled.",
+      "license": "MIT",
+      "repository": "https://github.com/l0wGK/lows-translator-js",
+      "npmUrl": "https://www.npmjs.com/package/lows-translator",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:20:54.250Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 74
+    },
+    {
       "name": "luma-events",
       "version": "0.7.3",
       "description": "MCP server and Codex/Cursor plugin for safely managing Luma events, guests, tickets, and hosts.",
@@ -44832,6 +45036,18 @@
       "createdAt": "2026-07-25T13:05:58.941Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 57
+    },
+    {
+      "name": "n8n-nodes-digistore24",
+      "version": "0.1.6",
+      "description": "n8n node for the Digistore24 REST API, allowing management of documents, customers, positions, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/rjsebening/n8n-nodes-digistore24",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-digistore24",
+      "category": "backend",
+      "createdAt": "2026-08-08T19:00:22.212Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 60
     },
     {
       "name": "n8n-nodes-direct7",
@@ -47546,6 +47762,18 @@
       "score": 77
     },
     {
+      "name": "panaclaw",
+      "version": "0.1.0",
+      "description": "CRM - PanaClaw — instala bots de IA con CRM en tu propia infraestructura, en un comando.",
+      "license": "MIT",
+      "repository": "https://github.com/abrinay1997-stack/CRM-PANACLAW",
+      "npmUrl": "https://www.npmjs.com/package/panaclaw",
+      "category": "devops",
+      "createdAt": "2026-08-08T20:07:59.618Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 59
+    },
+    {
       "name": "panelint",
       "version": "0.1.0",
       "description": "Static analyzer for MCP Apps (SEP-1865) UI resources. Reports properties of a content hash at a point in time.",
@@ -48024,6 +48252,18 @@
       "createdAt": "2026-07-27T13:49:32.097Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 76
+    },
+    {
+      "name": "pi-claude-link",
+      "version": "0.1.0",
+      "description": "Mesh pi coding-agent sessions with Claude Code: appear in each other's session lists and exchange messages over Claude's cross-session socket protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/alonw0/pi-claude-link",
+      "npmUrl": "https://www.npmjs.com/package/pi-claude-link",
+      "category": "utilities",
+      "createdAt": "2026-08-08T19:35:11.533Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 63
     },
     {
       "name": "pi-claude-subscription-connector",
@@ -48996,6 +49236,18 @@
       "createdAt": "2026-08-06T09:26:42.349Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 87
+    },
+    {
+      "name": "pmtiles-swarm",
+      "version": "0.2.0",
+      "description": "BitTorrent distribution for PMTiles map archives: create torrents, watch folders, publish and subscribe to RSS feeds, and seed through qBittorrent or an embedded client",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/TechIdiots-LLC/pmtiles-swarm",
+      "npmUrl": "https://www.npmjs.com/package/pmtiles-swarm",
+      "category": "cli",
+      "createdAt": "2026-08-08T19:22:29.131Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 77
     },
     {
       "name": "pmtiles-torrent",
@@ -51662,6 +51914,18 @@
       "score": 96
     },
     {
+      "name": "runtapp",
+      "version": "0.14.0",
+      "description": "Release contracts, autonomous QA, and evidence-backed CI gates for iOS, Android, and web.",
+      "license": "MIT",
+      "repository": "https://github.com/aarwitz/tapp",
+      "npmUrl": "https://www.npmjs.com/package/runtapp",
+      "category": "testing",
+      "createdAt": "2026-08-08T19:48:19.611Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 78
+    },
+    {
       "name": "rust-faf-mcp",
       "version": "0.4.1",
       "description": "Persistent project context — Rust-native MCP server. IANA-registered .faf format. npm shim downloads the native binary from GitHub Releases.",
@@ -51948,6 +52212,18 @@
       "createdAt": "2026-07-25T23:06:13.670Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 61
+    },
+    {
+      "name": "sdd-yo",
+      "version": "0.3.0",
+      "description": "Repository-native specification governance with a deterministic CLI and optional Agent Skill.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/briginas/sdd-yo",
+      "npmUrl": "https://www.npmjs.com/package/sdd-yo",
+      "category": "cli",
+      "createdAt": "2026-08-08T19:35:37.094Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 69
     },
     {
       "name": "sdoc-editor-cli",
@@ -55070,6 +55346,18 @@
       "score": 70
     },
     {
+      "name": "ts-profanity-filter",
+      "version": "1.0.0",
+      "description": "A strict TypeScript profanity filter for English and German that returns text segments for UI rendering, with an allowlist that clears false positives like \"Klassik\" and \"classic\".",
+      "license": "MIT",
+      "repository": "https://github.com/Kevinci/ts-profanity-filter",
+      "npmUrl": "https://www.npmjs.com/package/ts-profanity-filter",
+      "category": "frontend",
+      "createdAt": "2026-08-08T19:40:49.009Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 98
+    },
+    {
       "name": "tunasync-unity-mcp",
       "version": "2.4.2",
       "description": "MCP server for driving the Unity Editor (VRChat-aware): C# eval, scene queries, NDMF bakes, VRChat uploads, logs and a built-in recipe library. Pairs with the UnityMCP editor plugin over TCP.",
@@ -56988,6 +57276,18 @@
       "createdAt": "2026-07-30T01:11:30.514Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 68
+    },
+    {
+      "name": "witnora",
+      "version": "0.9.0",
+      "description": "Witnora evidence, assurance release gates, runtime records, and regression CI for autonomous AI systems.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Kakarottoooo/agentcert",
+      "npmUrl": "https://www.npmjs.com/package/witnora",
+      "category": "testing",
+      "createdAt": "2026-08-08T08:40:19.230Z",
+      "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 80
     },
     {
       "name": "wordprint",

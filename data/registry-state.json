@@ -1,39 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123990987,
-  "lastRunAt": "2026-08-08T19:06:05.897Z",
+  "lastSequence": 123996020,
+  "lastRunAt": "2026-08-08T20:19:21.598Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@richardsgee/vibeguard",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@kasanie_laski/linters",
+      "name": "@stocksharp/trading-controls",
       "attempts": 1
     },
     {
-      "name": "@george43g/secret-store",
-      "attempts": 1
-    },
-    {
-      "name": "@cloudpdf/contract",
-      "attempts": 1
-    },
-    {
-      "name": "@demystify/play-sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@demystify/play-learn",
-      "attempts": 1
-    },
-    {
-      "name": "@demystify/play-packs",
-      "attempts": 1
-    },
-    {
-      "name": "@demystify/play-runtime",
+      "name": "@gio.js/server-linux-x64-musl",
       "attempts": 1
     }
   ]
