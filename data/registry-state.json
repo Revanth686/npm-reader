@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123976187,
-  "lastRunAt": "2026-08-08T15:21:29.909Z",
+  "lastSequence": 123980367,
+  "lastRunAt": "2026-08-08T16:22:14.014Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@tcliplab/gas-json-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@lesomnus/payday",
+      "attempts": 1
+    }
+  ]
 }
