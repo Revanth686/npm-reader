@@ -5702,6 +5702,18 @@
       "score": 59
     },
     {
+      "name": "@conet.project/chat-sdk",
+      "version": "0.1.0",
+      "description": "Beamio CoNET Chat SDK — gossip messaging in a Web Worker (zero main-thread openpgp/verify) + encrypted fragmented IPFS history. UI-agnostic, reusable across SilentPassUI / bizSite / Alliance / POS.",
+      "license": "MIT",
+      "repository": "https://github.com/CoNET-project/chat-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40conet.project%2Fchat-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-08T17:21:32.883Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 69
+    },
+    {
       "name": "@conorbronsdon/apple-podcasts-mcp",
       "version": "0.1.0",
       "description": "MCP server for Apple Podcasts Connect owner analytics via the Reporter protocol — plays, followers, and per-episode listening. Not the public iTunes catalog.",
@@ -8150,6 +8162,18 @@
       "score": 56
     },
     {
+      "name": "@easonliuuuuu/flow-code",
+      "version": "0.2.0",
+      "description": "Terminal-native node-graph interface for running and observing agentic coding workflows",
+      "license": "MIT",
+      "repository": "https://github.com/Easonliuuuuu/flow-code",
+      "npmUrl": "https://www.npmjs.com/package/%40easonliuuuuu%2Fflow-code",
+      "category": "cli",
+      "createdAt": "2026-08-03T11:10:36.451Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 67
+    },
+    {
       "name": "@eborja/cortex",
       "version": "0.1.1",
       "description": "Cortex — the operator for Synapse standing agents: scaffold, provision, run, and health-check role-based agents that brief from a Synapse vault and talk over Block's Buzz. Ships no Buzz code; orchestrates a separately-installed relay.",
@@ -9746,6 +9770,18 @@
       "score": 63
     },
     {
+      "name": "@galaxysailorsng/genvstore",
+      "version": "0.2.0",
+      "description": "Serverless, plug-and-play CLI for backing up and restoring .env files through your private Cloudflare R2 bucket — no server, no database, no secrets-store.",
+      "license": "MIT",
+      "repository": "https://github.com/galaxysailorsng/gsailor-envstore",
+      "npmUrl": "https://www.npmjs.com/package/%40galaxysailorsng%2Fgenvstore",
+      "category": "backend",
+      "createdAt": "2026-08-08T17:07:22.374Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 85
+    },
+    {
       "name": "@gambadio/apple-productivity-mcp",
       "version": "2.1.1",
       "description": "On-demand local Apple Mail, Calendar, and Reminders MCP server for Claude Code and Codex.",
@@ -10898,6 +10934,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/gfi",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for GFI (build etherscan-gfi-dab396cc-1786208769899, commit d32eb04, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/gfi",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgfi",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T17:06:33.024Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/giv",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for GIV (build etherscan-giv-900db999-1785626673020, commit d080634, branch etherscan)",
@@ -10932,6 +10980,18 @@
       "createdAt": "2026-07-30T21:21:49.892Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/gog",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for GoG (build etherscan-gog-d4da6e4f-1786209174996, commit 67b19d6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/gog",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgog",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T17:13:20.533Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/hobbes",
@@ -11471,6 +11531,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-08T10:32:58.517Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/ovr",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for OVR (build etherscan-ovr-21bfbda4-1786208894836, commit 8b85de7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ovr",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fovr",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T16:49:16.180Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
       "score": 56
     },
     {
@@ -12504,6 +12576,18 @@
       "createdAt": "2026-08-01T14:55:49.627Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 80
+    },
+    {
+      "name": "@goflag/next",
+      "version": "0.2.0",
+      "description": "Declare a Next.js App Router site's routes once, and derive the metadata, hreflang cluster, sitemap and robots.txt that goflag audits for.",
+      "license": "MIT",
+      "repository": "https://github.com/tancredesimonin/goflag",
+      "npmUrl": "https://www.npmjs.com/package/%40goflag%2Fnext",
+      "category": "data",
+      "createdAt": "2026-08-07T07:04:26.487Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 61
     },
     {
       "name": "@gomzkov/agent-context-test",
@@ -17438,6 +17522,18 @@
       "score": 77
     },
     {
+      "name": "@miadi/recording-client",
+      "version": "0.1.0",
+      "description": "HTTP access to a recording service — the canonical /api/recordings envelope plus the pixel dialect gmtermux serves today, and a dependency-free fetch client that normalizes both. Drives a recorder from any process that does not own the microphone.",
+      "license": "MIT",
+      "repository": "https://github.com/jgwill/Miadi",
+      "npmUrl": "https://www.npmjs.com/package/%40miadi%2Frecording-client",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:53:22.461Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 50
+    },
+    {
       "name": "@miadi/stateloom-skills",
       "version": "0.2.0",
       "description": "stateloom — installable agent skills for the stateloom/smcraft state-machine design system: `stateloom skills install <name>` drops a ready-to-use SKILL.md into .claude/skills",
@@ -19536,6 +19632,18 @@
       "createdAt": "2026-08-05T01:56:19.787Z",
       "discoveredAt": "2026-08-05T04:58:30.965Z",
       "score": 90
+    },
+    {
+      "name": "@nick5757/app-atlas",
+      "version": "0.19.0",
+      "description": "Understand any app - including the one your AI built. An interactive, always-accurate atlas of your application.",
+      "license": "MIT",
+      "repository": "https://github.com/nhorto/App-Atlas",
+      "npmUrl": "https://www.npmjs.com/package/%40nick5757%2Fapp-atlas",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T17:16:22.004Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 81
     },
     {
       "name": "@nicknisi/pi-artifacts",
@@ -21684,6 +21792,42 @@
       "createdAt": "2026-08-02T04:52:48.429Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 75
+    },
+    {
+      "name": "@poly-ds/angular",
+      "version": "0.1.1",
+      "description": "Componentes da design system para Angular (gerados a partir de @poly-ds/source)",
+      "license": "MIT",
+      "repository": "https://github.com/mest2011/tools",
+      "npmUrl": "https://www.npmjs.com/package/%40poly-ds%2Fangular",
+      "category": "frontend",
+      "createdAt": "2026-08-08T15:30:17.118Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 36
+    },
+    {
+      "name": "@poly-ds/react",
+      "version": "0.1.1",
+      "description": "Componentes da design system para React (gerados a partir de @poly-ds/source)",
+      "license": "MIT",
+      "repository": "https://github.com/mest2011/tools",
+      "npmUrl": "https://www.npmjs.com/package/%40poly-ds%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-08T15:30:17.226Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 33
+    },
+    {
+      "name": "@poly-ds/vue",
+      "version": "0.1.1",
+      "description": "Componentes da design system para Vue (gerados a partir de @poly-ds/source)",
+      "license": "MIT",
+      "repository": "https://github.com/mest2011/tools",
+      "npmUrl": "https://www.npmjs.com/package/%40poly-ds%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-08-08T15:30:17.332Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 34
     },
     {
       "name": "@polycrestlabs/agentkit-ui",
@@ -27278,6 +27422,18 @@
       "score": 64
     },
     {
+      "name": "@textmode/release",
+      "version": "0.1.0",
+      "description": "Shared release, hooks, and project workflow tooling for the textmode.js ecosystem (semantic-release, commitlint, lint-staged).",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/textmode-art/tooling",
+      "npmUrl": "https://www.npmjs.com/package/%40textmode%2Frelease",
+      "category": "utilities",
+      "createdAt": "2026-08-08T17:20:42.037Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 66
+    },
+    {
       "name": "@thalus-ai/mcp-air",
       "version": "1.0.1",
       "description": "MCP server for AIR (AI Responsibly) — run risk assessments from Cursor, Claude Code, VS Code, and other MCP clients.",
@@ -30350,6 +30506,18 @@
       "score": 81
     },
     {
+      "name": "@ytrynot/qb",
+      "version": "2.0.3",
+      "description": "Fluent SQLite Query Builder with Zod integration",
+      "license": "MIT",
+      "repository": "https://github.com/linqFR/ytn",
+      "npmUrl": "https://www.npmjs.com/package/%40ytrynot%2Fqb",
+      "category": "data",
+      "createdAt": "2026-08-08T17:12:02.913Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 78
+    },
+    {
       "name": "@ytrynot/schvalid",
       "version": "0.3.1",
       "description": "JSON Schema 2020-12 validator with compiled standalone JS function using DNA bytecodes. OpenAPI 3.1 discriminator support. Close to AJV's speed.",
@@ -30672,6 +30840,30 @@
       "createdAt": "2026-08-02T19:43:12.713Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 72
+    },
+    {
+      "name": "@zod-crawler/cli",
+      "version": "1.0.0",
+      "description": "Fetches a set of JSON API responses and generates a Zod v4 schema that validates all of them.",
+      "license": "MIT",
+      "repository": "https://github.com/figulusproject/zod-crawler",
+      "npmUrl": "https://www.npmjs.com/package/%40zod-crawler%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-08T16:42:48.535Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 55
+    },
+    {
+      "name": "@zod-crawler/core",
+      "version": "1.0.0",
+      "description": "Infers a Zod v4 schema from a set of sampled JSON values.",
+      "license": "MIT",
+      "repository": "https://github.com/figulusproject/zod-crawler",
+      "npmUrl": "https://www.npmjs.com/package/%40zod-crawler%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-08T16:36:22.645Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 47
     },
     {
       "name": "@zoijs/sanitize",
@@ -33336,6 +33528,18 @@
       "createdAt": "2026-07-31T22:34:55.753Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 81
+    },
+    {
+      "name": "browser-boundary",
+      "version": "1.2.0",
+      "description": "Find the oldest real browser version your website can actually run on. Detects compatibility boundaries across Chromium/Firefox/WebKit using real historical browser binaries.",
+      "license": "MIT",
+      "repository": "https://github.com/Amirhossein-Mirzaei23/browser-boundary",
+      "npmUrl": "https://www.npmjs.com/package/browser-boundary",
+      "category": "testing",
+      "createdAt": "2026-08-08T17:24:41.281Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 97
     },
     {
       "name": "browser-dvr-mcp",
@@ -36590,6 +36794,18 @@
       "score": 70
     },
     {
+      "name": "desprawl",
+      "version": "0.2.0",
+      "description": "Permanently unfuck large ai-touched typescript projects by scoping and delivering cleanup work.",
+      "license": "MIT",
+      "repository": "https://github.com/finnmglas/desprawl",
+      "npmUrl": "https://www.npmjs.com/package/desprawl",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T08:57:49.408Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 41
+    },
+    {
       "name": "devecocli-mcp",
       "version": "0.1.0",
       "description": "Unified MCP server for HarmonyOS development: capability search (RAG-style), orchestrated devecocli invocation, and fast official documentation lookup",
@@ -36648,6 +36864,18 @@
       "createdAt": "2026-08-05T11:15:06.904Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 76
+    },
+    {
+      "name": "dialglide",
+      "version": "0.1.0",
+      "description": "Privacy-first phone number detection and normalization for JavaScript and TypeScript.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/receive-sms-live/dialglide",
+      "npmUrl": "https://www.npmjs.com/package/dialglide",
+      "category": "data",
+      "createdAt": "2026-08-08T16:57:57.398Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 37
     },
     {
       "name": "diarium",
@@ -36936,6 +37164,18 @@
       "createdAt": "2026-07-29T17:15:29.138Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 87
+    },
+    {
+      "name": "dowsing",
+      "version": "0.3.0",
+      "description": "Behavioral code analysis for TypeScript monorepos",
+      "license": "MIT",
+      "repository": "https://github.com/yhay81/dowsing",
+      "npmUrl": "https://www.npmjs.com/package/dowsing",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T17:41:45.842Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 48
     },
     {
       "name": "draggable-scheduler",
@@ -40188,6 +40428,18 @@
       "createdAt": "2026-08-01T23:10:23.854Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 63
+    },
+    {
+      "name": "hrive-sdk",
+      "version": "1.0.0",
+      "description": "Dependency-free TypeScript SDK for the Hrive public API",
+      "license": "MIT",
+      "repository": "https://github.com/poojaroonwit/studio",
+      "npmUrl": "https://www.npmjs.com/package/hrive-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-08T17:03:19.818Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 38
     },
     {
       "name": "hrr-lib",
@@ -44846,6 +45098,18 @@
       "score": 79
     },
     {
+      "name": "netnexus-ui",
+      "version": "0.1.0",
+      "description": "NetNexus UI: a lightweight Vue 3 component library with blue, orange and dark themes.",
+      "license": "MIT",
+      "repository": "https://github.com/jihuaib/NetNexusUI",
+      "npmUrl": "https://www.npmjs.com/package/netnexus-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-08T17:02:59.304Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 39
+    },
+    {
       "name": "netpulse-wifi",
       "version": "5.0.0",
       "description": "Fast, zero-dependency campus WiFi auto-login",
@@ -46524,6 +46788,18 @@
       "createdAt": "2026-08-03T09:19:39.941Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 77
+    },
+    {
+      "name": "origincalcu",
+      "version": "0.2.0",
+      "description": "Multi-system birth-moment calculator — Human Design, I Ching, Mayan Tzolk'in, Vedic, Western astrology and 12 more traditions resolved into a single cosmic coordinate. Hard data only, no interpretation.",
+      "license": "MIT",
+      "repository": "https://github.com/OTH-RCODE-SPACE/origincalcu",
+      "npmUrl": "https://www.npmjs.com/package/origincalcu",
+      "category": "data",
+      "createdAt": "2026-08-08T17:15:23.450Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 71
     },
     {
       "name": "orita-sdk",
@@ -50244,6 +50520,18 @@
       "createdAt": "2026-07-30T20:11:43.646Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 68
+    },
+    {
+      "name": "repo-bridge-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that turns ChatGPT Web into a real coding agent on your own repositories: read, search, edit, build, test, git, pull requests. OAuth 2.1. No OpenAI API key.",
+      "license": "MIT",
+      "repository": "https://github.com/zcrossoverz/repo-bridge",
+      "npmUrl": "https://www.npmjs.com/package/repo-bridge-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-08T17:18:20.965Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 96
     },
     {
       "name": "repo-cartographer",
@@ -56244,6 +56532,18 @@
       "createdAt": "2026-08-07T10:37:27.846Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 75
+    },
+    {
+      "name": "wtfjavascript",
+      "version": "0.1.0",
+      "description": "WTF, JavaScript?! — 115 advanced JavaScript challenges in your terminal: coercion nightmares, closures, proxies, sorting algorithms, interview classics, and more. Companion CLI for wtfjavascript.dev",
+      "license": "MIT",
+      "repository": "https://github.com/aiscenblue/wtfjavascript.dev",
+      "npmUrl": "https://www.npmjs.com/package/wtfjavascript",
+      "category": "cli",
+      "createdAt": "2026-08-08T17:26:03.274Z",
+      "discoveredAt": "2026-08-08T17:28:49.311Z",
+      "score": 55
     },
     {
       "name": "wts-star-rating",

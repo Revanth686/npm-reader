@@ -1,83 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 123983129,
-  "lastRunAt": "2026-08-08T16:57:46.605Z",
+  "lastSequence": 123985105,
+  "lastRunAt": "2026-08-08T17:28:49.311Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@miadi/recording-client",
+      "name": "@imprynt/sdk",
       "attempts": 1
     },
     {
-      "name": "@ahwabjnv/virtual-ui-lib",
+      "name": "@richardsgee/vibeguard",
       "attempts": 1
     },
     {
-      "name": "@jsjackson/chaos-cli",
+      "name": "@qa-guru/allure-notifications-config",
       "attempts": 1
     },
     {
-      "name": "@executioncontrolprotocol/types",
+      "name": "@qa-guru/allure-notifications-pyramid",
       "attempts": 1
     },
     {
-      "name": "@executioncontrolprotocol/core",
+      "name": "@qa-guru/allure-notifications-core",
       "attempts": 1
     },
     {
-      "name": "@executioncontrolprotocol/policies",
+      "name": "@qa-guru/allure-notifications",
       "attempts": 1
     },
     {
-      "name": "@executioncontrolprotocol/secrets",
+      "name": "@qa-guru/allure-notifications-plugin",
       "attempts": 1
     },
     {
-      "name": "@executioncontrolprotocol/process-env",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/node",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/browser-secrets",
-      "attempts": 1
-    },
-    {
-      "name": "@dimx/react-native-sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/chrome-ai",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/claude",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/extension-fal",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/format-eql",
-      "attempts": 1
-    },
-    {
-      "name": "@pictoria/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/format-mermaid",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/format-toon",
-      "attempts": 1
-    },
-    {
-      "name": "@executioncontrolprotocol/extension-image-sharp",
+      "name": "@gitmyabi/nw",
       "attempts": 1
     }
   ]
