@@ -1286,6 +1286,18 @@
       "score": 91
     },
     {
+      "name": "@aiwayds/pi-topic-memory",
+      "version": "0.2.0",
+      "description": "Global topic ledger for the pi coding agent: auto-detects work requirements from input (classify + match, non-blocking), injects the topic state into the agent context before each turn (silent by default, debug toggle shows a short line), and provides a /",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fan56/pi-topic-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40aiwayds%2Fpi-topic-memory",
+      "category": "utilities",
+      "createdAt": "2026-08-08T15:16:03.078Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 60
+    },
+    {
       "name": "@aixa-transformation/pptx-viewer",
       "version": "2.0.2",
       "description": "React PowerPoint viewer and editor component: render, edit, and export PPTX slides in the browser.",
@@ -4644,6 +4656,18 @@
       "createdAt": "2026-07-31T04:54:21.358Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 84
+    },
+    {
+      "name": "@cattiva/memory-engine",
+      "version": "0.1.0",
+      "description": "Long-term memory for AI agents, exposed over MCP.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/iharsh02/cattiva",
+      "npmUrl": "https://www.npmjs.com/package/%40cattiva%2Fmemory-engine",
+      "category": "data",
+      "createdAt": "2026-08-08T15:09:47.003Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 34
     },
     {
       "name": "@cavsnode/dedup-sdk",
@@ -10178,6 +10202,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/babydoge",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BabyDoge (build etherscan-babydoge-ac57de9c-1786200902348, commit d330526, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/babydoge",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbabydoge",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:55:27.308Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/bbl",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BBL (build etherscan-bbl-d979c468-1785367033740, commit 72db935, branch etherscan)",
@@ -11570,6 +11606,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/sheesha",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SHEESHA (build etherscan-sheesha-232fb065-1786201647676, commit 593c6f9, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/sheesha",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsheesha",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T15:07:50.355Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/smiley",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for SMILEY (build etherscan-smiley-4c6e2c49-1785606068318, commit 6fa3deb, branch etherscan)",
@@ -11748,6 +11796,18 @@
       "createdAt": "2026-08-01T05:12:11.907Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/toad",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for TOAD (build etherscan-toad-01e1d7cb-1786201037422, commit 902645c, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/toad",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftoad",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:57:40.044Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/tokenlockup",
@@ -12023,6 +12083,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-02T20:44:48.753Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/xrp",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for XRP (build etherscan-xrp-628f76ea-1786201882646, commit 9b0dec2, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/xrp",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fxrp",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T21:05:41.841Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
       "score": 56
     },
     {
@@ -13224,6 +13296,18 @@
       "createdAt": "2026-07-25T15:50:11.377Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 64
+    },
+    {
+      "name": "@honlnk/zcode-prompt-sanitizer",
+      "version": "0.1.0",
+      "description": "Local reverse proxy that rewrites sensitive prompt fragments injected by ZCode before they reach third-party API providers, preventing WAF false positives.",
+      "license": "MIT",
+      "repository": "https://github.com/honlnk/zcode-prompt-sanitizer",
+      "npmUrl": "https://www.npmjs.com/package/%40honlnk%2Fzcode-prompt-sanitizer",
+      "category": "backend",
+      "createdAt": "2026-08-08T15:11:09.392Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 81
     },
     {
       "name": "@hoodiecollin/forgedb",
@@ -15828,6 +15912,42 @@
       "createdAt": "2026-07-27T17:58:26.533Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 76
+    },
+    {
+      "name": "@lew-ds/lds",
+      "version": "1.0.0",
+      "description": "Lew Design System — components as plain HTML, over a one-token CSS architecture, with four themes and light/dark.",
+      "license": "MIT",
+      "repository": "https://github.com/matthewlew/lds",
+      "npmUrl": "https://www.npmjs.com/package/%40lew-ds%2Flds",
+      "category": "frontend",
+      "createdAt": "2026-08-08T15:09:24.999Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 74
+    },
+    {
+      "name": "@lew-ds/lds-react",
+      "version": "1.0.0",
+      "description": "React bindings for the Lew Design System — wraps @lew-ds/lds's framework-free templates and controllers as React components, for React-based consumers (Claude Design, Claude Code) without changing @lew-ds/lds itself.",
+      "license": "MIT",
+      "repository": "https://github.com/matthewlew/lds",
+      "npmUrl": "https://www.npmjs.com/package/%40lew-ds%2Flds-react",
+      "category": "frontend",
+      "createdAt": "2026-08-08T15:09:37.039Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 76
+    },
+    {
+      "name": "@lew-ds/open-icons",
+      "version": "1.0.0",
+      "description": "Open Icons — 174 symbols on a 24px grid, stroke 2. A standalone SVG sprite with no dependency on any design system.",
+      "license": "MIT",
+      "repository": "https://github.com/matthewlew/lds",
+      "npmUrl": "https://www.npmjs.com/package/%40lew-ds%2Fopen-icons",
+      "category": "utilities",
+      "createdAt": "2026-08-08T15:09:16.103Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 52
     },
     {
       "name": "@lexmata/nestjs-platform-bun",
@@ -19056,6 +19176,18 @@
       "createdAt": "2026-08-03T23:13:07.181Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 64
+    },
+    {
+      "name": "@neurcode-ai/cut",
+      "version": "0.2.0",
+      "description": "The universal link for code. Create a Cut for teammates and AI agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/neurcode-ai/cut",
+      "npmUrl": "https://www.npmjs.com/package/%40neurcode-ai%2Fcut",
+      "category": "utilities",
+      "createdAt": "2026-08-05T20:30:06.394Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 26
     },
     {
       "name": "@neurelectra-oss/youtube-captions",
@@ -22380,6 +22512,18 @@
       "createdAt": "2026-08-03T22:58:13.134Z",
       "discoveredAt": "2026-08-03T23:15:27.142Z",
       "score": 57
+    },
+    {
+      "name": "@rblxts/services",
+      "version": "1.6.0",
+      "description": "Roblox service definitions for roblox-ts",
+      "license": "MIT",
+      "repository": "https://github.com/roblox-ts/services",
+      "npmUrl": "https://www.npmjs.com/package/%40rblxts%2Fservices",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:55:14.072Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 37
     },
     {
       "name": "@rchh/lowcode-plugin-datasource-pane",
@@ -29486,6 +29630,18 @@
       "score": 90
     },
     {
+      "name": "@xdavidwu/codemirror-json-schema",
+      "version": "0.9.0",
+      "description": "Codemirror 6 extensions that provide full JSONSchema support for `@codemirror/lang-json` and `codemirror-json5`",
+      "license": "MIT",
+      "repository": "https://github.com/xdavidwu/codemirror-json-schema",
+      "npmUrl": "https://www.npmjs.com/package/%40xdavidwu%2Fcodemirror-json-schema",
+      "category": "utilities",
+      "createdAt": "2026-08-08T15:12:57.513Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 66
+    },
+    {
       "name": "@xemahq/license-verifier",
       "version": "0.1.0",
       "description": "Offline verification of a Xema license — Ed25519 JWS against an embedded public key, lifecycle resolution and entitlement evaluation. Zero dependencies, Node built-ins only, so it runs in the CLI from a bare checkout and in the air-gap installer on a disc",
@@ -29520,6 +29676,18 @@
       "createdAt": "2026-07-27T08:49:09.782Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 84
+    },
+    {
+      "name": "@xenoviz/ruk",
+      "version": "0.1.0",
+      "description": "Dependency-aware Git workspaces for parallel coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/xenoviz/ruk",
+      "npmUrl": "https://www.npmjs.com/package/%40xenoviz%2Fruk",
+      "category": "utilities",
+      "createdAt": "2026-08-08T14:46:01.634Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 62
     },
     {
       "name": "@xlscalc/xlsx-preview",
@@ -31320,6 +31488,18 @@
       "createdAt": "2026-08-08T05:39:32.365Z",
       "discoveredAt": "2026-08-08T06:37:23.606Z",
       "score": 55
+    },
+    {
+      "name": "amarwave-react-native",
+      "version": "1.0.1",
+      "description": "Real-time WebSocket client for AmarWave — React Native SDK with hooks and AppState handling.",
+      "license": "MIT",
+      "repository": "https://github.com/amarwave/amarwave-react-native",
+      "npmUrl": "https://www.npmjs.com/package/amarwave-react-native",
+      "category": "frontend",
+      "createdAt": "2026-08-06T10:11:49.708Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 58
     },
     {
       "name": "amm-strategy-backtester",
@@ -35234,6 +35414,18 @@
       "score": 45
     },
     {
+      "name": "creed-kg",
+      "version": "1.0.0",
+      "description": "A knowledge graph of your codebase, exposed as an MCP server — so AI coding agents stop re-deriving structure from grep and Read on every request.",
+      "license": "MIT",
+      "repository": "https://github.com/jaarso0/MASAI-KG",
+      "npmUrl": "https://www.npmjs.com/package/creed-kg",
+      "category": "backend",
+      "createdAt": "2026-08-08T15:02:07.420Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 86
+    },
+    {
       "name": "crewmates",
       "version": "0.1.0",
       "description": "Lets the Claude Code sessions working on one project see each other: who is active, what each is doing, which files they have touched.",
@@ -36540,6 +36732,18 @@
       "createdAt": "2026-07-29T11:17:11.690Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 71
+    },
+    {
+      "name": "eleventy-plugin-mermaid-build",
+      "version": "0.2.0",
+      "description": "Eleventy plugin that renders Mermaid diagrams as accessible inline SVG at build time",
+      "license": "MIT",
+      "repository": "https://github.com/octipus/eleventy-plugin-mermaid-build",
+      "npmUrl": "https://www.npmjs.com/package/eleventy-plugin-mermaid-build",
+      "category": "build-tools",
+      "createdAt": "2026-07-29T09:17:40.979Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 57
     },
     {
       "name": "eleventy-rosetta",
@@ -37908,6 +38112,18 @@
       "createdAt": "2026-08-01T11:33:51.889Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 69
+    },
+    {
+      "name": "flutter-knowledge-mcp",
+      "version": "1.0.0",
+      "description": "MCP server exposing a 9-analyzer Flutter/Dart static analysis engine (code quality, architecture, state management, complexity, dependencies, performance, documentation, testing, accessibility) plus official Flutter/Dart knowledge search — for Cursor, Cla",
+      "license": "MIT",
+      "repository": "https://github.com/Saad0149/Flutter_MCP_Knowledge",
+      "npmUrl": "https://www.npmjs.com/package/flutter-knowledge-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-08T15:04:12.449Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 100
     },
     {
       "name": "fm-synthesizers.js",
@@ -41568,6 +41784,18 @@
       "createdAt": "2026-07-30T22:49:28.292Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 70
+    },
+    {
+      "name": "lodgely-design-system",
+      "version": "1.0.0",
+      "description": "Lodgely Design System Component Library",
+      "license": "ISC",
+      "repository": "https://github.com/The-Lodgely/lodgely-design-system",
+      "npmUrl": "https://www.npmjs.com/package/lodgely-design-system",
+      "category": "utilities",
+      "createdAt": "2026-08-08T15:10:00.240Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 32
     },
     {
       "name": "log-probe-mcp",
@@ -47150,6 +47378,18 @@
       "score": 77
     },
     {
+      "name": "picodx",
+      "version": "0.1.1",
+      "description": "A minimal PicoRuby.wasm gem template",
+      "license": "MIT",
+      "repository": "https://github.com/itojum/picodx",
+      "npmUrl": "https://www.npmjs.com/package/picodx",
+      "category": "utilities",
+      "createdAt": "2026-08-08T15:12:39.741Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 25
+    },
+    {
       "name": "picotile",
       "version": "0.1.0",
       "description": "Deterministic dithered dot avatars generated from a name and a seed.",
@@ -50198,6 +50438,18 @@
       "score": 76
     },
     {
+      "name": "sapi-docs-mcp",
+      "version": "1.0.0",
+      "description": "Minecraft Script API 中文文档 MCP（sapi.dogelake.cn）：搜索与读取 API 文档",
+      "license": "MIT",
+      "repository": "https://github.com/Tanya7z/sapi-typedoc",
+      "npmUrl": "https://www.npmjs.com/package/sapi-docs-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T15:20:51.143Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 38
+    },
+    {
       "name": "sarvamai-cli",
       "version": "0.2.11",
       "description": "An agentic CLI coding assistant powered by Sarvam AI — built on the official sarvamai SDK, with OpenAI-compatible fallback.",
@@ -50784,6 +51036,18 @@
       "createdAt": "2026-08-04T08:17:24.023Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 82
+    },
+    {
+      "name": "shojiku",
+      "version": "0.2.0",
+      "description": "Shojiku for Node.js — a YAML template plus your data, deterministically, as a PDF",
+      "license": "MIT OR Apache-2.0 OR BSD-3-Clause",
+      "repository": "https://github.com/kengos/shojiku",
+      "npmUrl": "https://www.npmjs.com/package/shojiku",
+      "category": "data",
+      "createdAt": "2026-08-01T15:58:33.445Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 51
     },
     {
       "name": "shoot-cc",
@@ -54168,6 +54432,18 @@
       "createdAt": "2026-07-28T09:45:41.968Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 73
+    },
+    {
+      "name": "vet-script",
+      "version": "0.1.0",
+      "description": "Look before you curl | bash. A static risk scanner for shell scripts you're about to run.",
+      "license": "MIT",
+      "repository": "https://github.com/dailyamnesia/project",
+      "npmUrl": "https://www.npmjs.com/package/vet-script",
+      "category": "cli",
+      "createdAt": "2026-08-08T14:56:31.431Z",
+      "discoveredAt": "2026-08-08T15:21:29.909Z",
+      "score": 48
     },
     {
       "name": "veterical",
