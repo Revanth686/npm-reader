@@ -2162,6 +2162,18 @@
       "score": 74
     },
     {
+      "name": "@anymotion-agent/anymotion",
+      "version": "1.0.0",
+      "description": "Anymotion — AI motion graphics agent for the terminal. Describe an animation, get a rendered MP4: planned, built, and visually checked by the agent itself.",
+      "license": "MIT",
+      "repository": "https://github.com/anymotion/anymotion",
+      "npmUrl": "https://www.npmjs.com/package/%40anymotion-agent%2Fanymotion",
+      "category": "cli",
+      "createdAt": "2026-08-08T14:15:00.127Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 83
+    },
+    {
       "name": "@apat183/pi-buddy",
       "version": "0.1.1",
       "description": "An animated π mascot for pi — a launch header, a live state widget beside your editor, and a custom spinner. Configurable placement and alignment.",
@@ -5066,6 +5078,18 @@
       "score": 66
     },
     {
+      "name": "@clammet/convex-googly-auth",
+      "version": "0.1.0",
+      "description": "Google OIDC + optional anonymous identity component for Convex apps.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/clammet/convex-googly-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40clammet%2Fconvex-googly-auth",
+      "category": "utilities",
+      "createdAt": "2026-08-08T14:15:12.683Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 59
+    },
+    {
       "name": "@clank.run/framework",
       "version": "0.7.0",
       "description": "AI-first, zero-dependency full-stack TypeScript framework with SSR, live data, auth, and deployment.",
@@ -7550,6 +7574,18 @@
       "score": 72
     },
     {
+      "name": "@docflow-local/core",
+      "version": "0.1.1",
+      "description": "Local-first DOCX document generation engine, CLI, HTTP API and plugin SDK",
+      "license": "MPL-2.0 AND AGPL-3.0-or-later",
+      "repository": "https://github.com/docflowlocal/docflow",
+      "npmUrl": "https://www.npmjs.com/package/%40docflow-local%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-07-29T14:14:49.186Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 64
+    },
+    {
       "name": "@docling/docling-client",
       "version": "0.2.0",
       "description": "TypeScript client for Docling Serve and Docling for IBM watsonx.",
@@ -8208,6 +8244,18 @@
       "createdAt": "2026-07-26T15:24:29.865Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 61
+    },
+    {
+      "name": "@einsia/agent-git",
+      "version": "0.8.0",
+      "description": "Version control for agent sessions — the agit CLI plus skills/hooks/MCP wiring for Claude Code, Codex, OpenCode and Cursor. The hub (AgentGitHub) deploys separately.",
+      "license": "MIT",
+      "repository": "https://github.com/Einsia/agent-git",
+      "npmUrl": "https://www.npmjs.com/package/%40einsia%2Fagent-git",
+      "category": "cli",
+      "createdAt": "2026-08-08T14:01:51.500Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 71
     },
     {
       "name": "@eksses/eafe",
@@ -10838,6 +10886,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/lmeow",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LMEOW (build etherscan-lmeow-1ae7e1d0-1786198201241, commit 0bf8a39, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/lmeow",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flmeow",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:10:26.613Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/lp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for LP (build etherscan-lp-524cab2e-1785002924678, commit fd4f9d6, branch etherscan)",
@@ -11579,6 +11639,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-01T17:35:36.339Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
+      "score": 57
+    },
+    {
+      "name": "@gitmyabi/syrupusdc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for syrupUSDC (build etherscan-syrupusdc-80ac24aa-1786198051257, commit 1cf225b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/syrupusdc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsyrupusdc",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:07:56.658Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 57
     },
     {
@@ -14066,6 +14138,18 @@
       "score": 75
     },
     {
+      "name": "@ismailza/ngx-auth-client",
+      "version": "0.1.1",
+      "description": "A reactive authentication layer for Angular applications. Exposes auth state as signals, protects routes with a functional guard, and keeps your feature code free of any identity-provider imports.",
+      "license": "MIT",
+      "repository": "https://github.com/ismailza/ngx-auth-client",
+      "npmUrl": "https://www.npmjs.com/package/%40ismailza%2Fngx-auth-client",
+      "category": "frontend",
+      "createdAt": "2026-08-08T13:44:44.496Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 89
+    },
+    {
       "name": "@ismsdirectory/mcp-server",
       "version": "1.2.0",
       "description": "MCP server for the ISMS Directory: multi-filter catalog search (exact tags, multi-framework AND) plus free-tier submit_listing. Prefer HTTPS GET /api/search for zero-install catalog lookup.",
@@ -15290,6 +15374,18 @@
       "score": 91
     },
     {
+      "name": "@krishnavm/react-native-offline-sync",
+      "version": "1.0.2",
+      "description": "An offline-first data synchronization library for React Native & Expo.",
+      "license": "MIT",
+      "repository": "https://github.com/krishnavmk/react-native-offline-sync",
+      "npmUrl": "https://www.npmjs.com/package/%40krishnavm%2Freact-native-offline-sync",
+      "category": "frontend",
+      "createdAt": "2026-08-08T12:12:43.270Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 58
+    },
+    {
       "name": "@krislintigo/luro",
       "version": "1.0.0",
       "description": "Tiny chainable fetch client — build a request by chaining, await it to send it.",
@@ -15324,6 +15420,18 @@
       "createdAt": "2026-07-29T04:18:36.735Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 69
+    },
+    {
+      "name": "@kubohiroya/turbowarp-bubble",
+      "version": "0.1.0",
+      "description": "Composable say and think bubbles with portrait layers and animated advance indicators for TurboWarp.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/kubohiroya/turbowarp-bubble",
+      "npmUrl": "https://www.npmjs.com/package/%40kubohiroya%2Fturbowarp-bubble",
+      "category": "utilities",
+      "createdAt": "2026-08-08T13:27:45.429Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 74
     },
     {
       "name": "@kubohiroya/turbowarp-tmpose",
@@ -20234,6 +20342,18 @@
       "score": 66
     },
     {
+      "name": "@oxyhq/crowdsource-app",
+      "version": "0.5.0",
+      "description": "The application half of a CrowdSource integration: a transactional outbox, delivery, a webhook receiver, decision application and idempotent enforcement, wired to your own subjects",
+      "license": "MIT",
+      "repository": "https://github.com/OxyHQ/CrowdSource",
+      "npmUrl": "https://www.npmjs.com/package/%40oxyhq%2Fcrowdsource-app",
+      "category": "backend",
+      "createdAt": "2026-08-05T21:37:34.173Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 80
+    },
+    {
       "name": "@oxyhq/crowdsource-contracts",
       "version": "0.1.0",
       "description": "Versioned CrowdSource contracts: case envelope, resources, taxonomy, policies, reviews, decisions, webhooks and reputation events",
@@ -22262,6 +22382,18 @@
       "score": 75
     },
     {
+      "name": "@regira/modules",
+      "version": "6.1.0",
+      "description": "Regira front-end library: TypeScript utility modules and Vue 3 components for building SPAs against a Regira.Entities API.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Regira/Regira-Modules",
+      "npmUrl": "https://www.npmjs.com/package/%40regira%2Fmodules",
+      "category": "frontend",
+      "createdAt": "2026-08-05T15:38:27.001Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 59
+    },
+    {
       "name": "@reintersect/svelte-check",
       "version": "4.7.4",
       "description": "Svelte Code Checker Terminal Interface",
@@ -22464,6 +22596,18 @@
       "createdAt": "2026-08-08T00:18:53.486Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 74
+    },
+    {
+      "name": "@renxqoo/rxstock",
+      "version": "1.0.0",
+      "description": "rxstock — A 股股票数据命令行工具(行情/K 线/财务/板块/资金流),基于 @renxqoo/agent-data-cli 框架,数据来源公开渠道,仅供学习研究",
+      "license": "MIT",
+      "repository": "https://github.com/renxqoo/rxcli",
+      "npmUrl": "https://www.npmjs.com/package/%40renxqoo%2Frxstock",
+      "category": "data",
+      "createdAt": "2026-08-08T14:07:13.012Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 83
     },
     {
       "name": "@repass/tracker",
@@ -30912,6 +31056,18 @@
       "createdAt": "2026-07-29T20:42:46.391Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 91
+    },
+    {
+      "name": "alacris",
+      "version": "0.1.0",
+      "description": "Fast web components with signals and fine-grained DOM updates. 5 kB, ESM-only, zero dependencies, no build step.",
+      "license": "MIT",
+      "repository": "https://github.com/bmartel/alacris",
+      "npmUrl": "https://www.npmjs.com/package/alacris",
+      "category": "frontend",
+      "createdAt": "2026-08-08T14:08:26.039Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 81
     },
     {
       "name": "alberta-buck-core",
@@ -40514,6 +40670,18 @@
       "score": 72
     },
     {
+      "name": "knight-ai-sdk",
+      "version": "0.2.0",
+      "description": "Lightweight TypeScript agent SDK — tool-using agents with run(), streaming, guardrails, and memory.",
+      "license": "MIT",
+      "repository": "https://github.com/SirSimon162/knight-agent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/knight-ai-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T14:06:41.799Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 79
+    },
+    {
       "name": "kontur-diadok-api-sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK для работы с API Контур.Диадок — сервисом электронного документооборота",
@@ -40560,6 +40728,18 @@
       "createdAt": "2026-07-26T16:33:01.387Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 100
+    },
+    {
+      "name": "kukuroo",
+      "version": "0.1.0",
+      "description": "Send Web Push notifications to your own devices from anything. Cloudflare Worker + KV, Declarative Web Push, no third-party service.",
+      "license": "MIT",
+      "repository": "https://github.com/saiday/kukuroo",
+      "npmUrl": "https://www.npmjs.com/package/kukuroo",
+      "category": "backend",
+      "createdAt": "2026-08-08T14:07:55.254Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 81
     },
     {
       "name": "kurviq",
@@ -42338,6 +42518,18 @@
       "score": 79
     },
     {
+      "name": "meshlab-ts",
+      "version": "2026.8.0",
+      "description": "An unofficial from-scratch TypeScript/Bun port of MeshLab: 269 of its 282 filters behind the same FilterPlugin/MeshDocument architecture, differentially tested against real PyMeshLab",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/yuyakinjo/meshlab-ts",
+      "npmUrl": "https://www.npmjs.com/package/meshlab-ts",
+      "category": "testing",
+      "createdAt": "2026-08-08T13:49:45.570Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 94
+    },
+    {
       "name": "meta-rayban",
       "version": "0.0.1",
       "description": "Plugin for interacting with Meta Rayban glasses",
@@ -44066,6 +44258,18 @@
       "score": 92
     },
     {
+      "name": "nikki.streams",
+      "version": "1.0.1",
+      "description": "Turn your Android phone into a programmable IoT device. Nikki Streams is a Node.js SDK that communicates with the Nikki Streams mobile app over WebSocket, providing access to sensors, notifications, haptics, lighting, audio controls, and real-time device",
+      "license": "MIT",
+      "repository": "https://github.com/nikki-build/nikki.streams.nodejs",
+      "npmUrl": "https://www.npmjs.com/package/nikki.streams",
+      "category": "backend",
+      "createdAt": "2026-08-08T13:33:06.137Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 81
+    },
+    {
       "name": "no2bounce-mcp",
       "version": "1.0.2",
       "description": "MCP Server for the No2Bounce Email Validation API — validate single emails, bulk lists, and CSV files via Claude Desktop, Cursor, Windsurf, VS Code, and any MCP-compatible AI client.",
@@ -44508,6 +44712,18 @@
       "createdAt": "2026-08-04T09:04:26.591Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 81
+    },
+    {
+      "name": "omnigateway",
+      "version": "0.1.1",
+      "description": "Self-hosted AI gateway with Anthropic- and OpenAI-compatible APIs, an admin console, and a CLI",
+      "license": "MIT",
+      "repository": "https://github.com/harismawan/omnigateway",
+      "npmUrl": "https://www.npmjs.com/package/omnigateway",
+      "category": "backend",
+      "createdAt": "2026-08-08T13:32:14.967Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 73
     },
     {
       "name": "omnisectester",
@@ -45372,6 +45588,18 @@
       "createdAt": "2026-07-29T21:25:35.141Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 53
+    },
+    {
+      "name": "ottoidentity-sdk",
+      "version": "0.1.2",
+      "description": "Official SDK for OttoIdentity — email, memory, projects and a browser for your AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/ottoidentity/ottoidentity-sdk",
+      "npmUrl": "https://www.npmjs.com/package/ottoidentity-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-07T02:09:43.428Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 63
     },
     {
       "name": "oui-spec",
@@ -46310,6 +46538,18 @@
       "score": 62
     },
     {
+      "name": "pi-inferx-provider",
+      "version": "0.1.0",
+      "description": "Pi coding-agent extension that registers InferX (https://model.inferx.net) as a model provider — live /v1/models discovery with a disk cache, a built-in public catalog fallback, and vLLM compatibility shims (system role, max_tokens, Qwen/DeepSeek/GLM thin",
+      "license": "MIT",
+      "repository": "https://github.com/nrynss/pi-inferx-provider",
+      "npmUrl": "https://www.npmjs.com/package/pi-inferx-provider",
+      "category": "backend",
+      "createdAt": "2026-08-08T13:55:52.313Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 88
+    },
+    {
       "name": "pi-inline-image-read",
       "version": "0.3.0",
       "description": "Auto-inline binary assets (images, audio) via a custom `read_asset` tool. Images attached directly to vision-capable models; audio transcribed to text via a configured external model. Drop-in upgrade over the built-in `read` tool for binary files.",
@@ -46440,6 +46680,18 @@
       "createdAt": "2026-07-30T07:01:00.300Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 63
+    },
+    {
+      "name": "pi-peer",
+      "version": "1.2.0",
+      "description": "Standalone peer-to-peer Pi communication over the HerdR workspace - talk_to, talk_sessions, and talk_latest tools with a resilient local mailbox.",
+      "license": "MIT",
+      "repository": "https://github.com/MinhDuyDEV/pi-peer",
+      "npmUrl": "https://www.npmjs.com/package/pi-peer",
+      "category": "testing",
+      "createdAt": "2026-08-08T13:36:34.323Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 82
     },
     {
       "name": "pi-permission-ai-guard",
@@ -48842,6 +49094,18 @@
       "score": 99
     },
     {
+      "name": "relaybridge",
+      "version": "0.1.0",
+      "description": "Switch AI coding agents without losing context. One project. Any agent. Same context.",
+      "license": "MIT",
+      "repository": "https://github.com/pavlealeksic/relay",
+      "npmUrl": "https://www.npmjs.com/package/relaybridge",
+      "category": "utilities",
+      "createdAt": "2026-08-08T13:59:07.219Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 68
+    },
+    {
       "name": "relintio",
       "version": "1.0.1",
       "description": "Install and verify Relintio application protection in any project. Detects your runtime, installs the right agent SDK, wires the middleware, and confirms the license is live.",
@@ -49428,6 +49692,18 @@
       "createdAt": "2026-08-01T14:47:32.209Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 82
+    },
+    {
+      "name": "rtk-thunkease",
+      "version": "0.2.0",
+      "description": "Redux Toolkit createSlice wrapper that generates loading/error/data state and the full pending/rejected/fulfilled triad for every async thunk you hand it.",
+      "license": "MIT",
+      "repository": "https://github.com/srcgrp/rtk-thunkease",
+      "npmUrl": "https://www.npmjs.com/package/rtk-thunkease",
+      "category": "frontend",
+      "createdAt": "2026-08-08T13:43:02.176Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 71
     },
     {
       "name": "rtl-for-claude",
@@ -52034,6 +52310,18 @@
       "score": 62
     },
     {
+      "name": "tereno-hyper-cli",
+      "version": "0.1.1",
+      "description": "Execution-cost guard for Hyperliquid bots: measure spread, displayed-book impact and fees before an order is sent.",
+      "license": "MIT",
+      "repository": "https://github.com/tereno-xyz/hyper-cli",
+      "npmUrl": "https://www.npmjs.com/package/tereno-hyper-cli",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T13:52:45.152Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
+      "score": 67
+    },
+    {
       "name": "terms-acceptance",
       "version": "0.1.0",
       "description": "Versioned, provable terms-of-service acceptance records. Storage-agnostic core plus adapters for TypeORM/NestJS, Better Auth, Clerk and Firebase Auth, and an optional React checkbox and re-accept modal.",
@@ -52511,6 +52799,18 @@
       "category": "utilities",
       "createdAt": "2026-07-25T16:55:43.616Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
+      "score": 90
+    },
+    {
+      "name": "tokencops",
+      "version": "2.0.0",
+      "description": "TokenCops — local-first token cost police for AI coding agents: context audit, honest savings accounting, output compression, handoff/resume fidelity, model routing, and cache economics. Zero runtime dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dynoloop/tokencops",
+      "npmUrl": "https://www.npmjs.com/package/tokencops",
+      "category": "devops",
+      "createdAt": "2026-08-08T13:59:03.051Z",
+      "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 90
     },
     {
