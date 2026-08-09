@@ -1,39 +1,47 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124053567,
-  "lastRunAt": "2026-08-09T12:33:09.910Z",
+  "lastSequence": 124058184,
+  "lastRunAt": "2026-08-09T13:32:47.876Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@apicrafthq/cli-darwin-arm64",
+      "name": "@astratra/prerender",
       "attempts": 1
     },
     {
-      "name": "@apicrafthq/cli-darwin-x64",
+      "name": "@mantaq/utils",
       "attempts": 1
     },
     {
-      "name": "@apicrafthq/cli-linux-x64",
+      "name": "@mantaq/pbt",
       "attempts": 1
     },
     {
-      "name": "@apicrafthq/cli-linux-arm64",
+      "name": "@mantaq/core",
       "attempts": 1
     },
     {
-      "name": "@apicrafthq/cli",
+      "name": "@mantaq/sugar",
       "attempts": 1
     },
     {
-      "name": "@effectnode/b3-runtime",
+      "name": "@mantaq/traversal",
       "attempts": 1
     },
     {
-      "name": "@ninots/mail",
+      "name": "@mantaq/test",
       "attempts": 1
     },
     {
-      "name": "@groundbrick/h2b2-sveltekit",
+      "name": "@brainycalc/mcphealthcalculator",
+      "attempts": 1
+    },
+    {
+      "name": "@code-plate/next-image-serve",
+      "attempts": 1
+    },
+    {
+      "name": "@violet112/agent-memory",
       "attempts": 1
     }
   ]
