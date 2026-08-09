@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124027102,
-  "lastRunAt": "2026-08-09T04:56:39.437Z",
+  "lastSequence": 124028985,
+  "lastRunAt": "2026-08-09T05:43:45.675Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@dleangen/cage-governance",
+      "name": "@mstuart/peek",
       "attempts": 1
     },
     {
-      "name": "@denpex/sdk",
+      "name": "@shadowing/sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@shadowing/react",
+      "attempts": 1
+    },
+    {
+      "name": "@xpert-ai/plugin-baidu-ocr",
       "attempts": 1
     }
   ]
