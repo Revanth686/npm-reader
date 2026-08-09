@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124045218,
-  "lastRunAt": "2026-08-09T10:24:31.633Z",
+  "lastSequence": 124047134,
+  "lastRunAt": "2026-08-09T10:59:20.876Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@deviabirami/country-state-district",
+      "name": "@ablehi/runner-plugin-contract",
       "attempts": 1
     },
     {
-      "name": "@tyanyin/pi-loop-guard",
+      "name": "@gaurav_07/project-medium-blog",
       "attempts": 1
     },
     {
-      "name": "@beprajwal/visual-diff",
+      "name": "@ablehi/runner",
+      "attempts": 1
+    },
+    {
+      "name": "@ablehi/runner-plugin-claude-code",
+      "attempts": 1
+    },
+    {
+      "name": "@ablehi/runner-plugin-codex",
       "attempts": 1
     }
   ]

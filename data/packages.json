@@ -3950,6 +3950,18 @@
       "score": 62
     },
     {
+      "name": "@beprajwal/visual-diff",
+      "version": "0.1.0",
+      "description": "Replay an agent-authored UI workflow across revisions, diff the results visually and semantically, and review them in a live local report.",
+      "license": "MIT",
+      "repository": "https://github.com/beprajwal/visual-diff",
+      "npmUrl": "https://www.npmjs.com/package/%40beprajwal%2Fvisual-diff",
+      "category": "testing",
+      "createdAt": "2026-08-09T10:23:21.311Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 60
+    },
+    {
       "name": "@beremaran/opencode-agent-tree",
       "version": "0.1.0",
       "description": "Force opencode to act as an orchestrator: every task is decomposed and delegated to subagents, with user-configurable models per agent.",
@@ -10574,6 +10586,18 @@
       "score": 96
     },
     {
+      "name": "@genietheai/genie-cli",
+      "version": "0.1.0",
+      "description": "First-party command-line client for Personal Genie",
+      "license": "MIT",
+      "repository": "https://github.com/GenieTheAI/genui2-backend",
+      "npmUrl": "https://www.npmjs.com/package/%40genietheai%2Fgenie-cli",
+      "category": "cli",
+      "createdAt": "2026-08-09T10:30:11.880Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 65
+    },
+    {
       "name": "@geoapify/iana-timezone-metadata",
       "version": "1.0.0",
       "description": "Compact IANA timezone metadata, aliases, UTC offsets, DST states, transitions, and country lookups.",
@@ -10584,6 +10608,18 @@
       "createdAt": "2026-08-04T08:05:10.239Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 89
+    },
+    {
+      "name": "@geomelon/spain",
+      "version": "1.0.0",
+      "description": "Geomelon city/region/country data for Spain — 19423 cities, multilingual names, sourced from Wikidata.",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/930m310n/geomelon-data-spain",
+      "npmUrl": "https://www.npmjs.com/package/%40geomelon%2Fspain",
+      "category": "data",
+      "createdAt": "2026-08-09T10:42:52.651Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 49
     },
     {
       "name": "@george43g/cli-kit",
@@ -17318,6 +17354,18 @@
       "score": 77
     },
     {
+      "name": "@knurdz/lava-form-builder",
+      "version": "0.1.1",
+      "description": "Google Forms-like React form builder, renderer, submissions admin, and analytics with a database-agnostic store adapter",
+      "license": "MIT",
+      "repository": "https://github.com/knurdz/lava-form-builder",
+      "npmUrl": "https://www.npmjs.com/package/%40knurdz%2Flava-form-builder",
+      "category": "frontend",
+      "createdAt": "2026-08-09T10:28:19.865Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 43
+    },
+    {
       "name": "@kontourai/ephemeris",
       "version": "0.4.0",
       "description": "Kontour's external time actor: a deadline engine (data-derived freshness wake-ups that nudge Flow) plus a pure recurring-schedule core (cron/at/every, timezone/DST-aware, catch-up). It triggers; it never authors.",
@@ -18780,6 +18828,18 @@
       "createdAt": "2026-07-25T22:58:47.141Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 55
+    },
+    {
+      "name": "@marianmeres/chessboard",
+      "version": "0.3.0",
+      "description": "[![NPM](https://img.shields.io/npm/v/@marianmeres/chessboard)](https://www.npmjs.com/package/@marianmeres/chessboard) [![JSR](https://jsr.io/badges/@marianmeres/chessboard)](https://jsr.io/@marianmeres/chessboard)",
+      "license": "MIT",
+      "repository": "https://github.com/marianmeres/chessboard",
+      "npmUrl": "https://www.npmjs.com/package/%40marianmeres%2Fchessboard",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:42:56.644Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 43
     },
     {
       "name": "@mariczne/pi-power-user",
@@ -21240,6 +21300,18 @@
       "createdAt": "2026-08-08T15:50:56.120Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 71
+    },
+    {
+      "name": "@nature-labs/lme-mcp",
+      "version": "0.1.0",
+      "description": "Living Memory MCP — a persistent memory store for coding agents, over stdio. Facts survive across sessions and processes; retrieval is semantic (MMR), not string matching. Pre-alpha.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/v1b3x0r/living-memory-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40nature-labs%2Flme-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:30:51.260Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 86
     },
     {
       "name": "@navaneeth.prabha/familiar",
@@ -31046,6 +31118,30 @@
       "score": 61
     },
     {
+      "name": "@undertone/core",
+      "version": "0.1.0",
+      "description": "Declarative web audio for pages that tell stories: your page produces numbers and events; undertone turns them into a mix.",
+      "license": "MIT",
+      "repository": "https://github.com/maxmillionbeatz/undertone",
+      "npmUrl": "https://www.npmjs.com/package/%40undertone%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:30:45.593Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 78
+    },
+    {
+      "name": "@undertone/svelte",
+      "version": "0.1.0",
+      "description": "Svelte 5 bindings for undertone: a soundscape rune, reactive mute/params, and use:sfx / use:soundLayer actions.",
+      "license": "MIT",
+      "repository": "https://github.com/maxmillionbeatz/undertone",
+      "npmUrl": "https://www.npmjs.com/package/%40undertone%2Fsvelte",
+      "category": "frontend",
+      "createdAt": "2026-08-09T10:31:07.342Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 44
+    },
+    {
       "name": "@undolog/sdk",
       "version": "0.2.0",
       "description": "TypeScript SDK for the UndoLog effect-tracking and exactly-once execution system",
@@ -32066,6 +32162,18 @@
       "score": 68
     },
     {
+      "name": "@violet112/sdk",
+      "version": "0.1.1",
+      "description": "Persistent memory system for AI agents with episodic, personality, and working memories",
+      "license": "MIT",
+      "repository": "https://github.com/sourceag/agent-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40violet112%2Fsdk",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:37:02.208Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 50
+    },
+    {
       "name": "@vipentti/planlet",
       "version": "0.1.0",
       "description": "Repository-local planning and task management for AI coding agents: focused Markdown planlets plus a deterministic CLI and portable agent skills. Small plans. Clear handoffs.",
@@ -32498,6 +32606,18 @@
       "score": 73
     },
     {
+      "name": "@webfrank/node-red-contrib-matter2mqtt",
+      "version": "0.1.1",
+      "description": "Node-RED nodes for the matter2mqtt bridge: discover Matter devices by NodeLabel and receive MeasuredValue readings converted to engineering units.",
+      "license": "MIT",
+      "repository": "https://github.com/webfrank/matter2mqtt",
+      "npmUrl": "https://www.npmjs.com/package/%40webfrank%2Fnode-red-contrib-matter2mqtt",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:28:05.399Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 64
+    },
+    {
       "name": "@webmobix/form-components",
       "version": "0.1.1",
       "description": "Form field, canvas, and palette web components (Stencil) — plain HTML / Preact via dist-custom-elements; typed React wrappers ship in @webmobix/form-components-react",
@@ -32544,6 +32664,18 @@
       "createdAt": "2026-08-08T10:57:14.082Z",
       "discoveredAt": "2026-08-08T11:22:53.750Z",
       "score": 58
+    },
+    {
+      "name": "@weotro/dx",
+      "version": "0.1.0",
+      "description": "一个可安装的 Node.js CLI，用于管理符合约定的 pnpm + nx monorepo 项目的构建/启动/数据库/部署等流程。",
+      "license": "MIT",
+      "repository": "https://github.com/rangershi/dx",
+      "npmUrl": "https://www.npmjs.com/package/%40weotro%2Fdx",
+      "category": "cli",
+      "createdAt": "2026-08-09T10:35:24.585Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 56
     },
     {
       "name": "@whd4/foreman",
@@ -33696,6 +33828,18 @@
       "createdAt": "2026-08-07T13:16:51.626Z",
       "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 90
+    },
+    {
+      "name": "@zklogic/lazystream",
+      "version": "1.0.3",
+      "description": "Open Node Streams on demand.",
+      "license": "MIT",
+      "repository": "https://github.com/ArfanKhalilMughal/node-lazystream",
+      "npmUrl": "https://www.npmjs.com/package/%40zklogic%2Flazystream",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:31:26.415Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 48
     },
     {
       "name": "@zobi.dev/embedded-sdk",
@@ -35280,6 +35424,18 @@
       "createdAt": "2026-08-08T08:17:41.795Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 64
+    },
+    {
+      "name": "any-dl",
+      "version": "2.0.0",
+      "description": "Download videos to MP4 in full quality (up to 1080p60) from the command line. Currently supports Kick.com VODs and clips, including its new UUIDv7 links. Fast, with no required dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/SwierczKacper/any-dl",
+      "npmUrl": "https://www.npmjs.com/package/any-dl",
+      "category": "cli",
+      "createdAt": "2026-08-09T10:57:49.593Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 99
     },
     {
       "name": "any-llm-ts",
@@ -39252,6 +39408,18 @@
       "createdAt": "2026-07-30T00:07:31.284Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 82
+    },
+    {
+      "name": "create-tanqory-app",
+      "version": "0.2.2",
+      "description": "Scaffold a Tanqory marketplace app: an embedded page, a verified webhook handler, and a manifest, ready to submit.",
+      "license": "MIT",
+      "repository": "https://github.com/tanqory/tanqory-platform-packages",
+      "npmUrl": "https://www.npmjs.com/package/create-tanqory-app",
+      "category": "utilities",
+      "createdAt": "2026-08-08T12:27:25.938Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 42
     },
     {
       "name": "create-uks-packet",
@@ -46994,6 +47162,78 @@
       "score": 54
     },
     {
+      "name": "mcp-google-business",
+      "version": "0.1.0",
+      "description": "MCP server for Google Business Profile — locations, reviews, local posts and performance metrics for AI agents (Claude, Cursor, Codex and others).",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-business",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-business",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:36:38.314Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 84
+    },
+    {
+      "name": "mcp-google-crux",
+      "version": "0.1.0",
+      "description": "MCP server for the Chrome UX Report (CrUX) API — real-user Core Web Vitals (LCP, INP, CLS, TTFB) and 40-week history for any origin or URL. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-crux",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-crux",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:36:12.592Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 76
+    },
+    {
+      "name": "mcp-google-forms",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Forms API — create forms, manage questions, publish, read responses and watch for new submissions. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-forms",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-forms",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:36:30.009Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 83
+    },
+    {
+      "name": "mcp-google-merchants",
+      "version": "0.1.0",
+      "description": "MCP server for Google Merchant Center (Merchant API v1) — products, data sources, promotions, MCQL reports, price competitiveness and product issues for AI agents. OAuth with write support.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-merchants",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-merchants",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:36:46.189Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 88
+    },
+    {
+      "name": "mcp-google-search-console",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Search Console API — search analytics, sitemaps, URL inspection and site management. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-search-console",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-search-console",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:36:53.972Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 85
+    },
+    {
+      "name": "mcp-google-tagmanager",
+      "version": "0.1.1",
+      "description": "MCP server for the Google Tag Manager API v2 — accounts, containers, workspaces, tags, triggers, variables, versions and publishing. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-tagmanager",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-tagmanager",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:36:21.828Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 86
+    },
+    {
       "name": "mcp-libraryofcongress",
       "version": "1.0.0",
       "description": "MCP server for the Library of Congress. Search inside digitised newspaper pages, browse the catalogue by format, and read records and collections. No API key required.",
@@ -51302,6 +51542,18 @@
       "score": 72
     },
     {
+      "name": "pbx-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for Asterisk and FreeSWITCH. Lets AI assistants inspect channels, SIP registrations, trunk status and dialplan on a live PBX.",
+      "license": "MIT",
+      "repository": "https://github.com/ictinnovations/pbx-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pbx-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:55:14.687Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 77
+    },
+    {
       "name": "pcg-ts",
       "version": "0.6.1",
       "description": "Deterministic procedural content generation for TypeScript: domain attributes, node graphs, deferred fields, hierarchical streaming. Optional three.js interop.",
@@ -53244,6 +53496,18 @@
       "createdAt": "2026-08-09T01:57:44.223Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 64
+    },
+    {
+      "name": "proofbook-sentinel",
+      "version": "0.1.0",
+      "description": "A coverage meter for LLM API calls. Counts every outbound request to a model provider and reports how many your tracing actually captured.",
+      "license": "MIT",
+      "repository": "https://github.com/proofbook-dev/proofbook-sentinel",
+      "npmUrl": "https://www.npmjs.com/package/proofbook-sentinel",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:25:33.524Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 78
     },
     {
       "name": "proofreel",
@@ -56820,6 +57084,18 @@
       "createdAt": "2026-08-08T12:54:11.600Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 77
+    },
+    {
+      "name": "sl-gnd-dsd-districts",
+      "version": "1.0.0",
+      "description": "Complete Sri Lanka administrative divisions data — Districts (25), Divisional Secretariat Divisions (DSDs ~332), and Grama Niladhari Divisions (GNDs ~14,000+) with search and lookup utilities. Trilingual support (English, Sinhala, Tamil).",
+      "license": "MIT",
+      "repository": "https://github.com/hashan-lakshitha/sl-gnd-dsd-districts",
+      "npmUrl": "https://www.npmjs.com/package/sl-gnd-dsd-districts",
+      "category": "data",
+      "createdAt": "2026-08-09T10:34:18.248Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 76
     },
     {
       "name": "slack-to-buzz-bridge",
@@ -60950,6 +61226,18 @@
       "score": 86
     },
     {
+      "name": "wgslender",
+      "version": "1.2.0",
+      "description": "WGSL minifier for WebGPU shaders - WebAssembly build",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/HugoDaniel/wgslender",
+      "npmUrl": "https://www.npmjs.com/package/wgslender",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T10:30:38.103Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 81
+    },
+    {
       "name": "wharf-tui",
       "version": "0.1.9",
       "description": "Keyboard-driven terminal SSH client with a local-first encrypted vault",
@@ -61008,6 +61296,18 @@
       "createdAt": "2026-08-01T15:04:31.875Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 51
+    },
+    {
+      "name": "whatsapp-call-bridge",
+      "version": "0.1.0",
+      "description": "Place outbound WhatsApp voice calls from a personal account and bridge the live audio to any voice source — ElevenLabs agents, macOS TTS, STT providers, mic, files, or any real-time stream.",
+      "license": "MIT",
+      "repository": "https://github.com/kdhaka94/whatsapp-call-bridge",
+      "npmUrl": "https://www.npmjs.com/package/whatsapp-call-bridge",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:47:29.845Z",
+      "discoveredAt": "2026-08-09T10:59:20.876Z",
+      "score": 88
     },
     {
       "name": "whatsapp-mcp-ts",
