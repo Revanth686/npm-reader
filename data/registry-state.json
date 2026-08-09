@@ -1,11 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124007812,
-  "lastRunAt": "2026-08-08T23:13:31.743Z",
+  "lastSequence": 124014210,
+  "lastRunAt": "2026-08-09T01:04:40.589Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@houyuxi/skills",
+      "name": "@fabr-client/core-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@piqae/mcp-server",
+      "attempts": 1
+    },
+    {
+      "name": "@onderwijsin/nuxt-cache",
+      "attempts": 1
+    },
+    {
+      "name": "@onderwijsin/nuxt-storage-admin",
       "attempts": 1
     }
   ]

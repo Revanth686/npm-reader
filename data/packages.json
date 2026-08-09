@@ -4910,6 +4910,18 @@
       "score": 61
     },
     {
+      "name": "@ccatto/react-account",
+      "version": "1.0.0",
+      "description": "Catto Account - reusable account-settings UI (identity, phone/SMS remove, delete account, blocked users). Dual-auth aware, transport-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/ccatto/catto-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40ccatto%2Freact-account",
+      "category": "frontend",
+      "createdAt": "2026-08-09T00:48:06.808Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 66
+    },
+    {
       "name": "@ccatto/react-analytics",
       "version": "1.1.0",
       "description": "Catto Analytics - drop-in Google Analytics 4 for Next.js + Capacitor: <GoogleAnalyticsCatto/>, trackEvent(), and Capacitor platform dimensions",
@@ -5340,6 +5352,18 @@
       "createdAt": "2026-07-30T04:46:12.934Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 68
+    },
+    {
+      "name": "@citizen-protocol/mcp-server",
+      "version": "0.1.2",
+      "description": "MCP server for the Citizen Protocol blockchain — helps developers build dApps",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/greenarmor/citizen",
+      "npmUrl": "https://www.npmjs.com/package/%40citizen-protocol%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-09T00:16:48.127Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 57
     },
     {
       "name": "@cixzhang/brownie",
@@ -8414,6 +8438,18 @@
       "score": 62
     },
     {
+      "name": "@earthlink/dotvault",
+      "version": "0.13.0",
+      "description": "dotvault — sync .env / .npmrc / .gitconfig and any config file across machines and CI/CD. No AWS account required.",
+      "license": "MIT",
+      "repository": "https://github.com/EarthLinkNetwork/dotvault",
+      "npmUrl": "https://www.npmjs.com/package/%40earthlink%2Fdotvault",
+      "category": "devops",
+      "createdAt": "2026-08-08T23:50:05.597Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 76
+    },
+    {
       "name": "@easbot/agent-skills",
       "version": "0.3.14",
       "description": "EASBot Agent Skills — the EASBot agent-skills management repository.",
@@ -10814,6 +10850,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/befi",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BEFI (build etherscan-befi-8b9b9529-1786237095638, commit 45c7a87, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/befi",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbefi",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T00:58:37.242Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/biggie",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BIGGIE (build etherscan-biggie-95ae2526-1785596694270, commit 990ea46, branch etherscan)",
@@ -10884,6 +10932,18 @@
       "createdAt": "2026-08-08T21:00:15.642Z",
       "discoveredAt": "2026-08-08T21:15:33.790Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/btcbr",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BTCBR (build etherscan-btcbr-e57425f1-1786232528496, commit d1fe328, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/btcbr",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbtcbr",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T23:42:30.115Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/btr",
@@ -11328,6 +11388,18 @@
       "createdAt": "2026-07-30T21:30:36.509Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/eusd",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for eUSD (build etherscan-eusd-14913815-1786235334918, commit e0cef28, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/eusd",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Feusd",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T00:29:17.873Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/fey",
@@ -14366,6 +14438,18 @@
       "score": 80
     },
     {
+      "name": "@huklaa/crypto-utils",
+      "version": "1.0.1",
+      "description": "Dependency-free JavaScript toolkit for crypto analytics, portfolio, trading, staking, and Base ecosystem applications.",
+      "license": "MIT",
+      "repository": "https://github.com/huklaa/crypto-test",
+      "npmUrl": "https://www.npmjs.com/package/%40huklaa%2Fcrypto-utils",
+      "category": "utilities",
+      "createdAt": "2026-08-09T00:01:24.941Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 81
+    },
+    {
       "name": "@hurraey/daw-engine-core",
       "version": "1.0.0",
       "description": "Headless DAW engine — domain models, command system, audio engine, automation, plugins, MIDI",
@@ -15516,6 +15600,18 @@
       "createdAt": "2026-08-02T00:46:11.053Z",
       "discoveredAt": "2026-08-02T01:59:35.775Z",
       "score": 80
+    },
+    {
+      "name": "@jamid/understory-web-components",
+      "version": "0.2.0",
+      "description": "Native Web Components UI library (Custom Elements + Shadow DOM)",
+      "license": "MIT",
+      "repository": "https://github.com/jamidwyer/understory-web-components",
+      "npmUrl": "https://www.npmjs.com/package/%40jamid%2Funderstory-web-components",
+      "category": "frontend",
+      "createdAt": "2026-08-08T23:15:51.183Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 60
     },
     {
       "name": "@janfr/mcp-abap-adt",
@@ -20786,6 +20882,18 @@
       "score": 79
     },
     {
+      "name": "@noobdigital/react-native-dynamic-island",
+      "version": "1.0.0",
+      "description": "Live-updating activity cards for React Native — Live Activities / Dynamic Island on iOS 16.2+, an ongoing lock-screen notification on Android. One JS API, branded UI, deep linking, and Old/New Architecture support via classic NativeModules.",
+      "license": "MIT",
+      "repository": "https://github.com/NoobDigital/react-native-dynamic-island",
+      "npmUrl": "https://www.npmjs.com/package/%40noobdigital%2Freact-native-dynamic-island",
+      "category": "frontend",
+      "createdAt": "2026-08-08T23:57:19.195Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 100
+    },
+    {
       "name": "@noorm/lumi",
       "version": "0.83.2",
       "description": "Coding agent CLI with read, bash, edit, write tools and session management",
@@ -20855,6 +20963,18 @@
       "category": "utilities",
       "createdAt": "2026-08-03T21:31:06.130Z",
       "discoveredAt": "2026-08-03T22:05:36.466Z",
+      "score": 72
+    },
+    {
+      "name": "@note1ai/mcp",
+      "version": "1.0.1",
+      "description": "note1 MCP server connector — query your meeting notes, transcripts, and action items from Claude, ChatGPT, Cursor, or any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/note1-ai/note1-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40note1ai%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T23:40:37.189Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 72
     },
     {
@@ -30674,6 +30794,18 @@
       "score": 71
     },
     {
+      "name": "@vouchscore/middleware",
+      "version": "0.1.0",
+      "description": "Drop-in x402 transaction gate: score a payment counterparty and ALLOW/WARN/BLOCK before it settles. Express, Next.js, and Hono adapters. Fail-closed by default.",
+      "license": "MIT",
+      "repository": "https://github.com/kzmttkc/agent-trust",
+      "npmUrl": "https://www.npmjs.com/package/%40vouchscore%2Fmiddleware",
+      "category": "backend",
+      "createdAt": "2026-08-08T23:19:58.070Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 61
+    },
+    {
       "name": "@vruum/mcp",
       "version": "0.2.3",
       "description": "Stdio MCP bridge for the hosted Vruum revenue-platform MCP (https://api.vruum.ai/mcp): serves the advertised tool surface for credential-free introspection and proxies tool calls with your Vruum token.",
@@ -31862,6 +31994,18 @@
       "score": 80
     },
     {
+      "name": "@zaatar-tech/voltix",
+      "version": "1.0.1",
+      "description": "Fastest React state library. Per-key subscriptions, 4 KB, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/zaatar-tech/voltix",
+      "npmUrl": "https://www.npmjs.com/package/%40zaatar-tech%2Fvoltix",
+      "category": "testing",
+      "createdAt": "2026-08-09T00:37:20.473Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 78
+    },
+    {
       "name": "@zady/logger",
       "version": "1.0.0",
       "description": "um logger simples e poderoso para Node.js, com saídas formatadas no console, tratamento de erros e utilitários focados no desenvolvedor.",
@@ -31896,6 +32040,30 @@
       "createdAt": "2026-08-07T08:55:35.259Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 84
+    },
+    {
+      "name": "@zakkster/lite-cellular",
+      "version": "1.0.0",
+      "description": "Zero-GC Worley/cellular noise for 2D. F1/F2 feature-point distances written into a caller-owned out-struct, three metrics fixed at instance creation, zero-alloc field bakes and an exact tileable wrap. Sibling of @zakkster/lite-noise.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-cellular",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-cellular",
+      "category": "utilities",
+      "createdAt": "2026-08-09T00:17:52.514Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-container",
+      "version": "2.0.0",
+      "description": "A lightweight, zero-magic Dependency Injection container for modern JavaScript and TypeScript with boot-time graph validation.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-container",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-container",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T00:09:13.524Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 86
     },
     {
       "name": "@zakkster/lite-overlap",
@@ -33084,6 +33252,18 @@
       "createdAt": "2026-08-02T23:55:00.115Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 72
+    },
+    {
+      "name": "agenttx",
+      "version": "0.1.0",
+      "description": "Git-style transactions for AI coding agents. Inspect, commit, or roll back agent changes.",
+      "license": "MIT",
+      "repository": "https://github.com/aliengineering-byte/agenttx",
+      "npmUrl": "https://www.npmjs.com/package/agenttx",
+      "category": "utilities",
+      "createdAt": "2026-08-09T00:26:40.199Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 62
     },
     {
       "name": "agi-fireworks",
@@ -34502,6 +34682,18 @@
       "score": 80
     },
     {
+      "name": "beamdb",
+      "version": "0.9.2",
+      "description": "BEAM — distributed graph database syncing over WebSocket, WebRTC, and multicast. Successor to rod.",
+      "license": "MIT",
+      "repository": "https://github.com/guan-tends/beam",
+      "npmUrl": "https://www.npmjs.com/package/beamdb",
+      "category": "data",
+      "createdAt": "2026-08-08T23:57:48.146Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 69
+    },
+    {
       "name": "bedrock-ui-stream",
       "version": "0.1.1",
       "description": "Translate an Amazon Bedrock Agent InvokeAgent response stream into an AI SDK UI message stream, for use with useChat.",
@@ -34632,6 +34824,18 @@
       "createdAt": "2026-08-01T15:36:14.611Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 82
+    },
+    {
+      "name": "bini-ssg",
+      "version": "1.0.0",
+      "description": "True SSG for Bini.js with zero code changes — pre-renders all routes to static HTML during vite build",
+      "license": "MIT",
+      "repository": "https://github.com/Binidu01/bini-ssg",
+      "npmUrl": "https://www.npmjs.com/package/bini-ssg",
+      "category": "frontend",
+      "createdAt": "2026-08-09T00:53:11.325Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 90
     },
     {
       "name": "biome-plugin-react-use-propswithchildren",
@@ -38870,6 +39074,18 @@
       "score": 83
     },
     {
+      "name": "editor-shell",
+      "version": "0.2.0",
+      "description": "Shared editor-chrome primitives for the EFFICIENT editors. First brick: EditorRail — one shared left icon-rail, consumable as a Next-16-safe leaf.",
+      "license": "MIT",
+      "repository": "https://github.com/Lewislhy/editor-shell",
+      "npmUrl": "https://www.npmjs.com/package/editor-shell",
+      "category": "frontend",
+      "createdAt": "2026-08-05T03:16:07.474Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 57
+    },
+    {
       "name": "effect-evm-v4",
       "version": "0.1.0",
       "description": "Effect v4 integration for Ethereum Virtual Machine (EVM) frontend development",
@@ -43010,6 +43226,18 @@
       "score": 98
     },
     {
+      "name": "jax-ai-js",
+      "version": "0.1.0",
+      "description": "Browser-side inference for JAX image-analysis models on WebGPU — retinal-layer segmentation and stain adaptation, ported from their Temporal workers.",
+      "license": "MIT",
+      "repository": "https://github.com/belkassaby/jax-ai-js",
+      "npmUrl": "https://www.npmjs.com/package/jax-ai-js",
+      "category": "frontend",
+      "createdAt": "2026-08-09T00:41:05.001Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 68
+    },
+    {
       "name": "jca-range",
       "version": "0.1.0",
       "description": "An accessible, customizable React date range field with typed input and calendar selection.",
@@ -45432,6 +45660,18 @@
       "createdAt": "2026-07-26T12:12:46.314Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 78
+    },
+    {
+      "name": "mern-forge-aks",
+      "version": "0.1.0",
+      "description": "A CLI for scaffolding MERN projects from a reusable starter template.",
+      "license": "MIT",
+      "repository": "https://github.com/akshay-9155/mern-forge-aks",
+      "npmUrl": "https://www.npmjs.com/package/mern-forge-aks",
+      "category": "cli",
+      "createdAt": "2026-08-08T23:40:20.568Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 59
     },
     {
       "name": "merv-client-cucumber",
@@ -49152,6 +49392,18 @@
       "createdAt": "2026-08-07T09:13:17.669Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 60
+    },
+    {
+      "name": "persianist",
+      "version": "0.1.0",
+      "description": "Zero-dependency TypeScript toolkit for Persian/Farsi text, Jalali (Shamsi) and Hijri dates, relative time and Iranian holidays, Iranian validators, Persian numbers and currency, and Iranian geography.",
+      "license": "MIT",
+      "repository": "https://github.com/samyarmodabber/persianist",
+      "npmUrl": "https://www.npmjs.com/package/persianist",
+      "category": "data",
+      "createdAt": "2026-08-09T00:06:17.919Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 90
     },
     {
       "name": "pg-hybrid-rrf",
@@ -53150,6 +53402,30 @@
       "score": 79
     },
     {
+      "name": "safenode-mcp-gateway",
+      "version": "0.1.0",
+      "description": "MCP proxy that enforces SafeNode policy on every tool call. The agent cannot route around it.",
+      "license": "MIT",
+      "repository": "https://github.com/sp3ak/safenode-mcp-gateway",
+      "npmUrl": "https://www.npmjs.com/package/safenode-mcp-gateway",
+      "category": "utilities",
+      "createdAt": "2026-08-09T00:46:27.697Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 77
+    },
+    {
+      "name": "safenode-sdk",
+      "version": "0.1.0",
+      "description": "Policy firewall for AI agent actions. Evaluate what your agent is about to do, before it does it.",
+      "license": "MIT",
+      "repository": "https://github.com/sp3ak/safenode-js",
+      "npmUrl": "https://www.npmjs.com/package/safenode-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-09T00:46:19.213Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 75
+    },
+    {
       "name": "saffron-mobile-enhancer",
       "version": "1.0.0",
       "description": "Drop-in mobile experience upgrade Drop-in mobile experience upgrade. One script tag makes any website mobile-amazing. Bottom nav, sheets, touch feedback, PWA — all automatic.",
@@ -53568,6 +53844,18 @@
       "createdAt": "2026-08-08T10:56:43.203Z",
       "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 68
+    },
+    {
+      "name": "sensemaking",
+      "version": "0.1.0",
+      "description": "Query a knowledge base you build with an agent: filter notes by frontmatter, then search inside them",
+      "license": "MIT",
+      "repository": "https://github.com/kmalakoff/sensemaking",
+      "npmUrl": "https://www.npmjs.com/package/sensemaking",
+      "category": "data",
+      "createdAt": "2026-08-08T23:42:25.934Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 59
     },
     {
       "name": "sentinelauth",
@@ -58440,6 +58728,18 @@
       "createdAt": "2026-07-27T21:13:59.277Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 76
+    },
+    {
+      "name": "windgram",
+      "version": "0.2.0",
+      "description": "Contract, derivations, and reference renderer (scene graph + SVG) for windgram profile documents published by github.com/azohra/windgram.",
+      "license": "MIT",
+      "repository": "https://github.com/azohra/windgram",
+      "npmUrl": "https://www.npmjs.com/package/windgram",
+      "category": "utilities",
+      "createdAt": "2026-08-08T20:11:46.996Z",
+      "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 63
     },
     {
       "name": "winr-web-sdk",
