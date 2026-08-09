@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124072914,
-  "lastRunAt": "2026-08-09T17:02:21.563Z",
+  "lastSequence": 124080503,
+  "lastRunAt": "2026-08-09T18:28:03.745Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@akivastr/trpc-shield",
+      "attempts": 1
+    },
+    {
+      "name": "@jiaozi-protocol/sdk",
+      "attempts": 1
+    }
+  ]
 }

@@ -4430,6 +4430,18 @@
       "score": 67
     },
     {
+      "name": "@brdndon/secure-mcp",
+      "version": "1.0.0",
+      "description": "Local MCP server for structured, agent-first security audits of TypeScript/Next.js and Swift/SwiftUI codebases",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/brbndon/secure-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40brdndon%2Fsecure-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T18:16:55.203Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 83
+    },
+    {
       "name": "@brianmorton/crew",
       "version": "0.1.1",
       "description": "Autonomous agent team: role-specialized coding agents that propose typed work into Linear or Jira, gate material changes behind human-approved PRDs, and drain approved work into PRs — running on your machine against your Claude subscription.",
@@ -8222,6 +8234,18 @@
       "score": 69
     },
     {
+      "name": "@dmytromykhailiuk/flow-engine",
+      "version": "1.0.0",
+      "description": "Typed flow engine with JSON-serializable flows, safe string expressions, pause/cancel/suspend, checkpoints and restore. Works in the browser and on the backend.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/flow-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fflow-engine",
+      "category": "frontend",
+      "createdAt": "2026-08-09T17:55:53.923Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 84
+    },
+    {
       "name": "@dmytromykhailiuk/location-context-resolver",
       "version": "1.0.0",
       "description": "Resolve where your app runs — origin, base-path-relative pathname, query params — and where its remote counterpart lives. Typed, SSR-friendly, zero dependencies.",
@@ -10202,6 +10226,18 @@
       "score": 54
     },
     {
+      "name": "@florianguyonnet/pi-rlm",
+      "version": "0.2.0",
+      "description": "Recursive Language Models for pi: a persistent Python REPL with rlm() sub-agent recursion, as a single extension",
+      "license": "MIT",
+      "repository": "https://github.com/florianguyonnet/pi-rlm",
+      "npmUrl": "https://www.npmjs.com/package/%40florianguyonnet%2Fpi-rlm",
+      "category": "utilities",
+      "createdAt": "2026-08-09T17:18:14.085Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 70
+    },
+    {
       "name": "@flow-grid/core",
       "version": "0.1.0",
       "description": "Horizontal-flow data grid web component for trading platforms. Minimal core, additive modules.",
@@ -10860,6 +10896,18 @@
       "createdAt": "2026-08-09T10:30:11.880Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 65
+    },
+    {
+      "name": "@geoalgeria/cliniques",
+      "version": "1.0.0",
+      "description": "Clinics & proximity-care facilities of Algeria: polycliniques, salles de soins, centres de santé, maternités and private clinics from OpenStreetMap, classified by type, with Arabic & French names, sector, commune/wilaya linkage and GPS coordinates. The OS",
+      "license": "MIT",
+      "repository": "https://github.com/yasserstudio/geoalgeria",
+      "npmUrl": "https://www.npmjs.com/package/%40geoalgeria%2Fcliniques",
+      "category": "cli",
+      "createdAt": "2026-08-09T17:42:13.669Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 100
     },
     {
       "name": "@geoapify/iana-timezone-metadata",
@@ -15350,6 +15398,18 @@
       "score": 73
     },
     {
+      "name": "@hoomanlogic/l10n",
+      "version": "0.1.0",
+      "description": "Localization by tagging strings in place - a Babel plugin that extracts [l10n:] literals into a gettext .pot, a tiny runtime lookup, and .po parsing/merging tools.",
+      "license": "ISC",
+      "repository": "https://github.com/hoomanlogic/l10n",
+      "npmUrl": "https://www.npmjs.com/package/%40hoomanlogic%2Fl10n",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T18:08:29.665Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 84
+    },
+    {
       "name": "@horizon-integrations/tecimob-crm",
       "version": "1.1.1",
       "description": "Adapter de integração com o CRM Tecimob — padrão Airbyte (@horizon-js/integrations-core)",
@@ -19296,6 +19356,18 @@
       "createdAt": "2026-08-06T05:35:25.107Z",
       "discoveredAt": "2026-08-06T08:19:20.704Z",
       "score": 88
+    },
+    {
+      "name": "@mambalabsdev/mcp-clay-to-instantly-smartlead-push",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Sequencer Lead Push actor on Apify. Pushes enriched lead rows into an Instantly or Smartlead campaign with ICP score gating, deduplication and a zero-write dry run.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-clay-to-instantly-smartlead-push",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-clay-to-instantly-smartlead-push",
+      "category": "backend",
+      "createdAt": "2026-08-09T17:29:57.041Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 73
     },
     {
       "name": "@mambalabsdev/mcp-email-waterfall-orchestrator",
@@ -30242,6 +30314,18 @@
       "score": 73
     },
     {
+      "name": "@svayam-opensource/gov",
+      "version": "1.0.0",
+      "description": "gov-work — the OSS project/workflow CLI for the Governed Agentic Development Framework (Node/TypeScript). Manages projects, workspaces and org registration. Governed catalog/deploy is the separate gov-cicd CLI, and infrastructure the separate gov-infra CL",
+      "license": "MIT",
+      "repository": "https://github.com/svayam-opensource/governed-agentic-dev-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40svayam-opensource%2Fgov",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T17:24:02.000Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 75
+    },
+    {
       "name": "@swapnoneel/open-gpt",
       "version": "0.1.0",
       "description": "Agent-native CLI for your own ChatGPT account. Sign in through the browser once, then ask questions and generate images from any terminal or coding agent.",
@@ -31392,6 +31476,18 @@
       "createdAt": "2026-07-30T03:05:29.770Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 85
+    },
+    {
+      "name": "@time-provider/addon-eta",
+      "version": "0.0.1",
+      "description": "Time-Provider : ETA estimation addon ~ Your single time interface for all your JavaScript / TypeScript projects.",
+      "license": "MIT",
+      "repository": "https://github.com/jaenyf/time-provider",
+      "npmUrl": "https://www.npmjs.com/package/%40time-provider%2Faddon-eta",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T17:03:28.480Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 69
     },
     {
       "name": "@time-provider/plugin-moment-timezone",
@@ -34526,6 +34622,18 @@
       "score": 79
     },
     {
+      "name": "@zee-css/core",
+      "version": "1.0.0",
+      "description": "A TypeScript-based CSS utility library that generates CSS programmatically from utility class patterns — like Tailwind CSS but fully programmable",
+      "license": "ISC",
+      "repository": "https://github.com/praballl/zee-css",
+      "npmUrl": "https://www.npmjs.com/package/%40zee-css%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-09T17:36:44.483Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 73
+    },
+    {
       "name": "@zeeptech/toolkit",
       "version": "1.0.1",
       "description": "This library provides a comprehensive set of utility functions for various common tasks, including date calculations, formatting, masking, normalizing data, and validation",
@@ -35676,6 +35784,18 @@
       "createdAt": "2026-08-06T11:37:08.955Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 83
+    },
+    {
+      "name": "agenticseo-mcp",
+      "version": "0.1.0",
+      "description": "A local MCP server that gives coding agents structured, page-targeted SEO evidence from Lighthouse and related sources.",
+      "license": "MIT",
+      "repository": "https://github.com/mahmoud-the-dev/agentseo-mcp",
+      "npmUrl": "https://www.npmjs.com/package/agenticseo-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T18:10:05.056Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 71
     },
     {
       "name": "agentictools",
@@ -37502,6 +37622,18 @@
       "score": 66
     },
     {
+      "name": "bitrun",
+      "version": "0.1.1",
+      "description": "Compressed integer sets for JavaScript: run-length aware containers, full set algebra, rank and select, byte-compatible with the portable Roaring format. Pure TypeScript, zero dependencies, and compressed by default rather than behind an insertion path.",
+      "license": "MIT",
+      "repository": "https://github.com/destbreso/bitrun",
+      "npmUrl": "https://www.npmjs.com/package/bitrun",
+      "category": "data",
+      "createdAt": "2026-08-01T21:06:45.450Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 88
+    },
+    {
       "name": "blasted-apple-signin-migration",
       "version": "1.0.0",
       "description": "Resumable CLI tool for migrating Sign in with Apple users in Firebase Authentication when an iOS app is transferred between Apple Developer teams.",
@@ -38592,6 +38724,18 @@
       "createdAt": "2026-07-29T07:30:01.328Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 61
+    },
+    {
+      "name": "chat-fit",
+      "version": "0.0.1",
+      "description": "Trim chat history to a token budget without splitting tool calls from their results.",
+      "license": "MIT",
+      "repository": "https://github.com/SergeevDmitry/llm-kit",
+      "npmUrl": "https://www.npmjs.com/package/chat-fit",
+      "category": "utilities",
+      "createdAt": "2026-08-09T17:42:19.187Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 78
     },
     {
       "name": "chat-resumer",
@@ -41916,6 +42060,18 @@
       "createdAt": "2026-08-01T23:12:24.307Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 52
+    },
+    {
+      "name": "effect-pulumi",
+      "version": "0.1.0",
+      "description": "Effect bindings for Pulumi — wrap a provider package once and get Effect-returning resource factories, typed errors, and structured deploy results.",
+      "license": "MIT",
+      "repository": "https://github.com/pierskarsenbarg/effect-pulumi",
+      "npmUrl": "https://www.npmjs.com/package/effect-pulumi",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T18:15:03.073Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 76
     },
     {
       "name": "effectfence",
@@ -47294,6 +47450,18 @@
       "score": 90
     },
     {
+      "name": "lerpa-player",
+      "version": "0.2.1",
+      "description": "Interactive vector animations for the web. A .lerpa is a valid SVG that also animates.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/abbasalshalchi/lerpa",
+      "npmUrl": "https://www.npmjs.com/package/lerpa-player",
+      "category": "utilities",
+      "createdAt": "2026-08-09T18:06:10.130Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 72
+    },
+    {
       "name": "letsinit",
       "version": "1.0.0",
       "description": "LetsInit CLI for scaffolding frontend, backend, mobile, and API projects",
@@ -47544,6 +47712,18 @@
       "createdAt": "2026-08-05T13:19:34.310Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 79
+    },
+    {
+      "name": "llm-backoff",
+      "version": "0.0.1",
+      "description": "Retries that read provider rate-limit headers instead of guessing an exponential delay.",
+      "license": "MIT",
+      "repository": "https://github.com/SergeevDmitry/llm-kit",
+      "npmUrl": "https://www.npmjs.com/package/llm-backoff",
+      "category": "utilities",
+      "createdAt": "2026-08-09T17:44:14.578Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 78
     },
     {
       "name": "llm-date-guard",
@@ -49056,6 +49236,18 @@
       "createdAt": "2026-08-09T14:04:02.718Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 66
+    },
+    {
+      "name": "mend-json",
+      "version": "0.0.1",
+      "description": "Repair truncated JSON from an LLM stream into a valid partial value on every chunk.",
+      "license": "MIT",
+      "repository": "https://github.com/SergeevDmitry/llm-kit",
+      "npmUrl": "https://www.npmjs.com/package/mend-json",
+      "category": "utilities",
+      "createdAt": "2026-08-09T17:42:36.606Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 78
     },
     {
       "name": "meo-skia-canvas",
@@ -51194,6 +51386,18 @@
       "score": 70
     },
     {
+      "name": "node-opcua-alias-name-server",
+      "version": "2.176.0",
+      "description": "pure nodejs OPCUA SDK - server-side alias names (OPC 10000-17)",
+      "license": "MIT",
+      "repository": "https://github.com/node-opcua/node-opcua",
+      "npmUrl": "https://www.npmjs.com/package/node-opcua-alias-name-server",
+      "category": "backend",
+      "createdAt": "2026-08-09T17:46:33.667Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 78
+    },
+    {
       "name": "node-red-contrib-gx-ble",
       "version": "0.1.0",
       "description": "BLE device discovery and battery/BMS status nodes for Node-RED on Victron Venus OS (Cerbo GX) and any Linux with BlueZ — pure JS over D-Bus, no root, no compiled code",
@@ -51792,6 +51996,18 @@
       "createdAt": "2026-07-30T11:45:03.023Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 72
+    },
+    {
+      "name": "open-deck-skill",
+      "version": "1.4.1",
+      "description": "Unofficial reverse-engineered Kimi Slides skill for AI coding agents with local PPTD editing and PPTX export.",
+      "license": "MIT",
+      "repository": "https://github.com/FeidaWang/Open-Deck-Skill",
+      "npmUrl": "https://www.npmjs.com/package/open-deck-skill",
+      "category": "devops",
+      "createdAt": "2026-08-09T17:37:49.831Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 90
     },
     {
       "name": "open-glass-ui",
@@ -52608,6 +52824,18 @@
       "createdAt": "2026-07-26T18:07:58.236Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 81
+    },
+    {
+      "name": "orvix-cli",
+      "version": "0.2.0",
+      "description": "Semantic code map for AI agents — index a codebase once, address every symbol by a short code, read only what you need.",
+      "license": "MIT",
+      "repository": "https://github.com/lightningpixel/orvix",
+      "npmUrl": "https://www.npmjs.com/package/orvix-cli",
+      "category": "cli",
+      "createdAt": "2026-08-09T17:09:27.617Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 72
     },
     {
       "name": "os-exec-mcp",
@@ -54974,6 +55202,18 @@
       "score": 69
     },
     {
+      "name": "product-lint",
+      "version": "0.1.0",
+      "description": "Deterministic product-knowledge DAGs, staged synchronization, and commit guardrails.",
+      "license": "MIT",
+      "repository": "https://github.com/JoshuaLelon/product-lint",
+      "npmUrl": "https://www.npmjs.com/package/product-lint",
+      "category": "utilities",
+      "createdAt": "2026-08-09T18:08:19.327Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 73
+    },
+    {
       "name": "productmarketplace-react-native-sdk",
       "version": "0.2.0",
       "description": "React Native SDK to embed the Adneto Product Marketplace web app inside your app via an in-app WebView, using a backend-generated auth token.",
@@ -57230,6 +57470,18 @@
       "score": 78
     },
     {
+      "name": "routefolio",
+      "version": "1.1.0",
+      "description": "CLI tool for automatic Express.js API documentation generation from JSDoc comments. Generates OpenAPI 3.1, HTML, and Markdown docs.",
+      "license": "MIT",
+      "repository": "https://github.com/Obzoriks/routefolio",
+      "npmUrl": "https://www.npmjs.com/package/routefolio",
+      "category": "backend",
+      "createdAt": "2026-08-09T17:09:46.890Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 88
+    },
+    {
       "name": "routeguard-authz",
       "version": "0.1.1",
       "description": "Route-native role/permission authorization middleware for Express. Tag routes with a resource at registration time; verbs and permissions are checked automatically, no per-route boilerplate.",
@@ -59306,6 +59558,30 @@
       "score": 79
     },
     {
+      "name": "stapes-context-trim",
+      "version": "0.1.1",
+      "description": "Strip a codebase to the essentials for an AI prompt. Respects .gitignore. Skips node_modules, lockfiles, binaries, build output. One command, no install, no cloud, no API key. Stable --json summary for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/stapesco/context-trim",
+      "npmUrl": "https://www.npmjs.com/package/stapes-context-trim",
+      "category": "backend",
+      "createdAt": "2026-08-09T17:57:50.830Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 85
+    },
+    {
+      "name": "stapes-precommit",
+      "version": "0.1.1",
+      "description": "Zero-config pre-commit hook with five sanity checks: secrets, large files, console.log, TODO markers, sensitive paths. One command to install, zero config to maintain. Zero telemetry. Stable --json output for AI agents and CI.",
+      "license": "MIT",
+      "repository": "https://github.com/stapesco/precommit",
+      "npmUrl": "https://www.npmjs.com/package/stapes-precommit",
+      "category": "cli",
+      "createdAt": "2026-08-09T17:05:38.602Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 78
+    },
+    {
       "name": "starlingbank-sdk",
       "version": "1.0.1",
       "description": "Complete, production-grade TypeScript/JavaScript SDK for the Starling Bank Public API (accounts, balances, payments, cards, savings goals, transactions, OAuth2, webhooks, and more).",
@@ -60806,6 +61082,18 @@
       "score": 66
     },
     {
+      "name": "token-chunk",
+      "version": "0.0.1",
+      "description": "Token-budget-aware semantic chunking for text and Markdown, with heading breadcrumbs and deterministic overlap.",
+      "license": "MIT",
+      "repository": "https://github.com/SergeevDmitry/llm-kit",
+      "npmUrl": "https://www.npmjs.com/package/token-chunk",
+      "category": "utilities",
+      "createdAt": "2026-08-09T17:42:51.962Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 81
+    },
+    {
       "name": "token-lease",
       "version": "0.1.0",
       "description": "Reserve variable token budgets before work begins, then commit actual usage or release the lease.",
@@ -61716,6 +62004,18 @@
       "createdAt": "2026-07-29T07:37:55.656Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 74
+    },
+    {
+      "name": "usage-tab",
+      "version": "0.0.1",
+      "description": "Deterministic LLM cost calculation from provider usage objects using versioned pricing data.",
+      "license": "MIT",
+      "repository": "https://github.com/SergeevDmitry/llm-kit",
+      "npmUrl": "https://www.npmjs.com/package/usage-tab",
+      "category": "data",
+      "createdAt": "2026-08-09T18:11:40.735Z",
+      "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 79
     },
     {
       "name": "use-back-stack",
