@@ -4394,6 +4394,18 @@
       "score": 100
     },
     {
+      "name": "@brawsr/sdk",
+      "version": "0.1.0",
+      "description": "TypeScript client for brawsr sessions, checkpoints, rewind, fork, and CDP handoff.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/brawsr/sdk-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40brawsr%2Fsdk",
+      "category": "testing",
+      "createdAt": "2026-08-09T14:33:13.226Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 67
+    },
+    {
       "name": "@brianmorton/crew",
       "version": "0.1.1",
       "description": "Autonomous agent team: role-specialized coding agents that propose typed work into Linear or Jira, gate material changes behind human-approved PRDs, and drain approved work into PRs — running on your machine against your Claude subscription.",
@@ -4800,6 +4812,18 @@
       "createdAt": "2026-08-03T20:49:11.851Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 94
+    },
+    {
+      "name": "@byok-sdk/cloud-postgres",
+      "version": "0.1.0",
+      "description": "BYOK SDK durable data plane: Postgres implementations of the cloud-local store ports, plus the forward-only migrate runner",
+      "license": "MIT",
+      "repository": "https://github.com/Ancienttwo/byok-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40byok-sdk%2Fcloud-postgres",
+      "category": "data",
+      "createdAt": "2026-08-09T14:40:16.689Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 59
     },
     {
       "name": "@byok-sdk/keys",
@@ -11498,6 +11522,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/chainlinkoracle",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ChainlinkOracle (build etherscan-chainlinkoracle-3fa58b74-1786285549201, commit 9d9af1b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/chainlinkoracle",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fchainlinkoracle",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:26:10.868Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 59
+    },
+    {
       "name": "@gitmyabi/chief",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for Chief (build etherscan-chief-929d9a14-1786182081376, commit b59184a, branch etherscan)",
@@ -13742,6 +13778,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/zklighterstaterootupgradeverifier",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ZkLighterStateRootUpgradeVerifier (build etherscan-zklighterstaterootupgradeverifier-e1ad1281-1786287270362, commit d53db30, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/zklighterstaterootupgradeverifier",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fzklighterstaterootupgradeverifier",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:54:51.210Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 63
+    },
+    {
       "name": "@gitmyabi/zkp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for $ZKP (build etherscan-zkp-909e34d3-1785067830381, commit 97fe4c4, branch etherscan)",
@@ -14580,6 +14628,102 @@
       "createdAt": "2026-08-09T14:02:15.571Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 58
+    },
+    {
+      "name": "@haybarn/ext-osmium-h1-5-5-wasm-eh",
+      "version": "202607.24.181818",
+      "description": "WebAssembly (eh) build of the Haybarn extension 'osmium' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-osmium-h1-5-5-wasm-eh",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:28:34.276Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
+      "name": "@haybarn/ext-osmium-h1-5-5-wasm-mvp",
+      "version": "202607.24.181818",
+      "description": "WebAssembly (mvp) build of the Haybarn extension 'osmium' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-osmium-h1-5-5-wasm-mvp",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:28:44.076Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
+      "name": "@haybarn/ext-osmium-h1-5-5-wasm-threads",
+      "version": "202607.24.181818",
+      "description": "WebAssembly (threads) build of the Haybarn extension 'osmium' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-osmium-h1-5-5-wasm-threads",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:28:50.074Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
+      "name": "@haybarn/ext-snowflake-h1-5-5-wasm-eh",
+      "version": "202608.2.35422",
+      "description": "WebAssembly (eh) build of the Haybarn extension 'snowflake' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-snowflake-h1-5-5-wasm-eh",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:37:13.996Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
+      "name": "@haybarn/ext-snowflake-h1-5-5-wasm-mvp",
+      "version": "202608.2.35422",
+      "description": "WebAssembly (mvp) build of the Haybarn extension 'snowflake' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-snowflake-h1-5-5-wasm-mvp",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:37:10.182Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
+      "name": "@haybarn/ext-snowflake-h1-5-5-wasm-threads",
+      "version": "202608.2.35422",
+      "description": "WebAssembly (threads) build of the Haybarn extension 'snowflake' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-snowflake-h1-5-5-wasm-threads",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:36:53.537Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
+      "name": "@haybarn/ext-stac-h1-5-5-wasm-eh",
+      "version": "202608.3.64111",
+      "description": "WebAssembly (eh) build of the Haybarn extension 'stac' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-stac-h1-5-5-wasm-eh",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:38:16.573Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 55
+    },
+    {
+      "name": "@haybarn/ext-stac-h1-5-5-wasm-threads",
+      "version": "202608.3.64111",
+      "description": "WebAssembly (threads) build of the Haybarn extension 'stac' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "MIT",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-stac-h1-5-5-wasm-threads",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:37:42.810Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
     },
     {
       "name": "@hazrid1993/pi-advisor",
@@ -20126,6 +20270,30 @@
       "score": 86
     },
     {
+      "name": "@modernrelay/orbit-engine-cosmos",
+      "version": "0.2.0",
+      "description": "cosmos.gl engine adapter for Orbit: GPU force layout, native picking, context-loss recovery.",
+      "license": "MIT",
+      "repository": "https://github.com/ModernRelay/orbit",
+      "npmUrl": "https://www.npmjs.com/package/%40modernrelay%2Forbit-engine-cosmos",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:41:20.040Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 59
+    },
+    {
+      "name": "@modernrelay/orbit-omnigraph",
+      "version": "0.2.0",
+      "description": "Omnigraph adapter for Orbit: og.export() loader with drift policies, .pg schema parser, and typed codegen.",
+      "license": "MIT",
+      "repository": "https://github.com/ModernRelay/orbit",
+      "npmUrl": "https://www.npmjs.com/package/%40modernrelay%2Forbit-omnigraph",
+      "category": "devops",
+      "createdAt": "2026-08-09T14:41:20.094Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 56
+    },
+    {
       "name": "@modracx/ruler-js",
       "version": "1.0.0",
       "description": "Lightweight on-screen ruler, draggable snap guides and element measurement overlay for web pages, with inch/cm/mm/px units and a crosshair.",
@@ -25454,6 +25622,18 @@
       "score": 57
     },
     {
+      "name": "@ratifia/mcp",
+      "version": "0.4.1",
+      "description": "Ratifia MCP server — let an AI agent request a human decision/approval (HITL) mid-task and resume once it's answered. The agent becomes a Ratifia 'engine'.",
+      "license": "MIT",
+      "repository": "https://github.com/themillhouse/ratifia-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40ratifia%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:49:28.558Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 58
+    },
+    {
       "name": "@ratmath/core",
       "version": "0.3.0",
       "description": "Exact integers, rational numbers, rational intervals, and number-only parsing",
@@ -29040,6 +29220,18 @@
       "createdAt": "2026-08-03T17:36:04.263Z",
       "discoveredAt": "2026-08-03T17:44:53.720Z",
       "score": 71
+    },
+    {
+      "name": "@sphinxcorp/pi-provider-agentrouter",
+      "version": "0.1.2",
+      "description": "Agent Router provider for pi coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/sphinxcorp/pi-provider-agentrouter",
+      "npmUrl": "https://www.npmjs.com/package/%40sphinxcorp%2Fpi-provider-agentrouter",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:23:46.769Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 60
     },
     {
       "name": "@spinajs/orm-cli",
@@ -43130,6 +43322,18 @@
       "score": 85
     },
     {
+      "name": "freeze-panes-table",
+      "version": "0.1.1",
+      "description": "Framework-agnostic table with frozen rows, frozen columns, Excel-style freeze panes at a cell, and pinned cells.",
+      "license": "MIT",
+      "repository": "https://github.com/dassaumen/freeze-panes-table",
+      "npmUrl": "https://www.npmjs.com/package/freeze-panes-table",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:16:22.791Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 60
+    },
+    {
       "name": "frey-codegen",
       "version": "1.0.1",
       "description": "Interactive CLI generator for file and folder templates with placeholder substitution.",
@@ -44880,6 +45084,18 @@
       "createdAt": "2026-08-06T22:05:09.343Z",
       "discoveredAt": "2026-08-07T22:26:27.657Z",
       "score": 76
+    },
+    {
+      "name": "humemory",
+      "version": "0.2.1",
+      "description": "Memory for AI agents that forgets like a human — decaying traces, inverse search, and prospective loops that resurface on a cue",
+      "license": "MIT",
+      "repository": "https://github.com/medyll/humemory",
+      "npmUrl": "https://www.npmjs.com/package/humemory",
+      "category": "data",
+      "createdAt": "2026-08-09T14:59:52.423Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 82
     },
     {
       "name": "hwjcode-personal",
@@ -48986,6 +49202,18 @@
       "score": 84
     },
     {
+      "name": "multi-spec-parser",
+      "version": "0.1.0",
+      "description": "Parse OpenAPI 3.0/3.1, Swagger 2.0, and Google Discovery specs into one normalized model, with memory-safe per-tool schema compilation for building LLM tool sets.",
+      "license": "MIT",
+      "repository": "https://github.com/dastagirS/multi-spec-parser",
+      "npmUrl": "https://www.npmjs.com/package/multi-spec-parser",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:42:34.559Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 70
+    },
+    {
       "name": "munim-xr",
       "version": "0.1.1",
       "description": "Cross-platform XR sessions and native AR views for Expo and React Native, powered by Nitro Modules",
@@ -51530,6 +51758,18 @@
       "score": 87
     },
     {
+      "name": "opencode-simflow",
+      "version": "0.15.0",
+      "description": "SimFlow computational simulation workflow layer for OpenCode.",
+      "license": "MIT",
+      "repository": "https://github.com/wengao65-svg/SimFlow",
+      "npmUrl": "https://www.npmjs.com/package/opencode-simflow",
+      "category": "utilities",
+      "createdAt": "2026-08-01T05:18:27.180Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 68
+    },
+    {
       "name": "opencode-skilld",
       "version": "1.0.0",
       "description": "An OpenCode plugin that refreshes skills from GitHub repositories in the background",
@@ -52932,6 +53172,18 @@
       "createdAt": "2026-07-26T06:53:15.005Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 80
+    },
+    {
+      "name": "pi-harness-model-proposer",
+      "version": "0.1.0",
+      "description": "Dedicated-model proposer for pi-continual-harness. Registers a /refine proposer ('model') that makes its own one-shot LLM call (via the harness's injected complete closure) to produce evidence-backed CRUD deltas directly — hidden from the transcript but a",
+      "license": "MIT",
+      "repository": "https://github.com/pungggi/pi-harness-model-proposer",
+      "npmUrl": "https://www.npmjs.com/package/pi-harness-model-proposer",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:32:40.651Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 68
     },
     {
       "name": "pi-herdr-agents",
@@ -54408,6 +54660,18 @@
       "createdAt": "2026-08-02T09:47:16.898Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 72
+    },
+    {
+      "name": "pulse-flight-deals-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that lets an AI agent judge whether a flight price is actually a deal, grounded in observed fare history. Answers 'is $X for this route a good price?' with real numbers an LLM cannot produce on its own.",
+      "license": "MIT",
+      "repository": "https://github.com/yaotsakpo/pulse-flight-deals-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pulse-flight-deals-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:56:45.826Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 57
     },
     {
       "name": "punktraster",
@@ -56366,6 +56630,18 @@
       "score": 86
     },
     {
+      "name": "roble-client",
+      "version": "1.0.0",
+      "description": "Cliente para la plataforma ROBLE de Uninorte OpenLab. Autenticación y CRUD sobre bases de datos PostgreSQL. Funciona en Node, navegador, React y React Native.",
+      "license": "MIT",
+      "repository": "https://github.com/augustosalazar/roble-api-database-ReNa",
+      "npmUrl": "https://www.npmjs.com/package/roble-client",
+      "category": "frontend",
+      "createdAt": "2026-08-09T14:46:56.509Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 82
+    },
+    {
       "name": "roost-top",
       "version": "0.4.0",
       "description": "top for Claude Code -- live sessions, models, context, and the subagents they spawn",
@@ -57012,6 +57288,18 @@
       "createdAt": "2026-08-05T19:08:07.596Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 58
+    },
+    {
+      "name": "secure-sms-webhook",
+      "version": "0.1.0",
+      "description": "Security-first SMS webhook signature validation, replay protection, payload checks, PII redaction, and a defensive local tester.",
+      "license": "MIT",
+      "repository": "https://github.com/receive-sms-live/secure-sms-webhook",
+      "npmUrl": "https://www.npmjs.com/package/secure-sms-webhook",
+      "category": "testing",
+      "createdAt": "2026-08-09T14:39:28.770Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 68
     },
     {
       "name": "seed-squarespace",
@@ -61668,6 +61956,18 @@
       "createdAt": "2026-08-01T14:46:46.555Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 55
+    },
+    {
+      "name": "w-dispatch-ai",
+      "version": "1.0.0",
+      "description": "A tool for dispatch ai.",
+      "license": "MIT",
+      "repository": "https://github.com/yuda-lyu/w-dispatch-ai",
+      "npmUrl": "https://www.npmjs.com/package/w-dispatch-ai",
+      "category": "cli",
+      "createdAt": "2026-08-09T14:39:25.023Z",
+      "discoveredAt": "2026-08-09T14:59:56.278Z",
+      "score": 77
     },
     {
       "name": "wacz-pdf",
