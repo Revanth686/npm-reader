@@ -1,27 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124047134,
-  "lastRunAt": "2026-08-09T10:59:20.876Z",
+  "lastSequence": 124053567,
+  "lastRunAt": "2026-08-09T12:33:09.910Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@ablehi/runner-plugin-contract",
+      "name": "@apicrafthq/cli-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@gaurav_07/project-medium-blog",
+      "name": "@apicrafthq/cli-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@ablehi/runner",
+      "name": "@apicrafthq/cli-linux-x64",
       "attempts": 1
     },
     {
-      "name": "@ablehi/runner-plugin-claude-code",
+      "name": "@apicrafthq/cli-linux-arm64",
       "attempts": 1
     },
     {
-      "name": "@ablehi/runner-plugin-codex",
+      "name": "@apicrafthq/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@effectnode/b3-runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@ninots/mail",
+      "attempts": 1
+    },
+    {
+      "name": "@groundbrick/h2b2-sveltekit",
       "attempts": 1
     }
   ]
