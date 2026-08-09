@@ -1,19 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124097802,
-  "lastRunAt": "2026-08-09T22:54:46.351Z",
+  "lastSequence": 124099257,
+  "lastRunAt": "2026-08-09T23:21:25.343Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@doikayt/verify-lib",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@ibyjs/core",
-      "attempts": 1
-    },
-    {
-      "name": "@zakkster/lite-di-ticker",
+      "name": "@pictum/vue",
       "attempts": 1
     }
   ]
