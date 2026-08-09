@@ -3710,6 +3710,18 @@
       "score": 75
     },
     {
+      "name": "@baseline-ia/baseline-cloud-client",
+      "version": "0.1.1",
+      "description": "Optional addon — connects any CLI to a self-hosted baseline-cloud instance for telemetry, openspec lifecycle tracking, and post-commit git hooks.",
+      "license": "MIT",
+      "repository": "https://github.com/baseline-ia/baseline-cloud-client",
+      "npmUrl": "https://www.npmjs.com/package/%40baseline-ia%2Fbaseline-cloud-client",
+      "category": "cli",
+      "createdAt": "2026-08-09T05:59:34.585Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 52
+    },
+    {
       "name": "@bassotov/deck",
       "version": "0.5.1",
       "description": "PowerPoint for agents. Your agent writes the deck as plain markdown; you open it and draw on it while you record.",
@@ -4536,6 +4548,18 @@
       "createdAt": "2026-08-06T14:41:55.814Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 72
+    },
+    {
+      "name": "@burnix/cli",
+      "version": "0.2.0",
+      "description": "A fuse for your API spend. Hard caps for LLM calls.",
+      "license": "MIT",
+      "repository": "https://github.com/pr3tik/burnix",
+      "npmUrl": "https://www.npmjs.com/package/%40burnix%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-09T06:21:07.607Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 39
     },
     {
       "name": "@buzzni/saycode-cli",
@@ -11054,6 +11078,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/bul",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BUL (build etherscan-bul-99d6ed75-1786256257979, commit 9061891, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/bul",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbul",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T06:17:59.977Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/c1usd",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for C1USD (build etherscan-c1usd-40caa791-1785280383911, commit 07b63f1, branch etherscan)",
@@ -11807,6 +11843,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-30T21:31:54.852Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/keke",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for KEKE (build etherscan-keke-f7168c8a-1786256768270, commit d63c5ff, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/keke",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fkeke",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T06:26:31.293Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
       "score": 56
     },
     {
@@ -12854,6 +12902,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/teikhosbounty",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for TeikhosBounty (build etherscan-teikhosbounty-17e5e091-1786255642891, commit 842bac5, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/teikhosbounty",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fteikhosbounty",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T02:59:27.947Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/test12345",
       "version": "1.0.1",
       "description": "Auto-generated TypeScript type bindings for Test12345 (build etherscan-test12345-60810f4d-1785598485055, commit 28c9cd5, branch etherscan)",
@@ -12912,6 +12972,18 @@
       "createdAt": "2026-08-02T23:33:12.893Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/tornadocash-eth",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for TornadoCash_eth (build etherscan-tornadocash-eth-a160cdab-1786255683029, commit 134027d, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/tornadocash-eth",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftornadocash-eth",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T09:50:25.943Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 59
     },
     {
       "name": "@gitmyabi/toro",
@@ -14196,6 +14268,18 @@
       "createdAt": "2026-08-08T06:50:10.029Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 50
+    },
+    {
+      "name": "@hey-amanthakur/lock-box",
+      "version": "1.0.0",
+      "description": "Lock-Box — a production-grade distributed mutex and lease library for Node.js. Zero runtime dependencies. Pluggable backends (in-memory, Redis), blocking acquire, TTL leases, auto-renewal, AbortSignal cancellation and framework adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/hey-amanthakur/lock-box",
+      "npmUrl": "https://www.npmjs.com/package/%40hey-amanthakur%2Flock-box",
+      "category": "backend",
+      "createdAt": "2026-08-09T06:35:47.638Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 100
     },
     {
       "name": "@hey-amanthakur/retry-box",
@@ -16550,6 +16634,18 @@
       "score": 88
     },
     {
+      "name": "@kavo/sse",
+      "version": "0.7.2",
+      "description": "Kavo SSE realtime transport — implements @kavo/core's RealtimeTransport over Server-Sent Events, plain HTTP with no required peer library.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kavo-labs/kavo",
+      "npmUrl": "https://www.npmjs.com/package/%40kavo%2Fsse",
+      "category": "backend",
+      "createdAt": "2026-08-09T06:06:21.693Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 46
+    },
+    {
       "name": "@kavtuai/guildgate",
       "version": "0.1.1",
       "description": "Security and control primitives for Discord bot dashboards.",
@@ -16704,6 +16800,18 @@
       "createdAt": "2026-08-07T14:34:37.925Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 59
+    },
+    {
+      "name": "@kivimedia/kmhub",
+      "version": "2.0.0",
+      "description": "KM Hub Terminal Mode. Installs the KM Hub MCP connector into your own Claude Code on your own machine, and ships the kmhub CLI that registers, updates and diagnoses it.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/kivimedia/kmhub",
+      "npmUrl": "https://www.npmjs.com/package/%40kivimedia%2Fkmhub",
+      "category": "cli",
+      "createdAt": "2026-08-09T05:49:42.005Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 84
     },
     {
       "name": "@klaroshield/sdk",
@@ -18276,6 +18384,18 @@
       "createdAt": "2026-08-06T11:00:30.072Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 71
+    },
+    {
+      "name": "@marufhosen-cdda/biwd-blog-app",
+      "version": "1.0.0",
+      "description": "An embeddable React blog app (landing, list, details pages with internal routing) gated behind a built-in API key. Mount with <BlogApp apiKey=\"BLOG-1234\" />.",
+      "license": "MIT",
+      "repository": "https://github.com/marufhosen-cdda/biwd-blog-app",
+      "npmUrl": "https://www.npmjs.com/package/%40marufhosen-cdda%2Fbiwd-blog-app",
+      "category": "frontend",
+      "createdAt": "2026-08-09T06:28:17.098Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 85
     },
     {
       "name": "@massa-ai/codex-plugin",
@@ -20042,6 +20162,18 @@
       "score": 71
     },
     {
+      "name": "@moonz-fun/sdk",
+      "version": "0.1.0",
+      "description": "Read-only TypeScript and JavaScript SDK for the Moonz Solana launchpad protocol",
+      "license": "MIT",
+      "repository": "https://github.com/detox267/moonz-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40moonz-fun%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T05:44:56.539Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 70
+    },
+    {
       "name": "@moradata/cache",
       "version": "0.1.0",
       "description": "Keep a local DuckDB copy of the warehouse tables your semantic layer reads, so exploration is fast, free and off production",
@@ -20280,6 +20412,18 @@
       "createdAt": "2026-08-03T00:08:01.884Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 70
+    },
+    {
+      "name": "@mstuart/peek",
+      "version": "0.1.0",
+      "description": "DevTools for coding agents — historical context composition, compaction analysis, and cost attribution for Claude Code, Codex, and pi",
+      "license": "MIT",
+      "repository": "https://github.com/mstuart/peek",
+      "npmUrl": "https://www.npmjs.com/package/%40mstuart%2Fpeek",
+      "category": "cli",
+      "createdAt": "2026-08-09T05:39:21.489Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 76
     },
     {
       "name": "@mstuart/vitals",
@@ -26568,6 +26712,18 @@
       "createdAt": "2026-08-04T18:36:31.788Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 76
+    },
+    {
+      "name": "@shareefmuhammed/contextforge",
+      "version": "0.2.1",
+      "description": "Generate a shared AI knowledge base for your project — one source of truth, every tool covered.",
+      "license": "MIT",
+      "repository": "https://github.com/ShareefMuhammed/contextforge",
+      "npmUrl": "https://www.npmjs.com/package/%40shareefmuhammed%2Fcontextforge",
+      "category": "cli",
+      "createdAt": "2026-08-08T06:21:45.609Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 39
     },
     {
       "name": "@shbernal/ts-pptx",
@@ -33158,6 +33314,18 @@
       "score": 62
     },
     {
+      "name": "accordo",
+      "version": "0.0.1",
+      "description": "Accordo — the open-source framework coding agents use to build custom CRMs. Name reserved; the framework lives at github.com/khaoss85/agent-crm.",
+      "license": "MIT",
+      "repository": "https://github.com/khaoss85/agent-crm",
+      "npmUrl": "https://www.npmjs.com/package/accordo",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T06:32:52.441Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 45
+    },
+    {
       "name": "acct-sh",
       "version": "0.1.0",
       "description": "Directory-scoped GitHub identity and auth — one account, one identity, one directory tree",
@@ -33828,6 +33996,18 @@
       "createdAt": "2026-08-07T09:01:59.577Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 83
+    },
+    {
+      "name": "agy-telegram",
+      "version": "0.1.2",
+      "description": "Connect the Antigravity CLI to Telegram through a secure, allowlisted bot gateway.",
+      "license": "MIT",
+      "repository": "https://github.com/ardiannurcahya/antigravity-cli-telegram-bot",
+      "npmUrl": "https://www.npmjs.com/package/agy-telegram",
+      "category": "cli",
+      "createdAt": "2026-08-09T06:33:03.491Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 70
     },
     {
       "name": "ai-api-monitor",
@@ -38016,6 +38196,18 @@
       "createdAt": "2026-08-04T15:55:09.242Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 87
+    },
+    {
+      "name": "create-accordo",
+      "version": "0.0.1",
+      "description": "Scaffolding entry point for Accordo — the open-source framework coding agents use to build custom CRMs. Name reserved; the framework lives at github.com/khaoss85/agent-crm.",
+      "license": "MIT",
+      "repository": "https://github.com/khaoss85/agent-crm",
+      "npmUrl": "https://www.npmjs.com/package/create-accordo",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T06:33:06.084Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 49
     },
     {
       "name": "create-agentpress",
@@ -42530,6 +42722,18 @@
       "score": 73
     },
     {
+      "name": "hexagons-lite",
+      "version": "0.1.0",
+      "description": "Animated honeycomb backgrounds built from regular hexagons. Line art, zero dependencies, brand-aware auto-palette.",
+      "license": "MIT",
+      "repository": "https://github.com/investblog/hexagons-lite",
+      "npmUrl": "https://www.npmjs.com/package/hexagons-lite",
+      "category": "devops",
+      "createdAt": "2026-08-09T06:19:17.786Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 81
+    },
+    {
       "name": "hexo-theme-tranquility",
       "version": "1.6.3",
       "description": "一款为个人主页及多学科领域博主设计的 Hexo 主题（致远 / Tranquility）",
@@ -43212,6 +43416,18 @@
       "createdAt": "2026-07-27T15:12:14.663Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 74
+    },
+    {
+      "name": "iconova-react",
+      "version": "1.30.0",
+      "description": "A Nova icon library package for React applications.",
+      "license": "ISC",
+      "repository": "https://github.com/iconova-icons/iconova",
+      "npmUrl": "https://www.npmjs.com/package/iconova-react",
+      "category": "frontend",
+      "createdAt": "2026-08-09T06:34:56.171Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 53
     },
     {
       "name": "idemkit",
@@ -45698,6 +45914,18 @@
       "score": 76
     },
     {
+      "name": "mccircuit",
+      "version": "0.1.0",
+      "description": "Turn any MCP server into a code-mode server with human-approved side effects, built on MCP MRTR and XState v5.",
+      "license": "MIT",
+      "repository": "https://github.com/mccircuit/McCircuit",
+      "npmUrl": "https://www.npmjs.com/package/mccircuit",
+      "category": "backend",
+      "createdAt": "2026-08-09T05:47:25.702Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 46
+    },
+    {
       "name": "mcp-agent-reliability",
       "version": "1.0.1",
       "description": "MCP server that helps AI agents stay reliable by scoring tool descriptions, estimating token costs, simulating tool choice, and generating tests.",
@@ -47928,6 +48156,18 @@
       "createdAt": "2026-07-25T15:50:44.502Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 89
+    },
+    {
+      "name": "next-cache-doctor",
+      "version": "0.1.0",
+      "description": "Static analysis CLI for Next.js 'use cache' directive: catches missing cacheLife, potential private-data leaks in cached scopes, and missing cacheTag before they hit production.",
+      "license": "MIT",
+      "repository": "https://github.com/yudijohn/next-cache-doctor",
+      "npmUrl": "https://www.npmjs.com/package/next-cache-doctor",
+      "category": "data",
+      "createdAt": "2026-08-09T06:37:59.315Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 62
     },
     {
       "name": "next-dev-inspector",
@@ -50402,6 +50642,18 @@
       "score": 76
     },
     {
+      "name": "pi-cindy",
+      "version": "0.5.3",
+      "description": "Pi extension: Cindy device-link sync — mimics Cindy Desktop for mobile control",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/midmirror/pi-cindy",
+      "npmUrl": "https://www.npmjs.com/package/pi-cindy",
+      "category": "devops",
+      "createdAt": "2026-08-07T09:49:00.254Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 41
+    },
+    {
       "name": "pi-claude-link",
       "version": "0.1.0",
       "description": "Mesh pi coding-agent sessions with Claude Code: appear in each other's session lists and exchange messages over Claude's cross-session socket protocol.",
@@ -51240,6 +51492,18 @@
       "createdAt": "2026-08-03T10:30:02.378Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 90
+    },
+    {
+      "name": "planloft",
+      "version": "0.1.0",
+      "description": "Agent-native document compiler with one plan-writing skill, deep CLI help, and light/dark themed output.",
+      "license": "MIT",
+      "repository": "https://github.com/hatim-s/planloft",
+      "npmUrl": "https://www.npmjs.com/package/planloft",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T06:35:28.157Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 72
     },
     {
       "name": "planning-with-teams",
@@ -56162,6 +56426,18 @@
       "score": 84
     },
     {
+      "name": "storybook-addon-palette-vault",
+      "version": "1.0.0",
+      "description": "Shows which colors a story actually renders, ranked by how much of the component each one covers, with OKLCH values and contrast.",
+      "license": "MIT",
+      "repository": "https://github.com/PaletteVault/storybook-addon-palette-vault",
+      "npmUrl": "https://www.npmjs.com/package/storybook-addon-palette-vault",
+      "category": "utilities",
+      "createdAt": "2026-08-09T06:02:21.459Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 66
+    },
+    {
       "name": "stratalib",
       "version": "0.1.1",
       "description": "StrataLib — MCP server for pre-built code patterns (recalls)",
@@ -57062,6 +57338,18 @@
       "score": 89
     },
     {
+      "name": "threads-backup",
+      "version": "0.1.1",
+      "description": "Back up your Threads posts and media with the official Threads API.",
+      "license": "MIT",
+      "repository": "https://github.com/ianwu5205/threads-backup",
+      "npmUrl": "https://www.npmjs.com/package/threads-backup",
+      "category": "backend",
+      "createdAt": "2026-08-09T05:50:30.123Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 41
+    },
+    {
       "name": "three-blockbench",
       "version": "0.1.0",
       "description": "Load Blockbench .bbmodel projects as native Three.js geometry, textures, skeletons, and animation clips.",
@@ -57600,6 +57888,18 @@
       "createdAt": "2026-07-27T19:43:57.612Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 82
+    },
+    {
+      "name": "trigons-lite",
+      "version": "1.1.0",
+      "description": "Lightweight animated triangulated backgrounds. Zero dependencies, ~3KB gzip.",
+      "license": "MIT",
+      "repository": "https://github.com/investblog/trigons-lite",
+      "npmUrl": "https://www.npmjs.com/package/trigons-lite",
+      "category": "devops",
+      "createdAt": "2026-08-09T06:18:44.206Z",
+      "discoveredAt": "2026-08-09T06:40:38.860Z",
+      "score": 80
     },
     {
       "name": "trippy-mcp",
