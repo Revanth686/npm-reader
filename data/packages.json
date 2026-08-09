@@ -2834,6 +2834,18 @@
       "score": 87
     },
     {
+      "name": "@asentum/connect",
+      "version": "0.1.0",
+      "description": "Drop-in wallet connect for AsentumChain dapps — <ConnectButton /> + hooks (useWallet, useAsentum). Zero CSS imports, zero heavy deps.",
+      "license": "MIT",
+      "repository": "https://github.com/asentum-network/asentum-connect",
+      "npmUrl": "https://www.npmjs.com/package/%40asentum%2Fconnect",
+      "category": "frontend",
+      "createdAt": "2026-08-09T07:15:35.783Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 46
+    },
+    {
       "name": "@ashrithsathu/p2pchat",
       "version": "0.6.0",
       "description": "End-to-end encrypted, local-first terminal chat",
@@ -7466,6 +7478,18 @@
       "score": 83
     },
     {
+      "name": "@digitalronin/healthchecks-io-mcp",
+      "version": "1.0.1",
+      "description": "Unofficial MCP server for managing Healthchecks.io checks via the Management API",
+      "license": "MIT",
+      "repository": "https://github.com/ronniechong/healthchecks-io-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40digitalronin%2Fhealthchecks-io-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T06:49:37.701Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 49
+    },
+    {
       "name": "@dingalabs/clim",
       "version": "1.1.0",
       "description": "Control Claude Code + Codex from your phone. LAN offline or E2E-encrypted cloud. One command: clim claude.",
@@ -9036,6 +9060,18 @@
       "createdAt": "2026-07-29T04:02:12.406Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 71
+    },
+    {
+      "name": "@erduochen/skilldoctor",
+      "version": "0.1.0",
+      "description": "npx-ready CLI-first Agent/Skill quality governance toolchain.",
+      "license": "MIT",
+      "repository": "https://github.com/IsolatedStar0/skill-doctor",
+      "npmUrl": "https://www.npmjs.com/package/%40erduochen%2Fskilldoctor",
+      "category": "cli",
+      "createdAt": "2026-08-09T06:45:07.606Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 56
     },
     {
       "name": "@erickmorales91/nest-query-budget",
@@ -11594,6 +11630,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/frink",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FRINK (build etherscan-frink-ed2ee398-1786259134141, commit 631581e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/frink",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ffrink",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T07:05:58.533Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/ftw",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for FTW (build etherscan-ftw-306fd3e7-1785703966831, commit 506cbe7, branch etherscan)",
@@ -13178,6 +13226,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/vault",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for Vault (build etherscan-vault-551d1557-1786258323957, commit cb76074, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/vault",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fvault",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T18:28:59.201Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/vbit",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for VBIT (build etherscan-vbit-b8366948-1786253501967, commit 8d97dad, branch etherscan)",
@@ -13790,6 +13850,18 @@
       "score": 60
     },
     {
+      "name": "@gtm-planetary/orbit",
+      "version": "0.4.3",
+      "description": "Orbit — plug-and-play harness that lets an ElevenLabs Conversational AI agent navigate your site or app (change pages, highlight elements, fill forms, capture leads) while the live conversation keeps running. Framework-agnostic, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/GTM-Planetary/Orbit_Navigator",
+      "npmUrl": "https://www.npmjs.com/package/%40gtm-planetary%2Forbit",
+      "category": "data",
+      "createdAt": "2026-08-09T06:54:26.887Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 54
+    },
+    {
       "name": "@gtmi/mcp-status-callback",
       "version": "2.0.1",
       "description": "Public HTTPS callback URLs for local development via a Twilio-account-authenticated WSS relay. No ngrok, no local HTTP listener.",
@@ -14268,6 +14340,18 @@
       "createdAt": "2026-08-08T06:50:10.029Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 50
+    },
+    {
+      "name": "@hey-amanthakur/coord-box",
+      "version": "1.0.0",
+      "description": "Coord-Box — distributed coordination primitives for Node.js: counting semaphores and an idempotency-key registry. Zero runtime dependencies. Pluggable backends (in-memory, Redis) and framework adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/hey-amanthakur/coord-box",
+      "npmUrl": "https://www.npmjs.com/package/%40hey-amanthakur%2Fcoord-box",
+      "category": "backend",
+      "createdAt": "2026-08-09T07:22:00.152Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 100
     },
     {
       "name": "@hey-amanthakur/lock-box",
@@ -18710,6 +18794,30 @@
       "score": 83
     },
     {
+      "name": "@meetreeve/module-channels",
+      "version": "1.0.0",
+      "description": "Reeve.Channels module extracted from the tenant template (DEV-8166 pilot): the ChannelsConsole surface plus a framework-agnostic typed channels client for the host-key send route. Versioned in lockstep with the Python reeve-module-channels package (both s",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/MindFortressInc/reeve-frontend",
+      "npmUrl": "https://www.npmjs.com/package/%40meetreeve%2Fmodule-channels",
+      "category": "frontend",
+      "createdAt": "2026-08-09T07:17:47.478Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 57
+    },
+    {
+      "name": "@meetreeve/module-sign",
+      "version": "1.0.0",
+      "description": "Reeve.Sign module extracted from the tenant template (DEV-8175, second module through the DEV-8166 extraction pattern): the SignConsole surface — the honest 'not provisioned' state plus the Documenso embed preview for an externally-issued signing token. V",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/MindFortressInc/reeve-frontend",
+      "npmUrl": "https://www.npmjs.com/package/%40meetreeve%2Fmodule-sign",
+      "category": "frontend",
+      "createdAt": "2026-08-09T07:20:06.278Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 57
+    },
+    {
       "name": "@meitner/tiptap-table-plus",
       "version": "3.1.1",
       "description": "Meitner fork of tiptap-table-plus — Tiptap table extra options like duplicate column, duplicate row etc...",
@@ -21948,6 +22056,30 @@
       "createdAt": "2026-07-26T06:10:06.722Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 86
+    },
+    {
+      "name": "@okeav/idp-core-dynamodb",
+      "version": "0.1.1",
+      "description": "DynamoDB storage adapter for @okeav/idp-core.",
+      "license": "MIT",
+      "repository": "https://github.com/okeav/idp-dynamodb-adapter",
+      "npmUrl": "https://www.npmjs.com/package/%40okeav%2Fidp-core-dynamodb",
+      "category": "utilities",
+      "createdAt": "2026-07-26T06:15:48.238Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 51
+    },
+    {
+      "name": "@okeav/idp-core-mssql",
+      "version": "0.1.1",
+      "description": "Microsoft SQL Server storage adapter for @okeav/idp-core.",
+      "license": "MIT",
+      "repository": "https://github.com/okeav/idp-mssql-adapter",
+      "npmUrl": "https://www.npmjs.com/package/%40okeav%2Fidp-core-mssql",
+      "category": "backend",
+      "createdAt": "2026-07-26T06:16:26.954Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 49
     },
     {
       "name": "@okeav/rbac-core",
@@ -26066,6 +26198,18 @@
       "score": 84
     },
     {
+      "name": "@saemol/sdk",
+      "version": "0.2.0",
+      "description": "Saemol 판매자 연동 SDK — 라이선스 검증·권한 확인·사용량 리포팅·웹훅 서명 검증 (Node.js 서버용)",
+      "license": "MIT",
+      "repository": "https://github.com/soontofu030/saemol-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40saemol%2Fsdk",
+      "category": "utilities",
+      "createdAt": "2026-08-02T05:49:36.131Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 58
+    },
+    {
       "name": "@safecore/aegis-cli",
       "version": "1.0.0",
       "description": "AEGIS CLI — orquestracao da frota: instancias, releases, canais, discos e diagnostico.",
@@ -26378,6 +26522,18 @@
       "score": 68
     },
     {
+      "name": "@scottzx/1acp",
+      "version": "0.14.0",
+      "description": "Headless CLI client for the Agent Client Protocol (ACP) — talk to coding agents from the command line",
+      "license": "MIT",
+      "repository": "https://github.com/scottzx/1acp",
+      "npmUrl": "https://www.npmjs.com/package/%40scottzx%2F1acp",
+      "category": "cli",
+      "createdAt": "2026-08-09T07:05:16.055Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 55
+    },
+    {
       "name": "@screamer-labs/screamer",
       "version": "2.1.0",
       "description": "WASM build of screamer, a high-performance causal streaming time-series operator library, compiled from the same C++ core as the Python package.",
@@ -26604,6 +26760,30 @@
       "createdAt": "2026-07-28T04:33:10.407Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 78
+    },
+    {
+      "name": "@sendgo/react",
+      "version": "1.0.1",
+      "description": "Sendgo React SDK — 카카오 알림톡/친구톡, SMS/LMS/MMS (Next.js / Server Actions)",
+      "license": "MIT",
+      "repository": "https://github.com/send-go/react",
+      "npmUrl": "https://www.npmjs.com/package/%40sendgo%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-07-28T04:33:44.044Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 65
+    },
+    {
+      "name": "@sendgo/vue",
+      "version": "1.0.1",
+      "description": "Sendgo Vue.js SDK — 카카오 알림톡/친구톡, SMS/LMS/MMS (Nuxt / Server Routes)",
+      "license": "MIT",
+      "repository": "https://github.com/send-go/vue",
+      "npmUrl": "https://www.npmjs.com/package/%40sendgo%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-07-28T04:33:46.822Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 62
     },
     {
       "name": "@sentdm/n8n-nodes-sent",
@@ -27984,6 +28164,18 @@
       "createdAt": "2026-07-30T05:36:08.762Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 68
+    },
+    {
+      "name": "@sshdotcodes/auto-cc",
+      "version": "1.0.0",
+      "description": "Automatic tool-call review for Claude Code — a local encoder approves safe tool calls and blocks dangerous ones before they run",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SSHdotCodes/auto-cc",
+      "npmUrl": "https://www.npmjs.com/package/%40sshdotcodes%2Fauto-cc",
+      "category": "utilities",
+      "createdAt": "2026-08-09T06:54:41.522Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 84
     },
     {
       "name": "@sshdotcodes/auto-pi",
@@ -30672,6 +30864,18 @@
       "createdAt": "2026-07-30T22:11:07.616Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 67
+    },
+    {
+      "name": "@uuidna/uuidna",
+      "version": "0.1.0",
+      "description": "Content-addressed identity, honest by construction — mint + mind, holographic merkle proofs, a reversible imprint codec, a reeducating harness, and a measured billing model. Integrity, not truth. 0/7.",
+      "license": "CC-BY-NC-4.0",
+      "repository": "https://github.com/uuidna/uuidna",
+      "npmUrl": "https://www.npmjs.com/package/%40uuidna%2Fuuidna",
+      "category": "utilities",
+      "createdAt": "2026-08-09T06:57:34.196Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 62
     },
     {
       "name": "@uuon-foundation/asciii-continous-psystem",
@@ -34644,6 +34848,18 @@
       "createdAt": "2026-08-06T16:56:10.347Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 88
+    },
+    {
+      "name": "app-factory-mcp",
+      "version": "0.3.1",
+      "description": "App Factory - an orchestrator MCP server that guides any MCP-capable agent (Cursor, Devin, Claude...) from an app description to a deployed, audited application.",
+      "license": "MIT",
+      "repository": "https://github.com/DPGS-oss/app-factory-mcp",
+      "npmUrl": "https://www.npmjs.com/package/app-factory-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T07:08:48.831Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 84
     },
     {
       "name": "appship-cli",
@@ -40610,6 +40826,18 @@
       "score": 84
     },
     {
+      "name": "exceljs-community",
+      "version": "4.5.0",
+      "description": "Excel Workbook Manager - Read and Write xlsx and csv Files. Maintained drop-in replacement for exceljs.",
+      "license": "MIT",
+      "repository": "https://github.com/xcybplx/exceljs-community",
+      "npmUrl": "https://www.npmjs.com/package/exceljs-community",
+      "category": "data",
+      "createdAt": "2026-08-09T07:30:07.666Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 65
+    },
+    {
       "name": "expo-modern-table",
       "version": "0.1.1",
       "description": "A modern, feature-rich data table for Expo and React Native — sorting, filtering, sticky columns, row/column reorder, theming, and more.",
@@ -41640,6 +41868,18 @@
       "createdAt": "2026-08-03T09:38:26.025Z",
       "discoveredAt": "2026-08-03T19:21:31.086Z",
       "score": 88
+    },
+    {
+      "name": "funclaude",
+      "version": "1.0.0",
+      "description": "Replace Claude Code's spinner verbs with heists, felonies and supervillainy.",
+      "license": "MIT",
+      "repository": "https://github.com/kaizenaiofficial2026/funclaude",
+      "npmUrl": "https://www.npmjs.com/package/funclaude",
+      "category": "cli",
+      "createdAt": "2026-08-09T07:04:49.042Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 68
     },
     {
       "name": "fuse-napi",
@@ -43898,6 +44138,18 @@
       "score": 70
     },
     {
+      "name": "ipfs-pay-to-pin-client",
+      "version": "0.1.1",
+      "description": "TypeScript client library for IPFS Pay-to-Pin Gateway via Algorand microUSDC x402 payments",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/IcanBENCHurCAT/ipfs-pay-to-pin",
+      "npmUrl": "https://www.npmjs.com/package/ipfs-pay-to-pin-client",
+      "category": "build-tools",
+      "createdAt": "2026-07-31T15:47:45.928Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 47
+    },
+    {
       "name": "iryx-ui",
       "version": "0.1.0",
       "description": "Iryx — an artful Vue 3 component library built on Reka UI and Tailwind CSS v4.",
@@ -44318,6 +44570,18 @@
       "score": 78
     },
     {
+      "name": "kanbo-board",
+      "version": "0.2.0",
+      "description": "Local-first project management. Kanban, sprints and roadmap from your terminal, with a git repo as the only backend. Ships an MCP server too.",
+      "license": "MIT",
+      "repository": "https://github.com/maxgfr/kanbo",
+      "npmUrl": "https://www.npmjs.com/package/kanbo-board",
+      "category": "backend",
+      "createdAt": "2026-08-09T07:21:55.713Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 50
+    },
+    {
       "name": "kanpai-toast",
       "version": "0.1.0",
       "description": "Dependency-free, accessible toast notifications. No framework required.",
@@ -44508,6 +44772,18 @@
       "createdAt": "2026-08-01T19:59:29.863Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 80
+    },
+    {
+      "name": "kimi-memory",
+      "version": "0.1.0",
+      "description": "Installer for kimi-memory MCP server — persistent memory for Kimi Code CLI",
+      "license": "MIT",
+      "repository": "https://github.com/cmcuriqueo/kimi-memory",
+      "npmUrl": "https://www.npmjs.com/package/kimi-memory",
+      "category": "backend",
+      "createdAt": "2026-08-09T07:22:49.128Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 47
     },
     {
       "name": "king-research-runner",
@@ -52790,6 +53066,18 @@
       "score": 65
     },
     {
+      "name": "react-drifter-stars",
+      "version": "2.0.1",
+      "description": "React version of Drifter Stars by Cory Hughart",
+      "license": "MIT",
+      "repository": "https://github.com/Devil7DK/react-drifter-stars",
+      "npmUrl": "https://www.npmjs.com/package/react-drifter-stars",
+      "category": "frontend",
+      "createdAt": "2026-08-09T07:11:56.982Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 70
+    },
+    {
       "name": "react-easy-captcha",
       "version": "1.2.0",
       "description": "First-party image CAPTCHA for React: typed EasyCaptcha widget plus Node challenge issue/verify with pluggable storage. No third-party CAPTCHA provider.",
@@ -52932,6 +53220,18 @@
       "createdAt": "2026-08-06T11:01:31.321Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 72
+    },
+    {
+      "name": "react-native-color-library",
+      "version": "1.0.0",
+      "description": "A comprehensive, TypeScript-first color, gradient, and theming library for React Native. Colors, palettes, gradients, contrast utilities, and custom color/palette generation — all StyleSheet-compatible, with zero config.",
+      "license": "MIT",
+      "repository": "https://github.com/saadwaheed10/react-native-color-library",
+      "npmUrl": "https://www.npmjs.com/package/react-native-color-library",
+      "category": "frontend",
+      "createdAt": "2026-08-09T07:03:34.978Z",
+      "discoveredAt": "2026-08-09T07:39:25.476Z",
+      "score": 89
     },
     {
       "name": "react-native-cupertino-tabs",
