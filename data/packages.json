@@ -5822,6 +5822,18 @@
       "score": 91
     },
     {
+      "name": "@code-plate/next-image-serve",
+      "version": "1.0.0",
+      "description": "Configurable Next.js App Router route handler for safely serving local images with ETag/304 support, in-memory LRU caching, and streaming for large files.",
+      "license": "MIT",
+      "repository": "https://github.com/MJavadSF/next-image-serve",
+      "npmUrl": "https://www.npmjs.com/package/%40code-plate%2Fnext-image-serve",
+      "category": "backend",
+      "createdAt": "2026-08-09T13:32:07.544Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 76
+    },
+    {
       "name": "@code-yeongyu/senpi-agent-core",
       "version": "2026.7.26",
       "description": "General-purpose agent with transport abstraction, state management, and attachment support",
@@ -6756,6 +6768,18 @@
       "createdAt": "2026-08-04T17:08:54.304Z",
       "discoveredAt": "2026-08-04T18:19:51.652Z",
       "score": 73
+    },
+    {
+      "name": "@danielesuga/prodocs",
+      "version": "1.1.1",
+      "description": "Evidence-backed documentation and context infrastructure for codebases and coding agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/boyeesu/prodocs",
+      "npmUrl": "https://www.npmjs.com/package/%40danielesuga%2Fprodocs",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:12:15.212Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 82
     },
     {
       "name": "@danieljvdm/dev-kit",
@@ -10236,6 +10260,18 @@
       "createdAt": "2026-08-09T08:39:37.173Z",
       "discoveredAt": "2026-08-09T09:19:59.096Z",
       "score": 44
+    },
+    {
+      "name": "@framy2/ctxray",
+      "version": "0.1.0",
+      "description": "Local-first context, usage, and profile diagnostics for OpenAI Codex.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/FramY2/ctxray",
+      "npmUrl": "https://www.npmjs.com/package/%40framy2%2Fctxray",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:20:15.348Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 68
     },
     {
       "name": "@franklinww/create-agent-os",
@@ -14510,6 +14546,42 @@
       "score": 79
     },
     {
+      "name": "@haybarn/ext-anofox_statistics-h1-5-5",
+      "version": "202607.25.51526",
+      "description": "A DuckDB extension for statistical regression analysis, providing OLS, Ridge, Elastic Net, LARS/LassoLars, WLS, recursive least squares, robust estimators (Huber, RANSAC, Theil-Sen), GLMs (Poisson, Negative Binomial, Binomial, Tweedie, Gamma, Logistic), a",
+      "license": "BSL 1.1",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-anofox_statistics-h1-5-5",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:02:23.156Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 59
+    },
+    {
+      "name": "@haybarn/ext-anofox_statistics-h1-5-5-wasm-eh",
+      "version": "202607.25.51526",
+      "description": "WebAssembly (eh) build of the Haybarn extension 'anofox_statistics' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "BSL 1.1",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-anofox_statistics-h1-5-5-wasm-eh",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:02:17.974Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 58
+    },
+    {
+      "name": "@haybarn/ext-anofox_statistics-h1-5-5-wasm-mvp",
+      "version": "202607.25.51526",
+      "description": "WebAssembly (mvp) build of the Haybarn extension 'anofox_statistics' for duckdb-wasm. Built against haybarn 1.5.5. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.",
+      "license": "BSL 1.1",
+      "repository": "https://github.com/Query-farm-haybarn/haybarn-community-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40haybarn%2Fext-anofox_statistics-h1-5-5-wasm-mvp",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T14:02:15.571Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 58
+    },
+    {
       "name": "@hazrid1993/pi-advisor",
       "version": "0.6.2",
       "description": "A second model that peer-reviews every turn of your main pi agent and injects concise advice. Pick any model from your registry as the advisor.",
@@ -14520,6 +14592,18 @@
       "createdAt": "2026-08-01T10:57:45.139Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 82
+    },
+    {
+      "name": "@hector21/octoform",
+      "version": "0.1.0",
+      "description": "Declarative plan/apply governance for GitHub repositories: settings, branch rules, environments and files, from one YAML file",
+      "license": "MIT",
+      "repository": "https://github.com/hector-ae21/octoform",
+      "npmUrl": "https://www.npmjs.com/package/%40hector21%2Foctoform",
+      "category": "data",
+      "createdAt": "2026-08-09T13:36:37.695Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 78
     },
     {
       "name": "@hectorpalmatellez/toki",
@@ -18398,6 +18482,18 @@
       "score": 77
     },
     {
+      "name": "@longhun12346/file-encoding",
+      "version": "3.1.0",
+      "description": "Encoding guard for Windows C++ projects (GBK/ANSI/UTF-16): blocks unsafe native edits and steers agents to transcode tools. Works as a Claude Code plugin and a Pi extension.",
+      "license": "MIT",
+      "repository": "https://github.com/longhun12346/artifact-skills",
+      "npmUrl": "https://www.npmjs.com/package/%40longhun12346%2Ffile-encoding",
+      "category": "utilities",
+      "createdAt": "2026-08-09T13:58:48.604Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 63
+    },
+    {
       "name": "@loomidev/bottom-nav",
       "version": "0.2.0",
       "description": "<loomi-bottom-nav>/<loomi-bottom-nav-item> — a mobile bottom navigation bar with badges, active-state styles, and framework-agnostic routing.",
@@ -18960,6 +19056,18 @@
       "createdAt": "2026-07-29T15:39:35.270Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 65
+    },
+    {
+      "name": "@mantaq/core",
+      "version": "0.0.1",
+      "description": "State machine runtime with actor model, event system, state hierarchy, effects, and virtual clock.",
+      "license": "MIT",
+      "repository": "https://github.com/AndersCan/mantaq",
+      "npmUrl": "https://www.npmjs.com/package/%40mantaq%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-09T13:30:46.155Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 59
     },
     {
       "name": "@maptiles-doctor/core",
@@ -19862,6 +19970,18 @@
       "score": 73
     },
     {
+      "name": "@mirzasaikatahmmed/token-monitor",
+      "version": "1.0.1",
+      "description": "Token Monitor agent CLI — collect Claude / Puku / Cursor usage and ship it to your dashboard",
+      "license": "MIT",
+      "repository": "https://github.com/mirzasaikatahmmed/token-monitor-package",
+      "npmUrl": "https://www.npmjs.com/package/%40mirzasaikatahmmed%2Ftoken-monitor",
+      "category": "cli",
+      "createdAt": "2026-08-09T13:46:26.632Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 64
+    },
+    {
       "name": "@misakiwww/gmod-vibe-coding",
       "version": "0.1.1",
       "description": "Generic AI-coding collaboration harness skeleton (Trellis workflow + cross-platform agents/skills/hooks). GMod profile, GitNexus, and MCP integrations are layered on by separate add scripts.",
@@ -19956,6 +20076,18 @@
       "createdAt": "2026-07-26T15:40:08.997Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 67
+    },
+    {
+      "name": "@mmeisterhans/node-red-contrib-particle-cloud",
+      "version": "0.1.0",
+      "description": "Rewrite of the abandoned official Particle nodes for Node-RED 5 and current Particle Cloud APIs",
+      "license": "MIT",
+      "repository": "https://github.com/mmeisterhans/node-red-contrib-particle-cloud",
+      "npmUrl": "https://www.npmjs.com/package/%40mmeisterhans%2Fnode-red-contrib-particle-cloud",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:19:15.160Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 75
     },
     {
       "name": "@mnci/nx-flutter",
@@ -21684,6 +21816,18 @@
       "createdAt": "2026-07-25T15:20:22.229Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
       "score": 59
+    },
+    {
+      "name": "@nestjs-agentic/core",
+      "version": "0.2.1",
+      "description": "NestJS-native primitives for building production AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/irzix/nestjs-agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40nestjs-agentic%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-09T13:37:32.082Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 65
     },
     {
       "name": "@nestjs-redisx/pubsub",
@@ -31730,6 +31874,18 @@
       "score": 57
     },
     {
+      "name": "@uuon-foundation/fractal-em-skin-engine",
+      "version": "1.0.0",
+      "description": "Fractal EM Skin Engine — Layer 11b · Dermal Field · clouud biological architecture. Three.js 3D surface displacement via EM plane waves, Gaussian beams, spherical harmonics, and Spectral Element Method. tanh soft clamp. 13 algorithms. F=(P,E,M,R,C).",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/UUON-Foundation/fractal-em-skin-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40uuon-foundation%2Ffractal-em-skin-engine",
+      "category": "utilities",
+      "createdAt": "2026-08-09T14:07:24.338Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 70
+    },
+    {
       "name": "@uuon-foundation/mandelbox-amazing-family-engine",
       "version": "1.0.0",
       "description": "Real-time WebGL2 ray marching fractal renderer, four fractal types, token-gated iterations, Base Mainnet. UUON Foundation Inc.",
@@ -34082,6 +34238,18 @@
       "score": 69
     },
     {
+      "name": "@zinsani/carousel-react",
+      "version": "0.2.0",
+      "description": "A headless, accessible React carousel built with native CSS scroll-snap — zero styling opinion, zero runtime dependencies beyond React.",
+      "license": "MIT",
+      "repository": "https://github.com/zinsani/carousel-react",
+      "npmUrl": "https://www.npmjs.com/package/%40zinsani%2Fcarousel-react",
+      "category": "frontend",
+      "createdAt": "2026-08-08T00:25:34.329Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 61
+    },
+    {
       "name": "@ziyarago/glass-ui-kit",
       "version": "1.31.0",
       "description": "A modern glassmorphism-inspired Vue 3 + TypeScript component library — ~139 components across 12 groups, two palettes, dark mode and 6 locales.",
@@ -36060,6 +36228,18 @@
       "createdAt": "2026-08-09T12:55:38.621Z",
       "discoveredAt": "2026-08-09T13:32:47.876Z",
       "score": 80
+    },
+    {
+      "name": "asterisk-audiosocket",
+      "version": "0.1.0",
+      "description": "Dependency-free Asterisk AudioSocket protocol implementation for Node.js. TypeScript types, framed slin16 codec, paced playback, barge-in.",
+      "license": "MIT",
+      "repository": "https://github.com/ictinnovations/asterisk-audiosocket",
+      "npmUrl": "https://www.npmjs.com/package/asterisk-audiosocket",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T13:41:21.936Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 75
     },
     {
       "name": "astexplore-mcp",
@@ -39780,6 +39960,18 @@
       "createdAt": "2026-08-01T19:45:27.967Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 78
+    },
+    {
+      "name": "critpath",
+      "version": "0.1.1",
+      "description": "Find out why your CI is slow. Waterfall, critical path and queue analysis for GitHub Actions — in your terminal, no signup.",
+      "license": "MIT",
+      "repository": "https://github.com/vineetdev02/critpath",
+      "npmUrl": "https://www.npmjs.com/package/critpath",
+      "category": "data",
+      "createdAt": "2026-08-09T14:05:10.737Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 82
     },
     {
       "name": "cron-last-due",
@@ -44270,6 +44462,18 @@
       "score": 81
     },
     {
+      "name": "homebridge-domintell-legacy",
+      "version": "0.2.0",
+      "description": "Homebridge dynamic platform plugin for Domintell legacy protocol over DGQG04 WebSocket transport.",
+      "license": "MIT",
+      "repository": "https://github.com/LemanNick/domintell-homebridge-legacy",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-domintell-legacy",
+      "category": "frontend",
+      "createdAt": "2026-08-09T14:13:32.224Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 71
+    },
+    {
       "name": "homebridge-hon-haier-ac",
       "version": "1.0.0",
       "description": "Control Haier air conditioners that use the hOn cloud app from HomeKit via Homebridge: power, mode, temperature, fan speed and swing.",
@@ -44688,6 +44892,18 @@
       "createdAt": "2026-08-06T17:33:01.459Z",
       "discoveredAt": "2026-08-07T19:38:29.763Z",
       "score": 60
+    },
+    {
+      "name": "hydra-admin",
+      "version": "1.0.0",
+      "description": "Command-line client for the Hydra LLM gateway admin REST API.",
+      "license": "MIT",
+      "repository": "https://github.com/ipconfiger/hydra",
+      "npmUrl": "https://www.npmjs.com/package/hydra-admin",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:24:59.707Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 63
     },
     {
       "name": "hydrargyri",
@@ -46130,6 +46346,18 @@
       "score": 100
     },
     {
+      "name": "kubebot-cli",
+      "version": "1.0.1",
+      "description": "Enterprise K8s & Docker Pipeline Generator",
+      "license": "MIT",
+      "repository": "https://github.com/shamodhas/kubebot-cli",
+      "npmUrl": "https://www.npmjs.com/package/kubebot-cli",
+      "category": "cli",
+      "createdAt": "2026-08-09T13:22:39.613Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 74
+    },
+    {
       "name": "kukuroo",
       "version": "0.1.0",
       "description": "Send Web Push notifications to your own devices from anything. Cloudflare Worker + KV, Declarative Web Push, no third-party service.",
@@ -46248,6 +46476,18 @@
       "createdAt": "2026-08-05T18:50:50.231Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 78
+    },
+    {
+      "name": "lark-remote",
+      "version": "0.1.0",
+      "description": "Feishu (Lark) private-chat bridge to local coding agents — Claude Code / Codex / opencode / pi / kimi, with live-streaming CardKit 2.0 cards",
+      "license": "MIT",
+      "repository": "https://github.com/hhr-code/lark-remote",
+      "npmUrl": "https://www.npmjs.com/package/lark-remote",
+      "category": "cli",
+      "createdAt": "2026-08-09T14:09:46.129Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 65
     },
     {
       "name": "layercall",
@@ -46692,6 +46932,18 @@
       "createdAt": "2026-07-31T10:47:23.518Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 82
+    },
+    {
+      "name": "llmnav",
+      "version": "0.5.1",
+      "description": "A deterministic semantic navigation layer for LLM coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/0disoft/llmnav",
+      "npmUrl": "https://www.npmjs.com/package/llmnav",
+      "category": "cli",
+      "createdAt": "2026-08-09T14:01:04.216Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 72
     },
     {
       "name": "llmuid",
@@ -48120,6 +48372,18 @@
       "createdAt": "2026-07-31T21:41:53.137Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 78
+    },
+    {
+      "name": "memosaver",
+      "version": "0.2.0",
+      "description": "Local-first persistent memory and session continuity MCP server for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/akufikri/memosaver",
+      "npmUrl": "https://www.npmjs.com/package/memosaver",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:04:02.718Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 66
     },
     {
       "name": "meo-skia-canvas",
@@ -49800,6 +50064,18 @@
       "createdAt": "2026-08-07T15:16:42.116Z",
       "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 83
+    },
+    {
+      "name": "nexora-iot-ui",
+      "version": "0.1.1",
+      "description": "Componentes de UI para IoT industrial, con una capa opcional para hablar con dispositivos por Portal",
+      "license": "MIT",
+      "repository": "https://github.com/Camilo959/nexora-ui",
+      "npmUrl": "https://www.npmjs.com/package/nexora-iot-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-09T14:16:25.777Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 75
     },
     {
       "name": "next-blogpanel",
@@ -59402,6 +59678,18 @@
       "score": 80
     },
     {
+      "name": "thunder-client-export",
+      "version": "1.0.0",
+      "description": "Export your Thunder Client collections to portable .http files. Works without a subscription — reads the JSON Thunder Client already stores on your own disk.",
+      "license": "MIT",
+      "repository": "https://github.com/dhanushs1912-svg/thunder-client-export",
+      "npmUrl": "https://www.npmjs.com/package/thunder-client-export",
+      "category": "backend",
+      "createdAt": "2026-08-09T14:23:44.002Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 68
+    },
+    {
       "name": "tianyan",
       "version": "0.0.4",
       "description": "天衍 - 多Agent协同小说创作系统, 7个专家Agent, 5阶段写作流水线, 33维审计, 111位白金作家语料库",
@@ -60204,6 +60492,18 @@
       "createdAt": "2026-07-26T07:35:29.982Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 74
+    },
+    {
+      "name": "typesafe-ws",
+      "version": "0.1.0",
+      "description": "A typesafe WebSocket subscriptions library for Node.js, TypeScript and React, companion to typesafe-rpc.",
+      "license": "MIT",
+      "repository": "https://github.com/bacali95/typesafe-rpc",
+      "npmUrl": "https://www.npmjs.com/package/typesafe-ws",
+      "category": "frontend",
+      "createdAt": "2026-08-09T13:40:02.196Z",
+      "discoveredAt": "2026-08-09T14:26:07.307Z",
+      "score": 61
     },
     {
       "name": "ua-plates",
