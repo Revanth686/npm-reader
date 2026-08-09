@@ -1754,6 +1754,18 @@
       "score": 64
     },
     {
+      "name": "@allratestoday/bcb-exchange-rate",
+      "version": "1.0.3",
+      "description": "Official Banco Central do Brasil (Brazil) daily exchange rates — ~155 currencies vs BRL, history since 2016. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/bcb-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fbcb-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-08-06T16:40:16.830Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 65
+    },
+    {
       "name": "@allratestoday/hmrc-exchange-rate",
       "version": "1.0.2",
       "description": "Official HM Revenue & Customs (United Kingdom) monthly exchange rates — ~140 currencies vs GBP, history since 2021. Zero-dependency Node.js/TypeScript client.",
@@ -3228,6 +3240,42 @@
       "createdAt": "2026-08-05T14:39:58.637Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 77
+    },
+    {
+      "name": "@aura-payments/cli",
+      "version": "1.0.2",
+      "description": "Aura Payments CLI — Stripe-style developer interface for escrows, agents, mandates, and wallets. Includes live mandate inbox watch with inline approve/reject.",
+      "license": "MIT",
+      "repository": "https://github.com/humancodex/ap",
+      "npmUrl": "https://www.npmjs.com/package/%40aura-payments%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-07T01:00:39.863Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 66
+    },
+    {
+      "name": "@aura-payments/mcp-server",
+      "version": "1.0.1",
+      "description": "Model Context Protocol server for Aura Payments. Lets AI agents and LLMs (Claude Desktop, Cursor, Continue, etc.) drive Aura escrows, mandates, and agent governance natively.",
+      "license": "MIT",
+      "repository": "https://github.com/humancodex/ap",
+      "npmUrl": "https://www.npmjs.com/package/%40aura-payments%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-07T01:00:36.317Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 85
+    },
+    {
+      "name": "@aura-payments/sdk",
+      "version": "2.1.1",
+      "description": "TypeScript SDK for Aura Payments Platform",
+      "license": "MIT",
+      "repository": "https://github.com/humancodex/ap",
+      "npmUrl": "https://www.npmjs.com/package/%40aura-payments%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-07T01:00:31.588Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 80
     },
     {
       "name": "@auron-labs/opencode-worktrunk",
@@ -9914,6 +9962,18 @@
       "score": 63
     },
     {
+      "name": "@filebouncer/core",
+      "version": "0.5.0",
+      "description": "Lightweight Node.js library for structural validation of uploaded files.",
+      "license": "MIT",
+      "repository": "https://github.com/Ramzi-Abidi/fileBouncer",
+      "npmUrl": "https://www.npmjs.com/package/%40filebouncer%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-06T06:23:44.926Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 60
+    },
+    {
       "name": "@fileshed/kysely-node-sqlite",
       "version": "0.1.0",
       "description": "Kysely dialect for Node's built-in node:sqlite, with statement routing decided by StatementSync.columns().",
@@ -15408,6 +15468,30 @@
       "createdAt": "2026-08-09T18:08:29.665Z",
       "discoveredAt": "2026-08-09T18:28:03.745Z",
       "score": 84
+    },
+    {
+      "name": "@hoox-sh/hoox-cli",
+      "version": "0.11.0",
+      "description": "Hoox CLI — manage Cloudflare Workers, infrastructure, secrets, and deployments (@hoox-sh/hoox-cli)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hoox-sh/hoox",
+      "npmUrl": "https://www.npmjs.com/package/%40hoox-sh%2Fhoox-cli",
+      "category": "cli",
+      "createdAt": "2026-08-09T19:04:57.010Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 73
+    },
+    {
+      "name": "@hoox-sh/hoox-tui",
+      "version": "0.2.0",
+      "description": "Hoox algorithmic trading terminal operations center — OpenTUI dashboard",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hoox-sh/hoox",
+      "npmUrl": "https://www.npmjs.com/package/%40hoox-sh%2Fhoox-tui",
+      "category": "cli",
+      "createdAt": "2026-08-09T19:04:59.678Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 69
     },
     {
       "name": "@horizon-integrations/tecimob-crm",
@@ -24458,6 +24542,18 @@
       "score": 68
     },
     {
+      "name": "@phall/phui",
+      "version": "0.15.0",
+      "description": "Terminal UI for GitHub pull requests — a fork of kitlangton/ghui",
+      "license": "MIT",
+      "repository": "https://github.com/phall1/phui",
+      "npmUrl": "https://www.npmjs.com/package/%40phall%2Fphui",
+      "category": "cli",
+      "createdAt": "2026-08-09T17:36:14.702Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 64
+    },
+    {
       "name": "@pharmatools/groundwork",
       "version": "0.2.0",
       "description": "Groundwork — a deployment-readiness harness for document-QA AI systems. Scaffolds redaction, grounding evals, a CI regression gate, and a guided playbook into your repo, so a small team can take a prototype to safe production.",
@@ -26390,6 +26486,66 @@
       "score": 62
     },
     {
+      "name": "@reitaard/repi-agent-core",
+      "version": "0.83.0",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/reitaard/re.pi",
+      "npmUrl": "https://www.npmjs.com/package/%40reitaard%2Frepi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-09T19:01:24.023Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 69
+    },
+    {
+      "name": "@reitaard/repi-ai",
+      "version": "0.83.0",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/reitaard/re.pi",
+      "npmUrl": "https://www.npmjs.com/package/%40reitaard%2Frepi-ai",
+      "category": "backend",
+      "createdAt": "2026-08-09T19:01:18.549Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 73
+    },
+    {
+      "name": "@reitaard/repi-coding-agent",
+      "version": "0.83.0",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/reitaard/re.pi",
+      "npmUrl": "https://www.npmjs.com/package/%40reitaard%2Frepi-coding-agent",
+      "category": "cli",
+      "createdAt": "2026-07-25T17:57:23.719Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 69
+    },
+    {
+      "name": "@reitaard/repi-telemetry",
+      "version": "0.83.0",
+      "description": "Vendor-neutral telemetry contracts and typed schema utilities for pi",
+      "license": "MIT",
+      "repository": "https://github.com/reitaard/re.pi",
+      "npmUrl": "https://www.npmjs.com/package/%40reitaard%2Frepi-telemetry",
+      "category": "devops",
+      "createdAt": "2026-08-09T19:01:12.340Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 62
+    },
+    {
+      "name": "@reitaard/repi-tui",
+      "version": "0.83.0",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/reitaard/re.pi",
+      "npmUrl": "https://www.npmjs.com/package/%40reitaard%2Frepi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T19:01:30.394Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 73
+    },
+    {
       "name": "@relai-team/access-sdk",
       "version": "0.8.0",
       "description": "Official Relai Access SDK, open Relai Exchange Zone nodes over BLE, backed by the Relai Access platform (server-owns-trust).",
@@ -26928,6 +27084,30 @@
       "createdAt": "2026-08-02T22:56:36.896Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 88
+    },
+    {
+      "name": "@rj11io/11agi",
+      "version": "1.0.0",
+      "description": "Open source general AI skills, plugins, and workflows",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rj11io/11agi",
+      "npmUrl": "https://www.npmjs.com/package/%40rj11io%2F11agi",
+      "category": "utilities",
+      "createdAt": "2026-08-09T18:55:15.878Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 63
+    },
+    {
+      "name": "@rj11io/11ops",
+      "version": "1.0.0",
+      "description": "Open source specialized AI skills and plugins",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rj11io/11ops",
+      "npmUrl": "https://www.npmjs.com/package/%40rj11io%2F11ops",
+      "category": "devops",
+      "createdAt": "2026-08-09T18:55:38.030Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 70
     },
     {
       "name": "@rjava/agent-bus",
@@ -28104,6 +28284,18 @@
       "createdAt": "2026-07-25T12:53:17.022Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 98
+    },
+    {
+      "name": "@seedid/core",
+      "version": "0.1.0",
+      "description": "Decentralized identity with deterministic Ed25519 key derivation — canonical agent identity, cloud backup, and Shamir secret sharing for the SeedID ecosystem.",
+      "license": "MIT",
+      "repository": "https://github.com/dundas/seedid-mono",
+      "npmUrl": "https://www.npmjs.com/package/%40seedid%2Fcore",
+      "category": "devops",
+      "createdAt": "2026-08-09T18:28:07.431Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 81
     },
     {
       "name": "@seiuna/bilibili-api",
@@ -37442,6 +37634,18 @@
       "score": 80
     },
     {
+      "name": "bcb-exchange-rate",
+      "version": "1.0.3",
+      "description": "Official Banco Central do Brasil (Brazil) daily exchange rates — ~155 currencies vs BRL, history since 2016. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/bcb-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/bcb-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-07-31T14:12:39.038Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 65
+    },
+    {
       "name": "beamdb",
       "version": "0.9.2",
       "description": "BEAM — distributed graph database syncing over WebSocket, WebRTC, and multicast. Successor to rod.",
@@ -40020,6 +40224,18 @@
       "createdAt": "2026-08-05T15:40:20.705Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 75
+    },
+    {
+      "name": "concurrent-c-python",
+      "version": "0.3.0",
+      "description": "Python from Node over the Concurrent-C bridge: import any Python module, call it with zero-copy typed arrays, host-controlled lifetime.",
+      "license": "MIT",
+      "repository": "https://github.com/sreekotay/concurrent-c",
+      "npmUrl": "https://www.npmjs.com/package/concurrent-c-python",
+      "category": "backend",
+      "createdAt": "2026-08-09T18:56:26.630Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 71
     },
     {
       "name": "conjugate-neuron",
@@ -47702,6 +47918,18 @@
       "score": 68
     },
     {
+      "name": "livmem",
+      "version": "0.3.0",
+      "description": "A memory for AI agents that learns which facts actually helped, from task outcomes alone.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Huliichuk/living-spatial-memory",
+      "npmUrl": "https://www.npmjs.com/package/livmem",
+      "category": "utilities",
+      "createdAt": "2026-08-09T19:07:53.422Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 72
+    },
+    {
       "name": "llm-agent-harness",
       "version": "0.1.0",
       "description": "Minimal tool-loop harness for LLM agents. Keep your provider SDK, keep your messages, add a correct tool loop.",
@@ -48132,6 +48360,18 @@
       "createdAt": "2026-08-01T20:53:27.168Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 94
+    },
+    {
+      "name": "macrostrat-mcp",
+      "version": "1.0.0",
+      "description": "Macrostrat MCP Server - Access geological data, rock units, formations, and stratigraphic information worldwide",
+      "license": "MIT",
+      "repository": "https://github.com/blake365/macrostrat-mcp",
+      "npmUrl": "https://www.npmjs.com/package/macrostrat-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T18:59:19.942Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 75
     },
     {
       "name": "mactech-compliance-mcp",
@@ -48576,6 +48816,18 @@
       "createdAt": "2026-08-05T12:12:08.407Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 90
+    },
+    {
+      "name": "mcp-assert",
+      "version": "0.1.0",
+      "description": "Testing library for MCP servers — in-memory test client, Vitest/Jest matchers, and test doubles for sampling and elicitation.",
+      "license": "MIT",
+      "repository": "https://github.com/collinsrs/mcp-assert",
+      "npmUrl": "https://www.npmjs.com/package/mcp-assert",
+      "category": "testing",
+      "createdAt": "2026-08-09T18:59:03.565Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 80
     },
     {
       "name": "mcp-better",
@@ -51686,6 +51938,18 @@
       "score": 51
     },
     {
+      "name": "nullcode",
+      "version": "1.0.0",
+      "description": "Find what you can safely remove from your JavaScript/TypeScript project — with local AI verification via Ollama.",
+      "license": "MIT",
+      "repository": "https://github.com/asirihewage/npm-nullcode",
+      "npmUrl": "https://www.npmjs.com/package/nullcode",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T19:07:26.079Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 69
+    },
+    {
       "name": "nuxt-convex-module",
       "version": "0.0.0",
       "description": "Convex for Vue & Nuxt — a faithful port of Convex's official React/Next integration (queries, mutations, actions, pagination, file storage, SSR) with opt-in Better Auth and Polar",
@@ -54240,6 +54504,18 @@
       "createdAt": "2026-08-05T01:39:36.727Z",
       "discoveredAt": "2026-08-05T01:53:39.845Z",
       "score": 69
+    },
+    {
+      "name": "pi-subagents-workflows",
+      "version": "0.1.1",
+      "description": "Saved workflow registry and runner for pi-subagents workflowScript orchestration",
+      "license": "MIT",
+      "repository": "https://github.com/white-hat/pi-subagents-workflows",
+      "npmUrl": "https://www.npmjs.com/package/pi-subagents-workflows",
+      "category": "utilities",
+      "createdAt": "2026-08-09T18:58:14.269Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 63
     },
     {
       "name": "pi-super",
@@ -57086,6 +57362,18 @@
       "score": 74
     },
     {
+      "name": "repo-pdf-notes",
+      "version": "2.0.0",
+      "description": "Convert any markdown-based GitHub repo into a beautifully formatted, navigable PDF with a cover page, clickable table of contents, and real page numbers.",
+      "license": "MIT",
+      "repository": "https://github.com/AbuHanifSiam/repo-to-pdf",
+      "npmUrl": "https://www.npmjs.com/package/repo-pdf-notes",
+      "category": "data",
+      "createdAt": "2026-08-09T19:02:56.085Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 87
+    },
+    {
       "name": "repo-ranger",
       "version": "1.1.9",
       "description": "RepoRanger — static code graph scanner and navigation CLI for AI-assisted development. Supports PHP/Laravel, JavaScript/TypeScript, Vue, and Nuxt.",
@@ -59832,6 +60120,18 @@
       "createdAt": "2026-08-06T19:59:56.425Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 89
+    },
+    {
+      "name": "streamviz-react",
+      "version": "0.1.0",
+      "description": "A drop-in React renderer for AI-generated visual artifacts, optimized for streaming tool calls.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/adamsy1996/streamviz",
+      "npmUrl": "https://www.npmjs.com/package/streamviz-react",
+      "category": "frontend",
+      "createdAt": "2026-08-09T19:07:17.481Z",
+      "discoveredAt": "2026-08-09T19:11:17.217Z",
+      "score": 67
     },
     {
       "name": "stresseur",
