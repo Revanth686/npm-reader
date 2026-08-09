@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124096033,
-  "lastRunAt": "2026-08-09T22:21:15.682Z",
+  "lastSequence": 124097802,
+  "lastRunAt": "2026-08-09T22:54:46.351Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@doikayt/verify-lib",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@ghostwire/core",
+      "name": "@ibyjs/core",
       "attempts": 1
     },
     {
-      "name": "@ghostwire/providers",
-      "attempts": 1
-    },
-    {
-      "name": "@forst/errors",
+      "name": "@zakkster/lite-di-ticker",
       "attempts": 1
     }
   ]

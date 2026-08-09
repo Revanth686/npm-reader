@@ -86,6 +86,18 @@
       "score": 90
     },
     {
+      "name": "@0xaibridge/sdk",
+      "version": "1.0.1",
+      "description": "0xBridge Cross-Chain SDK — one-line cross-chain ERC20 transfers with fee estimation and route discovery",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sftgroup/0xainet-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%400xaibridge%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-07-26T15:31:45.897Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 55
+    },
+    {
       "name": "@0xfig/indie",
       "version": "1.0.0",
       "description": "Independent developer product delivery skills for OMP/Pi and generic Agent Skills hosts.",
@@ -2714,6 +2726,18 @@
       "score": 63
     },
     {
+      "name": "@archangel-tools/agent-worker",
+      "version": "0.2.0",
+      "description": "Unattended executor for agent-context organizations: scheduler + spawner + contract-verifier around headless Claude Code sessions. Org knowledge arrives at runtime from the layer and the backend.",
+      "license": "MIT",
+      "repository": "https://github.com/archangel-tools/agent-worker",
+      "npmUrl": "https://www.npmjs.com/package/%40archangel-tools%2Fagent-worker",
+      "category": "backend",
+      "createdAt": "2026-08-09T19:06:44.067Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 48
+    },
+    {
       "name": "@arclux/glint",
       "version": "0.1.0",
       "description": "Scroll reveal that cannot hide your content. Zero dependencies, reduced-motion by default, CSS scroll-driven animation as an enhancement tier.",
@@ -5148,6 +5172,30 @@
       "createdAt": "2026-08-09T16:26:26.895Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 74
+    },
+    {
+      "name": "@canopy-io/nestjs",
+      "version": "0.1.1",
+      "description": "Official NestJS integration for Canopy — hierarchical identity and access management.",
+      "license": "MIT",
+      "repository": "https://github.com/canopy-identity/canopy-javascript",
+      "npmUrl": "https://www.npmjs.com/package/%40canopy-io%2Fnestjs",
+      "category": "backend",
+      "createdAt": "2026-07-28T10:04:39.704Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 72
+    },
+    {
+      "name": "@canopy-io/node",
+      "version": "0.1.1",
+      "description": "Official TypeScript SDK for Canopy — hierarchical identity and access management.",
+      "license": "MIT",
+      "repository": "https://github.com/canopy-identity/canopy-javascript",
+      "npmUrl": "https://www.npmjs.com/package/%40canopy-io%2Fnode",
+      "category": "build-tools",
+      "createdAt": "2026-07-28T09:19:56.037Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 72
     },
     {
       "name": "@canshift/core",
@@ -10622,6 +10670,18 @@
       "score": 58
     },
     {
+      "name": "@forst/errors",
+      "version": "0.1.0",
+      "description": "Shared tagged error classes for Forst generated clients (invoke transport, harness, unknown failure).",
+      "license": "MIT",
+      "repository": "https://github.com/forst-lang/forst",
+      "npmUrl": "https://www.npmjs.com/package/%40forst%2Ferrors",
+      "category": "cli",
+      "createdAt": "2026-08-09T22:20:31.232Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 31
+    },
+    {
       "name": "@foundry-ims/n8n-nodes-foundry-ims",
       "version": "0.1.0",
       "description": "Official Foundry IMS node for n8n — manage products, variants, stock, and orders, and trigger workflows from Foundry webhook events",
@@ -13140,6 +13200,18 @@
       "createdAt": "2026-07-29T21:33:37.779Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/outbox",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for Outbox (build etherscan-outbox-0b9857ae-1786314871013, commit d59654b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/outbox",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Foutbox",
+      "category": "build-tools",
+      "createdAt": "2026-07-30T07:30:28.937Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/ovo",
@@ -17198,6 +17270,30 @@
       "score": 69
     },
     {
+      "name": "@iwe-org/iwe",
+      "version": "0.19.0",
+      "description": "IWE — markdown-based knowledge management for developers: CLI, LSP server, and MCP server.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iwe-org/iwe",
+      "npmUrl": "https://www.npmjs.com/package/%40iwe-org%2Fiwe",
+      "category": "backend",
+      "createdAt": "2026-08-09T21:03:44.541Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 37
+    },
+    {
+      "name": "@iwe-org/mcp",
+      "version": "0.19.0",
+      "description": "MCP server for IWE — markdown knowledge base as agent memory.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iwe-org/iwe",
+      "npmUrl": "https://www.npmjs.com/package/%40iwe-org%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T21:03:46.229Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 28
+    },
+    {
       "name": "@iyulab/canopy",
       "version": "0.1.2",
       "description": "Publishing renderer: turn a tree of markdown notes into a static website.",
@@ -17280,6 +17376,30 @@
       "createdAt": "2026-08-04T15:59:39.277Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 91
+    },
+    {
+      "name": "@jalali-js/ui-web",
+      "version": "0.1.0",
+      "description": "RangePicker, InlineCalendar, and extra themes for @jalali-js/web, built on the same headless Web Components.",
+      "license": "MIT",
+      "repository": "https://github.com/yanovian/jalali-js",
+      "npmUrl": "https://www.npmjs.com/package/%40jalali-js%2Fui-web",
+      "category": "utilities",
+      "createdAt": "2026-08-09T22:24:24.940Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 44
+    },
+    {
+      "name": "@jalali-js/web",
+      "version": "0.1.0",
+      "description": "Framework-agnostic Web Components for jalali-js: a headless Calendar grid and a default-styled DatePicker, usable from plain HTML/JS or any framework.",
+      "license": "MIT",
+      "repository": "https://github.com/yanovian/jalali-js",
+      "npmUrl": "https://www.npmjs.com/package/%40jalali-js%2Fweb",
+      "category": "utilities",
+      "createdAt": "2026-08-09T22:24:29.530Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 49
     },
     {
       "name": "@james.valencia/mcp-reportia",
@@ -18780,6 +18900,18 @@
       "createdAt": "2026-08-05T23:54:27.695Z",
       "discoveredAt": "2026-08-07T19:38:29.763Z",
       "score": 62
+    },
+    {
+      "name": "@leavepulse/sdk",
+      "version": "0.3.85",
+      "description": "Generated resource SDK for the LeavePulse platform contract.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/LeavePulse/leavepulse-sdk-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40leavepulse%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-09T22:42:33.002Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 17
     },
     {
       "name": "@ledgerbox/sdk",
@@ -23882,6 +24014,18 @@
       "score": 51
     },
     {
+      "name": "@omodaka/ratat-ui",
+      "version": "0.3.0",
+      "description": "RatatUI - an editable layer for HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/Omodaka9375/ratatui",
+      "npmUrl": "https://www.npmjs.com/package/%40omodaka%2Fratat-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-09T22:52:20.665Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 65
+    },
+    {
       "name": "@onchainai/agents-x402",
       "version": "0.1.1",
       "description": "One-line x402 Solana monetization for MCP servers, HTTP handlers, and agent tool calls. Settles through the Clawd multi-tenant facilitator.",
@@ -24396,6 +24540,18 @@
       "createdAt": "2026-08-04T16:06:17.645Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 79
+    },
+    {
+      "name": "@ossianravn/friction",
+      "version": "0.1.0",
+      "description": "A local-first feedback loop for recurring coding-agent friction.",
+      "license": "MIT",
+      "repository": "https://github.com/ossianravn/Friction",
+      "npmUrl": "https://www.npmjs.com/package/%40ossianravn%2Ffriction",
+      "category": "utilities",
+      "createdAt": "2026-08-09T22:40:44.018Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 66
     },
     {
       "name": "@otok/mcp",
@@ -27398,6 +27554,18 @@
       "score": 63
     },
     {
+      "name": "@richard.flp/portmaster",
+      "version": "1.1.0",
+      "description": "Cross-platform CLI for managing ports and processes (PortMaster)",
+      "license": "MIT",
+      "repository": "https://github.com/RichardFlp/portmaster",
+      "npmUrl": "https://www.npmjs.com/package/%40richard.flp%2Fportmaster",
+      "category": "data",
+      "createdAt": "2026-08-09T22:29:17.920Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 45
+    },
+    {
       "name": "@richardtwi-dbg/fetchly",
       "version": "0.3.0",
       "description": "A lightweight, fully typed fetch client",
@@ -28514,6 +28682,42 @@
       "score": 74
     },
     {
+      "name": "@sargonpiraev/env-docs",
+      "version": "0.0.0",
+      "description": "Generate .env.example (and optional README env docs) from Zod env schema maps with .describe()",
+      "license": "MIT",
+      "repository": "https://github.com/sargonpiraev/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40sargonpiraev%2Fenv-docs",
+      "category": "utilities",
+      "createdAt": "2026-08-09T22:30:24.199Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 35
+    },
+    {
+      "name": "@sargonpiraev/prettier-config",
+      "version": "1.0.0",
+      "description": "Shared Prettier config for sargonpiraev products and packages",
+      "license": "MIT",
+      "repository": "https://github.com/sargonpiraev/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40sargonpiraev%2Fprettier-config",
+      "category": "utilities",
+      "createdAt": "2026-08-09T22:02:31.213Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 32
+    },
+    {
+      "name": "@sargonpiraev/tsconfig",
+      "version": "1.0.0",
+      "description": "Shared TypeScript base configs (strict) for sargonpiraev products and packages",
+      "license": "MIT",
+      "repository": "https://github.com/sargonpiraev/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40sargonpiraev%2Ftsconfig",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T22:02:31.754Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 32
+    },
+    {
       "name": "@sarutobi-sasuke/jobscout-mcp",
       "version": "0.2.0",
       "description": "A privacy-first, multi-source MCP server for job discovery, normalization, deduplication, and source provenance.",
@@ -29016,6 +29220,18 @@
       "createdAt": "2026-08-08T06:21:45.609Z",
       "discoveredAt": "2026-08-09T06:40:38.860Z",
       "score": 39
+    },
+    {
+      "name": "@sharpee/branch-tester",
+      "version": "4.6.0",
+      "description": "Tree-native transcript testing for Sharpee: a transcript names its parent, every test is a branch, and a run covers every root-to-leaf path (ADR-302)",
+      "license": "MIT",
+      "repository": "https://github.com/ChicagoDave/sharpee",
+      "npmUrl": "https://www.npmjs.com/package/%40sharpee%2Fbranch-tester",
+      "category": "testing",
+      "createdAt": "2026-08-06T14:18:14.260Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 54
     },
     {
       "name": "@shbernal/ts-pptx",
@@ -36734,6 +36950,18 @@
       "score": 75
     },
     {
+      "name": "agenthub-algo",
+      "version": "0.1.0",
+      "description": "Pay-per-call Algorand wallet risk scoring, transaction explanation, and LLM tools for AI agents. No API key or account — agents pay per request in USDC over x402.",
+      "license": "MIT",
+      "repository": "https://github.com/Psalmuel01/agenthub",
+      "npmUrl": "https://www.npmjs.com/package/agenthub-algo",
+      "category": "backend",
+      "createdAt": "2026-08-09T22:24:47.076Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 62
+    },
+    {
       "name": "agentic-house-search",
       "version": "0.1.0",
       "description": "MCP server for UK neighbourhood research: a full postcode report (demographics, crime, deprivation, prices, fibre, 5G, transport, amenities, schools, planning constraints) plus a searchable registry of the 45 open datasets behind it.",
@@ -37068,6 +37296,18 @@
       "createdAt": "2026-07-29T14:04:10.464Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 74
+    },
+    {
+      "name": "aifinpay-gemini-commerce-agent",
+      "version": "0.1.1",
+      "description": "Gemini-powered autonomous commerce agent with deterministic spending policy and AiFinPay AIFP-1 payments.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/coinsecuritiescompany/AiFinPay-Gemini-Commerce-Agent",
+      "npmUrl": "https://www.npmjs.com/package/aifinpay-gemini-commerce-agent",
+      "category": "backend",
+      "createdAt": "2026-08-09T22:41:15.687Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 80
     },
     {
       "name": "ailogic",
@@ -47760,6 +48000,18 @@
       "createdAt": "2026-08-04T11:42:35.970Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 72
+    },
+    {
+      "name": "jobvetta",
+      "version": "1.0.0",
+      "description": "Official TypeScript client for searching live, vetted India jobs with the Jobvetta API.",
+      "license": "MIT",
+      "repository": "https://github.com/jobvetta/jobvetta-packages",
+      "npmUrl": "https://www.npmjs.com/package/jobvetta",
+      "category": "backend",
+      "createdAt": "2026-08-09T22:26:35.778Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 50
     },
     {
       "name": "joplin-plugin-agenda2",
@@ -60518,6 +60770,18 @@
       "score": 86
     },
     {
+      "name": "snipsnipsnip",
+      "version": "0.1.1",
+      "description": "Runnable Python code snippets in the browser, via MicroPython compiled to WebAssembly",
+      "license": "MIT",
+      "repository": "https://github.com/remysucre/snip",
+      "npmUrl": "https://www.npmjs.com/package/snipsnipsnip",
+      "category": "frontend",
+      "createdAt": "2026-08-09T22:27:28.497Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 30
+    },
+    {
       "name": "sntnl-cli",
       "version": "4.0.0",
       "description": "Sentinel Security Intelligence — SAST, supply chain, threat intel, and Skills/MCP for AI coding agents.",
@@ -61092,6 +61356,18 @@
       "createdAt": "2026-07-30T02:06:30.143Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 81
+    },
+    {
+      "name": "stepstone",
+      "version": "0.1.0",
+      "description": "A shared roadmap of project goals for coding agents and the humans working beside them.",
+      "license": "MIT",
+      "repository": "https://github.com/max-miller1204/stepstone",
+      "npmUrl": "https://www.npmjs.com/package/stepstone",
+      "category": "cli",
+      "createdAt": "2026-08-09T22:47:07.930Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 76
     },
     {
       "name": "stetmark",
@@ -63852,6 +64128,18 @@
       "createdAt": "2026-08-05T16:17:31.738Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 100
+    },
+    {
+      "name": "vibecheck-app",
+      "version": "1.1.1",
+      "description": "Tap a key, see Claude's live status. Let go, it melts away.",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "repository": "https://github.com/bednarjosef/vibecheck",
+      "npmUrl": "https://www.npmjs.com/package/vibecheck-app",
+      "category": "utilities",
+      "createdAt": "2026-08-09T22:25:45.732Z",
+      "discoveredAt": "2026-08-09T22:54:46.351Z",
+      "score": 58
     },
     {
       "name": "vibedocs",
