@@ -1,39 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124092726,
-  "lastRunAt": "2026-08-09T21:28:49.953Z",
+  "lastSequence": 124096033,
+  "lastRunAt": "2026-08-09T22:21:15.682Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@doikayt/verify-lib",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@useparley/dashboard",
+      "name": "@ghostwire/core",
       "attempts": 1
     },
     {
-      "name": "@webcontextinterface/validator",
+      "name": "@ghostwire/providers",
       "attempts": 1
     },
     {
-      "name": "@webcontextinterface/annotator",
-      "attempts": 1
-    },
-    {
-      "name": "@webcontextinterface/react",
-      "attempts": 1
-    },
-    {
-      "name": "@webcontextinterface/cli",
-      "attempts": 1
-    },
-    {
-      "name": "@webcontextinterface/mcp",
-      "attempts": 1
-    },
-    {
-      "name": "@relictombs/opentui-motion",
+      "name": "@forst/errors",
       "attempts": 1
     }
   ]
