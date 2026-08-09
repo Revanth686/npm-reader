@@ -5426,6 +5426,18 @@
       "score": 82
     },
     {
+      "name": "@chris235/paperless-mcp",
+      "version": "1.1.0",
+      "description": "Model Context Protocol (MCP) server for interacting with Paperless-NGX document management system. Enables AI assistants to manage documents, tags, correspondents, and document types through the Paperless-NGX API.",
+      "license": "ISC",
+      "repository": "https://github.com/chris576/paperless-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40chris235%2Fpaperless-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T08:39:17.924Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 88
+    },
+    {
       "name": "@chrismessina/raycast-kit",
       "version": "0.1.0",
       "description": "House-style primitives for Raycast extensions: failure toasts that always carry a Copy Error action, safe error unwrapping, and count-aware copy",
@@ -7212,6 +7224,18 @@
       "createdAt": "2026-08-08T05:03:36.203Z",
       "discoveredAt": "2026-08-08T05:30:36.627Z",
       "score": 79
+    },
+    {
+      "name": "@devslab/editor-ruler-summernote",
+      "version": "1.1.0",
+      "description": "Summernote adapter for @devslab/editor-ruler — a Word-like horizontal ruler plugin.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/devslab-kr/editor-ruler",
+      "npmUrl": "https://www.npmjs.com/package/%40devslab%2Feditor-ruler-summernote",
+      "category": "utilities",
+      "createdAt": "2026-08-09T08:42:41.738Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 58
     },
     {
       "name": "@dexgate/decision-middleware",
@@ -10082,6 +10106,18 @@
       "score": 58
     },
     {
+      "name": "@foundry-ims/n8n-nodes-foundry-ims",
+      "version": "0.1.0",
+      "description": "Official Foundry IMS node for n8n — manage products, variants, stock, and orders, and trigger workflows from Foundry webhook events",
+      "license": "MIT",
+      "repository": "https://github.com/Foundry-IMS/n8n-nodes-foundry-ims",
+      "npmUrl": "https://www.npmjs.com/package/%40foundry-ims%2Fn8n-nodes-foundry-ims",
+      "category": "devops",
+      "createdAt": "2026-08-09T08:39:37.173Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 44
+    },
+    {
       "name": "@franklinww/create-agent-os",
       "version": "2.2.0",
       "description": "BETA. Scaffold an agent OS workspace: skill-powered AI workflows + an LLM Wiki template in one repo. Includes vibe coding framework and meta-skill management. Pure Node — no python, no pip.",
@@ -10956,6 +10992,18 @@
       "createdAt": "2026-08-07T14:56:09.876Z",
       "discoveredAt": "2026-08-07T15:50:48.842Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/apeing",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for $APEING (build etherscan-apeing-16558c58-1786267006711, commit 36bac12, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/apeing",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fapeing",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T09:17:09.608Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/arc",
@@ -13514,6 +13562,18 @@
       "score": 75
     },
     {
+      "name": "@giuseppe.trisciuoglio/pi-rules",
+      "version": "1.1.0",
+      "description": "Cursor/Claude-style project rules for pi: markdown files with optional frontmatter, injected into the agent context only when relevant.",
+      "license": "MIT",
+      "repository": "https://github.com/giuseppe-trisciuoglio/pi-rules",
+      "npmUrl": "https://www.npmjs.com/package/%40giuseppe.trisciuoglio%2Fpi-rules",
+      "category": "devops",
+      "createdAt": "2026-08-09T09:11:21.646Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 70
+    },
+    {
       "name": "@gjuta/oagen",
       "version": "0.29.3",
       "description": "Framework for building OpenAPI SDK emitters (fork of @workos/oagen, maintained by Gjuta)",
@@ -15950,6 +16010,18 @@
       "score": 81
     },
     {
+      "name": "@itzsa/page-builder",
+      "version": "0.2.0",
+      "description": "Drag-and-drop visual page builder — primitives, canvas, editor chrome, preview, author CSS/JS",
+      "license": "MIT",
+      "repository": "https://github.com/SumanPoU/package",
+      "npmUrl": "https://www.npmjs.com/package/%40itzsa%2Fpage-builder",
+      "category": "frontend",
+      "createdAt": "2026-08-09T01:51:28.722Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 52
+    },
+    {
       "name": "@iuashrafi/rate-limiter",
       "version": "1.0.0",
       "description": "A production-grade, distributed rate limiting library for Node.js with pluggable algorithms (fixed window, sliding window log, sliding window counter, token bucket, leaky bucket) and pluggable storage (in-memory, Redis).",
@@ -16154,6 +16226,18 @@
       "score": 98
     },
     {
+      "name": "@jarome/pi-hub",
+      "version": "0.0.2",
+      "description": "Web UI for the pi coding agent (pi-hub fork of pi-web, with scheduler, Telegram and notification integrations)",
+      "license": "MIT",
+      "repository": "https://github.com/jiangliuhong/pi-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40jarome%2Fpi-hub",
+      "category": "utilities",
+      "createdAt": "2026-08-09T08:41:45.144Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 42
+    },
+    {
       "name": "@jaydeepgadhiya/guarddog",
       "version": "1.0.0",
       "description": "Static analysis for Node.js & Express apps. Parses your code and reports injection, auth, async and schema bugs with a security score and an HTML report.",
@@ -16272,6 +16356,18 @@
       "createdAt": "2026-07-27T22:19:37.839Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 90
+    },
+    {
+      "name": "@jmoak/vibrissa",
+      "version": "0.1.0",
+      "description": "Ultra-light JSON-driven MCP integration test runner",
+      "license": "MIT",
+      "repository": "https://github.com/JMoak/vibrissa",
+      "npmUrl": "https://www.npmjs.com/package/%40jmoak%2Fvibrissa",
+      "category": "testing",
+      "createdAt": "2026-08-09T09:10:21.974Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 62
     },
     {
       "name": "@joaoluft/grounded-llm",
@@ -22286,6 +22382,18 @@
       "score": 88
     },
     {
+      "name": "@omnireact/initializer",
+      "version": "0.1.0",
+      "description": "Headless app-startup orchestrator for React — run async init steps (with parallel batching, abort, and retry) before rendering your app.",
+      "license": "MIT",
+      "repository": "https://github.com/jakhang/omnireact",
+      "npmUrl": "https://www.npmjs.com/package/%40omnireact%2Finitializer",
+      "category": "frontend",
+      "createdAt": "2026-08-09T08:53:27.875Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 51
+    },
+    {
       "name": "@onderwijsin/nuxt-newsletter-signup",
       "version": "1.0.0",
       "description": "Provider-independent newsletter signup endpoint for Nuxt.",
@@ -23366,6 +23474,18 @@
       "score": 68
     },
     {
+      "name": "@pid7/ashwa",
+      "version": "0.1.1",
+      "description": "Hardware accelerated routines for single substring search",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/pid7-org/ashwa",
+      "npmUrl": "https://www.npmjs.com/package/%40pid7%2Fashwa",
+      "category": "backend",
+      "createdAt": "2026-08-09T08:46:49.515Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 39
+    },
+    {
       "name": "@pieceful/ravel-language-service",
       "version": "0.2.0",
       "description": "Source-mapped language request routing and safe edit classification for Ravel.",
@@ -23906,6 +24026,18 @@
       "score": 57
     },
     {
+      "name": "@prismetic/form-utils",
+      "version": "1.1.0",
+      "description": "NeverBounce email gating for embedded ActiveCampaign forms — React 19 / Next 16",
+      "license": "MIT",
+      "repository": "https://github.com/psmsun/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40prismetic%2Fform-utils",
+      "category": "frontend",
+      "createdAt": "2026-08-07T08:31:00.369Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 65
+    },
+    {
       "name": "@pritiranjan/hl7v2",
       "version": "0.1.0",
       "description": "Parse, query, modify and encode HL7 v2.x messages — zero dependencies, TypeScript native",
@@ -24120,6 +24252,18 @@
       "createdAt": "2026-08-04T21:23:46.232Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 72
+    },
+    {
+      "name": "@purrtrait/view-tsx",
+      "version": "0.0.11",
+      "description": "Abstractions for modelling editable TSX code.",
+      "license": "MIT",
+      "repository": "https://github.com/noodlestan/purrtrait",
+      "npmUrl": "https://www.npmjs.com/package/%40purrtrait%2Fview-tsx",
+      "category": "frontend",
+      "createdAt": "2026-08-09T09:16:59.291Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 69
     },
     {
       "name": "@putervision/state-memory-mcp",
@@ -25320,6 +25464,18 @@
       "createdAt": "2026-08-08T00:18:53.486Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 74
+    },
+    {
+      "name": "@renxqoo/rxcordys-cli",
+      "version": "1.0.0",
+      "description": "rxcordys — Cordys CRM L2C 全链路 agent 命令行工具(线索/客户/商机/合同/回款/发票/订单/审批/统计),基于 @renxqoo/agent-data-cli 框架",
+      "license": "MIT",
+      "repository": "https://github.com/renxqoo/rxcli",
+      "npmUrl": "https://www.npmjs.com/package/%40renxqoo%2Frxcordys-cli",
+      "category": "data",
+      "createdAt": "2026-08-09T08:33:18.999Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 53
     },
     {
       "name": "@renxqoo/rxstock",
@@ -34922,6 +35078,18 @@
       "score": 64
     },
     {
+      "name": "any-llm-ts",
+      "version": "0.1.0",
+      "description": "A unified TypeScript interface for multiple LLM providers",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/anurag-roy/any-llm-ts",
+      "npmUrl": "https://www.npmjs.com/package/any-llm-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T08:44:16.640Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 53
+    },
+    {
       "name": "anylocale",
       "version": "1.0.0",
       "description": "Small locale-info reader — when you need to know text direction, first day of week, weekend, calendars and time zones for any locale, straight from native Intl.",
@@ -40334,6 +40502,18 @@
       "score": 70
     },
     {
+      "name": "element-node-mcp",
+      "version": "0.1.0",
+      "description": "Official MCP server for Element Node CMS — lets AI agents (Claude Code, Cursor, Windsurf…) build and manage Element Node sites via the REST API.",
+      "license": "MIT",
+      "repository": "https://github.com/LorenzArtik/element-node",
+      "npmUrl": "https://www.npmjs.com/package/element-node-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T08:36:13.287Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 46
+    },
+    {
       "name": "elephantswap-smart-order-router",
       "version": "0.0.1",
       "description": "elephantswap Smart Order Router",
@@ -40548,6 +40728,18 @@
       "createdAt": "2026-07-28T21:10:18.835Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 67
+    },
+    {
+      "name": "encephalon",
+      "version": "0.2.0",
+      "description": "Repository-local, durable knowledge for coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/isaachinman/encephalon",
+      "npmUrl": "https://www.npmjs.com/package/encephalon",
+      "category": "data",
+      "createdAt": "2026-08-06T20:30:38.085Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 59
     },
     {
       "name": "ensure-claude-plugins",
@@ -42552,6 +42744,18 @@
       "createdAt": "2026-07-27T12:20:28.407Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 91
+    },
+    {
+      "name": "glasshive",
+      "version": "1.0.0",
+      "description": "Glass-walled observation hive for AI agents — a read-only local dashboard of running sessions, subagents, issues, and git",
+      "license": "MIT",
+      "repository": "https://github.com/hiroiku/glasshive",
+      "npmUrl": "https://www.npmjs.com/package/glasshive",
+      "category": "utilities",
+      "createdAt": "2026-08-09T08:48:09.790Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 47
     },
     {
       "name": "glasstora",
@@ -44990,6 +45194,18 @@
       "score": 73
     },
     {
+      "name": "kicad-copilot-mcp",
+      "version": "0.1.0",
+      "description": "File-oriented MCP server for KiCad schematics, PCB placement, routing, and pours",
+      "license": "MIT",
+      "repository": "https://github.com/biosshot/kicad-copilot",
+      "npmUrl": "https://www.npmjs.com/package/kicad-copilot-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-09T09:17:41.217Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 58
+    },
+    {
       "name": "kilo-vision-bridge",
       "version": "0.1.0",
       "description": "Dynamic visual-response skill for Kilo. Registers the native vision_analyze tool (model configured by the user via the Kilo Code agent model override on vision-agent) with the vision-agent subagent as fallback, and teaches a text-only orchestrator to extr",
@@ -45216,6 +45432,18 @@
       "createdAt": "2026-08-07T11:16:43.816Z",
       "discoveredAt": "2026-08-07T11:31:28.775Z",
       "score": 94
+    },
+    {
+      "name": "langchain-lyceum",
+      "version": "0.1.0",
+      "description": "Drop-in token compression for LangChain.js agents — wrap your tools and The Lyceum dedupes repeated reads, caps runaway output, and strips machine noise before it burns your context window.",
+      "license": "MIT",
+      "repository": "https://github.com/Julie22-yaerin/Thelyceum_22",
+      "npmUrl": "https://www.npmjs.com/package/langchain-lyceum",
+      "category": "utilities",
+      "createdAt": "2026-08-09T08:40:02.918Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 51
     },
     {
       "name": "langpull",
@@ -49334,6 +49562,18 @@
       "score": 85
     },
     {
+      "name": "nudgeoss",
+      "version": "0.3.0",
+      "description": "An open source inbox so AI agents can ask you for decisions on the chat apps you already use.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cw12574/nudgeoss",
+      "npmUrl": "https://www.npmjs.com/package/nudgeoss",
+      "category": "devops",
+      "createdAt": "2026-08-08T21:27:55.956Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 51
+    },
+    {
       "name": "nuxt-convex-module",
       "version": "0.0.0",
       "description": "Convex for Vue & Nuxt — a faithful port of Convex's official React/Next integration (queries, mutations, actions, pagination, file storage, SSR) with opt-in Better Auth and Polar",
@@ -52046,6 +52286,18 @@
       "score": 72
     },
     {
+      "name": "planning-with-files",
+      "version": "3.10.0",
+      "description": "Persistent file-based planning for AI coding agents: keeps task_plan.md, findings.md and progress.md on disk so the plan survives /clear, context loss and compaction. Manus-style. Ships the skill plus a Pi Coding Agent extension.",
+      "license": "MIT",
+      "repository": "https://github.com/OthmanAdi/planning-with-files",
+      "npmUrl": "https://www.npmjs.com/package/planning-with-files",
+      "category": "utilities",
+      "createdAt": "2026-08-03T10:11:11.948Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 75
+    },
+    {
       "name": "planning-with-teams",
       "version": "2.0.0",
       "description": "Manus-style context engineering for Claude Code Agent Teams. Coordinate multiple agents through shared planning files on disk.",
@@ -52392,6 +52644,18 @@
       "createdAt": "2026-08-08T00:11:04.193Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 79
+    },
+    {
+      "name": "postcss-adaptive-matrix",
+      "version": "0.2.0",
+      "description": "Multi-canvas responsive CSS compiler for PostCSS 8: one design width per design file, bounded fluid sizing, zoom-accessible text, and out-of-the-box component library adaptation.",
+      "license": "MIT",
+      "repository": "https://github.com/Moresyl/postcss-adaptive-matrix",
+      "npmUrl": "https://www.npmjs.com/package/postcss-adaptive-matrix",
+      "category": "frontend",
+      "createdAt": "2026-08-09T09:00:28.427Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 81
     },
     {
       "name": "postcss-animate-kit",
@@ -53198,6 +53462,18 @@
       "score": 78
     },
     {
+      "name": "ras-stack",
+      "version": "0.1.0",
+      "description": "Composable full-stack primitives shared across Richard Solomou's applications.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/richardsolomou/ras-stack",
+      "npmUrl": "https://www.npmjs.com/package/ras-stack",
+      "category": "utilities",
+      "createdAt": "2026-08-09T08:47:05.746Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 48
+    },
+    {
       "name": "rate-forge",
       "version": "1.0.3",
       "description": "Framework-agnostic rate limiter for Node.js supporting multiple algorithms and storage backends including Memory, Redis, MongoDB, and PostgreSQL.",
@@ -53448,6 +53724,18 @@
       "createdAt": "2026-08-04T16:53:40.071Z",
       "discoveredAt": "2026-08-04T18:19:51.652Z",
       "score": 96
+    },
+    {
+      "name": "react-native-ar-preview",
+      "version": "0.1.0",
+      "description": "View 3D models in the native AR viewer (Quick Look / Scene Viewer) from React Native",
+      "license": "MIT",
+      "repository": "https://github.com/software-mansion-labs/react-native-ar-preview",
+      "npmUrl": "https://www.npmjs.com/package/react-native-ar-preview",
+      "category": "frontend",
+      "createdAt": "2026-08-09T09:06:19.259Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 78
     },
     {
       "name": "react-native-async-storage-viewer",
@@ -57300,6 +57588,18 @@
       "createdAt": "2026-08-07T16:55:49.512Z",
       "discoveredAt": "2026-08-07T17:34:15.191Z",
       "score": 60
+    },
+    {
+      "name": "sv5ui-plus",
+      "version": "5.0.0",
+      "description": "Community companion components and hooks for SV5UI and Svelte 5",
+      "license": "MIT",
+      "repository": "https://github.com/asphum/sv5ui-plus",
+      "npmUrl": "https://www.npmjs.com/package/sv5ui-plus",
+      "category": "frontend",
+      "createdAt": "2026-08-09T08:38:17.062Z",
+      "discoveredAt": "2026-08-09T09:19:59.096Z",
+      "score": 53
     },
     {
       "name": "svelte-adapter-bunserve",

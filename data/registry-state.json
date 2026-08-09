@@ -1,11 +1,51 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124037224,
-  "lastRunAt": "2026-08-09T08:32:27.989Z",
+  "lastSequence": 124040968,
+  "lastRunAt": "2026-08-09T09:19:59.096Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@alsocoder/apna-crud",
+      "name": "@purrtrait/lang-ts",
+      "attempts": 1
+    },
+    {
+      "name": "@purrtrait/code-renderer",
+      "attempts": 1
+    },
+    {
+      "name": "@purrtrait/solid-code",
+      "attempts": 1
+    },
+    {
+      "name": "@purrtrait/client-tsx",
+      "attempts": 1
+    },
+    {
+      "name": "@akms/mcp-ssh",
+      "attempts": 1
+    },
+    {
+      "name": "@qzsy/cs-cli",
+      "attempts": 1
+    },
+    {
+      "name": "@axis-love/highlighting",
+      "attempts": 1
+    },
+    {
+      "name": "@axis-love/math",
+      "attempts": 1
+    },
+    {
+      "name": "@axis-love/mermaid",
+      "attempts": 1
+    },
+    {
+      "name": "@axis-love/react",
+      "attempts": 1
+    },
+    {
+      "name": "@axis-love/styles",
       "attempts": 1
     }
   ]
