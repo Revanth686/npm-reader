@@ -1,27 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124083570,
-  "lastRunAt": "2026-08-09T19:11:17.217Z",
+  "lastSequence": 124087860,
+  "lastRunAt": "2026-08-09T20:21:40.218Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@archangel-tools/agent-worker",
+      "name": "@nairotech/yeke-tunnel",
       "attempts": 1
     },
     {
-      "name": "@xube/kit-device-flash",
+      "name": "@doikayt/verify-lib",
       "attempts": 1
     },
     {
-      "name": "@kingtony36/turtlenft-contracts",
+      "name": "@chuvenger/typescript-stack",
       "attempts": 1
     },
     {
-      "name": "@logicsrc/opencontext",
+      "name": "@chuvenger/typescript-app-stack",
       "attempts": 1
     },
     {
-      "name": "@getstrata/bootstrap",
+      "name": "@chuvenger/react-router-stack",
+      "attempts": 1
+    },
+    {
+      "name": "@chuvenger/svelte-stack",
+      "attempts": 1
+    },
+    {
+      "name": "@eidora/arktype",
+      "attempts": 1
+    },
+    {
+      "name": "libtmux",
       "attempts": 1
     }
   ]
