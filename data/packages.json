@@ -50,6 +50,18 @@
       "score": 68
     },
     {
+      "name": "3ameiah",
+      "version": "0.1.0",
+      "description": "Simple Egyptian Arabic and Franco Agent Skills with reusable, continuously improving tone profiles.",
+      "license": "MIT",
+      "repository": "https://github.com/abdullah-elbedwehy/3ameiah",
+      "npmUrl": "https://www.npmjs.com/package/3ameiah",
+      "category": "utilities",
+      "createdAt": "2026-08-09T10:15:44.876Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 73
+    },
+    {
       "name": "8bit-sfx",
       "version": "0.4.1",
       "description": "2200 free, deterministic, procedurally generated 8-bit sound effects (WAV) with per-effect catalog descriptions and a tiny dependency-free JS API for browsers and Node.",
@@ -14858,6 +14870,30 @@
       "score": 90
     },
     {
+      "name": "@hpcc-js/vite-plugins",
+      "version": "1.1.0",
+      "description": "Various vite plugins",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hpcc-systems/hpcc-js-wasm",
+      "npmUrl": "https://www.npmjs.com/package/%40hpcc-js%2Fvite-plugins",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T09:27:41.135Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 70
+    },
+    {
+      "name": "@hsblabs/http-command",
+      "version": "0.1.0",
+      "description": "Typed command protocol and HTTP client runtime for TypeScript SDKs",
+      "license": "MIT",
+      "repository": "https://github.com/hsblabs/http-command",
+      "npmUrl": "https://www.npmjs.com/package/%40hsblabs%2Fhttp-command",
+      "category": "backend",
+      "createdAt": "2026-08-09T09:53:23.941Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 70
+    },
+    {
       "name": "@huatalk/best-effort-delivery-skill",
       "version": "1.0.1",
       "description": "An autonomous delivery skill that lands high-confidence work and batches low-confidence decisions into an interactive review artifact.",
@@ -15708,6 +15744,150 @@
       "createdAt": "2026-08-06T03:37:07.683Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
       "score": 73
+    },
+    {
+      "name": "@integraledger/lcp-authority",
+      "version": "0.9.0",
+      "description": "Delegated authority for LCP: grant chains, attenuation, and acceptance signatures.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-authority",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:54:46.167Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 63
+    },
+    {
+      "name": "@integraledger/lcp-binding-evm-mpp",
+      "version": "0.9.0",
+      "description": "Welds an LCP record into an MPP settlement on EVM by Id-Reuse (LCP §8.3.5).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-binding-evm-mpp",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:55:26.418Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 73
+    },
+    {
+      "name": "@integraledger/lcp-binding-tempo-mpp",
+      "version": "0.9.0",
+      "description": "Welds an ATR hash into a Tempo TIP-20 settlement under MPP.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-binding-tempo-mpp",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:55:55.620Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 73
+    },
+    {
+      "name": "@integraledger/lcp-discovery",
+      "version": "0.9.0",
+      "description": "Both sides of the LCP bilateral handshake, including the /.well-known/legal-context.json document.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-discovery",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:12.381Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 71
+    },
+    {
+      "name": "@integraledger/lcp-placement-a2a",
+      "version": "0.9.0",
+      "description": "Places an LCP reference into an A2A (Agent-to-Agent Protocol) task, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-a2a",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:28.477Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 72
+    },
+    {
+      "name": "@integraledger/lcp-placement-ack",
+      "version": "0.9.0",
+      "description": "Places an LCP reference into an Agent Commerce Kit (ACK) payment receipt, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-ack",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:34.355Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 73
+    },
+    {
+      "name": "@integraledger/lcp-placement-ap2",
+      "version": "0.9.0",
+      "description": "Places an LCP reference into the AP2 transport envelope, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-ap2",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:45.003Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 69
+    },
+    {
+      "name": "@integraledger/lcp-placement-mastercard-vi",
+      "version": "0.9.0",
+      "description": "Tier B placement of an LCP reference into Mastercard Verifiable Intent.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-mastercard-vi",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:50.640Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 71
+    },
+    {
+      "name": "@integraledger/lcp-placement-mpp",
+      "version": "0.9.0",
+      "description": "Places an LCP reference into an MPP (Machine Payments Protocol) charge request.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-mpp",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:55.854Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 71
+    },
+    {
+      "name": "@integraledger/lcp-placement-visa-tap",
+      "version": "0.9.0",
+      "description": "Places an LCP reference into a Visa TAP request. The header sits outside TAP's signature.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-visa-tap",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:57:05.302Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 69
+    },
+    {
+      "name": "@integraledger/lcp-placement-x402",
+      "version": "0.9.0",
+      "description": "Places an LCP reference into an x402 v2 payment challenge, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-x402",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:57:10.287Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 69
+    },
+    {
+      "name": "@integraledger/lcp-placements",
+      "version": "0.9.0",
+      "description": "The LCP placement registry — the one place a protocol is registered.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placements",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:57:14.495Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 65
     },
     {
       "name": "@integraledger/placement-ack",
@@ -24252,6 +24432,18 @@
       "createdAt": "2026-08-04T21:23:46.232Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 72
+    },
+    {
+      "name": "@purrpose/client-babel",
+      "version": "0.0.11",
+      "description": "In-browser JSX/TSX compiler for playgrounds and documentation tools.",
+      "license": "MIT",
+      "repository": "https://github.com/noodlestan/purrpose",
+      "npmUrl": "https://www.npmjs.com/package/%40purrpose%2Fclient-babel",
+      "category": "frontend",
+      "createdAt": "2026-08-09T09:25:46.560Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 65
     },
     {
       "name": "@purrtrait/view-tsx",
@@ -34946,6 +35138,18 @@
       "score": 58
     },
     {
+      "name": "angles-report-importer",
+      "version": "1.0.2",
+      "description": "Imports test reports (allure, junit) into the Angles dashboard as builds, screenshots and test executions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AnglesHQ/angles-report-importer",
+      "npmUrl": "https://www.npmjs.com/package/angles-report-importer",
+      "category": "testing",
+      "createdAt": "2026-08-09T10:16:41.286Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 75
+    },
+    {
       "name": "aniki-sdk",
       "version": "1.1.0",
       "description": "A TypeScript, provider-agnostic AI Agent SDK for building production-ready AI agents.",
@@ -35184,6 +35388,18 @@
       "createdAt": "2026-08-06T16:56:10.347Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 88
+    },
+    {
+      "name": "apis.vin",
+      "version": "1.0.0",
+      "description": "apis.vin — the vehicle estate API as one package: a typed SDK over the live surface (data / buy / fi / credit / keys as client namespaces), the `vin` CLI, and an MCP stdio bridge to the estate MCP server. Typed OK/EMPTY/BLOCKED/OFFER envelopes; sandbox-fi",
+      "license": "MIT",
+      "repository": "https://github.com/drivly/vin",
+      "npmUrl": "https://www.npmjs.com/package/apis.vin",
+      "category": "backend",
+      "createdAt": "2026-08-09T09:20:15.312Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 100
     },
     {
       "name": "app-factory-mcp",
@@ -50726,6 +50942,18 @@
       "score": 73
     },
     {
+      "name": "outcrop",
+      "version": "0.1.0",
+      "description": "Serve a folder of markdown tasks and docs as a live kanban board, docs site, and agent API. AI-native, zero-config, files are the database.",
+      "license": "MIT",
+      "repository": "https://github.com/amirulhakiim/outcrop",
+      "npmUrl": "https://www.npmjs.com/package/outcrop",
+      "category": "backend",
+      "createdAt": "2026-08-09T09:37:48.819Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 83
+    },
+    {
       "name": "overdraw",
       "version": "0.1.1",
       "description": "3D performance and GPU-leak budgets for CI. Fails the build when a WebGL scene regresses — draw calls, texture memory, frame time, and undisposed GPU resources with the line that allocated them.",
@@ -51996,6 +52224,18 @@
       "createdAt": "2026-08-08T11:09:35.020Z",
       "discoveredAt": "2026-08-08T11:22:53.750Z",
       "score": 46
+    },
+    {
+      "name": "pi-tps-status",
+      "version": "1.0.1",
+      "description": "Pi extension: configurable tokens-per-second status widget with TTFT, token counts, and provider-usage reconciliation",
+      "license": "MIT",
+      "repository": "https://github.com/YuGiMob/pi-tps-status",
+      "npmUrl": "https://www.npmjs.com/package/pi-tps-status",
+      "category": "devops",
+      "createdAt": "2026-08-07T16:52:01.810Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 68
     },
     {
       "name": "pi-usage-bar-focus",
@@ -54242,6 +54482,18 @@
       "score": 72
     },
     {
+      "name": "react-native-smart-permissions",
+      "version": "0.1.0",
+      "description": "A complete, customizable permission workflow manager for React Native. Handle rationale UI, permission requests, denial, blocked access, settings redirection and rechecking on return.",
+      "license": "MIT",
+      "repository": "https://github.com/pradeepdev001/react-native-smart-permissions",
+      "npmUrl": "https://www.npmjs.com/package/react-native-smart-permissions",
+      "category": "frontend",
+      "createdAt": "2026-08-09T09:41:22.189Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 88
+    },
+    {
       "name": "react-native-smartapi",
       "version": "1.0.0",
       "description": "Enterprise-grade, zero-config API management layer for React Native (Bare Workflow). Built-in HTTP client, interceptors, error engine, caching, retry, auth, offline queue, and React hooks — no Axios required.",
@@ -55202,6 +55454,18 @@
       "score": 86
     },
     {
+      "name": "rtl-lint",
+      "version": "0.3.0",
+      "description": "Find layout that breaks in right-to-left languages: physical CSS properties, directional Tailwind utilities, and missing dir attributes.",
+      "license": "MIT",
+      "repository": "https://github.com/kahlelhawary-art/rtl-lint",
+      "npmUrl": "https://www.npmjs.com/package/rtl-lint",
+      "category": "frontend",
+      "createdAt": "2026-08-06T19:40:06.061Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 72
+    },
+    {
       "name": "rtsp-streamer",
       "version": "1.0.0",
       "description": "Zero-dependency RTSP-to-browser streaming over WebSocket, with a WebCodecs <rtsp-player> element and React/Angular bindings — no ffmpeg, no native addons, no media server.",
@@ -55536,6 +55800,18 @@
       "createdAt": "2026-08-01T21:39:10.979Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 60
+    },
+    {
+      "name": "schemaforge-cli",
+      "version": "0.1.0",
+      "description": "Visual database schema designer with PostgreSQL, MongoDB, Prisma, and TypeORM export",
+      "license": "MIT",
+      "repository": "https://github.com/rostislaw9/schema-forge",
+      "npmUrl": "https://www.npmjs.com/package/schemaforge-cli",
+      "category": "data",
+      "createdAt": "2026-08-09T10:23:19.200Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 78
     },
     {
       "name": "scorm-mcp-server",
@@ -56904,6 +57180,18 @@
       "createdAt": "2026-07-29T09:59:50.562Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 69
+    },
+    {
+      "name": "speedwa",
+      "version": "1.0.3",
+      "description": "WhatsApp Web API Library",
+      "license": "MIT",
+      "repository": "https://github.com/ayoubdev/kornos",
+      "npmUrl": "https://www.npmjs.com/package/speedwa",
+      "category": "backend",
+      "createdAt": "2026-08-09T10:21:05.053Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 82
     },
     {
       "name": "sphere-visual-lab",
@@ -59928,6 +60216,18 @@
       "createdAt": "2026-07-25T19:02:27.058Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 53
+    },
+    {
+      "name": "vite-plugin-refresh-guard",
+      "version": "0.1.1",
+      "description": "Vite 应用的可配置版本更新检测+刷新方案：静默自动刷新 / 提示后自动刷新 / 弹窗阻断，按产品需要选档位，核心逻辑框架无关，附 Vue/React 适配层。Configurable new-version detection + refresh for Vite apps — silent / toast-auto / modal-blocking, framework-agnostic core with Vue and React adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/webkubor/vite-plugin-refresh-guard",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-refresh-guard",
+      "category": "frontend",
+      "createdAt": "2026-08-09T09:38:35.015Z",
+      "discoveredAt": "2026-08-09T10:24:31.633Z",
+      "score": 69
     },
     {
       "name": "vite-plugin-shader-languages",
