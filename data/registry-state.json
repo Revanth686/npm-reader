@@ -1,19 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124090248,
-  "lastRunAt": "2026-08-09T20:57:04.865Z",
+  "lastSequence": 124092726,
+  "lastRunAt": "2026-08-09T21:28:49.953Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@doikayt/verify-lib",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@agustinlzn/finpilot-mcp",
+      "name": "@useparley/dashboard",
       "attempts": 1
     },
     {
-      "name": "@sandboxapis/mcp",
+      "name": "@webcontextinterface/validator",
+      "attempts": 1
+    },
+    {
+      "name": "@webcontextinterface/annotator",
+      "attempts": 1
+    },
+    {
+      "name": "@webcontextinterface/react",
+      "attempts": 1
+    },
+    {
+      "name": "@webcontextinterface/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@webcontextinterface/mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@relictombs/opentui-motion",
       "attempts": 1
     }
   ]

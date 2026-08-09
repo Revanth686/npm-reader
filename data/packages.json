@@ -11534,6 +11534,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/anyeth",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for anyETH (build etherscan-anyeth-a649325a-1786310110039, commit dba13c7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/anyeth",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fanyeth",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T21:15:33.878Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/apeing",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for $APEING (build etherscan-apeing-16558c58-1786267006711, commit 36bac12, branch etherscan)",
@@ -14102,6 +14114,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/yauss",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for YAUSS (build etherscan-yauss-122ed513-1786309044398, commit dfb56ac, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/yauss",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fyauss",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T20:57:46.907Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/yielddistributor",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for YieldDistributor (build etherscan-yielddistributor-5f4d0935-1785002629627, commit 1f1c17b, branch etherscan)",
@@ -15888,6 +15912,18 @@
       "createdAt": "2026-08-02T03:03:01.566Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 84
+    },
+    {
+      "name": "@hypertectonic/walk-me-through-the-code",
+      "version": "0.1.1",
+      "description": "Interactive local code walkthroughs with source-linked explanations and agent-guided follow-up",
+      "license": "MIT",
+      "repository": "https://github.com/hypertectonic/walk-me-through-the-code",
+      "npmUrl": "https://www.npmjs.com/package/%40hypertectonic%2Fwalk-me-through-the-code",
+      "category": "cli",
+      "createdAt": "2026-08-09T21:08:55.369Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 62
     },
     {
       "name": "@hyphen_solution/cli",
@@ -23918,6 +23954,18 @@
       "score": 58
     },
     {
+      "name": "@openemt/openemt",
+      "version": "0.1.1",
+      "description": "OpenEMT: an agent-native electromagnetic transient (EMT) and power-flow simulator for AC, DC and hybrid power systems. One deterministic solver core behind three coequal frontends: a browser canvas, a CLI, and an MCP server.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/h-d-engineer/OpenEMT",
+      "npmUrl": "https://www.npmjs.com/package/%40openemt%2Fopenemt",
+      "category": "frontend",
+      "createdAt": "2026-08-09T21:18:21.407Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 90
+    },
+    {
       "name": "@openfray/dice",
       "version": "1.0.0",
       "description": "Honest dice for d20 systems: a formula parser and one roll() over a CSPRNG with modulo-bias rejection.",
@@ -28226,6 +28274,18 @@
       "score": 84
     },
     {
+      "name": "@sandboxapis/mcp",
+      "version": "0.1.0",
+      "description": "MCP server for SandboxAPIs — read-only, API-compatible replicas of GitHub, GitLab, Bitbucket, Azure DevOps, Jira and Linear, preloaded with one realistic simulated engineering org.",
+      "license": "MIT",
+      "repository": "https://github.com/schinizel/sandboxapis",
+      "npmUrl": "https://www.npmjs.com/package/%40sandboxapis%2Fmcp",
+      "category": "testing",
+      "createdAt": "2026-08-09T20:55:02.139Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 62
+    },
+    {
       "name": "@sandeshgrangdan/spotify-tui",
       "version": "0.26.1",
       "description": "A terminal user interface for Spotify, with an app-like home screen. Fork of spotify-tui, modernized for the post-2024 Web API.",
@@ -29822,6 +29882,174 @@
       "score": 73
     },
     {
+      "name": "@sometic/accessibility",
+      "version": "1.0.1",
+      "description": "Focus, keyboard, dismissable and announcement primitives for accessible Sometic UIs.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Faccessibility",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T20:31:45.115Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 64
+    },
+    {
+      "name": "@sometic/app-shell",
+      "version": "1.0.1",
+      "description": "Sometic System composition: createAppShell with session epoch binds across auth, http, query, head, theme, stores, and forms.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fapp-shell",
+      "category": "backend",
+      "createdAt": "2026-08-09T20:31:45.079Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 67
+    },
+    {
+      "name": "@sometic/auth",
+      "version": "1.0.1",
+      "description": "Provider-independent authentication orchestration for Sometic applications.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fauth",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T20:31:45.012Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 59
+    },
+    {
+      "name": "@sometic/core",
+      "version": "1.0.1",
+      "description": "Framework-independent lifecycle, environment and shared primitive contracts for the Sometic ecosystem.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T20:31:48.723Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 74
+    },
+    {
+      "name": "@sometic/dom",
+      "version": "1.0.1",
+      "description": "DOM engines (button/input controllers, portal, scroll lock, observers) used by Sometic adapters and elements.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fdom",
+      "category": "frontend",
+      "createdAt": "2026-08-09T20:31:49.628Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 65
+    },
+    {
+      "name": "@sometic/events",
+      "version": "1.0.1",
+      "description": "Typed event emitters and subscription helpers for Sometic applications.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fevents",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T20:31:49.310Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 60
+    },
+    {
+      "name": "@sometic/forms",
+      "version": "1.0.1",
+      "description": "Framework-independent form engine, fields and validation orchestration for Sometic.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fforms",
+      "category": "data",
+      "createdAt": "2026-08-09T20:31:51.849Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 62
+    },
+    {
+      "name": "@sometic/http",
+      "version": "1.0.1",
+      "description": "Fetch-first HTTP client with interceptors, retry and optional auth refresh for Sometic.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fhttp",
+      "category": "backend",
+      "createdAt": "2026-08-09T20:31:52.480Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 59
+    },
+    {
+      "name": "@sometic/query",
+      "version": "1.0.1",
+      "description": "Portable server-state query client for Sometic: keys, cache, mutations, invalidation.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fquery",
+      "category": "backend",
+      "createdAt": "2026-08-09T20:31:53.366Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 59
+    },
+    {
+      "name": "@sometic/react",
+      "version": "1.0.1",
+      "description": "Native React adapters and components powered by the Sometic framework-independent primitive engine.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-09T20:31:53.552Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 66
+    },
+    {
+      "name": "@sometic/store",
+      "version": "1.0.1",
+      "description": "Framework-independent reactive store, selectors and persistence for Sometic.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fstore",
+      "category": "frontend",
+      "createdAt": "2026-08-09T20:31:54.922Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 60
+    },
+    {
+      "name": "@sometic/styling",
+      "version": "1.0.1",
+      "description": "Class, style and slot resolvers for unstyled Sometic primitives.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fstyling",
+      "category": "frontend",
+      "createdAt": "2026-08-09T20:31:56.218Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 60
+    },
+    {
+      "name": "@sometic/theme",
+      "version": "1.0.1",
+      "description": "Runtime design-token and theme management for framework-independent JavaScript applications.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Ftheme",
+      "category": "frontend",
+      "createdAt": "2026-08-09T20:31:56.654Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 63
+    },
+    {
+      "name": "@sometic/vue",
+      "version": "1.0.1",
+      "description": "Native Vue adapters and components powered by the Sometic framework-independent primitive engine.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-08-09T20:31:56.866Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 65
+    },
+    {
       "name": "@somnia-chain/markets-sdk",
       "version": "0.20.0",
       "description": "Zero-latency client for the Somnia Markets order books (spot + binary): hydrates a consistent Envio/Hasura snapshot, then materializes subsequent blocks — including the resting order book — from chain logs into a reactive store (with React hooks). Writes",
@@ -31296,6 +31524,18 @@
       "createdAt": "2026-08-08T14:48:23.652Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 26
+    },
+    {
+      "name": "@teloce/bundler",
+      "version": "1.0.0",
+      "description": "Teloce bundler - production packaging with tree-shaking, minification, and chunk splitting",
+      "license": "MIT",
+      "repository": "https://github.com/aldanedev-create/telonce",
+      "npmUrl": "https://www.npmjs.com/package/%40teloce%2Fbundler",
+      "category": "build-tools",
+      "createdAt": "2026-08-08T20:25:30.313Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 57
     },
     {
       "name": "@teloce/cli",
@@ -34176,6 +34416,18 @@
       "createdAt": "2026-08-04T22:28:07.634Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 70
+    },
+    {
+      "name": "@wildride/pad-kit",
+      "version": "0.4.0",
+      "description": "Dependency-free gamepad kernel: profile schema, capture, decode, resolution gates, glyph sets, controller diagram geometry — plus optional Vue presentation components.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/wildride-games/pad-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40wildride%2Fpad-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-09T21:08:33.584Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 66
     },
     {
       "name": "@williambelle-co/monitoring",
@@ -42182,6 +42434,18 @@
       "score": 76
     },
     {
+      "name": "directus-extension-parse-xlsx",
+      "version": "1.0.0",
+      "description": "Parse uploaded XLSX files into a Repeater field via a Flows operation, with automatic column mapping",
+      "license": "MIT",
+      "repository": "https://github.com/shlikhta/directus-extension-parse-xlsx",
+      "npmUrl": "https://www.npmjs.com/package/directus-extension-parse-xlsx",
+      "category": "utilities",
+      "createdAt": "2026-08-09T21:04:18.020Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 64
+    },
+    {
       "name": "discord-html-transcript",
       "version": "1.2.0",
       "description": "Pixel-accurate, self-contained HTML transcripts for Discord channels. XSS-safe by construction, CSP-locked, split into parts when a file would exceed the guild's upload limit.",
@@ -44520,6 +44784,18 @@
       "createdAt": "2026-07-28T05:00:27.486Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 77
+    },
+    {
+      "name": "ftporter",
+      "version": "1.1.0",
+      "description": "Your files' porter — SFTP deploy, watcher and interval patrol.",
+      "license": "MIT",
+      "repository": "https://github.com/vitvohralik/ftporter",
+      "npmUrl": "https://www.npmjs.com/package/ftporter",
+      "category": "data",
+      "createdAt": "2026-08-09T21:02:26.810Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 86
     },
     {
       "name": "fukkits",
@@ -50210,6 +50486,18 @@
       "score": 74
     },
     {
+      "name": "mms-forced-align",
+      "version": "0.1.0",
+      "description": "CTC forced alignment (word-level timestamps) using Meta's MMS forced-aligner model, in Node.js/TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/arham-sayyed/mms-forced-align",
+      "npmUrl": "https://www.npmjs.com/package/mms-forced-align",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T21:06:45.141Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 62
+    },
+    {
       "name": "mnemo-agent-memory",
       "version": "1.0.2",
       "description": "Zero-Token-Waste Memory Engine, Knowledge Graph & Notes System for AI Coding Agents via MCP.",
@@ -54576,6 +54864,18 @@
       "createdAt": "2026-08-01T13:34:27.430Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 73
+    },
+    {
+      "name": "pi-fast-all",
+      "version": "0.1.0",
+      "description": "One fast-mode toggle for every provider that has one — Anthropic speed=fast, OpenAI/Codex priority tier, and anything else you can describe in a rule.",
+      "license": "MIT",
+      "repository": "https://github.com/grinich/pi-fast-all",
+      "npmUrl": "https://www.npmjs.com/package/pi-fast-all",
+      "category": "utilities",
+      "createdAt": "2026-08-09T21:23:13.974Z",
+      "discoveredAt": "2026-08-09T21:28:49.953Z",
+      "score": 71
     },
     {
       "name": "pi-file-size",
