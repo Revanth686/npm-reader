@@ -2390,6 +2390,18 @@
       "score": 78
     },
     {
+      "name": "@anizoptera/publish-clean",
+      "version": "0.2.0",
+      "description": "Publish pnpm workspace packages from a cleaned, validated package tarball.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Anizoptera/publish-clean",
+      "npmUrl": "https://www.npmjs.com/package/%40anizoptera%2Fpublish-clean",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:24:14.182Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 68
+    },
+    {
       "name": "@anmezing/lce",
       "version": "1.0.1",
       "description": "Local Context Engine for AI coding agents",
@@ -7608,6 +7620,18 @@
       "createdAt": "2026-07-29T22:35:27.333Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 61
+    },
+    {
+      "name": "@dealpulsehub/design-system",
+      "version": "1.0.0",
+      "description": "A modern, type-safe React Design System with automated design tokens, Figma sync, and production-ready components",
+      "license": "MIT",
+      "repository": "https://github.com/Dealpulsehub/DEALPULSEHUB",
+      "npmUrl": "https://www.npmjs.com/package/%40dealpulsehub%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-08-10T17:44:54.682Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 79
     },
     {
       "name": "@decaspace/canapi",
@@ -15134,6 +15158,18 @@
       "score": 82
     },
     {
+      "name": "@governancer-foundation/art50-disclosure-sdk",
+      "version": "0.1.0",
+      "description": "The transparency duties of Article 50 of the EU AI Act as code: work out which paragraphs bind a system and why, render the disclosure notices in six languages, and emit a machine-readable record of both.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/governancer-foundation/art50-disclosure-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40governancer-foundation%2Fart50-disclosure-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:20:03.815Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 66
+    },
+    {
       "name": "@governancer-foundation/funnel-base-mcp",
       "version": "0.1.0",
       "description": "MCP server that serves validated primary-source statutory text + a citation validation ledger as queryable resources and tools, so Claude Code sessions and CI agents can fetch verbatim law text and cross-check citations at write time. Bring your own corpu",
@@ -16284,6 +16320,18 @@
       "createdAt": "2026-08-01T05:38:00.361Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 70
+    },
+    {
+      "name": "@honcho-ai/claude-honcho",
+      "version": "0.3.1",
+      "description": "Persistent memory for Claude Code sessions using Honcho by Plastic Labs",
+      "license": "MIT",
+      "repository": "https://github.com/plastic-labs/claude-honcho",
+      "npmUrl": "https://www.npmjs.com/package/%40honcho-ai%2Fclaude-honcho",
+      "category": "utilities",
+      "createdAt": "2026-08-07T17:22:59.446Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 67
     },
     {
       "name": "@honeycrisp/governed",
@@ -17918,6 +17966,18 @@
       "score": 69
     },
     {
+      "name": "@ivaisoft/secrets-webauthn-mcp",
+      "version": "2.3.0",
+      "description": "MCP server for Bitwarden Secrets Manager, AWS SSM Parameter Store and AWS Secrets Manager: the agent USES secrets it never sees, and every use is gated by a fresh physical WebAuthn Approval (Touch ID / passkey).",
+      "license": "MIT",
+      "repository": "https://github.com/ivaisoft/secrets-webauthn-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40ivaisoft%2Fsecrets-webauthn-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T17:52:18.436Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 80
+    },
+    {
       "name": "@ivandigitalsolutions/react-native-camerax",
       "version": "0.1.0",
       "description": "Enterprise-grade React Native CameraX library for Android and iOS with Camera, Gallery, Image Processing, and future QR Scanner support.",
@@ -17952,6 +18012,18 @@
       "createdAt": "2026-08-09T21:03:46.229Z",
       "discoveredAt": "2026-08-09T22:54:46.351Z",
       "score": 28
+    },
+    {
+      "name": "@ixmachina/memory",
+      "version": "0.1.1",
+      "description": "MCP server giving Claude a long-term memory in a GitHub repo you own",
+      "license": "MIT",
+      "repository": "https://github.com/idin/ix-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40ixmachina%2Fmemory",
+      "category": "backend",
+      "createdAt": "2026-08-10T18:25:23.179Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 67
     },
     {
       "name": "@iyulab/canopy",
@@ -26126,6 +26198,18 @@
       "score": 83
     },
     {
+      "name": "@pedrobef/navebox",
+      "version": "0.2.0",
+      "description": "Dois runtimes no navegador: preview WebAssembly leve e ambiente Node com npm, APIs, Next, terminal e deploy opcional.",
+      "license": "MIT",
+      "repository": "https://github.com/Pedro21062014/navebox",
+      "npmUrl": "https://www.npmjs.com/package/%40pedrobef%2Fnavebox",
+      "category": "frontend",
+      "createdAt": "2026-08-10T17:52:35.659Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 67
+    },
+    {
       "name": "@pedrobef/vozz",
       "version": "0.1.1",
       "description": "TTS ultrarrealista em português do Brasil, 100% offline no navegador. Vozes neurais leves (~86 MB), sem API key, sem servidor, sem custo.",
@@ -26244,6 +26328,18 @@
       "createdAt": "2026-08-10T07:21:34.193Z",
       "discoveredAt": "2026-08-10T09:09:27.680Z",
       "score": 78
+    },
+    {
+      "name": "@personizely/sdk",
+      "version": "0.1.0",
+      "description": "Personizely JavaScript SDK - isomorphic full-stack experiment, feature-flag and personalization decisioning for the browser, Node and the edge",
+      "license": "MIT",
+      "repository": "https://github.com/personizelyhq/sdk-js",
+      "npmUrl": "https://www.npmjs.com/package/%40personizely%2Fsdk",
+      "category": "testing",
+      "createdAt": "2026-08-10T18:20:38.348Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 68
     },
     {
       "name": "@phall/phui",
@@ -26747,6 +26843,30 @@
       "category": "cli",
       "createdAt": "2026-08-03T17:04:31.510Z",
       "discoveredAt": "2026-08-03T17:44:53.720Z",
+      "score": 68
+    },
+    {
+      "name": "@pompeii-labs/emulate",
+      "version": "0.9.0",
+      "description": "Local drop-in replacement services for CI and no-network sandboxes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pompeii-labs/emulate",
+      "npmUrl": "https://www.npmjs.com/package/%40pompeii-labs%2Femulate",
+      "category": "testing",
+      "createdAt": "2026-08-10T18:07:25.052Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 76
+    },
+    {
+      "name": "@pompeii-labs/emulate-slack",
+      "version": "0.9.0",
+      "description": "Fully stateful Slack Web API emulation with channels, messages, threads, reactions, user profiles, presence, modern file uploads, pins, bookmarks, views, OAuth v2, and incoming webhooks. Chat writes preserve common rich message fields such as `blocks`, `a",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pompeii-labs/emulate",
+      "npmUrl": "https://www.npmjs.com/package/%40pompeii-labs%2Femulate-slack",
+      "category": "frontend",
+      "createdAt": "2026-08-10T18:07:01.977Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 68
     },
     {
@@ -30134,6 +30254,18 @@
       "score": 74
     },
     {
+      "name": "@sauseschritt/eudi-rp-ts",
+      "version": "0.1.0",
+      "description": "Reference implementation of an EU Digital Identity relying party for Node — verifies SD-JWT VC and ISO mdoc credentials over OpenID4VP 1.0, with ETSI 119 612 trust lists and status-list revocation. Not affiliated with the European Commission.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/polyrainbow/eudi-rp-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40sauseschritt%2Feudi-rp-ts",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:20:28.752Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 90
+    },
+    {
       "name": "@savantlink/sdk",
       "version": "2.1.10",
       "description": "A package that contains reusable components and services for the SavantLink design system and architecture.",
@@ -30540,6 +30672,18 @@
       "createdAt": "2026-08-10T17:31:13.554Z",
       "discoveredAt": "2026-08-10T17:37:47.201Z",
       "score": 70
+    },
+    {
+      "name": "@seosiri/biopharma-mcp",
+      "version": "1.0.0",
+      "description": "Enterprise-grade MCP server for Biopharma software infrastructure, FDA 21 CFR Part 11 audit logging, CDISC SDTM exports, 4PL curves, and HIPAA PII redaction.",
+      "license": "MIT",
+      "repository": "https://github.com/SEOSiri-Official/biopharma-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40seosiri%2Fbiopharma-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T17:53:21.205Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 71
     },
     {
       "name": "@sesori/pr-monitor-opencode",
@@ -39758,6 +39902,18 @@
       "score": 88
     },
     {
+      "name": "apick-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for APICK — 82 Korean data and AI tools: business registry, ID verification, OCR, parcel tracking, document conversion, search and LLM",
+      "license": "MIT",
+      "repository": "https://github.com/lead788/apick-mcp",
+      "npmUrl": "https://www.npmjs.com/package/apick-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T18:22:30.753Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 82
+    },
+    {
       "name": "apis.vin",
       "version": "1.0.0",
       "description": "apis.vin — the vehicle estate API as one package: a typed SDK over the live surface (data / buy / fi / credit / keys as client namespaces), the `vin` CLI, and an MCP stdio bridge to the estate MCP server. Typed OK/EMPTY/BLOCKED/OFFER envelopes; sandbox-fi",
@@ -43608,6 +43764,18 @@
       "createdAt": "2026-08-02T09:48:50.622Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 76
+    },
+    {
+      "name": "copy-to-figma",
+      "version": "0.1.0",
+      "description": "Copy color palettes, type scales, icon grids and full styleguides into Figma as editable frames — plain clipboard SVG, no plugin required.",
+      "license": "MIT",
+      "repository": "https://github.com/jinero-online/copy-to-figma",
+      "npmUrl": "https://www.npmjs.com/package/copy-to-figma",
+      "category": "cli",
+      "createdAt": "2026-08-10T18:06:17.977Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 68
     },
     {
       "name": "cordova-plugin-yandex-mapkit",
@@ -52586,6 +52754,18 @@
       "score": 80
     },
     {
+      "name": "mcp-authz",
+      "version": "0.1.0",
+      "description": "Authorization for MCP servers: OAuth 2.1 resource server, roles/permissions policy, permission-gated tools (2026-07-28)",
+      "license": "MIT",
+      "repository": "https://github.com/jagreehal/mcp-authz",
+      "npmUrl": "https://www.npmjs.com/package/mcp-authz",
+      "category": "backend",
+      "createdAt": "2026-08-10T18:01:19.936Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 73
+    },
+    {
       "name": "mcp-better",
       "version": "0.4.0",
       "description": "AAIF-verified modern MCP setup optimised to the 2026-07-28 model (BETTER textbook). npm shim downloads the native binary from GitHub Releases.",
@@ -52848,6 +53028,18 @@
       "createdAt": "2026-08-03T02:48:31.893Z",
       "discoveredAt": "2026-08-03T05:50:48.787Z",
       "score": 86
+    },
+    {
+      "name": "mcp-phase-gate",
+      "version": "2.0.0",
+      "description": "Servidor MCP que parte cada requerimiento en cinco fases con compuerta y obliga a que cada una deje su documento en una documentación central.",
+      "license": "MIT",
+      "repository": "https://github.com/Montse2308/mcp-phase-gate",
+      "npmUrl": "https://www.npmjs.com/package/mcp-phase-gate",
+      "category": "devops",
+      "createdAt": "2026-08-10T18:21:32.483Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 88
     },
     {
       "name": "mcp-queue-doctor",
@@ -55202,6 +55394,18 @@
       "score": 80
     },
     {
+      "name": "next-upgrade-doctor",
+      "version": "0.1.1",
+      "description": "Find what the Next.js 16 upgrade silently broke in your app. Zero dependencies, one command, file:line and a fix for every finding.",
+      "license": "MIT",
+      "repository": "https://github.com/Outpost-pun/next-upgrade-doctor",
+      "npmUrl": "https://www.npmjs.com/package/next-upgrade-doctor",
+      "category": "cli",
+      "createdAt": "2026-08-10T18:22:24.508Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 74
+    },
+    {
       "name": "next-with-text",
       "version": "0.2.0",
       "description": "llms.txt, llms-full.txt, and per-page markdown for Next.js — one line in next.config.ts",
@@ -55956,6 +56160,18 @@
       "createdAt": "2026-07-31T15:34:30.815Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 82
+    },
+    {
+      "name": "nx-speed",
+      "version": "1.0.1",
+      "description": "Auto-transform <img> tags to next/image and Google Fonts to next/font — Lighthouse 40 → 90+",
+      "license": "MIT",
+      "repository": "https://github.com/KeroCodes/nx-speed",
+      "npmUrl": "https://www.npmjs.com/package/nx-speed",
+      "category": "data",
+      "createdAt": "2026-08-10T17:47:24.519Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 77
     },
     {
       "name": "nxtkill",
@@ -57000,6 +57216,18 @@
       "createdAt": "2026-08-01T14:21:30.031Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 56
+    },
+    {
+      "name": "oral-b",
+      "version": "0.1.0",
+      "description": "A Node.js library for BLE communication with Oral-B smart toothbrushes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/brianwalczak/oral-b",
+      "npmUrl": "https://www.npmjs.com/package/oral-b",
+      "category": "utilities",
+      "createdAt": "2026-08-10T17:56:20.380Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 70
     },
     {
       "name": "orangerail",
@@ -58670,6 +58898,18 @@
       "score": 69
     },
     {
+      "name": "pi-ste-writing",
+      "version": "0.0.1",
+      "description": "Semantics-first technical writing skill and guarded verifier for Pi",
+      "license": "MIT",
+      "repository": "https://github.com/stijnVanHorenbeek/pi-ste-writing",
+      "npmUrl": "https://www.npmjs.com/package/pi-ste-writing",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:30:23.178Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 66
+    },
+    {
       "name": "pi-subagents-workflows",
       "version": "0.1.1",
       "description": "Saved workflow registry and runner for pi-subagents workflowScript orchestration",
@@ -58742,6 +58982,18 @@
       "score": 82
     },
     {
+      "name": "pi-use-last-selected-thinking-level",
+      "version": "0.1.1",
+      "description": "Remember the thinking level you last used per model and re-apply it when you switch back — without overriding settings pins.",
+      "license": "MIT",
+      "repository": "https://github.com/DraconDev/pi-use-last-selected-thinking-level",
+      "npmUrl": "https://www.npmjs.com/package/pi-use-last-selected-thinking-level",
+      "category": "utilities",
+      "createdAt": "2026-08-02T14:06:24.403Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 69
+    },
+    {
       "name": "pi-vigil",
       "version": "0.1.0",
       "description": "Pi extension for asynchronous, turn-based subagents",
@@ -58776,6 +59028,18 @@
       "createdAt": "2026-07-28T11:05:55.977Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 85
+    },
+    {
+      "name": "pi-workgraph",
+      "version": "0.0.1",
+      "description": "Pi extension exposing the beads (bd) work graph as typed tools for coordinated agent workers",
+      "license": "MIT",
+      "repository": "https://github.com/gjtorikian/pi-workgraph",
+      "npmUrl": "https://www.npmjs.com/package/pi-workgraph",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:19:36.657Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 79
     },
     {
       "name": "pi-worktree-extension",
@@ -62486,6 +62750,18 @@
       "score": 88
     },
     {
+      "name": "safe-local-env-loader",
+      "version": "1.0.0",
+      "description": "Loads environment variables from .env file",
+      "license": "BSD-2-Clause",
+      "repository": "https://github.com/motdotla/dotenv",
+      "npmUrl": "https://www.npmjs.com/package/safe-local-env-loader",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:12:48.469Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 78
+    },
+    {
       "name": "safe-whatsapp-mcp",
       "version": "0.2.0",
       "description": "Local MCP server for reading a personal WhatsApp linked device and sending through an editable private browser review.",
@@ -63758,6 +64034,18 @@
       "score": 77
     },
     {
+      "name": "skillweft",
+      "version": "0.2.0",
+      "description": "Keep large agent capability libraries hidden and expose only the working set you need.",
+      "license": "MIT",
+      "repository": "https://github.com/DurdeuVlad/skillweft",
+      "npmUrl": "https://www.npmjs.com/package/skillweft",
+      "category": "utilities",
+      "createdAt": "2026-08-10T15:57:12.859Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 70
+    },
+    {
       "name": "sl-gnd-dsd-districts",
       "version": "1.0.0",
       "description": "Complete Sri Lanka administrative divisions data — Districts (25), Divisional Secretariat Divisions (DSDs ~332), and Grama Niladhari Divisions (GNDs ~14,000+) with search and lookup utilities. Trilingual support (English, Sinhala, Tamil).",
@@ -64008,6 +64296,18 @@
       "createdAt": "2026-08-08T22:40:04.570Z",
       "discoveredAt": "2026-08-08T22:51:06.233Z",
       "score": 38
+    },
+    {
+      "name": "solid-migration-assistant",
+      "version": "0.1.1",
+      "description": "Read-only Solid 1.9 to Solid 2 beta.32 migration analyzer",
+      "license": "MIT",
+      "repository": "https://github.com/devagrawal09/solid-migration-assistant",
+      "npmUrl": "https://www.npmjs.com/package/solid-migration-assistant",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T18:11:03.143Z",
+      "discoveredAt": "2026-08-10T18:44:20.598Z",
+      "score": 66
     },
     {
       "name": "solidity-jwt",
