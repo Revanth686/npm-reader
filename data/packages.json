@@ -1346,6 +1346,18 @@
       "score": 69
     },
     {
+      "name": "@aidinabedi/json-schema-to-typescript",
+      "version": "15.0.4",
+      "description": "compile json schema to typescript typings",
+      "license": "MIT",
+      "repository": "https://github.com/aidinabedi/json-schema-to-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40aidinabedi%2Fjson-schema-to-typescript",
+      "category": "backend",
+      "createdAt": "2026-08-10T00:18:07.455Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 82
+    },
+    {
       "name": "@aimform/apps",
       "version": "0.1.1",
       "description": "Aimform App Store SDK — define, validate, and publish apps for the Aimform platform",
@@ -2520,6 +2532,42 @@
       "createdAt": "2026-08-04T22:00:54.120Z",
       "discoveredAt": "2026-08-08T22:51:06.233Z",
       "score": 20
+    },
+    {
+      "name": "@aos-agent/agent-core",
+      "version": "0.84.2",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/guanwenpeng2001-bot/AOS-Agent",
+      "npmUrl": "https://www.npmjs.com/package/%40aos-agent%2Fagent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-10T00:56:52.797Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 69
+    },
+    {
+      "name": "@aos-agent/ai",
+      "version": "0.84.2",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/guanwenpeng2001-bot/AOS-Agent",
+      "npmUrl": "https://www.npmjs.com/package/%40aos-agent%2Fai",
+      "category": "backend",
+      "createdAt": "2026-08-10T00:58:57.215Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 73
+    },
+    {
+      "name": "@aos-agent/tui",
+      "version": "0.84.2",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/guanwenpeng2001-bot/AOS-Agent",
+      "npmUrl": "https://www.npmjs.com/package/%40aos-agent%2Ftui",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T01:04:08.366Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 73
     },
     {
       "name": "@apat183/pi-buddy",
@@ -4130,6 +4178,18 @@
       "score": 62
     },
     {
+      "name": "@bepalo/spine",
+      "version": "1.0.4",
+      "description": "A fast and feature-rich javascript-runtime-agnostic HTTP request router.",
+      "license": "MIT",
+      "repository": "https://github.com/bepalo/spine",
+      "npmUrl": "https://www.npmjs.com/package/%40bepalo%2Fspine",
+      "category": "backend",
+      "createdAt": "2026-08-09T23:48:35.553Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 87
+    },
+    {
       "name": "@beprajwal/visual-diff",
       "version": "0.1.0",
       "description": "Replay an agent-authored UI workflow across revisions, diff the results visually and semantically, and review them in a live local report.",
@@ -4188,6 +4248,18 @@
       "createdAt": "2026-08-09T20:47:26.446Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 48
+    },
+    {
+      "name": "@bevalz/pi-sync",
+      "version": "1.3.8",
+      "description": "WebDAV/S3 multi-profile config sync for Pi — backup/restore models, settings, skills, extensions",
+      "license": "MIT",
+      "repository": "https://github.com/BevalZ/pi-sync",
+      "npmUrl": "https://www.npmjs.com/package/%40bevalz%2Fpi-sync",
+      "category": "utilities",
+      "createdAt": "2026-08-10T00:50:22.682Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 81
     },
     {
       "name": "@bevyl-ai/rerender",
@@ -6900,6 +6972,18 @@
       "createdAt": "2026-08-04T19:45:45.827Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 97
+    },
+    {
+      "name": "@csukmaproject/livingdocs-mcp",
+      "version": "1.0.0",
+      "description": "MCP server + CLI that keeps software documentation in permanent sync with code, for both AI agents and humans.",
+      "license": "MIT",
+      "repository": "https://github.com/csukmaproject/livingdocs-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40csukmaproject%2Flivingdocs-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T02:54:37.192Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 71
     },
     {
       "name": "@curatelabs/graphforge-agent-skills",
@@ -24098,6 +24182,18 @@
       "score": 70
     },
     {
+      "name": "@onchainai/clawd-code",
+      "version": "1.0.0",
+      "description": "Clawd Code — Solana-native headless AI coding agent CLI. Multi-model, MCP-powered, onchain-ready.",
+      "license": "MIT",
+      "repository": "https://github.com/Solizardking/clawd-core-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40onchainai%2Fclawd-code",
+      "category": "cli",
+      "createdAt": "2026-08-09T23:22:04.897Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 89
+    },
+    {
       "name": "@onderwijsin/nuxt-newsletter-signup",
       "version": "1.0.0",
       "description": "Provider-independent newsletter signup endpoint for Nuxt.",
@@ -24264,6 +24360,18 @@
       "createdAt": "2026-08-04T14:11:23.082Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 84
+    },
+    {
+      "name": "@opencalc/sheet",
+      "version": "0.0.0",
+      "description": "An embeddable spreadsheet that reads and writes real .xlsx — 347 worksheet functions, pivot tables and charts, running entirely in the browser as one custom element.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/CasualOffice/opencalc",
+      "npmUrl": "https://www.npmjs.com/package/%40opencalc%2Fsheet",
+      "category": "frontend",
+      "createdAt": "2026-08-09T23:28:50.725Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 80
     },
     {
       "name": "@opendocument/odr-core",
@@ -25658,6 +25766,18 @@
       "score": 74
     },
     {
+      "name": "@pontx/api-frankfurter",
+      "version": "0.1.0",
+      "description": "Currency exchange rate converter SDK powered by Frankfurter API",
+      "license": "MIT",
+      "repository": "https://github.com/pontjs/currency-exchange",
+      "npmUrl": "https://www.npmjs.com/package/%40pontx%2Fapi-frankfurter",
+      "category": "backend",
+      "createdAt": "2026-08-10T01:00:46.760Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 62
+    },
+    {
       "name": "@poolsideai/n8n-nodes-poolside",
       "version": "0.1.2",
       "description": "n8n community node that connects Poolside's Laguna models to AI Agents and chains via Poolside's OpenAI-compatible inference API",
@@ -25716,6 +25836,18 @@
       "createdAt": "2026-08-04T22:26:05.190Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 75
+    },
+    {
+      "name": "@pouriahlabs/stacksmith",
+      "version": "0.1.0",
+      "description": "A portable suite of 13 independent Agent Skills for inspecting, building, securing, shipping, and improving software — installable into Claude, Codex, and Copilot.",
+      "license": "MIT",
+      "repository": "https://github.com/PouriahLabs/StackSmith",
+      "npmUrl": "https://www.npmjs.com/package/%40pouriahlabs%2Fstacksmith",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T00:26:06.914Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 76
     },
     {
       "name": "@powoftwo/strapi-plugin-media-library-handler",
@@ -27864,6 +27996,18 @@
       "createdAt": "2026-08-09T16:31:32.152Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 44
+    },
+    {
+      "name": "@roamsocket/server",
+      "version": "0.2.0",
+      "description": "RoamSocket desktop companion: headless WebSocket coding server that pairs with the iOS app, clones repos, runs the agent loop, and opens PRs.",
+      "license": "MIT",
+      "repository": "https://github.com/roamsocket/roamsocket-mobile",
+      "npmUrl": "https://www.npmjs.com/package/%40roamsocket%2Fserver",
+      "category": "backend",
+      "createdAt": "2026-08-09T23:38:25.355Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 63
     },
     {
       "name": "@robinmesh/sdk",
@@ -36110,6 +36254,18 @@
       "score": 61
     },
     {
+      "name": "@zioladev/provider-conformance",
+      "version": "0.1.0",
+      "description": "Find out where WebMCP interoperability actually broke: measure provider behavior across consumer and runtime paths, attribute failures to the layer that caused them, and keep consumer/browser failures from becoming provider failures.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/zioladev/provider-conformance",
+      "npmUrl": "https://www.npmjs.com/package/%40zioladev%2Fprovider-conformance",
+      "category": "frontend",
+      "createdAt": "2026-08-09T23:52:53.750Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 66
+    },
+    {
       "name": "@ziyarago/glass-ui-kit",
       "version": "1.31.0",
       "description": "A modern glassmorphism-inspired Vue 3 + TypeScript component library — ~139 components across 12 groups, two palettes, dark mode and 6 locales.",
@@ -38868,6 +39024,30 @@
       "createdAt": "2026-07-28T00:19:55.423Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 62
+    },
+    {
+      "name": "beval-pi-provider",
+      "version": "1.3.1",
+      "description": "Provider manager for Pi coding agent — add/edit/test providers with adaptive capability self-check",
+      "license": "MIT",
+      "repository": "https://github.com/BevalZ/pi-provider",
+      "npmUrl": "https://www.npmjs.com/package/beval-pi-provider",
+      "category": "testing",
+      "createdAt": "2026-08-10T01:05:41.230Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 75
+    },
+    {
+      "name": "beval-pi-sync",
+      "version": "1.3.8",
+      "description": "WebDAV/S3 multi-profile config sync for Pi — backup/restore models, settings, skills, extensions",
+      "license": "MIT",
+      "repository": "https://github.com/BevalZ/pi-sync",
+      "npmUrl": "https://www.npmjs.com/package/beval-pi-sync",
+      "category": "utilities",
+      "createdAt": "2026-08-10T00:55:20.846Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 81
     },
     {
       "name": "bexio-mcp",
@@ -43046,6 +43226,18 @@
       "score": 64
     },
     {
+      "name": "directus-extension-storage-manager",
+      "version": "1.0.0",
+      "description": "Browse, upload, detect, and migrate Directus files across storage adapters (local, S3, GCS, Azure, and more)",
+      "license": "MIT",
+      "repository": "https://github.com/domdus/directus-extension-storage-manager",
+      "npmUrl": "https://www.npmjs.com/package/directus-extension-storage-manager",
+      "category": "utilities",
+      "createdAt": "2026-08-09T23:51:53.770Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 67
+    },
+    {
       "name": "discord-html-transcript",
       "version": "1.2.0",
       "description": "Pixel-accurate, self-contained HTML transcripts for Discord channels. XSS-safe by construction, CSP-locked, split into parts when a file would exceed the guild's upload limit.",
@@ -43068,6 +43260,18 @@
       "createdAt": "2026-08-01T08:55:23.324Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 64
+    },
+    {
+      "name": "discorg-mcp",
+      "version": "0.1.1",
+      "description": "Model Context Protocol server for Discogs — search the catalog, manage your collection and wantlist, and work the marketplace from Claude and other MCP clients.",
+      "license": "MIT",
+      "repository": "https://github.com/Spiegelberg/discorg-mcp",
+      "npmUrl": "https://www.npmjs.com/package/discorg-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T00:12:52.586Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 66
     },
     {
       "name": "distill-md",
@@ -45540,6 +45744,18 @@
       "createdAt": "2026-07-28T19:52:27.483Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 90
+    },
+    {
+      "name": "gautam-cli",
+      "version": "0.1.0",
+      "description": "Explore Gautam Vhavle's projects, experience, and live GitHub activity from your terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/GautamVhavle/gautam-cli",
+      "npmUrl": "https://www.npmjs.com/package/gautam-cli",
+      "category": "backend",
+      "createdAt": "2026-08-10T00:48:06.297Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 62
     },
     {
       "name": "gdocs-native",
@@ -52178,6 +52394,18 @@
       "score": 65
     },
     {
+      "name": "n8n-nodes-wavonyx",
+      "version": "0.1.0",
+      "description": "n8n community node for Wavonyx, a self-hosted WhatsApp gateway: send and receive WhatsApp messages, media, edits and deletes",
+      "license": "MIT",
+      "repository": "https://github.com/phalconyx/n8n-nodes-wavonyx",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-wavonyx",
+      "category": "utilities",
+      "createdAt": "2026-08-09T23:25:47.300Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 63
+    },
+    {
       "name": "n8n-nodes-wazuh-siem",
       "version": "0.1.0",
       "description": "Nodo community de n8n para Wazuh (SIEM/XDR): API del manager (agentes, reglas, FIM, SCA, active response) e indexer de alertas, con trigger de alertas.",
@@ -55418,6 +55646,18 @@
       "score": 76
     },
     {
+      "name": "pi-context-seeker",
+      "version": "0.1.1",
+      "description": "Adaptive questions for building precise, token-efficient shared context between Pi agents and users",
+      "license": "MIT",
+      "repository": "https://github.com/the-sleeping-teemo/pi-context-seeker",
+      "npmUrl": "https://www.npmjs.com/package/pi-context-seeker",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T00:36:40.316Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 69
+    },
+    {
       "name": "pi-continual-harness",
       "version": "0.1.1",
       "description": "Online self-improvement layer for pi. A unified, in-trajectory harness-state store (prompt notes, memory, skill descriptions, sub-agent specs) with a manual /refine that proposes evidence-backed structured CRUD deltas. Composes with pi-reflect (offline) a",
@@ -56856,6 +57096,18 @@
       "createdAt": "2026-07-31T22:23:08.736Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 53
+    },
+    {
+      "name": "principal-pi-skills",
+      "version": "2.3.0",
+      "description": "Skill framework for principal-level software engineering: seven dual-use skills (decide, architect, plan, build, review, debug, git-ops) that work unedited as loaded skills or as subagent system prompts.",
+      "license": "MIT",
+      "repository": "https://github.com/mojomanyana/principal-pi-skills",
+      "npmUrl": "https://www.npmjs.com/package/principal-pi-skills",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T23:21:53.289Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 86
     },
     {
       "name": "print-it-now",
@@ -59138,6 +59390,18 @@
       "score": 57
     },
     {
+      "name": "rn-zalo-toolkit",
+      "version": "0.1.0",
+      "description": "Zalo authentication for React Native. Wraps the official Android and iOS SDKs, resolves the iOS SDK through Swift Package Manager instead of CocoaPods, and guarantees every call settles.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/duysolo/rn-zalo-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/rn-zalo-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-08-10T00:09:50.072Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 63
+    },
+    {
       "name": "rn16k",
       "version": "1.0.0",
       "description": "Check whether a React Native project meets Google Play's 16 KB page size requirement, and which packages block it.",
@@ -59856,6 +60120,18 @@
       "createdAt": "2026-08-08T14:48:57.531Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 57
+    },
+    {
+      "name": "secrets-kit",
+      "version": "0.1.0",
+      "description": "A small, read-only Node.js SDK for retrieving declared secrets from AWS, Google Cloud, and Infisical.",
+      "license": "MIT",
+      "repository": "https://github.com/safwanyp/secrets-kit",
+      "npmUrl": "https://www.npmjs.com/package/secrets-kit",
+      "category": "devops",
+      "createdAt": "2026-08-04T01:02:46.366Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 70
     },
     {
       "name": "secrets-le-mcp",
@@ -60924,6 +61200,18 @@
       "createdAt": "2026-07-27T08:12:44.424Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 86
+    },
+    {
+      "name": "social-website-api",
+      "version": "0.1.0",
+      "description": "Browser-backed website-api integrations for Facebook, Instagram, Rednote, TikTok, X, and YouTube.",
+      "license": "MIT",
+      "repository": "https://github.com/guocity/social-website-api",
+      "npmUrl": "https://www.npmjs.com/package/social-website-api",
+      "category": "frontend",
+      "createdAt": "2026-08-09T23:56:02.859Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 79
     },
     {
       "name": "socketio-kit",
@@ -65256,6 +65544,18 @@
       "createdAt": "2026-08-07T03:42:54.469Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 86
+    },
+    {
+      "name": "wgpu.js",
+      "version": "0.1.0",
+      "description": "WebGPU compute in pure JS, for Node and Browser!",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/playforge-coding/wgpu.js",
+      "npmUrl": "https://www.npmjs.com/package/wgpu.js",
+      "category": "frontend",
+      "createdAt": "2026-08-09T23:40:22.990Z",
+      "discoveredAt": "2026-08-10T01:06:24.306Z",
+      "score": 70
     },
     {
       "name": "wgslender",
