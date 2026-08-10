@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124260497,
-  "lastRunAt": "2026-08-10T19:43:01.816Z",
+  "lastSequence": 124268576,
+  "lastRunAt": "2026-08-10T20:33:00.517Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@magalu-cloud/sdk-idmagalu-react",
+      "name": "@intentius/chant-lexicon-cedar",
+      "attempts": 1
+    },
+    {
+      "name": "@hyperspan/adapter-node",
       "attempts": 1
     }
   ]
