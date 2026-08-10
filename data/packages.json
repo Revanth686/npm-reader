@@ -926,6 +926,18 @@
       "score": 80
     },
     {
+      "name": "@agdsoftware/sso-sdk",
+      "version": "2.0.0",
+      "description": "Keycloak/OIDC tabanlı merkezi yetkilendirme SDK'sı — evrensel izin istemcisi, sunucuda JWT doğrulama, web ve mobil için PKCE, NestJS guard zinciri ve React hook'ları; tek paket, ayrı girişler.",
+      "license": "MIT",
+      "repository": "https://github.com/karademirmustafa/agd-sso",
+      "npmUrl": "https://www.npmjs.com/package/%40agdsoftware%2Fsso-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-10T12:03:48.916Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 99
+    },
+    {
       "name": "@agenetix/agent-sdk",
       "version": "1.0.2",
       "description": "First-party AG-UI client for MCP Stack Agents. Add an LLM-powered agent to your web app while server tools stay on MCP.",
@@ -4248,6 +4260,18 @@
       "createdAt": "2026-08-02T14:46:19.591Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 96
+    },
+    {
+      "name": "@benhowdle/norrin",
+      "version": "0.2.0",
+      "description": "Have we seen this shape before? Fingerprints for distributed-system event sequences, immune to ids, timestamps and jitter.",
+      "license": "MIT",
+      "repository": "https://github.com/benhowdle89/norrin",
+      "npmUrl": "https://www.npmjs.com/package/%40benhowdle%2Fnorrin",
+      "category": "devops",
+      "createdAt": "2026-08-10T11:39:01.234Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 78
     },
     {
       "name": "@benjamin-small/browser-terminal",
@@ -8736,6 +8760,18 @@
       "createdAt": "2026-07-28T08:26:47.169Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 81
+    },
+    {
+      "name": "@dmytromykhailiuk/preact-signal-modal",
+      "version": "1.0.0",
+      "description": "Signal-driven modals for Preact: imperative createModal() with an awaitable result, a declarative <Modal isOpen> component, Ionic-identical Web Animations API transitions, sheet modals with breakpoints, focus trap and zero re-renders.",
+      "license": "MIT",
+      "repository": "https://github.com/dmytromykhailiuk/preact-signal-modal",
+      "npmUrl": "https://www.npmjs.com/package/%40dmytromykhailiuk%2Fpreact-signal-modal",
+      "category": "frontend",
+      "createdAt": "2026-08-10T12:34:27.745Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 94
     },
     {
       "name": "@dmytromykhailiuk/preact-signal-redux",
@@ -20354,6 +20390,18 @@
       "score": 88
     },
     {
+      "name": "@mambalabsdev/mcp-b2b-prospect-engine",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Prospect Engine actor on Apify. Turns a domain or a hiring keyword into enriched company records and verified contacts, with ICP scoring and per field provenance.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-b2b-prospect-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-b2b-prospect-engine",
+      "category": "frontend",
+      "createdAt": "2026-08-10T11:47:39.313Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 84
+    },
+    {
       "name": "@mambalabsdev/mcp-clay-to-instantly-smartlead-push",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs Sequencer Lead Push actor on Apify. Pushes enriched lead rows into an Instantly or Smartlead campaign with ICP score gating, deduplication and a zero-write dry run.",
@@ -20378,6 +20426,18 @@
       "score": 77
     },
     {
+      "name": "@mambalabsdev/mcp-people-finder",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify. Finds people at a company by role, seniority and department, and returns structured contact records with optional verified business email.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-people-finder",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-people-finder",
+      "category": "backend",
+      "createdAt": "2026-08-10T11:47:11.632Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 81
+    },
+    {
       "name": "@mambalabsdev/mcp-publication-cadence-tracker",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs Publication Cadence Tracker actor on Apify. Give it a company domain and it returns how much long-form work that company publishes per month and whether the rate is rising or falling, as flat Clay-ready JSON.",
@@ -20400,6 +20460,30 @@
       "createdAt": "2026-08-01T10:47:26.719Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 88
+    },
+    {
+      "name": "@manggala31/react-datatable",
+      "version": "1.0.0",
+      "description": "Production-ready, keyboard-navigable, server-driven Data Table package for React, Inertia.js, and Next.js applications.",
+      "license": "MIT",
+      "repository": "https://github.com/IlhamHattaManggala/react-datatable",
+      "npmUrl": "https://www.npmjs.com/package/%40manggala31%2Freact-datatable",
+      "category": "frontend",
+      "createdAt": "2026-08-10T12:20:09.672Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 76
+    },
+    {
+      "name": "@manggala31/react-spotlight",
+      "version": "1.0.0",
+      "description": "Production-ready, keyboard-driven Command Palette (Cmd+K / Ctrl+K) React component with fuzzy search, group actions, and seamless customization.",
+      "license": "MIT",
+      "repository": "https://github.com/IlhamHattaManggala/react-spotlight",
+      "npmUrl": "https://www.npmjs.com/package/%40manggala31%2Freact-spotlight",
+      "category": "frontend",
+      "createdAt": "2026-08-10T11:33:46.112Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 90
     },
     {
       "name": "@maniaba/codeigniter4-sse-browser",
@@ -20688,6 +20772,18 @@
       "createdAt": "2026-08-09T04:59:55.157Z",
       "discoveredAt": "2026-08-09T05:43:45.675Z",
       "score": 79
+    },
+    {
+      "name": "@mattschoe/pi-plan",
+      "version": "1.0.0",
+      "description": "Plan mode, accept-edits mode and plan execution tracking for Pi: cycle permission modes, capture the plan to .pi/plans, hand it to a fresh chat, and tick off steps against Done-When criteria.",
+      "license": "MIT",
+      "repository": "https://github.com/Mattschoe/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40mattschoe%2Fpi-plan",
+      "category": "utilities",
+      "createdAt": "2026-08-10T11:45:03.673Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 76
     },
     {
       "name": "@maurice-frank/aiusage",
@@ -22862,6 +22958,18 @@
       "score": 79
     },
     {
+      "name": "@naijacloud/cli",
+      "version": "1.0.0",
+      "description": "Command-line interface for NaijaCloud hosting: authenticate, and manage projects, services, deployments, domains and environment variables. Also serves those operations to AI agents over MCP via `naijacloud mcp`.",
+      "license": "MIT",
+      "repository": "https://github.com/naijacloud/nc-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40naijacloud%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-08-10T12:06:11.609Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 94
+    },
+    {
       "name": "@najathm/api-response",
       "version": "1.0.1",
       "description": "Reusable utilities for Express.js applications to standardize API responses, error handling, pagination, and async route handling.",
@@ -23388,6 +23496,18 @@
       "createdAt": "2026-08-03T18:40:22.847Z",
       "discoveredAt": "2026-08-03T19:21:31.086Z",
       "score": 71
+    },
+    {
+      "name": "@neutrium/rand",
+      "version": "1.0.0",
+      "description": "High-performance random number generators for JavaScript, WebAssembly and WebGPU.",
+      "license": "MIT",
+      "repository": "https://github.com/neutrium/rand",
+      "npmUrl": "https://www.npmjs.com/package/%40neutrium%2Frand",
+      "category": "frontend",
+      "createdAt": "2026-08-10T12:19:48.776Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 78
     },
     {
       "name": "@nexbrowser/mcp",
@@ -24948,6 +25068,18 @@
       "createdAt": "2026-08-08T20:56:32.134Z",
       "discoveredAt": "2026-08-08T21:15:33.790Z",
       "score": 15
+    },
+    {
+      "name": "@opiobonniky/vidfetch",
+      "version": "1.0.0",
+      "description": "CLI tool to download videos from YouTube, TikTok, Facebook, and other platforms via yt-dlp",
+      "license": "MIT",
+      "repository": "https://github.com/opiobonniky/download-me",
+      "npmUrl": "https://www.npmjs.com/package/%40opiobonniky%2Fvidfetch",
+      "category": "data",
+      "createdAt": "2026-08-10T11:09:12.604Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 83
     },
     {
       "name": "@opitacode/dark-memory-mcp",
@@ -28274,6 +28406,18 @@
       "score": 73
     },
     {
+      "name": "@review-removal-services/review-removal-intelligence",
+      "version": "1.0.0",
+      "description": "Review Removal Intelligence is an automated review management system designed to streamline the identification, analysis, and tracking of problematic online reviews.",
+      "license": "MIT",
+      "repository": "https://github.com/review-removal-services/review-removal-intelligence",
+      "npmUrl": "https://www.npmjs.com/package/%40review-removal-services%2Freview-removal-intelligence",
+      "category": "utilities",
+      "createdAt": "2026-08-10T11:58:43.080Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 82
+    },
+    {
       "name": "@revolist/dash-datagrid",
       "version": "4.23.24",
       "description": "RevoGrid Core wrapper for Plotly Dash.",
@@ -29688,6 +29832,18 @@
       "createdAt": "2026-08-09T07:52:00.186Z",
       "discoveredAt": "2026-08-09T08:32:27.989Z",
       "score": 74
+    },
+    {
+      "name": "@scv-soft/pptxgenjs",
+      "version": "4.0.2",
+      "description": "Create JavaScript PowerPoint Presentations",
+      "license": "MIT",
+      "repository": "https://github.com/SCV-Soft/PptxGenJS",
+      "npmUrl": "https://www.npmjs.com/package/%40scv-soft%2Fpptxgenjs",
+      "category": "frontend",
+      "createdAt": "2026-08-10T07:20:57.960Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 78
     },
     {
       "name": "@se-oss/v2ray",
@@ -32354,6 +32510,18 @@
       "score": 80
     },
     {
+      "name": "@syncafricabs/shared-kernel-core",
+      "version": "1.0.0",
+      "description": "Uniform API responses, robust validation, zero boilerplate — for Node.js.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/shared-kernel",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fshared-kernel-core",
+      "category": "backend",
+      "createdAt": "2026-08-10T12:05:03.449Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 81
+    },
+    {
       "name": "@syncfusion/ej2-angular-form-renderer",
       "version": "34.2.2",
       "description": "A package of Essential JS 2 Form Renderer which can render feature-rich Syncfusion components as a form. for Angular",
@@ -33708,6 +33876,18 @@
       "createdAt": "2026-08-09T16:58:33.482Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 53
+    },
+    {
+      "name": "@trenchbird/cli",
+      "version": "1.0.0",
+      "description": "Local-first execution evidence recorder for Solana swaps through Jupiter. Acts like a flight recorder: records provider claims and transaction evidence, verifies externally signed message continuity, and compares externally supplied execution evidence—wit",
+      "license": "MIT",
+      "repository": "https://github.com/TrenchBird/trenchbird-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40trenchbird%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-10T12:28:39.066Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 95
     },
     {
       "name": "@triago/cli",
@@ -35088,6 +35268,18 @@
       "createdAt": "2026-07-29T07:45:23.362Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 91
+    },
+    {
+      "name": "@veyralabs/bookskill",
+      "version": "1.0.0",
+      "description": "bookskill — turn any book, document folder, or collection of sources into a structured, on-demand agent skill for Claude Code, GitHub Copilot CLI, and Amp. Incremental re-generation via chapter-hash diffing.",
+      "license": "MIT",
+      "repository": "https://github.com/veyralabsgroup/bookskill",
+      "npmUrl": "https://www.npmjs.com/package/%40veyralabs%2Fbookskill",
+      "category": "cli",
+      "createdAt": "2026-08-10T11:38:50.190Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 100
     },
     {
       "name": "@vib795/agent-memory",
@@ -41654,6 +41846,18 @@
       "score": 81
     },
     {
+      "name": "claude-taste",
+      "version": "0.3.0",
+      "description": "Learned coding preferences for Claude Code and OpenCode — captured from real signals, stored as markdown, shared over git.",
+      "license": "MIT",
+      "repository": "https://github.com/toshon-jennings/taste",
+      "npmUrl": "https://www.npmjs.com/package/claude-taste",
+      "category": "utilities",
+      "createdAt": "2026-08-10T12:47:38.238Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 80
+    },
+    {
       "name": "claude-token-statusbar",
       "version": "0.1.0",
       "description": "Reactive token & cost status line for the Claude Code TUI",
@@ -41856,6 +42060,18 @@
       "createdAt": "2026-08-04T19:30:17.794Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 80
+    },
+    {
+      "name": "clipwright",
+      "version": "0.0.1",
+      "description": "Code-driven how-to videos: a TypeScript scene in, an MP4 with an animated cursor, captions and smooth zoom out. Built on Playwright.",
+      "license": "MIT",
+      "repository": "https://github.com/VeiaG/clipwright",
+      "npmUrl": "https://www.npmjs.com/package/clipwright",
+      "category": "testing",
+      "createdAt": "2026-08-10T12:22:06.494Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 78
     },
     {
       "name": "cloudflare-dynamic-dns-service",
@@ -44546,6 +44762,18 @@
       "score": 69
     },
     {
+      "name": "dynamic-workflow",
+      "version": "0.1.0",
+      "description": "Deterministic control flow over non-deterministic agent leaves — a flexible, observable orchestration framework over local coding-agent CLIs.",
+      "license": "MIT",
+      "repository": "https://github.com/TSHOGX/dynamic-workflow",
+      "npmUrl": "https://www.npmjs.com/package/dynamic-workflow",
+      "category": "cli",
+      "createdAt": "2026-08-10T12:44:13.186Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 84
+    },
+    {
       "name": "earn-autonomy",
       "version": "0.1.0",
       "description": "Eval-gated autonomy: deterministic rules + LLM rubric + an N-clean-runs gate that decides when an AI agent has earned unattended runs.",
@@ -44976,6 +45204,18 @@
       "createdAt": "2026-08-07T14:25:51.682Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 64
+    },
+    {
+      "name": "env-local",
+      "version": "18.4.2",
+      "description": "Loads environment variables from .env file",
+      "license": "BSD-2-Clause",
+      "repository": "https://github.com/motdotla/dotenv",
+      "npmUrl": "https://www.npmjs.com/package/env-local",
+      "category": "utilities",
+      "createdAt": "2026-08-10T11:18:05.782Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 78
     },
     {
       "name": "envconform",
@@ -52994,6 +53234,18 @@
       "score": 57
     },
     {
+      "name": "n8n-nodes-deepseek-official",
+      "version": "0.1.0",
+      "description": "n8n community node for DeepSeek AI — chat completions, thinking (reasoning) mode, JSON mode and model discovery through the official OpenAI-compatible DeepSeek API",
+      "license": "MIT",
+      "repository": "https://github.com/mehrdadashtari/n8n-nodes-deepseek-official",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-deepseek-official",
+      "category": "backend",
+      "createdAt": "2026-08-10T12:33:38.364Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 84
+    },
+    {
       "name": "n8n-nodes-digistore24",
       "version": "0.1.6",
       "description": "n8n node for the Digistore24 REST API, allowing management of documents, customers, positions, and more.",
@@ -53208,6 +53460,18 @@
       "createdAt": "2026-08-07T17:38:49.617Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 63
+    },
+    {
+      "name": "n8n-nodes-grok-official",
+      "version": "0.1.0",
+      "description": "n8n community nodes for the Grok API from xAI — text with reasoning (thinking) mode, image generation & editing, video generation, and voice (text-to-speech & speech-to-text). OpenAI-compatible, with a configurable Base URL.",
+      "license": "MIT",
+      "repository": "https://github.com/mehrdadashtari/n8n-nodes-grok-official",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-grok-official",
+      "category": "backend",
+      "createdAt": "2026-08-10T12:23:36.475Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 90
     },
     {
       "name": "n8n-nodes-hixy-intelligence-cloud",
@@ -55910,6 +56174,18 @@
       "score": 100
     },
     {
+      "name": "osmfeatures",
+      "version": "0.1.2",
+      "description": "Get OpenStreetMap features such as buildings, roads, or points of interest from dedicated servers with a single API call in GeoJSON, FlatGeobuf, Geoparquet, and CSV formats.",
+      "license": "MIT",
+      "repository": "https://github.com/MapLark/osmfeatures-typescript",
+      "npmUrl": "https://www.npmjs.com/package/osmfeatures",
+      "category": "backend",
+      "createdAt": "2026-08-06T21:33:03.133Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 85
+    },
+    {
       "name": "ossclip",
       "version": "0.1.0",
       "description": "Local-first CLI video producer: cuts silence and fillers, word-timed captions, face-aware framing, and LLM-planned code-rendered graphics — transcription and rendering never leave your machine",
@@ -57216,6 +57492,18 @@
       "createdAt": "2026-08-07T20:53:58.187Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 65
+    },
+    {
+      "name": "pi-mulligan",
+      "version": "0.1.0",
+      "description": "Autonomous, token-cheap context self-rewind for a Pi coding agent — shed context produced by mistake and redo a turn with a self-authored note.",
+      "license": "MIT",
+      "repository": "https://github.com/dabstractor/pi-mulligan",
+      "npmUrl": "https://www.npmjs.com/package/pi-mulligan",
+      "category": "cli",
+      "createdAt": "2026-08-10T12:02:46.358Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 84
     },
     {
       "name": "pi-okf",
@@ -66612,6 +66900,18 @@
       "createdAt": "2026-07-29T14:30:17.961Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 86
+    },
+    {
+      "name": "wanas-zone-cli",
+      "version": "0.2.1",
+      "description": "zone — one CLI for the whole Zoho suite: CRM, Mail, Meeting, Books, Inventory, Creator, Partner Store, Social, Projects, Desk, Sign, Writer, Sheet, Learn, TrainerCentral, People, Campaigns, Marketing Automation, WorkDrive, Cliq and Survey. Unified OAuth,",
+      "license": "ISC",
+      "repository": "https://github.com/Wanas-Apps/wanas-zone-cli",
+      "npmUrl": "https://www.npmjs.com/package/wanas-zone-cli",
+      "category": "backend",
+      "createdAt": "2026-08-10T11:23:59.185Z",
+      "discoveredAt": "2026-08-10T12:50:16.104Z",
+      "score": 90
     },
     {
       "name": "wanas-zpartner-cli",
