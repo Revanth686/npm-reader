@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124126432,
-  "lastRunAt": "2026-08-10T05:18:06.574Z",
+  "lastSequence": 124140504,
+  "lastRunAt": "2026-08-10T07:14:37.064Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@joggai/smartvideo-cli",
+      "name": "@bikli/bikli",
       "attempts": 1
     },
     {
-      "name": "@diego22rct/tenets",
+      "name": "@brabander/config-eslint",
+      "attempts": 1
+    },
+    {
+      "name": "@veryai/connect",
       "attempts": 1
     }
   ]

@@ -6050,6 +6050,18 @@
       "score": 53
     },
     {
+      "name": "@classytic/contact",
+      "version": "0.1.0",
+      "description": "Contact-point identity kernel — canonical E.164 phones (metadata-driven, with the inverse local/carrier transform) and canonical emails. Region is injected, never defaulted; invalid input throws instead of degrading. Pure functions, zero I/O, below every",
+      "license": "MIT",
+      "repository": "https://github.com/classytic/contact",
+      "npmUrl": "https://www.npmjs.com/package/%40classytic%2Fcontact",
+      "category": "data",
+      "createdAt": "2026-08-10T05:51:30.966Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 86
+    },
+    {
       "name": "@clavenar/agent-sdk",
       "version": "1.6.0",
       "description": "Wrap your Anthropic / OpenAI client. Every tool call is inspected by Clavenar before it runs.",
@@ -9986,6 +9998,18 @@
       "score": 73
     },
     {
+      "name": "@etherscan-npm/cli",
+      "version": "1.0.1",
+      "description": "Command-line client and interactive explorer for the Etherscan V2 API",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/etherscan-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40etherscan-npm%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-10T06:27:41.313Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 66
+    },
+    {
       "name": "@evestack/budget",
       "version": "0.2.0",
       "description": "Dollar spend caps for eve agents, per session and per principal per day. Backed by the Postgres you already run, so a cap survives the session that a new session would otherwise reset.",
@@ -10896,6 +10920,30 @@
       "createdAt": "2026-08-09T08:39:37.173Z",
       "discoveredAt": "2026-08-09T09:19:59.096Z",
       "score": 44
+    },
+    {
+      "name": "@fractalai/agent-passport-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol (MCP) server to ISSUE and independently VERIFY verifiable agent passports: ML-DSA-65 (NIST FIPS 204) signature verification + FRC-55 on-chain agent lookup on the FractalAI L1. Works with LangChain, CrewAI, AutoGen, OpenAI Agents — a",
+      "license": "MIT",
+      "repository": "https://github.com/johnInarti/FRACTAL-AI",
+      "npmUrl": "https://www.npmjs.com/package/%40fractalai%2Fagent-passport-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-10T06:31:12.373Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 74
+    },
+    {
+      "name": "@fractalai/pay",
+      "version": "1.0.0",
+      "description": "FractalPay AaaS — TypeScript SDK. Post-quantum, AI-verified, multi-chain (8 EVM + Stellar) payment gateway with Stripe-shaped API.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/johnInarti/FRACTAL-AI",
+      "npmUrl": "https://www.npmjs.com/package/%40fractalai%2Fpay",
+      "category": "backend",
+      "createdAt": "2026-08-10T06:29:46.389Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 72
     },
     {
       "name": "@framy2/ctxray",
@@ -16310,6 +16358,18 @@
       "score": 75
     },
     {
+      "name": "@hytel-sb/switchboard-tracer",
+      "version": "0.1.0",
+      "description": "Never-throw, never-block tracing for AI calls. Records runs into Switchboard AI Observability.",
+      "license": "MIT",
+      "repository": "https://github.com/hytel-io/switchboard",
+      "npmUrl": "https://www.npmjs.com/package/%40hytel-sb%2Fswitchboard-tracer",
+      "category": "devops",
+      "createdAt": "2026-08-10T06:53:28.480Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 65
+    },
+    {
       "name": "@hyuga/llm-safe-sql",
       "version": "0.1.0",
       "description": "Let an LLM propose UPDATE/DELETE, then actually run it, measure the real before/after diff, and always roll back — so the human approves measured facts, not the model's claim.",
@@ -19584,6 +19644,18 @@
       "createdAt": "2026-07-30T15:15:48.306Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 70
+    },
+    {
+      "name": "@lnowakowski/node-red-contrib-shutter",
+      "version": "1.0.0",
+      "description": "Roller shutter control node with position tracking, timed movement, and manual override detection",
+      "license": "MIT",
+      "repository": "https://github.com/lnowakowski/node-red-contrib-shutter",
+      "npmUrl": "https://www.npmjs.com/package/%40lnowakowski%2Fnode-red-contrib-shutter",
+      "category": "utilities",
+      "createdAt": "2026-08-10T05:49:38.518Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 66
     },
     {
       "name": "@localize-work/i18next-backend",
@@ -23678,6 +23750,18 @@
       "score": 72
     },
     {
+      "name": "@nosferatu500/react-dnd-keyboard-backend",
+      "version": "19.0.0",
+      "description": "Keyboard and screen-reader accessible backend for react-dnd",
+      "license": "MIT",
+      "repository": "https://github.com/nosferatu500/react-dnd",
+      "npmUrl": "https://www.npmjs.com/package/%40nosferatu500%2Freact-dnd-keyboard-backend",
+      "category": "frontend",
+      "createdAt": "2026-08-10T05:24:14.542Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 68
+    },
+    {
       "name": "@note1ai/mcp",
       "version": "1.0.1",
       "description": "note1 MCP server connector — query your meeting notes, transcripts, and action items from Claude, ChatGPT, Cursor, or any MCP client.",
@@ -24650,6 +24734,18 @@
       "score": 63
     },
     {
+      "name": "@openreachtech/renchan-kafka",
+      "version": "1.1.2",
+      "description": "Kafka daemon module (by npm-boilerplate@0.0.2)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/openreachtech/renchan-kafka",
+      "npmUrl": "https://www.npmjs.com/package/%40openreachtech%2Frenchan-kafka",
+      "category": "utilities",
+      "createdAt": "2026-08-10T06:44:09.704Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 64
+    },
+    {
       "name": "@opensecureai/firewall",
       "version": "0.1.0",
       "description": "Dependency-light LLM guardrail that decides whether text should be allowed, flagged, or blocked before it reaches a model — composing prompt-injection detection with PII/secret redaction under a configurable policy.",
@@ -25356,6 +25452,30 @@
       "createdAt": "2026-07-28T20:48:39.586Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 75
+    },
+    {
+      "name": "@peeve/cli",
+      "version": "1.0.1",
+      "description": "The Peeve developer CLI — init, connect, verify and toggle the kill switch. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/peeveai/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40peeve%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-10T06:30:04.049Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 74
+    },
+    {
+      "name": "@peeve/sdk",
+      "version": "0.1.0",
+      "description": "The Peeve SDK — one vanilla-JS package that works with any frontend (React, Vue, Angular, Svelte, plain JS) and a /server entry for the backend. Zero third-party deps.",
+      "license": "MIT",
+      "repository": "https://github.com/peeveai/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40peeve%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-08-10T06:38:34.705Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 67
     },
     {
       "name": "@pelec/homer-pi",
@@ -32846,6 +32966,18 @@
       "score": 82
     },
     {
+      "name": "@the-order/reposcore",
+      "version": "1.0.1",
+      "description": "A holistic repository quality scorer that educates developers — not enforces rules.",
+      "license": "MIT",
+      "repository": "https://github.com/reposcore/reposcore",
+      "npmUrl": "https://www.npmjs.com/package/%40the-order%2Freposcore",
+      "category": "cli",
+      "createdAt": "2026-08-08T18:15:28.860Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 76
+    },
+    {
       "name": "@the-rfp-hub/standard",
       "version": "1.0.1",
       "description": "RFP Hub Standard — canonical JSON Schema + generated TypeScript types for Ethereum-ecosystem funding opportunities.",
@@ -33528,6 +33660,18 @@
       "createdAt": "2026-08-01T23:43:20.346Z",
       "discoveredAt": "2026-08-02T01:59:35.775Z",
       "score": 70
+    },
+    {
+      "name": "@tt-a1i/openpi",
+      "version": "0.1.0",
+      "description": "OpenPI — a Pi-native multi-agent workbench with background execution, isolated subagents, replay-safe workflows, goals, tasks, and observable TUI",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/tt-a1i/my-pi-setup",
+      "npmUrl": "https://www.npmjs.com/package/%40tt-a1i%2Fopenpi",
+      "category": "utilities",
+      "createdAt": "2026-08-10T06:52:39.763Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 76
     },
     {
       "name": "@ttsc/evidence",
@@ -37550,6 +37694,18 @@
       "score": 75
     },
     {
+      "name": "agentflux",
+      "version": "0.1.0",
+      "description": "A multi-Agent workbench for pi: direct work, dynamic teams, DAG workflows and issue communities",
+      "license": "MIT",
+      "repository": "https://github.com/bluelightgit/AgentFlux",
+      "npmUrl": "https://www.npmjs.com/package/agentflux",
+      "category": "utilities",
+      "createdAt": "2026-08-10T05:41:09.665Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 68
+    },
+    {
       "name": "agenthub-algo",
       "version": "0.1.0",
       "description": "Pay-per-call Algorand wallet risk scoring, transaction explanation, and LLM tools for AI agents. No API key or account — agents pay per request in USDC over x402.",
@@ -38532,6 +38688,18 @@
       "createdAt": "2026-08-01T11:02:00.881Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 62
+    },
+    {
+      "name": "arbo-ocr-js",
+      "version": "0.3.0",
+      "description": "Node.js and Bun wrapper for arboOCR — runs the prebuilt arboocr_demo binary as a subprocess, no C++ build required.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ARBO-TEAM/arbo-ocr-js",
+      "npmUrl": "https://www.npmjs.com/package/arbo-ocr-js",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T06:53:40.064Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 72
     },
     {
       "name": "arc-honest-money",
@@ -39816,6 +39984,18 @@
       "createdAt": "2026-08-08T17:24:41.281Z",
       "discoveredAt": "2026-08-08T17:28:49.311Z",
       "score": 97
+    },
+    {
+      "name": "browser-cookie-bridge",
+      "version": "1.0.0",
+      "description": "Private local cookie and session transfer for macOS",
+      "license": "MIT",
+      "repository": "https://github.com/apoorvdarshan/browser-cookie-bridge",
+      "npmUrl": "https://www.npmjs.com/package/browser-cookie-bridge",
+      "category": "frontend",
+      "createdAt": "2026-08-10T05:41:56.789Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 65
     },
     {
       "name": "browser-dvr-mcp",
@@ -43176,6 +43356,18 @@
       "createdAt": "2026-08-07T21:15:44.499Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 75
+    },
+    {
+      "name": "deepseek-vision-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for visual image recognition using OpenAI-compatible vision models. Zero-dependency single-file build, configurable via MCP client environment variables (url/apiKey/model).",
+      "license": "MIT",
+      "repository": "https://github.com/qq306863030/deepfish-extensions",
+      "npmUrl": "https://www.npmjs.com/package/deepseek-vision-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-05T11:00:02.695Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 66
     },
     {
       "name": "definite-ts",
@@ -53702,6 +53894,18 @@
       "score": 76
     },
     {
+      "name": "node-multipart",
+      "version": "1.0.0",
+      "description": "A small dependency-free streaming multipart/form-data parser for Node.js.",
+      "license": "MIT",
+      "repository": "https://github.com/mksunny1/node-multipart",
+      "npmUrl": "https://www.npmjs.com/package/node-multipart",
+      "category": "backend",
+      "createdAt": "2026-08-10T07:12:19.793Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 66
+    },
+    {
       "name": "node-name-matching",
       "version": "0.3.0",
       "description": "Precise name-matching algorithm using OpenSanctions fingerprinting",
@@ -55466,6 +55670,18 @@
       "score": 81
     },
     {
+      "name": "packsmoke",
+      "version": "0.1.0",
+      "description": "Test the npm package users will actually install, not just the code in your repository.",
+      "license": "MIT",
+      "repository": "https://github.com/Pavithran-R-A/packsmoke",
+      "npmUrl": "https://www.npmjs.com/package/packsmoke",
+      "category": "testing",
+      "createdAt": "2026-08-10T07:04:16.552Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 64
+    },
+    {
       "name": "paganel-ui",
       "version": "0.2.0",
       "description": "A Tailwind CSS based design system: component classes + vanilla JS behaviors, framework-agnostic (Rails, plain HTML, or any JS toolchain).",
@@ -55956,6 +56172,18 @@
       "createdAt": "2026-08-07T19:44:17.779Z",
       "discoveredAt": "2026-08-07T20:32:09.037Z",
       "score": 90
+    },
+    {
+      "name": "pi-affix-prompt",
+      "version": "1.0.4",
+      "description": "pi 扩展：transcript 中「用户输入消息」的 Affix 吸顶（类似 antd Affix），统一 maxRows 缩略模型，fullscreen TUI 模式",
+      "license": "MIT",
+      "repository": "https://github.com/hellokidder/affix-prompt",
+      "npmUrl": "https://www.npmjs.com/package/pi-affix-prompt",
+      "category": "utilities",
+      "createdAt": "2026-08-10T02:25:14.762Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 63
     },
     {
       "name": "pi-ai-git-commit",
@@ -56556,6 +56784,18 @@
       "createdAt": "2026-08-08T07:16:09.435Z",
       "discoveredAt": "2026-08-08T07:32:51.663Z",
       "score": 50
+    },
+    {
+      "name": "pi-other-provider",
+      "version": "0.3.0",
+      "description": "Unofficial custom pi providers: OpenCode Zen/Go (protocol-routing fix) + Command Code + Factory Droid (session adapter)",
+      "license": "MIT",
+      "repository": "https://github.com/baphuongna/pi-other-provider",
+      "npmUrl": "https://www.npmjs.com/package/pi-other-provider",
+      "category": "devops",
+      "createdAt": "2026-08-07T04:40:46.184Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 75
     },
     {
       "name": "pi-oura-hr",
@@ -59570,6 +59810,18 @@
       "score": 90
     },
     {
+      "name": "render2dpro",
+      "version": "1.0.0",
+      "description": "1. render2dpro 是 [render3dpro](../render3dpro) 的**二维版本**，采用 OpenLayers 的 `ol.layer.Vector` + `ol.style.Style` 渲染方式，实现 GeoJSON 在二维地图中的渲染与可视化。 2. **与 render3dpro 保持完全一致的链式 API**，同一套业务代码只需把 `Cesium`/`viewer` 换成 `ol`/`map`，即可从三维场景切换到二维地图。 3. 除了需要传入 OpenLayers",
+      "license": "ISC",
+      "repository": "https://github.com/tian666666/render2dpro",
+      "npmUrl": "https://www.npmjs.com/package/render2dpro",
+      "category": "backend",
+      "createdAt": "2026-08-10T06:08:54.674Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 90
+    },
+    {
       "name": "renderready",
       "version": "1.0.0",
       "description": "Prerender any JavaScript web page to static HTML. A modern, Playwright-powered prerender server you can start in one line.",
@@ -59891,6 +60143,18 @@
       "category": "cli",
       "createdAt": "2026-07-26T10:34:30.569Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
+      "score": 62
+    },
+    {
+      "name": "rinco-pi-rule",
+      "version": "0.1.1",
+      "description": "A Pi extension that detects your project stack and safely adds pinned ECC rules to AGENTS.md.",
+      "license": "MIT",
+      "repository": "https://github.com/Rinisnotarobot/rinco-pi-rule",
+      "npmUrl": "https://www.npmjs.com/package/rinco-pi-rule",
+      "category": "utilities",
+      "createdAt": "2026-08-06T04:23:54.113Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
       "score": 62
     },
     {
@@ -60456,6 +60720,18 @@
       "createdAt": "2026-08-03T12:08:11.225Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 84
+    },
+    {
+      "name": "saniprompt",
+      "version": "0.2.0",
+      "description": "A multilingual NSFW prompt sanitizer for Node.js and browsers, with tiered detection and obfuscation resistance.",
+      "license": "MIT",
+      "repository": "https://github.com/mujtabachang/saniprompt",
+      "npmUrl": "https://www.npmjs.com/package/saniprompt",
+      "category": "frontend",
+      "createdAt": "2026-08-10T05:30:44.147Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 81
     },
     {
       "name": "sanity-plugin-sgntech-footnotes",
@@ -64910,6 +65186,18 @@
       "score": 73
     },
     {
+      "name": "validoria-mcp",
+      "version": "2.0.1",
+      "description": "MCP server for Teste.no — continuous testing control center for websites, APIs, and webshops. Thin proxy to the Teste.no MCP endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/Kloner/teste-no-mcp",
+      "npmUrl": "https://www.npmjs.com/package/validoria-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-10T05:49:28.281Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 73
+    },
+    {
       "name": "valkey-wasm",
       "version": "0.1.1",
       "description": "Real Valkey (the BSD-licensed Redis fork) compiled to WebAssembly, networking bridged to node:net — an in-process, Redis-compatible server for Node. PGlite for Redis.",
@@ -66480,6 +66768,18 @@
       "createdAt": "2026-08-08T10:44:25.250Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 74
+    },
+    {
+      "name": "worksteps",
+      "version": "0.0.1",
+      "description": "Durable, agent-driven workflows for work across processes and sessions.",
+      "license": "MIT",
+      "repository": "https://github.com/wevm/worksteps",
+      "npmUrl": "https://www.npmjs.com/package/worksteps",
+      "category": "data",
+      "createdAt": "2026-08-10T05:13:56.933Z",
+      "discoveredAt": "2026-08-10T07:14:37.064Z",
+      "score": 65
     },
     {
       "name": "wormhole-x402",
