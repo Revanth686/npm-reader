@@ -4190,6 +4190,18 @@
       "score": 52
     },
     {
+      "name": "@basis-theory/web-agentic",
+      "version": "1.1.3",
+      "description": "Browser SDK for Basis Theory Agentic Payments",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Basis-Theory/web-agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40basis-theory%2Fweb-agentic",
+      "category": "frontend",
+      "createdAt": "2026-08-05T12:41:50.733Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 72
+    },
+    {
       "name": "@bassotov/deck",
       "version": "0.5.1",
       "description": "PowerPoint for agents. Your agent writes the deck as plain markdown; you open it and draw on it while you record.",
@@ -6252,6 +6264,18 @@
       "createdAt": "2026-08-01T20:00:21.721Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 55
+    },
+    {
+      "name": "@clervo/router",
+      "version": "0.2.0",
+      "description": "Free-first Clervo CLI for x402 payments, receipts, replay, and local spend controls on Base.",
+      "license": "MIT",
+      "repository": "https://github.com/clervo/clervo",
+      "npmUrl": "https://www.npmjs.com/package/%40clervo%2Frouter",
+      "category": "cli",
+      "createdAt": "2026-08-10T17:34:00.733Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 54
     },
     {
       "name": "@cloudbitmaps/roaring",
@@ -17810,6 +17834,18 @@
       "score": 60
     },
     {
+      "name": "@intentius/chant-lexicon-cedar",
+      "version": "0.44.8",
+      "description": "Cedar lexicon for chant — typed authoring for Cedar authorization policies",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/INTENTIUS/chant",
+      "npmUrl": "https://www.npmjs.com/package/%40intentius%2Fchant-lexicon-cedar",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T20:30:03.962Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 64
+    },
+    {
       "name": "@intisy-ai/gemini-translator",
       "version": "0.1.2",
       "description": "Gemini wire-format <-> canonical IR translator (Java + TeaVM single source), a core-ir submodule library.",
@@ -18588,6 +18624,18 @@
       "createdAt": "2026-08-05T00:58:43.646Z",
       "discoveredAt": "2026-08-05T01:53:39.845Z",
       "score": 75
+    },
+    {
+      "name": "@johnfodero/pi-diff-review",
+      "version": "1.0.1",
+      "description": "Full-screen git diff reviewer for the Pi coding agent with vim keybindings, visual-mode range selection, inline comments, and structured review feedback sent back to the agent.",
+      "license": "MIT",
+      "repository": "https://github.com/JohnFodero/pi-diff-review",
+      "npmUrl": "https://www.npmjs.com/package/%40johnfodero%2Fpi-diff-review",
+      "category": "utilities",
+      "createdAt": "2026-08-10T20:34:53.952Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 67
     },
     {
       "name": "@jokerized/decksmith",
@@ -23558,6 +23606,18 @@
       "score": 73
     },
     {
+      "name": "@mxrcochxvez/bugsmash-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for BugSmash reviewer feedback — keeps the API key out of the LLM context",
+      "license": "MIT",
+      "repository": "https://github.com/mxrcochxvez/bugsmash_mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mxrcochxvez%2Fbugsmash-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T20:46:20.228Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 57
+    },
+    {
       "name": "@my-shelfio/expo-shelfit",
       "version": "0.3.1",
       "description": "List every Expo (EAS) app in your account with its latest build version per platform — from any directory.",
@@ -23568,6 +23628,18 @@
       "createdAt": "2026-08-08T05:16:34.179Z",
       "discoveredAt": "2026-08-08T05:30:36.627Z",
       "score": 80
+    },
+    {
+      "name": "@myceliumhq/semanticd",
+      "version": "1.0.0",
+      "description": "Library for running a semantic search sidecar over any source that ships a SourceAdapter -- sync, query, and HTTP server, generic over the adapter.",
+      "license": "MIT",
+      "repository": "https://github.com/myceliumhq/semanticd",
+      "npmUrl": "https://www.npmjs.com/package/%40myceliumhq%2Fsemanticd",
+      "category": "backend",
+      "createdAt": "2026-08-10T19:32:48.857Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 57
     },
     {
       "name": "@myceliumhq/tri",
@@ -25250,6 +25322,30 @@
       "score": 62
     },
     {
+      "name": "@oleksiimazurenko/patterns-core",
+      "version": "0.1.1",
+      "description": "Framework-agnostic core for react-patterns — pure CSS building blocks (fit-text, parallax, accordion, slider, …) with zero runtime JS. Each recipe is a subpath export.",
+      "license": "MIT",
+      "repository": "https://github.com/oleksiimazurenko/react-patterns",
+      "npmUrl": "https://www.npmjs.com/package/%40oleksiimazurenko%2Fpatterns-core",
+      "category": "frontend",
+      "createdAt": "2026-08-10T20:59:14.032Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 53
+    },
+    {
+      "name": "@oleksiimazurenko/react-patterns",
+      "version": "0.1.1",
+      "description": "A growing collection of React best practices — each recipe done with as little client JS as possible. Import the whole set or a single recipe (fit-text, parallax, accordion, slider, …).",
+      "license": "MIT",
+      "repository": "https://github.com/oleksiimazurenko/react-patterns",
+      "npmUrl": "https://www.npmjs.com/package/%40oleksiimazurenko%2Freact-patterns",
+      "category": "frontend",
+      "createdAt": "2026-08-10T20:59:37.012Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 88
+    },
+    {
       "name": "@olive-so/solana-sdk",
       "version": "0.1.0",
       "description": "Client and maker SDK for the Olive Solana options program: maker WebSocket transport, V4 quote signing, canonical PDAs, and IDL-backed transaction construction.",
@@ -25704,6 +25800,18 @@
       "createdAt": "2026-08-01T20:44:25.457Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 52
+    },
+    {
+      "name": "@operacloud/action-cli",
+      "version": "0.1.1",
+      "description": "opera-action — author, check and run an Opera action locally. No Opera account required.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Mousling1992/opera-cloud",
+      "npmUrl": "https://www.npmjs.com/package/%40operacloud%2Faction-cli",
+      "category": "cli",
+      "createdAt": "2026-08-07T12:08:32.629Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 66
     },
     {
       "name": "@operationcaribbeansummer/wikiagora-apifactory44",
@@ -26186,6 +26294,18 @@
       "score": 73
     },
     {
+      "name": "@palomma/payment-widget",
+      "version": "0.1.0",
+      "description": "React payment button for Palomma. Creates an invoice, opens the hosted payment page in a modal, and reports the transaction result.",
+      "license": "MIT",
+      "repository": "https://github.com/palomma-tech/payment-widget",
+      "npmUrl": "https://www.npmjs.com/package/%40palomma%2Fpayment-widget",
+      "category": "frontend",
+      "createdAt": "2026-08-10T20:48:19.956Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 58
+    },
+    {
       "name": "@panmdaa/colors",
       "version": "0.1.0",
       "description": "HCT color space, Material Design 3 dynamic themes, WCAG contrast utilities — zero dependencies",
@@ -26256,6 +26376,18 @@
       "createdAt": "2026-08-01T07:42:17.167Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 78
+    },
+    {
+      "name": "@particle-academy/fancy-conformance",
+      "version": "0.1.0",
+      "description": "Shared cross-language conformance fixtures for the Fancy suite. One contract, N implementations, and a single table that every implementation asserts in its own CI — so 'parity' is a test result rather than a claim. Ships the fixture data itself, so a Rus",
+      "license": "MIT",
+      "repository": "https://github.com/Particle-Academy/fancy-conformance",
+      "npmUrl": "https://www.npmjs.com/package/%40particle-academy%2Ffancy-conformance",
+      "category": "testing",
+      "createdAt": "2026-08-10T20:18:12.372Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 74
     },
     {
       "name": "@particle-academy/fancy-passkeys",
@@ -28068,6 +28200,18 @@
       "createdAt": "2026-08-05T22:35:39.012Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 92
+    },
+    {
+      "name": "@rageshwaran/devflow",
+      "version": "0.1.1",
+      "description": "Next-Gen Developer Workflow Command Center with Built-In AI Copilot",
+      "license": "MIT",
+      "repository": "https://github.com/Rageshwaran-HR/DEVFLOW",
+      "npmUrl": "https://www.npmjs.com/package/%40rageshwaran%2Fdevflow",
+      "category": "cli",
+      "createdAt": "2026-08-10T20:34:36.578Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 70
     },
     {
       "name": "@rajubepary/gwt",
@@ -30684,6 +30828,18 @@
       "createdAt": "2026-08-02T18:12:26.197Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 69
+    },
+    {
+      "name": "@sealant/mend",
+      "version": "0.1.1",
+      "description": "The mend CLI: adopt a repository into Mend's store, launch your coding agent in a recorded session worktree, detach and reattach from any terminal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sealant-sh/Mend",
+      "npmUrl": "https://www.npmjs.com/package/%40sealant%2Fmend",
+      "category": "cli",
+      "createdAt": "2026-08-01T19:38:54.480Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 51
     },
     {
       "name": "@sealed-api-gateway/console",
@@ -35258,6 +35414,18 @@
       "score": 74
     },
     {
+      "name": "@unifia/plugin",
+      "version": "1.3.15",
+      "description": "Author plugins and custom tools for Unifia — plugin lifecycle hooks, the tool() helper and the TUI extension types.",
+      "license": "MIT",
+      "repository": "https://github.com/Rwanbt/unifia",
+      "npmUrl": "https://www.npmjs.com/package/%40unifia%2Fplugin",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T20:35:17.037Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 51
+    },
+    {
       "name": "@unikraft/cloud",
       "version": "0.1.0",
       "description": "Official JavaScript/TypeScript SDK for the Unikraft Cloud Platform API",
@@ -36936,6 +37104,18 @@
       "createdAt": "2026-08-10T10:31:39.811Z",
       "discoveredAt": "2026-08-10T11:00:03.173Z",
       "score": 83
+    },
+    {
+      "name": "@well1791/pi-sm",
+      "version": "1.0.0",
+      "description": "Lite session manager for the pi coding agent — a TUI to browse, search, rename, fork, hide, and delete sessions, plus a /rn command.",
+      "license": "MIT",
+      "repository": "https://github.com/well1791/pi-sm",
+      "npmUrl": "https://www.npmjs.com/package/%40well1791%2Fpi-sm",
+      "category": "utilities",
+      "createdAt": "2026-07-29T16:05:17.718Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 67
     },
     {
       "name": "@weotro/dx",
@@ -39974,6 +40154,18 @@
       "score": 88
     },
     {
+      "name": "animate-it-dom",
+      "version": "0.1.0",
+      "description": "DOM animation plugin for Animate It",
+      "license": "MIT",
+      "repository": "https://github.com/animate-it-ss/animate-it-dom",
+      "npmUrl": "https://www.npmjs.com/package/animate-it-dom",
+      "category": "frontend",
+      "createdAt": "2026-08-10T21:06:48.019Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 61
+    },
+    {
       "name": "animus-engine-mcp",
       "version": "0.1.1",
       "description": "Servidor Model Context Protocol (MCP) oficial para Animus Engine / Bralidus RaaS. Conecta IA (Claude Desktop, Cursor, agentes) a jurisprudencia de la Corte Suprema de Chile, inteligencia economica y datos B2G de Mercado Publico, en vivo.",
@@ -42228,6 +42420,18 @@
       "createdAt": "2026-08-06T09:11:11.550Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 88
+    },
+    {
+      "name": "causalwire",
+      "version": "0.1.0",
+      "description": "A local flight recorder for MCP stdio traffic.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/black-leg-nameko/causalwire",
+      "npmUrl": "https://www.npmjs.com/package/causalwire",
+      "category": "cli",
+      "createdAt": "2026-08-10T20:40:50.294Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 63
     },
     {
       "name": "cavalier-contours-js",
@@ -51098,6 +51302,18 @@
       "score": 73
     },
     {
+      "name": "juancitoads",
+      "version": "0.1.0",
+      "description": "Arma tu chatbot de IA con CRM para WhatsApp, Instagram y Telegram en tu propia nube de Cloudflare, en un comando.",
+      "license": "MIT",
+      "repository": "https://github.com/juanarrietabusiness-pixel/CRM-JuancitoADS",
+      "npmUrl": "https://www.npmjs.com/package/juancitoads",
+      "category": "devops",
+      "createdAt": "2026-08-10T20:45:31.774Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 71
+    },
+    {
       "name": "jupyterlab_ai_code_assistants_extension",
       "version": "0.6.15",
       "description": "Jupyterlab extension to replace individual jupyterlab_*_code_extension and integrate into one, that offers joint capability, joint settings page and individual right toolbar panels per code assistant, with the ability in settings to decide which code assi",
@@ -55250,6 +55466,18 @@
       "score": 78
     },
     {
+      "name": "n8n-nodes-subscriby",
+      "version": "1.0.0",
+      "description": "n8n community node for Subscriby — monetise Telegram communities via subscriptions, access codes, and webhook events.",
+      "license": "MIT",
+      "repository": "https://github.com/envigoinnovations/subscriby-n8n",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-subscriby",
+      "category": "utilities",
+      "createdAt": "2026-08-10T21:11:39.794Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 83
+    },
+    {
       "name": "n8n-nodes-supabase-storage",
       "version": "0.1.0",
       "description": "List, download, upload and delete files in Supabase Storage from n8n, using the built-in Supabase credential.",
@@ -56868,6 +57096,18 @@
       "createdAt": "2026-07-26T15:05:39.698Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 82
+    },
+    {
+      "name": "oneco-cli",
+      "version": "0.1.0",
+      "description": "Offline environment and cost mirrors with explicit advisory sync",
+      "license": "MIT",
+      "repository": "https://github.com/jonasun147852/oneco",
+      "npmUrl": "https://www.npmjs.com/package/oneco-cli",
+      "category": "cli",
+      "createdAt": "2026-08-10T20:37:41.790Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 68
     },
     {
       "name": "onlyfiles",
@@ -62126,6 +62366,18 @@
       "score": 71
     },
     {
+      "name": "readany",
+      "version": "0.2.0",
+      "description": "Route and read documents into clean Markdown — Word, Excel, PowerPoint, OpenDocument, RTF, EPUB, CSV and text-layer PDF. Names the pages it could not read instead of dropping them silently. Text recognition is not included: it needs a native runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/AllanTumu/readany",
+      "npmUrl": "https://www.npmjs.com/package/readany",
+      "category": "utilities",
+      "createdAt": "2026-08-06T01:04:59.412Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 84
+    },
+    {
       "name": "readoutlang",
       "version": "2.3.0",
       "description": "Readout - the document format agents hand back: routed diagrams, charts, KPI tiles and notebook pages from plain text, rendered self-contained and verified. Plus the OKF docs-profile linter (frontmatter, cross-links, indexes).",
@@ -63242,6 +63494,18 @@
       "score": 78
     },
     {
+      "name": "safe-postgres-mcp",
+      "version": "0.1.0",
+      "description": "Safety-first, read-only PostgreSQL MCP server. Read-only isn't a regex — it's enforced by Postgres itself (READ ONLY transactions, statement timeouts, row caps). One npx command to give AI agents safe access to your database.",
+      "license": "MIT",
+      "repository": "https://github.com/samuel-cabral/safe-postgres-mcp",
+      "npmUrl": "https://www.npmjs.com/package/safe-postgres-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T21:07:37.805Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 88
+    },
+    {
       "name": "safe-whatsapp-mcp",
       "version": "0.2.0",
       "description": "Local MCP server for reading a personal WhatsApp linked device and sending through an editable private browser review.",
@@ -63528,6 +63792,18 @@
       "createdAt": "2026-07-25T23:06:13.670Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 61
+    },
+    {
+      "name": "scvd-tab",
+      "version": "0.4.0",
+      "description": "The Tab: an MCP server that keeps the running account of every tool a builder signs up for — trial deadlines, burn, price drift, and what each signup demanded of a human. Local JSONL, append-only, zero dependencies; nothing leaves the file without deliber",
+      "license": "MIT",
+      "repository": "https://github.com/seancrecord/scvd-general-store-repo",
+      "npmUrl": "https://www.npmjs.com/package/scvd-tab",
+      "category": "backend",
+      "createdAt": "2026-08-10T21:06:21.241Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 67
     },
     {
       "name": "sdd-yo",
@@ -65964,6 +66240,18 @@
       "createdAt": "2026-08-10T09:45:17.967Z",
       "discoveredAt": "2026-08-10T11:00:03.173Z",
       "score": 73
+    },
+    {
+      "name": "system-lint",
+      "version": "0.1.0",
+      "description": "Deterministic system-level repository audit that routes a coding agent's attention and builds the context it needs.",
+      "license": "MIT",
+      "repository": "https://github.com/JoshuaLelon/system-lint",
+      "npmUrl": "https://www.npmjs.com/package/system-lint",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T21:05:50.570Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 77
     },
     {
       "name": "syzzz-code",
@@ -69504,6 +69792,18 @@
       "createdAt": "2026-07-26T11:11:19.004Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 70
+    },
+    {
+      "name": "whichpane",
+      "version": "0.1.0",
+      "description": "Know which Claude Code pane is doing what. Adds a live one-line task label above the prompt in every session.",
+      "license": "MIT",
+      "repository": "https://github.com/coderwithsense/whichpane",
+      "npmUrl": "https://www.npmjs.com/package/whichpane",
+      "category": "cli",
+      "createdAt": "2026-08-10T20:59:51.340Z",
+      "discoveredAt": "2026-08-10T21:22:02.347Z",
+      "score": 61
     },
     {
       "name": "whisper-ggml-header",

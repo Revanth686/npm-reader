@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124268576,
-  "lastRunAt": "2026-08-10T20:33:00.517Z",
+  "lastSequence": 124275373,
+  "lastRunAt": "2026-08-10T21:22:02.347Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@intentius/chant-lexicon-cedar",
+      "name": "@sudobility/webgraph_parser",
       "attempts": 1
     },
     {
-      "name": "@hyperspan/adapter-node",
+      "name": "@playoffthecuff/smoothed-utils",
+      "attempts": 1
+    },
+    {
+      "name": "@jalali-js/holidays",
       "attempts": 1
     }
   ]
