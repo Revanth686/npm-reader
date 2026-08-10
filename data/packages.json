@@ -890,6 +890,42 @@
       "score": 63
     },
     {
+      "name": "@agdsoftware/nestjs-sso",
+      "version": "1.1.1",
+      "description": "Keycloak/OIDC tabanlı merkezi yetkilendirme için NestJS entegrasyonu — guard zinciri, izin dekoratörleri, birim bazlı satır kapsamı, hazır /sso/me ucu ve sağlık göstergesi.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/karademirmustafa/agd-sso",
+      "npmUrl": "https://www.npmjs.com/package/%40agdsoftware%2Fnestjs-sso",
+      "category": "backend",
+      "createdAt": "2026-08-10T04:43:14.728Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 79
+    },
+    {
+      "name": "@agdsoftware/react-sso",
+      "version": "1.1.1",
+      "description": "Keycloak/OIDC tabanlı merkezi yetkilendirme için React entegrasyonu — PKCE oturumu, aktif birim değiştirme, izin hook’ları ve kimlikli fetch.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/karademirmustafa/agd-sso",
+      "npmUrl": "https://www.npmjs.com/package/%40agdsoftware%2Freact-sso",
+      "category": "frontend",
+      "createdAt": "2026-08-10T04:43:21.485Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 66
+    },
+    {
+      "name": "@agdsoftware/sso-client",
+      "version": "1.1.1",
+      "description": "Keycloak/OIDC tabanlı merkezi yetkilendirme için çekirdek SDK — evrensel izin istemcisi, çerçeveden bağımsız yetki deposu, web ve mobil için PKCE, sunucuda JWT doğrulama.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/karademirmustafa/agd-sso",
+      "npmUrl": "https://www.npmjs.com/package/%40agdsoftware%2Fsso-client",
+      "category": "cli",
+      "createdAt": "2026-08-10T04:43:03.927Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 80
+    },
+    {
       "name": "@agenetix/agent-sdk",
       "version": "1.0.2",
       "description": "First-party AG-UI client for MCP Stack Agents. Add an LLM-powered agent to your web app while server tools stay on MCP.",
@@ -9924,6 +9960,18 @@
       "createdAt": "2026-08-07T01:16:06.755Z",
       "discoveredAt": "2026-08-07T02:12:46.077Z",
       "score": 81
+    },
+    {
+      "name": "@estifanos-sh/convex-embedded",
+      "version": "0.0.1",
+      "description": "Embedded runtime and Convex server wrapper for local-first Convex apps.",
+      "license": "MIT",
+      "repository": "https://github.com/estifanos-sh/convex-embedded",
+      "npmUrl": "https://www.npmjs.com/package/%40estifanos-sh%2Fconvex-embedded",
+      "category": "frontend",
+      "createdAt": "2026-08-08T17:07:15.253Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 71
     },
     {
       "name": "@ethancaudill/pgmask",
@@ -21158,6 +21206,18 @@
       "score": 70
     },
     {
+      "name": "@mintml/mintml",
+      "version": "0.1.6",
+      "description": "The HTML-first, zero-build, single-page, client-side application, micro-framework. Extends standard HTML instead of replacing it — routing, templating, and role-based visibility that get out of the way. Remove `new MinTML()` and your page still works.",
+      "license": "MIT",
+      "repository": "https://github.com/ToddKingham/MinTML",
+      "npmUrl": "https://www.npmjs.com/package/%40mintml%2Fmintml",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T04:27:09.121Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 70
+    },
+    {
       "name": "@mirsella/opencode-browser-mcp",
       "version": "0.2.0",
       "description": "Session-isolated browser automation over MCP and Chrome DevTools Protocol",
@@ -22620,6 +22680,18 @@
       "createdAt": "2026-08-05T04:46:32.705Z",
       "discoveredAt": "2026-08-05T07:39:52.818Z",
       "score": 86
+    },
+    {
+      "name": "@namphuongtechnologi/acs-chat-react",
+      "version": "1.0.0",
+      "description": "React + TypeScript Azure Communication Services (ACS) Chat Library",
+      "license": "MIT",
+      "repository": "https://github.com/namphuongso/ACS-Chat-React",
+      "npmUrl": "https://www.npmjs.com/package/%40namphuongtechnologi%2Facs-chat-react",
+      "category": "frontend",
+      "createdAt": "2026-08-10T04:59:12.250Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 84
     },
     {
       "name": "@nan0web/payloadcms-keyboard-accessibility",
@@ -27314,6 +27386,78 @@
       "score": 57
     },
     {
+      "name": "@rebilder/agent-detect",
+      "version": "0.1.0",
+      "description": "Agent identification from request headers: Accept negotiation, Web Bot Auth signals, protocol routes, UA heuristics. Pure compute, zero runtime dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/%40rebilder%2Fagent-detect",
+      "category": "devops",
+      "createdAt": "2026-08-10T03:59:33.614Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 74
+    },
+    {
+      "name": "@rebilder/agent-readability",
+      "version": "0.1.0",
+      "description": "The Agent Readability Score (ARS 0.1). A pure, deterministic scorer at \".\" — no network, no clock, no randomness, no LLM — and a server-only probe at \"./probe\". Zero runtime dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/%40rebilder%2Fagent-readability",
+      "category": "frontend",
+      "createdAt": "2026-08-10T03:59:35.970Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 82
+    },
+    {
+      "name": "@rebilder/gateway",
+      "version": "0.1.0",
+      "description": "Content-negotiation middleware SDK — the front door of the Rebilder compiler. Classifies each request (agent / human / crawler / protocol) and serves agents clean markdown rendered from the merchant's source of truth. Designed as the public npm artifact:",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/%40rebilder%2Fgateway",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T03:59:45.501Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 86
+    },
+    {
+      "name": "@rebilder/mcp-server",
+      "version": "0.1.0",
+      "description": "Rebilder's Agent Readability scanner as an MCP server, over stdio. NOT the merchant's MCP server (that is @rebilder/protocols, Phase 3) — this one is our scanner tooling, run on the user's own machine by their own assistant. Zero runtime dependencies outs",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/%40rebilder%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-10T03:59:47.943Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 82
+    },
+    {
+      "name": "@rebilder/profiles",
+      "version": "0.1.0",
+      "description": "Open, versioned JSON vocabulary of the facts a given kind of page should expose to agents. Data, not logic: zero runtime dependencies, JSON is the distribution format so non-JavaScript implementations can consume it directly.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/%40rebilder%2Fprofiles",
+      "category": "data",
+      "createdAt": "2026-08-10T03:59:39.454Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 82
+    },
+    {
+      "name": "@rebilder/render-md",
+      "version": "0.1.0",
+      "description": "Source-of-truth to markdown/JSON-LD renderer for commerce pages (PDP, policies, catalog). Pure format transformation: every substantive value is injected from the source object.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/%40rebilder%2Frender-md",
+      "category": "data",
+      "createdAt": "2026-08-10T03:59:41.280Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 77
+    },
+    {
       "name": "@reconugc/mcp",
       "version": "0.1.0",
       "description": "RECON UGC MCP server — search viral TikToks, read breakdowns, compare videos, and pull your competitor board from any AI tool.",
@@ -31262,6 +31406,18 @@
       "score": 77
     },
     {
+      "name": "@sting8k/pi-peer",
+      "version": "1.4.1",
+      "description": "Standalone peer-to-peer Pi communication over the HerdR workspace - talk_to, talk_sessions, and talk_latest tools with a resilient local mailbox.",
+      "license": "MIT",
+      "repository": "https://github.com/sting8k/pi-peer",
+      "npmUrl": "https://www.npmjs.com/package/%40sting8k%2Fpi-peer",
+      "category": "testing",
+      "createdAt": "2026-08-10T03:47:23.201Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 80
+    },
+    {
       "name": "@stixxert/pi-docker-sandbox",
       "version": "0.1.0",
       "description": "pi extension: a private docker sandbox (sbx microVM with its own daemon) as the agent's deploy target — the host's docker is never exposed.",
@@ -33110,6 +33266,18 @@
       "score": 73
     },
     {
+      "name": "@toragonite/claude-mesh",
+      "version": "0.1.0",
+      "description": "Spawn, manage, and message Claude Code background agents (claude --bg) from Node — a local session mesh over Claude Code's cross-session messaging. Zero-dependency library + CLI. Unofficial.",
+      "license": "MIT",
+      "repository": "https://github.com/Toragonite/claude-mesh",
+      "npmUrl": "https://www.npmjs.com/package/%40toragonite%2Fclaude-mesh",
+      "category": "cli",
+      "createdAt": "2026-08-10T04:58:45.307Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 71
+    },
+    {
       "name": "@totemsdk/edge-email",
       "version": "0.1.0",
       "description": "Edge runtime adapter for email — IMAP/SMTP polling, notification delivery, command parsing, and sensor ingestion via email",
@@ -33660,6 +33828,18 @@
       "createdAt": "2026-08-08T03:51:32.232Z",
       "discoveredAt": "2026-08-08T04:47:49.989Z",
       "score": 77
+    },
+    {
+      "name": "@unirate/svelte",
+      "version": "0.1.0",
+      "description": "Svelte store integration for the UniRate currency-exchange API. createUniRate() returns reactive readable stores — rate, conversion, currencies, vatRates — each carrying { data, error, loading } with a refresh(). Zero runtime deps.",
+      "license": "MIT",
+      "repository": "https://github.com/UniRate-API/svelte-unirate",
+      "npmUrl": "https://www.npmjs.com/package/%40unirate%2Fsvelte",
+      "category": "frontend",
+      "createdAt": "2026-08-10T03:54:14.397Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 72
     },
     {
       "name": "@uniweb/projections",
@@ -42806,6 +42986,18 @@
       "score": 72
     },
     {
+      "name": "database-agnostic-rate-limiter",
+      "version": "0.1.1",
+      "description": "Rate limiting for Node with pluggable storage. One core, four algorithms, and stores for memory, Redis, Postgres, MongoDB and DynamoDB. Express and Hono middleware included.",
+      "license": "MIT",
+      "repository": "https://github.com/mehreennaqvi06/database-agnostic-rate-limiter",
+      "npmUrl": "https://www.npmjs.com/package/database-agnostic-rate-limiter",
+      "category": "backend",
+      "createdAt": "2026-08-06T15:00:17.292Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 72
+    },
+    {
       "name": "datasieve",
       "version": "0.1.0",
       "description": "The TypeScript-first backend data engine. Describe the data you want once, in one database-agnostic query language; DataSieve determines how to retrieve it.",
@@ -43152,6 +43344,18 @@
       "createdAt": "2026-07-27T17:49:15.738Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 74
+    },
+    {
+      "name": "design-pick",
+      "version": "0.2.0",
+      "description": "Click a component in your locally running design/app, copy an AI-ready context packet (file:line coordinates included) — so any AI coding agent edits exactly what you pointed at, zero searching.",
+      "license": "MIT",
+      "repository": "https://github.com/joymin5655/design-pick",
+      "npmUrl": "https://www.npmjs.com/package/design-pick",
+      "category": "frontend",
+      "createdAt": "2026-08-10T04:50:59.155Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 89
     },
     {
       "name": "design-playbook",
@@ -46562,6 +46766,18 @@
       "score": 64
     },
     {
+      "name": "grokrc",
+      "version": "0.1.0",
+      "description": "Remote control for xAI's Grok Build CLI — drive your terminal coding agent from your phone over the agent's own protocol, not a screen scrape.",
+      "license": "MIT",
+      "repository": "https://github.com/sandeep-alluru/grokrc",
+      "npmUrl": "https://www.npmjs.com/package/grokrc",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T05:05:11.852Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 84
+    },
+    {
       "name": "gsap-presets-kit",
       "version": "0.1.0",
       "description": "Un set pequeño, tipado y validado en runtime de helpers para GSAP: animateFrom, animateTo y animateFromTo, más presets de SplitText, Typewriter y Marquee, con soporte de ScrollTrigger y timelines.",
@@ -49152,6 +49368,18 @@
       "createdAt": "2026-08-08T14:07:55.254Z",
       "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 81
+    },
+    {
+      "name": "kuro-lean",
+      "version": "0.2.0",
+      "description": "Cuts the token bill of AI coding agents: compresses shell output, blocks token-hungry calls before they run, prices your session, and rescues sessions whose prompt cache expired.",
+      "license": "MIT",
+      "repository": "https://github.com/kurovu146/kuro-lean",
+      "npmUrl": "https://www.npmjs.com/package/kuro-lean",
+      "category": "cli",
+      "createdAt": "2026-08-10T04:08:33.744Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 87
     },
     {
       "name": "kurviq",
@@ -52190,6 +52418,18 @@
       "score": 56
     },
     {
+      "name": "n8n-nodes-epa-contaminated-site-screener",
+      "version": "1.0.0",
+      "description": "n8n community node for the Apify EPA Contaminated Site Screener actor: a Phase I ESA environmental database search for any US address -- EPA Superfund/NPL, RCRA CORRACTS/TSD/generators, TRI, UST, LUST, Brownfields, NPDES, AIR, TSCA and RMP, scored against",
+      "license": "MIT",
+      "repository": "https://github.com/malonestar/n8n-nodes-epa-contaminated-site-screener",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-epa-contaminated-site-screener",
+      "category": "backend",
+      "createdAt": "2026-08-10T05:00:42.452Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 83
+    },
+    {
       "name": "n8n-nodes-everypage",
       "version": "1.0.0",
       "description": "n8n community node for EveryPage — turn any PDF in your workflow into a tracked share link, and trigger on reads, downloads, and lead-gate captures. GDPR-friendly analytics, no IPs stored.",
@@ -52200,6 +52440,18 @@
       "createdAt": "2026-07-28T14:38:01.023Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 78
+    },
+    {
+      "name": "n8n-nodes-faa-drone-airspace-checker",
+      "version": "1.0.0",
+      "description": "n8n community node for the Apify FAA Drone Airspace Checker actor: batch lat/lon to FAA UAS airspace verdicts -- LAANC ceilings and availability, charted Class B/C/D/E surface areas, prohibited areas, national-defense TFR areas and special use airspace.",
+      "license": "MIT",
+      "repository": "https://github.com/malonestar/n8n-nodes-faa-drone-airspace-checker",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-faa-drone-airspace-checker",
+      "category": "backend",
+      "createdAt": "2026-08-10T05:16:31.628Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 76
     },
     {
       "name": "n8n-nodes-fox-schema-sql-builder",
@@ -52524,6 +52776,18 @@
       "createdAt": "2026-08-08T10:55:56.867Z",
       "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 59
+    },
+    {
+      "name": "n8n-nodes-site-due-diligence-bundle",
+      "version": "1.0.0",
+      "description": "n8n community node for the Apify Site Due-Diligence Bundle actor: one call per coordinate returns a go/caution/no-go verdict and 0-100 site score across 20 federal environmental, hazard and land-use layers (EPA contamination, FEMA flood, NWI wetlands, ESA",
+      "license": "MIT",
+      "repository": "https://github.com/malonestar/n8n-nodes-site-due-diligence-bundle",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-site-due-diligence-bundle",
+      "category": "backend",
+      "createdAt": "2026-08-10T04:59:21.956Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 77
     },
     {
       "name": "n8n-nodes-sitemap-validator",
@@ -54180,6 +54444,18 @@
       "createdAt": "2026-08-07T18:02:49.120Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 66
+    },
+    {
+      "name": "open-video-api",
+      "version": "26.8.12",
+      "description": "OpenVideoAPI - self-hosted danmaku video player with web admin: PoW firewall, rate limiting, multi-theme, plugin system, subtitle support, multi-database storage",
+      "license": "MIT",
+      "repository": "https://github.com/yangyang8002/OpenVideoAPI",
+      "npmUrl": "https://www.npmjs.com/package/open-video-api",
+      "category": "backend",
+      "createdAt": "2026-08-10T04:03:18.712Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 72
     },
     {
       "name": "open-workflow-kit",
@@ -57062,6 +57338,18 @@
       "score": 59
     },
     {
+      "name": "poliety-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for The Poliety, a daily AI news briefing. Gives AI agents structured access to editions, change tracking, and integrity verification via stdio.",
+      "license": "MIT",
+      "repository": "https://github.com/dburks-svg/poliety",
+      "npmUrl": "https://www.npmjs.com/package/poliety-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T05:07:46.502Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 85
+    },
+    {
       "name": "polish-statutory-interest",
       "version": "0.1.0",
       "description": "Zero-dependency calculation of Polish statutory late-payment interest, segmented across NBP reference-rate changes and half-year commercial rates.",
@@ -59100,6 +59388,18 @@
       "createdAt": "2026-08-01T19:12:14.489Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 62
+    },
+    {
+      "name": "rebilder",
+      "version": "0.1.0",
+      "description": "The Rebilder CLI. Scores a URL against the Agent Readability Spec (ARS 0.1) from your machine, prints what an agent actually receives, and exits on a grade threshold. Zero telemetry: it never uploads a scan, a URL, a hostname, or a result.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mummlabs/mumm",
+      "npmUrl": "https://www.npmjs.com/package/rebilder",
+      "category": "cli",
+      "createdAt": "2026-08-10T03:59:43.232Z",
+      "discoveredAt": "2026-08-10T05:18:06.574Z",
+      "score": 84
     },
     {
       "name": "recall-memory",
