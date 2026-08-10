@@ -3194,6 +3194,18 @@
       "score": 77
     },
     {
+      "name": "@ask-llm/plugin",
+      "version": "0.13.0",
+      "description": "Ask LLM review, comparison, brainstorming, image, verification, and pairing workflows for Claude Code and Pi",
+      "license": "MIT",
+      "repository": "https://github.com/Lykhoyda/ask-llm",
+      "npmUrl": "https://www.npmjs.com/package/%40ask-llm%2Fplugin",
+      "category": "data",
+      "createdAt": "2026-08-10T15:21:47.988Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 75
+    },
+    {
       "name": "@askable-ui/bridge",
       "version": "0.17.1",
       "description": "Provider-neutral bridge for sending Askable context to chat surfaces, browser extensions, local MCP bridges, and webhooks",
@@ -5676,6 +5688,18 @@
       "createdAt": "2026-08-02T02:47:34.335Z",
       "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 89
+    },
+    {
+      "name": "@cexy/wonica",
+      "version": "1.0.0",
+      "description": "Auto-loading Instagram Chat API for building chatbots using personal accounts with MQTT real-time messaging",
+      "license": "MIT",
+      "repository": "https://github.com/bdrakib123/won-ica",
+      "npmUrl": "https://www.npmjs.com/package/%40cexy%2Fwonica",
+      "category": "backend",
+      "createdAt": "2026-08-10T15:17:32.113Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 90
     },
     {
       "name": "@chad3814/secret-provider",
@@ -9602,6 +9626,18 @@
       "score": 86
     },
     {
+      "name": "@edobry/minsky",
+      "version": "0.1.1",
+      "description": "The engineering organization around your AI agents — tasks, isolated sessions, adversarial review, memory, and decision routing, built as environment.",
+      "license": "MIT",
+      "repository": "https://github.com/edobry/minsky",
+      "npmUrl": "https://www.npmjs.com/package/%40edobry%2Fminsky",
+      "category": "cli",
+      "createdAt": "2026-08-10T14:09:32.079Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 85
+    },
+    {
       "name": "@edraj/sauron-browser",
       "version": "1.3.0",
       "description": "Sauron browser SDK: automatic error reporting + product analytics for the web.",
@@ -10164,6 +10200,18 @@
       "createdAt": "2026-08-10T06:27:41.313Z",
       "discoveredAt": "2026-08-10T07:14:37.064Z",
       "score": 66
+    },
+    {
+      "name": "@evatt-labs/el",
+      "version": "0.1.0",
+      "description": "Ephemeral full-stack preview environments on Cloudflare Workers + Neon. Spin up a named, disposable environment and tear it down on command.",
+      "license": "MIT",
+      "repository": "https://github.com/evatt-labs/el",
+      "npmUrl": "https://www.npmjs.com/package/%40evatt-labs%2Fel",
+      "category": "devops",
+      "createdAt": "2026-08-10T16:25:38.212Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 76
     },
     {
       "name": "@evestack/budget",
@@ -19514,6 +19562,18 @@
       "score": 71
     },
     {
+      "name": "@ldclabs/kip-do",
+      "version": "0.12.0",
+      "description": "KIP (Knowledge Interaction Protocol) knowledge graph engine on SQLite-backed Cloudflare Durable Objects — one KIP database per Durable Object.",
+      "license": "MIT",
+      "repository": "https://github.com/ldclabs/anda-db",
+      "npmUrl": "https://www.npmjs.com/package/%40ldclabs%2Fkip-do",
+      "category": "data",
+      "createdAt": "2026-08-10T15:36:17.142Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 78
+    },
+    {
       "name": "@leavepulse/sdk",
       "version": "0.3.85",
       "description": "Generated resource SDK for the LeavePulse platform contract.",
@@ -26736,6 +26796,18 @@
       "createdAt": "2026-07-31T17:35:39.985Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 62
+    },
+    {
+      "name": "@precisa-saude/fhir-rnds-sandbox",
+      "version": "0.1.0",
+      "description": "Mock local da RNDS (Rede Nacional de Dados em Saúde) — endpoints FHIR R4 com cenários sintéticos para desenvolvimento e ensino",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Precisa-Saude/fhir-brasil",
+      "npmUrl": "https://www.npmjs.com/package/%40precisa-saude%2Ffhir-rnds-sandbox",
+      "category": "data",
+      "createdAt": "2026-08-10T16:05:15.771Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 80
     },
     {
       "name": "@precisionutilityguild/apd",
@@ -34166,6 +34238,18 @@
       "score": 95
     },
     {
+      "name": "@trent105-unnc/mir_mcp",
+      "version": "0.0.2",
+      "description": "MCP server exposing the RAWSim-O warehouse simulation (status / control / task injection / backend switch) to AI agents",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/trent105-unnc/mir_mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40trent105-unnc%2Fmir_mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T15:45:32.878Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 71
+    },
+    {
       "name": "@triago/cli",
       "version": "0.1.1",
       "description": "Human-in-the-loop decision surface for CLI coding agents: the agent posts a card of findings, you triage them in a browser with the keyboard, and your decisions come back as structured data. Local-only, MCP-native.",
@@ -34788,6 +34872,18 @@
       "createdAt": "2026-07-27T05:23:48.117Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 73
+    },
+    {
+      "name": "@useprivatus/sdk",
+      "version": "0.1.0",
+      "description": "The official TypeScript SDK for Privatus, the private financial layer of the agent economy. Confidential transfers, agent accounts with on-chain spend policies, and native x402 payments on Solana, fully typed and ready in minutes.",
+      "license": "MIT",
+      "repository": "https://github.com/useprivatus/privatus-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40useprivatus%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T15:49:47.304Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 81
     },
     {
       "name": "@username-parveen/frontend-excellence",
@@ -35978,6 +36074,18 @@
       "score": 62
     },
     {
+      "name": "@warroyo90/vkstack-mcp",
+      "version": "0.3.0",
+      "description": "MCP server and CLI for VMware vCenter, ESX, vSphere Supervisor, VKS and VKr compatibility, from the Broadcom interoperability matrix.",
+      "license": "MIT",
+      "repository": "https://github.com/warroyo/vkstack",
+      "npmUrl": "https://www.npmjs.com/package/%40warroyo90%2Fvkstack-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T15:44:42.197Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 83
+    },
+    {
       "name": "@wasm-gaming/celeste-wasm",
       "version": "0.1.0",
       "description": "Celeste + the Everest mod loader running on the .NET WebAssembly runtime, with a JS SDK conforming to the wasm-gaming engine contract.",
@@ -36528,6 +36636,18 @@
       "createdAt": "2026-08-07T11:01:28.578Z",
       "discoveredAt": "2026-08-07T11:31:28.775Z",
       "score": 63
+    },
+    {
+      "name": "@workgroove/wgr",
+      "version": "1.0.0",
+      "description": "Specification, SDK, and offline CLI for portable signed Work Records",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/workgroove-ai/wgr-spec",
+      "npmUrl": "https://www.npmjs.com/package/%40workgroove%2Fwgr",
+      "category": "testing",
+      "createdAt": "2026-08-10T15:34:25.710Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 76
     },
     {
       "name": "@workser/cli",
@@ -38690,6 +38810,18 @@
       "score": 68
     },
     {
+      "name": "ai-coding-benchmark-solutions",
+      "version": "1.0.0",
+      "description": "Curated reference solutions and solution notes for coding and software-engineering agent benchmarks used in Artificial Analysis intelligence evaluations (Terminal-Bench, SciCode, LiveCodeBench) plus SWE-bench.",
+      "license": "CC-BY-NC-4.0",
+      "repository": "https://github.com/marcfbe/ai-benchmark-solutions",
+      "npmUrl": "https://www.npmjs.com/package/ai-coding-benchmark-solutions",
+      "category": "cli",
+      "createdAt": "2026-08-10T16:22:11.097Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 82
+    },
+    {
       "name": "ai-commander",
       "version": "0.1.0",
       "description": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ آللَّهُمَّ صَلِّ  وَ سَلِّم عَلَى سَيِّدِنَا مُحَمَّدٍ وَ عَلَى آلِ سَيِّدِنَا مُحَمَّد | Kanban-based task orchestrator untuk AI coding agent (Claude Code & OpenCode), dengan dukungan multi-repository, mode bypass-permi",
@@ -38712,6 +38844,18 @@
       "createdAt": "2026-08-02T15:44:27.630Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 64
+    },
+    {
+      "name": "ai-model-benchmark-solutions",
+      "version": "1.0.0",
+      "description": "Curated reference solutions and solution notes for Artificial Analysis Intelligence Index and additional evaluations, plus cybersecurity/agent benchmarks (ExploitGym, CVE-Bench, and peers) and broader agent evals (GAIA, WebArena).",
+      "license": "CC-BY-NC-4.0",
+      "repository": "https://github.com/marcfbe/ai-benchmark-solutions",
+      "npmUrl": "https://www.npmjs.com/package/ai-model-benchmark-solutions",
+      "category": "devops",
+      "createdAt": "2026-08-10T16:22:23.860Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 93
     },
     {
       "name": "ai-nazar",
@@ -39084,6 +39228,18 @@
       "createdAt": "2026-08-07T02:01:10.103Z",
       "discoveredAt": "2026-08-07T02:12:46.077Z",
       "score": 83
+    },
+    {
+      "name": "amont",
+      "version": "1.5.0",
+      "description": "Opinionated git hooks that judge what you are committing, not what is on disk",
+      "license": "MIT",
+      "repository": "https://github.com/fredericrous/amont",
+      "npmUrl": "https://www.npmjs.com/package/amont",
+      "category": "utilities",
+      "createdAt": "2026-08-10T15:39:45.810Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 81
     },
     {
       "name": "amos-ts",
@@ -43934,6 +44090,18 @@
       "score": 89
     },
     {
+      "name": "cursor-route",
+      "version": "0.1.4",
+      "description": "Cursor stays the brain. Grok CLI + DeepSeek (claude-ds) are the parallel army — lane-aware /route orchestration in tmux.",
+      "license": "MIT",
+      "repository": "https://github.com/cemini23/cursor-route",
+      "npmUrl": "https://www.npmjs.com/package/cursor-route",
+      "category": "cli",
+      "createdAt": "2026-08-10T14:03:43.243Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 73
+    },
+    {
       "name": "cursor-token-saver",
       "version": "0.10.1",
       "description": "A cognitive layer for Cursor's AI agent: lossless token savings via a content-addressed evidence store, plus verifiable semantic memory, project world model and skill runbooks. Fully local, zero telemetry. | 给 Cursor agent 的认知层：内容寻址证据库无损省 token；可验证语义记忆、项目",
@@ -45192,6 +45360,18 @@
       "createdAt": "2026-08-02T19:25:51.602Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 90
+    },
+    {
+      "name": "easypresent",
+      "version": "0.1.0",
+      "description": "Lightweight, secure, local-network remote-control system. Control your computer from any browser on the same network.",
+      "license": "MIT",
+      "repository": "https://github.com/bizlinsolutions/easypresent",
+      "npmUrl": "https://www.npmjs.com/package/easypresent",
+      "category": "frontend",
+      "createdAt": "2026-08-10T15:20:19.871Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 78
     },
     {
       "name": "ebill-mcp",
@@ -49334,6 +49514,18 @@
       "score": 64
     },
     {
+      "name": "image-size-next",
+      "version": "2.1.0",
+      "description": "Community-maintained fork of image-size: get dimensions of any image file or buffer. Fixes CVE-2025-71329 and CVE-2025-71330 (DoS via infinite loops).",
+      "license": "MIT",
+      "repository": "https://github.com/lcf2212dev/image-size-next",
+      "npmUrl": "https://www.npmjs.com/package/image-size-next",
+      "category": "utilities",
+      "createdAt": "2026-08-10T15:42:54.787Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 77
+    },
+    {
       "name": "imageapiai",
       "version": "1.0.0",
       "description": "Official Node.js SDK for ImageAPI AI - Generate and refine AI images with simple API calls.",
@@ -51554,6 +51746,18 @@
       "score": 74
     },
     {
+      "name": "luciazero",
+      "version": "1.5.0",
+      "description": "Verification-first discipline for coding agents (Claude Code + Codex CLI): 9-rule doctrine, six skills, reviewer agent, fail-open enforcement hooks. npx luciazero installs it.",
+      "license": "MIT",
+      "repository": "https://github.com/ohm41321/luciazero",
+      "npmUrl": "https://www.npmjs.com/package/luciazero",
+      "category": "cli",
+      "createdAt": "2026-08-10T16:33:10.918Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 91
+    },
+    {
       "name": "luma-events",
       "version": "0.7.3",
       "description": "MCP server and Codex/Cursor plugin for safely managing Luma events, guests, tickets, and hosts.",
@@ -52224,6 +52428,18 @@
       "createdAt": "2026-08-08T08:58:12.607Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 93
+    },
+    {
+      "name": "mcp-durable-tasks",
+      "version": "0.1.0",
+      "description": "Server-side implementation of the MCP Tasks extension (SEP-2663). Not a to-do manager.",
+      "license": "MIT",
+      "repository": "https://github.com/AndresSaa/mcp-durable-tasks",
+      "npmUrl": "https://www.npmjs.com/package/mcp-durable-tasks",
+      "category": "backend",
+      "createdAt": "2026-08-10T16:04:48.834Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 78
     },
     {
       "name": "mcp-expect",
@@ -54612,6 +54828,18 @@
       "createdAt": "2026-08-08T06:04:35.320Z",
       "discoveredAt": "2026-08-08T06:37:23.606Z",
       "score": 47
+    },
+    {
+      "name": "neverthrow-core",
+      "version": "1.0.0",
+      "description": "Stop throwing errors, and instead return Results!",
+      "license": "MIT",
+      "repository": "https://github.com/supermacro/neverthrow",
+      "npmUrl": "https://www.npmjs.com/package/neverthrow-core",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T15:33:12.291Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 72
     },
     {
       "name": "neverthrow-js",
@@ -63398,6 +63626,18 @@
       "score": 30
     },
     {
+      "name": "snowflurry",
+      "version": "0.1.0",
+      "description": "Realistic falling snow for any website. WebGL2, zero dependencies, one script tag.",
+      "license": "MIT",
+      "repository": "https://github.com/littletaz/snowflurry",
+      "npmUrl": "https://www.npmjs.com/package/snowflurry",
+      "category": "devops",
+      "createdAt": "2026-08-10T15:28:44.035Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 74
+    },
+    {
       "name": "sntnl-cli",
       "version": "4.0.0",
       "description": "Sentinel Security Intelligence — SAST, supply chain, threat intel, and Skills/MCP for AI coding agents.",
@@ -65138,6 +65378,18 @@
       "score": 81
     },
     {
+      "name": "thetowersdk",
+      "version": "0.1.0",
+      "description": "Game data and save-file reading for The Tower — build your own calculators and tools.",
+      "license": "MIT",
+      "repository": "https://github.com/TmRxJD/TheTowerSDK",
+      "npmUrl": "https://www.npmjs.com/package/thetowersdk",
+      "category": "data",
+      "createdAt": "2026-08-10T15:39:22.642Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 72
+    },
+    {
       "name": "thinking-orbs-colorized",
       "version": "0.2.0",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light, 22 curated color palettes",
@@ -65810,6 +66062,18 @@
       "score": 82
     },
     {
+      "name": "trendsapi",
+      "version": "1.0.0",
+      "description": "Official JavaScript/TypeScript client for the Trends API. Normalized 0-100 trend scores across Google, TikTok, Amazon, Reddit, YouTube, Steam, npm and 30+ sources. Zero runtime deps, dual ESM/CJS, edge-ready.",
+      "license": "MIT",
+      "repository": "https://github.com/trendsapi/trendsapi-js",
+      "npmUrl": "https://www.npmjs.com/package/trendsapi",
+      "category": "backend",
+      "createdAt": "2026-08-10T16:41:30.212Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 83
+    },
+    {
       "name": "trigons-lite",
       "version": "1.1.0",
       "description": "Lightweight animated triangulated backgrounds. Zero dependencies, ~3KB gzip.",
@@ -66264,6 +66528,18 @@
       "createdAt": "2026-08-01T18:32:28.177Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 72
+    },
+    {
+      "name": "umdgencli-mcp",
+      "version": "1.0.1",
+      "description": "MCP server that lets AI agents drive UMDGenCLI (PSP UMD ISO/CSO/DAX tool)",
+      "license": "MIT",
+      "repository": "https://github.com/quickstraw/umdgencli-mcp",
+      "npmUrl": "https://www.npmjs.com/package/umdgencli-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T15:34:14.064Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 81
     },
     {
       "name": "un7z-opfs",
@@ -66926,6 +67202,18 @@
       "score": 58
     },
     {
+      "name": "vibecom-cli",
+      "version": "1.0.24",
+      "description": "Privacy-first CLI that turns Codex and Claude Code activity into a verified vibecom builder profile and leaderboard rank.",
+      "license": "MIT",
+      "repository": "https://github.com/DugboTek/vibecom-cli",
+      "npmUrl": "https://www.npmjs.com/package/vibecom-cli",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T15:25:24.207Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 79
+    },
+    {
       "name": "vibedocs",
       "version": "0.4.0",
       "description": "Self-hosted markdown documentation browser with live reload, syntax highlighting, and full-text search",
@@ -66984,6 +67272,18 @@
       "createdAt": "2026-08-09T17:00:35.892Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 55
+    },
+    {
+      "name": "vibestrate",
+      "version": "1.0.0",
+      "description": "Vibestrate is the missing piece of vibe-coding: an open-source, supervised coding flow that swaps Claude Code, Codex, Gemini, or local models across shared crews with approval gates and local run logs.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/guyshonshon/vibestrate",
+      "npmUrl": "https://www.npmjs.com/package/vibestrate",
+      "category": "utilities",
+      "createdAt": "2026-08-10T16:17:08.068Z",
+      "discoveredAt": "2026-08-10T16:44:24.986Z",
+      "score": 100
     },
     {
       "name": "vibeward",
