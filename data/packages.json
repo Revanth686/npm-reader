@@ -2726,6 +2726,18 @@
       "score": 69
     },
     {
+      "name": "@apinecka/drizzle",
+      "version": "1.0.0",
+      "description": "NestJS module for Drizzle ORM over Postgres: a DI-friendly connection wrapper, a lock-coordinated migration runner, and test-database helpers. Bring your own schema.",
+      "license": "MIT",
+      "repository": "https://github.com/tomcupak/apinecka-libs",
+      "npmUrl": "https://www.npmjs.com/package/%40apinecka%2Fdrizzle",
+      "category": "testing",
+      "createdAt": "2026-08-10T17:19:04.862Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 84
+    },
+    {
       "name": "@apiroc/unified-calendar-api-node-sdk",
       "version": "2.0.1",
       "description": "Official Node.js SDK for Apiroc Unified Calendar API - A type-safe client for managing calendars, events, and integrations across Google, Microsoft, iCloud and other providers",
@@ -3324,6 +3336,30 @@
       "createdAt": "2026-08-08T10:27:36.813Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 53
+    },
+    {
+      "name": "@astryx-svelte/cli",
+      "version": "0.3.0",
+      "description": "Scaffold projects, browse templates, generate themes, and get agent-ready docs from the command line.",
+      "license": "MIT",
+      "repository": "https://github.com/devrohit06/astryx-svelte",
+      "npmUrl": "https://www.npmjs.com/package/%40astryx-svelte%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-08-10T16:54:03.341Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 60
+    },
+    {
+      "name": "@astryx-svelte/core",
+      "version": "0.3.0",
+      "description": "Svelte 5 components for Astryx, Meta's open source design system.",
+      "license": "MIT",
+      "repository": "https://github.com/devrohit06/astryx-svelte",
+      "npmUrl": "https://www.npmjs.com/package/%40astryx-svelte%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-10T16:53:45.544Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 58
     },
     {
       "name": "@atoapayments/agent-pay",
@@ -4608,6 +4644,18 @@
       "createdAt": "2026-07-30T22:06:31.029Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 78
+    },
+    {
+      "name": "@bnomei/emdash-mika",
+      "version": "0.1.0",
+      "description": "Agent-ready commerce primitives for content-led storefronts.",
+      "license": "MIT",
+      "repository": "https://github.com/bnomei/emdash-mika",
+      "npmUrl": "https://www.npmjs.com/package/%40bnomei%2Femdash-mika",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T17:08:45.424Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 76
     },
     {
       "name": "@boarteam/fix-dict-fix50sp2",
@@ -9852,6 +9900,18 @@
       "createdAt": "2026-08-04T04:39:57.900Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 78
+    },
+    {
+      "name": "@elgiosoft/elgiopay-sdk",
+      "version": "1.0.0",
+      "description": "Node.js SDK for ElgioPay Service - Mobile Money payments for Cameroon and West Africa",
+      "license": "MIT",
+      "repository": "https://github.com/elgiosoft/elgiopay-sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40elgiosoft%2Felgiopay-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-10T16:49:54.139Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 88
     },
     {
       "name": "@eliware/mcpli",
@@ -21026,6 +21086,18 @@
       "score": 79
     },
     {
+      "name": "@matthewfl/pi-contemplator",
+      "version": "0.0.1",
+      "description": "A Pi extension that keeps long-running agentic sessions on track with background memory, contemplation, and structural review.",
+      "license": "MIT",
+      "repository": "https://github.com/matthewfl/pi-contemplator",
+      "npmUrl": "https://www.npmjs.com/package/%40matthewfl%2Fpi-contemplator",
+      "category": "utilities",
+      "createdAt": "2026-08-10T17:05:32.229Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 59
+    },
+    {
       "name": "@mattschoe/pi-plan",
       "version": "1.0.0",
       "description": "Plan mode, accept-edits mode and plan execution tracking for Pi: cycle permission modes, capture the plan to .pi/plans, hand it to a fresh chat, and tick off steps against Done-When criteria.",
@@ -21360,6 +21432,18 @@
       "createdAt": "2026-07-31T15:47:28.558Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 90
+    },
+    {
+      "name": "@metaharness/turn-credit",
+      "version": "0.1.0",
+      "description": "Offline recursive turn-level credit assignment for agent trajectories (AgentOPSD, arXiv:2608.05987). Converts sparse terminal outcomes into bounded per-turn weights via recursive belief updates — advisory signals for routing, retry policy, retrieval feedb",
+      "license": "MIT",
+      "repository": "https://github.com/ruvnet/metaharness",
+      "npmUrl": "https://www.npmjs.com/package/%40metaharness%2Fturn-credit",
+      "category": "backend",
+      "createdAt": "2026-08-10T17:04:31.498Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 63
     },
     {
       "name": "@metahub-ai/assay",
@@ -22872,6 +22956,18 @@
       "createdAt": "2026-07-25T14:01:14.410Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 67
+    },
+    {
+      "name": "@motrix/nat",
+      "version": "0.1.0",
+      "description": "Dependency-free UPnP IGD, NAT-PMP, PCP, and STUN for Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/motrixapp/nat",
+      "npmUrl": "https://www.npmjs.com/package/%40motrix%2Fnat",
+      "category": "utilities",
+      "createdAt": "2026-08-10T17:08:19.282Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 72
     },
     {
       "name": "@moumensoliman/crust",
@@ -24732,6 +24828,18 @@
       "createdAt": "2026-08-08T12:50:19.004Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 50
+    },
+    {
+      "name": "@odatano/nightgate-mcp",
+      "version": "0.2.0",
+      "description": "MCP server exposing NIGHTGATE (Midnight blockchain attestation layer) to AI agents",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ODATANO/NIGHTGATE-MCP",
+      "npmUrl": "https://www.npmjs.com/package/%40odatano%2Fnightgate-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-07T19:19:38.102Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 57
     },
     {
       "name": "@odla-ai/camel",
@@ -28562,6 +28670,18 @@
       "score": 53
     },
     {
+      "name": "@renxqoo/rxopen-cli",
+      "version": "0.1.0",
+      "description": "rxopen — an open-data CLI built on @renxqoo/agent-data-cli, wrapping all public APIs of the vikiboss/60s open-source project (news, trending, weather, fuel prices, lunar calendar, translate, QR code, 60+ endpoints)",
+      "license": "MIT",
+      "repository": "https://github.com/renxqoo/rxcli",
+      "npmUrl": "https://www.npmjs.com/package/%40renxqoo%2Frxopen-cli",
+      "category": "backend",
+      "createdAt": "2026-08-10T17:14:50.526Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 70
+    },
+    {
       "name": "@renxqoo/rxstock",
       "version": "1.0.0",
       "description": "rxstock — A 股股票数据命令行工具(行情/K 线/财务/板块/资金流),基于 @renxqoo/agent-data-cli 框架,数据来源公开渠道,仅供学习研究",
@@ -29654,6 +29774,18 @@
       "score": 80
     },
     {
+      "name": "@ryanmab/biome-plugin-avoidable-anti-patterns",
+      "version": "0.0.2",
+      "description": "A collection of opinionated Biome rules for identifying and avoiding common code anti-patterns.",
+      "license": "MIT",
+      "repository": "https://github.com/ryanmab/biome-plugin-avoidable-anti-patterns",
+      "npmUrl": "https://www.npmjs.com/package/%40ryanmab%2Fbiome-plugin-avoidable-anti-patterns",
+      "category": "utilities",
+      "createdAt": "2026-08-10T16:59:45.380Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 59
+    },
+    {
       "name": "@s-ry2005/bosscoding",
       "version": "0.6.1",
       "description": "给不会编程的产品老板：一句话把 AI 协作规则、真实状态检查和安全收尾装进项目，Codex、Claude Code 等都能用。",
@@ -30398,6 +30530,18 @@
       "score": 88
     },
     {
+      "name": "@seorak/collector",
+      "version": "0.1.0",
+      "description": "Local-first daemon plus Claude Code hook scripts and Codex capture. Hooks commit events to permanent SQLite before appending the compatibility JSONL mirror. The daemon then serves that history to the primary dashboard over a loopback data plane, so Free g",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/twinkling-reality/seorak",
+      "npmUrl": "https://www.npmjs.com/package/%40seorak%2Fcollector",
+      "category": "data",
+      "createdAt": "2026-08-10T17:31:13.554Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 70
+    },
+    {
       "name": "@sesori/pr-monitor-opencode",
       "version": "0.2.0",
       "description": "OpenCode plugin that watches GitHub PRs in the background and delivers factual [PR Monitor] reports into the owning session",
@@ -31116,6 +31260,18 @@
       "createdAt": "2026-08-02T18:18:10.479Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 64
+    },
+    {
+      "name": "@sixb/connector-unipile",
+      "version": "0.1.0",
+      "description": "Unipile messaging and LinkedIn outreach connector for Sixb",
+      "license": "MIT",
+      "repository": "https://github.com/sixb-ai/sixb",
+      "npmUrl": "https://www.npmjs.com/package/%40sixb%2Fconnector-unipile",
+      "category": "utilities",
+      "createdAt": "2026-08-10T17:24:57.171Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 67
     },
     {
       "name": "@sixb/core",
@@ -32376,6 +32532,18 @@
       "createdAt": "2026-07-27T20:28:46.628Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 79
+    },
+    {
+      "name": "@storysnap/cli",
+      "version": "1.0.0",
+      "description": "Visual regression testing for Storybook - capture screenshots, detect changes, and maintain baselines",
+      "license": "MIT",
+      "repository": "https://github.com/Kosai106/storysnap",
+      "npmUrl": "https://www.npmjs.com/package/%40storysnap%2Fcli",
+      "category": "testing",
+      "createdAt": "2026-08-10T17:21:48.995Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 75
     },
     {
       "name": "@stratejya/operon-cli",
@@ -33780,6 +33948,18 @@
       "createdAt": "2026-07-28T00:44:14.509Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 69
+    },
+    {
+      "name": "@theyahia/aprovodka",
+      "version": "4.2.0",
+      "description": "MCP server for 1C:Enterprise — 34 tools across 11 modules: catalogs & documents CRUD, post/unpost, registers & balances, accounting registers incl. virtual tables, constants, batch ops, change-tracking, metadata discovery, curated config presets, optional",
+      "license": "MIT",
+      "repository": "https://github.com/theYahia/WWmcp",
+      "npmUrl": "https://www.npmjs.com/package/%40theyahia%2Faprovodka",
+      "category": "backend",
+      "createdAt": "2026-08-10T17:00:24.216Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 100
     },
     {
       "name": "@theyoungwolf/lexorank",
@@ -42710,6 +42890,18 @@
       "score": 74
     },
     {
+      "name": "code-vcli",
+      "version": "1.0.1",
+      "description": "code-vcli — 为 AI 模型提供 web 开发视觉能力的 CLI 工具",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/GuSheng107/code-vcli",
+      "npmUrl": "https://www.npmjs.com/package/code-vcli",
+      "category": "cli",
+      "createdAt": "2026-08-10T16:43:22.098Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 69
+    },
+    {
       "name": "code-while-claude-code",
       "version": "0.1.0",
       "description": "Fill the dead time during a Claude Code turn with short, high-signal coding micro-challenges.",
@@ -48122,6 +48314,18 @@
       "score": 73
     },
     {
+      "name": "google-trends-js",
+      "version": "1.0.0",
+      "description": "Google Trends client for JS/TS. Interest over time, growth, and live trending searches via the Trends API. Zero-scrape alternative to the abandoned google-trends-api package.",
+      "license": "MIT",
+      "repository": "https://github.com/trendsapi/google-trends-js",
+      "npmUrl": "https://www.npmjs.com/package/google-trends-js",
+      "category": "backend",
+      "createdAt": "2026-08-10T16:47:11.147Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 57
+    },
+    {
       "name": "gosset",
       "version": "1.1.0",
       "description": "Wearable research studies without the app build — study builder, participant enrollment, HealthKit data collection, and a CLI to run it all from the terminal.",
@@ -48816,6 +49020,18 @@
       "createdAt": "2026-07-27T20:01:30.603Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 81
+    },
+    {
+      "name": "homebridge-danalock",
+      "version": "0.1.1",
+      "description": "Homebridge plugin for the Danalock V3-BT smart lock, via the Danalock cloud API and a Danabridge.",
+      "license": "MIT",
+      "repository": "https://github.com/mend1/homebridge-danalock",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-danalock",
+      "category": "backend",
+      "createdAt": "2026-08-07T07:24:56.136Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 60
     },
     {
       "name": "homebridge-domintell-legacy",
@@ -49788,6 +50004,18 @@
       "createdAt": "2026-08-05T12:27:18.512Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 87
+    },
+    {
+      "name": "int-sharp-comp",
+      "version": "2.0.0",
+      "description": "Blazing-fast image compression with modern format support — auto-discovers images in frameworks, generates compress.config, tracks compress.log, and replaces originals",
+      "license": "MIT",
+      "repository": "https://github.com/int-sharp-comp/int-sharp-comp",
+      "npmUrl": "https://www.npmjs.com/package/int-sharp-comp",
+      "category": "data",
+      "createdAt": "2026-08-10T17:12:41.908Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 64
     },
     {
       "name": "intellirouter",
@@ -55010,6 +55238,18 @@
       "score": 62
     },
     {
+      "name": "nextjs-performance-boost",
+      "version": "1.0.0",
+      "description": "Auto-transform <img> tags to next/image and Google Fonts to next/font — Lighthouse 40 → 90+",
+      "license": "MIT",
+      "repository": "https://github.com/KeroCodes/nextjs-performance-boost",
+      "npmUrl": "https://www.npmjs.com/package/nextjs-performance-boost",
+      "category": "data",
+      "createdAt": "2026-08-10T17:34:55.113Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 76
+    },
+    {
       "name": "nexus-canon",
       "version": "1.0.0",
       "description": "Portable agent memory in a git repo you own — the canonical agent history & memory store (canon): sync, translate, pull, capability artifacts, and project knowledge graphs across AI coding harnesses.",
@@ -57158,6 +57398,18 @@
       "score": 77
     },
     {
+      "name": "pallastrade-harness",
+      "version": "0.1.0",
+      "description": "AI-era engineering harness: pre-coding gates, anti-pattern scanners, PRD workflow, knowledge-sync enforcement. Config-driven, project-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/stevenbian9266-cyber/pallastradeharness",
+      "npmUrl": "https://www.npmjs.com/package/pallastrade-harness",
+      "category": "utilities",
+      "createdAt": "2026-08-10T17:34:23.551Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 59
+    },
+    {
       "name": "panaclaw",
       "version": "0.1.0",
       "description": "CRM - PanaClaw — instala bots de IA con CRM en tu propia infraestructura, en un comando.",
@@ -59222,6 +59474,18 @@
       "score": 71
     },
     {
+      "name": "postcss-pseudo-hover",
+      "version": "1.2.0",
+      "description": "PostCSS plugin that extracts and wraps rules containing `:any-hover` pseudo-classes in `@media (any-hover: hover) {}` media queries",
+      "license": "MIT",
+      "repository": "https://github.com/otomad/postcss-pseudo-hover",
+      "npmUrl": "https://www.npmjs.com/package/postcss-pseudo-hover",
+      "category": "frontend",
+      "createdAt": "2026-08-10T17:16:31.078Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 93
+    },
+    {
       "name": "postgres-mcp-hardened",
       "version": "0.1.2",
       "description": "Secure read-only PostgreSQL MCP server in Rust — a maintained alternative to the deprecated @modelcontextprotocol/server-postgres. Blocks writes at the AST, not with regexes.",
@@ -60180,6 +60444,18 @@
       "createdAt": "2026-07-31T09:07:00.256Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 91
+    },
+    {
+      "name": "rbac-fs",
+      "version": "1.0.0",
+      "description": "Git-friendly, zero-database RBAC — roles and permissions as JSON files, multi-tenant by default, works in Node and the browser, in JS or TS.",
+      "license": "MIT",
+      "repository": "https://github.com/imchintoo/rbac-fs",
+      "npmUrl": "https://www.npmjs.com/package/rbac-fs",
+      "category": "frontend",
+      "createdAt": "2026-08-10T17:34:09.728Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 75
     },
     {
       "name": "rbi-exchange-rate",
@@ -63240,6 +63516,18 @@
       "createdAt": "2026-07-28T04:39:38.914Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 73
+    },
+    {
+      "name": "signalk-rules",
+      "version": "1.0.0",
+      "description": "Simple rules engine for switching automation: WHEN conditions on Signal K paths THEN switch/pulse/notify — configured in a friendly webapp",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dirkwa/signalk-rules",
+      "npmUrl": "https://www.npmjs.com/package/signalk-rules",
+      "category": "backend",
+      "createdAt": "2026-08-10T05:40:38.618Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 60
     },
     {
       "name": "siigo-pyme-mcp",
@@ -68496,6 +68784,18 @@
       "createdAt": "2026-08-08T08:40:19.230Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 80
+    },
+    {
+      "name": "wondev",
+      "version": "0.1.0",
+      "description": "Write your AI agent knowledge once. Compile it to every agent's config format.",
+      "license": "MIT",
+      "repository": "https://github.com/wondping0/wondev",
+      "npmUrl": "https://www.npmjs.com/package/wondev",
+      "category": "data",
+      "createdAt": "2026-08-10T16:51:43.488Z",
+      "discoveredAt": "2026-08-10T17:37:47.201Z",
+      "score": 77
     },
     {
       "name": "wordprint",
