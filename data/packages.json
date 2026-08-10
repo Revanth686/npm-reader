@@ -206,6 +206,18 @@
       "score": 77
     },
     {
+      "name": "@1msg/mcp",
+      "version": "1.2.0",
+      "description": "MCP server for the 1msg API (stdio + Streamable HTTP)",
+      "license": "MIT",
+      "repository": "https://github.com/1msg/1msg-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%401msg%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T22:50:04.384Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 39
+    },
+    {
       "name": "@3278media/react-component-library",
       "version": "1.0.0",
       "description": "Accessible, production-ready React component library built with TypeScript and Tailwind CSS.",
@@ -3206,6 +3218,18 @@
       "score": 46
     },
     {
+      "name": "@ashdev/codex-plugin-recommendations-mangabaka",
+      "version": "1.43.3",
+      "description": "MangaBaka recommendation provider plugin for Codex - generates manga recommendations from your library with no account required",
+      "license": "MIT",
+      "repository": "https://github.com/AshDevFr/codex",
+      "npmUrl": "https://www.npmjs.com/package/%40ashdev%2Fcodex-plugin-recommendations-mangabaka",
+      "category": "utilities",
+      "createdAt": "2026-08-10T22:46:51.778Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 66
+    },
+    {
       "name": "@ashrithsathu/p2pchat",
       "version": "0.6.0",
       "description": "End-to-end encrypted, local-first terminal chat",
@@ -3396,6 +3420,18 @@
       "createdAt": "2026-08-10T16:53:45.544Z",
       "discoveredAt": "2026-08-10T17:37:47.201Z",
       "score": 58
+    },
+    {
+      "name": "@astryx-svelte/theme-liquid-glass",
+      "version": "0.3.1",
+      "description": "Liquid Glass theme for astryx-svelte — macOS translucent materials, capsule controls and the Apple system palette. Has no upstream Astryx counterpart.",
+      "license": "MIT",
+      "repository": "https://github.com/devrohit06/astryx-svelte",
+      "npmUrl": "https://www.npmjs.com/package/%40astryx-svelte%2Ftheme-liquid-glass",
+      "category": "frontend",
+      "createdAt": "2026-08-10T16:53:52.731Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 40
     },
     {
       "name": "@atoapayments/agent-pay",
@@ -5330,6 +5366,42 @@
       "score": 68
     },
     {
+      "name": "@cad0p/pi-steering",
+      "version": "0.1.0",
+      "description": "AST-backed steering hooks for pi — deterministic tool-call guardrails with command-level effective-cwd scoping.",
+      "license": "MIT",
+      "repository": "https://github.com/cad0p/pi-steering",
+      "npmUrl": "https://www.npmjs.com/package/%40cad0p%2Fpi-steering",
+      "category": "utilities",
+      "createdAt": "2026-08-10T22:51:18.812Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 77
+    },
+    {
+      "name": "@cad0p/pi-steering-commit-format",
+      "version": "0.1.0",
+      "description": "Commit-message format validation predicates for pi-steering. Bundled formats: Conventional Commits 1.0.0 (Angular preset type allowlist), bracketed JIRA-style ticket references. Extensible via `commitFormatFactory`.",
+      "license": "MIT",
+      "repository": "https://github.com/cad0p/pi-steering-commit-format",
+      "npmUrl": "https://www.npmjs.com/package/%40cad0p%2Fpi-steering-commit-format",
+      "category": "frontend",
+      "createdAt": "2026-08-10T22:59:18.842Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 63
+    },
+    {
+      "name": "@cad0p/pi-steering-flags",
+      "version": "0.1.0",
+      "description": "Declarative flag-presence and flag-allowlist predicates for pi-steering rules. First official external plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/cad0p/pi-steering-flags",
+      "npmUrl": "https://www.npmjs.com/package/%40cad0p%2Fpi-steering-flags",
+      "category": "cli",
+      "createdAt": "2026-08-10T22:59:08.832Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 56
+    },
+    {
       "name": "@cad0p/unbash-walker",
       "version": "0.1.0",
       "description": "Utility for walking unbash ASTs — extract commands, expand wrappers, resolve effective cwd.",
@@ -6782,6 +6854,18 @@
       "score": 84
     },
     {
+      "name": "@colineapp/ui",
+      "version": "0.2.0",
+      "description": "The Coline design system for tier-2 Coline Apps: React components themed by the host workspace.",
+      "license": "MIT",
+      "repository": "https://github.com/ColineApp/coline-app",
+      "npmUrl": "https://www.npmjs.com/package/%40colineapp%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-10T22:34:33.294Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 36
+    },
+    {
       "name": "@coloristic.org/core",
       "version": "0.1.0",
       "description": "Generate accessibility-aware semantic color palettes and production-ready design tokens.",
@@ -7814,6 +7898,30 @@
       "score": 80
     },
     {
+      "name": "@deitum/camunda-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for Camunda 7 — BPMN/DMN definitions, process instances, incidents, user tasks, history and DMN evaluation over the engine REST API.",
+      "license": "MIT",
+      "repository": "https://github.com/deitum/camunda-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40deitum%2Fcamunda-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T22:42:39.439Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 82
+    },
+    {
+      "name": "@deitum/docxtemplates",
+      "version": "1.1.0",
+      "description": "Template-based docx report creation",
+      "license": "MIT",
+      "repository": "https://github.com/deitum/docxtemplates",
+      "npmUrl": "https://www.npmjs.com/package/%40deitum%2Fdocxtemplates",
+      "category": "utilities",
+      "createdAt": "2026-08-10T22:27:07.088Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 75
+    },
+    {
       "name": "@dendiem/caliper",
       "version": "0.2.0",
       "description": "MCP server that lets a coding agent ask the developer to review ambiguous UI regions directly in the running dev preview.",
@@ -8750,6 +8858,18 @@
       "score": 53
     },
     {
+      "name": "@dleangen/cage-chart",
+      "version": "0.1.0",
+      "description": "Source Chart schema and compiler for the CAGE provider-neutral Agent Bundle model.",
+      "license": "MIT",
+      "repository": "https://github.com/dleangen/cage-chart",
+      "npmUrl": "https://www.npmjs.com/package/%40dleangen%2Fcage-chart",
+      "category": "build-tools",
+      "createdAt": "2026-08-07T20:48:59.184Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 42
+    },
+    {
       "name": "@dloizides/ui-motion",
       "version": "1.0.1",
       "description": "Themable, brand-agnostic React Native (RN-web) motion primitives — useEnterExit, FadeIn, Collapse, PressableScale, Skeleton — built on RN Animated, driven by @dloizides/design-tokens motion tokens, and gated on @dloizides/rn-web-hooks useReducedMotion (ev",
@@ -9662,6 +9782,18 @@
       "score": 67
     },
     {
+      "name": "@easyai101/easyserver",
+      "version": "0.1.0",
+      "description": "Provider-independent CLI for acquiring, managing and locally accessing rented compute.",
+      "license": "MIT",
+      "repository": "https://github.com/Max19970/easy-server",
+      "npmUrl": "https://www.npmjs.com/package/%40easyai101%2Feasyserver",
+      "category": "backend",
+      "createdAt": "2026-08-10T22:48:22.082Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 34
+    },
+    {
       "name": "@eborja/cortex",
       "version": "0.1.1",
       "description": "Cortex — the operator for Synapse standing agents: scaffold, provision, run, and health-check role-based agents that brief from a Synapse vault and talk over Block's Buzz. Ships no Buzz code; orchestrates a separately-installed relay.",
@@ -10212,6 +10344,18 @@
       "createdAt": "2026-08-10T14:22:35.329Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 72
+    },
+    {
+      "name": "@enkhbold470/zangia-mcp-ai",
+      "version": "1.0.0",
+      "description": "High-Performance LLM & MCP-Powered Job Search Platform and Live Zangia Crawler",
+      "license": "MIT",
+      "repository": "https://github.com/enkhbold470/zangia-mcp-ai",
+      "npmUrl": "https://www.npmjs.com/package/%40enkhbold470%2Fzangia-mcp-ai",
+      "category": "backend",
+      "createdAt": "2026-08-10T22:48:20.234Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 60
     },
     {
       "name": "@enochmk/eda-client",
@@ -13656,6 +13800,18 @@
       "createdAt": "2026-08-08T14:10:26.613Z",
       "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/lockreleasetokenpool",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LockReleaseTokenPool (build etherscan-lockreleasetokenpool-776a1399-1786401058044, commit 86f2907, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/lockreleasetokenpool",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flockreleasetokenpool",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T22:31:21.339Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/lp",
@@ -20234,6 +20390,18 @@
       "score": 73
     },
     {
+      "name": "@letsagents/godot-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that gives AI clients runtime feedback from Godot (errors / scene tree / node props / screenshot) for an AI self-correction loop.",
+      "license": "MIT",
+      "repository": "https://github.com/letsagents/godot-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40letsagents%2Fgodot-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T22:55:55.510Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 59
+    },
+    {
       "name": "@letscashfun/sdk",
       "version": "0.1.1",
       "description": "TypeScript SDK for the letscash.fun launchpad — launch tokens, read and claim fee streams, and trade, on Robinhood Chain",
@@ -20244,6 +20412,18 @@
       "createdAt": "2026-08-09T01:15:09.518Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 78
+    },
+    {
+      "name": "@letta-ai/codex-quota-router",
+      "version": "0.1.0",
+      "description": "Letta Code mod that routes Codex conversations around exhausted ChatGPT OAuth plan quotas.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/letta-ai/mods",
+      "npmUrl": "https://www.npmjs.com/package/%40letta-ai%2Fcodex-quota-router",
+      "category": "utilities",
+      "createdAt": "2026-08-10T22:40:49.109Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 46
     },
     {
       "name": "@lew-ds/lds",
@@ -31646,6 +31826,18 @@
       "score": 73
     },
     {
+      "name": "@shuv1337/shuvpi-client",
+      "version": "0.83.1",
+      "description": "Transport-neutral client for remote shuvpi sessions over framed CBOR bytes",
+      "license": "MIT",
+      "repository": "https://github.com/shuv1337/shuvpi",
+      "npmUrl": "https://www.npmjs.com/package/%40shuv1337%2Fshuvpi-client",
+      "category": "cli",
+      "createdAt": "2026-08-10T22:42:43.217Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 45
+    },
+    {
       "name": "@shuv1337/shuvpi-coding-agent",
       "version": "0.83.0",
       "description": "Coding agent CLI with read, bash, edit, write tools and session management",
@@ -31656,6 +31848,30 @@
       "createdAt": "2026-07-30T10:32:03.706Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 69
+    },
+    {
+      "name": "@shuv1337/shuvpi-protocol",
+      "version": "0.83.1",
+      "description": "Transport-neutral CBOR protocol for remote shuvpi sessions",
+      "license": "MIT",
+      "repository": "https://github.com/shuv1337/shuvpi",
+      "npmUrl": "https://www.npmjs.com/package/%40shuv1337%2Fshuvpi-protocol",
+      "category": "utilities",
+      "createdAt": "2026-08-10T22:42:38.140Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 41
+    },
+    {
+      "name": "@shuv1337/shuvpi-telemetry",
+      "version": "0.83.1",
+      "description": "Vendor-neutral telemetry contracts and typed schema utilities for shuvpi",
+      "license": "MIT",
+      "repository": "https://github.com/shuv1337/shuvpi",
+      "npmUrl": "https://www.npmjs.com/package/%40shuv1337%2Fshuvpi-telemetry",
+      "category": "devops",
+      "createdAt": "2026-08-10T22:42:31.088Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 63
     },
     {
       "name": "@shuv1337/shuvpi-tui",
@@ -42830,6 +43046,18 @@
       "score": 80
     },
     {
+      "name": "cf-workerify",
+      "version": "1.0.0",
+      "description": "Turn any React, Next.js, or Node.js project into a deployable Cloudflare Worker with wrangler.",
+      "license": "MIT",
+      "repository": "https://github.com/manalejandro/cf-workerify",
+      "npmUrl": "https://www.npmjs.com/package/cf-workerify",
+      "category": "frontend",
+      "createdAt": "2026-08-10T22:42:38.265Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 89
+    },
+    {
       "name": "cgraph",
       "version": "0.1.1",
       "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
@@ -44736,6 +44964,18 @@
       "createdAt": "2026-08-02T19:43:26.544Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 66
+    },
+    {
+      "name": "create-coline-app",
+      "version": "2.0.0",
+      "description": "Scaffold, push, and iterate on Coline Apps.",
+      "license": "MIT",
+      "repository": "https://github.com/ColineApp/coline-app",
+      "npmUrl": "https://www.npmjs.com/package/create-coline-app",
+      "category": "cli",
+      "createdAt": "2026-08-10T22:35:43.263Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 37
     },
     {
       "name": "create-fastgrid",
@@ -53294,6 +53534,18 @@
       "score": 88
     },
     {
+      "name": "manim-live-mcp",
+      "version": "2.0.27",
+      "description": "AI-driven manim animation engine MCP server — npm wrapper for the Python package",
+      "license": "MIT",
+      "repository": "https://github.com/1Cyrvox/manim-mcpweb",
+      "npmUrl": "https://www.npmjs.com/package/manim-live-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T23:00:50.215Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 56
+    },
+    {
       "name": "maplibre-gl-3dtiles-terrain",
       "version": "0.1.0",
       "description": "Use Cesium-style 3D Tiles quantized-mesh terrain as a normal raster-dem source in MapLibre GL JS: setTerrain, queryTerrainElevation, hillshade and draping with no core changes",
@@ -61058,6 +61310,18 @@
       "score": 100
     },
     {
+      "name": "projects-manager-mcp",
+      "version": "1.0.0",
+      "description": "Grok CLI / MCP server for Projects Manager — list and manage tasks on boards you authorize",
+      "license": "MIT",
+      "repository": "https://github.com/hamlet2k/ProjectsManager",
+      "npmUrl": "https://www.npmjs.com/package/projects-manager-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T23:03:25.761Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 48
+    },
+    {
       "name": "prompt-builder-cli",
       "version": "0.1.1",
       "description": "Benchmark LLMs and evolve system prompts from the terminal. Built for coding agents: self-documenting, budget-aware, model/think-level aware.",
@@ -65822,6 +66086,18 @@
       "score": 84
     },
     {
+      "name": "startup-idea-machine",
+      "version": "0.1.0",
+      "description": "A Codex skill that learns a founder's taste, searches live public signals, and iterates toward evidence-backed startup ideas.",
+      "license": "MIT",
+      "repository": "https://github.com/Kappaemme-git/startup-idea-machine",
+      "npmUrl": "https://www.npmjs.com/package/startup-idea-machine",
+      "category": "utilities",
+      "createdAt": "2026-08-10T22:36:43.413Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 48
+    },
+    {
       "name": "starwheel",
       "version": "0.1.0",
       "description": "A live, accurate planisphere in your terminal. Real star positions for your location and clock, drawn in braille.",
@@ -65832,6 +66108,18 @@
       "createdAt": "2026-08-10T08:26:29.194Z",
       "discoveredAt": "2026-08-10T09:09:27.680Z",
       "score": 79
+    },
+    {
+      "name": "statelet-sdk",
+      "version": "0.1.2",
+      "description": "TypeScript gRPC client for Statelet distributed key-value store",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/stateletlab/statelet-sdk",
+      "npmUrl": "https://www.npmjs.com/package/statelet-sdk",
+      "category": "data",
+      "createdAt": "2026-08-10T18:26:37.971Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 52
     },
     {
       "name": "stateset-nsr-mcp",
@@ -70776,6 +71064,18 @@
       "createdAt": "2026-08-05T23:48:51.960Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 71
+    },
+    {
+      "name": "zeon-mcp-server",
+      "version": "0.1.0",
+      "description": "Zeon Flow MCP server — generate AI images, video and voiceovers from Claude",
+      "license": "MIT",
+      "repository": "https://github.com/ZeonAccount1/zeon-flow",
+      "npmUrl": "https://www.npmjs.com/package/zeon-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-10T22:49:27.538Z",
+      "discoveredAt": "2026-08-10T23:06:27.902Z",
+      "score": 47
     },
     {
       "name": "zep-sdk",
