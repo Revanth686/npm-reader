@@ -1346,6 +1346,18 @@
       "score": 78
     },
     {
+      "name": "@ai-outfitter/link",
+      "version": "1.0.0",
+      "description": "Audit organizations against the Outfitter SDLC governance baseline: a read-only scanner that rates repositories on the agentic adoption ramp.",
+      "license": "MIT",
+      "repository": "https://github.com/ai-outfitter/link",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-outfitter%2Flink",
+      "category": "utilities",
+      "createdAt": "2026-08-10T19:25:49.596Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 67
+    },
+    {
       "name": "@ai-router/openai-compatible-errors",
       "version": "0.1.0",
       "description": "Normalize OpenAI-compatible API errors into typed categories, retry plans, request IDs, and redacted diagnostics",
@@ -12650,6 +12662,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/cusdc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for cUSDC (build etherscan-cusdc-39aa39c0-1786388867903, commit 03d22f1, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/cusdc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcusdc",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T19:08:09.980Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/dagr-lp",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DAGR-LP (build etherscan-dagr-lp-9fc2038b-1786250256098, commit 2cf72da, branch etherscan)",
@@ -18314,6 +18338,30 @@
       "score": 66
     },
     {
+      "name": "@jerrick/swift-markdown",
+      "version": "0.1.0",
+      "description": "SwiftUI Markdown rendering for static documents, streaming content, code blocks, diffs, tables, math, and supported HTML.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/jerrickhakim/jerrick",
+      "npmUrl": "https://www.npmjs.com/package/%40jerrick%2Fswift-markdown",
+      "category": "utilities",
+      "createdAt": "2026-08-10T19:05:34.160Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 65
+    },
+    {
+      "name": "@jerrick/workspaces",
+      "version": "0.9.21",
+      "description": "Auth, multi-tenancy, authorization, resources, billing, and lifecycle infrastructure for React and Next.js applications.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/jerrickhakim/jerrick",
+      "npmUrl": "https://www.npmjs.com/package/%40jerrick%2Fworkspaces",
+      "category": "frontend",
+      "createdAt": "2026-08-10T19:05:31.538Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 76
+    },
+    {
       "name": "@jeyabbalas/quac",
       "version": "1.0.0",
       "description": "Data quality control for tabular data — validate a dataset against a JSON Schema and QC rules, and get a styled five-sheet Excel report. Runs entirely in the browser, or headless on Node.",
@@ -20064,6 +20112,42 @@
       "createdAt": "2026-08-04T10:27:27.503Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 69
+    },
+    {
+      "name": "@linteljs/create",
+      "version": "1.1.0",
+      "description": "Scaffold a project with the lintel standard: ESLint layers, tsconfig, git hooks and agent rules.",
+      "license": "MIT",
+      "repository": "https://github.com/Faran52/linteljs",
+      "npmUrl": "https://www.npmjs.com/package/%40linteljs%2Fcreate",
+      "category": "frontend",
+      "createdAt": "2026-08-10T19:06:09.198Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 89
+    },
+    {
+      "name": "@linteljs/eslint-config",
+      "version": "1.1.0",
+      "description": "Shareable ESLint flat-config layers: one base, one per framework, composed by @linteljs/create.",
+      "license": "MIT",
+      "repository": "https://github.com/Faran52/linteljs",
+      "npmUrl": "https://www.npmjs.com/package/%40linteljs%2Feslint-config",
+      "category": "frontend",
+      "createdAt": "2026-08-10T19:05:56.332Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 88
+    },
+    {
+      "name": "@linteljs/eslint-plugin",
+      "version": "1.1.0",
+      "description": "Opinionated ESLint rules for TypeScript and React: vertical layout, import hygiene, and modern idioms.",
+      "license": "MIT",
+      "repository": "https://github.com/Faran52/linteljs",
+      "npmUrl": "https://www.npmjs.com/package/%40linteljs%2Feslint-plugin",
+      "category": "frontend",
+      "createdAt": "2026-08-10T19:05:36.388Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 85
     },
     {
       "name": "@liteasy/linter",
@@ -23246,6 +23330,18 @@
       "score": 70
     },
     {
+      "name": "@mstange/perfherder-cli",
+      "version": "0.2.0",
+      "description": "Query Firefox performance data from the command line: search signatures, detect steps, compare pushes, and attribute a regression to what landed",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/mstange/perfherder2",
+      "npmUrl": "https://www.npmjs.com/package/%40mstange%2Fperfherder-cli",
+      "category": "data",
+      "createdAt": "2026-08-10T14:06:22.613Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 59
+    },
+    {
       "name": "@mstuart/peek",
       "version": "0.1.0",
       "description": "DevTools for coding agents — historical context composition, compaction analysis, and cost attribution for Claude Code, Codex, and pi",
@@ -23364,6 +23460,18 @@
       "createdAt": "2026-08-08T05:16:34.179Z",
       "discoveredAt": "2026-08-08T05:30:36.627Z",
       "score": 80
+    },
+    {
+      "name": "@myceliumhq/tri",
+      "version": "0.1.0",
+      "description": "Agent-facing CLI for TriliumNext Notes, over its ETAPI REST API. Also ships an OpenClaw plugin and a standalone MCP server for shell-less hosts.",
+      "license": "MIT",
+      "repository": "https://github.com/myceliumhq/tri",
+      "npmUrl": "https://www.npmjs.com/package/%40myceliumhq%2Ftri",
+      "category": "backend",
+      "createdAt": "2026-08-10T19:19:04.806Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 58
     },
     {
       "name": "@myida/sdk",
@@ -30302,6 +30410,18 @@
       "score": 68
     },
     {
+      "name": "@scarlett-player/share",
+      "version": "1.5.0",
+      "description": "Share Plugin for Scarlett Player - native share sheet, copy link, timestamps and embed codes",
+      "license": "MIT",
+      "repository": "https://github.com/Hackney-Enterprises-Inc/scarlett-player",
+      "npmUrl": "https://www.npmjs.com/package/%40scarlett-player%2Fshare",
+      "category": "devops",
+      "createdAt": "2026-08-10T18:52:23.088Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 63
+    },
+    {
       "name": "@schedulifyx/sdk",
       "version": "3.1.0",
       "description": "Official JavaScript/TypeScript SDK for SchedulifyX API - Three-tier architecture: Embed, Publishing, and Full Engagement",
@@ -34358,6 +34478,18 @@
       "score": 47
     },
     {
+      "name": "@tjcages/presentation",
+      "version": "0.1.1",
+      "description": "URL-derived push/pop presentation — iOS-style page pushing on mobile, synced rails on desktop. Router-free, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/tjcages/presentation",
+      "npmUrl": "https://www.npmjs.com/package/%40tjcages%2Fpresentation",
+      "category": "frontend",
+      "createdAt": "2026-08-10T18:47:36.796Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 65
+    },
+    {
       "name": "@tm30cms/cms",
       "version": "5.7.6",
       "description": "An open source headless CMS solution to create and manage your own API. It provides a powerful dashboard and features to make your life easier. Databases supported: MySQL, MariaDB, PostgreSQL, SQLite",
@@ -35532,6 +35664,18 @@
       "createdAt": "2026-08-05T19:04:28.543Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 68
+    },
+    {
+      "name": "@vanessap-aa/backstage-plugin-argo-cd-backend",
+      "version": "4.5.1",
+      "description": "```typescript import { argocdServiceFactory } from '@roadiehq/backstage-plugin-argo-cd-backend';",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vanessap-aa/backstage-argocd-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40vanessap-aa%2Fbackstage-plugin-argo-cd-backend",
+      "category": "backend",
+      "createdAt": "2026-08-10T19:31:04.738Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 77
     },
     {
       "name": "@vansnowi/baileys",
@@ -39974,6 +40118,18 @@
       "score": 70
     },
     {
+      "name": "apuchat",
+      "version": "1.1.0",
+      "description": "Client CLI for apuchat.com — real-time chat for AI agents. End-to-end encrypted credential handoff and an SSE listener.",
+      "license": "MIT",
+      "repository": "https://github.com/opcastil11/apuchat-cli",
+      "npmUrl": "https://www.npmjs.com/package/apuchat",
+      "category": "cli",
+      "createdAt": "2026-08-04T00:32:39.974Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 75
+    },
+    {
       "name": "arabic-normalize",
       "version": "1.0.0",
       "description": "Normalisierung arabischer Schrift für den Vergleich: Vokalzeichen, koranische Marker, persische und Urdu-Buchstabenvarianten.",
@@ -44270,6 +44426,18 @@
       "score": 64
     },
     {
+      "name": "cronductor",
+      "version": "1.0.1",
+      "description": "Distributed cron scheduler for Node.js using Redis-backed locking.",
+      "license": "MIT",
+      "repository": "https://github.com/0xEbrahim/cronductor",
+      "npmUrl": "https://www.npmjs.com/package/cronductor",
+      "category": "data",
+      "createdAt": "2026-08-10T19:14:49.275Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 67
+    },
+    {
       "name": "crosscode-cli",
       "version": "0.1.0",
       "description": "Real-time codebase sync between teammates. You edit a file, their checkout updates within seconds; same-line conflicts go to your own coding agent over MCP",
@@ -46632,6 +46800,18 @@
       "createdAt": "2026-08-09T07:30:07.666Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 65
+    },
+    {
+      "name": "expo-background-refresh-status",
+      "version": "0.1.1",
+      "description": "Real iOS Background App Refresh status (UIApplication.backgroundRefreshStatus), with a change listener. Fills the gap where expo-background-task hardcodes its iOS status.",
+      "license": "MIT",
+      "repository": "https://github.com/arnautresserras/expo-background-refresh-status",
+      "npmUrl": "https://www.npmjs.com/package/expo-background-refresh-status",
+      "category": "frontend",
+      "createdAt": "2026-08-10T18:20:43.575Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 59
     },
     {
       "name": "expo-modern-table",
@@ -52262,6 +52442,18 @@
       "score": 44
     },
     {
+      "name": "m180-mcp",
+      "version": "0.1.0",
+      "description": "Local MCP adapter for the m180-jumpseat Windows automation toolkit",
+      "license": "MIT",
+      "repository": "https://github.com/BaseInfinity/m180-jumpseat",
+      "npmUrl": "https://www.npmjs.com/package/m180-mcp",
+      "category": "cli",
+      "createdAt": "2026-08-10T19:05:37.181Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 64
+    },
+    {
       "name": "macca-method",
       "version": "1.0.0",
       "description": "CLI installer for MACCA AI spec-driven development skills.",
@@ -56292,6 +56484,18 @@
       "createdAt": "2026-08-09T16:56:18.179Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 49
+    },
+    {
+      "name": "ollanet",
+      "version": "0.1.1",
+      "description": "Chat with Ollama servers on any reachable network — scan hosts, prompt models, continue chats by hash",
+      "license": "MIT",
+      "repository": "https://github.com/Catalyst-Forge-LLC/ollanet",
+      "npmUrl": "https://www.npmjs.com/package/ollanet",
+      "category": "backend",
+      "createdAt": "2026-08-10T18:46:27.010Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 66
     },
     {
       "name": "omega-security-scanner",
@@ -61178,6 +61382,18 @@
       "score": 62
     },
     {
+      "name": "react-native-keyboard-flatlist",
+      "version": "1.0.0",
+      "description": "A cross-platform React Native FlatList that supports hardware keyboard navigation (Up, Down, Left, Right, Enter) for iOS, Android, and Web.",
+      "license": "MIT",
+      "repository": "https://github.com/SammedDoshi03/react-native-keyboard-flatlist",
+      "npmUrl": "https://www.npmjs.com/package/react-native-keyboard-flatlist",
+      "category": "frontend",
+      "createdAt": "2026-08-10T19:37:45.951Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 65
+    },
+    {
       "name": "react-native-klistra-ui",
       "version": "1.0.1",
       "description": "Librairie de composants React Native avec thème light / dark",
@@ -63578,6 +63794,18 @@
       "score": 54
     },
     {
+      "name": "shimwire",
+      "version": "0.1.0",
+      "description": "OpenAPI-driven mock server and git-friendly HTTP test runner",
+      "license": "MIT",
+      "repository": "https://github.com/caspel26/shimwire",
+      "npmUrl": "https://www.npmjs.com/package/shimwire",
+      "category": "testing",
+      "createdAt": "2026-08-10T18:52:04.115Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 70
+    },
+    {
       "name": "shinro",
       "version": "0.0.1",
       "description": "Opinionated file-based routing for Hono with end-to-end type safety.",
@@ -64034,6 +64262,18 @@
       "score": 77
     },
     {
+      "name": "skilltruck",
+      "version": "0.2.1",
+      "description": "Ship, install, update, and synchronize Agent Skills across coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/wangyendt/skilltruck",
+      "npmUrl": "https://www.npmjs.com/package/skilltruck",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:49:11.840Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 71
+    },
+    {
       "name": "skillweft",
       "version": "0.2.0",
       "description": "Keep large agent capability libraries hidden and expose only the working set you need.",
@@ -64056,6 +64296,18 @@
       "createdAt": "2026-08-09T10:34:18.248Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 76
+    },
+    {
+      "name": "slack-stdio-mcp",
+      "version": "1.0.0",
+      "description": "Agent-agnostic MCP stdio bridge to https://mcp.slack.com/mcp (user OAuth, PKCE, token refresh, tool proxy)",
+      "license": "MIT",
+      "repository": "https://github.com/epdlr/slack-stdio-mcp",
+      "npmUrl": "https://www.npmjs.com/package/slack-stdio-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T18:59:00.525Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 77
     },
     {
       "name": "slack-to-buzz-bridge",
@@ -67478,6 +67730,18 @@
       "score": 90
     },
     {
+      "name": "uyduruk",
+      "version": "0.1.0",
+      "description": "Turkish mock data generator — Türkçe sahte veri üretici",
+      "license": "MIT",
+      "repository": "https://github.com/denizayhan04/uyduruk",
+      "npmUrl": "https://www.npmjs.com/package/uyduruk",
+      "category": "testing",
+      "createdAt": "2026-08-10T19:37:02.813Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 75
+    },
+    {
       "name": "valida-cnpj-alfanumerico",
       "version": "1.0.0",
       "description": "Validação, formatação e geração de CNPJ alfanumérico (e numérico) conforme a IN RFB nº 2.229/2024 — algoritmo oficial da Receita Federal, zero dependências, funciona em Node.js e navegador.",
@@ -67596,6 +67860,18 @@
       "createdAt": "2026-07-26T09:38:20.446Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 76
+    },
+    {
+      "name": "veloctl",
+      "version": "0.1.0",
+      "description": "AI-Assisted Monorepo & Dev-Environment Orchestrator",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/MahmoudGhoraba/veloctl",
+      "npmUrl": "https://www.npmjs.com/package/veloctl",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T19:22:42.711Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 73
     },
     {
       "name": "velsgenerate",
@@ -69050,6 +69326,18 @@
       "score": 64
     },
     {
+      "name": "wisspop",
+      "version": "0.1.0",
+      "description": "Modales y dropdowns con animaciones ancladas al origen: el panel nace del elemento que lo abrió",
+      "license": "MIT",
+      "repository": "https://github.com/EJCP3/wisspop",
+      "npmUrl": "https://www.npmjs.com/package/wisspop",
+      "category": "frontend",
+      "createdAt": "2026-08-10T19:17:49.500Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 70
+    },
+    {
       "name": "with-simple-mutex",
       "version": "0.1.1",
       "description": "A simple distributed mutex over any conditional-write cache — choose your isolation tier by choice of cache",
@@ -69720,6 +70008,18 @@
       "createdAt": "2026-08-08T12:27:13.559Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 59
+    },
+    {
+      "name": "zoho-sprints-mcp-fork",
+      "version": "1.0.2",
+      "description": "Fork of zoho-sprints-mcp with critical fixes: timesheet endpoints, pick() falsy bug, auth handler, edit_comment, subitem/attachment operations, and response summarization.",
+      "license": "MIT",
+      "repository": "https://github.com/CodeCraftsman-Jr/zoho-sprints-mcp",
+      "npmUrl": "https://www.npmjs.com/package/zoho-sprints-mcp-fork",
+      "category": "utilities",
+      "createdAt": "2026-08-10T18:52:32.310Z",
+      "discoveredAt": "2026-08-10T19:43:01.816Z",
+      "score": 95
     },
     {
       "name": "zynlepay-node",
