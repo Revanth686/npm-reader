@@ -1,31 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124207885,
-  "lastRunAt": "2026-08-10T14:07:59.540Z",
+  "lastSequence": 124217876,
+  "lastRunAt": "2026-08-10T15:13:18.023Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@anurag_pandey/mern-app-cli",
+      "name": "@nossen/cf",
       "attempts": 1
     },
     {
-      "name": "@helion-energy-solution-dev/ui",
+      "name": "@nossen/hetzner",
       "attempts": 1
     },
     {
-      "name": "@mstange/perfherder-cli",
+      "name": "@nossen/zen-gate",
       "attempts": 1
     },
     {
-      "name": "@popcomputer/document-graph",
-      "attempts": 1
-    },
-    {
-      "name": "@ptzburn/shadcn-solidjs",
-      "attempts": 1
-    },
-    {
-      "name": "@ctrl-arcz/sdk",
+      "name": "@artemonus/agent-sdk",
       "attempts": 1
     }
   ]

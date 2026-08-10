@@ -7154,6 +7154,18 @@
       "score": 71
     },
     {
+      "name": "@ctrl-arcz/sdk",
+      "version": "0.1.0",
+      "description": "Ctrl+ArcZ SDK — protected USDC transfers on Arc: pre-send risk firewall, code-gated claim, sender cancel, automatic refund",
+      "license": "MIT",
+      "repository": "https://github.com/Farukest/Ctrl-ArcZ",
+      "npmUrl": "https://www.npmjs.com/package/%40ctrl-arcz%2Fsdk",
+      "category": "devops",
+      "createdAt": "2026-08-10T14:07:53.922Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 74
+    },
+    {
       "name": "@curatelabs/graphforge-agent-skills",
       "version": "0.5.1",
       "description": "NPX-distributed agent skills and adapters for GraphForge",
@@ -9830,6 +9842,54 @@
       "score": 81
     },
     {
+      "name": "@eltonssouz/pi-agent-core",
+      "version": "0.83.0",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40eltonssouz%2Fpi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-10T14:23:29.434Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 69
+    },
+    {
+      "name": "@eltonssouz/pi-ai",
+      "version": "0.83.0",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40eltonssouz%2Fpi-ai",
+      "category": "backend",
+      "createdAt": "2026-08-10T14:22:40.261Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 73
+    },
+    {
+      "name": "@eltonssouz/pi-coding-agent",
+      "version": "0.83.0",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40eltonssouz%2Fpi-coding-agent",
+      "category": "cli",
+      "createdAt": "2026-08-10T14:19:21.604Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 69
+    },
+    {
+      "name": "@eltonssouz/pi-tui",
+      "version": "0.83.0",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40eltonssouz%2Fpi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T14:23:14.345Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 73
+    },
+    {
       "name": "@elyracode/browser-tools",
       "version": "0.9.27",
       "description": "Browser automation for Elyra via Playwright - the agent navigates, clicks, fills, and verifies behavior, with token-cheap accessibility snapshots and screenshots",
@@ -9876,6 +9936,18 @@
       "createdAt": "2026-08-03T05:21:48.697Z",
       "discoveredAt": "2026-08-03T05:50:48.787Z",
       "score": 85
+    },
+    {
+      "name": "@engine-room/after-effects-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that lets an AI agent drive Adobe After Effects — comps, layers, keyframes, expressions, effects, text, shapes, masks and screenshots.",
+      "license": "MIT",
+      "repository": "https://github.com/Engine-Room-Games/after-effects-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40engine-room%2Fafter-effects-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T14:22:35.329Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 72
     },
     {
       "name": "@enochmk/eda-client",
@@ -19718,6 +19790,18 @@
       "score": 81
     },
     {
+      "name": "@lilohuang/zeroperl-ts",
+      "version": "1.0.11",
+      "description": "Perl 5 interpreter powered by WebAssembly for JavaScript runtimes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lilohuang/zeroperl-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40lilohuang%2Fzeroperl-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-10T14:38:49.982Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 86
+    },
+    {
       "name": "@liminal-screen/api",
       "version": "0.2.0",
       "description": "IPC bridge for Liminal Screen remote options pages. Works as npm package or CDN script.",
@@ -20306,6 +20390,18 @@
       "score": 80
     },
     {
+      "name": "@maccing/growth",
+      "version": "0.1.0",
+      "description": "Campaign measurement for Bun. Point it at your database or a directory of exports, declare the groups you sent to, and get one record per group out. Every ambiguity throws; nothing degrades to zero.",
+      "license": "MIT",
+      "repository": "https://github.com/andredezzy/maccing",
+      "npmUrl": "https://www.npmjs.com/package/%40maccing%2Fgrowth",
+      "category": "testing",
+      "createdAt": "2026-08-10T14:20:10.943Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 87
+    },
+    {
       "name": "@madebyclowd/taiga-mcp-server",
       "version": "0.1.0",
       "description": "MCP server for Taiga (Cloud and self-hosted) — projects, epics, user stories, tasks, issues, sprints, wiki, and more.",
@@ -20532,6 +20628,18 @@
       "createdAt": "2026-08-01T10:47:26.719Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 88
+    },
+    {
+      "name": "@manggala31/react-dashboard-grid",
+      "version": "1.0.0",
+      "description": "Production-ready, customizable drag-and-drop dashboard grid component for React, Inertia.js, and Next.js applications.",
+      "license": "MIT",
+      "repository": "https://github.com/IlhamHattaManggala/react-dashboard-grid",
+      "npmUrl": "https://www.npmjs.com/package/%40manggala31%2Freact-dashboard-grid",
+      "category": "frontend",
+      "createdAt": "2026-08-10T15:03:40.137Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 68
     },
     {
       "name": "@manggala31/react-datatable",
@@ -26558,6 +26666,18 @@
       "score": 87
     },
     {
+      "name": "@pose-tracker/react-native-pose-estimation",
+      "version": "0.1.2",
+      "description": "Human pose estimation SDK for React Native — fully optimized for iOS & Android (Expo Go). Bundled MoveNet Lightning, free offline keypoints, optional API-key exercise engine (reps, form score, jumps).",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Movelytics/react-native-pose-estimation",
+      "npmUrl": "https://www.npmjs.com/package/%40pose-tracker%2Freact-native-pose-estimation",
+      "category": "frontend",
+      "createdAt": "2026-08-10T14:44:17.089Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 69
+    },
+    {
       "name": "@pouriahlabs/baton",
       "version": "1.0.0",
       "description": "Two AI agent seats in one window: one builds, one reviews.",
@@ -28838,6 +28958,18 @@
       "score": 44
     },
     {
+      "name": "@roackb2/heddle-adopter",
+      "version": "5.12.0",
+      "description": "Backend contracts, execution authority, MCP verification, and clients for Heddle Execution Host adopters",
+      "license": "MIT",
+      "repository": "https://github.com/roackb2/heddle",
+      "npmUrl": "https://www.npmjs.com/package/%40roackb2%2Fheddle-adopter",
+      "category": "backend",
+      "createdAt": "2026-08-10T10:22:32.024Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 70
+    },
+    {
       "name": "@roamsocket/server",
       "version": "0.2.0",
       "description": "RoamSocket desktop companion: headless WebSocket coding server that pairs with the iOS app, clones repos, runs the agent loop, and opens PRs.",
@@ -30324,6 +30456,18 @@
       "createdAt": "2026-07-29T19:20:47.110Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 83
+    },
+    {
+      "name": "@shbernal/typography",
+      "version": "0.1.1",
+      "description": "Orthotypography rules for French, Spanish and German as data: check text against a national standard, or fix the subset that is safe to fix unattended.",
+      "license": "MIT",
+      "repository": "https://github.com/shbernal/typography",
+      "npmUrl": "https://www.npmjs.com/package/%40shbernal%2Ftypography",
+      "category": "data",
+      "createdAt": "2026-08-10T14:22:50.825Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 85
     },
     {
       "name": "@sherlock1982/ng-idle-core",
@@ -36830,6 +36974,18 @@
       "score": 69
     },
     {
+      "name": "@yibei-wz/agent-review",
+      "version": "0.1.0",
+      "description": "Local-first, auditable code review system for coding agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/yibei-wz/agent-review",
+      "npmUrl": "https://www.npmjs.com/package/%40yibei-wz%2Fagent-review",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T14:36:01.675Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 68
+    },
+    {
       "name": "@yishan-io/pi-lsp",
       "version": "0.1.0",
       "description": "Pi extension exposing configurable, language-agnostic LSP diagnostics and source-fix tools.",
@@ -36924,6 +37080,18 @@
       "createdAt": "2026-07-27T18:44:10.162Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 71
+    },
+    {
+      "name": "@yroshcha/node-red-contrib-redis-full",
+      "version": "1.0.2",
+      "description": "Production-oriented Redis palette for Node-RED: generic commands, Pub/Sub, scans, transactions, and Redis Streams consumer groups.",
+      "license": "MIT",
+      "repository": "https://github.com/yroshcha/node-red-contrib-redis-full",
+      "npmUrl": "https://www.npmjs.com/package/%40yroshcha%2Fnode-red-contrib-redis-full",
+      "category": "data",
+      "createdAt": "2026-08-10T14:34:17.147Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 87
     },
     {
       "name": "@ysaere/sdk",
@@ -38568,6 +38736,18 @@
       "createdAt": "2026-08-05T10:17:41.687Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 77
+    },
+    {
+      "name": "ai-ruleset",
+      "version": "0.0.1",
+      "description": "Resolve nested rules from runtime context, like a decision tree",
+      "license": "MIT",
+      "repository": "https://github.com/zirkelc/ai-ruleset",
+      "npmUrl": "https://www.npmjs.com/package/ai-ruleset",
+      "category": "devops",
+      "createdAt": "2026-08-10T14:27:40.317Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 76
     },
     {
       "name": "ai-sdk-persistence",
@@ -43008,6 +43188,18 @@
       "createdAt": "2026-07-28T22:41:29.298Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 69
+    },
+    {
+      "name": "cool-cute-react-time-picker",
+      "version": "1.0.0",
+      "description": "A beautiful, themed analog React time picker with cute built-in styles, TypeScript support, and a clean customizable API.",
+      "license": "MIT",
+      "repository": "https://github.com/bettyhabtesh/cool-cute-react-time-picker",
+      "npmUrl": "https://www.npmjs.com/package/cool-cute-react-time-picker",
+      "category": "frontend",
+      "createdAt": "2026-08-10T15:11:25.167Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 82
     },
     {
       "name": "cool-nwc",
@@ -48206,6 +48398,18 @@
       "score": 89
     },
     {
+      "name": "heimdall-node-trace",
+      "version": "2.0.0",
+      "description": "Node.js log agent for the Heimdall API Platform — ships application logs to a gateway's ingestion endpoint, correlated to gateway request events by x-request-id and routed per gateway by x-heimdall-gateway-id.",
+      "license": "MIT",
+      "repository": "https://github.com/protonss4fun/heimdall-agents",
+      "npmUrl": "https://www.npmjs.com/package/heimdall-node-trace",
+      "category": "backend",
+      "createdAt": "2026-08-10T15:04:29.742Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 98
+    },
+    {
       "name": "heisentest",
       "version": "0.1.1",
       "description": "Find the database race conditions your tests can't reproduce. Heisentest explores the interleavings of concurrent transactions against a real Postgres, reports the exact schedule that breaks your invariants, and replays it deterministically.",
@@ -48660,6 +48864,18 @@
       "createdAt": "2026-08-03T20:02:17.001Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 83
+    },
+    {
+      "name": "housecall-pro-mcp",
+      "version": "1.15.1",
+      "description": "MCP server for the Housecall Pro API - connect Claude, ChatGPT, Cursor, or any MCP-compatible AI agent to your Housecall Pro account. Needs a Housecall Pro API key, which is a MAX-plan feature. Independent; not affiliated with Housecall Pro.",
+      "license": "MIT",
+      "repository": "https://github.com/hcpapi/housecall-pro-mcp",
+      "npmUrl": "https://www.npmjs.com/package/housecall-pro-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T14:31:41.161Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 100
     },
     {
       "name": "how-many-days",
@@ -49658,6 +49874,18 @@
       "score": 75
     },
     {
+      "name": "itaiji-normalize",
+      "version": "0.1.0",
+      "description": "Grounded itaiji (kanji variant) normalization, equivalence, and matching-key generation using IPA's MJ Shrink Map",
+      "license": "MIT",
+      "repository": "https://github.com/tomatomerde/itaiji-normalize",
+      "npmUrl": "https://www.npmjs.com/package/itaiji-normalize",
+      "category": "data",
+      "createdAt": "2026-08-10T14:54:11.079Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 77
+    },
+    {
       "name": "iterola",
       "version": "1.1.0",
       "description": "Iterola CLI — manage clients, services, and appointments of your business from the terminal",
@@ -49716,6 +49944,18 @@
       "createdAt": "2026-07-28T05:03:36.170Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 74
+    },
+    {
+      "name": "japan-calendar",
+      "version": "0.1.0",
+      "description": "Zero-dependency TypeScript library for Japanese holidays, business days, and wareki (era) date conversion",
+      "license": "MIT",
+      "repository": "https://github.com/tomatomerde/japan-calendar",
+      "npmUrl": "https://www.npmjs.com/package/japan-calendar",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T14:54:17.893Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 80
     },
     {
       "name": "japan-region-selector",
@@ -50172,6 +50412,18 @@
       "createdAt": "2026-07-26T06:29:39.284Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 69
+    },
+    {
+      "name": "kelvia-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for Kelvia: boards, tasks, worklogs, stages, roles, and day planning for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/gonnagetapower/kelvia-mcp",
+      "npmUrl": "https://www.npmjs.com/package/kelvia-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T14:40:03.099Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 87
     },
     {
       "name": "kenkage-mcp",
@@ -51098,6 +51350,18 @@
       "score": 79
     },
     {
+      "name": "local-env-switch",
+      "version": "1.0.0",
+      "description": "Generic Infisical-backed local .env switcher (CLI + programmatic API)",
+      "license": "MIT",
+      "repository": "https://github.com/ByteFluffy/local-env-switch",
+      "npmUrl": "https://www.npmjs.com/package/local-env-switch",
+      "category": "backend",
+      "createdAt": "2026-08-10T14:25:16.113Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 74
+    },
+    {
       "name": "local-model-workers-mcp",
       "version": "2.0.0",
       "description": "Local Model Workers MCP server for bounded repository exploration, code graph queries, type/lint fixes, and test proposals delegated to local LLMs (LM Studio, Ollama, vLLM, LocalAI).",
@@ -51192,6 +51456,18 @@
       "createdAt": "2026-07-29T10:02:59.858Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 93
+    },
+    {
+      "name": "logicspec",
+      "version": "0.5.1",
+      "description": "A small YAML DSL for describing application feature logic — validate it, visualize it with Mermaid, and use it as a behavioral source of truth for humans and AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/shynfard/LogicSpec",
+      "npmUrl": "https://www.npmjs.com/package/logicspec",
+      "category": "devops",
+      "createdAt": "2026-08-10T14:14:09.826Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 85
     },
     {
       "name": "lolzteam-api-ts",
@@ -58970,6 +59246,18 @@
       "score": 78
     },
     {
+      "name": "process-leash",
+      "version": "0.1.0",
+      "description": "Run a command under wall-clock, memory, and CPU limits with process-tree cleanup and incident reports",
+      "license": "MIT",
+      "repository": "https://github.com/seoulpro/process-leash",
+      "npmUrl": "https://www.npmjs.com/package/process-leash",
+      "category": "testing",
+      "createdAt": "2026-08-10T14:44:20.140Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
+      "score": 70
+    },
+    {
       "name": "prodreq",
       "version": "0.1.0",
       "description": "Product Requirement MCP server — structured requirement-gathering with experts and reviewers, driven entirely from your own MCP client. No server-side LLMs.",
@@ -64319,6 +64607,18 @@
       "category": "cli",
       "createdAt": "2026-08-10T09:45:17.967Z",
       "discoveredAt": "2026-08-10T11:00:03.173Z",
+      "score": 73
+    },
+    {
+      "name": "syzzz-code",
+      "version": "1.0.0",
+      "description": "Syzzz Code - AI Programming Assistant",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/syz0528/Syzzz-Code",
+      "npmUrl": "https://www.npmjs.com/package/syzzz-code",
+      "category": "cli",
+      "createdAt": "2026-08-10T14:35:29.723Z",
+      "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 73
     },
     {
