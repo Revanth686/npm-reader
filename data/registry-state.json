@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124156734,
-  "lastRunAt": "2026-08-10T09:09:27.680Z",
+  "lastSequence": 124174865,
+  "lastRunAt": "2026-08-10T11:00:03.173Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@ruvyxa/testing",
+      "attempts": 1
+    },
+    {
+      "name": "@cmx1996/ai-frontend-standard",
+      "attempts": 1
+    },
+    {
+      "name": "@getstrata/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@dugble/sdk",
+      "attempts": 1
+    }
+  ]
 }
