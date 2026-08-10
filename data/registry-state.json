@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124275373,
-  "lastRunAt": "2026-08-10T21:22:02.347Z",
+  "lastSequence": 124283240,
+  "lastRunAt": "2026-08-10T22:28:01.795Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@sudobility/webgraph_parser",
+      "name": "@amsterdamdatalabs/enactrs-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@playoffthecuff/smoothed-utils",
+      "name": "@amsterdamdatalabs/enactrs-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@jalali-js/holidays",
+      "name": "@amsterdamdatalabs/enactrs-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@amsterdamdatalabs/enactrs",
+      "attempts": 1
+    },
+    {
+      "name": "@deitum/docxtemplates",
       "attempts": 1
     }
   ]
