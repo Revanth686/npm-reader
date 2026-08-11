@@ -1,12 +1,64 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124461527,
-  "lastRunAt": "2026-08-11T18:50:57.847Z",
+  "lastSequence": 124469459,
+  "lastRunAt": "2026-08-11T19:50:21.290Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@michalosadowski/jira-mcp",
-      "attempts": 7
+      "name": "@governancer-foundation/conformance-attestation",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/auth",
+      "attempts": 1
+    },
+    {
+      "name": "@minex-labs/lore",
+      "attempts": 1
+    },
+    {
+      "name": "@oge-ui/kanban",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/data-tables",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/drive-google",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/drive-local",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/editor",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/editor-storage",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/inline",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/query",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/storage",
+      "attempts": 1
+    },
+    {
+      "name": "@tulip-systems/ui",
+      "attempts": 1
+    },
+    {
+      "name": "@moltzap/simulator",
+      "attempts": 1
     }
   ]
 }

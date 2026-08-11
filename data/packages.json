@@ -12830,6 +12830,30 @@
       "score": 49
     },
     {
+      "name": "@georapbox/theme-switcher",
+      "version": "1.0.0",
+      "description": "A custom element for switching between light, dark, and system color themes.",
+      "license": "MIT",
+      "repository": "https://github.com/georapbox/theme-switcher",
+      "npmUrl": "https://www.npmjs.com/package/%40georapbox%2Ftheme-switcher",
+      "category": "utilities",
+      "createdAt": "2026-08-11T19:05:07.981Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 75
+    },
+    {
+      "name": "@georapbox/theme-toggle",
+      "version": "1.0.0",
+      "description": "A custom element for toggling between light and dark color themes while following the system preference by default.",
+      "license": "MIT",
+      "repository": "https://github.com/georapbox/theme-toggle",
+      "npmUrl": "https://www.npmjs.com/package/%40georapbox%2Ftheme-toggle",
+      "category": "utilities",
+      "createdAt": "2026-08-11T19:00:04.015Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 74
+    },
+    {
       "name": "@george43g/cli-kit",
       "version": "0.1.0",
       "description": "Commander helpers + TTY/color/output utilities + env↔flag binder + interactive REPL. Building blocks for the `example-repo-cli` bin in any tool cloned from the starter.",
@@ -17016,6 +17040,18 @@
       "createdAt": "2026-07-28T12:00:48.922Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 74
+    },
+    {
+      "name": "@hank-warren/pi-auto-permissions",
+      "version": "0.1.1",
+      "description": "Fork of @ogulcancelik/pi-auto-permissions with dialog-answer user evidence: context-aware Bash permissions for Pi with automated guardian review.",
+      "license": "MIT",
+      "repository": "https://github.com/hank-warren/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40hank-warren%2Fpi-auto-permissions",
+      "category": "utilities",
+      "createdAt": "2026-08-06T18:42:15.701Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 76
     },
     {
       "name": "@hanoak/pexels-mcp-server",
@@ -24420,6 +24456,30 @@
       "createdAt": "2026-07-30T03:56:34.910Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 93
+    },
+    {
+      "name": "@modracx/slider-js",
+      "version": "1.0.0",
+      "description": "Lightweight content carousel / slider for web pages — loop, autoplay, swipe, arrows, dots, multiple slides per view, RTL and reduced-motion aware. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Modracx/slider-js",
+      "npmUrl": "https://www.npmjs.com/package/%40modracx%2Fslider-js",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:54:15.623Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 96
+    },
+    {
+      "name": "@modracx/tooltip-js",
+      "version": "1.0.0",
+      "description": "Lightweight tooltips and popovers for web pages — 12 placements with flip and shift collision handling, hover/focus/click/manual triggers, interactive popovers, delegation and full ARIA wiring. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Modracx/tooltip-js",
+      "npmUrl": "https://www.npmjs.com/package/%40modracx%2Ftooltip-js",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:53:51.752Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
     },
     {
       "name": "@modyra/plain",
@@ -34370,6 +34430,18 @@
       "score": 75
     },
     {
+      "name": "@sitegpt/convex",
+      "version": "0.1.0",
+      "description": "Convex component for SiteGPT: ask your AI support chatbot from Convex functions and keep its knowledge base transactionally in sync with your Convex tables.",
+      "license": "MIT",
+      "repository": "https://github.com/sitegpt/convex-component",
+      "npmUrl": "https://www.npmjs.com/package/%40sitegpt%2Fconvex",
+      "category": "utilities",
+      "createdAt": "2026-08-11T19:25:13.813Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 75
+    },
+    {
       "name": "@sitharaj88/macctl",
       "version": "0.1.0",
       "description": "macOS desktop-automation MCP server — accessibility-tree-first control of windows, input, screen capture, and the system, exposed over the Model Context Protocol.",
@@ -41220,6 +41292,126 @@
       "createdAt": "2026-08-09T00:09:13.524Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 86
+    },
+    {
+      "name": "@zakkster/lite-di-cron",
+      "version": "1.0.0",
+      "description": "Wall-clock task scheduler over an @zakkster/lite-di-container topology: DI-constructed jobs registered as boot-locked per-id singletons, fired by index on an interval / every / cron-expr schedule. Zero allocation on the synchronous, non-promise tick path.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-cron",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-cron",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T20:38:33.878Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-event-bus",
+      "version": "1.0.0",
+      "description": "DI-constructed static event handlers under a boot-locked multi topology, dispatched by index over a shared buffer. Zero allocation on the synchronous emit path.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-event-bus",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-event-bus",
+      "category": "build-tools",
+      "createdAt": "2026-08-09T21:10:06.503Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 92
+    },
+    {
+      "name": "@zakkster/lite-di-graph",
+      "version": "1.0.0",
+      "description": "Read-only formatters/exporters over a lite-di-container describe() snapshot: JSON, Graphviz DOT, and Chrome Trace Event Format. Pure over the snapshot, fail-closed on a malformed shape.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-graph",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-graph",
+      "category": "data",
+      "createdAt": "2026-08-09T20:40:00.881Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 98
+    },
+    {
+      "name": "@zakkster/lite-di-health",
+      "version": "1.0.0",
+      "description": "Fail-closed readiness/liveness aggregator: composes plain health probes (and any object exposing check()) into one verdict, with a 0-allocation readyz()/livez() poll and a drain() latch for graceful shutdown. Pairs with @zakkster/lite-di-supervisor but ne",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-health",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-health",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T05:27:25.734Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-lock",
+      "version": "1.0.0",
+      "description": "DI-scoped lock lifecycle over a pluggable store: positive-whitelist acquire, fail-closed fencing token, RAII release via a child scope, and a heartbeat lease. Zero deps; ships an in-process store and a validated Store Adapter interface.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-lock",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-lock",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T17:13:50.518Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-orchestrator",
+      "version": "1.0.0",
+      "description": "Graceful-shutdown process-lifecycle capstone for a lite-di service kernel: catch SIGTERM, drain readiness, run an ordered teardown across health + supervisor + container, enforce a hard deadline, and exit with a diagnostic code. Zero deps; opt-in, reversi",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-orchestrator",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-orchestrator",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T08:20:11.807Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-signal",
+      "version": "1.0.0",
+      "description": "A fail-closed, zero-GC reactive bridge for @zakkster/lite-di-container: every container SCOPE gets its own isolated lite-signal Registry, wired into reverse-topological teardown so scope.shutdown() deterministically destroys it. Declarative factories regi",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-signal",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-signal",
+      "category": "frontend",
+      "createdAt": "2026-08-10T21:07:51.060Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-strategies",
+      "version": "1.0.0",
+      "description": "A fail-closed, zero-GC strategy router over a booted DI container: a gate maps an input to a declared key, the key resolves to a construction-frozen token, and select()/resolve() add no allocation and no catch. Read-only by construction -- it never mutate",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-strategies",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-strategies",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T19:19:31.702Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-supervisor",
+      "version": "1.0.0",
+      "description": "OTP-style supervision tree over a @zakkster/lite-di-container topology: declared children restarted on fault by one-for-one / one-for-all / rest-for-one strategy via the container's invalidate/rebind primitives, with a restart-intensity budget that escala",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-supervisor",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-supervisor",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T04:08:13.845Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
+      "name": "@zakkster/lite-di-ticker",
+      "version": "1.0.0",
+      "description": "Static, DI-wired system ticker for @zakkster/lite-raf: systems registered as boot-locked per-lane container multi-bindings, resolved once at start and driven by index across pre/normal/post lanes. The synchronous tick(dt, time) frame path allocates 0 byte",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-di-ticker",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-di-ticker",
+      "category": "data",
+      "createdAt": "2026-08-09T22:53:23.011Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
     },
     {
       "name": "@zakkster/lite-overlap",
@@ -49082,6 +49274,18 @@
       "score": 90
     },
     {
+      "name": "desktop-destroyer",
+      "version": "0.4.0",
+      "description": "A framework-neutral web toy that lets visitors smash, burn, freeze, and physically demolish any page.",
+      "license": "MIT",
+      "repository": "https://github.com/ParthJadhav/desktop-destroyer",
+      "npmUrl": "https://www.npmjs.com/package/desktop-destroyer",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:50:58.829Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 80
+    },
+    {
       "name": "desktop-location-sdk",
       "version": "1.0.0",
       "description": "跨平台桌面端精准定位 SDK — macOS / Windows / Linux，WGS84/GCJ02 坐标，GPS 级精度",
@@ -54398,6 +54602,18 @@
       "score": 72
     },
     {
+      "name": "infraweaver-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for Infraweaver Cloud — read a repo's Terraform findings, health score, compliance evidence and crosswalk from Claude Code, Cursor or Windsurf.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/infraweaver-io/infraweaver-mcp",
+      "npmUrl": "https://www.npmjs.com/package/infraweaver-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T19:03:41.092Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 81
+    },
+    {
       "name": "infterrain",
       "version": "1.0.0",
       "description": "Procedural, infinitely-streaming terrain for Babylon.js — chunked heightmap terrain with splat-mapped materials, fogged water, and forest scattering.",
@@ -54420,6 +54636,18 @@
       "createdAt": "2026-07-28T11:12:21.156Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 81
+    },
+    {
+      "name": "ingotvault",
+      "version": "0.1.0",
+      "description": "IngotVault — spare remotes for a workspace of Git repos: push all local branches and tags to bare mirrors on a drive you control. Never touches origin.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Catalyst-Forge-LLC/ingotvault",
+      "npmUrl": "https://www.npmjs.com/package/ingotvault",
+      "category": "utilities",
+      "createdAt": "2026-08-11T13:00:28.508Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 79
     },
     {
       "name": "inklate",
@@ -59138,6 +59366,18 @@
       "score": 59
     },
     {
+      "name": "n8n-nodes-easy-orders",
+      "version": "1.0.0",
+      "description": "n8n community node for the EasyOrders (إيزي أوردر) Public API — manage Products, Categories, Orders, and Shipping, and receive Order webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/autoverse/n8n-nodes-easy-orders",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-easy-orders",
+      "category": "backend",
+      "createdAt": "2026-08-11T19:12:47.021Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 78
+    },
+    {
       "name": "n8n-nodes-eboo-ocr",
       "version": "1.0.1",
       "description": "Custom n8n node for Eboo OCR and Audio Transcription API",
@@ -61356,6 +61596,18 @@
       "createdAt": "2026-08-10T20:37:41.790Z",
       "discoveredAt": "2026-08-10T21:22:02.347Z",
       "score": 68
+    },
+    {
+      "name": "online-chess-api",
+      "version": "0.1.1",
+      "description": "Unified TypeScript wrapper for the Lichess and Chess.com public APIs: one data model for users, ratings, stats, games, time controls and speeds.",
+      "license": "MIT",
+      "repository": "https://github.com/Bot-Rakshit/online-chess-api",
+      "npmUrl": "https://www.npmjs.com/package/online-chess-api",
+      "category": "backend",
+      "createdAt": "2026-08-11T19:13:42.859Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 82
     },
     {
       "name": "onlyfiles",
@@ -64454,6 +64706,18 @@
       "score": 95
     },
     {
+      "name": "playwright-flaky-analyzer",
+      "version": "1.0.0",
+      "description": "Analyze Playwright test reports across multiple runs to detect flaky tests, track flaky-test and retry trends over time, and enforce a CI quality gate — deterministic, offline, no AI required. Generates interactive HTML dashboards, JSON, and Markdown repo",
+      "license": "MIT",
+      "repository": "https://github.com/shivani26singh/playwright-flaky-analyzer",
+      "npmUrl": "https://www.npmjs.com/package/playwright-flaky-analyzer",
+      "category": "testing",
+      "createdAt": "2026-08-11T19:13:01.011Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 100
+    },
+    {
       "name": "playwright-flow-recorder",
       "version": "1.0.1",
       "description": "Record a browser walkthrough as a semantic event stream (JSONL) — multiple candidate selectors, recorded assertions, and intent notes — then let an AI agent convert it into tests that reuse your existing step library.",
@@ -65664,6 +65928,18 @@
       "createdAt": "2026-08-06T14:35:15.508Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 77
+    },
+    {
+      "name": "ragekit",
+      "version": "0.5.0",
+      "description": "A framework-neutral web toy that lets visitors smash, burn, freeze, and physically demolish any page.",
+      "license": "MIT",
+      "repository": "https://github.com/ParthJadhav/ragekit",
+      "npmUrl": "https://www.npmjs.com/package/ragekit",
+      "category": "frontend",
+      "createdAt": "2026-08-11T19:24:24.479Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 80
     },
     {
       "name": "ragproof",
@@ -67476,6 +67752,18 @@
       "createdAt": "2026-07-29T07:59:00.256Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 90
+    },
+    {
+      "name": "rmq-cli",
+      "version": "2.0.0",
+      "description": "A full-screen terminal browser for RabbitMQ, built with Ink",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/joaoseidel/rmq-cli",
+      "npmUrl": "https://www.npmjs.com/package/rmq-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-11T19:45:33.254Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 79
     },
     {
       "name": "rn-af-identity-ocr",
@@ -72360,6 +72648,18 @@
       "createdAt": "2026-07-29T21:48:57.274Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 62
+    },
+    {
+      "name": "tuxevil-rotator",
+      "version": "3.0.0",
+      "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, real-time quota tracking, and infringement detection (Google Antigravity, Ollama Cloud)",
+      "license": "MIT",
+      "repository": "https://github.com/tuxevil/tuxevil-rotator",
+      "npmUrl": "https://www.npmjs.com/package/tuxevil-rotator",
+      "category": "devops",
+      "createdAt": "2026-08-11T19:23:09.020Z",
+      "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 93
     },
     {
       "name": "tw-server",
