@@ -2366,6 +2366,18 @@
       "score": 58
     },
     {
+      "name": "@andershoffmann/obsidian-axi",
+      "version": "0.2.0",
+      "description": "Agent ergonomic CLI for Obsidian vaults - read, search, write, and link notes straight from the filesystem.",
+      "license": "MIT",
+      "repository": "https://github.com/AndersHoffmann/obsidian-axi",
+      "npmUrl": "https://www.npmjs.com/package/%40andershoffmann%2Fobsidian-axi",
+      "category": "cli",
+      "createdAt": "2026-08-11T13:26:09.050Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 67
+    },
+    {
       "name": "@andreasnicolaou/typewriter-ts",
       "version": "1.0.0",
       "description": "A tiny, dependency-free TypeScript typewriter for browsers and Node.",
@@ -3120,6 +3132,18 @@
       "createdAt": "2026-08-01T19:31:51.717Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 55
+    },
+    {
+      "name": "@ars-infinita-notion/system-skills",
+      "version": "1.3.3",
+      "description": "The System (Player Edition) skills, built for the OpenAI Codex CLI and the Antigravity CLI (agy). Ships prebuilt — install with `npx @ars-infinita-notion/system-skills install-codex`. Claude Code users should install the native plugin from the marketplace",
+      "license": "MIT",
+      "repository": "https://github.com/TechSecWhisperer/ars-infinita-notion",
+      "npmUrl": "https://www.npmjs.com/package/%40ars-infinita-notion%2Fsystem-skills",
+      "category": "cli",
+      "createdAt": "2026-08-11T13:17:28.334Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 93
     },
     {
       "name": "@art-ws/teamai",
@@ -4488,6 +4512,18 @@
       "createdAt": "2026-08-02T14:46:19.591Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 96
+    },
+    {
+      "name": "@bendyline/gezel-app-sdk",
+      "version": "0.1.0",
+      "description": "Public SDK for building third-party local apps against gezel — discovery, consent, OpenAI-shaped chat, ensure-model.",
+      "license": "MIT",
+      "repository": "https://github.com/bendyline/gezel",
+      "npmUrl": "https://www.npmjs.com/package/%40bendyline%2Fgezel-app-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T14:00:28.663Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 72
     },
     {
       "name": "@benhowdle/norrin",
@@ -7274,6 +7310,18 @@
       "score": 75
     },
     {
+      "name": "@continuousarchitecture/archi-open-exchange",
+      "version": "0.1.0",
+      "description": "Convert a parsed Archi ArchiModel into the ArchiMate Model Exchange File Format XML (The Open Group standard, XSD 3.1).",
+      "license": "MIT",
+      "repository": "https://github.com/ContinuousArchitecture/archi-open-exchange",
+      "npmUrl": "https://www.npmjs.com/package/%40continuousarchitecture%2Farchi-open-exchange",
+      "category": "data",
+      "createdAt": "2026-08-11T13:05:05.448Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 75
+    },
+    {
       "name": "@converly/sdk-node",
       "version": "1.0.1",
       "description": "Server-side conversion tracking for Node backends. Report any conversion your code confirms (SaaS signups, custom form leads, bookings) to Converly, which fires it to Google Ads, Meta, GA4 and more via their server-side APIs (Enhanced Conversions, CAPI) a",
@@ -9962,6 +10010,18 @@
       "score": 85
     },
     {
+      "name": "@dybo-ai/design",
+      "version": "1.0.1",
+      "description": "DYBO design system — tokens, Tailwind V4 theme, theme CSS, and React components.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/dybo-ai/dybo-design",
+      "npmUrl": "https://www.npmjs.com/package/%40dybo-ai%2Fdesign",
+      "category": "frontend",
+      "createdAt": "2026-08-11T13:33:37.932Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 75
+    },
+    {
       "name": "@dzg-studio/mcp-server-mint",
       "version": "1.0.0",
       "description": "Launch Mint's on-device macOS storage intelligence as a local MCP server.",
@@ -10968,6 +11028,18 @@
       "createdAt": "2026-08-08T06:28:48.621Z",
       "discoveredAt": "2026-08-08T06:37:23.606Z",
       "score": 68
+    },
+    {
+      "name": "@exoticknight/labnana-mcp",
+      "version": "2.0.0",
+      "description": "MCP server for the Labnana image generation OpenAPI",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/exoticknight/labnana-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40exoticknight%2Flabnana-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-08T12:10:40.213Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 62
     },
     {
       "name": "@experttoolkit/sdk",
@@ -22046,6 +22118,18 @@
       "score": 93
     },
     {
+      "name": "@lukeramsden/pi-prevent-stuck",
+      "version": "1.0.1",
+      "description": "Extension for the pi coding agent: prevent shell commands that commonly hang agents by blocking interactive editors, pagers, REPLs, watch/TUI commands, prompt-only logins, and interactive git rebase.",
+      "license": "MIT",
+      "repository": "https://github.com/lukeramsden/pi-prevent-stuck",
+      "npmUrl": "https://www.npmjs.com/package/%40lukeramsden%2Fpi-prevent-stuck",
+      "category": "cli",
+      "createdAt": "2026-08-11T12:54:49.643Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 64
+    },
+    {
       "name": "@lumi.ai/relay",
       "version": "0.1.0",
       "description": "Lumi Crew browser relay: holds one WebSocket per connected browser and dispatches agent commands to it",
@@ -29522,6 +29606,18 @@
       "score": 68
     },
     {
+      "name": "@pulsadev/token-list",
+      "version": "0.1.0",
+      "description": "On-chain ERC-20/721/1155 token metadata resolver — batch queries, standard detection, token list validation. Zero dependencies, pure RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/token-list",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Ftoken-list",
+      "category": "data",
+      "createdAt": "2026-08-11T13:48:34.577Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 64
+    },
+    {
       "name": "@pulsadev/tx-decoder",
       "version": "0.1.0",
       "description": "Decode any EVM transaction calldata into human-readable format — with or without an ABI",
@@ -31994,6 +32090,30 @@
       "score": 75
     },
     {
+      "name": "@rslike/collections",
+      "version": "0.1.0",
+      "description": "Rust-inspired collections library — Array, Map, Set (and readonly variants) with Option-based safe access and lazy iterator integration",
+      "license": "MIT",
+      "repository": "https://github.com/vitalics/rslike",
+      "npmUrl": "https://www.npmjs.com/package/%40rslike%2Fcollections",
+      "category": "utilities",
+      "createdAt": "2026-08-11T13:11:31.597Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 73
+    },
+    {
+      "name": "@rslike/streams",
+      "version": "1.0.0",
+      "description": "Rust-inspired fallible async streams — Stream, Sink, Channel with Result-based pull protocol",
+      "license": "MIT",
+      "repository": "https://github.com/vitalics/rslike",
+      "npmUrl": "https://www.npmjs.com/package/%40rslike%2Fstreams",
+      "category": "utilities",
+      "createdAt": "2026-08-11T13:16:24.791Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 69
+    },
+    {
       "name": "@rtorcato/repo-tooling",
       "version": "2.59.0",
       "description": "One CLI to scaffold, audit and fix your repo's whole toolchain — linting, tests, commits, releases & CI.",
@@ -32604,6 +32724,18 @@
       "createdAt": "2026-08-07T23:38:36.534Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 81
+    },
+    {
+      "name": "@schift-io/doc-redact",
+      "version": "0.1.0",
+      "description": "Layout-aware OCR + PII preprocessing pipeline for legal documents. Redacts sensitive data BEFORE it leaves the device.",
+      "license": "SEE LICENSE IN README.md",
+      "repository": "https://github.com/schift-io/schift-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40schift-io%2Fdoc-redact",
+      "category": "data",
+      "createdAt": "2026-08-11T13:48:22.956Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 75
     },
     {
       "name": "@schovest/pi-mcp-adapter",
@@ -35700,6 +35832,18 @@
       "createdAt": "2026-08-03T12:55:28.431Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 100
+    },
+    {
+      "name": "@tabnas/jsonl",
+      "version": "0.1.1",
+      "description": "This plugin allows the [Tabnas](https://github.com/tabnas/parser) parsing engine to parse JSON Lines (JSONL / NDJSON): one standard-JSON value per line.",
+      "license": "MIT",
+      "repository": "https://github.com/tabnas/jsonl",
+      "npmUrl": "https://www.npmjs.com/package/%40tabnas%2Fjsonl",
+      "category": "backend",
+      "createdAt": "2026-08-11T12:52:08.723Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 62
     },
     {
       "name": "@tactical-ddd/core",
@@ -39806,6 +39950,18 @@
       "score": 62
     },
     {
+      "name": "@xentfi/mcp-sdk",
+      "version": "1.0.0",
+      "description": "Official Model Context Protocol (MCP) server & SDK for XentFi — give AI agents (Claude, Cursor, ChatGPT, ElizaOS, CrewAI, Codex, VS Code...) secure, policy-governed wallets, payments, and treasury tools.",
+      "license": "MIT",
+      "repository": "https://github.com/xentfi/xentfi-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40xentfi%2Fmcp-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-11T14:03:18.849Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 100
+    },
+    {
       "name": "@xlscalc/xlsx-preview",
       "version": "0.2.0",
       "description": "Client-side, view-only .xlsx preview that computes formula values in the browser.",
@@ -41220,6 +41376,18 @@
       "createdAt": "2026-08-07T13:51:52.594Z",
       "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 75
+    },
+    {
+      "name": "agent-ablation",
+      "version": "0.1.0",
+      "description": "Leave-one-out ablation testing for multi-agent decision systems — find out which agents' findings actually change the outcome.",
+      "license": "MIT",
+      "repository": "https://github.com/AyushCipher/agent-ablation",
+      "npmUrl": "https://www.npmjs.com/package/agent-ablation",
+      "category": "testing",
+      "createdAt": "2026-08-11T13:53:47.714Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 65
     },
     {
       "name": "agent-capability-contract",
@@ -43514,6 +43682,30 @@
       "score": 84
     },
     {
+      "name": "bb-plugin-agent-proxy",
+      "version": "0.1.0",
+      "description": "Run CLIProxyAPI as a persistent macOS or Linux service with OAuth accounts, providers, usage, and agent wiring.",
+      "license": "MIT",
+      "repository": "https://github.com/smsunarto/bb-plugins",
+      "npmUrl": "https://www.npmjs.com/package/bb-plugin-agent-proxy",
+      "category": "backend",
+      "createdAt": "2026-08-11T13:28:36.560Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 68
+    },
+    {
+      "name": "bb-plugin-agentation",
+      "version": "0.1.0",
+      "description": "Point at any part of the bb UI — including plugin surfaces — and turn it into structured AFS 1.1 feedback that bb agents can read, answer, and resolve.",
+      "license": "MIT AND PolyForm-Shield-1.0.0",
+      "repository": "https://github.com/smsunarto/bb-plugins",
+      "npmUrl": "https://www.npmjs.com/package/bb-plugin-agentation",
+      "category": "utilities",
+      "createdAt": "2026-08-11T13:28:39.060Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 61
+    },
+    {
       "name": "bc-atlas",
       "version": "0.5.0",
       "description": "BC Atlas generates D2 architecture diagrams and executable user documentation for Microsoft Dynamics 365 Business Central.",
@@ -44472,6 +44664,18 @@
       "createdAt": "2026-08-05T18:07:58.366Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 64
+    },
+    {
+      "name": "cache-assembler",
+      "version": "0.1.0",
+      "description": "Rewrites Anthropic Messages API requests for maximal prompt-cache reuse",
+      "license": "MIT",
+      "repository": "https://github.com/nash-software/cache-assembler",
+      "npmUrl": "https://www.npmjs.com/package/cache-assembler",
+      "category": "backend",
+      "createdAt": "2026-08-11T13:27:58.273Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 63
     },
     {
       "name": "cache-viewer",
@@ -45626,6 +45830,18 @@
       "score": 76
     },
     {
+      "name": "claudekishmish",
+      "version": "0.3.0",
+      "description": "Keep a Claude Code usage window always running, and continue interrupted work in the terminal it stopped in.",
+      "license": "MIT",
+      "repository": "https://github.com/gsspriceai/claudekishmish",
+      "npmUrl": "https://www.npmjs.com/package/claudekishmish",
+      "category": "cli",
+      "createdAt": "2026-08-11T12:45:32.995Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 72
+    },
+    {
       "name": "clausters",
       "version": "0.4.1",
       "description": "Clausters in the browser: the audio engine in an AudioWorklet, the GUI host on a canvas, web components that boot standalone bundles, and the OSC/connection seam of the TypeScript client — no server process needed.",
@@ -46200,6 +46416,18 @@
       "createdAt": "2026-07-30T19:45:54.717Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 79
+    },
+    {
+      "name": "combobox-headless",
+      "version": "0.1.0",
+      "description": "A framework-independent, headless combobox engine providing state management, keyboard navigation, and accessibility — zero dependencies, zero UI opinions.",
+      "license": "MIT",
+      "repository": "https://github.com/collinsbarnbas/headless-combobox",
+      "npmUrl": "https://www.npmjs.com/package/combobox-headless",
+      "category": "devops",
+      "createdAt": "2026-08-11T13:51:53.664Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 84
     },
     {
       "name": "comfyui-workflow-editor-mcp",
@@ -51242,6 +51470,18 @@
       "score": 71
     },
     {
+      "name": "git-workflow-skill",
+      "version": "1.0.0",
+      "description": "gitflow — end-to-end GitHub delivery skill for AI agents: feature branch → atomic commits → validation → pull request → merge → cleanup → GitHub Projects tasks. Team-safe (respects branch protection), stack-agnostic. Auto-installs into .agents/skills or .",
+      "license": "MIT",
+      "repository": "https://github.com/Tash000/git-workflow-skill",
+      "npmUrl": "https://www.npmjs.com/package/git-workflow-skill",
+      "category": "utilities",
+      "createdAt": "2026-08-11T13:48:26.808Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 82
+    },
+    {
       "name": "gitanatomy",
       "version": "1.0.0",
       "description": "Dissect a Git repository's internal objects (commits, trees, blobs) in an interactive local dashboard",
@@ -52092,6 +52332,18 @@
       "createdAt": "2026-07-29T19:18:47.392Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 61
+    },
+    {
+      "name": "hermes-taskflow",
+      "version": "0.2.9",
+      "description": "Run taskflow on Hermes Agent: a Hermes subagent runner plus an MCP server (and a config scaffold) that exposes the taskflow_* tools to Hermes users.",
+      "license": "MIT",
+      "repository": "https://github.com/heggria/taskflow",
+      "npmUrl": "https://www.npmjs.com/package/hermes-taskflow",
+      "category": "backend",
+      "createdAt": "2026-08-11T13:27:05.843Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 80
     },
     {
       "name": "hero-scroll-controller",
@@ -53304,6 +53556,18 @@
       "createdAt": "2026-07-29T00:56:17.093Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 80
+    },
+    {
+      "name": "intempt-mcp-server",
+      "version": "1.0.0",
+      "description": "MCP server for Intempt — CRM, meetings, analytics, AI chat, and marketing automation",
+      "license": "MIT",
+      "repository": "https://github.com/intempt/cli",
+      "npmUrl": "https://www.npmjs.com/package/intempt-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-11T13:45:59.285Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 82
     },
     {
       "name": "interactive-3d-website-skill",
@@ -54959,6 +55223,18 @@
       "category": "utilities",
       "createdAt": "2026-08-07T12:35:59.528Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
+      "score": 84
+    },
+    {
+      "name": "liquid-gooey",
+      "version": "0.1.0",
+      "description": "Liquid UI effects for React: Morph (gooey merge, jelly shape change, contact dissolve) and Move (liquid-rubber trails). SVG-filter silhouette layer + crisp content layer, real shadows on the merged liquid. Cross-browser, Safari included.",
+      "license": "MIT",
+      "repository": "https://github.com/Jakubantalik/Libraries",
+      "npmUrl": "https://www.npmjs.com/package/liquid-gooey",
+      "category": "frontend",
+      "createdAt": "2026-08-11T13:06:18.949Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 84
     },
     {
@@ -56894,6 +57170,18 @@
       "score": 88
     },
     {
+      "name": "merge-tool",
+      "version": "1.1.0",
+      "description": "Merge multiple git branches in one pass, skipping conflicts and comparing local vs remote freshness, with a final report.",
+      "license": "MIT",
+      "repository": "https://github.com/waelw/merge-tool",
+      "npmUrl": "https://www.npmjs.com/package/merge-tool",
+      "category": "cli",
+      "createdAt": "2026-08-11T13:02:36.194Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 68
+    },
+    {
       "name": "mergesetu",
       "version": "0.1.1",
       "description": "Semantic conflict detection for multi-agent Yjs editors. Watches concurrent CRDT merges, flags overlaps, and classifies whether both agent intents still hold — without ever blocking the merge path.",
@@ -58020,6 +58308,18 @@
       "createdAt": "2026-08-10T12:23:36.475Z",
       "discoveredAt": "2026-08-10T12:50:16.104Z",
       "score": 90
+    },
+    {
+      "name": "n8n-nodes-hefesto",
+      "version": "0.1.1",
+      "description": "n8n community node for Hefesto — Borah's ephemeral agent runtime (Cloudflare Worker, contract v0)",
+      "license": "MIT",
+      "repository": "https://github.com/BorahLabs/n8n-nodes-hefesto",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-hefesto",
+      "category": "devops",
+      "createdAt": "2026-08-11T13:29:10.112Z",
+      "discoveredAt": "2026-08-11T14:06:14.756Z",
+      "score": 73
     },
     {
       "name": "n8n-nodes-hixy-intelligence-cloud",
