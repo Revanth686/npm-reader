@@ -4826,6 +4826,18 @@
       "score": 74
     },
     {
+      "name": "@booi-gg/augit",
+      "version": "0.1.2",
+      "description": "Generate concise Git commit messages with your preferred agent API.",
+      "license": "MIT",
+      "repository": "https://github.com/booi-gg/augit",
+      "npmUrl": "https://www.npmjs.com/package/%40booi-gg%2Faugit",
+      "category": "backend",
+      "createdAt": "2026-08-04T11:05:12.757Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 65
+    },
+    {
       "name": "@borrowbetter/arpcsdk",
       "version": "0.1.1",
       "description": "Typed, agnostic client for FDR's ARPC DEX API — Achieve Resolution Partner Connect (Digital Enrollment Experience)",
@@ -8054,6 +8066,18 @@
       "score": 80
     },
     {
+      "name": "@detiq/ai-pr-reviewer",
+      "version": "1.0.2",
+      "description": "Prompt templates and guidelines for AI-powered PR reviews using Auggie CLI",
+      "license": "MIT",
+      "repository": "https://github.com/deepanimators/ai-pr-reviewer-workflows",
+      "npmUrl": "https://www.npmjs.com/package/%40detiq%2Fai-pr-reviewer",
+      "category": "cli",
+      "createdAt": "2026-08-11T05:02:54.913Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 83
+    },
+    {
       "name": "@dev_config/client-api-kit",
       "version": "1.0.1",
       "description": "Generic, type-safe API client built on axios and api-response-kit's response envelope. Framework-agnostic 'resources' for server components/server actions, plus a TanStack Query hooks layer for client components. Generic CRUD, offset + cursor pagination,",
@@ -10082,6 +10106,18 @@
       "score": 87
     },
     {
+      "name": "@eebrami/google-workspace-mcp",
+      "version": "1.0.0",
+      "description": "NPM-distributable Google Workspace MCP server for Claude Desktop, Claude Code CLI, and Chatwise",
+      "license": "MIT",
+      "repository": "https://github.com/jrenaldi79/google-workspace-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40eebrami%2Fgoogle-workspace-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T05:31:40.318Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 86
+    },
+    {
       "name": "@effected/github",
       "version": "0.2.0",
       "description": "Typed GitHub REST and GraphQL services over the octokit core request surface, with app auth and resource helpers.",
@@ -10884,6 +10920,18 @@
       "createdAt": "2026-08-08T18:32:15.462Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
       "score": 41
+    },
+    {
+      "name": "@featureflow/react-native-sdk",
+      "version": "2.0.0",
+      "description": "Official Featureflow React Native SDK for feature flags and A/B testing. Pure JavaScript — no native modules.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/featureflow/featureflow-react-native",
+      "npmUrl": "https://www.npmjs.com/package/%40featureflow%2Freact-native-sdk",
+      "category": "testing",
+      "createdAt": "2026-08-11T05:02:55.721Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 86
     },
     {
       "name": "@feedlog/widget",
@@ -17366,6 +17414,18 @@
       "score": 68
     },
     {
+      "name": "@hypabolic/relay",
+      "version": "0.1.1",
+      "description": "Continue coding sessions from Claude Code, Codex, Grok Build, and OpenClaw inside Pi",
+      "license": "MIT",
+      "repository": "https://github.com/Hypabolic/Relay",
+      "npmUrl": "https://www.npmjs.com/package/%40hypabolic%2Frelay",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T06:21:49.232Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 77
+    },
+    {
       "name": "@hyperlogue/captain-miao",
       "version": "0.2.0",
       "description": "TUI dashboard to monitor and manage multiple Claude Code and Codex sessions in Kitty or zellij. Runs the matching prebuilt native binary (shipped as a per-platform optional dependency); works with `npx @hyperlogue/captain-miao` and `bunx @hyperlogue/capta",
@@ -21074,6 +21134,42 @@
       "score": 63
     },
     {
+      "name": "@loomidev/accordion",
+      "version": "0.3.0",
+      "description": "<loomi-accordion>/<loomi-accordion-item> — collapsible content sections.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Faccordion",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:09.865Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 67
+    },
+    {
+      "name": "@loomidev/alert",
+      "version": "0.3.0",
+      "description": "<loomi-alert> — inline alert messages (info/error/warning/success) in the full palette.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Falert",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:10.735Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 66
+    },
+    {
+      "name": "@loomidev/avatar",
+      "version": "0.3.0",
+      "description": "<loomi-avatar>/<loomi-avatars> — image/initials avatars with stacking and status dots.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Favatar",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:09.941Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 66
+    },
+    {
       "name": "@loomidev/bottom-nav",
       "version": "0.2.0",
       "description": "<loomi-bottom-nav>/<loomi-bottom-nav-item> — a mobile bottom navigation bar with badges, active-state styles, and framework-agnostic routing.",
@@ -21084,6 +21180,90 @@
       "createdAt": "2026-08-07T06:49:10.283Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 78
+    },
+    {
+      "name": "@loomidev/button",
+      "version": "0.3.0",
+      "description": "<loomi-button> — a themeable, framework-agnostic button web component built with Lit.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fbutton",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:10.417Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 70
+    },
+    {
+      "name": "@loomidev/button-group",
+      "version": "0.3.0",
+      "description": "<loomi-button-group>/<loomi-button-group-item> — a segmented button group with selection, icons, outline mode, and disabled states.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fbutton-group",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:10.644Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 64
+    },
+    {
+      "name": "@loomidev/calendar",
+      "version": "0.3.0",
+      "description": "<loomi-calendar> — a production calendar and resource scheduler for admin and SaaS templates.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fcalendar",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:10.904Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 67
+    },
+    {
+      "name": "@loomidev/card",
+      "version": "0.3.0",
+      "description": "shadcn/ui-style card primitives: loomi-card and loomi-card-* composition parts.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fcard",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:15.775Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 65
+    },
+    {
+      "name": "@loomidev/chart",
+      "version": "0.3.0",
+      "description": "<loomi-chart> — bar / line / area / pie / donut / radar / radial / scatter / heatmap charts (SVG).",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fchart",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:16.721Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 67
+    },
+    {
+      "name": "@loomidev/chat",
+      "version": "0.3.0",
+      "description": "Chat window and message bubbles for one-to-one and group conversations.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fchat",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:16.272Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 67
+    },
+    {
+      "name": "@loomidev/checkcards",
+      "version": "0.3.0",
+      "description": "<loomi-checkcards>/<loomi-checkcard> — selectable cards (prettier checkboxes).",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fcheckcards",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:17.072Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 65
     },
     {
       "name": "@loomidev/core",
@@ -28332,6 +28512,18 @@
       "createdAt": "2026-07-29T13:27:35.106Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 89
+    },
+    {
+      "name": "@ptengine/design-components",
+      "version": "0.3.0",
+      "description": "PT-AI-Components — PTEngine 基于 shadcn/ui 的 React 组件库",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/ptmafia/Design-components",
+      "npmUrl": "https://www.npmjs.com/package/%40ptengine%2Fdesign-components",
+      "category": "frontend",
+      "createdAt": "2026-08-11T06:49:12.712Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 71
     },
     {
       "name": "@puffle/cookiejar",
@@ -36180,6 +36372,18 @@
       "createdAt": "2026-07-30T08:16:57.052Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 80
+    },
+    {
+      "name": "@uarix/agent-harness-detector",
+      "version": "1.0.2",
+      "description": "Detect which AI agent / harness environment your Node.js process is running in (WorkBuddy, Kimi, Claude Code, Codex, Cursor, Copilot, OpenCode, Doubao, ...) via environment signals and process-tree matching.",
+      "license": "MIT",
+      "repository": "https://github.com/uarix/agent-harness-detector",
+      "npmUrl": "https://www.npmjs.com/package/%40uarix%2Fagent-harness-detector",
+      "category": "utilities",
+      "createdAt": "2026-08-11T05:14:15.293Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 68
     },
     {
       "name": "@ubi.fun/sdk",
@@ -46802,6 +47006,18 @@
       "score": 48
     },
     {
+      "name": "dexterquery",
+      "version": "0.9.0",
+      "description": "A React query builder for people who do not write query languages: the user describes what they want in a sentence, and you get back a MySQL WHERE predicate with parameterised values.",
+      "license": "MIT",
+      "repository": "https://github.com/barezina/dexterquery",
+      "npmUrl": "https://www.npmjs.com/package/dexterquery",
+      "category": "frontend",
+      "createdAt": "2026-08-11T05:30:57.597Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 88
+    },
+    {
       "name": "diagramos",
       "version": "0.1.0",
       "description": "Diagram-driven development: an MCP server that gives Claude read/write access to Excalidraw diagrams that live in the repo, plus a live local board.",
@@ -49850,6 +50066,18 @@
       "score": 72
     },
     {
+      "name": "git-blinder",
+      "version": "0.1.0",
+      "description": "A local MCP gateway that gives each coding agent an enforced GitHub perimeter.",
+      "license": "MIT",
+      "repository": "https://github.com/Math1987/git-blinder",
+      "npmUrl": "https://www.npmjs.com/package/git-blinder",
+      "category": "cli",
+      "createdAt": "2026-08-11T06:37:59.950Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 71
+    },
+    {
       "name": "git-multi-commit",
       "version": "1.0.2",
       "description": "Commit and push the same work to several independent GitHub repos, each under its own account identity and token.",
@@ -52068,6 +52296,18 @@
       "createdAt": "2026-07-31T15:47:45.928Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 47
+    },
+    {
+      "name": "iritoken",
+      "version": "0.1.0",
+      "description": "Deterministic token optimization for AI coding context. Removes low-value tokens without removing useful information — no LLM required.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lelianto/iritoken",
+      "npmUrl": "https://www.npmjs.com/package/iritoken",
+      "category": "testing",
+      "createdAt": "2026-08-11T05:02:21.935Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 83
     },
     {
       "name": "iryx-ui",
@@ -59834,6 +60074,18 @@
       "score": 88
     },
     {
+      "name": "payermax-developer-mcp-server",
+      "version": "1.0.0",
+      "description": "PayerMax Developer Center MCP Server - Automate sandbox integration setup",
+      "license": "MIT",
+      "repository": "https://github.com/payermax-all/ai",
+      "npmUrl": "https://www.npmjs.com/package/payermax-developer-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-11T05:50:10.867Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 72
+    },
+    {
       "name": "payload-ai-conductor",
       "version": "1.0.0",
       "description": "Compose and edit Payload CMS pages through a chat agent grounded in your block library — with an in-panel BYOK chat and a standalone MCP server, both backed by the same propose-then-approve tool layer.",
@@ -66338,6 +66590,18 @@
       "score": 64
     },
     {
+      "name": "smart-launch",
+      "version": "0.1.0",
+      "description": "SMART on FHIR authentication & launch flow reference implementation",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PeerbitsSolution/smart-launch",
+      "npmUrl": "https://www.npmjs.com/package/smart-launch",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T06:07:31.098Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 70
+    },
+    {
       "name": "smartreply-chat",
       "version": "1.0.1",
       "description": "Lightweight React/Next.js loader for the Rivet Chat AI shopping assistant. Page-aware product cards, real-time inventory answers, and add-to-cart attribution for ecommerce stores.",
@@ -66432,6 +66696,18 @@
       "createdAt": "2026-07-27T08:12:44.424Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 86
+    },
+    {
+      "name": "soap-schema",
+      "version": "0.1.0",
+      "description": "Canonical JSON Schema and TypeScript validation library for structured SOAP clinical notes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PeerbitsSolution/soap-schema",
+      "npmUrl": "https://www.npmjs.com/package/soap-schema",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T06:40:52.246Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 71
     },
     {
       "name": "social-website-api",
@@ -68642,6 +68918,18 @@
       "score": 71
     },
     {
+      "name": "token-opt",
+      "version": "0.3.14",
+      "description": "Cut prompt and API token cost on OpenAI and Anthropic without silently weakening requirements. Deterministic planning, no extra model call.",
+      "license": "MIT",
+      "repository": "https://github.com/neetchick/token-optimizer",
+      "npmUrl": "https://www.npmjs.com/package/token-opt",
+      "category": "backend",
+      "createdAt": "2026-08-11T06:10:43.234Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
+      "score": 79
+    },
+    {
       "name": "token-usage-widget",
       "version": "1.0.0",
       "description": "Local Windows corner widget + dashboard for Codex, Cursor, and other AI harness quotas. MIT, localhost-only.",
@@ -70235,6 +70523,18 @@
       "category": "backend",
       "createdAt": "2026-07-28T04:13:04.653Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
+      "score": 83
+    },
+    {
+      "name": "vidfetch",
+      "version": "1.1.5",
+      "description": "CLI tool to download videos from YouTube, TikTok, Facebook, and other platforms via yt-dlp",
+      "license": "MIT",
+      "repository": "https://github.com/opiobonniky/download-me",
+      "npmUrl": "https://www.npmjs.com/package/vidfetch",
+      "category": "data",
+      "createdAt": "2026-08-11T05:56:05.023Z",
+      "discoveredAt": "2026-08-11T06:52:24.905Z",
       "score": 83
     },
     {
