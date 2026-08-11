@@ -4862,6 +4862,18 @@
       "score": 51
     },
     {
+      "name": "@box4dev/gerador-br",
+      "version": "2.0.0",
+      "description": "Gerador de Dados Fictícios - Brasil",
+      "license": "MIT",
+      "repository": "https://github.com/box4dev/gerador-br",
+      "npmUrl": "https://www.npmjs.com/package/%40box4dev%2Fgerador-br",
+      "category": "testing",
+      "createdAt": "2026-08-10T23:57:48.891Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 83
+    },
+    {
       "name": "@braavolabs/cli",
       "version": "0.1.0",
       "description": "Braavolabs CLI — one terminal for the multi-model council (ask/cascade/savings, BYOK keys, local/direct, spawn, fix, MCP) and pipeline control (runs, steering, handoffs, connections). Near-dep-free (zod only, for the opt-in spawn --bridge companion relay)",
@@ -5100,6 +5112,18 @@
       "createdAt": "2026-08-04T06:24:58.567Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 84
+    },
+    {
+      "name": "@buckeyestudio/container-coder",
+      "version": "0.84.1",
+      "description": "Coding agent CLI with read, bash, edit, write tools and session management",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40buckeyestudio%2Fcontainer-coder",
+      "category": "cli",
+      "createdAt": "2026-08-10T23:09:54.894Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 71
     },
     {
       "name": "@budiauktioner/buildi-primitives",
@@ -8486,6 +8510,18 @@
       "score": 69
     },
     {
+      "name": "@didactika/moodle-client",
+      "version": "2.0.0",
+      "description": "Typed Moodle web service client with no runtime dependencies, built on native fetch",
+      "license": "MIT",
+      "repository": "https://github.com/didactika/moodle-client",
+      "npmUrl": "https://www.npmjs.com/package/%40didactika%2Fmoodle-client",
+      "category": "backend",
+      "createdAt": "2026-08-10T23:43:48.690Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 59
+    },
+    {
       "name": "@dieselzhang/repo-mastery",
       "version": "2.2.1",
       "description": "Turn any open-source repository into a developer-focused mastery course — usage, architecture, key implementations, with deterministic mastery gates and spaced review. Installable as a skill for Claude Code, OpenAI Codex, and Gemini CLI.",
@@ -10490,6 +10526,18 @@
       "score": 60
     },
     {
+      "name": "@esteban-ll-aguilar/harness-cli",
+      "version": "1.1.0",
+      "description": "Production-grade multi-agent harness for SDD-BDD-TDD software development. RAG memory (BM25), Obsidian vault, MCP server, agent auto-generation. Compatible with Claude, Codex, OpenCode, Kimi, Qwen, DeepSeek, and any AI tool.",
+      "license": "MIT",
+      "repository": "https://github.com/esteban-ll-aguilar/harness-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40esteban-ll-aguilar%2Fharness-cli",
+      "category": "testing",
+      "createdAt": "2026-08-10T23:03:02.796Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 100
+    },
+    {
       "name": "@estebanforge/pi-antigravity-bridge",
       "version": "1.0.0",
       "description": "Streaming Gemini provider for pi, built on the agy CLI. Registers antigravity/* models in pi's /model picker via SQLite polling + protobuf decode of agy's conversation DBs.",
@@ -10992,6 +11040,18 @@
       "createdAt": "2026-08-04T19:32:13.491Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 83
+    },
+    {
+      "name": "@financica/be-vat-account",
+      "version": "0.1.0",
+      "description": "Parser for the Belgian VAT current-account statement (Extrait de compte TVA / Uittreksel btw-rekening) issued by the FPS Finance — PFORM671 and legacy layouts, French and Dutch.",
+      "license": "MIT",
+      "repository": "https://github.com/financica/ts-libs",
+      "npmUrl": "https://www.npmjs.com/package/%40financica%2Fbe-vat-account",
+      "category": "data",
+      "createdAt": "2026-08-11T00:05:48.450Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 68
     },
     {
       "name": "@financica/gst-einvoice-qr",
@@ -11664,6 +11724,30 @@
       "createdAt": "2026-07-28T14:43:08.556Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 72
+    },
+    {
+      "name": "@frontierjs/css",
+      "version": "0.15.0",
+      "description": "FrontierJS CSS — a minimal, composable, semantics-first design system for Svelte/Vite/UnoCSS apps",
+      "license": "MIT",
+      "repository": "https://github.com/frontierJS/frontierjs",
+      "npmUrl": "https://www.npmjs.com/package/%40frontierjs%2Fcss",
+      "category": "frontend",
+      "createdAt": "2026-08-10T23:08:24.726Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 67
+    },
+    {
+      "name": "@frontierjs/junction",
+      "version": "0.1.0",
+      "description": "A pragmatic, batteries-included Bun framework",
+      "license": "MIT",
+      "repository": "https://github.com/frontierJS/frontierjs",
+      "npmUrl": "https://www.npmjs.com/package/%40frontierjs%2Fjunction",
+      "category": "data",
+      "createdAt": "2026-08-11T00:27:10.235Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 66
     },
     {
       "name": "@fuaran-ui/cli",
@@ -18734,6 +18818,18 @@
       "score": 42
     },
     {
+      "name": "@jasstsg/nice",
+      "version": "0.1.1",
+      "description": "Node Integrated Content Editor - a tiny schema-driven local content editor that reads and writes plain JSON files.",
+      "license": "MIT",
+      "repository": "https://github.com/jasstsg/nice",
+      "npmUrl": "https://www.npmjs.com/package/%40jasstsg%2Fnice",
+      "category": "utilities",
+      "createdAt": "2026-07-29T01:57:18.903Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 61
+    },
+    {
       "name": "@jaydeepgadhiya/guarddog",
       "version": "1.0.0",
       "description": "Static analysis for Node.js & Express apps. Parses your code and reports injection, auth, async and schema bugs with a security score and an HTML report.",
@@ -22562,6 +22658,18 @@
       "score": 70
     },
     {
+      "name": "@mirohq/rich-text-delta",
+      "version": "0.1.0",
+      "description": "Format for representing rich text documents and changes.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/miroapp/rich-text-delta",
+      "npmUrl": "https://www.npmjs.com/package/%40mirohq%2Frich-text-delta",
+      "category": "data",
+      "createdAt": "2026-08-10T23:25:09.030Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 63
+    },
+    {
       "name": "@mirsella/opencode-browser-mcp",
       "version": "0.2.0",
       "description": "Session-isolated browser automation over MCP and Chrome DevTools Protocol",
@@ -22848,6 +22956,18 @@
       "createdAt": "2026-08-03T22:27:10.187Z",
       "discoveredAt": "2026-08-04T04:56:35.171Z",
       "score": 84
+    },
+    {
+      "name": "@molecule/api-code-sandbox-e2b",
+      "version": "1.0.0",
+      "description": "E2B (e2b.dev) code sandbox provider — Firecracker microVMs with golden templates, fork, and pause/resume",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-code-sandbox-e2b",
+      "category": "backend",
+      "createdAt": "2026-08-11T00:06:56.675Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 74
     },
     {
       "name": "@molecule/api-code-sandbox-flyio",
@@ -27290,6 +27410,18 @@
       "score": 80
     },
     {
+      "name": "@pixdeo/weavekit",
+      "version": "0.0.1",
+      "description": "A declarative, SwiftUI-shaped UI toolkit that renders to <canvas>.",
+      "license": "MIT",
+      "repository": "https://github.com/pixdeo/weavekit",
+      "npmUrl": "https://www.npmjs.com/package/%40pixdeo%2Fweavekit",
+      "category": "utilities",
+      "createdAt": "2026-08-10T23:17:50.258Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 66
+    },
+    {
       "name": "@pixodesk/svg-animator-rn",
       "version": "1.0.22",
       "description": "Pixodesk SVG animator for React Native — renders animator documents via react-native-svg, driven natively by react-native-reanimated",
@@ -28056,6 +28188,18 @@
       "createdAt": "2026-08-09T16:31:18.376Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 67
+    },
+    {
+      "name": "@pulsadev/event-watcher",
+      "version": "0.1.0",
+      "description": "Lightweight real-time EVM event watcher — polling, historical scan, auto-reconnect, checkpoint resume, zero dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/event-watcher",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fevent-watcher",
+      "category": "build-tools",
+      "createdAt": "2026-08-10T23:08:44.145Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 61
     },
     {
       "name": "@pulsadev/gas-oracle",
@@ -32426,6 +32570,18 @@
       "score": 65
     },
     {
+      "name": "@slopus/happy-providers",
+      "version": "0.0.1",
+      "description": "Stateful Node.js sessions for Codex, Claude, Grok, Bedrock, and Responses-compatible model providers.",
+      "license": "MIT",
+      "repository": "https://github.com/slopus/rig",
+      "npmUrl": "https://www.npmjs.com/package/%40slopus%2Fhappy-providers",
+      "category": "utilities",
+      "createdAt": "2026-08-11T00:19:27.658Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 74
+    },
+    {
       "name": "@smallthinkingmachines/video-context-mcp",
       "version": "0.8.0",
       "description": "Model-agnostic MCP server that turns videos into an interactive, queryable knowledge structure — transcript, keyframes, OCR, and search that any MCP client can scrub lazily",
@@ -32568,6 +32724,18 @@
       "createdAt": "2026-07-29T03:07:18.178Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 92
+    },
+    {
+      "name": "@snapeos/homebridge-centurion-garage-door",
+      "version": "1.4.1",
+      "description": "A Homebridge plugin to control Centurion Garage Doors using the official Centurion Garage Door Smartphone App integration. This plugin allows you to open, close, and monitor the status of your Centurion Garage Door, control the Lock Mode, and turn the lig",
+      "license": "MIT",
+      "repository": "https://github.com/andrew-snape/homebridge-cgd-garage-door",
+      "npmUrl": "https://www.npmjs.com/package/%40snapeos%2Fhomebridge-centurion-garage-door",
+      "category": "devops",
+      "createdAt": "2026-08-11T00:14:31.174Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 61
     },
     {
       "name": "@snapgridjs/vue",
@@ -33602,6 +33770,18 @@
       "score": 57
     },
     {
+      "name": "@stumptowndoug/rollmark",
+      "version": "0.1.3",
+      "description": "Markdown-based document format and renderer for AI-generated reports with charts: a tiny LLM-friendly chart DSL, strict validation, and an opinionated SVG renderer.",
+      "license": "MIT",
+      "repository": "https://github.com/stumptowndoug/rollmark",
+      "npmUrl": "https://www.npmjs.com/package/%40stumptowndoug%2Frollmark",
+      "category": "data",
+      "createdAt": "2026-08-11T00:17:25.496Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 84
+    },
+    {
       "name": "@stxt-lang/cli",
       "version": "0.2.0",
       "description": "Command-line interface for STXT, an indentation-based structured-text format.",
@@ -34188,6 +34368,18 @@
       "createdAt": "2026-08-08T06:56:43.085Z",
       "discoveredAt": "2026-08-08T07:32:51.663Z",
       "score": 71
+    },
+    {
+      "name": "@tamga/sdk",
+      "version": "0.2.1",
+      "description": "Official JavaScript/TypeScript SDK for Tamga. Integrate license activation, offline verification, and machine management into Node.js, Deno, Bun, and browser applications.",
+      "license": "MIT",
+      "repository": "https://github.com/tamga-sh/tamga-js",
+      "npmUrl": "https://www.npmjs.com/package/%40tamga%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-08-10T23:39:13.427Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 65
     },
     {
       "name": "@tanglat/splitfx",
@@ -36168,6 +36360,18 @@
       "createdAt": "2026-07-28T23:50:36.991Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 86
+    },
+    {
+      "name": "@ushuz/homebridge-airthings-ble",
+      "version": "1.0.1",
+      "description": "Homebridge plugin for Airthings air quality monitors over Bluetooth LE",
+      "license": "MIT",
+      "repository": "https://github.com/ushuz/homebridge-airthings-ble",
+      "npmUrl": "https://www.npmjs.com/package/%40ushuz%2Fhomebridge-airthings-ble",
+      "category": "utilities",
+      "createdAt": "2026-08-11T00:07:21.092Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 59
     },
     {
       "name": "@usva-ui/react",
@@ -38579,6 +38783,18 @@
       "category": "frontend",
       "createdAt": "2026-07-27T00:40:31.672Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
+      "score": 62
+    },
+    {
+      "name": "@zaimokuza/atlassian-server-mcp",
+      "version": "1.0.0",
+      "description": "Unified stdio MCP server for Jira, Confluence, and Bitbucket Data Center",
+      "license": "MIT",
+      "repository": "https://github.com/zaimokuza-yoshiteru/atlassian-server-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40zaimokuza%2Fatlassian-server-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-10T23:58:35.905Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
       "score": 62
     },
     {
@@ -48218,6 +48434,30 @@
       "score": 83
     },
     {
+      "name": "fhirpath-ts",
+      "version": "0.1.0",
+      "description": "TypeScript-native FHIRPath engine with compile-time type inference and a spec §11 static analyzer.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vintasoftware/fhirpath-ts",
+      "npmUrl": "https://www.npmjs.com/package/fhirpath-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T00:23:47.562Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 79
+    },
+    {
+      "name": "figdown",
+      "version": "0.1.0",
+      "description": "Figures as text — one source, two readers: a closed, deterministic figure language for Markdown, readable by AI agents and humans alike",
+      "license": "MIT",
+      "repository": "https://github.com/FigDown/figdown",
+      "npmUrl": "https://www.npmjs.com/package/figdown",
+      "category": "utilities",
+      "createdAt": "2026-08-01T01:39:51.370Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 79
+    },
+    {
       "name": "figloom-verify",
       "version": "0.0.1",
       "description": "CLI-first Figma-to-web and web-to-web visual verification with stable capture and artifact-based done gates.",
@@ -51410,6 +51650,18 @@
       "score": 70
     },
     {
+      "name": "ios-keyboard-focus",
+      "version": "0.2.0",
+      "description": "Open the iOS on-screen keyboard for an input that does not exist yet, by focusing a decoy inside the tap and handing focus over when the real field mounts.",
+      "license": "MIT",
+      "repository": "https://github.com/pedrobernardina/ios-keyboard-focus",
+      "npmUrl": "https://www.npmjs.com/package/ios-keyboard-focus",
+      "category": "utilities",
+      "createdAt": "2026-08-10T23:24:17.928Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 85
+    },
+    {
       "name": "ipfs-pay-to-pin-client",
       "version": "0.1.1",
       "description": "TypeScript client library for IPFS Pay-to-Pin Gateway via Algorand microUSDC x402 payments",
@@ -51756,6 +52008,18 @@
       "createdAt": "2026-07-29T21:24:27.438Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 80
+    },
+    {
+      "name": "jpmap-terrain",
+      "version": "0.3.2",
+      "description": "Terrain creation from elevation tiles of the Geospatial Information Authority of Japan.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/8ga3/jpmap_terrain",
+      "npmUrl": "https://www.npmjs.com/package/jpmap-terrain",
+      "category": "data",
+      "createdAt": "2026-08-04T09:36:53.649Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 72
     },
     {
       "name": "jquery.coverflow",
@@ -54182,6 +54446,18 @@
       "score": 81
     },
     {
+      "name": "mcp-read-file-server",
+      "version": "1.0.0",
+      "description": "加密环境文件操作 MCP 工具。当 Node.js 是加密软件白名单进程时，通过 fs 模块自动解密读写文件明文，替代 AI Agent 内置文件工具，适用于任何支持 MCP 协议的 Agent。",
+      "license": "MIT",
+      "repository": "https://github.com/hebulin/mcp-read-file-server",
+      "npmUrl": "https://www.npmjs.com/package/mcp-read-file-server",
+      "category": "backend",
+      "createdAt": "2026-08-11T01:00:13.272Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 76
+    },
+    {
       "name": "mcp-recipes",
       "version": "1.0.0",
       "description": "MCP server that asks Marmiton and the Wikibooks Cookbook at once, merges the answers, and scales quantities in French and English. No API key required.",
@@ -56520,6 +56796,18 @@
       "createdAt": "2026-08-06T08:11:17.481Z",
       "discoveredAt": "2026-08-06T08:19:20.704Z",
       "score": 86
+    },
+    {
+      "name": "next-level-editor",
+      "version": "1.0.0",
+      "description": "A beautiful and feature-rich WYSIWYG editor for Vue.js",
+      "license": "MIT",
+      "repository": "https://github.com/andrecj93/Next-Level-Editor",
+      "npmUrl": "https://www.npmjs.com/package/next-level-editor",
+      "category": "frontend",
+      "createdAt": "2026-08-11T00:14:57.457Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 85
     },
     {
       "name": "next-smart-router",
@@ -62100,6 +62388,18 @@
       "createdAt": "2026-07-26T12:36:41.349Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 66
+    },
+    {
+      "name": "react-heading-manager",
+      "version": "0.1.1",
+      "description": "Accessible automatic heading hierarchy and ARIA region landmark manager for React",
+      "license": "MIT",
+      "repository": "https://github.com/vickbk/heading-manager",
+      "npmUrl": "https://www.npmjs.com/package/react-heading-manager",
+      "category": "frontend",
+      "createdAt": "2026-08-10T23:50:39.821Z",
+      "discoveredAt": "2026-08-11T01:05:34.741Z",
+      "score": 72
     },
     {
       "name": "react-headless-dropzone",
