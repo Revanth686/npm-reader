@@ -530,6 +530,18 @@
       "score": 79
     },
     {
+      "name": "@acfstandards/agent-bridge",
+      "version": "0.1.0",
+      "description": "ACF Agent Bridge — present any AI agent (Claude Managed Agents, OpenAI agents, self-hosted OpenAI-compatible servers) as an HTTPS endpoint that ACF certification testing can reach",
+      "license": "MIT",
+      "repository": "https://github.com/acfstandards/acf",
+      "npmUrl": "https://www.npmjs.com/package/%40acfstandards%2Fagent-bridge",
+      "category": "testing",
+      "createdAt": "2026-08-11T20:05:46.572Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 81
+    },
+    {
       "name": "@ackrate/core",
       "version": "0.3.2",
       "description": "High-level TypeScript SDK for contract-enforced ackrate agent-payment mandates on Stellar.",
@@ -1848,6 +1860,18 @@
       "createdAt": "2026-08-04T14:12:31.905Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 87
+    },
+    {
+      "name": "@algorismus/elementor-ultra-mcp",
+      "version": "1.0.1",
+      "description": "MCP server that gives AI agents ~90 tools to build and govern real Elementor sites: read/build/refactor pages, HTML→Elementor conversion, design system, Pro widgets — every write validated server-side, backed up and reversible.",
+      "license": "MIT",
+      "repository": "https://github.com/Algorismus-io/elementor-ultra-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40algorismus%2Felementor-ultra-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-04T16:00:20.561Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 73
     },
     {
       "name": "@algorismus/elementor-ultra-playground",
@@ -4056,6 +4080,18 @@
       "createdAt": "2026-08-05T23:09:09.580Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 92
+    },
+    {
+      "name": "@aws-sdk/client-account-access",
+      "version": "3.1108.0",
+      "description": "AWS SDK for JavaScript Account Access Client for Node.js, Browser and React Native",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aws/aws-sdk-js-v3",
+      "npmUrl": "https://www.npmjs.com/package/%40aws-sdk%2Fclient-account-access",
+      "category": "frontend",
+      "createdAt": "2026-08-11T20:10:02.537Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 68
     },
     {
       "name": "@aws-sdk/client-agent-registry",
@@ -11006,6 +11042,18 @@
       "score": 76
     },
     {
+      "name": "@entyrix/mcp",
+      "version": "0.1.1",
+      "description": "Model Context Protocol server for the Entyrix European business-registry (KYB) API. Exposes 10 stdio tools (search, lookup, details, network, relations, advanced search, compliance, financials, suppliers, rankings) for LLM clients (Claude Desktop, Claude",
+      "license": "MIT",
+      "repository": "https://github.com/juliusgerman/entyrix-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40entyrix%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T20:30:43.030Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 69
+    },
+    {
       "name": "@envpit/sdk",
       "version": "0.1.0",
       "description": "Official Node.js/TypeScript SDK for EnvPit — configuration & secrets management without enterprise complexity.",
@@ -16548,6 +16596,18 @@
       "createdAt": "2026-08-10T18:20:03.815Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 66
+    },
+    {
+      "name": "@governancer-foundation/conformance-attestation",
+      "version": "0.1.0",
+      "description": "A regulatory-conformance predicate for in-toto attestations: which requirements a subject meets, on what evidence, and — mandatorily — what was not examined. Axis-agnostic; regulatory axes plug in as profiles.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/governancer-foundation/conformance-attestation",
+      "npmUrl": "https://www.npmjs.com/package/%40governancer-foundation%2Fconformance-attestation",
+      "category": "testing",
+      "createdAt": "2026-08-11T19:45:47.816Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 58
     },
     {
       "name": "@governancer-foundation/funnel-base-mcp",
@@ -27458,6 +27518,18 @@
       "score": 70
     },
     {
+      "name": "@oge-ui/kanban",
+      "version": "0.11.0",
+      "description": "Signal-based Angular Kanban board: swimlanes, WIP limits, per-column virtualization, drag & drop with Escape-cancel, keyboard card moving with live announcements, built-in edit dialog and context menu — the only Angular-native Kanban. Source-available com",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/oge-ui/oge-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40oge-ui%2Fkanban",
+      "category": "frontend",
+      "createdAt": "2026-08-11T19:47:37.624Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 63
+    },
+    {
       "name": "@oge-ui/layout",
       "version": "0.7.0",
       "description": "Signal-based Angular layout family: OgeAccordion with declarative <oge-accordion-item> children or data-driven items, APG keyboard support, single/multiple expansion, lazy rendering, async expand guards, invalid-section indicators and per-panel async cont",
@@ -28368,6 +28440,18 @@
       "createdAt": "2026-07-25T21:38:24.810Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 76
+    },
+    {
+      "name": "@otp.com/sdk-node",
+      "version": "1.0.0",
+      "description": "TypeScript client for the otp.com OTP API: send, verify, and resend one-time passwords.",
+      "license": "MIT",
+      "repository": "https://github.com/otp-com/sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40otp.com%2Fsdk-node",
+      "category": "backend",
+      "createdAt": "2026-08-11T20:11:33.047Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 64
     },
     {
       "name": "@otter-engg/cli",
@@ -30242,6 +30326,18 @@
       "score": 59
     },
     {
+      "name": "@punchsoftware/groom",
+      "version": "0.2.0",
+      "description": "A markdown-native project roadmap that lives in your repo",
+      "license": "MIT",
+      "repository": "https://github.com/brdsmth/groom",
+      "npmUrl": "https://www.npmjs.com/package/%40punchsoftware%2Fgroom",
+      "category": "cli",
+      "createdAt": "2026-08-06T20:20:42.684Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 64
+    },
+    {
       "name": "@purplehaxttv/skillscan",
       "version": "0.1.1",
       "description": "SonarQube-style security scanner for Claude Code skill files",
@@ -30516,6 +30612,18 @@
       "createdAt": "2026-07-28T19:43:41.683Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 66
+    },
+    {
+      "name": "@quantheonix/chatbot",
+      "version": "0.1.0",
+      "description": "Embeddable React AI chatbot widget with streaming responses, authentication, Markdown rendering, and conversation support.",
+      "license": "MIT",
+      "repository": "https://github.com/madhuka2002/quantheonix-ai-chatbot",
+      "npmUrl": "https://www.npmjs.com/package/%40quantheonix%2Fchatbot",
+      "category": "frontend",
+      "createdAt": "2026-08-11T20:08:41.468Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 73
     },
     {
       "name": "@quantovainc/qcore",
@@ -33744,6 +33852,18 @@
       "createdAt": "2026-08-10T17:53:21.205Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 71
+    },
+    {
+      "name": "@serpaudit-fyi/serp-audit-engine",
+      "version": "1.0.0",
+      "description": "SERP Audit Engine is an AI-powered SEO and search visibility audit framework that helps businesses identify website issues and improve their visibility across traditional search and AI platforms.",
+      "license": "MIT",
+      "repository": "https://github.com/SERPAudit-fyi/serp-audit-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40serpaudit-fyi%2Fserp-audit-engine",
+      "category": "data",
+      "createdAt": "2026-08-11T20:16:03.961Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 82
     },
     {
       "name": "@serpchecker-fyi/serp-intelligence",
@@ -37094,6 +37214,18 @@
       "score": 76
     },
     {
+      "name": "@teolin/mcp-browser",
+      "version": "3.3.9",
+      "description": "A local Chrome browser automation MCP server powered by Puppeteer for any agent",
+      "license": "MIT",
+      "repository": "https://github.com/teo-lin/multi-llm-mcps",
+      "npmUrl": "https://www.npmjs.com/package/%40teolin%2Fmcp-browser",
+      "category": "frontend",
+      "createdAt": "2026-08-11T16:51:15.638Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 66
+    },
+    {
       "name": "@teolin/mcp-sonarcloud",
       "version": "1.0.0",
       "description": "MCP server for SonarCloud/SonarQube code quality analysis and issue management",
@@ -37536,6 +37668,18 @@
       "createdAt": "2026-07-28T22:44:44.873Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 62
+    },
+    {
+      "name": "@tianhuil/pi-orca",
+      "version": "1.0.1",
+      "description": "Pi extension that keeps Orca terminal tab titles in sync with the running pi session",
+      "license": "MIT",
+      "repository": "https://github.com/tianhuil/pi-orca",
+      "npmUrl": "https://www.npmjs.com/package/%40tianhuil%2Fpi-orca",
+      "category": "cli",
+      "createdAt": "2026-08-11T20:31:14.642Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 59
     },
     {
       "name": "@ticatec/hierarchy-data",
@@ -39612,6 +39756,18 @@
       "createdAt": "2026-08-08T23:19:58.070Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 61
+    },
+    {
+      "name": "@voxyfy/anadolupay",
+      "version": "1.2.0",
+      "description": "Türk banka ve ödeme sağlayıcıları için tek arayüzlü, framework-bağımsız ödeme kütüphanesi (Node.js/TypeScript)",
+      "license": "MIT",
+      "repository": "https://github.com/Voxyfy/anadolupay-node",
+      "npmUrl": "https://www.npmjs.com/package/%40voxyfy%2Fanadolupay",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T20:22:09.877Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 83
     },
     {
       "name": "@vridhilabs/commerce-skills",
@@ -42024,6 +42180,18 @@
       "createdAt": "2026-08-04T11:46:32.835Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 75
+    },
+    {
+      "name": "a11y-transcript",
+      "version": "1.0.0",
+      "description": "Accessible, dependency-free transcript enhancement with optional media sync, active cue highlighting, and click-to-seek behavior.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/a11y-transcript",
+      "npmUrl": "https://www.npmjs.com/package/a11y-transcript",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T19:52:32.609Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 84
     },
     {
       "name": "a11y-virtual-list",
@@ -44664,6 +44832,18 @@
       "createdAt": "2026-08-03T09:45:20.787Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 78
+    },
+    {
+      "name": "baseclf",
+      "version": "0.1.0",
+      "description": "Auto-REST and real row-level security for Cloudflare D1",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/baseclf/baseclf",
+      "npmUrl": "https://www.npmjs.com/package/baseclf",
+      "category": "data",
+      "createdAt": "2026-08-11T20:32:40.032Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 75
     },
     {
       "name": "bastok",
@@ -48110,6 +48290,18 @@
       "score": 64
     },
     {
+      "name": "create-baseclf",
+      "version": "0.1.0",
+      "description": "Auto-REST and real row-level security for Cloudflare D1",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/baseclf/baseclf",
+      "npmUrl": "https://www.npmjs.com/package/create-baseclf",
+      "category": "data",
+      "createdAt": "2026-08-11T20:32:13.175Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 75
+    },
+    {
       "name": "create-clean-express",
       "version": "0.1.0",
       "description": "An opinionated CLI for Express.js that helps developers create clean, scalable backend APIs using a layered architecture.",
@@ -48708,6 +48900,18 @@
       "createdAt": "2026-07-31T15:35:22.861Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 75
+    },
+    {
+      "name": "cypress-snapshot-bug-reporter",
+      "version": "1.0.0",
+      "description": "AI-powered Cypress plugin for visual regression testing with intelligent bug report generation. Supports OpenAI, Anthropic, Google Gemini, and custom AI providers.",
+      "license": "ISC",
+      "repository": "https://github.com/Docode072/cypress-snapshot-bug-reporter",
+      "npmUrl": "https://www.npmjs.com/package/cypress-snapshot-bug-reporter",
+      "category": "testing",
+      "createdAt": "2026-08-11T19:58:25.950Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 89
     },
     {
       "name": "daddy-chill",
@@ -50750,6 +50954,18 @@
       "score": 81
     },
     {
+      "name": "eslint-plugin-vibesafe",
+      "version": "0.1.0",
+      "description": "Deterministic guardrails for AI-generated TypeScript: comment discipline, strict-tsconfig enforcement, mobile overflow patterns, interactive states, theme-aware colors, and static a11y as one drop-in ESLint plugin, plus a runtime overflow/contrast checker",
+      "license": "MIT",
+      "repository": "https://github.com/aperswal/vibesafe",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-vibesafe",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T20:30:11.228Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 79
+    },
+    {
       "name": "essential-cursors",
       "version": "1.0.0",
       "description": "Essential Cursor — professional SVG cursor system by Essential Web Tools",
@@ -52766,6 +52982,18 @@
       "score": 91
     },
     {
+      "name": "gitwe-ts",
+      "version": "0.23.3",
+      "description": "gitwe — a configurable git workflow engine; git-flow is just one of its workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/idmdakhi/gitwe",
+      "npmUrl": "https://www.npmjs.com/package/gitwe-ts",
+      "category": "cli",
+      "createdAt": "2026-08-11T20:20:30.587Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 64
+    },
+    {
       "name": "glasshive",
       "version": "1.0.0",
       "description": "Glass-walled observation hive for AI agents — a read-only local dashboard of running sessions, subagents, issues, and git",
@@ -52944,6 +53172,18 @@
       "createdAt": "2026-08-09T20:42:14.845Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 94
+    },
+    {
+      "name": "google-apps-script-sync",
+      "version": "0.0.5",
+      "description": "Safely preview and synchronize Google Apps Script projects from VS Code or the terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/rubenchodev/Google-Apps-Script-Sync",
+      "npmUrl": "https://www.npmjs.com/package/google-apps-script-sync",
+      "category": "cli",
+      "createdAt": "2026-08-11T20:08:26.733Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 68
     },
     {
       "name": "google-services-mcp",
@@ -65150,6 +65390,18 @@
       "score": 69
     },
     {
+      "name": "posty-cli",
+      "version": "1.0.0",
+      "description": "Posty CLI - command line interface for the Posty social media scheduling API. The package is `posty-cli`; the command it installs is `posty`. The bare name `posty` on the registry belongs to an unrelated package.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/norbertlevente/posty-agent",
+      "npmUrl": "https://www.npmjs.com/package/posty-cli",
+      "category": "backend",
+      "createdAt": "2026-08-11T20:32:02.174Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 100
+    },
+    {
       "name": "pouch-rwa",
       "version": "0.1.0",
       "description": "pouch: an RWA trading wallet for AI agents on Robinhood Chain. SDK + MCP server with built-in guardrails for autonomous tokenized-stock trading.",
@@ -67634,6 +67886,18 @@
       "score": 75
     },
     {
+      "name": "retold-operation-queue",
+      "version": "0.4.0",
+      "description": "Intent/control layer over an execution queue: durable operation groups that lazily expand into leaf tasks, lane-based preemptive priority, cache-key dedup, and metered dispatch of a bounded window into a worker queue (for example Ultravisor). The source o",
+      "license": "MIT",
+      "repository": "https://github.com/fable-retold/retold-operation-queue",
+      "npmUrl": "https://www.npmjs.com/package/retold-operation-queue",
+      "category": "utilities",
+      "createdAt": "2026-08-11T18:52:03.343Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 63
+    },
+    {
       "name": "retrace-cli",
       "version": "0.3.0",
       "description": "Retrace — checks whether Claude Code did what it said it did, and records everything it did to prove it. CLI, timeline viewer, and check engine.",
@@ -68018,6 +68282,18 @@
       "score": 90
     },
     {
+      "name": "rpgmaker-xp-mcp",
+      "version": "1.1.0",
+      "description": "Author RPG Maker XP games in natural language — an MCP server that reads, writes, and renders RGSS1 .rxdata projects (actors, skills, items, maps, events, scripts) directly.",
+      "license": "MIT",
+      "repository": "https://github.com/SerifeusStudio/rpgmaker-xp-mcp",
+      "npmUrl": "https://www.npmjs.com/package/rpgmaker-xp-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T20:11:26.939Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 95
+    },
+    {
       "name": "rr-html",
       "version": "0.3.1",
       "description": "A zero-dependency Node build system for composable HTML documents — compose <rr-*> components into one self-contained HTML file, styled by your own design tokens or the opt-in bundled theme.",
@@ -68244,6 +68520,18 @@
       "createdAt": "2026-08-04T23:50:31.024Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 73
+    },
+    {
+      "name": "rxdev",
+      "version": "4.1.0",
+      "description": "AI-powered developer workflow tool",
+      "license": "MIT",
+      "repository": "https://github.com/rxgodev/rxdev",
+      "npmUrl": "https://www.npmjs.com/package/rxdev",
+      "category": "cli",
+      "createdAt": "2026-08-11T20:24:19.399Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 77
     },
     {
       "name": "rytena-agent",
@@ -71712,6 +72000,18 @@
       "createdAt": "2026-08-01T15:21:58.286Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 49
+    },
+    {
+      "name": "thebrain-mcp-server",
+      "version": "0.1.0",
+      "description": "MCP server for TheBrain 15 — semantic operations over the local API",
+      "license": "MIT",
+      "repository": "https://github.com/yBookoff/thebrain-mcp",
+      "npmUrl": "https://www.npmjs.com/package/thebrain-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-11T20:12:42.795Z",
+      "discoveredAt": "2026-08-11T20:35:55.479Z",
+      "score": 59
     },
     {
       "name": "thedelegator",
