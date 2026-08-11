@@ -1,39 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124406895,
-  "lastRunAt": "2026-08-11T14:06:14.756Z",
+  "lastSequence": 124419913,
+  "lastRunAt": "2026-08-11T15:12:22.224Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@michalosadowski/jira-mcp",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@musnows/read-image-cli",
-      "attempts": 1
-    },
-    {
-      "name": "@gondola-market/openclaw-gondola-provider",
-      "attempts": 1
-    },
-    {
-      "name": "@vuecs/data",
-      "attempts": 1
-    },
-    {
-      "name": "@codemodekit/core",
-      "attempts": 1
-    },
-    {
-      "name": "@wix/auto_sdk_revshare-premium-payouts_revshare-premium-payouts",
-      "attempts": 1
-    },
-    {
-      "name": "@wix/revshare-premium-payouts",
-      "attempts": 1
-    },
-    {
-      "name": "@codemodekit/sandbox-quickjs",
+      "name": "@flighthq/registry",
       "attempts": 1
     }
   ]
