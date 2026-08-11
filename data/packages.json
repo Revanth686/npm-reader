@@ -13142,6 +13142,18 @@
       "score": 56
     },
     {
+      "name": "@ghilteras/opencode-agent-memory",
+      "version": "0.3.0",
+      "description": "Letta-style editable memory blocks + journal for OpenCode (maintained fork of opencode-agent-memory).",
+      "license": "MIT",
+      "repository": "https://github.com/Ghilteras/opencode-agent-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40ghilteras%2Fopencode-agent-memory",
+      "category": "utilities",
+      "createdAt": "2026-08-11T21:16:52.306Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 50
+    },
+    {
       "name": "@ghilteras/opencode-reasoning-pruner",
       "version": "1.0.0",
       "description": "Prunes historical reasoning parts from the message history sent to the LLM (keeping the last turn's), saving context window and tokens on reasoning models. Model-agnostic; uses the idiomatic experimental.chat.messages.transform hook.",
@@ -13524,6 +13536,18 @@
       "createdAt": "2026-08-08T14:55:27.308Z",
       "discoveredAt": "2026-08-08T15:21:29.909Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/bank",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BANK (build etherscan-bank-2d94aa3e-1786481229676, commit 2ec59ce, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/bank",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbank",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T20:47:30.268Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/bbl",
@@ -14342,6 +14366,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/fnd",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FND (build etherscan-fnd-3b3ee193-1786482215339, commit 73a97cc, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/fnd",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ffnd",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T21:03:58.051Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/frink",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for FRINK (build etherscan-frink-ed2ee398-1786259134141, commit 631581e, branch etherscan)",
@@ -14460,6 +14496,18 @@
       "createdAt": "2026-08-09T02:23:20.756Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/gnosissafel",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for GnosisSafeL (build etherscan-gnosissafel-27cbc41e-1786480974766, commit b44d14a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/gnosissafel",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fgnosissafel",
+      "category": "build-tools",
+      "createdAt": "2026-08-06T14:23:12.052Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/goatz",
@@ -14820,6 +14868,30 @@
       "createdAt": "2026-08-07T20:55:21.643Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/mak",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MAK (build etherscan-mak-d073e634-1786482220091, commit 45d8b21, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mak",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmak",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T21:04:23.664Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/mars4",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MARS4 (build etherscan-mars4-16cda402-1786483390516, commit 04e9b0c, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mars4",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmars4",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T21:23:31.172Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/maxpainandfrensopeneditionbyxcopy",
@@ -19850,6 +19922,18 @@
       "score": 98
     },
     {
+      "name": "@janvitos/pi-plan-mode",
+      "version": "0.49.4",
+      "description": "Pi extension that adds a Codex-like read-only /plan collaboration mode.",
+      "license": "MIT",
+      "repository": "https://github.com/janvitos/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40janvitos%2Fpi-plan-mode",
+      "category": "utilities",
+      "createdAt": "2026-08-11T20:36:15.719Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 67
+    },
+    {
       "name": "@jarome/pi-hub",
       "version": "0.0.2",
       "description": "Web UI for the pi coding agent (pi-hub fork of pi-web, with scheduler, Telegram and notification integrations)",
@@ -24002,6 +24086,18 @@
       "score": 69
     },
     {
+      "name": "@microfeed/theme-kit",
+      "version": "1.0.3",
+      "description": "Author, validate, test, and preview microfeed themes.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/microfeed/microfeed",
+      "npmUrl": "https://www.npmjs.com/package/%40microfeed%2Ftheme-kit",
+      "category": "testing",
+      "createdAt": "2026-08-11T20:38:45.124Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 75
+    },
+    {
       "name": "@microsoft/voice-widget-embed",
       "version": "0.1.0",
       "description": "Self-contained CDN bundle that registers the <voice-agent> custom element.",
@@ -26546,6 +26642,18 @@
       "score": 86
     },
     {
+      "name": "@ngx-runtime-i18n/material",
+      "version": "2.1.0",
+      "description": "Angular Material adapter for @ngx-runtime-i18n/angular",
+      "license": "MIT",
+      "repository": "https://github.com/AshwinSathian/ngx-runtime-i18n",
+      "npmUrl": "https://www.npmjs.com/package/%40ngx-runtime-i18n%2Fmaterial",
+      "category": "frontend",
+      "createdAt": "2026-08-11T20:53:36.052Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 51
+    },
+    {
       "name": "@nharing/prepass",
       "version": "0.1.0",
       "description": "Stops your coding agent searching from zero. Ranks your repo against the prompt and hands the agent a shortlist of file paths, in ~110ms. No API key, no network call, no index. Works with Claude Code, Codex, and any agent that can run a command.",
@@ -28608,6 +28716,18 @@
       "createdAt": "2026-07-27T11:23:01.035Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 88
+    },
+    {
+      "name": "@paadev/paa-contracts",
+      "version": "0.1.0",
+      "description": "Published contract artifacts of the Progressive Autonomy Architecture: four normative JSON Schemas, the positive fixture corpus every implementation is checked against, and the table-driven invalid-case matrices.",
+      "license": "MIT",
+      "repository": "https://github.com/RankOneLabs/paa",
+      "npmUrl": "https://www.npmjs.com/package/%40paadev%2Fpaa-contracts",
+      "category": "data",
+      "createdAt": "2026-08-11T21:02:32.126Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 70
     },
     {
       "name": "@pactmandev/nonprofit-check-plus",
@@ -36710,6 +36830,18 @@
       "score": 58
     },
     {
+      "name": "@tangle-network/braid",
+      "version": "0.1.1",
+      "description": "A universal terminal interface for portable agent profiles",
+      "license": "MIT",
+      "repository": "https://github.com/tangle-network/braid",
+      "npmUrl": "https://www.npmjs.com/package/%40tangle-network%2Fbraid",
+      "category": "cli",
+      "createdAt": "2026-08-11T13:17:45.735Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 55
+    },
+    {
       "name": "@tanqory/app-bridge",
       "version": "0.3.0",
       "description": "Typed postMessage bridge between the Tanqory dashboard (host) and an embedded app rendered in an iframe (guest). Handles origin validation, request/response correlation, token handoff, and route mirroring.",
@@ -43622,6 +43754,18 @@
       "score": 72
     },
     {
+      "name": "analyga",
+      "version": "0.1.1",
+      "description": "Agent-first analytics CLI and MCP server for Tyga analytics. Query, instrument and configure without a browser.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/jyswee/analyga",
+      "npmUrl": "https://www.npmjs.com/package/analyga",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:16:42.523Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 81
+    },
+    {
       "name": "anamorphic",
       "version": "0.1.0",
       "description": "Head-tracked off-axis projection for a web page. The camera finds your eyes and the page is re-projected from that exact viewpoint.",
@@ -43752,6 +43896,18 @@
       "createdAt": "2026-08-03T04:32:24.456Z",
       "discoveredAt": "2026-08-03T05:50:48.787Z",
       "score": 81
+    },
+    {
+      "name": "antfu-oxlint-vue",
+      "version": "0.1.0",
+      "description": "The antfu ESLint style, ported to oxlint and oxfmt. Drop-in config for Vue and TypeScript projects.",
+      "license": "MIT",
+      "repository": "https://github.com/vad1ym/antfu-oxlint-vue",
+      "npmUrl": "https://www.npmjs.com/package/antfu-oxlint-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:02:16.521Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 63
     },
     {
       "name": "anti-default",
@@ -47834,6 +47990,18 @@
       "score": 75
     },
     {
+      "name": "conclave-ai",
+      "version": "0.2.0",
+      "description": "Graph-aware independent validator for code changes and agent claims",
+      "license": "MIT",
+      "repository": "https://github.com/carvalhobfr/conclave",
+      "npmUrl": "https://www.npmjs.com/package/conclave-ai",
+      "category": "cli",
+      "createdAt": "2026-08-11T20:55:02.413Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 68
+    },
+    {
       "name": "concurrent-c-python",
       "version": "0.3.0",
       "description": "Python from Node over the Concurrent-C bridge: import any Python module, call it with zero-copy typed arrays, host-controlled lifetime.",
@@ -48506,6 +48674,18 @@
       "score": 83
     },
     {
+      "name": "create-pathfinder",
+      "version": "1.4.0",
+      "description": "Install the Pathfinder AI-assisted, human-in-the-loop workflow kit into a Git repository.",
+      "license": "MIT",
+      "repository": "https://github.com/rikilamadrid/pathfinder",
+      "npmUrl": "https://www.npmjs.com/package/create-pathfinder",
+      "category": "utilities",
+      "createdAt": "2026-08-11T16:13:09.791Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 52
+    },
+    {
       "name": "create-playce-agent",
       "version": "0.1.0",
       "description": "Scaffold a Playce agent — one command: registers you, writes .env, installs deps. `npm create playce-agent@latest`",
@@ -49104,6 +49284,18 @@
       "createdAt": "2026-08-02T12:09:34.112Z",
       "discoveredAt": "2026-08-02T13:03:05.537Z",
       "score": 71
+    },
+    {
+      "name": "dbopfs",
+      "version": "1.0.0",
+      "description": "A browser-native database that maps tables and records to the Origin Private File System.",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "repository": "https://github.com/TheWizardNexus/DBOPFS",
+      "npmUrl": "https://www.npmjs.com/package/dbopfs",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:10:52.452Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 63
     },
     {
       "name": "dbopt-core",
@@ -53558,6 +53750,18 @@
       "score": 64
     },
     {
+      "name": "harness-racer",
+      "version": "0.1.0",
+      "description": "Race local coding-agent harness and model stacks by visible responsiveness and streaming speed.",
+      "license": "MIT",
+      "repository": "https://github.com/BalajiLeninrajan/harness-racer",
+      "npmUrl": "https://www.npmjs.com/package/harness-racer",
+      "category": "utilities",
+      "createdAt": "2026-08-11T20:40:57.665Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 50
+    },
+    {
       "name": "harnessmeter",
       "version": "0.1.1",
       "description": "A profiler for your agentic harness. Price every line of CLAUDE.md, every skill, subagent and MCP server — then find the ones that don't earn their place.",
@@ -56786,6 +56990,18 @@
       "score": 79
     },
     {
+      "name": "llm-anthology",
+      "version": "0.1.0",
+      "description": "Local, offline, faithful renderer for ChatGPT / Claude / Gemini session exports (HTML + Markdown). No network, no egress.",
+      "license": "MIT",
+      "repository": "https://github.com/Prekzursil/llm-anthology",
+      "npmUrl": "https://www.npmjs.com/package/llm-anthology",
+      "category": "utilities",
+      "createdAt": "2026-08-11T21:00:18.503Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 56
+    },
+    {
       "name": "llm-backoff",
       "version": "0.0.1",
       "description": "Retries that read provider rate-limit headers instead of guessing an exponential delay.",
@@ -57398,6 +57614,18 @@
       "score": 64
     },
     {
+      "name": "mail7-mcp",
+      "version": "0.1.0",
+      "description": "Mail7 MCP server - email validation, SPF and full domain mail-config checks as tools for AI assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/dvlop/mail7-integrations",
+      "npmUrl": "https://www.npmjs.com/package/mail7-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:09:35.006Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 49
+    },
+    {
       "name": "make-npx-card",
       "version": "1.0.1",
       "description": "Interactive generator for npx business cards — mint your own `npx <you>` card in under a minute",
@@ -57444,6 +57672,18 @@
       "createdAt": "2026-08-10T23:00:50.215Z",
       "discoveredAt": "2026-08-10T23:06:27.902Z",
       "score": 56
+    },
+    {
+      "name": "mapa-mental-widget",
+      "version": "0.1.1",
+      "description": "Widget de mapa mental interativo em vanilla JS. Engine de layout de árvore com zoom/pan, collapse/expand, legenda, fullscreen, touch.",
+      "license": "MIT",
+      "repository": "https://github.com/acomar/mapa-mental-widget",
+      "npmUrl": "https://www.npmjs.com/package/mapa-mental-widget",
+      "category": "utilities",
+      "createdAt": "2026-08-03T17:01:24.458Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 50
     },
     {
       "name": "maplibre-gl-3dtiles-terrain",
@@ -60254,6 +60494,18 @@
       "score": 69
     },
     {
+      "name": "naabigacode",
+      "version": "0.1.0",
+      "description": "NaabigaCode — agentic coding en terminal (TUI style Claude Code + backend Python). Installation one-shot : backend auto-installé dans ~/.naabiga.",
+      "license": "MIT",
+      "repository": "https://github.com/n8nprobf-hub/NaabigaCode",
+      "npmUrl": "https://www.npmjs.com/package/naabigacode",
+      "category": "frontend",
+      "createdAt": "2026-08-11T20:57:00.502Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 50
+    },
+    {
       "name": "nacre-cli",
       "version": "0.7.0",
       "description": "One shared memory for your whole company — plain Markdown in git that your agent loads at session start and your team reads in a browser.",
@@ -61020,6 +61272,18 @@
       "createdAt": "2026-08-01T09:35:51.845Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 92
+    },
+    {
+      "name": "nigeria-inec-geo",
+      "version": "1.0.0",
+      "description": "Nigeria's complete electoral geography from INEC: 37 states, 774 LGAs, 8,809 wards and 176,846 polling units, with official INEC codes.",
+      "license": "MIT",
+      "repository": "https://github.com/saidiadegoke/nigeria-inec-geo",
+      "npmUrl": "https://www.npmjs.com/package/nigeria-inec-geo",
+      "category": "data",
+      "createdAt": "2026-08-11T21:13:31.801Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 85
     },
     {
       "name": "nikki.streams",
@@ -63036,6 +63300,18 @@
       "createdAt": "2026-07-26T00:45:50.231Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 62
+    },
+    {
+      "name": "oxlint-vue",
+      "version": "0.1.0",
+      "description": "Vue SFC linting and formatting on the oxc toolchain. Rules reach inside <template>, no eslint-plugin-vue.",
+      "license": "MIT",
+      "repository": "https://github.com/vad1ym/oxlint-vue",
+      "npmUrl": "https://www.npmjs.com/package/oxlint-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:01:44.408Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 78
     },
     {
       "name": "paceproof-cli",
@@ -71978,6 +72254,18 @@
       "score": 82
     },
     {
+      "name": "the-morphism",
+      "version": "2.1.0",
+      "description": "Anti-slop morphism & aesthetic design skill for Hermes Agent. Glassmorphism, Neumorphism, Claymorphism, Minimalism, Maximalism, Brutalism, Skeuomorphism, and Liquid Glass — pick the right aesthetic and ship depth-rich interfaces.",
+      "license": "MIT",
+      "repository": "https://github.com/ensayiti/The-Morphism",
+      "npmUrl": "https://www.npmjs.com/package/the-morphism",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:13:49.572Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 71
+    },
+    {
       "name": "the-voyage-ai",
       "version": "0.2.0",
       "description": "A product-agnostic AI crew that chooses a destination and ships what matters.",
@@ -72300,6 +72588,18 @@
       "createdAt": "2026-07-27T09:13:14.425Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 98
+    },
+    {
+      "name": "tiptap-rte-kit",
+      "version": "0.1.0",
+      "description": "A batteries-included Tiptap rich text editor + read-only renderer + toolbar, built on @heroui/react. Extracted from Bridgeto so it can be reused across projects.",
+      "license": "MIT",
+      "repository": "https://github.com/ehsanamiri9214/tiptap-rte-kit",
+      "npmUrl": "https://www.npmjs.com/package/tiptap-rte-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:22:42.582Z",
+      "discoveredAt": "2026-08-11T21:26:17.748Z",
+      "score": 57
     },
     {
       "name": "tiptap-static",

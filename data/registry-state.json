@@ -1,31 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124477265,
-  "lastRunAt": "2026-08-11T20:35:55.479Z",
+  "lastSequence": 124483383,
+  "lastRunAt": "2026-08-11T21:26:17.748Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@infragate/cairn",
+      "name": "@mollyguard/core",
       "attempts": 1
     },
     {
-      "name": "@infragate/cairn-linux-x64",
+      "name": "@forgebuild/hotal-ui",
       "attempts": 1
     },
     {
-      "name": "@infragate/cairn-linux-arm64",
+      "name": "@zokugun/eslint-typegen-plus",
       "attempts": 1
     },
     {
-      "name": "@infragate/cairn-darwin-x64",
+      "name": "@rophpad/dashu-core",
       "attempts": 1
     },
     {
-      "name": "@infragate/cairn-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@infragate/cairn-win32-x64",
+      "name": "@rophpad/dashu-provider-openai-compatible",
       "attempts": 1
     }
   ]
