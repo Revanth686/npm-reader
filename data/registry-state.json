@@ -1,35 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124439355,
-  "lastRunAt": "2026-08-11T16:49:37.126Z",
+  "lastSequence": 124448600,
+  "lastRunAt": "2026-08-11T17:44:15.060Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@michalosadowski/jira-mcp",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@ai-digital-factory/auth-manager-core",
+      "name": "@authentify2026/consent-widget",
       "attempts": 1
     },
     {
-      "name": "@ai-digital-factory/auth-manager-react",
+      "name": "@dg-kit/safety",
       "attempts": 1
     },
     {
-      "name": "@ai-digital-factory/auth-manager-next",
-      "attempts": 1
-    },
-    {
-      "name": "@ai-digital-factory/auth-manager-clerk",
-      "attempts": 1
-    },
-    {
-      "name": "@holaxis/superbee",
-      "attempts": 1
-    },
-    {
-      "name": "@questdb/mcp-server-questdb",
+      "name": "@usecontextlayer/trove",
       "attempts": 1
     }
   ]
