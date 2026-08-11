@@ -21038,6 +21038,18 @@
       "score": 43
     },
     {
+      "name": "@kobzi/gmconfig",
+      "version": "1.0.0",
+      "description": "Lightweight, multi-instance configuration dialog for Tampermonkey userscripts",
+      "license": "MIT",
+      "repository": "https://github.com/Kobzi/gmConfig",
+      "npmUrl": "https://www.npmjs.com/package/%40kobzi%2Fgmconfig",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:07:35.011Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 83
+    },
+    {
       "name": "@kontourai/ephemeris",
       "version": "0.4.0",
       "description": "Kontour's external time actor: a deadline engine (data-derived freshness wake-ups that nudge Flow) plus a pure recurring-schedule core (cron/at/every, timezone/DST-aware, catch-up). It triggers; it never authors.",
@@ -26028,6 +26040,18 @@
       "createdAt": "2026-08-05T04:46:32.705Z",
       "discoveredAt": "2026-08-05T07:39:52.818Z",
       "score": 86
+    },
+    {
+      "name": "@namecom/core-api",
+      "version": "1.33.0",
+      "description": "Official TypeScript SDK for the name.com Core API",
+      "license": "MIT",
+      "repository": "https://github.com/namedotcom/core-api-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40namecom%2Fcore-api",
+      "category": "frontend",
+      "createdAt": "2026-08-03T17:45:47.602Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 67
     },
     {
       "name": "@namphuongtechnologi/acs-chat-react",
@@ -36602,6 +36626,210 @@
       "score": 80
     },
     {
+      "name": "@syncafricabs/kernspark-adonisjs",
+      "version": "1.0.0",
+      "description": "AdonisJS adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-adonisjs",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:21:14.152Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 79
+    },
+    {
+      "name": "@syncafricabs/kernspark-core",
+      "version": "1.0.0",
+      "description": "Framework-independent core for standardized API responses, validation, result types, and domain primitives.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-core",
+      "category": "frontend",
+      "createdAt": "2026-08-11T22:21:24.677Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 84
+    },
+    {
+      "name": "@syncafricabs/kernspark-elysiajs",
+      "version": "1.0.0",
+      "description": "ElysiaJS adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-elysiajs",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:21:33.735Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 79
+    },
+    {
+      "name": "@syncafricabs/kernspark-express",
+      "version": "1.0.0",
+      "description": "Express adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-express",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:21:40.801Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 74
+    },
+    {
+      "name": "@syncafricabs/kernspark-fastify",
+      "version": "1.0.0",
+      "description": "Fastify adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-fastify",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:21:47.551Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 74
+    },
+    {
+      "name": "@syncafricabs/kernspark-feathers",
+      "version": "1.0.0",
+      "description": "FeathersJS adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-feathers",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:21:56.658Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 79
+    },
+    {
+      "name": "@syncafricabs/kernspark-hono",
+      "version": "1.0.0",
+      "description": "Hono adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-hono",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:22:05.273Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 76
+    },
+    {
+      "name": "@syncafricabs/kernspark-koa",
+      "version": "1.0.0",
+      "description": "Koa adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-koa",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:22:11.289Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 76
+    },
+    {
+      "name": "@syncafricabs/kernspark-nestjs",
+      "version": "1.0.0",
+      "description": "NestJS adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-nestjs",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:22:22.168Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 76
+    },
+    {
+      "name": "@syncafricabs/kernspark-nextjs",
+      "version": "1.0.0",
+      "description": "Next.js adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-nextjs",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:22:28.537Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 80
+    },
+    {
+      "name": "@syncafricabs/kernspark-nitro",
+      "version": "1.0.0",
+      "description": "Nitro adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-nitro",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:23:09.610Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 78
+    },
+    {
+      "name": "@syncafricabs/kernspark-nuxt",
+      "version": "1.0.0",
+      "description": "Nuxt adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-nuxt",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:23:17.101Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 78
+    },
+    {
+      "name": "@syncafricabs/kernspark-remix",
+      "version": "1.0.0",
+      "description": "Remix adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-remix",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:24:09.373Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 78
+    },
+    {
+      "name": "@syncafricabs/kernspark-sailsjs",
+      "version": "1.0.0",
+      "description": "SailsJS adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-sailsjs",
+      "category": "utilities",
+      "createdAt": "2026-08-11T22:24:16.047Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 78
+    },
+    {
+      "name": "@syncafricabs/kernspark-strapi",
+      "version": "1.0.0",
+      "description": "Strapi adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-strapi",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:24:22.580Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 76
+    },
+    {
+      "name": "@syncafricabs/kernspark-sveltekit",
+      "version": "1.0.0",
+      "description": "SvelteKit adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-sveltekit",
+      "category": "frontend",
+      "createdAt": "2026-08-11T22:24:28.356Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 79
+    },
+    {
+      "name": "@syncafricabs/kernspark-trpc",
+      "version": "1.0.0",
+      "description": "tRPC adapter for @syncafricabs/kernspark-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iamprovy-dev/kernspark-js",
+      "npmUrl": "https://www.npmjs.com/package/%40syncafricabs%2Fkernspark-trpc",
+      "category": "data",
+      "createdAt": "2026-08-11T22:24:35.831Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 76
+    },
+    {
       "name": "@syncafricabs/shared-kernel-core",
       "version": "1.0.0",
       "description": "Uniform API responses, robust validation, zero boilerplate — for Node.js.",
@@ -46070,6 +46298,18 @@
       "score": 66
     },
     {
+      "name": "calamine",
+      "version": "0.1.0",
+      "description": "Fast xlsx/xls/xlsb/ods reader — calamine compiled to WebAssembly. One artifact for Node, Bun, Deno, browsers and edge workers.",
+      "license": "MIT",
+      "repository": "https://github.com/lucassarcanjo/calaminejs",
+      "npmUrl": "https://www.npmjs.com/package/calamine",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:37:17.375Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 73
+    },
+    {
       "name": "calldiff",
       "version": "0.2.0",
       "description": "Diff call stacks across git commits (TypeScript, Python, Go, and more)",
@@ -47652,6 +47892,18 @@
       "createdAt": "2026-07-25T13:24:12.455Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 73
+    },
+    {
+      "name": "codex-connector",
+      "version": "0.1.0",
+      "description": "Let your users bring their own ChatGPT Codex plan to your web app through a restricted localhost bridge.",
+      "license": "MIT",
+      "repository": "https://github.com/realZachi/codex-connector",
+      "npmUrl": "https://www.npmjs.com/package/codex-connector",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:06:51.699Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 74
     },
     {
       "name": "codex-memory-intelligence",
@@ -53282,6 +53534,18 @@
       "score": 70
     },
     {
+      "name": "glyphlint",
+      "version": "0.1.0",
+      "description": "Accessibility scanner for defects caused by writing systems. Runs axe-core, then adds a script-aware rule layer on top.",
+      "license": "MIT",
+      "repository": "https://github.com/haeithm-muter/glyphlint",
+      "npmUrl": "https://www.npmjs.com/package/glyphlint",
+      "category": "testing",
+      "createdAt": "2026-08-11T22:02:59.794Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 81
+    },
+    {
       "name": "gmail-multi-mcp",
       "version": "0.1.0",
       "description": "MCP server for multiple Gmail accounts. Per-account permission tiers, two-phase confirmation on every send, and prompt-injection defenses on untrusted mail content.",
@@ -57108,6 +57372,18 @@
       "createdAt": "2026-07-26T15:08:52.864Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 81
+    },
+    {
+      "name": "lo-justo-design-kit",
+      "version": "0.2.0",
+      "description": "Sistema de diseño para banca de baja densidad: componentes React, tokens y exportación a Figma. Con verificación de contraste que rompe el build. Ejercicio de diseño, no afiliado a ninguna entidad.",
+      "license": "MIT",
+      "repository": "https://github.com/dapino/lo-justo-design-kit",
+      "npmUrl": "https://www.npmjs.com/package/lo-justo-design-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:36:22.846Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 89
     },
     {
       "name": "loadforge",
@@ -62762,6 +63038,18 @@
       "score": 62
     },
     {
+      "name": "opencode-tokenmeter-tui",
+      "version": "1.0.0",
+      "description": "OpenCode TUI plugin: TokenMeter sidebar — live token usage, cost, and delegation tree for sessions",
+      "license": "MIT",
+      "repository": "https://github.com/jonasotoaguilar/opencode-tokenmeter",
+      "npmUrl": "https://www.npmjs.com/package/opencode-tokenmeter-tui",
+      "category": "utilities",
+      "createdAt": "2026-08-11T21:30:28.414Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 79
+    },
+    {
       "name": "opencode-wecom-ping",
       "version": "1.0.0",
       "description": "OpenCode plugin: push WeChat Work (企业微信) notifications on reply complete / error / permission request",
@@ -67812,6 +68100,18 @@
       "createdAt": "2026-08-10T13:49:44.060Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 80
+    },
+    {
+      "name": "reel-video",
+      "version": "0.1.0",
+      "description": "Reel Video — agent-operated canvas for short videos with Grok Build and Codex",
+      "license": "MIT",
+      "repository": "https://github.com/WannaBeSolopreneur/reel-video",
+      "npmUrl": "https://www.npmjs.com/package/reel-video",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T22:28:38.373Z",
+      "discoveredAt": "2026-08-11T22:33:23.993Z",
+      "score": 69
     },
     {
       "name": "reepub",
