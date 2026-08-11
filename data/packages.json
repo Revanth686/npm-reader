@@ -302,6 +302,18 @@
       "score": 80
     },
     {
+      "name": "@4sh/ui-kit",
+      "version": "0.1.0",
+      "description": "Composants Angular headless du Design System 4SH : signals + Angular CDK, stylés exclusivement par design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/4sh/starter-angular",
+      "npmUrl": "https://www.npmjs.com/package/%404sh%2Fui-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-11T15:23:00.268Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 74
+    },
+    {
       "name": "@5ss/ai-tools",
       "version": "2.11.2",
       "description": "Reusable AI tools with strict schemas and model-facing contracts. Define once; project to Node, edge, Mastra, AI SDK, TanStack AI, Cloudflare Workers AI, or MCP.",
@@ -420,6 +432,18 @@
       "createdAt": "2026-08-09T20:34:07.936Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 56
+    },
+    {
+      "name": "@aboalynx/payment",
+      "version": "0.1.0",
+      "description": "Gateway-agnostic payment processing for NestJS. One interface for Stripe and PayPal, designed to be extended.",
+      "license": "MIT",
+      "repository": "https://github.com/aboalynx/payment",
+      "npmUrl": "https://www.npmjs.com/package/%40aboalynx%2Fpayment",
+      "category": "backend",
+      "createdAt": "2026-08-11T16:19:06.032Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 69
     },
     {
       "name": "@abraca/junis",
@@ -2102,6 +2126,18 @@
       "score": 65
     },
     {
+      "name": "@allratestoday/mas-exchange-rate",
+      "version": "1.2.1",
+      "description": "Official Monetary Authority of Singapore (Singapore) daily exchange rates — 21 currencies vs SGD, history since 1988. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/mas-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fmas-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-08-11T16:46:15.484Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 91
+    },
+    {
       "name": "@allratestoday/nbc-cambodia-exchange-rate",
       "version": "1.1.0",
       "description": "Official National Bank of Cambodia (Cambodia) daily exchange rates — 29 currencies vs KHR, history since 2016. Zero-dependency Node.js/TypeScript client.",
@@ -3096,6 +3132,18 @@
       "createdAt": "2026-08-08T08:02:49.825Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 41
+    },
+    {
+      "name": "@arcevo/facet-docs",
+      "version": "1.2.0",
+      "description": "Installable, config-driven documentation site engine for the Arcevo ecosystem: component gallery with variant pages, per-variant usage tabs, install tabs, and an optional ecosystem links section. Mount <DocsApp config={...} /> with your own brand, pages,",
+      "license": "MIT",
+      "repository": "https://github.com/ArcevoDev/facet",
+      "npmUrl": "https://www.npmjs.com/package/%40arcevo%2Ffacet-docs",
+      "category": "frontend",
+      "createdAt": "2026-08-03T05:53:30.060Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 71
     },
     {
       "name": "@arch-network/wallet-connect-kit",
@@ -4982,6 +5030,18 @@
       "score": 55
     },
     {
+      "name": "@blinkdotnew/dev-cli",
+      "version": "0.8.0",
+      "description": "DEV twin of @blinkdotnew/cli — publish-pipeline testing only, do not install for real use.",
+      "license": "MIT",
+      "repository": "https://github.com/blink-new/blink-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40blinkdotnew%2Fdev-cli",
+      "category": "testing",
+      "createdAt": "2026-08-11T15:35:27.433Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 73
+    },
+    {
       "name": "@blipr/mcp",
       "version": "0.4.0",
       "description": "MCP server that lets AI agents send Blipr push alerts to your phone — your agent can page you.",
@@ -6096,6 +6156,18 @@
       "createdAt": "2026-08-11T08:40:11.541Z",
       "discoveredAt": "2026-08-11T08:59:52.637Z",
       "score": 72
+    },
+    {
+      "name": "@caveman-ai/cli",
+      "version": "1.0.0",
+      "description": "Caveman CLI — wrap coding agents with recoverable local context compression and truthful metering (`caveman claude`), then drive Caveman Cloud from terminal. Compression and metering run in companion Go binaries: run `caveman setup` to see install state.",
+      "license": "MIT",
+      "repository": "https://github.com/JuliusBrussee/caveman",
+      "npmUrl": "https://www.npmjs.com/package/%40caveman-ai%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-11T15:51:47.357Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 79
     },
     {
       "name": "@cavsnode/dedup-sdk",
@@ -20450,6 +20522,18 @@
       "score": 82
     },
     {
+      "name": "@kertin/zeact",
+      "version": "0.1.0",
+      "description": "Scenario-tuned performance primitives for React 18",
+      "license": "MIT",
+      "repository": "https://github.com/Jiupeidun/Zeact",
+      "npmUrl": "https://www.npmjs.com/package/%40kertin%2Fzeact",
+      "category": "frontend",
+      "createdAt": "2026-08-11T15:59:32.631Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 71
+    },
+    {
       "name": "@keverdjs/node",
       "version": "1.0.0",
       "description": "Server-side Node.js SDK for Keverd — verify events and handle webhooks",
@@ -20556,6 +20640,18 @@
       "createdAt": "2026-08-10T11:42:45.750Z",
       "discoveredAt": "2026-08-11T11:31:08.793Z",
       "score": 80
+    },
+    {
+      "name": "@kitwork/kitjs",
+      "version": "0.8.0",
+      "description": "A standalone, no-build browser runtime for reactive HTML, components, morphing, and navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/kitwork/kit.js",
+      "npmUrl": "https://www.npmjs.com/package/%40kitwork%2Fkitjs",
+      "category": "frontend",
+      "createdAt": "2026-08-11T15:21:06.692Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 79
     },
     {
       "name": "@kivimedia/kmhub",
@@ -23556,6 +23652,18 @@
       "createdAt": "2026-07-26T05:05:10.169Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 77
+    },
+    {
+      "name": "@miadi/composition-to-episode",
+      "version": "0.1.4",
+      "description": "The migration weaver — transitional, strangler-era tooling. Reads a legacy gmtermux composition folder and weaves its provenance into a miadi-chronicle episode; never rewrites a composition, never invents an episode number, marks every projection canonica",
+      "license": "MIT",
+      "repository": "https://github.com/jgwill/Miadi",
+      "npmUrl": "https://www.npmjs.com/package/%40miadi%2Fcomposition-to-episode",
+      "category": "utilities",
+      "createdAt": "2026-08-11T16:35:52.499Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 73
     },
     {
       "name": "@miadi/recording-client",
@@ -26592,6 +26700,18 @@
       "createdAt": "2026-08-08T23:40:37.189Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 72
+    },
+    {
+      "name": "@notificator-project/strapi-extension",
+      "version": "0.1.0",
+      "description": "Create notifications from Strapi events and deliver them through Notificator.",
+      "license": "MIT",
+      "repository": "https://github.com/notificator-project/Strapi-Extension",
+      "npmUrl": "https://www.npmjs.com/package/%40notificator-project%2Fstrapi-extension",
+      "category": "backend",
+      "createdAt": "2026-08-11T15:32:06.662Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 77
     },
     {
       "name": "@notionhq/lore",
@@ -30780,6 +30900,30 @@
       "createdAt": "2026-07-25T19:08:40.276Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 75
+    },
+    {
+      "name": "@reactive-leds/cli",
+      "version": "1.0.0",
+      "description": "Command-line tools for provisioning, discovering, and controlling reactive-leds ESP32-S3 devices over UDP, USB and BLE. Includes a WebSocket proxy for browser-based LED control.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/genbs/reactive-leds",
+      "npmUrl": "https://www.npmjs.com/package/%40reactive-leds%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-08-11T16:38:09.830Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 89
+    },
+    {
+      "name": "@reactive-leds/client",
+      "version": "1.0.1",
+      "description": "Browser JavaScript client for realtime LED control over WebSocket. Bridges the reactive-leds UDP protocol to browser applications via a local proxy.",
+      "license": "MIT",
+      "repository": "https://github.com/genbs/reactive-leds",
+      "npmUrl": "https://www.npmjs.com/package/%40reactive-leds%2Fclient",
+      "category": "frontend",
+      "createdAt": "2026-08-11T16:17:41.395Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 83
     },
     {
       "name": "@reactorynet/workflow-es-sqlite",
@@ -39134,6 +39278,18 @@
       "score": 60
     },
     {
+      "name": "@vukvukovich/hammerspoon-mcp",
+      "version": "0.1.1",
+      "description": "MCP server for Hammerspoon. Injection-safe argument passing, tiered tool permissions, and Hammerspoon API docs search.",
+      "license": "MIT",
+      "repository": "https://github.com/vukvukovich/hammerspoon-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40vukvukovich%2Fhammerspoon-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T15:16:32.919Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 75
+    },
+    {
       "name": "@vul-os/kotva-sync",
       "version": "0.1.0",
       "description": "The browser/JS binding for the KOTVA Sync substrate (substrate/SYNC.md, substrate/BINDINGS.md §3): a wasm-bindgen wrapper exposing kotva-sync's signed CRDT operation algebra, HLC, observable-state snapshots, version vectors and range-Merkle reconciliation",
@@ -40970,6 +41126,18 @@
       "score": 61
     },
     {
+      "name": "@zioladev/interop-runtime",
+      "version": "0.1.0",
+      "description": "A model-agnostic runtime for executing stateful, multi-step trajectories across independent WebMCP providers — lineage-bearing carried state, explicit terminal requirements, and evidence attributing any failure to model, orchestration, provider, or runtim",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/zioladev/interop-runtime",
+      "npmUrl": "https://www.npmjs.com/package/%40zioladev%2Finterop-runtime",
+      "category": "cli",
+      "createdAt": "2026-08-11T16:21:18.062Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 85
+    },
+    {
       "name": "@zioladev/provider-conformance",
       "version": "0.1.0",
       "description": "Find out where WebMCP interoperability actually broke: measure provider behavior across consumer and runtime paths, attribute failures to the layer that caused them, and keep consumer/browser failures from becoming provider failures.",
@@ -41498,6 +41666,18 @@
       "score": 86
     },
     {
+      "name": "advanced-freeze-panes-table",
+      "version": "0.1.0",
+      "description": "Premium freeze-panes table: adaptive regular/advanced modes, right-side freeze, boundary-stick panes, themes, bold panes, header arrows, and image/text cells.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/codespriha/advanced-freeze-panes-table",
+      "npmUrl": "https://www.npmjs.com/package/advanced-freeze-panes-table",
+      "category": "utilities",
+      "createdAt": "2026-08-11T16:32:30.230Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 76
+    },
+    {
       "name": "advanced-material-web",
       "version": "26.28.1",
       "description": "Material 3 web components built with Stencil — self-contained shadow-DOM styles, swappable theme via CSS custom properties, zero required stylesheet fetch.",
@@ -41592,6 +41772,18 @@
       "createdAt": "2026-08-07T13:51:52.594Z",
       "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 75
+    },
+    {
+      "name": "agenda-views",
+      "version": "0.1.0",
+      "description": "Multi-track conference agenda for React — a desktop time grid and a mobile-first chronological list over one data model.",
+      "license": "MIT",
+      "repository": "https://github.com/easonchai/agenda-views",
+      "npmUrl": "https://www.npmjs.com/package/agenda-views",
+      "category": "frontend",
+      "createdAt": "2026-08-11T15:18:53.998Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 74
     },
     {
       "name": "agent-ablation",
@@ -47222,6 +47414,18 @@
       "score": 81
     },
     {
+      "name": "cozyclay",
+      "version": "1.1.0",
+      "description": "Browser-based 3D staging studio: block a scene, pose characters, author camera moves and cuts, and preview generated motion.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/HaD0Yun/CozyClay",
+      "npmUrl": "https://www.npmjs.com/package/cozyclay",
+      "category": "frontend",
+      "createdAt": "2026-08-11T16:25:37.334Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 71
+    },
+    {
       "name": "cpanel-next",
       "version": "0.1.0",
       "description": "Deploy Next.js apps to cPanel shared hosting (Passenger / CloudLinux Node.js Selector) from your terminal.",
@@ -50318,6 +50522,18 @@
       "score": 85
     },
     {
+      "name": "factlens",
+      "version": "1.0.0",
+      "description": "Official Node.js, TypeScript SDK, and CLI for the FactLens verification API",
+      "license": "MIT",
+      "repository": "https://github.com/Shaxpartan/Factlens-NPM",
+      "npmUrl": "https://www.npmjs.com/package/factlens",
+      "category": "backend",
+      "createdAt": "2026-08-11T16:32:41.344Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 77
+    },
+    {
       "name": "fajr-ui",
       "version": "1.0.0",
       "description": "Copy Fajr UI components into your project and keep them up to date.",
@@ -51816,6 +52032,18 @@
       "createdAt": "2026-08-06T10:01:40.833Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 79
+    },
+    {
+      "name": "github-readme-insight-terminal-ascii",
+      "version": "1.0.0",
+      "description": "Generate terminal-style GitHub contribution graph SVG with Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/seuthootDev/github-readme-insight-terminal-ascii",
+      "npmUrl": "https://www.npmjs.com/package/github-readme-insight-terminal-ascii",
+      "category": "cli",
+      "createdAt": "2026-08-11T16:06:47.229Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 78
     },
     {
       "name": "github-repo-stats",
@@ -56426,6 +56654,18 @@
       "score": 78
     },
     {
+      "name": "mas-exchange-rate",
+      "version": "1.2.1",
+      "description": "Official Monetary Authority of Singapore (Singapore) daily exchange rates — 21 currencies vs SGD, history since 1988. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/mas-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/mas-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-08-11T16:43:46.985Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 90
+    },
+    {
       "name": "masterplot",
       "version": "1.0.0",
       "description": "Production-grade scientific plotting engine with WebGL rendering",
@@ -56448,6 +56688,18 @@
       "createdAt": "2026-07-28T22:29:29.197Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 80
+    },
+    {
+      "name": "mastr-killer",
+      "version": "1.0.0",
+      "description": "Magic String Killer — turn object property paths into typed, refactor-safe dot-path strings. Kills magic strings for NestJS ConfigService, i18n keys, or any string used to reach an object property.",
+      "license": "MIT",
+      "repository": "https://github.com/qmarquez/mastr-killer",
+      "npmUrl": "https://www.npmjs.com/package/mastr-killer",
+      "category": "backend",
+      "createdAt": "2026-08-11T15:31:39.206Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 78
     },
     {
       "name": "mastra-gate402",
@@ -56628,6 +56880,18 @@
       "createdAt": "2026-08-10T18:01:19.936Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 73
+    },
+    {
+      "name": "mcp-avito-ads",
+      "version": "0.1.0",
+      "description": "MCP server for the Avito Ads API (Avito Reklama) — campaigns, ad groups, creatives, statistics, balances, contracts and account management for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-avito-ads",
+      "npmUrl": "https://www.npmjs.com/package/mcp-avito-ads",
+      "category": "backend",
+      "createdAt": "2026-08-11T16:22:17.247Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 81
     },
     {
       "name": "mcp-better",
@@ -58188,6 +58452,18 @@
       "createdAt": "2026-07-30T11:14:18.998Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 81
+    },
+    {
+      "name": "n8n-nodes-aca",
+      "version": "0.1.0",
+      "description": "Manage contacts, lead lists, email sequences and conversations in ACA (Automated Client Acquisition), and trigger workflows from ACA events",
+      "license": "MIT",
+      "repository": "https://github.com/seguelaCedric/n8n-nodes-aca",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-aca",
+      "category": "cli",
+      "createdAt": "2026-08-11T16:49:27.411Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 71
     },
     {
       "name": "n8n-nodes-adacode",
@@ -60722,6 +60998,18 @@
       "score": 72
     },
     {
+      "name": "open-walnut",
+      "version": "0.3.1",
+      "description": "Personal AI butler powered by Claude — task management, Claude Code sessions, memory system, and web UI",
+      "license": "MIT",
+      "repository": "https://github.com/EvanZhang008/open-walnut",
+      "npmUrl": "https://www.npmjs.com/package/open-walnut",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T16:09:00.774Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 80
+    },
+    {
       "name": "open-workflow-kit",
       "version": "1.1.0",
       "description": "将完成定义编译为 Completion Contract、可复现证据与多 Agent 交付闸门的零依赖工作流 kit。",
@@ -61044,6 +61332,18 @@
       "createdAt": "2026-07-31T13:37:37.150Z",
       "discoveredAt": "2026-07-31T13:45:05.804Z",
       "score": 80
+    },
+    {
+      "name": "opencode-omniroute-plugin",
+      "version": "0.2.1",
+      "description": "OpenCode plugin for the OmniRoute AI Gateway. Drives dynamic model discovery, /connect auth flow, and multi-instance OmniRoute providers via the official @opencode-ai/plugin contract.",
+      "license": "MIT",
+      "repository": "https://github.com/herjarsa/opencode-omniroute-plugin",
+      "npmUrl": "https://www.npmjs.com/package/opencode-omniroute-plugin",
+      "category": "devops",
+      "createdAt": "2026-08-11T16:31:18.922Z",
+      "discoveredAt": "2026-08-11T16:49:37.126Z",
+      "score": 86
     },
     {
       "name": "opencode-permission-guard-plugin",

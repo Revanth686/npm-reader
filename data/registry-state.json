@@ -1,15 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124419913,
-  "lastRunAt": "2026-08-11T15:12:22.224Z",
+  "lastSequence": 124439355,
+  "lastRunAt": "2026-08-11T16:49:37.126Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@michalosadowski/jira-mcp",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@flighthq/registry",
+      "name": "@ai-digital-factory/auth-manager-core",
+      "attempts": 1
+    },
+    {
+      "name": "@ai-digital-factory/auth-manager-react",
+      "attempts": 1
+    },
+    {
+      "name": "@ai-digital-factory/auth-manager-next",
+      "attempts": 1
+    },
+    {
+      "name": "@ai-digital-factory/auth-manager-clerk",
+      "attempts": 1
+    },
+    {
+      "name": "@holaxis/superbee",
+      "attempts": 1
+    },
+    {
+      "name": "@questdb/mcp-server-questdb",
       "attempts": 1
     }
   ]
