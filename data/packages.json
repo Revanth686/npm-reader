@@ -3050,6 +3050,18 @@
       "score": 92
     },
     {
+      "name": "@arincen/charts",
+      "version": "1.0.0",
+      "description": "A financial chart an AI agent can read: about 22 KB, zero dependencies. Two builds from one codebase, and toText/annotate so a model can describe the chart and draw its answer back.",
+      "license": "MIT",
+      "repository": "https://github.com/arincen/arincen-charts",
+      "npmUrl": "https://www.npmjs.com/package/%40arincen%2Fcharts",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T12:15:31.633Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 76
+    },
+    {
       "name": "@arkn/react-map-chart",
       "version": "0.4.0",
       "description": "React component for rendering interactive SVG maps of the world, continents, and countries with dynamic data.",
@@ -4994,6 +5006,18 @@
       "score": 100
     },
     {
+      "name": "@brandry/claude-jsonl-compressor",
+      "version": "1.0.0",
+      "description": "Strict, model-assisted compression and byte-preserving compatibility repair for one Claude Code JSONL session.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/brandrylabs/claude-jsonl-compressor",
+      "npmUrl": "https://www.npmjs.com/package/%40brandry%2Fclaude-jsonl-compressor",
+      "category": "cli",
+      "createdAt": "2026-07-28T13:44:10.081Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 91
+    },
+    {
       "name": "@brawsr/sdk",
       "version": "0.1.0",
       "description": "TypeScript client for brawsr sessions, checkpoints, rewind, fork, and CDP handoff.",
@@ -5052,6 +5076,18 @@
       "createdAt": "2026-07-27T15:03:03.696Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 87
+    },
+    {
+      "name": "@broberg/logger",
+      "version": "0.1.1",
+      "description": "Fleet server logging that cannot leak a secret: four levels, one-line JSON in production or readable text locally, env-driven level, nesting child bindings — and every message and metadata value run through @broberg/secret-scan before it leaves the proces",
+      "license": "MIT",
+      "repository": "https://github.com/broberg-ai/components",
+      "npmUrl": "https://www.npmjs.com/package/%40broberg%2Flogger",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:53:44.041Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 74
     },
     {
       "name": "@brobertoblanko/gemini-grounding-mcp",
@@ -11064,6 +11100,18 @@
       "createdAt": "2026-08-02T14:46:00.212Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 82
+    },
+    {
+      "name": "@fateforge/caixin-cli",
+      "version": "1.0.0",
+      "description": "Caixin (财新) CLI for AI Agents - read-only access to the homepage, channels, directories, search, topics, magazine issues, and articles the subscription entitles the user to",
+      "license": "MIT",
+      "repository": "https://github.com/fatecannotbealtered/caixin-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40fateforge%2Fcaixin-cli",
+      "category": "cli",
+      "createdAt": "2026-08-11T12:04:59.221Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 77
     },
     {
       "name": "@fateforge/cliproxyapi-cli",
@@ -17318,6 +17366,18 @@
       "score": 76
     },
     {
+      "name": "@hongruimu/agent-fabric",
+      "version": "0.1.0",
+      "description": "Portable agent workflow toolkit for OpenSpec, GSD-style planning, Superpowers quality gates, and multi-runtime agent instructions.",
+      "license": "MIT",
+      "repository": "https://github.com/hongruimu/agent-fabric",
+      "npmUrl": "https://www.npmjs.com/package/%40hongruimu%2Fagent-fabric",
+      "category": "utilities",
+      "createdAt": "2026-08-11T12:18:29.619Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 81
+    },
+    {
       "name": "@honlnk/picsense",
       "version": "0.1.0",
       "description": "A local MCP server that gives unimodal LLMs multimodal vision — image/video recognition with multi-turn iterative analysis.",
@@ -19116,6 +19176,18 @@
       "createdAt": "2026-08-11T10:08:43.975Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 76
+    },
+    {
+      "name": "@jadujoel/bun-optimize-plugin",
+      "version": "0.1.3",
+      "description": "A Bun build plugin that re-encodes images to WebP and audio and video to WebM.",
+      "license": "MIT",
+      "repository": "https://github.com/jadujoel/bun-optimize-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40jadujoel%2Fbun-optimize-plugin",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T09:32:37.737Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 75
     },
     {
       "name": "@jahidorjahid/react-bdmap",
@@ -22262,6 +22334,18 @@
       "score": 59
     },
     {
+      "name": "@mambalabsdev/mcp-agent-accessibility-auditor",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Agent Accessibility Auditor actor on Apify. Domain in, whether an AI agent can read that site out: llms.txt, robots AI crawler rules, structured data and endpoints.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-agent-accessibility-auditor",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-agent-accessibility-auditor",
+      "category": "frontend",
+      "createdAt": "2026-08-11T11:58:17.413Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 69
+    },
+    {
       "name": "@mambalabsdev/mcp-ai-tooling-detector",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs AI Tooling Detector actor on Apify. Give it a company domain and it returns whether the company only declares AI, actually deploys AI tooling on its site, or charges money for AI, with the evidence behind the verdict as flat",
@@ -22298,6 +22382,18 @@
       "score": 73
     },
     {
+      "name": "@mambalabsdev/mcp-contact-classifier",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Contact Classifier actor on Apify. Contact title in, department and seniority out, with an optional check on whether the person still holds the role.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-contact-classifier",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-contact-classifier",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:58:14.250Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 70
+    },
+    {
       "name": "@mambalabsdev/mcp-email-waterfall-orchestrator",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs Work Email Waterfall actor on Apify. Give it contacts and your own provider API keys and it finds a work email for each, verifies it, and returns real per-provider spend attribution as flat Clay-ready JSON.",
@@ -22310,6 +22406,30 @@
       "score": 77
     },
     {
+      "name": "@mambalabsdev/mcp-event-presence-index",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Event Presence Index actor on Apify. Company domain in, the third party conferences and trade shows that company publicly says it attends out, with a year for each.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-event-presence-index",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-event-presence-index",
+      "category": "frontend",
+      "createdAt": "2026-08-11T11:58:02.794Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 70
+    },
+    {
+      "name": "@mambalabsdev/mcp-legal-entity-resolver",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Legal Entity Resolver actor on Apify. Company domain in, the registered legal entity out: legal name, company number, jurisdiction, status, LEI and VAT number.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-legal-entity-resolver",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-legal-entity-resolver",
+      "category": "frontend",
+      "createdAt": "2026-08-11T11:58:11.076Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 70
+    },
+    {
       "name": "@mambalabsdev/mcp-people-finder",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify. Finds people at a company by role, seniority and department, and returns structured contact records with optional verified business email.",
@@ -22320,6 +22440,18 @@
       "createdAt": "2026-08-10T11:47:11.632Z",
       "discoveredAt": "2026-08-10T12:50:16.104Z",
       "score": 81
+    },
+    {
+      "name": "@mambalabsdev/mcp-public-award-monitor",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Government Contract Award Monitor actor on Apify. Pick a public award register and a time window, get back the companies that won public work in it.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-public-award-monitor",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-public-award-monitor",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:58:07.745Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 70
     },
     {
       "name": "@mambalabsdev/mcp-publication-cadence-tracker",
@@ -22800,6 +22932,18 @@
       "createdAt": "2026-07-27T15:20:16.880Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 79
+    },
+    {
+      "name": "@mdxstudio/agent-skill",
+      "version": "0.1.0",
+      "description": "Installs the mdx-docs authoring skill and the standing documentation policy into any coding agent's instruction file (AGENTS.md, CLAUDE.md, GEMINI.md, ...).",
+      "license": "MIT",
+      "repository": "https://github.com/SurajDonthi/mdx-preview",
+      "npmUrl": "https://www.npmjs.com/package/%40mdxstudio%2Fagent-skill",
+      "category": "cli",
+      "createdAt": "2026-08-11T12:12:38.510Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 69
     },
     {
       "name": "@meclabsai/sdk",
@@ -25332,6 +25476,18 @@
       "createdAt": "2026-07-29T16:29:27.448Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 62
+    },
+    {
+      "name": "@nassai-dev/nassai-agentra",
+      "version": "0.1.0",
+      "description": "NassAI Agentra — AI Software Engineering Platform: unified self-improving agentic skills framework with an interactive installer for Claude Code, Cursor, OpenCode and more",
+      "license": "MIT",
+      "repository": "https://github.com/NasserJabir/NassAi-Agentra",
+      "npmUrl": "https://www.npmjs.com/package/%40nassai-dev%2Fnassai-agentra",
+      "category": "data",
+      "createdAt": "2026-08-11T12:20:56.164Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 85
     },
     {
       "name": "@nathannestein/earnmore",
@@ -29316,6 +29472,18 @@
       "createdAt": "2026-08-09T16:31:18.376Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 67
+    },
+    {
+      "name": "@pulsadev/contract-scanner",
+      "version": "0.1.0",
+      "description": "On-chain smart contract security scanner — honeypot detection, rug pull analysis, bytecode inspection. Zero API keys, pure RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/contract-scanner",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fcontract-scanner",
+      "category": "backend",
+      "createdAt": "2026-08-11T12:34:05.767Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 75
     },
     {
       "name": "@pulsadev/event-watcher",
@@ -36768,6 +36936,18 @@
       "createdAt": "2026-07-26T21:20:33.108Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 86
+    },
+    {
+      "name": "@traceitx/react-native",
+      "version": "0.4.2",
+      "description": "React Native SDK for TraceItX — AI-ready in-app bug reporting, bridging the native iOS and Android reporter to your RN app. Supports phone, Apple TV, and Android TV.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/scriptx-com/traceitx",
+      "npmUrl": "https://www.npmjs.com/package/%40traceitx%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-08-11T12:06:28.615Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 81
     },
     {
       "name": "@tracklane/consent",
@@ -46046,6 +46226,18 @@
       "score": 100
     },
     {
+      "name": "commilot",
+      "version": "1.6.3",
+      "description": "Writes your git commit messages and splits a large diff into several clean commits — locally, with no API key",
+      "license": "MIT",
+      "repository": "https://github.com/elsycharles/commilot",
+      "npmUrl": "https://www.npmjs.com/package/commilot",
+      "category": "backend",
+      "createdAt": "2026-08-11T12:15:37.812Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 90
+    },
+    {
       "name": "commit-master",
       "version": "0.0.2",
       "description": "Create safe per-file Git commits now or distribute them across a historical date span.",
@@ -49778,6 +49970,18 @@
       "score": 80
     },
     {
+      "name": "fastify-ocpp",
+      "version": "1.1.0",
+      "description": "Fastify WebSocket OCPP CSMS for 1.6, 2.0.1 and 2.1 with shared-path subprotocol negotiation",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/mateuslacorte/fastify-ocpp",
+      "npmUrl": "https://www.npmjs.com/package/fastify-ocpp",
+      "category": "backend",
+      "createdAt": "2026-08-10T12:20:48.500Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 73
+    },
+    {
       "name": "fastify-query",
       "version": "0.2.0",
       "description": "Fastify plugin for QUERY routes with JSONPath and JSON Pointer filtering",
@@ -51998,6 +52202,18 @@
       "score": 71
     },
     {
+      "name": "hl7-fhir-translator",
+      "version": "0.1.0",
+      "description": "Deterministic HL7v2 <-> FHIR R4 translator (ADT, ORU, ORM) with a field-level mapping trail and a CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/heyitskundan/hl7-fhir-translator",
+      "npmUrl": "https://www.npmjs.com/package/hl7-fhir-translator",
+      "category": "data",
+      "createdAt": "2026-08-11T12:35:16.250Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 80
+    },
+    {
       "name": "hmrc-exchange-rate",
       "version": "1.0.2",
       "description": "Official HM Revenue & Customs (United Kingdom) monthly exchange rates — ~140 currencies vs GBP, history since 2021. Zero-dependency Node.js/TypeScript client.",
@@ -53544,6 +53760,18 @@
       "createdAt": "2026-07-29T05:15:58.171Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 94
+    },
+    {
+      "name": "jira-mcp-scoped",
+      "version": "1.0.1",
+      "description": "Project-scoped MCP server for Jira — issues, comments, sprints, transitions and attachments over the Jira REST API, narrowed to a single project instead of everything the account can access",
+      "license": "ISC",
+      "repository": "https://github.com/MichalOsadowski/jira-mcp",
+      "npmUrl": "https://www.npmjs.com/package/jira-mcp-scoped",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:44:18.033Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 73
     },
     {
       "name": "jira-ticket-builder-skill",
@@ -55175,6 +55403,18 @@
       "category": "backend",
       "createdAt": "2026-08-08T19:20:54.250Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
+      "score": 74
+    },
+    {
+      "name": "ltx-format",
+      "version": "0.1.0",
+      "description": "Reader and writer for the LTX (Lite Transaction) file format v3, byte-compatible with Litestream v0.5.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/luismulinari/ltx-format",
+      "npmUrl": "https://www.npmjs.com/package/ltx-format",
+      "category": "testing",
+      "createdAt": "2026-08-11T12:12:27.581Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 74
     },
     {
@@ -57300,6 +57540,18 @@
       "createdAt": "2026-08-11T10:01:12.812Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 90
+    },
+    {
+      "name": "muxlane",
+      "version": "2.12.0",
+      "description": "Local multi-provider routing, failover, and account rotation for OpenAI Codex and Claude Code",
+      "license": "MIT",
+      "repository": "https://github.com/vladimirvalcourt/Muxlan",
+      "npmUrl": "https://www.npmjs.com/package/muxlane",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:46:02.062Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 89
     },
     {
       "name": "mvx-audit",
@@ -59868,6 +60120,18 @@
       "createdAt": "2026-08-07T18:02:49.120Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 66
+    },
+    {
+      "name": "open-supermarkets",
+      "version": "3.0.0",
+      "description": "CLI, MCP and Skills for the world's supermarkets. Search, compare, basket and checkout across 9 providers in 6 countries. Built for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/abracadabra50/open-supermarkets",
+      "npmUrl": "https://www.npmjs.com/package/open-supermarkets",
+      "category": "cli",
+      "createdAt": "2026-08-11T11:51:03.031Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 94
     },
     {
       "name": "open-video-api",
@@ -69626,6 +69890,30 @@
       "score": 71
     },
     {
+      "name": "test-casebook-back-js",
+      "version": "1.0.0",
+      "description": "Testing methodology and AI-agent playbook for Node/TypeScript backends — exhaustive, permission-matrix-driven test suites",
+      "license": "MIT",
+      "repository": "https://github.com/techmefr/test-casebook-back-js",
+      "npmUrl": "https://www.npmjs.com/package/test-casebook-back-js",
+      "category": "testing",
+      "createdAt": "2026-08-06T13:49:01.143Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 82
+    },
+    {
+      "name": "test-casebook-back-php",
+      "version": "1.0.0",
+      "description": "Testing methodology and AI-agent playbook for PHP/Laravel backends — exhaustive, permission-matrix-driven test suites",
+      "license": "MIT",
+      "repository": "https://github.com/techmefr/test-casebook-back-php",
+      "npmUrl": "https://www.npmjs.com/package/test-casebook-back-php",
+      "category": "testing",
+      "createdAt": "2026-08-06T13:53:52.018Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 82
+    },
+    {
       "name": "tf-import-blocks",
       "version": "0.1.0",
       "description": "Terraform import-block generation from a state file or from a scanned resource, driven by a per-type import-id rule table",
@@ -70344,6 +70632,18 @@
       "createdAt": "2026-07-31T18:10:24.874Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 74
+    },
+    {
+      "name": "transatlantic",
+      "version": "1.2.3",
+      "description": "Research-backed prose levels for AI coding agents — six registers from classy humanized (liner) to bare keywords (morse). Installer detects your agents and wires each one.",
+      "license": "MIT",
+      "repository": "https://github.com/Startr/transatlantic",
+      "npmUrl": "https://www.npmjs.com/package/transatlantic",
+      "category": "utilities",
+      "createdAt": "2026-08-11T11:38:06.190Z",
+      "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 77
     },
     {
       "name": "translation-harness",
