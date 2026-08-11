@@ -5894,6 +5894,18 @@
       "score": 87
     },
     {
+      "name": "@callmidavid/apidiff",
+      "version": "1.0.0",
+      "description": "Real-time API contract drift detector & sniffing proxy for JavaScript/TypeScript and Node.js applications",
+      "license": "MIT",
+      "repository": "https://github.com/callmidavid/apidiff",
+      "npmUrl": "https://www.npmjs.com/package/%40callmidavid%2Fapidiff",
+      "category": "testing",
+      "createdAt": "2026-08-11T18:49:38.718Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 73
+    },
+    {
       "name": "@calrk/clarity",
       "version": "0.1.0",
       "description": "Canvas image filter library - composable, pipeline-style filters over ImageData",
@@ -7620,6 +7632,18 @@
       "createdAt": "2026-07-30T19:47:13.682Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 80
+    },
+    {
+      "name": "@cosyte/script-utils",
+      "version": "0.0.2",
+      "description": "Zero-dependency helpers for the repo-local gate scripts in @cosyte/* repos.",
+      "license": "MIT",
+      "repository": "https://github.com/cosyte/config",
+      "npmUrl": "https://www.npmjs.com/package/%40cosyte%2Fscript-utils",
+      "category": "cli",
+      "createdAt": "2026-08-06T01:32:18.429Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 60
     },
     {
       "name": "@cosyte/synth",
@@ -15434,6 +15458,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/shadyconmarshallmasterpiececardpackbyeminem",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SHADYCONMARSHALLMASTERPIECECARDPACKBYEMINEM (build etherscan-shadyconmarshallmasterpiececardpackbyeminem-cfd19e4e-1786470740561, commit 2046f8c, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/shadyconmarshallmasterpiececardpackbyeminem",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fshadyconmarshallmasterpiececardpackbyeminem",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T17:52:42.242Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 65
+    },
+    {
       "name": "@gitmyabi/sheesha",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for SHEESHA (build etherscan-sheesha-232fb065-1786201647676, commit 593c6f9, branch etherscan)",
@@ -18060,6 +18096,18 @@
       "createdAt": "2026-07-28T02:22:03.754Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 68
+    },
+    {
+      "name": "@hydra-tv/ui",
+      "version": "0.1.0",
+      "description": "Generic, domain-agnostic React components for the @hydra-tv design system (buttons, inputs, dialogs, data grids, etc.). No broadcast-specific semantics — see @hydra-tv/broadcast for those.",
+      "license": "MIT",
+      "repository": "https://github.com/gurleen/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40hydra-tv%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:06:56.665Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 60
     },
     {
       "name": "@hypabolic/relay",
@@ -21626,6 +21674,18 @@
       "score": 86
     },
     {
+      "name": "@lime-soda/grid",
+      "version": "0.2.0",
+      "description": "Horizontal-flow data grid web component for trading platforms. Minimal core, additive modules.",
+      "license": "MIT",
+      "repository": "https://github.com/lime-soda/web-components",
+      "npmUrl": "https://www.npmjs.com/package/%40lime-soda%2Fgrid",
+      "category": "data",
+      "createdAt": "2026-08-11T18:20:24.611Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 79
+    },
+    {
       "name": "@liminal-screen/api",
       "version": "0.2.0",
       "description": "IPC bridge for Liminal Screen remote options pages. Works as npm package or CDN script.",
@@ -24324,6 +24384,30 @@
       "createdAt": "2026-08-09T14:41:20.094Z",
       "discoveredAt": "2026-08-09T14:59:56.278Z",
       "score": 56
+    },
+    {
+      "name": "@modracx/gallery-js",
+      "version": "1.0.0",
+      "description": "Lightweight image gallery for web pages — responsive thumbnail grid or masonry, plus an accessible lightbox with zoom, swipe, keyboard and focus trapping. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Modracx/gallery-js",
+      "npmUrl": "https://www.npmjs.com/package/%40modracx%2Fgallery-js",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:15:35.703Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 90
+    },
+    {
+      "name": "@modracx/marquee-js",
+      "version": "1.0.0",
+      "description": "Lightweight seamless marquee / ticker for web pages — any direction, drag to scroll, pause on hover, edge fades, and reduced-motion aware. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Modracx/marquee-js",
+      "npmUrl": "https://www.npmjs.com/package/%40modracx%2Fmarquee-js",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:16:42.293Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 95
     },
     {
       "name": "@modracx/ruler-js",
@@ -27278,6 +27362,42 @@
       "score": 44
     },
     {
+      "name": "@oge-ui/bpmn",
+      "version": "0.11.0",
+      "description": "Signal-based Angular BPMN 2.0 editor: a from-scratch, dependency-free modeler with its own BPMN XML + diagram-interchange engine, orthogonal routing, undo/redo and a keyboard-accessible canvas — no watermark. Source-available commercial license (free for",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/oge-ui/oge-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40oge-ui%2Fbpmn",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:22:13.439Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 76
+    },
+    {
+      "name": "@oge-ui/charts",
+      "version": "0.11.0",
+      "description": "Signal-based Angular charts: line/spline/area/bar/stacked/scatter/range/candlestick series and pie/doughnut on a dependency-free SVG kernel — calendar-true time axes, log axes, zoom & pan, crosshair, shared tooltips, interactive legend and full keyboard a",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/oge-ui/oge-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40oge-ui%2Fcharts",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:22:17.830Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 67
+    },
+    {
+      "name": "@oge-ui/gantt",
+      "version": "0.11.0",
+      "description": "Signal-based Angular Gantt chart: task tree pane + timeline chart with summary/milestone bars, FS/SS/FF/SF dependency arrows, drag/resize/progress editing with Escape-cancel and full keyboard access — the only Angular-native Gantt. Source-available commer",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/oge-ui/oge-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40oge-ui%2Fgantt",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:22:25.169Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 70
+    },
+    {
       "name": "@oge-ui/layout",
       "version": "0.7.0",
       "description": "Signal-based Angular layout family: OgeAccordion with declarative <oge-accordion-item> children or data-driven items, APG keyboard support, single/multiple expansion, lazy rendering, async expand guards, invalid-section indicators and per-panel async cont",
@@ -27288,6 +27408,18 @@
       "createdAt": "2026-08-08T16:46:26.030Z",
       "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 58
+    },
+    {
+      "name": "@oge-ui/scheduler",
+      "version": "0.11.0",
+      "description": "Signal-based Angular scheduler / event calendar: day, week and month views, all-day strip, pure-kernel overlap layout, drag & resize with Escape-cancel, appointment popup and form editing — the only Angular-native scheduler. Source-available commercial li",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/oge-ui/oge-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40oge-ui%2Fscheduler",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:22:21.630Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 67
     },
     {
       "name": "@okeav/idp-core",
@@ -27636,6 +27768,18 @@
       "createdAt": "2026-08-07T01:18:09.825Z",
       "discoveredAt": "2026-08-07T02:12:46.077Z",
       "score": 67
+    },
+    {
+      "name": "@oovz/sew",
+      "version": "0.8.3",
+      "description": "Install, update, diagnose, and configure Senior Engineering Workflow across supported coding-agent harnesses.",
+      "license": "MIT",
+      "repository": "https://github.com/oovz/plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40oovz%2Fsew",
+      "category": "cli",
+      "createdAt": "2026-08-11T18:12:11.082Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 63
     },
     {
       "name": "@open-resource-discovery/metadata-renderer",
@@ -29928,6 +30072,18 @@
       "createdAt": "2026-08-11T12:34:05.767Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 75
+    },
+    {
+      "name": "@pulsadev/ens-resolver",
+      "version": "0.1.0",
+      "description": "Lightweight ENS resolver — forward/reverse resolution, avatar, text records, contenthash. Zero dependencies, pure RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/ens-resolver",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fens-resolver",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T18:10:55.643Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 67
     },
     {
       "name": "@pulsadev/event-watcher",
@@ -35390,6 +35546,30 @@
       "score": 54
     },
     {
+      "name": "@stellarsight/agent",
+      "version": "0.1.0",
+      "description": "STELLARSIGHT agent surface — MCP server + x402 payment client for the Stellar Bazaar",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pedro-pelicioni/stellarsight",
+      "npmUrl": "https://www.npmjs.com/package/%40stellarsight%2Fagent",
+      "category": "backend",
+      "createdAt": "2026-08-11T18:18:00.931Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 72
+    },
+    {
+      "name": "@stellarsight/express",
+      "version": "1.0.0",
+      "description": "x402 paywall middleware for Express — sell any endpoint for a Stellar token and have it listed in the STELLARSIGHT bazaar before its first payment.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pedro-pelicioni/stellarsight",
+      "npmUrl": "https://www.npmjs.com/package/%40stellarsight%2Fexpress",
+      "category": "backend",
+      "createdAt": "2026-08-11T18:17:30.933Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 91
+    },
+    {
       "name": "@stetcms/analytics",
       "version": "0.1.0",
       "description": "Type-safe, cookieless product analytics for Stet, routed through your own backend.",
@@ -37044,6 +37224,18 @@
       "createdAt": "2026-07-26T17:17:18.397Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 71
+    },
+    {
+      "name": "@theavi/kicad-mcp",
+      "version": "2.7.0",
+      "description": "AI-assisted PCB design with KiCAD via Model Context Protocol",
+      "license": "MIT",
+      "repository": "https://github.com/mixelpixx/KiCAD-MCP-Server",
+      "npmUrl": "https://www.npmjs.com/package/%40theavi%2Fkicad-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-11T18:27:49.992Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 78
     },
     {
       "name": "@thefireflysparkle/codelens-cli",
@@ -39578,6 +39770,18 @@
       "score": 60
     },
     {
+      "name": "@walletwright/core",
+      "version": "0.2.1",
+      "description": "Playwright wallet automation for MetaMask, Phantom, Rabby, Solflare, and Slush across EVM, Solana, and Sui. Connect and sign in real browser extensions.",
+      "license": "MIT",
+      "repository": "https://github.com/pedroapfilho/walletwright",
+      "npmUrl": "https://www.npmjs.com/package/%40walletwright%2Fcore",
+      "category": "testing",
+      "createdAt": "2026-08-10T16:23:58.446Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 60
+    },
+    {
       "name": "@warpfx/mcp",
       "version": "0.4.0",
       "description": "MCP server exposing the Warp FiveM dev loop to AI agents",
@@ -40128,6 +40332,18 @@
       "createdAt": "2026-08-06T09:05:46.065Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 76
+    },
+    {
+      "name": "@wise-excavate/git-fixtures",
+      "version": "0.1.0",
+      "description": "Build real Git repositories deterministically, for testing Git tooling.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/GodoyMS/excavate",
+      "npmUrl": "https://www.npmjs.com/package/%40wise-excavate%2Fgit-fixtures",
+      "category": "testing",
+      "createdAt": "2026-08-11T18:31:41.002Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 65
     },
     {
       "name": "@wismaz/vitest-browser-angular",
@@ -40848,6 +41064,18 @@
       "createdAt": "2026-07-30T20:33:50.744Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 58
+    },
+    {
+      "name": "@ytechai/codex-forge",
+      "version": "0.1.0",
+      "description": "Local all-model BYOK configuration forge for Codex Desktop and CLI. Single install supports both server mode and CLI tool mode.",
+      "license": "MIT",
+      "repository": "https://github.com/veryben/codex-forge",
+      "npmUrl": "https://www.npmjs.com/package/%40ytechai%2Fcodex-forge",
+      "category": "backend",
+      "createdAt": "2026-08-11T18:40:25.779Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 82
     },
     {
       "name": "@ytrynot/dna",
@@ -43872,6 +44100,18 @@
       "createdAt": "2026-07-28T15:58:44.522Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 78
+    },
+    {
+      "name": "attr-readtime",
+      "version": "1.0.1",
+      "description": "Declarative reading time library using data attributes. No dependencies. Optimized for performance and CMS-driven sites.",
+      "license": "MIT",
+      "repository": "https://github.com/weslleycabral/readtime",
+      "npmUrl": "https://www.npmjs.com/package/attr-readtime",
+      "category": "frontend",
+      "createdAt": "2026-08-11T17:52:33.144Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 62
     },
     {
       "name": "audiobars",
@@ -50328,6 +50568,18 @@
       "createdAt": "2026-07-26T14:51:08.066Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 79
+    },
+    {
+      "name": "eth-stealth-address-resolver",
+      "version": "0.2.0",
+      "description": "Resolve EIP-5564 scheme-1 stealth meta-addresses from Ethereum names, addresses, or raw meta URIs",
+      "license": "MIT",
+      "repository": "https://github.com/kassandraoftroy/eth-stealth-address-resolver",
+      "npmUrl": "https://www.npmjs.com/package/eth-stealth-address-resolver",
+      "category": "utilities",
+      "createdAt": "2026-08-10T10:13:48.395Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 61
     },
     {
       "name": "ethiopic-text",
@@ -58286,6 +58538,18 @@
       "score": 81
     },
     {
+      "name": "model-advisor-mcp",
+      "version": "1.5.1",
+      "description": "MCP server for matching OpenCode models to Gentle AI agent criteria.",
+      "license": "MIT",
+      "repository": "https://github.com/AlonsoSG0/model-advisor-mcp",
+      "npmUrl": "https://www.npmjs.com/package/model-advisor-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T18:05:49.920Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 61
+    },
+    {
       "name": "model-roundtable",
       "version": "1.0.0",
       "description": "Structured multi-model debate with adversarial personas, scoring cards, and moderator synthesis",
@@ -59174,6 +59438,18 @@
       "score": 66
     },
     {
+      "name": "n8n-nodes-multi-model",
+      "version": "1.0.1",
+      "description": "Production-grade n8n Chat Model node that chains multiple LLM providers (OpenRouter, OpenAI-compatible, Gemini) with automatic failover, retries, circuit breakers and health-aware routing for the n8n AI Agent.",
+      "license": "MIT",
+      "repository": "https://github.com/autoverse/n8n-nodes-multi-model",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-multi-model",
+      "category": "devops",
+      "createdAt": "2026-08-11T18:41:49.781Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 92
+    },
+    {
       "name": "n8n-nodes-nukeapi",
       "version": "1.0.0",
       "description": "n8n community node for NukeAPI — GDPR/CCPA/LGPD user-deletion API. Delete a user across 78+ SaaS tools with one call and get a signed audit trail.",
@@ -59652,6 +59928,18 @@
       "createdAt": "2026-08-07T14:54:24.075Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 84
+    },
+    {
+      "name": "nec2pp-wasm",
+      "version": "0.1.0",
+      "description": "nec2++ (NEC-2 antenna modeling) compiled to WebAssembly, driven through its C++ API rather than card decks",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/charlieh0tel/nec2-js",
+      "npmUrl": "https://www.npmjs.com/package/nec2pp-wasm",
+      "category": "backend",
+      "createdAt": "2026-08-11T18:38:48.207Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 62
     },
     {
       "name": "neovim-use-mcp",
@@ -66348,6 +66636,18 @@
       "createdAt": "2026-08-02T04:50:25.033Z",
       "discoveredAt": "2026-08-02T05:31:45.592Z",
       "score": 96
+    },
+    {
+      "name": "react-native-store-update",
+      "version": "2.0.0",
+      "description": "In-app updates for React Native: Play Store update flows on Android and App Store version checks on iOS",
+      "license": "MIT",
+      "repository": "https://github.com/aditya-tripathy/react-native-store-update",
+      "npmUrl": "https://www.npmjs.com/package/react-native-store-update",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:08:52.415Z",
+      "discoveredAt": "2026-08-11T18:50:57.847Z",
+      "score": 73
     },
     {
       "name": "react-number-word-converter",
