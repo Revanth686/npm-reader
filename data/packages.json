@@ -1538,6 +1538,18 @@
       "score": 91
     },
     {
+      "name": "@aiwayds/pi-jarvis-sphere",
+      "version": "1.1.0",
+      "description": "pi-coding-agent extension — Jarvis particle sphere overlay: four-state animation (flow-field / stars / orbital) shifting color with pi's live state, plugin-architected and config-driven",
+      "license": "MIT",
+      "repository": "https://github.com/fan56/pi-jarvis-sphere",
+      "npmUrl": "https://www.npmjs.com/package/%40aiwayds%2Fpi-jarvis-sphere",
+      "category": "utilities",
+      "createdAt": "2026-08-10T11:35:28.683Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 70
+    },
+    {
       "name": "@aiwayds/pi-topic-memory",
       "version": "0.2.0",
       "description": "Global topic ledger for the pi coding agent: auto-detects work requirements from input (classify + match, non-blocking), injects the topic state into the agent context before each turn (silent by default, debug toggle shows a short line), and provides a /",
@@ -8906,6 +8918,18 @@
       "score": 42
     },
     {
+      "name": "@dleangen/cage-iam",
+      "version": "0.1.1",
+      "description": "Generic Zanzibar-style Identity and Access Management for the CAGE ecosystem — the Actor Model / Model Layer implementation.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/dleangen/cage-iam",
+      "npmUrl": "https://www.npmjs.com/package/%40dleangen%2Fcage-iam",
+      "category": "utilities",
+      "createdAt": "2026-08-11T03:18:45.651Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 72
+    },
+    {
       "name": "@dloizides/ui-motion",
       "version": "1.0.1",
       "description": "Themable, brand-agnostic React Native (RN-web) motion primitives — useEnterExit, FadeIn, Collapse, PressableScale, Skeleton — built on RN Animated, driven by @dloizides/design-tokens motion tokens, and gated on @dloizides/rn-web-hooks useReducedMotion (ev",
@@ -11726,6 +11750,18 @@
       "score": 72
     },
     {
+      "name": "@frontierjs/conduit",
+      "version": "0.1.0",
+      "description": "Outbound transport layer for FrontierJS Junction apps. One interface. Any protocol. Any direction.",
+      "license": "MIT",
+      "repository": "https://github.com/frontierJS/frontierjs",
+      "npmUrl": "https://www.npmjs.com/package/%40frontierjs%2Fconduit",
+      "category": "utilities",
+      "createdAt": "2026-08-11T01:29:27.968Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 59
+    },
+    {
       "name": "@frontierjs/css",
       "version": "0.15.0",
       "description": "FrontierJS CSS — a minimal, composable, semantics-first design system for Svelte/Vite/UnoCSS apps",
@@ -11748,6 +11784,18 @@
       "createdAt": "2026-08-11T00:27:10.235Z",
       "discoveredAt": "2026-08-11T01:05:34.741Z",
       "score": 66
+    },
+    {
+      "name": "@frontierjs/ui",
+      "version": "0.1.0",
+      "description": "Mesa component kit over @frontierjs/css — forms, display, layout, overlay, feedback",
+      "license": "MIT",
+      "repository": "https://github.com/frontierJS/frontierjs",
+      "npmUrl": "https://www.npmjs.com/package/%40frontierjs%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-11T01:29:38.602Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 68
     },
     {
       "name": "@fuaran-ui/cli",
@@ -12590,6 +12638,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/ammtreasurybasev2",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for AmmTreasuryBaseV2 (build etherscan-ammtreasurybasev2-b1c0ccb1-1786414048971, commit fdc542a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ammtreasurybasev2",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fammtreasurybasev2",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T02:07:49.412Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 59
+    },
+    {
       "name": "@gitmyabi/anyeth",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for anyETH (build etherscan-anyeth-a649325a-1786310110039, commit dba13c7, branch etherscan)",
@@ -12636,6 +12696,18 @@
       "createdAt": "2026-08-10T19:59:30.221Z",
       "discoveredAt": "2026-08-10T20:33:00.517Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/arwaethrewardstaking",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ARWAETHRewardStaking (build etherscan-arwaethrewardstaking-7833f09c-1786411102333, commit 7e54d03, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/arwaethrewardstaking",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Farwaethrewardstaking",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T01:18:44.532Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/ash",
@@ -13008,6 +13080,18 @@
       "createdAt": "2026-07-26T10:44:42.653Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 58
+    },
+    {
+      "name": "@gitmyabi/coinbaseresolverupgradeable",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for CoinbaseResolverUpgradeable (build etherscan-coinbaseresolverupgradeable-1934fc75-1786416134647, commit 9d6e5f4, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/coinbaseresolverupgradeable",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fcoinbaseresolverupgradeable",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T02:42:51.791Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 61
     },
     {
       "name": "@gitmyabi/collectionautoedition",
@@ -15276,6 +15360,18 @@
       "createdAt": "2026-08-09T23:11:49.088Z",
       "discoveredAt": "2026-08-09T23:21:25.343Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/withdrawalqueue",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for WithdrawalQueue (build etherscan-withdrawalqueue-204502b5-1786415489515, commit acec234, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/withdrawalqueue",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fwithdrawalqueue",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T02:31:51.547Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 59
     },
     {
       "name": "@gitmyabi/wron",
@@ -18518,6 +18614,18 @@
       "score": 74
     },
     {
+      "name": "@iv-stpn/typeguards",
+      "version": "0.0.1",
+      "description": "Zero-dependency runtime type guards for TypeScript. Narrow unknown values at trust boundaries (parsed JSON, webhook payloads, API responses) — one guard per file, maximum tree-shaking.",
+      "license": "MIT",
+      "repository": "https://github.com/iv-stpn/typeguards",
+      "npmUrl": "https://www.npmjs.com/package/%40iv-stpn%2Ftypeguards",
+      "category": "backend",
+      "createdAt": "2026-08-11T01:09:02.813Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 79
+    },
+    {
       "name": "@ivaisoft/bws-webauthn-mcp",
       "version": "2.1.1",
       "description": "MCP server for Bitwarden Secrets Manager: the agent USES secrets it never sees, and every use is gated by a fresh physical WebAuthn Approval (Touch ID / passkey).",
@@ -21038,6 +21146,18 @@
       "score": 75
     },
     {
+      "name": "@loopflux/node-vfs",
+      "version": "0.0.1",
+      "description": "Virtual file system for LLM Agents",
+      "license": "MIT",
+      "repository": "https://github.com/loopflux-ai/node-vfs",
+      "npmUrl": "https://www.npmjs.com/package/%40loopflux%2Fnode-vfs",
+      "category": "utilities",
+      "createdAt": "2026-08-11T01:37:32.268Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 61
+    },
+    {
       "name": "@loopingai/a2a-protocol",
       "version": "0.1.0",
       "description": "Zero-dependency wire contract for Looping's A2A authentication: the claim names, well-known paths, and audience rule shared by token issuers and agent runtimes.",
@@ -22140,6 +22260,18 @@
       "createdAt": "2026-07-28T16:55:40.956Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 61
+    },
+    {
+      "name": "@memnox/mcp-firewall",
+      "version": "0.1.0",
+      "description": "Transparent MCP proxy — stdio or remote HTTP — that routes every tools/call through the Memnox runtime before it reaches the server.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Memnox/memnox",
+      "npmUrl": "https://www.npmjs.com/package/%40memnox%2Fmcp-firewall",
+      "category": "backend",
+      "createdAt": "2026-08-11T01:27:16.225Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 64
     },
     {
       "name": "@menuella/food-safety",
@@ -29786,6 +29918,18 @@
       "score": 61
     },
     {
+      "name": "@reptileroom/engine-ts",
+      "version": "0.1.0",
+      "description": "Sandboxed TypeScript evaluator for the reptileroom s-expression dialect — runs the JSON form tree emitted by the Python parser, in Node or the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/smilechaser/crowbait-python",
+      "npmUrl": "https://www.npmjs.com/package/%40reptileroom%2Fengine-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-11T02:02:03.143Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 79
+    },
+    {
       "name": "@reputemap/mcp",
       "version": "0.1.0",
       "description": "ReputeMap MCP — manage Google Business Profile reviews from Claude, Cursor or any MCP client: review inbox, stats, review requests. Zero-dependency stdio bridge to the hosted Streamable HTTP endpoint.",
@@ -30264,6 +30408,18 @@
       "createdAt": "2026-08-04T20:51:47.044Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 60
+    },
+    {
+      "name": "@roflochinsky/beads-hud",
+      "version": "0.1.1",
+      "description": "Доска задач beads и документов проекта на localhost плюс строка статуса Claude Code, которая держит на неё живую ссылку",
+      "license": "MIT",
+      "repository": "https://github.com/Roflochinsky/beads-hud",
+      "npmUrl": "https://www.npmjs.com/package/%40roflochinsky%2Fbeads-hud",
+      "category": "utilities",
+      "createdAt": "2026-08-11T03:18:29.371Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 72
     },
     {
       "name": "@rohhitrz/jonaki",
@@ -34010,6 +34166,18 @@
       "score": 86
     },
     {
+      "name": "@surf/forgepack",
+      "version": "0.1.0",
+      "description": "Webpack configuration factories for browser, SSR, and library builds — batteries included, no config file sprawl.",
+      "license": "MIT",
+      "repository": "https://github.com/catesandrew/forgepack",
+      "npmUrl": "https://www.npmjs.com/package/%40surf%2Fforgepack",
+      "category": "frontend",
+      "createdAt": "2026-08-11T01:31:23.661Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 61
+    },
+    {
       "name": "@sushiudinaa/react-wheel-picker",
       "version": "1.0.0",
       "description": "An iOS-style 3D infinite-scroll wheel picker for React with momentum physics, snap looseness control, haptic vibration feedback, and full TypeScript support.",
@@ -34212,6 +34380,18 @@
       "createdAt": "2026-08-05T10:14:51.533Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 77
+    },
+    {
+      "name": "@syncfusion/ej2-form-renderer",
+      "version": "34.2.3",
+      "description": "A package of Essential JS 2 Form Renderer which can render feature-rich Syncfusion components as a form.",
+      "license": "SEE LICENSE IN license",
+      "repository": "https://github.com/syncfusion/ej2-javascript-ui-controls",
+      "npmUrl": "https://www.npmjs.com/package/%40syncfusion%2Fej2-form-renderer",
+      "category": "frontend",
+      "createdAt": "2026-08-05T05:47:57.500Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 69
     },
     {
       "name": "@synervoz/openai-realtime-toolkit",
@@ -39782,6 +39962,18 @@
       "score": 66
     },
     {
+      "name": "agent-emblem",
+      "version": "0.1.0",
+      "description": "Turn SVG or PNG logos into animated particle emblems for React agents.",
+      "license": "MIT",
+      "repository": "https://github.com/pologarcia/agent-emblem",
+      "npmUrl": "https://www.npmjs.com/package/agent-emblem",
+      "category": "frontend",
+      "createdAt": "2026-08-11T02:01:28.088Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 73
+    },
+    {
       "name": "agent-envelope-mcp",
       "version": "1.0.1",
       "description": "Neutral MCP server for AgentEnvelope — expose agent authority (sovereign verify + vault-governed verify, lookup, and mint) to any MCP client.",
@@ -41294,6 +41486,18 @@
       "score": 61
     },
     {
+      "name": "article-content-renderer-next",
+      "version": "0.2.0",
+      "description": "A safe React renderer for the Article Content Protocol ProseMirror JSON format.",
+      "license": "MIT",
+      "repository": "https://github.com/sword-game-team/article-editor-render-react",
+      "npmUrl": "https://www.npmjs.com/package/article-content-renderer-next",
+      "category": "frontend",
+      "createdAt": "2026-08-10T09:29:43.593Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 69
+    },
+    {
       "name": "artifact-inspector",
       "version": "0.1.0",
       "description": "Composable, security-minded URL/byte artifact inspection for Node.js",
@@ -41738,6 +41942,18 @@
       "score": 89
     },
     {
+      "name": "babel-preset-forge",
+      "version": "0.1.0",
+      "description": "A curated Babel preset system. One preset per project shape — node/browser library, React library, React Native library, bundler-driven app — instead of a hand-rolled babel.config.js per repo.",
+      "license": "MIT",
+      "repository": "https://github.com/catesandrew/babel-preset-forge",
+      "npmUrl": "https://www.npmjs.com/package/babel-preset-forge",
+      "category": "frontend",
+      "createdAt": "2026-08-11T01:19:32.751Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 89
+    },
+    {
       "name": "baffle-ts",
       "version": "1.0.0",
       "description": "A tiny dependency-free TypeScript library for obfuscating and revealing DOM text. A modern TypeScript successor to the archived baffle.js.",
@@ -41976,6 +42192,18 @@
       "createdAt": "2026-07-27T19:15:54.138Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 70
+    },
+    {
+      "name": "behavior-wrapped",
+      "version": "0.2.11",
+      "description": "A private, local-first Wrapped report for Claude Code and Codex behavior.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/haoxing-du/agent-behavior-wrapped",
+      "npmUrl": "https://www.npmjs.com/package/behavior-wrapped",
+      "category": "utilities",
+      "createdAt": "2026-08-11T03:25:31.702Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 64
     },
     {
       "name": "bela-ai",
@@ -52010,6 +52238,18 @@
       "score": 80
     },
     {
+      "name": "joplin-plugin-habit-tracker-plus",
+      "version": "1.2.2",
+      "description": "Track daily habits in Joplin, on desktop and mobile. Independent, AI-assisted fork of joplin-plugin-daily-habits by pulsarnomada9 (MIT) - see README.",
+      "license": "MIT",
+      "repository": "https://github.com/pb-strawberries/habit-tracker-plus",
+      "npmUrl": "https://www.npmjs.com/package/joplin-plugin-habit-tracker-plus",
+      "category": "utilities",
+      "createdAt": "2026-08-11T02:21:45.341Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 74
+    },
+    {
       "name": "jpmap-terrain",
       "version": "0.3.2",
       "description": "Terrain creation from elevation tiles of the Geospatial Information Authority of Japan.",
@@ -55394,6 +55634,18 @@
       "score": 62
     },
     {
+      "name": "monorepo-toolkit",
+      "version": "0.1.0",
+      "description": "Resolve workspaces in a Yarn/npm/pnpm monorepo, then turn that into working Metro, Webpack and Babel configuration.",
+      "license": "MIT",
+      "repository": "https://github.com/catesandrew/monorepo-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/monorepo-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-08-11T01:18:51.778Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 81
+    },
+    {
       "name": "monsocket",
       "version": "0.1.0",
       "description": "Socket.io for Monad — realtime multiplayer rooms, presence, broadcast and shared state where every action is an onchain transaction",
@@ -55692,6 +55944,18 @@
       "createdAt": "2026-08-08T05:06:37.689Z",
       "discoveredAt": "2026-08-08T05:30:36.627Z",
       "score": 58
+    },
+    {
+      "name": "n8n-nodes-battlemetrics",
+      "version": "0.1.1",
+      "description": "Unofficial n8n community nodes for BattleMetrics API reads and signed webhooks",
+      "license": "MIT",
+      "repository": "https://github.com/christopherjnelson/n8n-nodes-battlemetrics",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-battlemetrics",
+      "category": "backend",
+      "createdAt": "2026-08-11T02:09:31.602Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 63
     },
     {
       "name": "n8n-nodes-beel",
@@ -58980,6 +59244,18 @@
       "createdAt": "2026-08-06T13:16:16.762Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 82
+    },
+    {
+      "name": "oxc-audit",
+      "version": "1.0.0",
+      "description": "Deterministically audit a project's stack and recommend the Oxlint rules it is missing",
+      "license": "MIT",
+      "repository": "https://github.com/entro314-labs/oxc-audit",
+      "npmUrl": "https://www.npmjs.com/package/oxc-audit",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T01:06:57.000Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 80
     },
     {
       "name": "oxc-tsrx",
@@ -64550,6 +64826,18 @@
       "score": 78
     },
     {
+      "name": "sauce-labs-cli",
+      "version": "0.1.0",
+      "description": "A command line interface for the Sauce Labs Storage and Jobs REST APIs",
+      "license": "MIT",
+      "repository": "https://github.com/catesandrew/sauce-labs-cli",
+      "npmUrl": "https://www.npmjs.com/package/sauce-labs-cli",
+      "category": "testing",
+      "createdAt": "2026-08-11T01:20:28.693Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 69
+    },
+    {
       "name": "scenepipe",
       "version": "0.2.0",
       "description": "npx scenepipe — AI-authored, Remotion-rendered, brand-consistent short-form video. No AI-generated rendering code, ever.",
@@ -66096,6 +66384,18 @@
       "createdAt": "2026-08-01T21:39:33.877Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 77
+    },
+    {
+      "name": "spec-finder",
+      "version": "0.1.0",
+      "description": "A skill-driven specification framework and ACP cockpit",
+      "license": "MIT",
+      "repository": "https://github.com/MatheusBBarni/spec-finder",
+      "npmUrl": "https://www.npmjs.com/package/spec-finder",
+      "category": "cli",
+      "createdAt": "2026-08-11T02:56:24.407Z",
+      "discoveredAt": "2026-08-11T03:27:39.025Z",
+      "score": 63
     },
     {
       "name": "spec-init",

@@ -1,7 +1,48 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124297614,
-  "lastRunAt": "2026-08-11T01:05:34.741Z",
+  "lastSequence": 124310917,
+  "lastRunAt": "2026-08-11T03:27:39.025Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@previewdock/preset-media",
+      "attempts": 1
+    },
+    {
+      "name": "@previewdock/preset-text-data",
+      "attempts": 1
+    },
+    {
+      "name": "@previewdock/preset-all",
+      "attempts": 1
+    },
+    {
+      "name": "@previewdock/web",
+      "attempts": 1
+    },
+    {
+      "name": "@previewdock/react",
+      "attempts": 1
+    },
+    {
+      "name": "@previewdock/vite-plugin",
+      "attempts": 1
+    },
+    {
+      "name": "@stcasonyang/startrust-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@seg4lt/pbi-lens",
+      "attempts": 1
+    },
+    {
+      "name": "@yceffort/number-flow",
+      "attempts": 1
+    },
+    {
+      "name": "@yceffort/number-flow-react",
+      "attempts": 1
+    }
+  ]
 }
