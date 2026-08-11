@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124492286,
-  "lastRunAt": "2026-08-11T22:33:23.993Z",
+  "lastSequence": 124498030,
+  "lastRunAt": "2026-08-11T23:20:35.364Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@farm.js/svelte",
+      "attempts": 1
+    },
+    {
+      "name": "@inknexlab/regex-language-server",
+      "attempts": 1
+    },
+    {
+      "name": "@ssheleg/agent-stack",
+      "attempts": 1
+    },
+    {
+      "name": "@ssheleg/sheleg-dev",
+      "attempts": 1
+    }
+  ]
 }

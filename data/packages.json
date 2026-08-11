@@ -2990,6 +2990,18 @@
       "score": 63
     },
     {
+      "name": "@apexcloudwise/linear-axi",
+      "version": "0.1.1",
+      "description": "AXI-compliant Linear CLI — token-efficient TOON output, contextual suggestions, idempotent mutations over the Linear GraphQL API",
+      "license": "MIT",
+      "repository": "https://github.com/apexcloudwise/linear-axi",
+      "npmUrl": "https://www.npmjs.com/package/%40apexcloudwise%2Flinear-axi",
+      "category": "backend",
+      "createdAt": "2026-08-11T21:55:34.646Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 61
+    },
+    {
       "name": "@apilium/altretta-plugin",
       "version": "1.0.1",
       "description": "The altretta-plugin author CLI: keygen, pack (sign), and verify Altretta plugins. Ships a prebuilt native binary per platform, resolved at run time.",
@@ -5522,6 +5534,18 @@
       "score": 72
     },
     {
+      "name": "@bto-labs/agy-bridge",
+      "version": "0.5.0",
+      "description": "MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, and multi-turn session continuity.",
+      "license": "MIT",
+      "repository": "https://github.com/bto-labs/agy-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40bto-labs%2Fagy-bridge",
+      "category": "cli",
+      "createdAt": "2026-08-11T23:12:00.434Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 78
+    },
+    {
       "name": "@bubblyworld/xgboost-ts",
       "version": "1.0.0",
       "description": "A wasm build of XGBoost with a convenient typescript interface. Runs with zero dependencies in both node and web environments.",
@@ -7644,6 +7668,18 @@
       "createdAt": "2026-08-02T01:14:54.932Z",
       "discoveredAt": "2026-08-02T01:59:35.775Z",
       "score": 87
+    },
+    {
+      "name": "@cortadel/sdk",
+      "version": "1.0.0",
+      "description": "Official TypeScript SDK for Cortadel — self-hosted long-term temporal graph memory for AI agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T22:47:15.308Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 64
     },
     {
       "name": "@cosyte/cli",
@@ -10260,6 +10296,18 @@
       "createdAt": "2026-08-02T08:08:14.969Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 73
+    },
+    {
+      "name": "@durable-streams/server-cloudflare",
+      "version": "0.1.1",
+      "description": "Durable Streams protocol server on Cloudflare Workers + Durable Objects — export the StreamObject class and mount the handler in your own Worker",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/durable-streams/durable-streams",
+      "npmUrl": "https://www.npmjs.com/package/%40durable-streams%2Fserver-cloudflare",
+      "category": "backend",
+      "createdAt": "2026-08-11T23:12:04.119Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 63
     },
     {
       "name": "@duskel/cassette",
@@ -15470,6 +15518,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/rjv",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RJV (build etherscan-rjv-a1f410f1-1786488292217, commit c6f71b9, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rjv",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frjv",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T22:45:14.997Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/rlb",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for RLB (build etherscan-rlb-046eee2c-1785369424718, commit 5694d65, branch etherscan)",
@@ -18722,6 +18782,18 @@
       "score": 90
     },
     {
+      "name": "@ikarii_warrior/themis",
+      "version": "0.1.0",
+      "description": "Themis: a syntax-aware, intent-preserving, opinionated code formatter",
+      "license": "MIT",
+      "repository": "https://github.com/ikariiwarrior/themis",
+      "npmUrl": "https://www.npmjs.com/package/%40ikarii_warrior%2Fthemis",
+      "category": "frontend",
+      "createdAt": "2026-08-11T22:51:34.915Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 53
+    },
+    {
       "name": "@illodev/workfile",
       "version": "0.1.0",
       "description": "Repository-native protocol and local MCP server for Work, Docs, History and durable project Memory.",
@@ -21744,6 +21816,18 @@
       "createdAt": "2026-08-10T22:40:49.109Z",
       "discoveredAt": "2026-08-10T23:06:27.902Z",
       "score": 46
+    },
+    {
+      "name": "@levi-putna/element",
+      "version": "0.1.0",
+      "description": "Install UI elements from a git repo into your project — copy-in source, resolve deps, manage paths",
+      "license": "MIT",
+      "repository": "https://github.com/levi-putna/element",
+      "npmUrl": "https://www.npmjs.com/package/%40levi-putna%2Felement",
+      "category": "cli",
+      "createdAt": "2026-08-11T22:57:52.419Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 60
     },
     {
       "name": "@lew-ds/lds",
@@ -30362,6 +30446,18 @@
       "score": 75
     },
     {
+      "name": "@pulsadev/defi-router",
+      "version": "0.1.0",
+      "description": "DEX swap router — optimal path finding, multi-hop routing, price quotes, calldata generation. Zero dependencies, pure RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/defi-router",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fdefi-router",
+      "category": "data",
+      "createdAt": "2026-08-11T23:06:39.497Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 60
+    },
+    {
       "name": "@pulsadev/ens-resolver",
       "version": "0.1.0",
       "description": "Lightweight ENS resolver — forward/reverse resolution, avatar, text records, contenthash. Zero dependencies, pure RPC.",
@@ -34442,6 +34538,18 @@
       "score": 76
     },
     {
+      "name": "@sidieyel/wysiwyg-editor",
+      "version": "1.0.0",
+      "description": "A modern WYSIWYG editor built with React and Tiptap",
+      "license": "MIT",
+      "repository": "https://github.com/SidiEyel/wysiwyg",
+      "npmUrl": "https://www.npmjs.com/package/%40sidieyel%2Fwysiwyg-editor",
+      "category": "frontend",
+      "createdAt": "2026-08-11T22:52:56.650Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 65
+    },
+    {
       "name": "@sidnei_ali/factory-agent",
       "version": "0.2.0",
       "description": "Fábrica de software multiagente orientada por especificações e evidências",
@@ -34500,6 +34608,18 @@
       "createdAt": "2026-07-26T11:33:36.282Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 60
+    },
+    {
+      "name": "@sigtake/sdk",
+      "version": "0.1.0",
+      "description": "Official Node.js SDK for Sigtake — alert and signal ingestion.",
+      "license": "MIT",
+      "repository": "https://github.com/Sigtake/node-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40sigtake%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T23:16:18.572Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 53
     },
     {
       "name": "@sigx/actors",
@@ -36168,6 +36288,18 @@
       "createdAt": "2026-07-28T16:25:47.323Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 61
+    },
+    {
+      "name": "@streamshapers/ograf-validator-core",
+      "version": "0.2.1",
+      "description": "Validate OGraf v1 Graphics Packages in Node.js and browsers with zero runtime dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/Streamshapers/OGraf-Validator",
+      "npmUrl": "https://www.npmjs.com/package/%40streamshapers%2Fograf-validator-core",
+      "category": "frontend",
+      "createdAt": "2026-08-11T21:56:57.780Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 67
     },
     {
       "name": "@streetinsider/visibility-engine",
@@ -40214,6 +40346,42 @@
       "score": 80
     },
     {
+      "name": "@vulcantech/analytics",
+      "version": "0.1.1",
+      "description": "Lightweight first-party analytics tracker for Next.js — page views, custom events, form conversions. No cookies, no fingerprinting, <1KB gzipped.",
+      "license": "MIT",
+      "repository": "https://github.com/vulcantech/vulcantech",
+      "npmUrl": "https://www.npmjs.com/package/%40vulcantech%2Fanalytics",
+      "category": "data",
+      "createdAt": "2026-08-11T21:40:53.351Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 58
+    },
+    {
+      "name": "@vulcantech/blog",
+      "version": "0.1.1",
+      "description": "Server-side blog fetch layer for VulcanTech consumer sites — ISR-tagged reads from the CMS, with signed draft-preview support. Shared so each site doesn't duplicate the fetch code.",
+      "license": "MIT",
+      "repository": "https://github.com/vulcantech/vulcantech",
+      "npmUrl": "https://www.npmjs.com/package/%40vulcantech%2Fblog",
+      "category": "backend",
+      "createdAt": "2026-08-11T21:41:39.970Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 55
+    },
+    {
+      "name": "@vulcantech/seo-files",
+      "version": "0.1.1",
+      "description": "Server-side SEO-file (robots.txt / llms.txt) fetch layer for VulcanTech consumer sites — ISR-tagged reads from the CMS with a compile-time fallback, plus a Next.js route-handler factory. Shared so each site doesn't duplicate the fetch + route code.",
+      "license": "MIT",
+      "repository": "https://github.com/vulcantech/vulcantech",
+      "npmUrl": "https://www.npmjs.com/package/%40vulcantech%2Fseo-files",
+      "category": "backend",
+      "createdAt": "2026-08-11T21:41:54.923Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 55
+    },
+    {
       "name": "@vxil/react",
       "version": "0.1.0",
       "description": "The Vxil React component library — drop-in, themeable widgets over the stable Vxil APIs, one package with three subpath entries: @vxil/react/copilot (<CopilotProvider>/<CopilotThread>/<Composer>/<ProposalCard> + useCopilot, propose→confirm AI actions), @v",
@@ -42216,6 +42384,18 @@
       "createdAt": "2026-08-08T00:25:34.329Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 61
+    },
+    {
+      "name": "@zioladev/interop-conformance",
+      "version": "0.1.0",
+      "description": "Qualify WebMCP interoperability against frozen, versioned profiles: take Phase III trajectory evidence and evaluate whether an implementation is qualified, not_qualified, or has insufficient_evidence — without executing anything or altering lower-layer at",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/zioladev/interop-conformance",
+      "npmUrl": "https://www.npmjs.com/package/%40zioladev%2Finterop-conformance",
+      "category": "data",
+      "createdAt": "2026-08-11T22:55:58.618Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 86
     },
     {
       "name": "@zioladev/interop-runtime",
@@ -45014,6 +45194,18 @@
       "score": 78
     },
     {
+      "name": "awx-axi",
+      "version": "0.1.2",
+      "description": "Inspect and run AWX automation from the shell",
+      "license": "MIT",
+      "repository": "https://github.com/knowttl/awx-axi",
+      "npmUrl": "https://www.npmjs.com/package/awx-axi",
+      "category": "cli",
+      "createdAt": "2026-08-11T22:05:04.755Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 54
+    },
+    {
       "name": "axiom-math",
       "version": "1.0.1",
       "description": "Advanced Math MCP Server - Symbolic and numerical computation engine for LLMs",
@@ -46046,6 +46238,18 @@
       "score": 77
     },
     {
+      "name": "buildgql",
+      "version": "0.1.0",
+      "description": "Type-safe GraphQL query builder generated from introspection",
+      "license": "MIT",
+      "repository": "https://github.com/robertozimek/buildgql",
+      "npmUrl": "https://www.npmjs.com/package/buildgql",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T22:44:48.415Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 66
+    },
+    {
       "name": "buildloop",
       "version": "0.1.0",
       "description": "Portable agent skills for scaffolding a project, defining a roadmap, researching/designing UI, generating features from the roadmap, and reviewing generated code — works with any SKILL.md-compatible coding agent.",
@@ -46970,6 +47174,18 @@
       "score": 66
     },
     {
+      "name": "chronicle-cli",
+      "version": "1.0.0",
+      "description": "Local-first AI coding session time machine",
+      "license": "MIT",
+      "repository": "https://github.com/chizhangucb/chronicle",
+      "npmUrl": "https://www.npmjs.com/package/chronicle-cli",
+      "category": "cli",
+      "createdAt": "2026-08-11T23:05:40.709Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 56
+    },
+    {
       "name": "chrono-fa",
       "version": "0.1.0",
       "description": "Deterministic natural-language date and time parser for Persian (Farsi)",
@@ -47580,6 +47796,18 @@
       "createdAt": "2026-07-30T21:11:08.437Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 66
+    },
+    {
+      "name": "cliproxyapi-manager",
+      "version": "1.1.0",
+      "description": "One-line Windows installer for CLIProxyAPI, Claude Code, and CLIProxyAPI Manager",
+      "license": "MIT",
+      "repository": "https://github.com/swy99/CliProxyAPI_Manager",
+      "npmUrl": "https://www.npmjs.com/package/cliproxyapi-manager",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:48:34.498Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 54
     },
     {
       "name": "clipugc",
@@ -49788,6 +50016,18 @@
       "createdAt": "2026-07-26T18:46:38.342Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 85
+    },
+    {
+      "name": "deprecated-tracker",
+      "version": "2.2.0",
+      "description": "Find and manage deprecated code in TypeScript and JavaScript projects",
+      "license": "MIT",
+      "repository": "https://github.com/milad-hub/deprecated-tracker",
+      "npmUrl": "https://www.npmjs.com/package/deprecated-tracker",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T22:40:34.499Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 69
     },
     {
       "name": "depthbake-cli",
@@ -53138,6 +53378,18 @@
       "score": 59
     },
     {
+      "name": "ghito",
+      "version": "1.0.0",
+      "description": "CLI de GitHub ultrarrápido en español: TUI interactiva, dashboard web, app de escritorio, multi-cuenta y JSON para scripting",
+      "license": "MIT",
+      "repository": "https://github.com/jmarc9901/ghito",
+      "npmUrl": "https://www.npmjs.com/package/ghito",
+      "category": "cli",
+      "createdAt": "2026-08-11T22:52:11.358Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 88
+    },
+    {
       "name": "ghost-inspector-mcp",
       "version": "0.1.0",
       "description": "MCP server for the Ghost Inspector API — analyze, validate and safely update end-to-end browser tests from any MCP-capable agent",
@@ -53736,6 +53988,18 @@
       "createdAt": "2026-08-01T22:31:32.850Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 64
+    },
+    {
+      "name": "grokbotfun",
+      "version": "1.0.0",
+      "description": "MCP server that lets AI agents (Grok Bot, Cursor, Claude Code, etc.) deploy tokens on pump.fun — create + optional dev buy in one transaction",
+      "license": "MIT",
+      "repository": "https://github.com/GrokBotfun/GrokBotfun",
+      "npmUrl": "https://www.npmjs.com/package/grokbotfun",
+      "category": "backend",
+      "createdAt": "2026-08-11T21:54:57.364Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 68
     },
     {
       "name": "grokrc",
@@ -59472,6 +59736,18 @@
       "createdAt": "2026-08-09T12:34:32.120Z",
       "discoveredAt": "2026-08-09T13:32:47.876Z",
       "score": 88
+    },
+    {
+      "name": "mnemo-mem",
+      "version": "0.1.1",
+      "description": "Give your AI agents a git repo as a brain. Local-first persistent memory for OpenCode, Claude Code, Cursor & Codex — MCP server + auto-capture plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/JoaquimLegal/mnemo",
+      "npmUrl": "https://www.npmjs.com/package/mnemo-mem",
+      "category": "backend",
+      "createdAt": "2026-08-11T22:50:43.089Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 63
     },
     {
       "name": "mobiflow",
@@ -67034,6 +67310,18 @@
       "score": 84
     },
     {
+      "name": "react-file-progress",
+      "version": "0.1.0",
+      "description": "React progress bar for reading a file from the hard disk/SSD into the browser, plus a separate one for uploading it to your server when you choose. Drop zone, swappable components, zero dependencies, TypeScript types",
+      "license": "MIT",
+      "repository": "https://github.com/codeAesthetic/react-file-progress",
+      "npmUrl": "https://www.npmjs.com/package/react-file-progress",
+      "category": "frontend",
+      "createdAt": "2026-08-11T22:56:21.188Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 87
+    },
+    {
       "name": "react-financial-input",
       "version": "0.1.1",
       "description": "Zero-dependency React financial input that formats as you type and handles desktop, iOS and Android input events.",
@@ -71400,6 +71688,18 @@
       "createdAt": "2026-08-08T01:37:34.824Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 68
+    },
+    {
+      "name": "stipend",
+      "version": "0.45.1",
+      "description": "stipend.sh — a non-custodial USDC wallet on Base that an AI agent installs by itself. Spending limits enforced in the signing path, not in a prompt.",
+      "license": "MIT",
+      "repository": "https://github.com/stipend-sh/stipend",
+      "npmUrl": "https://www.npmjs.com/package/stipend",
+      "category": "backend",
+      "createdAt": "2026-08-11T13:24:35.285Z",
+      "discoveredAt": "2026-08-11T23:20:35.364Z",
+      "score": 55
     },
     {
       "name": "stitchmath-core",
