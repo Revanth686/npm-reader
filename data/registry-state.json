@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124334305,
-  "lastRunAt": "2026-08-11T06:52:24.905Z",
+  "lastSequence": 124343783,
+  "lastRunAt": "2026-08-11T07:59:00.376Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@linxiraos/pi-natives-darwin-arm64",
+      "name": "@x-otto/plugin-anthropic",
       "attempts": 1
     },
     {
-      "name": "@linxiraos/pi-natives-darwin-x64",
+      "name": "@egma/cli",
       "attempts": 1
     },
     {
-      "name": "@linxiraos/pi-natives-linux-arm64",
+      "name": "@rainbow-fe/rainbow-template-pda",
+      "attempts": 1
+    },
+    {
+      "name": "@gwokfun/my-pi-extensions",
+      "attempts": 1
+    },
+    {
+      "name": "@harlan-zw/nuxt-cloudflare",
       "attempts": 1
     }
   ]

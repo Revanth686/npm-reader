@@ -10742,6 +10742,18 @@
       "score": 92
     },
     {
+      "name": "@evitras-technologies/react-native-background-geolocation",
+      "version": "0.1.0",
+      "description": "Free, open-source background geolocation SDK for React Native CLI and Expo. Battery-conscious motion-detection tracking, geofencing, SQLite persistence, HTTP sync, headless tasks. API-compatible with the popular transistorsoft plugin surface.",
+      "license": "MIT",
+      "repository": "https://github.com/Evitras-Technologies/geo-location-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40evitras-technologies%2Freact-native-background-geolocation",
+      "category": "frontend",
+      "createdAt": "2026-08-11T07:17:14.132Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 77
+    },
+    {
       "name": "@exellix/ai-tasks-docs",
       "version": "1.0.0",
       "description": "x12i ai-tasks ecosystem docs knowledge SDK — install as a devDependency only. Catalog, use cases, and markdown packs for humans and agents.",
@@ -12600,6 +12612,18 @@
       "createdAt": "2026-08-08T19:53:13.171Z",
       "discoveredAt": "2026-08-08T22:51:06.233Z",
       "score": 31
+    },
+    {
+      "name": "@gitawego/pi-vision",
+      "version": "0.6.0",
+      "description": "Capability-aware vision + paste extension for the pi coding agent. Delegates image analysis to a vision model only when the active primary model is text-only; passes images through natively for multimodal models (zero delegation).",
+      "license": "MIT",
+      "repository": "https://github.com/gitawego/pi-vision",
+      "npmUrl": "https://www.npmjs.com/package/%40gitawego%2Fpi-vision",
+      "category": "utilities",
+      "createdAt": "2026-08-11T07:05:52.464Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 82
     },
     {
       "name": "@gitmyabi/0xbtc",
@@ -20978,6 +21002,42 @@
       "score": 85
     },
     {
+      "name": "@linxiraos/pi-agent-core",
+      "version": "1.0.0",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/Linxira-OS/linxira-zeta",
+      "npmUrl": "https://www.npmjs.com/package/%40linxiraos%2Fpi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-11T07:30:17.545Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 79
+    },
+    {
+      "name": "@linxiraos/pi-ai",
+      "version": "1.0.0",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/Linxira-OS/linxira-zeta",
+      "npmUrl": "https://www.npmjs.com/package/%40linxiraos%2Fpi-ai",
+      "category": "backend",
+      "createdAt": "2026-08-11T07:29:02.972Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 81
+    },
+    {
+      "name": "@linxiraos/pi-tui",
+      "version": "1.0.0",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/Linxira-OS/linxira-zeta",
+      "npmUrl": "https://www.npmjs.com/package/%40linxiraos%2Fpi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T07:29:10.721Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 83
+    },
+    {
       "name": "@liteasy/linter",
       "version": "1.1.8",
       "description": "A linter for EventCatalog to validate frontmatter and resource references",
@@ -21326,6 +21386,18 @@
       "score": 72
     },
     {
+      "name": "@loomidev/floating-panel",
+      "version": "0.3.0",
+      "description": "<loomi-floating-panel> — a draggable, resizable panel that floats above the page.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Ffloating-panel",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:29.833Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 72
+    },
+    {
       "name": "@loomidev/input",
       "version": "0.2.0",
       "description": "<loomi-input> — a themeable text input web component with floating labels, prefixes/suffixes, icons and validation.",
@@ -21350,6 +21422,30 @@
       "score": 79
     },
     {
+      "name": "@loomidev/number",
+      "version": "0.3.0",
+      "description": "<loomi-number> — a themeable number stepper input with increment/decrement buttons.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fnumber",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:36.854Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 70
+    },
+    {
+      "name": "@loomidev/otp",
+      "version": "0.3.0",
+      "description": "<loomi-otp> — a one-time-passcode (OTP/PIN) input.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fotp",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:36.714Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 69
+    },
+    {
       "name": "@loomidev/photo-gallery",
       "version": "0.2.0",
       "description": "<loomi-photo-gallery> — an album grid with zoom/square/slideshow controls and a lightbox viewer.",
@@ -21360,6 +21456,66 @@
       "createdAt": "2026-08-07T06:49:39.439Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 73
+    },
+    {
+      "name": "@loomidev/scroller",
+      "version": "0.3.0",
+      "description": "<loomi-scroller> — a seamless, configurable ticker for any slotted content.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fscroller",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:46.900Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 69
+    },
+    {
+      "name": "@loomidev/select",
+      "version": "0.3.0",
+      "description": "<loomi-select> — a themeable custom select web component (searchable, multiple, form-ready).",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fselect",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:47.287Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 71
+    },
+    {
+      "name": "@loomidev/split-button",
+      "version": "0.3.0",
+      "description": "<loomi-split-button> — a primary action plus a caret that opens a menu of related actions.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fsplit-button",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:51.142Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 71
+    },
+    {
+      "name": "@loomidev/table",
+      "version": "0.3.0",
+      "description": "<loomi-table> — data table with sorting, search, pagination, checkable rows and action icons.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Ftable",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:51.902Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 69
+    },
+    {
+      "name": "@loomidev/tag",
+      "version": "0.3.0",
+      "description": "<loomi-tag>/<loomi-tags> — themeable labels/badges, faint or dark, closable, selectable.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Ftag",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:52.173Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 70
     },
     {
       "name": "@loomidev/text-editor",
@@ -21374,6 +21530,18 @@
       "score": 75
     },
     {
+      "name": "@loomidev/textarea",
+      "version": "0.3.0",
+      "description": "<loomi-textarea> — a themeable multi-line text input web component with floating labels.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Ftextarea",
+      "category": "data",
+      "createdAt": "2026-08-07T06:49:55.845Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 70
+    },
+    {
       "name": "@loomidev/timezonepicker",
       "version": "0.2.0",
       "description": "<loomi-timezonepicker> — a searchable IANA timezone dropdown with live UTC offsets and local time.",
@@ -21384,6 +21552,18 @@
       "createdAt": "2026-08-07T06:49:58.354Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 75
+    },
+    {
+      "name": "@loomidev/video",
+      "version": "0.3.0",
+      "description": "<loomi-video> — a themeable wrapper around the native <video> element with custom controls.",
+      "license": "MIT",
+      "repository": "https://github.com/loomidev/loomiui",
+      "npmUrl": "https://www.npmjs.com/package/%40loomidev%2Fvideo",
+      "category": "utilities",
+      "createdAt": "2026-08-07T06:49:58.592Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 71
     },
     {
       "name": "@loopflux/node-vfs",
@@ -22932,6 +23112,18 @@
       "createdAt": "2026-08-03T12:40:58.378Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 77
+    },
+    {
+      "name": "@mindmux/brain-md",
+      "version": "0.1.0",
+      "description": "Open Project Brain Standard — install-first, agent-agnostic toolkit. Capture a project's durable knowledge as plain Markdown, read and written through one zero-dependency CLI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mindmuxai/brain.md",
+      "npmUrl": "https://www.npmjs.com/package/%40mindmux%2Fbrain-md",
+      "category": "cli",
+      "createdAt": "2026-08-11T07:49:40.854Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 76
     },
     {
       "name": "@mindraseugen/utility-kit",
@@ -26748,6 +26940,18 @@
       "createdAt": "2026-08-08T20:56:32.134Z",
       "discoveredAt": "2026-08-08T21:15:33.790Z",
       "score": 15
+    },
+    {
+      "name": "@opiobonniky/save",
+      "version": "1.1.6",
+      "description": "CLI tool to download videos from YouTube, TikTok, Facebook, and other platforms via yt-dlp",
+      "license": "MIT",
+      "repository": "https://github.com/opiobonniky/download-me",
+      "npmUrl": "https://www.npmjs.com/package/%40opiobonniky%2Fsave",
+      "category": "data",
+      "createdAt": "2026-08-11T07:01:23.197Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 83
     },
     {
       "name": "@opiobonniky/vidfetch",
@@ -39974,6 +40178,18 @@
       "score": 80
     },
     {
+      "name": "ableton-als",
+      "version": "0.1.0",
+      "description": "Read, edit, validate and version-convert Ableton Live Set (.als) files. Zero dependencies — runs in Node, Deno, Bun, Workers and the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/kevinkirsten/ableton-als",
+      "npmUrl": "https://www.npmjs.com/package/ableton-als",
+      "category": "frontend",
+      "createdAt": "2026-08-11T07:43:18.800Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 73
+    },
+    {
       "name": "abulafia",
       "version": "0.2.40",
       "description": "Research-first CLI agent built on Pi and alphaXiv",
@@ -48974,6 +49190,18 @@
       "score": 96
     },
     {
+      "name": "feature-explorer",
+      "version": "1.0.0",
+      "description": "Turn a feature branch into a self-contained HTML architecture explorer — real source, real line numbers, verified against the working tree.",
+      "license": "MIT",
+      "repository": "https://github.com/nikhilyadavvvv/feature-explorer",
+      "npmUrl": "https://www.npmjs.com/package/feature-explorer",
+      "category": "utilities",
+      "createdAt": "2026-08-11T07:09:03.060Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 83
+    },
+    {
       "name": "featureboard",
       "version": "0.1.1",
       "description": "Embedded, MongoDB-backed feature request board for Node.js. One-vote-per-user upvoting, comments, status triage, and two React UIs you mount inside your Express app.",
@@ -53234,6 +53462,18 @@
       "score": 34
     },
     {
+      "name": "korean-football-team-names",
+      "version": "2.0.0",
+      "description": "English-to-Korean name mapping for 264 European club football teams, keyed on football-data.org API names. Public domain (CC0).",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/dwoony0909-tech/korean-football-team-names",
+      "npmUrl": "https://www.npmjs.com/package/korean-football-team-names",
+      "category": "frontend",
+      "createdAt": "2026-08-11T07:26:31.740Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 69
+    },
+    {
       "name": "kracked-core",
       "version": "1.0.0",
       "description": "Zero-dependency memory & workflow installer for AI coding agents — global identity, project memory, and skills that survive session restarts.",
@@ -57374,6 +57614,18 @@
       "score": 70
     },
     {
+      "name": "nestjs-smsir",
+      "version": "1.0.1",
+      "description": "NestJS integration for sms.ir, providing Dependency Injection, forRoot/forRootAsync configuration, and access to the sms.ir API through sms-typescript.",
+      "license": "MIT",
+      "repository": "https://github.com/mohammad-mirzaie-gh/nestjs-smsir",
+      "npmUrl": "https://www.npmjs.com/package/nestjs-smsir",
+      "category": "backend",
+      "createdAt": "2026-08-11T07:34:46.338Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 95
+    },
+    {
       "name": "netcafe-ai-tools",
       "version": "0.2.0",
       "description": "Vercel AI SDK tools that return finished files: PDF, docx, charts, subtitles, invoices, screenshots — one hosted endpoint, free quota, no API key to start.",
@@ -58634,6 +58886,18 @@
       "score": 47
     },
     {
+      "name": "omp-matrix-welcome",
+      "version": "1.1.0",
+      "description": "Matrix-style start screen for Oh My Pi (omp): full-width digital rain with a block banner, version, model and recent sessions",
+      "license": "MIT",
+      "repository": "https://github.com/p1x3l4rtd3v/omp-matrix-welcome",
+      "npmUrl": "https://www.npmjs.com/package/omp-matrix-welcome",
+      "category": "devops",
+      "createdAt": "2026-08-11T07:24:12.005Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 83
+    },
+    {
       "name": "omp-smart-approve",
       "version": "0.1.1",
       "description": "An LLM safety judge in front of tool calls OMP would otherwise auto-approve. Hard-blocks clear attacks and clear mistakes, escalates genuine uncertainty to a human.",
@@ -59496,6 +59760,18 @@
       "createdAt": "2026-08-10T17:56:20.380Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 70
+    },
+    {
+      "name": "orangebox-ai",
+      "version": "1.1.0",
+      "description": "Flight data recorder for the AI agent you're building — a zero-config local proxy that records every LLM API call your own agent code makes into SQLite, and renders each run as a visual timeline you can diff and export.",
+      "license": "MIT",
+      "repository": "https://github.com/EzraStone/orangebox",
+      "npmUrl": "https://www.npmjs.com/package/orangebox-ai",
+      "category": "backend",
+      "createdAt": "2026-08-11T06:55:28.826Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 98
     },
     {
       "name": "orangerail",
@@ -64308,6 +64584,18 @@
       "createdAt": "2026-08-08T22:52:38.793Z",
       "discoveredAt": "2026-08-08T23:13:31.743Z",
       "score": 29
+    },
+    {
+      "name": "renexmoe-ii",
+      "version": "1.2.5",
+      "description": "高颜值 OneManager 主题，作用于 OneManager-php，提供多种CDN",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/GuangSeven/renexmoe-ii",
+      "npmUrl": "https://www.npmjs.com/package/renexmoe-ii",
+      "category": "utilities",
+      "createdAt": "2026-08-11T07:12:10.919Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 72
     },
     {
       "name": "renidly",
@@ -69348,6 +69636,18 @@
       "createdAt": "2026-08-08T19:40:49.009Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 98
+    },
+    {
+      "name": "tui-integration-tests",
+      "version": "0.1.0",
+      "description": "Screen-level integration tests for any terminal UI: plug in your binary, send real keystrokes through a real PTY, assert on what the user actually sees.",
+      "license": "MIT",
+      "repository": "https://github.com/viraatdas/tui-integration-tests",
+      "npmUrl": "https://www.npmjs.com/package/tui-integration-tests",
+      "category": "testing",
+      "createdAt": "2026-08-11T07:56:12.796Z",
+      "discoveredAt": "2026-08-11T07:59:00.376Z",
+      "score": 82
     },
     {
       "name": "tuipr",
