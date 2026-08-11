@@ -314,6 +314,18 @@
       "score": 76
     },
     {
+      "name": "@7ii/newtun",
+      "version": "1.0.31",
+      "description": "NewTun Client - Multi-protocol tunnel forwarding CLI tool (tcp/udp/http/https/ws/wss/sse), designed for network infrastructure management and development environments",
+      "license": "MIT",
+      "repository": "https://github.com/7ii/newtun",
+      "npmUrl": "https://www.npmjs.com/package/%407ii%2Fnewtun",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:19:46.299Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 58
+    },
+    {
       "name": "@9punk/9cli",
       "version": "0.1.0",
       "description": "9CLI — a local multi-session command center for Claude Code and other CLI agents. Finds your projects, spawns real sessions in them, and shows every one on a board in your browser.",
@@ -3758,6 +3770,30 @@
       "score": 67
     },
     {
+      "name": "@avandar/clients",
+      "version": "0.1.1",
+      "description": "Typed CRUD client primitives and database-specific CRUD type helpers",
+      "license": "MIT",
+      "repository": "https://github.com/AvandarLabs/avandar",
+      "npmUrl": "https://www.npmjs.com/package/%40avandar%2Fclients",
+      "category": "data",
+      "createdAt": "2026-08-11T01:29:11.941Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 56
+    },
+    {
+      "name": "@avandar/utils",
+      "version": "0.1.1",
+      "description": "Common helper functions with no business logic. Droppable into any project.",
+      "license": "MIT",
+      "repository": "https://github.com/AvandarLabs/avandar",
+      "npmUrl": "https://www.npmjs.com/package/%40avandar%2Futils",
+      "category": "utilities",
+      "createdAt": "2026-08-11T01:29:12.399Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 57
+    },
+    {
       "name": "@avsbhq/flags-adapter",
       "version": "1.0.2",
       "description": "A vs B adapter for the Flags SDK: evaluate A vs B feature flags and experiments from flag declarations, with server-side exposure tracking.",
@@ -4860,6 +4896,18 @@
       "createdAt": "2026-07-25T19:23:12.640Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 60
+    },
+    {
+      "name": "@bossbench/core",
+      "version": "1.1.0",
+      "description": "Core API, repository, actions, and bundled UI for Bossbench.",
+      "license": "MIT",
+      "repository": "https://github.com/nip10/bossbench",
+      "npmUrl": "https://www.npmjs.com/package/%40bossbench%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-10T17:13:48.900Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 54
     },
     {
       "name": "@bourbonbaggers/ai-dispatcher",
@@ -7680,6 +7728,18 @@
       "createdAt": "2026-08-09T20:29:55.322Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 53
+    },
+    {
+      "name": "@dammers/use-signalr-svelte",
+      "version": "0.4.0",
+      "description": "Fully-typed multi-hub SignalR provider + stores for Svelte: auto-reconnect, invoke retry, lazy hubs, live status.",
+      "license": "MIT",
+      "repository": "https://github.com/DammersCode/use-signalr",
+      "npmUrl": "https://www.npmjs.com/package/%40dammers%2Fuse-signalr-svelte",
+      "category": "frontend",
+      "createdAt": "2026-08-11T10:45:44.537Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 72
     },
     {
       "name": "@dancingteeth/agent-looper",
@@ -11162,6 +11222,18 @@
       "score": 87
     },
     {
+      "name": "@fiberlatch/access",
+      "version": "0.1.0",
+      "description": "FiberLatch Access package for signing, verifying, binding, and redeeming host-issued access receipts.",
+      "license": "ISC",
+      "repository": "https://github.com/Ticoworld/fiber-latch",
+      "npmUrl": "https://www.npmjs.com/package/%40fiberlatch%2Faccess",
+      "category": "utilities",
+      "createdAt": "2026-08-11T11:00:51.656Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 70
+    },
+    {
       "name": "@fidacy/openai-agents",
       "version": "0.1.0",
       "description": "Gate OpenAI Agents SDK tool calls behind a signed Fidacy verdict. Wraps the tool's execute, so a denied payment never runs and the agent gets a refusal it can reason about.",
@@ -13034,6 +13106,18 @@
       "score": 58
     },
     {
+      "name": "@gitmyabi/beam",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BEAM (build etherscan-beam-62d0a845-1786447176000, commit 82be0ea, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/beam",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbeam",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T11:19:58.699Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/befi",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for BEFI (build etherscan-befi-8b9b9529-1786237095638, commit 45c7a87, branch etherscan)",
@@ -13511,6 +13595,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-01T18:12:33.380Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/dgo",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DGO (build etherscan-dgo-6d38574b-1786447295994, commit 6eb6813, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dgo",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdgo",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T11:21:58.089Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
       "score": 56
     },
     {
@@ -20150,6 +20246,18 @@
       "score": 59
     },
     {
+      "name": "@kit-dev/react-jql-builder",
+      "version": "0.1.1",
+      "description": "A seamless, schema-driven query builder for React + TypeScript, inspired by Jira's JQL. Visual and free-text modes, live completeness validation, typed schema config.",
+      "license": "MIT",
+      "repository": "https://github.com/jira/react-jql-builder",
+      "npmUrl": "https://www.npmjs.com/package/%40kit-dev%2Freact-jql-builder",
+      "category": "frontend",
+      "createdAt": "2026-08-10T11:42:45.750Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 80
+    },
+    {
       "name": "@kivimedia/kmhub",
       "version": "2.0.0",
       "description": "KM Hub Terminal Mode. Installs the KM Hub MCP connector into your own Claude Code on your own machine, and ships the kmhub CLI that registers, updates and diagnoses it.",
@@ -22032,6 +22140,18 @@
       "createdAt": "2026-08-05T20:31:39.730Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 73
+    },
+    {
+      "name": "@maiguard-hq/telemetry",
+      "version": "1.0.0",
+      "description": "MaiGuard telemetry SDK — behavioural signals, device fingerprinting and transaction scoring for the browser",
+      "license": "MIT",
+      "repository": "https://github.com/lyrisoft/maiguard-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40maiguard-hq%2Ftelemetry",
+      "category": "frontend",
+      "createdAt": "2026-08-11T10:52:11.810Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 78
     },
     {
       "name": "@mailkite/better-auth",
@@ -24902,6 +25022,18 @@
       "score": 73
     },
     {
+      "name": "@mvpaint/fontgen",
+      "version": "1.0.0",
+      "description": "Font files in, glyph atlases out - the offline atlas generator for @mvpaint/engine's MSDF and vector text paths.",
+      "license": "MIT",
+      "repository": "https://github.com/KristoferBorgware/mvPaint",
+      "npmUrl": "https://www.npmjs.com/package/%40mvpaint%2Ffontgen",
+      "category": "utilities",
+      "createdAt": "2026-08-11T11:26:39.466Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 80
+    },
+    {
       "name": "@mxrcochxvez/bugsmash-mcp",
       "version": "1.0.1",
       "description": "MCP server for BugSmash reviewer feedback — keeps the API key out of the LLM context",
@@ -26798,6 +26930,18 @@
       "score": 89
     },
     {
+      "name": "@onderwijsin/nuxt-directus",
+      "version": "0.2.0",
+      "description": "Server-safe Directus REST integration for Nuxt applications.",
+      "license": "MIT",
+      "repository": "https://github.com/onderwijsin/nuxt-modules",
+      "npmUrl": "https://www.npmjs.com/package/%40onderwijsin%2Fnuxt-directus",
+      "category": "backend",
+      "createdAt": "2026-08-11T10:54:54.460Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 56
+    },
+    {
       "name": "@onderwijsin/nuxt-newsletter-signup",
       "version": "1.0.0",
       "description": "Provider-independent newsletter signup endpoint for Nuxt.",
@@ -27866,6 +28010,18 @@
       "score": 77
     },
     {
+      "name": "@pauserratgutierrez/sluice-js",
+      "version": "0.1.3",
+      "description": "Typed realtime client for Sluice: PostgreSQL row changes, broadcast and presence over one SSE connection.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/pauserratgutierrez/sluice",
+      "npmUrl": "https://www.npmjs.com/package/%40pauserratgutierrez%2Fsluice-js",
+      "category": "data",
+      "createdAt": "2026-08-11T11:04:16.722Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 55
+    },
+    {
       "name": "@pbuilder/sdk",
       "version": "0.1.0",
       "description": "The public TypeScript/Bun authoring layer for Project Builder schematics. Authors file mutations (create, modify, remove, rename, move, copy, copyIn), lowers them to IR, and talks to the Project Builder engine over framed stdio (see docs/engine-sdk-wire-s",
@@ -27938,6 +28094,18 @@
       "score": 81
     },
     {
+      "name": "@peerbits/fhir-observation-generator",
+      "version": "1.0.0",
+      "description": "Generate FHIR Observation resources from RPM device readings, with correct LOINC coding and unit conversion",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PeerbitsSolution/fhir-observation-generator",
+      "npmUrl": "https://www.npmjs.com/package/%40peerbits%2Ffhir-observation-generator",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T11:19:35.640Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 78
+    },
+    {
       "name": "@peerbits/smart-launch",
       "version": "0.1.0",
       "description": "SMART on FHIR authentication & launch flow reference implementation",
@@ -27948,6 +28116,18 @@
       "createdAt": "2026-08-11T10:30:42.201Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 70
+    },
+    {
+      "name": "@peerbits/soap-schema",
+      "version": "0.1.0",
+      "description": "Canonical JSON Schema and TypeScript validation library for structured SOAP clinical notes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PeerbitsSolution/soap-schema",
+      "npmUrl": "https://www.npmjs.com/package/%40peerbits%2Fsoap-schema",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T10:54:16.189Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 71
     },
     {
       "name": "@peeve/cli",
@@ -27972,6 +28152,18 @@
       "createdAt": "2026-08-10T06:38:34.705Z",
       "discoveredAt": "2026-08-10T07:14:37.064Z",
       "score": 67
+    },
+    {
+      "name": "@peeve/wizard",
+      "version": "0.2.0",
+      "description": "The Peeve setup wizard — npx @peeve/wizard detects your framework and installs the Peeve widget/SDK with your publishable key, safely.",
+      "license": "MIT",
+      "repository": "https://github.com/peeveai/wizard",
+      "npmUrl": "https://www.npmjs.com/package/%40peeve%2Fwizard",
+      "category": "cli",
+      "createdAt": "2026-08-11T11:07:00.267Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 65
     },
     {
       "name": "@pelec/homer-pi",
@@ -28464,6 +28656,18 @@
       "createdAt": "2026-08-03T21:18:03.878Z",
       "discoveredAt": "2026-08-03T22:05:36.466Z",
       "score": 64
+    },
+    {
+      "name": "@polishd/next",
+      "version": "0.1.0",
+      "description": "Drop-in product analytics for Next.js — capture real user behavioral signals (rage/dead clicks, scroll depth, errors, web vitals) and explore them on a built-in dashboard. What gets measured gets improved.",
+      "license": "MIT",
+      "repository": "https://github.com/muskanvaswan/polishd",
+      "npmUrl": "https://www.npmjs.com/package/%40polishd%2Fnext",
+      "category": "cli",
+      "createdAt": "2026-08-11T11:12:50.907Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 82
     },
     {
       "name": "@politty/valibot",
@@ -33854,6 +34058,18 @@
       "score": 82
     },
     {
+      "name": "@solverdict/sak-adapter",
+      "version": "0.2.0",
+      "description": "Run any Solana Agent Kit agent through the SolVerdict scenarios on your own machine.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/alrimarleskovar/SolVerdict",
+      "npmUrl": "https://www.npmjs.com/package/%40solverdict%2Fsak-adapter",
+      "category": "utilities",
+      "createdAt": "2026-08-02T21:07:50.573Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 53
+    },
+    {
       "name": "@solvorx/sx-tool-web",
       "version": "0.1.0",
       "description": "Integración de identidad de SolvorX para apps web: login, sesión persistente y logout contra sx-management-service, sin backend propio.",
@@ -36840,6 +37056,18 @@
       "createdAt": "2026-07-31T06:20:16.797Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 68
+    },
+    {
+      "name": "@turkraft/filterkit",
+      "version": "1.0.0",
+      "description": "Filter expression language — parse, build, and transform filter queries. 100% syntax-compatible with Spring Filter (Java).",
+      "license": "MIT",
+      "repository": "https://github.com/turkraft/filterkit",
+      "npmUrl": "https://www.npmjs.com/package/%40turkraft%2Ffilterkit",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:25:39.684Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 67
     },
     {
       "name": "@turndb/cli",
@@ -44822,6 +45050,18 @@
       "score": 65
     },
     {
+      "name": "circlekey",
+      "version": "1.0.0",
+      "description": "Reference TypeScript implementation of the GroupVault Protocol — end-to-end encrypted group data storage for small teams with a zero-knowledge backend.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/smarthorizon-labs/circlekey",
+      "npmUrl": "https://www.npmjs.com/package/circlekey",
+      "category": "backend",
+      "createdAt": "2026-08-11T11:09:20.462Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 85
+    },
+    {
       "name": "circuitarium-mcp",
       "version": "0.2.0",
       "description": "Circuitarium MCP is a model-neutral server for circuit artifacts with CRUMBLE, an unofficial, version-pinned CRUMB .cru integration.",
@@ -47774,6 +48014,18 @@
       "score": 67
     },
     {
+      "name": "directus-extension-system-fields-manager",
+      "version": "1.0.2",
+      "description": "Configure visibility, order, and width of system_fields on Files and Users item forms by role and policy",
+      "license": "MIT",
+      "repository": "https://github.com/domdus/directus-extension-system-fields-manager",
+      "npmUrl": "https://www.npmjs.com/package/directus-extension-system-fields-manager",
+      "category": "data",
+      "createdAt": "2026-08-10T16:15:29.437Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 71
+    },
+    {
       "name": "discogs-mcp",
       "version": "0.1.4",
       "description": "Model Context Protocol server for Discogs — search the catalog, manage your collection and wantlist, and work the marketplace from Claude and other MCP clients.",
@@ -50628,6 +50880,18 @@
       "createdAt": "2026-08-03T19:50:12.218Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 78
+    },
+    {
+      "name": "gh-inari",
+      "version": "0.1.0",
+      "description": "A deterministic GitHub CLI extension for compiling, validating, rendering, and creating repository-governed Issues and pull requests.",
+      "license": "MIT",
+      "repository": "https://github.com/yohn-jp/inari",
+      "npmUrl": "https://www.npmjs.com/package/gh-inari",
+      "category": "cli",
+      "createdAt": "2026-08-11T11:12:22.831Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 59
     },
     {
       "name": "ghost-inspector-mcp",
@@ -58634,6 +58898,18 @@
       "score": 71
     },
     {
+      "name": "nibwp-cli",
+      "version": "0.2.0",
+      "description": "Connect AI coding agents to a WordPress site from the terminal.",
+      "license": "GPL-2.0-or-later",
+      "repository": "https://github.com/nibwp/nibwp-cli",
+      "npmUrl": "https://www.npmjs.com/package/nibwp-cli",
+      "category": "cli",
+      "createdAt": "2026-08-10T10:05:52.286Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 55
+    },
+    {
       "name": "nice-and-tidy",
       "version": "0.2.0",
       "description": "Install an issue-first Git workflow and an AI session protocol into any repo, for any coding agent.",
@@ -58788,6 +59064,18 @@
       "createdAt": "2026-08-05T12:21:27.903Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 85
+    },
+    {
+      "name": "node-red-contrib-plaiiinlight",
+      "version": "0.1.0",
+      "description": "Node-RED palette for PlaiiinLightOS lamps — config, command and state nodes over local MQTT.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nebeleben/plaiiin-light-nodered",
+      "npmUrl": "https://www.npmjs.com/package/node-red-contrib-plaiiinlight",
+      "category": "utilities",
+      "createdAt": "2026-08-11T11:08:54.653Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 68
     },
     {
       "name": "node-red-tienho-mcprotocol",
@@ -69528,6 +69816,18 @@
       "createdAt": "2026-07-31T15:17:56.162Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 79
+    },
+    {
+      "name": "tibetan-calendar-temporal",
+      "version": "0.0.1",
+      "description": "Tibetan calendar (Phugpa tradition) computation engine built on Temporal. Pre-release placeholder — implementation in development.",
+      "license": "MIT",
+      "repository": "https://github.com/nyamlen/tibetan-calendar-temporal",
+      "npmUrl": "https://www.npmjs.com/package/tibetan-calendar-temporal",
+      "category": "utilities",
+      "createdAt": "2026-08-11T11:03:47.045Z",
+      "discoveredAt": "2026-08-11T11:31:08.793Z",
+      "score": 53
     },
     {
       "name": "tickwick",
