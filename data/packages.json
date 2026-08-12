@@ -8930,6 +8930,18 @@
       "score": 77
     },
     {
+      "name": "@dclimate/tabular",
+      "version": "0.1.0",
+      "description": "Content-addressed tabular/telemetry manifest for climate data on IPFS (dclimate-tabular/0)",
+      "license": "MIT",
+      "repository": "https://github.com/dClimate/tabular-js",
+      "npmUrl": "https://www.npmjs.com/package/%40dclimate%2Ftabular",
+      "category": "data",
+      "createdAt": "2026-08-12T18:50:38.974Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 59
+    },
+    {
       "name": "@dealpulsehub/design-system",
       "version": "1.0.0",
       "description": "A modern, type-safe React Design System with automated design tokens, Figma sync, and production-ready components",
@@ -9972,6 +9984,18 @@
       "createdAt": "2026-08-06T07:00:21.641Z",
       "discoveredAt": "2026-08-06T08:19:20.704Z",
       "score": 80
+    },
+    {
+      "name": "@distrohelena/whitepaper",
+      "version": "0.1.1",
+      "description": "Build whitepapers and long documents from folder-structured markdown, rendered to PDF via Chromium + Paged.js.",
+      "license": "MIT",
+      "repository": "https://github.com/distrohelena/whitepaper-maker",
+      "npmUrl": "https://www.npmjs.com/package/%40distrohelena%2Fwhitepaper",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:14:33.092Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 73
     },
     {
       "name": "@divergent.dev/connect",
@@ -11882,6 +11906,18 @@
       "score": 87
     },
     {
+      "name": "@estebanforge/pi-ask-claude",
+      "version": "1.0.0",
+      "description": "Pi tool that delegates a self-contained sub-task to the Claude Code CLI via `claude -p --output-format stream-json`. Streams structured events as partial output, returns the final agent message. Configurable default model + effort + permission mode, with",
+      "license": "MIT",
+      "repository": "https://github.com/EstebanForge/pi-ask-claude",
+      "npmUrl": "https://www.npmjs.com/package/%40estebanforge%2Fpi-ask-claude",
+      "category": "data",
+      "createdAt": "2026-08-12T18:59:20.439Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 87
+    },
+    {
       "name": "@estebanforge/pi-git-me",
       "version": "1.1.0",
       "description": "Git + GitHub PR tools for Pi that act as YOU. Reads git status/diff/log and the current PR via gh CLI; generates commit messages, PR titles/bodies, and PR review comments with an editable preview dialog before anything touches git or the PR. Model picks t",
@@ -12300,6 +12336,18 @@
       "createdAt": "2026-07-27T07:31:20.646Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 61
+    },
+    {
+      "name": "@ferrow/agent-conversation-memory",
+      "version": "1.0.0",
+      "description": "Bounded conversation memory for LLM agents — token-budget rolling window, pinned messages, eviction callback for summarize-and-reinsert, keyword recall over evicted history, JSON export/import. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Ruzylo-cloud/agent-conversation-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40ferrow%2Fagent-conversation-memory",
+      "category": "devops",
+      "createdAt": "2026-08-12T19:02:49.758Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 70
     },
     {
       "name": "@fervon/launchpad",
@@ -15254,6 +15302,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/freaksv1agentaccount",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for FreaksV1AgentAccount (build etherscan-freaksv1agentaccount-bde0f190-1786563560095, commit 63bbab9, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/freaksv1agentaccount",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ffreaksv1agentaccount",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T19:39:40.684Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 60
+    },
+    {
       "name": "@gitmyabi/frink",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for FRINK (build etherscan-frink-ed2ee398-1786259134141, commit 631581e, branch etherscan)",
@@ -17438,6 +17498,18 @@
       "score": 83
     },
     {
+      "name": "@glassity/agent-skills",
+      "version": "1.0.0",
+      "description": "Glassity agent skills for Claude Code — AWS cost, savings opportunities, and commitment coverage over the glassity CLI. Installable as a plugin or via npx.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/glassity/agent-skills",
+      "npmUrl": "https://www.npmjs.com/package/%40glassity%2Fagent-skills",
+      "category": "cli",
+      "createdAt": "2026-08-12T19:47:09.028Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 85
+    },
+    {
       "name": "@glitch-guy0/shikigami",
       "version": "0.1.0",
       "description": "TypeScript Agent SDK with hexagonal architecture — core defines ports, adapters are injected",
@@ -18720,6 +18792,18 @@
       "createdAt": "2026-07-29T15:28:30.833Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 79
+    },
+    {
+      "name": "@hiredue-org/telemetry",
+      "version": "2.0.0",
+      "description": "HireDue telemetry SDK. Two exports: log and withSpan. A thin, tested layer over OpenTelemetry that encodes the schema contract.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/hiredue-dev/hiredue-telemetry",
+      "npmUrl": "https://www.npmjs.com/package/%40hiredue-org%2Ftelemetry",
+      "category": "testing",
+      "createdAt": "2026-08-12T19:21:36.143Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 61
     },
     {
       "name": "@hisence666/pi-tool-renderer",
@@ -28958,6 +29042,18 @@
       "score": 76
     },
     {
+      "name": "@oberhahn/sdk",
+      "version": "0.1.0",
+      "description": "Thin server-side SDK that wraps native provider SDKs, extracts token usage + attribution, and posts canonical events to OBERHAHN.",
+      "license": "MIT",
+      "repository": "https://github.com/Oberhahn/oberhahn-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40oberhahn%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-12T19:23:41.545Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 78
+    },
+    {
       "name": "@oberik/sdk",
       "version": "0.1.0",
       "description": "TypeScript client for Oberik — chat with citations, tools, sandboxed compute and scheduling over your own data.",
@@ -30816,6 +30912,18 @@
       "createdAt": "2026-07-30T18:05:46.377Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 68
+    },
+    {
+      "name": "@perkss/sdk",
+      "version": "0.1.1",
+      "description": "[![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com) [![npm shield](https://img.shields.io/npm/v/@perkss/sdk)](https://www.npmjs.com/package/@perkss/sdk)",
+      "license": "MIT",
+      "repository": "https://github.com/PerkssProtocol/perkss-core",
+      "npmUrl": "https://www.npmjs.com/package/%40perkss%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-12T19:30:07.874Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 70
     },
     {
       "name": "@personaai/runtime",
@@ -36890,6 +36998,30 @@
       "score": 76
     },
     {
+      "name": "@smartplant/colony",
+      "version": "3.0.2",
+      "description": "A conversation channel between plants, with 71 skills as the fast path for asking each other things.",
+      "license": "MIT",
+      "repository": "https://github.com/pigeonposse/smartplant",
+      "npmUrl": "https://www.npmjs.com/package/%40smartplant%2Fcolony",
+      "category": "utilities",
+      "createdAt": "2026-08-12T19:16:41.494Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 64
+    },
+    {
+      "name": "@smartplant/spectrum",
+      "version": "3.0.2",
+      "description": "Probes the plant with specific wavelengths and reads the electrical response of each photoreceptor pathway.",
+      "license": "MIT",
+      "repository": "https://github.com/pigeonposse/smartplant",
+      "npmUrl": "https://www.npmjs.com/package/%40smartplant%2Fspectrum",
+      "category": "devops",
+      "createdAt": "2026-08-11T11:57:34.332Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 65
+    },
+    {
       "name": "@smounters/kit",
       "version": "2.3.0",
       "description": "Batteries for Imperium services: structured logging, Redis module with a distributed lock, SSRF-safe fetch, decimal money, request context, env schemas",
@@ -40670,6 +40802,18 @@
       "score": 80
     },
     {
+      "name": "@typed-clickhouse/core",
+      "version": "0.1.0",
+      "description": "Serverless-compatible ClickHouse SDK for AWS Lambda and edge runtimes. Provides OlapTable, View, MaterializedView and the other ClickHouse SDK classes, with no native dependencies. Includes a patched compiler plugin for type-driven schema injection.",
+      "license": "MIT",
+      "repository": "https://github.com/bayoudhi/typed-clickhouse",
+      "npmUrl": "https://www.npmjs.com/package/%40typed-clickhouse%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:52:33.675Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 77
+    },
+    {
       "name": "@typedstandards/civic-typed-harness",
       "version": "0.1.0",
       "description": "Civic-domain harness for Typed Standards evidence packages — the DOMAIN layer of the ADR-0021 format/domain line: civic PROV-O vocabulary and provenance builder, datHere envelope-policy derivations, and the capture machinery (trace builder, skill-metadata",
@@ -43802,6 +43946,18 @@
       "score": 71
     },
     {
+      "name": "@youzi9601/typed-event-bus",
+      "version": "0.1.0",
+      "description": "Define Once, Use Everywhere — Type-safe event bus with zero duplicate declarations",
+      "license": "MIT",
+      "repository": "https://github.com/Youzi9601/typed-event-bus",
+      "npmUrl": "https://www.npmjs.com/package/%40youzi9601%2Ftyped-event-bus",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:57:23.954Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 67
+    },
+    {
       "name": "@yroshcha/node-red-contrib-redis-full",
       "version": "1.0.2",
       "description": "Production-oriented Redis palette for Node-RED: generic commands, Pub/Sub, scans, transactions, and Redis Streams consumer groups.",
@@ -43896,6 +44052,18 @@
       "createdAt": "2026-07-29T10:54:55.462Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 80
+    },
+    {
+      "name": "@yuuqq/jules-dispatch",
+      "version": "1.3.0",
+      "description": "Turn Google Jules into a massively parallel AI coding workforce — batch-dispatch CLI + MCP server for Claude Code & Codex, with optional OpenAI-compatible task planning",
+      "license": "MIT",
+      "repository": "https://github.com/Yuuqq/jules-dispatch",
+      "npmUrl": "https://www.npmjs.com/package/%40yuuqq%2Fjules-dispatch",
+      "category": "backend",
+      "createdAt": "2026-08-12T19:20:30.127Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 96
     },
     {
       "name": "@z7ping/agent-lens",
@@ -44543,6 +44711,18 @@
       "category": "frontend",
       "createdAt": "2026-08-01T01:27:10.051Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
+      "score": 63
+    },
+    {
+      "name": "@zvada/agent-server",
+      "version": "0.2.0",
+      "description": "Harness-agnostic agent execution engine: run Claude Code, Codex (SDK/CLI + app-server), and any ACP agent behind one interface with a normalized event stream, multi-turn sessions, and resume. Root export is the wire contract; /core, /server, /client are t",
+      "license": "MIT",
+      "repository": "https://github.com/zvadaadam/agent-server",
+      "npmUrl": "https://www.npmjs.com/package/%40zvada%2Fagent-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T19:42:33.594Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
       "score": 63
     },
     {
@@ -48444,6 +48624,18 @@
       "createdAt": "2026-07-30T00:29:51.190Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 59
+    },
+    {
+      "name": "bugcrowd-cli",
+      "version": "0.1.0",
+      "description": "Unofficial command-line client for the Bugcrowd REST API, built for humans and AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/abimaelmartell/bugcrowd-cli",
+      "npmUrl": "https://www.npmjs.com/package/bugcrowd-cli",
+      "category": "backend",
+      "createdAt": "2026-08-12T19:24:40.809Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 73
     },
     {
       "name": "build-meta-injector",
@@ -59102,6 +59294,30 @@
       "score": 73
     },
     {
+      "name": "jtcsv-excel",
+      "version": "2.1.0",
+      "description": "Excel integration for JTCSV - Convert between JSON, CSV and Excel formats",
+      "license": "MIT",
+      "repository": "https://github.com/Linol-Hamelton/jtcsv",
+      "npmUrl": "https://www.npmjs.com/package/jtcsv-excel",
+      "category": "data",
+      "createdAt": "2026-08-12T19:47:50.414Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 80
+    },
+    {
+      "name": "jtcsv-react",
+      "version": "0.1.0",
+      "description": "React hooks and components for jtcsv. useCsvUpload, useCsvParse, <CsvDropZone> over the jtcsv/browser surface.",
+      "license": "MIT",
+      "repository": "https://github.com/Linol-Hamelton/jtcsv",
+      "npmUrl": "https://www.npmjs.com/package/jtcsv-react",
+      "category": "frontend",
+      "createdAt": "2026-08-12T19:47:53.031Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 64
+    },
+    {
       "name": "juancitoads",
       "version": "0.1.0",
       "description": "Arma tu chatbot de IA con CRM para WhatsApp, Instagram y Telegram en tu propia nube de Cloudflare, en un comando.",
@@ -64370,6 +64586,18 @@
       "score": 62
     },
     {
+      "name": "neon-usage",
+      "version": "0.1.0",
+      "description": "Read-only Neon consumption collection, reporting, and labeled cost estimation with lossless numbers, explicit coverage, and verifiable provenance",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/philip/neon-usage",
+      "npmUrl": "https://www.npmjs.com/package/neon-usage",
+      "category": "data",
+      "createdAt": "2026-08-12T19:51:06.627Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 72
+    },
+    {
       "name": "neovim-use-mcp",
       "version": "0.1.0",
       "description": "MCP server that edits files through a real Neovim instance, so agents get LSP, Treesitter and plugins.",
@@ -66350,6 +66578,18 @@
       "score": 70
     },
     {
+      "name": "opencode-mobile-use",
+      "version": "1.0.0",
+      "description": "Control an Android phone from OpenCode: live phone screen in the TUI sidebar, agent tools for taps/typing/swipes/UI dumps, app-specific skills, and a built-in phone-vision subagent. Works over USB, wireless, or Tailscale.",
+      "license": "MIT",
+      "repository": "https://github.com/system1970/opencode-mobile-use",
+      "npmUrl": "https://www.npmjs.com/package/opencode-mobile-use",
+      "category": "devops",
+      "createdAt": "2026-08-12T19:43:33.826Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 70
+    },
+    {
       "name": "opencode-okf-context",
       "version": "0.1.2",
       "description": "OpenCode plugin: progressive disclosure + auto-unload for OKF (Open Knowledge Format) knowledge bundles. Inspired by DCP's outbound-only context transformation.",
@@ -67188,6 +67428,18 @@
       "createdAt": "2026-07-27T11:03:15.564Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 77
+    },
+    {
+      "name": "pairspace",
+      "version": "0.2.1",
+      "description": "Bring your own coding agent to Pairspace work",
+      "license": "MIT",
+      "repository": "https://github.com/pairspace-ltd/plugins",
+      "npmUrl": "https://www.npmjs.com/package/pairspace",
+      "category": "cli",
+      "createdAt": "2026-08-12T19:12:34.582Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 64
     },
     {
       "name": "pakhale",
@@ -73310,6 +73562,18 @@
       "score": 79
     },
     {
+      "name": "secondpass",
+      "version": "0.1.1",
+      "description": "Two-stage security scanner: a free deterministic regex pass, then an AI pass that adjudicates each candidate inside an agentOS sandbox. An Apache-2.0 derivative of Vercel's deepsec, with no Vercel dependency.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/brittianwarner/secondpass",
+      "npmUrl": "https://www.npmjs.com/package/secondpass",
+      "category": "cli",
+      "createdAt": "2026-08-12T19:46:16.070Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 88
+    },
+    {
       "name": "secretfence",
       "version": "0.1.0",
       "description": "Stop secrets before they ever leave your machine. A fast, local-first, developer-friendly secret scanner and pre-push guard for Git repositories.",
@@ -74952,6 +75216,18 @@
       "createdAt": "2026-08-07T00:42:57.408Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 65
+    },
+    {
+      "name": "spyglass-react",
+      "version": "0.1.0",
+      "description": "Instrumentation SDK for React Native and web apps. Streams navigation, state and storage events to the Spyglass desktop inspector.",
+      "license": "MIT",
+      "repository": "https://github.com/italosouza/spyglass",
+      "npmUrl": "https://www.npmjs.com/package/spyglass-react",
+      "category": "frontend",
+      "createdAt": "2026-08-12T19:28:30.796Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 74
     },
     {
       "name": "spynel",
@@ -80628,6 +80904,30 @@
       "createdAt": "2026-08-12T12:46:30.174Z",
       "discoveredAt": "2026-08-12T12:49:35.533Z",
       "score": 68
+    },
+    {
+      "name": "zcode-router",
+      "version": "0.1.2",
+      "description": "Local cross-platform model router for ZCode: subscription providers (opencode Go, ClinePass, DeepSeek, Z.ai) with an automatic vision bridge for text-only models.",
+      "license": "MIT",
+      "repository": "https://github.com/rafek1241/zcode-router",
+      "npmUrl": "https://www.npmjs.com/package/zcode-router",
+      "category": "data",
+      "createdAt": "2026-08-12T19:23:20.256Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 76
+    },
+    {
+      "name": "zed2cli",
+      "version": "1.0.0",
+      "description": "Use Zed-hosted AI models from opencode, pi, hermes, or any OpenAI-compatible CLI through your Zed subscription — without running Zed.",
+      "license": "MIT",
+      "repository": "https://github.com/6yte96/zed2cli",
+      "npmUrl": "https://www.npmjs.com/package/zed2cli",
+      "category": "cli",
+      "createdAt": "2026-08-12T19:44:24.481Z",
+      "discoveredAt": "2026-08-12T19:53:23.284Z",
+      "score": 89
     },
     {
       "name": "zelvior-qrlite",
