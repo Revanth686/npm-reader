@@ -1358,6 +1358,18 @@
       "score": 78
     },
     {
+      "name": "@agentvalet/client",
+      "version": "0.1.1",
+      "description": "AgentValet client SDK — call approved SaaS platforms from any Node agent. Signs the agent JWT, brokers through the AgentValet proxy, and waits out owner approvals.",
+      "license": "MIT",
+      "repository": "https://github.com/AgentValet/AgentValet",
+      "npmUrl": "https://www.npmjs.com/package/%40agentvalet%2Fclient",
+      "category": "data",
+      "createdAt": "2026-08-12T10:23:27.517Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 57
+    },
+    {
       "name": "@aggregator-gg/sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK for The Aggregator machine API",
@@ -1452,6 +1464,18 @@
       "createdAt": "2026-08-10T19:25:49.596Z",
       "discoveredAt": "2026-08-10T19:43:01.816Z",
       "score": 67
+    },
+    {
+      "name": "@ai-react-markdown/engine",
+      "version": "2.3.0",
+      "description": "Framework-agnostic Markdown engine for ai-react-markdown — incremental parsing, LaTeX preprocessing, and the unified plugin pipeline. Internal supplier for @ai-react-markdown/core; no public API stability promised before 3.0.0.",
+      "license": "MIT",
+      "repository": "https://github.com/AIEPhoenix/ai-react-markdown",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-react-markdown%2Fengine",
+      "category": "frontend",
+      "createdAt": "2026-08-12T11:09:48.463Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 62
     },
     {
       "name": "@ai-router/openai-compatible-errors",
@@ -19610,6 +19634,42 @@
       "score": 63
     },
     {
+      "name": "@integraledger/lcp-binding-canton",
+      "version": "0.10.1",
+      "description": "Welds an ATR hash into a Canton settlement via the LcpAnchor overlay contract.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-binding-canton",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:55:01.792Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 59
+    },
+    {
+      "name": "@integraledger/lcp-binding-canton-x402",
+      "version": "0.10.1",
+      "description": "Welds an ATR hash into a Canton Coin settlement over x402's exact scheme.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-binding-canton-x402",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:54:56.439Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 58
+    },
+    {
+      "name": "@integraledger/lcp-binding-evm-escrow",
+      "version": "0.10.1",
+      "description": "Welds an ATR hash into an authorize-and-capture escrow settlement on EVM chains.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-binding-evm-escrow",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:55:20.677Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 56
+    },
+    {
       "name": "@integraledger/lcp-binding-evm-mpp",
       "version": "0.9.0",
       "description": "Welds an LCP record into an MPP settlement on EVM by Id-Reuse (LCP §8.3.5).",
@@ -19622,6 +19682,18 @@
       "score": 73
     },
     {
+      "name": "@integraledger/lcp-binding-evm-x402",
+      "version": "0.10.1",
+      "description": "Welds an ATR hash into an x402 instant settlement on any EVM chain.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-binding-evm-x402",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:55:30.419Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 57
+    },
+    {
       "name": "@integraledger/lcp-binding-tempo-mpp",
       "version": "0.9.0",
       "description": "Welds an ATR hash into a Tempo TIP-20 settlement under MPP.",
@@ -19632,6 +19704,18 @@
       "createdAt": "2026-08-09T09:55:55.620Z",
       "discoveredAt": "2026-08-09T10:24:31.633Z",
       "score": 73
+    },
+    {
+      "name": "@integraledger/lcp-conformance",
+      "version": "0.10.1",
+      "description": "The LCP conformance corpus, its runner, and the adapters that drive an implementation under test.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-conformance",
+      "category": "testing",
+      "createdAt": "2026-08-09T09:56:07.354Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 60
     },
     {
       "name": "@integraledger/lcp-discovery",
@@ -19670,6 +19754,18 @@
       "score": 73
     },
     {
+      "name": "@integraledger/lcp-placement-acp",
+      "version": "0.10.1",
+      "description": "Places an LCP reference into an ACP (Agentic Commerce Protocol) message, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-acp",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:56:40.689Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 63
+    },
+    {
       "name": "@integraledger/lcp-placement-ap2",
       "version": "0.9.0",
       "description": "Places an LCP reference into the AP2 transport envelope, and reads it back.",
@@ -19704,6 +19800,18 @@
       "createdAt": "2026-08-09T09:56:55.854Z",
       "discoveredAt": "2026-08-09T10:24:31.633Z",
       "score": 71
+    },
+    {
+      "name": "@integraledger/lcp-placement-ucp",
+      "version": "0.10.1",
+      "description": "Places an LCP reference into a UCP (Universal Commerce Protocol) checkout, and reads it back.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-protocol",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Flcp-placement-ucp",
+      "category": "utilities",
+      "createdAt": "2026-08-09T09:57:01.122Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 62
     },
     {
       "name": "@integraledger/lcp-placement-visa-tap",
@@ -20028,6 +20136,30 @@
       "createdAt": "2026-07-25T17:55:08.926Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 86
+    },
+    {
+      "name": "@itrocks/ast",
+      "version": "0.1.0",
+      "description": "Parses TypeScript source into a parser-agnostic abstract syntax tree",
+      "license": "ISC",
+      "repository": "https://github.com/itrocks-ts/ast",
+      "npmUrl": "https://www.npmjs.com/package/%40itrocks%2Fast",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:29:16.522Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 68
+    },
+    {
+      "name": "@itrocks/dev",
+      "version": "0.5.0",
+      "description": "Facilitates developments on the it.rocks framework's source code within a single project",
+      "license": "ISC",
+      "repository": "https://github.com/itrocks-ts/dev",
+      "npmUrl": "https://www.npmjs.com/package/%40itrocks%2Fdev",
+      "category": "backend",
+      "createdAt": "2026-08-12T07:41:35.382Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 62
     },
     {
       "name": "@its_rahul_r15/vulcan-sdk",
@@ -27662,6 +27794,18 @@
       "score": 63
     },
     {
+      "name": "@nodecoda/skill",
+      "version": "0.2.1",
+      "description": "AI agent skills for NodeCoda — teach coding agents to author .ncoda Source and use the NodeCoda MCP service",
+      "license": "MIT",
+      "repository": "https://github.com/nodecoda/nodecoda-skill",
+      "npmUrl": "https://www.npmjs.com/package/%40nodecoda%2Fskill",
+      "category": "utilities",
+      "createdAt": "2026-08-12T11:26:28.171Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 57
+    },
+    {
       "name": "@nogardxu/pi-open-tui",
       "version": "0.1.0",
       "description": "A customized fork of pi-open-tui for personal use. A polished TUI for Pi coding agent with an animated logo header, Starship-style footer, rounded editor, model metadata, and prompt-box user messages.",
@@ -29762,6 +29906,18 @@
       "score": 55
     },
     {
+      "name": "@pavanyn/docugen",
+      "version": "1.0.1",
+      "description": "Deterministic codebase documentation engine. Extracts what the code proves; never states what it cannot verify.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/pavanyn2002/docugen",
+      "npmUrl": "https://www.npmjs.com/package/%40pavanyn%2Fdocugen",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:28:28.030Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 80
+    },
+    {
       "name": "@pbuilder/sdk",
       "version": "0.1.0",
       "description": "The public TypeScript/Bun authoring layer for Project Builder schematics. Authors file mutations (create, modify, remove, rename, move, copy, copyIn), lowers them to IR, and talks to the Project Builder engine over framed stdio (see docs/engine-sdk-wire-s",
@@ -30768,6 +30924,18 @@
       "createdAt": "2026-07-30T13:48:01.853Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 87
+    },
+    {
+      "name": "@primmel/editor",
+      "version": "0.3.2",
+      "description": "The Primmel Studio editor — the model canvas, inspectors, mapper, and review surface for the Primmel v3 kernel. Program layers (OIML SMART first) plug in via the registry; the editor stays program-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/primmel/editor",
+      "npmUrl": "https://www.npmjs.com/package/%40primmel%2Feditor",
+      "category": "utilities",
+      "createdAt": "2026-08-12T07:11:06.189Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 68
     },
     {
       "name": "@prisma-sharding/studio",
@@ -34418,6 +34586,18 @@
       "score": 68
     },
     {
+      "name": "@scooper4711/pixels-ble",
+      "version": "0.1.2",
+      "description": "Pixels dice BLE connection library",
+      "license": "MIT",
+      "repository": "https://github.com/scooper4711/pixels-ble",
+      "npmUrl": "https://www.npmjs.com/package/%40scooper4711%2Fpixels-ble",
+      "category": "utilities",
+      "createdAt": "2026-08-12T11:15:18.372Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 60
+    },
+    {
       "name": "@scottzx/1acp",
       "version": "0.14.0",
       "description": "Headless CLI client for the Agent Client Protocol (ACP) — talk to coding agents from the command line",
@@ -34776,6 +34956,18 @@
       "createdAt": "2026-08-10T17:53:21.205Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 71
+    },
+    {
+      "name": "@sepoina/purgesvg",
+      "version": "0.1.1",
+      "description": "Batch SVG normalizer: bakes every transform into geometry and refits the drawing into a fixed [-999,-999 .. 999,999] viewBox.",
+      "license": "MIT",
+      "repository": "https://github.com/sepoina/purgesvg",
+      "npmUrl": "https://www.npmjs.com/package/%40sepoina%2Fpurgesvg",
+      "category": "data",
+      "createdAt": "2026-08-12T10:56:37.075Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 62
     },
     {
       "name": "@serpaudit-fyi/serp-audit-engine",
@@ -48014,6 +48206,18 @@
       "score": 87
     },
     {
+      "name": "cfhub",
+      "version": "1.0.1",
+      "description": "OAuth-first Cloudflare administration CLI with GitHub CLI-style commands, profiles, safe writes, and direct API access.",
+      "license": "ISC",
+      "repository": "https://github.com/eliware/cfhub",
+      "npmUrl": "https://www.npmjs.com/package/cfhub",
+      "category": "backend",
+      "createdAt": "2026-08-12T10:54:52.088Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 87
+    },
+    {
       "name": "cgraph",
       "version": "0.1.1",
       "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
@@ -55214,6 +55418,18 @@
       "score": 64
     },
     {
+      "name": "grok-bot-setup",
+      "version": "1.1.0",
+      "description": "CLI to point Grok Bot at custom model providers (DeepSeek, Claude, Grok, OpenAI, …)",
+      "license": "MIT",
+      "repository": "https://github.com/BlockedPath/grok-bot-setup",
+      "npmUrl": "https://www.npmjs.com/package/grok-bot-setup",
+      "category": "cli",
+      "createdAt": "2026-08-12T11:07:01.938Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 61
+    },
+    {
       "name": "grokbotfun",
       "version": "1.0.0",
       "description": "MCP server that lets AI agents (Grok Bot, Cursor, Claude Code, etc.) deploy tokens on pump.fun — create + optional dev buy in one transaction",
@@ -55979,6 +56195,18 @@
       "category": "cli",
       "createdAt": "2026-08-02T22:35:24.670Z",
       "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 89
+    },
+    {
+      "name": "homebridge-insnrg-pool",
+      "version": "2.3.1",
+      "description": "Homebridge plugin for INSNRG (Vi/Hub) pool equipment via the INSNRG cloud API — pool/spa heating, outlets, valves, lights, pump speed, chlorinator, pH/ORP.",
+      "license": "MIT",
+      "repository": "https://github.com/dabs79/homebridge-insnrg-pool",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-insnrg-pool",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:09:53.652Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
       "score": 89
     },
     {
@@ -58044,6 +58272,18 @@
       "createdAt": "2026-08-09T09:17:41.217Z",
       "discoveredAt": "2026-08-09T09:19:59.096Z",
       "score": 58
+    },
+    {
+      "name": "kilo-plugin-nested-git-checkpoints",
+      "version": "0.1.0",
+      "description": "Kilo/OpenCode plugin that extends checkpoints (snapshot, undo, redo) to nested git repositories — embedded repos and submodules the built-in snapshot cannot see.",
+      "license": "MIT",
+      "repository": "https://github.com/rianonehub/kilo-plugin-nested-git-checkpoints",
+      "npmUrl": "https://www.npmjs.com/package/kilo-plugin-nested-git-checkpoints",
+      "category": "utilities",
+      "createdAt": "2026-08-12T11:34:42.437Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 71
     },
     {
       "name": "kilo-vision-bridge",
@@ -60300,6 +60540,18 @@
       "createdAt": "2026-08-07T15:55:02.760Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 93
+    },
+    {
+      "name": "mcp-server-dev-docs",
+      "version": "1.0.0",
+      "description": "MCP server providing live, clean fullstack tech documentation for React, Next.js, TypeScript, Tailwind, Zustand, and custom URLs.",
+      "license": "MIT",
+      "repository": "https://github.com/Orel-Toledano/mcp-server-dev-docs",
+      "npmUrl": "https://www.npmjs.com/package/mcp-server-dev-docs",
+      "category": "frontend",
+      "createdAt": "2026-08-12T11:22:21.936Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 71
     },
     {
       "name": "mcp-server-pulr",
@@ -63204,6 +63456,18 @@
       "createdAt": "2026-08-05T16:09:20.989Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 90
+    },
+    {
+      "name": "ngx-pm-datepicker",
+      "version": "0.0.1",
+      "description": "Signal-based, dual-calendar (Jalali/Gregorian) date & time picker for Angular, RTL-first with themeable CSS variables.",
+      "license": "MIT",
+      "repository": "https://github.com/PeymanMH/ngx-pm-datepicker",
+      "npmUrl": "https://www.npmjs.com/package/ngx-pm-datepicker",
+      "category": "frontend",
+      "createdAt": "2026-08-12T11:19:13.897Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 60
     },
     {
       "name": "ngx-retoast",
@@ -71498,6 +71762,18 @@
       "score": 68
     },
     {
+      "name": "secureflows-mcp-server",
+      "version": "0.1.0",
+      "description": "MCP server that wraps secureFlows ai-safe APIs, plus token-free tools that help an agent scaffold a correct integration.",
+      "license": "MIT",
+      "repository": "https://github.com/michal-lefler/secureFlows",
+      "npmUrl": "https://www.npmjs.com/package/secureflows-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:24:13.676Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 61
+    },
+    {
       "name": "seed-squarespace",
       "version": "1.0.0",
       "description": "Generate WordPress WXR files that reliably import into Squarespace — bulk-load structured data as a Squarespace blog",
@@ -73404,6 +73680,18 @@
       "createdAt": "2026-08-08T01:37:34.824Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 68
+    },
+    {
+      "name": "still-qa",
+      "version": "0.1.1",
+      "description": "Pre-render QA gate for AI-generated image sets: flags dead (black) frames, baked-in letterbox bars, and aspect-ratio drift. One JSON report, one exit code.",
+      "license": "MIT",
+      "repository": "https://github.com/nickphang97-collab/still-qa",
+      "npmUrl": "https://www.npmjs.com/package/still-qa",
+      "category": "cli",
+      "createdAt": "2026-08-12T09:51:13.298Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 67
     },
     {
       "name": "stipend",
@@ -77556,6 +77844,18 @@
       "createdAt": "2026-08-08T09:59:20.412Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 69
+    },
+    {
+      "name": "webhook-chaos",
+      "version": "0.1.0",
+      "description": "Deterministic webhook delivery testing — replay recorded Shopify events late, duplicated and out of order, with valid signatures.",
+      "license": "MIT",
+      "repository": "https://github.com/24tiy/webhook-chaos",
+      "npmUrl": "https://www.npmjs.com/package/webhook-chaos",
+      "category": "testing",
+      "createdAt": "2026-08-12T11:33:36.481Z",
+      "discoveredAt": "2026-08-12T11:37:58.641Z",
+      "score": 79
     },
     {
       "name": "webhook-kit",
