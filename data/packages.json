@@ -5774,6 +5774,18 @@
       "score": 78
     },
     {
+      "name": "@bu7umaid/chamber",
+      "version": "0.1.0",
+      "description": "Ask questions about your own notes and get answers that cite their sources — then get told when a source changed underneath a conclusion. Local-first CLI + MCP server, zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/abm9111/chamber",
+      "npmUrl": "https://www.npmjs.com/package/%40bu7umaid%2Fchamber",
+      "category": "backend",
+      "createdAt": "2026-08-12T12:15:41.423Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 89
+    },
+    {
       "name": "@bubblyworld/xgboost-ts",
       "version": "1.0.0",
       "description": "A wasm build of XGBoost with a convenient typescript interface. Runs with zero dependencies in both node and web environments.",
@@ -12746,6 +12758,18 @@
       "score": 68
     },
     {
+      "name": "@francescogabrieli/opendiff",
+      "version": "0.1.7",
+      "description": "Local, guided code reviews for changes made by coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/francescogabrieli/opendiff",
+      "npmUrl": "https://www.npmjs.com/package/%40francescogabrieli%2Fopendiff",
+      "category": "utilities",
+      "createdAt": "2026-08-10T11:40:01.963Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 71
+    },
+    {
       "name": "@franklinww/create-agent-os",
       "version": "2.2.0",
       "description": "BETA. Scaffold an agent OS workspace: skill-powered AI workflows + an LLM Wiki template in one repo. Includes vibe coding framework and meta-skill management. Pure Node — no python, no pip.",
@@ -13092,6 +13116,18 @@
       "createdAt": "2026-08-08T15:16:56.191Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 65
+    },
+    {
+      "name": "@gamaraan/todos-tool",
+      "version": "0.1.0",
+      "description": "pi coding-agent extension: an Oh My Pi (OMP)-style phased todo tool with completion reminders, an eager first-turn prelude, a /todo command, and a HUD widget.",
+      "license": "MIT",
+      "repository": "https://github.com/gamaraan/todos-tool-pi-extension",
+      "npmUrl": "https://www.npmjs.com/package/%40gamaraan%2Ftodos-tool",
+      "category": "utilities",
+      "createdAt": "2026-08-12T12:22:30.599Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 70
     },
     {
       "name": "@gambadio/apple-productivity-mcp",
@@ -13656,6 +13692,18 @@
       "createdAt": "2026-08-12T05:31:52.514Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 66
+    },
+    {
+      "name": "@giabaojs/react-native-tipkit",
+      "version": "0.1.1",
+      "description": "TipKit for React Native: native iOS in-app tips with popover and inline views, display rules, events and frequency control (iOS 17+)",
+      "license": "MIT",
+      "repository": "https://github.com/giaBaoJS/react-native-tipkit",
+      "npmUrl": "https://www.npmjs.com/package/%40giabaojs%2Freact-native-tipkit",
+      "category": "frontend",
+      "createdAt": "2026-08-12T11:41:26.674Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 79
     },
     {
       "name": "@giladbarnea/pi-user-agents",
@@ -19130,6 +19178,18 @@
       "score": 84
     },
     {
+      "name": "@idfkit/engine",
+      "version": "0.1.0",
+      "description": "Run building energy simulations in the browser via WebAssembly. Framework-agnostic loader, worker and output parsers.",
+      "license": "MIT",
+      "repository": "https://github.com/idfkit/idfkit-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40idfkit%2Fengine",
+      "category": "frontend",
+      "createdAt": "2026-08-12T12:07:17.549Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 77
+    },
+    {
       "name": "@idifavour/recurve",
       "version": "0.1.0",
       "description": "Stateless recurring subscription billing for Paystack — retries/dunning, proration, lifecycle tracking, webhook verification, and saved-card charging. You own the storage.",
@@ -23810,6 +23870,18 @@
       "score": 70
     },
     {
+      "name": "@mambalabsdev/mcp-linkedin-post-engager-capture",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs LinkedIn Post Tracker and Comment Capture actor on Apify. LinkedIn profiles and company pages in, their recent posts with real engagement counts out, plus the commenters LinkedIn shows publicly. No cookies and no LinkedIn acc",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-linkedin-post-engager-capture",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-linkedin-post-engager-capture",
+      "category": "backend",
+      "createdAt": "2026-08-12T12:18:11.958Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 82
+    },
+    {
       "name": "@mambalabsdev/mcp-people-finder",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs People Finder & Email Verifier actor on Apify. Finds people at a company by role, seniority and department, and returns structured contact records with optional verified business email.",
@@ -27338,6 +27410,18 @@
       "score": 40
     },
     {
+      "name": "@nestjs-agentic/openai",
+      "version": "0.5.0",
+      "description": "OpenAI-compatible ModelAdapter for nestjs-agentic. Works with OpenAI and any Chat Completions compatible endpoint such as Azure OpenAI, Ollama, vLLM, Groq, Together, OpenRouter, and LM Studio.",
+      "license": "MIT",
+      "repository": "https://github.com/irzix/nestjs-agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40nestjs-agentic%2Fopenai",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:45:44.768Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 73
+    },
+    {
       "name": "@nestjs-redisx/pubsub",
       "version": "1.7.0",
       "description": "Redis Pub/Sub plugin for NestJS RedisX: typed publish/subscribe, pattern subscriptions, @Subscribe decorator with auto-discovery, and a dedicated subscriber connection",
@@ -27972,6 +28056,18 @@
       "createdAt": "2026-08-04T19:22:36.439Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 71
+    },
+    {
+      "name": "@notyet.im/ui",
+      "version": "0.1.1",
+      "description": "NotYet UI — a dense, dark-first React design system: UI components and data-visualisation charts.",
+      "license": "MIT",
+      "repository": "https://github.com/notyet-im/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40notyet.im%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-12T12:14:38.787Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 74
     },
     {
       "name": "@nous-research/image-size",
@@ -41270,6 +41366,18 @@
       "score": 61
     },
     {
+      "name": "@voxgig-sdk/voxgig-solardemo",
+      "version": "0.0.2",
+      "description": "Unofficial generated TypeScript SDK for the Solar System public API. Not affiliated with or endorsed by the upstream API provider.",
+      "license": "MIT",
+      "repository": "https://github.com/voxgig-sdk/voxgig-solardemo-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40voxgig-sdk%2Fvoxgig-solardemo",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:39:56.740Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 75
+    },
+    {
       "name": "@voxyfy/anadolupay",
       "version": "1.2.0",
       "description": "Türk banka ve ödeme sağlayıcıları için tek arayüzlü, framework-bağımsız ödeme kütüphanesi (Node.js/TypeScript)",
@@ -42732,6 +42840,18 @@
       "createdAt": "2026-08-04T21:08:16.075Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 62
+    },
+    {
+      "name": "@yanlinglabs/video-extract-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that turns any video URL into a transcript and a small set of important, deduplicated keyframes — locally, with no cloud APIs. Supports YouTube, TikTok, Facebook, WeChat Channels, direct MP4/HLS and generic sites.",
+      "license": "MIT",
+      "repository": "https://github.com/yanlingLabs/video-extract-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40yanlinglabs%2Fvideo-extract-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:45:11.713Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 90
     },
     {
       "name": "@yeetgodpro1324/jokelboard-ts",
@@ -48146,6 +48266,18 @@
       "score": 66
     },
     {
+      "name": "celeritty",
+      "version": "1.0.0",
+      "description": "Terminal emulator for the web. ANSI parsing in Rust (alacritty_terminal) compiled to WebAssembly, rendered with WebGPU.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/edjubert/celeritty",
+      "npmUrl": "https://www.npmjs.com/package/celeritty",
+      "category": "cli",
+      "createdAt": "2026-08-12T11:51:23.663Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 74
+    },
+    {
       "name": "central-bank-of-iceland-exchange-rate",
       "version": "1.2.2",
       "description": "Official Central Bank of Iceland (Iceland) daily exchange rates — 10 currencies vs ISK, history since 2016. Zero-dependency Node.js/TypeScript client.",
@@ -48816,6 +48948,18 @@
       "createdAt": "2026-08-06T12:10:35.789Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 85
+    },
+    {
+      "name": "claude-rem",
+      "version": "0.2.0",
+      "description": "A brain that remembers everything: compiled session memory for AI coding tools, verified against git. Works with Claude Code, Cursor & Codex.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jatingargiitk/claude-rem",
+      "npmUrl": "https://www.npmjs.com/package/claude-rem",
+      "category": "utilities",
+      "createdAt": "2026-08-12T12:24:09.656Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 82
     },
     {
       "name": "claude-restarter",
@@ -57302,6 +57446,18 @@
       "score": 77
     },
     {
+      "name": "iobroker.kanban",
+      "version": "0.3.0",
+      "description": "Kanban board for ioBroker with webhooks, multi-user support and email notifications",
+      "license": "MIT",
+      "repository": "https://github.com/bmueller77/ioBroker.kanban",
+      "npmUrl": "https://www.npmjs.com/package/iobroker.kanban",
+      "category": "utilities",
+      "createdAt": "2026-08-12T11:45:31.660Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 66
+    },
+    {
       "name": "iobroker.lamarzocco",
       "version": "0.7.1",
       "description": "Unofficial cloud integration for monitoring and controlling La Marzocco espresso machines in ioBroker",
@@ -57324,6 +57480,18 @@
       "createdAt": "2026-07-26T17:09:20.508Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 69
+    },
+    {
+      "name": "iobroker.ocpp21",
+      "version": "0.3.0",
+      "description": "NexoWatt OCPP CSMS adapter for NexoWatt EOS with OCPP 1.6J, 2.0.1 and 2.1, freshness monitoring, active telemetry refresh, smart charging and complete payload capture",
+      "license": "MIT",
+      "repository": "https://github.com/NexoWatt/iobroker.ocpp21",
+      "npmUrl": "https://www.npmjs.com/package/iobroker.ocpp21",
+      "category": "utilities",
+      "createdAt": "2026-08-12T12:40:24.478Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 74
     },
     {
       "name": "iobroker.statusanzeigeliste",
@@ -58814,6 +58982,18 @@
       "score": 77
     },
     {
+      "name": "letspecify",
+      "version": "0.4.0",
+      "description": "Gobierno de ingeniería para proyectos dirigidos por especificación: el modelo decide, la herramienta materializa",
+      "license": "MIT",
+      "repository": "https://github.com/letspecify-the-project/letspecify",
+      "npmUrl": "https://www.npmjs.com/package/letspecify",
+      "category": "devops",
+      "createdAt": "2026-08-12T12:03:28.586Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 75
+    },
+    {
       "name": "liarjs",
       "version": "0.1.0",
       "description": "Score a browser against itself — does its JavaScript fingerprint match what the network layer actually saw? CLI + library for Playwright, Puppeteer and any browser with a debug port.",
@@ -59736,6 +59916,18 @@
       "createdAt": "2026-08-11T21:09:35.006Z",
       "discoveredAt": "2026-08-11T21:26:17.748Z",
       "score": 49
+    },
+    {
+      "name": "maintainer-autopilot",
+      "version": "0.1.0",
+      "description": "Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification.",
+      "license": "MIT",
+      "repository": "https://github.com/phungkaizen/maintainer-autopilot",
+      "npmUrl": "https://www.npmjs.com/package/maintainer-autopilot",
+      "category": "devops",
+      "createdAt": "2026-08-12T12:17:11.560Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 67
     },
     {
       "name": "make-npx-card",
@@ -66482,6 +66674,18 @@
       "score": 72
     },
     {
+      "name": "pi-conf-manager",
+      "version": "0.2.0",
+      "description": "Manage Pi presets, tools, skills, context files, and extensions from one package. Based on Hor1zonZzz/pi-config-manager.",
+      "license": "MIT",
+      "repository": "https://github.com/0717wuwang/pi-config-manager",
+      "npmUrl": "https://www.npmjs.com/package/pi-conf-manager",
+      "category": "utilities",
+      "createdAt": "2026-08-12T12:26:16.470Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 78
+    },
+    {
       "name": "pi-config-manager",
       "version": "0.1.1",
       "description": "Manage Pi presets, tools, skills, context files, and extensions from one package.",
@@ -67934,6 +68138,18 @@
       "score": 47
     },
     {
+      "name": "portugal-vehicle-tax",
+      "version": "1.0.0",
+      "description": "TypeScript client for the Clara Cars Portuguese vehicle-tax API — ISV (import tax) + IUC (annual road tax). A maintained estimate, cross-checked against the official AT simulator.",
+      "license": "MIT",
+      "repository": "https://github.com/claracarspt/calcs",
+      "npmUrl": "https://www.npmjs.com/package/portugal-vehicle-tax",
+      "category": "backend",
+      "createdAt": "2026-08-12T11:39:58.122Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 68
+    },
+    {
       "name": "postale-mcp",
       "version": "1.0.0",
       "description": "MCP server for the postale.io email hosting API — manage domains, mailboxes, aliases, DNS/DKIM, branding and logs from any MCP-compatible AI agent.",
@@ -69206,6 +69422,18 @@
       "score": 66
     },
     {
+      "name": "react-gtranslate",
+      "version": "1.0.0",
+      "description": "A modern, accessible, and highly customizable React translation library powered by GTranslate and shadcn/ui components.",
+      "license": "MIT",
+      "repository": "https://github.com/docwiser/react-gtranslate",
+      "npmUrl": "https://www.npmjs.com/package/react-gtranslate",
+      "category": "frontend",
+      "createdAt": "2026-08-12T12:48:05.997Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 91
+    },
+    {
       "name": "react-heading-manager",
       "version": "0.1.1",
       "description": "Accessible automatic heading hierarchy and ARIA region landmark manager for React",
@@ -69840,6 +70068,18 @@
       "createdAt": "2026-08-08T16:11:28.830Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 82
+    },
+    {
+      "name": "react-native-shared-transition",
+      "version": "0.2.1",
+      "description": "Automatic shared element transitions for React Native — New Architecture, Nitro Modules, Reanimated",
+      "license": "MIT",
+      "repository": "https://github.com/giaBaoJS/react-native-shared-transition",
+      "npmUrl": "https://www.npmjs.com/package/react-native-shared-transition",
+      "category": "frontend",
+      "createdAt": "2026-08-12T11:41:19.496Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 78
     },
     {
       "name": "react-native-sharp",
@@ -70860,6 +71100,18 @@
       "createdAt": "2026-07-26T23:33:12.731Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 57
+    },
+    {
+      "name": "rn-video-overlay",
+      "version": "0.0.2",
+      "description": "Burn text or custom image overlays permanently into recorded video pixels using native platform APIs only (AVFoundation on iOS, MediaCodec + OpenGL ES on Android).",
+      "license": "MIT",
+      "repository": "https://github.com/lehoi2195/rn-video-overlay",
+      "npmUrl": "https://www.npmjs.com/package/rn-video-overlay",
+      "category": "frontend",
+      "createdAt": "2026-08-12T11:40:35.980Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 72
     },
     {
       "name": "rn-zalo-toolkit",
@@ -77174,6 +77426,18 @@
       "score": 75
     },
     {
+      "name": "vite-plugin-preview-xwatch",
+      "version": "0.5.1",
+      "description": "Watch mode for `vite preview` - rebuilds the production bundle on source changes and full-page reloads open preview tabs.",
+      "license": "MIT",
+      "repository": "https://github.com/cromat/vite-plugin-preview-xwatch",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-preview-xwatch",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T12:13:59.397Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 65
+    },
+    {
       "name": "vite-plugin-refresh-guard",
       "version": "0.1.1",
       "description": "Vite 应用的可配置版本更新检测+刷新方案：静默自动刷新 / 提示后自动刷新 / 弹窗阻断，按产品需要选档位，核心逻辑框架无关，附 Vue/React 适配层。Configurable new-version detection + refresh for Vite apps — silent / toast-auto / modal-blocking, framework-agnostic core with Vue and React adapters.",
@@ -78482,6 +78746,18 @@
       "score": 98
     },
     {
+      "name": "wts-date-time-picker",
+      "version": "1.0.0",
+      "description": "Lightweight dependency-free date and time picker Web Component with inline/dialog modes, custom calendar, themeable time dropdowns, 12/24 hour support, and TypeScript API.",
+      "license": "MIT",
+      "repository": "https://github.com/Suman201/wts-date-time-picker-angular-example",
+      "npmUrl": "https://www.npmjs.com/package/wts-date-time-picker",
+      "category": "frontend",
+      "createdAt": "2026-08-12T12:39:35.515Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 97
+    },
+    {
       "name": "wts-star-rating",
       "version": "1.0.1",
       "description": "Accessible, dependency-free star rating and review score component for JavaScript, TypeScript, Angular, React, Vue, Svelte, and Web Components.",
@@ -78842,6 +79118,18 @@
       "score": 64
     },
     {
+      "name": "zca-mt",
+      "version": "0.1.0",
+      "description": "Unofficial Zalo API for JavaScript and TypeScript, developed from zca-js",
+      "license": "MIT",
+      "repository": "https://github.com/REPLACE_ME_WITH_YOUR_GITHUB_USERNAME/zca-mt",
+      "npmUrl": "https://www.npmjs.com/package/zca-mt",
+      "category": "backend",
+      "createdAt": "2026-08-12T12:46:30.174Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 68
+    },
+    {
       "name": "zelvior-qrlite",
       "version": "0.1.1",
       "description": "Zero-dependency, ultra-lightweight QR code generator and scanner for web, Node.js, iOS, Android, and everywhere",
@@ -78924,6 +79212,18 @@
       "createdAt": "2026-07-28T11:19:07.106Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 75
+    },
+    {
+      "name": "zhihu-sync",
+      "version": "3.3.0",
+      "description": "基于知乎文章下载器的本机增量归档工具与浏览器扩展",
+      "license": "MIT",
+      "repository": "https://github.com/Michael-Han0608/zhihu-sync",
+      "npmUrl": "https://www.npmjs.com/package/zhihu-sync",
+      "category": "frontend",
+      "createdAt": "2026-08-12T12:23:25.652Z",
+      "discoveredAt": "2026-08-12T12:49:35.533Z",
+      "score": 70
     },
     {
       "name": "zigapagos",
