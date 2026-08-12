@@ -3350,6 +3350,18 @@
       "score": 41
     },
     {
+      "name": "@arcevo/facet-cli",
+      "version": "0.3.0",
+      "description": "Scaffold and generate @arcevo/facet-docs sites. Framework/language-agnostic docs init + component add.",
+      "license": "MIT",
+      "repository": "https://github.com/ArcevoDev/facet",
+      "npmUrl": "https://www.npmjs.com/package/%40arcevo%2Ffacet-cli",
+      "category": "cli",
+      "createdAt": "2026-08-11T16:03:54.070Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 66
+    },
+    {
       "name": "@arcevo/facet-docs",
       "version": "1.2.0",
       "description": "Installable, config-driven documentation site engine for the Arcevo ecosystem: component gallery with variant pages, per-variant usage tabs, install tabs, and an optional ecosystem links section. Mount <DocsApp config={...} /> with your own brand, pages,",
@@ -7836,6 +7848,18 @@
       "createdAt": "2026-07-26T21:38:04.741Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 59
+    },
+    {
+      "name": "@composy/pack",
+      "version": "0.0.1",
+      "description": "Shared tsup presets, CLI workflow, and post-build tooling for LDesign packages",
+      "license": "MIT",
+      "repository": "https://github.com/ldesign-org/ldesign",
+      "npmUrl": "https://www.npmjs.com/package/%40composy%2Fpack",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T16:24:45.011Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 75
     },
     {
       "name": "@compstats/core",
@@ -13452,6 +13476,54 @@
       "createdAt": "2026-08-04T08:05:10.239Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 89
+    },
+    {
+      "name": "@geoleaf-plugins/editor",
+      "version": "1.1.0",
+      "description": "GeoLeaf Editor Plugin — Geometry creation & editing (Point/Line/Polyline/Polygon) with Terra Draw, responsive form catalog, and online/offline persistence",
+      "license": "MIT",
+      "repository": "https://github.com/geoleaf/geoleaf-js",
+      "npmUrl": "https://www.npmjs.com/package/%40geoleaf-plugins%2Feditor",
+      "category": "data",
+      "createdAt": "2026-08-12T16:05:01.761Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 75
+    },
+    {
+      "name": "@geoleaf-plugins/flatgeobuf",
+      "version": "1.0.2",
+      "description": "GeoLeaf FlatGeobuf Plugin — Load and spatially filter FlatGeobuf files as GeoJSON layers with HTTP Range bbox support",
+      "license": "MIT",
+      "repository": "https://github.com/geoleaf/geoleaf-js",
+      "npmUrl": "https://www.npmjs.com/package/%40geoleaf-plugins%2Fflatgeobuf",
+      "category": "backend",
+      "createdAt": "2026-08-12T16:05:11.141Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 69
+    },
+    {
+      "name": "@geoleaf-plugins/offline-ui",
+      "version": "1.4.0",
+      "description": "GeoLeaf offline UI plugin — cache button, layer selector, sync panel (the offline engine is in-core)",
+      "license": "MIT",
+      "repository": "https://github.com/geoleaf/geoleaf-js",
+      "npmUrl": "https://www.npmjs.com/package/%40geoleaf-plugins%2Foffline-ui",
+      "category": "utilities",
+      "createdAt": "2026-08-12T16:05:26.300Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 63
+    },
+    {
+      "name": "@geoleaf-plugins/websocket",
+      "version": "1.0.1",
+      "description": "GeoLeaf WebSocket Plugin — Generic real-time transport infrastructure for GeoLeaf JS",
+      "license": "MIT",
+      "repository": "https://github.com/geoleaf/geoleaf-js",
+      "npmUrl": "https://www.npmjs.com/package/%40geoleaf-plugins%2Fwebsocket",
+      "category": "utilities",
+      "createdAt": "2026-08-12T16:05:46.360Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 68
     },
     {
       "name": "@geomak/ui-gauges",
@@ -20774,6 +20846,18 @@
       "score": 42
     },
     {
+      "name": "@jason-huang/infinite-canvas-agent",
+      "version": "0.1.0",
+      "description": "Framework-neutral infinite canvas runtime, bounded media cache, and host-owned Agent command contracts.",
+      "license": "MIT",
+      "repository": "https://github.com/zhongwangquan/infinite-canvas-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40jason-huang%2Finfinite-canvas-agent",
+      "category": "utilities",
+      "createdAt": "2026-08-12T15:17:30.517Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 71
+    },
+    {
       "name": "@jasstsg/nice",
       "version": "0.1.1",
       "description": "Node Integrated Content Editor - a tiny schema-driven local content editor that reads and writes plain JSON files.",
@@ -23654,6 +23738,18 @@
       "score": 92
     },
     {
+      "name": "@luxalgo/mcp",
+      "version": "1.0.0",
+      "description": "LuxAlgo Library MCP server — the encyclopedia of trading & technical analysis, for AI agents. Free and keyless.",
+      "license": "MIT",
+      "repository": "https://github.com/LuxAlgo/luxalgo-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40luxalgo%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T15:34:31.659Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 66
+    },
+    {
       "name": "@luxfi/bridge",
       "version": "1.0.7",
       "description": "Lux Bridge SDK — embed bridge.lux.network into any host application",
@@ -24516,6 +24612,18 @@
       "createdAt": "2026-08-05T19:24:38.820Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 72
+    },
+    {
+      "name": "@mcp-abap-adt/auth-mocks",
+      "version": "0.1.0",
+      "description": "Protocol-faithful mock authorization servers (UAA/OAuth2, OIDC, SAML IdP) for testing @mcp-abap-adt packages",
+      "license": "MIT",
+      "repository": "https://github.com/fr0ster/mcp-abap-adt-auth-mocks",
+      "npmUrl": "https://www.npmjs.com/package/%40mcp-abap-adt%2Fauth-mocks",
+      "category": "testing",
+      "createdAt": "2026-08-12T15:16:09.040Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 78
     },
     {
       "name": "@mcpip/sdk",
@@ -30794,6 +30902,18 @@
       "score": 96
     },
     {
+      "name": "@pnewell/gongio-mcp",
+      "version": "1.5.1",
+      "description": "MCP server for Gong.io - access calls, transcripts, and users",
+      "license": "MIT",
+      "repository": "https://github.com/pnewell/gongio-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40pnewell%2Fgongio-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T15:42:47.016Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 78
+    },
+    {
       "name": "@pnllabs/plugin-pnllabs",
       "version": "1.0.1",
       "description": "Trust & risk verdicts for AI trading agents on Solana: realized-PnL wallet trust (not peak scores), wallet funding forensics, token safety, and trade cost. Pay-per-call via x402, free tier to try.",
@@ -33768,6 +33888,18 @@
       "createdAt": "2026-08-09T23:38:25.355Z",
       "discoveredAt": "2026-08-10T01:06:24.306Z",
       "score": 63
+    },
+    {
+      "name": "@robincompute/sdk",
+      "version": "0.1.0",
+      "description": "TypeScript client for RobinCompute, the decentralized AI inference network on Robinhood Chain. Chat completions in the OpenAI shape, token streaming, and a verifiable on-chain settlement receipt for every job.",
+      "license": "MIT",
+      "repository": "https://github.com/robincompute/typescript-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40robincompute%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T16:20:46.658Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 90
     },
     {
       "name": "@robinmesh/sdk",
@@ -38438,6 +38570,18 @@
       "score": 100
     },
     {
+      "name": "@tabnas/chess-view",
+      "version": "0.1.2",
+      "description": "A self-contained <chess-view> web component: a 2D chessboard view of a PGN game, with move navigation and highlighted notation.",
+      "license": "MIT",
+      "repository": "https://github.com/tabnas/chess",
+      "npmUrl": "https://www.npmjs.com/package/%40tabnas%2Fchess-view",
+      "category": "utilities",
+      "createdAt": "2026-08-12T16:05:20.521Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 74
+    },
+    {
       "name": "@tabnas/jsonl",
       "version": "0.1.1",
       "description": "This plugin allows the [Tabnas](https://github.com/tabnas/parser) parsing engine to parse JSON Lines (JSONL / NDJSON): one standard-JSON value per line.",
@@ -38460,6 +38604,18 @@
       "createdAt": "2026-08-03T16:04:08.561Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 85
+    },
+    {
+      "name": "@tactical-ddd/vue",
+      "version": "0.2.0",
+      "description": "[![npm version](https://img.shields.io/npm/v/@tactical-ddd/vue)](https://www.npmjs.com/package/@tactical-ddd/vue) [![npm downloads](https://img.shields.io/npm/dm/@tactical-ddd/vue)](https://www.npmjs.com/package/@tactical-ddd/vue) [![license](https://img.",
+      "license": "MIT",
+      "repository": "https://github.com/kayun/tactical-ddd",
+      "npmUrl": "https://www.npmjs.com/package/%40tactical-ddd%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-08-11T18:34:36.129Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 81
     },
     {
       "name": "@takazudo/pgen",
@@ -51146,6 +51302,18 @@
       "score": 64
     },
     {
+      "name": "cron-primitives",
+      "version": "1.0.0",
+      "description": "Cron schedule math as pure functions — next run, previous run, missed runs, DST policies. JSON-serializable schedules, no clock reads, no timers, no I/O, no dependencies. Time zones via Intl. Runs in Cloudflare Workers, Durable Objects, Deno, browsers and",
+      "license": "MIT",
+      "repository": "https://github.com/PavelLazarchuk/cron-primitives",
+      "npmUrl": "https://www.npmjs.com/package/cron-primitives",
+      "category": "frontend",
+      "createdAt": "2026-08-12T16:34:55.034Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 100
+    },
+    {
       "name": "cronductor",
       "version": "1.0.1",
       "description": "Distributed cron scheduler for Node.js using Redis-backed locking.",
@@ -55850,6 +56018,18 @@
       "score": 76
     },
     {
+      "name": "gongsi-mcp",
+      "version": "0.1.1",
+      "description": "공정거래위원회 기업집단 공시 특화 MCP 서버 — DART 전자공시 + 기업집단포털",
+      "license": "MIT",
+      "repository": "https://github.com/dolseom/gongsi-mcp",
+      "npmUrl": "https://www.npmjs.com/package/gongsi-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-11T15:55:03.907Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 65
+    },
+    {
       "name": "gonkit",
       "version": "0.1.1",
       "description": "One always-on efficiency mode for AI coding agents: terse output, lean code, filtered shell output, graph-first search, and a project memory that hands off.",
@@ -58454,6 +58634,18 @@
       "score": 72
     },
     {
+      "name": "jsmarc",
+      "version": "3.0.1",
+      "description": "A zero-dependency library for parsing, filtering, extracting, and explaining bibliographic MARC records",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/corbin-c/jsmarc",
+      "npmUrl": "https://www.npmjs.com/package/jsmarc",
+      "category": "utilities",
+      "createdAt": "2026-08-12T15:26:56.258Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 86
+    },
+    {
       "name": "json-so-far",
       "version": "0.1.1",
       "description": "Best-effort parser for JSON that hasn't finished arriving. Render streaming LLM output before the closing brace shows up. Zero dependencies, never throws.",
@@ -59498,6 +59690,18 @@
       "score": 56
     },
     {
+      "name": "linkedin-godmode",
+      "version": "0.1.0",
+      "description": "Generic browser and HTTP primitives for agent-operated LinkedIn workflows via local Chrome, Browserbase, or Anchor Browser.",
+      "license": "MIT",
+      "repository": "https://github.com/samihalawa/linkedin-godmode-plugin",
+      "npmUrl": "https://www.npmjs.com/package/linkedin-godmode",
+      "category": "testing",
+      "createdAt": "2026-08-12T16:48:35.319Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 74
+    },
+    {
       "name": "linkedin-mcp--bridge",
       "version": "1.0.3",
       "description": "Production-grade LinkedIn MCP server: full profile, post, network, messaging, job search and application automation over an authenticated browser session.",
@@ -60024,6 +60228,18 @@
       "createdAt": "2026-07-27T11:34:02.679Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 83
+    },
+    {
+      "name": "looptroop",
+      "version": "0.5.0",
+      "description": "Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop recovery, isolated OpenCode worktrees, and human-gated PR delivery.",
+      "license": "MIT",
+      "repository": "https://github.com/looptroop-ai/LoopTroop",
+      "npmUrl": "https://www.npmjs.com/package/looptroop",
+      "category": "data",
+      "createdAt": "2026-08-10T18:37:01.538Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 85
     },
     {
       "name": "lorem-mcp",
@@ -62568,6 +62784,18 @@
       "createdAt": "2026-07-27T11:52:13.400Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 75
+    },
+    {
+      "name": "n8n-nodes-autoverse-multitasking",
+      "version": "2.1.0",
+      "description": "Production-grade token, context, and deterministic guardrail optimizer for WhatsApp AI workflows in n8n.",
+      "license": "MIT",
+      "repository": "https://github.com/autoverse/n8n-nodes-autoverse-multitasking",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-autoverse-multitasking",
+      "category": "utilities",
+      "createdAt": "2026-08-12T15:17:24.256Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 82
     },
     {
       "name": "n8n-nodes-azbot-qwen-extractor",
@@ -67370,6 +67598,18 @@
       "score": 71
     },
     {
+      "name": "pi-feishu-link",
+      "version": "0.2.1",
+      "description": "High-reliability Feishu/Lark bridge for Pi — zero-config onboarding, persistent outbox (at-least-once), streaming output, native pi command adapter, permission bridge, one-click diagnostics",
+      "license": "MIT",
+      "repository": "https://github.com/amlyczz/pi-feishu-link",
+      "npmUrl": "https://www.npmjs.com/package/pi-feishu-link",
+      "category": "cli",
+      "createdAt": "2026-08-07T20:36:50.319Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 80
+    },
+    {
       "name": "pi-file-size",
       "version": "0.1.1",
       "description": "Non-blocking, event-local file-size guidance for Pi coding agent mutations.",
@@ -71342,6 +71582,18 @@
       "score": 81
     },
     {
+      "name": "resize-iframe",
+      "version": "0.1.0",
+      "description": "Iframes that size themselves to their content, cross-origin included. No build step, no dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/jagreehal/resize-iframe",
+      "npmUrl": "https://www.npmjs.com/package/resize-iframe",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T15:41:47.373Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 71
+    },
+    {
       "name": "responsebee",
       "version": "1.0.0",
       "description": "Official TypeScript/JavaScript SDK for the ResponseBee API — forms, responses and referral links from your own app.",
@@ -71772,6 +72024,18 @@
       "createdAt": "2026-08-07T00:49:12.853Z",
       "discoveredAt": "2026-08-07T02:12:46.077Z",
       "score": 68
+    },
+    {
+      "name": "rosettadash",
+      "version": "0.1.0",
+      "description": "[![GitHub](https://img.shields.io/badge/GitHub-KevinEverywhere%2Frosettadash-181717?logo=github)](https://github.com/KevinEverywhere/rosettadash)",
+      "license": "MIT",
+      "repository": "https://github.com/KevinEverywhere/rosettadash",
+      "npmUrl": "https://www.npmjs.com/package/rosettadash",
+      "category": "backend",
+      "createdAt": "2026-08-12T16:33:12.286Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 64
     },
     {
       "name": "rotpilot",
@@ -73296,6 +73560,18 @@
       "createdAt": "2026-08-05T22:13:03.796Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 71
+    },
+    {
+      "name": "sitegate",
+      "version": "0.1.0",
+      "description": "A secure, self-hosted password gate for staging and preview websites.",
+      "license": "MIT",
+      "repository": "https://github.com/minhazk/sitegate",
+      "npmUrl": "https://www.npmjs.com/package/sitegate",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T15:36:56.631Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 70
     },
     {
       "name": "sitegraph",
@@ -76610,6 +76886,18 @@
       "score": 98
     },
     {
+      "name": "tscene",
+      "version": "0.2.0",
+      "description": "CSS-like scene description format for three.js, with a type checker driven by the installed three typings",
+      "license": "MIT",
+      "repository": "https://github.com/chamchi0809/three-labs",
+      "npmUrl": "https://www.npmjs.com/package/tscene",
+      "category": "frontend",
+      "createdAt": "2026-08-12T08:23:48.375Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 69
+    },
+    {
       "name": "tui-integration-tests",
       "version": "0.1.0",
       "description": "Screen-level integration tests for any terminal UI: plug in your binary, send real keystrokes through a real PTY, assert on what the user actually sees.",
@@ -76788,6 +77076,18 @@
       "createdAt": "2026-07-29T09:10:53.644Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 78
+    },
+    {
+      "name": "typeorm-resilient-transactional",
+      "version": "0.1.0",
+      "description": "@Transactional() for NestJS + TypeORM that survives deadlocks and serialization failures — so you can actually use SERIALIZABLE in production.",
+      "license": "MIT",
+      "repository": "https://github.com/mohamedaboelmagd/typeorm-resilient-transactional",
+      "npmUrl": "https://www.npmjs.com/package/typeorm-resilient-transactional",
+      "category": "backend",
+      "createdAt": "2026-08-12T16:48:20.476Z",
+      "discoveredAt": "2026-08-12T16:48:53.648Z",
+      "score": 84
     },
     {
       "name": "typeorm-strong-migrations",
