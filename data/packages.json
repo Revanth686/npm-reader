@@ -2822,6 +2822,18 @@
       "score": 62
     },
     {
+      "name": "@antlegion/ant",
+      "version": "0.1.0",
+      "description": "Autonomous DCUs (Domain Control Units) on the AntLegion fact bus — a fleet of resident work units that poll the totally-ordered fact stream, claim work exactly-once, act, and resolve with evidence. Ships the dev-chain demo fleet + supervision board.",
+      "license": "MIT",
+      "repository": "https://github.com/YangKGcsdms/antlegion-platform",
+      "npmUrl": "https://www.npmjs.com/package/%40antlegion%2Fant",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:20:39.513Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 90
+    },
+    {
       "name": "@antzsoft/notification-node-sdk",
       "version": "1.0.0",
       "description": "Node.js/backend SDK for the Antz Notification Service — send push, email, SMS, WhatsApp, and Telegram from any server-side JavaScript runtime",
@@ -3854,6 +3866,18 @@
       "score": 74
     },
     {
+      "name": "@attestto/mesh",
+      "version": "0.1.0",
+      "description": "Public Digital Infrastructure — distributed P2P mesh for sovereign identity state over libp2p, anchored on Solana",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Attestto-com/attestto-mesh",
+      "npmUrl": "https://www.npmjs.com/package/%40attestto%2Fmesh",
+      "category": "testing",
+      "createdAt": "2026-08-12T03:07:16.149Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 70
+    },
+    {
       "name": "@attestwire/en16931",
       "version": "0.1.0",
       "description": "Generate and validate EN 16931 e-invoices (XRechnung UBL, Peppol BIS 3.0) with errors that teach the regulation. Zero dependencies.",
@@ -4634,6 +4658,18 @@
       "score": 78
     },
     {
+      "name": "@baubap/mlflow",
+      "version": "0.1.1",
+      "description": "A Pulumi provider to manage MLflow (2.x and 3.x) experiments, model registry and access control via the MLflow REST API.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Baubap/pulumi-mlflow",
+      "npmUrl": "https://www.npmjs.com/package/%40baubap%2Fmlflow",
+      "category": "backend",
+      "createdAt": "2026-08-12T01:38:46.253Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 64
+    },
+    {
       "name": "@bayar-sdk/core",
       "version": "0.0.1",
       "description": "Core contract, types, errors and provider contract tests for bayar-sdk — an unofficial multi-provider payment gateway SDK (TypeScript) for Midtrans & Xendit.",
@@ -5390,6 +5426,18 @@
       "score": 88
     },
     {
+      "name": "@bricnbrac-purl/cli",
+      "version": "0.1.0",
+      "description": "Purl Atelier Map capture CLI for Codex and Claude Code",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/bricnbrac/purl",
+      "npmUrl": "https://www.npmjs.com/package/%40bricnbrac-purl%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-12T03:42:51.672Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 63
+    },
+    {
       "name": "@bridgenode/llm",
       "version": "0.1.0",
       "description": "BridgeNode SDK - Pay-per-request AI (LLM, Image, Video, Music, Voice) via x402 on Base and Solana",
@@ -5868,6 +5916,18 @@
       "createdAt": "2026-08-01T01:52:43.363Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 68
+    },
+    {
+      "name": "@byteindev/bank-slip-verifier",
+      "version": "1.0.0",
+      "description": "Zero-dependency client for the OIIO Service Slip Verify API — verify Thai bank transfer slips by image (OCR) or QR code data from npm, pnpm, bun, yarn or the browser",
+      "license": "MIT",
+      "repository": "https://github.com/ByteInDev/bank-slip-verifier-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40byteindev%2Fbank-slip-verifier",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:13:42.269Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 88
     },
     {
       "name": "@cad0p/pi-steering",
@@ -10262,6 +10322,18 @@
       "score": 72
     },
     {
+      "name": "@droidox/opencode-rate-limit-fallback",
+      "version": "1.73.0",
+      "description": "OpenCode plugin that automatically switches to fallback models when rate limited",
+      "license": "MIT",
+      "repository": "https://github.com/Droidox/opencode-rate-limit-fallback",
+      "npmUrl": "https://www.npmjs.com/package/%40droidox%2Fopencode-rate-limit-fallback",
+      "category": "utilities",
+      "createdAt": "2026-08-12T03:32:53.684Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 78
+    },
+    {
       "name": "@dropler/ui-native",
       "version": "0.1.0",
       "description": "Themeable, accessible React Native (Expo) primitives with drop-in style presets (flat, glassmorphism, neobrutalism).",
@@ -11592,6 +11664,18 @@
       "createdAt": "2026-08-08T08:16:34.360Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 67
+    },
+    {
+      "name": "@fateforge/dedao-cli",
+      "version": "1.0.1",
+      "description": "AI-native CLI for read-only Dedao access and confirmation-gated GetNote note management",
+      "license": "MIT",
+      "repository": "https://github.com/fatecannotbealtered/dedao-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40fateforge%2Fdedao-cli",
+      "category": "cli",
+      "createdAt": "2026-08-11T12:07:29.351Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 68
     },
     {
       "name": "@fazofazaal/convex-payer",
@@ -20966,6 +21050,18 @@
       "score": 51
     },
     {
+      "name": "@key-warden/sdk",
+      "version": "1.0.0",
+      "description": "Official Node.js client for Key-Warden - validate software licences online (seat- and revocation-aware) or verify signed tokens offline against your embedded public key.",
+      "license": "MIT",
+      "repository": "https://github.com/key-warden/sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40key-warden%2Fsdk",
+      "category": "cli",
+      "createdAt": "2026-08-12T03:06:53.035Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 67
+    },
+    {
       "name": "@keycraft/core",
       "version": "0.1.1",
       "description": "Ultra-performant, zero-dependency keyboard shortcut management engine",
@@ -21012,6 +21108,18 @@
       "createdAt": "2026-08-01T03:23:20.261Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 71
+    },
+    {
+      "name": "@khannaoffice/unigrid",
+      "version": "1.0.0",
+      "description": "A fixed-module grid for React, developed in the lineage of Massimo Vignelli’s Unigrid for the National Park Service.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/rohanarickhanna/unigrid",
+      "npmUrl": "https://www.npmjs.com/package/%40khannaoffice%2Funigrid",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:33:20.113Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 89
     },
     {
       "name": "@kindred-core/sdk",
@@ -23832,6 +23940,18 @@
       "createdAt": "2026-07-29T22:34:16.848Z",
       "discoveredAt": "2026-07-29T22:53:38.817Z",
       "score": 65
+    },
+    {
+      "name": "@meedo01/agentscan",
+      "version": "0.1.0",
+      "description": "Security & quality scanner for AI agent extensions — Claude skills, MCP servers, Cursor rules and agent instruction files. Like npm audit, but for the stuff you install into your coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/Mohammad1sh/agentscan",
+      "npmUrl": "https://www.npmjs.com/package/%40meedo01%2Fagentscan",
+      "category": "backend",
+      "createdAt": "2026-08-12T03:23:49.136Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 75
     },
     {
       "name": "@meerathanki09/image-strip-gallery",
@@ -28932,6 +29052,18 @@
       "createdAt": "2026-07-27T11:23:01.035Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 88
+    },
+    {
+      "name": "@pa-ui/select",
+      "version": "19.3.0",
+      "description": "Accessible, token-driven Angular 19 select component with forms integration",
+      "license": "MIT",
+      "repository": "https://github.com/JosepFernande/pa-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40pa-ui%2Fselect",
+      "category": "frontend",
+      "createdAt": "2026-08-12T02:23:51.282Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 71
     },
     {
       "name": "@paadev/paa-contracts",
@@ -38126,6 +38258,18 @@
       "score": 69
     },
     {
+      "name": "@thesvg/react-native",
+      "version": "3.3.0",
+      "description": "Typed React Native SVG components for all 6,500+ brand icons from thesvg.org",
+      "license": "MIT",
+      "repository": "https://github.com/glincker/thesvg",
+      "npmUrl": "https://www.npmjs.com/package/%40thesvg%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:15:08.163Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 75
+    },
+    {
       "name": "@theyahia/aprovodka",
       "version": "4.2.0",
       "description": "MCP server for 1C:Enterprise — 34 tools across 11 modules: catalogs & documents CRUD, post/unpost, registers & balances, accounting registers incl. virtual tables, constants, batch ops, change-tracking, metadata discovery, curated config presets, optional",
@@ -40248,6 +40392,18 @@
       "createdAt": "2026-07-27T14:05:26.640Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 73
+    },
+    {
+      "name": "@vinihcrosa/gitlab-mcp",
+      "version": "0.1.0",
+      "description": "MCP server (stdio) — proxy fino sobre a REST API v4 de um GitLab CE self-hosted, focado em navegar MRs e deixar review inline.",
+      "license": "MIT",
+      "repository": "https://github.com/vinihcrosa/gitlab-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40vinihcrosa%2Fgitlab-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T02:36:28.347Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 66
     },
     {
       "name": "@vinihcrosa/lumem",
@@ -45206,6 +45362,18 @@
       "score": 100
     },
     {
+      "name": "auditsaas",
+      "version": "0.1.0",
+      "description": "Local CLI for SaaS security, privacy, AI, payments, and production readiness audits.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/sagaragarwal94/audit-saas",
+      "npmUrl": "https://www.npmjs.com/package/auditsaas",
+      "category": "cli",
+      "createdAt": "2026-08-12T03:34:51.910Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 67
+    },
+    {
       "name": "audittest-vision",
       "version": "1.0.1",
       "description": "CLI que automatiza auditoria de accesibilidad (WCAG 2.1) y deteccion de errores visuales de layout en paginas web",
@@ -45228,6 +45396,18 @@
       "createdAt": "2026-08-08T02:57:17.935Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 69
+    },
+    {
+      "name": "aurovie-charts",
+      "version": "0.2.0",
+      "description": "Framework-agnostic canvas charting engine — a TradingView-class financial chart (candles/volume, indicators, drawings, crosshair, pan/zoom) with a datafeed abstraction. React-free core; optional ./react binding.",
+      "license": "MIT",
+      "repository": "https://github.com/thisisharshsah/aurovie-charts",
+      "npmUrl": "https://www.npmjs.com/package/aurovie-charts",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:21:54.415Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 72
     },
     {
       "name": "authcore-mobile",
@@ -45732,6 +45912,18 @@
       "createdAt": "2026-08-02T13:51:18.273Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 79
+    },
+    {
+      "name": "bestax-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for @allxsmith/bestax-bulma — component props, examples, CSS variables and agent skills, served offline from a version-pinned index",
+      "license": "MIT",
+      "repository": "https://github.com/allxsmith/bestax",
+      "npmUrl": "https://www.npmjs.com/package/bestax-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-12T02:53:03.625Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 70
     },
     {
       "name": "betbetter-mcp",
@@ -56378,6 +56570,18 @@
       "score": 91
     },
     {
+      "name": "jiffy-messaging",
+      "version": "0.1.0",
+      "description": "Conversations and messages between users. Embed it as a package or run it as an HTTP and WebSocket service.",
+      "license": "MIT",
+      "repository": "https://github.com/ZeeshanAdilButt/jiffy-messaging",
+      "npmUrl": "https://www.npmjs.com/package/jiffy-messaging",
+      "category": "backend",
+      "createdAt": "2026-08-12T02:07:47.112Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 74
+    },
+    {
       "name": "jira-delivery-mcp",
       "version": "1.0.0",
       "description": "Client-agnostic MCP server for Jira and Confluence — delivery intelligence, implementation prompts, and workflow automation for any AI coding agent",
@@ -56532,6 +56736,18 @@
       "createdAt": "2026-07-27T18:49:26.660Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 72
+    },
+    {
+      "name": "json-so-far",
+      "version": "0.1.1",
+      "description": "Best-effort parser for JSON that hasn't finished arriving. Render streaming LLM output before the closing brace shows up. Zero dependencies, never throws.",
+      "license": "MIT",
+      "repository": "https://github.com/tamerkalla/json-so-far",
+      "npmUrl": "https://www.npmjs.com/package/json-so-far",
+      "category": "devops",
+      "createdAt": "2026-08-12T02:46:32.673Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 82
     },
     {
       "name": "jsonloupe",
@@ -61250,6 +61466,18 @@
       "score": 83
     },
     {
+      "name": "n8n-nodes-youtube-downloader",
+      "version": "0.1.0",
+      "description": "n8n community node to run the Apify YouTube Video Downloader and YouTube Music Downloader Actors from your workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/thenetaji/apify-n8n-nodes",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-youtube-downloader",
+      "category": "backend",
+      "createdAt": "2026-08-12T03:54:36.954Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 71
+    },
+    {
       "name": "n8n-nodes-zavu",
       "version": "0.1.0",
       "description": "n8n community node for Zavu — one API for SMS, WhatsApp, Telegram, Email, Instagram, Messenger and Voice.",
@@ -62640,6 +62868,18 @@
       "createdAt": "2026-07-30T04:20:20.534Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 83
+    },
+    {
+      "name": "ocular-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that gives coding agents vision through OpenAI-compatible multimodal models, with reliable binary image uploads for remote deployments.",
+      "license": "MIT",
+      "repository": "https://github.com/xyun1996/ocular",
+      "npmUrl": "https://www.npmjs.com/package/ocular-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T03:45:37.611Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 71
     },
     {
       "name": "office-file-viewer",
@@ -66134,6 +66374,18 @@
       "score": 54
     },
     {
+      "name": "plugin-pulsenetwork",
+      "version": "0.1.0",
+      "description": "ElizaOS plugin for Pulse Network: free catalog search over 77 paid-data verticals, hardened x402 paid fetch (USDC on Base, per-call spend cap enforced in code), and pre-trade token safety scans.",
+      "license": "MIT",
+      "repository": "https://github.com/GTCC777/plugin-pulsenetwork",
+      "npmUrl": "https://www.npmjs.com/package/plugin-pulsenetwork",
+      "category": "data",
+      "createdAt": "2026-08-12T02:53:34.260Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 62
+    },
+    {
       "name": "plugin-syndicate",
       "version": "0.1.1",
       "description": "Play The Syndicate from any elizaOS agent — a deterministic, turn-based crime-city game where the loot is real trading cards priced by a live on-chain TCG oracle. Humans and agents share one world and one leaderboard.",
@@ -67283,6 +67535,18 @@
       "category": "frontend",
       "createdAt": "2026-08-11T19:24:24.479Z",
       "discoveredAt": "2026-08-11T19:50:21.290Z",
+      "score": 80
+    },
+    {
+      "name": "ragelayer",
+      "version": "0.6.0",
+      "description": "A framework-neutral web toy that lets visitors smash, burn, freeze, and physically demolish any page.",
+      "license": "MIT",
+      "repository": "https://github.com/ParthJadhav/ragelayer",
+      "npmUrl": "https://www.npmjs.com/package/ragelayer",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:29:32.056Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
       "score": 80
     },
     {
@@ -69192,6 +69456,18 @@
       "createdAt": "2026-07-30T08:44:38.989Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 82
+    },
+    {
+      "name": "rn-nitro-event-kit",
+      "version": "1.0.0",
+      "description": "Nitro EventKit for React Native: read Apple Calendar events and Apple Reminders on iOS",
+      "license": "MIT",
+      "repository": "https://github.com/thaitd0396/rn-nitro-event-kit",
+      "npmUrl": "https://www.npmjs.com/package/rn-nitro-event-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-12T02:49:19.392Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 62
     },
     {
       "name": "rn-profiler",
@@ -74306,6 +74582,18 @@
       "score": 84
     },
     {
+      "name": "ui-differ",
+      "version": "1.0.0",
+      "description": "零依赖的浏览器端设计稿叠加对比工具：上传设计稿、调透明度/缩放、拖拽对齐、裁剪挖空逐块对比、辅助线对齐，IndexedDB 持久化刷新不丢。",
+      "license": "MIT",
+      "repository": "https://github.com/mengxiaodi/ui-differ",
+      "npmUrl": "https://www.npmjs.com/package/ui-differ",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:09:36.605Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 68
+    },
+    {
       "name": "ui-picker",
       "version": "0.1.1",
       "description": "Local-first UI design system server for coding agents — style packs, a color-theory engine, checkable UX/UI guidelines, and a human-in-the-loop picker, served over MCP.",
@@ -75276,6 +75564,18 @@
       "createdAt": "2026-08-08T17:54:14.669Z",
       "discoveredAt": "2026-08-08T18:24:36.518Z",
       "score": 84
+    },
+    {
+      "name": "vikers-buildkit",
+      "version": "2.4.0",
+      "description": "Viker's BuildKit — agent-aware spec-driven development and company-building workflow kit.",
+      "license": "MIT",
+      "repository": "https://github.com/vikersjunior/v-buildkit",
+      "npmUrl": "https://www.npmjs.com/package/vikers-buildkit",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T03:44:03.168Z",
+      "discoveredAt": "2026-08-12T03:57:46.727Z",
+      "score": 86
     },
     {
       "name": "vimium-trap",
