@@ -98,6 +98,18 @@
       "score": 77
     },
     {
+      "name": "@0x/wdk-protocol-swidge-0x",
+      "version": "0.1.0",
+      "description": "WDK swidge protocol module for EVM token swaps via the 0x Swap API v2.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/0xProject/wdk-protocol-swidge-0x",
+      "npmUrl": "https://www.npmjs.com/package/%400x%2Fwdk-protocol-swidge-0x",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:37:40.194Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 71
+    },
+    {
       "name": "@0xaibridge/sdk",
       "version": "1.0.1",
       "description": "0xBridge Cross-Chain SDK — one-line cross-chain ERC20 transfers with fee estimation and route discovery",
@@ -1886,6 +1898,18 @@
       "score": 85
     },
     {
+      "name": "@algoglyph/mcp-connector",
+      "version": "0.2.0",
+      "description": "Local loopback connector for pairing AlgoGlyph with local AI agents and MCP servers.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Algoglyph/AlgoGlyph",
+      "npmUrl": "https://www.npmjs.com/package/%40algoglyph%2Fmcp-connector",
+      "category": "backend",
+      "createdAt": "2026-08-03T17:19:55.855Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 61
+    },
+    {
       "name": "@algorismus/elementor-jsx",
       "version": "1.1.0",
       "description": "JSX -> Elementor V4 compiler, deployer and CLI. Write small typed components, compile to native Elementor pages (atomic elements, theme parts, forms, loops, dynamic tags), deploy over REST with authoritative server-side validation, drift protection and ve",
@@ -2558,6 +2582,18 @@
       "score": 75
     },
     {
+      "name": "@amadeni/dev-contract",
+      "version": "0.1.0",
+      "description": "Standardized dev-start/dev-auth process contract for the Amadeni project fleet: ready means a verified login",
+      "license": "MIT",
+      "repository": "https://github.com/amadeni/dev-contract",
+      "npmUrl": "https://www.npmjs.com/package/%40amadeni%2Fdev-contract",
+      "category": "cli",
+      "createdAt": "2026-08-12T17:47:03.353Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 68
+    },
+    {
       "name": "@amemhq/core",
       "version": "1.0.0",
       "description": "The agentic memory engine — notes that construct, link, and evolve like a Zettelkasten, on Qdrant + Transformers.js. No Python. Framework-agnostic.",
@@ -2723,6 +2759,18 @@
       "category": "backend",
       "createdAt": "2026-08-04T03:24:22.062Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 76
+    },
+    {
+      "name": "@ancora/react",
+      "version": "0.1.0",
+      "description": "Pixel-stable virtualized message list for AI chat and streaming logs. Bottom-pin holds under token streaming; reading mode never shifts. The MIT alternative to VirtuosoMessageList.",
+      "license": "MIT",
+      "repository": "https://github.com/asish-dev/ancora",
+      "npmUrl": "https://www.npmjs.com/package/%40ancora%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-12T18:09:28.847Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 76
     },
     {
@@ -5112,6 +5160,18 @@
       "createdAt": "2026-08-04T18:36:51.337Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 71
+    },
+    {
+      "name": "@bessemeralliance/tools-design-system",
+      "version": "0.6.3",
+      "description": "Bessemer Tools design system: Tailwind tokens, React components, and app-shell patterns extracted from the Bessemer Portal.",
+      "license": "MIT",
+      "repository": "https://github.com/BessemerAlliance/tools-design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40bessemeralliance%2Ftools-design-system",
+      "category": "frontend",
+      "createdAt": "2026-08-12T17:59:39.250Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 62
     },
     {
       "name": "@better-push/core",
@@ -8054,6 +8114,18 @@
       "score": 100
     },
     {
+      "name": "@cora-cache/redis",
+      "version": "1.0.1",
+      "description": "Enterprise-grade Redis caching engine featuring cache stampede protection via distributed locking, automatic function-based tag generation, and atomic pipe-lined invalidation.",
+      "license": "MIT",
+      "repository": "https://github.com/PyrkinValentin/cora-cache",
+      "npmUrl": "https://www.npmjs.com/package/%40cora-cache%2Fredis",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:34:39.109Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 82
+    },
+    {
       "name": "@cordfuse/politik",
       "version": "0.3.0",
       "description": "Politik — a governed multi-agent framework built on git. The SCM repository is the session: charter, record, state, and invite in one.",
@@ -8436,6 +8508,18 @@
       "createdAt": "2026-08-01T18:49:30.599Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 57
+    },
+    {
+      "name": "@curiouser-labs/http-api-mcp-server",
+      "version": "1.0.1",
+      "description": "A generic HTTP API MCP Server — test and interact with any REST API from AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/CuriouserLabs/http-api-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40curiouser-labs%2Fhttp-api-mcp-server",
+      "category": "testing",
+      "createdAt": "2026-08-12T18:12:47.930Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 73
     },
     {
       "name": "@cutedyno/node",
@@ -11558,6 +11642,30 @@
       "score": 85
     },
     {
+      "name": "@energy8platform/artube-bridge",
+      "version": "0.1.0",
+      "description": "Drop-in host-side wrapper that lets a game built against @energy8platform/game-sdk run on Artube",
+      "license": "MIT",
+      "repository": "https://github.com/energy8platform/game-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40energy8platform%2Fartube-bridge",
+      "category": "data",
+      "createdAt": "2026-08-12T18:20:05.369Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 67
+    },
+    {
+      "name": "@energy8platform/artube-server",
+      "version": "0.1.0",
+      "description": "Game backend that runs an @energy8platform/game-sdk slot on the Artube platform",
+      "license": "MIT",
+      "repository": "https://github.com/energy8platform/game-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40energy8platform%2Fartube-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:19:56.267Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 67
+    },
+    {
       "name": "@engine-room/after-effects-mcp",
       "version": "0.1.0",
       "description": "MCP server that lets an AI agent drive Adobe After Effects — comps, layers, keyframes, expressions, effects, text, shapes, masks and screenshots.",
@@ -11880,6 +11988,18 @@
       "createdAt": "2026-08-04T15:46:36.808Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 92
+    },
+    {
+      "name": "@evinvest/i18n",
+      "version": "0.1.0",
+      "description": "Dep-light internationalisation toolkit for EV's five locales: a zero-dep server-safe core (locale registry, URL contract, Accept-Language negotiation, ICU-subset formatter) plus React and Next.js subpaths. Owns no number or currency policy — consuming app",
+      "license": "BlueOak-1.0.0",
+      "repository": "https://github.com/EV-invest/lib",
+      "npmUrl": "https://www.npmjs.com/package/%40evinvest%2Fi18n",
+      "category": "frontend",
+      "createdAt": "2026-08-12T18:09:38.670Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 70
     },
     {
       "name": "@evitras-technologies/react-native-background-geolocation",
@@ -25826,6 +25946,18 @@
       "score": 86
     },
     {
+      "name": "@modem-dev/drizzle-scoped-db",
+      "version": "0.15.0",
+      "description": "Typed tenant scoping for Drizzle ORM query builders",
+      "license": "MIT",
+      "repository": "https://github.com/modem-dev/drizzle-scoped-db",
+      "npmUrl": "https://www.npmjs.com/package/%40modem-dev%2Fdrizzle-scoped-db",
+      "category": "data",
+      "createdAt": "2026-08-12T18:23:21.778Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 67
+    },
+    {
       "name": "@modernrelay/orbit-engine-cosmos",
       "version": "0.2.0",
       "description": "cosmos.gl engine adapter for Orbit: GPU force layout, native picking, context-loss recovery.",
@@ -27168,6 +27300,18 @@
       "createdAt": "2026-07-26T01:25:41.211Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 73
+    },
+    {
+      "name": "@mux/ts",
+      "version": "15.0.0",
+      "description": "The official TypeScript library for the Mux API",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/muxinc/mux-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40mux%2Fts",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:07:47.317Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 64
     },
     {
       "name": "@mvpaint/fontgen",
@@ -30444,6 +30588,18 @@
       "createdAt": "2026-08-12T11:28:28.030Z",
       "discoveredAt": "2026-08-12T11:37:58.641Z",
       "score": 80
+    },
+    {
+      "name": "@pawprint0706/opencode-vision-helper",
+      "version": "0.2.0",
+      "description": "OpenCode-native vision fallback for models without image input",
+      "license": "MIT",
+      "repository": "https://github.com/pawprint0706/opencode-vision-helper",
+      "npmUrl": "https://www.npmjs.com/package/%40pawprint0706%2Fopencode-vision-helper",
+      "category": "cli",
+      "createdAt": "2026-08-05T04:43:50.965Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 66
     },
     {
       "name": "@pbuilder/sdk",
@@ -35666,6 +35822,18 @@
       "score": 85
     },
     {
+      "name": "@serve-tools/client-messaging",
+      "version": "0.1.0",
+      "description": "Requests and subscriptions across workers and message ports",
+      "license": "MIT-0",
+      "repository": "https://github.com/serve-tools/web-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40serve-tools%2Fclient-messaging",
+      "category": "cli",
+      "createdAt": "2026-08-12T18:00:57.643Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 71
+    },
+    {
       "name": "@sesori/pr-monitor-opencode",
       "version": "0.2.0",
       "description": "OpenCode plugin that watches GitHub PRs in the background and delivers factual [PR Monitor] reports into the owning session",
@@ -36360,6 +36528,18 @@
       "createdAt": "2026-07-26T14:12:50.082Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 67
+    },
+    {
+      "name": "@sinch/react-native-sinch-push",
+      "version": "1.0.0",
+      "description": "React Native SDK for Sinch Push — identity registration and push receive handling, with native APNs (iOS) and Firebase Cloud Messaging (Android) device token capture. Supports both the old and new (TurboModule) architectures.",
+      "license": "MIT",
+      "repository": "https://github.com/sinchlabs/react-native-sinch-push",
+      "npmUrl": "https://www.npmjs.com/package/%40sinch%2Freact-native-sinch-push",
+      "category": "frontend",
+      "createdAt": "2026-08-12T18:01:39.243Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 98
     },
     {
       "name": "@singerbj/gh-runner",
@@ -37224,6 +37404,18 @@
       "createdAt": "2026-08-01T16:29:31.092Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 75
+    },
+    {
+      "name": "@soukypro/linear-agent-cli",
+      "version": "0.3.0",
+      "description": "Read-only Linear CLI designed for AI agents: stable JSON output, a static allowlisted query registry, and zero write operations.",
+      "license": "MIT",
+      "repository": "https://github.com/souky-byte/linear-agent-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40soukypro%2Flinear-agent-cli",
+      "category": "cli",
+      "createdAt": "2026-08-12T18:17:22.993Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 74
     },
     {
       "name": "@soulfiremc/sdk",
@@ -44748,6 +44940,18 @@
       "createdAt": "2026-07-30T16:09:39.786Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 75
+    },
+    {
+      "name": "ad-antifraud-next",
+      "version": "1.0.0",
+      "description": "Anti-fraud for paid ad traffic in Next.js: bot blocking, IP/source logging, Yandex Direct and Google Ads click protection",
+      "license": "MIT",
+      "repository": "https://github.com/Dveyn/ad-antifraud-next",
+      "npmUrl": "https://www.npmjs.com/package/ad-antifraud-next",
+      "category": "cli",
+      "createdAt": "2026-08-12T18:36:44.862Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 78
     },
     {
       "name": "add-fabien-skills",
@@ -53978,6 +54182,18 @@
       "score": 85
     },
     {
+      "name": "etim-json",
+      "version": "0.1.0",
+      "description": "The ETIM classification model as clean JSON — convert, validate, generate TypeScript types, search, and serve to AI agents over MCP. Ships no ETIM data; converts the model you are licensed to download.",
+      "license": "MIT",
+      "repository": "https://github.com/M-Heath-Consulting/etim-json",
+      "npmUrl": "https://www.npmjs.com/package/etim-json",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:50:04.565Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 86
+    },
+    {
       "name": "etincel",
       "version": "0.7.0",
       "description": "Étincel: a non-fiction writing connector for Claude Code, Claude Desktop, and MCP-enabled tools. Trainable voice, premade emotional tones, and a transparent anti-AI-tells audit. Not an email client or editor replacement, a layer that keeps the writer in t",
@@ -59138,6 +59354,18 @@
       "score": 36
     },
     {
+      "name": "keel-migrate",
+      "version": "0.1.0",
+      "description": "Portable, read-only GRC data export — take your registers, policies, and evidence out of Vanta and other platforms into an open bundle format. Runs locally; your credentials never leave your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/Keel-GRC/keel-migrate",
+      "npmUrl": "https://www.npmjs.com/package/keel-migrate",
+      "category": "data",
+      "createdAt": "2026-08-12T18:09:02.052Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 83
+    },
+    {
       "name": "keep-cache",
       "version": "1.0.1",
       "description": "Tiny, dependency-free typed cache with pluggable eviction policy (LRU / LFU), TTL, size limits and eviction callbacks. Works in browsers, Node, Deno, Bun and Web Workers.",
@@ -59388,6 +59616,18 @@
       "createdAt": "2026-08-12T16:50:24.251Z",
       "discoveredAt": "2026-08-12T17:45:07.626Z",
       "score": 67
+    },
+    {
+      "name": "kolapata",
+      "version": "0.1.0",
+      "description": "Provider-agnostic terminal AI coding agent that keeps coding across legitimately available free-model/provider limits without losing task state.",
+      "license": "MIT",
+      "repository": "https://github.com/azmaintkb/KolaPata",
+      "npmUrl": "https://www.npmjs.com/package/kolapata",
+      "category": "cli",
+      "createdAt": "2026-08-12T17:50:50.519Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 82
     },
     {
       "name": "kontur-diadok-api-sdk",
@@ -60012,6 +60252,18 @@
       "createdAt": "2026-08-11T13:06:18.949Z",
       "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 84
+    },
+    {
+      "name": "liquid-reveal",
+      "version": "1.0.0",
+      "description": "Interactive WebGL liquid-reveal hero driven by a real 2D wave equation. Multi-touch, tap-to-splash, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Qaziaaaa/liquid-reveal",
+      "npmUrl": "https://www.npmjs.com/package/liquid-reveal",
+      "category": "devops",
+      "createdAt": "2026-08-12T18:43:43.624Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 75
     },
     {
       "name": "liquilens",
@@ -75674,6 +75926,18 @@
       "score": 72
     },
     {
+      "name": "symspec",
+      "version": "1.0.0",
+      "description": "Prove your software requirements consistent, or get an honest work list. EARS authoring, INCOSE GtWR lint, Z3 SMT conflict proofs with unsat-core evidence, and unbounded state-model reachability — behind an agent-first CLI with typed JSON envelopes and 81",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/theagenticguy/symspec",
+      "npmUrl": "https://www.npmjs.com/package/symspec",
+      "category": "data",
+      "createdAt": "2026-08-12T18:22:53.234Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 100
+    },
+    {
       "name": "synctera-sdk",
       "version": "1.0.0",
       "description": "Unofficial, production-grade TypeScript SDK for the Synctera Banking-as-a-Service API — typed resource clients, tiered idempotency, cursor pagination, webhook signature verification, and automatic retries.",
@@ -76068,6 +76332,18 @@
       "createdAt": "2026-07-27T05:40:11.169Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 78
+    },
+    {
+      "name": "tekmerion",
+      "version": "0.2.0",
+      "description": "Conocimiento operacional verificado, versionado junto al código",
+      "license": "MIT",
+      "repository": "https://github.com/NicBJ/tekmerion",
+      "npmUrl": "https://www.npmjs.com/package/tekmerion",
+      "category": "devops",
+      "createdAt": "2026-08-10T04:57:51.800Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 66
     },
     {
       "name": "temporal-calendar-react",
@@ -78302,6 +78578,18 @@
       "score": 100
     },
     {
+      "name": "vibe-secure-me",
+      "version": "1.3.1",
+      "description": "Framework-agnostic security auditor skill for agentic AI assistants. Audits codebases against OWASP Top 10:2025, API/Mobile/CI-CD/LLM Top 10, and CWE.",
+      "license": "MIT",
+      "repository": "https://github.com/ajibolagenius/vibe-secure-me",
+      "npmUrl": "https://www.npmjs.com/package/vibe-secure-me",
+      "category": "backend",
+      "createdAt": "2026-08-12T18:32:51.503Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 81
+    },
+    {
       "name": "vibecheck-app",
       "version": "1.1.1",
       "description": "Tap a key, see Claude's live status. Let go, it melts away.",
@@ -79308,6 +79596,18 @@
       "createdAt": "2026-08-08T11:12:32.238Z",
       "discoveredAt": "2026-08-08T11:22:53.750Z",
       "score": 88
+    },
+    {
+      "name": "webmesh-mcp",
+      "version": "1.0.1",
+      "description": "Token-economical web browsing, scraping, and crawling MCP server. Tiered fetching (static → browser), robots.txt compliance, session persistence, and BFS crawling.",
+      "license": "MIT",
+      "repository": "https://github.com/creatorpiyush/webmesh-mcp",
+      "npmUrl": "https://www.npmjs.com/package/webmesh-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-12T18:42:16.766Z",
+      "discoveredAt": "2026-08-12T18:51:15.980Z",
+      "score": 93
     },
     {
       "name": "webrtc-mcp-server",
