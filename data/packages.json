@@ -182,6 +182,18 @@
       "score": 80
     },
     {
+      "name": "@12-apps/prisma",
+      "version": "1.2.0",
+      "description": "Prisma host: the multi-file schema folder, the plugin migration seam, and the shared PrismaClient singleton with its audit / append-only extensions",
+      "license": "MIT",
+      "repository": "https://github.com/12-apps/shared-packages",
+      "npmUrl": "https://www.npmjs.com/package/%4012-apps%2Fprisma",
+      "category": "data",
+      "createdAt": "2026-08-12T17:47:17.433Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 64
+    },
+    {
       "name": "@12-apps/pwa",
       "version": "1.1.1",
       "description": "Making a web app installable, and telling people it is. Captures beforeinstallprompt without ever firing it, detects the iOS browsers where installation is a manual share-sheet action, and ships an invite that leads with the reason rather than the instruc",
@@ -2426,6 +2438,18 @@
       "score": 75
     },
     {
+      "name": "@alphazede/bearing-lite",
+      "version": "0.1.0",
+      "description": "Skills-first Agent Plugin for planning, routing, bounded execution, and independent review of repository work—without CLI, MCP, server, or hidden runtime state.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/alphazede/bearing-lite",
+      "npmUrl": "https://www.npmjs.com/package/%40alphazede%2Fbearing-lite",
+      "category": "backend",
+      "createdAt": "2026-08-12T20:38:36.687Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 84
+    },
+    {
       "name": "@alplus/sdk",
       "version": "0.2.0",
       "description": "Official instrumentation SDK for Alplus (console.alplus.dev): Monitor heartbeat pings, Observe error tracking, and Measure custom events.",
@@ -3638,6 +3662,18 @@
       "score": 93
     },
     {
+      "name": "@art-ws/muxeon",
+      "version": "0.1.9",
+      "description": "Muxeon — transport and coordinator for local CLI agents running in tmux sessions.",
+      "license": "MIT",
+      "repository": "https://github.com/art-ws/muxeon",
+      "npmUrl": "https://www.npmjs.com/package/%40art-ws%2Fmuxeon",
+      "category": "cli",
+      "createdAt": "2026-08-12T20:48:53.935Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 70
+    },
+    {
       "name": "@art-ws/teamai",
       "version": "0.1.0",
       "description": "TEAMAI — transport and coordinator for local CLI agents running in tmux sessions.",
@@ -4190,6 +4226,18 @@
       "score": 80
     },
     {
+      "name": "@aurite-ai/attestation-verifier",
+      "version": "0.3.0",
+      "description": "Standalone offline verifier for Kahuna attestation evidence packages. Verifies ed25519 signatures and chain linkage using public keys embedded in the package — no network access to Kahuna required.",
+      "license": "MIT",
+      "repository": "https://github.com/Aurite-ai/kahuna-runtime",
+      "npmUrl": "https://www.npmjs.com/package/%40aurite-ai%2Fattestation-verifier",
+      "category": "testing",
+      "createdAt": "2026-08-12T20:37:57.768Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 65
+    },
+    {
       "name": "@auron-labs/opencode-worktrunk",
       "version": "0.2.0",
       "description": "OpenCode plugin that wraps the Worktrunk CLI (`wt`) for git worktree management — list, switch/create, remove, merge, step, and arbitrary `wt` passthrough.",
@@ -4608,6 +4656,18 @@
       "createdAt": "2026-08-08T21:39:42.231Z",
       "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 86
+    },
+    {
+      "name": "@ayvazyan101/asterisk",
+      "version": "0.4.1",
+      "description": "Asterisk — lightweight, personal AI assistant with Ollama-first model support, daemon controls, and a Telegram bot bridge.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ayvazyan10/asterisk",
+      "npmUrl": "https://www.npmjs.com/package/%40ayvazyan101%2Fasterisk",
+      "category": "cli",
+      "createdAt": "2026-08-12T20:31:36.652Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 76
     },
     {
       "name": "@aznabee/freehand-ui",
@@ -7080,6 +7140,18 @@
       "createdAt": "2026-07-31T21:30:08.071Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 78
+    },
+    {
+      "name": "@cherrydotfun/bots-sdk",
+      "version": "0.2.0",
+      "description": "Node SDK for the Cherry Bot API — typed bot client with DM, group mentions, inline keyboards, polling, webhooks, signature/transaction requests, and inline miniapp messages.",
+      "license": "MIT",
+      "repository": "https://github.com/cherrydotfun/bots-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40cherrydotfun%2Fbots-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-12T20:33:16.696Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 87
     },
     {
       "name": "@cherrysakura/claude-mem",
@@ -12938,6 +13010,18 @@
       "score": 62
     },
     {
+      "name": "@flyvende/ai-office",
+      "version": "2.1.0",
+      "description": "See every AI coding agent on your machine as a tiny animated ASCII office — plus a live metrics dashboard, session history, and a headless event stream.",
+      "license": "MIT",
+      "repository": "https://github.com/Flyvendedk799/ai-office",
+      "npmUrl": "https://www.npmjs.com/package/%40flyvende%2Fai-office",
+      "category": "cli",
+      "createdAt": "2026-08-12T21:59:10.978Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 88
+    },
+    {
       "name": "@fmfl-devteam/discord-html-transcripts",
       "version": "0.1.0",
       "description": "Generate secure, standalone HTML transcripts from discord.js channels and messages, including Components V2.",
@@ -15770,6 +15854,18 @@
       "score": 59
     },
     {
+      "name": "@gitmyabi/layerzerotellerwithratelimiting",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LayerZeroTellerWithRateLimiting (build etherscan-layerzerotellerwithratelimiting-4de413a2-1786572493933, commit 98f5121, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/layerzerotellerwithratelimiting",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flayerzerotellerwithratelimiting",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T22:08:36.949Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 63
+    },
+    {
       "name": "@gitmyabi/lbrett",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for LBRETT (build etherscan-lbrett-11a8e4b4-1785196413714, commit f8b7893, branch etherscan)",
@@ -18408,6 +18504,18 @@
       "createdAt": "2026-08-11T14:54:47.561Z",
       "discoveredAt": "2026-08-11T15:12:22.224Z",
       "score": 100
+    },
+    {
+      "name": "@hanoak/pixabay-mcp-server",
+      "version": "1.0.0",
+      "description": "Unofficial Model Context Protocol (MCP) server for the Pixabay API — search and fetch royalty-free images and videos. Not affiliated with or endorsed by Pixabay.",
+      "license": "MIT",
+      "repository": "https://github.com/hanoak/pixabay-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40hanoak%2Fpixabay-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T21:29:39.874Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 96
     },
     {
       "name": "@hanzo/kv",
@@ -24230,6 +24338,18 @@
       "score": 93
     },
     {
+      "name": "@luisangeltech/ini-toolkit",
+      "version": "0.1.0",
+      "description": "Regex-based toolkit for parsing and cleaning INI configuration files with embedded SQL and RDP report-designer syntax (sections, comments, key/value pairs, WITH (NOLOCK) hints, WizardSituaciones expressions).",
+      "license": "MIT",
+      "repository": "https://github.com/luisangeltech/ini-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40luisangeltech%2Fini-toolkit",
+      "category": "backend",
+      "createdAt": "2026-08-12T22:03:39.468Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 76
+    },
+    {
       "name": "@lukeramsden/pi-prevent-stuck",
       "version": "1.0.1",
       "description": "Extension for the pi coding agent: prevent shell commands that commonly hang agents by blocking interactive editors, pagers, REPLs, watch/TUI commands, prompt-only logins, and interactive git rebase.",
@@ -26172,6 +26292,18 @@
       "createdAt": "2026-08-11T08:43:36.913Z",
       "discoveredAt": "2026-08-11T08:59:52.637Z",
       "score": 68
+    },
+    {
+      "name": "@mlmcps/sdd-mcp",
+      "version": "0.19.0",
+      "description": "Read-only MCP server for spec-driven development: estate contract lookup, knowledge-layer checks, and spec inventory over a local repo.",
+      "license": "MIT",
+      "repository": "https://github.com/MLMCPS/ace-claude-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40mlmcps%2Fsdd-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T22:22:27.781Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 69
     },
     {
       "name": "@mmeisterhans/node-red-contrib-particle-cloud",
@@ -31334,6 +31466,18 @@
       "score": 87
     },
     {
+      "name": "@pinecall/mcp",
+      "version": "0.1.1",
+      "description": "Pinecall as an MCP server — build, run and debug production voice agents from Claude Code, Cursor, or any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/pinecall/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40pinecall%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T20:53:26.803Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 65
+    },
+    {
       "name": "@pinooxhq/luma",
       "version": "0.2.0",
       "description": "Luma — A modern Vue 3 dashboard framework built on PrimeVue. Themeable, customizable, and ready for production.",
@@ -35702,6 +35846,18 @@
       "score": 63
     },
     {
+      "name": "@schady4/quorum",
+      "version": "0.0.1",
+      "description": "Multiplayer AI in your terminal — friends and multiple AI models share one live chat session on a CRDT + DAG substrate. Model-agnostic, MCP-native.",
+      "license": "CC-BY-NC-4.0",
+      "repository": "https://github.com/schady4/quorum",
+      "npmUrl": "https://www.npmjs.com/package/%40schady4%2Fquorum",
+      "category": "cli",
+      "createdAt": "2026-08-12T21:56:58.033Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 66
+    },
+    {
       "name": "@schedulifyx/sdk",
       "version": "3.1.0",
       "description": "Official JavaScript/TypeScript SDK for SchedulifyX API - Three-tier architecture: Embed, Publishing, and Full Engagement",
@@ -36900,6 +37056,18 @@
       "createdAt": "2026-08-08T10:28:51.973Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 75
+    },
+    {
+      "name": "@sisdai.org/sisdai-estilos",
+      "version": "1.10.3",
+      "description": "Biblioteca de estilos del Sistema de Diseño y Accesibilidad para la Investigación (Sisdai)",
+      "license": "LGPL-3.0-only",
+      "repository": "https://github.com/CentroGeo/sisdai-estilos",
+      "npmUrl": "https://www.npmjs.com/package/%40sisdai.org%2Fsisdai-estilos",
+      "category": "frontend",
+      "createdAt": "2026-08-12T21:53:25.217Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 79
     },
     {
       "name": "@sitegpt/convex",
@@ -41126,6 +41294,30 @@
       "score": 88
     },
     {
+      "name": "@ucash/agents",
+      "version": "0.6.7",
+      "description": "Monetize AI agents with non-custodial HTTP-402 crypto payments. Zero-dependency JS client for agents.u.cash: sell priced resources, get paid to your own wallet across 40+ chains, with scoped subagent keys.",
+      "license": "MIT",
+      "repository": "https://github.com/UdotCASH/agents-u-cash",
+      "npmUrl": "https://www.npmjs.com/package/%40ucash%2Fagents",
+      "category": "backend",
+      "createdAt": "2026-08-12T20:43:40.820Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 90
+    },
+    {
+      "name": "@ucash/angular",
+      "version": "0.1.1",
+      "description": "Angular components and helpers for U.CASH Pay: a Pay-with-U.CASH button + server-side checkout. Non-custodial.",
+      "license": "MIT",
+      "repository": "https://github.com/UdotCASH/ucashpay-angular",
+      "npmUrl": "https://www.npmjs.com/package/%40ucash%2Fangular",
+      "category": "frontend",
+      "createdAt": "2026-08-12T20:34:46.563Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 73
+    },
+    {
       "name": "@ucash/ucash-cli",
       "version": "0.1.0",
       "description": "The ucash CLI: create U.CASH Pay checkouts from the terminal (crypto + cards). Non-custodial.",
@@ -43010,6 +43202,18 @@
       "score": 44
     },
     {
+      "name": "@waveso/docs",
+      "version": "0.1.0",
+      "description": "Markdown documentation for Next.js — parsed to hast in Node at build time, rendered as your own React components, zero parser bytes in the browser",
+      "license": "MIT",
+      "repository": "https://github.com/wavedotso/wave-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40waveso%2Fdocs",
+      "category": "frontend",
+      "createdAt": "2026-08-12T20:50:59.929Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 82
+    },
+    {
       "name": "@wcstack/audio",
       "version": "1.25.0",
       "description": "Declarative Web Audio components for Web Components. A modular audio graph written as HTML, via wc-bindable-protocol.",
@@ -43920,6 +44124,18 @@
       "createdAt": "2026-07-27T09:17:18.997Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 76
+    },
+    {
+      "name": "@xyo-network/dapp-kit-node",
+      "version": "0.1.2",
+      "description": "Node.js host adapters for headless XL1 dApps",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/XYOracleNetwork/dapp-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40xyo-network%2Fdapp-kit-node",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T21:57:27.587Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 64
     },
     {
       "name": "@xzzpig/pi-notify",
@@ -45926,6 +46142,18 @@
       "score": 64
     },
     {
+      "name": "agent-team-generator",
+      "version": "0.1.0",
+      "description": "Claude Code skill that scaffolds a disciplined AI agent team for a project: interview, AGENTS.md, CLAUDE.md, specialist subagents for Claude Code and OpenCode, an agent protocol, and a plain-English documentation system.",
+      "license": "MIT",
+      "repository": "https://github.com/sams-git-195/agent-team-generator",
+      "npmUrl": "https://www.npmjs.com/package/agent-team-generator",
+      "category": "devops",
+      "createdAt": "2026-08-12T21:41:47.552Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 63
+    },
+    {
       "name": "agent-tools-plugin-n8n",
       "version": "0.2.0",
       "description": "n8n plugin for agent-tools-runtime: typed facade tools plus deterministic skills for data tables, workflow orchestration and read-only security/robustness auditing (insert-and-verify-datatable-row, data-table-crud, create-and-verify-workflow, audit-workfl",
@@ -46092,6 +46320,18 @@
       "createdAt": "2026-07-28T08:37:25.754Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 68
+    },
+    {
+      "name": "agentkeeper",
+      "version": "1.0.1",
+      "description": "Confine AI coding agents to what they need: OS-level sandboxing plus a thin detection layer. No Docker, no daemon in the cloud, no telemetry.",
+      "license": "MIT",
+      "repository": "https://github.com/lovelasxyz/agentkeeper",
+      "npmUrl": "https://www.npmjs.com/package/agentkeeper",
+      "category": "devops",
+      "createdAt": "2026-08-12T21:07:08.961Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 90
     },
     {
       "name": "agentlongevity",
@@ -73730,6 +73970,18 @@
       "score": 60
     },
     {
+      "name": "schema-regression-tool",
+      "version": "1.0.0",
+      "description": "Detect breaking changes in JSON/YAML schemas. Protects APIs and data contracts from silent regressions.",
+      "license": "MIT",
+      "repository": "https://github.com/shabanihamidu19-cell/schema-regression-tool",
+      "npmUrl": "https://www.npmjs.com/package/schema-regression-tool",
+      "category": "testing",
+      "createdAt": "2026-08-12T21:51:25.093Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 68
+    },
+    {
       "name": "schemaforge-cli",
       "version": "0.1.0",
       "description": "Visual database schema designer with PostgreSQL, MongoDB, Prisma, and TypeORM export",
@@ -74220,6 +74472,18 @@
       "createdAt": "2026-08-10T13:30:43.914Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 63
+    },
+    {
+      "name": "setup-ai-provenance-license",
+      "version": "1.1.0",
+      "description": "Add an MIT licence with a proof-of-usage condition to a project: systems that train on it are asked to record that they did",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/origami-ltd/mit-proof-of-usage-license",
+      "npmUrl": "https://www.npmjs.com/package/setup-ai-provenance-license",
+      "category": "data",
+      "createdAt": "2026-08-12T21:01:22.093Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 67
     },
     {
       "name": "sf-flow-plugin",
@@ -76310,6 +76574,18 @@
       "score": 70
     },
     {
+      "name": "supaswitch",
+      "version": "1.0.2",
+      "description": "Per-repo Supabase account switching for humans and coding agents — named tokens in the macOS Keychain plus a transparent supabase shim, so parallel repos use different accounts without supabase login",
+      "license": "MIT",
+      "repository": "https://github.com/marxjb/supaswitch",
+      "npmUrl": "https://www.npmjs.com/package/supaswitch",
+      "category": "cli",
+      "createdAt": "2026-08-12T21:22:20.343Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 80
+    },
+    {
       "name": "supdesk",
       "version": "0.1.0",
       "description": "Server-side TypeScript client for the SupDesk API. Runs in Node, Deno, Bun, and Cloudflare Workers. Not for browser use — the API key is a secret.",
@@ -78084,6 +78360,18 @@
       "createdAt": "2026-08-07T18:19:18.180Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 62
+    },
+    {
+      "name": "turath-mcp",
+      "version": "1.0.0",
+      "description": "An MCP server that gives AI clients accurate access to the turath.io library — authors, books, pages, and search — over stdio and Streamable HTTP.",
+      "license": "MIT",
+      "repository": "https://github.com/adelpro/turath-mcp",
+      "npmUrl": "https://www.npmjs.com/package/turath-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T20:43:22.097Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 65
     },
     {
       "name": "turkiye-suc-haritasi",
@@ -80592,6 +80880,18 @@
       "createdAt": "2026-08-10T19:17:49.500Z",
       "discoveredAt": "2026-08-10T19:43:01.816Z",
       "score": 70
+    },
+    {
+      "name": "witch-familiar",
+      "version": "0.1.0",
+      "description": "A local-first companion creature that levels up on what you actually fix. Reads your git history and check outcomes; nothing leaves your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/Navaneethp007/Familiar",
+      "npmUrl": "https://www.npmjs.com/package/witch-familiar",
+      "category": "cli",
+      "createdAt": "2026-08-12T21:25:11.219Z",
+      "discoveredAt": "2026-08-12T22:31:51.704Z",
+      "score": 80
     },
     {
       "name": "with-simple-mutex",
