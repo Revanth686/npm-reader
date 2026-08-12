@@ -1,11 +1,75 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124695870,
-  "lastRunAt": "2026-08-12T22:31:51.704Z",
+  "lastSequence": 124701003,
+  "lastRunAt": "2026-08-12T23:19:09.424Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@hive-ui/file-uploader",
+      "name": "@universal-mcp-toolkit/server-gmail",
+      "attempts": 1
+    },
+    {
+      "name": "@universal-mcp-toolkit/ai-sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@universal-mcp-toolkit/server-google-sheets",
+      "attempts": 1
+    },
+    {
+      "name": "@universal-mcp-toolkit/server-twilio",
+      "attempts": 1
+    },
+    {
+      "name": "@universal-mcp-toolkit/bridge",
+      "attempts": 1
+    },
+    {
+      "name": "@universal-mcp-toolkit/server-youtube",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/app-runtime-contract",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/runtime-dev",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/react",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/hubs",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/server",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/push",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/runtime-cloudflare",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/react-native",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/realtime",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/client",
+      "attempts": 1
+    },
+    {
+      "name": "@ahamo/runtime-core",
       "attempts": 1
     }
   ]

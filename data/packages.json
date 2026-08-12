@@ -422,6 +422,18 @@
       "score": 70
     },
     {
+      "name": "@a81biz/cauce",
+      "version": "4.13.0",
+      "description": "Marco de gobernanza para desarrollo asistido por IA: trazabilidad, evidencia y control humano sobre toda decisión irreversible.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/a81Biz/cauce",
+      "npmUrl": "https://www.npmjs.com/package/%40a81biz%2Fcauce",
+      "category": "devops",
+      "createdAt": "2026-08-12T23:01:53.821Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 80
+    },
+    {
       "name": "@aarwitz/tapp",
       "version": "0.15.0",
       "description": "Release contracts, autonomous QA, and evidence-backed CI gates for iOS, Android, and web.",
@@ -12086,6 +12098,18 @@
       "score": 76
     },
     {
+      "name": "@eve/buzz-acp-adapter",
+      "version": "0.0.1",
+      "description": "Buzz ACP compatibility adapter for eve agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vercel/eve",
+      "npmUrl": "https://www.npmjs.com/package/%40eve%2Fbuzz-acp-adapter",
+      "category": "cli",
+      "createdAt": "2026-08-12T22:57:36.666Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 62
+    },
+    {
       "name": "@evestack/budget",
       "version": "0.2.0",
       "description": "Dollar spend caps for eve agents, per session and per principal per day. Backed by the Postgres you already run, so a cap survives the session that a new session would otherwise reset.",
@@ -15062,6 +15086,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/deep",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DEEP (build etherscan-deep-98387701-1786574644905, commit 02c4272, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/deep",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdeep",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T22:44:26.378Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/defaultcallbackhandler",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DefaultCallbackHandler (build etherscan-defaultcallbackhandler-d5d82b6a-1785345218740, commit b219bf1, branch etherscan)",
@@ -16212,6 +16248,18 @@
       "createdAt": "2026-08-08T06:34:16.890Z",
       "discoveredAt": "2026-08-08T06:37:23.606Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/nearbridge",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for NearBridge (build etherscan-nearbridge-3fefc5a4-1786574009697, commit 2f0950e, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/nearbridge",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fnearbridge",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T22:33:50.027Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 58
     },
     {
       "name": "@gitmyabi/nft-worlds",
@@ -19416,6 +19464,18 @@
       "createdAt": "2026-07-25T17:11:12.003Z",
       "discoveredAt": "2026-07-25T17:44:16.872Z",
       "score": 58
+    },
+    {
+      "name": "@houssain/tokenguard",
+      "version": "2.0.0",
+      "description": "Audit LLM prompt spend with real BPE tokenizers: token counts, formatting bloat, cross-prompt redundancy, model-routing waste and monthly cost projections.",
+      "license": "MIT",
+      "repository": "https://github.com/elmaroun07-hub/tokenguard",
+      "npmUrl": "https://www.npmjs.com/package/%40houssain%2Ftokenguard",
+      "category": "data",
+      "createdAt": "2026-08-12T23:12:33.660Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 95
     },
     {
       "name": "@houtini/amazon-creators-mcp",
@@ -24552,6 +24612,18 @@
       "createdAt": "2026-08-02T12:28:29.002Z",
       "discoveredAt": "2026-08-02T13:03:05.537Z",
       "score": 67
+    },
+    {
+      "name": "@magist/mcp-server",
+      "version": "0.1.0",
+      "description": "Thin stdio bridge to the hosted Magist MCP server: open, deterministic, cited regulatory research for product launches. Returns legal information for research and attorney handoff, not legal advice.",
+      "license": "MIT",
+      "repository": "https://github.com/magist-io/magist-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40magist%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T22:43:37.058Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 64
     },
     {
       "name": "@magmonium/cli",
@@ -37706,6 +37778,18 @@
       "score": 64
     },
     {
+      "name": "@sometic/activity",
+      "version": "0.2.0",
+      "description": "Portable activity/audit log state for Sometic.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Factivity",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T23:10:02.857Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 44
+    },
+    {
       "name": "@sometic/app-shell",
       "version": "1.0.1",
       "description": "Sometic System composition: createAppShell with session epoch binds across auth, http, query, head, theme, stores, and forms.",
@@ -37716,6 +37800,18 @@
       "createdAt": "2026-08-09T20:31:45.079Z",
       "discoveredAt": "2026-08-09T21:28:49.953Z",
       "score": 67
+    },
+    {
+      "name": "@sometic/approval",
+      "version": "0.2.0",
+      "description": "Portable multi-step approval flow state for Sometic.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fapproval",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T23:10:02.818Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 48
     },
     {
       "name": "@sometic/auth",
@@ -37740,6 +37836,18 @@
       "createdAt": "2026-08-09T20:31:48.723Z",
       "discoveredAt": "2026-08-09T21:28:49.953Z",
       "score": 74
+    },
+    {
+      "name": "@sometic/data-table",
+      "version": "0.2.0",
+      "description": "Framework-free data table and grid state for Sometic: columns, sorting, filtering, pagination, bulk selection, URL sync, and virtual window math.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fdata-table",
+      "category": "data",
+      "createdAt": "2026-08-12T23:10:03.144Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 60
     },
     {
       "name": "@sometic/dom",
@@ -37790,6 +37898,18 @@
       "score": 59
     },
     {
+      "name": "@sometic/notifications",
+      "version": "0.2.0",
+      "description": "Portable notification center inbox state for Sometic.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fnotifications",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T23:10:05.081Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 46
+    },
+    {
       "name": "@sometic/query",
       "version": "1.0.1",
       "description": "Portable server-state query client for Sometic: keys, cache, mutations, invalidation.",
@@ -37800,6 +37920,18 @@
       "createdAt": "2026-08-09T20:31:53.366Z",
       "discoveredAt": "2026-08-09T21:28:49.953Z",
       "score": 59
+    },
+    {
+      "name": "@sometic/query-builder",
+      "version": "0.2.0",
+      "description": "Portable filter/query AST builder for Sometic. Distinct from @sometic/query server-state cache.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fquery-builder",
+      "category": "backend",
+      "createdAt": "2026-08-12T23:10:05.048Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 52
     },
     {
       "name": "@sometic/react",
@@ -37848,6 +37980,18 @@
       "createdAt": "2026-08-09T20:31:56.654Z",
       "discoveredAt": "2026-08-09T21:28:49.953Z",
       "score": 63
+    },
+    {
+      "name": "@sometic/upload",
+      "version": "0.2.0",
+      "description": "Portable upload/download queue for Sometic with pluggable UploadTransport.",
+      "license": "MIT",
+      "repository": "https://github.com/aitistack/sometic",
+      "npmUrl": "https://www.npmjs.com/package/%40sometic%2Fupload",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T23:10:05.264Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 52
     },
     {
       "name": "@sometic/vue",
@@ -41078,6 +41222,18 @@
       "score": 69
     },
     {
+      "name": "@trustmodel/sdk",
+      "version": "0.2.0",
+      "description": "Official TypeScript/Node SDK for TrustModel — AI trust evaluation, OTel telemetry, and agent governance (AGP).",
+      "license": "MIT",
+      "repository": "https://github.com/karlmehta/trustmodel-node",
+      "npmUrl": "https://www.npmjs.com/package/%40trustmodel%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T22:38:31.134Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 55
+    },
+    {
       "name": "@trybullet/cli",
       "version": "1.3.12",
       "description": "The fastest coding agent — terminal edition. Same router, tools and agent loop as the Bullet desktop app, in your shell.",
@@ -43250,6 +43406,18 @@
       "score": 60
     },
     {
+      "name": "@web-portfolio/icons",
+      "version": "0.1.1",
+      "description": "Dynamic React icon component backed by a bundled devicon-seeded registry.",
+      "license": "MIT",
+      "repository": "https://github.com/jatinrao/icons",
+      "npmUrl": "https://www.npmjs.com/package/%40web-portfolio%2Ficons",
+      "category": "frontend",
+      "createdAt": "2026-08-12T21:39:44.273Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 60
+    },
+    {
       "name": "@web-ts-toolkit/express-oidc-vault",
       "version": "0.28.0",
       "description": "Cookie-free OIDC session middleware for Express with pluggable vault stores",
@@ -44136,6 +44304,18 @@
       "createdAt": "2026-08-12T21:57:27.587Z",
       "discoveredAt": "2026-08-12T22:31:51.704Z",
       "score": 64
+    },
+    {
+      "name": "@xyo-network/xl1-docker-images",
+      "version": "5.0.4",
+      "description": "Docker images, Compose recipes, and config examples for running XL1 network nodes",
+      "license": "LGPL-3.0-only",
+      "repository": "https://github.com/xylabs/xyo-chain",
+      "npmUrl": "https://www.npmjs.com/package/%40xyo-network%2Fxl1-docker-images",
+      "category": "devops",
+      "createdAt": "2026-08-11T23:35:11.489Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 57
     },
     {
       "name": "@xzzpig/pi-notify",
@@ -45660,6 +45840,18 @@
       "createdAt": "2026-07-31T14:34:32.175Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 86
+    },
+    {
+      "name": "adscapi",
+      "version": "0.2.0",
+      "description": "One canonical conversion event, fanned out to every ad platform — server-side Conversions APIs + audience sync. SDK + CLI + MCP. \"Stripe for ad-conversion tracking.\"",
+      "license": "MIT",
+      "repository": "https://github.com/pooriaarab/adscapi",
+      "npmUrl": "https://www.npmjs.com/package/adscapi",
+      "category": "backend",
+      "createdAt": "2026-08-12T22:25:54.246Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 59
     },
     {
       "name": "advanced-freeze-panes-table",
@@ -48026,6 +48218,18 @@
       "score": 93
     },
     {
+      "name": "autotel-langfuse",
+      "version": "0.2.0",
+      "description": "Send autotel's canonical gen_ai.* spans to Langfuse over plain OTLP, with no Langfuse SDK required",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jagreehal/autotel",
+      "npmUrl": "https://www.npmjs.com/package/autotel-langfuse",
+      "category": "devops",
+      "createdAt": "2026-08-12T22:58:07.794Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 75
+    },
+    {
       "name": "avalynx-toast",
       "version": "1.0.0",
       "description": "AvalynxToast is a simple toast system for web applications. Based on Bootstrap >=5.3 without any framework dependencies.",
@@ -49956,6 +50160,18 @@
       "createdAt": "2026-07-27T09:21:08.810Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 76
+    },
+    {
+      "name": "chaosline",
+      "version": "0.1.0",
+      "description": "Pre-deployment fault injection for AI agents. Test your agent against real-world failures before shipping.",
+      "license": "MIT",
+      "repository": "https://github.com/navyabijoy/chaosline",
+      "npmUrl": "https://www.npmjs.com/package/chaosline",
+      "category": "testing",
+      "createdAt": "2026-08-12T23:08:41.501Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 53
     },
     {
       "name": "chart-color-audit",
@@ -54674,6 +54890,18 @@
       "score": 75
     },
     {
+      "name": "eslint-plugin-intlayer",
+      "version": "9.3.1",
+      "description": "ESLint (and oxlint) plugin for Intlayer. Catches untranslated strings and the dynamic call shapes the Intlayer compiler cannot optimize.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aymericzip/intlayer",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-intlayer",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T22:57:36.909Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 89
+    },
+    {
       "name": "eslint-plugin-jwt-security",
       "version": "2.3.0",
       "description": "ESLint plugin for JWT security — detects algorithm confusion (CVE-2022-23540), alg:none, weak or hardcoded secrets, and decode-without-verify.",
@@ -54912,6 +55140,18 @@
       "createdAt": "2026-07-31T08:37:23.655Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 78
+    },
+    {
+      "name": "eve-aws-lambda-microvms",
+      "version": "0.2.0",
+      "description": "An Eve sandbox backend for durable AWS Lambda MicroVMs.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ewhauser/eve-extensions",
+      "npmUrl": "https://www.npmjs.com/package/eve-aws-lambda-microvms",
+      "category": "backend",
+      "createdAt": "2026-08-09T00:40:58.000Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 55
     },
     {
       "name": "eve-verify",
@@ -55620,6 +55860,18 @@
       "createdAt": "2026-07-26T22:58:52.041Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 71
+    },
+    {
+      "name": "feral-fur",
+      "version": "0.1.1",
+      "description": "grows a coat of fur on any silhouette: a built-in shape, your own SVG path, or a line of text. one canvas, no images, pettable.",
+      "license": "MIT",
+      "repository": "https://github.com/mortspace/fur",
+      "npmUrl": "https://www.npmjs.com/package/feral-fur",
+      "category": "frontend",
+      "createdAt": "2026-08-12T22:40:34.599Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 51
     },
     {
       "name": "fetch-runtime",
@@ -56592,6 +56844,18 @@
       "createdAt": "2026-08-10T02:50:01.845Z",
       "discoveredAt": "2026-08-10T03:45:20.247Z",
       "score": 66
+    },
+    {
+      "name": "geoaeo",
+      "version": "0.2.1",
+      "description": "GEO and AEO artifacts for answer engines and agents",
+      "license": "MIT",
+      "repository": "https://github.com/pooriaarab/geoaeo",
+      "npmUrl": "https://www.npmjs.com/package/geoaeo",
+      "category": "data",
+      "createdAt": "2026-08-12T23:04:30.099Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 47
     },
     {
       "name": "geotager",
@@ -59544,6 +59808,18 @@
       "createdAt": "2026-08-09T00:41:05.001Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 68
+    },
+    {
+      "name": "jb-range-input",
+      "version": "0.2.0",
+      "description": "Range input web component",
+      "license": "MIT",
+      "repository": "https://github.com/javadbat/jb-range-input",
+      "npmUrl": "https://www.npmjs.com/package/jb-range-input",
+      "category": "utilities",
+      "createdAt": "2026-08-11T10:35:07.143Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 62
     },
     {
       "name": "jca-range",
@@ -63746,6 +64022,18 @@
       "score": 64
     },
     {
+      "name": "moon-inferno",
+      "version": "0.1.0",
+      "description": "All-in-one bundle for Moon-Inferno: Expressive, accessibility-first React UI framework for retro, Y2K, CRT, cyberpunk, gaming, and Web3 applications.",
+      "license": "MIT",
+      "repository": "https://github.com/biagio-scaglia/moon-inferno",
+      "npmUrl": "https://www.npmjs.com/package/moon-inferno",
+      "category": "frontend",
+      "createdAt": "2026-08-12T22:35:04.933Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 50
+    },
+    {
       "name": "morse-ai",
       "version": "0.1.1",
       "description": "A simplistic agent-to-agent communication platform for solo builders.",
@@ -66024,6 +66312,18 @@
       "createdAt": "2026-08-02T16:32:25.016Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 60
+    },
+    {
+      "name": "note-tree",
+      "version": "0.1.0",
+      "description": "Token-lean shared memory for coding agents. Saves only what matters, as leaves on a tree that grows with your project. Works with Claude Code, Codex, opencode, Kiro, Cursor, Gemini CLI and anything that reads AGENTS.md.",
+      "license": "MIT",
+      "repository": "https://github.com/Tlkh201313/note-tree",
+      "npmUrl": "https://www.npmjs.com/package/note-tree",
+      "category": "cli",
+      "createdAt": "2026-08-12T22:42:53.911Z",
+      "discoveredAt": "2026-08-12T23:19:09.424Z",
+      "score": 90
     },
     {
       "name": "notion-bank-mcp",
