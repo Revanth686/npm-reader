@@ -302,6 +302,18 @@
       "score": 80
     },
     {
+      "name": "@4cloudguru/cloud-suite-ui",
+      "version": "0.9.0",
+      "description": "Shared UI foundation (theme, identity, app shell, and cross-cutting components) for the Terraform suite frontends.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/4cloudguru/cloud-suite-ui",
+      "npmUrl": "https://www.npmjs.com/package/%404cloudguru%2Fcloud-suite-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-12T04:44:25.358Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 61
+    },
+    {
       "name": "@4sh/ui-kit",
       "version": "0.1.0",
       "description": "Composants Angular headless du Design System 4SH : signals + Angular CDK, stylés exclusivement par design tokens.",
@@ -6458,6 +6470,18 @@
       "score": 68
     },
     {
+      "name": "@celading/pihub",
+      "version": "0.2.1",
+      "description": "Local-first web panel for the pi coding agent — streaming chat, session trees, cost insights, pipelines; everything on your machine",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/HapPub/PiHub",
+      "npmUrl": "https://www.npmjs.com/package/%40celading%2Fpihub",
+      "category": "utilities",
+      "createdAt": "2026-08-12T04:14:09.609Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 77
+    },
+    {
       "name": "@cenzontle/hilo-mcp",
       "version": "0.2.0",
       "description": "Servidor MCP que acompaña la integración con Hilo: contrato de la API, validación de payloads, verificación de webhooks y pruebas contra sandbox.",
@@ -8594,6 +8618,30 @@
       "score": 75
     },
     {
+      "name": "@demystify/ai-guardrails",
+      "version": "0.3.0",
+      "description": "Input/output safety for LLM calls: checksum-gated Indian PII detection and redaction (Aadhaar/PAN/GSTIN/IFSC/phone/account), prompt-injection detection scoped to untrusted spans, and a configurable policy. Zero dependencies, offline, pure. Leaf package.",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fai-guardrails",
+      "category": "devops",
+      "createdAt": "2026-08-12T04:08:19.254Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 64
+    },
+    {
+      "name": "@demystify/grounding",
+      "version": "0.3.0",
+      "description": "Deterministic numeric grounding guard for LLM output: drops any sentence asserting a figure its own citations do not support. Indian digit grouping and scale words, Unicode digit folding, invisible-character stripping, fail-closed on unreadable digit scri",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fgrounding",
+      "category": "devops",
+      "createdAt": "2026-08-12T04:08:08.909Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 62
+    },
+    {
       "name": "@dendiem/caliper",
       "version": "0.2.0",
       "description": "MCP server that lets a coding agent ask the developer to review ambiguous UI regions directly in the running dev preview.",
@@ -10322,6 +10370,18 @@
       "score": 72
     },
     {
+      "name": "@drmxrcy/appscreen-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for controlling the AppScreen App Store Screenshot Generator.",
+      "license": "MIT",
+      "repository": "https://github.com/DrMxrcy/appscreen-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40drmxrcy%2Fappscreen-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-12T04:22:30.222Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 85
+    },
+    {
       "name": "@droidox/opencode-rate-limit-fallback",
       "version": "1.73.0",
       "description": "OpenCode plugin that automatically switches to fallback models when rate limited",
@@ -10440,6 +10500,18 @@
       "createdAt": "2026-07-26T09:53:23.003Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 80
+    },
+    {
+      "name": "@dvaarik/setu",
+      "version": "0.1.0",
+      "description": "Bridge any telephony provider's media stream to an AI voice agent. Twilio, Plivo, Exotel, Vonage, Telnyx, Jambonz and raw SIP.",
+      "license": "MIT",
+      "repository": "https://github.com/dvaarikai/setu",
+      "npmUrl": "https://www.npmjs.com/package/%40dvaarik%2Fsetu",
+      "category": "utilities",
+      "createdAt": "2026-08-12T05:24:13.800Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 79
     },
     {
       "name": "@dword-design/type-fest-fork",
@@ -13368,6 +13440,18 @@
       "createdAt": "2026-07-31T16:47:34.720Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 87
+    },
+    {
+      "name": "@giabaojs/react-native-app-shortcuts",
+      "version": "0.1.0",
+      "description": "Home screen quick actions for React Native, built for the New Architecture: dynamic shortcuts on iOS (UIApplicationShortcutItem) and Android (ShortcutManager)",
+      "license": "MIT",
+      "repository": "https://github.com/giaBaoJS/react-native-app-shortcuts",
+      "npmUrl": "https://www.npmjs.com/package/%40giabaojs%2Freact-native-app-shortcuts",
+      "category": "frontend",
+      "createdAt": "2026-08-12T05:31:52.514Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 66
     },
     {
       "name": "@giladbarnea/pi-user-agents",
@@ -31334,6 +31418,18 @@
       "score": 70
     },
     {
+      "name": "@ragsuite/ragsuite",
+      "version": "1.0.0",
+      "description": "RAGSuite Platform Manager CLI — init/start/stop/update, offline Enterprise activate with emailed encrypted EE pack. Native or Docker.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ragsuite/RAGSuite",
+      "npmUrl": "https://www.npmjs.com/package/%40ragsuite%2Fragsuite",
+      "category": "backend",
+      "createdAt": "2026-08-12T05:14:09.943Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 83
+    },
+    {
       "name": "@rajubepary/gwt",
       "version": "0.0.1",
       "description": "A Git worktree and PR management CLI tool for streamlined development workflows",
@@ -33900,6 +33996,42 @@
       "createdAt": "2026-08-02T20:37:59.738Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 57
+    },
+    {
+      "name": "@scalar/java-fmt",
+      "version": "0.1.0",
+      "description": "Java formatter (google-java-format on wasm) - runs on plain Node, no JVM",
+      "license": "MIT",
+      "repository": "https://github.com/scalar/formatters",
+      "npmUrl": "https://www.npmjs.com/package/%40scalar%2Fjava-fmt",
+      "category": "data",
+      "createdAt": "2026-08-12T05:23:21.660Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 69
+    },
+    {
+      "name": "@scalar/php-fmt",
+      "version": "0.1.0",
+      "description": "PHP formatter (PHP CS Fixer on PHP/wasm) - runs on plain Node, no PHP install",
+      "license": "MIT",
+      "repository": "https://github.com/scalar/formatters",
+      "npmUrl": "https://www.npmjs.com/package/%40scalar%2Fphp-fmt",
+      "category": "data",
+      "createdAt": "2026-08-12T05:24:06.301Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 61
+    },
+    {
+      "name": "@scalar/ruby-fmt",
+      "version": "0.1.0",
+      "description": "Ruby formatter (syntax_tree on CRuby/wasm) - runs on plain Node, no Ruby install",
+      "license": "MIT",
+      "repository": "https://github.com/scalar/formatters",
+      "npmUrl": "https://www.npmjs.com/package/%40scalar%2Fruby-fmt",
+      "category": "data",
+      "createdAt": "2026-08-12T05:24:24.195Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 69
     },
     {
       "name": "@scantobill/mcp-server",
@@ -38114,6 +38246,18 @@
       "score": 74
     },
     {
+      "name": "@the-long-ride/agents-crew",
+      "version": "0.0.2",
+      "description": "Dependency-free TypeScript multi-agent crew orchestration for Codex, Claude Code, OpenCode, and Antigravity.",
+      "license": "MIT",
+      "repository": "https://github.com/the-long-ride/agents-crew",
+      "npmUrl": "https://www.npmjs.com/package/%40the-long-ride%2Fagents-crew",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T10:14:47.263Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 67
+    },
+    {
       "name": "@the-meridian/cli",
       "version": "1.0.0",
       "description": "Meridian CLI — managed remote development databases for Shopify apps built on Meridian.",
@@ -42158,6 +42302,18 @@
       "score": 84
     },
     {
+      "name": "@yufeng-dev/model-bridge",
+      "version": "0.1.1",
+      "description": "Multi-model gateway and channel launcher for Claude Code — switch models anytime, keep every channel isolated",
+      "license": "MIT",
+      "repository": "https://github.com/Aley3567/claude-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40yufeng-dev%2Fmodel-bridge",
+      "category": "utilities",
+      "createdAt": "2026-08-12T04:30:08.130Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 80
+    },
+    {
       "name": "@yuthent/server",
       "version": "0.5.0",
       "description": "Express middleware for verifying Yuthent SDK retry headers — Post-Session Execution Assurance (PSEA) on the server side.",
@@ -42684,6 +42840,18 @@
       "createdAt": "2026-08-08T00:25:34.329Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 61
+    },
+    {
+      "name": "@zioladev/execution-control",
+      "version": "0.1.0",
+      "description": "A neutral seam for mediating state-changing tool execution: a runtime proposes a consequential execution, an opaque external authority returns allow / block / indeterminate, and only allow may reach the provider. Defines the seam, not how any authority de",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/zioladev/execution-control",
+      "npmUrl": "https://www.npmjs.com/package/%40zioladev%2Fexecution-control",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T05:22:07.326Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 69
     },
     {
       "name": "@zioladev/interop-conformance",
@@ -43320,6 +43488,18 @@
       "createdAt": "2026-07-25T20:57:29.098Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 66
+    },
+    {
+      "name": "aescryptor-ts",
+      "version": "1.0.0",
+      "description": "Zero-dependency, production-ready AES-256-GCM encryption and decryption library for Web Browsers, Node.js, and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/your-username/aescryptor-ts",
+      "npmUrl": "https://www.npmjs.com/package/aescryptor-ts",
+      "category": "frontend",
+      "createdAt": "2026-08-12T05:27:57.086Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 91
     },
     {
       "name": "aethercode-cli",
@@ -45708,6 +45888,18 @@
       "createdAt": "2026-07-29T10:34:59.444Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 87
+    },
+    {
+      "name": "barefoot-css",
+      "version": "1.0.0",
+      "description": "A bare-bones, themeable, JS-free CSS framework. No boots, no baggage.",
+      "license": "MIT",
+      "repository": "https://github.com/coffeetocoffee/barefoot-css",
+      "npmUrl": "https://www.npmjs.com/package/barefoot-css",
+      "category": "frontend",
+      "createdAt": "2026-08-12T05:27:59.107Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 66
     },
     {
       "name": "base44-revenuecat",
@@ -53030,6 +53222,18 @@
       "score": 63
     },
     {
+      "name": "flat-sdk",
+      "version": "1.0.0",
+      "description": "SDK for AI agents to interact with flat.cash — register FlatIDs, earn SAVE tokens, query Private AI, and trade on P2P exchange",
+      "license": "MIT",
+      "repository": "https://github.com/flat-cash/flat-sdk",
+      "npmUrl": "https://www.npmjs.com/package/flat-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-12T05:15:00.349Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 61
+    },
+    {
       "name": "flatbuffers-format",
       "version": "0.1.0",
       "description": "Opinionated FlatBuffers (.fbs) schema formatter, built on an ANTLR4 grammar. Pure TypeScript runtime (antlr4ng) — no JVM, no codegen at install time. Runs in Node and the browser, ships a CLI.",
@@ -54698,6 +54902,18 @@
       "score": 60
     },
     {
+      "name": "hated-wow-mcp",
+      "version": "0.2.0",
+      "description": "Hated WoW MCP — an MCP server for World of Warcraft addon development: the in-game Lua API, Blizzard's shipped UI source, and game art/file data.",
+      "license": "MIT",
+      "repository": "https://github.com/RdyGaming/hated-wow-mcp",
+      "npmUrl": "https://www.npmjs.com/package/hated-wow-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T04:14:20.379Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 80
+    },
+    {
       "name": "haversine-toolkit",
       "version": "1.0.0",
       "description": "A modern TypeScript geospatial toolkit for calculating Haversine distance, bounding boxes, geographic midpoints, and radius-based location queries.",
@@ -54912,6 +55128,18 @@
       "createdAt": "2026-08-09T16:22:17.580Z",
       "discoveredAt": "2026-08-09T16:24:10.750Z",
       "score": 67
+    },
+    {
+      "name": "hexwitness",
+      "version": "1.0.0",
+      "description": "Evidence-first reverse-engineering workbench for humans and AI agents",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/siaginw/HexWitness",
+      "npmUrl": "https://www.npmjs.com/package/hexwitness",
+      "category": "utilities",
+      "createdAt": "2026-08-12T05:22:09.730Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 84
     },
     {
       "name": "hexwright",
@@ -61130,6 +61358,18 @@
       "score": 86
     },
     {
+      "name": "n8n-nodes-kimai-pro",
+      "version": "1.3.0",
+      "description": "n8n community node for Kimai time-tracking software API integration",
+      "license": "MIT",
+      "repository": "https://github.com/msoukhomlinov/n8n-nodes-kimai-pro",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-kimai-pro",
+      "category": "backend",
+      "createdAt": "2026-08-12T04:31:56.087Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 74
+    },
+    {
       "name": "n8n-nodes-markmesh",
       "version": "0.2.0",
       "description": "Trademark search, monitoring and conflict research across 30+ registers, with provenance on every record.",
@@ -61740,6 +61980,18 @@
       "createdAt": "2026-08-02T21:07:36.066Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 76
+    },
+    {
+      "name": "nestgraph",
+      "version": "0.1.0",
+      "description": "Local-first structural-semantic context engine for NestJS",
+      "license": "MIT",
+      "repository": "https://github.com/nhannhl/nestgraph",
+      "npmUrl": "https://www.npmjs.com/package/nestgraph",
+      "category": "backend",
+      "createdAt": "2026-08-12T04:29:36.888Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 65
     },
     {
       "name": "nestjs-graphql-regenerate",
@@ -62376,6 +62628,18 @@
       "createdAt": "2026-07-29T22:58:26.632Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 76
+    },
+    {
+      "name": "node-kimai",
+      "version": "1.0.1",
+      "description": "TypeScript API client SDK for Kimai time-tracking software",
+      "license": "MIT",
+      "repository": "https://github.com/msoukhomlinov/node-kimai",
+      "npmUrl": "https://www.npmjs.com/package/node-kimai",
+      "category": "backend",
+      "createdAt": "2026-08-12T04:00:16.420Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 77
     },
     {
       "name": "node-multipart",
@@ -63984,6 +64248,18 @@
       "createdAt": "2026-08-03T13:29:20.199Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 94
+    },
+    {
+      "name": "openuidev-react-lang-fork",
+      "version": "0.2.8",
+      "description": "Define component libraries, generate LLM system prompts, and render streaming OpenUI Lang output in React — the core runtime for OpenUI generative UI",
+      "license": "MIT",
+      "repository": "https://github.com/thesysdev/openui",
+      "npmUrl": "https://www.npmjs.com/package/openuidev-react-lang-fork",
+      "category": "frontend",
+      "createdAt": "2026-08-12T03:58:12.798Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 71
     },
     {
       "name": "opticore-postgres",
@@ -67418,6 +67694,18 @@
       "score": 67
     },
     {
+      "name": "qseow-mcp",
+      "version": "0.5.1",
+      "description": "MCP server for Qlik Sense Enterprise on Windows (client-managed): Repository, Engine/QIX, and Proxy APIs as Model Context Protocol tools for analysts, developers, and admins.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rmterenzi/qseow-mcp",
+      "npmUrl": "https://www.npmjs.com/package/qseow-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T04:34:58.220Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 83
+    },
+    {
       "name": "qualityclouds-mcp-init",
       "version": "0.1.1",
       "description": "Single source-of-truth registry of MCP clients powering every Quality Clouds one-click install surface (Phase 1b, QSA-1278).",
@@ -69588,6 +69876,18 @@
       "createdAt": "2026-08-09T14:46:56.509Z",
       "discoveredAt": "2026-08-09T14:59:56.278Z",
       "score": 82
+    },
+    {
+      "name": "rollup-plugin-electron-run",
+      "version": "0.1.1",
+      "description": "Rollup plugin and runner that live-reloads Electron on rebuild, with interactive restart controls.",
+      "license": "MIT",
+      "repository": "https://github.com/antelm-dev/electron-run",
+      "npmUrl": "https://www.npmjs.com/package/rollup-plugin-electron-run",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T21:52:37.649Z",
+      "discoveredAt": "2026-08-12T05:36:30.754Z",
+      "score": 66
     },
     {
       "name": "roost-top",
