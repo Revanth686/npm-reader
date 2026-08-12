@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124676050,
-  "lastRunAt": "2026-08-12T19:53:23.284Z",
+  "lastSequence": 124682199,
+  "lastRunAt": "2026-08-12T20:34:55.685Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@ayvazyan101/asterisk",
+      "attempts": 1
+    },
+    {
+      "name": "@sanity/resource-bindings",
+      "attempts": 1
+    },
+    {
+      "name": "@cherrydotfun/bots-sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@ucash/angular",
+      "attempts": 1
+    }
+  ]
 }
