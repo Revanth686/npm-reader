@@ -8834,6 +8834,18 @@
       "score": 61
     },
     {
+      "name": "@dclimate/ipld-index",
+      "version": "0.2.0",
+      "description": "Content-addressed index structures over IPLD blocks: HAMT, sharded roots, conformance vectors",
+      "license": "MIT",
+      "repository": "https://github.com/dClimate/ipld-index",
+      "npmUrl": "https://www.npmjs.com/package/%40dclimate%2Fipld-index",
+      "category": "data",
+      "createdAt": "2026-08-06T15:16:25.001Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 77
+    },
+    {
       "name": "@dealpulsehub/design-system",
       "version": "1.0.0",
       "description": "A modern, type-safe React Design System with automated design tokens, Figma sync, and production-ready components",
@@ -13010,6 +13022,18 @@
       "score": 53
     },
     {
+      "name": "@frezzycold/claudeweb",
+      "version": "0.1.0",
+      "description": "Browser UI for the Claude Code CLI: real streaming, tools, diffs, providers. No dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/FrezzyCold/claudeweb",
+      "npmUrl": "https://www.npmjs.com/package/%40frezzycold%2Fclaudeweb",
+      "category": "frontend",
+      "createdAt": "2026-08-12T17:25:26.074Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 68
+    },
+    {
       "name": "@frondruntime/devtools",
       "version": "0.4.0",
       "description": "Attach a Frond runtime to the local devtools hub.",
@@ -14030,6 +14054,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/accountableopenterm",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for AccountableOpenTerm (build etherscan-accountableopenterm-e92e0620-1786556106825, commit bf8126f, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/accountableopenterm",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Faccountableopenterm",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:35:31.181Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 59
+    },
+    {
       "name": "@gitmyabi/ace",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ACE (build etherscan-ace-ec548380-1786211200600, commit a1f641f, branch etherscan)",
@@ -14171,6 +14207,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-04T21:16:11.470Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/atom",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ATOM (build etherscan-atom-8d983cb9-1786554295999, commit 672a7b3, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/atom",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fatom",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:05:20.913Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
       "score": 56
     },
     {
@@ -15434,6 +15482,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/kimchi",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for KIMCHI (build etherscan-kimchi-2b566950-1786554966175, commit 67fa093, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/kimchi",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fkimchi",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:16:51.898Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/kyota",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for KYOTA (build etherscan-kyota-07b90b31-1785689790227, commit cea777f, branch etherscan)",
@@ -15563,6 +15623,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-25T15:11:47.651Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/lsk",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for LSK (build etherscan-lsk-6033f7f8-1786554050837, commit b733796, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/lsk",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Flsk",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:01:13.619Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
       "score": 56
     },
     {
@@ -15948,6 +16020,18 @@
       "createdAt": "2026-07-31T16:49:16.180Z",
       "discoveredAt": "2026-08-08T17:28:49.311Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/patriot",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PATRIOT (build etherscan-patriot-e9732d4b-1786554981200, commit 3741fb7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/patriot",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fpatriot",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:17:19.794Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/pine",
@@ -16586,6 +16670,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/token-prometeus-network",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Token Prometeus Network (build etherscan-token-prometeus-network-fc82bb4b-1786554961265, commit 69a23d7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/token-prometeus-network",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Ftoken-prometeus-network",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T17:16:24.572Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 60
+    },
+    {
       "name": "@gitmyabi/tokenlockup",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for TokenLockup (build etherscan-tokenlockup-581e27c2-1786163846099, commit 80f19c7, branch etherscan)",
@@ -16740,6 +16836,18 @@
       "createdAt": "2026-08-03T23:12:57.574Z",
       "discoveredAt": "2026-08-03T23:15:27.142Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/ubx",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for UBX (build etherscan-ubx-f5b5efc9-1786553975692, commit eb65d5a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/ubx",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fubx",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T16:59:57.088Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/umx",
@@ -20258,6 +20366,18 @@
       "score": 36
     },
     {
+      "name": "@ionic/migrate",
+      "version": "0.1.0",
+      "description": "Migration tool to automate and report on breaking changes across Ionic Framework major versions.",
+      "license": "MIT",
+      "repository": "https://github.com/ionic-team/ionic-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40ionic%2Fmigrate",
+      "category": "frontend",
+      "createdAt": "2026-08-12T17:31:52.234Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 62
+    },
+    {
       "name": "@ios27_design_system/rails",
       "version": "1.0.0",
       "description": "iOS 27 design system for Rails 8 + Hotwire — CSS tokens, Stimulus controllers, ERB partials",
@@ -22454,6 +22574,18 @@
       "score": 74
     },
     {
+      "name": "@latchvector/sso",
+      "version": "1.0.0",
+      "description": "Official Node.js SDK for Latch Vector SSO — token verification and authentication.",
+      "license": "MIT",
+      "repository": "https://github.com/latchvector/nodejs-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40latchvector%2Fsso",
+      "category": "devops",
+      "createdAt": "2026-08-12T16:57:13.499Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 88
+    },
+    {
       "name": "@latice/flags-react-native",
       "version": "0.2.0",
       "description": "Country flag components for React Native. Lightweight, tree-shakable.",
@@ -23904,6 +24036,18 @@
       "createdAt": "2026-08-05T20:31:39.730Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 73
+    },
+    {
+      "name": "@maheshwarimrinal/react-native-agents",
+      "version": "1.0.0",
+      "description": "Expert React Native agents for performance, security, code quality, accessibility, testing, and release — portable across Claude Code, Cursor, Windsurf, Copilot, Codex, and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/maheshwarimrinal/react-native-agents",
+      "npmUrl": "https://www.npmjs.com/package/%40maheshwarimrinal%2Freact-native-agents",
+      "category": "testing",
+      "createdAt": "2026-08-12T17:01:41.615Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 98
     },
     {
       "name": "@maiguard-hq/telemetry",
@@ -30746,6 +30890,18 @@
       "score": 66
     },
     {
+      "name": "@pixeloffice-eu/pixel-a2a-paymeter",
+      "version": "1.0.2",
+      "description": "Zero-dependency agent-to-agent micropayment meter & proxy middleware for Pixel Office",
+      "license": "MIT",
+      "repository": "https://github.com/denisssenkyr-maker/PixelOffice",
+      "npmUrl": "https://www.npmjs.com/package/%40pixeloffice-eu%2Fpixel-a2a-paymeter",
+      "category": "utilities",
+      "createdAt": "2026-08-12T13:55:18.921Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 53
+    },
+    {
       "name": "@pixodesk/svg-animator-rn",
       "version": "1.0.22",
       "description": "Pixodesk SVG animator for React Native — renders animator documents via react-native-svg, driven natively by react-native-reanimated",
@@ -34992,6 +35148,18 @@
       "createdAt": "2026-08-12T05:23:21.660Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 69
+    },
+    {
+      "name": "@scalar/kotlin-fmt",
+      "version": "0.2.0",
+      "description": "Kotlin formatter (ktfmt on wasm) - runs on plain Node, no JVM",
+      "license": "MIT",
+      "repository": "https://github.com/scalar/formatters",
+      "npmUrl": "https://www.npmjs.com/package/%40scalar%2Fkotlin-fmt",
+      "category": "data",
+      "createdAt": "2026-08-12T05:23:37.052Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 54
     },
     {
       "name": "@scalar/php-fmt",
@@ -41606,6 +41774,18 @@
       "score": 78
     },
     {
+      "name": "@vibsl/mcp-server",
+      "version": "0.3.1",
+      "description": "Model Context Protocol server for the VIBSL deployment API — read and drive deployments from Claude, the OpenAI Agents SDK, or any MCP client.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/vibsl-saas-v1/vibsl-mcp-server-v1",
+      "npmUrl": "https://www.npmjs.com/package/%40vibsl%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T17:34:57.631Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 55
+    },
+    {
       "name": "@viby/sdk",
       "version": "0.2.2",
       "description": "Framework-agnostic SDK for building persistent, skill-guided vibe coding products.",
@@ -41700,6 +41880,18 @@
       "createdAt": "2026-08-03T15:05:07.015Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 85
+    },
+    {
+      "name": "@visiq/claude-cowork-harness",
+      "version": "0.1.0",
+      "description": "VisIQ agent-governance harness for Claude Cowork (the Claude desktop agent) — pre-execution enforcement on host-local sessions via Claude Code hooks, plus audit-stream monitoring for VM-sandboxed sessions the hooks cannot reach.",
+      "license": "MIT",
+      "repository": "https://github.com/VISIQ-LABS/xy",
+      "npmUrl": "https://www.npmjs.com/package/%40visiq%2Fclaude-cowork-harness",
+      "category": "utilities",
+      "createdAt": "2026-08-12T17:37:47.910Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 64
     },
     {
       "name": "@visnia/browser-agent-sdk",
@@ -46500,6 +46692,18 @@
       "createdAt": "2026-08-10T10:07:29.215Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 61
+    },
+    {
+      "name": "article2md",
+      "version": "0.3.0",
+      "description": "Archive web articles — WeChat, Zhihu, Xiaohongshu, or any URL — as clean Markdown with local images. Built for Obsidian and LLM workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/tzrea1-Q/article2md",
+      "npmUrl": "https://www.npmjs.com/package/article2md",
+      "category": "testing",
+      "createdAt": "2026-08-12T16:56:23.792Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 65
     },
     {
       "name": "artifact-inspector",
@@ -56414,6 +56618,18 @@
       "score": 79
     },
     {
+      "name": "happyendpoint-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for real-time real estate, ecommerce, retail, and travel data. Works with Claude, Cursor, and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/happyendpointhq/happyendpoint-mcp",
+      "npmUrl": "https://www.npmjs.com/package/happyendpoint-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T17:09:23.793Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 79
+    },
+    {
       "name": "har-forensics-mcp",
       "version": "0.1.0",
       "description": "Audit a .har capture from your editor: third-party blast radius, leaked credentials, JWT forensics, CSP generation, and redaction. Reads local files, makes no network calls.",
@@ -59162,6 +59378,18 @@
       "score": 79
     },
     {
+      "name": "koishi-plugin-yesimbot-world",
+      "version": "0.1.0",
+      "description": "YesImBot World: 让 Bot 生活在由另一个 LLM 维护的独立虚拟世界中，持续生成行动流",
+      "license": "MIT",
+      "repository": "https://github.com/YesWeAreBot/YesImBotWorld",
+      "npmUrl": "https://www.npmjs.com/package/koishi-plugin-yesimbot-world",
+      "category": "utilities",
+      "createdAt": "2026-08-12T16:50:24.251Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 67
+    },
+    {
       "name": "kontur-diadok-api-sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK для работы с API Контур.Диадок — сервисом электронного документооборота",
@@ -61334,6 +61562,18 @@
       "score": 86
     },
     {
+      "name": "mcp-pg-server",
+      "version": "1.0.0",
+      "description": "MCP server for PostgreSQL — query databases, inspect schemas, explain queries from your IDE",
+      "license": "MIT",
+      "repository": "https://github.com/ofershap/mcp-server-postgres",
+      "npmUrl": "https://www.npmjs.com/package/mcp-pg-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T17:38:58.449Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 64
+    },
+    {
       "name": "mcp-phase-gate",
       "version": "2.0.0",
       "description": "Servidor MCP que parte cada requerimiento en cinco fases con compuerta y obliga a que cada una deje su documento en una documentación central.",
@@ -62112,6 +62352,18 @@
       "createdAt": "2026-07-26T23:29:54.239Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 64
+    },
+    {
+      "name": "migrationpilot-precommit",
+      "version": "1.0.1",
+      "description": "pre-commit framework launcher for MigrationPilot — analyze staged PostgreSQL migrations before they land.",
+      "license": "MIT",
+      "repository": "https://github.com/mickelsamuel/migrationpilot",
+      "npmUrl": "https://www.npmjs.com/package/migrationpilot-precommit",
+      "category": "data",
+      "createdAt": "2026-08-12T14:21:42.290Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 54
     },
     {
       "name": "mimic-reels-mcp",
@@ -64680,6 +64932,18 @@
       "createdAt": "2026-07-29T15:31:39.111Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 89
+    },
+    {
+      "name": "nodebb-plugin-dark-skin",
+      "version": "1.0.0",
+      "description": "Admin-configurable dark skin for NodeBB with OS theme detection and a toggle",
+      "license": "MIT",
+      "repository": "https://github.com/heudev/nodebb-plugin-dark-skin",
+      "npmUrl": "https://www.npmjs.com/package/nodebb-plugin-dark-skin",
+      "category": "utilities",
+      "createdAt": "2026-08-12T17:23:58.178Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 56
     },
     {
       "name": "nodemailer-cmdsend",
@@ -67826,6 +68090,18 @@
       "score": 96
     },
     {
+      "name": "pi-mail",
+      "version": "0.6.0",
+      "description": "Local mailbox communication for independent Pi coding sessions, with peer discovery and a human Web UI.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/frostime/pi-mail",
+      "npmUrl": "https://www.npmjs.com/package/pi-mail",
+      "category": "utilities",
+      "createdAt": "2026-08-12T17:33:15.129Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 58
+    },
+    {
       "name": "pi-mcp-adapter-turbo",
       "version": "2.19.2",
       "description": "Feature-complete, performance-optimized MCP adapter extension for Pi coding agent",
@@ -70104,6 +70380,18 @@
       "createdAt": "2026-08-07T22:35:40.453Z",
       "discoveredAt": "2026-08-07T23:03:58.437Z",
       "score": 59
+    },
+    {
+      "name": "react-calendar-views",
+      "version": "0.1.1",
+      "description": "A React appointment calendar with day, week, month, and list views.",
+      "license": "MIT",
+      "repository": "https://github.com/malin2014/react-calendar-views",
+      "npmUrl": "https://www.npmjs.com/package/react-calendar-views",
+      "category": "frontend",
+      "createdAt": "2026-08-12T17:23:26.798Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 56
     },
     {
       "name": "react-decor",
@@ -73560,6 +73848,18 @@
       "createdAt": "2026-08-05T22:13:03.796Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 71
+    },
+    {
+      "name": "site-shot-sdk",
+      "version": "0.1.0",
+      "description": "Official Node.js SDK for the Site-Shot screenshot API — capture website screenshots in a real Chromium browser (full-page, country proxies, ad & cookie-banner removal). Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/site-shot/site-shot-sdk",
+      "npmUrl": "https://www.npmjs.com/package/site-shot-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-12T17:17:59.467Z",
+      "discoveredAt": "2026-08-12T17:45:07.626Z",
+      "score": 78
     },
     {
       "name": "sitegate",
