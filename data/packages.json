@@ -3758,6 +3758,18 @@
       "score": 40
     },
     {
+      "name": "@atlassecurity/auth",
+      "version": "1.0.1",
+      "description": "Atlas SDK - Node.js binding for Atlas.dll (Windows x64).",
+      "license": "SEE LICENSE IN ../README.md",
+      "repository": "https://github.com/atlassecuritysolutions/AtlasAuthentication-JS",
+      "npmUrl": "https://www.npmjs.com/package/%40atlassecurity%2Fauth",
+      "category": "utilities",
+      "createdAt": "2026-08-12T01:06:38.284Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 75
+    },
+    {
       "name": "@atoapayments/agent-pay",
       "version": "0.0.1",
       "description": "The ergonomic, standalone SDK for agentic payments: embed payments in your product, or give your AI agent a payment tool, under a signed, capped, payee-scoped contract over HTTP. Three nouns — agent, contract, payment.",
@@ -5196,6 +5208,30 @@
       "createdAt": "2026-08-04T11:05:12.757Z",
       "discoveredAt": "2026-08-11T06:52:24.905Z",
       "score": 65
+    },
+    {
+      "name": "@boole/boole-ai",
+      "version": "0.3.0",
+      "description": "Local-first LLM inference SDK for JavaScript & TypeScript. Run GGUF models on your own hardware via llama.cpp, with an App/Function/Sandbox API and a 10x cost cut over always-remote inference.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/boole-ai/boole-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40boole%2Fboole-ai",
+      "category": "backend",
+      "createdAt": "2026-08-12T00:35:06.598Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 64
+    },
+    {
+      "name": "@boole/boole-inference",
+      "version": "0.4.0",
+      "description": "Local-first LLM inference SDK for JavaScript & TypeScript. Run GGUF models on your own hardware via llama.cpp, with an App/Function/Sandbox API and a 10x cost cut over always-remote inference.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/boole-ai/boole-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40boole%2Fboole-inference",
+      "category": "backend",
+      "createdAt": "2026-08-12T00:38:50.589Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 64
     },
     {
       "name": "@borrowbetter/arpcsdk",
@@ -7620,6 +7656,18 @@
       "createdAt": "2026-08-11T13:05:05.448Z",
       "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 75
+    },
+    {
+      "name": "@converly/cli",
+      "version": "1.0.0",
+      "description": "Command line tool for Converly conversion tracking. Set up server-side conversion tracking for Google Ads, Meta, GA4 and more from a terminal or an AI agent.",
+      "license": "MIT",
+      "repository": "https://github.com/aaronbeashel/converly-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40converly%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-12T00:14:02.416Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 66
     },
     {
       "name": "@converly/sdk-node",
@@ -18434,6 +18482,18 @@
       "score": 64
     },
     {
+      "name": "@hyzer-labs/annotate",
+      "version": "0.2.0",
+      "description": "Annotate any page in the browser and send the element, screenshot, and your comment to your local coding agent over MCP.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/hyzerlabs/annotate",
+      "npmUrl": "https://www.npmjs.com/package/%40hyzer-labs%2Fannotate",
+      "category": "frontend",
+      "createdAt": "2026-08-06T17:47:10.096Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 74
+    },
+    {
       "name": "@ia2-dev/rdf-value-editor",
       "version": "0.1.0",
       "description": "A SHACL- and Web Annotation-driven RDF value editor for HTML/RDF datasets.",
@@ -21782,6 +21842,18 @@
       "score": 73
     },
     {
+      "name": "@letsagents/aseprite-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that exposes Aseprite to LLM clients (76 tools — drawing, layers, frames/cels, tilemaps, palettes, animation tweens, transforms, spritesheet export) by generating Lua scripts and driving Aseprite headlessly.",
+      "license": "MIT",
+      "repository": "https://github.com/letsagents/aseprite-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40letsagents%2Faseprite-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-11T23:27:37.879Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 75
+    },
+    {
       "name": "@letsagents/godot-mcp",
       "version": "1.0.0",
       "description": "MCP server that gives AI clients runtime feedback from Godot (errors / scene tree / node props / screenshot) for an AI self-correction loop.",
@@ -23675,6 +23747,18 @@
       "category": "cli",
       "createdAt": "2026-08-11T12:12:38.510Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
+      "score": 69
+    },
+    {
+      "name": "@mdxstudio/tasks",
+      "version": "0.2.5",
+      "description": "TaskBoard plan-checklist component and MDX plugin for mdxstudio.",
+      "license": "MIT",
+      "repository": "https://github.com/SurajDonthi/mdx-preview",
+      "npmUrl": "https://www.npmjs.com/package/%40mdxstudio%2Ftasks",
+      "category": "frontend",
+      "createdAt": "2026-08-12T00:15:48.667Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
       "score": 69
     },
     {
@@ -26294,6 +26378,18 @@
       "score": 57
     },
     {
+      "name": "@narumitw/pi-fleet",
+      "version": "0.1.0",
+      "description": "Experimental Pi extension for spawning and connecting local Pi sessions.",
+      "license": "MIT",
+      "repository": "https://github.com/narumiruna/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40narumitw%2Fpi-fleet",
+      "category": "utilities",
+      "createdAt": "2026-08-12T00:22:42.258Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 69
+    },
+    {
       "name": "@narumitw/pi-recall",
       "version": "0.48.1",
       "description": "Experimental Pi extension for saving and recalling messages across sessions.",
@@ -26316,6 +26412,18 @@
       "createdAt": "2026-07-29T16:29:27.448Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 62
+    },
+    {
+      "name": "@narumitw/pi-workflow",
+      "version": "0.1.0",
+      "description": "Experimental Pi extension combining Plan mode and Goal execution with an integrated handoff.",
+      "license": "MIT",
+      "repository": "https://github.com/narumiruna/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40narumitw%2Fpi-workflow",
+      "category": "utilities",
+      "createdAt": "2026-08-12T00:44:31.646Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 73
     },
     {
       "name": "@nassai-dev/nassai-agentra",
@@ -35870,6 +35978,18 @@
       "score": 82
     },
     {
+      "name": "@ssheleg/agent-stack",
+      "version": "0.6.0",
+      "description": "Production patterns for AI agent orchestrators — tool-calling loops, multi-stage pipelines with checkpoints, LLM provider routing with fallback, four-layer memory with confidence decay — plus the wallet side of reselling LLM access. This package is the in",
+      "license": "MIT",
+      "repository": "https://github.com/ssheleg/agent-stack",
+      "npmUrl": "https://www.npmjs.com/package/%40ssheleg%2Fagent-stack",
+      "category": "utilities",
+      "createdAt": "2026-08-11T23:19:41.369Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 75
+    },
+    {
       "name": "@ssheleg/seo-aeo-audit",
       "version": "0.4.0",
       "description": "Evidence-first SEO + AEO/GEO website audit skill: ten audit tracks (access, canonicalization, architecture, intent, content value, extractability, entity consensus, experience, risk, measurement), a triage model and a prioritized change plan. This package",
@@ -35880,6 +36000,18 @@
       "createdAt": "2026-07-27T23:58:29.389Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 90
+    },
+    {
+      "name": "@ssheleg/sheleg-dev",
+      "version": "0.4.0",
+      "description": "Six integration skills for the layer a product reaches once it has users: Stripe subscription billing, crypto payments, ad and conversion tracking under Consent Mode v2, Google sign-in and the wider Google auth surface, and Core Web Vitals. This package i",
+      "license": "MIT",
+      "repository": "https://github.com/ssheleg/sheleg-dev",
+      "npmUrl": "https://www.npmjs.com/package/%40ssheleg%2Fsheleg-dev",
+      "category": "utilities",
+      "createdAt": "2026-08-11T23:19:53.974Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 71
     },
     {
       "name": "@stablekernel/opencode-bgrun",
@@ -42122,6 +42254,18 @@
       "score": 100
     },
     {
+      "name": "@zaphodis42/quota-axi",
+      "version": "0.1.1",
+      "description": "AXI CLI that reports local agent-provider quota windows without routing or mutation",
+      "license": "MIT",
+      "repository": "https://github.com/zaphodis42/quota-axi",
+      "npmUrl": "https://www.npmjs.com/package/%40zaphodis42%2Fquota-axi",
+      "category": "cli",
+      "createdAt": "2026-08-12T00:44:57.209Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 74
+    },
+    {
       "name": "@zapifyapi/mcp-server",
       "version": "1.0.0",
       "description": "MCP server for ZapifyAPI — 32 agent-ready tools across image processing, text analysis, network diagnostics, developer utilities, and data conversion, selected from a catalogue of 40+ APIs",
@@ -46718,6 +46862,18 @@
       "score": 88
     },
     {
+      "name": "catence",
+      "version": "0.1.0",
+      "description": "Local MCP access to normalized Garmin, Intervals.icu, and targeted Strava fitness data.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/rifusaki/catence",
+      "npmUrl": "https://www.npmjs.com/package/catence",
+      "category": "data",
+      "createdAt": "2026-08-11T23:36:26.156Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 74
+    },
+    {
       "name": "causalwire",
       "version": "0.1.0",
       "description": "A local flight recorder for MCP stdio traffic.",
@@ -46872,6 +47028,18 @@
       "createdAt": "2026-07-28T02:22:07.005Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 80
+    },
+    {
+      "name": "cdn-proxy-cache",
+      "version": "0.2.0",
+      "description": "A caching proxy for CDN resources with URL rewriting, content transformation, and Express integration",
+      "license": "MIT",
+      "repository": "https://github.com/osteele/cdn-proxy-cache",
+      "npmUrl": "https://www.npmjs.com/package/cdn-proxy-cache",
+      "category": "backend",
+      "createdAt": "2026-08-11T23:49:13.245Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 66
     },
     {
       "name": "cf-access-mock",
@@ -50582,6 +50750,18 @@
       "score": 96
     },
     {
+      "name": "docx-lite",
+      "version": "1.1.0",
+      "description": "Build a real .docx in the browser: headings, bold, links, lists, tables, compression. No dependencies, 18 KB, works offline and under a strict CSP.",
+      "license": "MIT",
+      "repository": "https://github.com/CloudxBear/docx-lite",
+      "npmUrl": "https://www.npmjs.com/package/docx-lite",
+      "category": "frontend",
+      "createdAt": "2026-08-11T23:26:34.946Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 94
+    },
+    {
       "name": "dododentist",
       "version": "1.0.0",
       "description": "DodoDentist CLI — manage the patients, appointments, treatments, invoices and payments of your dental clinic from the terminal",
@@ -51840,6 +52020,18 @@
       "createdAt": "2026-08-10T18:20:43.575Z",
       "discoveredAt": "2026-08-10T19:43:01.816Z",
       "score": 59
+    },
+    {
+      "name": "expo-gliph-player",
+      "version": "1.0.0",
+      "description": "Expo compatible audio player with iOS and Android support",
+      "license": "MIT",
+      "repository": "https://github.com/alex303606/expo-gliph-player",
+      "npmUrl": "https://www.npmjs.com/package/expo-gliph-player",
+      "category": "frontend",
+      "createdAt": "2026-08-11T23:44:04.865Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 74
     },
     {
       "name": "expo-modern-table",
@@ -59822,6 +60014,18 @@
       "score": 83
     },
     {
+      "name": "modelhitch",
+      "version": "0.10.0",
+      "description": "Plug-and-play BYOK integration layer — hitch any AI provider or model to your app.",
+      "license": "MIT",
+      "repository": "https://github.com/genoventures-labs/ModelHitch",
+      "npmUrl": "https://www.npmjs.com/package/modelhitch",
+      "category": "utilities",
+      "createdAt": "2026-08-12T00:32:15.381Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 78
+    },
+    {
       "name": "modelium-3d",
       "version": "0.5.1",
       "description": "One search box for Printables, Thingiverse and MakerWorld.",
@@ -60036,6 +60240,18 @@
       "createdAt": "2026-08-08T09:20:12.824Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 97
+    },
+    {
+      "name": "msforms-api",
+      "version": "0.1.0",
+      "description": "AI-native Microsoft Forms automation — inspect structure, resolve branching, validate answers, upload files, and submit responses",
+      "license": "MIT",
+      "repository": "https://github.com/Maxim-Mazurok/msforms-api",
+      "npmUrl": "https://www.npmjs.com/package/msforms-api",
+      "category": "backend",
+      "createdAt": "2026-08-12T00:43:34.484Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 72
     },
     {
       "name": "mufify-cli",
@@ -60422,6 +60638,18 @@
       "score": 56
     },
     {
+      "name": "n8n-nodes-elvesora-enrichment",
+      "version": "0.1.0",
+      "description": "n8n community node for enriching company data from a website domain with the Elvesora Enrichment API.",
+      "license": "MIT",
+      "repository": "https://github.com/Elvesora/n8n-nodes-elvesora-enrichment",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-elvesora-enrichment",
+      "category": "frontend",
+      "createdAt": "2026-08-12T00:20:15.693Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 67
+    },
+    {
       "name": "n8n-nodes-epa-contaminated-site-screener",
       "version": "1.0.0",
       "description": "n8n community node for the Apify EPA Contaminated Site Screener actor: a Phase I ESA environmental database search for any US address -- EPA Superfund/NPL, RCRA CORRACTS/TSD/generators, TRI, UST, LUST, Brownfields, NPDES, AIR, TSCA and RMP, scored against",
@@ -60720,6 +60948,18 @@
       "createdAt": "2026-08-11T18:41:49.781Z",
       "discoveredAt": "2026-08-11T18:50:57.847Z",
       "score": 92
+    },
+    {
+      "name": "n8n-nodes-myobbusiness",
+      "version": "1.0.8",
+      "description": "Comprehensive n8n node for MYOB Business API - Sales Orders, Customers, Items, Invoices, and more",
+      "license": "MIT",
+      "repository": "https://github.com/coboltdev/cc-internal-n8n-nodes-myob",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-myobbusiness",
+      "category": "backend",
+      "createdAt": "2026-08-12T00:37:41.830Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 75
     },
     {
       "name": "n8n-nodes-nukeapi",
@@ -61704,6 +61944,18 @@
       "createdAt": "2026-07-26T15:12:19.538Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 60
+    },
+    {
+      "name": "ngx-katashi-ui",
+      "version": "0.1.1",
+      "description": "Production-ready reusable Angular UI Component Library & Design System",
+      "license": "MIT",
+      "repository": "https://github.com/habibbouzidi/ngx-katashi-ui",
+      "npmUrl": "https://www.npmjs.com/package/ngx-katashi-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-12T00:51:43.181Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 77
     },
     {
       "name": "ngx-minimal-modal",
@@ -71222,6 +71474,18 @@
       "score": 75
     },
     {
+      "name": "spalla-react-native",
+      "version": "1.0.0",
+      "description": "Spalla SDK for RN",
+      "license": "MIT",
+      "repository": "https://github.com/taghos/framework-sdk-spalla-react-native",
+      "npmUrl": "https://www.npmjs.com/package/spalla-react-native",
+      "category": "frontend",
+      "createdAt": "2026-08-11T23:50:15.407Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 67
+    },
+    {
       "name": "spanplane",
       "version": "0.8.2",
       "description": "A local-first A2A agent testing workbench for discovery, conversations, protocol operations, streaming, and content-aware artifacts.",
@@ -75026,6 +75290,18 @@
       "score": 75
     },
     {
+      "name": "vintage-frames",
+      "version": "0.1.0",
+      "description": "Lit web components that emulate the look and feel of classic Mac OS System 7",
+      "license": "MIT",
+      "repository": "https://github.com/aportilla/vintage-frames",
+      "npmUrl": "https://www.npmjs.com/package/vintage-frames",
+      "category": "utilities",
+      "createdAt": "2026-08-12T00:08:18.399Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 69
+    },
+    {
       "name": "vinyl-kit",
       "version": "0.1.0",
       "description": "A tintable vinyl record built from one grayscale mask and a CSS blend mode — disc, sleeve with slide-out choreography, stacks, and cover-accent extraction. React, zero dependencies.",
@@ -75048,6 +75324,18 @@
       "createdAt": "2026-07-29T09:01:32.028Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 90
+    },
+    {
+      "name": "vision-helper-mcp-server",
+      "version": "1.0.0",
+      "description": "MCP server that adds vision capability to any LLM by routing image analysis to vision-capable OpenRouter models",
+      "license": "MIT",
+      "repository": "https://github.com/quickstraw/vision-helper-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/vision-helper-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-12T01:03:45.848Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 75
     },
     {
       "name": "visp-dev",
@@ -76752,6 +77040,18 @@
       "createdAt": "2026-08-01T10:41:41.651Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 64
+    },
+    {
+      "name": "zelvior-qrlite",
+      "version": "0.1.1",
+      "description": "Zero-dependency, ultra-lightweight QR code generator and scanner for web, Node.js, iOS, Android, and everywhere",
+      "license": "MIT",
+      "repository": "https://github.com/zelvior/zelvior-qrlite",
+      "npmUrl": "https://www.npmjs.com/package/zelvior-qrlite",
+      "category": "frontend",
+      "createdAt": "2026-08-11T22:14:21.635Z",
+      "discoveredAt": "2026-08-12T01:13:18.235Z",
+      "score": 66
     },
     {
       "name": "zelvior-runtime",
