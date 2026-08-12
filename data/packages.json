@@ -2546,6 +2546,18 @@
       "score": 77
     },
     {
+      "name": "@amadeni/better-auth-kit",
+      "version": "0.2.2",
+      "description": "Shared Better Auth base for Amadeni Convex + Next.js apps: hardened options factory, magic link email, eligibility hooks, and Next.js glue",
+      "license": "MIT",
+      "repository": "https://github.com/amadeni/better-auth-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40amadeni%2Fbetter-auth-kit",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T15:00:04.814Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 75
+    },
+    {
       "name": "@amemhq/core",
       "version": "1.0.0",
       "description": "The agentic memory engine — notes that construct, link, and evolve like a Zettelkasten, on Qdrant + Transformers.js. No Python. Framework-agnostic.",
@@ -4982,6 +4994,18 @@
       "score": 72
     },
     {
+      "name": "@bendyline/gezel-cli",
+      "version": "1.0.0",
+      "description": "The `gezel` command-line tool.",
+      "license": "MIT",
+      "repository": "https://github.com/bendyline/gezel",
+      "npmUrl": "https://www.npmjs.com/package/%40bendyline%2Fgezel-cli",
+      "category": "cli",
+      "createdAt": "2026-08-11T14:00:48.888Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 68
+    },
+    {
       "name": "@benhowdle/norrin",
       "version": "0.2.0",
       "description": "Have we seen this shape before? Fingerprints for distributed-system event sequences, immune to ids, timestamps and jitter.",
@@ -5652,6 +5676,30 @@
       "createdAt": "2026-08-01T12:05:11.845Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 91
+    },
+    {
+      "name": "@browserid-ng/gate",
+      "version": "0.1.1",
+      "description": "Wrap any stdio MCP server as a remote, BrowserID-gated HTTP endpoint: you decide by email whose agents may connect, every tool call is scoped, attributed, and revocable. Built on @browserid-ng/mcp-auth (both auth lanes).",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/vthunder/browserid-ng",
+      "npmUrl": "https://www.npmjs.com/package/%40browserid-ng%2Fgate",
+      "category": "frontend",
+      "createdAt": "2026-08-12T14:56:38.563Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 72
+    },
+    {
+      "name": "@browserid-ng/mcp-auth",
+      "version": "0.2.0",
+      "description": "Warrant-gated MCP tools over MCP's own OAuth 2.1: a BrowserID 7521 assertion-grant AS + fail-closed per-call revocation checks. Every tool call attributable to 'agent X on behalf of human Y', revocable in one click.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/vthunder/browserid-ng",
+      "npmUrl": "https://www.npmjs.com/package/%40browserid-ng%2Fmcp-auth",
+      "category": "frontend",
+      "createdAt": "2026-08-12T06:47:38.583Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 75
     },
     {
       "name": "@browsers-cli/se-mcp",
@@ -6467,6 +6515,18 @@
       "category": "backend",
       "createdAt": "2026-07-29T09:39:48.813Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
+      "score": 71
+    },
+    {
+      "name": "@carboneio/cqueue",
+      "version": "1.0.0",
+      "description": "Zero-dependency concurrent queue executor: parallel queues, retries, rate limiting, progress and performance stats",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/carboneio/cqueue",
+      "npmUrl": "https://www.npmjs.com/package/%40carboneio%2Fcqueue",
+      "category": "data",
+      "createdAt": "2026-08-12T14:53:49.782Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
       "score": 71
     },
     {
@@ -8136,6 +8196,18 @@
       "createdAt": "2026-08-06T10:40:53.982Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 82
+    },
+    {
+      "name": "@crayonlu/agent-man",
+      "version": "0.3.1",
+      "description": "Safe Git-backed synchronization for native AI agent configuration surfaces",
+      "license": "MIT",
+      "repository": "https://github.com/crayonlu/agent-man",
+      "npmUrl": "https://www.npmjs.com/package/%40crayonlu%2Fagent-man",
+      "category": "cli",
+      "createdAt": "2026-08-12T14:37:48.344Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 69
     },
     {
       "name": "@crcatala/strong-cli",
@@ -10788,6 +10860,18 @@
       "createdAt": "2026-08-10T20:00:45.381Z",
       "discoveredAt": "2026-08-10T20:33:00.517Z",
       "score": 49
+    },
+    {
+      "name": "@dzhechkov/cloudru-hub",
+      "version": "0.1.4",
+      "description": "Unofficial Cloud.ru Evolution launcher for Claude Code and harness-cli targets: thin JS launcher for the cloudru-vm MCP engine (144 tools), per-target installers with a deterministic paid-step brake (permission ask/deny + PreToolUse veto hooks), and skill",
+      "license": "MIT",
+      "repository": "https://github.com/djd1m/dz-harness-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40dzhechkov%2Fcloudru-hub",
+      "category": "cli",
+      "createdAt": "2026-08-12T14:46:24.638Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 87
     },
     {
       "name": "@dzhechkov/skills-tutorial-factory",
@@ -18986,6 +19070,18 @@
       "score": 73
     },
     {
+      "name": "@iamfj/n8n-nodes-paperless-ngx",
+      "version": "0.1.0",
+      "description": "n8n community node to automate Paperless-ngx document management: consume documents, correspondents, tags, document types and storage paths from your Paperless-ngx instance.",
+      "license": "MIT",
+      "repository": "https://github.com/iamfj/n8n-nodes-paperless-ngx",
+      "npmUrl": "https://www.npmjs.com/package/%40iamfj%2Fn8n-nodes-paperless-ngx",
+      "category": "utilities",
+      "createdAt": "2026-08-12T14:09:39.814Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 73
+    },
+    {
       "name": "@iamjoyeb/ziki-agent-core",
       "version": "0.0.1",
       "description": "General-purpose agent with transport abstraction, state management, and attachment support",
@@ -24096,6 +24192,18 @@
       "createdAt": "2026-08-02T10:36:18.098Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 74
+    },
+    {
+      "name": "@marcomattes/epaper-components",
+      "version": "1.0.0",
+      "description": "E-Paper web component library — vanilla custom elements with design tokens. Zero runtime dependencies, framework-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/marcomattes/epaper-components",
+      "npmUrl": "https://www.npmjs.com/package/%40marcomattes%2Fepaper-components",
+      "category": "data",
+      "createdAt": "2026-08-12T15:04:11.930Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 92
     },
     {
       "name": "@marcus5914/google-photos-album-image-url-fetch",
@@ -30998,6 +31106,18 @@
       "score": 72
     },
     {
+      "name": "@posty5/product-scraper",
+      "version": "1.0.0",
+      "description": "Multi-platform product scraper (Amazon, noon, AliExpress, …). Fetches a product page once and runs it through a provider pipeline with SEO-schema and generic fallbacks. Includes a currency converter. Stateless — nothing is cached.",
+      "license": "MIT",
+      "repository": "https://github.com/Posty5/product-scraper",
+      "npmUrl": "https://www.npmjs.com/package/%40posty5%2Fproduct-scraper",
+      "category": "backend",
+      "createdAt": "2026-08-12T14:34:47.382Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 100
+    },
+    {
       "name": "@pouriahlabs/baton",
       "version": "1.0.0",
       "description": "Two AI agent seats in one window: one builds, one reviews.",
@@ -33216,6 +33336,18 @@
       "createdAt": "2026-08-09T03:49:27.237Z",
       "discoveredAt": "2026-08-09T04:56:39.437Z",
       "score": 78
+    },
+    {
+      "name": "@revaly/sdk",
+      "version": "0.5.3",
+      "description": "Server-side TypeScript SDK for the RAP V2 API (payments, payment methods, transactions, notify) with the merchant failover contract built in.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/revaly-co/RAP-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40revaly%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-07T17:03:55.035Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 64
     },
     {
       "name": "@revazi/pi-tmux-orchestrator",
@@ -44294,6 +44426,18 @@
       "score": 83
     },
     {
+      "name": "admindb",
+      "version": "1.0.1",
+      "description": "Browser-based SQLite database administration tool — embed it in your Express app or run it standalone.",
+      "license": "MIT",
+      "repository": "https://github.com/MIbnEKhalid/admindb",
+      "npmUrl": "https://www.npmjs.com/package/admindb",
+      "category": "frontend",
+      "createdAt": "2026-08-12T14:39:35.123Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 84
+    },
+    {
       "name": "admitiq",
       "version": "0.3.2",
       "description": "AdmitiQ: signed, expiring, revocable tokens for QR codes and ticket links. https://admitiq.logiclitz.org",
@@ -48962,6 +49106,18 @@
       "score": 83
     },
     {
+      "name": "claude-agent-office",
+      "version": "1.0.1",
+      "description": "A living virtual office that visualizes Claude Code agents walking around and working — driven by a scripted simulation or by real Claude Code hook events.",
+      "license": "MIT",
+      "repository": "https://github.com/Ecwj11/claude-code-office-visualizer",
+      "npmUrl": "https://www.npmjs.com/package/claude-agent-office",
+      "category": "utilities",
+      "createdAt": "2026-08-12T12:21:14.118Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 72
+    },
+    {
       "name": "claude-api-manager",
       "version": "2.0.0",
       "description": "TUI dashboard for managing Claude Code API configurations. Save multiple API profiles and switch providers with a keystroke.",
@@ -51110,6 +51266,18 @@
       "score": 100
     },
     {
+      "name": "ctxprof",
+      "version": "0.1.0",
+      "description": "A local-first context-window profiler and CI budget gate for OpenAI-compatible LLM apps.",
+      "license": "MIT",
+      "repository": "https://github.com/Dtdkvn/ctxprof",
+      "npmUrl": "https://www.npmjs.com/package/ctxprof",
+      "category": "devops",
+      "createdAt": "2026-08-12T14:47:44.428Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 74
+    },
+    {
       "name": "cubest",
       "version": "0.1.0",
       "description": "Single-pass OLAP aggregator over any text stream (code, logs, CSV, JSONL, XML, SDD artefacts) → 12 output formats including ECharts HTML. Token-cheap alternative to grep+cat chains for LLM agents. npm wrapper — installs Python cubest via pipx or delegates",
@@ -51626,6 +51794,18 @@
       "score": 70
     },
     {
+      "name": "delaunay32",
+      "version": "0.1.0",
+      "description": "Fast, exact 2D Delaunay triangulation for browsers, powered by WebAssembly",
+      "license": "MIT",
+      "repository": "https://github.com/morishuz/delaunay32-wasm",
+      "npmUrl": "https://www.npmjs.com/package/delaunay32",
+      "category": "frontend",
+      "createdAt": "2026-08-12T14:17:47.068Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 67
+    },
+    {
       "name": "delegate-mcp",
       "version": "1.0.0",
       "description": "MCP delegate server: routes large tool outputs to a cheap model to save orchestrator tokens.",
@@ -51708,6 +51888,18 @@
       "createdAt": "2026-07-30T10:57:59.378Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 89
+    },
+    {
+      "name": "depdiff-audit",
+      "version": "0.1.0",
+      "description": "Local-first npm package update risk diffing with evidence-rich HTML, JSON, SARIF, and Markdown reports.",
+      "license": "MIT",
+      "repository": "https://github.com/Dtdkvn/depdiff",
+      "npmUrl": "https://www.npmjs.com/package/depdiff-audit",
+      "category": "utilities",
+      "createdAt": "2026-08-12T14:29:27.295Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 74
     },
     {
       "name": "dependency-companion",
@@ -59330,6 +59522,18 @@
       "score": 95
     },
     {
+      "name": "linkedin-relay-mcp",
+      "version": "1.1.0",
+      "description": "Deep research over LinkedIn from your own account — CLI (lnrelay) + read-only MCP server + Claude Code skill. No paid API. Reads LinkedIn's private Voyager surface with your own session cookies.",
+      "license": "MIT",
+      "repository": "https://github.com/gabros20/linkedin-relay",
+      "npmUrl": "https://www.npmjs.com/package/linkedin-relay-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T14:17:41.615Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 80
+    },
+    {
       "name": "linkgravity",
       "version": "1.0.0",
       "description": "Discord bot bridge for the Antigravity (agy) CLI, with voice interaction support",
@@ -59700,6 +59904,18 @@
       "createdAt": "2026-08-12T12:52:16.646Z",
       "discoveredAt": "2026-08-12T14:08:37.632Z",
       "score": 75
+    },
+    {
+      "name": "locator-registry",
+      "version": "0.1.0",
+      "description": "Ground-truth UI element locators for AI coding assistants, plus a Locator Risk Score that flags which locators are likely to break your tests. Local CLI + MCP server, no hosting required.",
+      "license": "ISC",
+      "repository": "https://github.com/ReadyToRage/locator-registry",
+      "npmUrl": "https://www.npmjs.com/package/locator-registry",
+      "category": "testing",
+      "createdAt": "2026-08-12T14:25:44.602Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 86
     },
     {
       "name": "lockreview",
@@ -60710,6 +60926,18 @@
       "score": 78
     },
     {
+      "name": "mcp-easycompliance",
+      "version": "0.1.0",
+      "description": "MCP server (Model Context Protocol) for the easycompliance sanctions list and PEP screening API",
+      "license": "MIT",
+      "repository": "https://github.com/Siemssen-Consulting-GmbH/mcp-easycompliance",
+      "npmUrl": "https://www.npmjs.com/package/mcp-easycompliance",
+      "category": "backend",
+      "createdAt": "2026-08-12T14:23:57.336Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 71
+    },
+    {
       "name": "mcp-expect",
       "version": "0.1.1",
       "description": "Jest-style assertions for testing MCP (Model Context Protocol) servers.",
@@ -61476,6 +61704,18 @@
       "createdAt": "2026-08-11T13:02:36.194Z",
       "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 68
+    },
+    {
+      "name": "mergereceipt",
+      "version": "0.1.0",
+      "description": "Collect reproducible pull request verification signals before review or merge.",
+      "license": "MIT",
+      "repository": "https://github.com/rfedosov/mergereceipt",
+      "npmUrl": "https://www.npmjs.com/package/mergereceipt",
+      "category": "devops",
+      "createdAt": "2026-08-12T14:10:45.520Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 77
     },
     {
       "name": "mergesetu",
@@ -63144,6 +63384,18 @@
       "createdAt": "2026-08-12T03:54:36.954Z",
       "discoveredAt": "2026-08-12T03:57:46.727Z",
       "score": 71
+    },
+    {
+      "name": "n8n-nodes-zarkchat",
+      "version": "0.1.1",
+      "description": "Nodes do ZarkChat para o n8n: CRM, contatos, conversas, envio de mensagem no WhatsApp, base de conhecimento e gatilho por webhook assinado.",
+      "license": "MIT",
+      "repository": "https://github.com/mayconjordanr/zark-chat",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-zarkchat",
+      "category": "devops",
+      "createdAt": "2026-08-12T15:00:43.311Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 69
     },
     {
       "name": "n8n-nodes-zavu",
@@ -67128,6 +67380,18 @@
       "createdAt": "2026-08-08T00:59:20.801Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 59
+    },
+    {
+      "name": "pi-forgejo-toolkit",
+      "version": "0.1.0",
+      "description": "Multi-server Forgejo workflows, dashboard, reviews, and Actions tools for Pi",
+      "license": "MIT",
+      "repository": "https://github.com/alpertarhan/pi-forgejo-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/pi-forgejo-toolkit",
+      "category": "backend",
+      "createdAt": "2026-08-12T14:24:03.743Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 73
     },
     {
       "name": "pi-glean",
@@ -74270,6 +74534,18 @@
       "score": 60
     },
     {
+      "name": "stoneware",
+      "version": "0.1.0",
+      "description": "Bun-native, server-first web framework where HTML is the default and JavaScript is opt-in. Islands for interactivity, signals inside islands, security on before you configure anything.",
+      "license": "MIT",
+      "repository": "https://github.com/RANJEETJ06/Stoneware",
+      "npmUrl": "https://www.npmjs.com/package/stoneware",
+      "category": "backend",
+      "createdAt": "2026-08-12T14:55:02.074Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 84
+    },
+    {
       "name": "stopslop",
       "version": "0.1.0",
       "description": "Detects AI-agent slop that linters miss: over-complex functions, god modules/classes, dumped responsibilities.",
@@ -74424,6 +74700,18 @@
       "createdAt": "2026-08-08T14:40:55.914Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 33
+    },
+    {
+      "name": "strictdatetime",
+      "version": "1.1.0",
+      "description": "Strict, immutable, zero-dependency date and time utilities for JavaScript and TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/erikleon/strictdatetime",
+      "npmUrl": "https://www.npmjs.com/package/strictdatetime",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T23:50:40.320Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 66
     },
     {
       "name": "stride-cc",
@@ -78636,6 +78924,18 @@
       "createdAt": "2026-08-09T10:47:29.845Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 88
+    },
+    {
+      "name": "whatsapp-export-parser",
+      "version": "0.2.0",
+      "description": "Dependency-free TypeScript parser for real-world WhatsApp chat exports — iPhone and Android, every locale (Arabic/RTL, Eastern digits, localised AM/PM), browser and edge safe.",
+      "license": "MIT",
+      "repository": "https://github.com/NeverFar-app/whatsapp-export-parser",
+      "npmUrl": "https://www.npmjs.com/package/whatsapp-export-parser",
+      "category": "frontend",
+      "createdAt": "2026-08-12T13:44:22.093Z",
+      "discoveredAt": "2026-08-12T15:11:32.083Z",
+      "score": 77
     },
     {
       "name": "whatsapp-mcp-ts",
