@@ -6038,6 +6038,18 @@
       "score": 68
     },
     {
+      "name": "@bytecrafts/agent-ui-components",
+      "version": "0.0.0",
+      "description": "A React component library for building AI chat interfaces with LangChain/LangGraph integration.",
+      "license": "MIT",
+      "repository": "https://github.com/Bytecrafts-Agent/langraph-ui-component",
+      "npmUrl": "https://www.npmjs.com/package/%40bytecrafts%2Fagent-ui-components",
+      "category": "frontend",
+      "createdAt": "2026-08-12T10:09:08.282Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 79
+    },
+    {
       "name": "@byteindev/bank-slip-verifier",
       "version": "1.0.0",
       "description": "Zero-dependency client for the OIIO Service Slip Verify API — verify Thai bank transfer slips by image (OCR) or QR code data from npm, pnpm, bun, yarn or the browser",
@@ -11976,6 +11988,18 @@
       "createdAt": "2026-07-27T07:31:20.646Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 61
+    },
+    {
+      "name": "@fervon/launchpad",
+      "version": "1.1.0",
+      "description": "Local-first dashboard to discover, launch and monitor every dev project in a folder — auto-detected, no port clashes, live logs. Binds 127.0.0.1 only.",
+      "license": "MIT",
+      "repository": "https://github.com/JoniMartin27/launchpad",
+      "npmUrl": "https://www.npmjs.com/package/%40fervon%2Flaunchpad",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:42:19.138Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 91
     },
     {
       "name": "@fest-lib/object",
@@ -21854,6 +21878,42 @@
       "score": 78
     },
     {
+      "name": "@kurot/core",
+      "version": "1.0.12",
+      "description": "Modern rewrite of the Egret game engine — WebGL multi-texture batching, instruction-driven render pipeline, strict TypeScript, Egret-compatible API",
+      "license": "MIT",
+      "repository": "https://github.com/kurot-engine/kurot",
+      "npmUrl": "https://www.npmjs.com/package/%40kurot%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-12T10:18:53.488Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 75
+    },
+    {
+      "name": "@kurot/game",
+      "version": "1.0.6",
+      "description": "Game extensions for the Kurot engine — Tween, Ease, MovieClip, ScrollView, URLLoader",
+      "license": "MIT",
+      "repository": "https://github.com/kurot-engine/kurot",
+      "npmUrl": "https://www.npmjs.com/package/%40kurot%2Fgame",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T10:25:18.471Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 80
+    },
+    {
+      "name": "@kurot/ui",
+      "version": "1.1.7",
+      "description": "EUI-compatible UI component framework for the Kurot game engine — skin-based components, layouts, data binding, view states",
+      "license": "MIT",
+      "repository": "https://github.com/kurot-engine/kurot",
+      "npmUrl": "https://www.npmjs.com/package/%40kurot%2Fui",
+      "category": "data",
+      "createdAt": "2026-08-12T10:30:36.260Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 84
+    },
+    {
       "name": "@kybernesis/dispatch",
       "version": "0.1.0",
       "description": "Agent-to-agent dispatch for eve agents: declared remote-peer edges with principal forwarding on by default, and a receiver channel that makes trusting the wrong caller hard to express.",
@@ -27482,6 +27542,18 @@
       "score": 55
     },
     {
+      "name": "@nimble-way/eve",
+      "version": "0.1.0",
+      "description": "Nimble Web Search and Extract as an extension for Vercel's eve agent framework.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Nimbleway/eve",
+      "npmUrl": "https://www.npmjs.com/package/%40nimble-way%2Feve",
+      "category": "utilities",
+      "createdAt": "2026-08-12T09:04:01.181Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 77
+    },
+    {
       "name": "@ninots/validation",
       "version": "0.0.1",
       "description": "Fluent validation API with Standard Schema V1 compliance for Ninots framework",
@@ -28836,6 +28908,18 @@
       "createdAt": "2026-07-28T15:38:27.173Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 76
+    },
+    {
+      "name": "@openpowershift/time-current-grading-language",
+      "version": "0.1.0",
+      "description": "Render protection-relay time-current grading curves (TCC) from a compact text language to SVG, PNG, or PDF.",
+      "license": "MIT",
+      "repository": "https://github.com/OpenPowerShift/prot-time-current-curves",
+      "npmUrl": "https://www.npmjs.com/package/%40openpowershift%2Ftime-current-grading-language",
+      "category": "utilities",
+      "createdAt": "2026-08-12T10:35:35.521Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 80
     },
     {
       "name": "@openreachtech/renchan-job-bullmq",
@@ -34742,6 +34826,18 @@
       "score": 89
     },
     {
+      "name": "@shadahmad7/react-native-device-security",
+      "version": "0.0.1",
+      "description": "React Native Store Review TurboModule for iOS and Android. This library provides a fully native API to trigger in-app review dialogs using Google Play In-App Review and Apple's SKStoreReviewController, without requiring Expo or additional UI. Lightweight,",
+      "license": "MIT",
+      "repository": "https://github.com/shadahmad7/react-native-device-security",
+      "npmUrl": "https://www.npmjs.com/package/%40shadahmad7%2Freact-native-device-security",
+      "category": "frontend",
+      "createdAt": "2026-08-12T09:17:12.143Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 88
+    },
+    {
       "name": "@shakibdshy/react-animejs",
       "version": "1.0.1",
       "description": "A comprehensive React wrapper for Anime.js v4 — hooks-first API with declarative components, presets, and scoped animations.",
@@ -35172,6 +35268,18 @@
       "createdAt": "2026-07-30T21:07:38.141Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 83
+    },
+    {
+      "name": "@sift-wiki/api-anything",
+      "version": "0.1.0",
+      "description": "Turn any app into a programmable API. Point an agent at an app; get back a typed client and an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/Sift-wiki/api-anything",
+      "npmUrl": "https://www.npmjs.com/package/%40sift-wiki%2Fapi-anything",
+      "category": "backend",
+      "createdAt": "2026-08-12T10:40:07.213Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 74
     },
     {
       "name": "@siftql/core",
@@ -35882,6 +35990,18 @@
       "score": 66
     },
     {
+      "name": "@snubisks/opencode-dcp",
+      "version": "3.1.14",
+      "description": "OpenCode plugin that optimizes token usage by pruning obsolete tool outputs from conversation context",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/Opencode-DCP/opencode-dynamic-context-pruning",
+      "npmUrl": "https://www.npmjs.com/package/%40snubisks%2Fopencode-dcp",
+      "category": "utilities",
+      "createdAt": "2026-08-12T09:54:47.961Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 84
+    },
+    {
       "name": "@sodacards/sdk",
       "version": "1.0.0",
       "description": "The official TypeScript SDK for the SODACARDS Developer API — sell gift cards and game top-ups from your own systems.",
@@ -36288,6 +36408,18 @@
       "createdAt": "2026-07-29T17:34:12.470Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 75
+    },
+    {
+      "name": "@sourcentis/bpmn-editor",
+      "version": "1.0.0",
+      "description": "BPMN diagram editor, agnostic of UI framework and backend, built on @maxgraph/core",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/sourcentis/bpmn-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40sourcentis%2Fbpmn-editor",
+      "category": "backend",
+      "createdAt": "2026-08-12T06:29:35.679Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 80
     },
     {
       "name": "@sp-api-sdk/finances-invoices-api-2026-06-25",
@@ -37694,6 +37826,18 @@
       "score": 91
     },
     {
+      "name": "@ta-interaktiv/react-header-injection",
+      "version": "1.0.1",
+      "description": "Injects React content into the header of a Tamedia article and restyles the surrounding host DOM.",
+      "license": "ISC",
+      "repository": "https://github.com/DND-IT/interaktiv-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40ta-interaktiv%2Freact-header-injection",
+      "category": "frontend",
+      "createdAt": "2026-08-12T09:50:25.055Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 77
+    },
+    {
       "name": "@tabcommerceio/cross-sell-sdk",
       "version": "0.1.1",
       "description": "Storefront JavaScript SDK for Tab Cross Sell: recommendation resolve, valid-impression observation, click / add-to-cart tracking, and batched event delivery.",
@@ -38460,6 +38604,18 @@
       "createdAt": "2026-08-07T04:22:18.219Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 75
+    },
+    {
+      "name": "@thataaaaaa/ayami",
+      "version": "0.1.0",
+      "description": "Infraestrutura reutilizável para bots e aplicações Discord, extraída e generalizada a partir da Ayami: Gateway, REST, Interactions, Commands, Builders, Tasks e uma abstração de Storage independente de banco de dados.",
+      "license": "MIT",
+      "repository": "https://github.com/thalleskraft13/thataaaaaa-ayami",
+      "npmUrl": "https://www.npmjs.com/package/%40thataaaaaa%2Fayami",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:04:55.802Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 84
     },
     {
       "name": "@the-efficacious/brand",
@@ -40886,6 +41042,18 @@
       "score": 72
     },
     {
+      "name": "@voqalize/client-react",
+      "version": "0.1.0",
+      "description": "React SDK to embed a Voqalize voice agent — WebRTC transport, session bootstrap, and hooks/components.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/voqalize/voqalize",
+      "npmUrl": "https://www.npmjs.com/package/%40voqalize%2Fclient-react",
+      "category": "frontend",
+      "createdAt": "2026-08-11T12:17:16.812Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 74
+    },
+    {
       "name": "@votetracker/sdk",
       "version": "0.1.0",
       "description": "Official TypeScript/JavaScript SDK for the VoteTracker API and webhook forwarding",
@@ -40932,6 +41100,18 @@
       "createdAt": "2026-08-01T12:57:20.253Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 81
+    },
+    {
+      "name": "@vroad_x/winapp-mcp",
+      "version": "2.0.0",
+      "description": "MCP server for automating native Windows desktop apps — Playwright for Windows. Gives AI assistants (Copilot, Claude, Cursor) full control over WinUI3, WPF, WinForms, and Win32 apps with 55 UI automation tools. Built entirely with GitHub Copilot.",
+      "license": "MIT",
+      "repository": "https://github.com/floatingbrij/desktop-pilot-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40vroad_x%2Fwinapp-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-12T09:02:45.471Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 100
     },
     {
       "name": "@vruum/mcp",
@@ -44390,6 +44570,18 @@
       "score": 72
     },
     {
+      "name": "agentstack-mcp",
+      "version": "1.0.1",
+      "description": "AgentStack MCP — one deterministic reasoning stack for AI agents: simulate (ScenarioSim) + decide (DecisionMatrix) + compute (PrecisionCalc) with cross-domain composite tools. Runs over stdio (npx) or as a remote server.",
+      "license": "MIT",
+      "repository": "https://github.com/inity13/agentstack-mcp",
+      "npmUrl": "https://www.npmjs.com/package/agentstack-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-12T09:17:52.773Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 100
+    },
+    {
       "name": "agenttx",
       "version": "0.1.0",
       "description": "Git-style transactions for AI coding agents. Inspect, commit, or roll back agent changes.",
@@ -45456,6 +45648,18 @@
       "createdAt": "2026-07-25T19:46:54.685Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 88
+    },
+    {
+      "name": "argus-repo-navigator",
+      "version": "1.0.0",
+      "description": "Argus — hundred-eyed repository navigator. Persistent SQLite code index (files, symbols, imports, references, module graph) so AI agents search first and read only exact line ranges. Ships as a skill for Claude, OpenCode, Codex, Cursor and Copilot, plus a",
+      "license": "MIT",
+      "repository": "https://github.com/luckyman147/Argus",
+      "npmUrl": "https://www.npmjs.com/package/argus-repo-navigator",
+      "category": "data",
+      "createdAt": "2026-08-12T10:53:42.158Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 93
     },
     {
       "name": "ariseguard",
@@ -47796,6 +48000,18 @@
       "createdAt": "2026-08-10T22:42:38.265Z",
       "discoveredAt": "2026-08-10T23:06:27.902Z",
       "score": 89
+    },
+    {
+      "name": "cfctl",
+      "version": "1.0.0",
+      "description": "OAuth-first Cloudflare administration CLI with GitHub CLI-style commands, profiles, safe writes, and direct API access.",
+      "license": "ISC",
+      "repository": "https://github.com/eliware/cfctl",
+      "npmUrl": "https://www.npmjs.com/package/cfctl",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:53:03.056Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 87
     },
     {
       "name": "cgraph",
@@ -50808,6 +51024,18 @@
       "createdAt": "2026-07-31T20:46:33.110Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 81
+    },
+    {
+      "name": "decisionmatrix-mcp",
+      "version": "1.0.2",
+      "description": "DecisionMatrix MCP — deterministic multi-criteria decision analysis for AI agents: score, rank & explain options with weighted-sum, weighted-product, or TOPSIS. Runs over stdio (npx) or as a remote server.",
+      "license": "MIT",
+      "repository": "https://github.com/inity13/decisionmatrix-mcp",
+      "npmUrl": "https://www.npmjs.com/package/decisionmatrix-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:18:08.328Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 100
     },
     {
       "name": "decivo-rescue",
@@ -57372,6 +57600,18 @@
       "createdAt": "2026-08-03T20:07:27.440Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 82
+    },
+    {
+      "name": "js-c64",
+      "version": "1.0.0",
+      "description": "JavaScript DSL and mini game engine that emits Commodore 64 6502 programs, assets and D64 disks.",
+      "license": "MIT",
+      "repository": "https://github.com/Roxell2006/compilateur-js-c64",
+      "npmUrl": "https://www.npmjs.com/package/js-c64",
+      "category": "utilities",
+      "createdAt": "2026-08-12T10:39:24.808Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 83
     },
     {
       "name": "js-chunks",
@@ -66914,6 +67154,18 @@
       "score": 72
     },
     {
+      "name": "pixa-image-hash-wasm",
+      "version": "2.3.0",
+      "description": "The reference pixa-image-hash Rust implementation compiled to WebAssembly (PXH1 v4). Byte-identical output, 4-5x faster than the pure-JS engine, same report shape. Ships the built .wasm, a dependency-free loader, and the source to rebuild it.",
+      "license": "MIT",
+      "repository": "https://github.com/pixagram-blockchain/pixa-image-hash",
+      "npmUrl": "https://www.npmjs.com/package/pixa-image-hash-wasm",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T10:28:28.696Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 78
+    },
+    {
       "name": "pixel-math-wasm",
       "version": "0.1.0",
       "description": "37 image-processing and math algorithms compiled to WebAssembly — pixel filters, FFT / DCT, PCA, K-Means / K-NN, MLP neural networks, 2D particle physics, SPH fluid simulation, and VFX rendering",
@@ -67631,6 +67883,18 @@
       "category": "backend",
       "createdAt": "2026-07-28T12:28:59.616Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
+      "score": 100
+    },
+    {
+      "name": "precisioncalc-mcp",
+      "version": "2.1.1",
+      "description": "PrecisionCalc MCP — high-precision finance & business calculations for AI agents (exact decimals): SaaS metrics, currency, business days, NPV/IRR, loan amortization, depreciation. Runs over stdio (npx) or as a remote server.",
+      "license": "MIT",
+      "repository": "https://github.com/inity13/precisioncalc-mcp",
+      "npmUrl": "https://www.npmjs.com/package/precisioncalc-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:18:11.168Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
       "score": 100
     },
     {
@@ -68376,6 +68640,18 @@
       "createdAt": "2026-07-27T04:13:51.734Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 77
+    },
+    {
+      "name": "raise-cli",
+      "version": "0.1.0",
+      "description": "One page that shows every agent session on your machine - Claude Code, Claude Desktop, pi and Codex - tells you which one is waiting for you, and jumps to that window when you click it.",
+      "license": "MIT",
+      "repository": "https://github.com/mattwwatson/raise",
+      "npmUrl": "https://www.npmjs.com/package/raise-cli",
+      "category": "cli",
+      "createdAt": "2026-08-12T10:02:58.203Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 82
     },
     {
       "name": "ramp-client",
@@ -71018,6 +71294,18 @@
       "score": 69
     },
     {
+      "name": "scenariosim-mcp",
+      "version": "1.0.2",
+      "description": "ScenarioSim MCP — deterministic what-if / scenario simulation for AI agents: projections over time, sensitivity analysis, and break-even solving. Runs over stdio (npx) or as a remote server.",
+      "license": "MIT",
+      "repository": "https://github.com/inity13/scenariosim-mcp",
+      "npmUrl": "https://www.npmjs.com/package/scenariosim-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:18:05.728Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 99
+    },
+    {
       "name": "scenepipe",
       "version": "0.2.0",
       "description": "npx scenepipe — AI-authored, Remotion-rendered, brand-consistent short-form video. No AI-generated rendering code, ever.",
@@ -72216,6 +72504,18 @@
       "createdAt": "2026-07-29T03:33:58.726Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 70
+    },
+    {
+      "name": "slide-maker",
+      "version": "0.1.0",
+      "description": "A local slide deck studio you drive from Claude Code. Write slides as JSX, review them in a live browser UI, and send comments straight back to Claude.",
+      "license": "MIT",
+      "repository": "https://github.com/valdemarrolfsen/slide-maker",
+      "npmUrl": "https://www.npmjs.com/package/slide-maker",
+      "category": "frontend",
+      "createdAt": "2026-08-12T10:00:55.538Z",
+      "discoveredAt": "2026-08-12T10:53:52.353Z",
+      "score": 77
     },
     {
       "name": "slim-agent-adapter",
