@@ -1,11 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124886502,
-  "lastRunAt": "2026-08-13T20:32:34.831Z",
+  "lastSequence": 124892650,
+  "lastRunAt": "2026-08-13T21:24:55.034Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@onamea/types",
+      "name": "@full-self-browsing/concierge",
+      "attempts": 1
+    },
+    {
+      "name": "@liiift-studio/sanity-order-schema",
+      "attempts": 1
+    },
+    {
+      "name": "@full-self-browsing/concierge-react",
+      "attempts": 1
+    },
+    {
+      "name": "@full-self-browsing/concierge-svelte",
       "attempts": 1
     }
   ]

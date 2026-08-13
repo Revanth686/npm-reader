@@ -794,6 +794,18 @@
       "score": 63
     },
     {
+      "name": "@adeloi/edi-fixtures",
+      "version": "1.0.0",
+      "description": "Realistic X12 EDI test documents for integration testing — including the ways they break in production.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Adeloi-Official/edi-fixtures",
+      "npmUrl": "https://www.npmjs.com/package/%40adeloi%2Fedi-fixtures",
+      "category": "testing",
+      "createdAt": "2026-08-13T20:33:09.905Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 87
+    },
+    {
       "name": "@adhisang/minecraft-blockbench-mcp",
       "version": "0.1.0",
       "description": "MCP integration for Blockbench: a Claude Code-launched stdio MCP adapter plus a Blockbench desktop plugin for AI-assisted Minecraft Java block/item model editing.",
@@ -6458,6 +6470,30 @@
       "score": 72
     },
     {
+      "name": "@burner-io/hermes",
+      "version": "0.5.0",
+      "description": "Hermes-native TypeScript SDK with faithful management contracts, programmatic execution protocols, transport, React Query-compatible factories, and optional Vercel AI SDK tools.",
+      "license": "MIT",
+      "repository": "https://github.com/burner-io/hermes",
+      "npmUrl": "https://www.npmjs.com/package/%40burner-io%2Fhermes",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:03:08.997Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 76
+    },
+    {
+      "name": "@burner-io/workflow",
+      "version": "0.1.0",
+      "description": "Serializable workflow graph contracts and deterministic runtime with optional Hermes and React Flow adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/burner-io/workflow",
+      "npmUrl": "https://www.npmjs.com/package/%40burner-io%2Fworkflow",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:15:45.347Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 70
+    },
+    {
       "name": "@burnix/cli",
       "version": "0.2.0",
       "description": "A fuse for your API spend. Hard caps for LLM calls.",
@@ -9902,6 +9938,18 @@
       "score": 74
     },
     {
+      "name": "@devindex/api-kit",
+      "version": "0.1.0",
+      "description": "Building blocks for Fastify services: typed domain errors, HTTP plugins, logging and background runtime",
+      "license": "MIT",
+      "repository": "https://github.com/devindex/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40devindex%2Fapi-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:14:19.723Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 80
+    },
+    {
       "name": "@deviykee/mcw",
       "version": "1.0.1",
       "description": "Multi-Chain CLI Wallet (MCW) & Agentic Framework for Humans and AI Agents (MCP)",
@@ -12182,6 +12230,18 @@
       "score": 61
     },
     {
+      "name": "@efolusi/meridian-guard",
+      "version": "1.21.3",
+      "description": "Static compliance checks for React applications built with the Meridian design system.",
+      "license": "MIT",
+      "repository": "https://github.com/efolusi/meridian",
+      "npmUrl": "https://www.npmjs.com/package/%40efolusi%2Fmeridian-guard",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:04:47.972Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 55
+    },
+    {
       "name": "@efrembaraldo/gsd-pi-hermes-memory",
       "version": "0.0.1",
       "description": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for GSD Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 732 tests. Ported from Hermes agent. Fork of chandra447/pi-hermes-memory",
@@ -14030,6 +14090,18 @@
       "score": 71
     },
     {
+      "name": "@frankledo/receiptnamer",
+      "version": "1.0.0",
+      "description": "Name scanned receipt PDFs by reading the rendered image with a vision-language model (local Ollama or Anthropic API)",
+      "license": "MIT",
+      "repository": "https://github.com/frankledo/receiptnamer",
+      "npmUrl": "https://www.npmjs.com/package/%40frankledo%2Freceiptnamer",
+      "category": "backend",
+      "createdAt": "2026-08-13T21:14:09.278Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 72
+    },
+    {
       "name": "@franklinww/create-agent-os",
       "version": "2.2.0",
       "description": "BETA. Scaffold an agent OS workspace: skill-powered AI workflows + an LLM Wiki template in one repo. Includes vibe coding framework and meta-skill management. Pure Node — no python, no pip.",
@@ -15170,6 +15242,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/69l",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for 69L (build etherscan-69l-938a1e58-1786655789927, commit 25860a1, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/69l",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2F69l",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:16:51.798Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/aaplx",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for AAPLx (build etherscan-aaplx-9d275685-1786191173823, commit cc24452, branch etherscan)",
@@ -15479,6 +15563,18 @@
       "category": "build-tools",
       "createdAt": "2026-07-29T23:17:37.655Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/bdp",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for BDP (build etherscan-bdp-f3dcbc6d-1786654969482, commit dc7d2cb, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/bdp",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fbdp",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:03:11.509Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 56
     },
     {
@@ -17846,6 +17942,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/stockcog",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for STOCKCOG (build etherscan-stockcog-9c06ac91-1786655369667, commit 2db4301, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/stockcog",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fstockcog",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:09:50.308Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/stockmarkettrbasistrade",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for StockMarketTRBasisTrade (build etherscan-stockmarkettrbasistrade-827ce7e8-1785665740578, commit a9cf778, branch etherscan)",
@@ -18288,6 +18396,18 @@
       "createdAt": "2026-08-08T05:05:56.553Z",
       "discoveredAt": "2026-08-08T05:30:36.627Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/variabledebtethoseth",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for variableDebtEthosETH (build etherscan-variabledebtethoseth-8838eeff-1786655344830, commit 6b73013, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/variabledebtethoseth",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fvariabledebtethoseth",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:09:26.956Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 60
     },
     {
       "name": "@gitmyabi/vault",
@@ -20603,6 +20723,18 @@
       "category": "utilities",
       "createdAt": "2026-08-09T00:01:24.941Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
+      "score": 81
+    },
+    {
+      "name": "@humanwhocodes/social-logos",
+      "version": "1.0.0",
+      "description": "Social media logos as standalone SVG files and tree-shakeable React components.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/humanwhocodes/social-logos",
+      "npmUrl": "https://www.npmjs.com/package/%40humanwhocodes%2Fsocial-logos",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:03:30.855Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 81
     },
     {
@@ -30434,6 +30566,18 @@
       "score": 90
     },
     {
+      "name": "@ni-c/mcp-hub",
+      "version": "0.4.0",
+      "description": "Serve multiple stdio MCP servers from one container: Claude-Code-style mcpServers config, path-based routing, hub meta-tools and a built-in OAuth 2.1 login for Claude Web.",
+      "license": "MIT",
+      "repository": "https://github.com/ni-c/mcp-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40ni-c%2Fmcp-hub",
+      "category": "backend",
+      "createdAt": "2026-08-13T20:30:54.824Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 79
+    },
+    {
       "name": "@nick5757/app-atlas",
       "version": "0.19.0",
       "description": "Understand any app - including the one your AI built. An interactive, always-accurate atlas of your application.",
@@ -32484,6 +32628,18 @@
       "createdAt": "2026-08-07T17:50:37.186Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 69
+    },
+    {
+      "name": "@orellbuehler/play-console-mcp",
+      "version": "0.1.0",
+      "description": "Model Context Protocol server for the Google Play Console: read and reply to user reviews, inspect and promote release tracks, and query crash/ANR vitals over the official Google Play Developer and Play Developer Reporting APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/OrellBuehler/play-console-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40orellbuehler%2Fplay-console-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T21:02:24.686Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 82
     },
     {
       "name": "@orion-agents/orion-code",
@@ -38136,6 +38292,18 @@
       "createdAt": "2026-08-12T11:15:18.372Z",
       "discoveredAt": "2026-08-12T11:37:58.641Z",
       "score": 60
+    },
+    {
+      "name": "@scopuly/x402-stellar-guard",
+      "version": "0.1.0",
+      "description": "Wallet-grade safety, policy, receipt, and conformance tooling for x402 payments on Stellar.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Scopuly/x402-stellar-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40scopuly%2Fx402-stellar-guard",
+      "category": "data",
+      "createdAt": "2026-08-13T20:40:20.241Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 68
     },
     {
       "name": "@scottzx/1acp",
@@ -45794,6 +45962,18 @@
       "score": 60
     },
     {
+      "name": "@wardenpoint/mcp-server",
+      "version": "0.1.0",
+      "description": "MCP server for WardenPoint: let an agent configure recipients, groups, escalation policies, on-call schedules and alert routing. Built entirely from the installation's own OpenAPI description.",
+      "license": "MIT",
+      "repository": "https://github.com/WardenPoint/wardenpoint-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40wardenpoint%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T21:10:29.239Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 65
+    },
+    {
       "name": "@warpfx/mcp",
       "version": "0.4.0",
       "description": "MCP server exposing the Warp FiveM dev loop to AI agents",
@@ -46296,6 +46476,18 @@
       "createdAt": "2026-08-03T19:03:27.216Z",
       "discoveredAt": "2026-08-03T19:21:31.086Z",
       "score": 71
+    },
+    {
+      "name": "@willyim/idp",
+      "version": "0.1.1",
+      "description": "Login for apps that don't own identity — OIDC client, server sessions, and react-router guards against the willy.im IdP",
+      "license": "MIT",
+      "repository": "https://github.com/wovalle/willy.im",
+      "npmUrl": "https://www.npmjs.com/package/%40willyim%2Fidp",
+      "category": "frontend",
+      "createdAt": "2026-08-13T20:46:26.876Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 78
     },
     {
       "name": "@wilsoon/docs",
@@ -54230,6 +54422,18 @@
       "score": 74
     },
     {
+      "name": "code-scent",
+      "version": "0.1.0",
+      "description": "A fast CLI that detects Martin Fowler-inspired code smells in JavaScript and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/brandondeval/code-scent",
+      "npmUrl": "https://www.npmjs.com/package/code-scent",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T20:41:47.929Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 61
+    },
+    {
       "name": "code-vcli",
       "version": "1.0.1",
       "description": "code-vcli — 为 AI 模型提供 web 开发视觉能力的 CLI 工具",
@@ -55020,6 +55224,18 @@
       "createdAt": "2026-08-01T18:20:10.153Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 79
+    },
+    {
+      "name": "copilot-stats",
+      "version": "0.1.0",
+      "description": "Show GitHub Copilot usage statistics and costs in USD, from local Copilot CLI session data and GitHub org billing APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/khanaffan/copilot-stats",
+      "npmUrl": "https://www.npmjs.com/package/copilot-stats",
+      "category": "backend",
+      "createdAt": "2026-08-13T20:46:31.095Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 77
     },
     {
       "name": "coptic-readings",
@@ -57422,6 +57638,18 @@
       "score": 52
     },
     {
+      "name": "dsh-fail-logger",
+      "version": "0.4.1",
+      "description": "DSH 插件：全模式工具失败自动实录——把原生工具、PTC(Code Mode) run_code、代码内嵌工具调用的失败按错因去重计数，自动写入 skill 的机器维护区段，越用越少错。Auto-record tool failures from every execution mode into a skill's machine-maintained section (dedup + counts).",
+      "license": "MIT",
+      "repository": "https://github.com/Areium/dsh-fail-logger",
+      "npmUrl": "https://www.npmjs.com/package/dsh-fail-logger",
+      "category": "utilities",
+      "createdAt": "2026-08-13T21:01:43.446Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 72
+    },
+    {
       "name": "dsh-multimodal-bridge",
       "version": "0.1.1",
       "description": "DeepSeek Harness plugin bundle: qwen_vision (Qwen-VL image understanding) and qwen_generate (Qwen-Image text-to-image) tools for text-only models",
@@ -57468,6 +57696,18 @@
       "createdAt": "2026-08-13T17:08:52.210Z",
       "discoveredAt": "2026-08-13T17:44:22.449Z",
       "score": 86
+    },
+    {
+      "name": "dsh-token-stats",
+      "version": "0.2.0",
+      "description": "Floating draggable token usage statistics panel for DeepSeek Harness: totals, cache & hit rate, per-provider and per-model usage, current-month heatmap with per-day view, per-session detail and per-request records.",
+      "license": "MIT",
+      "repository": "https://github.com/H1a3x/dsh-token-stats",
+      "npmUrl": "https://www.npmjs.com/package/dsh-token-stats",
+      "category": "utilities",
+      "createdAt": "2026-08-13T18:20:04.565Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 57
     },
     {
       "name": "dsh-tool-underseal",
@@ -57600,6 +57840,18 @@
       "createdAt": "2026-08-01T08:48:35.468Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 83
+    },
+    {
+      "name": "edisciplinas-mcp",
+      "version": "1.0.0",
+      "description": "Servidor MCP para ler conteúdo de disciplinas do E-Disciplinas (USP Moodle) via Web Services API",
+      "license": "MIT",
+      "repository": "https://github.com/Miguel-Calhabeu/edisciplinas-mcp",
+      "npmUrl": "https://www.npmjs.com/package/edisciplinas-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T20:57:17.457Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 85
     },
     {
       "name": "editor-shell",
@@ -64586,6 +64838,18 @@
       "score": 79
     },
     {
+      "name": "legalithm-map",
+      "version": "0.1.0",
+      "description": "The EU compliance obligation Map: every EU AI Act and Cyber Resilience Act article that creates an obligation, with who it binds, from when, and what evidence it requires. Offline, cited, dated.",
+      "license": "MIT",
+      "repository": "https://github.com/legalithm-org/legalithm-map",
+      "npmUrl": "https://www.npmjs.com/package/legalithm-map",
+      "category": "data",
+      "createdAt": "2026-08-13T20:58:59.975Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 58
+    },
+    {
       "name": "lensglass",
       "version": "0.1.0",
       "description": "Liquid glass for the web, with real edge refraction. An SVG displacement map traced through Snell's law bends whatever is behind each surface, plus an iOS-accurate control kit that still looks right on engines that cannot lens. No dependencies, no build s",
@@ -69240,6 +69504,18 @@
       "createdAt": "2026-08-08T06:04:35.320Z",
       "discoveredAt": "2026-08-08T06:37:23.606Z",
       "score": 47
+    },
+    {
+      "name": "netsuite-suiteanalytics-odbc-mcp",
+      "version": "1.0.0",
+      "description": "Read-only MCP server for user-owned NetSuite SuiteAnalytics Connect ODBC access",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/samson10504/jbdc-netsuite-mcp",
+      "npmUrl": "https://www.npmjs.com/package/netsuite-suiteanalytics-odbc-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T20:50:55.341Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 72
     },
     {
       "name": "neverthrow-core",
@@ -75000,6 +75276,18 @@
       "createdAt": "2026-08-09T01:57:44.223Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 64
+    },
+    {
+      "name": "proof-of-usage",
+      "version": "1.0.0",
+      "description": "Proof of Usage (PoU/1.0): record that a system used a work, and prove which version — a provenance format that sits beside any licence",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/origami-ltd/proof-of-usage",
+      "npmUrl": "https://www.npmjs.com/package/proof-of-usage",
+      "category": "data",
+      "createdAt": "2026-08-13T20:40:36.802Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 83
     },
     {
       "name": "proofbook-sentinel",
@@ -83376,6 +83664,18 @@
       "createdAt": "2026-08-08T18:36:25.824Z",
       "discoveredAt": "2026-08-10T09:09:27.680Z",
       "score": 76
+    },
+    {
+      "name": "underoute-clai",
+      "version": "1.0.0",
+      "description": "CLI tool that transpiles .claude/ AI config into GitHub Copilot, Gemini, and other AI tool formats",
+      "license": "MIT",
+      "repository": "https://github.com/UnderUndre/ai",
+      "npmUrl": "https://www.npmjs.com/package/underoute-clai",
+      "category": "data",
+      "createdAt": "2026-08-13T21:09:53.383Z",
+      "discoveredAt": "2026-08-13T21:24:55.034Z",
+      "score": 83
     },
     {
       "name": "undrop-guard",
