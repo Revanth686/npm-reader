@@ -350,6 +350,18 @@
       "score": 61
     },
     {
+      "name": "@4cloudguru/terraform-drift-contract",
+      "version": "1.1.0",
+      "description": "Shared parser for Terraform/OpenTofu plan JSON → TSM drift counts + summary. One source of truth for the GitHub Action, the Azure DevOps task, and the backend's driftingest semantics.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/4cloudguru/terraform-drift-contract",
+      "npmUrl": "https://www.npmjs.com/package/%404cloudguru%2Fterraform-drift-contract",
+      "category": "backend",
+      "createdAt": "2026-08-13T00:50:04.244Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 72
+    },
+    {
       "name": "@4sh/ui-kit",
       "version": "0.1.0",
       "description": "Composants Angular headless du Design System 4SH : signals + Angular CDK, stylés exclusivement par design tokens.",
@@ -5400,6 +5412,18 @@
       "createdAt": "2026-07-28T22:05:33.733Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 67
+    },
+    {
+      "name": "@bitio/opencode-provider-balance",
+      "version": "1.0.0",
+      "description": "OpenCode TUI plugin that renders a provider balance panel in the sidebar",
+      "license": "MIT",
+      "repository": "https://github.com/bitIO/opencode-provider-balance",
+      "npmUrl": "https://www.npmjs.com/package/%40bitio%2Fopencode-provider-balance",
+      "category": "utilities",
+      "createdAt": "2026-08-13T00:50:02.605Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 63
     },
     {
       "name": "@bivelio/savings-layer",
@@ -10620,6 +10644,18 @@
       "createdAt": "2026-08-04T15:52:07.953Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 73
+    },
+    {
+      "name": "@dolphjs/testing",
+      "version": "1.0.0",
+      "description": "Official testing utilities for DolphJS applications — fast, isolated unit tests and lightweight HTTP integration tests built for the framework's decoration-time DI model.",
+      "license": "MIT",
+      "repository": "https://github.com/dolphjs/testing",
+      "npmUrl": "https://www.npmjs.com/package/%40dolphjs%2Ftesting",
+      "category": "testing",
+      "createdAt": "2026-08-13T00:18:29.072Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 66
     },
     {
       "name": "@dongzijie1/pi-ai",
@@ -17702,6 +17738,18 @@
       "score": 70
     },
     {
+      "name": "@gj-kit/expo-media",
+      "version": "0.1.1",
+      "description": "Expo/React Native 사진·동영상 파이프라인 — 프리사인 업로드, EXIF, 기기 라이브러리(iCloud·PhotoKit 하드닝), 스트리밍 SHA-256, 동영상 포스터, 기기 저장. 어댑터 seam으로 expo 없이도 동작하며 런타임 의존성 0",
+      "license": "MIT",
+      "repository": "https://github.com/gj-kit/gj-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40gj-kit%2Fexpo-media",
+      "category": "frontend",
+      "createdAt": "2026-08-10T06:26:42.749Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 64
+    },
+    {
       "name": "@gjuta/oagen",
       "version": "0.29.3",
       "description": "Framework for building OpenAPI SDK emitters (fork of @workos/oagen, maintained by Gjuta)",
@@ -22502,6 +22550,18 @@
       "score": 89
     },
     {
+      "name": "@khoralabs/agent-review",
+      "version": "0.1.0",
+      "description": "Capabilities-based adversarial code review and analyst triage CLI for git diffs.",
+      "license": "MIT",
+      "repository": "https://github.com/khoralabs/agent-review",
+      "npmUrl": "https://www.npmjs.com/package/%40khoralabs%2Fagent-review",
+      "category": "cli",
+      "createdAt": "2026-08-13T00:37:55.485Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 70
+    },
+    {
       "name": "@kindred-core/sdk",
       "version": "0.1.0",
       "description": "The typed client partners use to call Kindred Core. Zero runtime dependencies (native fetch + AbortController), so it runs unchanged in Deno edge functions, Node, and any modern bundler. Advisory reads fail OPEN — a Core outage degrades a partner app to '",
@@ -24554,6 +24614,18 @@
       "score": 83
     },
     {
+      "name": "@m1z23r/ngx-mentions",
+      "version": "0.1.1",
+      "description": "A signals-first Angular mentions editor with atomic pills, multiple triggers, async sources and template variables",
+      "license": "MIT",
+      "repository": "https://github.com/m1z23r/ngx-mentions",
+      "npmUrl": "https://www.npmjs.com/package/%40m1z23r%2Fngx-mentions",
+      "category": "frontend",
+      "createdAt": "2026-08-12T23:58:45.364Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 79
+    },
+    {
       "name": "@m4eba/node-libcurl-impersonate",
       "version": "5.2.0",
       "description": "Node.js bindings for curl-impersonate - libcurl with browser TLS fingerprint impersonation",
@@ -24924,6 +24996,18 @@
       "createdAt": "2026-08-01T10:47:26.719Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 88
+    },
+    {
+      "name": "@manacost-labs/deckstrings",
+      "version": "1.0.0",
+      "description": "Production-ready Hearthstone deckstring codec for Node.js and browsers",
+      "license": "ISC",
+      "repository": "https://github.com/Manacost-Labs/deckstrings",
+      "npmUrl": "https://www.npmjs.com/package/%40manacost-labs%2Fdeckstrings",
+      "category": "frontend",
+      "createdAt": "2026-08-12T21:57:26.738Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 65
     },
     {
       "name": "@manggala31/react-dashboard-grid",
@@ -28742,6 +28826,30 @@
       "score": 68
     },
     {
+      "name": "@nifrajs/aws-lambda",
+      "version": "2.12.0",
+      "description": "AWS Lambda adapter for nifra - API Gateway HTTP API (payload v2) and Function URLs, buffered or streaming, with post-decode body limits and single-site header merging. Dependency-free.",
+      "license": "MIT",
+      "repository": "https://github.com/nifrajs/nifra",
+      "npmUrl": "https://www.npmjs.com/package/%40nifrajs%2Faws-lambda",
+      "category": "backend",
+      "createdAt": "2026-08-13T00:14:47.261Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 68
+    },
+    {
+      "name": "@nifrajs/skills",
+      "version": "2.12.0",
+      "description": "Agent skills for nifra - portable SKILL.md bundles that teach a coding agent Nifra's contracts, boundaries, and CI gates, and point it at the live MCP server instead of stale recall.",
+      "license": "MIT",
+      "repository": "https://github.com/nifrajs/nifra",
+      "npmUrl": "https://www.npmjs.com/package/%40nifrajs%2Fskills",
+      "category": "backend",
+      "createdAt": "2026-08-13T00:14:56.943Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 66
+    },
+    {
       "name": "@nightwalk/mini-headless",
       "version": "0.0.1",
       "description": "Headless Mini Program simulator for screenshots, input, navigation, Elements, Console, and Network on macOS 13+.",
@@ -28943,6 +29051,66 @@
       "category": "utilities",
       "createdAt": "2026-07-25T12:38:14.522Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
+      "score": 63
+    },
+    {
+      "name": "@nodeboot/cloudflare-server",
+      "version": "1.1.0",
+      "description": "Node-Boot Cloudflare Workers server package. It provides a simple way to create Cloudflare Workers fetch handlers using NodeBoot, with support for routing, middleware, and request handling.",
+      "license": "MIT",
+      "repository": "https://github.com/nodejs-boot/node-boot",
+      "npmUrl": "https://www.npmjs.com/package/%40nodeboot%2Fcloudflare-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T01:02:45.543Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 72
+    },
+    {
+      "name": "@nodeboot/encore-server",
+      "version": "1.1.0",
+      "description": "Node-Boot Encore.ts server package. It lets you run a NodeBoot application as an Encore.ts service by exposing a raw endpoint handler, with support for routing, middleware, and request handling.",
+      "license": "MIT",
+      "repository": "https://github.com/nodejs-boot/node-boot",
+      "npmUrl": "https://www.npmjs.com/package/%40nodeboot%2Fencore-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T01:05:46.840Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 87
+    },
+    {
+      "name": "@nodeboot/google-cloud-functions-server",
+      "version": "1.1.0",
+      "description": "Node-Boot Google Cloud Functions server package. It provides a simple way to create Google Cloud Functions HTTP handlers using NodeBoot, with support for routing, middleware, and request handling.",
+      "license": "MIT",
+      "repository": "https://github.com/nodejs-boot/node-boot",
+      "npmUrl": "https://www.npmjs.com/package/%40nodeboot%2Fgoogle-cloud-functions-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T01:03:37.939Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 67
+    },
+    {
+      "name": "@nodeboot/netlify-server",
+      "version": "1.1.0",
+      "description": "Node-Boot Netlify Functions server package. It provides a simple way to create Netlify Functions handlers using NodeBoot, with support for routing, middleware, and request handling.",
+      "license": "MIT",
+      "repository": "https://github.com/nodejs-boot/node-boot",
+      "npmUrl": "https://www.npmjs.com/package/%40nodeboot%2Fnetlify-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T01:04:24.722Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 64
+    },
+    {
+      "name": "@nodeboot/vercel-server",
+      "version": "1.1.0",
+      "description": "Node-Boot Vercel serverless functions server package. It provides a simple way to create Vercel Node.js serverless function handlers using NodeBoot, with support for routing, middleware, and request handling.",
+      "license": "MIT",
+      "repository": "https://github.com/nodejs-boot/node-boot",
+      "npmUrl": "https://www.npmjs.com/package/%40nodeboot%2Fvercel-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T01:05:03.208Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
       "score": 63
     },
     {
@@ -29172,6 +29340,18 @@
       "createdAt": "2026-08-05T15:06:18.827Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 86
+    },
+    {
+      "name": "@novavey/multi-tenant-security-kit",
+      "version": "0.1.0",
+      "description": "A framework-agnostic toolkit for building secure multi-tenant applications: tenant isolation, RBAC, per-tenant rate limiting, audit logging, Postgres row-level security helpers, and per-tenant encryption.",
+      "license": "MIT",
+      "repository": "https://github.com/NovaVey/multi-tenant-security-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40novavey%2Fmulti-tenant-security-kit",
+      "category": "data",
+      "createdAt": "2026-08-13T01:05:07.722Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 84
     },
     {
       "name": "@novinstack/react-datepicker",
@@ -36794,6 +36974,18 @@
       "score": 73
     },
     {
+      "name": "@sid-thephysicskid/agent-config",
+      "version": "0.1.0",
+      "description": "Auditable guardrails and focused delivery workflows for coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/sid-thephysicskid/agent-config",
+      "npmUrl": "https://www.npmjs.com/package/%40sid-thephysicskid%2Fagent-config",
+      "category": "utilities",
+      "createdAt": "2026-08-13T01:07:44.720Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 69
+    },
+    {
       "name": "@sidcorp/react-kit",
       "version": "0.1.0",
       "description": "Shared tooling config and design tokens for React 19 + Vite + TypeScript SaaS apps — ESLint, Prettier, tsconfig, Vite/Vitest preset and Tailwind 4 tokens in one package.",
@@ -37296,6 +37488,18 @@
       "createdAt": "2026-07-26T10:09:19.391Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 66
+    },
+    {
+      "name": "@skewkit/core",
+      "version": "0.1.0",
+      "description": "Framework-agnostic primitives for surviving version skew: versioned envelopes, migration chains, build identity and negotiation.",
+      "license": "MIT",
+      "repository": "https://github.com/Jefftopia/skew",
+      "npmUrl": "https://www.npmjs.com/package/%40skewkit%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T00:21:53.861Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 71
     },
     {
       "name": "@skiesjs/eslint-plugin",
@@ -39542,6 +39746,18 @@
       "score": 75
     },
     {
+      "name": "@syted/next",
+      "version": "0.3.0",
+      "description": "Render your Syted articles on your own Next.js site. Turnkey pages with reading progress, sticky table of contents and CTA rail, or just the data if you want your own design.",
+      "license": "MIT",
+      "repository": "https://github.com/tum123-x/autoblog",
+      "npmUrl": "https://www.npmjs.com/package/%40syted%2Fnext",
+      "category": "data",
+      "createdAt": "2026-08-12T13:50:04.626Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 63
+    },
+    {
       "name": "@sythos/js_barcode_universal",
       "version": "0.1.0",
       "description": "Read and write barcodes in JavaScript. 100% original code, zero runtime dependencies. QR Code, EAN/UPC, ISBN, Code 128, Code 39, Code 93, ITF, Codabar, MSI, Code 11 and Pharmacode.",
@@ -40572,6 +40788,18 @@
       "createdAt": "2026-08-12T03:15:08.163Z",
       "discoveredAt": "2026-08-12T03:57:46.727Z",
       "score": 75
+    },
+    {
+      "name": "@thewillmoss/anchor-mcp",
+      "version": "0.2.0",
+      "description": "Portable agent working state MCP server — tasks, plans, notepads, memory, and rules for any AI coding agent",
+      "license": "MIT",
+      "repository": "https://github.com/thewillmoss/anchor-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thewillmoss%2Fanchor-mcp",
+      "category": "backend",
+      "createdAt": "2026-07-31T15:51:38.749Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 68
     },
     {
       "name": "@theyahia/aprovodka",
@@ -43934,6 +44162,18 @@
       "score": 75
     },
     {
+      "name": "@wolido/async-subagent-isolation",
+      "version": "1.0.1",
+      "description": "A pi extension that asynchronously delegates tasks to specialized subagents running in isolated pi processes.",
+      "license": "MIT",
+      "repository": "https://github.com/Wolido/async-subagent-isolation",
+      "npmUrl": "https://www.npmjs.com/package/%40wolido%2Fasync-subagent-isolation",
+      "category": "devops",
+      "createdAt": "2026-08-12T23:54:14.892Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 79
+    },
+    {
       "name": "@wolikhai/realtime-client",
       "version": "1.0.0",
       "description": "Client du Hub temps réel Wolikhai — agnostique du framework, utilisable depuis React comme depuis Angular.",
@@ -47030,6 +47270,18 @@
       "score": 62
     },
     {
+      "name": "aletheia-firewall",
+      "version": "0.4.0",
+      "description": "Zero-dependency runtime firewall that blocks malicious npm modules at require-time.",
+      "license": "MIT",
+      "repository": "https://github.com/holeyfield33-art/runtime-firewall-mvp",
+      "npmUrl": "https://www.npmjs.com/package/aletheia-firewall",
+      "category": "devops",
+      "createdAt": "2026-08-03T08:13:42.973Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 66
+    },
+    {
       "name": "all-things-youtube",
       "version": "0.1.1",
       "description": "TypeScript toolkit for YouTube data. Get transcripts/captions, comments, video details, channels, playlists, and more.",
@@ -47040,6 +47292,18 @@
       "createdAt": "2026-08-07T07:24:12.602Z",
       "discoveredAt": "2026-08-07T08:48:04.179Z",
       "score": 81
+    },
+    {
+      "name": "allye-pi",
+      "version": "1.5.1",
+      "description": "Pi package adapter for the canonical Allye workflow",
+      "license": "MIT",
+      "repository": "https://github.com/allye-app/allye-plugin",
+      "npmUrl": "https://www.npmjs.com/package/allye-pi",
+      "category": "utilities",
+      "createdAt": "2026-08-12T23:29:55.873Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 71
     },
     {
       "name": "alpha-agent-mcp",
@@ -56882,6 +57146,18 @@
       "score": 41
     },
     {
+      "name": "geto-subagents",
+      "version": "0.2.0",
+      "description": "Fork-based tmux-hosted subagents for pi: /review, /find, /plan, /chain, and a generic subagent tool. Each subagent is a detached pi process whose session FORKS the main conversation (full context inherited, child session visible in /resume), reports its r",
+      "license": "MIT",
+      "repository": "https://github.com/mr-jones123/geto",
+      "npmUrl": "https://www.npmjs.com/package/geto-subagents",
+      "category": "utilities",
+      "createdAt": "2026-08-12T15:27:16.082Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 63
+    },
+    {
       "name": "getsecret-sdk",
       "version": "1.0.0",
       "description": "TypeScript client for the getsecret secure secrets HTTP API",
@@ -57492,6 +57768,18 @@
       "createdAt": "2026-07-27T13:17:25.055Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 74
+    },
+    {
+      "name": "graph-advocate-mcp",
+      "version": "2.11.1",
+      "description": "Ask any blockchain data question in plain English and get live data back — 15,500+ subgraphs, Token API, Polymarket and Hyperliquid trader intelligence. Paid calls settle in USDC on Base over x402, or hand the 402 to your own wallet.",
+      "license": "MIT",
+      "repository": "https://github.com/PaulieB14/graph-advocate",
+      "npmUrl": "https://www.npmjs.com/package/graph-advocate-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T00:24:41.445Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 71
     },
     {
       "name": "graph-atlas-mcp",
@@ -74268,6 +74556,18 @@
       "createdAt": "2026-08-01T21:39:10.979Z",
       "discoveredAt": "2026-08-01T22:45:45.916Z",
       "score": 60
+    },
+    {
+      "name": "schema-fit",
+      "version": "0.1.0",
+      "description": "Rewrite a JSON Schema so a specific LLM provider accepts it, without ever widening what it allows.",
+      "license": "MIT",
+      "repository": "https://github.com/tamerkalla/schema-fit",
+      "npmUrl": "https://www.npmjs.com/package/schema-fit",
+      "category": "devops",
+      "createdAt": "2026-08-12T23:57:34.949Z",
+      "discoveredAt": "2026-08-13T01:14:59.895Z",
+      "score": 75
     },
     {
       "name": "schema-regression-tool",
