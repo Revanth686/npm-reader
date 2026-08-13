@@ -230,6 +230,18 @@
       "score": 75
     },
     {
+      "name": "@12-apps/storage",
+      "version": "1.0.0",
+      "description": "Image uploads that land at YOUR OWN ORIGIN, never at the bucket (12-20). Isomorphic core (format allowlist, upload ceiling, object-key grammar, rendition set, refusal taxonomy, wire schemas), host-mounted backend surface (./server: createApiStorage, the l",
+      "license": "MIT",
+      "repository": "https://github.com/12-apps/shared-packages",
+      "npmUrl": "https://www.npmjs.com/package/%4012-apps%2Fstorage",
+      "category": "backend",
+      "createdAt": "2026-08-13T08:04:45.993Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 80
+    },
+    {
       "name": "@12signals/html-distill",
       "version": "0.1.0",
       "description": "Structure-preserving HTML normalizer for LLM input. Turns real-world marketing pages, landing pages and SPA output into stable, semantically-hinted HTML — without throwing away the boilerplate that carries the signal.",
@@ -2990,6 +3002,30 @@
       "score": 78
     },
     {
+      "name": "@angular-modernizer/api",
+      "version": "0.1.1",
+      "description": "Battle-tested analysis and transformation tools for Angular Modernizer",
+      "license": "MIT",
+      "repository": "https://github.com/eiweiss/tsanalyzer",
+      "npmUrl": "https://www.npmjs.com/package/%40angular-modernizer%2Fapi",
+      "category": "testing",
+      "createdAt": "2026-08-13T07:28:16.360Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 71
+    },
+    {
+      "name": "@angular-modernizer/plugin-angular",
+      "version": "0.1.1",
+      "description": "Angular-specific analysis and performance rules for the Angular Modernization Platform",
+      "license": "MIT",
+      "repository": "https://github.com/eiweiss/tsanalyzer",
+      "npmUrl": "https://www.npmjs.com/package/%40angular-modernizer%2Fplugin-angular",
+      "category": "frontend",
+      "createdAt": "2026-08-13T07:28:30.225Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 72
+    },
+    {
       "name": "@anizoptera/publish-clean",
       "version": "0.2.0",
       "description": "Publish pnpm workspace packages from a cleaned, validated package tarball.",
@@ -4430,6 +4466,18 @@
       "score": 67
     },
     {
+      "name": "@autonomous-ai/auth-sdk",
+      "version": "1.0.7",
+      "description": "Client SDK for auth-service SSO flow with OAuth2 PKCE",
+      "license": "MIT",
+      "repository": "https://github.com/autonomousdotai/auth-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40autonomous-ai%2Fauth-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-13T08:39:18.802Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 77
+    },
+    {
       "name": "@avandar/clients",
       "version": "0.1.1",
       "description": "Typed CRUD client primitives and database-specific CRUD type helpers",
@@ -4476,6 +4524,18 @@
       "createdAt": "2026-08-05T23:09:09.580Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 92
+    },
+    {
+      "name": "@awa29/dlike-ui",
+      "version": "0.1.0",
+      "description": "A React component library for community apps: instant messaging (IM) and real-time communication (RTC) at the core — chat layout primitives, voice/video channel UI, message streams — plus an anonymous tree-hole feed with moderation tooling and a cosmetics",
+      "license": "MIT",
+      "repository": "https://github.com/awa29/Dlike-UI",
+      "npmUrl": "https://www.npmjs.com/package/%40awa29%2Fdlike-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-13T07:26:28.339Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 90
     },
     {
       "name": "@aws-sdk/client-account-access",
@@ -29786,6 +29846,18 @@
       "score": 90
     },
     {
+      "name": "@npm_tentwenty/strapi-v5-search-multilingual",
+      "version": "0.0.1",
+      "description": "Search plugin for strapi v5 with support for multi language",
+      "license": "MIT",
+      "repository": "https://github.com/goabackend/strapi-v5-search-multilingual",
+      "npmUrl": "https://www.npmjs.com/package/%40npm_tentwenty%2Fstrapi-v5-search-multilingual",
+      "category": "backend",
+      "createdAt": "2026-08-13T07:13:47.775Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 73
+    },
+    {
       "name": "@nsect/cli",
       "version": "1.0.0",
       "description": "Programmable web retrieval for AI products — stealth browser engine, multi-engine search, YouTube transcripts, challenge bypass, and DOM-scored extraction. CLI, HTTP API, and MCP server.",
@@ -33326,6 +33398,18 @@
       "score": 75
     },
     {
+      "name": "@qi_c/mcp-testkit",
+      "version": "0.3.1",
+      "description": "Type-safe, in-process testing toolkit for Model Context Protocol (MCP) servers. Test tools, resources, and prompts without subprocesses, with framework-agnostic assertions and a contract CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/huuuuppppp/mcp-testkit",
+      "npmUrl": "https://www.npmjs.com/package/%40qi_c%2Fmcp-testkit",
+      "category": "testing",
+      "createdAt": "2026-08-13T07:47:33.199Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 89
+    },
+    {
       "name": "@qkitt/tinyq",
       "version": "0.1.0",
       "description": "Fast, composable in-memory queues for TypeScript — zero runtime dependencies",
@@ -36014,6 +36098,18 @@
       "score": 50
     },
     {
+      "name": "@s1rne/agentkit",
+      "version": "0.2.0",
+      "description": "A team of AI agents, project memory and engineering process — deployed into any repository with one command. Claude Code, Cursor, AGENTS.md.",
+      "license": "MIT",
+      "repository": "https://github.com/s1rne/agentkit",
+      "npmUrl": "https://www.npmjs.com/package/%40s1rne%2Fagentkit",
+      "category": "utilities",
+      "createdAt": "2026-08-13T08:43:31.814Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 72
+    },
+    {
       "name": "@sabrialperenkaya/ai-context",
       "version": "0.2.0",
       "description": "AI development context management system - install and manage skills, rules, context managers and external tool integrations across AI coding tools.",
@@ -37922,6 +38018,18 @@
       "score": 84
     },
     {
+      "name": "@sky390/pi-desktop-questionnaire",
+      "version": "0.1.0",
+      "description": "Pi extension (fork of @juicesharp/rpiv-ask-user-question). A structured questionnaire the model can put to you when it would otherwise guess, with typed options instead of free-form replies. Works in both Pi CLI (full TUI) and Pi Desktop (native questionn",
+      "license": "MIT",
+      "repository": "https://github.com/sky390/pi-desktop-questionnaire",
+      "npmUrl": "https://www.npmjs.com/package/%40sky390%2Fpi-desktop-questionnaire",
+      "category": "data",
+      "createdAt": "2026-08-13T08:35:31.762Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 73
+    },
+    {
       "name": "@skynet-initiative/sky-remote",
       "version": "0.1.1",
       "description": "Consent-first co-browse for the web. The customer signs, on their own device, before anything is shared.",
@@ -38784,6 +38892,18 @@
       "createdAt": "2026-08-06T18:01:13.916Z",
       "discoveredAt": "2026-08-12T20:34:55.685Z",
       "score": 62
+    },
+    {
+      "name": "@spark-apps/vidlet",
+      "version": "1.2.1",
+      "description": "Free local auto-captions, video compression, voice cleanup, GIF conversion & more - right-click context menu for Windows (WSL)",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/muammar-yacoob/VidLet",
+      "npmUrl": "https://www.npmjs.com/package/%40spark-apps%2Fvidlet",
+      "category": "cli",
+      "createdAt": "2026-08-13T07:13:59.569Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 92
     },
     {
       "name": "@spark-line/web-framework",
@@ -41714,6 +41834,18 @@
       "score": 68
     },
     {
+      "name": "@trazum/core",
+      "version": "1.8.0",
+      "description": "Trazum core: priced advisories for LLM prompts (caching, model tier, batching, schemas), plus deterministic trimming, token counting and pricing.",
+      "license": "MIT",
+      "repository": "https://github.com/Davmunrey/Trazum",
+      "npmUrl": "https://www.npmjs.com/package/%40trazum%2Fcore",
+      "category": "devops",
+      "createdAt": "2026-08-13T08:26:12.130Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 73
+    },
+    {
       "name": "@treasure-hub-agent/ai-with-u",
       "version": "0.1.3",
       "description": "AI-WITH-U —— 免费开源，你的 AI 聊天搭子。陪伴式角色对话 skill：零系统痕迹、时间差感知、日记无感记忆、新会话可接续，支持四种角色来源。",
@@ -42576,6 +42708,18 @@
       "createdAt": "2026-08-02T09:49:05.444Z",
       "discoveredAt": "2026-08-02T10:06:06.996Z",
       "score": 70
+    },
+    {
+      "name": "@usespaceui/sounds",
+      "version": "0.1.1",
+      "description": "A refined Web Audio engine for UI sound design, featuring 3D spatial panning and tailored acoustic curves.",
+      "license": "MIT",
+      "repository": "https://github.com/usespaceui/sounds",
+      "npmUrl": "https://www.npmjs.com/package/%40usespaceui%2Fsounds",
+      "category": "frontend",
+      "createdAt": "2026-08-13T07:25:41.208Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 75
     },
     {
       "name": "@usespan/agent-sdk",
@@ -43620,6 +43764,18 @@
       "createdAt": "2026-08-11T20:22:09.877Z",
       "discoveredAt": "2026-08-11T20:35:55.479Z",
       "score": 83
+    },
+    {
+      "name": "@voxyfy/anadoluship",
+      "version": "1.0.1",
+      "description": "Türk kargo firmaları (MNG Kargo, Yurtiçi Kargo, Aras Kargo, PTT Kargo, Sürat Kargo) ve UPS için tek arayüzlü, framework-bağımsız kargo ve gönderi takip kütüphanesi (Node.js/TypeScript SDK)",
+      "license": "MIT",
+      "repository": "https://github.com/Voxyfy/anadoluship",
+      "npmUrl": "https://www.npmjs.com/package/%40voxyfy%2Fanadoluship",
+      "category": "backend",
+      "createdAt": "2026-08-13T08:56:05.321Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 98
     },
     {
       "name": "@vridhilabs/commerce-skills",
@@ -44700,6 +44856,18 @@
       "createdAt": "2026-08-06T08:46:08.261Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 78
+    },
+    {
+      "name": "@wrick17/browser-mcp",
+      "version": "1.26.1",
+      "description": "Browser MCP by Wrick — control your real, logged-in Chrome from AI agents with 42 local tools and isolated tab groups.",
+      "license": "MIT",
+      "repository": "https://github.com/wrick17/browser-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40wrick17%2Fbrowser-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-13T07:25:06.844Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 91
     },
     {
       "name": "@writavo/mcp-server",
@@ -47424,6 +47592,18 @@
       "createdAt": "2026-07-27T05:59:38.699Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 82
+    },
+    {
+      "name": "ai-devtoolkit",
+      "version": "0.7.0",
+      "description": "🛠️ 开发者工具箱：AI 技能包生成 · 代码搜索 · 环境迁移（Cursor / Codex / Claude）",
+      "license": "MIT",
+      "repository": "https://github.com/xkun1/devtoolkit",
+      "npmUrl": "https://www.npmjs.com/package/ai-devtoolkit",
+      "category": "utilities",
+      "createdAt": "2026-08-13T08:19:37.469Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 75
     },
     {
       "name": "ai-dual-testing",
@@ -50978,6 +51158,18 @@
       "score": 61
     },
     {
+      "name": "chat-across",
+      "version": "0.1.1",
+      "description": "Fits into YOUR workflow: one npm-installable MCP server and your existing AI coding agents share environments and read each other's native sessions, memories, and project docs. Claude Code, Codex, and Kimi Code today — extensible to any agent. No extra GU",
+      "license": "MIT",
+      "repository": "https://github.com/VictorZhang01/chat-across",
+      "npmUrl": "https://www.npmjs.com/package/chat-across",
+      "category": "backend",
+      "createdAt": "2026-08-13T08:42:03.382Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 73
+    },
+    {
       "name": "chat-fit",
       "version": "0.0.1",
       "description": "Trim chat history to a token budget without splitting tool calls from their results.",
@@ -52908,6 +53100,18 @@
       "createdAt": "2026-07-26T01:07:22.165Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 81
+    },
+    {
+      "name": "coverage-orchestrator-cli-new",
+      "version": "1.5.0",
+      "description": "CLI to orchestrate AI agents for automated Java test generation based on JaCoCo coverage reports",
+      "license": "ISC",
+      "repository": "https://github.com/jaimegarfia/Coverage-Orchestrator-CLI",
+      "npmUrl": "https://www.npmjs.com/package/coverage-orchestrator-cli-new",
+      "category": "testing",
+      "createdAt": "2026-08-13T08:35:10.490Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 89
     },
     {
       "name": "cozyclay",
@@ -65030,6 +65234,18 @@
       "score": 68
     },
     {
+      "name": "motionloom",
+      "version": "2.0.0",
+      "description": "MotionLoom: project-aware animation Skill with graph, provenance, Motion IR, runtime telemetry, DSSE-compatible signed attestation, external evidence verification and Dev Lab review.",
+      "license": "MIT",
+      "repository": "https://github.com/lenhonbp/MotionLoom",
+      "npmUrl": "https://www.npmjs.com/package/motionloom",
+      "category": "testing",
+      "createdAt": "2026-08-13T08:23:04.502Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 98
+    },
+    {
       "name": "mottainai",
       "version": "0.1.0",
       "description": "MCP proxy gateway: aggregates upstream MCP servers behind one endpoint and compresses their tool definitions and results before they reach the LLM.",
@@ -67646,6 +67862,18 @@
       "score": 83
     },
     {
+      "name": "octolens",
+      "version": "0.1.4",
+      "description": "The Octolens CLI — social listening from your terminal, for humans and agents.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/octolens/octolens",
+      "npmUrl": "https://www.npmjs.com/package/octolens",
+      "category": "cli",
+      "createdAt": "2026-08-05T10:12:16.254Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 73
+    },
+    {
       "name": "ocular-mcp",
       "version": "0.1.0",
       "description": "MCP server that gives coding agents vision through OpenAI-compatible multimodal models, with reliable binary image uploads for remote deployments.",
@@ -67956,6 +68184,18 @@
       "createdAt": "2026-08-04T12:52:52.728Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 93
+    },
+    {
+      "name": "ontology-companion-generator",
+      "version": "1.1.1",
+      "description": "Generate customizable GitHub Pages companion sites for semantic ontologies.",
+      "license": "MIT",
+      "repository": "https://github.com/ecrum19/ocg",
+      "npmUrl": "https://www.npmjs.com/package/ontology-companion-generator",
+      "category": "utilities",
+      "createdAt": "2026-08-13T06:50:11.179Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 81
     },
     {
       "name": "open-alex-wrapper",
@@ -70262,6 +70502,18 @@
       "score": 59
     },
     {
+      "name": "pi-fin-prism",
+      "version": "0.1.0",
+      "description": "Unified, natively async financial data interface over 同花顺/万得/妙想 for pi — every answer carries source/tier/ts provenance; AI driven by verified data, not noise.",
+      "license": "MIT",
+      "repository": "https://github.com/v587d/pi-fin-prism",
+      "npmUrl": "https://www.npmjs.com/package/pi-fin-prism",
+      "category": "data",
+      "createdAt": "2026-08-13T08:48:26.938Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 81
+    },
+    {
       "name": "pi-forgejo-toolkit",
       "version": "0.1.0",
       "description": "Multi-server Forgejo workflows, dashboard, reviews, and Actions tools for Pi",
@@ -71112,6 +71364,18 @@
       "createdAt": "2026-08-07T09:32:47.904Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 81
+    },
+    {
+      "name": "pixvec",
+      "version": "1.1.0",
+      "description": "Measurable raster <-> SVG conversion. Pixel-exact lossless vectorization, quality-targeted Bezier tracing, and exact SVG rasterization - with built-in PSNR/SSIM/CIEDE2000 verification. Reads PNG, JPEG, WebP, AVIF, TIFF, GIF, BMP, ICO, PNM and TGA.",
+      "license": "MIT",
+      "repository": "https://github.com/shunyagatha/Pixvec",
+      "npmUrl": "https://www.npmjs.com/package/pixvec",
+      "category": "devops",
+      "createdAt": "2026-08-13T08:11:12.799Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 100
     },
     {
       "name": "pkgpulse-mcp",
@@ -76250,6 +76514,18 @@
       "score": 88
     },
     {
+      "name": "signalk-ewelink",
+      "version": "1.0.4",
+      "description": "eWeLink/Sonoff devices as native Signal K — LAN-first, cloud-fallback, push not poll, live power. No MQTT.",
+      "license": "MIT",
+      "repository": "https://github.com/dennismilton/signalk-ewelink",
+      "npmUrl": "https://www.npmjs.com/package/signalk-ewelink",
+      "category": "backend",
+      "createdAt": "2026-08-13T07:33:55.117Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 72
+    },
+    {
       "name": "signalk-performance-monitor",
       "version": "1.0.0",
       "description": "Always-on event-loop metrics and on-demand CPU/allocation profiling for Signal K server",
@@ -76272,6 +76548,18 @@
       "createdAt": "2026-08-10T05:40:38.618Z",
       "discoveredAt": "2026-08-10T17:37:47.201Z",
       "score": 60
+    },
+    {
+      "name": "signalk-tuya",
+      "version": "1.0.4",
+      "description": "Tuya WiFi sockets as native Signal K — switch state, metering and control over the local LAN protocol 3.3. No MQTT, no cloud in the control path.",
+      "license": "MIT",
+      "repository": "https://github.com/dennismilton/signalk-tuya",
+      "npmUrl": "https://www.npmjs.com/package/signalk-tuya",
+      "category": "backend",
+      "createdAt": "2026-08-13T07:33:16.456Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 75
     },
     {
       "name": "siigo-pyme-mcp",
@@ -81276,6 +81564,18 @@
       "createdAt": "2026-08-07T12:08:10.494Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 76
+    },
+    {
+      "name": "vitepress-machine-readability",
+      "version": "0.1.0",
+      "description": "Make a VitePress site readable by search engines and AI: canonical, OGP, JSON-LD, sitemap lastmod, robots.txt, feed, Markdown sources — plus a build-time lint that fails before you deploy.",
+      "license": "MIT",
+      "repository": "https://github.com/ideamans/vitepress-machine-readability",
+      "npmUrl": "https://www.npmjs.com/package/vitepress-machine-readability",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T07:51:09.603Z",
+      "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 72
     },
     {
       "name": "vitepress-plugin-open-in-editor",
