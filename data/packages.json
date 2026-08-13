@@ -386,6 +386,18 @@
       "score": 72
     },
     {
+      "name": "@4ge/cli",
+      "version": "1.0.1",
+      "description": "4ge Service Architecture Bridge & CLI",
+      "license": "MIT",
+      "repository": "https://github.com/Conflate-AI/4ge-cli",
+      "npmUrl": "https://www.npmjs.com/package/%404ge%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-13T09:20:09.768Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 73
+    },
+    {
       "name": "@4sh/ui-kit",
       "version": "0.1.0",
       "description": "Composants Angular headless du Design System 4SH : signals + Angular CDK, stylés exclusivement par design tokens.",
@@ -2990,6 +3002,18 @@
       "score": 67
     },
     {
+      "name": "@andiai/cli",
+      "version": "0.1.2",
+      "description": "Command-line interface for the Andi Search API — web search, page fetch, and a local MCP server for AI agents.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/andisearch/andi-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40andiai%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-13T22:28:31.866Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 58
+    },
+    {
       "name": "@andreasnicolaou/typewriter-ts",
       "version": "1.0.0",
       "description": "A tiny, dependency-free TypeScript typewriter for browsers and Node.",
@@ -5496,6 +5520,18 @@
       "createdAt": "2026-08-04T18:36:51.337Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 71
+    },
+    {
+      "name": "@berrydev-ai/deepseek-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that gives your coding agent a DeepSeek second opinion. Takes git refs and paths rather than code, and reads the repo itself.",
+      "license": "MIT",
+      "repository": "https://github.com/berrydev-ai/deepseek-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40berrydev-ai%2Fdeepseek-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T21:32:20.725Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 60
     },
     {
       "name": "@bessemeralliance/tools-design-system",
@@ -12758,6 +12794,18 @@
       "score": 60
     },
     {
+      "name": "@essrt/physics",
+      "version": "1.1.0",
+      "description": "ESSRT (Expanding Solar System Resonance Theory) physics core — pure, injectable-constants, no I/O, no globals, no DOM. The complete model incl. fitted coefficients; every published version immutably ships one recorded model identity.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/dvansonsbeek/3d",
+      "npmUrl": "https://www.npmjs.com/package/%40essrt%2Fphysics",
+      "category": "frontend",
+      "createdAt": "2026-08-11T19:46:14.866Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 72
+    },
+    {
       "name": "@esteban-ll-aguilar/harness-cli",
       "version": "1.1.0",
       "description": "Production-grade multi-agent harness for SDD-BDD-TDD software development. RAG memory (BM25), Obsidian vault, MCP server, agent auto-generation. Compatible with Claude, Codex, OpenCode, Kimi, Qwen, DeepSeek, and any AI tool.",
@@ -12852,6 +12900,18 @@
       "createdAt": "2026-07-28T16:20:17.737Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 73
+    },
+    {
+      "name": "@etherplay/delegation",
+      "version": "0.1.0",
+      "description": "Onchain delegation for Etherplay Accounts - Solidity library, the TypeScript builder for the message it verifies, and the ABI, kept in agreement by a shared vectors file",
+      "license": "MIT",
+      "repository": "https://github.com/wighawag/etherplay-connect",
+      "npmUrl": "https://www.npmjs.com/package/%40etherplay%2Fdelegation",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:25:56.279Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 76
     },
     {
       "name": "@etherscan-npm/cli",
@@ -15134,6 +15194,18 @@
       "score": 79
     },
     {
+      "name": "@gigaflow/gmux",
+      "version": "0.15.0",
+      "description": "gmux — an LLM-native layer over your tmux workspace: browse, search and resume your AI coding agent sessions across Claude Code, Codex, and any other harness.",
+      "license": "MIT",
+      "repository": "https://github.com/GigaFlowAI/gmux",
+      "npmUrl": "https://www.npmjs.com/package/%40gigaflow%2Fgmux",
+      "category": "cli",
+      "createdAt": "2026-08-13T22:22:22.845Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 85
+    },
+    {
       "name": "@giladbarnea/pi-user-agents",
       "version": "0.0.1",
       "description": "Run, view, and control background Pi agents.",
@@ -15456,6 +15528,18 @@
       "createdAt": "2026-08-04T21:16:11.470Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 56
+    },
+    {
+      "name": "@gitmyabi/asmlon",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for ASMLon (build etherscan-asmlon-e51ba774-1786658876752, commit e951f56, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/asmlon",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fasmlon",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T22:08:20.525Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/atom",
@@ -16238,6 +16322,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/dxgm",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for DXGM (build etherscan-dxgm-66f73d0f-1786660147022, commit 991a933, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/dxgm",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdxgm",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T22:29:28.598Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/eacaggregator",
       "version": "1.0.1",
       "description": "Auto-generated TypeScript type bindings for EACAggregator (build etherscan-eacaggregator-a569d910-1786109215262, commit 37b26e3, branch etherscan)",
@@ -16670,6 +16766,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/iballzpe",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for IBALLZPE (build etherscan-iballzpe-24c224ca-1786659851935, commit 98ef3c7, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/iballzpe",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fiballzpe",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T22:24:33.871Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/idex",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for IDEX (build etherscan-idex-b7052682-1786469100226, commit 0f24067, branch etherscan)",
@@ -16728,6 +16836,18 @@
       "createdAt": "2026-08-02T21:56:32.229Z",
       "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 61
+    },
+    {
+      "name": "@gitmyabi/inwsteths",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for inwstETHs (build etherscan-inwsteths-8e0789d3-1786658381733, commit b3a11d8, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/inwsteths",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Finwsteths",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T22:00:04.513Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 57
     },
     {
       "name": "@gitmyabi/jam",
@@ -17567,6 +17687,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-08T18:36:17.968Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
+      "score": 56
+    },
+    {
+      "name": "@gitmyabi/rail",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for RAIL (build etherscan-rail-e76c6c83-1786657631006, commit 10dd88b, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/rail",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Frail",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:47:32.759Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
       "score": 56
     },
     {
@@ -29858,6 +29990,18 @@
       "score": 43
     },
     {
+      "name": "@nannier/sdk",
+      "version": "1.2.6",
+      "description": "Shared settings, encryption, and database client for the Ionize platform. Consumed by Athena, Hera, and Site containers.",
+      "license": "MIT",
+      "repository": "https://github.com/bnannier/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40nannier%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-13T22:20:21.544Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 72
+    },
+    {
       "name": "@nanobpm/nano-ide-connector-slack",
       "version": "1.0.0",
       "description": "Slack connector pack for the Nano/Urban RAD console: a two-edge I/O connector — a 'Send Slack Message' component/worker (outbound) and a Slack events/slash-command trigger source (inbound). ADR 0033 / 0025 / 0050.",
@@ -31056,6 +31200,18 @@
       "createdAt": "2026-08-07T09:49:50.774Z",
       "discoveredAt": "2026-08-08T06:37:23.606Z",
       "score": 53
+    },
+    {
+      "name": "@normapi/client",
+      "version": "0.1.0",
+      "description": "Validate German e-invoices (XRechnung UBL/CII, ZUGFeRD/Factur-X PDF) against the official KoSIT rule set via the NormAPI service.",
+      "license": "MIT",
+      "repository": "https://github.com/Finezxc/einvoice-api",
+      "npmUrl": "https://www.npmjs.com/package/%40normapi%2Fclient",
+      "category": "backend",
+      "createdAt": "2026-08-13T21:46:48.165Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 61
     },
     {
       "name": "@normful/pi-auto-name",
@@ -40070,6 +40226,18 @@
       "score": 84
     },
     {
+      "name": "@social-media-scheduler/cli",
+      "version": "2.2.0",
+      "description": "Social media scheduler CLI — schedule and publish posts to 20 platforms (Instagram, TikTok, X, LinkedIn, YouTube, Facebook, Threads and more) from the terminal, CI or an AI agent. Ships an OpenClaw skill (SKILL.md + tools.md + examples). Powered by So-me",
+      "license": "MIT",
+      "repository": "https://github.com/7t1-studio/schedular-app",
+      "npmUrl": "https://www.npmjs.com/package/%40social-media-scheduler%2Fcli",
+      "category": "data",
+      "createdAt": "2026-08-13T21:48:28.193Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 100
+    },
+    {
       "name": "@sodacards/sdk",
       "version": "1.0.0",
       "description": "The official TypeScript SDK for the SODACARDS Developer API — sell gift cards and game top-ups from your own systems.",
@@ -40704,6 +40872,18 @@
       "createdAt": "2026-07-28T20:03:57.693Z",
       "discoveredAt": "2026-08-13T20:32:34.831Z",
       "score": 53
+    },
+    {
+      "name": "@spekoai/ai-sdk-provider",
+      "version": "0.1.0",
+      "description": "Speko provider for the Vercel AI SDK - routed speech and transcription across every voice provider",
+      "license": "MIT",
+      "repository": "https://github.com/SpekoAI/platform",
+      "npmUrl": "https://www.npmjs.com/package/%40spekoai%2Fai-sdk-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-13T21:31:56.797Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 57
     },
     {
       "name": "@sphinxcorp/pi-provider-agentrouter",
@@ -43586,6 +43766,18 @@
       "score": 73
     },
     {
+      "name": "@tonoizer/mfdoctor",
+      "version": "1.0.0",
+      "description": "Module Federation diagnostics for Vite, Rolldown/Vite Plus, Rspack, Rsbuild, Webpack, and Modern.js",
+      "license": "MIT",
+      "repository": "https://github.com/tonoizer/module-federation-doctor",
+      "npmUrl": "https://www.npmjs.com/package/%40tonoizer%2Fmfdoctor",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T19:56:01.763Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 85
+    },
+    {
       "name": "@toragonite/claude-mesh",
       "version": "0.1.0",
       "description": "Spawn, manage, and message Claude Code background agents (claude --bg) from Node — a local session mesh over Claude Code's cross-session messaging. Zero-dependency library + CLI. Unofficial.",
@@ -45266,6 +45458,18 @@
       "score": 68
     },
     {
+      "name": "@verifiabl/issuer",
+      "version": "0.18.0",
+      "description": "Official Verifiabl Node.js SDK for issuing payslip QR codes, formatting PII, AES-256-GCM encryption helpers, and typed issuer API calls.",
+      "license": "MIT",
+      "repository": "https://github.com/Verifiabl/verifiabl-node",
+      "npmUrl": "https://www.npmjs.com/package/%40verifiabl%2Fissuer",
+      "category": "backend",
+      "createdAt": "2026-08-04T12:55:25.830Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 57
+    },
+    {
       "name": "@vertexa/prisma",
       "version": "7.8.0",
       "description": "Prisma is an open-source database toolkit. It includes a JavaScript/TypeScript ORM for Node.js, migrations and a modern GUI to view and edit the data in your database. You can use Prisma in new projects or add it to an existing one.",
@@ -46104,6 +46308,18 @@
       "createdAt": "2026-08-12T20:50:59.929Z",
       "discoveredAt": "2026-08-12T22:31:51.704Z",
       "score": 82
+    },
+    {
+      "name": "@waybarrios/opencode-power-pack",
+      "version": "0.4.0",
+      "description": "Fifty-four software-development workflows for Claude Code, Codex, OpenCode, and Pi: code review, feature development, security review, frontend design, authoring, and project memory.",
+      "license": "MIT AND Apache-2.0",
+      "repository": "https://github.com/waybarrios/opencode-power-pack",
+      "npmUrl": "https://www.npmjs.com/package/%40waybarrios%2Fopencode-power-pack",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:34:26.288Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 88
     },
     {
       "name": "@wcstack/audio",
@@ -54782,6 +54998,18 @@
       "score": 84
     },
     {
+      "name": "combobulate-react",
+      "version": "0.0.1",
+      "description": "The headless toolkit for accessible, virtualized autocompletes.",
+      "license": "MIT",
+      "repository": "https://github.com/AVivero/combobulate",
+      "npmUrl": "https://www.npmjs.com/package/combobulate-react",
+      "category": "frontend",
+      "createdAt": "2026-08-13T21:44:48.472Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 68
+    },
+    {
       "name": "comfyui-workflow-editor-mcp",
       "version": "2.1.3",
       "description": "MCP server that bridges AI agents to local ComfyUI instance",
@@ -56100,6 +56328,18 @@
       "createdAt": "2026-08-08T18:52:53.449Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
       "score": 66
+    },
+    {
+      "name": "cvx-kit",
+      "version": "0.0.1",
+      "description": "Reusable Convex application kit: foundation kernels, approvals component, zod table boundaries, WorkOS-backed auth function constructors, and audited command protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/ImRLopezAG/cvx-kit",
+      "npmUrl": "https://www.npmjs.com/package/cvx-kit",
+      "category": "utilities",
+      "createdAt": "2026-08-13T22:08:10.154Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 64
     },
     {
       "name": "cwliql-grammar",
@@ -57552,6 +57792,18 @@
       "createdAt": "2026-07-26T10:43:34.709Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 70
+    },
+    {
+      "name": "dream-machine",
+      "version": "0.1.1",
+      "description": "The Dream Machine — a config-driven engine for nightly, cloud-scheduled, evidence-gated repository evolution. It never merges; a human does.",
+      "license": "MIT",
+      "repository": "https://github.com/ruvnet/dream-machine",
+      "npmUrl": "https://www.npmjs.com/package/dream-machine",
+      "category": "cli",
+      "createdAt": "2026-08-13T21:34:21.870Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 62
     },
     {
       "name": "dreambuild",
@@ -75314,6 +75566,18 @@
       "score": 82
     },
     {
+      "name": "protobuf-effect",
+      "version": "1.0.1",
+      "description": "Effect Schema integration for Protocol Buffers, backed by protobuf-es.",
+      "license": "MIT",
+      "repository": "https://github.com/erikshestopal/effect-protobuf",
+      "npmUrl": "https://www.npmjs.com/package/protobuf-effect",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:39:04.973Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 65
+    },
+    {
       "name": "provably-fair-mcp",
       "version": "1.0.1",
       "description": "MCP server for provably-fair random selection: pick winners nobody can rig, verifiable by anyone. Randomness is committed via the public drand beacon before the draw. Built and run by an autonomous AI.",
@@ -78038,6 +78302,18 @@
       "score": 81
     },
     {
+      "name": "rowsaffected",
+      "version": "0.1.0",
+      "description": "Detects silent write failures in Postgres/Supabase apps — writes that report success but affect zero rows because RLS policies don't cover that role+command.",
+      "license": "MIT",
+      "repository": "https://github.com/Aden1ji/RowsAffected",
+      "npmUrl": "https://www.npmjs.com/package/rowsaffected",
+      "category": "data",
+      "createdAt": "2026-08-13T21:56:34.030Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 72
+    },
+    {
       "name": "rowstore",
       "version": "0.1.0",
       "description": "An in-memory row store that decides its own indexes by watching the queries you actually run. No index declarations, no configuration: it counts predicate shapes, builds an index the moment the arithmetic says it pays, maintains it incrementally through m",
@@ -80688,6 +80964,18 @@
       "createdAt": "2026-08-09T12:52:17.407Z",
       "discoveredAt": "2026-08-09T13:32:47.876Z",
       "score": 79
+    },
+    {
+      "name": "standing-orders",
+      "version": "0.1.1",
+      "description": "A control plane for unattended coding agents — queue tasks, walk away, come back to pull requests. Agents build in leased worktrees, never touch your default branch, and interrupt you only for decisions that need a human.",
+      "license": "MIT",
+      "repository": "https://github.com/ap9000/standing-orders",
+      "npmUrl": "https://www.npmjs.com/package/standing-orders",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T21:27:08.843Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 90
     },
     {
       "name": "stapes-context-trim",
@@ -84276,6 +84564,18 @@
       "createdAt": "2026-08-10T20:03:23.075Z",
       "discoveredAt": "2026-08-10T20:33:00.517Z",
       "score": 59
+    },
+    {
+      "name": "verifiable-intent-js",
+      "version": "0.1.0",
+      "description": "Independent TypeScript implementation of the Verifiable Intent spec: a layered SD-JWT delegation chain (Issuer → User → Agent) for cryptographic agent authorization in commerce. Community project; not affiliated with or endorsed by agent-intent.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/miguelvelasquezdev/verifiable-intent-js",
+      "npmUrl": "https://www.npmjs.com/package/verifiable-intent-js",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T22:23:24.360Z",
+      "discoveredAt": "2026-08-13T22:32:35.193Z",
+      "score": 86
     },
     {
       "name": "verihook",
