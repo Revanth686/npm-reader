@@ -1502,6 +1502,18 @@
       "score": 91
     },
     {
+      "name": "@ahmedtooper_npm/hamd-wasm",
+      "version": "0.1.0",
+      "description": "Unified, encrypted, type-safe browser storage — five backends (localStorage, sessionStorage, cookies, memory, IndexedDB) with AES-256-GCM, TTL, and cross-tab sync, built in Rust and compiled to WebAssembly",
+      "license": "MIT",
+      "repository": "https://github.com/AhmedTrooper/hamd-wasm",
+      "npmUrl": "https://www.npmjs.com/package/%40ahmedtooper_npm%2Fhamd-wasm",
+      "category": "frontend",
+      "createdAt": "2026-08-13T14:07:11.165Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 80
+    },
+    {
       "name": "@ai-atomic-workflow/graph-scheduler",
       "version": "0.1.0",
       "description": "Graph-driven work-order system for AI agents — explicit phases, scoped context, and non-bypassable approval gates.",
@@ -9230,6 +9242,18 @@
       "score": 42
     },
     {
+      "name": "@davyjones0x/plugin-peer-cash",
+      "version": "0.1.1",
+      "description": "Peer Cash offramp actions for elizaOS agents: estimate, cash out Base USDC to Venmo, Revolut, Wise, Zelle, and more at the live oracle market rate, then track, withdraw, and top up orders.",
+      "license": "MIT",
+      "repository": "https://github.com/ADWilkinson/plugin-peer-cash",
+      "npmUrl": "https://www.npmjs.com/package/%40davyjones0x%2Fplugin-peer-cash",
+      "category": "utilities",
+      "createdAt": "2026-08-13T10:14:55.748Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 71
+    },
+    {
       "name": "@dawn-ai/postgres-storage",
       "version": "0.8.19",
       "description": "<p align=\"center\">   <img src=\"https://raw.githubusercontent.com/cacheplane/dawnai/main/docs/brand/dawn-logo-horizontal-black-on-white.png\" alt=\"Dawn\" width=\"180\" /> </p>",
@@ -12132,6 +12156,18 @@
       "createdAt": "2026-08-05T14:44:43.125Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 73
+    },
+    {
+      "name": "@emidre/audio-studio",
+      "version": "3.2.2",
+      "description": "Comprehensive audio processing library for React Native and Expo with recording, analysis, visualization, and streaming capabilities across iOS, Android, and web",
+      "license": "MIT",
+      "repository": "https://github.com/deeeed/audiolab",
+      "npmUrl": "https://www.npmjs.com/package/%40emidre%2Faudio-studio",
+      "category": "frontend",
+      "createdAt": "2026-08-13T13:17:13.212Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 94
     },
     {
       "name": "@empir3hq/empir3-bridge",
@@ -19488,6 +19524,18 @@
       "createdAt": "2026-07-27T17:44:24.793Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 87
+    },
+    {
+      "name": "@helmsmith/flow-spec",
+      "version": "0.1.0",
+      "description": "The Helmsmith flow wire contract: flow/step/edge types, catalog validator (join-hazard analysis included), expression evaluator, JSON-Schema subset, conformance fixtures, and the generated schema artifact. Browser-safe, zero runtime dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JefeLabs/helmsmith",
+      "npmUrl": "https://www.npmjs.com/package/%40helmsmith%2Fflow-spec",
+      "category": "frontend",
+      "createdAt": "2026-08-13T13:45:46.104Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 72
     },
     {
       "name": "@heossihq/qnsi",
@@ -28670,6 +28718,18 @@
       "score": 59
     },
     {
+      "name": "@mstar-harness/dsh",
+      "version": "2.2.0",
+      "description": "Morning Star harness dsh (DeepSeek Harness) cordis function plugin — in-process engine gates (status/dispatch/lease) with hard refusal channels.",
+      "license": "MIT",
+      "repository": "https://github.com/btspoony/mstar-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40mstar-harness%2Fdsh",
+      "category": "utilities",
+      "createdAt": "2026-08-13T13:23:13.683Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 78
+    },
+    {
       "name": "@mstuart/peek",
       "version": "0.1.0",
       "description": "DevTools for coding agents — historical context composition, compaction analysis, and cost attribution for Claude Code, Codex, and pi",
@@ -31272,6 +31332,30 @@
       "createdAt": "2026-08-09T23:28:50.725Z",
       "discoveredAt": "2026-08-10T01:06:24.306Z",
       "score": 80
+    },
+    {
+      "name": "@openchamber/opencode-claude",
+      "version": "0.11.0",
+      "description": "Claude Code in OpenCode — subscription OAuth, Agent SDK harness, effort variants, tools/MCP, images & compact.",
+      "license": "MIT",
+      "repository": "https://github.com/openchamber/opencode-claude",
+      "npmUrl": "https://www.npmjs.com/package/%40openchamber%2Fopencode-claude",
+      "category": "utilities",
+      "createdAt": "2026-08-13T12:59:11.280Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 79
+    },
+    {
+      "name": "@openchamber/opencode-commandcode",
+      "version": "0.5.0",
+      "description": "Command Code in OpenCode — Go-plan ($1) browser OAuth, gateway proxy, Laguna S 2.1, tools/MCP, attachments, compact, usage.",
+      "license": "MIT",
+      "repository": "https://github.com/openchamber/opencode-commandcode",
+      "npmUrl": "https://www.npmjs.com/package/%40openchamber%2Fopencode-commandcode",
+      "category": "frontend",
+      "createdAt": "2026-08-13T12:59:14.965Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 74
     },
     {
       "name": "@openchamber/opencode-cursor",
@@ -40166,6 +40250,18 @@
       "score": 98
     },
     {
+      "name": "@subfay/sdk",
+      "version": "1.0.0",
+      "description": "Subfay TypeScript SDK — customers, entitlements, consumable balances and purchase validation",
+      "license": "MIT",
+      "repository": "https://github.com/subfay/subfay-js",
+      "npmUrl": "https://www.npmjs.com/package/%40subfay%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T13:33:51.789Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 79
+    },
+    {
       "name": "@substrate-system/slugify",
       "version": "3.0.1",
       "description": "Slugify a string",
@@ -40800,6 +40896,18 @@
       "createdAt": "2026-08-05T05:47:57.500Z",
       "discoveredAt": "2026-08-11T03:27:39.025Z",
       "score": 69
+    },
+    {
+      "name": "@syncnexa-library/ui",
+      "version": "1.0.0",
+      "description": "Official React UI Component Library and Design System for SyncNexa applications",
+      "license": "MIT",
+      "repository": "https://github.com/syncnexa/syncnexa-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40syncnexa-library%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-13T14:05:03.893Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 74
     },
     {
       "name": "@synervoz/openai-realtime-toolkit",
@@ -45830,6 +45938,18 @@
       "score": 89
     },
     {
+      "name": "@yadavaman01/custom-data-table",
+      "version": "0.1.0",
+      "description": "Standalone themeable data table built on @tanstack/react-table (selection, expansion, sorting, pagination).",
+      "license": "MIT",
+      "repository": "https://github.com/yadavaman01/CustomDataTable",
+      "npmUrl": "https://www.npmjs.com/package/%40yadavaman01%2Fcustom-data-table",
+      "category": "frontend",
+      "createdAt": "2026-08-13T13:16:48.134Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 72
+    },
+    {
       "name": "@yagni-app/code",
       "version": "0.2.0",
       "description": "YAGNI Code: a terminal coding agent that already knows your company. One YAGNI login routes the model and grounds the agent in your team's context.",
@@ -48276,6 +48396,18 @@
       "createdAt": "2026-08-05T10:17:41.687Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 77
+    },
+    {
+      "name": "ai-prompt-firewall",
+      "version": "1.0.0",
+      "description": "Lightweight, developer-first AI prompt security middleware for real-time detection and remediation of sensitive data.",
+      "license": "MIT",
+      "repository": "https://github.com/GamersStop/ai-prompt-firewall",
+      "npmUrl": "https://www.npmjs.com/package/ai-prompt-firewall",
+      "category": "data",
+      "createdAt": "2026-08-13T13:15:26.885Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 75
     },
     {
       "name": "ai-ruleset",
@@ -55502,6 +55634,18 @@
       "score": 66
     },
     {
+      "name": "discovery-media-player",
+      "version": "0.1.1",
+      "description": "Self-hosted document viewer: per-recipient tracked links, reading analytics, live presentation. The core knows nothing about the application hosting it — everything it borrows arrives through an injected context.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/Juli1artha/discovery-media-player",
+      "npmUrl": "https://www.npmjs.com/package/discovery-media-player",
+      "category": "devops",
+      "createdAt": "2026-08-13T13:24:51.246Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 71
+    },
+    {
       "name": "distill-md",
       "version": "0.1.0",
       "description": "Convert any website into clean, agent-ready Markdown. Local-first, fast, deterministic.",
@@ -56354,6 +56498,18 @@
       "score": 80
     },
     {
+      "name": "emend-cli",
+      "version": "0.1.0",
+      "description": "Detects API drift between installed and target dependency versions, locates affected call sites, and produces verified migration PRs.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/diyanbogdanov/emend",
+      "npmUrl": "https://www.npmjs.com/package/emend-cli",
+      "category": "backend",
+      "createdAt": "2026-08-13T13:07:02.576Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 79
+    },
+    {
       "name": "emergency-and-helplines",
       "version": "1.0.0",
       "description": "Free JSON dataset and CLI of emergency phone numbers and suicide crisis lines for 245 countries, built from Wikipedia. No API key.",
@@ -56964,6 +57120,18 @@
       "createdAt": "2026-08-08T00:05:12.062Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 64
+    },
+    {
+      "name": "everfit-mcp",
+      "version": "0.0.1",
+      "description": "MCP server and API client for Everfit (client-side): read your training sessions, workouts, and profile",
+      "license": "MIT",
+      "repository": "https://github.com/mistersimon/everfit-mcp",
+      "npmUrl": "https://www.npmjs.com/package/everfit-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T13:56:13.186Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 70
     },
     {
       "name": "everypage-mcp",
@@ -60770,6 +60938,18 @@
       "score": 78
     },
     {
+      "name": "hypermemory",
+      "version": "1.0.0",
+      "description": "Open-source IDE context harness and persistent memory engine inspired by Supermemory and Oh-My-Pi",
+      "license": "MIT",
+      "repository": "https://github.com/framesxsab/HyperMemory",
+      "npmUrl": "https://www.npmjs.com/package/hypermemory",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:00:03.799Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 80
+    },
+    {
       "name": "hyperpointer",
       "version": "0.0.1",
       "description": "Draws the camera where the hand will be, not where it was: pointer input collection and motion prediction for real-time browser games.",
@@ -64392,6 +64572,30 @@
       "createdAt": "2026-07-29T01:07:37.988Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 73
+    },
+    {
+      "name": "mattermost-boards-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Mattermost Boards. Lets an agent create, read, change and watch boards and cards — and mention people in them — with the same permissions as the account whose token it carries.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/neprel/mattermost-boards-mcp",
+      "npmUrl": "https://www.npmjs.com/package/mattermost-boards-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T13:18:46.327Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 93
+    },
+    {
+      "name": "mattermost-playbooks-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Mattermost Playbooks. Lets an agent create, run, check off and watch playbooks — assigning items to people and other agents — with the same permissions as the account whose token it carries.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/neprel/mattermost-playbooks-mcp",
+      "npmUrl": "https://www.npmjs.com/package/mattermost-playbooks-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T13:20:16.768Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 96
     },
     {
       "name": "mc-registry",
@@ -68246,6 +68450,18 @@
       "score": 93
     },
     {
+      "name": "norefs",
+      "version": "0.1.0",
+      "description": "Find unused files, exports, and type/object members in a TypeScript project.",
+      "license": "ISC",
+      "repository": "https://github.com/FranCanias/norefs",
+      "npmUrl": "https://www.npmjs.com/package/norefs",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T13:42:55.942Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 71
+    },
+    {
       "name": "normativa-colombia-mcp",
       "version": "1.0.0",
       "description": "MCP para consultar el Gestor Normativo de Función Pública y la jurisprudencia de la Corte Constitucional de Colombia",
@@ -68616,6 +68832,18 @@
       "createdAt": "2026-07-30T04:20:20.534Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 83
+    },
+    {
+      "name": "octaflow",
+      "version": "0.14.0",
+      "description": "Durable DAG workflow engine: Zod-typed steps over Postgres + pg-boss, with an optional AI add-on (token/cost/quota). Layered single package.",
+      "license": "MIT",
+      "repository": "https://github.com/octabits-io/octaflow",
+      "npmUrl": "https://www.npmjs.com/package/octaflow",
+      "category": "data",
+      "createdAt": "2026-08-13T13:34:56.499Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 82
     },
     {
       "name": "octolens",
@@ -76010,6 +76238,18 @@
       "score": 82
     },
     {
+      "name": "ruleblast",
+      "version": "1.0.0",
+      "description": "Map where AGENTS.md and CLAUDE.md changes land across a repo—and where Codex and Claude Code split.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Kpoiut/ruleblast",
+      "npmUrl": "https://www.npmjs.com/package/ruleblast",
+      "category": "cli",
+      "createdAt": "2026-08-13T13:53:19.738Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 89
+    },
+    {
       "name": "ruleofcode",
       "version": "7.17.3",
       "description": "Constitutional-compliance CLI — audit a codebase against a catalog of laws and get one honest pass-or-fail verdict, with git hooks. Supports TypeScript, Angular and Python.",
@@ -79262,6 +79502,18 @@
       "score": 100
     },
     {
+      "name": "sw-postgres-mcp",
+      "version": "0.1.0",
+      "description": "Safe-write Postgres MCP server with dual-role pools and preview-before-execute",
+      "license": "MIT",
+      "repository": "https://github.com/jpka/sw-postgres-mcp",
+      "npmUrl": "https://www.npmjs.com/package/sw-postgres-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T13:29:42.925Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 77
+    },
+    {
       "name": "swarfkit",
       "version": "0.1.0",
       "description": "Find and reclaim the disk space left behind by agent-driven development.",
@@ -79320,6 +79572,18 @@
       "createdAt": "2026-08-12T18:22:53.234Z",
       "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 100
+    },
+    {
+      "name": "syncmesh",
+      "version": "0.1.0",
+      "description": "Real-time GunDB sync + tiered storage: Cloudflare R2 for cold blobs, and your choice of D1 / MongoDB / MySQL / PostgreSQL for the metadata index. Built for chat apps that can't afford unbounded RAM growth.",
+      "license": "MIT",
+      "repository": "https://github.com/OminduDissanayaka/syncmesh",
+      "npmUrl": "https://www.npmjs.com/package/syncmesh",
+      "category": "data",
+      "createdAt": "2026-08-13T12:57:28.267Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 90
     },
     {
       "name": "synctera-sdk",
@@ -81134,6 +81398,18 @@
       "score": 61
     },
     {
+      "name": "typespec-http-zod",
+      "version": "0.1.0",
+      "description": "TypeSpec emitter and library: turn an HTTP service definition into Zod validators and framework-free contract types that agree, keyword for keyword, with the OpenAPI document @typespec/openapi3 publishes from the same source.",
+      "license": "MIT",
+      "repository": "https://github.com/bison-digital/typespec-http-zod",
+      "npmUrl": "https://www.npmjs.com/package/typespec-http-zod",
+      "category": "backend",
+      "createdAt": "2026-08-13T13:52:41.977Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 84
+    },
+    {
       "name": "ua-plates",
       "version": "1.0.0",
       "description": "Tiny zero-dependency parser for Ukrainian vehicle registration plates: Cyrillic-lookalike normalization, format/type detection (civilian, police, military, diplomatic, trailer, temporary, vanity) and region decoding by series.",
@@ -81300,6 +81576,18 @@
       "createdAt": "2026-08-04T15:23:19.240Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 47
+    },
+    {
+      "name": "ultrapi",
+      "version": "1.0.0",
+      "description": "Bounded multi-agent orchestration for the Pi coding agent: one writer, tool-layer governance, and verified acceptance.",
+      "license": "MIT",
+      "repository": "https://github.com/Y4nKorzun/pi-coding-agent-swarm-warroom-archive",
+      "npmUrl": "https://www.npmjs.com/package/ultrapi",
+      "category": "backend",
+      "createdAt": "2026-08-13T14:01:05.041Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 81
     },
     {
       "name": "umactually",
@@ -83832,6 +84120,18 @@
       "createdAt": "2026-08-08T16:42:23.702Z",
       "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 77
+    },
+    {
+      "name": "x402-bounty-hunter",
+      "version": "1.1.0",
+      "description": "Earn USDC answering real support tickets. Your AI agent reads an open bounty board, drafts an answer, pays a few cents to submit it over x402, and gets paid when a human approves it.",
+      "license": "MIT",
+      "repository": "https://github.com/webmilmind1/bounty-hunter",
+      "npmUrl": "https://www.npmjs.com/package/x402-bounty-hunter",
+      "category": "backend",
+      "createdAt": "2026-08-06T06:36:17.125Z",
+      "discoveredAt": "2026-08-13T14:10:59.115Z",
+      "score": 91
     },
     {
       "name": "x402-codesearch-mcp",

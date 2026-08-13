@@ -1,23 +1,47 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124809982,
-  "lastRunAt": "2026-08-13T12:51:39.870Z",
+  "lastSequence": 124822816,
+  "lastRunAt": "2026-08-13T14:10:59.115Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@trans.gg/djs-wrapper",
+      "name": "@presetui/primitives",
       "attempts": 1
     },
     {
-      "name": "@viite-ai/platform-utils",
+      "name": "@dextinity/create-app",
       "attempts": 1
     },
     {
-      "name": "@viite-ai/platform-domain",
+      "name": "@backstage-community/plugin-argo-workflows",
       "attempts": 1
     },
     {
-      "name": "@viite-ai/platform-sdk",
+      "name": "@backstage-community/plugin-argo-workflows-backend",
+      "attempts": 1
+    },
+    {
+      "name": "@backstage-community/plugin-argo-workflows-common",
+      "attempts": 1
+    },
+    {
+      "name": "@backstage-community/plugin-argo-workflows-react",
+      "attempts": 1
+    },
+    {
+      "name": "@bullmq-dash/api",
+      "attempts": 1
+    },
+    {
+      "name": "@quan-erp/web-thermal-printer",
+      "attempts": 1
+    },
+    {
+      "name": "@howdyitskyle/npm-scan",
+      "attempts": 1
+    },
+    {
+      "name": "@golden-frijoles/sdk",
       "attempts": 1
     }
   ]
