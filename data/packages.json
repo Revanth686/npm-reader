@@ -5918,6 +5918,18 @@
       "score": 100
     },
     {
+      "name": "@brainsparker/you-md",
+      "version": "0.2.1",
+      "description": "A skill that makes every AI tool know you — portable preferences and context across Claude Code, Cursor, Windsurf, and more",
+      "license": "MIT",
+      "repository": "https://github.com/brainsparker/you.md",
+      "npmUrl": "https://www.npmjs.com/package/%40brainsparker%2Fyou-md",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:21:18.721Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 82
+    },
+    {
       "name": "@brandry/claude-jsonl-compressor",
       "version": "1.0.0",
       "description": "Strict, model-assisted compression and byte-preserving compatibility repair for one Claude Code JSONL session.",
@@ -7092,6 +7104,18 @@
       "createdAt": "2026-08-05T10:35:32.804Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 68
+    },
+    {
+      "name": "@cdxgen/cdxgen",
+      "version": "13.0.0",
+      "description": "Creates CycloneDX Software Bill of Materials (SBOM) from source or container image",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cdxgen/cdxgen",
+      "npmUrl": "https://www.npmjs.com/package/%40cdxgen%2Fcdxgen",
+      "category": "utilities",
+      "createdAt": "2026-08-06T23:06:49.860Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 88
     },
     {
       "name": "@celading/pihub",
@@ -19586,6 +19610,18 @@
       "score": 64
     },
     {
+      "name": "@here.build/y-control-channel",
+      "version": "0.9.0",
+      "description": "Yjs-agnostic control plane over MessagePort. Allocates per-resource MessageChannels and transfers one end to the peer; carries hello/open/close/ping/pong/status. Composes with @here.build/y-messageport but doesn't depend on Yjs.",
+      "license": "MIT",
+      "repository": "https://github.com/here-build/plexus",
+      "npmUrl": "https://www.npmjs.com/package/%40here.build%2Fy-control-channel",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T15:01:42.566Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 70
+    },
+    {
       "name": "@hermesplant/assurance-guard",
       "version": "0.1.0",
       "description": "Dependency-light local policy guard and typed client for Hermes Agent Commerce Assurance.",
@@ -20100,6 +20136,18 @@
       "createdAt": "2026-08-03T09:32:47.450Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 90
+    },
+    {
+      "name": "@howdyitskyle/npm-scan",
+      "version": "1.2.1",
+      "description": "Scan your lockfile for known malicious npm packages (DataDog keyv campaign, Shai-Hulud, axios supply-chain, TeamPCP, OSV MAL advisories).",
+      "license": "MIT",
+      "repository": "https://github.com/howdyitskyle/npm-scan",
+      "npmUrl": "https://www.npmjs.com/package/%40howdyitskyle%2Fnpm-scan",
+      "category": "data",
+      "createdAt": "2026-08-13T14:09:50.218Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 87
     },
     {
       "name": "@hpcc-js/vite-plugins",
@@ -21048,6 +21096,18 @@
       "createdAt": "2026-08-01T16:26:43.877Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 58
+    },
+    {
+      "name": "@innei/message-engine",
+      "version": "0.1.0",
+      "description": "Adapter-driven message pipeline, prefix cache guard, and token telemetry for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/Innei/message-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40innei%2Fmessage-engine",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:57:52.395Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 70
     },
     {
       "name": "@inrconnect/n8n-nodes-jobber",
@@ -22166,6 +22226,126 @@
       "score": 67
     },
     {
+      "name": "@jarenjs/ai",
+      "version": "0.34.0",
+      "description": "Browser-side AI that makes sense: one OpenAI-compatible chat client for OpenRouter, Ollama and LM Studio (bring your own key), an SSE stream decoder, a JSON-Schema-validated tool registry guarded by Jaren itself, a bounded agent loop, and WebMCP (navigato",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fai",
+      "category": "frontend",
+      "createdAt": "2026-08-13T14:48:24.195Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 90
+    },
+    {
+      "name": "@jarenjs/app",
+      "version": "0.34.0",
+      "description": "Applications as JSON documents: hyperapp's dispatch loop rebuilt on the Jaren suite — JSLT views, query-document actions, JSON Patch transitions",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fapp",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:48:03.314Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 78
+    },
+    {
+      "name": "@jarenjs/charts",
+      "version": "0.34.0",
+      "description": "Headless charts for the jaren suite: chart definitions compiled to a geometry-free AST and rendered as pure-vnode SVG through @jarenjs/view — SSR-able, structurally shared, themeable via host-linked tokens",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fcharts",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:48:13.766Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 90
+    },
+    {
+      "name": "@jarenjs/db",
+      "version": "0.34.0",
+      "description": "Document storage for the Jaren suite: a model document declares collections as JSON Schemas with indexes; openStore applies DDL through a dialect and gives transactional, schema-validated reads and writes over SQLite on Node, Bun, or an injected wasm hand",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fdb",
+      "category": "data",
+      "createdAt": "2026-08-13T14:48:32.872Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 82
+    },
+    {
+      "name": "@jarenjs/emit",
+      "version": "0.34.0",
+      "description": "Build-time artifacts from JSON documents: JSON Schema to TypeScript declarations and beyond, via JTLT stylesheets",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Femit",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T14:47:53.414Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 79
+    },
+    {
+      "name": "@jarenjs/flow",
+      "version": "0.34.0",
+      "description": "Executable workflow documents for the Jaren suite: the jaren-fsm finite-state-machine format compiled to a pure step function, with query-document guards and effect descriptors as data",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fflow",
+      "category": "data",
+      "createdAt": "2026-08-13T14:48:26.753Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 80
+    },
+    {
+      "name": "@jarenjs/josl",
+      "version": "0.34.0",
+      "description": "JOSL - JavaScript Obvious Streaming Language. A TOML 1.0 backward-compatible data language with null, bigint, regexp, datetimes and root arrays as first class citizens, plus JSONX, the same extensions over JSON, and a self-healing CSV reader/writer - with",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fjosl",
+      "category": "data",
+      "createdAt": "2026-08-13T14:48:21.278Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 90
+    },
+    {
+      "name": "@jarenjs/md",
+      "version": "0.34.0",
+      "description": "Markdown + frontmatter as JSON documents: a compile-to-closures parser whose AST feeds the Jaren query, JSLT, view and forms engines natively",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fmd",
+      "category": "data",
+      "createdAt": "2026-08-13T14:48:05.905Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 80
+    },
+    {
+      "name": "@jarenjs/mermaid",
+      "version": "0.34.0",
+      "description": "A native, headless Mermaid clone: diagrams-as-code parsed to a geometry-free JSON AST and rendered as pure-vnode SVG through @jarenjs/view — SSR-able, structurally shared, bidirectional (parseMermaid ⇄ toMermaid)",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fmermaid",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:48:08.401Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 90
+    },
+    {
+      "name": "@jarenjs/view",
+      "version": "0.34.0",
+      "description": "The Jaren vnode format: user interfaces as JSON documents, with a keyed DOM patcher and an SSR string renderer",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fview",
+      "category": "frontend",
+      "createdAt": "2026-08-13T14:48:00.811Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 75
+    },
+    {
       "name": "@jarome/pi-hub",
       "version": "0.0.2",
       "description": "Web UI for the pi coding agent (pi-hub fork of pi-web, with scheduler, Telegram and notification integrations)",
@@ -22223,6 +22403,30 @@
       "category": "data",
       "createdAt": "2026-08-10T03:09:39.844Z",
       "discoveredAt": "2026-08-10T03:45:20.247Z",
+      "score": 73
+    },
+    {
+      "name": "@jecruz/merc-ai",
+      "version": "0.1.0",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/jecruz/merc",
+      "npmUrl": "https://www.npmjs.com/package/%40jecruz%2Fmerc-ai",
+      "category": "backend",
+      "createdAt": "2026-08-13T14:55:50.542Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 73
+    },
+    {
+      "name": "@jecruz/merc-tui",
+      "version": "0.1.0",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/jecruz/merc",
+      "npmUrl": "https://www.npmjs.com/package/%40jecruz%2Fmerc-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T14:59:26.722Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
       "score": 73
     },
     {
@@ -31154,6 +31358,18 @@
       "score": 72
     },
     {
+      "name": "@oneyoung/claude-devtools",
+      "version": "0.1.1",
+      "description": "Local observability proxy for Claude Code with Chat Trace and HTTP/SSE drill-down.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/YoungCollect/agent-devtools",
+      "npmUrl": "https://www.npmjs.com/package/%40oneyoung%2Fclaude-devtools",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:39:49.753Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 72
+    },
+    {
       "name": "@ongkir-sdk/cache-memory",
       "version": "0.2.0",
       "description": "In-memory cache wrapper untuk provider ongkir-sdk — cache hasil getRates agar tidak membebani API cek ongkir.",
@@ -32376,6 +32592,18 @@
       "createdAt": "2026-08-05T04:43:50.965Z",
       "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 66
+    },
+    {
+      "name": "@pbpyrojust/universal-accessibility-audit",
+      "version": "0.2.13",
+      "description": "CLI toolkit for WCAG accessibility audits and Agentic Lighthouse scoring with sitemap discovery, Playwright + axe-core scanning, and ticket-ready outputs.",
+      "license": "MIT",
+      "repository": "https://github.com/pbpyrojust/universal-accessibility-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40pbpyrojust%2Funiversal-accessibility-audit",
+      "category": "testing",
+      "createdAt": "2026-08-13T15:01:31.051Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 85
     },
     {
       "name": "@pbuilder/sdk",
@@ -47198,6 +47426,18 @@
       "score": 77
     },
     {
+      "name": "a11y-text-split",
+      "version": "1.0.1",
+      "description": "Accessible, dependency-free text splitting for graphemes, words, and rendered lines.",
+      "license": "MIT",
+      "repository": "https://github.com/vmitsaras/A11y-Splitter",
+      "npmUrl": "https://www.npmjs.com/package/a11y-text-split",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:46:07.965Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 71
+    },
+    {
       "name": "a11y-tour-guide",
       "version": "1.0.0",
       "description": "A framework-agnostic, accessible guided tour for the web.",
@@ -48276,6 +48516,18 @@
       "createdAt": "2026-07-31T09:25:54.404Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 82
+    },
+    {
+      "name": "agile-board-pipeline",
+      "version": "0.1.0",
+      "description": "A Claude Code delivery pipeline for changing code that already exists — knowledge before planning, blast-radius analysis, an adversarial review loop, and a human gate after every step.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/emadbrasil/agile-board",
+      "npmUrl": "https://www.npmjs.com/package/agile-board-pipeline",
+      "category": "utilities",
+      "createdAt": "2026-08-13T14:53:52.082Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 84
     },
     {
       "name": "agnost-ai-adapter",
@@ -49836,6 +50088,18 @@
       "createdAt": "2026-08-08T02:57:17.935Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 69
+    },
+    {
+      "name": "aurora-fluid",
+      "version": "1.1.0",
+      "description": "Reusable animated gradient flow engine — CSS custom properties + optional JS helper",
+      "license": "MIT",
+      "repository": "https://github.com/ajrojasfuentes/aurora-fluid",
+      "npmUrl": "https://www.npmjs.com/package/aurora-fluid",
+      "category": "frontend",
+      "createdAt": "2026-08-13T15:11:56.681Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 84
     },
     {
       "name": "aurovie-charts",
@@ -58068,6 +58332,18 @@
       "createdAt": "2026-07-29T23:13:49.831Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 69
+    },
+    {
+      "name": "flagent",
+      "version": "0.1.0",
+      "description": "Flagent Multi-Agent System - 基于 Vercel AI SDK 的多智能体协作框架",
+      "license": "MIT",
+      "repository": "https://github.com/junka/flagent",
+      "npmUrl": "https://www.npmjs.com/package/flagent",
+      "category": "cli",
+      "createdAt": "2026-08-13T15:04:39.041Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 71
     },
     {
       "name": "flakescope",
@@ -75542,6 +75818,18 @@
       "score": 77
     },
     {
+      "name": "repogarden",
+      "version": "0.1.0",
+      "description": "AI-assisted repo maintenance CLI for open source maintainers: issue triage, PR review, and release notes. Zero runtime dependencies, no API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/joeyxuepython/repogarden",
+      "npmUrl": "https://www.npmjs.com/package/repogarden",
+      "category": "backend",
+      "createdAt": "2026-08-13T15:09:14.972Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 70
+    },
+    {
       "name": "repomind-skills",
       "version": "0.2.0",
       "description": "Память проекта для человека и coding-агента: структура docs/, ADR, runbook и семь скиллов для Claude Code и Codex",
@@ -81396,6 +81684,18 @@
       "createdAt": "2026-08-09T13:40:02.196Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 61
+    },
+    {
+      "name": "typespec-hono",
+      "version": "0.1.0",
+      "description": "TypeSpec emitter: generate a Hono server, and the Zod validators it enforces, from an HTTP service definition — agreeing with the OpenAPI document @typespec/openapi3 publishes from the same source.",
+      "license": "MIT",
+      "repository": "https://github.com/bison-digital/typespec-hono",
+      "npmUrl": "https://www.npmjs.com/package/typespec-hono",
+      "category": "backend",
+      "createdAt": "2026-08-13T14:50:46.917Z",
+      "discoveredAt": "2026-08-13T15:13:42.755Z",
+      "score": 83
     },
     {
       "name": "typespec-http-zod",
