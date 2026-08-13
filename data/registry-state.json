@@ -1,11 +1,43 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124853782,
-  "lastRunAt": "2026-08-13T16:47:16.274Z",
+  "lastSequence": 124862449,
+  "lastRunAt": "2026-08-13T17:44:22.449Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@recurly/engage-core",
+      "name": "@ccchase/wechat-bridge",
+      "attempts": 1
+    },
+    {
+      "name": "@surrealdb/node-native",
+      "attempts": 1
+    },
+    {
+      "name": "@jhubbardsf/slack-mcp-server-darwin-amd64",
+      "attempts": 1
+    },
+    {
+      "name": "@jhubbardsf/slack-mcp-server-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@namoidhq/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@jhubbardsf/slack-mcp-server-linux-amd64",
+      "attempts": 1
+    },
+    {
+      "name": "@jhubbardsf/slack-mcp-server-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@ouonet/praxis",
+      "attempts": 1
+    },
+    {
+      "name": "@jhubbardsf/slack-mcp-server-windows-amd64",
       "attempts": 1
     }
   ]

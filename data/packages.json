@@ -3578,6 +3578,18 @@
       "score": 72
     },
     {
+      "name": "@aprilwizard/dsh-multi-cot",
+      "version": "0.1.0",
+      "description": "Multi-sampled test-time compute plugin for DeepSeek Harness: parallel planning, internal voting, and a plan/execute/review workflow",
+      "license": "MIT",
+      "repository": "https://github.com/aprilwizard/dsh-multi-cot",
+      "npmUrl": "https://www.npmjs.com/package/%40aprilwizard%2Fdsh-multi-cot",
+      "category": "testing",
+      "createdAt": "2026-08-13T17:10:20.630Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 59
+    },
+    {
       "name": "@aquartier/openledger",
       "version": "0.15.0",
       "description": "OpenLedger — The Harness Layer for Personal Finance",
@@ -10190,6 +10202,42 @@
       "score": 59
     },
     {
+      "name": "@dialstack/sdk-js",
+      "version": "3.0.0",
+      "description": "DialStack browser SDK — initialisation, REST client and the self-registering web components",
+      "license": "MIT",
+      "repository": "https://github.com/dialstack/dialstack-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40dialstack%2Fsdk-js",
+      "category": "frontend",
+      "createdAt": "2026-08-10T15:24:21.165Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 51
+    },
+    {
+      "name": "@dialstack/sdk-react",
+      "version": "3.0.0",
+      "description": "React components and hooks for the DialStack SDK — call logs, voicemails, dial plan, softphone and onboarding",
+      "license": "MIT",
+      "repository": "https://github.com/dialstack/dialstack-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40dialstack%2Fsdk-react",
+      "category": "frontend",
+      "createdAt": "2026-08-10T15:28:47.202Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 63
+    },
+    {
+      "name": "@dialstack/sdk-webrtc",
+      "version": "3.0.0",
+      "description": "Headless WebRTC softphone core for the DialStack SDK — no React, no runtime dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/dialstack/dialstack-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40dialstack%2Fsdk-webrtc",
+      "category": "frontend",
+      "createdAt": "2026-08-10T15:28:22.259Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 51
+    },
+    {
       "name": "@dib-ai/react-native-biometrics",
       "version": "1.0.0",
       "description": "React Native biometric functionality for signing and encryption",
@@ -12348,6 +12396,18 @@
       "createdAt": "2026-08-10T14:22:35.329Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 72
+    },
+    {
+      "name": "@enigmax/primitives",
+      "version": "0.1.1",
+      "description": "Headless interaction primitives: the behaviour, the timing and the accessibility of components like a draggable infinite marquee, with no styles of their own. Framework-agnostic core plus thin adapters.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/FJRG2007/enigma",
+      "npmUrl": "https://www.npmjs.com/package/%40enigmax%2Fprimitives",
+      "category": "frontend",
+      "createdAt": "2026-08-13T17:20:55.591Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 73
     },
     {
       "name": "@enkhbold470/zangia-mcp-ai",
@@ -15950,6 +16010,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/edm",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for EDM (build etherscan-edm-f6fb036c-1786641588070, commit 372be06, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/edm",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fedm",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T17:20:12.259Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/ena",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ENA (build etherscan-ena-57e114b6-1785618104178, commit 131c35f, branch etherscan)",
@@ -16802,6 +16874,18 @@
       "score": 61
     },
     {
+      "name": "@gitmyabi/multiplicatorx3",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MultiplicatorX3 (build etherscan-multiplicatorx3-5aa88d29-1786641113074, commit 3f3b3aa, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/multiplicatorx3",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmultiplicatorx3",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T17:12:16.551Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 59
+    },
+    {
       "name": "@gitmyabi/mutm",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for MUTM (build etherscan-mutm-26bdee9e-1786128411866, commit 8bde5e1, branch etherscan)",
@@ -17556,6 +17640,18 @@
       "createdAt": "2026-08-08T08:57:13.891Z",
       "discoveredAt": "2026-08-08T09:11:55.431Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/srm",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for SRM (build etherscan-srm-476c5e26-1786641312992, commit d1d2e77, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/srm",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsrm",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T17:15:37.755Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/standard-sanko-party",
@@ -29858,6 +29954,18 @@
       "score": 66
     },
     {
+      "name": "@neo-ma/pptxgenjs",
+      "version": "4.1.0",
+      "description": "Create JavaScript PowerPoint Presentations",
+      "license": "MIT",
+      "repository": "https://github.com/NeomaVerwaltung/PptxGenJS",
+      "npmUrl": "https://www.npmjs.com/package/%40neo-ma%2Fpptxgenjs",
+      "category": "frontend",
+      "createdAt": "2026-08-12T21:03:07.420Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 63
+    },
+    {
       "name": "@neograce/cli",
       "version": "5.0.0",
       "description": "GRACE 4 CLI for .grace linting, status snapshots, module health, verification queries, semantic markup, and artifact navigation with a Bun-powered grace binary.",
@@ -38714,6 +38822,18 @@
       "score": 60
     },
     {
+      "name": "@signalridge/pi-worktree",
+      "version": "0.49.3",
+      "description": "Pi extension for safe interactive Git worktree management and workspace switching.",
+      "license": "MIT",
+      "repository": "https://github.com/signalridge/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40signalridge%2Fpi-worktree",
+      "category": "utilities",
+      "createdAt": "2026-08-13T17:03:24.370Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 70
+    },
+    {
       "name": "@sigtake/sdk",
       "version": "0.1.0",
       "description": "Official Node.js SDK for Sigtake — alert and signal ingestion.",
@@ -39974,6 +40094,18 @@
       "score": 80
     },
     {
+      "name": "@sous-io/sous",
+      "version": "0.1.1",
+      "description": "Compiles AI coding agent configuration (CLAUDE.md, skills, memories) from LiquidJS templates",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sous-io/sous",
+      "npmUrl": "https://www.npmjs.com/package/%40sous-io%2Fsous",
+      "category": "cli",
+      "createdAt": "2026-08-13T15:07:22.375Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 62
+    },
+    {
       "name": "@sp-api-sdk/finances-invoices-api-2026-06-25",
       "version": "1.1.0",
       "description": "The Selling Partner API for Invoices enables you to retrieve invoice data and streamline your bookkeeping processes.",
@@ -41054,6 +41186,18 @@
       "score": 59
     },
     {
+      "name": "@swttch/extend-kit",
+      "version": "0.4.0",
+      "description": "Companion tools for Swttch that live outside the plugin bundle: Claude Code account/usage SDK, the ccb CLI, and speech-to-text.",
+      "license": "MIT",
+      "repository": "https://github.com/Swttch/extend-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40swttch%2Fextend-kit",
+      "category": "cli",
+      "createdAt": "2026-08-13T16:58:17.016Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 72
+    },
+    {
       "name": "@syahandri/ui",
       "version": "0.1.1",
       "description": "Vue 3 + Tailwind v4 form components. Token-driven, neutral, zero headless dependencies.",
@@ -41676,6 +41820,18 @@
       "createdAt": "2026-07-29T18:42:40.023Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 66
+    },
+    {
+      "name": "@tappass/dsh-governance",
+      "version": "0.1.0",
+      "description": "The authority layer for agentic AI, as a DeepSeek Harness plugin. Governs every tool call against your business rules via the TapPass /v1/govern policy decision point.",
+      "license": "MIT",
+      "repository": "https://github.com/tappass/dsh-governance",
+      "npmUrl": "https://www.npmjs.com/package/%40tappass%2Fdsh-governance",
+      "category": "devops",
+      "createdAt": "2026-08-13T16:57:30.801Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 62
     },
     {
       "name": "@taprootio/docs-artifact",
@@ -46034,6 +46190,18 @@
       "score": 64
     },
     {
+      "name": "@wow-two-beta/ui-vue",
+      "version": "0.0.3",
+      "description": "Beta-forever Vue 3 UI library for the wow-two ecosystem — the Vue port of @wow-two-beta/ui.",
+      "license": "MIT",
+      "repository": "https://github.com/wow-two-sdk-beta/wow-two-sdk-beta.ui",
+      "npmUrl": "https://www.npmjs.com/package/%40wow-two-beta%2Fui-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-13T15:06:18.142Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 53
+    },
+    {
       "name": "@wp2508/minecraft-protocol",
       "version": "1.67.0",
       "description": "Parse and serialize minecraft packets, plus authentication and encryption.",
@@ -48372,6 +48540,18 @@
       "createdAt": "2026-08-01T14:33:51.918Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 72
+    },
+    {
+      "name": "agent-rewind",
+      "version": "0.2.0",
+      "description": "Flight recorder + undo button for AI agents. MCP interception proxy: journals every tool call, snapshots state before destructive actions, holds oversized ones for approval, and gives operators per-action Undo, Rewind-to-T, and a kill switch.",
+      "license": "BUSL-1.1",
+      "repository": "https://github.com/moholo-founder/agent-rewind",
+      "npmUrl": "https://www.npmjs.com/package/agent-rewind",
+      "category": "utilities",
+      "createdAt": "2026-08-13T16:30:21.095Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 68
     },
     {
       "name": "agent-sanitizer",
@@ -52202,6 +52382,18 @@
       "score": 76
     },
     {
+      "name": "cc-autoconfig",
+      "version": "0.2.0",
+      "description": "Auto-detect a repo's stack and launch Claude Code with the matching plugins via per-launch --plugin-dir flags on the shared config.",
+      "license": "MIT",
+      "repository": "https://github.com/stanlrt/cc-autoconfig",
+      "npmUrl": "https://www.npmjs.com/package/cc-autoconfig",
+      "category": "cli",
+      "createdAt": "2026-08-13T17:15:38.705Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 78
+    },
+    {
       "name": "cc-autopilot",
       "version": "0.3.0",
       "description": "Autonomous judge agents fix your app's debt, build what's missing, and verify every change through a browser or gate suite before it lands, then find the next thing and keep going until you say stop. Each fixer owns a file-disjoint slice of the tree, so n",
@@ -52740,6 +52932,18 @@
       "createdAt": "2026-07-31T20:28:30.126Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 81
+    },
+    {
+      "name": "cicd_gigena",
+      "version": "1.0.0",
+      "description": "Genera automáticamente los GitHub Actions de deploy a DEV/QA/PROD (S3 + CloudFront) para proyectos frontend Angular/Ionic.",
+      "license": "MIT",
+      "repository": "https://github.com/luchyGigena/cicd_gigena",
+      "npmUrl": "https://www.npmjs.com/package/cicd_gigena",
+      "category": "frontend",
+      "createdAt": "2026-08-13T17:28:50.588Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 63
     },
     {
       "name": "cipawebfiltering",
@@ -56630,6 +56834,18 @@
       "score": 69
     },
     {
+      "name": "dsh-bash-terminal",
+      "version": "0.2.3",
+      "description": "DSH plugin: one shell tool that runs commands through PowerShell, Git Bash, or WSL on Windows, with a user-chosen default terminal in the Web UI settings.",
+      "license": "MIT",
+      "repository": "https://github.com/MAXeaglet/dsh-bash-terminal",
+      "npmUrl": "https://www.npmjs.com/package/dsh-bash-terminal",
+      "category": "cli",
+      "createdAt": "2026-08-13T17:20:59.138Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 62
+    },
+    {
       "name": "dsh-chat-import",
       "version": "0.1.1",
       "description": "Import Claude Code / Codex / ChatGPT / Cursor / Gemini conversation histories as resumable DeepSeek Harness sessions",
@@ -56640,6 +56856,30 @@
       "createdAt": "2026-08-13T15:36:11.097Z",
       "discoveredAt": "2026-08-13T16:47:16.274Z",
       "score": 81
+    },
+    {
+      "name": "dsh-qq-bridge",
+      "version": "0.1.0",
+      "description": "QQ official bot bridge plugin for DeepSeek Harness (port of pi-qq-bridge): bidirectional QQ (C2C + group chat) with isolated persistent agent sessions, commands, media pipeline and outbound file delivery.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/xiaomengxinbb/dsh-qq-bridge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-qq-bridge",
+      "category": "devops",
+      "createdAt": "2026-08-13T17:28:46.496Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 68
+    },
+    {
+      "name": "dsh-tiered-approval",
+      "version": "0.1.0",
+      "description": "Tiered auto-review for DeepSeek Harness (DSH): static-rule safety net + LLM reviewer + human fallback. Auto-approve safe actions, auto-deny irreversible ones, ask a human for the rest. PURE VIBE CODING - not audited, use at your own risk.",
+      "license": "MIT",
+      "repository": "https://github.com/Elaina-real/dsh-tiered-approval",
+      "npmUrl": "https://www.npmjs.com/package/dsh-tiered-approval",
+      "category": "utilities",
+      "createdAt": "2026-08-13T17:08:52.210Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 86
     },
     {
       "name": "dsv-chat-widget",
@@ -58716,6 +58956,18 @@
       "createdAt": "2026-08-02T20:00:36.950Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 85
+    },
+    {
+      "name": "flex-render-jsx",
+      "version": "0.2.1",
+      "description": "JSX components and native React renderer for LINE Flex Messages with customizable action handlers",
+      "license": "MIT",
+      "repository": "https://github.com/iamprompt/flex-render",
+      "npmUrl": "https://www.npmjs.com/package/flex-render-jsx",
+      "category": "frontend",
+      "createdAt": "2026-08-13T16:45:20.782Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 52
     },
     {
       "name": "flipkart-seller-mcp",
@@ -71390,6 +71642,18 @@
       "score": 72
     },
     {
+      "name": "pbi-lineage-lenz",
+      "version": "1.0.1",
+      "description": "Find the lineage, understand the model, document both. Trace Power BI columns from physical source to report visual, generate documentation that cannot go stale, build a self-contained handoff file, and gate CI on broken references.",
+      "license": "MIT",
+      "repository": "https://github.com/JonathanJihwanKim/pbi-lineage-lenz",
+      "npmUrl": "https://www.npmjs.com/package/pbi-lineage-lenz",
+      "category": "data",
+      "createdAt": "2026-08-13T08:17:28.331Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 72
+    },
+    {
       "name": "pbx-mcp",
       "version": "0.1.0",
       "description": "Model Context Protocol server for Asterisk and FreeSWITCH. Lets AI assistants inspect channels, SIP registrations, trunk status and dialplan on a live PBX.",
@@ -73596,6 +73860,18 @@
       "createdAt": "2026-08-01T10:14:02.260Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 60
+    },
+    {
+      "name": "pour-picks-mcp",
+      "version": "1.0.0",
+      "description": "MCP server exposing the Pour Picks bourbon & whiskey database (4,700+ bottles) as read-only tools for AI assistants. Search the catalog, compare bottles, find cheaper alternatives, and get pour suggestions — with citation-ready attribution.",
+      "license": "MIT",
+      "repository": "https://github.com/bguillow-rgb/pour-picks-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pour-picks-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T17:43:51.756Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 71
     },
     {
       "name": "powershell-pro-obfuscator",
@@ -80774,6 +81050,18 @@
       "score": 86
     },
     {
+      "name": "text-vision",
+      "version": "0.1.0",
+      "description": "给无视觉文本模型(DeepSeek 等)提供视觉能力的 MCP server:图片/截屏转文字描述",
+      "license": "MIT",
+      "repository": "https://github.com/Dazzle-sys/Text-Vision",
+      "npmUrl": "https://www.npmjs.com/package/text-vision",
+      "category": "backend",
+      "createdAt": "2026-08-13T16:57:32.633Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 54
+    },
+    {
       "name": "tf-import-blocks",
       "version": "0.1.0",
       "description": "Terraform import-block generation from a state file or from a scanned resource, driven by a per-type import-id rule table",
@@ -83232,6 +83520,18 @@
       "createdAt": "2026-07-29T21:21:06.253Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 52
+    },
+    {
+      "name": "vite-plugin-electron-run",
+      "version": "0.3.0",
+      "description": "Vite and Rollup plugins that build and live-reload Electron with reliable process shutdown.",
+      "license": "MIT",
+      "repository": "https://github.com/antelm-dev/electron-run",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-electron-run",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T17:44:07.506Z",
+      "discoveredAt": "2026-08-13T17:44:22.449Z",
+      "score": 64
     },
     {
       "name": "vite-plugin-favicon-pwa",
