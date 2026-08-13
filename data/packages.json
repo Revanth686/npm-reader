@@ -1694,6 +1694,18 @@
       "score": 76
     },
     {
+      "name": "@aivin-labs/cli",
+      "version": "1.0.0",
+      "description": "aivin CLI - scaffold, run, and deploy Aivin plugins built on @aivin-labs/sdk",
+      "license": "MIT",
+      "repository": "https://github.com/aivin-labs/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40aivin-labs%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-13T03:08:15.572Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 77
+    },
+    {
       "name": "@aivin-labs/sdk",
       "version": "1.0.0",
       "description": "Aivin Plugin SDK - gRPC client/server for building plugins that run inside the Aivin platform (agentic engine, vector search, workspace, tasks, and more)",
@@ -6014,6 +6026,18 @@
       "score": 72
     },
     {
+      "name": "@btdworks/sdk",
+      "version": "1.0.0",
+      "description": "Proof-of-Play infrastructure for verifiable game achievements and portable player credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/BtdWorks/btd-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40btdworks%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T03:32:35.965Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 83
+    },
+    {
       "name": "@bto-labs/agy-bridge",
       "version": "0.5.0",
       "description": "MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, and multi-turn session continuity.",
@@ -8414,6 +8438,18 @@
       "score": 56
     },
     {
+      "name": "@cratestack/refine",
+      "version": "0.7.14",
+      "description": "A refine.dev DataProvider over CrateStack's generated TypeScript REST client — the safe end-user admin-UI surface that goes through the generated API (policy, validation, @version concurrency, audit), unlike cratestack-studio's direct-to-database sysadmin",
+      "license": "MIT",
+      "repository": "https://github.com/cratestack/cratestack",
+      "npmUrl": "https://www.npmjs.com/package/%40cratestack%2Frefine",
+      "category": "testing",
+      "createdAt": "2026-08-13T03:30:48.542Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 78
+    },
+    {
       "name": "@cratylus/forge",
       "version": "0.1.0",
       "description": "The deterministic projection from canonical meaning onto one harness’s surfaces — resolve, project, validate and deploy a corpus. Owns the mapping and nothing else.",
@@ -10056,6 +10092,18 @@
       "createdAt": "2026-08-02T05:42:48.788Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 95
+    },
+    {
+      "name": "@diogoaguedes/pleach",
+      "version": "1.0.0",
+      "description": "Parallel, isolated work sessions for multi-repo workspaces: one git worktree per repo, with ports, secrets and lifecycle resolved",
+      "license": "MIT",
+      "repository": "https://github.com/guedesdiogo/pleach",
+      "npmUrl": "https://www.npmjs.com/package/%40diogoaguedes%2Fpleach",
+      "category": "cli",
+      "createdAt": "2026-08-13T01:24:13.155Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 92
     },
     {
       "name": "@dioschub/client",
@@ -11784,6 +11832,18 @@
       "createdAt": "2026-08-08T15:46:09.756Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 77
+    },
+    {
+      "name": "@empyre/ledger-sdk",
+      "version": "1.0.0",
+      "description": "Ledger — the financial operating system for autonomous companies: double-entry accounting, revenue ingestion, runway, an autonomous CFO, and deterministic agent spending controls.",
+      "license": "MIT",
+      "repository": "https://github.com/hamedbecirovic10-del/empire",
+      "npmUrl": "https://www.npmjs.com/package/%40empyre%2Fledger-sdk",
+      "category": "devops",
+      "createdAt": "2026-08-13T03:37:07.801Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 83
     },
     {
       "name": "@enbox/crdt",
@@ -13596,6 +13656,18 @@
       "createdAt": "2026-07-29T17:09:48.679Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 63
+    },
+    {
+      "name": "@gagapony/pi-statusline",
+      "version": "1.0.1",
+      "description": "A beautified, Nerd-Font-iconified status line (footer) for the pi coding agent, designed for the aurora-dark theme.",
+      "license": "MIT",
+      "repository": "https://github.com/gagapony/pi-statusline",
+      "npmUrl": "https://www.npmjs.com/package/%40gagapony%2Fpi-statusline",
+      "category": "cli",
+      "createdAt": "2026-08-13T03:04:22.405Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 72
     },
     {
       "name": "@galaxy-foundry/audit-citations",
@@ -17906,6 +17978,18 @@
       "score": 61
     },
     {
+      "name": "@goldjee/news-digest-mcp",
+      "version": "1.0.4",
+      "description": "MCP server aggregating news from Telegram channel previews and RSS/Atom feeds.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/goldjee/news-digest-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40goldjee%2Fnews-digest-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T01:51:25.215Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 75
+    },
+    {
       "name": "@gomzkov/agent-context-test",
       "version": "0.1.0",
       "description": "Test whether Codex and Claude can find the instructions and skills a task needs.",
@@ -21468,6 +21552,18 @@
       "createdAt": "2026-08-08T23:15:51.183Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 60
+    },
+    {
+      "name": "@jamiefutch/pi-backup",
+      "version": "1.1.0",
+      "description": "Pi backup/restore scripts and TUI extension. Back up and restore all Pi config, skills, extensions, and memory; /pi-backup interactive manager.",
+      "license": "MIT",
+      "repository": "https://github.com/jamiefutch/pi-backup",
+      "npmUrl": "https://www.npmjs.com/package/%40jamiefutch%2Fpi-backup",
+      "category": "cli",
+      "createdAt": "2026-08-13T02:43:48.839Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 86
     },
     {
       "name": "@jamiemill/nodepub",
@@ -28298,6 +28394,18 @@
       "score": 71
     },
     {
+      "name": "@nature-labs/living-memory-engine",
+      "version": "0.1.0",
+      "description": "A TypeScript memory engine for agents that remember like a mind, not a log — Ebbinghaus decay, consolidation, crystallization, MMR retrieval. Composes a small working context per turn instead of replaying the whole conversation. Zero runtime dependencies,",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/v1b3x0r/living-memory-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40nature-labs%2Fliving-memory-engine",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T02:36:27.427Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 79
+    },
+    {
       "name": "@nature-labs/lme-mcp",
       "version": "0.1.0",
       "description": "Living Memory MCP — a persistent memory store for coding agents, over stdio. Facts survive across sessions and processes; retrieval is semantic (MMR), not string matching. Pre-alpha.",
@@ -28632,6 +28740,18 @@
       "createdAt": "2026-08-10T12:19:48.776Z",
       "discoveredAt": "2026-08-10T12:50:16.104Z",
       "score": 78
+    },
+    {
+      "name": "@neutroncore/authz",
+      "version": "0.3.1",
+      "description": "Embeddable authorization engine for TypeScript: policy statements, grants-at-scope, typed ABAC conditions, deny-wins, asymmetric fail-closed. Policies live as rows in your own Postgres.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/developerinlondon/neutron-authz",
+      "npmUrl": "https://www.npmjs.com/package/%40neutroncore%2Fauthz",
+      "category": "data",
+      "createdAt": "2026-08-13T03:27:43.342Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 88
     },
     {
       "name": "@nexbrowser/mcp",
@@ -34658,6 +34778,18 @@
       "score": 45
     },
     {
+      "name": "@richardmcquiston01/gemini-icon-gen",
+      "version": "0.1.0",
+      "description": "Generate style-consistent icons with Google's Gemini image API, the same way a Gemini \"Gem\" does — system instructions plus reference images in, a matching icon out.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/RichardMcQuiston01/unofficial-gemini-api-gem-example",
+      "npmUrl": "https://www.npmjs.com/package/%40richardmcquiston01%2Fgemini-icon-gen",
+      "category": "backend",
+      "createdAt": "2026-08-13T03:53:55.085Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 80
+    },
+    {
       "name": "@richardtwi-dbg/fetchly",
       "version": "0.3.0",
       "description": "A lightweight, fully typed fetch client",
@@ -39746,6 +39878,18 @@
       "score": 75
     },
     {
+      "name": "@systemfsoftware/oxlint-plugin-effect-kernel",
+      "version": "1.0.2",
+      "description": "Oxlint rules enforcing the *.kernel.ts cell — pure vocabulary-free behavior: no throw, no ambient impurity, no effect runtime, no domain imports, no junk-drawer names.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/systemfsoftware/systemfsoftware",
+      "npmUrl": "https://www.npmjs.com/package/%40systemfsoftware%2Foxlint-plugin-effect-kernel",
+      "category": "frontend",
+      "createdAt": "2026-08-13T02:23:49.526Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 76
+    },
+    {
       "name": "@syted/next",
       "version": "0.3.0",
       "description": "Render your Syted articles on your own Next.js site. Turnkey pages with reading progress, sticky table of contents and CTA rail, or just the data if you want your own design.",
@@ -41808,6 +41952,18 @@
       "createdAt": "2026-08-11T04:16:02.895Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 77
+    },
+    {
+      "name": "@unabandoned/module-deps",
+      "version": "6.2.5",
+      "description": "walk the dependency graph to generate json output that can be fed into browser-pack",
+      "license": "MIT",
+      "repository": "https://github.com/unabandoned/module-deps",
+      "npmUrl": "https://www.npmjs.com/package/%40unabandoned%2Fmodule-deps",
+      "category": "frontend",
+      "createdAt": "2026-08-13T01:47:58.296Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 81
     },
     {
       "name": "@unabandoned/xml-js",
@@ -47870,6 +48026,18 @@
       "score": 62
     },
     {
+      "name": "arb-dex-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for the arb-dex-data API — live cross-DEX pool prices, liquidity and gross cross-venue spreads on 6 EVM chains (BSC, Polygon, Arbitrum, Base, Avalanche, Optimism), read from on-chain pool state.",
+      "license": "MIT",
+      "repository": "https://github.com/donnywin85/arb-dex-mcp",
+      "npmUrl": "https://www.npmjs.com/package/arb-dex-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T03:19:22.026Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 81
+    },
+    {
       "name": "arbo-ocr-js",
       "version": "0.3.0",
       "description": "Node.js and Bun wrapper for arboOCR — runs the prebuilt arboocr_demo binary as a subprocess, no C++ build required.",
@@ -48396,6 +48564,18 @@
       "createdAt": "2026-08-12T03:21:54.415Z",
       "discoveredAt": "2026-08-12T03:57:46.727Z",
       "score": 72
+    },
+    {
+      "name": "auspia-web-access",
+      "version": "1.0.0",
+      "description": "Browser access extension for the Pi coding agent: web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis. Supports OpenAI, Brave, Parallel, TinyFish, Search1API, Searchinfinity, Querit, Tavily,",
+      "license": "MIT",
+      "repository": "https://github.com/auspia/auspia-web-access",
+      "npmUrl": "https://www.npmjs.com/package/auspia-web-access",
+      "category": "frontend",
+      "createdAt": "2026-08-13T03:41:47.326Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 100
     },
     {
       "name": "authcore-mobile",
@@ -51552,6 +51732,18 @@
       "createdAt": "2026-07-31T21:59:53.563Z",
       "discoveredAt": "2026-07-31T23:04:18.047Z",
       "score": 55
+    },
+    {
+      "name": "codeigniter-mcp",
+      "version": "0.1.1",
+      "description": "MCP (Model Context Protocol) server that accelerates development of a custom PHP framework inspired by CodeIgniter: MVC + optional Services/Repository layer. Scaffolds controllers, services, repositories, entities, migrations and tests; validates routes a",
+      "license": "MIT",
+      "repository": "https://github.com/AntigamerISK/codeigniter-mcp",
+      "npmUrl": "https://www.npmjs.com/package/codeigniter-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-13T02:04:03.489Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 88
     },
     {
       "name": "codengram",
@@ -57866,6 +58058,18 @@
       "score": 84
     },
     {
+      "name": "grove-worktree",
+      "version": "0.5.0",
+      "description": "A grove of git worktrees: every branch gets its own running stack, on its own ports.",
+      "license": "MIT",
+      "repository": "https://github.com/jovalle02/grovekit",
+      "npmUrl": "https://www.npmjs.com/package/grove-worktree",
+      "category": "devops",
+      "createdAt": "2026-08-13T01:29:37.224Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 74
+    },
+    {
       "name": "gsap-presets-kit",
       "version": "0.1.0",
       "description": "Un set pequeño, tipado y validado en runtime de helpers para GSAP: animateFrom, animateTo y animateFromTo, más presets de SplitText, Typewriter y Marquee, con soporte de ScrollTrigger y timelines.",
@@ -61596,6 +61800,18 @@
       "createdAt": "2026-07-27T17:18:40.585Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 73
+    },
+    {
+      "name": "listkit",
+      "version": "4.3.0",
+      "description": "Standardized list views for React — table/cards, search, pagination, advanced filters.",
+      "license": "MIT",
+      "repository": "https://github.com/Ricwolf19/listkit",
+      "npmUrl": "https://www.npmjs.com/package/listkit",
+      "category": "frontend",
+      "createdAt": "2026-08-13T01:17:20.331Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 86
     },
     {
       "name": "litequ",
@@ -68594,6 +68810,18 @@
       "score": 59
     },
     {
+      "name": "palworld-server-api",
+      "version": "0.1.0",
+      "description": "Typed client and CLI for the Palworld dedicated server REST API. Zero runtime dependencies, ESM + CJS.",
+      "license": "MIT",
+      "repository": "https://github.com/organismzero/palworld-server-api",
+      "npmUrl": "https://www.npmjs.com/package/palworld-server-api",
+      "category": "backend",
+      "createdAt": "2026-08-13T03:42:09.382Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 80
+    },
+    {
       "name": "panaclaw",
       "version": "0.1.0",
       "description": "CRM - PanaClaw — instala bots de IA con CRM en tu propia infraestructura, en un comando.",
@@ -73454,6 +73682,18 @@
       "score": 78
     },
     {
+      "name": "repo2ds",
+      "version": "0.1.0",
+      "description": "Reverse-engineer a design system from an existing React or React Native codebase. Local, deterministic, no LLM.",
+      "license": "MIT",
+      "repository": "https://github.com/Hrishikesh410/repo2ds",
+      "npmUrl": "https://www.npmjs.com/package/repo2ds",
+      "category": "frontend",
+      "createdAt": "2026-08-13T03:22:39.175Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 77
+    },
+    {
       "name": "repomind-skills",
       "version": "0.2.0",
       "description": "Память проекта для человека и coding-агента: структура docs/, ADR, runbook и семь скиллов для Claude Code и Codex",
@@ -76670,6 +76910,18 @@
       "score": 65
     },
     {
+      "name": "steam-agent-search",
+      "version": "1.0.0",
+      "description": "AI-first CLI tool and REST API for querying the Steam store. Structured JSON access to game catalog, pricing, reviews, news, and user data.",
+      "license": "MIT",
+      "repository": "https://github.com/amoisttowe1/steam-deals-search",
+      "npmUrl": "https://www.npmjs.com/package/steam-agent-search",
+      "category": "backend",
+      "createdAt": "2026-08-13T03:21:45.990Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 79
+    },
+    {
       "name": "steledb",
       "version": "0.1.0",
       "description": "A TypeScript library that treats a set of JSON files as a static relational database, deriving integrity validation and typed queries from one schema definition",
@@ -79430,6 +79682,18 @@
       "score": 82
     },
     {
+      "name": "unifyai",
+      "version": "1.0.0",
+      "description": "Unified AI configuration sync tool for multiple AI development platforms",
+      "license": "MIT",
+      "repository": "https://github.com/imohuan/unifyai",
+      "npmUrl": "https://www.npmjs.com/package/unifyai",
+      "category": "data",
+      "createdAt": "2026-08-13T03:52:10.106Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 73
+    },
+    {
       "name": "unillm-sdk",
       "version": "0.1.0",
       "description": "零依赖的统一大模型接入包:一个配置搞定 OpenAI / Anthropic / Gemini / 豆包 / DeepSeek / Kimi / 通义 / GLM / Grok / Ollama 等主流大模型,内置可视化 Dashboard 与 CLI 脚手架",
@@ -80484,6 +80748,18 @@
       "createdAt": "2026-08-04T05:29:49.339Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 96
+    },
+    {
+      "name": "vndirect-mcp",
+      "version": "0.1.0",
+      "description": "MCP server cung cấp dữ liệu chứng khoán Việt Nam (OHLC đa khung thời gian + chỉ số cơ bản) từ API công khai VNDIRECT.",
+      "license": "MIT",
+      "repository": "https://github.com/vinhndq/vndirect-mcp",
+      "npmUrl": "https://www.npmjs.com/package/vndirect-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T03:56:38.894Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 81
     },
     {
       "name": "volcanoes-mcp",
@@ -81842,6 +82118,18 @@
       "score": 65
     },
     {
+      "name": "xlogs-scanner",
+      "version": "0.1.0",
+      "description": "Free, read-only security scanner for AI-built web apps. Point it at a deployed URL: finds publicly readable databases, secret keys shipped to the browser, missing protections, and hands you a fix you can paste into your AI coding tool.",
+      "license": "MIT",
+      "repository": "https://github.com/damnepic/xlogs-cli",
+      "npmUrl": "https://www.npmjs.com/package/xlogs-scanner",
+      "category": "frontend",
+      "createdAt": "2026-08-13T02:18:43.209Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 78
+    },
+    {
       "name": "xls-to-xlsx",
       "version": "1.2.3",
       "description": "Secure XLS → XLSX converter (also CSV/ODS/JSON). Pure-JS helpers + a tiny client SDK + a hardened, CVE-scanned Docker image.",
@@ -82224,6 +82512,18 @@
       "createdAt": "2026-08-12T12:23:25.652Z",
       "discoveredAt": "2026-08-12T12:49:35.533Z",
       "score": 70
+    },
+    {
+      "name": "zhima-cli",
+      "version": "0.84.6",
+      "description": "智码 (ZMCode) - 像 PI 一样简单易用的对话式 AI 编程助手，谐音芝麻，基于 pi-coding-agent (MIT) 定制",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/zmcode/zmcode",
+      "npmUrl": "https://www.npmjs.com/package/zhima-cli",
+      "category": "cli",
+      "createdAt": "2026-08-13T02:46:52.443Z",
+      "discoveredAt": "2026-08-13T04:02:31.627Z",
+      "score": 73
     },
     {
       "name": "zigapagos",
