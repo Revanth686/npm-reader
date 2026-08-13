@@ -158,6 +158,18 @@
       "score": 81
     },
     {
+      "name": "@12-apps/audit",
+      "version": "1.0.0",
+      "description": "Generic, portable action audit. Framework-free core (the action/resource vocabulary and the deny-by-default diff redaction), host-mounted backend surface (./server: the transactional writer, the per-request actor context, the created_by/updated_by stamp a",
+      "license": "MIT",
+      "repository": "https://github.com/12-apps/shared-packages",
+      "npmUrl": "https://www.npmjs.com/package/%4012-apps%2Faudit",
+      "category": "backend",
+      "createdAt": "2026-08-13T04:00:54.875Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 65
+    },
+    {
       "name": "@12-apps/entitlements",
       "version": "1.2.0",
       "description": "Generic, portable plan/feature entitlements library: layered resolution (code/plan/status/tenant), numeric quotas, per-feature revoke policy and 402-vs-403 denial semantics. Framework-free core with storage adapters plus an optional React binding. Knows n",
@@ -8618,6 +8630,42 @@
       "score": 75
     },
     {
+      "name": "@crudx2/crud",
+      "version": "6.0.0",
+      "description": "NestJs CRUD for RESTful APIs",
+      "license": "MIT",
+      "repository": "https://github.com/ngovanxuanduc/crudx",
+      "npmUrl": "https://www.npmjs.com/package/%40crudx2%2Fcrud",
+      "category": "backend",
+      "createdAt": "2026-08-13T04:30:23.426Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 61
+    },
+    {
+      "name": "@crudx2/crud-request",
+      "version": "6.0.0",
+      "description": "NestJs CRUD for RESTful APIs - request query builder",
+      "license": "MIT",
+      "repository": "https://github.com/ngovanxuanduc/crudx",
+      "npmUrl": "https://www.npmjs.com/package/%40crudx2%2Fcrud-request",
+      "category": "backend",
+      "createdAt": "2026-08-13T04:30:21.724Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 64
+    },
+    {
+      "name": "@crudx2/crud-typeorm",
+      "version": "6.0.0",
+      "description": "NestJs CRUD for RESTful APIs - TypeORM",
+      "license": "MIT",
+      "repository": "https://github.com/ngovanxuanduc/crudx",
+      "npmUrl": "https://www.npmjs.com/package/%40crudx2%2Fcrud-typeorm",
+      "category": "backend",
+      "createdAt": "2026-08-13T04:30:20.523Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 62
+    },
+    {
       "name": "@cruglobal/flags",
       "version": "0.1.0",
       "description": "Official Node.js client for Cru's pipeline feature flag service. Zero dependencies, synchronous flag reads, fail-static polling with ETag revalidation.",
@@ -9540,6 +9588,42 @@
       "createdAt": "2026-08-01T05:12:05.739Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 87
+    },
+    {
+      "name": "@devrobotlabs/visionapi",
+      "version": "1.0.0",
+      "description": "Official Node.js client for the Vision API — credit-based OCR and visual intelligence. Extract structured JSON from images and PDFs.",
+      "license": "MIT",
+      "repository": "https://github.com/devrobotlabs/visionapi-node",
+      "npmUrl": "https://www.npmjs.com/package/%40devrobotlabs%2Fvisionapi",
+      "category": "backend",
+      "createdAt": "2026-08-13T04:15:02.155Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 91
+    },
+    {
+      "name": "@devrobotlabs/visionapi-react",
+      "version": "1.0.0",
+      "description": "Official React hooks for the Vision API — OCR and visual intelligence. Upload a file, get structured JSON with per-field confidence.",
+      "license": "MIT",
+      "repository": "https://github.com/devrobotlabs/visionapi-react",
+      "npmUrl": "https://www.npmjs.com/package/%40devrobotlabs%2Fvisionapi-react",
+      "category": "frontend",
+      "createdAt": "2026-08-13T04:16:50.579Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 91
+    },
+    {
+      "name": "@devrobotlabs/visionapi-vue",
+      "version": "1.0.0",
+      "description": "Official Vue 3 composables for the Vision API — OCR and visual intelligence. Upload a file, get structured JSON with per-field confidence.",
+      "license": "MIT",
+      "repository": "https://github.com/devrobotlabs/visionapi-vue",
+      "npmUrl": "https://www.npmjs.com/package/%40devrobotlabs%2Fvisionapi-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-13T04:16:51.912Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 91
     },
     {
       "name": "@devschile/chucao",
@@ -11268,6 +11352,18 @@
       "createdAt": "2026-08-04T03:58:08.966Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 56
+    },
+    {
+      "name": "@easiest-ai/pi-compaction-manager",
+      "version": "1.0.0",
+      "description": "Makes pi's auto-compaction configurable: cap context windows, set compaction trigger targets, improve summarization quality, and manage settings via an interactive /compaction command.",
+      "license": "MIT",
+      "repository": "https://github.com/easiest-ai/pi-compaction-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40easiest-ai%2Fpi-compaction-manager",
+      "category": "utilities",
+      "createdAt": "2026-08-13T05:18:37.204Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 71
     },
     {
       "name": "@easonliuuuuu/flow-code",
@@ -13704,6 +13800,18 @@
       "createdAt": "2026-08-08T17:07:22.374Z",
       "discoveredAt": "2026-08-08T17:28:49.311Z",
       "score": 85
+    },
+    {
+      "name": "@gamaraan/ask-tool",
+      "version": "0.2.0",
+      "description": "pi extension that ports the Oh My Pi (OMP) ask tool: interactive multiple-choice questions with rich TUI dialogs, recommended options, timeouts with auto-select, free-text answers, and multi-question paging.",
+      "license": "MIT",
+      "repository": "https://github.com/gamaraan/ask-tool-pi-extension",
+      "npmUrl": "https://www.npmjs.com/package/%40gamaraan%2Fask-tool",
+      "category": "utilities",
+      "createdAt": "2026-08-12T11:44:48.832Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 66
     },
     {
       "name": "@gamaraan/next-prompt",
@@ -18758,6 +18866,18 @@
       "score": 86
     },
     {
+      "name": "@harlan-zw/nuxt-use-query",
+      "version": "0.0.2",
+      "description": "Experimental Nuxt-native query composables with SWR, invalidation, polling, and optimistic cache writes.",
+      "license": "MIT",
+      "repository": "https://github.com/harlan-zw/harlan-nuxt",
+      "npmUrl": "https://www.npmjs.com/package/%40harlan-zw%2Fnuxt-use-query",
+      "category": "utilities",
+      "createdAt": "2026-08-10T12:09:43.530Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 60
+    },
+    {
       "name": "@harrify/whatsapp",
       "version": "1.0.0",
       "description": "Lightweight TypeScript SDK for the WhatsApp Cloud API. Discord.js-style events, rich message objects, zero dependencies.",
@@ -19920,6 +20040,18 @@
       "createdAt": "2026-08-06T17:47:10.096Z",
       "discoveredAt": "2026-08-12T01:13:18.235Z",
       "score": 74
+    },
+    {
+      "name": "@i-xor/amc",
+      "version": "1.1.0",
+      "description": "Manage shared Agent Skills from one local store.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JanYork/amc",
+      "npmUrl": "https://www.npmjs.com/package/%40i-xor%2Famc",
+      "category": "cli",
+      "createdAt": "2026-08-06T11:54:38.570Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 70
     },
     {
       "name": "@ia2-dev/rdf-value-editor",
@@ -26460,6 +26592,18 @@
       "createdAt": "2026-08-04T19:03:54.920Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 80
+    },
+    {
+      "name": "@misofm/sdk",
+      "version": "0.1.0",
+      "description": "Typed query helpers and transaction builders for the Miso platform layer on Sui — pressings, listings, records, and opinionated work publishing.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/misofm/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40misofm%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-13T05:20:53.796Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 78
     },
     {
       "name": "@miyamo2/astro-algolia-index",
@@ -36866,6 +37010,18 @@
       "score": 85
     },
     {
+      "name": "@shell-shock/plugin-mcp",
+      "version": "0.1.1",
+      "description": "A package containing a Shell Shock plugin to expose CLI commands through an MCP server.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/shell-shock",
+      "npmUrl": "https://www.npmjs.com/package/%40shell-shock%2Fplugin-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T05:10:37.249Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 68
+    },
+    {
       "name": "@sherlock1982/ng-idle-core",
       "version": "22.0.0",
       "description": "A module for detecting and responding to the user becoming idle in Angular applications.",
@@ -39998,6 +40154,18 @@
       "score": 62
     },
     {
+      "name": "@tachibtc/tachi-sdk-ts",
+      "version": "0.2.1",
+      "description": "TypeScript SDK for Tachi BTC daemon RPC",
+      "license": "MIT",
+      "repository": "https://github.com/tachibtc/tachi-sdk-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40tachibtc%2Ftachi-sdk-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T04:18:55.080Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 61
+    },
+    {
       "name": "@tactical-ddd/core",
       "version": "0.1.5",
       "description": "[![npm version](https://img.shields.io/npm/v/@tactical-ddd/core)](https://www.npmjs.com/package/@tactical-ddd/core) [![npm downloads](https://img.shields.io/npm/dm/@tactical-ddd/core)](https://www.npmjs.com/package/@tactical-ddd/core) [![license](https://",
@@ -41940,6 +42108,18 @@
       "createdAt": "2026-07-25T22:53:27.676Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 62
+    },
+    {
+      "name": "@unabandoned/browserify",
+      "version": "17.0.2",
+      "description": "browser-side require() the node way",
+      "license": "MIT",
+      "repository": "https://github.com/unabandoned/browserify",
+      "npmUrl": "https://www.npmjs.com/package/%40unabandoned%2Fbrowserify",
+      "category": "frontend",
+      "createdAt": "2026-08-13T04:41:00.935Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 77
     },
     {
       "name": "@unabandoned/buffer",
@@ -45602,6 +45782,18 @@
       "score": 69
     },
     {
+      "name": "@zincapp/znvault-plugin-vsphere",
+      "version": "0.1.0",
+      "description": "vSphere VM provisioning plugin for znvault CLI (govc clone + bootstrap + zn-vault-agent enrollment)",
+      "license": "MIT",
+      "repository": "https://github.com/vidaldiego/znvault-plugin-vsphere",
+      "npmUrl": "https://www.npmjs.com/package/%40zincapp%2Fznvault-plugin-vsphere",
+      "category": "cli",
+      "createdAt": "2026-08-13T04:24:00.735Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 67
+    },
+    {
       "name": "@zinsani/carousel-react",
       "version": "0.2.0",
       "description": "A headless, accessible React carousel built with native CSS scroll-snap — zero styling opinion, zero runtime dependencies beyond React.",
@@ -45792,6 +45984,18 @@
       "createdAt": "2026-08-05T09:53:41.348Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 86
+    },
+    {
+      "name": "@zyncat/ui",
+      "version": "0.9.0",
+      "description": "A React 19 design system: accessible, animated UI components built on a small, closed CSS design-token vocabulary. No Tailwind, no CSS-in-JS.",
+      "license": "MIT",
+      "repository": "https://github.com/Tabsir99/zyncat-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40zyncat%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-13T03:14:49.979Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 68
     },
     {
       "name": "@zzusp/agent-channel-host",
@@ -50580,6 +50784,18 @@
       "createdAt": "2026-08-03T13:58:33.433Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 78
+    },
+    {
+      "name": "chainscope",
+      "version": "1.0.0",
+      "description": "A dependency graph analyzer and incremental build simulator for JavaScript/TypeScript projects. Detects circular dependencies and identifies exactly which files need rebuilding when a file changes.",
+      "license": "ISC",
+      "repository": "https://github.com/aryanraj0611/chainscope",
+      "npmUrl": "https://www.npmjs.com/package/chainscope",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T05:32:16.881Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 71
     },
     {
       "name": "chameleon-cv",
@@ -56030,6 +56246,18 @@
       "score": 64
     },
     {
+      "name": "farebox-cli",
+      "version": "1.0.0",
+      "description": "Official CLI for Farebox — manage AI keys, balance, usage, and chat from your terminal. Billed in USDC on Solana.",
+      "license": "MIT",
+      "repository": "https://github.com/fareboxfun/farebox-cli",
+      "npmUrl": "https://www.npmjs.com/package/farebox-cli",
+      "category": "cli",
+      "createdAt": "2026-08-13T05:02:57.283Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 73
+    },
+    {
       "name": "farebox-node",
       "version": "1.0.1",
       "description": "Run a Farebox relay node — stay online, route AI API traffic, earn USDC weekly.",
@@ -56400,6 +56628,18 @@
       "createdAt": "2026-07-26T23:09:19.010Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 55
+    },
+    {
+      "name": "figma-lens",
+      "version": "0.2.0",
+      "description": "Token-efficient, headless Figma inspection for coding agents over CLI or MCP",
+      "license": "MIT",
+      "repository": "https://github.com/khanglvm/figma-lens",
+      "npmUrl": "https://www.npmjs.com/package/figma-lens",
+      "category": "cli",
+      "createdAt": "2026-08-13T04:30:17.800Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 67
     },
     {
       "name": "figma-plugin-rpc",
@@ -58032,6 +58272,18 @@
       "createdAt": "2026-08-12T11:07:01.938Z",
       "discoveredAt": "2026-08-12T11:37:58.641Z",
       "score": 61
+    },
+    {
+      "name": "grok-image-2",
+      "version": "1.0.0",
+      "description": "Grok Image 2 text-to-image and reference-image editing API skill with complete async examples",
+      "license": "MIT",
+      "repository": "https://github.com/cheercheung/grok-image-2",
+      "npmUrl": "https://www.npmjs.com/package/grok-image-2",
+      "category": "backend",
+      "createdAt": "2026-08-13T04:13:57.375Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 85
     },
     {
       "name": "grokbotfun",
@@ -61992,6 +62244,18 @@
       "createdAt": "2026-08-09T14:01:04.216Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 72
+    },
+    {
+      "name": "llmthink",
+      "version": "1.0.0",
+      "description": "思考記述 DSL と思考監査エンジンの設計ドキュメントを管理するリポジトリ。",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/mako10k/llmthink",
+      "npmUrl": "https://www.npmjs.com/package/llmthink",
+      "category": "utilities",
+      "createdAt": "2026-08-04T11:11:41.312Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 63
     },
     {
       "name": "llmuid",
@@ -73442,6 +73706,18 @@
       "score": 99
     },
     {
+      "name": "rehype-kroki",
+      "version": "0.1.0",
+      "description": "rehype plugin to render fenced code blocks as diagrams using Kroki",
+      "license": "MIT",
+      "repository": "https://github.com/hkwi/rehype-kroki",
+      "npmUrl": "https://www.npmjs.com/package/rehype-kroki",
+      "category": "utilities",
+      "createdAt": "2026-08-13T05:42:16.165Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 61
+    },
+    {
       "name": "reifyui",
       "version": "0.1.0",
       "description": "The open-source rendering & interaction layer for agentic applications. Stream and render any agent's output as polished, application-native UI — model-agnostic, framework-agnostic, design-system-native. The foundation for building generative-UI and agent",
@@ -80090,6 +80366,18 @@
       "score": 64
     },
     {
+      "name": "vektr-design-system",
+      "version": "2.0.1",
+      "description": "Official design tokens, React components, and multi-theme presets for Vektr Design System",
+      "license": "MIT",
+      "repository": "https://github.com/Nuel0/vektr-design-system",
+      "npmUrl": "https://www.npmjs.com/package/vektr-design-system",
+      "category": "frontend",
+      "createdAt": "2026-08-13T04:30:59.074Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 74
+    },
+    {
       "name": "vellumup-init",
       "version": "1.0.0",
       "description": "Scaffold a complete VellumUp-powered blog (webhook route, pages, components, SQL) into your Next.js project with one command.",
@@ -81240,6 +81528,18 @@
       "createdAt": "2026-07-29T04:11:05.081Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 73
+    },
+    {
+      "name": "web-escpos-printer",
+      "version": "1.0.0",
+      "description": "Wrapper de comunicacao com impressoras termicas via Web Bluetooth, para uso direto num <script> tag no navegador (sem Node em runtime) ou importado num bundler (Vite/webpack) como o de um projeto Vue.",
+      "license": "MIT",
+      "repository": "https://github.com/GomdimApps/web-escpos-printer",
+      "npmUrl": "https://www.npmjs.com/package/web-escpos-printer",
+      "category": "frontend",
+      "createdAt": "2026-08-13T04:51:14.594Z",
+      "discoveredAt": "2026-08-13T05:45:12.412Z",
+      "score": 79
     },
     {
       "name": "web-liquid-glass",
