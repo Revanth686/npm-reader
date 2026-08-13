@@ -1,43 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124862449,
-  "lastRunAt": "2026-08-13T17:44:22.449Z",
+  "lastSequence": 124872439,
+  "lastRunAt": "2026-08-13T18:51:46.079Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@ccchase/wechat-bridge",
+      "name": "@dlinc/http-signature-zcap-invoke",
       "attempts": 1
     },
     {
-      "name": "@surrealdb/node-native",
+      "name": "@dlinc/ezcap",
       "attempts": 1
     },
     {
-      "name": "@jhubbardsf/slack-mcp-server-darwin-amd64",
-      "attempts": 1
-    },
-    {
-      "name": "@jhubbardsf/slack-mcp-server-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@namoidhq/cli",
-      "attempts": 1
-    },
-    {
-      "name": "@jhubbardsf/slack-mcp-server-linux-amd64",
-      "attempts": 1
-    },
-    {
-      "name": "@jhubbardsf/slack-mcp-server-linux-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@ouonet/praxis",
-      "attempts": 1
-    },
-    {
-      "name": "@jhubbardsf/slack-mcp-server-windows-amd64",
+      "name": "@dlinc/ezcap-express",
       "attempts": 1
     }
   ]
