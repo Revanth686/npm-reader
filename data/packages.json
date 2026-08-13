@@ -2594,6 +2594,18 @@
       "score": 82
     },
     {
+      "name": "@altqx/rwss",
+      "version": "0.1.1",
+      "description": "Web browser ASS/SSA renderer wrapper around rassa",
+      "license": "MIT",
+      "repository": "https://github.com/altqx/rwss",
+      "npmUrl": "https://www.npmjs.com/package/%40altqx%2Frwss",
+      "category": "frontend",
+      "createdAt": "2026-08-13T10:55:53.009Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 72
+    },
+    {
       "name": "@altrsoftware/shield",
       "version": "0.0.2",
       "description": "ALTR Shield Node.js SDK — protect and restore sensitive data via the Shield data plane, with an XML token envelope and streaming detokenization.",
@@ -2976,6 +2988,18 @@
       "createdAt": "2026-07-30T10:41:42.632Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 75
+    },
+    {
+      "name": "@andygo.dev/nestjs-harness",
+      "version": "1.0.0",
+      "description": "Local AI development harness for NestJS projects: version-aware manual sync, SQLite/FTS5 search, a NestJS Claude Code Skill, and an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/andygo-develop/nestjs-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40andygo.dev%2Fnestjs-harness",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:11:24.709Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 88
     },
     {
       "name": "@angular-libs/socket",
@@ -6290,6 +6314,18 @@
       "score": 39
     },
     {
+      "name": "@businessdash/sdk",
+      "version": "0.9.60",
+      "description": "BusinessDash developer SDK — the data layer that lets you build customer-facing surfaces on your own domain while BusinessDash handles the operations stack behind the scenes. 0.9.x ships a comprehensive programmatic surface: storefront (products, categori",
+      "license": "MIT",
+      "repository": "https://github.com/Gold240sx/business-in-a-box",
+      "npmUrl": "https://www.npmjs.com/package/%40businessdash%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-08-13T11:21:30.048Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 78
+    },
+    {
       "name": "@buzzni/saycode-cli",
       "version": "0.1.1",
       "description": "Drive Saycode sessions across your machines from the terminal.",
@@ -8102,6 +8138,18 @@
       "score": 63
     },
     {
+      "name": "@commoditypriceapi/mcp",
+      "version": "1.0.1",
+      "description": "Official MCP server for CommodityPriceAPI — real-time and historical commodity rates (gold, silver, oil, and 130+ more) as MCP tools for Claude, Cursor, Windsurf, and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/Commodity-Price-API/commoditypriceapi-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40commoditypriceapi%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:07:33.175Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 94
+    },
+    {
       "name": "@companionintelligence/hermes-memory",
       "version": "2026.8.4",
       "description": "Companion Intelligence memory provider for Hermes — passively ingests conversation context into a self-hosted knowledge graph.",
@@ -9324,6 +9372,30 @@
       "createdAt": "2026-07-30T14:30:44.839Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 80
+    },
+    {
+      "name": "@deepnote/cloud",
+      "version": "0.1.0",
+      "description": "Client for the Deepnote Cloud runs API",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/deepnote/deepnote",
+      "npmUrl": "https://www.npmjs.com/package/%40deepnote%2Fcloud",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:30:15.272Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 52
+    },
+    {
+      "name": "@deepnote/local-runner",
+      "version": "0.1.0",
+      "description": "Run a .deepnote notebook with edited inputs against a local Python backend, and serve it to a static page.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/deepnote/deepnote",
+      "npmUrl": "https://www.npmjs.com/package/%40deepnote%2Flocal-runner",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:31:22.971Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 68
     },
     {
       "name": "@deitum/camunda-mcp",
@@ -11282,6 +11354,18 @@
       "score": 73
     },
     {
+      "name": "@duong.dev/playwright-automation",
+      "version": "1.0.0",
+      "description": "Claude Agent Skill cho tester: automation testing bằng Playwright + TypeScript. Trinh sát app lấy locator thật, dựng suite E2E/API/visual/accessibility, chuyển test case Excel thành script.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/DEVfancybear/playwright-automation",
+      "npmUrl": "https://www.npmjs.com/package/%40duong.dev%2Fplaywright-automation",
+      "category": "testing",
+      "createdAt": "2026-08-13T10:50:19.944Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 90
+    },
+    {
       "name": "@durable-streams/server-cloudflare",
       "version": "0.1.1",
       "description": "Durable Streams protocol server on Cloudflare Workers + Durable Objects — export the StreamObject class and mount the handler in your own Worker",
@@ -12494,6 +12578,18 @@
       "score": 62
     },
     {
+      "name": "@experthireai/room",
+      "version": "0.1.0",
+      "description": "Embed an Expert Hire interview room in your own page.",
+      "license": "MIT",
+      "repository": "https://github.com/GetInteracts/expert-hire-monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40experthireai%2Froom",
+      "category": "utilities",
+      "createdAt": "2026-08-13T11:21:43.258Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 57
+    },
+    {
       "name": "@experttoolkit/sdk",
       "version": "1.0.0",
       "description": "Typed client for the ExpertToolkit computation APIs — unit conversion across 1,800+ units and 100+ dimensions, unit registry search, with standards-cited results (NIST/BIPM-aligned factors).",
@@ -13500,6 +13596,18 @@
       "createdAt": "2026-08-10T06:29:46.389Z",
       "discoveredAt": "2026-08-10T07:14:37.064Z",
       "score": 72
+    },
+    {
+      "name": "@fradser/pi-btw",
+      "version": "0.1.1",
+      "description": "Side questions for Pi — /btw answers in a read-only overlay, never entering the session history. Unlike Claude Code's /btw, it can actually call read-only tools (read, grep, find, ls) to verify facts in the codebase.",
+      "license": "MIT",
+      "repository": "https://github.com/FradSer/pi-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40fradser%2Fpi-btw",
+      "category": "utilities",
+      "createdAt": "2026-08-13T11:22:28.589Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 54
     },
     {
       "name": "@framy2/ctxray",
@@ -17642,6 +17750,18 @@
       "score": 60
     },
     {
+      "name": "@gitmyabi/usdg",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for USDG (build etherscan-usdg-ac381c1f-1786618914632, commit bfe5201, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/usdg",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fusdg",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T11:02:18.710Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/usdsm",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for USDSM (build etherscan-usdsm-399b2997-1786397231615, commit 7571f2e, branch etherscan)",
@@ -19956,6 +20076,18 @@
       "createdAt": "2026-07-27T04:16:25.231Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 79
+    },
+    {
+      "name": "@husic/setly",
+      "version": "0.3.0",
+      "description": "Guided UI for describing and setting app configuration (JSON appsettings, .env, and more)",
+      "license": "MIT",
+      "repository": "https://github.com/AjdinHusic/setly",
+      "npmUrl": "https://www.npmjs.com/package/%40husic%2Fsetly",
+      "category": "cli",
+      "createdAt": "2026-08-13T10:55:49.693Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 47
     },
     {
       "name": "@hustle-insider/publish-reach",
@@ -24758,6 +24890,18 @@
       "score": 79
     },
     {
+      "name": "@lpb-work/pi-subagents",
+      "version": "0.42.2",
+      "description": "Fork: Pi extension for single-agent delegation and scripted multi-agent workflows",
+      "license": "MIT",
+      "repository": "https://github.com/lpb-work/pi-fork",
+      "npmUrl": "https://www.npmjs.com/package/%40lpb-work%2Fpi-subagents",
+      "category": "cli",
+      "createdAt": "2026-08-13T10:56:12.262Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 58
+    },
+    {
       "name": "@lttr/gv",
       "version": "0.2.0",
       "description": "Browser-based git history viewer — commit list, file tree, diff. Run against any local repo.",
@@ -25826,6 +25970,18 @@
       "score": 72
     },
     {
+      "name": "@mcleanstewart/ledger",
+      "version": "0.1.0",
+      "description": "Ledger — a dashboard design system: dark-first, almost-monochrome, hairlines instead of shadows, tabular figures. Typed React components and vanilla CSS, no bundler and no runtime dependency beyond icons.",
+      "license": "MIT",
+      "repository": "https://github.com/jackstewart254/ledger",
+      "npmUrl": "https://www.npmjs.com/package/%40mcleanstewart%2Fledger",
+      "category": "frontend",
+      "createdAt": "2026-08-13T11:29:08.094Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 62
+    },
+    {
       "name": "@mcp-abap-adt/auth-mocks",
       "version": "0.1.0",
       "description": "Protocol-faithful mock authorization servers (UAA/OAuth2, OIDC, SAML IdP) for testing @mcp-abap-adt packages",
@@ -26580,6 +26736,18 @@
       "createdAt": "2026-08-03T12:40:58.378Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 77
+    },
+    {
+      "name": "@mindinventory/mi-quick-fcm-push-notification",
+      "version": "1.0.0",
+      "description": "All-in-one push notification package — npm library + CLI scaffolder with Safari support",
+      "license": "MIT",
+      "repository": "https://github.com/Mindinventory/mi-quick-fcm-push-notification",
+      "npmUrl": "https://www.npmjs.com/package/%40mindinventory%2Fmi-quick-fcm-push-notification",
+      "category": "frontend",
+      "createdAt": "2026-08-13T11:10:16.142Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 76
     },
     {
       "name": "@mindmux/brain-md",
@@ -37214,6 +37382,18 @@
       "score": 62
     },
     {
+      "name": "@seneca/solardemo-provider",
+      "version": "0.1.0",
+      "description": "Seneca entity provider for the Solar System API, using the @voxgig-sdk/voxgig-solardemo SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/senecajs/seneca-solardemo-provider",
+      "npmUrl": "https://www.npmjs.com/package/%40seneca%2Fsolardemo-provider",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:32:53.634Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 57
+    },
+    {
       "name": "@sentdm/n8n-nodes-sent",
       "version": "0.1.1",
       "description": "Send SMS, WhatsApp and RCS messages with Sent, look up numbers, read delivery status, and start workflows from verified Sent webhooks.",
@@ -45180,6 +45360,18 @@
       "createdAt": "2026-08-07T08:41:58.691Z",
       "discoveredAt": "2026-08-07T08:48:04.179Z",
       "score": 68
+    },
+    {
+      "name": "@x12i/memorix-abstracts",
+      "version": "0.2.0",
+      "description": "Map-1 abstract envelopes, mapping runtime, object-catalog join, integrity report, and acquisition handoff/admission for Memorix.",
+      "license": "exellix-license",
+      "repository": "https://github.com/x12i/memorix-mono-repo",
+      "npmUrl": "https://www.npmjs.com/package/%40x12i%2Fmemorix-abstracts",
+      "category": "utilities",
+      "createdAt": "2026-08-12T12:22:20.203Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 57
     },
     {
       "name": "@x402solana/clawd-plugin",
@@ -55490,6 +55682,18 @@
       "score": 65
     },
     {
+      "name": "drakon",
+      "version": "1.0.2",
+      "description": "A professional and powerful WhatsApp bot framework built on Baileys. Create sophisticated bots with ease - just initialize the bot, define your message handlers and routes, and you're ready to go. Features built-in keyboard system, message parsing, middle",
+      "license": "ABDO",
+      "repository": "https://github.com/moreand458-eng/drakon",
+      "npmUrl": "https://www.npmjs.com/package/drakon",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:15:23.810Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 70
+    },
+    {
       "name": "drawesome",
       "version": "0.1.0",
       "description": "A drawing toolbar for React. Seven pens, an eraser, SVG and PNG export, no dependencies.",
@@ -55560,6 +55764,30 @@
       "createdAt": "2026-08-04T22:16:39.595Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 69
+    },
+    {
+      "name": "dsv-chat-widget",
+      "version": "2.5.0",
+      "description": "Customizable chat component for AI APIs (DSV fork of deep-chat)",
+      "license": "MIT",
+      "repository": "https://github.com/NVHoaiDT/deep-chat-folk",
+      "npmUrl": "https://www.npmjs.com/package/dsv-chat-widget",
+      "category": "frontend",
+      "createdAt": "2026-08-13T11:08:56.896Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 86
+    },
+    {
+      "name": "dsv-chat-widget-react",
+      "version": "2.5.0",
+      "description": "Customizable chat component for AI APIs (DSV fork of deep-chat-react)",
+      "license": "MIT",
+      "repository": "https://github.com/NVHoaiDT/deep-chat-folk",
+      "npmUrl": "https://www.npmjs.com/package/dsv-chat-widget-react",
+      "category": "frontend",
+      "createdAt": "2026-08-13T11:11:08.320Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 86
     },
     {
       "name": "dynamic-workflow",
@@ -57230,6 +57458,18 @@
       "score": 51
     },
     {
+      "name": "fetch-braid",
+      "version": "0.2.0",
+      "description": "Fetch interceptor chain + tiny REST client. Zero deps, framework-agnostic, SSR-safe.",
+      "license": "MIT",
+      "repository": "https://github.com/Fl0r14n/fetch-braid",
+      "npmUrl": "https://www.npmjs.com/package/fetch-braid",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:00:28.605Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 62
+    },
+    {
       "name": "fetch-runtime",
       "version": "1.2.0",
       "description": "Opinionated, caching, retrying fetch client",
@@ -58812,6 +59052,18 @@
       "createdAt": "2026-08-09T20:42:14.845Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 94
+    },
+    {
+      "name": "google-ads-manager-mcp",
+      "version": "1.0.0",
+      "description": "Unofficial MCP server for reading and managing a Google Ads account (campaigns, budgets, keywords, ads) with a draft/confirm safety layer on every write.",
+      "license": "MIT",
+      "repository": "https://github.com/AleemHaider/google-ads-manager-mcp",
+      "npmUrl": "https://www.npmjs.com/package/google-ads-manager-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T11:24:08.146Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 65
     },
     {
       "name": "google-apps-script-sync",
@@ -69362,6 +69614,18 @@
       "score": 56
     },
     {
+      "name": "optops",
+      "version": "0.1.0",
+      "description": "Analyze a Kubernetes cluster and estimate what it could cost",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/optops-ai/optops-cli",
+      "npmUrl": "https://www.npmjs.com/package/optops",
+      "category": "cli",
+      "createdAt": "2026-08-13T11:20:09.956Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 47
+    },
+    {
       "name": "oral-b",
       "version": "0.1.0",
       "description": "A Node.js library for BLE communication with Oral-B smart toothbrushes.",
@@ -78674,6 +78938,18 @@
       "score": 73
     },
     {
+      "name": "svelte5plus-calendar",
+      "version": "0.2.1",
+      "description": "A full-featured, zero-dependency calendar component for Svelte 5 — month/week/day/year/agenda views, drag & drop, recurring events, i18n and dark mode.",
+      "license": "MIT",
+      "repository": "https://github.com/Blackman99/svelte5plus-calendar",
+      "npmUrl": "https://www.npmjs.com/package/svelte5plus-calendar",
+      "category": "frontend",
+      "createdAt": "2026-08-13T10:58:35.601Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 65
+    },
+    {
       "name": "sveltekit-medusa-ui",
       "version": "2.18.0",
       "description": "Ready-made SvelteKit components for the Medusa storefronts",
@@ -81120,6 +81396,18 @@
       "createdAt": "2026-08-02T05:38:55.126Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 96
+    },
+    {
+      "name": "uxaura",
+      "version": "0.2.0",
+      "description": "A silent, trigger-driven UX watcher and rule engine — lets your users personalize your app by asking, without touching your source code.",
+      "license": "MIT",
+      "repository": "https://github.com/khabouss/UXaura",
+      "npmUrl": "https://www.npmjs.com/package/uxaura",
+      "category": "frontend",
+      "createdAt": "2026-08-13T09:44:15.007Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 49
     },
     {
       "name": "uxml-preview",
@@ -83688,6 +83976,18 @@
       "createdAt": "2026-08-02T19:45:14.218Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 73
+    },
+    {
+      "name": "zerogate",
+      "version": "0.3.0",
+      "description": "Find out what happened before retrying: verified execution, reconciliation, and signed receipts for side effects that leave your process",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mauyaa/zerogate",
+      "npmUrl": "https://www.npmjs.com/package/zerogate",
+      "category": "devops",
+      "createdAt": "2026-08-13T11:04:47.979Z",
+      "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 72
     },
     {
       "name": "zhenbaileys",
