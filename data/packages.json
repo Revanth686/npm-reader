@@ -14594,6 +14594,18 @@
       "score": 31
     },
     {
+      "name": "@git-autoreview/cli",
+      "version": "0.1.0",
+      "description": "AI-powered code review for CI/CD pipelines — posts inline review comments on GitHub, GitLab and Bitbucket pull requests",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/vitalii4reva/gitautoreview",
+      "npmUrl": "https://www.npmjs.com/package/%40git-autoreview%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-13T09:25:23.632Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 81
+    },
+    {
       "name": "@gitawego/pi-lsp",
       "version": "0.1.0",
       "description": "Config-driven Language Server Protocol integration for the pi coding agent. Official LSP servers by default (typescript, kotlin, gopls, rust-analyzer, clangd, pyright, ...), persistent per-project sessions, progressive diagnostics after edits, and rich qu",
@@ -20880,6 +20892,18 @@
       "createdAt": "2026-07-25T14:54:16.738Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 60
+    },
+    {
+      "name": "@integraledger/agent-guard",
+      "version": "0.9.0",
+      "description": "Integra Agent Guard — the buyer-side verify-before-sign guard for agentic purchases. Fetches the terms a seller advertised, recomputes the fingerprint, and halts before any signing key is invoked if they disagree. Works against any seller.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-agent-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fagent-guard",
+      "category": "utilities",
+      "createdAt": "2026-08-13T10:46:59.912Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 86
     },
     {
       "name": "@integraledger/binding-evm-mpp",
@@ -28128,6 +28152,234 @@
       "createdAt": "2026-07-27T07:02:01.079Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 96
+    },
+    {
+      "name": "@mseep/easy-notion-mcp",
+      "version": "1.0.1",
+      "description": "Token-efficient, markdown-first Notion MCP server — agents write markdown, never touch raw Notion JSON",
+      "license": "MIT",
+      "repository": "https://github.com/Grey-Iris/easy-notion-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Feasy-notion-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:44:40.961Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 85
+    },
+    {
+      "name": "@mseep/grok-build-x-search-mcp",
+      "version": "0.1.4",
+      "description": "One repo: a Claude Code / Grok plugin plus a grok_search MCP server that gives any coding agent (Claude Code, Codex, Cursor) live X (Twitter) and web search via your Grok Build CLI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/VasiHemanth/grok-build-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fgrok-build-x-search-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:53:51.131Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 88
+    },
+    {
+      "name": "@mseep/grok-faf-mcp",
+      "version": "1.9.1",
+      "description": "Persistent Project Context for xAI Grok. IANA-registered .faf format, MCP server on a URL.",
+      "license": "MIT",
+      "repository": "https://github.com/Wolfe-Jam/grok-faf-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fgrok-faf-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:47:15.331Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 89
+    },
+    {
+      "name": "@mseep/humanpages",
+      "version": "1.4.6",
+      "description": "MCP server (+ OpenClaw SKILL.md) that gives AI agents access to real-world people who listed themselves to be hired by agents. 31 tools including search by skill/location/equipment, job offers, job board listings, in-job messaging, streaming payments, and",
+      "license": "MIT",
+      "repository": "https://github.com/human-pages-ai/humanpages",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fhumanpages",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:15:28.201Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 100
+    },
+    {
+      "name": "@mseep/mcp-metabase-server",
+      "version": "1.3.0",
+      "description": "MCP server for Metabase — 96 tools covering dashboards, cards, databases, tables, collections, public sharing, schema cache, and SQL-to-MBQL conversion",
+      "license": "MIT",
+      "repository": "https://github.com/easecloudio/mcp-metabase-server",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fmcp-metabase-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:15:12.038Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 95
+    },
+    {
+      "name": "@mseep/motionspec",
+      "version": "1.2.7",
+      "description": "Open-core motion layer for the web: deterministic compiler + MCP server. Validates motion specs fail-closed, reports WCAG 2.2.2 pause-path candidates, and flags missing reduced-motion guards (2.3.3, an AAA best practice).",
+      "license": "MIT",
+      "repository": "https://github.com/MasterPlayspots/motionspec",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fmotionspec",
+      "category": "testing",
+      "createdAt": "2026-08-13T09:45:17.091Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 100
+    },
+    {
+      "name": "@mseep/oecd-mcp-server",
+      "version": "0.3.0",
+      "description": "Search, explore, and query 1,500+ OECD statistical datasets (national accounts, employment, trade, education, health) via SDMX via MCP. STDIO or Streamable HTTP.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cyanheads/oecd-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Foecd-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:40:39.950Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 86
+    },
+    {
+      "name": "@mseep/omicall-mcp",
+      "version": "1.3.1",
+      "description": "MCP server for OmiCall/OmiCRM APIs - Call Center, Ticket, Multi-Channel (Zalo, Facebook, Telegram, LiveTalk), AI, Webhook",
+      "license": "MIT",
+      "repository": "https://github.com/VIHATTeam/OMICALL-MCP",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fomicall-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:22:28.430Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 84
+    },
+    {
+      "name": "@mseep/outscraper-mcp",
+      "version": "0.2.3",
+      "description": "Official Outscraper MCP server for business discovery, Google Maps intelligence, company enrichment, reviews, contact data, and structured web extraction.",
+      "license": "MIT",
+      "repository": "https://github.com/outscraper/outscraper-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Foutscraper-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:12:22.668Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 85
+    },
+    {
+      "name": "@mseep/ph-financial-access-mcp",
+      "version": "1.0.0",
+      "description": "Philippine Financial Access MCP Server. 587 BSP-supervised institutions across 7 categories, 37,834 financial access points (bank offices, ATMs, NSSLAs), and coverage analytics with PSGC and 2024 Census population data. Built on Cloudflare Workers.",
+      "license": "MIT",
+      "repository": "https://github.com/GodModeArch/ph-financial-access-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fph-financial-access-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:39:56.231Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 98
+    },
+    {
+      "name": "@mseep/pluggedin-mcp-proxy",
+      "version": "2.3.0",
+      "description": "Unified MCP proxy that aggregates all your MCP servers (STDIO, SSE, Streamable HTTP) into one powerful interface. Access any tool through a single connection, search across unified documents with built-in RAG, and receive notifications from any model. Tes",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/VeriTeknik/pluggedin-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fpluggedin-mcp-proxy",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:48:55.328Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 90
+    },
+    {
+      "name": "@mseep/skinguide-mcp-server",
+      "version": "1.1.0",
+      "description": "MCP server for SkinGuide: search skincare products by Baumann skin type, product category, country, and budget. Exposes AI-friendly endpoints for dry, sensitive, and other skin types.",
+      "license": "MIT",
+      "repository": "https://github.com/robertozerbini/skinguide-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fskinguide-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:08:12.723Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 98
+    },
+    {
+      "name": "@mseep/sparkforge-mcp-server",
+      "version": "1.0.0",
+      "description": "MCP server for SparkForge — 25 pay-per-use utility APIs powered by x402 micropayments on Base",
+      "license": "MIT",
+      "repository": "https://github.com/sparkforge-sh/sparkforge-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fsparkforge-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:18:22.676Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 89
+    },
+    {
+      "name": "@mseep/starknet-mcp-server",
+      "version": "1.0.3",
+      "description": "Model Context Protocol (MCP) server for interacting with Starknet",
+      "license": "MIT",
+      "repository": "https://github.com/mcpdotdirect/starknet-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fstarknet-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:06:23.205Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 82
+    },
+    {
+      "name": "@mseep/thinking-patterns",
+      "version": "1.0.3",
+      "description": "MCP server combining systematic thinking, mental models, debugging approaches, and stochastic algorithms for comprehensive cognitive pattern support",
+      "license": "MIT",
+      "repository": "https://github.com/emmahyde/thinking-patterns",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fthinking-patterns",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:28:12.483Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 94
+    },
+    {
+      "name": "@mseep/tmux-bridge-mcp",
+      "version": "0.3.0",
+      "description": "Standalone MCP server + CLI adapters for cross-pane AI agent communication via tmux (Claude, Codex, OpenCode, CodeBuddy, Copilot, Grok, Gemini, Kimi)",
+      "license": "MIT",
+      "repository": "https://github.com/howardpen9/tmux-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Ftmux-bridge-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:32:12.971Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 84
+    },
+    {
+      "name": "@mseep/turtlestack-lite",
+      "version": "2.0.0",
+      "description": "🚀 TurtleStack Lite - Multi-Broker Trading MCP Server with Kite, Groww, Dhan | Technical Analysis | Cloudflare Workers | Claude AI Integration",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/turtlehq-tech/turtlestack-lite",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fturtlestack-lite",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:30:18.358Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 94
+    },
+    {
+      "name": "@mseep/tweetsave-mcp",
+      "version": "1.0.4",
+      "description": "TweetSave - Twitter/X analysis without the token waste. Fetch tweets, download media. Works with Cursor, Claude, VS Code, Gemini & more. Zero config → tweetsave.org",
+      "license": "MIT",
+      "repository": "https://github.com/zezeron/tweetsave-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Ftweetsave-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T09:32:52.948Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 82
+    },
+    {
+      "name": "@mseep/zipmem-mcp",
+      "version": "1.0.0",
+      "description": "Local-first MCP server + CLI that gives terminal AI agents an endless semantic memory via Anchored Compacting, keeping the context window small.",
+      "license": "MIT",
+      "repository": "https://github.com/ahmetakyurt/zipmem-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mseep%2Fzipmem-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:07:38.335Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 94
     },
     {
       "name": "@mshkq/vditor",
@@ -41390,6 +41642,18 @@
       "score": 72
     },
     {
+      "name": "@thinkgrid/react-starter-auth",
+      "version": "1.0.1",
+      "description": "Secure JWT authentication for React and Next.js — HttpOnly server sessions, verified tokens, CSRF built in.",
+      "license": "MIT",
+      "repository": "https://github.com/thinkgrid-labs/react-starter-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40thinkgrid%2Freact-starter-auth",
+      "category": "frontend",
+      "createdAt": "2026-08-13T09:21:46.984Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 90
+    },
+    {
       "name": "@thomas-powers-jr/cadence-core",
       "version": "1.54.0",
       "description": "CADENCE engine — the DRAFT→BUILD→SETTLE loop, configurable quality gates, and the host-agnostic `cadence` CLI for AI-assisted development.",
@@ -47952,6 +48216,18 @@
       "createdAt": "2026-08-07T07:24:12.602Z",
       "discoveredAt": "2026-08-07T08:48:04.179Z",
       "score": 81
+    },
+    {
+      "name": "allure-katalon-bridge",
+      "version": "1.0.4",
+      "description": "Zero-touch Allure reporting for Katalon Studio projects - install with one command, no plugin, no OSGi packaging.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/montbaga/allure-katalon-bridge",
+      "npmUrl": "https://www.npmjs.com/package/allure-katalon-bridge",
+      "category": "testing",
+      "createdAt": "2026-08-13T09:17:34.491Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 85
     },
     {
       "name": "allye-pi",
@@ -59568,6 +59844,18 @@
       "createdAt": "2026-07-26T14:09:20.140Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 76
+    },
+    {
+      "name": "homebridge-unifi-access-ugt-fix",
+      "version": "1.12.2",
+      "description": "Homebridge UniFi Access plugin providing complete HomeKit integration for the UniFi Access ecosystem with full support for most features including autoconfiguration, motion detection, multiple controllers, and realtime updates.",
+      "license": "ISC",
+      "repository": "https://github.com/shibotong/homebridge-unifi-access",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-unifi-access-ugt-fix",
+      "category": "devops",
+      "createdAt": "2026-08-13T10:54:45.392Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 100
     },
     {
       "name": "homebridge-volvo-xc40",
@@ -79056,6 +79344,18 @@
       "createdAt": "2026-08-06T13:53:52.018Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 82
+    },
+    {
+      "name": "testtrace",
+      "version": "0.3.0",
+      "description": "Ground-truth UI element locators for AI coding assistants, plus a Locator Risk Score that flags which locators are likely to break your tests. Local CLI + MCP server, no hosting required.",
+      "license": "ISC",
+      "repository": "https://github.com/ReadyToRage/testtrace",
+      "npmUrl": "https://www.npmjs.com/package/testtrace",
+      "category": "testing",
+      "createdAt": "2026-08-13T10:21:37.190Z",
+      "discoveredAt": "2026-08-13T10:54:57.611Z",
+      "score": 86
     },
     {
       "name": "tf-import-blocks",
