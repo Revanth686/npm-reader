@@ -1,27 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125065959,
-  "lastRunAt": "2026-08-14T18:42:13.168Z",
+  "lastSequence": 125073865,
+  "lastRunAt": "2026-08-14T19:36:54.018Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@intellara/trovegen-mcp",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@quarkhz/query",
+      "name": "@iowarp/clio-coder",
       "attempts": 1
     },
     {
-      "name": "@dizlexic/mootasks-mcp",
+      "name": "@suss/framework-activerecord",
       "attempts": 1
     },
     {
-      "name": "@quarkhz/react-motion",
+      "name": "@fastyoke/mcp",
       "attempts": 1
     },
     {
-      "name": "@plone-collective/volto-multiworkflow",
+      "name": "@izzyjs/ui",
+      "attempts": 1
+    },
+    {
+      "name": "@maniclang/api-spec",
       "attempts": 1
     }
   ]

@@ -914,6 +914,18 @@
       "score": 76
     },
     {
+      "name": "@adia-ai/mcp",
+      "version": "0.8.37",
+      "description": "AdiaUI's two MCP servers, one npm package (gh#1240). `adia-mcp gen-ui` — the 30-tool generation server (compose engine, corpus, retrieval, feedback/eval loop). `adia-mcp protocol` — the 4-tool A2UI protocol server (validate + registry introspection, no ge",
+      "license": "MIT",
+      "repository": "https://github.com/adiahealth/gen-ui-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40adia-ai%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T19:12:37.348Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 69
+    },
+    {
       "name": "@adkit/google-ads-tracking",
       "version": "1.1.1",
       "description": "Google Ads conversion tracking for JavaScript and TypeScript. Zero-dependency gtag.js wrapper with eager, lazy, and manual script loading.",
@@ -2196,6 +2208,18 @@
       "createdAt": "2026-08-05T13:46:38.703Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 66
+    },
+    {
+      "name": "@algosoftltd/aso-mcp",
+      "version": "0.3.0",
+      "description": "App Store Optimization MCP server — keyword traffic and difficulty, rankings, and per-country competitor discovery from Apple's public App Store data. No account, no API key.",
+      "license": "MIT",
+      "repository": "https://github.com/algosoftbd/algosoft-os",
+      "npmUrl": "https://www.npmjs.com/package/%40algosoftltd%2Faso-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T15:37:31.909Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 61
     },
     {
       "name": "@ali.camargo/tournament-brackets",
@@ -3960,6 +3984,18 @@
       "createdAt": "2026-07-29T07:38:58.042Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 73
+    },
+    {
+      "name": "@arhen/pi-skill-tool",
+      "version": "0.1.1",
+      "description": "Pi extension — opencode2-style skills: strips the built-in skill catalog from the system prompt and exposes skills via a single lazy `skill` tool. Agent auto-invokes, no user input, saves ~4.5K tokens/session.",
+      "license": "MIT",
+      "repository": "https://github.com/arhen/pi-skill-tool",
+      "npmUrl": "https://www.npmjs.com/package/%40arhen%2Fpi-skill-tool",
+      "category": "utilities",
+      "createdAt": "2026-08-14T18:36:04.325Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 62
     },
     {
       "name": "@ariaskit/optipix",
@@ -13598,6 +13634,30 @@
       "score": 75
     },
     {
+      "name": "@essence-lang/client",
+      "version": "0.2.0",
+      "description": "Load Essence Modules from JavaScript, compiled on the way in.",
+      "license": "MIT",
+      "repository": "https://github.com/alexandertrefz/essence",
+      "npmUrl": "https://www.npmjs.com/package/%40essence-lang%2Fclient",
+      "category": "cli",
+      "createdAt": "2026-08-14T18:56:45.917Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 64
+    },
+    {
+      "name": "@essence-lang/standard-library",
+      "version": "0.2.0",
+      "description": "The Essence standard library, written in Essence.",
+      "license": "MIT",
+      "repository": "https://github.com/alexandertrefz/essence",
+      "npmUrl": "https://www.npmjs.com/package/%40essence-lang%2Fstandard-library",
+      "category": "utilities",
+      "createdAt": "2026-08-14T18:56:39.001Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 58
+    },
+    {
       "name": "@essence-lang/stdlib",
       "version": "0.1.0",
       "description": "The Essence standard library, written in Essence.",
@@ -17162,6 +17222,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/disperse",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for Disperse (build etherscan-disperse-d152f549-1786734047436, commit 220f67a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/disperse",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fdisperse",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T19:01:09.750Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/dna",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for DNA (build etherscan-dna-932261f9-1786082199530, commit 9fd191b, branch etherscan)",
@@ -18986,6 +19058,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/splitwallet",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for SplitWallet (build etherscan-splitwallet-4008ed96-1786733472251, commit f9c54a8, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/splitwallet",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fsplitwallet",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T05:56:48.233Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/sprtz",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for SPRTZ (build etherscan-sprtz-c560984d-1786179410615, commit 6775a5c, branch etherscan)",
@@ -20280,6 +20364,18 @@
       "createdAt": "2026-08-06T01:36:08.107Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 71
+    },
+    {
+      "name": "@gridengine/react-datagrid-enterprise",
+      "version": "1.2.0",
+      "description": "Enterprise-grade React DataGrid with premium features — built on react-open-source-grid",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/bhushanpoojary/react-datagrid-pro",
+      "npmUrl": "https://www.npmjs.com/package/%40gridengine%2Freact-datagrid-enterprise",
+      "category": "frontend",
+      "createdAt": "2026-08-14T19:23:55.250Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 53
     },
     {
       "name": "@grodev/claude-chat-react",
@@ -23330,6 +23426,18 @@
       "score": 73
     },
     {
+      "name": "@intframe/thermal-receipt",
+      "version": "0.1.0",
+      "description": "Scroll-driven thermal receipt printer UI component for React. Line-by-line thermal develop, stepped paper feed, stamp slam, tear-off.",
+      "license": "MIT",
+      "repository": "https://github.com/intframe/thermal-receipt",
+      "npmUrl": "https://www.npmjs.com/package/%40intframe%2Fthermal-receipt",
+      "category": "frontend",
+      "createdAt": "2026-08-14T18:53:12.438Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 58
+    },
+    {
       "name": "@intisy-ai/gemini-translator",
       "version": "0.1.2",
       "description": "Gemini wire-format <-> canonical IR translator (Java + TeaVM single source), a core-ir submodule library.",
@@ -24384,6 +24492,18 @@
       "createdAt": "2026-07-27T22:19:37.839Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 90
+    },
+    {
+      "name": "@jliocsar/begone-slop",
+      "version": "0.1.0",
+      "description": "Oxlint rules that reject low-evidence TypeScript and non-idiomatic Effect",
+      "license": "MIT",
+      "repository": "https://github.com/jliocsar/begone-slop",
+      "npmUrl": "https://www.npmjs.com/package/%40jliocsar%2Fbegone-slop",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T19:10:59.753Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 70
     },
     {
       "name": "@jmoak/vibrissa",
@@ -35054,6 +35174,30 @@
       "score": 66
     },
     {
+      "name": "@pbi-lineage-lenz/core",
+      "version": "1.1.0",
+      "description": "Core analysis engine for Power BI PBIP projects — parse TMDL/PBIR/M, build dependency graphs, trace DAX lineage, and resolve model names back to physical source-system names",
+      "license": "MIT",
+      "repository": "https://github.com/JonathanJihwanKim/pbi-lineage-lenz",
+      "npmUrl": "https://www.npmjs.com/package/%40pbi-lineage-lenz%2Fcore",
+      "category": "data",
+      "createdAt": "2026-08-13T08:15:37.327Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 70
+    },
+    {
+      "name": "@pbi-lineage-lenz/viewer",
+      "version": "1.1.0",
+      "description": "Read-only UI for a parsed Power BI model — lineage graph, measure catalog, and dual-name source map. No file I/O, so the same components render live in the browser and frozen inside a handoff file.",
+      "license": "MIT",
+      "repository": "https://github.com/JonathanJihwanKim/pbi-lineage-lenz",
+      "npmUrl": "https://www.npmjs.com/package/%40pbi-lineage-lenz%2Fviewer",
+      "category": "frontend",
+      "createdAt": "2026-08-13T08:16:11.437Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 54
+    },
+    {
       "name": "@pbpyrojust/universal-accessibility-audit",
       "version": "0.2.13",
       "description": "CLI toolkit for WCAG accessibility audits and Agentic Lighthouse scoring with sitemap discovery, Playwright + axe-core scanning, and ticket-ready outputs.",
@@ -40140,6 +40284,30 @@
       "createdAt": "2026-08-12T05:24:24.195Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 69
+    },
+    {
+      "name": "@scalar/rust-fmt",
+      "version": "0.1.0",
+      "description": "Rust formatter (rustfmt on wasm) - runs on plain Node, no Rust toolchain",
+      "license": "MIT",
+      "repository": "https://github.com/scalar/formatters",
+      "npmUrl": "https://www.npmjs.com/package/%40scalar%2Frust-fmt",
+      "category": "data",
+      "createdAt": "2026-08-12T05:24:43.943Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 60
+    },
+    {
+      "name": "@scalar/swift-fmt",
+      "version": "0.1.0",
+      "description": "Swift formatter (swift-format on wasm) - runs on plain Node, no Swift toolchain",
+      "license": "MIT",
+      "repository": "https://github.com/scalar/formatters",
+      "npmUrl": "https://www.npmjs.com/package/%40scalar%2Fswift-fmt",
+      "category": "data",
+      "createdAt": "2026-08-12T05:24:59.845Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 58
     },
     {
       "name": "@scan0815/virtual-scroller",
@@ -48756,6 +48924,18 @@
       "createdAt": "2026-08-09T10:35:24.585Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 56
+    },
+    {
+      "name": "@wgalleti/wskills",
+      "version": "0.1.0",
+      "description": "Skills reutilizáveis para Claude Code: frontend Vue 3 + PrimeVue 4 + suite W*, padrão de MR/commits e documento de projeto.",
+      "license": "MIT",
+      "repository": "https://github.com/wgalleti/wSkills",
+      "npmUrl": "https://www.npmjs.com/package/%40wgalleti%2Fwskills",
+      "category": "frontend",
+      "createdAt": "2026-08-14T19:21:29.781Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 65
     },
     {
       "name": "@whd4/foreman",
@@ -60650,6 +60830,18 @@
       "score": 63
     },
     {
+      "name": "dsh-document-review",
+      "version": "0.3.1",
+      "description": "DeepSeek Harness plugin: review Markdown documents in a local browser with annotations, replacements, and deletion suggestions. Supports single files and whole directories.",
+      "license": "MIT",
+      "repository": "https://github.com/yabo083/dsh-document-review",
+      "npmUrl": "https://www.npmjs.com/package/dsh-document-review",
+      "category": "frontend",
+      "createdAt": "2026-08-14T19:19:50.406Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 83
+    },
+    {
       "name": "dsh-doublecheck",
       "version": "0.5.0",
       "description": "Double-check before you ship: grill the requirements, test the implementation, prove the delivery.",
@@ -60698,6 +60890,18 @@
       "score": 66
     },
     {
+      "name": "dsh-langfuse",
+      "version": "0.1.1",
+      "description": "dsh-langfuse: Langfuse LLM observability for DeepSeek Harness — one OpenTelemetry trace tree per agent session, with feedback scores and subagent lineage.",
+      "license": "MIT",
+      "repository": "https://github.com/TtTRz/dsh-langfuse",
+      "npmUrl": "https://www.npmjs.com/package/dsh-langfuse",
+      "category": "devops",
+      "createdAt": "2026-08-14T18:55:22.256Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 59
+    },
+    {
       "name": "dsh-lark-channel",
       "version": "0.0.1",
       "description": "Lark/Feishu IM bot channel for DeepSeek Harness: chats drive agents, replies and approvals return as messages and cards",
@@ -60708,6 +60912,18 @@
       "createdAt": "2026-08-14T06:14:06.578Z",
       "discoveredAt": "2026-08-14T07:12:14.589Z",
       "score": 69
+    },
+    {
+      "name": "dsh-mcp-bridge",
+      "version": "0.1.0",
+      "description": "Curated, verified MCP server bundle for DeepSeek Harness (dsh): one install, battle-tested MCP servers — demo, memory, GitHub, Playwright, remote HTTP — plus a verify tool that checks every server's connectivity. 精选并验证过的 MCP 全家桶插件。",
+      "license": "MIT",
+      "repository": "https://github.com/Edge-Echo/dsh-mcp-bridge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mcp-bridge",
+      "category": "testing",
+      "createdAt": "2026-08-14T19:27:53.273Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 61
     },
     {
       "name": "dsh-mcp-panel",
@@ -60756,6 +60972,18 @@
       "createdAt": "2026-08-13T18:14:21.621Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
       "score": 70
+    },
+    {
+      "name": "dsh-obsidian-assistant",
+      "version": "1.0.0",
+      "description": "DeepSeek Harness plugin (Cordis toolset) for reading, searching, and editing a local Obsidian vault, with optional Local REST API integration.",
+      "license": "MIT",
+      "repository": "https://github.com/iamzcr/dsh-obsidian-assistant",
+      "npmUrl": "https://www.npmjs.com/package/dsh-obsidian-assistant",
+      "category": "backend",
+      "createdAt": "2026-08-14T18:59:40.467Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 67
     },
     {
       "name": "dsh-opencode-go-usage",
@@ -60890,6 +61118,18 @@
       "score": 86
     },
     {
+      "name": "dsh-speak",
+      "version": "1.0.0",
+      "description": "Make your AI harness speak — verified voice announcements for DSH and other AI coding harnesses (Windows SAPI5 + natural voices)",
+      "license": "MIT",
+      "repository": "https://github.com/Alan2Z/dsh-speak",
+      "npmUrl": "https://www.npmjs.com/package/dsh-speak",
+      "category": "backend",
+      "createdAt": "2026-08-14T19:35:28.838Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 70
+    },
+    {
       "name": "dsh-spend",
       "version": "0.1.1",
       "description": "Token usage, multi-dimensional statistics, auto-detected billing plans (Code/Token) and estimated spend for the dsh web UI",
@@ -61008,6 +61248,18 @@
       "createdAt": "2026-08-14T16:36:26.256Z",
       "discoveredAt": "2026-08-14T17:37:59.065Z",
       "score": 59
+    },
+    {
+      "name": "dsh-vim-keymap",
+      "version": "0.1.0",
+      "description": "Vim keybindings for the deepseek-harness Web GUI, mounted as an out-of-tree Cordis plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/zijun1991/dsh-vim-keymap",
+      "npmUrl": "https://www.npmjs.com/package/dsh-vim-keymap",
+      "category": "utilities",
+      "createdAt": "2026-08-14T19:00:09.014Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 58
     },
     {
       "name": "dsh-vision-mcp",
@@ -68750,6 +69002,18 @@
       "score": 72
     },
     {
+      "name": "lixblogs-cli",
+      "version": "1.1.0",
+      "description": "Official CLI for LixBlogs — publish, manage, and inspect blogs through the supported API. Built for creators and agent automation.",
+      "license": "MIT",
+      "repository": "https://github.com/elixpo/blogs.elixpo",
+      "npmUrl": "https://www.npmjs.com/package/lixblogs-cli",
+      "category": "backend",
+      "createdAt": "2026-08-14T19:36:21.519Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 76
+    },
+    {
       "name": "llm-agent-harness",
       "version": "0.1.0",
       "description": "Minimal tool-loop harness for LLM agents. Keep your provider SDK, keep your messages, add a correct tool loop.",
@@ -68904,6 +69168,18 @@
       "createdAt": "2026-08-07T04:29:56.448Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 72
+    },
+    {
+      "name": "llmwatch",
+      "version": "0.1.0",
+      "description": "See your Claude Code and Codex CLI usage levels and reset times, from the terminal or your own scripts.",
+      "license": "MIT",
+      "repository": "https://github.com/GR4Yxx/AImeter",
+      "npmUrl": "https://www.npmjs.com/package/llmwatch",
+      "category": "cli",
+      "createdAt": "2026-08-14T19:36:18.339Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 60
     },
     {
       "name": "llmwiki-bridge-start",
@@ -69708,6 +69984,18 @@
       "createdAt": "2026-07-26T23:34:15.527Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 51
+    },
+    {
+      "name": "market-hours",
+      "version": "0.1.0",
+      "description": "Is the market open? Trading hours, bank holidays and early closes for financial venues. Zero dependencies, Intl only.",
+      "license": "MIT",
+      "repository": "https://github.com/tickerfinance/market-hours",
+      "npmUrl": "https://www.npmjs.com/package/market-hours",
+      "category": "devops",
+      "createdAt": "2026-08-14T19:17:47.093Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 81
     },
     {
       "name": "markserv-marker",
@@ -87240,6 +87528,18 @@
       "createdAt": "2026-08-07T18:38:12.712Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 67
+    },
+    {
+      "name": "tracabit",
+      "version": "1.0.0",
+      "description": "Tracabit — GA4-style privacy-first analytics SDK + Sentry-style crash reporting. Multi-provider geo race, passive fingerprint, standard event helpers. Zero runtime deps. Works in browsers and Node 18+.",
+      "license": "MIT",
+      "repository": "https://github.com/tracabit/tracabit",
+      "npmUrl": "https://www.npmjs.com/package/tracabit",
+      "category": "frontend",
+      "createdAt": "2026-08-14T19:03:08.159Z",
+      "discoveredAt": "2026-08-14T19:36:54.018Z",
+      "score": 92
     },
     {
       "name": "traceenv-cli",
