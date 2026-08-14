@@ -98,6 +98,18 @@
       "score": 62
     },
     {
+      "name": "9am-ui",
+      "version": "1.1.0",
+      "description": "The shared design language, NUI plumbing and FiveM CEF workarounds behind every 9AM Studios script — an open shadcn registry.",
+      "license": "MIT",
+      "repository": "https://github.com/ilovehugetits/9am-ui",
+      "npmUrl": "https://www.npmjs.com/package/9am-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-14T15:54:38.202Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 79
+    },
+    {
       "name": "@06parnil/cubit.js",
       "version": "1.0.0",
       "description": "A lightweight, dependency-free JavaScript engine for modeling, manipulating, and visualizing NxN cubes.",
@@ -3266,6 +3278,18 @@
       "score": 78
     },
     {
+      "name": "@anionex/dsh-design",
+      "version": "0.1.0",
+      "description": "DSH-native Web/UI design Agent bundle with Create, Recreate, Refine, deterministic linting, verified handoff, Vision Toolkit composition, and an optional Agent preset",
+      "license": "MIT",
+      "repository": "https://github.com/Anionex/dsh-design",
+      "npmUrl": "https://www.npmjs.com/package/%40anionex%2Fdsh-design",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:58:00.246Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 80
+    },
+    {
       "name": "@anionex/dsh-vision-toolkit",
       "version": "0.1.5",
       "description": "DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, OCR, grounding, UI restoration, pixel diff, Artifacts, and Web UI.",
@@ -5426,6 +5450,18 @@
       "score": 68
     },
     {
+      "name": "@be-enlighten/beni-avatar",
+      "version": "0.4.0",
+      "description": "Avatar Vue 3 animado (mascote Beni) — squircle que olha pra você, pisca, pula e comemora. Estados, humores e acessórios, animações a 60fps com GSAP.",
+      "license": "MIT",
+      "repository": "https://github.com/Enlighten-Brasil/en-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40be-enlighten%2Fbeni-avatar",
+      "category": "frontend",
+      "createdAt": "2026-08-14T15:39:50.182Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 78
+    },
+    {
       "name": "@be-enlighten/enspace-sdk-ui",
       "version": "0.9.1",
       "description": "Vue 3 component library and Nuxt 4 module for the Enspace SDK — dumb base components + entity components wired to the /query data layer.",
@@ -6672,6 +6708,18 @@
       "createdAt": "2026-07-26T17:27:28.872Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 63
+    },
+    {
+      "name": "@bunbrowser/mcp",
+      "version": "1.0.0",
+      "description": "Ultra-fast Model Context Protocol (MCP) server for browser automation powered by Bun.WebView",
+      "license": "MIT",
+      "repository": "https://github.com/vintik100/bunbrowser",
+      "npmUrl": "https://www.npmjs.com/package/%40bunbrowser%2Fmcp",
+      "category": "testing",
+      "createdAt": "2026-08-14T15:55:42.571Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 82
     },
     {
       "name": "@bunkr-io/cli",
@@ -19634,6 +19682,18 @@
       "score": 83
     },
     {
+      "name": "@glassflow-ai/rius",
+      "version": "0.2.1",
+      "description": "OpenTelemetry-native tracing for AI agents and LLM applications",
+      "license": "MIT",
+      "repository": "https://github.com/glassflow/rius-sdk-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40glassflow-ai%2Frius",
+      "category": "devops",
+      "createdAt": "2026-08-14T11:14:01.115Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 76
+    },
+    {
       "name": "@glassity/agent-skills",
       "version": "1.0.0",
       "description": "Glassity agent skills for Claude Code — AWS cost, savings opportunities, and commitment coverage over the glassity CLI. Installable as a plugin or via npx.",
@@ -24600,6 +24660,18 @@
       "createdAt": "2026-08-08T05:25:21.016Z",
       "discoveredAt": "2026-08-08T05:30:36.627Z",
       "score": 88
+    },
+    {
+      "name": "@jw53222/faultseed-dsh",
+      "version": "0.1.1",
+      "description": "dsh (DeepSeek Harness) bundle: mounts the faultseed honesty-guardrail hooks over @deepseek-ai/dsh-hooks-claude-code, unmodified, via _dispatch.py",
+      "license": "MIT",
+      "repository": "https://github.com/JW53222/faultseed",
+      "npmUrl": "https://www.npmjs.com/package/%40jw53222%2Ffaultseed-dsh",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:36:31.520Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 82
     },
     {
       "name": "@k2b/nessi",
@@ -35018,6 +35090,18 @@
       "score": 78
     },
     {
+      "name": "@perrylink/dsh-skill-pack-security-provider",
+      "version": "1.3.0",
+      "description": "Optional provider plugin for dsh-skill-pack-security: registers the pack's skills/ (zh) or skills-en/ (en) edition on ctx.skills. Ships both editions embedded in pack/.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-skill-pack-security",
+      "npmUrl": "https://www.npmjs.com/package/%40perrylink%2Fdsh-skill-pack-security-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-14T15:20:07.273Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 82
+    },
+    {
       "name": "@personaai/runtime",
       "version": "0.5.0",
       "description": "Framework-agnostic runtime engine for Persona (persona.hasanraiyan.me) — the shared engine every framework adapter (@personaai/express, @personaai/nextjs, ...) wraps. Server-side only.",
@@ -43130,6 +43214,18 @@
       "score": 67
     },
     {
+      "name": "@supercat1337/store2-deep",
+      "version": "1.0.0",
+      "description": "Deep reactivity for @supercat1337/store2 — mutable nested state with granular updates",
+      "license": "MIT",
+      "repository": "https://github.com/supercat1337/store2-deep",
+      "npmUrl": "https://www.npmjs.com/package/%40supercat1337%2Fstore2-deep",
+      "category": "frontend",
+      "createdAt": "2026-08-04T16:06:10.184Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 84
+    },
+    {
       "name": "@supercmdk/react",
       "version": "0.1.0",
       "description": "A React command palette with scoped commands and an on-device tool-calling Agent.",
@@ -47268,6 +47364,18 @@
       "createdAt": "2026-08-07T23:00:47.332Z",
       "discoveredAt": "2026-08-07T23:03:58.437Z",
       "score": 78
+    },
+    {
+      "name": "@vibeharness/cli",
+      "version": "0.4.1",
+      "description": "Production harness for vibecoding — PRD, spec, curated stack recommendations, AI rules, context packing and audits in a single CLI",
+      "license": "MIT",
+      "repository": "https://github.com/EuVinicios/vibeHarness",
+      "npmUrl": "https://www.npmjs.com/package/%40vibeharness%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-14T15:42:30.337Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 81
     },
     {
       "name": "@vibsl/mcp-server",
@@ -52670,6 +52778,18 @@
       "score": 46
     },
     {
+      "name": "api-probe",
+      "version": "1.1.1",
+      "description": "Local multi-protocol LLM API tester for OpenAI-compatible, Anthropic, and Gemini endpoints",
+      "license": "MIT",
+      "repository": "https://github.com/xydadada/api-probe",
+      "npmUrl": "https://www.npmjs.com/package/api-probe",
+      "category": "testing",
+      "createdAt": "2026-08-14T15:40:17.459Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 81
+    },
+    {
       "name": "api-response-tsjs",
       "version": "0.0.1",
       "description": "Type-safe, framework-agnostic success/error response envelopes, error classes, and offset + cursor pagination helpers for Node.js APIs. Ships optional Express and Fastify adapters.",
@@ -57890,6 +58010,18 @@
       "score": 70
     },
     {
+      "name": "create-nuxt-saas",
+      "version": "1.0.0",
+      "description": "Create and upgrade modular Nuxt SaaS projects: auth, admin, PWA, docs, feature flags.",
+      "license": "MIT",
+      "repository": "https://github.com/No-Name-Studio-VN/Nuxt-Starter-Kit",
+      "npmUrl": "https://www.npmjs.com/package/create-nuxt-saas",
+      "category": "devops",
+      "createdAt": "2026-08-14T15:07:08.380Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 83
+    },
+    {
       "name": "create-ocp",
       "version": "0.2.0",
       "description": "Scaffold an OCP (Organizational Context Protocol) organization — a git-native markdown substrate that humans read and AI agents consume.",
@@ -58790,6 +58922,18 @@
       "score": 66
     },
     {
+      "name": "deferless",
+      "version": "0.1.0",
+      "description": "Fail-closed gates for work an AI agent did on your behalf: a plan it cannot quietly deviate from, and findings it cannot defer.",
+      "license": "MIT",
+      "repository": "https://github.com/kyisaiah47/deferless",
+      "npmUrl": "https://www.npmjs.com/package/deferless",
+      "category": "devops",
+      "createdAt": "2026-08-14T15:54:51.617Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 82
+    },
+    {
       "name": "definite-ts",
       "version": "1.0.0",
       "description": "TypeScript client for the Definite Assurance motor insurance API — onboard clients and intermediaries, quote premiums, submit proposals, and initiate payments in Kenya.",
@@ -59474,6 +59618,18 @@
       "score": 74
     },
     {
+      "name": "docfill-sdk",
+      "version": "1.1.2",
+      "description": "Framework-agnostic SDK that turns any tagged web form into a QR-driven autofill target backed by the DocFill PWA + Supabase.",
+      "license": "MIT",
+      "repository": "https://github.com/shreyasling/docsfill-sdk",
+      "npmUrl": "https://www.npmjs.com/package/docfill-sdk",
+      "category": "data",
+      "createdAt": "2026-08-14T15:18:45.607Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 80
+    },
+    {
       "name": "docraft",
       "version": "0.1.0",
       "description": "CLI tool that detects {{PLACEHOLDER}} fields in docx, odt, pages, pdf and markdown documents and fills them in interactively or via automation.",
@@ -59930,6 +60086,18 @@
       "score": 67
     },
     {
+      "name": "dsh-auto-approval-plugin",
+      "version": "1.5.0",
+      "description": "A middle permission tier for DeepSeek Harness between workspace-write and danger-full-access: auto-approves harmless commands and operations targeting configured trusted areas, beyond the current workspace.",
+      "license": "MIT",
+      "repository": "https://github.com/StyxNether/dsh-auto-approval",
+      "npmUrl": "https://www.npmjs.com/package/dsh-auto-approval-plugin",
+      "category": "utilities",
+      "createdAt": "2026-08-14T15:59:20.169Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 76
+    },
+    {
       "name": "dsh-background-agents",
       "version": "0.3.0",
       "description": "Interactive long-session background agents for DeepSeek Harness: start a durable continuable child agent from any session, watch its progress in the Web UI sidebar, message it any time, and interrupt it — all through the official subagent seam.",
@@ -59952,6 +60120,18 @@
       "createdAt": "2026-08-13T17:20:59.138Z",
       "discoveredAt": "2026-08-13T17:44:22.449Z",
       "score": 62
+    },
+    {
+      "name": "dsh-better-edit",
+      "version": "0.1.0",
+      "description": "Hash-anchored read/edit/batch_edit/undo_last_edit tools for DeepSeek Harness (dsh). Every line gets a unique 3-char hash (A-Za-z0-9) that stays stable across edits; stale or ambiguous anchors are rejected, never fuzzy-matched. Undo persists across restart",
+      "license": "MIT",
+      "repository": "https://github.com/Rianico/dsh-better-edit",
+      "npmUrl": "https://www.npmjs.com/package/dsh-better-edit",
+      "category": "utilities",
+      "createdAt": "2026-08-14T16:33:12.590Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 80
     },
     {
       "name": "dsh-chat-import",
@@ -60110,6 +60290,18 @@
       "score": 69
     },
     {
+      "name": "dsh-memento",
+      "version": "0.2.0",
+      "description": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness — a capability seam (ctx.memory service + local SQLite provider + memory tool + frozen snapshot injection), not another memory warehouse",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-memento",
+      "npmUrl": "https://www.npmjs.com/package/dsh-memento",
+      "category": "data",
+      "createdAt": "2026-08-14T15:29:36.911Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 87
+    },
+    {
       "name": "dsh-meta-orchestrator",
       "version": "0.2.0",
       "description": "A model-native meta-agent plugin for DeepSeek Harness: the model synthesizes task-specific workflows at runtime from five agentic workflow patterns (prompt chaining, parallel workers, router, supervisor, evaluation loop) and coordinates tools and subagent",
@@ -60230,6 +60422,30 @@
       "score": 68
     },
     {
+      "name": "dsh-requirements-alignment",
+      "version": "0.1.1",
+      "description": "Lightweight requirement alignment for DeepSeek Harness — align important decisions before execution without imposing a full spec workflow.",
+      "license": "MIT",
+      "repository": "https://github.com/jiezeng2004-design/dsh-requirements-alignment",
+      "npmUrl": "https://www.npmjs.com/package/dsh-requirements-alignment",
+      "category": "devops",
+      "createdAt": "2026-08-14T13:36:59.837Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 75
+    },
+    {
+      "name": "dsh-skill-hub",
+      "version": "0.1.0",
+      "description": "In-GUI skill hub for DeepSeek Harness (dsh): browse the full local skill catalog from the official ctx.skills registry (every root + third-party providers), toggle skills on/off, inspect bodies, surface frontmatter diagnostics, and scaffold new skills — t",
+      "license": "MIT",
+      "repository": "https://github.com/cheshireez/dsh-skill-hub",
+      "npmUrl": "https://www.npmjs.com/package/dsh-skill-hub",
+      "category": "devops",
+      "createdAt": "2026-08-14T08:29:55.998Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 86
+    },
+    {
       "name": "dsh-spend",
       "version": "0.1.1",
       "description": "Token usage, multi-dimensional statistics, auto-detected billing plans (Code/Token) and estimated spend for the dsh web UI",
@@ -60240,6 +60456,18 @@
       "createdAt": "2026-08-14T04:31:05.275Z",
       "discoveredAt": "2026-08-14T05:39:25.773Z",
       "score": 71
+    },
+    {
+      "name": "dsh-theme-pack",
+      "version": "1.0.0",
+      "description": "16 third-party theme skins for the DeepSeek Harness (DSH) Web GUI — Catppuccin / Gruvbox / Everforest / Rosé Pine / Solarized / Kanagawa / Tokyo Night / Night Owl / Nord / Dracula / One Dark",
+      "license": "MIT",
+      "repository": "https://github.com/math-lrz/dsh-theme-pack",
+      "npmUrl": "https://www.npmjs.com/package/dsh-theme-pack",
+      "category": "devops",
+      "createdAt": "2026-08-14T16:00:56.697Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 81
     },
     {
       "name": "dsh-tiered-approval",
@@ -60324,6 +60552,18 @@
       "createdAt": "2026-08-14T14:37:26.767Z",
       "discoveredAt": "2026-08-14T15:01:05.305Z",
       "score": 91
+    },
+    {
+      "name": "dsh-vision-router",
+      "version": "1.0.0",
+      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool",
+      "license": "MIT",
+      "repository": "https://github.com/ysr666/dsh-vision-router",
+      "npmUrl": "https://www.npmjs.com/package/dsh-vision-router",
+      "category": "utilities",
+      "createdAt": "2026-08-14T15:47:58.090Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 100
     },
     {
       "name": "dsh-wechat-bridge",
@@ -74750,6 +74990,18 @@
       "score": 84
     },
     {
+      "name": "openpitstop",
+      "version": "1.0.0",
+      "description": "Deterministic scans + your coding agent's own reasoning, in one autonomous quality loop. Adds a /pitstop slash-command to any AI coding tool.",
+      "license": "MIT",
+      "repository": "https://github.com/Krish-1507/OpenPitStop",
+      "npmUrl": "https://www.npmjs.com/package/openpitstop",
+      "category": "cli",
+      "createdAt": "2026-08-14T16:04:28.527Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 92
+    },
+    {
       "name": "openread",
       "version": "2.7.0",
       "description": "Translate web pages, PDFs and text on your own machine - Chrome's built-in on-device model by default, a local LLM through Ollama when you want one. Browser extension, CLI, and MCP server.",
@@ -82706,6 +82958,18 @@
       "score": 82
     },
     {
+      "name": "shipward",
+      "version": "0.1.0",
+      "description": "The project board that doesn't take your coding agent's word for it. Runs your check before a card moves; lets git overrule the board.",
+      "license": "MIT",
+      "repository": "https://github.com/albertoclemente/shipward",
+      "npmUrl": "https://www.npmjs.com/package/shipward",
+      "category": "utilities",
+      "createdAt": "2026-08-13T07:31:42.200Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 77
+    },
+    {
       "name": "shojiku",
       "version": "0.2.0",
       "description": "Shojiku for Node.js — a YAML template plus your data, deterministically, as a PDF",
@@ -83508,6 +83772,18 @@
       "createdAt": "2026-08-07T22:18:21.774Z",
       "discoveredAt": "2026-08-07T22:26:27.657Z",
       "score": 68
+    },
+    {
+      "name": "sol-luna-orchestrator",
+      "version": "0.5.0",
+      "description": "MCP server that lets a supervising OpenAI Codex agent delegate bounded implementation tasks to isolated worker threads, with file-scope enforcement and independently verified results.",
+      "license": "MIT",
+      "repository": "https://github.com/mahadansar/sol-luna-orchestrator",
+      "npmUrl": "https://www.npmjs.com/package/sol-luna-orchestrator",
+      "category": "backend",
+      "createdAt": "2026-08-14T15:36:55.440Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 84
     },
     {
       "name": "solana-agent-kit-plugin-risk-api",
@@ -84780,6 +85056,18 @@
       "createdAt": "2026-07-25T12:40:07.341Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 68
+    },
+    {
+      "name": "supermd",
+      "version": "1.9.0",
+      "description": "A universal anti-slop system prompt for any profession — compose prompts and lint text for AI slop. Pure Markdown, bilingual EN/ID, zero dependencies.",
+      "license": "CC-BY-4.0",
+      "repository": "https://github.com/TegarTheGreat/SuperMD",
+      "npmUrl": "https://www.npmjs.com/package/supermd",
+      "category": "cli",
+      "createdAt": "2026-08-14T15:11:37.890Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 93
     },
     {
       "name": "superside-skills",
@@ -87684,6 +87972,18 @@
       "createdAt": "2026-07-26T17:02:37.292Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 64
+    },
+    {
+      "name": "vecline",
+      "version": "1.33.0",
+      "description": "The measurable image + document toolkit for JavaScript. Raster <-> SVG (pixel-exact lossless or quality-targeted Bezier tracing, verified with PSNR/SSIM/CIEDE2000), plus PDF & Office (docx/xlsx/pptx) rendering and conversion, images-to-PDF, DXF/EPS/PDF/G-",
+      "license": "MIT",
+      "repository": "https://github.com/shunyagatha/Vecline",
+      "npmUrl": "https://www.npmjs.com/package/vecline",
+      "category": "frontend",
+      "createdAt": "2026-08-14T15:11:32.625Z",
+      "discoveredAt": "2026-08-14T16:42:14.135Z",
+      "score": 100
     },
     {
       "name": "vektr-design-system",
