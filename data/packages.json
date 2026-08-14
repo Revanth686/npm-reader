@@ -6254,6 +6254,18 @@
       "score": 88
     },
     {
+      "name": "@brick-byte/footnote",
+      "version": "0.1.0",
+      "description": "Claim-level provenance for AI over business data. Every number in an answer traces back to the rows that produced it.",
+      "license": "MIT",
+      "repository": "https://github.com/brick-byte/footnote",
+      "npmUrl": "https://www.npmjs.com/package/%40brick-byte%2Ffootnote",
+      "category": "data",
+      "createdAt": "2026-08-14T14:37:52.441Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 77
+    },
+    {
       "name": "@bricnbrac-purl/cli",
       "version": "0.1.0",
       "description": "Purl Atelier Map capture CLI for Codex and Claude Code",
@@ -8882,6 +8894,18 @@
       "score": 75
     },
     {
+      "name": "@contextslim/sdk",
+      "version": "1.0.1",
+      "description": "Official TypeScript SDK for ContextSlim MCP Optimization and x402 Middleware",
+      "license": "MIT",
+      "repository": "https://github.com/friczerocom-cpu/contextslim-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40contextslim%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T13:34:44.715Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 84
+    },
+    {
       "name": "@continuousarchitecture/archi-open-exchange",
       "version": "0.1.0",
       "description": "Convert a parsed Archi ArchiModel into the ArchiMate Model Exchange File Format XML (The Open Group standard, XSD 3.1).",
@@ -10068,6 +10092,18 @@
       "createdAt": "2026-08-14T08:50:52.789Z",
       "discoveredAt": "2026-08-14T09:00:21.572Z",
       "score": 82
+    },
+    {
+      "name": "@demystify/ai",
+      "version": "0.1.0",
+      "description": "Tenant-scoped composition layer for the Demystify AI kit. One createAI({ tenantKey }) call returns surfaces already bound to that tenant — no method takes a tenant key, so none can take the wrong one. Attaches a per-tenant BYOK Credential to every backend",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fai",
+      "category": "backend",
+      "createdAt": "2026-08-14T14:35:40.541Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 86
     },
     {
       "name": "@demystify/ai-guardrails",
@@ -14340,6 +14376,18 @@
       "createdAt": "2026-08-07T12:27:51.541Z",
       "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 61
+    },
+    {
+      "name": "@flashesofbrilliance/rosetta-shell",
+      "version": "0.1.0",
+      "description": "Lossless shell/environment translation (bash 3.2 <-> zsh <-> POSIX). Run one script natively in every shell locale, and gate portability in CI.",
+      "license": "MIT",
+      "repository": "https://github.com/flashesofbrilliance/rosetta-shell",
+      "npmUrl": "https://www.npmjs.com/package/%40flashesofbrilliance%2Frosetta-shell",
+      "category": "data",
+      "createdAt": "2026-08-14T14:43:52.808Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 67
     },
     {
       "name": "@flaskbb/markdown-toolbar-element",
@@ -22406,6 +22454,18 @@
       "score": 80
     },
     {
+      "name": "@improntus/saas-app-storefront-okta-integration",
+      "version": "1.0.1",
+      "description": "Okta SSO block integration for Adobe Commerce dropins storefronts on AEM Edge Delivery Services.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/improntus/saas-app-storefront-okta-integration",
+      "npmUrl": "https://www.npmjs.com/package/%40improntus%2Fsaas-app-storefront-okta-integration",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:06:04.444Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 81
+    },
+    {
       "name": "@imqueue/datadog",
       "version": "3.2.0",
       "description": "Datadog APM tracing for @imqueue microservices — an unofficial community integration that drop-in replaces Datadog's own dd-trace package and traces every RPC",
@@ -25548,6 +25608,18 @@
       "createdAt": "2026-07-28T22:15:20.638Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 66
+    },
+    {
+      "name": "@lanxing/dsh-skill-manager",
+      "version": "0.2.0",
+      "description": "Skill manager for the dsh web GUI: a sidebar entry plus a panel listing the skills visible to the current session (split into global / local groups) with per-skill on/off switches, create / import / edit / delete. Disabling a skill removes it from the mod",
+      "license": "MIT",
+      "repository": "https://github.com/Lanxing6480/dsh-skill-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40lanxing%2Fdsh-skill-manager",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:00:45.410Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 65
     },
     {
       "name": "@lapointelabs/tripwire",
@@ -29330,6 +29402,30 @@
       "score": 75
     },
     {
+      "name": "@mohammad154/opencode-nexus",
+      "version": "1.1.0",
+      "description": "Multi-agent development workflow for OpenCode, with V3 profiles and an executable workflow engine",
+      "license": "MIT",
+      "repository": "https://github.com/mohammad154/opencode-nexus",
+      "npmUrl": "https://www.npmjs.com/package/%40mohammad154%2Fopencode-nexus",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:43:21.254Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 80
+    },
+    {
+      "name": "@moldea.ai/cli",
+      "version": "1.0.0",
+      "description": "The canonical read-only local command-line composition for moldea repositories.",
+      "license": "MIT",
+      "repository": "https://github.com/moldea-ai/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40moldea.ai%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-14T14:34:25.564Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 67
+    },
+    {
       "name": "@molecule/api-ai-image-generation",
       "version": "1.0.1",
       "description": "<!-- AUTO-GENERATED — DO NOT EDIT THIS FILE. Generated by `mlcl sync-docs` from the package's src/index.ts JSDoc + mlcl/registry.json. Edits here are overwritten on the next commit (molecule's pre-commit hook regenerates). To change this document, edit th",
@@ -32208,6 +32304,18 @@
       "createdAt": "2026-08-12T11:26:28.171Z",
       "discoveredAt": "2026-08-12T11:37:58.641Z",
       "score": 57
+    },
+    {
+      "name": "@noetic-tools/acp",
+      "version": "1.0.0",
+      "description": "Agent Client Protocol client for Noetic. Drives any ACP-speaking coding agent (Claude Code, Codex, Gemini CLI, …) as a step, serving fs/*, terminal/*, and permission requests from Noetic's own adapters.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mattapperson/noetic",
+      "npmUrl": "https://www.npmjs.com/package/%40noetic-tools%2Facp",
+      "category": "cli",
+      "createdAt": "2026-08-14T14:04:42.348Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 69
     },
     {
       "name": "@nogardxu/pi-open-tui",
@@ -37190,6 +37298,18 @@
       "score": 70
     },
     {
+      "name": "@razorwind/vivaldi",
+      "version": "0.0.2",
+      "description": "Razorwind plugin that generates Vivaldi browser themes from design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/storm-software/razorwind",
+      "npmUrl": "https://www.npmjs.com/package/%40razorwind%2Fvivaldi",
+      "category": "frontend",
+      "createdAt": "2026-08-14T14:39:56.700Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 71
+    },
+    {
       "name": "@razorwind/vsce",
       "version": "0.0.3",
       "description": "Razorwind Visual Studio Code Extension plugin that creates theming extensions from design tokens.",
@@ -41210,6 +41330,18 @@
       "score": 73
     },
     {
+      "name": "@skyphusion/slate",
+      "version": "0.5.6",
+      "description": "Slate -- Vivijure Screenwriter's Assistant for Discord",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/skyphusion-labs/slate",
+      "npmUrl": "https://www.npmjs.com/package/%40skyphusion%2Fslate",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:08:29.881Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 69
+    },
+    {
       "name": "@slastra/yplib",
       "version": "0.1.0",
       "description": "YPL thermal label printer protocol: framing, CRC, 1-bit raster, and a Web Bluetooth transport. Reverse-engineered and verified against hardware captures.",
@@ -42924,6 +43056,18 @@
       "createdAt": "2026-08-04T13:50:09.745Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 78
+    },
+    {
+      "name": "@sullux/email-cli",
+      "version": "1.0.0",
+      "description": "Command-line email client for sending, querying, and managing emails via @sullux/email-client.",
+      "license": "MIT",
+      "repository": "https://github.com/Sullux/coms",
+      "npmUrl": "https://www.npmjs.com/package/%40sullux%2Femail-cli",
+      "category": "cli",
+      "createdAt": "2026-08-14T14:42:05.286Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 69
     },
     {
       "name": "@sume-com/sdk",
@@ -45206,6 +45350,18 @@
       "score": 71
     },
     {
+      "name": "@torium-network/sdk",
+      "version": "0.1.1",
+      "description": "Local-first TypeScript SDK foundation for the Torium sovereign EVM L1",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Torium-Network/torium",
+      "npmUrl": "https://www.npmjs.com/package/%40torium-network%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T13:36:53.032Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 66
+    },
+    {
       "name": "@totemsdk/edge-email",
       "version": "0.1.0",
       "description": "Edge runtime adapter for email — IMAP/SMTP polling, notification delivery, command parsing, and sensor ingestion via email",
@@ -45768,6 +45924,42 @@
       "createdAt": "2026-07-31T21:17:32.209Z",
       "discoveredAt": "2026-08-01T16:52:11.362Z",
       "score": 65
+    },
+    {
+      "name": "@ukladjs/core",
+      "version": "0.2.0",
+      "description": "Uklad — re-frame-style reactive state management for React and React Native. Pure event handlers over one central state, derived subscriptions, isolated side effects. Built for AI agentic development.",
+      "license": "MIT",
+      "repository": "https://github.com/ukladjs/uklad",
+      "npmUrl": "https://www.npmjs.com/package/%40ukladjs%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-08-14T14:36:02.788Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 90
+    },
+    {
+      "name": "@ukladjs/devtools",
+      "version": "0.2.0",
+      "description": "Developer tools for applications built with Uklad.",
+      "license": "MIT",
+      "repository": "https://github.com/ukladjs/uklad",
+      "npmUrl": "https://www.npmjs.com/package/%40ukladjs%2Fdevtools",
+      "category": "frontend",
+      "createdAt": "2026-08-14T14:36:22.734Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 65
+    },
+    {
+      "name": "@ukladjs/devtools-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for Uklad DevTools - enables AI assistants to inspect traces and dispatch events",
+      "license": "MIT",
+      "repository": "https://github.com/ukladjs/uklad",
+      "npmUrl": "https://www.npmjs.com/package/%40ukladjs%2Fdevtools-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T14:36:37.840Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 71
     },
     {
       "name": "@ulisesv.com/country-state-city",
@@ -46680,6 +46872,30 @@
       "createdAt": "2026-08-08T10:13:37.434Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 64
+    },
+    {
+      "name": "@vaultline/cli",
+      "version": "1.4.0",
+      "description": "Zero-trust context control for GitHub Copilot CLI — redacts secrets, PII and infrastructure detail out of file and shell tool results before they reach the model, and rehydrates them before anything is written back to disk.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kashyapjain123/vaultline",
+      "npmUrl": "https://www.npmjs.com/package/%40vaultline%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-14T14:43:14.278Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 69
+    },
+    {
+      "name": "@vaultline/core",
+      "version": "1.4.0",
+      "description": "Editor-agnostic detection, redaction and policy engine for Vaultline — zero-trust context control for AI coding agents.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kashyapjain123/vaultline",
+      "npmUrl": "https://www.npmjs.com/package/%40vaultline%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:43:10.987Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 71
     },
     {
       "name": "@vcxcvii/rainmaker",
@@ -59858,6 +60074,18 @@
       "score": 71
     },
     {
+      "name": "dsh-inspector",
+      "version": "0.1.1",
+      "description": "Inspect and manage the live instruction chain and project skills for the current dsh session, with in-place creation and editing — what you see is what the model gets",
+      "license": "MIT",
+      "repository": "https://github.com/CocoSgt/dsh-inspector",
+      "npmUrl": "https://www.npmjs.com/package/dsh-inspector",
+      "category": "utilities",
+      "createdAt": "2026-08-14T09:19:12.178Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 66
+    },
+    {
       "name": "dsh-lark-channel",
       "version": "0.0.1",
       "description": "Lark/Feishu IM bot channel for DeepSeek Harness: chats drive agents, replies and approvals return as messages and cards",
@@ -59966,6 +60194,18 @@
       "score": 67
     },
     {
+      "name": "dsh-plugin-subagent-director",
+      "version": "0.1.0",
+      "description": "Subagent Director: choose an LLM provider/model for each subagent (call args > role binding > plugin default > inherit parent) and plan main-agent/subagent responsibilities with role templates, plus a settings UI.",
+      "license": "MIT",
+      "repository": "https://github.com/SeverusZh/dsh-plugin-subagent-director",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-subagent-director",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:54:10.254Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 66
+    },
+    {
       "name": "dsh-plugin-vision-tool",
       "version": "1.0.0",
       "description": "Image recognition for text-only DeepSeek Harness models: registers the analyze_image tool, routing images to a dedicated vision model (default zhipu/glm-4.6v-flash) through the harness's own ctx.llm seam. 给纯文本模型（如 DeepSeek）加识图能力：文本模型会话也能'看图'。",
@@ -60072,6 +60312,18 @@
       "createdAt": "2026-08-13T19:09:10.841Z",
       "discoveredAt": "2026-08-13T20:32:34.831Z",
       "score": 50
+    },
+    {
+      "name": "dsh-vision-mcp",
+      "version": "1.2.0",
+      "description": "Give your text-only LLM eyes: an MCP server that reads images via external OpenAI-compatible vision models (OpenAI, Qwen-VL, GLM, Gemini, Grok, Ollama...) with automatic provider fallback on rate-limit/errors.",
+      "license": "MIT",
+      "repository": "https://github.com/moton16/dsh-vision-mcp",
+      "npmUrl": "https://www.npmjs.com/package/dsh-vision-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T14:37:26.767Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 91
     },
     {
       "name": "dsh-wechat-bridge",
@@ -62928,6 +63180,18 @@
       "createdAt": "2026-08-06T00:36:45.580Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 73
+    },
+    {
+      "name": "germinate",
+      "version": "0.1.0",
+      "description": "A serializable, provenance-carrying handoff protocol for multi-agent / multi-worktree development: append-only belief-log, drift-visible manifest, coal→diamond compaction, and a git-serializability check.",
+      "license": "MIT",
+      "repository": "https://github.com/flashesofbrilliance/germinate",
+      "npmUrl": "https://www.npmjs.com/package/germinate",
+      "category": "utilities",
+      "createdAt": "2026-08-14T14:57:40.691Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 87
     },
     {
       "name": "geto-graph",
@@ -73706,6 +73970,18 @@
       "score": 81
     },
     {
+      "name": "onvi-cursor-handbook",
+      "version": "1.5.2",
+      "description": "OnviTeam Cursor IDE handbook -- rules, agents, skills, commands, and hooks",
+      "license": "MIT",
+      "repository": "https://github.com/DS-Industry/onviteam-cursor-handbook",
+      "npmUrl": "https://www.npmjs.com/package/onvi-cursor-handbook",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T14:35:00.330Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 78
+    },
+    {
       "name": "open-alex-wrapper",
       "version": "0.1.0",
       "description": "A fully-typed TypeScript SDK for the OpenAlex API: all 8 entities, streaming auto-pagination, parallel fetching, and dollar-cost estimation with live budget tracking.",
@@ -75746,6 +76022,18 @@
       "score": 90
     },
     {
+      "name": "pi-acp-jetbrain",
+      "version": "0.0.34",
+      "description": "ACP adapter for the pi coding agent (JetBrains IDEs primary host)",
+      "license": "MIT",
+      "repository": "https://github.com/ryan-brosas/pi-acp-jetbrain",
+      "npmUrl": "https://www.npmjs.com/package/pi-acp-jetbrain",
+      "category": "cli",
+      "createdAt": "2026-08-14T14:27:25.537Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 68
+    },
+    {
       "name": "pi-active-memory",
       "version": "0.1.0",
       "description": "Proactive semantic memory and mid-run steering for the Pi coding agent",
@@ -76620,6 +76908,18 @@
       "createdAt": "2026-08-02T19:21:28.168Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 80
+    },
+    {
+      "name": "pi-relay-switch",
+      "version": "0.1.0",
+      "description": "Manage multiple OpenAI/Anthropic-compatible API relays in pi: switch relays, pull model lists, manage API keys, and wire thinking levels (shift+tab) through to the relay.",
+      "license": "MIT",
+      "repository": "https://github.com/n0rt6/pi-relay-switch",
+      "npmUrl": "https://www.npmjs.com/package/pi-relay-switch",
+      "category": "backend",
+      "createdAt": "2026-08-14T15:00:00.946Z",
+      "discoveredAt": "2026-08-14T15:01:05.305Z",
+      "score": 70
     },
     {
       "name": "pi-router-pintar",
