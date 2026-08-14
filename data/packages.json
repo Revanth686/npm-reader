@@ -7166,6 +7166,18 @@
       "score": 72
     },
     {
+      "name": "@cardenelabs/cdl",
+      "version": "0.5.0",
+      "description": "CDL (Chainome Diagram Language). Mermaid-like declarative DSL that compiles to animated SVG diagrams. Built for blockchain / Solidity flows, generic enough for sequence / flow / state / ER / topology diagrams.",
+      "license": "MIT",
+      "repository": "https://github.com/cardene777/cdl",
+      "npmUrl": "https://www.npmjs.com/package/%40cardenelabs%2Fcdl",
+      "category": "frontend",
+      "createdAt": "2026-08-14T07:52:11.532Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 90
+    },
+    {
       "name": "@cardochat/sdk",
       "version": "1.0.1",
       "description": "Official Cardochat SDK — multi-tenant chat API client + React components",
@@ -8472,6 +8484,18 @@
       "createdAt": "2026-07-28T21:53:43.328Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 63
+    },
+    {
+      "name": "@commencement.technology/ct-seri-logs",
+      "version": "0.2.0",
+      "description": "SERI-structured logging and observability for Node.js and NestJS: Serilog-style message templates, page/API request logs on daily-rotated MySQL tables, retention, and the reporting and chart queries to go with them.",
+      "license": "MIT",
+      "repository": "https://github.com/commencementtech/CT-Seri-Logs",
+      "npmUrl": "https://www.npmjs.com/package/%40commencement.technology%2Fct-seri-logs",
+      "category": "backend",
+      "createdAt": "2026-08-12T09:01:34.757Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 79
     },
     {
       "name": "@commoditypriceapi/mcp",
@@ -9794,6 +9818,18 @@
       "score": 75
     },
     {
+      "name": "@deitum/testops-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for Allure TestOps — test cases, Markdown import, launches and project statistics over the TestOps REST API, locked to a single project.",
+      "license": "MIT",
+      "repository": "https://github.com/deitum/testops-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40deitum%2Ftestops-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-14T08:50:52.789Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 82
+    },
+    {
       "name": "@demystify/ai-guardrails",
       "version": "0.3.0",
       "description": "Input/output safety for LLM calls: checksum-gated Indian PII detection and redaction (Aadhaar/PAN/GSTIN/IFSC/phone/account), prompt-injection detection scoped to untrusted spans, and a configurable policy. Zero dependencies, offline, pure. Leaf package.",
@@ -9852,6 +9888,18 @@
       "createdAt": "2026-08-09T04:52:26.960Z",
       "discoveredAt": "2026-08-09T05:43:45.675Z",
       "score": 50
+    },
+    {
+      "name": "@dependably/sdd",
+      "version": "0.6.2",
+      "description": "Spec-driven development on RAG — scaffold a spec repo, validate its format, generate agent instructions, and keep design intent retrievable.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dependably/spec-driven-development",
+      "npmUrl": "https://www.npmjs.com/package/%40dependably%2Fsdd",
+      "category": "data",
+      "createdAt": "2026-08-14T08:01:07.908Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 76
     },
     {
       "name": "@deploy-your-app/capacitor-update-manager",
@@ -12612,6 +12660,18 @@
       "createdAt": "2026-07-30T09:44:49.263Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 81
+    },
+    {
+      "name": "@elleffe-tech/whatsapp",
+      "version": "1.0.0",
+      "description": "SDK for interfacing with WhatsApp Business Platform in Typescript or Node.js using the Cloud API, hosted by Meta.",
+      "license": "MIT",
+      "repository": "https://github.com/Elleffe-Tech/WhatsApp-TS-SDK-Tech",
+      "npmUrl": "https://www.npmjs.com/package/%40elleffe-tech%2Fwhatsapp",
+      "category": "backend",
+      "createdAt": "2026-08-14T07:40:30.167Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 87
     },
     {
       "name": "@eltonssouz/pi-agent-core",
@@ -19634,6 +19694,18 @@
       "score": 60
     },
     {
+      "name": "@gtm-api/linkedin-mcp",
+      "version": "1.2.0",
+      "description": "Managed LinkedIn MCP server for AI agents. Stdio launcher for the hosted gtm-api endpoint: search, connect, message and enrich on LinkedIn accounts you own. 160+ typed actions behind three MCP tools.",
+      "license": "MIT",
+      "repository": "https://github.com/gtm-api/linkedin-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40gtm-api%2Flinkedin-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-03T09:31:15.382Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 70
+    },
+    {
       "name": "@gtm-planetary/orbit",
       "version": "0.4.3",
       "description": "Orbit — plug-and-play harness that lets an ElevenLabs Conversational AI agent navigate your site or app (change pages, highlight elements, fill forms, capture leads) while the live conversation keeps running. Framework-agnostic, zero runtime dependencies.",
@@ -25140,6 +25212,18 @@
       "createdAt": "2026-08-10T01:22:50.638Z",
       "discoveredAt": "2026-08-10T03:45:20.247Z",
       "score": 71
+    },
+    {
+      "name": "@lcabrera/eslint-plugin",
+      "version": "0.1.0",
+      "description": "Custom ESLint rules for TypeScript and React codebases: filename conventions, clean import paths, readonly props, and single-component modules.",
+      "license": "MIT",
+      "repository": "https://github.com/luciocabrera/vite-react-compiler",
+      "npmUrl": "https://www.npmjs.com/package/%40lcabrera%2Feslint-plugin",
+      "category": "frontend",
+      "createdAt": "2026-08-14T07:21:15.799Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 74
     },
     {
       "name": "@ldclabs/kip-do",
@@ -33146,6 +33230,30 @@
       "score": 46
     },
     {
+      "name": "@opsbli/react",
+      "version": "1.6.2",
+      "description": "A modern, feature-rich file preview component for React with support for images, videos, audio, PDFs, Office documents (Word, Excel, PowerPoint), Markdown, and code files.",
+      "license": "MIT",
+      "repository": "https://github.com/opsbli/Pioneer",
+      "npmUrl": "https://www.npmjs.com/package/%40opsbli%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-14T07:59:38.335Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 97
+    },
+    {
+      "name": "@opsbli/vue",
+      "version": "1.6.2",
+      "description": "A modern, feature-rich file preview component for Vue 3 with support for images, videos, audio, PDFs, Office documents (Word, Excel, PowerPoint), Markdown, and code files.",
+      "license": "MIT",
+      "repository": "https://github.com/opsbli/Pioneer",
+      "npmUrl": "https://www.npmjs.com/package/%40opsbli%2Fvue",
+      "category": "frontend",
+      "createdAt": "2026-08-14T07:59:45.738Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 97
+    },
+    {
       "name": "@oracle-agent/oracle",
       "version": "0.1.0",
       "description": "Oracle: prepare-only multichain agent control plane. Policy-bounded intents for a user-signed wallet. Self-custody by default — the public package never takes your key. Built for Hermes; no model key required.",
@@ -38688,6 +38796,18 @@
       "createdAt": "2026-07-31T02:25:09.135Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 98
+    },
+    {
+      "name": "@santhosraj/cclint",
+      "version": "0.2.0",
+      "description": "Lint CLAUDE.md, hooks, and MCP config for silent conflicts, dead references, and token bloat.",
+      "license": "MIT",
+      "repository": "https://github.com/Santhosraj/Claude_Linter",
+      "npmUrl": "https://www.npmjs.com/package/%40santhosraj%2Fcclint",
+      "category": "cli",
+      "createdAt": "2026-08-14T08:54:55.448Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 75
     },
     {
       "name": "@sanweb/sw-framework",
@@ -45518,6 +45638,18 @@
       "score": 59
     },
     {
+      "name": "@usulpro/mentat",
+      "version": "1.0.0",
+      "description": "A domain-agnostic tutoring system: turns a directory into a course with a competency ledger, and installs into an agent CLI as three role-skills.",
+      "license": "MIT",
+      "repository": "https://github.com/usulpro/mentat",
+      "npmUrl": "https://www.npmjs.com/package/%40usulpro%2Fmentat",
+      "category": "frontend",
+      "createdAt": "2026-08-14T07:12:31.143Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 80
+    },
+    {
       "name": "@usva-ui/react",
       "version": "1.0.1",
       "description": "A React design language in three themes: kajo is atmospheric and dark, sisu is dense and quick, savi is the light ground. One token vocabulary under all three.",
@@ -46754,6 +46886,18 @@
       "score": 56
     },
     {
+      "name": "@w3tech.io/agent-rpc-mcp",
+      "version": "0.2.0",
+      "description": "Ankr Agent RPC — token-efficient MCP server for blockchain data, with TORPC tier-2 response compression (ABI-decoded, hex->decimal).",
+      "license": "MIT",
+      "repository": "https://github.com/w3tech/agent-rpc-mcp-public",
+      "npmUrl": "https://www.npmjs.com/package/%40w3tech.io%2Fagent-rpc-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T07:32:48.180Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 76
+    },
+    {
       "name": "@w3wide/admob-manager-mcp",
       "version": "2.6.0",
       "description": "Google AdMob REST API MCP Server for AI Agents (Claude Desktop, Cursor, AGY)",
@@ -47844,6 +47988,18 @@
       "createdAt": "2026-08-08T22:12:37.072Z",
       "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 68
+    },
+    {
+      "name": "@xanter/crypto-pro-js",
+      "version": "2.4.0",
+      "description": "Асинхронный JavaScript API для работы с КриптоПРО ЭЦП Browser Plug-In. Forked from https://github.com/vgoma/crypto-pro",
+      "license": "MIT",
+      "repository": "https://github.com/darkxanter/crypto-pro-js",
+      "npmUrl": "https://www.npmjs.com/package/%40xanter%2Fcrypto-pro-js",
+      "category": "frontend",
+      "createdAt": "2026-08-14T07:54:57.152Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 85
     },
     {
       "name": "@xbbg/xnews",
@@ -49118,6 +49274,18 @@
       "score": 48
     },
     {
+      "name": "@zlzliqing/claude-paper",
+      "version": "1.2.1",
+      "description": "Cross-agent distribution for Claude Paper research workflows and web viewer",
+      "license": "MIT",
+      "repository": "https://github.com/alaliqing/claude-paper",
+      "npmUrl": "https://www.npmjs.com/package/%40zlzliqing%2Fclaude-paper",
+      "category": "utilities",
+      "createdAt": "2026-08-14T07:42:45.081Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 69
+    },
+    {
       "name": "@zmcode180/zmcode",
       "version": "0.84.1",
       "description": "智码 (ZMCode) - 像 PI 一样简单易用的对话式 AI 编程助手，基于 pi-coding-agent (MIT) 定制",
@@ -49980,6 +50148,18 @@
       "createdAt": "2026-08-01T23:06:46.259Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 57
+    },
+    {
+      "name": "agent-factory-skills",
+      "version": "1.0.1",
+      "description": "CLI and MCP server for Agent Factory skill management — search, install, validate and invoke skills via npx or IDE MCP config.",
+      "license": "MIT",
+      "repository": "https://github.com/your-org/agent-factory",
+      "npmUrl": "https://www.npmjs.com/package/agent-factory-skills",
+      "category": "backend",
+      "createdAt": "2026-08-14T07:52:54.192Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 76
     },
     {
       "name": "agent-guidance-sync",
@@ -58718,6 +58898,18 @@
       "score": 65
     },
     {
+      "name": "dsh-approval-llm",
+      "version": "0.1.1",
+      "description": "Model-based permission approval (approve-for-me) for DeepSeek Harness: an approval/request answerer backed by a separate reviewer model",
+      "license": "MIT",
+      "repository": "https://github.com/Letter2025/dsh-approval-llm",
+      "npmUrl": "https://www.npmjs.com/package/dsh-approval-llm",
+      "category": "utilities",
+      "createdAt": "2026-08-14T07:30:30.010Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 67
+    },
+    {
       "name": "dsh-bash-terminal",
       "version": "0.2.3",
       "description": "DSH plugin: one shell tool that runs commands through PowerShell, Git Bash, or WSL on Windows, with a user-chosen default terminal in the Web UI settings.",
@@ -58752,6 +58944,18 @@
       "createdAt": "2026-08-13T19:55:45.610Z",
       "discoveredAt": "2026-08-13T20:32:34.831Z",
       "score": 52
+    },
+    {
+      "name": "dsh-commandcode-provider",
+      "version": "0.1.1",
+      "description": "Command Code provider plugin for DeepSeek Harness (dsh) — mirrors pi-commandcode-provider; install with npm and add a cordis row",
+      "license": "MIT",
+      "repository": "https://github.com/example/dsh-commandcode-provider",
+      "npmUrl": "https://www.npmjs.com/package/dsh-commandcode-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-14T08:33:57.974Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 70
     },
     {
       "name": "dsh-dashboard",
@@ -58848,6 +59052,18 @@
       "createdAt": "2026-08-13T18:31:21.883Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
       "score": 63
+    },
+    {
+      "name": "dsh-plugin-slashx-gateway",
+      "version": "0.1.0",
+      "description": "DeepSeek Harness host bundle that implements slashx.request.v1 and slashx.response.v1",
+      "license": "MIT",
+      "repository": "https://github.com/superslash-rico/dsh-plugin-slashx-gateway",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-slashx-gateway",
+      "category": "utilities",
+      "createdAt": "2026-08-14T07:19:06.310Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 67
     },
     {
       "name": "dsh-plugin-vision-tool",
@@ -60120,6 +60336,18 @@
       "createdAt": "2026-08-11T23:44:04.865Z",
       "discoveredAt": "2026-08-12T01:13:18.235Z",
       "score": 74
+    },
+    {
+      "name": "expo-mobile-ads",
+      "version": "1.0.0",
+      "description": "Multi-mediation mobile ads module for Expo",
+      "license": "MIT",
+      "repository": "https://github.com/hills-corp/expo-mobile-ads",
+      "npmUrl": "https://www.npmjs.com/package/expo-mobile-ads",
+      "category": "frontend",
+      "createdAt": "2026-08-14T08:55:12.419Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 69
     },
     {
       "name": "expo-modern-table",
@@ -67790,6 +68018,18 @@
       "score": 90
     },
     {
+      "name": "mcp-ashby",
+      "version": "1.0.1",
+      "description": "MCP server for public Ashby job boards. Resolve a company to its board, search its openings, read one posting and its pay. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-ashby",
+      "npmUrl": "https://www.npmjs.com/package/mcp-ashby",
+      "category": "backend",
+      "createdAt": "2026-08-14T07:30:49.246Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 94
+    },
+    {
       "name": "mcp-assert",
       "version": "0.1.0",
       "description": "Testing library for MCP servers — in-memory test client, Vitest/Jest matchers, and test doubles for sampling and elicitation.",
@@ -69527,6 +69767,18 @@
       "category": "build-tools",
       "createdAt": "2026-08-11T10:01:12.812Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
+      "score": 90
+    },
+    {
+      "name": "mutex-thread",
+      "version": "1.3.0",
+      "description": "Mutex and semaphore primitives for synchronizing asynchronous workflows in JavaScript and TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/MUTEXTHREAD/mutex-thread",
+      "npmUrl": "https://www.npmjs.com/package/mutex-thread",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T08:42:36.313Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
       "score": 90
     },
     {
@@ -72684,6 +72936,18 @@
       "createdAt": "2026-08-01T12:25:48.742Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 65
+    },
+    {
+      "name": "openclaw-skill-factory-plugin",
+      "version": "0.2.0",
+      "description": "OpenClaw skills-only plugin: an eval-driven Skill Factory (generator + assessor + splitter + TDD/eval engine + screenshot bridge + orchestrator). Aligns with Anthropic skill-creator and outperforms it on dependency-freeness, speed (static fast-path) and O",
+      "license": "MIT",
+      "repository": "https://github.com/singleGanghood/openclaw-skill-factory-plugin",
+      "npmUrl": "https://www.npmjs.com/package/openclaw-skill-factory-plugin",
+      "category": "data",
+      "createdAt": "2026-08-14T08:41:33.789Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 77
     },
     {
       "name": "opencode-agent-teams-relay",
@@ -81998,6 +82262,18 @@
       "score": 77
     },
     {
+      "name": "sparse-boolean-codec",
+      "version": "1.0.0",
+      "description": "URL-friendly, run-length-compressed encoding for a boolean array that can grow (more false values appended) without changing the encoded prefix.",
+      "license": "MIT",
+      "repository": "https://github.com/alxndr/sparse-boolean-codec",
+      "npmUrl": "https://www.npmjs.com/package/sparse-boolean-codec",
+      "category": "utilities",
+      "createdAt": "2026-08-14T06:06:24.604Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 72
+    },
+    {
       "name": "spatialboard",
       "version": "0.2.0",
       "description": "A React + TypeScript spatial canvas and node-board library for whiteboards, visual editors, and graph interfaces.",
@@ -83820,6 +84096,18 @@
       "createdAt": "2026-07-31T16:04:58.406Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 77
+    },
+    {
+      "name": "terra-maskito",
+      "version": "1.0.0",
+      "description": "Maskito — The Swarm Strikes: $0 Cost Massive Stress Testing & Synthetic Data Seeding Engine for the Terra Ecosystem",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/Maskito",
+      "npmUrl": "https://www.npmjs.com/package/terra-maskito",
+      "category": "testing",
+      "createdAt": "2026-08-14T08:24:06.120Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 79
     },
     {
       "name": "terra-sinchlor",
@@ -87768,6 +88056,18 @@
       "createdAt": "2026-08-10T16:51:43.488Z",
       "discoveredAt": "2026-08-10T17:37:47.201Z",
       "score": 77
+    },
+    {
+      "name": "wordpaste",
+      "version": "0.1.0",
+      "description": "Clean Microsoft Word clipboard HTML and turn Word equations into editable LaTeX. Editor-agnostic, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/smrifat1411/wordpaste",
+      "npmUrl": "https://www.npmjs.com/package/wordpaste",
+      "category": "cli",
+      "createdAt": "2026-08-14T08:30:09.573Z",
+      "discoveredAt": "2026-08-14T09:00:21.572Z",
+      "score": 78
     },
     {
       "name": "wordprint",
