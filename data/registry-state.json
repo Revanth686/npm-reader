@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125085063,
-  "lastRunAt": "2026-08-14T21:11:51.748Z",
+  "lastSequence": 125093199,
+  "lastRunAt": "2026-08-14T22:13:55.561Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@dcl/rate-limiter-component",
+      "name": "@mutmutco/updater",
+      "attempts": 1
+    },
+    {
+      "name": "@sixty-sh/react-native",
       "attempts": 1
     }
   ]
