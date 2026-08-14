@@ -386,6 +386,30 @@
       "score": 80
     },
     {
+      "name": "@4242labs/pi-memento",
+      "version": "0.1.1",
+      "description": "MEMENTO for Pi — persistent memory for a Pi session: recall at start, journal as you go, consolidate on exit.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/4242labs/memento-pi",
+      "npmUrl": "https://www.npmjs.com/package/%404242labs%2Fpi-memento",
+      "category": "utilities",
+      "createdAt": "2026-08-14T18:47:50.706Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 53
+    },
+    {
+      "name": "@4242labs/pi-tron-clu",
+      "version": "0.1.1",
+      "description": "TRON-CLU for Pi — a supervisor extension that drives a fleet of Pi seats through a build/review/merge pipeline.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/4242labs/tron-clu-pi",
+      "npmUrl": "https://www.npmjs.com/package/%404242labs%2Fpi-tron-clu",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T18:56:40.575Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 55
+    },
+    {
       "name": "@4cloudguru/cloud-suite-ui",
       "version": "0.9.0",
       "description": "Shared UI foundation (theme, identity, app shell, and cross-cutting components) for the Terraform suite frontends.",
@@ -14402,6 +14426,18 @@
       "score": 68
     },
     {
+      "name": "@ferrow/llm-cost-estimator",
+      "version": "1.0.0",
+      "description": "LLM usage cost accounting — you supply the price table, this accumulates per-model/label cost breakdowns, projections, budget alerts, and CSV/JSON export. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Ruzylo-cloud/llm-cost-estimator",
+      "npmUrl": "https://www.npmjs.com/package/%40ferrow%2Fllm-cost-estimator",
+      "category": "devops",
+      "createdAt": "2026-08-14T20:47:31.647Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 67
+    },
+    {
       "name": "@fervon/launchpad",
       "version": "1.1.0",
       "description": "Local-first dashboard to discover, launch and monitor every dev project in a folder — auto-detected, no port clashes, live logs. Binds 127.0.0.1 only.",
@@ -14628,6 +14664,18 @@
       "createdAt": "2026-08-14T11:59:13.918Z",
       "discoveredAt": "2026-08-14T12:44:49.715Z",
       "score": 71
+    },
+    {
+      "name": "@finaxis/common-js",
+      "version": "0.3.1",
+      "description": "common-js",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/finaxis/common",
+      "npmUrl": "https://www.npmjs.com/package/%40finaxis%2Fcommon-js",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:53:13.930Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 28
     },
     {
       "name": "@finchagentic/mcp",
@@ -18254,6 +18302,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/mag7xon",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MAG7Xon (build etherscan-mag7xon-ee69f457-1786740975311, commit 2df13fe, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mag7xon",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmag7xon",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:56:39.200Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 57
+    },
+    {
       "name": "@gitmyabi/mak",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for MAK (build etherscan-mak-d073e634-1786482220091, commit 45d8b21, branch etherscan)",
@@ -18300,6 +18360,18 @@
       "createdAt": "2026-08-09T02:08:05.226Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 59
+    },
+    {
+      "name": "@gitmyabi/mcrc",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for MCRC (build etherscan-mcrc-0b024b3d-1786740950772, commit c3936cf, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/mcrc",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fmcrc",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:56:13.724Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/methuselonmessage001",
@@ -30062,6 +30134,42 @@
       "score": 67
     },
     {
+      "name": "@moldea.ai/core",
+      "version": "1.0.1",
+      "description": "Source-neutral, deterministic interpretation and indexing of moldea repositories.",
+      "license": "MIT",
+      "repository": "https://github.com/moldea-ai/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40moldea.ai%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:45:47.454Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 68
+    },
+    {
+      "name": "@moldea.ai/repository",
+      "version": "1.0.1",
+      "description": "Source-neutral, read-only repository contracts and an immutable in-memory reader.",
+      "license": "MIT",
+      "repository": "https://github.com/moldea-ai/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40moldea.ai%2Frepository",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:01:41.428Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 42
+    },
+    {
+      "name": "@moldea.ai/repository-fs",
+      "version": "1.0.1",
+      "description": "A coherent, read-only repository reader over an explicitly selected local filesystem root.",
+      "license": "MIT",
+      "repository": "https://github.com/moldea-ai/packages",
+      "npmUrl": "https://www.npmjs.com/package/%40moldea.ai%2Frepository-fs",
+      "category": "devops",
+      "createdAt": "2026-08-14T13:36:18.177Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 69
+    },
+    {
       "name": "@molecule/api-ai-image-generation",
       "version": "1.0.1",
       "description": "<!-- AUTO-GENERATED — DO NOT EDIT THIS FILE. Generated by `mlcl sync-docs` from the package's src/index.ts JSDoc + mlcl/registry.json. Edits here are overwritten on the next commit (molecule's pre-commit hook regenerates). To change this document, edit th",
@@ -31068,6 +31176,18 @@
       "createdAt": "2026-07-31T11:06:03.428Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 69
+    },
+    {
+      "name": "@mpiton/claude-line",
+      "version": "2.0.0",
+      "description": "A status line for Claude Code CLI showing model, context usage, rate limits, and more",
+      "license": "MIT",
+      "repository": "https://github.com/mpiton/claude-statusline",
+      "npmUrl": "https://www.npmjs.com/package/%40mpiton%2Fclaude-line",
+      "category": "cli",
+      "createdAt": "2026-08-14T20:56:45.473Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 51
     },
     {
       "name": "@mrboodj/hawk",
@@ -32916,6 +33036,18 @@
       "createdAt": "2026-08-14T20:27:09.069Z",
       "discoveredAt": "2026-08-14T20:51:16.368Z",
       "score": 64
+    },
+    {
+      "name": "@node-3d/deps-qt-qml",
+      "version": "5.0.0",
+      "description": "Qt QML dynamic libraries for dependent Node.js addons",
+      "license": "MIT",
+      "repository": "https://github.com/node-3d/deps-qt-qml",
+      "npmUrl": "https://www.npmjs.com/package/%40node-3d%2Fdeps-qt-qml",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:56:04.762Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 68
     },
     {
       "name": "@node-3d/steam-api",
@@ -36698,6 +36830,18 @@
       "score": 62
     },
     {
+      "name": "@praxicraft/assess",
+      "version": "0.1.1",
+      "description": "Official Node.js / TypeScript SDK for the Praxicraft Assess Public API",
+      "license": "MIT",
+      "repository": "https://github.com/praxicraft-platform/praxicraft-node",
+      "npmUrl": "https://www.npmjs.com/package/%40praxicraft%2Fassess",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:04:48.959Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 50
+    },
+    {
       "name": "@precisa-saude/fhir-rnds-sandbox",
       "version": "0.1.0",
       "description": "Mock local da RNDS (Rede Nacional de Dados em Saúde) — endpoints FHIR R4 com cenários sintéticos para desenvolvimento e ensino",
@@ -40032,6 +40176,18 @@
       "createdAt": "2026-07-31T14:40:24.491Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 100
+    },
+    {
+      "name": "@rungs/cli",
+      "version": "0.1.0",
+      "description": "Installs and maintains a repository's agentic development system, composed from modules.",
+      "license": "MIT",
+      "repository": "https://github.com/ThroughTheWind/rungs",
+      "npmUrl": "https://www.npmjs.com/package/%40rungs%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-14T20:53:34.296Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 58
     },
     {
       "name": "@runloop/reflex-cli",
@@ -51302,6 +51458,18 @@
       "score": 63
     },
     {
+      "name": "@zubricks/payload-jobs-runner-plugin",
+      "version": "1.0.0",
+      "description": "Admin UI to trigger, watch, and retry Payload Jobs tasks & workflows on demand — access-gated per user.",
+      "license": "MIT",
+      "repository": "https://github.com/zubricks/payload-jobs-runner-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40zubricks%2Fpayload-jobs-runner-plugin",
+      "category": "utilities",
+      "createdAt": "2026-08-14T21:01:31.014Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 41
+    },
+    {
       "name": "@zvada/agent-server",
       "version": "0.2.0",
       "description": "Harness-agnostic agent execution engine: run Claude Code, Codex (SDK/CLI + app-server), and any ACP agent behind one interface with a normalized event stream, multi-turn sessions, and resume. Root export is the wire contract; /core, /server, /client are t",
@@ -59066,6 +59234,18 @@
       "score": 83
     },
     {
+      "name": "create-packkit-go",
+      "version": "0.2.0",
+      "description": "Scaffold modern Go projects — go.mod modules, idiomatic layout, table tests — from a CLI or the browser. Packkit's Go generator.",
+      "license": "MIT",
+      "repository": "https://github.com/PackkitJS/create-packkit-go",
+      "npmUrl": "https://www.npmjs.com/package/create-packkit-go",
+      "category": "testing",
+      "createdAt": "2026-08-14T19:26:25.944Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 36
+    },
+    {
       "name": "create-pathfinder",
       "version": "1.4.0",
       "description": "Install the Pathfinder AI-assisted, human-in-the-loop workflow kit into a Git repository.",
@@ -59532,6 +59712,18 @@
       "createdAt": "2026-08-08T18:52:53.449Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
       "score": 66
+    },
+    {
+      "name": "custom-responsive-image",
+      "version": "0.1.1",
+      "description": "Framework-agnostic responsive image component with strict aspect ratio, object-fit (contain/cover/adaptive), and automatic small-image (icon/illustration) handling.",
+      "license": "MIT",
+      "repository": "https://github.com/codespriha/custom-responsive-image",
+      "npmUrl": "https://www.npmjs.com/package/custom-responsive-image",
+      "category": "utilities",
+      "createdAt": "2026-08-14T21:06:23.469Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 71
     },
     {
       "name": "cvx-kit",
@@ -61272,6 +61464,18 @@
       "createdAt": "2026-08-14T10:13:21.083Z",
       "discoveredAt": "2026-08-14T10:50:54.851Z",
       "score": 90
+    },
+    {
+      "name": "dsh-crw",
+      "version": "0.1.0",
+      "description": "fastCRW-backed web search and fetch providers for DeepSeek Harness (ctx.web)",
+      "license": "MIT",
+      "repository": "https://github.com/us/dsh-crw",
+      "npmUrl": "https://www.npmjs.com/package/dsh-crw",
+      "category": "backend",
+      "createdAt": "2026-08-14T21:06:42.799Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 51
     },
     {
       "name": "dsh-dashboard",
@@ -66422,6 +66626,18 @@
       "score": 48
     },
     {
+      "name": "honestbao",
+      "version": "0.7.1",
+      "description": "A deterministic, local-first evidence gate for AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/mini89111/honestbao",
+      "npmUrl": "https://www.npmjs.com/package/honestbao",
+      "category": "cli",
+      "createdAt": "2026-08-14T21:02:33.128Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 72
+    },
+    {
       "name": "honkit-plugin-mermaid-svg",
       "version": "1.0.0",
       "description": "Mermaid SVG 渲染插件，兼容 Honkit 与 GitBook 3。构建时自动将 ```mermaid 代码块渲染为矢量图（website 输出 SVG / EPUB+PDF 输出 PNG），容器内直接调用全局 mmdc 无需网络下载。",
@@ -67742,6 +67958,18 @@
       "score": 71
     },
     {
+      "name": "itin-finance-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for the ITIN finance network (itinlending.net, itincreditcard.com, itincreditscore.com): verified ITIN lender & card-issuer directory, 290+ bilingual (EN/ES) guides and 1,800+ FAQs on loans, credit cards, and credit building without an SSN. Edi",
+      "license": "MIT",
+      "repository": "https://github.com/bguillow-rgb/itin-finance-mcp",
+      "npmUrl": "https://www.npmjs.com/package/itin-finance-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:52:30.813Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 71
+    },
+    {
       "name": "jackal-cli",
       "version": "0.2.0",
       "description": "Point Claude Code at a custom Anthropic-compatible endpoint (LiteLLM, a corporate AI gateway, any proxy) without touching your normal claude login.",
@@ -68676,6 +68904,18 @@
       "createdAt": "2026-08-05T16:16:04.943Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 72
+    },
+    {
+      "name": "kmailai",
+      "version": "0.1.4",
+      "description": "KmailAI — a branded, self-contained coding agent for Kmail AI, powered by Pi on Kmail AI (OpenWebUI).",
+      "license": "MIT",
+      "repository": "https://github.com/mokmail/kmailai",
+      "npmUrl": "https://www.npmjs.com/package/kmailai",
+      "category": "cli",
+      "createdAt": "2026-08-14T20:59:02.816Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 74
     },
     {
       "name": "knight-ai-sdk",
@@ -75936,6 +76176,18 @@
       "createdAt": "2026-08-11T14:59:17.646Z",
       "discoveredAt": "2026-08-11T15:12:22.224Z",
       "score": 81
+    },
+    {
+      "name": "opencode-cmd-provider",
+      "version": "0.1.0",
+      "description": "Command Code provider + plugin for opencode",
+      "license": "MIT",
+      "repository": "https://github.com/rashidrazak/opencode-cmd-provider",
+      "npmUrl": "https://www.npmjs.com/package/opencode-cmd-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-14T21:01:35.993Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 51
     },
     {
       "name": "opencode-cross-session-memory",
@@ -91332,6 +91584,18 @@
       "createdAt": "2026-08-08T08:40:19.230Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 80
+    },
+    {
+      "name": "wolverine-db",
+      "version": "0.1.0",
+      "description": "Deterministic database integrity, Merkle checkpoints, and approval-gated selective recovery for PostgreSQL",
+      "license": "MIT",
+      "repository": "https://github.com/solankiharsh2837/wolverine-db",
+      "npmUrl": "https://www.npmjs.com/package/wolverine-db",
+      "category": "data",
+      "createdAt": "2026-08-14T21:11:16.794Z",
+      "discoveredAt": "2026-08-14T21:11:51.748Z",
+      "score": 55
     },
     {
       "name": "wondev",
