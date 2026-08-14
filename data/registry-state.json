@@ -1,99 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125048323,
-  "lastRunAt": "2026-08-14T16:42:14.135Z",
+  "lastSequence": 125056430,
+  "lastRunAt": "2026-08-14T17:37:59.065Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@intellara/trovegen-mcp",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@nossen/mcp-bridge-tunnel",
+      "name": "@inaicode/react",
       "attempts": 1
     },
     {
-      "name": "@nossen/clip-generator",
-      "attempts": 1
-    },
-    {
-      "name": "@nossen/jukebox-drive",
-      "attempts": 1
-    },
-    {
-      "name": "@nossen/song-title-generator",
-      "attempts": 1
-    },
-    {
-      "name": "@nossen/discord-bot",
-      "attempts": 1
-    },
-    {
-      "name": "@privchat/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-darwin-x64-baseline",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-darwin-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-windows-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-linux-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-linux-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-windows-x64-baseline",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-linux-arm64-musl",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-linux-x64-musl",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-windows-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-linux-x64-baseline",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode-linux-x64-baseline-musl",
-      "attempts": 1
-    },
-    {
-      "name": "@reddb-io/redcode",
-      "attempts": 1
-    },
-    {
-      "name": "@zibokapi/dsh-codex-computer-use",
-      "attempts": 1
-    },
-    {
-      "name": "@latticeag/visreplay",
-      "attempts": 1
-    },
-    {
-      "name": "@eddyskywalker/dsh-chatgpt-subscription",
+      "name": "@tumnel/opencode",
       "attempts": 1
     }
   ]

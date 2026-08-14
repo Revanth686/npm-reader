@@ -1334,6 +1334,18 @@
       "score": 74
     },
     {
+      "name": "@agenticros/jarvis",
+      "version": "0.1.0",
+      "description": "Voice assistant for AgenticROS robots — wake word, speech I/O, OpenClaw agent, and RealSense presence greetings.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agenticros/agenticros-skill-jarvis",
+      "npmUrl": "https://www.npmjs.com/package/%40agenticros%2Fjarvis",
+      "category": "utilities",
+      "createdAt": "2026-08-14T17:08:54.019Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 71
+    },
+    {
       "name": "@agentoria/notifykit",
       "version": "0.1.0",
       "description": "Notification delivery for TypeScript apps — bot webhooks, email, web push, SMS and an inbox behind one contract, with a per-recipient category × channel matrix.",
@@ -6684,6 +6696,18 @@
       "createdAt": "2026-08-02T11:10:42.325Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 95
+    },
+    {
+      "name": "@bukutsu/pi-ping",
+      "version": "1.0.1",
+      "description": "Pi coding agent notification extension — pings only when unfocused and on real work",
+      "license": "MIT",
+      "repository": "https://github.com/Bukutsu/pi-ping",
+      "npmUrl": "https://www.npmjs.com/package/%40bukutsu%2Fpi-ping",
+      "category": "cli",
+      "createdAt": "2026-08-14T10:09:34.852Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 59
     },
     {
       "name": "@bump-sh/agent-widget",
@@ -18446,6 +18470,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/putmanager",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PutManager (build etherscan-putmanager-ba49d0ac-1786728181314, commit a77e31a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/putmanager",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fputmanager",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T17:23:24.644Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/pyplon",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for PYPLon (build etherscan-pyplon-4efd92f3-1786178955715, commit d40eca0, branch etherscan)",
@@ -25610,6 +25646,18 @@
       "score": 59
     },
     {
+      "name": "@kyorakuyk/dsh-plugin-manager",
+      "version": "0.1.1",
+      "description": "Web UI plugin hot lifecycle for DeepSeek Harness: hot install / uninstall / update / enable-disable of profile plugin bundles without restart. Out-of-tree dual-face bundle: host gateway + browser settings tab over a plugin-owned HTTP transport.",
+      "license": "MIT",
+      "repository": "https://github.com/kyorakuyk/dsh-hotreload-plugin-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40kyorakuyk%2Fdsh-plugin-manager",
+      "category": "frontend",
+      "createdAt": "2026-08-14T16:54:46.672Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 60
+    },
+    {
       "name": "@labtoolsstudio/fetchmcp",
       "version": "0.1.1",
       "description": "Drop-in replacement for the official fetch MCP: clean, LLM-ready Markdown from any URL. No 5k truncation, JS rendering when needed, zero config.",
@@ -25764,6 +25812,18 @@
       "createdAt": "2026-08-07T16:14:58.288Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 70
+    },
+    {
+      "name": "@latticeag/visreplay",
+      "version": "1.1.1",
+      "description": "Record, replay, and debug AI agent sessions",
+      "license": "MIT",
+      "repository": "https://github.com/LatticeAG/visreplay",
+      "npmUrl": "https://www.npmjs.com/package/%40latticeag%2Fvisreplay",
+      "category": "utilities",
+      "createdAt": "2026-08-14T16:40:58.842Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 74
     },
     {
       "name": "@launchdarkly/ai-server",
@@ -27132,6 +27192,18 @@
       "createdAt": "2026-08-13T23:13:44.759Z",
       "discoveredAt": "2026-08-13T23:20:37.883Z",
       "score": 67
+    },
+    {
+      "name": "@lutrin/mcp",
+      "version": "1.3.0",
+      "description": "Model Context Protocol server for Lutrin: exposes the Markdown → PowerPoint / HTML presentation compiler as validate/build/suggest tools. Launched by the Lutrin Agent Plugin via npx.",
+      "license": "MIT",
+      "repository": "https://github.com/julien-riel/lutrin",
+      "npmUrl": "https://www.npmjs.com/package/%40lutrin%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T17:10:35.821Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 60
     },
     {
       "name": "@luvikung/three-next",
@@ -34706,6 +34778,18 @@
       "score": 55
     },
     {
+      "name": "@partme.ai/xls-cli",
+      "version": "0.1.0",
+      "description": "Agent-safe XLS/XLSX/CSV/Markdown/HTML command line powered by EasyExcel-Rust",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/easy-4-rust/xls-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40partme.ai%2Fxls-cli",
+      "category": "data",
+      "createdAt": "2026-08-14T17:04:47.603Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 75
+    },
+    {
       "name": "@pasquelin/map3d",
       "version": "0.1.1",
       "description": "Bibliothèque React de cartographie 3D (Three.js + Google Photorealistic 3D Tiles) : globe, markers, clusters, tracés, dessin, entièrement thémable.",
@@ -34896,6 +34980,18 @@
       "createdAt": "2026-07-28T20:48:39.586Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 75
+    },
+    {
+      "name": "@peerapat.srs/vpn-bypass",
+      "version": "0.3.0",
+      "description": "CLI and localhost UI that split-route IPv4/IPv6 and split-DNS around a full-tunnel corporate VPN (home LAN for the web, intranet via VPN).",
+      "license": "MIT",
+      "repository": "https://github.com/peerapatsrs/vpn-bypass",
+      "npmUrl": "https://www.npmjs.com/package/%40peerapat.srs%2Fvpn-bypass",
+      "category": "cli",
+      "createdAt": "2026-08-14T11:42:33.311Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 83
     },
     {
       "name": "@peerbits/fhir-client",
@@ -36386,6 +36482,18 @@
       "score": 62
     },
     {
+      "name": "@pulsadev/merkle-tree",
+      "version": "0.1.0",
+      "description": "Merkle tree and proof generation for airdrops, whitelists, and on-chain verification — OpenZeppelin compatible, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/merkle-tree",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fmerkle-tree",
+      "category": "build-tools",
+      "createdAt": "2026-08-12T02:22:44.686Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 58
+    },
+    {
       "name": "@pulsadev/multicall",
       "version": "0.1.0",
       "description": "High-performance, provider-agnostic multicall for EVM chains",
@@ -36396,6 +36504,42 @@
       "createdAt": "2026-08-07T17:55:56.511Z",
       "discoveredAt": "2026-08-07T18:42:17.651Z",
       "score": 68
+    },
+    {
+      "name": "@pulsadev/permit2",
+      "version": "0.1.0",
+      "description": "EIP-2612 Permit + Uniswap Permit2 — gasless approve signatures, typed data building, nonce queries. Zero dependencies, pure RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/permit2",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fpermit2",
+      "category": "data",
+      "createdAt": "2026-08-12T10:09:28.225Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 59
+    },
+    {
+      "name": "@pulsadev/price-feed",
+      "version": "0.1.0",
+      "description": "Chainlink oracle price feed reader — real-time token prices, batch queries, built-in feed registry. Zero dependencies, pure RPC.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/price-feed",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fprice-feed",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T02:41:41.743Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 60
+    },
+    {
+      "name": "@pulsadev/rpc-provider",
+      "version": "0.1.0",
+      "description": "Multi-RPC provider with load balancing, failover, health checks, and latency tracking — zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/rpc-provider",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Frpc-provider",
+      "category": "build-tools",
+      "createdAt": "2026-08-11T18:56:03.170Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 58
     },
     {
       "name": "@pulsadev/token-list",
@@ -36420,6 +36564,18 @@
       "createdAt": "2026-08-09T20:30:45.102Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 56
+    },
+    {
+      "name": "@pulsadev/wallet-connect",
+      "version": "0.1.0",
+      "description": "Lightweight wallet connection for EVM dApps — framework agnostic, no API key, EIP-6963 native",
+      "license": "MIT",
+      "repository": "https://github.com/pulsadev/wallet-connect",
+      "npmUrl": "https://www.npmjs.com/package/%40pulsadev%2Fwallet-connect",
+      "category": "backend",
+      "createdAt": "2026-08-10T15:15:28.638Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 60
     },
     {
       "name": "@pulsenetwork/lp-copilot-mcp",
@@ -38556,6 +38712,18 @@
       "createdAt": "2026-08-08T19:00:44.170Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 60
+    },
+    {
+      "name": "@rjwalters/trawl",
+      "version": "0.2.0",
+      "description": "curl for the JavaScript web — fetch client-rendered pages from the command line",
+      "license": "MIT",
+      "repository": "https://github.com/rjwalters/trawl",
+      "npmUrl": "https://www.npmjs.com/package/%40rjwalters%2Ftrawl",
+      "category": "testing",
+      "createdAt": "2026-08-04T01:47:56.891Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 73
     },
     {
       "name": "@rkbkosp/pi-provider-clone",
@@ -45002,6 +45170,18 @@
       "score": 73
     },
     {
+      "name": "@thiagocolen/kedin-pdf",
+      "version": "2.0.0",
+      "description": "Create multi-page PDFs from images, exposed as an MCP server tool for agents like Claude Code.",
+      "license": "MIT",
+      "repository": "https://github.com/thiagocolen/kedin-pdf",
+      "npmUrl": "https://www.npmjs.com/package/%40thiagocolen%2Fkedin-pdf",
+      "category": "backend",
+      "createdAt": "2026-08-14T17:16:12.899Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 63
+    },
+    {
       "name": "@thigasdevelopment/luam",
       "version": "0.1.1",
       "description": "The Luam compiler for Multi Theft Auto resources.",
@@ -47030,6 +47210,18 @@
       "score": 81
     },
     {
+      "name": "@vdaluz/astro-inapp-escape",
+      "version": "0.1.0",
+      "description": "In-app-browser (Instagram, TikTok, Facebook, etc) detection and escape for Astro sites - protects affiliate links that platforms prohibit from rendering in their own webviews.",
+      "license": "MIT",
+      "repository": "https://github.com/vdaluz/astro-inapp-escape",
+      "npmUrl": "https://www.npmjs.com/package/%40vdaluz%2Fastro-inapp-escape",
+      "category": "frontend",
+      "createdAt": "2026-08-14T17:20:43.229Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 58
+    },
+    {
       "name": "@vdaluz/astro-og-cards",
       "version": "1.1.0",
       "description": "Build-time OG/social-card generation (satori + sharp) and meta-tag emission for Astro - proven in production on vdaluz.com and imperfectsystems.com.",
@@ -48698,6 +48890,18 @@
       "score": 68
     },
     {
+      "name": "@wizgenerator/core",
+      "version": "0.1.0",
+      "description": "A provider-neutral runtime and portable contract for building reliable generators.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/wizgenerator/generator-core",
+      "npmUrl": "https://www.npmjs.com/package/%40wizgenerator%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T17:09:40.675Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 58
+    },
+    {
       "name": "@wm-storefront/commerce-core",
       "version": "0.1.1",
       "description": "Backend-neutral commerce seam (catalog, cart, orders, customer) shared across storefronts. Zero brand data — catalog and store config are injected.",
@@ -49572,6 +49776,18 @@
       "createdAt": "2026-08-08T15:32:12.307Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 84
+    },
+    {
+      "name": "@yuelinghuashu/story-cli",
+      "version": "1.0.0",
+      "description": "A zero-deploy, Git-native content management CLI for Markdown stories. Manage stories with directory conventions, generate READMEs, export epub.",
+      "license": "MIT",
+      "repository": "https://github.com/yuelinghuashu/story-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40yuelinghuashu%2Fstory-cli",
+      "category": "cli",
+      "createdAt": "2026-08-14T17:05:34.501Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 69
     },
     {
       "name": "@yufeng-dev/model-bridge",
@@ -51984,6 +52200,18 @@
       "createdAt": "2026-08-06T10:23:28.358Z",
       "discoveredAt": "2026-08-08T22:51:06.233Z",
       "score": 30
+    },
+    {
+      "name": "ai-web-tester",
+      "version": "0.1.1",
+      "description": "Autonomous browser testing engine & MCP toolset for AI coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/SiamAlSobari/ai-web-tester",
+      "npmUrl": "https://www.npmjs.com/package/ai-web-tester",
+      "category": "testing",
+      "createdAt": "2026-08-14T16:52:55.822Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 76
     },
     {
       "name": "ai-workbench.js",
@@ -58370,6 +58598,18 @@
       "score": 100
     },
     {
+      "name": "ctenifaktur",
+      "version": "0.1.0",
+      "description": "Command-line client for Čtení Faktur: upload Czech invoices and receipts, download ISDOC, Pohoda and Money S3 exports.",
+      "license": "MIT",
+      "repository": "https://github.com/ctenifaktur/cli",
+      "npmUrl": "https://www.npmjs.com/package/ctenifaktur",
+      "category": "cli",
+      "createdAt": "2026-08-14T17:04:44.819Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 60
+    },
+    {
       "name": "ctxprof",
       "version": "0.1.0",
       "description": "A local-first context-window profiler and CI budget gate for OpenAI-compatible LLM apps.",
@@ -60542,6 +60782,18 @@
       "score": 50
     },
     {
+      "name": "dsh-unified-agent-memory",
+      "version": "0.1.1",
+      "description": "Unified agent memory for DeepSeek Harness — one shared Obsidian vault for every agent (dsh, Codex, Claude, Hermes). Ships the dependency-free Python core (search/promote/adjudicate/forget), a vault template, and a dsh plugin with memory_search / memory_sh",
+      "license": "MIT",
+      "repository": "https://github.com/Noelune/unified-agent-memory",
+      "npmUrl": "https://www.npmjs.com/package/dsh-unified-agent-memory",
+      "category": "utilities",
+      "createdAt": "2026-08-14T16:36:26.256Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 59
+    },
+    {
       "name": "dsh-vision-mcp",
       "version": "1.2.0",
       "description": "Give your text-only LLM eyes: an MCP server that reads images via external OpenAI-compatible vision models (OpenAI, Qwen-VL, GLM, Gemini, Grok, Ollama...) with automatic provider fallback on rate-limit/errors.",
@@ -60566,6 +60818,18 @@
       "score": 100
     },
     {
+      "name": "dsh-web-search-searxng",
+      "version": "0.1.0",
+      "description": "SearXNG-backed web search provider for the DeepSeek Harness web capability seam (ctx.web) — self-hosted metasearch, no API key, no model turn per search",
+      "license": "MIT",
+      "repository": "https://github.com/chinng-inta/dsh-web-search-searxng",
+      "npmUrl": "https://www.npmjs.com/package/dsh-web-search-searxng",
+      "category": "backend",
+      "createdAt": "2026-08-14T16:55:09.164Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 70
+    },
+    {
       "name": "dsh-wechat-bridge",
       "version": "1.1.0",
       "description": "把 DeepSeek Harness (DSH) 接到微信「龙虾」(ClawBot)：iLink 协议直连 + 通用桥接，零依赖",
@@ -60576,6 +60840,18 @@
       "createdAt": "2026-08-14T12:45:56.779Z",
       "discoveredAt": "2026-08-14T14:02:59.393Z",
       "score": 82
+    },
+    {
+      "name": "dsh-yolo-mode",
+      "version": "0.4.0",
+      "description": "dsh-yolo-mode —— DeepSeek Harness 双面包插件：当会话处于可写沙箱模式且审批策略为 ask 时，用大模型自动裁决沙箱升权申请，支持内置预设与自定义权限层级，并提供宿主 settings + 自发布设置桥（/yolo-mode）与 Web 客户端 UI。",
+      "license": "MIT",
+      "repository": "https://github.com/SeverusZh/dsh-yolo-mode",
+      "npmUrl": "https://www.npmjs.com/package/dsh-yolo-mode",
+      "category": "utilities",
+      "createdAt": "2026-08-14T17:35:01.793Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 60
     },
     {
       "name": "dsv-chat-widget",
@@ -76322,6 +76598,18 @@
       "score": 73
     },
     {
+      "name": "pi-anchored-tool-for-dspro",
+      "version": "0.1.0",
+      "description": "Pi extension that anchors a target model's first request to a minimal tool catalog (shell + read), then restores the full catalog after the first tool call. For DeepSeek V4 Pro and other models that condition on the API-visible tool list (Standard/PTC 91/",
+      "license": "MIT",
+      "repository": "https://github.com/dbydd/pi-anchored-tool-for-dspro",
+      "npmUrl": "https://www.npmjs.com/package/pi-anchored-tool-for-dspro",
+      "category": "backend",
+      "createdAt": "2026-08-14T16:57:52.409Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 70
+    },
+    {
       "name": "pi-ast-outline",
       "version": "0.1.0",
       "description": "Native pi tools (code_outline, code_digest, code_symbol, code_grep) around the ast-outline CLI — stateless tree-sitter code navigation without indexes or language servers, plus a system prompt nudge",
@@ -85956,6 +86244,18 @@
       "createdAt": "2026-08-13T16:57:32.633Z",
       "discoveredAt": "2026-08-13T17:44:22.449Z",
       "score": 54
+    },
+    {
+      "name": "textmode.overlay.js",
+      "version": "1.0.0",
+      "description": "DOM overlay target plugin for textmode.js",
+      "license": "MIT",
+      "repository": "https://github.com/humanbydefinition/textmode.overlay.js",
+      "npmUrl": "https://www.npmjs.com/package/textmode.overlay.js",
+      "category": "frontend",
+      "createdAt": "2026-08-14T17:21:45.614Z",
+      "discoveredAt": "2026-08-14T17:37:59.065Z",
+      "score": 67
     },
     {
       "name": "tf-import-blocks",
