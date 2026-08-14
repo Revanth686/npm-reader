@@ -542,6 +542,18 @@
       "score": 54
     },
     {
+      "name": "@aauth/agent",
+      "version": "3.0.1",
+      "description": "Agent-side AAuth protocol library — HTTP Signatures, person tokens, token exchange, deferred polling",
+      "license": "MIT",
+      "repository": "https://github.com/aauth-dev/packages-js",
+      "npmUrl": "https://www.npmjs.com/package/%40aauth%2Fagent",
+      "category": "backend",
+      "createdAt": "2026-08-13T15:42:51.107Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 66
+    },
+    {
       "name": "@aauth/resource",
       "version": "2.0.0",
       "description": "AAuth resource-side reference implementation: token verification, resource tokens, R3 documents and per-call proposals, challenge headers, interaction management",
@@ -1572,6 +1584,18 @@
       "createdAt": "2026-08-05T15:54:36.318Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 71
+    },
+    {
+      "name": "@ahmadqarshi/react-native-swake",
+      "version": "1.0.0",
+      "description": "React Native SDK for Swake — feedback infrastructure for mobile apps",
+      "license": "MIT",
+      "repository": "https://github.com/boltechsolutions/echopost",
+      "npmUrl": "https://www.npmjs.com/package/%40ahmadqarshi%2Freact-native-swake",
+      "category": "frontend",
+      "createdAt": "2026-08-14T11:01:26.103Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 82
     },
     {
       "name": "@ahmartecnologias/ahmardesign",
@@ -3228,6 +3252,18 @@
       "createdAt": "2026-08-13T07:28:30.225Z",
       "discoveredAt": "2026-08-13T09:04:03.864Z",
       "score": 72
+    },
+    {
+      "name": "@anionex/dsh-vision-toolkit",
+      "version": "0.1.5",
+      "description": "DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, OCR, grounding, UI restoration, pixel diff, Artifacts, and Web UI.",
+      "license": "MIT",
+      "repository": "https://github.com/Anionex/dsh-vision-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40anionex%2Fdsh-vision-toolkit",
+      "category": "testing",
+      "createdAt": "2026-08-14T11:27:29.781Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 83
     },
     {
       "name": "@anizoptera/publish-clean",
@@ -5426,6 +5462,18 @@
       "score": 69
     },
     {
+      "name": "@belichuk/math-input",
+      "version": "0.3.0",
+      "description": "A dependency-free React editor for entering mathematical working, emitting KaTeX-compatible LaTeX.",
+      "license": "MIT",
+      "repository": "https://github.com/belichuk/MathInput",
+      "npmUrl": "https://www.npmjs.com/package/%40belichuk%2Fmath-input",
+      "category": "frontend",
+      "createdAt": "2026-08-14T11:21:18.209Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 77
+    },
+    {
       "name": "@belikenikola/wcag-audit",
       "version": "1.1.0",
       "description": "WCAG 2.1 accessibility auditor — CLI + library. Actionable reports and prioritized to-do lists, powered by axe-core and Playwright.",
@@ -6470,6 +6518,18 @@
       "score": 71
     },
     {
+      "name": "@buddy-works/storybook",
+      "version": "1.0.0",
+      "description": "Buddy visual regression testing and tunnels for Storybook. Upload your built Storybook to Buddy, review visual diffs of every story, and share your local Storybook through a public tunnel URL. A thin proxy for the bdy CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/buddy/storybook",
+      "npmUrl": "https://www.npmjs.com/package/%40buddy-works%2Fstorybook",
+      "category": "testing",
+      "createdAt": "2026-08-14T11:16:50.487Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 74
+    },
+    {
       "name": "@budiauktioner/buildi-primitives",
       "version": "0.1.1",
       "description": "Swedish, EU and international value-object primitives — validation, normalization, masking, and text scanning. TypeScript port of Buildi.Primitives (.NET).",
@@ -7212,6 +7272,18 @@
       "createdAt": "2026-08-07T14:33:44.375Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 76
+    },
+    {
+      "name": "@cargoffer/polyline",
+      "version": "1.0.1",
+      "description": "decode()/encode() del algoritmo Google Polyline (precision 5/6) — reemplazo minimalista y 100% compatible de @mapbox/polyline para TRANSCEND",
+      "license": "MIT",
+      "repository": "https://github.com/cargoffer/polyline",
+      "npmUrl": "https://www.npmjs.com/package/%40cargoffer%2Fpolyline",
+      "category": "devops",
+      "createdAt": "2026-08-14T10:41:13.330Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 64
     },
     {
       "name": "@carrieros/cli",
@@ -9864,6 +9936,18 @@
       "createdAt": "2026-08-12T04:08:19.254Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 64
+    },
+    {
+      "name": "@demystify/context",
+      "version": "0.1.0",
+      "description": "Token-budget and prompt-cache-boundary manager for LLM prompts. Fits candidate segments to a per-turn budget and reports every drop with a reason, computes where the cacheable prefix ends (a stable segment placed after a volatile one is not cacheable), ru",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fcontext",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:12:21.365Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 86
     },
     {
       "name": "@demystify/grounding",
@@ -14268,6 +14352,18 @@
       "createdAt": "2026-07-29T19:25:38.696Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 84
+    },
+    {
+      "name": "@forgedevstack/calendar",
+      "version": "1.0.0",
+      "description": "React scheduler and event calendar for month, week, day, and agenda views. The scheduling layer of ForgeStack.",
+      "license": "MIT",
+      "repository": "https://github.com/yaghobieh/calendar",
+      "npmUrl": "https://www.npmjs.com/package/%40forgedevstack%2Fcalendar",
+      "category": "frontend",
+      "createdAt": "2026-08-14T11:26:50.590Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 58
     },
     {
       "name": "@forgedevstack/ink",
@@ -24950,6 +25046,18 @@
       "score": 69
     },
     {
+      "name": "@kud/jira",
+      "version": "0.1.0",
+      "description": "Headless Jira client — issues, comments, attachments, ADF conversion, agile boards and instance metadata, with no environment or process dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/kud/jira",
+      "npmUrl": "https://www.npmjs.com/package/%40kud%2Fjira",
+      "category": "backend",
+      "createdAt": "2026-08-14T10:58:03.822Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 76
+    },
+    {
       "name": "@kuldeep2040/my-ui-lib",
       "version": "0.1.0",
       "description": "Accessible, themeable React components with zero runtime dependencies.",
@@ -26438,6 +26546,18 @@
       "score": 79
     },
     {
+      "name": "@lpb-work/pi-agent-core",
+      "version": "0.83.2",
+      "description": "General-purpose agent with transport abstraction, state management, and attachment support",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40lpb-work%2Fpi-agent-core",
+      "category": "utilities",
+      "createdAt": "2026-08-13T10:17:01.897Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 69
+    },
+    {
       "name": "@lpb-work/pi-ai",
       "version": "0.83.1",
       "description": "Unified LLM API with automatic model discovery and provider configuration",
@@ -26760,6 +26880,18 @@
       "createdAt": "2026-08-10T14:20:10.943Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 87
+    },
+    {
+      "name": "@macroui/mobile-vue",
+      "version": "1.0.1",
+      "description": "MacroUI Mobile Vue — 基于 NutUI 的 Vue3 移动端组件库（macroui 生态移动端实现）",
+      "license": "MIT",
+      "repository": "https://github.com/jd-opensource/nutui",
+      "npmUrl": "https://www.npmjs.com/package/%40macroui%2Fmobile-vue",
+      "category": "frontend",
+      "createdAt": "2026-08-14T11:14:49.188Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 72
     },
     {
       "name": "@madebyclowd/taiga-mcp-server",
@@ -30468,6 +30600,18 @@
       "createdAt": "2026-07-28T11:03:33.585Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 79
+    },
+    {
+      "name": "@nabilabs/builder",
+      "version": "0.1.1",
+      "description": "Deterministic static HTML component builder",
+      "license": "MIT",
+      "repository": "https://github.com/nabilabshq/builder",
+      "npmUrl": "https://www.npmjs.com/package/%40nabilabs%2Fbuilder",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T10:45:40.917Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 60
     },
     {
       "name": "@nadiamohamed/ai-referral-tracker",
@@ -34380,6 +34524,18 @@
       "createdAt": "2026-08-12T19:30:07.874Z",
       "discoveredAt": "2026-08-12T19:53:23.284Z",
       "score": 70
+    },
+    {
+      "name": "@perrylink/dsh-github",
+      "version": "0.4.1",
+      "description": "GitHub integration for DeepSeek Harness: create pull requests, review PRs with background jobs, and read issues — every write gated by human approval",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-github",
+      "npmUrl": "https://www.npmjs.com/package/%40perrylink%2Fdsh-github",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:20:57.922Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 78
     },
     {
       "name": "@personaai/runtime",
@@ -49850,6 +50006,18 @@
       "score": 73
     },
     {
+      "name": "acmeticker",
+      "version": "2.0.0",
+      "description": "Vanilla JS news ticker with vertical, horizontal, marquee and typewriter modes. jQuery-free successor to the v1 jQuery plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/codersantosh/acmeticker",
+      "npmUrl": "https://www.npmjs.com/package/acmeticker",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:24:30.701Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 88
+    },
+    {
       "name": "acp2api",
       "version": "1.0.1",
       "description": "OpenAI-compatible HTTP server over ACP agents. Use Claude Code, Codex, opencode or any ACP CLI from anything that speaks the OpenAI API but does not speak ACP yet.",
@@ -54662,6 +54830,18 @@
       "score": 71
     },
     {
+      "name": "chainward",
+      "version": "0.1.0",
+      "description": "Scan and sanitize attacker-writable on-chain text before it reaches an LLM. Zero-dependency prompt-injection guard for web3 AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/onchain-guard/ChainWard",
+      "npmUrl": "https://www.npmjs.com/package/chainward",
+      "category": "utilities",
+      "createdAt": "2026-08-14T10:55:45.484Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 60
+    },
+    {
       "name": "chameleon-cv",
       "version": "0.1.0",
       "description": "AI-powered resume tailor — tailor your CV to any job posting with ATS-optimized PDFs",
@@ -55500,6 +55680,18 @@
       "createdAt": "2026-07-28T00:15:17.522Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 88
+    },
+    {
+      "name": "clawchat-pi-agent",
+      "version": "0.1.1",
+      "description": "ClawChat Protocol v2 extension and headless multi-session host for Pi.",
+      "license": "MIT",
+      "repository": "https://github.com/XMethues/clawchat-pi-agent",
+      "npmUrl": "https://www.npmjs.com/package/clawchat-pi-agent",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:03:16.058Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 61
     },
     {
       "name": "clawd-skills",
@@ -57156,6 +57348,18 @@
       "createdAt": "2026-08-08T12:42:29.004Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 45
+    },
+    {
+      "name": "creatox-ui-kit",
+      "version": "0.2.0",
+      "description": "Web-native, object-centric React UI kit. Tailwind v4 tokens, CSS-first components, minimal JS runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/bulbasaur1k/creatox-ui-kit",
+      "npmUrl": "https://www.npmjs.com/package/creatox-ui-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-14T10:58:57.116Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 62
     },
     {
       "name": "creed-kg",
@@ -59066,6 +59270,18 @@
       "score": 67
     },
     {
+      "name": "dsh-background-agents",
+      "version": "0.3.0",
+      "description": "Interactive long-session background agents for DeepSeek Harness: start a durable continuable child agent from any session, watch its progress in the Web UI sidebar, message it any time, and interrupt it — all through the official subagent seam.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-background-agents",
+      "npmUrl": "https://www.npmjs.com/package/dsh-background-agents",
+      "category": "devops",
+      "createdAt": "2026-08-14T11:24:28.523Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 72
+    },
+    {
       "name": "dsh-bash-terminal",
       "version": "0.2.3",
       "description": "DSH plugin: one shell tool that runs commands through PowerShell, Git Bash, or WSL on Windows, with a user-chosen default terminal in the Web UI settings.",
@@ -59186,6 +59402,18 @@
       "score": 69
     },
     {
+      "name": "dsh-mcp-panel",
+      "version": "0.2.0",
+      "description": "Read-only runtime management panel for the official DeepSeek Harness MCP client: /mcp command, a Settings page MCP tab with connection status, recent errors, reconnect counts and tool inventory (sanitized for display), controlled enable/disable patch sugg",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-mcp-panel",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mcp-panel",
+      "category": "cli",
+      "createdAt": "2026-08-14T11:23:18.016Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 69
+    },
+    {
       "name": "dsh-meta-orchestrator",
       "version": "0.2.0",
       "description": "A model-native meta-agent plugin for DeepSeek Harness: the model synthesizes task-specific workflows at runtime from five agentic workflow patterns (prompt chaining, parallel workers, router, supervisor, evaluation loop) and coordinates tools and subagent",
@@ -59232,6 +59460,18 @@
       "createdAt": "2026-08-14T04:57:39.230Z",
       "discoveredAt": "2026-08-14T07:12:14.589Z",
       "score": 67
+    },
+    {
+      "name": "dsh-output-styles",
+      "version": "0.2.0",
+      "description": "Claude Code outputStyles-equivalent runtime output-style switching for DeepSeek Harness",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-output-styles",
+      "npmUrl": "https://www.npmjs.com/package/dsh-output-styles",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:20:38.185Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 60
     },
     {
       "name": "dsh-plugin-product-subagents",
@@ -68798,6 +69038,18 @@
       "score": 80
     },
     {
+      "name": "mcp-trellis",
+      "version": "0.1.0",
+      "description": "Zero-dependency MCP server + OAuth 2.1 authorization server in one package, for Claude, Gemini, and Codex connectors",
+      "license": "MIT",
+      "repository": "https://github.com/amir1824/mcp-trellis",
+      "npmUrl": "https://www.npmjs.com/package/mcp-trellis",
+      "category": "backend",
+      "createdAt": "2026-08-14T11:20:29.990Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 81
+    },
+    {
       "name": "mcp-vibelens",
       "version": "1.0.0",
       "description": "VibeLens — an MCP server that gives AI coding assistants eyes on localhost: screenshots, console errors, and a token-optimized DOM snapshot.",
@@ -73932,6 +74184,18 @@
       "createdAt": "2026-08-02T18:57:10.466Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 89
+    },
+    {
+      "name": "orca-dag",
+      "version": "0.1.0",
+      "description": "Orca DAG: a skill that teaches your agent to build an orchestration task DAG, plus a viewer binary to visualize it and fire tasks per-harness.",
+      "license": "MIT",
+      "repository": "https://github.com/ZinkLu/Orca-Orchestration",
+      "npmUrl": "https://www.npmjs.com/package/orca-dag",
+      "category": "frontend",
+      "createdAt": "2026-08-14T11:09:08.229Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 76
     },
     {
       "name": "orca-mcp",
@@ -79154,6 +79418,18 @@
       "score": 96
     },
     {
+      "name": "realm-mongoose-orm",
+      "version": "1.0.0",
+      "description": "Mini ORM TypeScript pour Realm avec une API facon Mongoose : schemas, modeles, CRUD, migrations 100% automatiques, agregations.",
+      "license": "MIT",
+      "repository": "https://github.com/cellsflux/realm-mongoose-orm",
+      "npmUrl": "https://www.npmjs.com/package/realm-mongoose-orm",
+      "category": "backend",
+      "createdAt": "2026-08-14T11:01:23.768Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 88
+    },
+    {
       "name": "realtime-voice-agents",
       "version": "2.0.1",
       "description": "Provider-agnostic bridge between Twilio Media Streams and realtime speech-to-speech AI APIs (OpenAI Realtime, xAI Grok Voice, Gemini Live). Multi-agent handoffs, Zod tools with execution strategies, mark-based playback tracking, interruption guards, and h",
@@ -80892,6 +81168,18 @@
       "createdAt": "2026-07-26T16:15:08.592Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 68
+    },
+    {
+      "name": "scrollrail",
+      "version": "0.1.0",
+      "description": "Framework-agnostic custom scrollbars — Vue directive, Svelte action and attachment, and a helper for vanilla JS and React. Zero framework peer dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/hasinoorit/scrollrail",
+      "npmUrl": "https://www.npmjs.com/package/scrollrail",
+      "category": "frontend",
+      "createdAt": "2026-08-14T10:56:49.526Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 85
     },
     {
       "name": "sculptors",
@@ -88920,6 +89208,18 @@
       "createdAt": "2026-07-30T08:24:57.146Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 79
+    },
+    {
+      "name": "z-ai-image-mcp",
+      "version": "2.0.0",
+      "description": "MCP server for Z.AI image generation models (GLM-Image, CogView-4)",
+      "license": "MIT",
+      "repository": "https://github.com/GeorgH93/z_ai_image_gen_mcp",
+      "npmUrl": "https://www.npmjs.com/package/z-ai-image-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T11:15:07.020Z",
+      "discoveredAt": "2026-08-14T11:32:59.988Z",
+      "score": 82
     },
     {
       "name": "zalo-api-sdk",
