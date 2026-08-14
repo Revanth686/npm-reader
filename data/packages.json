@@ -7898,6 +7898,18 @@
       "score": 66
     },
     {
+      "name": "@chat-adapter/notion",
+      "version": "4.38.0",
+      "description": "Notion adapter for Chat SDK — participate in page and block comment discussions",
+      "license": "MIT",
+      "repository": "https://github.com/vercel/chat",
+      "npmUrl": "https://www.npmjs.com/package/%40chat-adapter%2Fnotion",
+      "category": "devops",
+      "createdAt": "2026-08-05T14:57:12.626Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 60
+    },
+    {
       "name": "@chativa/rn-webview",
       "version": "0.9.1",
       "description": "Chativa RN WebView — embeds the Chativa web chat widget in a react-native-webview, bridged to native props/callbacks, so any existing @chativa/connector-* works unmodified. See README.md for architecture and the native-fallback tracking issues.",
@@ -9590,6 +9602,18 @@
       "score": 74
     },
     {
+      "name": "@ctxnn/pi-permission-gate",
+      "version": "0.1.0",
+      "description": "Fail-closed destructive-command approval gate and safe-operations skill for the Pi coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/ctxnn/pi-permission-gate",
+      "npmUrl": "https://www.npmjs.com/package/%40ctxnn%2Fpi-permission-gate",
+      "category": "utilities",
+      "createdAt": "2026-08-14T19:38:43.818Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 55
+    },
+    {
       "name": "@curatelabs/graphforge-agent-skills",
       "version": "0.5.1",
       "description": "NPX-distributed agent skills and adapters for GraphForge",
@@ -9948,6 +9972,42 @@
       "createdAt": "2026-08-13T16:40:46.240Z",
       "discoveredAt": "2026-08-13T16:47:16.274Z",
       "score": 77
+    },
+    {
+      "name": "@davidilie/telemetry-node",
+      "version": "0.1.1",
+      "description": "OpenTelemetry-backed telemetry for Node.js services.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/DavidIlie/davidapps-telemetry",
+      "npmUrl": "https://www.npmjs.com/package/%40davidilie%2Ftelemetry-node",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:14:48.611Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 63
+    },
+    {
+      "name": "@davidilie/telemetry-react-native",
+      "version": "0.1.1",
+      "description": "Small OpenTelemetry/OTLP client for React Native and Expo applications.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/DavidIlie/davidapps-telemetry",
+      "npmUrl": "https://www.npmjs.com/package/%40davidilie%2Ftelemetry-react-native",
+      "category": "frontend",
+      "createdAt": "2026-08-14T20:15:06.313Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 69
+    },
+    {
+      "name": "@davidilie/telemetry-web",
+      "version": "0.1.1",
+      "description": "Small Grafana Faro browser adapter for DavidApps telemetry.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/DavidIlie/davidapps-telemetry",
+      "npmUrl": "https://www.npmjs.com/package/%40davidilie%2Ftelemetry-web",
+      "category": "frontend",
+      "createdAt": "2026-08-14T20:14:38.590Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 61
     },
     {
       "name": "@davidwells/code-inspector-plugin",
@@ -12650,6 +12710,18 @@
       "score": 87
     },
     {
+      "name": "@dzhechkov/skills-decision-mockups",
+      "version": "0.1.1",
+      "description": "decision-mockups — build an owner-facing decision page: plain-language explanations, browser-frame before/after mockups, clickable option forks and a copy-answers export that pastes back into the session. Ships a zero-dependency deterministic gate (G0-G14",
+      "license": "MIT",
+      "repository": "https://github.com/djd1m/dz-harness-hub",
+      "npmUrl": "https://www.npmjs.com/package/%40dzhechkov%2Fskills-decision-mockups",
+      "category": "frontend",
+      "createdAt": "2026-08-14T19:39:23.495Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 70
+    },
+    {
       "name": "@dzhechkov/skills-tutorial-factory",
       "version": "0.1.0",
       "description": "package-tutorial-factory — a meta-skill that turns any harness-hub package into a Head-First-style gamified edu-site learning course. Composes skills-book-digitizer (IP-safe distillation), edu-site-generator (render), and the code-skills-creator meta-fact",
@@ -13236,6 +13308,18 @@
       "createdAt": "2026-08-06T03:06:48.901Z",
       "discoveredAt": "2026-08-07T05:57:15.695Z",
       "score": 52
+    },
+    {
+      "name": "@elixpo/lixblogs-cli",
+      "version": "1.1.2",
+      "description": "Official CLI for LixBlogs — publish, manage, and inspect blogs through the supported API. Built for creators and agent automation.",
+      "license": "MIT",
+      "repository": "https://github.com/elixpo/blogs.elixpo",
+      "npmUrl": "https://www.npmjs.com/package/%40elixpo%2Flixblogs-cli",
+      "category": "backend",
+      "createdAt": "2026-08-14T19:43:17.947Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 76
     },
     {
       "name": "@eliyantosarage/hostinger-mcp",
@@ -17378,6 +17462,18 @@
       "score": 56
     },
     {
+      "name": "@gitmyabi/eeth",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for eETH (build etherscan-eeth-35fa1647-1786736263479, commit ca8e7be, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/eeth",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Feeth",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T19:38:07.251Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 56
+    },
+    {
       "name": "@gitmyabi/ena",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for ENA (build etherscan-ena-57e114b6-1785618104178, commit 131c35f, branch etherscan)",
@@ -19644,6 +19740,18 @@
       "createdAt": "2026-07-30T21:35:48.539Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 57
+    },
+    {
+      "name": "@gitmyabi/vidt",
+      "version": "1.0.1",
+      "description": "Auto-generated TypeScript type bindings for VIDT (build etherscan-vidt-fef41855-1786737118487, commit 5e9dc9a, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/vidt",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fvidt",
+      "category": "build-tools",
+      "createdAt": "2026-08-05T09:05:07.973Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 56
     },
     {
       "name": "@gitmyabi/vxvopresale",
@@ -23534,6 +23642,18 @@
       "score": 74
     },
     {
+      "name": "@iowarp/clio-coder",
+      "version": "0.3.0",
+      "description": "Coding agent for HPC and scientific-software developers, part of IOWarp's CLIO ecosystem of agentic science.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iowarp/clio-coder",
+      "npmUrl": "https://www.npmjs.com/package/%40iowarp%2Fclio-coder",
+      "category": "cli",
+      "createdAt": "2026-08-14T19:33:31.313Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 80
+    },
+    {
       "name": "@iqidis/blackboard-mcp",
       "version": "0.2.1",
       "description": "Persistent blackboard reasoning for AI agents. Zero API calls, zero cost. Works with Claude Code and Codex.",
@@ -24444,6 +24564,18 @@
       "createdAt": "2026-08-08T02:12:01.571Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 74
+    },
+    {
+      "name": "@jfrader/observability",
+      "version": "0.1.0",
+      "description": "Strategy-based observability for small apps: error tracking (Sentry, pluggable) and analytics (PostHog, Plausible/Umami-style beacon, pluggable) behind one tiny API. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/jfrader/observability",
+      "npmUrl": "https://www.npmjs.com/package/%40jfrader%2Fobservability",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:10:38.603Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 67
     },
     {
       "name": "@jini-ai/ui",
@@ -32642,6 +32774,30 @@
       "score": 68
     },
     {
+      "name": "@node-3d/deps-qt-core",
+      "version": "5.0.0",
+      "description": "Qt Core dynamic libraries for Node.js addons",
+      "license": "MIT",
+      "repository": "https://github.com/node-3d/deps-qt-core",
+      "npmUrl": "https://www.npmjs.com/package/%40node-3d%2Fdeps-qt-core",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:06:08.186Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 60
+    },
+    {
+      "name": "@node-3d/steam-api",
+      "version": "0.1.0",
+      "description": "Steamworks API bindings for Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/node-3d/steam-api",
+      "npmUrl": "https://www.npmjs.com/package/%40node-3d%2Fsteam-api",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:04:46.428Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 71
+    },
+    {
       "name": "@node-3d/webgl",
       "version": "6.0.0",
       "description": "WebGL for Node.js",
@@ -35570,6 +35726,18 @@
       "score": 75
     },
     {
+      "name": "@pi-kaush/pi-response-style",
+      "version": "0.1.0",
+      "description": "Switch the chat response style of the Pi agent from a picker; styles inject at the system-prompt level and leave thinking traces alone.",
+      "license": "MIT",
+      "repository": "https://github.com/kaushikgopal/pi-kaush",
+      "npmUrl": "https://www.npmjs.com/package/%40pi-kaush%2Fpi-response-style",
+      "category": "utilities",
+      "createdAt": "2026-08-14T19:58:07.416Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 66
+    },
+    {
       "name": "@picassio/pi-agent-browser-native",
       "version": "0.2.73",
       "description": "pi extension that exposes agent-browser as a native tool for browser automation",
@@ -36122,6 +36290,18 @@
       "score": 68
     },
     {
+      "name": "@pome-sh/sandbox-domains",
+      "version": "0.2.0",
+      "description": "Pome's twin domain layer — the in-process runtime a bound check reads: each digital twin's domain object, its SQLite opener, its seed parser and its declared check vocabulary. Runtime, not server: no Hono app, no routes, no MCP tool table.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pome-sh/digital-twins",
+      "npmUrl": "https://www.npmjs.com/package/%40pome-sh%2Fsandbox-domains",
+      "category": "testing",
+      "createdAt": "2026-08-14T00:01:30.237Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 59
+    },
+    {
       "name": "@pompeii-labs/emulate",
       "version": "0.9.0",
       "description": "Local drop-in replacement services for CI and no-network sandboxes",
@@ -36456,6 +36636,18 @@
       "createdAt": "2026-07-26T10:07:27.409Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 78
+    },
+    {
+      "name": "@privacy-ai/cli",
+      "version": "0.4.1",
+      "description": "Canonical PrivacyAI command for protected agents, onboarding, diagnostics, cache, and lineage inspection.",
+      "license": "MIT",
+      "repository": "https://github.com/ru-aish/PrivacyAI",
+      "npmUrl": "https://www.npmjs.com/package/%40privacy-ai%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-13T21:38:38.349Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 57
     },
     {
       "name": "@privacyscrubber/core",
@@ -39648,6 +39840,18 @@
       "createdAt": "2026-08-07T16:33:32.615Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 73
+    },
+    {
+      "name": "@rubicontv/diviops-mcp",
+      "version": "1.7.0",
+      "description": "MCP server exposing Divi 5 Visual Builder as tools for Claude",
+      "license": "MIT",
+      "repository": "https://github.com/rubicon/diviops",
+      "npmUrl": "https://www.npmjs.com/package/%40rubicontv%2Fdiviops-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:11:24.627Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 78
     },
     {
       "name": "@ruelya/grok-build",
@@ -49742,6 +49946,18 @@
       "score": 64
     },
     {
+      "name": "@xyo-network/dapp-kit-vercel",
+      "version": "0.1.8",
+      "description": "Vercel target analysis and host adapters for headless XL1 dApps",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/XYOracleNetwork/dapp-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40xyo-network%2Fdapp-kit-vercel",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T19:43:18.705Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 59
+    },
+    {
       "name": "@xyo-network/xl1-docker-images",
       "version": "5.0.4",
       "description": "Docker images, Compose recipes, and config examples for running XL1 network nodes",
@@ -54158,6 +54374,18 @@
       "score": 81
     },
     {
+      "name": "averi",
+      "version": "0.1.0",
+      "description": "MCP server for verifying mobile app changes on iOS Simulators and Android Emulators",
+      "license": "MIT",
+      "repository": "https://github.com/mholecy/averi",
+      "npmUrl": "https://www.npmjs.com/package/averi",
+      "category": "testing",
+      "createdAt": "2026-08-14T20:11:43.128Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 72
+    },
+    {
       "name": "awesome-renamer",
       "version": "2.0.0",
       "description": "Rule-based file and directory renaming with single and batch APIs, validation, and collision handling.",
@@ -58550,6 +58778,18 @@
       "score": 78
     },
     {
+      "name": "create-kai",
+      "version": "0.1.0",
+      "description": "Scaffold a runnable @kitn.ai/ui chat app. `npm create kai@latest`",
+      "license": "MIT",
+      "repository": "https://github.com/kitn-ai/ui",
+      "npmUrl": "https://www.npmjs.com/package/create-kai",
+      "category": "testing",
+      "createdAt": "2026-08-14T20:05:07.087Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 70
+    },
+    {
       "name": "create-katalyst-laragon",
       "version": "0.3.0",
       "description": "Scaffold a local WordPress + AI-agent dev environment on Laragon (Windows, no Docker).",
@@ -59124,6 +59364,18 @@
       "createdAt": "2026-07-31T15:35:22.861Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 75
+    },
+    {
+      "name": "cypress-dfe",
+      "version": "0.1.0",
+      "description": "Gera NF-e, CT-e e MDF-e para teste automatizado — e corrompe de propósito, de um jeito nomeado, para você provar que seu sistema recusa documento fiscal inválido. Não emite e não transmite.",
+      "license": "MIT",
+      "repository": "https://github.com/logangaabriel/cypress-dfe",
+      "npmUrl": "https://www.npmjs.com/package/cypress-dfe",
+      "category": "testing",
+      "createdAt": "2026-08-14T19:51:31.506Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 85
     },
     {
       "name": "cypress-snapshot-bug-reporter",
@@ -61020,6 +61272,18 @@
       "createdAt": "2026-08-14T11:20:38.185Z",
       "discoveredAt": "2026-08-14T11:32:59.988Z",
       "score": 60
+    },
+    {
+      "name": "dsh-plugin-llm-balance",
+      "version": "0.2.0",
+      "description": "DSH（DeepSeek Harness）插件：页面右上角可拖动的 API 余额/配额悬浮卡片——自动发现 DeepSeek / Moonshot / Kimi For Coding 等 provider，按余额分档变色、实时刷新",
+      "license": "MIT",
+      "repository": "https://github.com/FengHuoLinShan/dsh-plugin-llm-balance",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-llm-balance",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:06:46.185Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 62
     },
     {
       "name": "dsh-plugin-product-subagents",
@@ -72218,6 +72482,18 @@
       "score": 63
     },
     {
+      "name": "n8n-nodes-apidirect",
+      "version": "0.1.1",
+      "description": "n8n community node for API Direct - search and monitor social media, news, and the web (Twitter/X, Facebook, Instagram, TikTok, YouTube, Reddit, Threads, Truth Social, Google)",
+      "license": "MIT",
+      "repository": "https://github.com/joshwallerr/n8n-nodes-apidirect",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-apidirect",
+      "category": "backend",
+      "createdAt": "2026-08-14T19:55:45.184Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 62
+    },
+    {
       "name": "n8n-nodes-apple-appstore",
       "version": "0.1.1",
       "description": "n8n community nodes for the Apple App Store Connect API — TestFlight, builds, App Store versions, customer reviews, users, and webhooks.",
@@ -75314,6 +75590,18 @@
       "score": 77
     },
     {
+      "name": "opencode-actualyze",
+      "version": "1.6.0",
+      "description": "opencode plugin that auto-discovers models from OpenAI-compatible providers and enriches them with context window sizes, capability flags, and model metadata. Supports Actualyze, Ollama, oMLX, vLLM, TGI, SGLang, LM Studio, KoboldCpp, llama.cpp, and LocalA",
+      "license": "MIT",
+      "repository": "https://github.com/actualyze-ai/opencode-actualyze",
+      "npmUrl": "https://www.npmjs.com/package/opencode-actualyze",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:09:39.383Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 100
+    },
+    {
       "name": "opencode-agent-teams-relay",
       "version": "1.0.0",
       "description": "Portable Agent-Teams orchestration for opencode",
@@ -75528,6 +75816,18 @@
       "createdAt": "2026-08-01T07:55:59.537Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 67
+    },
+    {
+      "name": "opencode-m365-copilot",
+      "version": "0.2.0",
+      "description": "Use your org's Microsoft 365 Copilot as the model backend for opencode",
+      "license": "MIT",
+      "repository": "https://github.com/chrischall/opencode-copilot-plugin",
+      "npmUrl": "https://www.npmjs.com/package/opencode-m365-copilot",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:06:29.223Z",
+      "discoveredAt": "2026-08-14T20:23:12.075Z",
+      "score": 71
     },
     {
       "name": "opencode-mcp-bridge",

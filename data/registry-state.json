@@ -1,31 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125073865,
-  "lastRunAt": "2026-08-14T19:36:54.018Z",
+  "lastSequence": 125079445,
+  "lastRunAt": "2026-08-14T20:23:12.075Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@intellara/trovegen-mcp",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@iowarp/clio-coder",
+      "name": "@dsh-feishu/dsh-feishu",
       "attempts": 1
     },
     {
-      "name": "@suss/framework-activerecord",
-      "attempts": 1
-    },
-    {
-      "name": "@fastyoke/mcp",
-      "attempts": 1
-    },
-    {
-      "name": "@izzyjs/ui",
-      "attempts": 1
-    },
-    {
-      "name": "@maniclang/api-spec",
+      "name": "@firstpick/pi-skill-project-readme",
       "attempts": 1
     }
   ]
