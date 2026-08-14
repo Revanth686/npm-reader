@@ -506,6 +506,18 @@
       "score": 80
     },
     {
+      "name": "@aaroncarry/dsh-plugin-swarm",
+      "version": "1.0.1",
+      "description": "Master/worker multi-agent orchestration plugin for DeepSeek Harness: one master agent fans a goal out to parallel worker subagents with per-tier budgets, optional review-with-redo, and a final synthesis step.",
+      "license": "MIT",
+      "repository": "https://github.com/aaroncarry/dsh-swarm",
+      "npmUrl": "https://www.npmjs.com/package/%40aaroncarry%2Fdsh-plugin-swarm",
+      "category": "utilities",
+      "createdAt": "2026-08-14T09:51:41.562Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 75
+    },
+    {
       "name": "@aarwitz/tapp",
       "version": "0.15.0",
       "description": "Release contracts, autonomous QA, and evidence-backed CI gates for iOS, Android, and web.",
@@ -4296,6 +4308,18 @@
       "createdAt": "2026-08-07T23:38:11.264Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 86
+    },
+    {
+      "name": "@astrapi69/tree-kit",
+      "version": "0.2.0",
+      "description": "Typed, serialisable tree structures for TypeScript. Immutable acyclic nodes, a navigating cursor, and generator-based traversal. Zero dependencies, framework-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/astrapi69/tree-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40astrapi69%2Ftree-kit",
+      "category": "backend",
+      "createdAt": "2026-08-04T07:43:15.065Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 71
     },
     {
       "name": "@astrivya/akg-core",
@@ -14666,6 +14690,18 @@
       "score": 73
     },
     {
+      "name": "@funx8a/pterodactyl-js",
+      "version": "1.0.0",
+      "description": "A fully-typed, professional JavaScript/TypeScript SDK for the Pterodactyl Panel API",
+      "license": "MIT",
+      "repository": "https://github.com/funx8/pterodactyl-js",
+      "npmUrl": "https://www.npmjs.com/package/%40funx8a%2Fpterodactyl-js",
+      "category": "backend",
+      "createdAt": "2026-08-14T08:57:50.040Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 80
+    },
+    {
       "name": "@furlpay/transaction-guard",
       "version": "0.1.0",
       "description": "Refuse malformed, stale, or wrong-chain EVM transactions before a key ever touches them. Validates addresses (EIP-55), chain binding, calldata, quote freshness, and AI-proposed actions. Zero runtime dependencies.",
@@ -21170,6 +21206,18 @@
       "score": 83
     },
     {
+      "name": "@hudishkin/agit",
+      "version": "0.1.0",
+      "description": "CLI protocol that gives AI coding agents a safe Git workflow: start a task branch, commit locally, run checks, push once, and open a draft PR",
+      "license": "MIT",
+      "repository": "https://github.com/hudishkin/agit",
+      "npmUrl": "https://www.npmjs.com/package/%40hudishkin%2Fagit",
+      "category": "cli",
+      "createdAt": "2026-08-14T10:25:25.291Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 77
+    },
+    {
       "name": "@huekit/tailwind",
       "version": "1.0.0",
       "description": "Turn brand colors into a Tailwind v4 @theme block. OKLCH scales, gamut-fitted, with readable foregrounds. Part of huekit, the OKLCH toolkit for designers.",
@@ -24362,6 +24410,18 @@
       "score": 82
     },
     {
+      "name": "@kennejunior/liquidglass",
+      "version": "1.0.3",
+      "description": "Lightweight UI library built with TypeScript and Vite.",
+      "license": "MIT",
+      "repository": "https://github.com/KenneJunior/liquidglass",
+      "npmUrl": "https://www.npmjs.com/package/%40kennejunior%2Fliquidglass",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T08:47:45.949Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 81
+    },
+    {
       "name": "@kertin/zeact",
       "version": "0.1.0",
       "description": "Scenario-tuned performance primitives for React 18",
@@ -26378,6 +26438,18 @@
       "score": 79
     },
     {
+      "name": "@lpb-work/pi-ai",
+      "version": "0.83.1",
+      "description": "Unified LLM API with automatic model discovery and provider configuration",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40lpb-work%2Fpi-ai",
+      "category": "backend",
+      "createdAt": "2026-08-13T10:14:46.011Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 73
+    },
+    {
       "name": "@lpb-work/pi-subagents",
       "version": "0.42.2",
       "description": "Fork: Pi extension for single-agent delegation and scripted multi-agent workflows",
@@ -26388,6 +26460,18 @@
       "createdAt": "2026-08-13T10:56:12.262Z",
       "discoveredAt": "2026-08-13T11:40:08.101Z",
       "score": 58
+    },
+    {
+      "name": "@lpb-work/pi-tui",
+      "version": "0.83.1",
+      "description": "Terminal User Interface library with differential rendering for efficient text-based applications",
+      "license": "MIT",
+      "repository": "https://github.com/earendil-works/pi",
+      "npmUrl": "https://www.npmjs.com/package/%40lpb-work%2Fpi-tui",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T10:15:49.404Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 73
     },
     {
       "name": "@lttr/gv",
@@ -47018,6 +47102,18 @@
       "score": 60
     },
     {
+      "name": "@waniwani/kit",
+      "version": "0.1.1",
+      "description": "Build an MCP app as a folder: tools, widgets, flows and docs, with one CLI and one shared server runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/WaniWani-AI/kit",
+      "npmUrl": "https://www.npmjs.com/package/%40waniwani%2Fkit",
+      "category": "backend",
+      "createdAt": "2026-08-14T09:26:00.813Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 80
+    },
+    {
       "name": "@wardenpoint/mcp-server",
       "version": "0.1.0",
       "description": "MCP server for WardenPoint: let an agent configure recipients, groups, escalation policies, on-call schedules and alert routing. Built entirely from the installation's own OpenAPI description.",
@@ -49106,6 +49202,18 @@
       "score": 47
     },
     {
+      "name": "@zey1996/ssh-mcp-server",
+      "version": "1.9.1",
+      "description": "SSH-based MCP Server (基于 SSH 的 MCP 服务器)",
+      "license": "ISC",
+      "repository": "https://github.com/zey1996/ssh-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40zey1996%2Fssh-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-05T06:37:13.401Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 71
+    },
+    {
       "name": "@zhcsyncer/pi-plan-mode",
       "version": "0.1.0",
       "description": "Temporary read-only Plan Mode for Pi with revdiff review and immutable revisions.",
@@ -50930,6 +51038,18 @@
       "score": 56
     },
     {
+      "name": "ai-task-board-bridge",
+      "version": "1.0.0",
+      "description": "Unified interactive installer and device bridge for Codex and Kimi Code on AI Task Board",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/neilx2ye/ai_task_board",
+      "npmUrl": "https://www.npmjs.com/package/ai-task-board-bridge",
+      "category": "cli",
+      "createdAt": "2026-08-13T10:06:06.342Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 80
+    },
+    {
       "name": "ai-threads",
       "version": "0.0.2",
       "description": "Name reservation for ai-sdk-threads, which is the package you want. ai-threads contains no code.",
@@ -51000,6 +51120,18 @@
       "createdAt": "2026-08-09T22:41:15.687Z",
       "discoveredAt": "2026-08-09T22:54:46.351Z",
       "score": 80
+    },
+    {
+      "name": "aigc-provider-runtime-kit",
+      "version": "0.2.0",
+      "description": "Framework-neutral AIGC provider runtime with validated registries, unified adapters, standard outputs, and RunningHub/OpenAI-compatible clients.",
+      "license": "MIT",
+      "repository": "https://github.com/Hhh2178/aigc-provider-runtime-kit",
+      "npmUrl": "https://www.npmjs.com/package/aigc-provider-runtime-kit",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T10:16:59.787Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 76
     },
     {
       "name": "ailogic",
@@ -51192,6 +51324,18 @@
       "createdAt": "2026-08-07T07:24:12.602Z",
       "discoveredAt": "2026-08-07T08:48:04.179Z",
       "score": 81
+    },
+    {
+      "name": "allrouter",
+      "version": "1.0.0",
+      "description": "Interactive AllRouter launcher and configuration manager for AI coding agents (Claude Code, Codex, OpenCode, Qwen, Hermes, Pi, Crush)",
+      "license": "MIT",
+      "repository": "https://github.com/haarisxyz/allrouter",
+      "npmUrl": "https://www.npmjs.com/package/allrouter",
+      "category": "backend",
+      "createdAt": "2026-08-14T10:28:47.913Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 72
     },
     {
       "name": "allure-katalon-bridge",
@@ -53208,6 +53352,18 @@
       "createdAt": "2026-07-30T21:29:33.407Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 88
+    },
+    {
+      "name": "blemish",
+      "version": "1.0.0",
+      "description": "A dependency-free issue tree model: nested item/group issues with absolute paths, shared across validation libraries.",
+      "license": "MIT",
+      "repository": "https://github.com/tada5hi/blemish",
+      "npmUrl": "https://www.npmjs.com/package/blemish",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T09:33:13.236Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 87
     },
     {
       "name": "blind-panel",
@@ -58934,6 +59090,18 @@
       "score": 81
     },
     {
+      "name": "dsh-checkpoint-rewind",
+      "version": "0.3.0",
+      "description": "Claude Code /rewind equivalent for DeepSeek Harness: git-first workspace file snapshots before every mutating tool execution, turn-boundary session forks, and a one-shot /rewind command that restores files and forks the session back to a checkpoint",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-checkpoint-rewind",
+      "npmUrl": "https://www.npmjs.com/package/dsh-checkpoint-rewind",
+      "category": "utilities",
+      "createdAt": "2026-08-14T10:15:34.037Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 90
+    },
+    {
       "name": "dsh-codex-provider",
       "version": "0.1.0",
       "description": "OpenAI Codex provider for DeepSeek Harness with device-code OAuth, Codex CLI import, token refresh, and a web settings panel.",
@@ -58958,6 +59126,18 @@
       "score": 70
     },
     {
+      "name": "dsh-composer-history",
+      "version": "0.2.0",
+      "description": "Terminal-style input history for the DeepSeek Harness web composer: edge-first arrows with exact draft/caret restore, browser-local persisted history, Ctrl+R reverse search, workspace-scoped recall, and fully configurable keys — layered on the ordinary co",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-composer-history",
+      "npmUrl": "https://www.npmjs.com/package/dsh-composer-history",
+      "category": "frontend",
+      "createdAt": "2026-08-14T10:13:21.083Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 90
+    },
+    {
       "name": "dsh-dashboard",
       "version": "0.1.0",
       "description": "A Symphony-compatible issue orchestrator and dashboard for DeepSeek Harness",
@@ -58968,6 +59148,18 @@
       "createdAt": "2026-08-14T04:24:24.936Z",
       "discoveredAt": "2026-08-14T05:39:25.773Z",
       "score": 63
+    },
+    {
+      "name": "dsh-doublecheck",
+      "version": "0.5.0",
+      "description": "Double-check before you ship: grill the requirements, test the implementation, prove the delivery.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-doublecheck",
+      "npmUrl": "https://www.npmjs.com/package/dsh-doublecheck",
+      "category": "testing",
+      "createdAt": "2026-08-14T10:14:32.580Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 73
     },
     {
       "name": "dsh-fail-logger",
@@ -61874,6 +62066,18 @@
       "score": 83
     },
     {
+      "name": "gearswitch",
+      "version": "0.0.1",
+      "description": "Smart model fallback for the Vercel AI SDK: reactive fallback on rate-limit/transient errors and proactive switching before limits are hit.",
+      "license": "MIT",
+      "repository": "https://github.com/usmangurowa/gearswitch",
+      "npmUrl": "https://www.npmjs.com/package/gearswitch",
+      "category": "frontend",
+      "createdAt": "2026-08-14T09:45:14.890Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 80
+    },
+    {
       "name": "geekstackflow",
       "version": "0.4.0",
       "description": "A structured AI workflow for planning, coding, reviewing, testing, refactoring, and shipping software. Karpathy-style LLM wiki with mandatory qmd search, two-file task tracking, six agent roles, eighteen starter skills, multi-tool portable (Claude Code, C",
@@ -62940,6 +63144,18 @@
       "createdAt": "2026-07-31T19:48:45.612Z",
       "discoveredAt": "2026-07-31T20:55:27.463Z",
       "score": 74
+    },
+    {
+      "name": "hacking-sim",
+      "version": "1.4.0",
+      "description": "Zero-dependency cyberpunk hacking simulations for modern terminals.",
+      "license": "MIT",
+      "repository": "https://github.com/XSaitoKungX/hacking-sim",
+      "npmUrl": "https://www.npmjs.com/package/hacking-sim",
+      "category": "cli",
+      "createdAt": "2026-08-14T10:02:28.655Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 73
     },
     {
       "name": "hafez",
@@ -71270,6 +71486,18 @@
       "score": 83
     },
     {
+      "name": "nexeno-ui",
+      "version": "1.0.0",
+      "description": "Nexeno UI — the centralized design system for all Nexeno applications (HR, CRM, Project Management, Finance).",
+      "license": "MIT",
+      "repository": "https://github.com/etfrontend-team/nexeno-ui",
+      "npmUrl": "https://www.npmjs.com/package/nexeno-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-14T10:17:22.196Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 70
+    },
+    {
       "name": "nexora-iot-ui",
       "version": "0.1.1",
       "description": "Componentes de UI para IoT industrial, con una capa opcional para hablar con dispositivos por Portal",
@@ -72060,6 +72288,18 @@
       "createdAt": "2026-07-27T03:03:34.138Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 73
+    },
+    {
+      "name": "noxleyss",
+      "version": "1.1.0",
+      "description": "WhatsApp Web API Library",
+      "license": "MIT",
+      "repository": "https://github.com/noxXza/noxleys",
+      "npmUrl": "https://www.npmjs.com/package/noxleyss",
+      "category": "backend",
+      "createdAt": "2026-08-14T10:46:38.690Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 78
     },
     {
       "name": "noxza",
@@ -74534,6 +74774,18 @@
       "score": 90
     },
     {
+      "name": "personalaity",
+      "version": "0.3.1",
+      "description": "An open specification for AI personality. Define it once, render it anywhere — HEXACO facets, Schwartz values, PAD dynamics, compiled to any medium and measurable.",
+      "license": "MIT",
+      "repository": "https://github.com/gianmarco-pinto/personalAIty",
+      "npmUrl": "https://www.npmjs.com/package/personalaity",
+      "category": "devops",
+      "createdAt": "2026-08-14T10:23:45.340Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 80
+    },
+    {
       "name": "pg-cron-lease",
       "version": "1.0.1",
       "description": "Make an in-process cron job a singleton across replicas using the Postgres you already have. One atomic conditional upsert per tick — no advisory locks, no Redis, no coordination service.",
@@ -75396,6 +75648,18 @@
       "createdAt": "2026-08-13T19:25:35.735Z",
       "discoveredAt": "2026-08-13T19:47:27.555Z",
       "score": 71
+    },
+    {
+      "name": "pi-memsearch",
+      "version": "1.0.0",
+      "description": "memsearch-backed long-term memory for pi",
+      "license": "MIT",
+      "repository": "https://github.com/sripwoud/pi-memsearch",
+      "npmUrl": "https://www.npmjs.com/package/pi-memsearch",
+      "category": "utilities",
+      "createdAt": "2026-08-14T09:38:16.813Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 70
     },
     {
       "name": "pi-mesh-extension",
@@ -77954,6 +78218,18 @@
       "score": 98
     },
     {
+      "name": "react-hookz-kit",
+      "version": "1.0.0",
+      "description": "Essential React hooks for everyday development. Zero dependencies. TypeScript-first. Tree-shakeable.",
+      "license": "MIT",
+      "repository": "https://github.com/huynhson0809/react-hooks-kit",
+      "npmUrl": "https://www.npmjs.com/package/react-hookz-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-14T09:48:31.186Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 90
+    },
+    {
       "name": "react-land-globe",
       "version": "0.1.1",
       "description": "Globo terráqueo interactivo en canvas para React: continentes punteados, rotación automática, marcadores con glow y arrastre. Cero dependencias, SSR-safe.",
@@ -80460,6 +80736,18 @@
       "createdAt": "2026-08-11T01:20:28.693Z",
       "discoveredAt": "2026-08-11T03:27:39.025Z",
       "score": 69
+    },
+    {
+      "name": "saudi-first-customer-finder-skill",
+      "version": "1.0.0",
+      "description": "An AI coding-agent skill that finds evidence-backed potential first customers inside Saudi Arabia from public Arabic and English signals on X, Reddit, and LinkedIn.",
+      "license": "MIT",
+      "repository": "https://github.com/abdullah7041/saudi-first-customer-finder",
+      "npmUrl": "https://www.npmjs.com/package/saudi-first-customer-finder-skill",
+      "category": "utilities",
+      "createdAt": "2026-08-14T10:47:29.873Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 89
     },
     {
       "name": "sbp-exchange-rate",
@@ -85116,6 +85404,18 @@
       "createdAt": "2026-08-02T21:27:27.321Z",
       "discoveredAt": "2026-08-02T22:47:14.561Z",
       "score": 84
+    },
+    {
+      "name": "trueno-css-framework",
+      "version": "1.0.0",
+      "description": "A new CSS library named Trueno CSS Framework, built with Sass following best practices.",
+      "license": "MIT",
+      "repository": "https://github.com/tobassum786/Trueno_CSS_framework",
+      "npmUrl": "https://www.npmjs.com/package/trueno-css-framework",
+      "category": "frontend",
+      "createdAt": "2026-08-14T10:34:18.995Z",
+      "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 80
     },
     {
       "name": "trust-verify",
