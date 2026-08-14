@@ -6614,6 +6614,18 @@
       "score": 95
     },
     {
+      "name": "@bump-sh/agent-widget",
+      "version": "0.1.0",
+      "description": "Embeddable, themeable chat widget for Bump.sh agents — a Web Component you drop in with 3 lines.",
+      "license": "MIT",
+      "repository": "https://github.com/bump-sh/agent-client",
+      "npmUrl": "https://www.npmjs.com/package/%40bump-sh%2Fagent-widget",
+      "category": "utilities",
+      "createdAt": "2026-08-14T12:43:03.966Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 71
+    },
+    {
       "name": "@bumpyclock/pi-codex-compat",
       "version": "0.1.1",
       "description": "Pi extension consolidating OpenAI Codex fast mode, native compaction, named OAuth accounts, live quota, historical usage, and token throughput status.",
@@ -9722,6 +9734,18 @@
       "score": 86
     },
     {
+      "name": "@dbalmain/vici",
+      "version": "0.1.0",
+      "description": "A headless vi editing core: modes, motions, operators, counts, text objects, visual mode, undo, dot-repeat and macros, with no view attached.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/dbalmain/vici",
+      "npmUrl": "https://www.npmjs.com/package/%40dbalmain%2Fvici",
+      "category": "devops",
+      "createdAt": "2026-08-14T12:15:44.187Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 75
+    },
+    {
       "name": "@dbx-tools/search",
       "version": "0.6.9",
       "description": "A Meilisearch-style shortcut over Databricks AI Search (Vector Search): a search client, agent tools, and an AppKit plugin.",
@@ -9960,6 +9984,18 @@
       "createdAt": "2026-08-12T04:08:08.909Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 62
+    },
+    {
+      "name": "@demystify/media",
+      "version": "0.1.0",
+      "description": "Provider-agnostic speech seam. STT and TTS behind one port; providers are drivers. Callers state constraints — languages, realtime, on-device — and a selector picks; no vendor is named at the call site. First-class streaming with ordered partials and a fi",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fmedia",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:38:15.108Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 90
     },
     {
       "name": "@dendiem/caliper",
@@ -10752,6 +10788,18 @@
       "createdAt": "2026-07-30T22:41:05.763Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 75
+    },
+    {
+      "name": "@digifinn/bug-report-widget",
+      "version": "0.1.0",
+      "description": "Framework-agnostic, zero-dependency bug report drawer (vanilla TS, single file).",
+      "license": "MIT",
+      "repository": "https://github.com/digifinn/digifinn-bug-report-widget",
+      "npmUrl": "https://www.npmjs.com/package/%40digifinn%2Fbug-report-widget",
+      "category": "utilities",
+      "createdAt": "2026-08-14T12:38:49.685Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 68
     },
     {
       "name": "@digitable-lol/fts",
@@ -13070,6 +13118,18 @@
       "score": 72
     },
     {
+      "name": "@eqman00003/knowlp-rag",
+      "version": "3.0.2",
+      "description": "KnowLP-RAG: dual knowledge-graph retrieval for Markdown notes — DeepSeek Harness (dsh) bundle: MCP server + native Cordis plugin",
+      "license": "MIT",
+      "repository": "https://github.com/wly8691-jpg/knowlp-rag",
+      "npmUrl": "https://www.npmjs.com/package/%40eqman00003%2Fknowlp-rag",
+      "category": "backend",
+      "createdAt": "2026-08-14T12:34:18.165Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 67
+    },
+    {
       "name": "@erduochen/skilldoctor",
       "version": "0.1.0",
       "description": "npx-ready CLI-first Agent/Skill quality governance toolchain.",
@@ -13284,6 +13344,18 @@
       "createdAt": "2026-08-10T06:27:41.313Z",
       "discoveredAt": "2026-08-10T07:14:37.064Z",
       "score": 66
+    },
+    {
+      "name": "@evalverde/static-analysis-standards",
+      "version": "0.1.0",
+      "description": "Community Ops static analysis standards: deterministic quality, domain, architecture and test-smell rules with a non-blocking strict heuristics preset and a data-driven registry.",
+      "license": "MIT",
+      "repository": "https://github.com/khru/static-analysis-standards",
+      "npmUrl": "https://www.npmjs.com/package/%40evalverde%2Fstatic-analysis-standards",
+      "category": "testing",
+      "createdAt": "2026-08-14T12:16:24.575Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 79
     },
     {
       "name": "@evatt-labs/el",
@@ -13932,6 +14004,18 @@
       "createdAt": "2026-07-30T17:42:25.435Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 64
+    },
+    {
+      "name": "@financica/stripe-tax-invoices",
+      "version": "0.1.0",
+      "description": "Parser for the Stripe tax invoice PDF — the monthly invoice for Stripe's own fees, which the Dashboard is the only place to get.",
+      "license": "MIT",
+      "repository": "https://github.com/financica/ts-libs",
+      "npmUrl": "https://www.npmjs.com/package/%40financica%2Fstripe-tax-invoices",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T11:59:13.918Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 71
     },
     {
       "name": "@finchagentic/mcp",
@@ -27410,6 +27494,18 @@
       "score": 55
     },
     {
+      "name": "@marianaj/talespindle",
+      "version": "0.1.0",
+      "description": "Agent-first interactive narrative engine with MCP tools, validation, and single-file HTML export",
+      "license": "MIT",
+      "repository": "https://github.com/Flamesnake/ai-text-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40marianaj%2Ftalespindle",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:58:35.985Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 69
+    },
+    {
       "name": "@marianmeres/chessboard",
       "version": "0.3.0",
       "description": "[![NPM](https://img.shields.io/npm/v/@marianmeres/chessboard)](https://www.npmjs.com/package/@marianmeres/chessboard) [![JSR](https://jsr.io/badges/@marianmeres/chessboard)](https://jsr.io/@marianmeres/chessboard)",
@@ -27456,6 +27552,18 @@
       "createdAt": "2026-07-30T22:09:37.506Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 63
+    },
+    {
+      "name": "@mars-sea/dsh-commandcode-provider",
+      "version": "0.1.1",
+      "description": "Unofficial DeepSeek Harness LLM provider plugin for Command Code, ported from pi-commandcode-provider (MIT). Registers the 'commandcode' provider route with a Models-page card and live model catalog.",
+      "license": "MIT",
+      "repository": "https://github.com/Mars-Sea/dsh-commandcode-provider",
+      "npmUrl": "https://www.npmjs.com/package/%40mars-sea%2Fdsh-commandcode-provider",
+      "category": "devops",
+      "createdAt": "2026-08-14T11:48:46.411Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 68
     },
     {
       "name": "@marufhosen-cdda/biwd-api-key-card",
@@ -29834,6 +29942,18 @@
       "score": 90
     },
     {
+      "name": "@monopi/subagents",
+      "version": "0.6.0",
+      "description": "Full-featured subagent orchestration extension for pi, built on top of nicobailon/pi-subagents.",
+      "license": "MIT",
+      "repository": "https://github.com/ifiokjr/monopi",
+      "npmUrl": "https://www.npmjs.com/package/%40monopi%2Fsubagents",
+      "category": "utilities",
+      "createdAt": "2026-08-12T19:36:04.801Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 73
+    },
+    {
       "name": "@monotykamary/pi-better-openai",
       "version": "0.1.24",
       "description": "Improve OpenAI in pi with fast mode, usage stats, realtime voice, image generation, and footer polish.",
@@ -30638,6 +30758,18 @@
       "score": 77
     },
     {
+      "name": "@nagellabs/libi",
+      "version": "0.1.0",
+      "description": "AI video studio — a desktop editor that connects CLI coding agents (Claude Code, Codex) over ACP and lets them compose, edit and export video.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/Nagellabs/libi",
+      "npmUrl": "https://www.npmjs.com/package/%40nagellabs%2Flibi",
+      "category": "cli",
+      "createdAt": "2026-08-14T12:28:43.902Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 76
+    },
+    {
       "name": "@naijacloud/cli",
       "version": "1.0.0",
       "description": "Command-line interface for NaijaCloud hosting: authenticate, and manage projects, services, deployments, domains and environment variables. Also serves those operations to AI agents over MCP via `naijacloud mcp`.",
@@ -30900,6 +31032,18 @@
       "createdAt": "2026-08-11T12:20:56.164Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 85
+    },
+    {
+      "name": "@nassai/nassai-agentra",
+      "version": "1.40.0",
+      "description": "Local-first, auditable orchestration core for AI-assisted software development.",
+      "license": "MIT",
+      "repository": "https://github.com/NasserJabir/NassAI-Agentra",
+      "npmUrl": "https://www.npmjs.com/package/%40nassai%2Fnassai-agentra",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:57:11.414Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 67
     },
     {
       "name": "@nathannestein/earnmore",
@@ -32004,6 +32148,30 @@
       "createdAt": "2026-08-10T09:12:29.161Z",
       "discoveredAt": "2026-08-10T11:00:03.173Z",
       "score": 83
+    },
+    {
+      "name": "@notavia/inbox",
+      "version": "1.0.0",
+      "description": "Lit-based custom element <notifyservice-inbox> for the Notavia in-app inbox. White-label, three variants, real-time via SignalR.",
+      "license": "MIT",
+      "repository": "https://github.com/saas-infrastructure/notavia-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40notavia%2Finbox",
+      "category": "utilities",
+      "createdAt": "2026-08-14T12:31:37.341Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 75
+    },
+    {
+      "name": "@notavia/inbox-client",
+      "version": "1.0.0",
+      "description": "Headless TypeScript client for the Notavia in-app inbox. Owns SignalR connection, REST, token refresh, optimistic mark-read, and a typed event bus.",
+      "license": "MIT",
+      "repository": "https://github.com/saas-infrastructure/notavia-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40notavia%2Finbox-client",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T12:31:01.379Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 81
     },
     {
       "name": "@note1ai/mcp",
@@ -45110,6 +45278,18 @@
       "score": 63
     },
     {
+      "name": "@ts-kizuna/core",
+      "version": "1.49.6",
+      "description": "Contract and route definition, validation, and the adapter API for ts-kizuna",
+      "license": "MIT",
+      "repository": "https://github.com/ts-kizuna/kizuna",
+      "npmUrl": "https://www.npmjs.com/package/%40ts-kizuna%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-14T11:46:52.014Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 72
+    },
+    {
       "name": "@tsforge7/platega-sdk-nestjs",
       "version": "0.1.7",
       "description": "platega sdk for nestjs",
@@ -48852,6 +49032,18 @@
       "createdAt": "2026-08-12T04:30:08.130Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 80
+    },
+    {
+      "name": "@yukwaindustries/sph-sdk",
+      "version": "0.2.0",
+      "description": "Official TypeScript/JavaScript client for the SP-Heavy payments API — MTN MoMo and Orange Money collections, payouts, payment links and signed webhooks for Cameroon and the CEMAC zone.",
+      "license": "MIT",
+      "repository": "https://github.com/X30psycho/spheavy-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40yukwaindustries%2Fsph-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-13T23:11:39.218Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 74
     },
     {
       "name": "@yuthent/server",
@@ -59126,6 +59318,18 @@
       "score": 69
     },
     {
+      "name": "dowel-di",
+      "version": "1.1.0",
+      "description": "Tiny token-based DI with no registration step. Per-request containers, lazy defaults, vue and react bindings. Zero deps, SSR-safe.",
+      "license": "MIT",
+      "repository": "https://github.com/Fl0r14n/dowel",
+      "npmUrl": "https://www.npmjs.com/package/dowel-di",
+      "category": "frontend",
+      "createdAt": "2026-08-14T11:56:28.784Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 74
+    },
+    {
       "name": "dowsing",
       "version": "0.3.0",
       "description": "Behavioral code analysis for TypeScript monorepos",
@@ -59306,6 +59510,18 @@
       "score": 81
     },
     {
+      "name": "dsh-chatgpt-bridge",
+      "version": "0.1.0",
+      "description": "MCP bridge: lets ChatGPT Web create, view, continue and control DeepSeek Harness (DSH) agent sessions through the official MCP protocol. The bridge only connects; DSH keeps its session, agent, tool, approval and workspace security model.",
+      "license": "MIT",
+      "repository": "https://github.com/jiezeng2004-design/dsh-chatgpt-bridge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-chatgpt-bridge",
+      "category": "devops",
+      "createdAt": "2026-08-14T11:57:37.987Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 80
+    },
+    {
       "name": "dsh-checkpoint-rewind",
       "version": "0.3.0",
       "description": "Claude Code /rewind equivalent for DeepSeek Harness: git-first workspace file snapshots before every mutating tool execution, turn-boundary session forks, and a one-shot /rewind command that restores files and forks the session back to a checkpoint",
@@ -59388,6 +59604,18 @@
       "createdAt": "2026-08-13T21:01:43.446Z",
       "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 72
+    },
+    {
+      "name": "dsh-im-hub",
+      "version": "0.1.0",
+      "description": "A multi-platform IM gateway for DeepSeek Harness (dsh) — Feishu (Lark), WeCom (WeChat Work), and Telegram. Turn your dsh agent into a chat assistant reachable from the messaging apps you already use.",
+      "license": "MIT",
+      "repository": "https://github.com/ThreeBody6666/dsh-im-hub",
+      "npmUrl": "https://www.npmjs.com/package/dsh-im-hub",
+      "category": "data",
+      "createdAt": "2026-08-14T12:30:32.402Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 71
     },
     {
       "name": "dsh-lark-channel",
@@ -61044,6 +61272,18 @@
       "createdAt": "2026-07-30T19:33:33.380Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 66
+    },
+    {
+      "name": "familymarkup-codemirror",
+      "version": "1.0.0",
+      "description": "CodeMirror 6 highlighting for FamilyMarkup, powered by the Go parser compiled to WebAssembly",
+      "license": "BSD-4-Clause",
+      "repository": "https://github.com/redexp/familymarkup-codemirror",
+      "npmUrl": "https://www.npmjs.com/package/familymarkup-codemirror",
+      "category": "utilities",
+      "createdAt": "2026-08-14T12:02:54.158Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 75
     },
     {
       "name": "familyplate-save-widget",
@@ -72206,6 +72446,18 @@
       "score": 81
     },
     {
+      "name": "no-more-agents-dot-md",
+      "version": "1.0.1",
+      "description": "No More Agents Dot MD: turn .pi/context/*.md files into declarative behavior rules (conditional context injection, tool guards, confirmations, input transforms, notifications) managed with the /nma command.",
+      "license": "MIT",
+      "repository": "https://github.com/TheophileBaudouin/No-More-Agents-Dot-MD",
+      "npmUrl": "https://www.npmjs.com/package/no-more-agents-dot-md",
+      "category": "data",
+      "createdAt": "2026-08-14T12:14:18.745Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 75
+    },
+    {
       "name": "no2bounce-mcp",
       "version": "1.0.2",
       "description": "MCP Server for the No2Bounce Email Validation API — validate single emails, bulk lists, and CSV files via Claude Desktop, Cursor, Windsurf, VS Code, and any MCP-compatible AI client.",
@@ -75566,6 +75818,18 @@
       "score": 72
     },
     {
+      "name": "pi-daddy",
+      "version": "0.13.0",
+      "description": "Capability governance for pi sub-agents: spawn Agent Skills (SKILL.md) definitions whose allowed-tools becomes a grant that can only narrow going down a delegation tree, enforced by pi's own --tools allowlist, with an append-only ledger.",
+      "license": "MIT",
+      "repository": "https://github.com/mojomanyana/pi-daddy",
+      "npmUrl": "https://www.npmjs.com/package/pi-daddy",
+      "category": "utilities",
+      "createdAt": "2026-08-14T11:33:48.575Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 82
+    },
+    {
       "name": "pi-deepseek-responses-search",
       "version": "0.1.0",
       "description": "DeepSeek V4 on the Responses API with native server-side web search (OpenCode Zen/Go + DeepSeek first-party) — search markers shown in the thinking chain",
@@ -78206,6 +78470,18 @@
       "score": 48
     },
     {
+      "name": "rasura",
+      "version": "0.1.0",
+      "description": "True PDF editing in the browser: read a document as paragraphs, change it, and write it back with the untouched bytes intact",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/myketheguru/rasura",
+      "npmUrl": "https://www.npmjs.com/package/rasura",
+      "category": "frontend",
+      "createdAt": "2026-08-14T12:35:27.462Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 79
+    },
+    {
       "name": "rate-forge",
       "version": "1.0.3",
       "description": "Framework-agnostic rate limiter for Node.js supporting multiple algorithms and storage backends including Memory, Redis, MongoDB, and PostgreSQL.",
@@ -79682,6 +79958,18 @@
       "score": 62
     },
     {
+      "name": "remem-mcp",
+      "version": "0.5.17",
+      "description": "Long-term memory for AI coding agents. Memory + CodeGraph + Wiki in one SQLite file. Auto-recall, auto-capture, no API key, no cloud.",
+      "license": "MIT",
+      "repository": "https://github.com/tinhien11/remem-mcp",
+      "npmUrl": "https://www.npmjs.com/package/remem-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T12:08:52.647Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 79
+    },
+    {
       "name": "remove-ai-watermark",
       "version": "1.1.0",
       "description": "Sanitize images, text documents, and codebases by removing C2PA manifests, EXIF metadata, invisible zero-width unicode watermarks, Bidi control characters, LLM prompt tokens, and steganography signals.",
@@ -80148,6 +80436,18 @@
       "createdAt": "2026-07-29T07:59:00.256Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 90
+    },
+    {
+      "name": "rivide",
+      "version": "1.1.0",
+      "description": "Official Node.js native bindings for Rivide Post-Quantum Cryptography (NIST FIPS 203 ML-KEM & NIST FIPS 204 ML-DSA) C99 Library.",
+      "license": "MIT",
+      "repository": "https://github.com/mrvlous/rivide",
+      "npmUrl": "https://www.npmjs.com/package/rivide",
+      "category": "devops",
+      "createdAt": "2026-08-14T11:52:54.467Z",
+      "discoveredAt": "2026-08-14T12:44:49.715Z",
+      "score": 92
     },
     {
       "name": "rmq-cli",

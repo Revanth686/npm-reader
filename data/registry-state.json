@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125000153,
-  "lastRunAt": "2026-08-14T11:32:59.988Z",
+  "lastSequence": 125009071,
+  "lastRunAt": "2026-08-14T12:44:49.715Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@campfront/cli",
+      "name": "@axiqo/ai",
       "attempts": 1
     },
     {
-      "name": "@jhoonyeel/frontend-baseline",
+      "name": "@neuctra/authix-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@laizhixingxingdeli/dsh-coagenthub",
+      "attempts": 1
+    },
+    {
+      "name": "dsh-webui-background",
       "attempts": 1
     }
   ]
