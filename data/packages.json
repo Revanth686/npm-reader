@@ -7826,6 +7826,18 @@
       "score": 76
     },
     {
+      "name": "@chaoz23/inkbench",
+      "version": "0.2.0",
+      "description": "Neutral, reproducible planted-bug and real-story benchmarks for Ink search strategies.",
+      "license": "MIT",
+      "repository": "https://github.com/chaoz23/inkbench",
+      "npmUrl": "https://www.npmjs.com/package/%40chaoz23%2Finkbench",
+      "category": "testing",
+      "createdAt": "2026-08-14T20:40:09.766Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 72
+    },
+    {
       "name": "@characteros/nexus-sdk",
       "version": "1.0.0",
       "description": "Open-source Nexus Protocol adapter interface for CharacterOS — build hardware adapters for any social robot platform",
@@ -13850,6 +13862,18 @@
       "score": 71
     },
     {
+      "name": "@estoc/keystore",
+      "version": "0.1.0",
+      "description": "Encrypted did:key keystore — JWK private keys sealed as PBES2 JWEs inside a plain JSON document, opened as non-extractable Signer handles. Pure data-in/data-out, no filesystem IO; runs in Node, workerd, and the browser.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/estoc-net/keystore",
+      "npmUrl": "https://www.npmjs.com/package/%40estoc%2Fkeystore",
+      "category": "frontend",
+      "createdAt": "2026-08-14T20:32:17.914Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 51
+    },
+    {
       "name": "@eternal-roman/ledger",
       "version": "0.19.1",
       "description": "Exact-decimal double-entry kernel for AI agents. Money.from + validateEntry + Ledger.apply. MCP server so agents prove instead of guessing. Fail-closed, audit-hashed, no database.",
@@ -14366,6 +14390,18 @@
       "score": 64
     },
     {
+      "name": "@ferrow/jsonrpc-ts",
+      "version": "1.0.0",
+      "description": "Spec-correct JSON-RPC 2.0 framing — request/response/notification builders, validating parser, batch support, typed dispatch, id correlation. Transport-agnostic, MCP-relevant. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Ruzylo-cloud/jsonrpc-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40ferrow%2Fjsonrpc-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:46:22.924Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 68
+    },
+    {
       "name": "@fervon/launchpad",
       "version": "1.1.0",
       "description": "Local-first dashboard to discover, launch and monitor every dev project in a folder — auto-detected, no port clashes, live logs. Binds 127.0.0.1 only.",
@@ -14652,6 +14688,18 @@
       "createdAt": "2026-08-04T00:35:39.999Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 68
+    },
+    {
+      "name": "@firstpick/pi-skill-project-readme",
+      "version": "0.1.0",
+      "description": "Portable Agent Skill for creating, harmonizing, auditing, and updating evidence-based project READMEs for user-oriented products and developer-oriented libraries.",
+      "license": "MIT",
+      "repository": "https://github.com/Firstp1ck/pi-coding-agent-forge",
+      "npmUrl": "https://www.npmjs.com/package/%40firstpick%2Fpi-skill-project-readme",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:22:25.238Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 49
     },
     {
       "name": "@firstpick/pi-skill-subagent-governance",
@@ -18698,6 +18746,18 @@
       "score": 57
     },
     {
+      "name": "@gitmyabi/portalstaking",
+      "version": "1.0.0",
+      "description": "Auto-generated TypeScript type bindings for PortalStaking (build etherscan-portalstaking-fbca0b0d-1786740009774, commit 36e1ee6, branch etherscan)",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/portalstaking",
+      "npmUrl": "https://www.npmjs.com/package/%40gitmyabi%2Fportalstaking",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:40:34.751Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 58
+    },
+    {
       "name": "@gitmyabi/presencelogger",
       "version": "1.0.0",
       "description": "Auto-generated TypeScript type bindings for PresenceLogger (build etherscan-presencelogger-330d034e-1786190728466, commit 4ca11c4, branch etherscan)",
@@ -21396,6 +21456,18 @@
       "createdAt": "2026-07-27T17:44:24.793Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 87
+    },
+    {
+      "name": "@helmsmith/flow-designer",
+      "version": "0.2.0",
+      "description": "Visual flow designer for @helmsmith/flow-spec catalogs — drag-and-drop canvas with the exact validator and expression evaluator the runtime uses, live on every edit. Run with npx against any harness or controlplane serving the /v1/catalog wire shape.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JefeLabs/helmsmith",
+      "npmUrl": "https://www.npmjs.com/package/%40helmsmith%2Fflow-designer",
+      "category": "frontend",
+      "createdAt": "2026-08-13T14:39:24.068Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 76
     },
     {
       "name": "@helmsmith/flow-spec",
@@ -28718,6 +28790,18 @@
       "score": 82
     },
     {
+      "name": "@mcptoolshop/comfy-preflight",
+      "version": "1.0.0",
+      "description": "A gate that runs on a ComfyUI workflow graph in the seconds before submission and halts a submission that would spend credits producing a known-wrong result. Zero-prerequisite npx launcher — no Python needed.",
+      "license": "MIT",
+      "repository": "https://github.com/mcp-tool-shop-org/comfy-preflight",
+      "npmUrl": "https://www.npmjs.com/package/%40mcptoolshop%2Fcomfy-preflight",
+      "category": "devops",
+      "createdAt": "2026-08-14T20:42:52.614Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 74
+    },
+    {
       "name": "@mcptoolshop/facet",
       "version": "0.1.0",
       "description": "Query a governed decision record instead of reading it — zero-prerequisite npx install (verified binary launcher) for facet's four-leg-verified SQLite+FTS5 record index, served over MCP.",
@@ -31682,6 +31766,18 @@
       "score": 43
     },
     {
+      "name": "@nanmicoder/dsh-auto-mode",
+      "version": "0.1.1",
+      "description": "Fail-closed automatic permission policy for DeepSeek Harness",
+      "license": "MIT",
+      "repository": "https://github.com/NanmiCoder/dsh-auto-mode",
+      "npmUrl": "https://www.npmjs.com/package/%40nanmicoder%2Fdsh-auto-mode",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:12:29.549Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 50
+    },
+    {
       "name": "@nannier/sdk",
       "version": "1.2.6",
       "description": "Shared settings, encryption, and database client for the Ionize platform. Consumed by Athena, Hera, and Site containers.",
@@ -32738,6 +32834,30 @@
       "score": 60
     },
     {
+      "name": "@no-throw/cli",
+      "version": "0.1.0",
+      "description": "The no-throw command line tool. Hosts `nothrow emit`.",
+      "license": "MIT",
+      "repository": "https://github.com/no-throw/no-throw",
+      "npmUrl": "https://www.npmjs.com/package/%40no-throw%2Fcli",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:50:44.261Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 32
+    },
+    {
+      "name": "@no-throw/core",
+      "version": "0.1.0",
+      "description": "The no-throw analysis engine: color resolution and the escape-site walk.",
+      "license": "MIT",
+      "repository": "https://github.com/no-throw/no-throw",
+      "npmUrl": "https://www.npmjs.com/package/%40no-throw%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:50:25.518Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 32
+    },
+    {
       "name": "@noahisarider/arena",
       "version": "0.2.1",
       "description": "Framework-agnostic multi-agent system scenario simulation and evaluation engine. Same suite, many orchestration strategies, comparable quality/safety/autonomy/cost/latency metrics.",
@@ -32784,6 +32904,18 @@
       "createdAt": "2026-08-14T20:06:08.186Z",
       "discoveredAt": "2026-08-14T20:23:12.075Z",
       "score": 60
+    },
+    {
+      "name": "@node-3d/deps-qt-gui",
+      "version": "5.0.0",
+      "description": "Qt Gui dynamic libraries for dependent Node.js addons",
+      "license": "MIT",
+      "repository": "https://github.com/node-3d/deps-qt-gui",
+      "npmUrl": "https://www.npmjs.com/package/%40node-3d%2Fdeps-qt-gui",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:27:09.069Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 64
     },
     {
       "name": "@node-3d/steam-api",
@@ -35784,6 +35916,18 @@
       "createdAt": "2026-08-09T23:20:13.027Z",
       "discoveredAt": "2026-08-09T23:21:25.343Z",
       "score": 61
+    },
+    {
+      "name": "@picx-ai/sdk",
+      "version": "0.1.0",
+      "description": "Official TypeScript/JavaScript SDK for the PicX Studio public API (image + video generation).",
+      "license": "MIT",
+      "repository": "https://github.com/Type-Think-AI/picx-sdk-js",
+      "npmUrl": "https://www.npmjs.com/package/%40picx-ai%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:44:06.845Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 69
     },
     {
       "name": "@pid1lab/aquila",
@@ -40154,6 +40298,18 @@
       "score": 73
     },
     {
+      "name": "@samspiri/makeplane-cli",
+      "version": "3.0.0",
+      "description": "AI-first CLI for Plane: manage work items, projects, cycles, and modules without UUIDs.",
+      "license": "MIT",
+      "repository": "https://github.com/SamSpiri/makeplane-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40samspiri%2Fmakeplane-cli",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:46:14.891Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 60
+    },
+    {
       "name": "@samstarling/cloudflare-utils-debounce",
       "version": "0.1.0",
       "description": "Debounce a burst of signals into one globally-exclusive, crash-recoverable action per key, on Cloudflare Durable Objects alone.",
@@ -43800,6 +43956,18 @@
       "createdAt": "2026-08-13T13:33:51.789Z",
       "discoveredAt": "2026-08-13T14:10:59.115Z",
       "score": 79
+    },
+    {
+      "name": "@substrat-run/engine-metering",
+      "version": "0.1.0",
+      "description": "Substrat engine: billable usage — an append-only, idempotent meter ledger (counters and gauges) whose closed periods are frozen billing evidence",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/substrat-run/substrat",
+      "npmUrl": "https://www.npmjs.com/package/%40substrat-run%2Fengine-metering",
+      "category": "utilities",
+      "createdAt": "2026-08-14T19:57:33.060Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 39
     },
     {
       "name": "@substrate-system/slugify",
@@ -53522,6 +53690,18 @@
       "score": 90
     },
     {
+      "name": "ap2-protocol-js",
+      "version": "0.1.0",
+      "description": "Independent TypeScript implementation of the Agent Payments Protocol (AP2): SD-JWT mandate delegation chains, receipts, and constraint evaluation. Community project; not affiliated with or endorsed by Google.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/miguelvelasquezdev/ap2-js",
+      "npmUrl": "https://www.npmjs.com/package/ap2-protocol-js",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:32:00.909Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 65
+    },
+    {
       "name": "apexmaps",
       "version": "0.1.0",
       "description": "Interactive geographic data visualization and storytelling for the ApexCharts ecosystem",
@@ -57012,6 +57192,18 @@
       "createdAt": "2026-08-06T12:10:17.126Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 78
+    },
+    {
+      "name": "claude-handshake",
+      "version": "0.0.1",
+      "description": "Peer collaboration for Claude Code — separate Claude instances, different users and machines, working one project as a team. In active development; see PLAN.md.",
+      "license": "MIT",
+      "repository": "https://github.com/thephenyl02-creator/claude-handshake",
+      "npmUrl": "https://www.npmjs.com/package/claude-handshake",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:23:13.257Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 43
     },
     {
       "name": "claude-loops-pack",
@@ -60974,6 +61166,18 @@
       "score": 72
     },
     {
+      "name": "dsh-balance-float",
+      "version": "1.0.0",
+      "description": "DSH Web 插件：右上角悬浮窗实时显示 DeepSeek 余额，支持手动刷新与一键退出（Y/N 快捷键确认）。Floating balance widget + graceful exit for the DeepSeek Harness web UI.",
+      "license": "MIT",
+      "repository": "https://github.com/x2802490130-prog/dsh-balance-float",
+      "npmUrl": "https://www.npmjs.com/package/dsh-balance-float",
+      "category": "backend",
+      "createdAt": "2026-08-14T20:36:11.974Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 51
+    },
+    {
       "name": "dsh-bash-terminal",
       "version": "0.2.3",
       "description": "DSH plugin: one shell tool that runs commands through PowerShell, Git Bash, or WSL on Windows, with a user-chosen default terminal in the Web UI settings.",
@@ -61082,6 +61286,18 @@
       "score": 63
     },
     {
+      "name": "dsh-doctor",
+      "version": "0.2.0",
+      "description": "Deterministic diagnostics and recovery for DeepSeek Harness",
+      "license": "MIT",
+      "repository": "https://github.com/astra3294/dsh-doctor",
+      "npmUrl": "https://www.npmjs.com/package/dsh-doctor",
+      "category": "utilities",
+      "createdAt": "2026-08-14T18:44:19.086Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 36
+    },
+    {
       "name": "dsh-document-review",
       "version": "0.3.1",
       "description": "DeepSeek Harness plugin: review Markdown documents in a local browser with annotations, replacements, and deletion suggestions. Supports single files and whole directories.",
@@ -61116,6 +61332,30 @@
       "createdAt": "2026-08-13T21:01:43.446Z",
       "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 72
+    },
+    {
+      "name": "dsh-feishucard",
+      "version": "0.1.0",
+      "description": "DeepSeek Harness <-> Feishu (Lark) bridge with a streaming reply card: official-SDK long connection (no public URL), per-chat dedicated agent sessions, /new /switch /list /help commands, collapsible tool-call panels with status symbols, inline agent notes",
+      "license": "MIT",
+      "repository": "https://github.com/cmfok/dsh-feishucard",
+      "npmUrl": "https://www.npmjs.com/package/dsh-feishucard",
+      "category": "devops",
+      "createdAt": "2026-08-14T20:29:57.775Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 67
+    },
+    {
+      "name": "dsh-hyperframes",
+      "version": "0.1.0",
+      "description": "DSH 视频创作技能插件：注册 HyperFrames by HeyGen 官方移植技能五件套（hyperframes / hyperframes-cli / hyperframes-registry / website-to-hyperframes / gsap），安装即用。",
+      "license": "MIT",
+      "repository": "https://github.com/STARDUSTLC666/dsh-hyperframes",
+      "npmUrl": "https://www.npmjs.com/package/dsh-hyperframes",
+      "category": "cli",
+      "createdAt": "2026-08-14T20:42:53.748Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 36
     },
     {
       "name": "dsh-im-hub",
@@ -68364,6 +68604,18 @@
       "createdAt": "2026-08-14T04:22:26.256Z",
       "discoveredAt": "2026-08-14T05:39:25.773Z",
       "score": 92
+    },
+    {
+      "name": "kinematic",
+      "version": "0.1.4",
+      "description": "Spatial motion authoring for Three.js.",
+      "license": "MIT",
+      "repository": "https://github.com/JosephASG/kinematic",
+      "npmUrl": "https://www.npmjs.com/package/kinematic",
+      "category": "utilities",
+      "createdAt": "2026-08-14T20:39:47.436Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 73
     },
     {
       "name": "king-research-runner",
@@ -76358,6 +76610,18 @@
       "score": 69
     },
     {
+      "name": "orbit-engine",
+      "version": "1.1.0",
+      "description": "Production-grade Node.js concurrency engine with worker thread pools, bulkhead isolation, backpressure, circuit breakers, and event loop protection.",
+      "license": "MIT",
+      "repository": "https://github.com/gangLocust42/orbit",
+      "npmUrl": "https://www.npmjs.com/package/orbit-engine",
+      "category": "devops",
+      "createdAt": "2026-08-14T20:46:47.963Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 94
+    },
+    {
       "name": "orc-smash",
       "version": "1.0.0",
       "description": "A thin TypeScript CLI harness that drives coding-agent CLIs through config-driven approval loops, tasks, and pipelines",
@@ -82646,6 +82910,18 @@
       "score": 85
     },
     {
+      "name": "rolldown-plugin-metafile",
+      "version": "0.1.1",
+      "description": "Emit an esbuild-compatible metafile from Rolldown, tsdown, or Vite builds.",
+      "license": "MIT",
+      "repository": "https://github.com/mark-omarov/why-kept",
+      "npmUrl": "https://www.npmjs.com/package/rolldown-plugin-metafile",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T20:14:56.415Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 41
+    },
+    {
       "name": "rollup-plugin-electron-run",
       "version": "0.1.1",
       "description": "Rollup plugin and runner that live-reloads Electron on rebuild, with interactive restart controls.",
@@ -85526,6 +85802,18 @@
       "score": 78
     },
     {
+      "name": "starlight-pydocs",
+      "version": "0.2.0",
+      "description": "Python API reference documentation for Astro and Starlight, extracted with Griffe.",
+      "license": "MIT",
+      "repository": "https://github.com/ewels/starlight-pydocs",
+      "npmUrl": "https://www.npmjs.com/package/starlight-pydocs",
+      "category": "backend",
+      "createdAt": "2026-08-14T12:34:05.552Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 62
+    },
+    {
       "name": "starlingbank-sdk",
       "version": "1.0.1",
       "description": "Complete, production-grade TypeScript/JavaScript SDK for the Starling Bank Public API (accounts, balances, payments, cards, savings goals, transactions, OAuth2, webhooks, and more).",
@@ -87432,6 +87720,18 @@
       "createdAt": "2026-08-09T11:01:26.259Z",
       "discoveredAt": "2026-08-09T12:33:09.910Z",
       "score": 69
+    },
+    {
+      "name": "timereport-cli",
+      "version": "0.1.1",
+      "description": "CLI for timereport.app — manage timers, log time, view summaries",
+      "license": "MIT",
+      "repository": "https://github.com/mares29/timereport-cli",
+      "npmUrl": "https://www.npmjs.com/package/timereport-cli",
+      "category": "cli",
+      "createdAt": "2026-08-14T20:40:19.503Z",
+      "discoveredAt": "2026-08-14T20:51:16.368Z",
+      "score": 34
     },
     {
       "name": "tinctjs",

@@ -1,19 +1,63 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125079445,
-  "lastRunAt": "2026-08-14T20:23:12.075Z",
+  "lastSequence": 125082938,
+  "lastRunAt": "2026-08-14T20:51:16.368Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@intellara/trovegen-mcp",
-      "attempts": 7
-    },
-    {
-      "name": "@dsh-feishu/dsh-feishu",
+      "name": "@ferrow/jwt-handler",
       "attempts": 1
     },
     {
-      "name": "@firstpick/pi-skill-project-readme",
+      "name": "@ferrow/license-detector",
+      "attempts": 1
+    },
+    {
+      "name": "@studio32mods/vehicles",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/llm-cost-estimator",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/markdown-parser",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/mime-lookup-lite",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/ml-data-pipeline",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/monorepo-dep-graph",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/multi-tenant-router",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/notification-service",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/object-diff-ts",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/openapi-breaking-diff",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/pagination-helper",
+      "attempts": 1
+    },
+    {
+      "name": "@ferrow/password-strength-lite",
       "attempts": 1
     }
   ]
