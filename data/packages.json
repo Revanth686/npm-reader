@@ -50,6 +50,18 @@
       "score": 56
     },
     {
+      "name": "2fa-kit",
+      "version": "1.0.1",
+      "description": "Zero-dependency 2FA toolkit: HOTP/TOTP, otpauth URIs, encrypted secret storage, Google Authenticator migration import, and backup codes. Runs on Node 20+, Bun, Deno, edge workers, and browsers.",
+      "license": "MIT",
+      "repository": "https://github.com/amansoomro062/2fa-kit",
+      "npmUrl": "https://www.npmjs.com/package/2fa-kit",
+      "category": "frontend",
+      "createdAt": "2026-08-13T23:48:17.218Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 71
+    },
+    {
       "name": "2fa-wasm",
       "version": "1.0.0",
       "description": "Biblioteca de autenticación de dos factores (2FA / HOTP / TOTP / Base32 / HMAC) de alto rendimiento en AssemblyScript / WebAssembly con TypeScript wrapper.",
@@ -432,6 +444,18 @@
       "createdAt": "2026-08-11T11:19:46.299Z",
       "discoveredAt": "2026-08-11T11:31:08.793Z",
       "score": 58
+    },
+    {
+      "name": "@9matesu/autotask",
+      "version": "0.1.1",
+      "description": "Terminal queue supervisor and execution orchestrator for AI coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/9matesu/autotask",
+      "npmUrl": "https://www.npmjs.com/package/%409matesu%2Fautotask",
+      "category": "cli",
+      "createdAt": "2026-08-13T23:44:00.032Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 74
     },
     {
       "name": "@9punk/9cli",
@@ -11690,6 +11714,18 @@
       "score": 57
     },
     {
+      "name": "@drupflare/untarl",
+      "version": "0.1.0",
+      "description": "Dependency-free, workerd-safe tar and tar.gz extraction. No Node APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/drupflare/untarl",
+      "npmUrl": "https://www.npmjs.com/package/%40drupflare%2Funtarl",
+      "category": "backend",
+      "createdAt": "2026-08-13T23:27:07.102Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 70
+    },
+    {
       "name": "@drydocs/parabola",
       "version": "0.1.0",
       "description": "TypeScript SDK for moving native USDC between Circle's Arc network and Stellar via CCTP V2",
@@ -19058,6 +19094,18 @@
       "score": 90
     },
     {
+      "name": "@godspeedai/neatcode",
+      "version": "1.0.0",
+      "description": "A software-engineering skill for AI coding agents. Reviews diffs, audits repositories, restructures weak implementations, and extracts engineering DNA — so generated code is reasoned, not generated.",
+      "license": "MIT",
+      "repository": "https://github.com/GodSpeedAI/NeatCode",
+      "npmUrl": "https://www.npmjs.com/package/%40godspeedai%2Fneatcode",
+      "category": "utilities",
+      "createdAt": "2026-08-14T00:59:06.842Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 98
+    },
+    {
       "name": "@goflag/cli",
       "version": "0.1.0",
       "description": "A lean CLI that audits a site for broken links, missing translation pages, and missing/misconfigured SEO metadata. JSON-first.",
@@ -20916,6 +20964,18 @@
       "createdAt": "2026-08-08T01:46:10.850Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 80
+    },
+    {
+      "name": "@huiliyi37/dsh-host-apiproxy",
+      "version": "0.2.0",
+      "description": "API gateway: the ApiProxy contract (api/), the fetch carrier pair (fetch/), and the host-side gateway plugin providing ctx.apiProxy",
+      "license": "MIT",
+      "repository": "https://github.com/huiliyi37/dsh-tianshu-tui",
+      "npmUrl": "https://www.npmjs.com/package/%40huiliyi37%2Fdsh-host-apiproxy",
+      "category": "backend",
+      "createdAt": "2026-08-14T00:38:02.926Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 63
     },
     {
       "name": "@huklaa/crypto-utils",
@@ -34526,6 +34586,18 @@
       "score": 62
     },
     {
+      "name": "@pontx/frankfurter",
+      "version": "0.1.1",
+      "description": "Currency exchange rate converter SDK powered by Frankfurter API",
+      "license": "MIT",
+      "repository": "https://github.com/pontjs/currency-exchange",
+      "npmUrl": "https://www.npmjs.com/package/%40pontx%2Ffrankfurter",
+      "category": "backend",
+      "createdAt": "2026-08-14T01:01:30.139Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 63
+    },
+    {
       "name": "@poolsideai/n8n-nodes-poolside",
       "version": "0.1.2",
       "description": "n8n community node that connects Poolside's Laguna models to AI Agents and chains via Poolside's OpenAI-compatible inference API",
@@ -35232,6 +35304,18 @@
       "createdAt": "2026-07-26T17:42:56.360Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 89
+    },
+    {
+      "name": "@pymodel/claude-agy-mcp",
+      "version": "1.0.0",
+      "description": "MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, and multi-turn session continuity.",
+      "license": "MIT",
+      "repository": "https://github.com/PyModel/claude-agy-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40pymodel%2Fclaude-agy-mcp",
+      "category": "cli",
+      "createdAt": "2026-08-14T00:41:36.615Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 88
     },
     {
       "name": "@q9labsai/chalk-client",
@@ -36612,6 +36696,18 @@
       "createdAt": "2026-07-29T20:05:49.051Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 76
+    },
+    {
+      "name": "@remix-run/node-hmr",
+      "version": "0.1.0",
+      "description": "Run Node.js applications with Hot Module Reloading",
+      "license": "MIT",
+      "repository": "https://github.com/remix-run/remix",
+      "npmUrl": "https://www.npmjs.com/package/%40remix-run%2Fnode-hmr",
+      "category": "utilities",
+      "createdAt": "2026-08-14T00:11:17.487Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 63
     },
     {
       "name": "@remnic/capture-screen",
@@ -41078,6 +41174,18 @@
       "score": 63
     },
     {
+      "name": "@spxc/zodexpress",
+      "version": "1.0.1",
+      "description": "A TypeScript-first framework for building Express applications with Zod schemas.",
+      "license": "ISC",
+      "repository": "https://github.com/Spxc/zodexpress",
+      "npmUrl": "https://www.npmjs.com/package/%40spxc%2Fzodexpress",
+      "category": "backend",
+      "createdAt": "2026-08-13T23:23:00.701Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 80
+    },
+    {
       "name": "@ss22219/skilldb",
       "version": "1.0.1",
       "description": "High-scalability Modular AI Skills System & Monetization Engine",
@@ -41160,6 +41268,54 @@
       "createdAt": "2026-07-31T20:58:46.942Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 65
+    },
+    {
+      "name": "@stackra/auth",
+      "version": "1.1.0",
+      "description": "Headless authentication runtime — AuthService + SessionService + SecurityService + LastUsedMethodService, 22 React hooks (login / logout / register / MFA / social / passkey / phone / magic-link / …), 7 Zod schemas, and the AuthAIContextListener that feeds",
+      "license": "MIT",
+      "repository": "https://github.com/academorix/academorix-frontend",
+      "npmUrl": "https://www.npmjs.com/package/%40stackra%2Fauth",
+      "category": "frontend",
+      "createdAt": "2026-08-12T19:31:34.342Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 96
+    },
+    {
+      "name": "@stackra/auth-ui",
+      "version": "1.5.0",
+      "description": "Batteries-included authentication UI kit — 11 forms, 5 layout variants, 12 reusable composites — built on @stackra/ui (HeroUI OSS + Pro). Sits on top of @stackra/auth's headless runtime per ADR-0037. Phase 2 of the frontend auth split.",
+      "license": "MIT",
+      "repository": "https://github.com/academorix/academorix-frontend",
+      "npmUrl": "https://www.npmjs.com/package/%40stackra%2Fauth-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-12T19:31:29.477Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 97
+    },
+    {
+      "name": "@stackra/http",
+      "version": "1.1.0",
+      "description": "Multi-driver HTTP client for the Stackra framework — axios/fetch connectors, middleware + interceptor pipelines, streaming (SSE/NDJSON), circuit breaker, rate limiting, and React hooks.",
+      "license": "MIT",
+      "repository": "https://github.com/academorix/academorix-frontend",
+      "npmUrl": "https://www.npmjs.com/package/%40stackra%2Fhttp",
+      "category": "frontend",
+      "createdAt": "2026-08-12T19:27:57.352Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 69
+    },
+    {
+      "name": "@stackra/routing",
+      "version": "1.1.0",
+      "description": "Client-side routing for the Stackra framework — guards, middleware, SEO, analytics, breadcrumbs, route modes (page/dialog/drawer/sheet), advanced matchers (subdomain/query/header/hash), and a `defineRoute()` builder that composes with React Router v7.",
+      "license": "MIT",
+      "repository": "https://github.com/academorix/academorix-frontend",
+      "npmUrl": "https://www.npmjs.com/package/%40stackra%2Frouting",
+      "category": "frontend",
+      "createdAt": "2026-08-12T19:30:34.514Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 97
     },
     {
       "name": "@stacksjs/ts-ssh",
@@ -43898,6 +44054,30 @@
       "score": 85
     },
     {
+      "name": "@toragonite/agent-mesh-cursor",
+      "version": "0.1.0",
+      "description": "Cursor adapter for agent-mesh — drive the official cursor-agent CLI headlessly: run, resume, stream, live model catalog, auth. Unofficial.",
+      "license": "MIT",
+      "repository": "https://github.com/Toragonite/agent-mesh",
+      "npmUrl": "https://www.npmjs.com/package/%40toragonite%2Fagent-mesh-cursor",
+      "category": "cli",
+      "createdAt": "2026-08-14T01:12:07.852Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 79
+    },
+    {
+      "name": "@toragonite/agent-mesh-gemini",
+      "version": "0.1.0",
+      "description": "Google Antigravity adapter for agent-mesh — drive the official agy CLI headlessly: run, resume, stream, static/live models. Unofficial.",
+      "license": "MIT",
+      "repository": "https://github.com/Toragonite/agent-mesh",
+      "npmUrl": "https://www.npmjs.com/package/%40toragonite%2Fagent-mesh-gemini",
+      "category": "cli",
+      "createdAt": "2026-08-14T01:12:03.125Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 83
+    },
+    {
       "name": "@toragonite/claude-mesh",
       "version": "0.1.0",
       "description": "Spawn, manage, and message Claude Code background agents (claude --bg) from Node — a local session mesh over Claude Code's cross-session messaging. Zero-dependency library + CLI. Unofficial.",
@@ -44556,6 +44736,18 @@
       "createdAt": "2026-08-13T01:47:58.296Z",
       "discoveredAt": "2026-08-13T04:02:31.627Z",
       "score": 81
+    },
+    {
+      "name": "@unabandoned/ret",
+      "version": "0.5.1",
+      "description": "Tokenizes a string that represents a regular expression.",
+      "license": "MIT",
+      "repository": "https://github.com/unabandoned/ret.js",
+      "npmUrl": "https://www.npmjs.com/package/%40unabandoned%2Fret",
+      "category": "backend",
+      "createdAt": "2026-08-14T00:56:59.070Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 65
     },
     {
       "name": "@unabandoned/xml-js",
@@ -46212,6 +46404,18 @@
       "createdAt": "2026-07-27T22:48:08.946Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 56
+    },
+    {
+      "name": "@w6w/react",
+      "version": "0.5.0",
+      "description": "React bindings for @w6w/sdk — a <W6WProvider>, a small hook set, and a structural adapter for @w6w/ui's W6WApi contract.",
+      "license": "MIT",
+      "repository": "https://github.com/w6w-io/w6w-wrappers",
+      "npmUrl": "https://www.npmjs.com/package/%40w6w%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-13T23:49:15.603Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 63
     },
     {
       "name": "@w6w/sdk",
@@ -58022,6 +58226,18 @@
       "score": 69
     },
     {
+      "name": "dsh-amber-protocol",
+      "version": "1.5.1",
+      "description": "DeepSeek Harness bundle for Amber Protocol governance tools and skills",
+      "license": "MIT",
+      "repository": "https://github.com/Bandersnatch0x/amber-protocol",
+      "npmUrl": "https://www.npmjs.com/package/dsh-amber-protocol",
+      "category": "utilities",
+      "createdAt": "2026-08-13T23:52:21.046Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 65
+    },
+    {
       "name": "dsh-bash-terminal",
       "version": "0.2.3",
       "description": "DSH plugin: one shell tool that runs commands through PowerShell, Git Bash, or WSL on Windows, with a user-chosen default terminal in the Web UI settings.",
@@ -62846,6 +63062,18 @@
       "score": 70
     },
     {
+      "name": "http-fields-signatures",
+      "version": "0.1.0",
+      "description": "RFC 9421 HTTP Message Signatures — sign and verify HTTP requests and responses, built on http-fields (RFC 8941/9651 Structured Field Values) and WebCrypto",
+      "license": "MIT",
+      "repository": "https://github.com/johnhenry/http-fields-signatures",
+      "npmUrl": "https://www.npmjs.com/package/http-fields-signatures",
+      "category": "backend",
+      "createdAt": "2026-08-14T00:00:02.617Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 66
+    },
+    {
       "name": "http-over-websocket",
       "version": "0.0.1",
       "description": "A protocol that has HTTP/2-ish semantics to multiplex HTTP over a single WebSocket connection",
@@ -66470,6 +66698,18 @@
       "score": 88
     },
     {
+      "name": "mallory-iteration",
+      "version": "0.0.0",
+      "description": "Sync + async iterator algebra for TypeScript — transducers, Python-itertools parity, terminal consumers, bounded concurrency, cancellation, and backpressure-aware channels. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/johnhenry/mallory",
+      "npmUrl": "https://www.npmjs.com/package/mallory-iteration",
+      "category": "build-tools",
+      "createdAt": "2026-08-13T23:54:30.125Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 89
+    },
+    {
       "name": "manim-live-mcp",
       "version": "2.0.27",
       "description": "AI-driven manim animation engine MCP server — npm wrapper for the Python package",
@@ -67428,6 +67668,18 @@
       "createdAt": "2026-07-28T19:11:41.341Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 94
+    },
+    {
+      "name": "mcp-vision-analyze",
+      "version": "2.0.0",
+      "description": "MCP server for AI image vision analysis. Supports Google AI Studio (FREE) and OpenRouter (cheap). Analyze screenshots, extract text, diagnose errors.",
+      "license": "MIT",
+      "repository": "https://github.com/rezkycodes/mcp-vision-analyze",
+      "npmUrl": "https://www.npmjs.com/package/mcp-vision-analyze",
+      "category": "backend",
+      "createdAt": "2026-08-13T23:55:04.296Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 85
     },
     {
       "name": "mcp-wacta",
@@ -71018,6 +71270,18 @@
       "score": 87
     },
     {
+      "name": "nuxt-image-compress",
+      "version": "1.0.0",
+      "description": "Easy and performant image compression composable for Nuxt 3, powered by browser-image-compression with Web Worker support.",
+      "license": "MIT",
+      "repository": "https://github.com/mesahach/nuxt-image-compress",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-image-compress",
+      "category": "frontend",
+      "createdAt": "2026-08-14T00:24:14.458Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 78
+    },
+    {
       "name": "nvcalendar",
       "version": "0.1.0",
       "description": "Calendar, date picker and attribute-driven date visualisation for Nuxt and Vue 3. Zero dependencies, Intl-powered, fully typed.",
@@ -72132,6 +72396,18 @@
       "createdAt": "2026-08-05T21:43:33.300Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 70
+    },
+    {
+      "name": "opencode-spin",
+      "version": "1.0.0",
+      "description": "Worker session orchestration plugin for OpenCode with multi-agent collaboration support",
+      "license": "MIT",
+      "repository": "https://github.com/SamSpiri/opencode-spin-plugin",
+      "npmUrl": "https://www.npmjs.com/package/opencode-spin",
+      "category": "utilities",
+      "createdAt": "2026-08-14T00:40:00.396Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 75
     },
     {
       "name": "opencode-tamer-judge",
@@ -76128,6 +76404,18 @@
       "createdAt": "2026-07-27T09:11:08.034Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 72
+    },
+    {
+      "name": "quecord",
+      "version": "0.1.0",
+      "description": "A MongoDB-native durable work queue where your record is the job",
+      "license": "MIT",
+      "repository": "https://github.com/IamLizu/quecord",
+      "npmUrl": "https://www.npmjs.com/package/quecord",
+      "category": "data",
+      "createdAt": "2026-08-13T23:36:04.971Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 68
     },
     {
       "name": "quick-response-core",
@@ -83928,6 +84216,18 @@
       "createdAt": "2026-08-13T06:06:31.270Z",
       "discoveredAt": "2026-08-13T07:14:57.670Z",
       "score": 87
+    },
+    {
+      "name": "twinscope",
+      "version": "0.3.10",
+      "description": "Compare anything from the command line — text, JSON, YAML, XML, CSV, PDFs, images, folders, git refs, API contracts, .env and Kubernetes config, and screenshot sets. Detects the type and picks the right engine.",
+      "license": "MIT",
+      "repository": "https://github.com/codeAesthetic/twinscope",
+      "npmUrl": "https://www.npmjs.com/package/twinscope",
+      "category": "backend",
+      "createdAt": "2026-08-13T19:37:18.169Z",
+      "discoveredAt": "2026-08-14T01:13:25.832Z",
+      "score": 66
     },
     {
       "name": "txt2sfx-bridge",

@@ -1,11 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124903676,
-  "lastRunAt": "2026-08-13T23:20:37.883Z",
+  "lastSequence": 124914606,
+  "lastRunAt": "2026-08-14T01:13:25.832Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@pisbouts-byte/pdx-cli",
+      "name": "@reptilianhq/envio-linux-x64-musl",
+      "attempts": 1
+    },
+    {
+      "name": "@reptilianhq/envio-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@ziweiwu/folio",
       "attempts": 1
     }
   ]
