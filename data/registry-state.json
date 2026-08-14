@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125056430,
-  "lastRunAt": "2026-08-14T17:37:59.065Z",
+  "lastSequence": 125065959,
+  "lastRunAt": "2026-08-14T18:42:13.168Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@intellara/trovegen-mcp",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@inaicode/react",
+      "name": "@quarkhz/query",
       "attempts": 1
     },
     {
-      "name": "@tumnel/opencode",
+      "name": "@dizlexic/mootasks-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@quarkhz/react-motion",
+      "attempts": 1
+    },
+    {
+      "name": "@plone-collective/volto-multiworkflow",
       "attempts": 1
     }
   ]
