@@ -1,23 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125009071,
-  "lastRunAt": "2026-08-14T12:44:49.715Z",
+  "lastSequence": 125023478,
+  "lastRunAt": "2026-08-14T14:02:59.393Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@axiqo/ai",
+      "name": "@bytepunx/authstar-fastify",
       "attempts": 1
     },
     {
-      "name": "@neuctra/authix-mcp",
+      "name": "@intellara/trovegen-mcp",
       "attempts": 1
     },
     {
-      "name": "@laizhixingxingdeli/dsh-coagenthub",
+      "name": "@lanxing/dsh-skill-manager",
       "attempts": 1
     },
     {
-      "name": "dsh-webui-background",
+      "name": "@prismnetwork/plugin-eliza",
+      "attempts": 1
+    },
+    {
+      "name": "@prismnetwork/game-plugin",
+      "attempts": 1
+    },
+    {
+      "name": "@bujue3184/dsh-tool-vision",
+      "attempts": 1
+    },
+    {
+      "name": "@effected/cli",
       "attempts": 1
     }
   ]

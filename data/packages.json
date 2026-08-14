@@ -3254,6 +3254,18 @@
       "score": 72
     },
     {
+      "name": "@anionex/dsh-computer-use",
+      "version": "0.1.0",
+      "description": "Accessibility-first macOS Computer Use capability for DeepSeek Harness with stale-observation protection, app leases, confirmations, screenshots, and Web diagnostics",
+      "license": "MIT",
+      "repository": "https://github.com/Anionex/dsh-computer-use",
+      "npmUrl": "https://www.npmjs.com/package/%40anionex%2Fdsh-computer-use",
+      "category": "utilities",
+      "createdAt": "2026-08-14T12:52:39.072Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 78
+    },
+    {
       "name": "@anionex/dsh-vision-toolkit",
       "version": "0.1.5",
       "description": "DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, OCR, grounding, UI restoration, pixel diff, Artifacts, and Web UI.",
@@ -5184,6 +5196,18 @@
       "createdAt": "2026-07-31T05:58:50.799Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 77
+    },
+    {
+      "name": "@bacnh85/pi-a2a",
+      "version": "0.3.1",
+      "description": "A2A Protocol v1.0 bidirectional extension for the Pi coding agent — distribute tasks to remote agents, be called by them, and self-declare for local session discovery.",
+      "license": "MIT",
+      "repository": "https://github.com/bacnh85/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40bacnh85%2Fpi-a2a",
+      "category": "utilities",
+      "createdAt": "2026-08-13T07:15:38.188Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 80
     },
     {
       "name": "@bacnh85/pi-model-tools",
@@ -7898,6 +7922,18 @@
       "score": 64
     },
     {
+      "name": "@christian-jorge/graft",
+      "version": "1.0.0",
+      "description": "Build a repo's context graph as a folder of linked markdown files that live in the repo and stay in sync with the code through git.",
+      "license": "MIT",
+      "repository": "https://github.com/christian-jorge/Graft",
+      "npmUrl": "https://www.npmjs.com/package/%40christian-jorge%2Fgraft",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T13:57:59.336Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 87
+    },
+    {
       "name": "@chumanic/skillsync",
       "version": "0.1.0",
       "description": "A provenance, compatibility, and behavior verification layer for Agent Skills.",
@@ -8930,6 +8966,66 @@
       "score": 87
     },
     {
+      "name": "@cortadel/claude-agent-sdk",
+      "version": "0.1.0",
+      "description": "Cortadel long-term memory for the Claude Agent SDK — in-process MCP memory tools plus automatic recall/capture hooks.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Fclaude-agent-sdk",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:27:38.092Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 81
+    },
+    {
+      "name": "@cortadel/deepagents",
+      "version": "0.1.0",
+      "description": "Cortadel long-term memory for DeepAgents — an AgentMiddleware that recalls before the turn and persists after it, plus search_memory / add_memories tools.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Fdeepagents",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:27:11.465Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 83
+    },
+    {
+      "name": "@cortadel/langgraph",
+      "version": "0.1.0",
+      "description": "Cortadel long-term memory for LangGraph — a BaseStore implementation, memory tools, and automatic recall/persist graph nodes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Flanggraph",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:20:28.919Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 80
+    },
+    {
+      "name": "@cortadel/openai-agents",
+      "version": "0.1.0",
+      "description": "Cortadel long-term memory for the OpenAI Agents SDK (TypeScript) — a Session implementation, an automatic recall-and-inject model-input filter, and memory tools.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Fopenai-agents",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T13:28:14.321Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 82
+    },
+    {
+      "name": "@cortadel/openclaw",
+      "version": "0.1.0",
+      "description": "Cortadel memory plugin for OpenClaw — self-hosted long-term temporal graph memory as an OpenClaw memory corpus, agent tools, and automatic recall/capture hooks.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Fopenclaw",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:28:48.167Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 82
+    },
+    {
       "name": "@cortadel/sdk",
       "version": "1.0.0",
       "description": "Official TypeScript SDK for Cortadel — self-hosted long-term temporal graph memory for AI agents.",
@@ -8940,6 +9036,18 @@
       "createdAt": "2026-08-11T22:47:15.308Z",
       "discoveredAt": "2026-08-11T23:20:35.364Z",
       "score": 64
+    },
+    {
+      "name": "@cortadel/vercel-ai-provider",
+      "version": "0.1.0",
+      "description": "Cortadel long-term memory for the Vercel AI SDK — memory tools plus a language-model middleware that recalls and persists automatically.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/%40cortadel%2Fvercel-ai-provider",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:28:10.156Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 81
     },
     {
       "name": "@cosyte/cli",
@@ -9590,6 +9698,18 @@
       "score": 70
     },
     {
+      "name": "@dapih/visualkan",
+      "version": "0.4.1",
+      "description": "Turn any content into a visual explanation: whiteboard, infographic, presentation, diagram, mind map, or UI mockup. Installs as a skill into AI coding assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/dapih/visualkan",
+      "npmUrl": "https://www.npmjs.com/package/%40dapih%2Fvisualkan",
+      "category": "backend",
+      "createdAt": "2026-08-14T12:48:09.670Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 86
+    },
+    {
       "name": "@darksol/remem-v2",
       "version": "0.1.0",
       "description": "ReMEM v2 core: intake pipelines, recursive recall, and bounded context assembly for agents",
@@ -9974,6 +10094,18 @@
       "score": 86
     },
     {
+      "name": "@demystify/evals",
+      "version": "0.1.0",
+      "description": "Deterministic offline eval harness for LLM-shaped work: is candidate A better than B for THIS use case, did quality regress against a recorded baseline, and what did it cost. Reports quality, cost (integer µUSD) and latency side by side and refuses to col",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fevals",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:31:00.673Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 90
+    },
+    {
       "name": "@demystify/grounding",
       "version": "0.3.0",
       "description": "Deterministic numeric grounding guard for LLM output: drops any sentence asserting a figure its own citations do not support. Indian digit grouping and scale words, Unicode digit folding, invisible-character stripping, fail-closed on unreadable digit scri",
@@ -9996,6 +10128,42 @@
       "createdAt": "2026-08-14T11:38:15.108Z",
       "discoveredAt": "2026-08-14T12:44:49.715Z",
       "score": 90
+    },
+    {
+      "name": "@demystify/memory",
+      "version": "0.1.0",
+      "description": "Store, recall and ERASE durable agent memory in the adopter's own Postgres. Erasure cascades transitively to every derived artifact (summaries, distillations, embeddings) via recorded provenance, and leaves a content-free tombstone — DPDP-shaped right-to-",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fmemory",
+      "category": "data",
+      "createdAt": "2026-08-14T13:30:55.279Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 90
+    },
+    {
+      "name": "@demystify/skills",
+      "version": "0.1.0",
+      "description": "Loader and selector for Agent Skills, conforming to the agentskills.io open standard. Parses SKILL.md with a hand-written, documented YAML subset and REFUSES anything outside it — including angle brackets in frontmatter, which the spec warns can inject in",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fskills",
+      "category": "data",
+      "createdAt": "2026-08-14T13:30:04.413Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 86
+    },
+    {
+      "name": "@demystify/workflow",
+      "version": "0.1.0",
+      "description": "The DAG plan shape and its scheduler for agent work. Validates the graph at parse time (dangling edges, duplicate ids, cycles named in the error), returns every step whose dependencies are satisfied so fan-out is possible, distinguishes blocked from faile",
+      "license": "MIT",
+      "repository": "https://github.com/demystify-systems/ai-services-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40demystify%2Fworkflow",
+      "category": "devops",
+      "createdAt": "2026-08-14T13:30:40.189Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 86
     },
     {
       "name": "@dendiem/caliper",
@@ -13694,6 +13862,18 @@
       "score": 68
     },
     {
+      "name": "@fazelstudio/codemirror-breadcrumbs",
+      "version": "0.1.0",
+      "description": "VSCode-like code structure breadcrumbs for CodeMirror 6, built on the Lezer syntax tree with correct nested-language traversal.",
+      "license": "MIT",
+      "repository": "https://github.com/fazelllyyy/codemirror-breadcrumbs",
+      "npmUrl": "https://www.npmjs.com/package/%40fazelstudio%2Fcodemirror-breadcrumbs",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:11:45.522Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 80
+    },
+    {
       "name": "@fazofazaal/convex-payer",
       "version": "0.0.1",
       "description": "A Convex component for Payer checkout sessions and webhooks.",
@@ -13836,6 +14016,18 @@
       "createdAt": "2026-08-08T01:40:13.188Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 65
+    },
+    {
+      "name": "@fetcher-sh/api",
+      "version": "1.0.1",
+      "description": "The developer-friendly client for fetcher.sh — 111 pay-per-call web-data endpoints across Twitter/X, YouTube, TikTok, Instagram, Reddit, Google, App Store, and Yelp. Use as an NPM library or CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/fetcher-sh/npm-fetcher-sh",
+      "npmUrl": "https://www.npmjs.com/package/%40fetcher-sh%2Fapi",
+      "category": "backend",
+      "createdAt": "2026-08-14T13:36:40.970Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 95
     },
     {
       "name": "@fft-visualizer/core",
@@ -20640,6 +20832,18 @@
       "createdAt": "2026-07-26T23:23:52.185Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 64
+    },
+    {
+      "name": "@heddleagent/execution-host-client",
+      "version": "6.0.0",
+      "description": "Backend contracts, execution authority, lifecycle services, and clients for compatible Heddle Execution Hosts",
+      "license": "MIT",
+      "repository": "https://github.com/roackb2/heddle",
+      "npmUrl": "https://www.npmjs.com/package/%40heddleagent%2Fexecution-host-client",
+      "category": "backend",
+      "createdAt": "2026-08-14T07:01:19.480Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 84
     },
     {
       "name": "@hedra/cli",
@@ -40586,6 +40790,18 @@
       "score": 48
     },
     {
+      "name": "@silay/logger",
+      "version": "1.0.1",
+      "description": "Production-grade, framework-agnostic structured logging infrastructure for Node.js 20+ with request tracing, contextual logging via AsyncLocalStorage, sensitive data redaction, rotating file transports, audit logging, and first-class Express/MongoDB/Redis",
+      "license": "MIT",
+      "repository": "https://github.com/MahdiDehghan369/silayLogger",
+      "npmUrl": "https://www.npmjs.com/package/%40silay%2Flogger",
+      "category": "backend",
+      "createdAt": "2026-08-10T20:55:39.915Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 98
+    },
+    {
       "name": "@silencedis/sorted-linked-list",
       "version": "1.0.0",
       "description": "A stable, always-sorted doubly linked list for TypeScript and modern JavaScript.",
@@ -41820,6 +42036,18 @@
       "createdAt": "2026-08-13T15:07:22.375Z",
       "discoveredAt": "2026-08-13T17:44:22.449Z",
       "score": 62
+    },
+    {
+      "name": "@sousaivan/kern",
+      "version": "1.0.0",
+      "description": "Zero-dependency, TypeScript-first utility primitives for modern JavaScript runtimes.",
+      "license": "MIT",
+      "repository": "https://github.com/sousaivan99/kern",
+      "npmUrl": "https://www.npmjs.com/package/%40sousaivan%2Fkern",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T12:46:00.373Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 80
     },
     {
       "name": "@sp-api-sdk/finances-invoices-api-2026-06-25",
@@ -51326,6 +51554,18 @@
       "score": 77
     },
     {
+      "name": "ai-project-tracker",
+      "version": "1.4.2",
+      "description": "Real-time project progress tracker for AI coding tools (opencode, Claude Code, Cursor, VS Code Copilot, web AI): 7 phases, percentages, growth charts, ETA, milestones, bilingual EN/FA dashboard. Zero npm dependencies, 100% local. Includes MCP server, Clau",
+      "license": "MIT",
+      "repository": "https://github.com/Helixventures-AI/opencode-project-tracker",
+      "npmUrl": "https://www.npmjs.com/package/ai-project-tracker",
+      "category": "backend",
+      "createdAt": "2026-08-14T13:35:41.408Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 100
+    },
+    {
       "name": "ai-prompt-firewall",
       "version": "1.0.0",
       "description": "Lightweight, developer-first AI prompt security middleware for real-time detection and remediation of sensitive data.",
@@ -59832,6 +60072,18 @@
       "createdAt": "2026-08-13T19:09:10.841Z",
       "discoveredAt": "2026-08-13T20:32:34.831Z",
       "score": 50
+    },
+    {
+      "name": "dsh-wechat-bridge",
+      "version": "1.1.0",
+      "description": "把 DeepSeek Harness (DSH) 接到微信「龙虾」(ClawBot)：iLink 协议直连 + 通用桥接，零依赖",
+      "license": "MIT",
+      "repository": "https://github.com/gtaifu/dsh-wechat-bridge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-wechat-bridge",
+      "category": "utilities",
+      "createdAt": "2026-08-14T12:45:56.779Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 82
     },
     {
       "name": "dsv-chat-widget",
@@ -70754,6 +71006,18 @@
       "score": 57
     },
     {
+      "name": "n8n-nodes-cortadel",
+      "version": "0.1.0",
+      "description": "n8n community node for Cortadel — self-hosted long-term temporal graph memory for AI agents. Ships a Cortadel action node (usable as an AI Agent tool) and a Cortadel Memory sub-node for the ai_memory slot.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cortadel/cortadel",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-cortadel",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:28:43.127Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 90
+    },
+    {
       "name": "n8n-nodes-data-diff",
       "version": "0.1.3",
       "description": "Compare two JSON objects and see exactly what changed",
@@ -79406,6 +79670,18 @@
       "score": 82
     },
     {
+      "name": "react-native-samsung-health-data",
+      "version": "0.1.0",
+      "description": "React Native / Expo module for reading Samsung Health data via the Samsung Health Data SDK (Android only) — steps, heart rate with device-source attribution, exercise sessions, and experimental headless background reads",
+      "license": "MIT",
+      "repository": "https://github.com/jsh3418/react-native-samsung-health-data",
+      "npmUrl": "https://www.npmjs.com/package/react-native-samsung-health-data",
+      "category": "frontend",
+      "createdAt": "2026-08-14T13:53:22.396Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 88
+    },
+    {
       "name": "react-native-shared-transition",
       "version": "0.2.1",
       "description": "Automatic shared element transitions for React Native — New Architecture, Nitro Modules, Reanimated",
@@ -81900,6 +82176,18 @@
       "createdAt": "2026-08-10T13:30:43.914Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 63
+    },
+    {
+      "name": "setrecon",
+      "version": "0.1.0",
+      "description": "Set reconciliation between two peers over any transport - IBLT, Strata, buckets, and BCH sketch, picked automatically.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/colocohen/setrecon",
+      "npmUrl": "https://www.npmjs.com/package/setrecon",
+      "category": "devops",
+      "createdAt": "2026-08-14T13:05:41.518Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 81
     },
     {
       "name": "setup-ai-provenance-license",
@@ -88836,6 +89124,18 @@
       "createdAt": "2026-08-08T20:11:46.996Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 63
+    },
+    {
+      "name": "winky-wonky",
+      "version": "2.0.0",
+      "description": "A whimsical, physics-based, audio-synthesized design system inspired by Wes Anderson and Tim Burton. Wobbly buttons, seesaw sliders, pendulum toggles, slingshot uploads, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/harshmathurx/winky-wonky",
+      "npmUrl": "https://www.npmjs.com/package/winky-wonky",
+      "category": "utilities",
+      "createdAt": "2026-08-14T13:57:53.241Z",
+      "discoveredAt": "2026-08-14T14:02:59.393Z",
+      "score": 97
     },
     {
       "name": "winr-web-sdk",
