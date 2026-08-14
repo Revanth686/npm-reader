@@ -6122,6 +6122,18 @@
       "score": 83
     },
     {
+      "name": "@brglng/pi-permission-system",
+      "version": "25.1.1",
+      "description": "Permission enforcement extension for the Pi coding agent.",
+      "license": "MIT",
+      "repository": "https://github.com/brglng/gotgenes-pi-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40brglng%2Fpi-permission-system",
+      "category": "utilities",
+      "createdAt": "2026-08-14T02:39:38.767Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 85
+    },
+    {
       "name": "@brianmorton/crew",
       "version": "0.1.1",
       "description": "Autonomous agent team: role-specialized coding agents that propose typed work into Linear or Jira, gate material changes behind human-approved PRDs, and drain approved work into PRs — running on your machine against your Claude subscription.",
@@ -11738,6 +11750,18 @@
       "score": 68
     },
     {
+      "name": "@dsh-client/ui-question-anchors",
+      "version": "1.0.0",
+      "description": "DeepSeek Harness Web question-anchor plugin: a right-side floating panel listing every user question in the current conversation; clicking an item smoothly scrolls the chat to that message",
+      "license": "MIT",
+      "repository": "https://github.com/snakeUni/dsh-question-anchors",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-client%2Fui-question-anchors",
+      "category": "cli",
+      "createdAt": "2026-08-14T02:11:13.570Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 69
+    },
+    {
       "name": "@dszp/onebill-lib",
       "version": "0.1.0",
       "description": "Portable, Node-free OneBill toolkit: split read/write API clients and a generic multi-system link codec for the Subscriber externalId field. Runs unchanged in a Cloudflare Worker, Node, or the browser.",
@@ -12036,6 +12060,18 @@
       "createdAt": "2026-08-04T09:02:49.407Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 93
+    },
+    {
+      "name": "@ecoma-io/lattice",
+      "version": "0.1.0",
+      "description": "Architecture enforcement for polyglot repositories — dependency graphs and module boundaries for Go, Rust, Python, TypeScript and Vue",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ecoma-io/lattice",
+      "npmUrl": "https://www.npmjs.com/package/%40ecoma-io%2Flattice",
+      "category": "frontend",
+      "createdAt": "2026-08-14T02:27:03.960Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 83
     },
     {
       "name": "@ecoma-io/litmus",
@@ -20688,6 +20724,18 @@
       "createdAt": "2026-08-11T12:18:29.619Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 81
+    },
+    {
+      "name": "@hongruimu/agent-fabric-blueprints",
+      "version": "0.1.0",
+      "description": "Composable project blueprints for agent-ready Agent Fabric workspaces.",
+      "license": "MIT",
+      "repository": "https://github.com/hongruimu/agent-fabric-blueprints",
+      "npmUrl": "https://www.npmjs.com/package/%40hongruimu%2Fagent-fabric-blueprints",
+      "category": "utilities",
+      "createdAt": "2026-08-14T01:39:45.694Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 71
     },
     {
       "name": "@honlnk/picsense",
@@ -33890,6 +33938,18 @@
       "score": 68
     },
     {
+      "name": "@pepperchan/pepper",
+      "version": "0.0.1",
+      "description": "Pepper — MNN's 24/7 on-device research anchor. She tracks your topics, writes the bulletin with Apple Foundation Models, and reads it from a 3D newsroom.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/bunnycompany/pepper",
+      "npmUrl": "https://www.npmjs.com/package/%40pepperchan%2Fpepper",
+      "category": "utilities",
+      "createdAt": "2026-08-14T01:50:49.769Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 79
+    },
+    {
       "name": "@perkss/sdk",
       "version": "0.1.1",
       "description": "[![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com) [![npm shield](https://img.shields.io/npm/v/@perkss/sdk)](https://www.npmjs.com/package/@perkss/sdk)",
@@ -34596,6 +34656,30 @@
       "createdAt": "2026-08-14T01:01:30.139Z",
       "discoveredAt": "2026-08-14T01:13:25.832Z",
       "score": 63
+    },
+    {
+      "name": "@poodle64/design-tokens",
+      "version": "2026.8.0",
+      "description": "Household canonical design tokens — DTCG source, Style Dictionary build, --ds-* CSS custom properties, Tailwind v4 @theme block, JS constants.",
+      "license": "MIT",
+      "repository": "https://github.com/poodle64/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40poodle64%2Fdesign-tokens",
+      "category": "frontend",
+      "createdAt": "2026-08-14T01:52:38.582Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 74
+    },
+    {
+      "name": "@poodle64/ui",
+      "version": "2026.8.7",
+      "description": "Household shared component layer: shadcn-svelte primitives (bits-ui) plus the composed page chrome every app builds its routes from, restyled by each app's @poodle64/design-tokens alias layer. One fix reaches every app.",
+      "license": "MIT",
+      "repository": "https://github.com/poodle64/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40poodle64%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-14T01:51:25.184Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 80
     },
     {
       "name": "@poolsideai/n8n-nodes-poolside",
@@ -41414,6 +41498,18 @@
       "score": 65
     },
     {
+      "name": "@stball/react-river",
+      "version": "1.0.50",
+      "description": "A lightweight, Riverpod-inspired state management library for React.",
+      "license": "MIT",
+      "repository": "https://github.com/strongball/react-river",
+      "npmUrl": "https://www.npmjs.com/package/%40stball%2Freact-river",
+      "category": "frontend",
+      "createdAt": "2026-08-14T01:35:26.570Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 76
+    },
+    {
       "name": "@stebean/img2webp",
       "version": "0.1.1",
       "description": "CLI tool to convert PNG/JPEG images to WebP and update all code references automatically.",
@@ -43440,6 +43536,18 @@
       "createdAt": "2026-08-03T20:22:27.000Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 74
+    },
+    {
+      "name": "@the-good-pixel/ticketloop",
+      "version": "0.1.0",
+      "description": "A local, subscription-powered Claude or Codex agent that watches your tracker and runs a configurable dev-cycle loop with a quota and history dashboard.",
+      "license": "MIT",
+      "repository": "https://github.com/the-good-pixel/ticketloop",
+      "npmUrl": "https://www.npmjs.com/package/%40the-good-pixel%2Fticketloop",
+      "category": "utilities",
+      "createdAt": "2026-08-14T03:51:15.903Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 72
     },
     {
       "name": "@the-long-ride/agents-crew",
@@ -48434,6 +48542,30 @@
       "score": 84
     },
     {
+      "name": "@zengjing/xmind-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for parsing and searching XMind mind maps (.xmind files). Enables Claude and other LLM applications to extract, search, and analyze mind map data.",
+      "license": "MIT",
+      "repository": "https://github.com/hhtczengjing/xmind-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40zengjing%2Fxmind-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T02:17:18.115Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 93
+    },
+    {
+      "name": "@zengjing/yapi-mcp",
+      "version": "1.0.0",
+      "description": "YApi MCP server for querying and managing API documentation",
+      "license": "MIT",
+      "repository": "https://github.com/hhtczengjing/yapi-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40zengjing%2Fyapi-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T02:39:56.699Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 68
+    },
+    {
       "name": "@zenixsolutions/hudu-mcp",
       "version": "0.1.0",
       "description": "Community MCP server for the Hudu IT documentation REST API. Full documented API surface, secret-safe by default.",
@@ -48684,6 +48816,18 @@
       "createdAt": "2026-08-09T23:52:53.750Z",
       "discoveredAt": "2026-08-10T01:06:24.306Z",
       "score": 66
+    },
+    {
+      "name": "@ziweiwu/folio",
+      "version": "0.1.2",
+      "description": "Read markdown in your terminal, properly. Real typography, Shiki syntax highlighting, vim keys, search, a table of contents, link following, and scrolling that keeps up with your keyboard.",
+      "license": "MIT",
+      "repository": "https://github.com/ziweiwu/folio",
+      "npmUrl": "https://www.npmjs.com/package/%40ziweiwu%2Ffolio",
+      "category": "cli",
+      "createdAt": "2026-08-14T01:13:14.051Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 81
     },
     {
       "name": "@ziyarago/glass-ui-kit",
@@ -55250,6 +55394,18 @@
       "score": 72
     },
     {
+      "name": "codex2code",
+      "version": "0.1.0",
+      "description": "Convert local or GitHub Codex skills into VS Code skills, agents, and plugins with validation and rollback.",
+      "license": "MIT",
+      "repository": "https://github.com/genoventures-labs/Codex2Code",
+      "npmUrl": "https://www.npmjs.com/package/codex2code",
+      "category": "utilities",
+      "createdAt": "2026-08-14T02:34:14.278Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 72
+    },
+    {
       "name": "codexgpt",
       "version": "1.0.0",
       "description": "Windows-first, self-hosted MCP tools that connect ChatGPT to one local repository through a loopback server and an optional HTTPS tunnel.",
@@ -61502,6 +61658,18 @@
       "score": 85
     },
     {
+      "name": "github-unfollower",
+      "version": "3.0.0",
+      "description": "Find out who doesn't follow you back on GitHub and bulk-unfollow them from your terminal. Interactive TUI with whitelist, live progress, and rate-limit-safe pacing.",
+      "license": "MIT",
+      "repository": "https://github.com/krkarma777/GitHubUnfollowerTracker",
+      "npmUrl": "https://www.npmjs.com/package/github-unfollower",
+      "category": "backend",
+      "createdAt": "2026-08-14T02:55:42.295Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 82
+    },
+    {
       "name": "gitpin",
       "version": "0.5.3",
       "description": "Prove and verify multi-repo agent claims at Git HEAD—index-free evidence packs with path, line, and full SHA.",
@@ -62940,6 +63108,18 @@
       "createdAt": "2026-08-02T16:23:36.430Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 66
+    },
+    {
+      "name": "hostnextra-sync",
+      "version": "1.0.0",
+      "description": "Official file synchronization plugin for the HostnExtra CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/hostnextra/sync",
+      "npmUrl": "https://www.npmjs.com/package/hostnextra-sync",
+      "category": "cli",
+      "createdAt": "2026-08-14T03:38:23.105Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 72
     },
     {
       "name": "hotelumo",
@@ -66554,6 +66734,18 @@
       "score": 66
     },
     {
+      "name": "madeby",
+      "version": "0.1.0",
+      "description": "MadeBy — verifiable content provenance. Disclose your AI use (madeby ai) and gate PRs on disclosure (madeby check).",
+      "license": "MIT",
+      "repository": "https://github.com/MacDougherty/MadeBy",
+      "npmUrl": "https://www.npmjs.com/package/madeby",
+      "category": "testing",
+      "createdAt": "2026-08-14T01:56:13.957Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 74
+    },
+    {
       "name": "magic-codemods",
       "version": "1.0.0",
       "description": "Migration codemods for GSTJ projects. magic-kebab: rename files to kebab-case and rewrite every import that pointed at them.",
@@ -68244,6 +68436,18 @@
       "createdAt": "2026-08-09T05:39:43.845Z",
       "discoveredAt": "2026-08-09T05:43:45.675Z",
       "score": 91
+    },
+    {
+      "name": "microlighter",
+      "version": "1.0.0",
+      "description": "A tiny, dependency-free syntax highlighter built on the CSS Custom Highlight API and TextMate grammars.",
+      "license": "MIT",
+      "repository": "https://github.com/davatron5000/microlighter",
+      "npmUrl": "https://www.npmjs.com/package/microlighter",
+      "category": "frontend",
+      "createdAt": "2026-08-14T03:05:20.799Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 73
     },
     {
       "name": "microsparks",
@@ -70152,6 +70356,18 @@
       "createdAt": "2026-08-12T04:29:36.888Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 65
+    },
+    {
+      "name": "nestjs-dynamodb-orm",
+      "version": "1.0.0",
+      "description": "Decorator-based DynamoDB ORM for NestJS with typed errors, lifecycle hooks, composite search keys, and GSI/LSI support.",
+      "license": "MIT",
+      "repository": "https://github.com/jottasystem/nestjs-dynamodb-orm",
+      "npmUrl": "https://www.npmjs.com/package/nestjs-dynamodb-orm",
+      "category": "backend",
+      "createdAt": "2026-08-14T02:46:49.596Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 84
     },
     {
       "name": "nestjs-graphql-regenerate",
@@ -76214,6 +76430,18 @@
       "score": 57
     },
     {
+      "name": "punchcard-presence",
+      "version": "1.0.0",
+      "description": "Punchcard Discord Rich Presence and local AI usage tracking for Claude Code and Codex",
+      "license": "MIT",
+      "repository": "https://github.com/TheFysionX/punchcard",
+      "npmUrl": "https://www.npmjs.com/package/punchcard-presence",
+      "category": "utilities",
+      "createdAt": "2026-08-14T03:31:55.516Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 71
+    },
+    {
       "name": "punktraster",
       "version": "0.1.1",
       "description": "Canvas-rendered dot raster preloader. Zero dependencies, one rAF for the whole page.",
@@ -76764,6 +76992,18 @@
       "createdAt": "2026-08-07T22:35:40.453Z",
       "discoveredAt": "2026-08-07T23:03:58.437Z",
       "score": 59
+    },
+    {
+      "name": "react-bug-report",
+      "version": "0.1.0",
+      "description": "An accessible, themeable bug-report form and dialog with provider-neutral transports and optional screenshot capture.",
+      "license": "MIT",
+      "repository": "https://github.com/nidh-eesh/react-bug-report",
+      "npmUrl": "https://www.npmjs.com/package/react-bug-report",
+      "category": "frontend",
+      "createdAt": "2026-08-14T01:58:32.999Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 73
     },
     {
       "name": "react-calendar-views",
@@ -77604,6 +77844,18 @@
       "createdAt": "2026-08-11T18:08:52.415Z",
       "discoveredAt": "2026-08-11T18:50:57.847Z",
       "score": 73
+    },
+    {
+      "name": "react-native-video-burn-overlay",
+      "version": "0.0.6",
+      "description": "Burn text or custom image overlays permanently into recorded video pixels using native platform APIs only (AVFoundation on iOS, MediaCodec + OpenGL ES on Android).",
+      "license": "MIT",
+      "repository": "https://github.com/lehoi2195/react-native-video-burn-overlay",
+      "npmUrl": "https://www.npmjs.com/package/react-native-video-burn-overlay",
+      "category": "frontend",
+      "createdAt": "2026-08-14T03:12:42.551Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 86
     },
     {
       "name": "react-number-word-converter",
@@ -81998,6 +82250,18 @@
       "score": 70
     },
     {
+      "name": "sttbench",
+      "version": "0.1.0",
+      "description": "Benchmark real-time speech-to-text providers on your own audio. Streaming replay, word error rate, and time-to-final-segment latency.",
+      "license": "MIT",
+      "repository": "https://github.com/Fork-Time/sttbench",
+      "npmUrl": "https://www.npmjs.com/package/sttbench",
+      "category": "utilities",
+      "createdAt": "2026-08-14T02:26:35.632Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 80
+    },
+    {
       "name": "studio-os",
       "version": "0.2.0",
       "description": "Self-hosted studio management: booking, class packs, memberships. Bring your own Stripe.",
@@ -82128,6 +82392,18 @@
       "createdAt": "2026-08-06T10:10:44.809Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 96
+    },
+    {
+      "name": "supa-mcp",
+      "version": "0.1.0",
+      "description": "Turn a Supabase app into a polished end-user MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/elsheppo/supa-mcp",
+      "npmUrl": "https://www.npmjs.com/package/supa-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-14T01:56:13.301Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 69
     },
     {
       "name": "supabase-schema-tool",
@@ -84062,6 +84338,18 @@
       "score": 82
     },
     {
+      "name": "tui-saver",
+      "version": "0.1.0",
+      "description": "A terminal ASCII/braille screensaver that keeps the host awake",
+      "license": "MIT",
+      "repository": "https://github.com/aciddust/tui-saver",
+      "npmUrl": "https://www.npmjs.com/package/tui-saver",
+      "category": "cli",
+      "createdAt": "2026-08-14T02:55:10.622Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 76
+    },
+    {
       "name": "tuipr",
       "version": "0.0.1",
       "description": "Terminal review workstation for agent-generated PRs — budgeted AI review, merge gates, attestation",
@@ -85596,6 +85884,18 @@
       "createdAt": "2026-08-07T16:21:19.295Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 81
+    },
+    {
+      "name": "visualkan",
+      "version": "0.2.0",
+      "description": "Turn any content into a visual explanation: whiteboard, infographic, presentation, diagram, mind map, or UI mockup. Installs as a skill into AI coding assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/dapih/visualkan",
+      "npmUrl": "https://www.npmjs.com/package/visualkan",
+      "category": "utilities",
+      "createdAt": "2026-08-14T01:37:30.234Z",
+      "discoveredAt": "2026-08-14T03:58:58.196Z",
+      "score": 86
     },
     {
       "name": "vite-plugin-effcss",

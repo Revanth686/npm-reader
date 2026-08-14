@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 124914606,
-  "lastRunAt": "2026-08-14T01:13:25.832Z",
+  "lastSequence": 124930950,
+  "lastRunAt": "2026-08-14T03:58:58.196Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@reptilianhq/envio-linux-x64-musl",
+      "name": "@listcoder/cli",
       "attempts": 1
     },
     {
-      "name": "@reptilianhq/envio-linux-arm64",
+      "name": "@oakinwusi/avpax",
       "attempts": 1
     },
     {
-      "name": "@ziweiwu/folio",
+      "name": "@dsh-external/dsh-vision-toolkit",
+      "attempts": 1
+    },
+    {
+      "name": "@mini-dev/compose",
+      "attempts": 1
+    },
+    {
+      "name": "@r05en1cu/dsh-mygo",
       "attempts": 1
     }
   ]
