@@ -10202,6 +10202,18 @@
       "score": 79
     },
     {
+      "name": "@dexima/grug",
+      "version": "2.1.0",
+      "description": "Grug installer — detects your AI coding agents and installs grug for each one.",
+      "license": "MIT",
+      "repository": "https://github.com/Torbhub/caveman",
+      "npmUrl": "https://www.npmjs.com/package/%40dexima%2Fgrug",
+      "category": "utilities",
+      "createdAt": "2026-08-14T03:50:41.384Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 67
+    },
+    {
       "name": "@dg02002/lynvo-plugin-server-protocol",
       "version": "0.1.0",
       "description": "Lynvo Custom Plugin Server protocol schemas, runtime helpers, and metadata utilities.",
@@ -11378,6 +11390,18 @@
       "score": 66
     },
     {
+      "name": "@dong-victor/dsh-opencodego-usage",
+      "version": "0.1.2",
+      "description": "opencode Go 套餐余额查看插件（DSH Web GUI）：侧边栏直接显示 rolling(5小时)/weekly(周)/monthly(余额) 三档用量进度条、百分比与重置时间，60s 自动刷新，无需点击；点击打开详情面板（倒计时、状态徽章、端点/密钥信息）；agent 工具 opencode_go_balance 可直接回答套餐用量。密钥与端点复用 DSH 已配置的 llm-deepseek 接线（credentials 服务 + settings），无需二次配置。零构建依赖、纯 JS 即装即",
+      "license": "MIT",
+      "repository": "https://github.com/dong-victor/dsh-opencodego-usage",
+      "npmUrl": "https://www.npmjs.com/package/%40dong-victor%2Fdsh-opencodego-usage",
+      "category": "utilities",
+      "createdAt": "2026-08-14T04:56:15.267Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 71
+    },
+    {
       "name": "@dongzijie1/pi-ai",
       "version": "0.82.1",
       "description": "Unified LLM API with automatic model discovery and provider configuration",
@@ -11726,6 +11750,18 @@
       "score": 57
     },
     {
+      "name": "@drupflare/cartridge",
+      "version": "0.1.0",
+      "description": "Run a blocking wasm interpreter inside a Cloudflare Durable Object",
+      "license": "MIT",
+      "repository": "https://github.com/drupflare/cartridge",
+      "npmUrl": "https://www.npmjs.com/package/%40drupflare%2Fcartridge",
+      "category": "devops",
+      "createdAt": "2026-08-14T05:20:11.604Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 74
+    },
+    {
       "name": "@drupflare/untarl",
       "version": "0.1.0",
       "description": "Dependency-free, workerd-safe tar and tar.gz extraction. No Node APIs.",
@@ -11760,6 +11796,18 @@
       "createdAt": "2026-08-14T02:11:13.570Z",
       "discoveredAt": "2026-08-14T03:58:58.196Z",
       "score": 69
+    },
+    {
+      "name": "@dsh-external/dsh-vision-toolkit",
+      "version": "0.1.4",
+      "description": "DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, OCR, grounding, UI restoration, pixel diff, Artifacts, and Web UI.",
+      "license": "MIT",
+      "repository": "https://github.com/Anionex/dsh-vision-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-external%2Fdsh-vision-toolkit",
+      "category": "testing",
+      "createdAt": "2026-08-14T03:58:14.506Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 83
     },
     {
       "name": "@dszp/onebill-lib",
@@ -20726,6 +20774,18 @@
       "score": 81
     },
     {
+      "name": "@hongruimu/agent-fabric-adapters",
+      "version": "0.1.1",
+      "description": "Declarative adapter planning for Agent Fabric tool integrations.",
+      "license": "MIT",
+      "repository": "https://github.com/hongruimu/agent-fabric-adapters",
+      "npmUrl": "https://www.npmjs.com/package/%40hongruimu%2Fagent-fabric-adapters",
+      "category": "utilities",
+      "createdAt": "2026-08-14T01:41:17.293Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 63
+    },
+    {
       "name": "@hongruimu/agent-fabric-blueprints",
       "version": "0.1.0",
       "description": "Composable project blueprints for agent-ready Agent Fabric workspaces.",
@@ -24062,6 +24122,18 @@
       "score": 71
     },
     {
+      "name": "@kazecreator/dsh-im",
+      "version": "0.1.1",
+      "description": "DeepSeek Harness IM bridge plugin: route Telegram & WeChat messages into per-peer agent sessions and reply back",
+      "license": "MIT",
+      "repository": "https://github.com/kazecreator/dsh-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40kazecreator%2Fdsh-im",
+      "category": "utilities",
+      "createdAt": "2026-08-14T04:05:25.519Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 77
+    },
+    {
       "name": "@kbncodes/mcp-server-hub",
       "version": "1.0.0",
       "description": "Production-ready MCP Server Hub — host multiple Model Context Protocol servers behind one authenticated gateway. Stateless Streamable HTTP, 2026-07-28 spec-ready.",
@@ -24252,6 +24324,18 @@
       "createdAt": "2026-08-13T00:37:55.485Z",
       "discoveredAt": "2026-08-13T01:14:59.895Z",
       "score": 70
+    },
+    {
+      "name": "@kimi.builders/usage",
+      "version": "0.4.0",
+      "description": "Local-first usage analytics and optional sync for AI coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/kimi-builders/usage",
+      "npmUrl": "https://www.npmjs.com/package/%40kimi.builders%2Fusage",
+      "category": "build-tools",
+      "createdAt": "2026-08-14T04:15:39.223Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 62
     },
     {
       "name": "@kindred-core/sdk",
@@ -26354,6 +26438,18 @@
       "score": 76
     },
     {
+      "name": "@lzehrung/codegraph",
+      "version": "2.1.0",
+      "description": "Multi-language repository map for agents and humans: MCP tools, dependency graphs, symbol indexes, impact review, and bounded source evidence.",
+      "license": "MIT",
+      "repository": "https://github.com/lzehrung/codegraph",
+      "npmUrl": "https://www.npmjs.com/package/%40lzehrung%2Fcodegraph",
+      "category": "backend",
+      "createdAt": "2026-08-14T04:15:14.533Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 94
+    },
+    {
       "name": "@m-doc/core",
       "version": "1.1.0",
       "description": "mdoc / mDL (ISO/IEC 18013-5 & 18013-7) issuance and verification for TypeScript",
@@ -27084,6 +27180,18 @@
       "createdAt": "2026-08-08T12:01:15.599Z",
       "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 59
+    },
+    {
+      "name": "@masterdeepak15/beckon",
+      "version": "0.3.0",
+      "description": "Beckon — hands-free voice front-end for Claude Code. Say your assistant's name (chosen by you at onboarding), watch it wake up in the system tray, get work done. Install and go — Whisper/Vosk/native STT, the Vosk model, Claude Code, and the assistant skil",
+      "license": "MIT",
+      "repository": "https://github.com/masterdeepak15/Beckon-Claude-Voice-Assistant",
+      "npmUrl": "https://www.npmjs.com/package/%40masterdeepak15%2Fbeckon",
+      "category": "utilities",
+      "createdAt": "2026-08-13T08:32:18.756Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 64
     },
     {
       "name": "@masterdeepak15/teamhub-cli",
@@ -28152,6 +28260,18 @@
       "createdAt": "2026-07-27T15:26:38.167Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 66
+    },
+    {
+      "name": "@mini-dev/compose",
+      "version": "0.0.1",
+      "description": "微信小程序自定义组件复用与关系管理工具：presets 预设构造器 + relations 组件间关系，在原生 Behavior 之上提供 option / Function 级组合能力。",
+      "license": "ISC",
+      "repository": "https://github.com/xesam/minidev-compose",
+      "npmUrl": "https://www.npmjs.com/package/%40mini-dev%2Fcompose",
+      "category": "utilities",
+      "createdAt": "2026-08-14T03:58:48.960Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 74
     },
     {
       "name": "@minipim/mcp",
@@ -30756,6 +30876,18 @@
       "createdAt": "2026-08-03T23:13:07.181Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 64
+    },
+    {
+      "name": "@neuctra/ui-mcp",
+      "version": "0.2.0",
+      "description": "MCP server exposing the @neuctra/ui component registry (props, defaults, examples, theme tokens) so AI coding tools generate accurate Neuctra UI code.",
+      "license": "MIT",
+      "repository": "https://github.com/Taha-Asif-313/neuctra-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40neuctra%2Fui-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-14T05:22:01.783Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 77
     },
     {
       "name": "@neuracoreproject/neuracore",
@@ -56390,6 +56522,18 @@
       "score": 92
     },
     {
+      "name": "create-nexus-blueprint",
+      "version": "0.7.0",
+      "description": "Install a file-backed, spec-driven AI development workflow into a scaffolded app.",
+      "license": "MIT",
+      "repository": "https://github.com/Jakkrich/nexus-blueprint",
+      "npmUrl": "https://www.npmjs.com/package/create-nexus-blueprint",
+      "category": "utilities",
+      "createdAt": "2026-08-14T05:24:14.104Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 63
+    },
+    {
       "name": "create-nimbus-connector",
       "version": "0.1.0",
       "description": "A generator for [**Nimbus**](https://github.com/nimbus-agent/Nimbus) MCP connector packages. Nimbus's `packages/mcp-connectors/` holds 94+ connectors built from one rigid shape — a `server.ts`, a `nimbus.extension.json` manifest, a `tsconfig.json`, a `pac",
@@ -57914,6 +58058,18 @@
       "score": 61
     },
     {
+      "name": "distribution-chart",
+      "version": "0.1.0",
+      "description": "Interactive probability distribution chart library for React. Zero-dependency PDF/CDF math and SVG rendering for 8 distributions.",
+      "license": "MIT",
+      "repository": "https://github.com/lifu777/distribution-chart",
+      "npmUrl": "https://www.npmjs.com/package/distribution-chart",
+      "category": "frontend",
+      "createdAt": "2026-08-14T04:24:52.056Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 82
+    },
+    {
       "name": "dividend-math",
       "version": "1.0.0",
       "description": "A tiny, zero-dependency TypeScript library for dividend math: yield, growth, DRIP reinvestment, monthly income and payout ratio. Pure functions, fully tested.",
@@ -58430,6 +58586,18 @@
       "score": 52
     },
     {
+      "name": "dsh-dashboard",
+      "version": "0.1.0",
+      "description": "A Symphony-compatible issue orchestrator and dashboard for DeepSeek Harness",
+      "license": "MIT",
+      "repository": "https://github.com/Uddoo/dsh-dashboard",
+      "npmUrl": "https://www.npmjs.com/package/dsh-dashboard",
+      "category": "utilities",
+      "createdAt": "2026-08-14T04:24:24.936Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 63
+    },
+    {
       "name": "dsh-fail-logger",
       "version": "0.4.1",
       "description": "DSH 插件：全模式工具失败自动实录——把原生工具、PTC(Code Mode) run_code、代码内嵌工具调用的失败按错因去重计数，自动写入 skill 的机器维护区段，越用越少错。Auto-record tool failures from every execution mode into a skill's machine-maintained section (dedup + counts).",
@@ -58452,6 +58620,18 @@
       "createdAt": "2026-08-13T18:14:21.621Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
       "score": 70
+    },
+    {
+      "name": "dsh-opencode-go-usage",
+      "version": "1.0.1",
+      "description": "DSH (DeepSeek Harness) plugin: OpenCode GO plan quota widget in the sidebar, same-origin usage proxy, and a /opencode-go chat command",
+      "license": "MIT",
+      "repository": "https://github.com/yumusb/dsh-opencode-go-usage",
+      "npmUrl": "https://www.npmjs.com/package/dsh-opencode-go-usage",
+      "category": "utilities",
+      "createdAt": "2026-08-14T05:14:44.811Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 62
     },
     {
       "name": "dsh-plugin-product-subagents",
@@ -58478,6 +58658,18 @@
       "score": 68
     },
     {
+      "name": "dsh-spend",
+      "version": "0.1.1",
+      "description": "Token usage, multi-dimensional statistics, auto-detected billing plans (Code/Token) and estimated spend for the dsh web UI",
+      "license": "MIT",
+      "repository": "https://github.com/nonewind/dsh-spend",
+      "npmUrl": "https://www.npmjs.com/package/dsh-spend",
+      "category": "utilities",
+      "createdAt": "2026-08-14T04:31:05.275Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 71
+    },
+    {
       "name": "dsh-tiered-approval",
       "version": "0.1.0",
       "description": "Tiered auto-review for DeepSeek Harness (DSH): static-rule safety net + LLM reviewer + human fallback. Auto-approve safe actions, auto-deny irreversible ones, ask a human for the rest. PURE VIBE CODING - not audited, use at your own risk.",
@@ -58500,6 +58692,18 @@
       "createdAt": "2026-08-13T18:20:04.565Z",
       "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 57
+    },
+    {
+      "name": "dsh-tool-hashline",
+      "version": "0.1.0",
+      "description": "Hash-anchored read/edit tool plugin for DeepSeek Harness (DSH): every line carries a content hash, and stale anchors are rejected before they touch the file.",
+      "license": "MIT",
+      "repository": "https://github.com/InklingYoshi584/dsh-tool-hashline",
+      "npmUrl": "https://www.npmjs.com/package/dsh-tool-hashline",
+      "category": "utilities",
+      "createdAt": "2026-08-14T04:12:05.581Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 77
     },
     {
       "name": "dsh-tool-underseal",
@@ -60650,6 +60854,18 @@
       "score": 52
     },
     {
+      "name": "flipdocs",
+      "version": "0.1.0",
+      "description": "Fast React PDF and image flipbooks with a real Three.js page curl.",
+      "license": "MIT",
+      "repository": "https://github.com/eliart20/flipdocs",
+      "npmUrl": "https://www.npmjs.com/package/flipdocs",
+      "category": "frontend",
+      "createdAt": "2026-08-14T04:41:33.070Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 76
+    },
+    {
       "name": "flipkart-seller-mcp",
       "version": "0.1.0",
       "description": "High-performance, token-optimized Model Context Protocol (MCP) server for Flipkart Seller Hub v3 APIs.",
@@ -61392,6 +61608,18 @@
       "createdAt": "2026-08-11T11:12:22.831Z",
       "discoveredAt": "2026-08-11T11:31:08.793Z",
       "score": 59
+    },
+    {
+      "name": "gh-media-attach",
+      "version": "0.2.0",
+      "description": "Attach videos and images to GitHub issues, PRs and comments with a personal access token",
+      "license": "MIT",
+      "repository": "https://github.com/mimo-3/gh-media-attach",
+      "npmUrl": "https://www.npmjs.com/package/gh-media-attach",
+      "category": "cli",
+      "createdAt": "2026-08-14T04:39:23.551Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 67
     },
     {
       "name": "ghito",
@@ -65186,6 +65414,18 @@
       "score": 47
     },
     {
+      "name": "kimi-oauth-bridge",
+      "version": "1.4.1",
+      "description": "OpenCode plugin that brings the official Kimi OAuth device flow and Kimi-specific coding request fields to opencode, matching upstream kimi-cli.",
+      "license": "MIT",
+      "repository": "https://github.com/zapsaang/kimi-oauth-bridge",
+      "npmUrl": "https://www.npmjs.com/package/kimi-oauth-bridge",
+      "category": "cli",
+      "createdAt": "2026-08-14T04:22:26.256Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 92
+    },
+    {
       "name": "king-research-runner",
       "version": "0.1.0",
       "description": "Local research runner for King Research CRM — your computer is the backend.",
@@ -67452,6 +67692,18 @@
       "createdAt": "2026-07-27T23:41:21.695Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 54
+    },
+    {
+      "name": "mcp-git-reviewer",
+      "version": "0.1.0",
+      "description": "Context-aware, AI-powered code review at the commit level using MCP",
+      "license": "MIT",
+      "repository": "https://github.com/ethanasm/mcp-review",
+      "npmUrl": "https://www.npmjs.com/package/mcp-git-reviewer",
+      "category": "cli",
+      "createdAt": "2026-08-14T05:22:22.752Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 65
     },
     {
       "name": "mcp-google-business",
@@ -75146,6 +75398,18 @@
       "score": 88
     },
     {
+      "name": "pinescript-v6",
+      "version": "1.0.0",
+      "description": "Chunked TradingView Pine Script v6 reference for LLM agents, plus a global installer and an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/jabez4jc/pinescriptv6",
+      "npmUrl": "https://www.npmjs.com/package/pinescript-v6",
+      "category": "backend",
+      "createdAt": "2026-08-14T05:22:50.311Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 82
+    },
+    {
       "name": "pinescript-v6-validator",
       "version": "0.2.0",
       "description": "TradingView Pine Script v6 validator and reference dataset — 457 function signatures with explicit overload modelling. The engine behind the Pine Script v6 IDE Tools VS Code extension.",
@@ -75456,6 +75720,18 @@
       "createdAt": "2026-08-06T03:55:27.370Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
       "score": 88
+    },
+    {
+      "name": "plevinjs",
+      "version": "0.1.1",
+      "description": "Location, network and abuse information for any IP address in one offline file.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/tn3w/plevin",
+      "npmUrl": "https://www.npmjs.com/package/plevinjs",
+      "category": "frontend",
+      "createdAt": "2026-08-14T04:53:10.746Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 77
     },
     {
       "name": "plexure",
@@ -78276,6 +78552,18 @@
       "createdAt": "2026-08-09T20:12:27.508Z",
       "discoveredAt": "2026-08-09T20:21:40.218Z",
       "score": 75
+    },
+    {
+      "name": "relay-gateway-sdk",
+      "version": "1.0.0",
+      "description": "TypeScript client for the Relay Gateway — OpenAI-compatible chat plus Relay's own request metadata and control plane.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/chetan-01-source/relay",
+      "npmUrl": "https://www.npmjs.com/package/relay-gateway-sdk",
+      "category": "data",
+      "createdAt": "2026-08-14T04:17:45.512Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 64
     },
     {
       "name": "relaybridge",
@@ -87600,6 +87888,18 @@
       "createdAt": "2026-07-30T16:49:06.558Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 69
+    },
+    {
+      "name": "yieldpoint",
+      "version": "0.2.2",
+      "description": "Dynamic power handover engine for human-machine collaboration and multi-agent systems. Autonomy as a first-class runtime policy.",
+      "license": "MIT",
+      "repository": "https://github.com/LandslideLab/yieldpoint",
+      "npmUrl": "https://www.npmjs.com/package/yieldpoint",
+      "category": "utilities",
+      "createdAt": "2026-08-14T04:41:28.583Z",
+      "discoveredAt": "2026-08-14T05:39:25.773Z",
+      "score": 80
     },
     {
       "name": "yimo-pi-kit",
