@@ -1,19 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125144720,
-  "lastRunAt": "2026-08-15T10:57:44.139Z",
+  "lastSequence": 125145952,
+  "lastRunAt": "2026-08-15T11:18:48.032Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@yokesky/dsh-usage-lens",
+      "name": "@depths/tach",
       "attempts": 1
     },
     {
-      "name": "@kernixcord/types",
+      "name": "@mendabot/prettier-config",
       "attempts": 1
     },
     {
-      "name": "@node-3d/qml",
+      "name": "@secsuite-cli/darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@secsuite-cli/darwin-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@secsuite-cli/linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@secsuite-cli/linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@secsuite-cli/win32-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@mendabot/eslint-config",
       "attempts": 1
     }
   ]
