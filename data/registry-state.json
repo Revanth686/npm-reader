@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125115855,
-  "lastRunAt": "2026-08-15T02:59:54.498Z",
+  "lastSequence": 125120346,
+  "lastRunAt": "2026-08-15T04:21:38.044Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@jake26602/dsh-chat-aggregator",
+      "attempts": 1
+    },
+    {
+      "name": "@snailicid3/storybook-config",
+      "attempts": 1
+    },
+    {
+      "name": "@snailicid3/workspace",
+      "attempts": 1
+    }
+  ]
 }
