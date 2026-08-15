@@ -1,19 +1,43 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125123606,
-  "lastRunAt": "2026-08-15T05:12:32.624Z",
+  "lastSequence": 125128232,
+  "lastRunAt": "2026-08-15T06:22:36.982Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@rongyi7/dsh-stats",
+      "name": "@sneat/api-public",
       "attempts": 1
     },
     {
-      "name": "@neotales/env",
+      "name": "@sneat/core-public",
       "attempts": 1
     },
     {
-      "name": "@arco-themes/vue-nokex",
+      "name": "@sneat/app-public",
+      "attempts": 1
+    },
+    {
+      "name": "@sneat/api-firebase-auth",
+      "attempts": 1
+    },
+    {
+      "name": "@sneat/app-ionic",
+      "attempts": 1
+    },
+    {
+      "name": "@sneat/app-auth",
+      "attempts": 1
+    },
+    {
+      "name": "@yeesy369/open-theme",
+      "attempts": 1
+    },
+    {
+      "name": "@wenyin/los.js",
+      "attempts": 1
+    },
+    {
+      "name": "@wwwroot/ai-codex",
       "attempts": 1
     }
   ]
