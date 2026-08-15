@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125122301,
-  "lastRunAt": "2026-08-15T04:51:35.642Z",
+  "lastSequence": 125123606,
+  "lastRunAt": "2026-08-15T05:12:32.624Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@rongyi7/dsh-stats",
+      "attempts": 1
+    },
+    {
+      "name": "@neotales/env",
+      "attempts": 1
+    },
+    {
+      "name": "@arco-themes/vue-nokex",
+      "attempts": 1
+    }
+  ]
 }
