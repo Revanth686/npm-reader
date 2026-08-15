@@ -1,11 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125138629,
-  "lastRunAt": "2026-08-15T09:10:33.160Z",
+  "lastSequence": 125142451,
+  "lastRunAt": "2026-08-15T10:14:32.299Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "private-ca",
+      "name": "@botiroff/bulwark",
+      "attempts": 1
+    },
+    {
+      "name": "@zicolasjac-ai/remote-readonly-ssh",
+      "attempts": 1
+    },
+    {
+      "name": "@botiroff/adya",
+      "attempts": 1
+    },
+    {
+      "name": "@design-parity/kit-index",
+      "attempts": 1
+    },
+    {
+      "name": "@borisshaw6/dsh-cyber-pet",
+      "attempts": 1
+    },
+    {
+      "name": "@trebired/utils",
+      "attempts": 1
+    },
+    {
+      "name": "@harbymail/dm-tree",
       "attempts": 1
     }
   ]
