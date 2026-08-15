@@ -1,11 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 125151983,
-  "lastRunAt": "2026-08-15T12:57:12.648Z",
+  "lastSequence": 125155121,
+  "lastRunAt": "2026-08-15T13:37:19.775Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@rongyi7/dsh-spec",
+      "name": "@kyciad/react-native-sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@ulabe/dsh-conversation-nav",
+      "attempts": 1
+    },
+    {
+      "name": "@vaur94/opencode2-goal",
+      "attempts": 1
+    },
+    {
+      "name": "@vaur94/opencode2-skill-forge",
+      "attempts": 1
+    },
+    {
+      "name": "@winterchenhuan/dsh-llm-failover",
+      "attempts": 1
+    },
+    {
+      "name": "dsh-passwords",
       "attempts": 1
     }
   ]
