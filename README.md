@@ -7,13 +7,13 @@ Packages are selected from the public npm registry using deterministic metadata 
 ## Categories
 
 - [Testing (487)](packages/testing.md)
-- [Frontend (1693)](packages/frontend.md)
-- [Backend (1836)](packages/backend.md)
-- [Data and Databases (689)](packages/data.md)
+- [Frontend (1695)](packages/frontend.md)
+- [Backend (1842)](packages/backend.md)
+- [Data and Databases (690)](packages/data.md)
 - [Build Tools (829)](packages/build-tools.md)
-- [Command Line (783)](packages/cli.md)
-- [DevOps (352)](packages/devops.md)
-- [Utilities (1447)](packages/utilities.md)
+- [Command Line (786)](packages/cli.md)
+- [DevOps (354)](packages/devops.md)
+- [Utilities (1458)](packages/utilities.md)
 
 ## Automation
 
