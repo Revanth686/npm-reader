@@ -1,31 +1,91 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126121349,
-  "lastRunAt": "2026-08-21T01:48:13.406Z",
+  "lastSequence": 126219908,
+  "lastRunAt": "2026-08-21T13:02:22.518Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@oss-core-eng/template",
-      "attempts": 3
+      "attempts": 4
     },
     {
       "name": "@js-lib-team/object-utils",
+      "attempts": 2
+    },
+    {
+      "name": "@openhint/hintbook-product-manager",
       "attempts": 1
     },
     {
-      "name": "@octogen-ai/cli",
+      "name": "@openhint/hintbook-qa-engineer",
       "attempts": 1
     },
     {
-      "name": "@bluemeat0724/dsh-md-viewer",
+      "name": "@openhint/hintbook-technical-writer",
       "attempts": 1
     },
     {
-      "name": "@nobeta/tobe",
+      "name": "@openhint/hintbook-compliance-officer",
       "attempts": 1
     },
     {
-      "name": "@marui_2026/workflow-canvas",
+      "name": "@mozhno/client-js",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-auditor",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-data-analyst",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-financial-analyst",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-procurement-specialist",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-proposal-manager",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-support-agent",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-marketing-manager",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-policy-analyst",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-clinical-operations",
+      "attempts": 1
+    },
+    {
+      "name": "@openhint/hintbook-instructional-designer",
+      "attempts": 1
+    },
+    {
+      "name": "@tanstack/ai-vertex",
+      "attempts": 1
+    },
+    {
+      "name": "@tanstack/ai-llmgateway",
+      "attempts": 1
+    },
+    {
+      "name": "@tanstack/ai-octane",
+      "attempts": 1
+    },
+    {
+      "name": "@clidey/whodb",
       "attempts": 1
     }
   ]
