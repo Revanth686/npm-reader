@@ -1,19 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126008462,
-  "lastRunAt": "2026-08-20T13:03:17.154Z",
+  "lastSequence": 126121349,
+  "lastRunAt": "2026-08-21T01:48:13.406Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@oss-core-eng/template",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@involvex/pkgfinder",
+      "name": "@js-lib-team/object-utils",
       "attempts": 1
     },
     {
-      "name": "@feather_wch/dsh-im",
+      "name": "@octogen-ai/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@bluemeat0724/dsh-md-viewer",
+      "attempts": 1
+    },
+    {
+      "name": "@nobeta/tobe",
+      "attempts": 1
+    },
+    {
+      "name": "@marui_2026/workflow-canvas",
       "attempts": 1
     }
   ]
