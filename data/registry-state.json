@@ -1,27 +1,75 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126320179,
-  "lastRunAt": "2026-08-22T01:41:29.293Z",
+  "lastSequence": 126368276,
+  "lastRunAt": "2026-08-22T12:53:29.262Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@oss-core-eng/template",
-      "attempts": 5
+      "attempts": 6
     },
     {
       "name": "@js-lib-team/object-utils",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@mir-stream/webchannel-client",
+      "name": "@ever-teams/api",
       "attempts": 1
     },
     {
-      "name": "@mir-stream/webchannel-saas",
+      "name": "@ever-teams/extensions",
       "attempts": 1
     },
     {
-      "name": "@cubiczan/chp",
+      "name": "@ever-teams/tracking",
+      "attempts": 1
+    },
+    {
+      "name": "@ever-teams/toolkit-ui",
+      "attempts": 1
+    },
+    {
+      "name": "@ever-teams/atoms",
+      "attempts": 1
+    },
+    {
+      "name": "@ever-teams/toolkit-types",
+      "attempts": 1
+    },
+    {
+      "name": "@barter.game/protocol",
+      "attempts": 1
+    },
+    {
+      "name": "@barter.game/bank-core",
+      "attempts": 1
+    },
+    {
+      "name": "@huelab/classnames",
+      "attempts": 1
+    },
+    {
+      "name": "@mambalabsdev/mcp-tiktok-brand-presence-mapper",
+      "attempts": 1
+    },
+    {
+      "name": "@mambalabsdev/mcp-meta-brand-presence-mapper",
+      "attempts": 1
+    },
+    {
+      "name": "@mambalabsdev/mcp-linkedin-company-presence-mapper",
+      "attempts": 1
+    },
+    {
+      "name": "@mambalabsdev/mcp-youtube-channel-transcript-extractor",
+      "attempts": 1
+    },
+    {
+      "name": "@mambalabsdev/mcp-pinterest-brand-presence-mapper",
+      "attempts": 1
+    },
+    {
+      "name": "@node-3d/deps-bullet",
       "attempts": 1
     }
   ]
