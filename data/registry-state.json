@@ -1,75 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126368276,
-  "lastRunAt": "2026-08-22T12:53:29.262Z",
+  "lastSequence": 126370527,
+  "lastRunAt": "2026-08-22T13:33:36.708Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@oss-core-eng/template",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@js-lib-team/object-utils",
-      "attempts": 4
-    },
-    {
-      "name": "@ever-teams/api",
-      "attempts": 1
-    },
-    {
-      "name": "@ever-teams/extensions",
-      "attempts": 1
-    },
-    {
-      "name": "@ever-teams/tracking",
-      "attempts": 1
-    },
-    {
-      "name": "@ever-teams/toolkit-ui",
-      "attempts": 1
-    },
-    {
-      "name": "@ever-teams/atoms",
-      "attempts": 1
-    },
-    {
-      "name": "@ever-teams/toolkit-types",
-      "attempts": 1
-    },
-    {
-      "name": "@barter.game/protocol",
-      "attempts": 1
-    },
-    {
-      "name": "@barter.game/bank-core",
-      "attempts": 1
+      "attempts": 5
     },
     {
       "name": "@huelab/classnames",
+      "attempts": 2
+    },
+    {
+      "name": "@ixccloud/payments",
       "attempts": 1
     },
     {
-      "name": "@mambalabsdev/mcp-tiktok-brand-presence-mapper",
+      "name": "@aotter/mantle-web",
       "attempts": 1
     },
     {
-      "name": "@mambalabsdev/mcp-meta-brand-presence-mapper",
+      "name": "@aotter/mantle-admin",
       "attempts": 1
     },
     {
-      "name": "@mambalabsdev/mcp-linkedin-company-presence-mapper",
+      "name": "@aotter/mantle-bun",
       "attempts": 1
     },
     {
-      "name": "@mambalabsdev/mcp-youtube-channel-transcript-extractor",
-      "attempts": 1
-    },
-    {
-      "name": "@mambalabsdev/mcp-pinterest-brand-presence-mapper",
-      "attempts": 1
-    },
-    {
-      "name": "@node-3d/deps-bullet",
+      "name": "@aotter/mantle-vercel",
       "attempts": 1
     }
   ]
