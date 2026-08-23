@@ -1,39 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126370527,
-  "lastRunAt": "2026-08-22T13:33:36.708Z",
+  "lastSequence": 126423638,
+  "lastRunAt": "2026-08-23T01:51:45.125Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@oss-core-eng/template",
-      "attempts": 7
-    },
-    {
       "name": "@js-lib-team/object-utils",
-      "attempts": 5
+      "attempts": 6
     },
     {
       "name": "@huelab/classnames",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@ixccloud/payments",
-      "attempts": 1
-    },
-    {
-      "name": "@aotter/mantle-web",
-      "attempts": 1
-    },
-    {
-      "name": "@aotter/mantle-admin",
-      "attempts": 1
-    },
-    {
-      "name": "@aotter/mantle-bun",
-      "attempts": 1
-    },
-    {
-      "name": "@aotter/mantle-vercel",
+      "name": "@kourio/sdk",
       "attempts": 1
     }
   ]
