@@ -8834,6 +8834,18 @@
       "score": 63
     },
     {
+      "name": "@ccgenerator/test-cards",
+      "version": "1.0.0",
+      "description": "Synthetic, Luhn-valid payment card numbers for testing card input. Zero dependencies, no network calls, works in Node and the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/ccgeneratororg/ccgenerator-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40ccgenerator%2Ftest-cards",
+      "category": "testing",
+      "createdAt": "2026-08-23T12:31:00.721Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 93
+    },
+    {
       "name": "@ccgrapher/adapter-claude-code",
       "version": "0.4.0",
       "description": "Turns Claude Code hook invocations into a ccgrapher trace, so a real agent session becomes a readable run.",
@@ -15924,6 +15936,18 @@
       "createdAt": "2026-08-04T15:46:36.808Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 92
+    },
+    {
+      "name": "@evgkch/machjs",
+      "version": "0.3.0",
+      "description": "A small, typed Mealy state machine: one table of rules, a context that belongs to the state rather than the machine, and a graph that is a projection of the same object — serialize it, draw it, analyse it",
+      "license": "MIT",
+      "repository": "https://github.com/evgkch/machjs",
+      "npmUrl": "https://www.npmjs.com/package/%40evgkch%2Fmachjs",
+      "category": "build-tools",
+      "createdAt": "2026-08-23T07:54:24.515Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 86
     },
     {
       "name": "@evident-ai/lambda-microvm-cdk",
@@ -25574,6 +25598,18 @@
       "score": 90
     },
     {
+      "name": "@incorta/sdk",
+      "version": "1.8.0",
+      "description": "Read Incorta schemas, tables, views, and columns on behalf of the signed-in user — OAuth 2.0 sessions from @incorta/auth, no personal access tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/Incorta/IncortaSDK",
+      "npmUrl": "https://www.npmjs.com/package/%40incorta%2Fsdk",
+      "category": "data",
+      "createdAt": "2026-08-23T10:25:02.900Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 86
+    },
+    {
       "name": "@indigoai-us/hq-pack-presenter-mode",
       "version": "1.0.0",
       "description": "HQ content pack: turn any self-contained HTML deck into an hq-deploy–hosted presentation with two cloud-synced links — a presentation link and a notes/teleprompter link that stay in sync across devices.",
@@ -26990,6 +27026,18 @@
       "score": 90
     },
     {
+      "name": "@jarenjs/contract",
+      "version": "0.43.1",
+      "description": "Operation contracts for the Jaren suite: the jaren-contract document declares JSON-in/JSON-out operations with kind, policy and an HTTP binding, compiled once into per-operation validators, transport normalizers and a static-beats-variable path matcher, s",
+      "license": "MIT",
+      "repository": "https://github.com/jklarenbeek/jarenjs",
+      "npmUrl": "https://www.npmjs.com/package/%40jarenjs%2Fcontract",
+      "category": "backend",
+      "createdAt": "2026-08-23T10:41:24.880Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 90
+    },
+    {
       "name": "@jarenjs/db",
       "version": "0.34.0",
       "description": "Document storage for the Jaren suite: a model document declares collections as JSON Schemas with indexes; openStore applies DDL through a dialect and gives transactional, schema-validated reads and writes over SQLite on Node, Bun, or an injected wasm hand",
@@ -27648,6 +27696,18 @@
       "createdAt": "2026-08-12T12:54:18.155Z",
       "discoveredAt": "2026-08-12T14:08:37.632Z",
       "score": 66
+    },
+    {
+      "name": "@jqntn/agentdoctor",
+      "version": "0.1.1",
+      "description": "Lint and grade your AI coding-agent configuration: permissions, hooks, MCP servers, skills, subagents and CLAUDE.md. Catches silent failures, security holes and context waste, with fixes. Zero dependencies, no telemetry.",
+      "license": "MIT",
+      "repository": "https://github.com/jqntn/agentdoctor",
+      "npmUrl": "https://www.npmjs.com/package/%40jqntn%2Fagentdoctor",
+      "category": "backend",
+      "createdAt": "2026-08-23T10:39:42.975Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 89
     },
     {
       "name": "@jrimmer/pi-meat",
@@ -28560,6 +28620,18 @@
       "createdAt": "2026-07-29T12:10:37.824Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 77
+    },
+    {
+      "name": "@knorby/nih-dsld-client",
+      "version": "0.1.0",
+      "description": "A fully-typed, zero-dependency TypeScript client for the NIH Dietary Supplement Label Database (DSLD) v9 REST API. Universal: Node, React Native, browsers, Bun, and Deno.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/knorby/nih-dsld-client",
+      "npmUrl": "https://www.npmjs.com/package/%40knorby%2Fnih-dsld-client",
+      "category": "frontend",
+      "createdAt": "2026-08-23T03:20:35.177Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 87
     },
     {
       "name": "@knurdz/lava-form-builder",
@@ -31692,6 +31764,18 @@
       "createdAt": "2026-08-09T06:28:17.098Z",
       "discoveredAt": "2026-08-09T06:40:38.860Z",
       "score": 85
+    },
+    {
+      "name": "@masanao-ohba/ws-skills",
+      "version": "0.1.0",
+      "description": "Installs three agent skills — /ws-google, /ws-slack, /ws-backlog — for fetching and updating Google Workspace, Slack, and Backlog material, and walks you through the credentials they need. Works with GitHub Copilot, Claude Code, and any agent that reads t",
+      "license": "MIT",
+      "repository": "https://github.com/masanao-ohba/ws-skills",
+      "npmUrl": "https://www.npmjs.com/package/%40masanao-ohba%2Fws-skills",
+      "category": "utilities",
+      "createdAt": "2026-08-23T12:40:29.385Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 90
     },
     {
       "name": "@massa-ai/codex-plugin",
@@ -34994,6 +35078,18 @@
       "score": 76
     },
     {
+      "name": "@mulmocast/beat-editor",
+      "version": "1.0.0",
+      "description": "Vue 3 components for editing MulmoScript beats live in the browser — every beat type renders as a div, and every editor is swappable",
+      "license": "MIT",
+      "repository": "https://github.com/receptron/mulmocast-beat-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40mulmocast%2Fbeat-editor",
+      "category": "frontend",
+      "createdAt": "2026-08-23T11:19:10.918Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 88
+    },
+    {
       "name": "@muretai/agent-entry",
       "version": "1.0.0",
       "description": "Your website can recognise AI agents, hold accounts for them, and answer them — one dependency-free file.",
@@ -35040,6 +35136,18 @@
       "createdAt": "2026-07-26T01:25:41.211Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 73
+    },
+    {
+      "name": "@musteqeem/baileys",
+      "version": "1.0.1",
+      "description": "֎ XADON BAILEYS v7.1.0 PREMIUM - Next-generation WhatsApp Web API library. Engineered with enterprise-grade stability, critical newsletter media upload fixes, full interactive message protocol, native album support, and 40+ extended message types. Built f",
+      "license": "MIT",
+      "repository": "https://github.com/musteqeem/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40musteqeem%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-08-21T05:13:40.939Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 91
     },
     {
       "name": "@mux/ts",
@@ -51110,6 +51218,18 @@
       "score": 92
     },
     {
+      "name": "@tobyner/bull-streams",
+      "version": "1.0.0",
+      "description": "A Redis Streams event bus: publish/subscribe over consumer groups, with per-group cursors, automatic reclaim of abandoned messages, a per-group dead-letter stream, delayed delivery, native OpenTelemetry tracing, a NestJS integration and an operations dash",
+      "license": "MIT",
+      "repository": "https://github.com/SaheedLawanson/bull-streams",
+      "npmUrl": "https://www.npmjs.com/package/%40tobyner%2Fbull-streams",
+      "category": "backend",
+      "createdAt": "2026-08-23T11:53:44.972Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 100
+    },
+    {
       "name": "@toggleboxcloud/togglebox-mcp",
       "version": "1.0.0",
       "description": "MCP server for managing your Togglebox account and cloud infrastructure",
@@ -54482,6 +54602,18 @@
       "score": 83
     },
     {
+      "name": "@wei840222/qmd",
+      "version": "2026.8.24",
+      "description": "Query Markup Documents - On-device hybrid search for markdown files with BM25, vector search, and LLM reranking",
+      "license": "MIT",
+      "repository": "https://github.com/wei840222/qmd",
+      "npmUrl": "https://www.npmjs.com/package/%40wei840222%2Fqmd",
+      "category": "data",
+      "createdAt": "2026-08-23T03:22:05.670Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 91
+    },
+    {
       "name": "@welington98/opencode-litellm",
       "version": "1.0.3",
       "description": "OpenCode plugin/provider for LiteLLM Proxy — configure endpoint + API key inside OpenCode and auto-discover authorized models.",
@@ -56318,6 +56450,18 @@
       "score": 97
     },
     {
+      "name": "@zakkster/lite-viewport",
+      "version": "1.1.0",
+      "description": "Zero-dependency canvas scaling and resize manager: DPR-aware sizing, ResizeObserver, a DPR-change watch, an optional DPR cap, and a cumulative-scaling fix.",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-viewport",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-viewport",
+      "category": "backend",
+      "createdAt": "2026-08-23T05:41:36.108Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 95
+    },
+    {
       "name": "@zakkster/lite-worker-pool",
       "version": "1.0.0",
       "description": "Zero-GC data-parallel worker pool over @zakkster/lite-worker. Bind one worker body, map an array across every core with an index-ordered result, nothing allocating in the per-item dispatch loop. Zero dependencies, single file.",
@@ -56988,6 +57132,18 @@
       "createdAt": "2026-08-13T03:14:49.979Z",
       "discoveredAt": "2026-08-13T05:45:12.412Z",
       "score": 68
+    },
+    {
+      "name": "@zzjtnb/stylelint-config",
+      "version": "1.0.2",
+      "description": "Shareable Stylelint 17 config for CSS, SCSS, Vue SFC, UnoCSS, Tailwind-style workflows and uni-app.",
+      "license": "MIT",
+      "repository": "https://github.com/zzjtnb/zzjtnb-lint-config",
+      "npmUrl": "https://www.npmjs.com/package/%40zzjtnb%2Fstylelint-config",
+      "category": "frontend",
+      "createdAt": "2026-08-23T01:31:00.905Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 89
     },
     {
       "name": "@zzusp/agent-channel-host",
@@ -61392,6 +61548,18 @@
       "createdAt": "2026-08-09T15:55:21.528Z",
       "discoveredAt": "2026-08-09T16:24:10.750Z",
       "score": 65
+    },
+    {
+      "name": "blunx-ai",
+      "version": "1.0.1",
+      "description": "Blunx AI — Business Intelligence AI agent backend.REST /api/blunx/*, local read-only SQL execution, SSE proxy to the Blunx Hub, scheduled insight jobs, PDF + email reports. Framework-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/5amir/blunxai-nodejs",
+      "npmUrl": "https://www.npmjs.com/package/blunx-ai",
+      "category": "backend",
+      "createdAt": "2026-08-23T11:17:34.095Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 95
     },
     {
       "name": "bmad-method-node-624",
@@ -66972,6 +67140,18 @@
       "createdAt": "2026-08-06T15:56:55.907Z",
       "discoveredAt": "2026-08-09T22:21:15.682Z",
       "score": 79
+    },
+    {
+      "name": "dev-prune",
+      "version": "1.6.0",
+      "description": "Universal, lockfile-safe workspace pruner. Reclaims disk space from idle Git repositories by deleting only dependency and build directories a lockfile can rebuild.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Life-Experimentalist/dev-prune",
+      "npmUrl": "https://www.npmjs.com/package/dev-prune",
+      "category": "build-tools",
+      "createdAt": "2026-08-23T11:52:47.600Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 94
     },
     {
       "name": "devecocli-mcp",
@@ -75290,6 +75470,18 @@
       "score": 63
     },
     {
+      "name": "hridoy-ultimate",
+      "version": "1.0.0",
+      "description": "Unofficial Facebook Chat API for Node.js with Auto-Update System - Enhanced by HRIDOY",
+      "license": "MIT",
+      "repository": "https://github.com/hridoyhossen48360/HRIDOY-FCA",
+      "npmUrl": "https://www.npmjs.com/package/hridoy-ultimate",
+      "category": "backend",
+      "createdAt": "2026-08-23T06:18:04.281Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 88
+    },
+    {
       "name": "hrive-sdk",
       "version": "1.0.0",
       "description": "Dependency-free TypeScript SDK for the Hrive public API",
@@ -80222,6 +80414,18 @@
       "score": 96
     },
     {
+      "name": "mcp-compression-proxy",
+      "version": "1.0.0",
+      "description": "MCP server that aggregates tools from multiple MCP servers with LLM-based description compression. Reduces context consumption by 50-80% while maintaining full tool functionality.",
+      "license": "MIT",
+      "repository": "https://github.com/kdpa-llc/mcp-compression-proxy",
+      "npmUrl": "https://www.npmjs.com/package/mcp-compression-proxy",
+      "category": "backend",
+      "createdAt": "2026-08-23T05:04:29.039Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 97
+    },
+    {
       "name": "mcp-crosscheck",
       "version": "0.0.1",
       "description": "Client-compatibility harness for MCP servers — run real MCP clients (MCP Inspector, mcpo, Codex CLI) against your built server and verify the tool surface they actually render. Deterministic: no LLM calls, no API keys.",
@@ -83954,6 +84158,18 @@
       "score": 64
     },
     {
+      "name": "nexus-gateway",
+      "version": "1.0.0",
+      "description": "Zero-dependency reverse proxy / API gateway for Node.js — load balancing, health checks, rate limiting, TLS, auth, WAL, and a live dashboard. Usable as a CLI or embedded via a programmatic API.",
+      "license": "ISC",
+      "repository": "https://github.com/kanchan-nath/nexus-gateway",
+      "npmUrl": "https://www.npmjs.com/package/nexus-gateway",
+      "category": "backend",
+      "createdAt": "2026-08-23T11:25:57.370Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 99
+    },
+    {
       "name": "nexus-launch",
       "version": "0.1.1",
       "description": "Agent-friendly EVM token launch planning, simulation, execution, and verification, with an MCP server",
@@ -87314,6 +87530,18 @@
       "score": 72
     },
     {
+      "name": "payload-admin-theme",
+      "version": "1.0.0",
+      "description": "Tema admin Payload bergaya shadcn yang seluruh konfigurasinya diatur dari panel admin",
+      "license": "MIT",
+      "repository": "https://github.com/rhyoharianja/payload-admin-theme",
+      "npmUrl": "https://www.npmjs.com/package/payload-admin-theme",
+      "category": "frontend",
+      "createdAt": "2026-08-23T09:38:49.592Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 88
+    },
+    {
       "name": "payload-ai-conductor",
       "version": "1.0.0",
       "description": "Compose and edit Payload CMS pages through a chat agent grounded in your block library — with an in-panel BYOK chat and a standalone MCP server, both backed by the same propose-then-approve tool layer.",
@@ -87348,6 +87576,18 @@
       "createdAt": "2026-08-12T20:14:45.837Z",
       "discoveredAt": "2026-08-12T20:34:55.685Z",
       "score": 77
+    },
+    {
+      "name": "payload-hrbac",
+      "version": "1.0.0",
+      "description": "Dynamic nested RBAC for Payload CMS — roles, inheritance, and field-level permissions configured from the admin panel",
+      "license": "MIT",
+      "repository": "https://github.com/rhyoharianja/payload-hrbac",
+      "npmUrl": "https://www.npmjs.com/package/payload-hrbac",
+      "category": "utilities",
+      "createdAt": "2026-08-23T09:13:37.003Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 85
     },
     {
       "name": "payload-invoices",
@@ -89834,6 +90074,18 @@
       "score": 66
     },
     {
+      "name": "pocket-memory",
+      "version": "1.0.0",
+      "description": "Turn one real photo into a cinematic four-frame memory sequence through source-faithful reframing, visual paths, and a quiet handwritten subtitle—giving a captured instant room to become felt time.",
+      "license": "MIT",
+      "repository": "https://github.com/the-thinker0/pocket-memory",
+      "npmUrl": "https://www.npmjs.com/package/pocket-memory",
+      "category": "devops",
+      "createdAt": "2026-08-23T04:47:07.588Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 92
+    },
+    {
       "name": "pointy-feedback-cli",
       "version": "1.0.1",
       "description": "One-command installation tool for Pointy Visual Feedback Widget",
@@ -91848,6 +92100,18 @@
       "createdAt": "2026-08-05T20:44:06.773Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 74
+    },
+    {
+      "name": "react-native-image-analysis",
+      "version": "0.4.0",
+      "description": "On-device image analysis for React Native: OCR text + geometry on both platforms, barcodes, image classification, background removal, and an interactive text-selection image view — Apple Vision/VisionKit on iOS, Google ML Kit on Android. New Architecture",
+      "license": "MIT",
+      "repository": "https://github.com/giaBaoJS/react-native-image-analysis",
+      "npmUrl": "https://www.npmjs.com/package/react-native-image-analysis",
+      "category": "frontend",
+      "createdAt": "2026-08-23T05:40:13.096Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 90
     },
     {
       "name": "react-native-image-crop-data",
@@ -95066,6 +95330,18 @@
       "score": 57
     },
     {
+      "name": "shan-fca",
+      "version": "1.0.0",
+      "description": "This is a facebook chat api unofficial for Facebook bot and ShAn.s-Bot",
+      "license": "MIT",
+      "repository": "https://github.com/Sh4nDev/shan-fca",
+      "npmUrl": "https://www.npmjs.com/package/shan-fca",
+      "category": "backend",
+      "createdAt": "2026-08-23T10:29:40.515Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 87
+    },
+    {
       "name": "shan-ffapi",
       "version": "1.0.0",
       "description": "Unofficial Free Fire player data SDK — search players, fetch profiles, stats, items, and send likes. Auto-managed guest authentication with built-in credential pool.",
@@ -96650,6 +96926,18 @@
       "score": 82
     },
     {
+      "name": "spelling-buddy",
+      "version": "1.1.0",
+      "description": "A procedural 2.5D character rig for Canvas2D and SVG. Zero runtime dependencies, zero image assets — the character is math.",
+      "license": "MIT",
+      "repository": "https://github.com/yuvalsuede/spelling-buddy",
+      "npmUrl": "https://www.npmjs.com/package/spelling-buddy",
+      "category": "devops",
+      "createdAt": "2026-08-23T11:01:05.151Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 92
+    },
+    {
       "name": "sphere-visual-lab",
       "version": "0.1.0",
       "description": "Reusable animated WebGL visuals for React, Three.js, and React Three Fiber.",
@@ -96684,6 +96972,18 @@
       "createdAt": "2026-08-04T02:40:55.691Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 67
+    },
+    {
+      "name": "spine-rigc",
+      "version": "0.2.1",
+      "description": "Rig compiler for Spine — declarative rig specs in, Spine 4.3 skeleton data out, verified by a spine-core round-trip. Built so AI agents can author rigs and check their own work; the output imports into the Spine editor.",
+      "license": "MIT",
+      "repository": "https://github.com/firejune/rigc",
+      "npmUrl": "https://www.npmjs.com/package/spine-rigc",
+      "category": "data",
+      "createdAt": "2026-08-23T06:01:51.812Z",
+      "discoveredAt": "2026-08-23T12:54:32.970Z",
+      "score": 90
     },
     {
       "name": "spl-pay-per-suite",
