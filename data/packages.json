@@ -2102,6 +2102,30 @@
       "score": 69
     },
     {
+      "name": "@aidex/gateway",
+      "version": "1.2.0",
+      "description": "Aidex Gateway — cross-provider selection/routing, retry/fallback execution, and optional @aidex/guardrails wiring, built on @aidex/catalog's ModelCatalog and @aidex/providers' ProviderError hierarchy. No connection resolution — callers supply how a candid",
+      "license": "MIT",
+      "repository": "https://github.com/getaidex/aidex",
+      "npmUrl": "https://www.npmjs.com/package/%40aidex%2Fgateway",
+      "category": "utilities",
+      "createdAt": "2026-08-22T16:52:15.687Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 84
+    },
+    {
+      "name": "@aidex/guardrails",
+      "version": "1.2.0",
+      "description": "Aidex Guardrails — composable, provider-agnostic input/output validators for Aidex Gateway 1.1, including a JSON Schema validation guardrail built on @aidex/providers' canonical validator. No execution, no routing, no credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/getaidex/aidex",
+      "npmUrl": "https://www.npmjs.com/package/%40aidex%2Fguardrails",
+      "category": "utilities",
+      "createdAt": "2026-08-22T16:52:02.981Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 69
+    },
+    {
       "name": "@aidinabedi/json-schema-to-typescript",
       "version": "15.0.4",
       "description": "compile json schema to typescript typings",
@@ -28070,6 +28094,18 @@
       "score": 68
     },
     {
+      "name": "@kaidn/angular",
+      "version": "1.0.0",
+      "description": "Angular bindings for Kaidn device intelligence. A DI service over @kaidn/fp, built from runtime API only so no Angular compiler is involved.",
+      "license": "MIT",
+      "repository": "https://github.com/Kaidn-io/kaidn-js",
+      "npmUrl": "https://www.npmjs.com/package/%40kaidn%2Fangular",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:21:12.838Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 69
+    },
+    {
       "name": "@kaidn/mcp",
       "version": "0.2.2",
       "description": "Investigate fraud from Claude, Cursor or any MCP client. Explain any verdict with the evidence behind it, pivot from one signup to every account sharing its device, IP or inbox, check an entity against a cross-operator abuse network, and work the review q",
@@ -28080,6 +28116,18 @@
       "createdAt": "2026-08-01T16:48:33.102Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 90
+    },
+    {
+      "name": "@kaidn/svelte",
+      "version": "1.0.0",
+      "description": "Svelte bindings for Kaidn device intelligence. Context and stores over @kaidn/fp, SSR-safe for SvelteKit.",
+      "license": "MIT",
+      "repository": "https://github.com/Kaidn-io/kaidn-js",
+      "npmUrl": "https://www.npmjs.com/package/%40kaidn%2Fsvelte",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:21:08.466Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 66
     },
     {
       "name": "@kaistrum/geonode-node-sdk",
@@ -28452,6 +28500,18 @@
       "createdAt": "2026-08-05T19:35:54.198Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 70
+    },
+    {
+      "name": "@kinetnode/versioner",
+      "version": "0.1.9",
+      "description": "CLI para automatizar versionamento e fluxo de Git usando um modelo de versionamento baseado em marcos do projeto (major.minor.build).",
+      "license": "MIT",
+      "repository": "https://github.com/Carlos-iso/versioner",
+      "npmUrl": "https://www.npmjs.com/package/%40kinetnode%2Fversioner",
+      "category": "build-tools",
+      "createdAt": "2026-08-21T12:06:48.894Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 81
     },
     {
       "name": "@kingpepe2/sdk",
@@ -29112,6 +29172,78 @@
       "createdAt": "2026-08-11T03:38:03.358Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 66
+    },
+    {
+      "name": "@lacspace/hooks",
+      "version": "1.0.0",
+      "description": "Essential, SSR-safe React hooks — useLocalStorage, useDebounce, useMediaQuery, useOnClickOutside, useCopyToClipboard and 20+ more. Zero-dependency, fully typed, isomorphic.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fhooks",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:16:45.409Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 76
+    },
+    {
+      "name": "@lacspace/hotkeys",
+      "version": "1.0.0",
+      "description": "Ergonomic keyboard shortcuts for React — combos (mod+k), key sequences (g then d), scopes, and pretty display formatting (⌘K). SSR-safe, respects form fields, zero-dependency, fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fhotkeys",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:17:06.774Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 83
+    },
+    {
+      "name": "@lacspace/query",
+      "version": "1.0.0",
+      "description": "Tiny data fetching for React with a shared cache, request de-duplication, stale-while-revalidate, focus/reconnect revalidation, and mutations. useQuery + useMutation in ~2KB. Zero-dependency, SSR-safe, fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fquery",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:16:56.357Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 81
+    },
+    {
+      "name": "@lacspace/store",
+      "version": "1.0.0",
+      "description": "Minimal global state for React in ~1KB — create a store, use selectors, no provider. Built on useSyncExternalStore with a persist middleware and shallow equality. Zero-dependency, SSR-safe, fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fstore",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:16:51.064Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 81
+    },
+    {
+      "name": "@lacspace/theme",
+      "version": "1.0.0",
+      "description": "SSR-safe dark / light / system theme for React — a tiny ThemeProvider, a useTheme hook, and a no-flash inline script. Persists to storage, follows the OS, toggles a class or data-attribute. Zero-dependency, framework-agnostic, fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Ftheme",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:17:01.541Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 83
+    },
+    {
+      "name": "@lacspace/virtual",
+      "version": "1.0.0",
+      "description": "Headless list virtualization for React — render only the rows in view, with fixed or dynamically-measured sizes, overscan, and scroll-to-index. useVirtualizer in ~2KB. Zero-dependency, SSR-safe, fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fvirtual",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:17:12.267Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 91
     },
     {
       "name": "@lagrowthmachine/n8n-nodes-lagrowthmachine",
@@ -37718,6 +37850,18 @@
       "score": 100
     },
     {
+      "name": "@okyrychenko-dev/type-utils",
+      "version": "0.1.1",
+      "description": "Type-safe guards, assertions, and utility types for narrowing unknown values in TypeScript",
+      "license": "MIT",
+      "repository": "https://github.com/okyrychenko-dev/type-utils",
+      "npmUrl": "https://www.npmjs.com/package/%40okyrychenko-dev%2Ftype-utils",
+      "category": "build-tools",
+      "createdAt": "2026-08-23T12:45:57.106Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 63
+    },
+    {
       "name": "@old-school-chronicle/vellum",
       "version": "0.2.0",
       "description": "OSC \"Vellum\" brand design tokens — framework-agnostic CSS custom properties shared by the Foundry module and the web app",
@@ -39132,6 +39276,18 @@
       "createdAt": "2026-08-10T20:48:19.956Z",
       "discoveredAt": "2026-08-10T21:22:02.347Z",
       "score": 58
+    },
+    {
+      "name": "@pang3fan-creator/analytics-kit",
+      "version": "0.4.0",
+      "description": "Typed clients for querying Google Search Console, Google Analytics 4, Microsoft Clarity, Bing Webmaster Tools, and keyword difficulty data. Runtime-agnostic (Node.js / Cloudflare Workers / edge).",
+      "license": "MIT",
+      "repository": "https://github.com/pang3fan-creator/analytics-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40pang3fan-creator%2Fanalytics-kit",
+      "category": "data",
+      "createdAt": "2026-08-22T09:04:43.199Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 84
     },
     {
       "name": "@panmdaa/colors",
@@ -55382,6 +55538,18 @@
       "score": 93
     },
     {
+      "name": "@xaedian/paperclip-adapter-openrouter",
+      "version": "2.0.0",
+      "description": "OpenRouter adapter for Paperclip - 300+ AI models (free & paid) via a single API key. External adapter plugin, no Paperclip source patches required.",
+      "license": "MIT",
+      "repository": "https://github.com/xaedian/paperclip-adapter-openrouter",
+      "npmUrl": "https://www.npmjs.com/package/%40xaedian%2Fpaperclip-adapter-openrouter",
+      "category": "backend",
+      "createdAt": "2026-08-23T12:58:58.521Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 69
+    },
+    {
       "name": "@xalosoftware/sekiwa-sdk",
       "version": "0.4.0",
       "description": "Framework-neutral Sekiwa Cloud licensing SDK for browsers, servers and hybrid apps",
@@ -59279,6 +59447,18 @@
       "category": "cli",
       "createdAt": "2026-08-13T18:46:19.136Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
+      "score": 74
+    },
+    {
+      "name": "alrm-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for AL ID Range Manager — registers AL objects in Business Central and returns their assigned IDs",
+      "license": "MIT",
+      "repository": "https://github.com/hiimnit/alrm-mcp",
+      "npmUrl": "https://www.npmjs.com/package/alrm-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-22T10:46:54.327Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
       "score": 74
     },
     {
@@ -64898,6 +65078,18 @@
       "score": 62
     },
     {
+      "name": "compress-to-size",
+      "version": "1.0.0",
+      "description": "Compress an image to an exact file-size budget in the browser. Searches resolution as well as quality, so small targets are actually reached. Zero dependencies, works in a Web Worker.",
+      "license": "MIT",
+      "repository": "https://github.com/cateyelow/compress-to-size",
+      "npmUrl": "https://www.npmjs.com/package/compress-to-size",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:18:59.599Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 91
+    },
+    {
       "name": "computeledger-cli",
       "version": "0.1.0",
       "description": "Provider-agnostic CLI and MCP server that signs, hash-chains, and verifies compute usage receipts (GPU-hours, workload type, hardware) so any third party can audit them without trusting the issuer.",
@@ -65172,6 +65364,18 @@
       "createdAt": "2026-07-31T03:32:46.706Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 78
+    },
+    {
+      "name": "copc-tileset-provider",
+      "version": "0.1.0",
+      "description": "Stream static COPC point clouds into CesiumJS with no pre-tiling step.",
+      "license": "MIT",
+      "repository": "https://github.com/kunyoungparkk/COPCTilesetProvider",
+      "npmUrl": "https://www.npmjs.com/package/copc-tileset-provider",
+      "category": "devops",
+      "createdAt": "2026-08-23T13:24:07.748Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 77
     },
     {
       "name": "copilot-byok-switcher",
@@ -73430,6 +73634,18 @@
       "score": 99
     },
     {
+      "name": "getaidex",
+      "version": "1.2.0",
+      "description": "Aidex project initializer — `npx getaidex init` detects your framework, recommends the matching Aidex Admin integration package, previews the package.json change, and updates it only after explicit confirmation.",
+      "license": "MIT",
+      "repository": "https://github.com/getaidex/aidex",
+      "npmUrl": "https://www.npmjs.com/package/getaidex",
+      "category": "cli",
+      "createdAt": "2026-08-22T18:55:56.315Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 74
+    },
+    {
       "name": "geto-graph",
       "version": "0.1.1",
       "description": "SQLite + BM25 codebase symbol graph for pi. Query-first reading: search, refs, blast radius.",
@@ -75840,6 +76056,18 @@
       "createdAt": "2026-08-08T15:23:01.811Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 79
+    },
+    {
+      "name": "hypersabmemory",
+      "version": "1.4.0",
+      "description": "Open-source IDE context harness and persistent memory engine for AI coding agents",
+      "license": "MIT",
+      "repository": "https://github.com/framesxsab/HyperSABMemory",
+      "npmUrl": "https://www.npmjs.com/package/hypersabmemory",
+      "category": "utilities",
+      "createdAt": "2026-08-22T14:16:19.174Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 81
     },
     {
       "name": "hytale-atlas",
@@ -79944,6 +80172,18 @@
       "createdAt": "2026-07-26T11:41:28.429Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 81
+    },
+    {
+      "name": "markdown-to-whatsapp",
+      "version": "1.0.1",
+      "description": "Convert Markdown into WhatsApp formatting — tables drawn to fit the phone's monospace width. Library, CLI and MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/drsound/markdown-to-whatsapp",
+      "npmUrl": "https://www.npmjs.com/package/markdown-to-whatsapp",
+      "category": "backend",
+      "createdAt": "2026-08-23T13:10:12.358Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 90
     },
     {
       "name": "markdownlint-rule-extra-fixes",
@@ -85248,6 +85488,18 @@
       "createdAt": "2026-08-11T04:13:46.947Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 62
+    },
+    {
+      "name": "oc-tmux-bash",
+      "version": "0.1.0",
+      "description": "opencode plugin — run bash in tmux windows with timeout-to-background, background jobs + completion notification, and interactive PTY shells.",
+      "license": "MIT",
+      "repository": "https://github.com/Snowy117/oc-tmux-bash",
+      "npmUrl": "https://www.npmjs.com/package/oc-tmux-bash",
+      "category": "cli",
+      "createdAt": "2026-08-23T13:35:47.797Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 65
     },
     {
       "name": "oca-sdk-mobile-livechat-rn",
@@ -91502,6 +91754,18 @@
       "score": 48
     },
     {
+      "name": "rash-hit-fractal-analiz-studio",
+      "version": "1.0.0",
+      "description": "Exact vector geometry box-counting and fractal dimension (Db) analysis CLI engine for SVG motifs, textile designs, and architectural patterns.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rasitnarcicek/RASH-HIT-Fractal-Analiz-Studio",
+      "npmUrl": "https://www.npmjs.com/package/rash-hit-fractal-analiz-studio",
+      "category": "cli",
+      "createdAt": "2026-08-23T13:23:22.121Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 94
+    },
+    {
       "name": "rasura",
       "version": "0.1.0",
       "description": "True PDF editing in the browser: read a document as paragraphs, change it, and write it back with the untouched bytes intact",
@@ -94812,6 +95076,18 @@
       "createdAt": "2026-08-07T05:11:00.897Z",
       "discoveredAt": "2026-08-07T05:57:15.695Z",
       "score": 57
+    },
+    {
+      "name": "seacrabs",
+      "version": "1.0.0",
+      "description": "🦀 SeaCrabs AI CLI — AI tidak hanya menjawab, AI yang bekerja. Autonomous coding agent di terminal: multi-model, memory system, security layer, dan SeaCrabs Message (@seacrabs.id).",
+      "license": "MIT",
+      "repository": "https://github.com/seacrabs/seacrabs-cli",
+      "npmUrl": "https://www.npmjs.com/package/seacrabs",
+      "category": "cli",
+      "createdAt": "2026-08-23T13:33:06.388Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 80
     },
     {
       "name": "sealed-fields",
@@ -102362,6 +102638,18 @@
       "score": 76
     },
     {
+      "name": "wailib",
+      "version": "1.0.0",
+      "description": "WhatsApp Web API Library | fork com normalizadores LID (porta @boruto_vk7/baileys)",
+      "license": "MIT",
+      "repository": "https://github.com/walkzin57/wailib",
+      "npmUrl": "https://www.npmjs.com/package/wailib",
+      "category": "backend",
+      "createdAt": "2026-08-23T13:05:10.096Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 86
+    },
+    {
       "name": "wakekit",
       "version": "0.1.1",
       "description": "Train a wake word for any language with TTS, run it in the browser. No GPU, no torch, no cloud.",
@@ -103848,6 +104136,18 @@
       "createdAt": "2026-08-03T14:08:20.231Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 84
+    },
+    {
+      "name": "yoke-mcp",
+      "version": "0.1.0",
+      "description": "MCP server for browser automation in the Chrome you are already signed in to, with no tab-group boundary.",
+      "license": "MIT",
+      "repository": "https://github.com/hamzahamidi/yoke",
+      "npmUrl": "https://www.npmjs.com/package/yoke-mcp",
+      "category": "frontend",
+      "createdAt": "2026-08-23T13:26:51.418Z",
+      "discoveredAt": "2026-08-23T13:36:40.884Z",
+      "score": 70
     },
     {
       "name": "yolo-segdetect-js",
