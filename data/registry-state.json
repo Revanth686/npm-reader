@@ -1,35 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126520721,
-  "lastRunAt": "2026-08-24T01:48:53.527Z",
+  "lastSequence": 126615131,
+  "lastRunAt": "2026-08-24T13:04:43.577Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@huelab/classnames",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@stillm4ddpocs/token-check",
+      "attempts": 2
+    },
+    {
+      "name": "@sleonereed/figmake",
       "attempts": 1
     },
     {
-      "name": "@dotrino/env",
+      "name": "@x12i/ssh",
       "attempts": 1
     },
     {
-      "name": "@vp-tw/cjk-web-fonts-fusion-pixel-font",
-      "attempts": 1
-    },
-    {
-      "name": "@interop/logger",
-      "attempts": 1
-    },
-    {
-      "name": "@chirimen/drv2605l",
-      "attempts": 1
-    },
-    {
-      "name": "@chirimen/sgp30",
+      "name": "@the-heimdall/sample-js-2",
       "attempts": 1
     }
   ]
