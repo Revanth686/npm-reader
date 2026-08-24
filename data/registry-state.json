@@ -1,23 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126469142,
-  "lastRunAt": "2026-08-23T13:36:40.884Z",
+  "lastSequence": 126520721,
+  "lastRunAt": "2026-08-24T01:48:53.527Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@huelab/classnames",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@lenso/contract-runtime",
+      "name": "@stillm4ddpocs/token-check",
       "attempts": 1
     },
     {
-      "name": "@chaojisizhu/koishi-plugin-video-parser-all",
+      "name": "@dotrino/env",
       "attempts": 1
     },
     {
-      "name": "@caims/core",
+      "name": "@vp-tw/cjk-web-fonts-fusion-pixel-font",
+      "attempts": 1
+    },
+    {
+      "name": "@interop/logger",
+      "attempts": 1
+    },
+    {
+      "name": "@chirimen/drv2605l",
+      "attempts": 1
+    },
+    {
+      "name": "@chirimen/sgp30",
       "attempts": 1
     }
   ]
