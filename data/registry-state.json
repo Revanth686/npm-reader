@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126723549,
-  "lastRunAt": "2026-08-25T01:43:40.065Z",
+  "lastSequence": 126828144,
+  "lastRunAt": "2026-08-25T13:01:41.453Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@stillm4ddpocs/token-check",
-      "attempts": 3
+      "attempts": 4
     },
     {
       "name": "@atfm/typeface",
+      "attempts": 2
+    },
+    {
+      "name": "@hasna-internal/kai-web-frontend",
       "attempts": 1
     },
     {
-      "name": "@yiln-dsh/dsh-plugin-file-explorer",
+      "name": "@gluedly/mcp-server",
       "attempts": 1
     },
     {
-      "name": "@yiln-dsh/dsh-plugin-web-daemon",
+      "name": "@hasna-internal/kai-client-connection",
       "attempts": 1
     },
     {
-      "name": "@r3ckon/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@egoisuto/score",
+      "name": "@hasna-internal/kai-client-hmr",
       "attempts": 1
     }
   ]
