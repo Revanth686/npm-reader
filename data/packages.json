@@ -15974,6 +15974,18 @@
       "score": 67
     },
     {
+      "name": "@esekl/mcp",
+      "version": "1.0.1",
+      "description": "Evidence-backed MCP tools for architecture agents, distilled from mature open-source systems.",
+      "license": "MIT",
+      "repository": "https://github.com/KeshavJha2002/ESEKL",
+      "npmUrl": "https://www.npmjs.com/package/%40esekl%2Fmcp",
+      "category": "utilities",
+      "createdAt": "2026-08-25T20:39:44.403Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 89
+    },
+    {
       "name": "@espressif/rainmaker-neo-base-sdk",
       "version": "1.0.0",
       "description": "ESP RainMaker Neo TypeScript SDK for JS-based apps — Cognito auth, MQTT control, device provisioning, groups, and real-time node updates.",
@@ -17796,6 +17808,18 @@
       "createdAt": "2026-07-28T03:26:56.095Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 69
+    },
+    {
+      "name": "@freqgen/feeltech",
+      "version": "0.2.0",
+      "description": "TypeScript library and CLI for FeelTech / FeelElec FY-series arbitrary waveform generators (FY2300, FY6300, FY6600, FY6800, FY6900, FY8300). Works in Node.js (serialport) and browsers (Web Serial API).",
+      "license": "MIT",
+      "repository": "https://github.com/Polobase/freqgen",
+      "npmUrl": "https://www.npmjs.com/package/%40freqgen%2Ffeeltech",
+      "category": "frontend",
+      "createdAt": "2026-08-25T14:35:11.907Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
     },
     {
       "name": "@freshjuice/twistcal",
@@ -23414,6 +23438,18 @@
       "score": 60
     },
     {
+      "name": "@gtkx/navigation",
+      "version": "1.4.0",
+      "description": "React Navigation for GTKX: stack, tab, drawer and master/detail navigators rendered with libadwaita's navigation view, view stack and split views",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/gtkx-org/gtkx",
+      "npmUrl": "https://www.npmjs.com/package/%40gtkx%2Fnavigation",
+      "category": "frontend",
+      "createdAt": "2026-08-25T19:37:47.073Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 84
+    },
+    {
       "name": "@gtm-api/linkedin-mcp",
       "version": "1.2.0",
       "description": "Managed LinkedIn MCP server for AI agents. Stdio launcher for the hosted gtm-api endpoint: search, connect, message and enrich on LinkedIn accounts you own. 160+ typed actions behind three MCP tools.",
@@ -28310,6 +28346,18 @@
       "score": 76
     },
     {
+      "name": "@json-to-office/mcp-server",
+      "version": "1.4.0",
+      "description": "JSON to Office MCP server - author, validate, preview, diff and generate .docx and .pptx over stdio",
+      "license": "MIT",
+      "repository": "https://github.com/Wiseair-srl/json-to-office",
+      "npmUrl": "https://www.npmjs.com/package/%40json-to-office%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-24T11:11:59.954Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 85
+    },
+    {
       "name": "@jsvision/code-editor",
       "version": "1.3.0",
       "description": "A terminal-native source code editor for JSVision applications.",
@@ -29520,6 +29568,18 @@
       "createdAt": "2026-08-08T13:27:45.429Z",
       "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 74
+    },
+    {
+      "name": "@kubohiroya/turbowarp-tm",
+      "version": "2.0.0",
+      "description": "A TurboWarp extension for recognition using Teachable Machine pose, image, and audio models.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/kubohiroya/turbowarp-tm",
+      "npmUrl": "https://www.npmjs.com/package/%40kubohiroya%2Fturbowarp-tm",
+      "category": "utilities",
+      "createdAt": "2026-08-24T14:13:53.453Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 85
     },
     {
       "name": "@kubohiroya/turbowarp-tmpose",
@@ -37118,6 +37178,18 @@
       "score": 68
     },
     {
+      "name": "@nifrajs/ag-ui",
+      "version": "3.3.0",
+      "description": "Mount a nifra agent as an AG-UI (Agent-User Interaction protocol) endpoint - one POST accepting RunAgentInput, a stream of AG-UI events out over SSE: run lifecycle, step and tool-call events from the runner's step evidence, text message events for the out",
+      "license": "MIT",
+      "repository": "https://github.com/nifrajs/nifra",
+      "npmUrl": "https://www.npmjs.com/package/%40nifrajs%2Fag-ui",
+      "category": "build-tools",
+      "createdAt": "2026-08-25T15:20:11.058Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 89
+    },
+    {
       "name": "@nifrajs/aws-lambda",
       "version": "2.12.0",
       "description": "AWS Lambda adapter for nifra - API Gateway HTTP API (payload v2) and Function URLs, buffered or streaming, with post-decode body limits and single-site header merging. Dependency-free.",
@@ -43968,6 +44040,18 @@
       "createdAt": "2026-08-08T14:07:13.012Z",
       "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 83
+    },
+    {
+      "name": "@reoutburn/format-converter",
+      "version": "2.0.2",
+      "description": "A TypeScript library for converting between various data formats including CSV, XML, HL7 v2, and JSON with specialized healthcare message parsing",
+      "license": "MIT",
+      "repository": "https://github.com/Chinlinlee/format-converter",
+      "npmUrl": "https://www.npmjs.com/package/%40reoutburn%2Fformat-converter",
+      "category": "data",
+      "createdAt": "2026-08-25T13:04:03.253Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 94
     },
     {
       "name": "@repass/tracker",
@@ -50954,6 +51038,18 @@
       "score": 100
     },
     {
+      "name": "@techxot/aeo-next",
+      "version": "0.2.0",
+      "description": "Next.js adapters for Techxot AI Readiness on a headless Umbraco site: serve llms.txt, llms-full.txt and per-page Markdown, advertise the Markdown alternate, emit page + site JSON-LD, report AI-crawler traffic to InMotion, and revalidate on publish.",
+      "license": "MIT",
+      "repository": "https://github.com/Zyanta-Digital-Solutions/tx-umbraco-pilot",
+      "npmUrl": "https://www.npmjs.com/package/%40techxot%2Faeo-next",
+      "category": "data",
+      "createdAt": "2026-08-25T17:14:01.505Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
+    },
+    {
       "name": "@teejeeh/skills",
       "version": "1.5.21",
       "description": "The open agent skills ecosystem",
@@ -54578,6 +54674,18 @@
       "score": 85
     },
     {
+      "name": "@vipinyadav02/createjsstack",
+      "version": "1.2.17",
+      "description": "A powerful, modern CLI tool for scaffolding production-ready JavaScript full-stack projects with extensive customization options and best practices built-in.",
+      "license": "MIT",
+      "repository": "https://github.com/vipinyadav01/js-stack",
+      "npmUrl": "https://www.npmjs.com/package/%40vipinyadav02%2Fcreatejsstack",
+      "category": "frontend",
+      "createdAt": "2026-08-24T18:51:31.050Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 84
+    },
+    {
       "name": "@visiq/claude-cowork-harness",
       "version": "0.1.0",
       "description": "VisIQ agent-governance harness for Claude Cowork (the Claude desktop agent) — pre-execution enforcement on host-local sessions via Claude Code hooks, plus audit-stream monitoring for VM-sandboxed sessions the hooks cannot reach.",
@@ -56808,6 +56916,18 @@
       "createdAt": "2026-07-28T14:36:58.167Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 69
+    },
+    {
+      "name": "@yefengr/remote-pi",
+      "version": "0.7.0",
+      "description": "Browser PWA remote control and local agent mesh for the Pi coding agent. Pair a browser profile via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through str",
+      "license": "MIT",
+      "repository": "https://github.com/jacobaraujo7/remote_pi",
+      "npmUrl": "https://www.npmjs.com/package/%40yefengr%2Fremote-pi",
+      "category": "frontend",
+      "createdAt": "2026-08-25T23:44:57.199Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
     },
     {
       "name": "@yfzhou/dsh-session-cost-statusline",
@@ -59762,6 +59882,18 @@
       "score": 86
     },
     {
+      "name": "ai-search-mcp",
+      "version": "0.3.4",
+      "description": "Agent-friendly web search MCP server. Zero-config free engines (DuckDuckGo/Bing/Baidu/Sogou/360/Google/Yandex), pluggable Brave/Tavily, freshness filtering, one-call research tool, cache & page-to-Markdown fetch.",
+      "license": "MIT",
+      "repository": "https://github.com/zhulingyu666/ai-search-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ai-search-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-25T14:50:34.344Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 86
+    },
+    {
       "name": "ai-service-ollama",
       "version": "1.0.0",
       "description": "A lightweight TypeScript AI service for Ollama, embeddings, chat, text generation, RAG, and vector similarity search.",
@@ -60552,6 +60684,18 @@
       "createdAt": "2026-08-07T04:52:18.654Z",
       "discoveredAt": "2026-08-07T05:57:15.695Z",
       "score": 63
+    },
+    {
+      "name": "antigravity-rotator",
+      "version": "1.0.0",
+      "description": "Production-grade multi-account proactive profile rotation & YOLO engine for Google Antigravity CLI (agy)",
+      "license": "MIT",
+      "repository": "https://github.com/popysenpai/antigravity-rotator",
+      "npmUrl": "https://www.npmjs.com/package/antigravity-rotator",
+      "category": "cli",
+      "createdAt": "2026-08-25T16:14:45.876Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
     },
     {
       "name": "antony-skills",
@@ -62918,6 +63062,18 @@
       "score": 83
     },
     {
+      "name": "browser-for-ai",
+      "version": "0.1.0",
+      "description": "CDP-native MCP server that lets an AI agent drive Chrome at full depth — deep network/console read, robust interaction, multi-session, and API-flow → runnable-code extraction",
+      "license": "MIT",
+      "repository": "https://github.com/icueth/browser-for-ai",
+      "npmUrl": "https://www.npmjs.com/package/browser-for-ai",
+      "category": "frontend",
+      "createdAt": "2026-08-25T20:29:03.766Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 87
+    },
+    {
       "name": "browser-inspect-cli",
       "version": "1.0.0",
       "description": "CLI tools for inspecting a running Chrome via CDP — console, network, DOM, screenshots. Built for AI-assisted frontend development.",
@@ -64968,6 +65124,18 @@
       "createdAt": "2026-08-04T23:26:39.735Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 52
+    },
+    {
+      "name": "claude-translator",
+      "version": "1.4.0",
+      "description": "Translate a static website into dozens of languages as real static pages, by substituting into built HTML instead of re-rendering.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/ConveyThis/claude-translator",
+      "npmUrl": "https://www.npmjs.com/package/claude-translator",
+      "category": "utilities",
+      "createdAt": "2026-08-25T19:30:57.530Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 93
     },
     {
       "name": "claude-usage-limits",
@@ -74990,6 +75158,18 @@
       "score": 80
     },
     {
+      "name": "gitswitch-wizard",
+      "version": "2.0.3",
+      "description": "GitSwitch Wizard — multi-GitHub account manager installer & updater. Installs, updates and manages GitSwitch without touching SSH configs it doesn't own.",
+      "license": "MIT",
+      "repository": "https://github.com/DonArtkins/gitswitch",
+      "npmUrl": "https://www.npmjs.com/package/gitswitch-wizard",
+      "category": "cli",
+      "createdAt": "2026-08-25T20:10:27.184Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 91
+    },
+    {
       "name": "gittersync",
       "version": "1.0.0",
       "description": "GitHub as a free database backend — offline-first sync with per-collection files, incremental changelogs, and field-level conflict resolution",
@@ -75468,6 +75648,18 @@
       "createdAt": "2026-08-03T22:45:48.058Z",
       "discoveredAt": "2026-08-03T23:15:27.142Z",
       "score": 84
+    },
+    {
+      "name": "gsc-inspect",
+      "version": "1.1.0",
+      "description": "Read-only Google Search Console CLI — index coverage, hreflang/canonical audit, sitemap status, search analytics. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/yevgavrikov/claude-skill-search-console",
+      "npmUrl": "https://www.npmjs.com/package/gsc-inspect",
+      "category": "cli",
+      "createdAt": "2026-08-25T20:12:49.694Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 89
     },
     {
       "name": "gstinapi",
@@ -76310,6 +76502,18 @@
       "score": 71
     },
     {
+      "name": "homebridge-gree-hvac",
+      "version": "1.0.1",
+      "description": "Local control of Gree and rebadged air conditioners in Apple Home over UDP, no cloud: modes, fan speeds, swing, quiet, turbo, sleep and X-Fan.",
+      "license": "MIT",
+      "repository": "https://github.com/mashgundash/homebridge-gree-hvac",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-gree-hvac",
+      "category": "cli",
+      "createdAt": "2026-08-25T17:58:49.741Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 94
+    },
+    {
       "name": "homebridge-harvia-sauna",
       "version": "0.9.0",
       "description": "Homebridge plugin for Harvia Fenix sauna control panels via the harvia.io cloud API",
@@ -76416,6 +76620,18 @@
       "createdAt": "2026-08-07T16:31:35.963Z",
       "discoveredAt": "2026-08-07T16:43:30.402Z",
       "score": 76
+    },
+    {
+      "name": "homebridge-snapshot-sensors",
+      "version": "1.0.1",
+      "description": "Homebridge plugin that retrieves camera snapshots and runs on-device YOLO object detection",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/mrfatboy/homebridge-snapshot-sensors",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-snapshot-sensors",
+      "category": "utilities",
+      "createdAt": "2026-08-25T21:05:24.673Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 89
     },
     {
       "name": "homebridge-systemline-s62-usb",
@@ -79524,6 +79740,18 @@
       "createdAt": "2026-08-11T03:42:21.607Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 79
+    },
+    {
+      "name": "leas-cli",
+      "version": "1.0.0",
+      "description": "Self-hosted EAS: build and auto-submit Expo / React Native apps to iOS and Android, locally or in the cloud.",
+      "license": "MIT",
+      "repository": "https://github.com/adjah-l/leas",
+      "npmUrl": "https://www.npmjs.com/package/leas-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-26T00:47:38.966Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
     },
     {
       "name": "legalithm-map",
@@ -84288,6 +84516,18 @@
       "createdAt": "2026-08-12T04:31:56.087Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 74
+    },
+    {
+      "name": "n8n-nodes-lage-tiktok",
+      "version": "1.0.2",
+      "description": "Unofficial n8n community nodes for TikTok Login Kit OAuth (client_key) and TikTok Open API requests. Not affiliated with TikTok Inc. or ByteDance.",
+      "license": "MIT",
+      "repository": "https://github.com/L-AGE-Dev/n8n-tiktok",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-lage-tiktok",
+      "category": "backend",
+      "createdAt": "2026-08-25T13:41:46.587Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 86
     },
     {
       "name": "n8n-nodes-markmesh",
@@ -94634,6 +94874,18 @@
       "score": 90
     },
     {
+      "name": "renderoni",
+      "version": "1.0.0",
+      "description": "Open-source Three.js game engine for TypeScript with Rapier physics, deterministic simulation, headless testing, and MCP tooling for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/elemarin/renderoni",
+      "npmUrl": "https://www.npmjs.com/package/renderoni",
+      "category": "testing",
+      "createdAt": "2026-08-24T23:29:03.340Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
+    },
+    {
       "name": "renderready",
       "version": "1.0.0",
       "description": "Prerender any JavaScript web page to static HTML. A modern, Playwright-powered prerender server you can start in one line.",
@@ -97838,6 +98090,18 @@
       "score": 86
     },
     {
+      "name": "smtp-checker",
+      "version": "1.0.1",
+      "description": "Zero-dependency CLI to verify SMTP settings: connection, TLS, authentication and a test message. Presets for Gmail, Yandex, Mail.ru, Outlook, SES and other providers.",
+      "license": "MIT",
+      "repository": "https://github.com/solowey1/smtp-checker",
+      "npmUrl": "https://www.npmjs.com/package/smtp-checker",
+      "category": "testing",
+      "createdAt": "2026-08-26T00:24:38.293Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 96
+    },
+    {
       "name": "snapgrep",
       "version": "0.1.1",
       "description": "An in-process trigram index that makes code search in Pi and DeepSeek Harness 20-90x faster than ripgrep, with identical results.",
@@ -99230,6 +99494,18 @@
       "score": 73
     },
     {
+      "name": "su-ssh",
+      "version": "0.1.0",
+      "description": "A browser desktop for any Linux server, over nothing but SSH: files, terminal, editor, systemd services with live logs, port forwarding, and live CPU/memory/disk/latency meters.",
+      "license": "MIT",
+      "repository": "https://github.com/Sushil3125/su-ssh",
+      "npmUrl": "https://www.npmjs.com/package/su-ssh",
+      "category": "frontend",
+      "createdAt": "2026-08-25T18:02:11.249Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 85
+    },
+    {
       "name": "subtitle-workbench",
       "version": "0.2.0",
       "description": "Convert Blu-ray PGS and DVD VobSub subtitles to SRT, locally.",
@@ -100032,6 +100308,18 @@
       "createdAt": "2026-08-15T15:46:24.901Z",
       "discoveredAt": "2026-08-16T12:53:42.849Z",
       "score": 90
+    },
+    {
+      "name": "task-complete-notify-for-dsh",
+      "version": "0.2.0",
+      "description": "DSH plugin: desktop notification + chime when a run finishes. Notifies on completion, error, and approval requests, with a configurable duration threshold. / DSH 桌面通知插件：运行完成/出错/等待审批时提醒，可配置时长阈值与提示音。",
+      "license": "MIT",
+      "repository": "https://github.com/lxp731/agents-plugins",
+      "npmUrl": "https://www.npmjs.com/package/task-complete-notify-for-dsh",
+      "category": "utilities",
+      "createdAt": "2026-08-21T20:22:21.271Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 89
     },
     {
       "name": "taskferry",
@@ -103824,6 +104112,18 @@
       "createdAt": "2026-08-05T15:01:15.011Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 76
+    },
+    {
+      "name": "waczdoc",
+      "version": "2.0.0",
+      "description": "Turn the pages inside a WACZ web archive into documents: PDF via wabac.js replay in headless Chromium, or Markdown extracted straight from the archive",
+      "license": "MIT",
+      "repository": "https://github.com/edsu/waczdoc",
+      "npmUrl": "https://www.npmjs.com/package/waczdoc",
+      "category": "testing",
+      "createdAt": "2026-08-25T14:31:56.840Z",
+      "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 95
     },
     {
       "name": "wailib",

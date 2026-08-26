@@ -1,31 +1,43 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 126828144,
-  "lastRunAt": "2026-08-25T13:01:41.453Z",
+  "lastSequence": 126950125,
+  "lastRunAt": "2026-08-26T01:49:06.368Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@stillm4ddpocs/token-check",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@atfm/typeface",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@hasna-internal/kai-web-frontend",
+      "name": "@sema-agent/settings-schema",
       "attempts": 1
     },
     {
-      "name": "@gluedly/mcp-server",
+      "name": "@zthun/bouncer-cli",
       "attempts": 1
     },
     {
-      "name": "@hasna-internal/kai-client-connection",
+      "name": "@mintwarehq/eliza-plugin",
       "attempts": 1
     },
     {
-      "name": "@hasna-internal/kai-client-hmr",
+      "name": "@mintwarehq/mcp-server",
+      "attempts": 1
+    },
+    {
+      "name": "@windaka-erp1/erp-cli",
+      "attempts": 1
+    },
+    {
+      "name": "@memberjunction/connector-elevate",
+      "attempts": 1
+    },
+    {
+      "name": "@niumoteam/node-plugin",
       "attempts": 1
     }
   ]
