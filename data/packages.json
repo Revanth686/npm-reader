@@ -7922,6 +7922,18 @@
       "score": 87
     },
     {
+      "name": "@broberg/device-stats",
+      "version": "0.2.0",
+      "description": "Framework-free device statistics primitive: derive bucketed device facts (form factor, OS/browser major version, installed-PWA vs browser, screen bucket) from what the browser already sends. No identifier, no fingerprint, no storage — coarse buckets are b",
+      "license": "MIT",
+      "repository": "https://github.com/broberg-ai/components",
+      "npmUrl": "https://www.npmjs.com/package/%40broberg%2Fdevice-stats",
+      "category": "frontend",
+      "createdAt": "2026-08-27T11:59:06.665Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 90
+    },
+    {
       "name": "@broberg/logger",
       "version": "0.1.1",
       "description": "Fleet server logging that cannot leak a secret: four levels, one-line JSON in production or readable text locally, env-driven level, nesting child bindings — and every message and metadata value run through @broberg/secret-scan before it leaves the proces",
@@ -9935,6 +9947,18 @@
       "category": "cli",
       "createdAt": "2026-08-26T19:14:00.842Z",
       "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 100
+    },
+    {
+      "name": "@cldmv/slothlet-vine",
+      "version": "1.0.0",
+      "description": "Vines between slothlet api trees — location-transparent forwarding leaves over pluggable transports (Web Worker postMessage, worker_threads, process IPC, WebSocket), permission-gated by slothlet itself.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/CLDMV/slothlet-vine",
+      "npmUrl": "https://www.npmjs.com/package/%40cldmv%2Fslothlet-vine",
+      "category": "backend",
+      "createdAt": "2026-08-27T14:37:12.736Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
       "score": 100
     },
     {
@@ -15578,6 +15602,18 @@
       "score": 87
     },
     {
+      "name": "@eldrex/unboilerplate",
+      "version": "1.0.0",
+      "description": "Style without thinking. Think without boilerplate. A pure CSS styling system with design tokens, magic classes, and Gen Z aesthetics.",
+      "license": "MIT",
+      "repository": "https://github.com/EldrexDelosReyesBula/Unboilerplate",
+      "npmUrl": "https://www.npmjs.com/package/%40eldrex%2Funboilerplate",
+      "category": "frontend",
+      "createdAt": "2026-08-27T15:11:40.195Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 93
+    },
+    {
       "name": "@elefthei/try-ts",
       "version": "0.1.1",
       "description": "Bun/TypeScript SDK for speculative shell execution: run commands in an overlay sandbox, inspect the filesystem changes, then commit or discard",
@@ -18252,6 +18288,18 @@
       "createdAt": "2026-07-29T17:09:48.679Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 63
+    },
+    {
+      "name": "@gabriellb438/nestjs-capsolver",
+      "version": "1.0.1",
+      "description": "Integração tipada da API CapSolver com NestJS para reCAPTCHA, Cloudflare Turnstile e CAPTCHA de imagem.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/gabriellaroca/nestjs-capsolver",
+      "npmUrl": "https://www.npmjs.com/package/%40gabriellb438%2Fnestjs-capsolver",
+      "category": "backend",
+      "createdAt": "2026-08-27T13:19:12.778Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 90
     },
     {
       "name": "@gadhiyamanan/react-native-modal",
@@ -28826,6 +28874,18 @@
       "score": 69
     },
     {
+      "name": "@k8ordo/ui",
+      "version": "1.0.0",
+      "description": "k8o's React UI library with built-in generative UI adapters (json-render & OpenUI) for LLM-driven, on-brand interfaces",
+      "license": "MIT",
+      "repository": "https://github.com/k35o/k8ordo",
+      "npmUrl": "https://www.npmjs.com/package/%40k8ordo%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-08-27T13:34:39.261Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 91
+    },
+    {
       "name": "@kaandrick/nightshift",
       "version": "0.1.0",
       "description": "A pixel office where cheap models work the night shift and you are the boss — a visual floor for delegating small tasks to any model behind an OmniRoute gateway.",
@@ -32136,6 +32196,18 @@
       "createdAt": "2026-08-11T10:52:11.810Z",
       "discoveredAt": "2026-08-11T11:31:08.793Z",
       "score": 78
+    },
+    {
+      "name": "@maildeno/renderer",
+      "version": "0.2.0",
+      "description": "Render Maildeno email templates locally to HTML, MJML or React Email — in Node, browsers, and edge runtimes like Cloudflare Workers and Vercel Edge. No API calls, no network.",
+      "license": "MIT",
+      "repository": "https://github.com/maildeno/renderer-js",
+      "npmUrl": "https://www.npmjs.com/package/%40maildeno%2Frenderer",
+      "category": "frontend",
+      "createdAt": "2026-08-25T12:57:21.674Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 87
     },
     {
       "name": "@mailkite/better-auth",
@@ -36698,6 +36770,18 @@
       "score": 51
     },
     {
+      "name": "@nativescript/skills",
+      "version": "1.0.1",
+      "description": "Agent Skills for NativeScript, organised by area (core, iOS, Android, frontend flavors, UI, device, testing, tooling, plugins). Works with Claude Code, Cursor, Codex, Copilot, Gemini CLI and any Agent Skills client; ships as skills/<category>/<name>/SKILL",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/NativeScript/skills",
+      "npmUrl": "https://www.npmjs.com/package/%40nativescript%2Fskills",
+      "category": "testing",
+      "createdAt": "2026-08-27T14:40:06.242Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 100
+    },
+    {
       "name": "@nativpost/mcp",
       "version": "1.0.0",
       "description": "Model Context Protocol server for NativPost — create, schedule, and publish social content from any MCP client.",
@@ -40440,6 +40524,18 @@
       "createdAt": "2026-08-01T23:21:07.149Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 88
+    },
+    {
+      "name": "@particle-academy/fancy-trading-ui",
+      "version": "0.1.0",
+      "description": "Trading surfaces for the Fancy UI suite — order ticket, price ladder/DOM, book, depth, tape, blotter, positions, watchlist, alerts, and a session-aware trading chart on lightweight-charts. Controlled, agent-bridgeable, and built around a safety floor that",
+      "license": "MIT",
+      "repository": "https://github.com/Particle-Academy/fancy-trading-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40particle-academy%2Ffancy-trading-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-27T16:58:55.113Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 90
     },
     {
       "name": "@particle-academy/job-board",
@@ -44784,6 +44880,18 @@
       "createdAt": "2026-08-02T22:56:36.896Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 88
+    },
+    {
+      "name": "@rivid/core",
+      "version": "1.1.0",
+      "description": "High-performance, spec-compatible ULID generation for Node.js and Bun, powered by a Rust core via NAPI-RS. Includes monotonic ULIDs, bulk generation, binary APIs, alternative encodings and UUIDv7.",
+      "license": "MIT",
+      "repository": "https://github.com/vedantchalke36/rivid",
+      "npmUrl": "https://www.npmjs.com/package/%40rivid%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-27T14:15:33.572Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 99
     },
     {
       "name": "@rj11io/11agi",
@@ -55862,6 +55970,18 @@
       "score": 58
     },
     {
+      "name": "@weeebdev/ebay-mcp",
+      "version": "1.0.0",
+      "description": "Model Context Protocol (MCP) server that exposes eBay's Sell APIs (302 tools across 270 endpoints) plus buy-side search, item lookup, and seller messaging to AI assistants like Claude, Cursor, and Cline, with OAuth authentication and refresh-token support",
+      "license": "MIT",
+      "repository": "https://github.com/weeebdev/ebay-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40weeebdev%2Febay-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-27T16:12:39.681Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 100
+    },
+    {
       "name": "@wegasnpm/wegas-react-native",
       "version": "1.0.0",
       "description": "Wegas SDK for tracking events in mobile app",
@@ -62690,6 +62810,18 @@
       "score": 79
     },
     {
+      "name": "besouro",
+      "version": "0.2.0",
+      "description": "On-device developer tools for React Native / Expo: network, WebSocket, Socket.IO, console, notifications, element, view hierarchy, files, Redux, Zustand, Jotai, AsyncStorage and MMKV inspectors in a draggable in-app panel.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/EdgarJMesquita/besouro",
+      "npmUrl": "https://www.npmjs.com/package/besouro",
+      "category": "frontend",
+      "createdAt": "2026-08-22T20:27:29.877Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 90
+    },
+    {
       "name": "bestax-mcp",
       "version": "1.0.0",
       "description": "MCP server for @allxsmith/bestax-bulma — component props, examples, CSS variables and agent skills, served offline from a version-pinned index",
@@ -65462,6 +65594,18 @@
       "score": 52
     },
     {
+      "name": "claude-tolaria",
+      "version": "2.1.1",
+      "description": "Source-grounded knowledge vaults for Obsidian and Tolaria — a local-first Claude Code plugin whose CLI works standalone",
+      "license": "MIT",
+      "repository": "https://github.com/AgriciDaniel/claude-obsidian",
+      "npmUrl": "https://www.npmjs.com/package/claude-tolaria",
+      "category": "cli",
+      "createdAt": "2026-08-27T17:39:04.944Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 87
+    },
+    {
       "name": "claude-translator",
       "version": "1.4.0",
       "description": "Translate a static website into dozens of languages as real static pages, by substituting into built HTML instead of re-rendering.",
@@ -68148,6 +68292,18 @@
       "createdAt": "2026-07-28T11:50:56.375Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 85
+    },
+    {
+      "name": "datepicker-nextgen",
+      "version": "1.0.0",
+      "description": "A headless-first, timezone-safe, fully accessible date picker for React and vanilla JS. Single, range, multiple, week, month, quarter and year selection with presets, constraints, per-day decorations and complete theming.",
+      "license": "MIT",
+      "repository": "https://github.com/karthikbaikati/datepicker-nextgen",
+      "npmUrl": "https://www.npmjs.com/package/datepicker-nextgen",
+      "category": "frontend",
+      "createdAt": "2026-08-27T13:58:09.452Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 100
     },
     {
       "name": "datex2-ts",
@@ -71174,6 +71330,18 @@
       "score": 79
     },
     {
+      "name": "dsh-qa-skills",
+      "version": "0.6.0",
+      "description": "DeepSeek Harness (dsh) plugin: 10 testing skills (requirement analysis, test strategy, case writing/review, E2E/API automation, exploratory, regression, bug analysis) + shared core knowledge base — a full QA pipeline as agent skills.",
+      "license": "MIT",
+      "repository": "https://github.com/fishzjp/qa-skills",
+      "npmUrl": "https://www.npmjs.com/package/dsh-qa-skills",
+      "category": "testing",
+      "createdAt": "2026-08-24T14:54:39.826Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 88
+    },
+    {
       "name": "dsh-qq-bridge",
       "version": "0.1.0",
       "description": "QQ official bot bridge plugin for DeepSeek Harness (port of pi-qq-bridge): bidirectional QQ (C2C + group chat) with isolated persistent agent sessions, commands, media pipeline and outbound file delivery.",
@@ -74028,6 +74196,18 @@
       "createdAt": "2026-07-29T01:14:36.478Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 93
+    },
+    {
+      "name": "file-brief",
+      "version": "2.0.1",
+      "description": "Agent-agnostic skill that turns task input files into reusable structural briefs and a per-task searchable index (OpenAI Codex, Claude Code, DeepSeek Harness)",
+      "license": "MIT",
+      "repository": "https://github.com/Zhiyi-Zhao/file-brief",
+      "npmUrl": "https://www.npmjs.com/package/file-brief",
+      "category": "data",
+      "createdAt": "2026-08-27T12:21:31.922Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 91
     },
     {
       "name": "finance-data-mcp",
@@ -77558,6 +77738,18 @@
       "score": 82
     },
     {
+      "name": "hummem",
+      "version": "1.0.0",
+      "description": "Persistent memory for AI coding assistants - durable context across sessions",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kejwojew/hummem",
+      "npmUrl": "https://www.npmjs.com/package/hummem",
+      "category": "build-tools",
+      "createdAt": "2026-08-27T20:00:19.602Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 87
+    },
+    {
       "name": "hwjcode-personal",
       "version": "1.1.122",
       "description": "<div align=\"center\">",
@@ -79946,6 +80138,18 @@
       "score": 59
     },
     {
+      "name": "lamaku-mcp",
+      "version": "0.1.1",
+      "description": "MCP server for Lamakū, the University of Hawaiʻi's D2L Brightspace LMS — read course data and author announcements, content, assignments, grade items and discussions, with a FERPA guard on student identities",
+      "license": "MIT",
+      "repository": "https://github.com/JesseTho/lamaku-mcp",
+      "npmUrl": "https://www.npmjs.com/package/lamaku-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-27T18:55:03.685Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 88
+    },
+    {
       "name": "lambda-response-kit",
       "version": "1.0.0",
       "description": "A lightweight, type-safe utility library for standardizing AWS Lambda HTTP responses.",
@@ -81206,6 +81410,18 @@
       "score": 82
     },
     {
+      "name": "loomco",
+      "version": "1.2.37",
+      "description": "Loom Code ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â AI-powered coding agent for the terminal. Multi-provider support including NVIDIA. OpenTUI interface.",
+      "license": "MIT",
+      "repository": "https://github.com/toshalkumbhar8979-design/loomcode",
+      "npmUrl": "https://www.npmjs.com/package/loomco",
+      "category": "cli",
+      "createdAt": "2026-08-27T20:58:44.617Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 91
+    },
+    {
       "name": "loopback-mcp-server",
       "version": "0.9.0",
       "description": "Loopback — a project-tagged feedback bus for coding agents (Claude Code, Codex, Gemini CLI) over MCP. Capture UI/backend/usage/UX feedback once; let any agent claim, fix, and write the change back.",
@@ -81396,6 +81612,18 @@
       "createdAt": "2026-08-07T03:29:07.132Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 70
+    },
+    {
+      "name": "luna-f",
+      "version": "1.0.0",
+      "description": "Minimal, express-alternative backend framework for Node.js — built directly on node:http, zero runtime dependencies, written in TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/asdfssa/ape",
+      "npmUrl": "https://www.npmjs.com/package/luna-f",
+      "category": "backend",
+      "createdAt": "2026-08-27T21:30:05.467Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 93
     },
     {
       "name": "lunx-dev",
@@ -81972,6 +82200,18 @@
       "createdAt": "2026-07-25T14:37:03.719Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 66
+    },
+    {
+      "name": "maruf-fca",
+      "version": "1.2.29",
+      "description": "Unofficial Facebook Chat API for Node.js with Auto-Update System - Enhanced by ST | Sheikh Tamim",
+      "license": "MIT",
+      "repository": "https://github.com/sheikhtamimlover/maruf-fca",
+      "npmUrl": "https://www.npmjs.com/package/maruf-fca",
+      "category": "backend",
+      "createdAt": "2026-08-27T22:03:37.798Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 89
     },
     {
       "name": "marvin-kb",
@@ -82680,6 +82920,18 @@
       "createdAt": "2026-08-10T18:21:32.483Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 88
+    },
+    {
+      "name": "mcp-ptitchef",
+      "version": "1.0.0",
+      "description": "MCP server for Ptitchef. Search recipes, browse the category tree, read one with its ingredients and method, rescale it, and cook from what is in the fridge. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-ptitchef",
+      "npmUrl": "https://www.npmjs.com/package/mcp-ptitchef",
+      "category": "backend",
+      "createdAt": "2026-08-27T20:39:38.747Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 89
     },
     {
       "name": "mcp-queue-doctor",
@@ -83916,6 +84168,18 @@
       "createdAt": "2026-08-03T07:07:19.824Z",
       "discoveredAt": "2026-08-03T09:27:32.902Z",
       "score": 78
+    },
+    {
+      "name": "money-in-words",
+      "version": "1.0.0",
+      "description": "Convert a numeric monetary amount plus an ISO 4217 currency code into natural English words, with correct major/minor unit splitting and per-currency decimal precision.",
+      "license": "MIT",
+      "repository": "https://github.com/PrantaDas/money-in-words",
+      "npmUrl": "https://www.npmjs.com/package/money-in-words",
+      "category": "build-tools",
+      "createdAt": "2026-08-27T12:32:05.974Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 96
     },
     {
       "name": "moneyhub-sdk",
@@ -89184,6 +89448,18 @@
       "createdAt": "2026-08-11T01:06:57.000Z",
       "discoveredAt": "2026-08-11T03:27:39.025Z",
       "score": 80
+    },
+    {
+      "name": "oxc-plugin-servicenow",
+      "version": "2.0.0",
+      "description": "First-class Oxlint + oxfmt tooling for ServiceNow Fluent (.now.ts) and classic ServiceNow JavaScript.",
+      "license": "MIT",
+      "repository": "https://github.com/martinthommesen/oxc-plugin-servicenow",
+      "npmUrl": "https://www.npmjs.com/package/oxc-plugin-servicenow",
+      "category": "data",
+      "createdAt": "2026-08-20T09:34:56.264Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 90
     },
     {
       "name": "oxc-tsrx",
@@ -99902,6 +100178,18 @@
       "score": 66
     },
     {
+      "name": "strapi-plugin-youtube-transcripts",
+      "version": "2.1.1",
+      "description": "Fetch, store, search and read YouTube transcripts in Strapi. Works on its own, and exposes AI tools when strapi-plugin-ai-sdk is installed.",
+      "license": "MIT",
+      "repository": "https://github.com/PaulBratslavsky/strapi-plugin-youtube-transcripts",
+      "npmUrl": "https://www.npmjs.com/package/strapi-plugin-youtube-transcripts",
+      "category": "backend",
+      "createdAt": "2026-08-27T21:53:00.341Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 90
+    },
+    {
       "name": "stratalib",
       "version": "0.1.1",
       "description": "StrataLib — MCP server for pre-built code patterns (recalls)",
@@ -100800,6 +101088,18 @@
       "createdAt": "2026-08-15T08:30:58.385Z",
       "discoveredAt": "2026-08-15T08:48:16.876Z",
       "score": 48
+    },
+    {
+      "name": "tala-icons",
+      "version": "1.1.0",
+      "description": "Free open source icon pack - 100+ SVG icons for React, Vue, Angular, Svelte, and plain HTML",
+      "license": "MIT",
+      "repository": "https://github.com/NoobGreggy/tala-icons",
+      "npmUrl": "https://www.npmjs.com/package/tala-icons",
+      "category": "frontend",
+      "createdAt": "2026-08-27T10:25:03.785Z",
+      "discoveredAt": "2026-08-27T22:10:36.836Z",
+      "score": 89
     },
     {
       "name": "tanstack-db-notion-adapter",

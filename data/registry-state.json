@@ -1,23 +1,59 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 127240923,
-  "lastRunAt": "2026-08-27T08:56:03.801Z",
+  "lastSequence": 127382322,
+  "lastRunAt": "2026-08-27T22:10:36.836Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@stillm4ddpocs/token-check",
-      "attempts": 7
-    },
-    {
       "name": "@atfm/typeface",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@mechta-dev/mechta-id-js",
+      "name": "@weftjs/ir",
       "attempts": 1
     },
     {
-      "name": "@eui/eds-wc",
+      "name": "@weftjs/compiler",
+      "attempts": 1
+    },
+    {
+      "name": "@weftjs/warp",
+      "attempts": 1
+    },
+    {
+      "name": "@weftjs/kernel",
+      "attempts": 1
+    },
+    {
+      "name": "@weftjs/adapters",
+      "attempts": 1
+    },
+    {
+      "name": "@weftjs/client",
+      "attempts": 1
+    },
+    {
+      "name": "@weftjs/plan",
+      "attempts": 1
+    },
+    {
+      "name": "@weftjs/core",
+      "attempts": 1
+    },
+    {
+      "name": "@locci/functions",
+      "attempts": 1
+    },
+    {
+      "name": "@zivis/appsec-pack",
+      "attempts": 1
+    },
+    {
+      "name": "@zivis/threatmodel-pack",
+      "attempts": 1
+    },
+    {
+      "name": "@cathodique/usocket2",
       "attempts": 1
     }
   ]
