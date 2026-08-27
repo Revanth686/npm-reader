@@ -1,43 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 127055961,
-  "lastRunAt": "2026-08-26T13:06:22.803Z",
+  "lastSequence": 127240923,
+  "lastRunAt": "2026-08-27T08:56:03.801Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@stillm4ddpocs/token-check",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@atfm/typeface",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@gleapai/kai-bridge",
+      "name": "@mechta-dev/mechta-id-js",
       "attempts": 1
     },
     {
-      "name": "@picots/cli",
-      "attempts": 1
-    },
-    {
-      "name": "@picots/create",
-      "attempts": 1
-    },
-    {
-      "name": "@kernhq/module-inventory",
-      "attempts": 1
-    },
-    {
-      "name": "@moonways/meditor",
-      "attempts": 1
-    },
-    {
-      "name": "@triplef/ai-sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@triplef/socketio",
+      "name": "@eui/eds-wc",
       "attempts": 1
     }
   ]

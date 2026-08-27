@@ -1934,6 +1934,18 @@
       "score": 80
     },
     {
+      "name": "@agustinespildora/open-banking-chile",
+      "version": "2.0.1",
+      "description": "Scrapers open source para bancos chilenos. Obtén tus movimientos y saldo como JSON. Open source scrapers for Chilean banks.",
+      "license": "MIT",
+      "repository": "https://github.com/agustinespildora/open-banking-chile",
+      "npmUrl": "https://www.npmjs.com/package/%40agustinespildora%2Fopen-banking-chile",
+      "category": "devops",
+      "createdAt": "2026-08-26T20:57:28.592Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 92
+    },
+    {
       "name": "@ahasend/sdk",
       "version": "0.1.0",
       "description": "Official Node.js TypeScript SDK for the AhaSend transactional email API.",
@@ -6110,6 +6122,18 @@
       "score": 68
     },
     {
+      "name": "@axiomnode-lab/guard",
+      "version": "0.6.1",
+      "description": "A zero-runtime-dependency security SDK for Node.js: webhooks, request policy, idempotency, API keys, safe fetches, headers, cookies, CORS, CSRF, SSRF guardrails, rate limiting, redaction, scanning and framework adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/AxiomNode-lab/AxiomGuard",
+      "npmUrl": "https://www.npmjs.com/package/%40axiomnode-lab%2Fguard",
+      "category": "backend",
+      "createdAt": "2026-08-26T20:24:00.577Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 90
+    },
+    {
       "name": "@axiru/agent-spend-guardrails",
       "version": "0.1.0",
       "description": "Deterministic spend guardrails for AI agents. Define policies, evaluate spend intents, get allow / require_approval / deny with stable, replayable reason codes. No SaaS dependency.",
@@ -9902,6 +9926,18 @@
       "score": 87
     },
     {
+      "name": "@clawd-bot/clawd",
+      "version": "1.0.6",
+      "description": "Clawd Bot — one-shot install for sovereign Solana + Robinhood omni agent runtime: RH skill pack, Skill Hub (train2earn + skillhub-main), agents, packages, clawdbot CLI hooks. Connect at cheshireterminal.ai/zeroclawd",
+      "license": "MIT",
+      "repository": "https://github.com/Solizardking/Zero-Bruh",
+      "npmUrl": "https://www.npmjs.com/package/%40clawd-bot%2Fclawd",
+      "category": "cli",
+      "createdAt": "2026-08-26T19:14:00.842Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 100
+    },
+    {
       "name": "@cle-does-things/llms-sdk-wasm",
       "version": "0.1.0",
       "description": "Unified interface to call OpenAI and Anthropic-compatible LLM APIs from your browser",
@@ -11856,6 +11892,18 @@
       "createdAt": "2026-08-13T16:40:46.240Z",
       "discoveredAt": "2026-08-13T16:47:16.274Z",
       "score": 77
+    },
+    {
+      "name": "@davalest/konamize",
+      "version": "1.1.0",
+      "description": "Konami-code easter egg: a raptor charges across the page, roaring. Zero dependencies, assets bundled - or bring your own and ship nothing extra.",
+      "license": "MIT",
+      "repository": "https://github.com/davalest/konamize",
+      "npmUrl": "https://www.npmjs.com/package/%40davalest%2Fkonamize",
+      "category": "frontend",
+      "createdAt": "2026-08-24T17:51:45.754Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 90
     },
     {
       "name": "@davidilie/telemetry-node",
@@ -18156,6 +18204,18 @@
       "createdAt": "2026-08-02T19:51:38.398Z",
       "discoveredAt": "2026-08-02T23:44:22.420Z",
       "score": 73
+    },
+    {
+      "name": "@fyeeme/pi-ask-user",
+      "version": "2.0.1",
+      "description": "oh-my-pi's `ask` tool migrated to a pi extension — tabbed multi-question dialog with a Submit review page, inactivity countdown, RPC degradation, and headless hiding.",
+      "license": "MIT",
+      "repository": "https://github.com/fyeeme/pi-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40fyeeme%2Fpi-ask-user",
+      "category": "utilities",
+      "createdAt": "2026-08-24T19:33:46.916Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 92
     },
     {
       "name": "@fyosimi/fv-backlog-mcp-server",
@@ -25334,6 +25394,18 @@
       "score": 70
     },
     {
+      "name": "@hsushengchau/dsh-im",
+      "version": "3.0.7",
+      "description": "把九种 IM 机器人和公网 AI Office 接入本机 DeepSeek Harness。 Connect nine IM channels and a public AI Office to a local DeepSeek Harness.",
+      "license": "MIT",
+      "repository": "https://github.com/xmanrui/dsh-im",
+      "npmUrl": "https://www.npmjs.com/package/%40hsushengchau%2Fdsh-im",
+      "category": "utilities",
+      "createdAt": "2026-08-27T07:14:03.779Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 92
+    },
+    {
       "name": "@hto404/dsh-chime",
       "version": "0.1.1",
       "description": "Task-completion notification chime for the dsh web GUI: plays a sound when a root agent turn finishes, even while the tab is in the background. Persistent host+client plugin with 10 preset sounds, custom sound import, volume control and a Settings > Plugi",
@@ -29256,6 +29328,18 @@
       "createdAt": "2026-08-07T14:34:37.925Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 59
+    },
+    {
+      "name": "@kinu01/validate-iban",
+      "version": "1.0.0",
+      "description": "IBAN validator. ISO 13616 structure plus ISO 7064 mod-97-10 check digits. Zero dependencies, runs on Node, Cloudflare Workers and in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/kinu01/validate-iban",
+      "npmUrl": "https://www.npmjs.com/package/%40kinu01%2Fvalidate-iban",
+      "category": "frontend",
+      "createdAt": "2026-08-26T23:20:25.571Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 92
     },
     {
       "name": "@kirti_jha/reel",
@@ -33204,6 +33288,18 @@
       "createdAt": "2026-08-09T07:20:06.278Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 57
+    },
+    {
+      "name": "@meetstream/sdk",
+      "version": "1.0.0",
+      "description": "Official MeetStream SDK for TypeScript and JavaScript — send AI meeting bots into Zoom, Google Meet and Microsoft Teams. Record, transcribe, summarize and stream meetings, and run MIA voice agents.",
+      "license": "MIT",
+      "repository": "https://github.com/meetstream-ai/meetstream-node",
+      "npmUrl": "https://www.npmjs.com/package/%40meetstream%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-26T23:13:38.388Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 98
     },
     {
       "name": "@megaofmegalodon/stackjs",
@@ -56546,6 +56642,18 @@
       "score": 57
     },
     {
+      "name": "@x402solana/clawd",
+      "version": "1.0.5",
+      "description": "Clawd Bot — one-shot install for sovereign Solana + Robinhood omni agent runtime: RH skill pack, Skill Hub (train2earn + skillhub-main), agents, packages, clawdbot CLI hooks. Connect at cheshireterminal.ai/zeroclawd",
+      "license": "MIT",
+      "repository": "https://github.com/Solizardking/Zero-Bruh",
+      "npmUrl": "https://www.npmjs.com/package/%40x402solana%2Fclawd",
+      "category": "cli",
+      "createdAt": "2026-08-26T19:16:08.273Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 100
+    },
+    {
       "name": "@x402solana/clawd-plugin",
       "version": "1.2.0",
       "description": "Open-source Cheshire Terminal CLI — Ink TUI, agentic wallet (@solana/kit), dual hubs cheshireterminal.ai/cli + solanaclawd.com/cli, skills, eliza, registry, arena.",
@@ -61502,6 +61610,18 @@
       "score": 67
     },
     {
+      "name": "ast10-agent-skills",
+      "version": "1.1.0",
+      "description": "CLI for an independent community reference implementation of the OWASP Agentic Skills Top 10 (AST01-AST10). NOT an OWASP project and carrying no OWASP endorsement, despite the name.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jhkchan/ast10-agent-skills",
+      "npmUrl": "https://www.npmjs.com/package/ast10-agent-skills",
+      "category": "cli",
+      "createdAt": "2026-08-27T02:55:45.213Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 98
+    },
+    {
       "name": "asterisk-ami-node",
       "version": "1.0.0",
       "description": "Dependency-free Asterisk Manager Interface (AMI) client for Node.js. TypeScript types, event streaming, auto-reconnect, ESM and CommonJS.",
@@ -63456,6 +63576,18 @@
       "createdAt": "2026-08-07T09:13:33.386Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 72
+    },
+    {
+      "name": "bukalemun",
+      "version": "1.3.0",
+      "description": "One CSS + JS framework that wears 50 completely different visual languages — neo-brutalist, glassmorphic, terminal, Bauhaus, risograph, neon-sign and more. Zero dependencies, drop-in via CDN or npm.",
+      "license": "MIT",
+      "repository": "https://github.com/nickzsche/bukalemun",
+      "npmUrl": "https://www.npmjs.com/package/bukalemun",
+      "category": "frontend",
+      "createdAt": "2026-08-26T13:29:53.273Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 99
     },
     {
       "name": "bun-plugin-qiankun",
@@ -65450,6 +65582,18 @@
       "score": 61
     },
     {
+      "name": "clawd-go",
+      "version": "1.0.6",
+      "description": "Clawd Bot — one-shot install for sovereign Solana + Robinhood omni agent runtime: RH skill pack, Skill Hub (train2earn + skillhub-main), agents, packages, clawdbot CLI hooks. Connect at cheshireterminal.ai/zeroclawd",
+      "license": "MIT",
+      "repository": "https://github.com/Solizardking/Zero-Bruh",
+      "npmUrl": "https://www.npmjs.com/package/clawd-go",
+      "category": "cli",
+      "createdAt": "2026-08-26T19:16:03.099Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 100
+    },
+    {
       "name": "clawd-skills",
       "version": "1.0.0",
       "description": "Clawd Skills — 75+ Solana trading, research, payments, and protocol-development skills for Clawd Code agents",
@@ -66636,6 +66780,18 @@
       "createdAt": "2026-08-23T13:24:07.748Z",
       "discoveredAt": "2026-08-23T13:36:40.884Z",
       "score": 77
+    },
+    {
+      "name": "copilot-auto",
+      "version": "1.0.1",
+      "description": "GitHub Copilot auto-session routing for oh-my-pi (OMP) and Pi: injects a single github-copilot/auto model, drives POST /models/session + /models/session/intent, and stamps Copilot-Session-Token on chat requests.",
+      "license": "MIT",
+      "repository": "https://github.com/mentalfl0w/copilot-auto",
+      "npmUrl": "https://www.npmjs.com/package/copilot-auto",
+      "category": "utilities",
+      "createdAt": "2026-08-27T06:06:08.674Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 100
     },
     {
       "name": "copilot-byok-switcher",
@@ -69422,6 +69578,18 @@
       "score": 76
     },
     {
+      "name": "driftscript",
+      "version": "1.4.0",
+      "description": "A strict, deterministic-aware, hot-reloadable scripting language. Host-neutral: it knows types, effects and capabilities, and never a scene, a mesh or a mix bus",
+      "license": "MIT",
+      "repository": "https://github.com/drftrun/driftscript",
+      "npmUrl": "https://www.npmjs.com/package/driftscript",
+      "category": "build-tools",
+      "createdAt": "2026-08-27T07:39:25.669Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 91
+    },
+    {
       "name": "drizzle-explain",
       "version": "1.0.0",
       "description": "Performance-test Drizzle ORM queries by running them through EXPLAIN ANALYZE and asserting the plan is within tolerance",
@@ -69444,6 +69612,18 @@
       "createdAt": "2026-08-15T05:14:03.625Z",
       "discoveredAt": "2026-08-15T06:22:36.982Z",
       "score": 75
+    },
+    {
+      "name": "drp-imagesdk",
+      "version": "2.0.0",
+      "description": "DRP (Digital Resolution Pro) - One-line image processing, conversion, compression, and editing SDK for JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/DarpanAdhikari/image-conversions",
+      "npmUrl": "https://www.npmjs.com/package/drp-imagesdk",
+      "category": "frontend",
+      "createdAt": "2026-08-27T03:31:57.145Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 91
     },
     {
       "name": "dry-eyes",
@@ -71858,6 +72038,18 @@
       "score": 85
     },
     {
+      "name": "editkit-text-editor",
+      "version": "1.0.6",
+      "description": "Open-source TypeScript rich text and WYSIWYG editor for React, Next.js, Vue, Nuxt, Svelte, SvelteKit, and vanilla JavaScript.",
+      "license": "MIT",
+      "repository": "https://github.com/ashikurweb/editKit-text-editor",
+      "npmUrl": "https://www.npmjs.com/package/editkit-text-editor",
+      "category": "frontend",
+      "createdAt": "2026-08-27T07:48:13.011Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 92
+    },
+    {
       "name": "editor-shell",
       "version": "0.2.0",
       "description": "Shared editor-chrome primitives for the EFFICIENT editors. First brick: EditorRail — one shared left icon-rail, consumable as a Next-16-safe leaf.",
@@ -73250,6 +73442,18 @@
       "score": 87
     },
     {
+      "name": "external-review",
+      "version": "1.0.0",
+      "description": "Review your code with a second, independent model - and know what it costs, where your source goes, and which findings to believe. Ships a Claude Code skill.",
+      "license": "MIT",
+      "repository": "https://github.com/yevgavrikov/claude-external-review",
+      "npmUrl": "https://www.npmjs.com/package/external-review",
+      "category": "utilities",
+      "createdAt": "2026-08-26T15:47:43.902Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 95
+    },
+    {
       "name": "ezagent",
       "version": "0.1.0",
       "description": "A lightweight, provider-agnostic TypeScript SDK for building transparent AI agents.",
@@ -73308,6 +73512,18 @@
       "createdAt": "2026-08-09T05:24:11.544Z",
       "discoveredAt": "2026-08-09T05:43:45.675Z",
       "score": 49
+    },
+    {
+      "name": "fake-audio",
+      "version": "1.0.1",
+      "description": "Generate fake audio files and buffers. Useful for generating fixtures for unit tests for audio libraries. Supports WAV, MP3, M4A, Ogg, FLAC, and 9 other audio formats.",
+      "license": "MIT",
+      "repository": "https://github.com/jonschlinkert/fake-audio",
+      "npmUrl": "https://www.npmjs.com/package/fake-audio",
+      "category": "testing",
+      "createdAt": "2026-08-27T04:42:08.021Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 96
     },
     {
       "name": "fakeborn",
@@ -74472,6 +74688,18 @@
       "createdAt": "2026-07-26T13:10:19.485Z",
       "discoveredAt": "2026-07-26T18:59:40.407Z",
       "score": 71
+    },
+    {
+      "name": "fritz2mqtt",
+      "version": "1.0.0",
+      "description": "Interface between AVM FRITZ!Box routers (TR-064) and MQTT: DSL/WAN status, traffic, WLAN, LAN hosts, call monitor, with Home Assistant discovery",
+      "license": "MIT",
+      "repository": "https://github.com/hobbyquaker/fritz2mqtt",
+      "npmUrl": "https://www.npmjs.com/package/fritz2mqtt",
+      "category": "utilities",
+      "createdAt": "2026-08-26T15:52:24.260Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 94
     },
     {
       "name": "frizz",
@@ -89390,6 +89618,18 @@
       "score": 88
     },
     {
+      "name": "pathname-to-regexp",
+      "version": "1.0.0",
+      "description": "A robust JavaScript pathname parser, compiler, and matcher. Supports named parameters, wildcards, optional groups, custom delimiters, and generates optimized regular expressions.",
+      "license": "MIT",
+      "repository": "https://github.com/vgbr-dev/pathname-to-regexp",
+      "npmUrl": "https://www.npmjs.com/package/pathname-to-regexp",
+      "category": "backend",
+      "createdAt": "2026-08-27T05:34:10.565Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 97
+    },
+    {
       "name": "payermax-developer-mcp-server",
       "version": "1.0.0",
       "description": "PayerMax Developer Center MCP Server - Automate sandbox integration setup",
@@ -89592,6 +89832,18 @@
       "createdAt": "2026-07-30T19:19:45.029Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 83
+    },
+    {
+      "name": "pdac-conformance",
+      "version": "1.0.0",
+      "description": "Conformance runner for the Product Definition as Code specification: run the versioned conformance tests against any implementation CLI and compare the diagnostics it emits.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/product-definition-as-code/pdac-conformance",
+      "npmUrl": "https://www.npmjs.com/package/pdac-conformance",
+      "category": "testing",
+      "createdAt": "2026-08-26T17:24:35.286Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 91
     },
     {
       "name": "pdac-lint",
@@ -96014,6 +96266,18 @@
       "score": 90
     },
     {
+      "name": "rpgmaker-pkmn-essentials-mcp",
+      "version": "2.0.0",
+      "description": "Author RPG Maker XP and Pokemon Essentials games in natural language - an MCP server that reads, writes, renders and verifies RGSS1 .rxdata projects (maps, events, database, scripts) directly.",
+      "license": "MIT",
+      "repository": "https://github.com/nmccray01/rpgmaker-pkmn-essentials-mcp",
+      "npmUrl": "https://www.npmjs.com/package/rpgmaker-pkmn-essentials-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-26T16:20:03.236Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 99
+    },
+    {
       "name": "rpgmaker-xp-mcp",
       "version": "1.1.0",
       "description": "Author RPG Maker XP games in natural language — an MCP server that reads, writes, and renders RGSS1 .rxdata projects (actors, skills, items, maps, events, scripts) directly.",
@@ -99506,6 +99770,18 @@
       "score": 60
     },
     {
+      "name": "stonedog-logs",
+      "version": "1.0.0",
+      "description": "One logging library for JavaScript and TypeScript projects: a level-filtered dispatcher, console/file/OpenTelemetry sinks, and credential redaction that a host extends with its own keys.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/stonedog-code/stonedog-logs",
+      "npmUrl": "https://www.npmjs.com/package/stonedog-logs",
+      "category": "build-tools",
+      "createdAt": "2026-08-26T16:40:17.907Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 94
+    },
+    {
       "name": "stoneware",
       "version": "0.1.0",
       "description": "Bun-native, server-first web framework where HTML is the default and JavaScript is opt-in. Islands for interactivity, signals inside islands, security on before you configure anything.",
@@ -101568,6 +101844,18 @@
       "createdAt": "2026-08-04T23:30:03.767Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 57
+    },
+    {
+      "name": "toasty-bite",
+      "version": "1.0.1",
+      "description": "Lightweight, fully customizable, dependency-free vanilla JS toast notification library — works with React, Vue, Angular, Svelte, or plain HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/DevCsoul/Toasty-Bite",
+      "npmUrl": "https://www.npmjs.com/package/toasty-bite",
+      "category": "frontend",
+      "createdAt": "2026-08-27T06:42:21.104Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 94
     },
     {
       "name": "tododdle-mcp",
@@ -106224,6 +106512,18 @@
       "createdAt": "2026-08-02T19:45:14.218Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 73
+    },
+    {
+      "name": "zero-slop",
+      "version": "2.6.1",
+      "description": "An Agent Skill that scores AI-sounding prose 0-100 locally and rewrites it without losing a fact. Runs inside Claude Code, Codex, Cursor, Warp, Zed and other SKILL.md agents. Offline, zero dependencies, MIT.",
+      "license": "MIT",
+      "repository": "https://github.com/manavmishra/ZeroSlop",
+      "npmUrl": "https://www.npmjs.com/package/zero-slop",
+      "category": "devops",
+      "createdAt": "2026-08-26T14:48:26.147Z",
+      "discoveredAt": "2026-08-27T08:56:03.801Z",
+      "score": 95
     },
     {
       "name": "zerogate",
