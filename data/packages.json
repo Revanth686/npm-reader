@@ -902,6 +902,18 @@
       "score": 74
     },
     {
+      "name": "@absolutejs/diagnostics",
+      "version": "0.2.0",
+      "description": "Privacy-first AbsoluteJS Support Mode: bounded browser diagnostics, redacted HAR capture, correlated support bundles, secure lifecycle storage, native UI, and operator tooling.",
+      "license": "BSL-1.1",
+      "repository": "https://github.com/absolutejs/diagnostics",
+      "npmUrl": "https://www.npmjs.com/package/%40absolutejs%2Fdiagnostics",
+      "category": "testing",
+      "createdAt": "2026-08-28T23:01:11.012Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 83
+    },
+    {
       "name": "@absolutejs/dispatch-sinch",
       "version": "0.2.0",
       "description": "Production Sinch Conversation API adapter for AbsoluteJS with multichannel fallback, signed durable webhooks, consent, readiness, and 10DLC workflows.",
@@ -2016,6 +2028,18 @@
       "createdAt": "2026-08-15T05:08:45.658Z",
       "discoveredAt": "2026-08-15T05:12:32.624Z",
       "score": 52
+    },
+    {
+      "name": "@ai-matrx/kit",
+      "version": "0.5.0",
+      "description": "The always-include AI Matrx kit: the little primitives every Matrx app speaks — autosave that never loses a keystroke, stale-response guards, clipboard with graceful fallbacks — one per subpath, tree-shaken to what you use.",
+      "license": "MIT",
+      "repository": "https://github.com/AI-Matrix-Engine/aidream",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-matrx%2Fkit",
+      "category": "frontend",
+      "createdAt": "2026-08-29T06:29:13.122Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 85
     },
     {
       "name": "@ai-nd-co/codex-web-remote",
@@ -5378,6 +5402,18 @@
       "score": 66
     },
     {
+      "name": "@ashlar-blue/x402-trust",
+      "version": "0.3.0",
+      "description": "The institutional trust layer for autonomous AI agents: discover payment endpoints via DNS, verify TEE hardware quotes, and generate SCITT transparency receipts. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/correntelabs/ashlar-blue",
+      "npmUrl": "https://www.npmjs.com/package/%40ashlar-blue%2Fx402-trust",
+      "category": "testing",
+      "createdAt": "2026-08-29T03:15:23.866Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 86
+    },
+    {
       "name": "@ashrithsathu/p2pchat",
       "version": "0.6.0",
       "description": "End-to-end encrypted, local-first terminal chat",
@@ -6206,6 +6242,18 @@
       "score": 66
     },
     {
+      "name": "@axis-dsl/harness",
+      "version": "1.0.0",
+      "description": "Runs Axis source against a real headless Desmos calculator, so tests and agents can read the state, expressions and expression analysis a graph actually produces",
+      "license": "MIT",
+      "repository": "https://github.com/jayson-clark/axis",
+      "npmUrl": "https://www.npmjs.com/package/%40axis-dsl%2Fharness",
+      "category": "testing",
+      "createdAt": "2026-08-28T22:37:48.257Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 83
+    },
+    {
       "name": "@axosolaman/secure-next-upload",
       "version": "1.1.0",
       "description": "Production-grade, zero-server-bandwidth secure multi-entity file and media upload system with 5-layer security verification for Next.js and modern web apps.",
@@ -6372,6 +6420,18 @@
       "createdAt": "2026-08-22T13:13:52.080Z",
       "discoveredAt": "2026-08-22T13:33:36.708Z",
       "score": 80
+    },
+    {
+      "name": "@aylina_ankali/code-rag-mcp",
+      "version": "0.3.1",
+      "description": "Code RAG MCP server: semantic indexing and retrieval of a local codebase (declaration-aware chunking + bge-m3 embeddings + Qdrant hybrid search). Exposes search_code / index_codebase / index_status / index_cancel / set_root MCP tools and a CLI, plus a loc",
+      "license": "MIT",
+      "repository": "https://github.com/Ankali-Aylina/code-rag",
+      "npmUrl": "https://www.npmjs.com/package/%40aylina_ankali%2Fcode-rag-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-29T03:44:15.724Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 88
     },
     {
       "name": "@ayronforge/haversack",
@@ -15002,6 +15062,18 @@
       "score": 75
     },
     {
+      "name": "@dynamicore/jumio-sdk",
+      "version": "1.0.0",
+      "description": "Librería modular y tipada para la validación de identidad e INE con Jumio en aplicaciones DynamiCore.",
+      "license": "MIT",
+      "repository": "https://github.com/fintcore/jumio-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40dynamicore%2Fjumio-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-29T02:22:24.480Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 86
+    },
+    {
       "name": "@dzg-studio/mcp-server-mint",
       "version": "1.0.0",
       "description": "Launch Mint's on-device macOS storage intelligence as a local MCP server.",
@@ -18888,6 +18960,18 @@
       "createdAt": "2026-08-20T11:14:01.237Z",
       "discoveredAt": "2026-08-22T13:33:36.708Z",
       "score": 73
+    },
+    {
+      "name": "@get-milano/cli",
+      "version": "1.3.0",
+      "description": "Milano Document-Driven UI: the producer's command line. Validates documents with the gate the engines run, and generates the document schema and typed bindings from a vocabulary.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/get-milano/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40get-milano%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-08-28T22:12:43.661Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 87
     },
     {
       "name": "@get-on-investing/investing-navigator",
@@ -23234,6 +23318,18 @@
       "score": 69
     },
     {
+      "name": "@glytch-ai/pm-agent",
+      "version": "0.1.0",
+      "description": "Prompting Machine board bridge: a stdio MCP server that speaks the app's folder contract (canvas/ mirror out, inbox/ ops in). Detachable by design - the app never imports from here and never knows this daemon exists.",
+      "license": "MIT",
+      "repository": "https://github.com/glytch-ai/prompting-machine",
+      "npmUrl": "https://www.npmjs.com/package/%40glytch-ai%2Fpm-agent",
+      "category": "backend",
+      "createdAt": "2026-08-28T22:28:13.197Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 84
+    },
+    {
       "name": "@goalapi/sdk",
       "version": "1.0.0",
       "description": "JavaScript and TypeScript SDK for the GOAL API: football fixtures, live scores, standings, stats and live WebSocket updates.",
@@ -24276,6 +24372,18 @@
       "createdAt": "2026-08-10T12:09:43.530Z",
       "discoveredAt": "2026-08-13T05:45:12.412Z",
       "score": 60
+    },
+    {
+      "name": "@harpinderdev/react-speech-recognition-plus",
+      "version": "1.0.0",
+      "description": "Drop-in replacement for react-speech-recognition with explicit, honestly-reported microphone audio constraints (echoCancellation, noiseSuppression, autoGainControl)",
+      "license": "MIT",
+      "repository": "https://github.com/harpinderdev/react-speech-recognition-plus",
+      "npmUrl": "https://www.npmjs.com/package/%40harpinderdev%2Freact-speech-recognition-plus",
+      "category": "frontend",
+      "createdAt": "2026-08-29T06:28:06.347Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 96
     },
     {
       "name": "@harrify/whatsapp",
@@ -31334,6 +31442,18 @@
       "score": 71
     },
     {
+      "name": "@lokesh_kumar/community-grid-store",
+      "version": "1.0.0",
+      "description": "Community Edition of GridStore — Lightweight, reactive data engine with sorting, filtering, pagination, selection, and framework adapters.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/kumarlokesh16693/enterprise-crud",
+      "npmUrl": "https://www.npmjs.com/package/%40lokesh_kumar%2Fcommunity-grid-store",
+      "category": "frontend",
+      "createdAt": "2026-08-29T06:25:30.131Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 89
+    },
+    {
       "name": "@lonare/ai-nazar-sdk",
       "version": "0.1.0",
       "description": "AI observability SDK for LLM applications — track cost, latency, tokens, and errors across OpenAI and other providers.",
@@ -32280,6 +32400,18 @@
       "createdAt": "2026-08-20T05:56:25.153Z",
       "discoveredAt": "2026-08-20T13:03:17.154Z",
       "score": 88
+    },
+    {
+      "name": "@magic-spells/sticky-header",
+      "version": "0.2.0",
+      "description": "Scroll-following sticky header web component — the header tracks the scroll 1:1 and settles to shown or hidden on idle, with sticky-content riders, breakpoint gating, and lock support, no dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/magic-spells/sticky-header",
+      "npmUrl": "https://www.npmjs.com/package/%40magic-spells%2Fsticky-header",
+      "category": "devops",
+      "createdAt": "2026-08-28T23:14:28.635Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 86
     },
     {
       "name": "@magical-index/alidocs-web-mcp",
@@ -38582,6 +38714,18 @@
       "score": 79
     },
     {
+      "name": "@num-kit/core",
+      "version": "0.1.1",
+      "description": "Lightweight, framework-agnostic TypeScript toolkit for number formatting, parsing, currency conversion, rounding, and human-readable output, with injectable i18n providers. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/num-kit/js_core",
+      "npmUrl": "https://www.npmjs.com/package/%40num-kit%2Fcore",
+      "category": "data",
+      "createdAt": "2026-08-28T14:44:44.728Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 89
+    },
+    {
       "name": "@numaya/greenlight",
       "version": "0.2.0",
       "description": "Lead quality gate for Twenty CRM. Deterministic scoring plus optional AI and search enrichment.",
@@ -42096,6 +42240,18 @@
       "createdAt": "2026-08-11T08:02:22.329Z",
       "discoveredAt": "2026-08-11T08:59:52.637Z",
       "score": 72
+    },
+    {
+      "name": "@postdom/sdk",
+      "version": "0.1.0",
+      "description": "Typed, zero-dependency Node and edge client for the Postdom short-form publishing API: upload media, connect TikTok, Instagram, and YouTube accounts, submit plans, publish videos, and read honest performance data.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/deanfankhauser/postdom",
+      "npmUrl": "https://www.npmjs.com/package/%40postdom%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-08-29T00:03:42.234Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 90
     },
     {
       "name": "@posty5/product-scraper",
@@ -55826,6 +55982,18 @@
       "score": 80
     },
     {
+      "name": "@wapilot/sdk",
+      "version": "1.0.0",
+      "description": "Official TypeScript/JavaScript SDK for the WAPilot Developer API (WhatsApp messaging, contacts, templates, flows, campaigns)",
+      "license": "MIT",
+      "repository": "https://github.com/Parag0712/wapilot-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40wapilot%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-28T22:49:04.381Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 84
+    },
+    {
       "name": "@wardenpoint/mcp-server",
       "version": "0.1.0",
       "description": "MCP server for WardenPoint: let an agent configure recipients, groups, escalation policies, on-call schedules and alert routing. Built entirely from the installation's own OpenAPI description.",
@@ -57144,6 +57312,18 @@
       "createdAt": "2026-08-11T14:03:18.849Z",
       "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 100
+    },
+    {
+      "name": "@xivdyetools/worker-kit",
+      "version": "1.1.0",
+      "description": "Shared Cloudflare Worker toolkit for xivdyetools: Hono middleware (request ID, logger, rate limit) + rate limiting backends (Memory, KV, Upstash)",
+      "license": "MIT",
+      "repository": "https://github.com/FlashGalatine/xivdyetools",
+      "npmUrl": "https://www.npmjs.com/package/%40xivdyetools%2Fworker-kit",
+      "category": "backend",
+      "createdAt": "2026-08-29T00:11:46.352Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 86
     },
     {
       "name": "@xlscalc/xlsx-preview",
@@ -59772,6 +59952,18 @@
       "createdAt": "2026-08-08T08:11:01.469Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 43
+    },
+    {
+      "name": "agent-loop-guard-js",
+      "version": "0.1.0",
+      "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.",
+      "license": "MIT",
+      "repository": "https://github.com/OMD-123/agent-loop-guard",
+      "npmUrl": "https://www.npmjs.com/package/agent-loop-guard-js",
+      "category": "build-tools",
+      "createdAt": "2026-08-29T06:28:17.766Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 84
     },
     {
       "name": "agent-master-setup",
@@ -69902,6 +70094,18 @@
       "score": 66
     },
     {
+      "name": "doujin-scraper",
+      "version": "1.0.1",
+      "description": "Standalone data-collection modules for manga / video cataloging sources. Zero-dependency ESM, runs on Node.js >= 18.17, Bun, Deno, or any JS runtime with global fetch.",
+      "license": "MIT",
+      "repository": "https://github.com/kyy0887/doujin-scraper",
+      "npmUrl": "https://www.npmjs.com/package/doujin-scraper",
+      "category": "backend",
+      "createdAt": "2026-08-28T23:30:10.039Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 96
+    },
+    {
       "name": "dowafu",
       "version": "0.3.0",
       "description": "Send a section of your design doc to external LLMs for review. They read only the files you whitelist, and nothing is billed until you confirm.",
@@ -76800,6 +77004,18 @@
       "createdAt": "2026-07-31T18:25:57.563Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 85
+    },
+    {
+      "name": "halfcycle",
+      "version": "0.3.8",
+      "description": "Your coding agents are the engineers. Halfcycle is the rest of the team: product owner, architect, planner and independent reviewer for Claude Code.",
+      "license": "MIT",
+      "repository": "https://github.com/Halfcycle-AI/halfcycle-cli",
+      "npmUrl": "https://www.npmjs.com/package/halfcycle",
+      "category": "devops",
+      "createdAt": "2026-08-19T14:24:03.707Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 84
     },
     {
       "name": "halon-sdk",
@@ -89690,6 +89906,18 @@
       "score": 81
     },
     {
+      "name": "ornn-forge",
+      "version": "1.0.1",
+      "description": "Modular skills that teach AI agents to audit systems, find bugs, review UX/frontend, and research before reinventing. npx ornn-forge install",
+      "license": "MIT",
+      "repository": "https://github.com/1arley/1arley-agent-skills",
+      "npmUrl": "https://www.npmjs.com/package/ornn-forge",
+      "category": "frontend",
+      "createdAt": "2026-08-29T02:05:49.690Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 94
+    },
+    {
       "name": "orvix-cli",
       "version": "0.2.0",
       "description": "Semantic code map for AI agents — index a codebase once, address every symbol by a short code, read only what you need.",
@@ -89712,6 +89940,18 @@
       "createdAt": "2026-08-05T15:50:43.491Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 69
+    },
+    {
+      "name": "osamcall",
+      "version": "1.0.1",
+      "description": "Official SDK for OsamCall — 1:1 video calling for web, Next.js, Node.js, and React Native.",
+      "license": "MIT",
+      "repository": "https://github.com/your-org/osamcall-js",
+      "npmUrl": "https://www.npmjs.com/package/osamcall",
+      "category": "frontend",
+      "createdAt": "2026-08-21T10:47:28.814Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 83
     },
     {
       "name": "osf-data-marketplace",
@@ -91682,6 +91922,18 @@
       "score": 92
     },
     {
+      "name": "pi-live-models",
+      "version": "0.1.0",
+      "description": "Live /v1/models discovery for pi — any OpenAI-compatible or Anthropic gateway, plus built-in provider catalog overrides. Config-driven filters, metadata merge ladder, credential reuse, offline cache.",
+      "license": "MIT",
+      "repository": "https://github.com/wait4xx/pi-live-models",
+      "npmUrl": "https://www.npmjs.com/package/pi-live-models",
+      "category": "data",
+      "createdAt": "2026-08-29T03:31:33.947Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 84
+    },
+    {
       "name": "pi-live-pricing",
       "version": "1.1.0",
       "description": "Live, always-correct LLM pricing for the pi coding agent. Merges live catalog prices onto pi's curated model metadata instead of replacing it.",
@@ -92414,6 +92666,18 @@
       "score": 87
     },
     {
+      "name": "piecework",
+      "version": "0.1.0",
+      "description": "Share a file with anyone in one command. A real peer-to-peer file-sharing protocol, implemented from scratch: bencoding, SHA-1 piece verification, a tracker, and the actual BitTorrent peer wire protocol (BEP 3).",
+      "license": "MIT",
+      "repository": "https://github.com/Eddiegah/Piecework",
+      "npmUrl": "https://www.npmjs.com/package/piecework",
+      "category": "cli",
+      "createdAt": "2026-08-29T04:46:02.520Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 88
+    },
+    {
       "name": "pigeonsms.js",
       "version": "0.1.1",
       "description": "PigeonSMS bot SDK — slash commands, interactions, long-poll or webhook delivery, gateway events. Zero dependencies.",
@@ -93036,6 +93300,18 @@
       "createdAt": "2026-07-28T22:38:42.700Z",
       "discoveredAt": "2026-07-28T23:45:36.453Z",
       "score": 58
+    },
+    {
+      "name": "poppo",
+      "version": "2.0.0",
+      "description": "Tooltip, popover and toast for Expo and React Native — native popups on iOS and Android, Base UI on web.",
+      "license": "MIT",
+      "repository": "https://github.com/alantoa/poppo",
+      "npmUrl": "https://www.npmjs.com/package/poppo",
+      "category": "frontend",
+      "createdAt": "2026-08-29T00:02:03.270Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 90
     },
     {
       "name": "port-mapper",
@@ -97790,6 +98066,18 @@
       "score": 86
     },
     {
+      "name": "scroll-xeno",
+      "version": "1.0.0",
+      "description": "Scroll-Xeno (xscroll) — agent skill for immersive scroll-scrubbed 'fly through the world' cinematic landing pages: frame-locked AI video chains, portable scrub engine, interactive beats, countdown gate, hidden admin panel, Vercel deployment. Production ex",
+      "license": "MIT",
+      "repository": "https://github.com/jeet1511/scroll-xeno",
+      "npmUrl": "https://www.npmjs.com/package/scroll-xeno",
+      "category": "devops",
+      "createdAt": "2026-08-29T04:47:24.366Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 100
+    },
+    {
       "name": "scrollcase",
       "version": "0.1.0",
       "description": "Build signed, verifiable, installable Python environment boxes for scientific models.",
@@ -99300,6 +99588,18 @@
       "createdAt": "2026-07-31T15:35:48.430Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 79
+    },
+    {
+      "name": "slade-cli",
+      "version": "3.2.2",
+      "description": "CLI for generating NestJS DDD boilerplate code (Drizzle + PostgreSQL)",
+      "license": "MIT",
+      "repository": "https://github.com/tambongslade/slade-cli",
+      "npmUrl": "https://www.npmjs.com/package/slade-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-29T00:31:41.215Z",
+      "discoveredAt": "2026-08-29T06:53:02.577Z",
+      "score": 86
     },
     {
       "name": "slashforge",
