@@ -6938,6 +6938,18 @@
       "score": 68
     },
     {
+      "name": "@beeeeen/mcp-probe",
+      "version": "0.1.1",
+      "description": "Conformance and robustness test suite for Model Context Protocol (MCP) servers. Runs in CI, zero dependencies. Catches stdout pollution, broken tool schemas, and bad JSON-RPC error handling before your agent does.",
+      "license": "MIT",
+      "repository": "https://github.com/Beeeeen/mcp-probe",
+      "npmUrl": "https://www.npmjs.com/package/%40beeeeen%2Fmcp-probe",
+      "category": "testing",
+      "createdAt": "2026-08-26T15:48:15.506Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 89
+    },
+    {
       "name": "@belalwaheed/octagon-mist",
       "version": "1.0.0",
       "description": "Framework-agnostic design system with Filter Octagon (dark) and Minimal Mist (light) themes — OKLCH color ramps, semantic tokens, and 8 output formats",
@@ -11244,6 +11256,18 @@
       "createdAt": "2026-08-08T11:33:09.455Z",
       "discoveredAt": "2026-08-08T12:30:05.212Z",
       "score": 72
+    },
+    {
+      "name": "@countrystatecity/sdk",
+      "version": "0.2.0",
+      "description": "Official JS/TS client SDK for the CountryStateCity REST API — countries, states, cities, regions, currencies, phone codes, timezones, search, and usage",
+      "license": "MIT",
+      "repository": "https://github.com/dr5hn/countrystatecity-npm",
+      "npmUrl": "https://www.npmjs.com/package/%40countrystatecity%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-24T08:39:07.848Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 85
     },
     {
       "name": "@crafter/vcut",
@@ -15878,6 +15902,18 @@
       "score": 46
     },
     {
+      "name": "@emaxe/tuigram",
+      "version": "1.0.1",
+      "description": "Полнофункциональный TUI & CLI клиент Telegram на Node.js на базе MTProto (teleproto)",
+      "license": "MIT",
+      "repository": "https://github.com/emaxe/tuigram",
+      "npmUrl": "https://www.npmjs.com/package/%40emaxe%2Ftuigram",
+      "category": "cli",
+      "createdAt": "2026-08-29T15:05:30.876Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 88
+    },
+    {
       "name": "@embermind/embermind-fingerprint",
       "version": "1.4.0",
       "description": "Browser fingerprinting library for fraud detection and visitor identification",
@@ -17690,6 +17726,18 @@
       "score": 79
     },
     {
+      "name": "@flowcastle/grammy",
+      "version": "0.4.1",
+      "description": "FlowCastle grammY plugin — observe a Telegram bot and ship batched analytics/contact/goal events to FlowCastle. Zero runtime dependencies; architecturally incapable of breaking the host bot.",
+      "license": "MIT",
+      "repository": "https://github.com/FlowCastle/flowcastle-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40flowcastle%2Fgrammy",
+      "category": "devops",
+      "createdAt": "2026-08-28T08:18:06.704Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 89
+    },
+    {
       "name": "@flowconsent/server-sdk",
       "version": "0.1.0",
       "description": "Décision de consentement FlowConsent côté serveur : lit le cookie first-party (contrat v1), refuse par défaut, vérifie les signatures de webhook. Zéro dépendance, compatible edge.",
@@ -19128,6 +19176,18 @@
       "createdAt": "2026-08-05T12:37:56.254Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 81
+    },
+    {
+      "name": "@getpipher/armory-mesh",
+      "version": "0.1.1",
+      "description": "Hardened peer-to-peer mesh for pi agents — live presence, work claims, cross-session duplicate checks, and a durable fleet memory for N parallel sessions. Signed + secured by default.",
+      "license": "MIT",
+      "repository": "https://github.com/getpipher/armory-mesh",
+      "npmUrl": "https://www.npmjs.com/package/%40getpipher%2Farmory-mesh",
+      "category": "utilities",
+      "createdAt": "2026-08-29T14:08:32.968Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 86
     },
     {
       "name": "@getpipher/herdr-sysmon",
@@ -37322,6 +37382,18 @@
       "score": 89
     },
     {
+      "name": "@nemesis-oss/devagent-ts",
+      "version": "1.0.0",
+      "description": "Autonomous, developer-focused AI coding assistant runtime and terminal UI powered by local & cloud Ollama models with capability routing, Docker sandbox, and LSP code intelligence.",
+      "license": "MIT",
+      "repository": "https://github.com/shubhamtaywade82/devagent-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40nemesis-oss%2Fdevagent-ts",
+      "category": "build-tools",
+      "createdAt": "2026-08-29T09:19:54.874Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 98
+    },
+    {
       "name": "@nemesis-oss/dhanhq-sdk",
       "version": "1.0.0",
       "description": "Production-grade TypeScript SDK for DhanHQ API v2. Features REST APIs, WebSocket market data, option analytics, technical analysis, risk management, and MCP server tools for algorithmic trading agents.",
@@ -47018,6 +47090,18 @@
       "score": 73
     },
     {
+      "name": "@scribefinance/sdk",
+      "version": "0.2.0",
+      "description": "The official Scribe Finance SDK: recurring payments, spending allowances, and metered usage for autonomous agents, settled in USDG on Robinhood Chain.",
+      "license": "MIT",
+      "repository": "https://github.com/scribefinanceorg/typescript-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40scribefinance%2Fsdk",
+      "category": "devops",
+      "createdAt": "2026-08-25T09:34:44.940Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 85
+    },
+    {
       "name": "@scriptixlabs/encryptix",
       "version": "1.0.0",
       "description": "A secure, zero-dependency crypto toolkit for Node.js, browsers, and edge runtimes. AES-256-GCM, ChaCha20-Poly1305, RSA-OAEP, ECDH, ECDSA, RSA-PSS, AES-SIV, TOTP/HOTP, envelope encryption, streaming, signed tokens, key rotation, and more.",
@@ -49764,6 +49848,18 @@
       "createdAt": "2026-08-13T23:23:00.701Z",
       "discoveredAt": "2026-08-14T01:13:25.832Z",
       "score": 80
+    },
+    {
+      "name": "@srtv/toondash",
+      "version": "1.0.1",
+      "description": "Toondash. High-performance data manipulation, parsing, serializing, streaming, and 40-70% LLM token reduction.",
+      "license": "MIT",
+      "repository": "https://github.com/ayush-srtv/toondash",
+      "npmUrl": "https://www.npmjs.com/package/%40srtv%2Ftoondash",
+      "category": "data",
+      "createdAt": "2026-08-29T11:05:47.184Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 91
     },
     {
       "name": "@ss22219/skilldb",
@@ -55994,6 +56090,18 @@
       "score": 84
     },
     {
+      "name": "@waratahlabs/canopy",
+      "version": "0.5.0",
+      "description": "Multi-framework threat modelling for agentic AI systems — OWASP AIVSS V4 scoring and MITRE ATLAS technique mapping, with findings annotated against six risk frameworks",
+      "license": "MIT",
+      "repository": "https://github.com/waratahlabs/canopy",
+      "npmUrl": "https://www.npmjs.com/package/%40waratahlabs%2Fcanopy",
+      "category": "utilities",
+      "createdAt": "2026-08-29T10:52:15.845Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 86
+    },
+    {
       "name": "@wardenpoint/mcp-server",
       "version": "0.1.0",
       "description": "MCP server for WardenPoint: let an agent configure recipients, groups, escalation policies, on-call schedules and alert routing. Built entirely from the installation's own OpenAPI description.",
@@ -56196,6 +56304,18 @@
       "createdAt": "2026-08-03T18:58:49.052Z",
       "discoveredAt": "2026-08-03T19:21:31.086Z",
       "score": 84
+    },
+    {
+      "name": "@wcstack/view-transition",
+      "version": "1.32.0",
+      "description": "Declarative View Transition arbiter for Web Components. Framework-agnostic policy tag that animates @wcstack/router route swaps and @wcstack/state list/branch updates via the transition-runner protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/wcstack/wcstack",
+      "npmUrl": "https://www.npmjs.com/package/%40wcstack%2Fview-transition",
+      "category": "backend",
+      "createdAt": "2026-08-29T14:00:47.233Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 99
     },
     {
       "name": "@weasel-js/core",
@@ -60852,6 +60972,18 @@
       "createdAt": "2026-08-15T07:11:47.312Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 67
+    },
+    {
+      "name": "ai2ai-ui",
+      "version": "1.0.0",
+      "description": "FROM AI TO AI — High-precision monochrome React + Tailwind component ecosystem",
+      "license": "MIT",
+      "repository": "https://github.com/AlwaysItspeace/a2a-ui",
+      "npmUrl": "https://www.npmjs.com/package/ai2ai-ui",
+      "category": "frontend",
+      "createdAt": "2026-08-29T09:44:10.176Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 87
     },
     {
       "name": "ai4kanban-ui",
@@ -67284,6 +67416,18 @@
       "createdAt": "2026-07-30T03:01:41.141Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 79
+    },
+    {
+      "name": "context-xray",
+      "version": "0.2.0",
+      "description": "See what your agent setup costs you. Weighs the context-window tokens your MCP servers, CLAUDE.md, rules files and skills add to every request - before you type a word - across Claude Desktop, Claude Code, Cursor, Windsurf, VS Code, Zed, Cline, Roo Code,",
+      "license": "MIT",
+      "repository": "https://github.com/Beeeeen/context-xray",
+      "npmUrl": "https://www.npmjs.com/package/context-xray",
+      "category": "backend",
+      "createdAt": "2026-08-26T15:44:56.767Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 86
     },
     {
       "name": "contextengine-plugin",
@@ -74198,6 +74342,18 @@
       "score": 77
     },
     {
+      "name": "factum-orm",
+      "version": "0.4.0",
+      "description": "Visual Object-Role Modeling (ORM 2) editor for VS Code: draw conceptual schemas, verbalize them in FORML, validate them, and map them to relational and property graph schemas. Imports NORMA .orm files.",
+      "license": "MIT",
+      "repository": "https://github.com/Volland/factum-orm",
+      "npmUrl": "https://www.npmjs.com/package/factum-orm",
+      "category": "data",
+      "createdAt": "2026-08-29T15:20:05.471Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 90
+    },
+    {
       "name": "fajr-ui",
       "version": "1.0.0",
       "description": "Copy Fajr UI components into your project and keep them up to date.",
@@ -77306,6 +77462,18 @@
       "score": 89
     },
     {
+      "name": "headlesscode",
+      "version": "1.0.2",
+      "description": "Standalone headless coding-agent harness: runs the Zoo Code agent loop (prompts, tools, modes) without a VS Code UI, driven by CLI, HTTP, and parallel worktree orchestration.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Capsize-Games/headlesscode",
+      "npmUrl": "https://www.npmjs.com/package/headlesscode",
+      "category": "backend",
+      "createdAt": "2026-08-29T12:09:36.045Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 87
+    },
+    {
       "name": "heimdall-node-trace",
       "version": "2.0.0",
       "description": "Node.js log agent for the Heimdall API Platform — ships application logs to a gateway's ingestion endpoint, correlated to gateway request events by x-request-id and routed per gateway by x-heimdall-gateway-id.",
@@ -78204,6 +78372,18 @@
       "createdAt": "2026-07-28T17:24:24.491Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 95
+    },
+    {
+      "name": "huly-mcp-selfhost",
+      "version": "1.0.0",
+      "description": "MCP server for Huly (self-hosted + cloud) — connect Claude Desktop to your Huly workspace via the native WebSocket SDK. Fork of huly-mcp-sdk with self-hosted document/description support, chat, attachments, custom issue statuses, and organizations.",
+      "license": "EPL-2.0",
+      "repository": "https://github.com/JoKeks2023/huly-mcp",
+      "npmUrl": "https://www.npmjs.com/package/huly-mcp-selfhost",
+      "category": "backend",
+      "createdAt": "2026-08-29T14:08:08.905Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 94
     },
     {
       "name": "humain-studio",
@@ -82022,6 +82202,18 @@
       "score": 85
     },
     {
+      "name": "loragent",
+      "version": "2.0.0",
+      "description": "108-agent virtual software firm for Lorapok Labs — includes orchestration, image generation, GIF creation, deployment, development, business, and design agents. Hub-and-Spoke topology with MCP lazy-loading and crash recovery.",
+      "license": "MIT",
+      "repository": "https://github.com/Maijied/Loragent",
+      "npmUrl": "https://www.npmjs.com/package/loragent",
+      "category": "devops",
+      "createdAt": "2026-08-29T15:42:18.817Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 100
+    },
+    {
       "name": "lorem-mcp",
       "version": "0.2.0",
       "description": "MCP server for Lorem, the design-first AI slide deck editor: read and write decks as code, run the full AI pipeline (outline → build → quality loop → agentic edit), generate imagery, and export native PPTX/PDF — live against a running Lorem server.",
@@ -83798,6 +83990,18 @@
       "score": 91
     },
     {
+      "name": "mcp-wtf",
+      "version": "0.2.0",
+      "description": "Your MCP server won't connect. Find out why in 10 seconds. Diagnoses every server in your Claude Desktop, Claude Code, Cursor, VS Code, Cline, Zed and Gemini CLI configs - local and remote: missing commands, placeholder API keys, stdout pollution, silent",
+      "license": "MIT",
+      "repository": "https://github.com/Beeeeen/mcp-wtf",
+      "npmUrl": "https://www.npmjs.com/package/mcp-wtf",
+      "category": "backend",
+      "createdAt": "2026-08-26T15:45:00.426Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 90
+    },
+    {
       "name": "mcp-yandex-dostavka",
       "version": "0.0.1",
       "description": "MCP-сервер для Яндекс Доставки (dostavka.yandex.ru) — расчёт стоимости, заявки и трекинг отправлений. Для Claude, Cursor, Codex и других AI-клиентов.",
@@ -84314,6 +84518,18 @@
       "score": 84
     },
     {
+      "name": "meyi-pulse-server-dev",
+      "version": "1.0.0",
+      "description": "Complete uptime monitoring server - Drop-in Express backend with monitoring engine, database, REST API, and real-time updates. No authentication required.",
+      "license": "MIT",
+      "repository": "https://github.com/yourusername/pulsewatch",
+      "npmUrl": "https://www.npmjs.com/package/meyi-pulse-server-dev",
+      "category": "backend",
+      "createdAt": "2026-08-29T11:14:12.880Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 90
+    },
+    {
       "name": "mf-add-to-shell",
       "version": "1.0.0",
       "description": "Interactive CLI that registers a new Module Federation microfrontend in a host shell app — routes, i18n, permissions, proxy and remotes in one command.",
@@ -84542,6 +84758,18 @@
       "score": 95
     },
     {
+      "name": "mitigator",
+      "version": "1.0.0",
+      "description": "A production-grade, security-first TypeScript library for Node.js. Defends against XSS, Prototype Pollution, Path Traversal, SQL/NoSQL Injection, and more. Includes adaptive rate limiting, WebAuthn/Passkeys, AES-256-GCM sessions, and post-quantum cryptogr",
+      "license": "ISC",
+      "repository": "https://github.com/MohamedSoliman21/mitigator",
+      "npmUrl": "https://www.npmjs.com/package/mitigator",
+      "category": "data",
+      "createdAt": "2026-08-29T15:31:03.407Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 100
+    },
+    {
       "name": "mitm-ai",
       "version": "0.1.1",
       "description": "Man in the Middle AI SDK — TypeScript-first agent SDK with tools, memory, guardrails, handoffs, tracing, and multi-provider support.",
@@ -84672,6 +84900,18 @@
       "createdAt": "2026-07-27T03:08:21.390Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 83
+    },
+    {
+      "name": "modelbake",
+      "version": "0.1.0",
+      "description": "Freeze your app's real contract, run your app's own cases against any OpenAI-compatible endpoint, and measure structural correctness plus honest warm-serving latency. Refuses to print numbers it cannot verify.",
+      "license": "MIT",
+      "repository": "https://github.com/jackhwarner/modelbake",
+      "npmUrl": "https://www.npmjs.com/package/modelbake",
+      "category": "utilities",
+      "createdAt": "2026-08-29T10:05:24.966Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 90
     },
     {
       "name": "modelhitch",
@@ -90506,6 +90746,18 @@
       "score": 75
     },
     {
+      "name": "parse-server-kit",
+      "version": "3.0.0",
+      "description": "Decorator-driven toolkit for Parse Server: models, cloud functions, triggers, cron, REST routing, ACL, transactions, optimistic locking and Swagger, from TypeScript decorators.",
+      "license": "MIT",
+      "repository": "https://github.com/walhalabi-code/parse-server-kit",
+      "npmUrl": "https://www.npmjs.com/package/parse-server-kit",
+      "category": "backend",
+      "createdAt": "2026-08-29T16:10:33.594Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 97
+    },
+    {
       "name": "particulus",
       "version": "0.1.0",
       "description": "Particle system that morphs between shapes — SVG paths, text, images and built-in primitives — with a WebGL renderer and a Canvas2D fallback.",
@@ -95930,6 +96182,18 @@
       "score": 83
     },
     {
+      "name": "react-rotary-fab",
+      "version": "1.0.1",
+      "description": "A luxury watchmaker-inspired, highly customizable concentric rotary Floating Action Button (FAB) and precision arc dial for React.",
+      "license": "MIT",
+      "repository": "https://github.com/nikhileashy/react-rotary-fab",
+      "npmUrl": "https://www.npmjs.com/package/react-rotary-fab",
+      "category": "frontend",
+      "createdAt": "2026-08-29T12:37:57.634Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 93
+    },
+    {
       "name": "react-rubber-stamp",
       "version": "1.0.0",
       "description": "🖃 Worn-out rubber stamp component for React. Any text length, no CSS import, no image assets.",
@@ -96360,6 +96624,18 @@
       "createdAt": "2026-08-09T20:12:27.508Z",
       "discoveredAt": "2026-08-09T20:21:40.218Z",
       "score": 75
+    },
+    {
+      "name": "relative-time-lite",
+      "version": "1.0.1",
+      "description": "Sub-kilobyte relative time formatting on top of the platform's Intl.RelativeTimeFormat — no bundled locale data, calendar-correct units, and a self-pacing live updater with a React hook.",
+      "license": "MIT",
+      "repository": "https://github.com/PavelLazarchuk/relative-time-lite",
+      "npmUrl": "https://www.npmjs.com/package/relative-time-lite",
+      "category": "frontend",
+      "createdAt": "2026-08-29T07:34:32.947Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 98
     },
     {
       "name": "relay-gateway-sdk",
@@ -102650,6 +102926,18 @@
       "score": 94
     },
     {
+      "name": "thinks-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that writes, replies and rephrases in your own voice, learned from a Telegram export. Hands the calling model a measured style profile and your real messages — no API keys, no generation of its own.",
+      "license": "MIT",
+      "repository": "https://github.com/aimuzov/thinks-mcp",
+      "npmUrl": "https://www.npmjs.com/package/thinks-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-29T08:29:25.614Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 87
+    },
+    {
       "name": "thistripbtw-mcp",
       "version": "1.1.0",
       "description": "Persistent, shareable travel workspaces for AI agents. Hand someone a complete, editable travel plan as a private map link. No account, no API key, no card.",
@@ -106092,6 +106380,18 @@
       "createdAt": "2026-08-04T10:57:10.777Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 79
+    },
+    {
+      "name": "waykeep",
+      "version": "5.5.0",
+      "description": "Local-first shared memory for AI coding agents — one ambient memory across Claude Code and Codex: session briefings, pitfall warnings before repeated mistakes, auto-learned lessons with per-agent provenance, and post-compaction recovery. MCP server + life",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/vedtechsolutions/waykeep",
+      "npmUrl": "https://www.npmjs.com/package/waykeep",
+      "category": "backend",
+      "createdAt": "2026-08-29T14:05:06.135Z",
+      "discoveredAt": "2026-08-29T16:38:10.636Z",
+      "score": 100
     },
     {
       "name": "wayleave",
