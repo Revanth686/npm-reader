@@ -2162,6 +2162,18 @@
       "score": 75
     },
     {
+      "name": "@ai.vn/hermes-zalo-gateway",
+      "version": "1.0.1",
+      "description": "Connect a personal Zalo account to the Hermes Agent gateway via zca-js (unofficial Zalo API). SSE inbound + REST outbound. Cross-platform (macOS, Linux, Windows).",
+      "license": "MIT",
+      "repository": "https://github.com/thodinh/hermes-zalo-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40ai.vn%2Fhermes-zalo-gateway",
+      "category": "backend",
+      "createdAt": "2026-08-30T06:00:41.323Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 92
+    },
+    {
       "name": "@aibulat/svelte-admin-kit",
       "version": "0.2.0",
       "description": "Reusable Svelte 5 admin-UI primitives — controls, layout, feedback, data display, overlays, icon registry, Monaco and tiptap editors.",
@@ -3984,6 +3996,18 @@
       "createdAt": "2026-08-16T08:44:30.029Z",
       "discoveredAt": "2026-08-20T01:43:11.385Z",
       "score": 100
+    },
+    {
+      "name": "@amatiscorp/pagincord",
+      "version": "2.0.0",
+      "description": "Smart, fully configurable embed pagination for Discord.js v14+. Buttons, select menus, jump modal, EN/ES locales, events, and list helpers.",
+      "license": "MIT",
+      "repository": "https://github.com/amatiscorp/pagincord",
+      "npmUrl": "https://www.npmjs.com/package/%40amatiscorp%2Fpagincord",
+      "category": "build-tools",
+      "createdAt": "2026-08-30T11:47:03.228Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 93
     },
     {
       "name": "@amemhq/core",
@@ -8270,6 +8294,18 @@
       "score": 75
     },
     {
+      "name": "@bsday.js/react",
+      "version": "1.2.0",
+      "description": "Headless React hooks and components for Bikram Sambat (BS) Nepali calendar, datepicker, and range picker with full WAI-ARIA accessibility and keyboard navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/shurajcodx/bsday.js",
+      "npmUrl": "https://www.npmjs.com/package/%40bsday.js%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-08-30T05:05:11.607Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 91
+    },
+    {
       "name": "@bsv/air-gap",
       "version": "0.1.1",
       "description": "One-directional optical air-gap transport: fountain-coded QR parts for arbitrary bytes",
@@ -10163,6 +10199,18 @@
       "category": "frontend",
       "createdAt": "2026-08-26T07:34:23.281Z",
       "discoveredAt": "2026-08-26T13:06:22.803Z",
+      "score": 90
+    },
+    {
+      "name": "@clossys/controller",
+      "version": "0.8.21",
+      "description": "Owns every rule: package lifecycle and process orchestration (catalog, composition, gates, release, repository-profile, review-evidence, workspace-cleanup), account-neutral agent conventions (branch provenance, skill naming, agent interoperability, routin",
+      "license": "MIT",
+      "repository": "https://github.com/clossys/platform",
+      "npmUrl": "https://www.npmjs.com/package/%40clossys%2Fcontroller",
+      "category": "build-tools",
+      "createdAt": "2026-08-30T06:42:47.943Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
       "score": 90
     },
     {
@@ -26162,6 +26210,18 @@
       "score": 65
     },
     {
+      "name": "@hyuga/groundtruth",
+      "version": "0.5.1",
+      "description": "Completion verification gate for AI agents & automation: before anything reports \"done\", re-fetch the real world state with a probe and block the completion claim on empty/mismatch/error. Framework-agnostic, zero-dependency, no LLM.",
+      "license": "MIT",
+      "repository": "https://github.com/hyuga611/airframe",
+      "npmUrl": "https://www.npmjs.com/package/%40hyuga%2Fgroundtruth",
+      "category": "devops",
+      "createdAt": "2026-08-30T07:58:05.429Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 90
+    },
+    {
       "name": "@hyuga/llm-safe-sql",
       "version": "0.1.0",
       "description": "Let an LLM propose UPDATE/DELETE, then actually run it, measure the real before/after diff, and always roll back — so the human approves measured facts, not the model's claim.",
@@ -27492,6 +27552,18 @@
       "createdAt": "2026-08-15T10:25:02.735Z",
       "discoveredAt": "2026-08-15T10:40:41.879Z",
       "score": 78
+    },
+    {
+      "name": "@inverge/websocket",
+      "version": "1.0.0",
+      "description": "JavaScript/TypeScript SDK for the Inverge WebSocket service: room-based realtime over Socket.IO with a framework-agnostic core plus React and Vue adapters and a Node server emitter.",
+      "license": "MIT",
+      "repository": "https://github.com/Inverge-team/websocket-js",
+      "npmUrl": "https://www.npmjs.com/package/%40inverge%2Fwebsocket",
+      "category": "frontend",
+      "createdAt": "2026-08-30T11:44:45.445Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 94
     },
     {
       "name": "@inverity/payload-plugin",
@@ -41990,6 +42062,18 @@
       "score": 89
     },
     {
+      "name": "@platform-blocks/react-ui-library",
+      "version": "1.1.0",
+      "description": "A comprehensive React Native UI component library — 100+ accessible, themeable, cross-platform components for iOS, Android, and Web",
+      "license": "MIT",
+      "repository": "https://github.com/platform-blocks/react-ui-library",
+      "npmUrl": "https://www.npmjs.com/package/%40platform-blocks%2Freact-ui-library",
+      "category": "frontend",
+      "createdAt": "2026-08-30T09:32:50.256Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 93
+    },
+    {
       "name": "@playwright-labs/fixture-webauthn",
       "version": "1.0.0",
       "description": "WebAuthn/passkey fixture for Playwright — drive a virtual FIDO2/U2F authenticator over the Chrome DevTools Protocol, no real security key needed",
@@ -42672,6 +42756,18 @@
       "createdAt": "2026-07-25T22:33:03.651Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 56
+    },
+    {
+      "name": "@privacyscrubber/sdk",
+      "version": "2.0.2",
+      "description": "Zero-Trust Data Sanitization & PII Redaction Engine. 100% Client-Side / Server-Side in-memory execution. Zero external dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/moxno/privacyscrubber-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40privacyscrubber%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-08-30T09:58:37.620Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 91
     },
     {
       "name": "@proedis/react-query",
@@ -47426,6 +47522,18 @@
       "score": 82
     },
     {
+      "name": "@sema-agent/settings-schema",
+      "version": "1.1.0",
+      "description": "Sema settings schema — pure config contract (zod domains + effective-config + roster resolution + ref-integrity + remoteExec) shared by sema-registry, sema-server, and the TOC desktop/CLI. One source of truth. (Renamed at 1.0.0 from @sema-agent/registry-c",
+      "license": "BUSL-1.1",
+      "repository": "https://github.com/sema-agent/sema-settings-schema",
+      "npmUrl": "https://www.npmjs.com/package/%40sema-agent%2Fsettings-schema",
+      "category": "frontend",
+      "createdAt": "2026-08-26T01:44:53.895Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 91
+    },
+    {
       "name": "@semanticintent/semantic-chirp-intelligence-mcp",
       "version": "3.0.0",
       "description": "Semantic Intent pattern implementation for fantasy hockey intelligence - AI analysis that chirps you into championships",
@@ -49932,6 +50040,18 @@
       "createdAt": "2026-08-09T14:23:46.769Z",
       "discoveredAt": "2026-08-09T14:59:56.278Z",
       "score": 60
+    },
+    {
+      "name": "@sphoro/voice-web",
+      "version": "1.0.1",
+      "description": "Browser client for Sphoro Voice: a conversation with an agent, or a headless softphone for a dialler inside your own product",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/sphoro/sphoro.voice",
+      "npmUrl": "https://www.npmjs.com/package/%40sphoro%2Fvoice-web",
+      "category": "frontend",
+      "createdAt": "2026-08-30T13:42:42.408Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 92
     },
     {
       "name": "@spinajs/orm-cli",
@@ -53136,6 +53256,18 @@
       "createdAt": "2026-08-05T17:22:28.123Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 74
+    },
+    {
+      "name": "@timonwa/firebase-hooks",
+      "version": "0.1.0",
+      "description": "Typed React hooks for Firebase — one hook per flow, with its state, errors, and callbacks handled. Every action returns a result you can branch on, and each service is its own import, so an app only carries what it uses.",
+      "license": "MIT",
+      "repository": "https://github.com/Timonwa/firebase-hooks",
+      "npmUrl": "https://www.npmjs.com/package/%40timonwa%2Ffirebase-hooks",
+      "category": "frontend",
+      "createdAt": "2026-08-30T14:48:23.232Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 90
     },
     {
       "name": "@timpulver/molle",
@@ -62954,6 +63086,30 @@
       "score": 72
     },
     {
+      "name": "avtc-pi-session-owl",
+      "version": "1.1.0",
+      "description": "Preserves task-relevant older context across many compactions in long Pi sessions by continuously maintaining a knowledge graph in the background and rendering a curated active set at compaction.",
+      "license": "MIT",
+      "repository": "https://github.com/avtc/avtc-pi-session-owl",
+      "npmUrl": "https://www.npmjs.com/package/avtc-pi-session-owl",
+      "category": "utilities",
+      "createdAt": "2026-08-30T15:45:26.703Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 99
+    },
+    {
+      "name": "awesome-ai-tools",
+      "version": "1.0.0",
+      "description": "The premier open-source suite of 2,582 AI Skills, 68 Specialist Subagents, and Multi-Agent Workflows for Claude Code, Cursor, Windsurf, and Google Antigravity.",
+      "license": "MIT",
+      "repository": "https://github.com/dimasrahmandaalfarizi/Awesome-AI-Tools",
+      "npmUrl": "https://www.npmjs.com/package/awesome-ai-tools",
+      "category": "cli",
+      "createdAt": "2026-08-30T09:39:03.586Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 95
+    },
+    {
       "name": "awesome-renamer",
       "version": "2.0.0",
       "description": "Rule-based file and directory renaming with single and batch APIs, validation, and collision handling.",
@@ -71378,6 +71534,18 @@
       "score": 63
     },
     {
+      "name": "dsh-hashline-edittool",
+      "version": "0.4.1",
+      "description": "Line-anchored read/edit/batch_edit/grep/undo_last_edit tools for DeepSeek Harness (dsh). Every line is addressed by `<line>#<hash>` so chained edits skip a re-read; stale or ambiguous anchors are rejected and a fresh `<line>#<hash>` is served back. Undo p",
+      "license": "MIT",
+      "repository": "https://github.com/hyperion2144/dsh-hashline-edittool",
+      "npmUrl": "https://www.npmjs.com/package/dsh-hashline-edittool",
+      "category": "utilities",
+      "createdAt": "2026-08-30T12:55:53.470Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 90
+    },
+    {
       "name": "dsh-hooks",
       "version": "0.2.2",
       "description": "Config-driven lifecycle hooks plugin for DeepSeek Harness: declare event -> command hooks in cordis.patch.yml, no plugin code required.",
@@ -72348,6 +72516,18 @@
       "createdAt": "2026-08-15T08:47:37.323Z",
       "discoveredAt": "2026-08-15T09:10:33.160Z",
       "score": 50
+    },
+    {
+      "name": "dsh-session-workbench",
+      "version": "1.0.0",
+      "description": "Session Workbench for DeepSeek Harness: session-library full-text search + recall + conversation-view management. 会话工作台：会话库（全文搜索历史会话，一键以 @引用 召回给 AI）+ 会话视图（管理会话标签栏 显示/隐藏 + 排序）（session search / recall / view management / 会话视图）.",
+      "license": "MIT",
+      "repository": "https://github.com/PolinniZhong/dsh-session-workbench",
+      "npmUrl": "https://www.npmjs.com/package/dsh-session-workbench",
+      "category": "utilities",
+      "createdAt": "2026-08-30T12:53:40.561Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 100
     },
     {
       "name": "dsh-skill-hub",
@@ -73994,6 +74174,18 @@
       "score": 61
     },
     {
+      "name": "ethereal-glow",
+      "version": "0.1.0",
+      "description": "Ambient light effects for React: a travelling comet glow, a black-hole accretion disk, and a Bayer-dithered canvas variant — every instance driven by one shared 60fps loop. Zero dependencies, pure ESM, tree-shakeable, SSR-safe.",
+      "license": "MIT",
+      "repository": "https://github.com/TheAleSch/ethereal",
+      "npmUrl": "https://www.npmjs.com/package/ethereal-glow",
+      "category": "frontend",
+      "createdAt": "2026-08-30T05:46:43.861Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 90
+    },
+    {
       "name": "ethiopian-payment-verifier",
       "version": "1.1.0",
       "description": "Fast and reliable package to extract and verify payment receipts from major Ethiopian banks (CBE, Dashen, Awash, BOA, Zemen, Telebirr)",
@@ -75324,6 +75516,18 @@
       "createdAt": "2026-07-27T23:47:31.422Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 78
+    },
+    {
+      "name": "flex-drag-drop",
+      "version": "1.0.2",
+      "description": "Framework-agnostic drag and drop library with full customization — mouse, touch, bounds, grid snap, rotation, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/Arkar48/flex-drag-drop",
+      "npmUrl": "https://www.npmjs.com/package/flex-drag-drop",
+      "category": "build-tools",
+      "createdAt": "2026-08-30T14:59:08.099Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 89
     },
     {
       "name": "flex-media-viewer",
@@ -85202,6 +85406,18 @@
       "score": 67
     },
     {
+      "name": "modelnorth-agent-watch",
+      "version": "1.0.3",
+      "description": "Universal video engine for any AI agent: download video, extract frames, surface transcripts, and run autonomous visual analysis.",
+      "license": "MIT",
+      "repository": "https://github.com/menotbobbybrown/agent-watch",
+      "npmUrl": "https://www.npmjs.com/package/modelnorth-agent-watch",
+      "category": "utilities",
+      "createdAt": "2026-08-30T12:24:18.129Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 92
+    },
+    {
       "name": "modeltree",
       "version": "0.1.1",
       "description": "Headless CLI + library to print the hierarchy and contents of 3D models (glTF/GLB incl. Draco, FBX, OBJ, STL, PLY, Collada, USDZ, 3MF, and more) — no browser, no Blender.",
@@ -88994,6 +89210,18 @@
       "score": 80
     },
     {
+      "name": "omp-codex-reserve",
+      "version": "1.0.0",
+      "description": "Expose the authenticated gpt-reserve Codex model in oh-my-pi (OMP) and Pi without replacing native model behavior.",
+      "license": "MIT",
+      "repository": "https://github.com/mentalfl0w/omp-codex-reserve",
+      "npmUrl": "https://www.npmjs.com/package/omp-codex-reserve",
+      "category": "devops",
+      "createdAt": "2026-08-30T14:26:51.822Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 91
+    },
+    {
       "name": "omp-commandcode-provider",
       "version": "0.1.0",
       "description": "Command Code model provider for Oh My Pi",
@@ -89148,6 +89376,18 @@
       "createdAt": "2026-08-14T14:35:00.330Z",
       "discoveredAt": "2026-08-14T15:01:05.305Z",
       "score": 78
+    },
+    {
+      "name": "oooh-i-see-it-now",
+      "version": "1.0.0",
+      "description": "oooh I see it now — give your AI eyes. Xvfb + Playwright visual loop so agents finally SEE the UI they shipped",
+      "license": "MIT",
+      "repository": "https://github.com/MastaChief117/oooh-i-see-it-now",
+      "npmUrl": "https://www.npmjs.com/package/oooh-i-see-it-now",
+      "category": "testing",
+      "createdAt": "2026-08-30T10:27:31.461Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 91
     },
     {
       "name": "ooxml-validate",
@@ -94682,6 +94922,18 @@
       "score": 71
     },
     {
+      "name": "punched-memory",
+      "version": "1.0.1",
+      "description": "Persistent per-directory project memory for the pi coding agent. Keeps a structured pi.md file in each cwd, private & gitignored, that captures scope / decisions / gotchas / todos / session history across sessions.",
+      "license": "MIT",
+      "repository": "https://github.com/noguerol/punched",
+      "npmUrl": "https://www.npmjs.com/package/punched-memory",
+      "category": "devops",
+      "createdAt": "2026-08-30T13:37:13.630Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 96
+    },
+    {
       "name": "punktraster",
       "version": "0.1.1",
       "description": "Canvas-rendered dot raster preloader. Zero dependencies, one rAF for the whole page.",
@@ -99362,6 +99614,18 @@
       "score": 76
     },
     {
+      "name": "ship-risk",
+      "version": "1.0.0",
+      "description": "AI-Code Readiness Scanner - Spot the gap between 'AI says it's done' and production-ready code with explainable risk scoring.",
+      "license": "MIT",
+      "repository": "https://github.com/Alok-Fusion/ship-risk",
+      "npmUrl": "https://www.npmjs.com/package/ship-risk",
+      "category": "backend",
+      "createdAt": "2026-08-30T16:08:12.247Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 92
+    },
+    {
       "name": "shipsmith",
       "version": "1.1.0",
       "description": "AI-orchestrated SDLC engine — run DAG workflows that take software from idea to ship",
@@ -102362,6 +102626,18 @@
       "score": 73
     },
     {
+      "name": "t-dev",
+      "version": "1.4.21",
+      "description": "Ultra-fast, terminal-native AI coding assistant and agent built for Android Termux, Windows, macOS, and Linux.",
+      "license": "MIT",
+      "repository": "https://github.com/apvcode/Termux-Dev",
+      "npmUrl": "https://www.npmjs.com/package/t-dev",
+      "category": "cli",
+      "createdAt": "2026-08-30T12:14:55.710Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 91
+    },
+    {
       "name": "tabby-better-sidebar",
       "version": "0.3.0",
       "description": "Enhanced connection sidebar for Tabby: a contextual SFTP browser inside the sidebar itself, pinned favorites, live connection status, active sessions, workspaces, SSH tunnels, drag & drop (including dragging remote files out to the OS), a transfer manager",
@@ -102480,6 +102756,18 @@
       "createdAt": "2026-07-31T09:18:00.274Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 77
+    },
+    {
+      "name": "taint-tracked-tool-broker",
+      "version": "0.1.0",
+      "description": "Provenance labeling for agent inputs, enforced at the tool-call boundary. Blocks untrusted data from reaching shell, filesystem, and network sinks. Ships with an injection corpus and a published list of known gaps.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/NovaVey/Taint-Tracked-Tool-Broker",
+      "npmUrl": "https://www.npmjs.com/package/taint-tracked-tool-broker",
+      "category": "data",
+      "createdAt": "2026-08-30T15:56:07.455Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 90
     },
     {
       "name": "taintmcp",
@@ -105036,6 +105324,18 @@
       "createdAt": "2026-08-02T21:58:10.841Z",
       "discoveredAt": "2026-08-02T22:47:14.561Z",
       "score": 73
+    },
+    {
+      "name": "upi-auto-verify",
+      "version": "1.0.0",
+      "description": "Instant UPI payment verification via Gmail IMAP — auto-detect payments, generate QR codes, prevent replay attacks. Works with FamPay, GPay, PhonePe, Paytm & any UPI app.",
+      "license": "MIT",
+      "repository": "https://github.com/iflexvault/upi-auto-verify",
+      "npmUrl": "https://www.npmjs.com/package/upi-auto-verify",
+      "category": "utilities",
+      "createdAt": "2026-08-30T12:57:05.001Z",
+      "discoveredAt": "2026-08-30T16:33:33.661Z",
+      "score": 96
     },
     {
       "name": "urdu-text-utils",
