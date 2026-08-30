@@ -638,6 +638,42 @@
       "score": 68
     },
     {
+      "name": "@a1-x-tech/mcp-google-calendar",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Calendar API — list calendars, create and manage events, attendees, Google Meet, recurring events, free/busy, Out of Office and Focus Time. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-calendar",
+      "npmUrl": "https://www.npmjs.com/package/%40a1-x-tech%2Fmcp-google-calendar",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:49:36.354Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
+      "name": "@a1-x-tech/mcp-google-docs",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Docs API — read documents as text, structure or Markdown, edit text by ranges, style, tables, images, comments and export. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40a1-x-tech%2Fmcp-google-docs",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:49:20.054Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 89
+    },
+    {
+      "name": "@a1-x-tech/mcp-google-sheets",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Sheets API — search spreadsheets, read and write ranges, manage sheets, formatting, validation, protected ranges, tables, charts and sharing. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-sheets",
+      "npmUrl": "https://www.npmjs.com/package/%40a1-x-tech%2Fmcp-google-sheets",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:49:11.450Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
       "name": "@a2a-labs/registry-server",
       "version": "0.2.0",
       "description": "A lease-based registry and discovery server for A2A agents",
@@ -14810,6 +14846,18 @@
       "score": 83
     },
     {
+      "name": "@dsh-gsd/bundle",
+      "version": "2.2.0",
+      "description": "A DeepSeek Harness plugin bundle that reimplements opengsd-core (Git Ship Done) as a host-plane plugin set, replacing the default agent-loop behavior with the GSD phase loop (Discuss -> UI design -> Plan -> Execute -> Verify -> Ship). Includes checkpoint-",
+      "license": "MIT",
+      "repository": "https://github.com/jaaty/dsh-gsd-bundle",
+      "npmUrl": "https://www.npmjs.com/package/%40dsh-gsd%2Fbundle",
+      "category": "devops",
+      "createdAt": "2026-08-29T18:36:04.328Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 98
+    },
+    {
       "name": "@dsh-ltctfer/dsh-opencode-go-usage",
       "version": "0.1.1",
       "description": "OpenCode Go 套餐用量查询插件：opencode_usage 工具实时查询 opencode.ai 官方用量 API（滚动 5h / 每周 / 每月三个窗口的用量百分比与重置时间），API key 自动从 opencode 认证文件 / 环境变量 / 插件配置解析，无需额外登录。",
@@ -18830,6 +18878,18 @@
       "score": 89
     },
     {
+      "name": "@geohar/un-bien",
+      "version": "0.8.0",
+      "description": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+      "license": "MIT",
+      "repository": "https://github.com/georgeharker/un-bien",
+      "npmUrl": "https://www.npmjs.com/package/%40geohar%2Fun-bien",
+      "category": "frontend",
+      "createdAt": "2026-08-29T18:18:00.027Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
       "name": "@geoleaf-plugins/editor",
       "version": "1.1.0",
       "description": "GeoLeaf Editor Plugin — Geometry creation & editing (Point/Line/Polyline/Polygon) with Terra Draw, responsive form catalog, and online/offline persistence",
@@ -19116,6 +19176,78 @@
       "createdAt": "2026-07-28T19:23:50.071Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 77
+    },
+    {
+      "name": "@getmcpads/google-ads-mcp-server",
+      "version": "1.0.0",
+      "description": "Open-source MCP server for the Google Ads API. 31 read tools and 7 write tools that preview before they apply, full Keyword Planner, Reach Planner and GAQL access. Self-hosted, bring your own credentials.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getmcpads-com/google-ads-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40getmcpads%2Fgoogle-ads-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-29T22:01:38.702Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 100
+    },
+    {
+      "name": "@getmcpads/google-analytics-mcp-server",
+      "version": "1.0.0",
+      "description": "Open-source MCP server for Google Analytics 4. 27 read-only tools across the Data API and Admin API, with personal identifiers redacted before they reach the model. Self-hosted, bring your own credentials.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getmcpads-com/google-analytics-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40getmcpads%2Fgoogle-analytics-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-29T22:12:44.161Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 100
+    },
+    {
+      "name": "@getmcpads/google-search-console-mcp-server",
+      "version": "1.0.0",
+      "description": "Open-source MCP server for Google Search Console. 20 read-only tools covering Search Analytics, sites, sitemaps and URL Inspection. Self-hosted, bring your own credentials.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getmcpads-com/google-search-console-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40getmcpads%2Fgoogle-search-console-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-29T22:21:46.904Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 97
+    },
+    {
+      "name": "@getmcpads/meta-ads-mcp-server",
+      "version": "1.0.0",
+      "description": "Open-source MCP server for the Meta (Facebook & Instagram) Ads Marketing API. 34 read tools and 10 write tools that preview before they apply, 190 metrics, 56 breakdowns. Self-hosted, bring your own token.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getmcpads-com/meta-ads-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40getmcpads%2Fmeta-ads-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-29T21:21:42.256Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 100
+    },
+    {
+      "name": "@getmcpads/pinterest-ads-mcp-server",
+      "version": "1.0.0",
+      "description": "Open-source MCP server for the Pinterest Ads API. 26 read tools and 5 write tools that preview before they apply, covering reporting, audiences, targeting, catalogs, Pins and trends. Self-hosted, bring your own token.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getmcpads-com/pinterest-ads-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40getmcpads%2Fpinterest-ads-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-29T22:31:47.923Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 100
+    },
+    {
+      "name": "@getmcpads/tiktok-ads-mcp-server",
+      "version": "1.0.0",
+      "description": "Open-source MCP server for the TikTok Business API. 27 read tools and 5 write tools that preview before they apply, 277 metrics, 16 dimensions, keyword research. Self-hosted, bring your own token.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/getmcpads-com/tiktok-ads-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40getmcpads%2Ftiktok-ads-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-08-29T21:48:41.044Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 99
     },
     {
       "name": "@getnarro/cli",
@@ -40418,6 +40550,18 @@
       "score": 67
     },
     {
+      "name": "@otisworks/curriculum-squad",
+      "version": "2.0.0",
+      "description": "A 5-agent pipeline that researches a subject and produces a source-verified curriculum outline and course proposal",
+      "license": "MIT",
+      "repository": "https://github.com/otisworks/curriculum-squad",
+      "npmUrl": "https://www.npmjs.com/package/%40otisworks%2Fcurriculum-squad",
+      "category": "utilities",
+      "createdAt": "2026-08-26T17:22:14.214Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 91
+    },
+    {
       "name": "@otok/mcp",
       "version": "0.1.0",
       "description": "Official MCP (Model Context Protocol) server for the oToK marketing platform — exposes the public /v1 API to AI assistants, starting with the email-marketing surface (email campaigns + smart newsletters).",
@@ -49524,6 +49668,30 @@
       "createdAt": "2026-07-26T14:58:16.410Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 52
+    },
+    {
+      "name": "@source-repo/continuity",
+      "version": "5.2.0",
+      "description": "What a Source RPC component keeps across activations: versioned state snapshots, adjacent forward migrations with reviewed defaults, and provenance for every value that moved",
+      "license": "MIT",
+      "repository": "https://github.com/source-repo/rpc",
+      "npmUrl": "https://www.npmjs.com/package/%40source-repo%2Fcontinuity",
+      "category": "build-tools",
+      "createdAt": "2026-08-30T00:35:00.199Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 89
+    },
+    {
+      "name": "@source-repo/diagnostics",
+      "version": "5.2.0",
+      "description": "Live values beside the source that declares them: a build-time binding catalogue, an active-source identity, and a node service that serves both - carrying no values and needing no instrumentation",
+      "license": "MIT",
+      "repository": "https://github.com/source-repo/rpc",
+      "npmUrl": "https://www.npmjs.com/package/%40source-repo%2Fdiagnostics",
+      "category": "build-tools",
+      "createdAt": "2026-08-30T00:35:04.799Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 91
     },
     {
       "name": "@source-repo/queue",
@@ -63852,6 +64020,18 @@
       "createdAt": "2026-08-14T18:03:50.489Z",
       "discoveredAt": "2026-08-14T18:42:13.168Z",
       "score": 75
+    },
+    {
+      "name": "bookmark-file-manager",
+      "version": "1.0.0",
+      "description": "Embeddable file manager: a dependency-free front-end widget and a framework-free Node handler over a real filesystem",
+      "license": "MIT",
+      "repository": "https://github.com/Insider515/Bookmark_file-manager",
+      "npmUrl": "https://www.npmjs.com/package/bookmark-file-manager",
+      "category": "frontend",
+      "createdAt": "2026-08-29T18:46:18.474Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 91
     },
     {
       "name": "bookmarks-lifecycle",
@@ -79634,6 +79814,30 @@
       "score": 98
     },
     {
+      "name": "javascriptobfuscator-cli",
+      "version": "0.4.2",
+      "description": "Obfuscate and protect JavaScript in your build or CI: dependency-free CLI, Node API, and webpack/Vite/Rollup/esbuild/Next.js/Metro plugins, with one-command migration from javascript-obfuscator and JS-Confuser configs.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/richtexteditor/jso-protector",
+      "npmUrl": "https://www.npmjs.com/package/javascriptobfuscator-cli",
+      "category": "frontend",
+      "createdAt": "2026-08-30T03:59:54.868Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
+      "name": "javascriptobfuscator-com",
+      "version": "0.4.2",
+      "description": "Obfuscate and protect JavaScript in your build or CI: dependency-free CLI, Node API, and webpack/Vite/Rollup/esbuild/Next.js/Metro plugins, with one-command migration from javascript-obfuscator and JS-Confuser configs.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/richtexteditor/jso-protector",
+      "npmUrl": "https://www.npmjs.com/package/javascriptobfuscator-com",
+      "category": "frontend",
+      "createdAt": "2026-08-30T03:59:06.110Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
       "name": "jax-ai-js",
       "version": "0.1.0",
       "description": "Browser-side inference for JAX image-analysis models on WebGPU — retinal-layer segmentation and stain adaptation, ported from their Temporal workers.",
@@ -80268,6 +80472,18 @@
       "createdAt": "2026-08-18T22:59:05.612Z",
       "discoveredAt": "2026-08-19T01:44:20.372Z",
       "score": 92
+    },
+    {
+      "name": "kawaii-icon-pack",
+      "version": "1.0.0",
+      "description": "Kawaii animal icons — 6 characters with expressions, gestures, verbs, 33 body poses, 25 sports and 43 occupations, plus a kawaii UI set.",
+      "license": "MIT",
+      "repository": "https://github.com/hatip5656/kawaii-icon-pack",
+      "npmUrl": "https://www.npmjs.com/package/kawaii-icon-pack",
+      "category": "frontend",
+      "createdAt": "2026-08-29T22:28:31.819Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 93
     },
     {
       "name": "kbgate",
@@ -83474,6 +83690,18 @@
       "score": 65
     },
     {
+      "name": "mcp-google-apps-script",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Apps Script API — create script projects, read and update code files, manage versions and deployments, run functions and inspect executions. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-apps-script",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-apps-script",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:48:25.872Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
       "name": "mcp-google-business",
       "version": "0.1.0",
       "description": "MCP server for Google Business Profile — locations, reviews, local posts and performance metrics for AI agents (Claude, Cursor, Codex and others).",
@@ -83496,6 +83724,18 @@
       "createdAt": "2026-08-09T10:36:12.592Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 76
+    },
+    {
+      "name": "mcp-google-custom-search",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Custom Search JSON API — web and image search through a Programmable Search Engine with pagination, language/country filters and safe search. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-custom-search",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-custom-search",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:48:59.254Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
     },
     {
       "name": "mcp-google-forms",
@@ -83546,6 +83786,18 @@
       "score": 86
     },
     {
+      "name": "mcp-google-tasks",
+      "version": "0.1.0",
+      "description": "MCP server for the Google Tasks API — manage task lists, create and organize tasks with due dates, notes and subtasks, track completion and sync changes. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-tasks",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-tasks",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:48:33.591Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
+    },
+    {
       "name": "mcp-httpserver-proxy",
       "version": "1.0.0",
       "description": "Transparent proxy bridging HTTP/SSE Model Context Protocol (MCP) servers to stdio-based clients like Claude Desktop and Cursor",
@@ -83568,6 +83820,18 @@
       "createdAt": "2026-08-09T13:12:32.684Z",
       "discoveredAt": "2026-08-09T13:32:47.876Z",
       "score": 96
+    },
+    {
+      "name": "mcp-imslp",
+      "version": "1.0.1",
+      "description": "MCP server for IMSLP, the Petrucci Music Library. Read works, scores and recordings. No API key required.",
+      "license": "MIT",
+      "repository": "https://github.com/smeet666/mcp-imslp",
+      "npmUrl": "https://www.npmjs.com/package/mcp-imslp",
+      "category": "frontend",
+      "createdAt": "2026-08-27T19:26:09.607Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 90
     },
     {
       "name": "mcp-lever",
@@ -90746,6 +91010,18 @@
       "score": 75
     },
     {
+      "name": "parrot-blackbox",
+      "version": "1.0.0",
+      "description": "parrot-blackbox — crash-proof, multi-cloud backup & recovery automation for Parrot OS. Daily/weekly off-disk backups with automatic catch-up, smart storage across many MEGA + Google Drive accounts, Timeshift snapshot backups and one-command restore.",
+      "license": "MIT",
+      "repository": "https://github.com/DonArtkins/parrot-blackbox",
+      "npmUrl": "https://www.npmjs.com/package/parrot-blackbox",
+      "category": "cli",
+      "createdAt": "2026-08-29T21:54:20.735Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 100
+    },
+    {
       "name": "parse-server-kit",
       "version": "3.0.0",
       "description": "Decorator-driven toolkit for Parse Server: models, cloud functions, triggers, cron, REST routing, ACL, transactions, optimistic locking and Swagger, from TypeScript decorators.",
@@ -94656,6 +94932,18 @@
       "createdAt": "2026-08-13T23:36:04.971Z",
       "discoveredAt": "2026-08-14T01:13:25.832Z",
       "score": 68
+    },
+    {
+      "name": "queue-jobs-worker",
+      "version": "1.0.0",
+      "description": "Reliable job queue and background worker system for Node.js with retries, concurrency, scheduling, and failure recovery.",
+      "license": "MIT",
+      "repository": "https://github.com/rafidahmed870/queue-jobs-worker",
+      "npmUrl": "https://www.npmjs.com/package/queue-jobs-worker",
+      "category": "data",
+      "createdAt": "2026-08-29T19:29:03.795Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 92
     },
     {
       "name": "quick-response-core",
@@ -100428,6 +100716,18 @@
       "createdAt": "2026-08-06T19:00:16.466Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 75
+    },
+    {
+      "name": "spacetime-tear",
+      "version": "1.0.0",
+      "description": "A page transition that cracks the screen along branches grown from your click, then reassembles the next page along the same seam. One seed travels with the navigation, so both halves are the same tear.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/lxy3312/spacetime-tear",
+      "npmUrl": "https://www.npmjs.com/package/spacetime-tear",
+      "category": "cli",
+      "createdAt": "2026-08-29T17:08:49.578Z",
+      "discoveredAt": "2026-08-30T05:07:45.532Z",
+      "score": 100
     },
     {
       "name": "spalla-react-native",

@@ -1,15 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 127673393,
-  "lastRunAt": "2026-08-29T16:38:10.636Z",
+  "lastSequence": 127720394,
+  "lastRunAt": "2026-08-30T05:07:45.532Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@beneficialtechnology/repo-ip-auditor",
+      "name": "@bsday.js/angular",
       "attempts": 1
     },
     {
-      "name": "@manasvinyadav000/swrm",
+      "name": "@bsday.js/react",
+      "attempts": 1
+    },
+    {
+      "name": "@bsday.js/svelte",
+      "attempts": 1
+    },
+    {
+      "name": "@bsday.js/vue",
+      "attempts": 1
+    },
+    {
+      "name": "@skibum1869/pi-permission-gate",
       "attempts": 1
     }
   ]
