@@ -4010,6 +4010,18 @@
       "score": 100
     },
     {
+      "name": "@amarnotcool/repotool-apex",
+      "version": "1.0.0",
+      "description": "Zero-dependency CLI that reads, graphs, queries and diffs a git repository using only the Node.js standard library.",
+      "license": "MIT",
+      "repository": "https://github.com/amarnotcool/TeamApex_repotool",
+      "npmUrl": "https://www.npmjs.com/package/%40amarnotcool%2Frepotool-apex",
+      "category": "cli",
+      "createdAt": "2026-08-31T08:57:20.942Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 87
+    },
+    {
       "name": "@amatiscorp/pagincord",
       "version": "2.0.0",
       "description": "Smart, fully configurable embed pagination for Discord.js v14+. Buttons, select menus, jump modal, EN/ES locales, events, and list helpers.",
@@ -4766,6 +4778,18 @@
       "score": 73
     },
     {
+      "name": "@aoxborrow/registrar-client",
+      "version": "0.1.0",
+      "description": "One consistent, fully-typed TypeScript interface to many domain registrar APIs (GoDaddy, Cloudflare, Namecheap, Spaceship, Dynadot, Porkbun, and more) behind a single pluggable multi-provider client",
+      "license": "MIT",
+      "repository": "https://github.com/aoxborrow/registrar-client",
+      "npmUrl": "https://www.npmjs.com/package/%40aoxborrow%2Fregistrar-client",
+      "category": "frontend",
+      "createdAt": "2026-08-31T17:13:24.892Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 89
+    },
+    {
       "name": "@apat183/pi-buddy",
       "version": "0.1.1",
       "description": "An animated π mascot for pi — a launch header, a live state widget beside your editor, and a custom spinner. Configurable placement and alignment.",
@@ -5244,6 +5268,18 @@
       "createdAt": "2026-07-26T10:35:12.800Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 71
+    },
+    {
+      "name": "@aronvaughan/punchlist",
+      "version": "1.0.0",
+      "description": "Agent-first task manager: a Things-style drag-and-drop web app for humans, the same REST API + ready-made skills for AI agents, with claim/finish/report delegation and a review lane",
+      "license": "MIT",
+      "repository": "https://github.com/aronvaughan/punchlist",
+      "npmUrl": "https://www.npmjs.com/package/%40aronvaughan%2Fpunchlist",
+      "category": "backend",
+      "createdAt": "2026-08-31T17:16:41.266Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 98
     },
     {
       "name": "@arrai-innovations/vitepress-theme",
@@ -9926,6 +9962,18 @@
       "score": 87
     },
     {
+      "name": "@chronatum/ts-sdk",
+      "version": "3.0.0",
+      "description": "TypeScript SDK for the Chronatum API — verify credentialed audio, inspect the structured production record, and run partner review workflows. Generated from the Chronatum TypeSpec model.",
+      "license": "MIT",
+      "repository": "https://github.com/EthanChen39/chronatum",
+      "npmUrl": "https://www.npmjs.com/package/%40chronatum%2Fts-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-31T09:01:30.406Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
       "name": "@chumanic/skillsync",
       "version": "0.1.0",
       "description": "A provenance, compatibility, and behavior verification layer for Agent Skills.",
@@ -10214,6 +10262,30 @@
       "score": 90
     },
     {
+      "name": "@clossys/builder",
+      "version": "0.7.3",
+      "description": "Declared reality made actual: an idempotent manifest engine and machine verification, a deployment surface contract with read-only platform adapters, a toolchain pin (runtime, package manager, build order), the liveStateSurface contract and shared CI gate",
+      "license": "MIT",
+      "repository": "https://github.com/clossys/foundry",
+      "npmUrl": "https://www.npmjs.com/package/%40clossys%2Fbuilder",
+      "category": "data",
+      "createdAt": "2026-08-31T17:48:26.701Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
+      "name": "@clossys/butler",
+      "version": "0.1.1",
+      "description": "The butler role: do we have what this person wants — this request in their own confirmation, and their standing instructions, still current? Dependency-free machinery for a consumer's own want records: a three-state standing model (absent/denied/granted)",
+      "license": "MIT",
+      "repository": "https://github.com/clossys/foundry",
+      "npmUrl": "https://www.npmjs.com/package/%40clossys%2Fbutler",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T17:31:10.093Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 86
+    },
+    {
       "name": "@clossys/controller",
       "version": "0.8.21",
       "description": "Owns every rule: package lifecycle and process orchestration (catalog, composition, gates, release, repository-profile, review-evidence, workspace-cleanup), account-neutral agent conventions (branch provenance, skill naming, agent interoperability, routin",
@@ -10224,6 +10296,30 @@
       "createdAt": "2026-08-30T06:42:47.943Z",
       "discoveredAt": "2026-08-30T16:33:33.661Z",
       "score": 90
+    },
+    {
+      "name": "@clossys/giver",
+      "version": "0.1.2",
+      "description": "The giver role: did this person get what they asked for, or a reason, or a human — and everything we owed them, on time? Dependency-free machinery for a consumer's own delivery records: a runtime verdict that is a ternary (delivered/refused/handed off, ne",
+      "license": "MIT",
+      "repository": "https://github.com/clossys/foundry",
+      "npmUrl": "https://www.npmjs.com/package/%40clossys%2Fgiver",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T17:44:37.257Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 86
+    },
+    {
+      "name": "@clossys/locksmith",
+      "version": "0.1.6",
+      "description": "Key custody, distribution, rotation, revocation, credential lifecycle evaluation, and provider-neutral secret resolution through environment, test, and optional Infisical adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/clossys/foundry",
+      "npmUrl": "https://www.npmjs.com/package/%40clossys%2Flocksmith",
+      "category": "testing",
+      "createdAt": "2026-08-31T17:47:10.023Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 88
     },
     {
       "name": "@cloudbitmaps/roaring",
@@ -26918,6 +27014,18 @@
       "score": 74
     },
     {
+      "name": "@inandu-solutions/grid-angular",
+      "version": "1.0.0",
+      "description": "Standalone Angular data grid: sorting, free-text and per-column filtering, grouping, pagination, row virtualization, inline row editing/creation/deletion with validation, CSV/Excel/PDF export and print, i18n (5 languages) and 3 built-in themes, with a del",
+      "license": "MIT",
+      "repository": "https://github.com/inandusolutions/inandu-grid",
+      "npmUrl": "https://www.npmjs.com/package/%40inandu-solutions%2Fgrid-angular",
+      "category": "frontend",
+      "createdAt": "2026-08-31T15:02:16.836Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 94
+    },
+    {
       "name": "@incorta/overlay-db",
       "version": "0.1.1",
       "description": "A PostgreSQL wire-protocol endpoint that serves reads from an upstream Postgres and keeps INSERT/UPDATE/DELETEs in a local, branchable Parquet overlay — merged into query results on the fly, never written back upstream.",
@@ -35004,6 +35112,18 @@
       "createdAt": "2026-07-26T15:40:08.997Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 67
+    },
+    {
+      "name": "@mkishor/mk-country-kit-core",
+      "version": "1.0.1",
+      "description": "Core datasets, utilities, and hooks for react-country-kit. Comprehensive data for countries, currencies, timezones, languages, and divisions.",
+      "license": "MIT",
+      "repository": "https://github.com/kishormainali/mk-country-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40mkishor%2Fmk-country-kit-core",
+      "category": "frontend",
+      "createdAt": "2026-08-31T15:14:02.651Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 92
     },
     {
       "name": "@mkorun/galley",
@@ -43922,6 +44042,18 @@
       "score": 69
     },
     {
+      "name": "@quinnjr/google-mcp",
+      "version": "1.2.0",
+      "description": "Model Context Protocol (MCP) server for Google Workspace - Calendar, Gmail, Drive, Docs, Sheets, Slides, Meet, Chat, Forms, YouTube, Tasks, and Contacts with OAuth 2.0 authentication",
+      "license": "MIT",
+      "repository": "https://github.com/quinnjr/google-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40quinnjr%2Fgoogle-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-31T17:58:27.629Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 98
+    },
+    {
       "name": "@quphoria/react-oauth2-code-pkce",
       "version": "1.24.1",
       "description": "Provider agnostic react package for OAuth2 Authorization Code flow with PKCE",
@@ -46788,6 +46920,18 @@
       "createdAt": "2026-08-03T17:36:01.030Z",
       "discoveredAt": "2026-08-03T17:44:53.720Z",
       "score": 76
+    },
+    {
+      "name": "@sahin11/sdlc-agents",
+      "version": "1.0.0",
+      "description": "Enterprise-grade, markdown-native SDLC Multi-Agent Framework with Autonomous Brain Mapping, Low-Input High-Output workflows, and universal AI agent compatibility.",
+      "license": "MIT",
+      "repository": "https://github.com/sahin11/sdlc-agents",
+      "npmUrl": "https://www.npmjs.com/package/%40sahin11%2Fsdlc-agents",
+      "category": "frontend",
+      "createdAt": "2026-08-31T18:48:39.945Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 89
     },
     {
       "name": "@sailingnaturali/signalk-notification-router",
@@ -53052,6 +53196,30 @@
       "createdAt": "2026-07-29T15:55:02.994Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 81
+    },
+    {
+      "name": "@thenavidm/apple-podcasts-mcp",
+      "version": "1.0.1",
+      "description": "Apple Podcasts MCP server for Claude Code and AI agents. 32 tools for podcast search, chart rank tracking, listener reviews, RSS feed parsing and validation, on-device transcript search, and Apple Podcasts Connect analytics.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/apple-podcasts-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fapple-podcasts-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-31T17:36:33.566Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 100
+    },
+    {
+      "name": "@thenavidm/op3-mcp",
+      "version": "1.0.1",
+      "description": "OP3 MCP server for Claude Code and AI agents. 22 tools for open podcast analytics: downloads, unique listeners, retention cohorts, four-level geography, app and device share, listening patterns, and episode benchmark curves. Works with Claude Code, Claude",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/op3-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fop3-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-31T18:04:23.552Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 100
     },
     {
       "name": "@theorvane/type-chain",
@@ -66806,6 +66974,18 @@
       "score": 76
     },
     {
+      "name": "claudedex",
+      "version": "0.2.0",
+      "description": "An always-on-top RPG questlog for your Claude Code sessions — a Pokédex, a desktop buddy, missions, and a gacha, all fuelled by work you were already doing. Reads ~/.claude locally, costs zero extra tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/kaanisthatyou/claudedex",
+      "npmUrl": "https://www.npmjs.com/package/claudedex",
+      "category": "utilities",
+      "createdAt": "2026-08-31T13:19:49.004Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
       "name": "claudekishmish",
       "version": "0.3.0",
       "description": "Keep a Claude Code usage window always running, and continue interrupted work in the terminal it stopped in.",
@@ -72542,6 +72722,18 @@
       "score": 79
     },
     {
+      "name": "dsh-punky-swarm",
+      "version": "0.3.6",
+      "description": "dsh-punky-swarm — dsh 插件（DeepSeek Harness）· punky 署名 · 集群治理（swarm governance）引擎：单机多子 agent 治理，wavePlan 三层 DAG + 引擎级门禁（Entry / Plan Contract / Exit / Complete）+ 状态机 + 锁/mailbox + 会话隔离 + 国标 AIP 兼容 + 全能力治理增强。附蟛蜞模式预设与 jiufeng-team 角色指引。",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/Punky971210/dsh-punky-swarm",
+      "npmUrl": "https://www.npmjs.com/package/dsh-punky-swarm",
+      "category": "utilities",
+      "createdAt": "2026-08-31T15:49:10.515Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
       "name": "dsh-qa-skills",
       "version": "0.6.0",
       "description": "DeepSeek Harness (dsh) plugin: 10 testing skills (requirement analysis, test strategy, case writing/review, E2E/API automation, exploratory, regression, bug analysis) + shared core knowledge base — a full QA pipeline as agent skills.",
@@ -75456,6 +75648,18 @@
       "createdAt": "2026-07-29T01:14:36.478Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 93
+    },
+    {
+      "name": "figqa",
+      "version": "0.1.0",
+      "description": "Design-system QA for Figma files, with no Figma. Lint a .fig offline, check generated code against the same design system, and bind hard-coded colours to design tokens by writing the file back. No plugin, no seat, no Enterprise plan.",
+      "license": "MIT",
+      "repository": "https://github.com/Beltran12138/figqa",
+      "npmUrl": "https://www.npmjs.com/package/figqa",
+      "category": "devops",
+      "createdAt": "2026-08-31T06:24:29.133Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
     },
     {
       "name": "file-brief",
@@ -78782,6 +78986,18 @@
       "score": 83
     },
     {
+      "name": "hound-search-mcp",
+      "version": "2026.8.40",
+      "description": "MCP server for multi-modal code search: text (Hound), symbols (tree-sitter), and future semantic search",
+      "license": "MIT",
+      "repository": "https://github.com/jmagly/hound-mcp",
+      "npmUrl": "https://www.npmjs.com/package/hound-search-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-31T05:03:43.935Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
       "name": "housecall-pro-mcp",
       "version": "1.15.1",
       "description": "MCP server for the Housecall Pro API - connect Claude, ChatGPT, Cursor, or any MCP-compatible AI agent to your Housecall Pro account. Needs a Housecall Pro API key, which is a MAX-plan feature. Independent; not affiliated with Housecall Pro.",
@@ -81950,6 +82166,18 @@
       "score": 66
     },
     {
+      "name": "lingnao-mcp",
+      "version": "1.0.0",
+      "description": "灵脑 LingNao（世界通用大脑）— 可审计推理 MCP 服务：把「世界图 → A* 可审计推理 → 物理载体执行 → 学习闭环」封装为标准 MCP stdio 服务。零依赖、免费面向 AI Agent 分发。",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/genesis-plan/lingnao",
+      "npmUrl": "https://www.npmjs.com/package/lingnao-mcp",
+      "category": "utilities",
+      "createdAt": "2026-08-31T07:04:12.786Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
       "name": "lingo-english-tutor",
       "version": "1.0.0",
       "description": "Professeur d'anglais pour apprenants francophones, sous forme de skill Claude : lecon, pratique, preuves, revision espacee.",
@@ -83580,6 +83808,18 @@
       "createdAt": "2026-07-26T06:05:04.600Z",
       "discoveredAt": "2026-08-07T11:31:28.775Z",
       "score": 65
+    },
+    {
+      "name": "markuprplus",
+      "version": "3.1.1",
+      "description": "Record your screen, narrate feedback, get structured Markdown with screenshots. Desktop app, CLI, and MCP server for AI coding agents like Claude Code, Cursor, and Windsurf.",
+      "license": "MIT",
+      "repository": "https://github.com/hashfunction/MarkuprPlus",
+      "npmUrl": "https://www.npmjs.com/package/markuprplus",
+      "category": "backend",
+      "createdAt": "2026-08-31T05:21:13.988Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 97
     },
     {
       "name": "marmot-ledger-mcp",
@@ -85668,6 +85908,18 @@
       "createdAt": "2026-08-07T19:48:26.980Z",
       "discoveredAt": "2026-08-07T20:32:09.037Z",
       "score": 79
+    },
+    {
+      "name": "modern-fns",
+      "version": "1.0.0",
+      "description": "Modern utility functions for JavaScript and TypeScript — modular, immutable, tree-shakeable and dependency-free.",
+      "license": "MIT",
+      "repository": "https://github.com/vishnu-mani/modern-fns",
+      "npmUrl": "https://www.npmjs.com/package/modern-fns",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T11:40:07.836Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 91
     },
     {
       "name": "moho-design",
@@ -103358,6 +103610,18 @@
       "score": 66
     },
     {
+      "name": "tempmailgrab",
+      "version": "1.0.0",
+      "description": "Disposable email inboxes for automated tests. Create a real inbox, wait for the email, read the OTP — no IMAP, no shared mailbox, no regex.",
+      "license": "MIT",
+      "repository": "https://github.com/sathishbanoth-coder/tempmailgrab-js",
+      "npmUrl": "https://www.npmjs.com/package/tempmailgrab",
+      "category": "testing",
+      "createdAt": "2026-08-31T15:49:40.376Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 93
+    },
+    {
       "name": "temporal-calendar-react",
       "version": "0.1.0",
       "description": "Small, feature-rich, accessible calendar components for React 19 — a full React port of Cally",
@@ -103536,6 +103800,18 @@
       "createdAt": "2026-08-06T12:51:35.916Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 74
+    },
+    {
+      "name": "terra-hiven",
+      "version": "3.2.0",
+      "description": "Hiven — Autonomous Cognitive Swarm, Distributed Multi-Agent Engineering & Collective Honeycombs Memory for the Terra Ecosystem",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/hiven-komb-queen",
+      "npmUrl": "https://www.npmjs.com/package/terra-hiven",
+      "category": "utilities",
+      "createdAt": "2026-08-31T11:19:23.319Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 92
     },
     {
       "name": "terra-lumina",
@@ -105122,6 +105398,18 @@
       "score": 84
     },
     {
+      "name": "uae-einvoice-engine",
+      "version": "0.1.0",
+      "description": "TypeScript engine for UAE PINT-AE Self-Billing (Self-Billed Invoice 389, Self-Billed Credit Note 261): canonical invoice model, Layer 1-4 validation, VAT/totals calculation, PINT-AE UBL XML generation, and an ERP/POS adapter pattern. Does not implement st",
+      "license": "MIT",
+      "repository": "https://github.com/Mohammed-Saif-Ibrahim/uae-einvoice-engine",
+      "npmUrl": "https://www.npmjs.com/package/uae-einvoice-engine",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T11:33:00.652Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 90
+    },
+    {
       "name": "udodi",
       "version": "1.0.1",
       "description": "A lightweight UI/component framework",
@@ -105252,6 +105540,18 @@
       "createdAt": "2026-08-08T14:44:31.249Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 33
+    },
+    {
+      "name": "uiux-storybook-architect",
+      "version": "1.1.1",
+      "description": "Interview-first UI/UX design skill + 21 slash commands for Claude Code, Codex, Antigravity, Cursor, Windsurf and VS Code Copilot. Turns a vague brief into a buildable Design Storybook: tokens, typography, color, dark mode, component specs, page blueprints",
+      "license": "MIT",
+      "repository": "https://github.com/nomiwsd/ui-ux-design-skill",
+      "npmUrl": "https://www.npmjs.com/package/uiux-storybook-architect",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T06:09:28.056Z",
+      "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 100
     },
     {
       "name": "uk-land-registry-mcp",

@@ -1,11 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 127833048,
-  "lastRunAt": "2026-08-31T05:15:40.133Z",
+  "lastSequence": 127969870,
+  "lastRunAt": "2026-08-31T19:04:44.008Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@meago/core",
+      "name": "@karenzohrabyan/rate-limiter",
+      "attempts": 1
+    },
+    {
+      "name": "@mgcrea/unifi-protect",
+      "attempts": 1
+    },
+    {
+      "name": "@mgcrea/homebridge-unifi-protect",
+      "attempts": 1
+    },
+    {
+      "name": "@meisiristhebest/evals",
       "attempts": 1
     }
   ]
