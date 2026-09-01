@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 127969870,
-  "lastRunAt": "2026-08-31T19:04:44.008Z",
+  "lastSequence": 128044792,
+  "lastRunAt": "2026-09-01T04:50:43.185Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@karenzohrabyan/rate-limiter",
-      "attempts": 1
-    },
-    {
-      "name": "@mgcrea/unifi-protect",
-      "attempts": 1
-    },
-    {
-      "name": "@mgcrea/homebridge-unifi-protect",
-      "attempts": 1
-    },
-    {
       "name": "@meisiristhebest/evals",
+      "attempts": 2
+    },
+    {
+      "name": "@lingfang/contract",
+      "attempts": 1
+    },
+    {
+      "name": "@lingfang/plugin-sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@vaur94/agz-memory",
       "attempts": 1
     }
   ]

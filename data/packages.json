@@ -10322,6 +10322,18 @@
       "score": 88
     },
     {
+      "name": "@clossys/publisher",
+      "version": "0.1.10",
+      "description": "The publisher role: did we put it out to an audience, and can we prove what shipped? Surface composition, media registries, and channel renderers for web, email, print, images, and slides, plus a product-neutral structured-document contract, under `./core",
+      "license": "MIT",
+      "repository": "https://github.com/clossys/foundry",
+      "npmUrl": "https://www.npmjs.com/package/%40clossys%2Fpublisher",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T21:02:06.085Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 90
+    },
+    {
       "name": "@cloudbitmaps/roaring",
       "version": "0.1.0",
       "description": "Distributed, cloud-native Roaring Bitmaps — query and intersect billion-scale integer sets over tiered cloud storage (RAM → NoSQL → object store), at a fraction of an always-on cache.",
@@ -12458,6 +12470,18 @@
       "score": 78
     },
     {
+      "name": "@deckflow/deckparse",
+      "version": "0.2.0",
+      "description": "Parse any document into an agent-operable representation. Parse once, convert repeatedly: PDF, PPTX, DOCX, Keynote and URLs into durable IR artifacts and Markdown.",
+      "license": "MIT",
+      "repository": "https://github.com/deckflow/deckparse",
+      "npmUrl": "https://www.npmjs.com/package/%40deckflow%2Fdeckparse",
+      "category": "cli",
+      "createdAt": "2026-09-01T01:15:47.975Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 86
+    },
+    {
       "name": "@deckflow/deckprobe-mcp",
       "version": "0.1.1",
       "description": "MCP server for DeckProbe: inspect PDF, Microsoft Office, and Apple iWork documents without rendering them",
@@ -13668,6 +13692,18 @@
       "createdAt": "2026-08-05T09:10:15.367Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 84
+    },
+    {
+      "name": "@digitalandia/walink",
+      "version": "2.0.1",
+      "description": "TypeScript toolkit ligero e isomorfico para normalizar telefonos, generar enlaces y codigos QR vectoriales compatibles con WhatsApp.",
+      "license": "MIT",
+      "repository": "https://github.com/Digitalandia-dev/walink",
+      "npmUrl": "https://www.npmjs.com/package/%40digitalandia%2Fwalink",
+      "category": "data",
+      "createdAt": "2026-09-01T03:59:06.353Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 89
     },
     {
       "name": "@digitalbazaar/vc-html-render-method",
@@ -27050,6 +27086,18 @@
       "score": 86
     },
     {
+      "name": "@incproctor/proctoring-sdk",
+      "version": "1.0.0",
+      "description": "Browser SDK for InCruiter proctoring. Drop it into your exam page, point it at a session your backend created, and it reports browser activity, camera/microphone/screen state and evidence to the InCruiter proctoring API.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/InCruiter-NewProducts/proctoring-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40incproctor%2Fproctoring-sdk",
+      "category": "frontend",
+      "createdAt": "2026-08-31T19:34:35.521Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 90
+    },
+    {
       "name": "@indigoai-us/hq-pack-presenter-mode",
       "version": "1.0.0",
       "description": "HQ content pack: turn any self-contained HTML deck into an hq-deploy–hosted presentation with two cloud-synced links — a presentation link and a notes/teleprompter link that stay in sync across devices.",
@@ -29894,6 +29942,18 @@
       "score": 71
     },
     {
+      "name": "@kesbyte/capacitor-animated-splashscreen",
+      "version": "1.0.0",
+      "description": "Capacitor plugin for animated splash screens with Lottie animations and sound support",
+      "license": "MIT",
+      "repository": "https://github.com/KesByte-Digital/capacitor-animated-splashscreen",
+      "npmUrl": "https://www.npmjs.com/package/%40kesbyte%2Fcapacitor-animated-splashscreen",
+      "category": "devops",
+      "createdAt": "2026-08-31T20:46:59.145Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 88
+    },
+    {
       "name": "@keshon/instrument",
       "version": "0.6.0",
       "description": "CSS-кит для интерфейсов, которые показывают человеку работу машины: очереди задач, прогоны, логи, инспекторы, состояния и неопределённость",
@@ -30168,6 +30228,18 @@
       "createdAt": "2026-08-07T09:06:27.286Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 62
+    },
+    {
+      "name": "@klars/x402-mock",
+      "version": "0.1.0",
+      "description": "Test mode for agent payments. A local, protocol-accurate x402 merchant and facilitator, so you can test paid-API flows in CI without a wallet, a chain, or a cent.",
+      "license": "MIT",
+      "repository": "https://github.com/klars-ai/x402-mock",
+      "npmUrl": "https://www.npmjs.com/package/%40klars%2Fx402-mock",
+      "category": "testing",
+      "createdAt": "2026-09-01T00:48:16.367Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 86
     },
     {
       "name": "@klucznik/react-sortable-tree",
@@ -30936,6 +31008,18 @@
       "createdAt": "2026-08-14T21:44:04.036Z",
       "discoveredAt": "2026-08-14T22:13:55.561Z",
       "score": 64
+    },
+    {
+      "name": "@langeditor/core",
+      "version": "1.1.0",
+      "description": "An AI-first, framework-agnostic editor for JavaScript applications, powered by Tiptap and Web Components.",
+      "license": "MIT",
+      "repository": "https://github.com/TyCoding/langchat-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40langeditor%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-09-01T01:42:06.420Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 90
     },
     {
       "name": "@lannuttia/opencode-harness",
@@ -41570,6 +41654,30 @@
       "score": 66
     },
     {
+      "name": "@paykernel/core",
+      "version": "1.0.0",
+      "description": "PayKernel core — type-safe payment orchestration contracts, client, gateway registry, money types, results, and runtime abstractions for TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/paykernel/paykernel",
+      "npmUrl": "https://www.npmjs.com/package/%40paykernel%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-09-01T02:17:25.402Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 94
+    },
+    {
+      "name": "@paykernel/testkit",
+      "version": "1.0.1",
+      "description": "Test kit for @paykernel/core: mock gateway, conformance suites, fixture safety, NON-PRODUCTION in-memory stores; re-exports lease-aware store contracts from @paykernel/store-contracts.",
+      "license": "MIT",
+      "repository": "https://github.com/paykernel/paykernel",
+      "npmUrl": "https://www.npmjs.com/package/%40paykernel%2Ftestkit",
+      "category": "testing",
+      "createdAt": "2026-09-01T02:20:32.127Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 94
+    },
+    {
       "name": "@pbi-lineage-lenz/core",
       "version": "1.1.0",
       "description": "Core analysis engine for Power BI PBIP projects — parse TMDL/PBIR/M, build dependency graphs, trace DAX lineage, and resolve model names back to physical source-system names",
@@ -49190,6 +49298,18 @@
       "score": 84
     },
     {
+      "name": "@skorpiong2000/calc-lib",
+      "version": "1.0.0",
+      "description": "A TypeScript/JavaScript package that provides a comprehensive toolkit for common STEM applications - precise math, engineering, computer science, and scientific computing",
+      "license": "MIT",
+      "repository": "https://github.com/SkorpionG/calc-lib",
+      "npmUrl": "https://www.npmjs.com/package/%40skorpiong2000%2Fcalc-lib",
+      "category": "build-tools",
+      "createdAt": "2026-09-01T01:05:35.142Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 97
+    },
+    {
       "name": "@sky390/pi-desktop-questionnaire",
       "version": "0.1.0",
       "description": "Pi extension (fork of @juicesharp/rpiv-ask-user-question). A structured questionnaire the model can put to you when it would otherwise guess, with typed options instead of free-form replies. Works in both Pi CLI (full TUI) and Pi Desktop (native questionn",
@@ -53222,6 +53342,18 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/whatsapp-mcp",
+      "version": "0.5.0",
+      "description": "WhatsApp MCP server for Claude Code and AI agents. Search your whole message history, read any conversation, send messages and voice notes. One Go binary, read-only by default.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/whatsapp-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fwhatsapp-mcp",
+      "category": "backend",
+      "createdAt": "2026-08-31T22:51:50.600Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 87
+    },
+    {
       "name": "@theorvane/type-chain",
       "version": "0.1.1",
       "description": "Decorator-first, type-safe authoring layer for LangChain JS tools and agents.",
@@ -55262,6 +55394,18 @@
       "score": 72
     },
     {
+      "name": "@uuon-foundation/riemann-dipole-engine",
+      "version": "1.2.1",
+      "description": "Complex field geometry engine — 8 families, 6 height modes, bipolar parameters. Canvas 2D. Zero dependencies.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/UUON-Foundation/riemann-dipole-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40uuon-foundation%2Friemann-dipole-engine",
+      "category": "data",
+      "createdAt": "2026-08-31T20:12:54.699Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 88
+    },
+    {
       "name": "@uuon-foundation/wave-field-3d-engine",
       "version": "1.0.1",
       "description": "Parametric wave-deformation engine — 24 physically-grounded algorithms applied to 3D geometry with animated GLB morph-target export",
@@ -56976,6 +57120,18 @@
       "createdAt": "2026-08-12T21:39:44.273Z",
       "discoveredAt": "2026-08-12T23:19:09.424Z",
       "score": 60
+    },
+    {
+      "name": "@web-ts-toolkit/asset-inliner",
+      "version": "0.1.0",
+      "description": "Generic asset inliner for CSS and HTML — ESM-only Node 22+ Base64 data URL encoding, CSS url() and font source formatting, deterministic catalog and inlining pipeline",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/egose/web-ts-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40web-ts-toolkit%2Fasset-inliner",
+      "category": "frontend",
+      "createdAt": "2026-09-01T04:30:43.389Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 86
     },
     {
       "name": "@web-ts-toolkit/express-oidc-vault",
@@ -68018,6 +68174,18 @@
       "score": 71
     },
     {
+      "name": "confdiff",
+      "version": "0.14.1",
+      "description": "Semantic, format-aware diff for config & structured-data files (JSON, JSONC, YAML, TOML, INI, .env, .properties, CSV, XML) — see what actually changed, compare across formats, and redact secrets so passwords/tokens never leak into a PR.",
+      "license": "MIT",
+      "repository": "https://github.com/esperanza-volkov/confdiff",
+      "npmUrl": "https://www.npmjs.com/package/confdiff",
+      "category": "data",
+      "createdAt": "2026-09-01T03:26:23.753Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 90
+    },
+    {
       "name": "conjugate-neuron",
       "version": "0.1.0",
       "description": "Experimental comparison of a classical (degree-0) neuron against a degree-(-1) microstate neuron, derived from the logarithmic-exponential conjugation principle for arithmetic operations.",
@@ -71846,6 +72014,18 @@
       "score": 67
     },
     {
+      "name": "dsh-font-enhancer",
+      "version": "1.1.0",
+      "description": "DIY 你的 DSH 界面：按区域自定义字体/字号/颜色，支持全局统一设置、主题保存切换、框选区域、随机配色与字体。DIY your DSH UI fonts & colors: per-region font/size/color styling, pick-region element selection, unified overrides, theme save & switch, random font/color.",
+      "license": "MIT",
+      "repository": "https://github.com/loyalchiiina/dsh-font-enhancer",
+      "npmUrl": "https://www.npmjs.com/package/dsh-font-enhancer",
+      "category": "frontend",
+      "createdAt": "2026-08-27T05:51:53.886Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 86
+    },
+    {
       "name": "dsh-free-vision",
       "version": "0.1.0",
       "description": "Free vision plugin for DeepSeek Harness (dsh): image understanding for text-only models with free-tier providers (Qwen3-VL-Flash / DeepSeek-OCR / Doubao). 免费视觉插件：纯文本模型看图能力，优先免费模型（通义千问 / 硅基流动 / 豆包）。",
@@ -73982,6 +74162,18 @@
       "score": 67
     },
     {
+      "name": "embedwire",
+      "version": "0.3.0",
+      "description": "Control a YouTube embed over the postMessage wire its own widget uses — no iframe_api script, works with youtube-nocookie. Method and event names follow the IFrame Player API (playVideo, seekTo, getDuration, stateChange); ships a transcript-follow example",
+      "license": "MIT",
+      "repository": "https://github.com/yonaka15/embedwire",
+      "npmUrl": "https://www.npmjs.com/package/embedwire",
+      "category": "backend",
+      "createdAt": "2026-09-01T02:12:57.657Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 88
+    },
+    {
       "name": "embertop",
       "version": "0.3.2",
       "description": "Ambient observability for people who run things: turns live server traffic into a campfire in your terminal.",
@@ -75060,6 +75252,18 @@
       "createdAt": "2026-08-26T15:47:43.902Z",
       "discoveredAt": "2026-08-27T08:56:03.801Z",
       "score": 95
+    },
+    {
+      "name": "ez-thumb",
+      "version": "1.1.0",
+      "description": "YouTube thumbnail and title packaging studio for Claude Code. Onboard once: it finds your competitors (vidIQ or your own list), pulls their best thumbnails through Apify, reads every image with vision, and writes the whole corpus back into itself. After t",
+      "license": "MIT",
+      "repository": "https://github.com/charlesdove977/ez-thumb",
+      "npmUrl": "https://www.npmjs.com/package/ez-thumb",
+      "category": "backend",
+      "createdAt": "2026-08-31T21:48:50.974Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 100
     },
     {
       "name": "ezagent",
@@ -80438,6 +80642,18 @@
       "score": 89
     },
     {
+      "name": "jaudiojs",
+      "version": "1.0.0",
+      "description": "JavaScript/Node.js port of jaudiopy – a complete library for beat making, sound synthesis, mixing, mastering, and audio-file processing",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JCode-JCode/jaudiojs",
+      "npmUrl": "https://www.npmjs.com/package/jaudiojs",
+      "category": "utilities",
+      "createdAt": "2026-08-31T20:25:57.640Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 89
+    },
+    {
       "name": "java-stack-ai-agent",
       "version": "1.0.0",
       "description": "Production-grade AI agent scaffolding for Cursor, Claude Code, Kiro & Antigravity — Spring Boot 3 + Next.js full-stack, rules, workflows, agents, CodeGraph, and cross-tool handoff.",
@@ -81170,6 +81386,18 @@
       "score": 78
     },
     {
+      "name": "keala",
+      "version": "0.5.1",
+      "description": "keala — Koa's ergonomics at Hono's speed: dual-mode onion framework for Bun 1.4+ (runs under Node too). Zero dependencies, precompiled middleware chains, hybrid static/trie router, Bun-native route sinking, signed cookies, SSE, WebSockets.",
+      "license": "MIT",
+      "repository": "https://github.com/renxqoo/keala",
+      "npmUrl": "https://www.npmjs.com/package/keala",
+      "category": "backend",
+      "createdAt": "2026-09-01T00:15:16.565Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 90
+    },
+    {
       "name": "keel-migrate",
       "version": "0.1.0",
       "description": "Portable, read-only GRC data export — take your registers, policies, and evidence out of Vanta and other platforms into an open bundle format. Runs locally; your credentials never leave your machine.",
@@ -81794,6 +82022,18 @@
       "score": 94
     },
     {
+      "name": "lankapost",
+      "version": "1.0.1",
+      "description": "Comprehensive, clean, and zero-dependency dataset and search utility for Sri Lanka postal codes and post offices.",
+      "license": "MIT",
+      "repository": "https://github.com/AbQaadir/lankapost",
+      "npmUrl": "https://www.npmjs.com/package/lankapost",
+      "category": "data",
+      "createdAt": "2026-09-01T02:14:35.892Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 91
+    },
+    {
       "name": "lanzap",
       "version": "1.0.0",
       "description": "Share files and folders over your local network in one command. Starts a tiny Python server with a drag-and-drop web page, optional password.",
@@ -82296,6 +82536,18 @@
       "createdAt": "2026-07-29T18:08:38.051Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 65
+    },
+    {
+      "name": "linkotp",
+      "version": "1.0.0",
+      "description": "One email, two ways in. A dependency-free, framework-agnostic passwordless auth primitive that sends a typed code and a scanner-safe magic link in a single message.",
+      "license": "MIT",
+      "repository": "https://github.com/Yasirdora/linkotp",
+      "npmUrl": "https://www.npmjs.com/package/linkotp",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T18:18:28.260Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 96
     },
     {
       "name": "linux-server-mcp",
@@ -94742,6 +94994,18 @@
       "score": 57
     },
     {
+      "name": "postgres-schema-mcp",
+      "version": "0.1.1",
+      "description": "Read-only MCP server for PostgreSQL. Browse schemas, follow foreign keys, search columns across hundreds of tables, run capped SELECTs, and export an offline data dictionary. Writes are rejected and there are tests that prove it.",
+      "license": "MIT",
+      "repository": "https://github.com/eric-patton/postgres-schema-mcp",
+      "npmUrl": "https://www.npmjs.com/package/postgres-schema-mcp",
+      "category": "testing",
+      "createdAt": "2026-08-31T22:55:27.884Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 90
+    },
+    {
       "name": "postjson-watch",
       "version": "1.0.0",
       "description": "Watch a directory tree and POST .json files as their raw contents whenever they are saved, from any editor, on any OS.",
@@ -95916,6 +96180,18 @@
       "createdAt": "2026-07-29T23:29:57.191Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 66
+    },
+    {
+      "name": "randino",
+      "version": "1.0.0",
+      "description": "randino generates random person names and nicknames in the language you ask for. Zero dependencies, ready for both Node and the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/jooy2/randino",
+      "npmUrl": "https://www.npmjs.com/package/randino",
+      "category": "frontend",
+      "createdAt": "2026-09-01T00:59:26.433Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 93
     },
     {
       "name": "randnick",
@@ -104942,6 +105218,18 @@
       "score": 80
     },
     {
+      "name": "trilean",
+      "version": "1.0.1",
+      "description": "Consumer-agnostic, three-valued predicate/expression evaluation trees over injected resolvers -- no assumptions about consumer data, no I/O of its own.",
+      "license": "MIT",
+      "repository": "https://github.com/ExaDev/trilean",
+      "npmUrl": "https://www.npmjs.com/package/trilean",
+      "category": "backend",
+      "createdAt": "2026-08-31T07:15:28.478Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 91
+    },
+    {
       "name": "trippy-mcp",
       "version": "0.1.1",
       "description": "Trippy MCP — let AI agents (Claude Code, Codex, Cursor) launch and trade tokens on Injective: SHROOM Pad bonding curves + any-token swaps through the Choice aggregator. Non-custodial: the key is generated and stays on your machine.",
@@ -109056,6 +109344,18 @@
       "createdAt": "2026-08-11T10:25:17.816Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 100
+    },
+    {
+      "name": "zalobot-sdk",
+      "version": "1.0.0",
+      "description": "A lightweight, modular Node.js SDK and Webhook handler for Zalo Bot API. Fully typed with JSDoc and ready for production.",
+      "license": "MIT",
+      "repository": "https://github.com/NightOwl-VN/zalobot-sdk",
+      "npmUrl": "https://www.npmjs.com/package/zalobot-sdk",
+      "category": "backend",
+      "createdAt": "2026-08-31T21:22:43.303Z",
+      "discoveredAt": "2026-09-01T04:50:43.185Z",
+      "score": 89
     },
     {
       "name": "zangia",
