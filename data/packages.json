@@ -9182,6 +9182,18 @@
       "score": 72
     },
     {
+      "name": "@captioncat/caption-engine",
+      "version": "1.0.5",
+      "description": "Design and render expressive, animated captions for video and audio with reusable presets. Create, customize, and manage your own caption styles with Preset Studio.",
+      "license": "MIT",
+      "repository": "https://github.com/ItisShikhar/captioncat",
+      "npmUrl": "https://www.npmjs.com/package/%40captioncat%2Fcaption-engine",
+      "category": "backend",
+      "createdAt": "2026-09-01T13:59:21.368Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 96
+    },
+    {
       "name": "@capydb/drizzle",
       "version": "1.3.0",
       "description": "Official Drizzle ORM helpers for CapyDB - pooled-aware postgres-js clients with safe transaction-pooler defaults.",
@@ -10356,6 +10368,18 @@
       "createdAt": "2026-07-30T20:53:04.644Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 58
+    },
+    {
+      "name": "@clusterify-ai/chatbot-sdk",
+      "version": "1.0.0",
+      "description": "Official TypeScript & JavaScript SDK for the Clusterify.AI Chatbot Platform with customizable knowledge base via API and Dashboard.",
+      "license": "MIT",
+      "repository": "https://github.com/clusterify/clusterify-chatbot-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40clusterify-ai%2Fchatbot-sdk",
+      "category": "backend",
+      "createdAt": "2026-09-01T11:41:05.424Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 93
     },
     {
       "name": "@clypra/ui-color-picker",
@@ -15660,6 +15684,18 @@
       "createdAt": "2026-08-14T17:43:33.252Z",
       "discoveredAt": "2026-08-14T18:42:13.168Z",
       "score": 65
+    },
+    {
+      "name": "@editable-kit/svelte",
+      "version": "1.0.0",
+      "description": "Svelte 5 inline editing — editable text, rich text (TipTap), and images, bound straight at your data",
+      "license": "MIT",
+      "repository": "https://github.com/BlueFrog130/editable-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40editable-kit%2Fsvelte",
+      "category": "frontend",
+      "createdAt": "2026-09-01T16:22:19.467Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
     },
     {
       "name": "@edmingle/web-video-sdk",
@@ -27758,6 +27794,18 @@
       "score": 73
     },
     {
+      "name": "@interop-gateway/core",
+      "version": "1.0.0",
+      "description": "Core conversion functionality for interop-gateway: HL7v2/CDA ↔ FHIR translation, US Core profile validation, and shared primitives (correlation IDs, audit log, encrypted storage, secrets-provider interface, scope enforcement, TLS enforcement).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/heyitskundan/interop-gateway",
+      "npmUrl": "https://www.npmjs.com/package/%40interop-gateway%2Fcore",
+      "category": "utilities",
+      "createdAt": "2026-09-01T10:17:12.039Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 91
+    },
+    {
       "name": "@intframe/thermal-receipt",
       "version": "0.1.0",
       "description": "Scroll-driven thermal receipt printer UI component for React. Line-by-line thermal develop, stepped paper feed, stamp slam, tear-off.",
@@ -33732,6 +33780,18 @@
       "createdAt": "2026-08-23T12:40:29.385Z",
       "discoveredAt": "2026-08-23T12:54:32.970Z",
       "score": 90
+    },
+    {
+      "name": "@masgeek/oco-lite",
+      "version": "1.0.1",
+      "description": "Minimal, dependency-free git commit message generator using a local Ollama model. Single-line, per-file, per-hunk, or grouped-by-related-change commits, with breaking-change detection.",
+      "license": "MIT",
+      "repository": "https://github.com/masgeek/oco-lite",
+      "npmUrl": "https://www.npmjs.com/package/%40masgeek%2Foco-lite",
+      "category": "cli",
+      "createdAt": "2026-09-01T06:26:54.717Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 94
     },
     {
       "name": "@massa-ai/codex-plugin",
@@ -43082,6 +43142,18 @@
       "score": 65
     },
     {
+      "name": "@prismposter/creator-tools",
+      "version": "0.2.0",
+      "description": "Zero-dependency TypeScript utilities for video and social creators: aspect-ratio maths, tap tempo, subtitle conversion, platform frame sizes with sourced safe areas, encoding calculators, colour-palette extraction, GIF encoding, image metadata, and C2PA /",
+      "license": "MIT",
+      "repository": "https://github.com/prismposter/creator-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40prismposter%2Fcreator-tools",
+      "category": "data",
+      "createdAt": "2026-09-01T16:10:03.899Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
+    },
+    {
       "name": "@pritiranjan/hl7v2",
       "version": "0.1.0",
       "description": "Parse, query, modify and encode HL7 v2.x messages — zero dependencies, TypeScript native",
@@ -45348,6 +45420,18 @@
       "createdAt": "2026-07-25T14:15:00.070Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 57
+    },
+    {
+      "name": "@remodex/rmx",
+      "version": "1.0.2",
+      "description": "Remodex universal provider proxy for OpenAI Codex & Claude Code — use any LLM with Codex CLI/App/SDK and Claude Code",
+      "license": "MIT",
+      "repository": "https://github.com/ESCANOR-001/remodex-android",
+      "npmUrl": "https://www.npmjs.com/package/%40remodex%2Frmx",
+      "category": "backend",
+      "createdAt": "2026-09-01T15:41:02.491Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 91
     },
     {
       "name": "@removals-space/reputation-engine",
@@ -48096,6 +48180,18 @@
       "createdAt": "2026-08-01T17:45:22.427Z",
       "discoveredAt": "2026-08-01T18:57:13.793Z",
       "score": 88
+    },
+    {
+      "name": "@sentinelreign/guard-core",
+      "version": "2.0.1",
+      "description": "Deterministic, zero-dependency MCP security detection engine. Protocol conformance, tool-definition pinning, call-time policy and egress DLP.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/cyb3rvolt3x-A4lixhaS3ntin3l/sentinelagent-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40sentinelreign%2Fguard-core",
+      "category": "data",
+      "createdAt": "2026-08-30T23:41:22.138Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
     },
     {
       "name": "@seorak/collector",
@@ -51242,6 +51338,18 @@
       "score": 67
     },
     {
+      "name": "@streamx-hub/search",
+      "version": "1.0.0",
+      "description": "Framework-independent search UI components: autocomplete input, search modal, faceted results panel and tabbed search pages.",
+      "license": "MIT",
+      "repository": "https://github.com/streamx-hub/streamx-search-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40streamx-hub%2Fsearch",
+      "category": "utilities",
+      "createdAt": "2026-09-01T08:55:06.965Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 92
+    },
+    {
       "name": "@streetinsider/visibility-engine",
       "version": "1.0.0",
       "description": "StreetInsider Visibility Engine is a lightweight content visibility and publication workflow tool designed to help businesses, brands, and publishers organize, optimize, and monitor their media content for greater online discoverability.",
@@ -53078,6 +53186,18 @@
       "score": 76
     },
     {
+      "name": "@tfjordanp/mtn-momo-ts",
+      "version": "1.1.0",
+      "description": "The MTN-Momo-API is an npm package that provides a convenient and simplified way to interact with the MoMo (Mobile Money) API for making financial transactions. It abstracts the complexities of the API and offers a streamlined interface for requesting pay",
+      "license": "MIT",
+      "repository": "https://github.com/tfjordanp/mtn-momo-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40tfjordanp%2Fmtn-momo-ts",
+      "category": "backend",
+      "createdAt": "2026-09-01T15:10:56.072Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 92
+    },
+    {
       "name": "@thalus-ai/mcp-air",
       "version": "1.0.1",
       "description": "MCP server for AIR (AI Responsibly) — run risk assessments from Cursor, Claude Code, VS Code, and other MCP clients.",
@@ -53330,6 +53450,42 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/bluesky-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Bluesky and the AT Protocol. 41 tools for posting, threads, feeds, search, lists, notifications and the social graph, with LLM-optimised output. Works with Claude Code, Claude Desktop, Cursor, Windsurf, and any MCP-compatible client.",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/bluesky-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fbluesky-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T11:43:59.908Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 100
+    },
+    {
+      "name": "@thenavidm/google-photos-mcp",
+      "version": "1.1.0",
+      "description": "Google Photos MCP server for Claude Code and AI agents. Photo picker, uploads, albums, sharing, enrichments, descriptions, app-created media search, and multiple Google accounts.",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/google-photos-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fgoogle-photos-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T10:12:15.037Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 97
+    },
+    {
+      "name": "@thenavidm/mastodon-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Mastodon and the fediverse. 60 tools for posting, editing, threads, five timelines, hashtags, lists, notifications and the social graph, with LLM-optimised output. One-command app registration. Works with Claude Code, Claude Desktop, Cursor",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/mastodon-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fmastodon-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T11:48:08.858Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 100
+    },
+    {
       "name": "@thenavidm/op3-mcp",
       "version": "1.0.1",
       "description": "OP3 MCP server for Claude Code and AI agents. 22 tools for open podcast analytics: downloads, unique listeners, retention cohorts, four-level geography, app and device share, listening patterns, and episode benchmark curves. Works with Claude Code, Claude",
@@ -53339,6 +53495,30 @@
       "category": "backend",
       "createdAt": "2026-08-31T18:04:23.552Z",
       "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 100
+    },
+    {
+      "name": "@thenavidm/reddit-research-agent",
+      "version": "0.1.0",
+      "description": "Read-only Reddit research MCP server. Finds the subreddits where a topic is actually discussed, ranks threads by real conversation rather than upvotes, harvests comments, and returns verbatim quotes tagged by intent with a permalink on every one. Works wi",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/reddit-research-agent",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Freddit-research-agent",
+      "category": "backend",
+      "createdAt": "2026-09-01T15:30:51.395Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
+    },
+    {
+      "name": "@thenavidm/threads-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Threads. 30 tools for posting, chained threads, carousels, replies and reply approvals, insights, keyword search and profile discovery, with LLM-optimised output. One-command OAuth with automatic 60-day token refresh. Works with Claude Code",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/threads-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fthreads-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T12:51:04.430Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
       "score": 100
     },
     {
@@ -70118,6 +70298,18 @@
       "score": 85
     },
     {
+      "name": "delegation-kit",
+      "version": "0.20.0",
+      "description": "User-directed model delegation for Claude Code and Codex — fail-closed governance, evidence-backed lanes, mandatory cross-family review. The kit never dispatches on its own; every delegation is named or explicitly authorized by you.",
+      "license": "MIT",
+      "repository": "https://github.com/matteoscurati/delegation-kit",
+      "npmUrl": "https://www.npmjs.com/package/delegation-kit",
+      "category": "devops",
+      "createdAt": "2026-09-01T14:05:27.662Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
+    },
+    {
       "name": "deliver-code-quality",
       "version": "2.1.0",
       "description": "Install and run an evidence-based, language-neutral quality workflow for AI coding agents.",
@@ -71424,6 +71616,18 @@
       "createdAt": "2026-08-13T23:52:21.046Z",
       "discoveredAt": "2026-08-14T01:13:25.832Z",
       "score": 65
+    },
+    {
+      "name": "dsh-animations",
+      "version": "1.0.0",
+      "description": "DSH 原生动效技能包：8 个 HTML 动画技能（PPT 翻页演示 / 流程图 / 网络协议可视化 / 动态架构图 / 学霸笔记 / 卡片剧场 / 视频分镜 / 手机 UI 演示），激活即注册为 runtime skill，配「动画演示专家」Agent 预设。",
+      "license": "MIT",
+      "repository": "https://github.com/kkutysllb/dsh-animations",
+      "npmUrl": "https://www.npmjs.com/package/dsh-animations",
+      "category": "utilities",
+      "createdAt": "2026-09-01T10:24:18.621Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 93
     },
     {
       "name": "dsh-any-background",
@@ -81662,6 +81866,18 @@
       "score": 78
     },
     {
+      "name": "kirinuki",
+      "version": "1.0.1",
+      "description": "Remove image backgrounds locally - FastAPI + rembg (BiRefNet/ISNet/BRIA), drag & drop web UI, 100% offline. Handles hair, mesh and thin structures.",
+      "license": "MIT",
+      "repository": "https://github.com/AkemiKami201/kirinuki-remove-bg",
+      "npmUrl": "https://www.npmjs.com/package/kirinuki",
+      "category": "backend",
+      "createdAt": "2026-09-01T04:55:36.289Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 94
+    },
+    {
       "name": "kit-ui-js",
       "version": "1.0.0",
       "description": "UI-Kit — M3 黑白极简风格的 Vue 3 组件库（无构建，可直接通过 CDN 引入）。Buttons, Inputs, Select (searchable/multiple), Dialog, Confirm, Toast, Dropdown, Tabs, Table 等 22+ 组件。",
@@ -82260,6 +82476,18 @@
       "createdAt": "2026-08-26T00:47:38.966Z",
       "discoveredAt": "2026-08-26T01:49:06.368Z",
       "score": 90
+    },
+    {
+      "name": "lectern-editor",
+      "version": "2.0.0",
+      "description": "Visual drag-and-drop editor for AI-generated slide decks. Ask Claude, ChatGPT or any coding agent for a presentation, then fix the layout yourself — the reveal.js HTML file is the document. Offline, no account, no telemetry.",
+      "license": "MIT",
+      "repository": "https://github.com/calumhrmurray/lectern",
+      "npmUrl": "https://www.npmjs.com/package/lectern-editor",
+      "category": "utilities",
+      "createdAt": "2026-09-01T10:20:16.052Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 100
     },
     {
       "name": "legalithm-map",
@@ -93014,6 +93242,18 @@
       "score": 64
     },
     {
+      "name": "pi-coralbricks-provider",
+      "version": "1.0.1",
+      "description": "CoralBricks provider extension for pi - Access GLM 5.2/5.3, Kimi K3, and GPT-OSS 120B through the Coral Inference API",
+      "license": "MIT",
+      "repository": "https://github.com/monotykamary/pi-coralbricks-provider",
+      "npmUrl": "https://www.npmjs.com/package/pi-coralbricks-provider",
+      "category": "backend",
+      "createdAt": "2026-09-01T05:38:22.266Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
+    },
+    {
       "name": "pi-courier",
       "version": "0.1.0",
       "description": "Run pi coding agent from Matrix. Slash commands, skills and prompts fully work from messengers via the RPC protocol.",
@@ -93552,6 +93792,18 @@
       "createdAt": "2026-08-07T21:00:53.932Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 81
+    },
+    {
+      "name": "pi-mnemos",
+      "version": "3.2.0",
+      "description": "Mnemos memory & knowledge server — Pi extension. Spawns `mnemos mcp-server` over stdio and exposes every mnemos_* tool as a native Pi tool, plus the mnemos skill pack.",
+      "license": "MIT",
+      "repository": "https://github.com/Korrnals/mnemos",
+      "npmUrl": "https://www.npmjs.com/package/pi-mnemos",
+      "category": "backend",
+      "createdAt": "2026-09-01T07:49:24.130Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 94
     },
     {
       "name": "pi-models-access",
@@ -98258,6 +98510,18 @@
       "score": 78
     },
     {
+      "name": "repo-sessions",
+      "version": "1.0.0",
+      "description": "Your Claude Code and Codex sessions follow your repo, not your laptop. Git-native session + project-memory sync through a private vault you own — riding the git push/pull you already make.",
+      "license": "MIT",
+      "repository": "https://github.com/firish/repo-sessions",
+      "npmUrl": "https://www.npmjs.com/package/repo-sessions",
+      "category": "cli",
+      "createdAt": "2026-09-01T05:28:45.356Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 98
+    },
+    {
       "name": "repo2ds",
       "version": "0.1.0",
       "description": "Reverse-engineer a design system from an existing React or React Native codebase. Local, deterministic, no LLM.",
@@ -99468,6 +99732,18 @@
       "createdAt": "2026-08-08T15:20:51.143Z",
       "discoveredAt": "2026-08-08T15:21:29.909Z",
       "score": 38
+    },
+    {
+      "name": "sapui5-validator",
+      "version": "1.5.1",
+      "description": "A CLI that validates SAPUI5 projects and generates tests using a hybrid deterministic-plus-LLM approach.",
+      "license": "ISC",
+      "repository": "https://github.com/Setforex7/sapui5_validator",
+      "npmUrl": "https://www.npmjs.com/package/sapui5-validator",
+      "category": "testing",
+      "createdAt": "2026-09-01T14:01:20.935Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 90
     },
     {
       "name": "sarvamai-cli",
@@ -101556,6 +101832,18 @@
       "createdAt": "2026-07-26T13:00:43.949Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 53
+    },
+    {
+      "name": "solana-security-watch",
+      "version": "1.1.0",
+      "description": "Continuous security monitoring for Solana/Anchor programs — a Claude Code skill, /security-watch command, and security-auditor agent.",
+      "license": "MIT",
+      "repository": "https://github.com/OxToF/solana-security-watch",
+      "npmUrl": "https://www.npmjs.com/package/solana-security-watch",
+      "category": "utilities",
+      "createdAt": "2026-09-01T13:21:14.478Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 93
     },
     {
       "name": "solarman-devices",
@@ -104976,6 +105264,18 @@
       "createdAt": "2026-08-18T12:43:50.413Z",
       "discoveredAt": "2026-08-18T12:59:22.703Z",
       "score": 89
+    },
+    {
+      "name": "toru-fca",
+      "version": "1.0.0",
+      "description": "Alpha FCA v1.0.0 — Ultimate merged Facebook Chat API. Stable Inbox, E2EE Bridge, E2EE Group, Low Automation, Clean Architecture.",
+      "license": "MIT",
+      "repository": "https://github.com/alpha-fca/alpha-fca",
+      "npmUrl": "https://www.npmjs.com/package/toru-fca",
+      "category": "backend",
+      "createdAt": "2026-09-01T08:42:16.239Z",
+      "discoveredAt": "2026-09-01T16:29:05.226Z",
+      "score": 92
     },
     {
       "name": "tosijs-floorplan",
