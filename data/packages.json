@@ -8162,6 +8162,18 @@
       "score": 87
     },
     {
+      "name": "@brnyxx/xout",
+      "version": "1.1.0",
+      "description": "X out the AI behavior you never want again. Cross out the wrong one of two concrete agent behaviors; the survivors compile into rules with evidence, plugged into Claude Code, Codex, OpenCode, Gemini CLI, Copilot, pi, Kiro or any AGENTS.md reader, with con",
+      "license": "MIT",
+      "repository": "https://github.com/brnyxx/xout",
+      "npmUrl": "https://www.npmjs.com/package/%40brnyxx%2Fxout",
+      "category": "testing",
+      "createdAt": "2026-09-02T05:32:09.151Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 100
+    },
+    {
       "name": "@broberg/device-stats",
       "version": "0.2.0",
       "description": "Framework-free device statistics primitive: derive bucketed device facts (form factor, OS/browser major version, installed-PWA vs browser, screen bucket) from what the browser already sends. No identifier, no fingerprint, no storage — coarse buckets are b",
@@ -19850,6 +19862,18 @@
       "score": 31
     },
     {
+      "name": "@girmmy/google-tasks-mcp-server",
+      "version": "1.0.1",
+      "description": "MCP server for Google Tasks — list, create, update, complete, delete, and move tasks and task lists via the Google Tasks API",
+      "license": "MIT",
+      "repository": "https://github.com/girmmy/google-tasks-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40girmmy%2Fgoogle-tasks-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-02T14:55:20.519Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 92
+    },
+    {
       "name": "@git-autoreview/cli",
       "version": "0.1.0",
       "description": "AI-powered code review for CI/CD pipelines — posts inline review comments on GitHub, GitLab and Bitbucket pull requests",
@@ -28752,6 +28776,18 @@
       "createdAt": "2026-08-13T14:48:00.811Z",
       "discoveredAt": "2026-08-13T15:13:42.755Z",
       "score": 75
+    },
+    {
+      "name": "@jarida/ink",
+      "version": "1.0.0",
+      "description": "A design library with a printed edge and a glass bar. Framework-agnostic tokens and behaviour, React and React Native bindings, and plain CSS for everything else.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jarida-io/ink",
+      "npmUrl": "https://www.npmjs.com/package/%40jarida%2Fink",
+      "category": "frontend",
+      "createdAt": "2026-09-02T10:08:11.962Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 96
     },
     {
       "name": "@jarome/pi-hub",
@@ -39602,6 +39638,18 @@
       "score": 86
     },
     {
+      "name": "@oarkflow/lithe",
+      "version": "1.1.2",
+      "description": "Lithe v1.1: a zero-dependency TypeScript-first compiler, fine-grained frontend/full-stack framework built on browser APIs and Node.js built-ins.",
+      "license": "MIT",
+      "repository": "https://github.com/oarkflow/lithe-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40oarkflow%2Flithe",
+      "category": "frontend",
+      "createdAt": "2026-09-02T11:58:30.793Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 94
+    },
+    {
       "name": "@oasissys/oasis-axi",
       "version": "0.1.0",
       "description": "AXI-compliant Oracle ADF explorer for the Oasis codebase — token-efficient TOON output, contextual suggestions, transitive dependency closures",
@@ -41546,6 +41594,18 @@
       "score": 70
     },
     {
+      "name": "@park-sang-gwon/google-flow-mcp",
+      "version": "0.1.0",
+      "description": "Unofficial MCP server that drives Google Flow (labs.google Veo / Nano Banana) through your own Chrome session — video & image generation plus Scene Builder (extend, jump to, download)",
+      "license": "MIT",
+      "repository": "https://github.com/ParkSangGwon/google-flow-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40park-sang-gwon%2Fgoogle-flow-mcp",
+      "category": "testing",
+      "createdAt": "2026-09-02T14:15:09.275Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 88
+    },
+    {
       "name": "@parke.dev/pi-gauntlet",
       "version": "0.1.0",
       "description": "Goal + gauntlet loop for the pi coding agent: named shell checks that must pass before the agent stops iterating",
@@ -41688,6 +41748,18 @@
       "createdAt": "2026-08-14T17:04:47.603Z",
       "discoveredAt": "2026-08-14T17:37:59.065Z",
       "score": 75
+    },
+    {
+      "name": "@pasichdev/docket",
+      "version": "2.2.1",
+      "description": "A shared TODO/backlog MCP server with a web UI, agent claim/release tracking, and encrypted local storage.",
+      "license": "MIT",
+      "repository": "https://github.com/pasichDev/docket",
+      "npmUrl": "https://www.npmjs.com/package/%40pasichdev%2Fdocket",
+      "category": "backend",
+      "createdAt": "2026-09-02T15:14:11.280Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 90
     },
     {
       "name": "@pasquelin/map3d",
@@ -43080,6 +43152,18 @@
       "createdAt": "2026-08-29T00:03:42.234Z",
       "discoveredAt": "2026-08-29T06:53:02.577Z",
       "score": 90
+    },
+    {
+      "name": "@postmcpai/server",
+      "version": "1.0.1",
+      "description": "Official Model Context Protocol (MCP) Server for PostMCP AI. Integrate multi-platform social media publishing into your AI clients, Claude.ai, Cursor, and Custom GPTs.",
+      "license": "MIT",
+      "repository": "https://github.com/postmcp/postmcp-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40postmcpai%2Fserver",
+      "category": "backend",
+      "createdAt": "2026-09-02T13:06:33.474Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 96
     },
     {
       "name": "@posty5/product-scraper",
@@ -45024,6 +45108,18 @@
       "createdAt": "2026-08-01T22:56:32.951Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 50
+    },
+    {
+      "name": "@rdlabo/capacitor-local-llm",
+      "version": "2.0.0",
+      "description": "A Capacitor plugin for running on-device LLMs, with support for text generation, image generation, and session management on iOS and Android.",
+      "license": "MIT",
+      "repository": "https://github.com/rdlabo-dev/capacitor-local-llm",
+      "npmUrl": "https://www.npmjs.com/package/%40rdlabo%2Fcapacitor-local-llm",
+      "category": "devops",
+      "createdAt": "2026-09-02T14:10:34.068Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 94
     },
     {
       "name": "@react-querybuilder/migrate-raqb",
@@ -53630,6 +53726,18 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/midjourney-mcp-cli",
+      "version": "1.0.0",
+      "description": "Midjourney MCP server and CLI for Claude Code and AI agents. 27 tools for generating images, following jobs to completion, downloading the real files, and building moodboards that make a style reusable.",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/midjourney-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fmidjourney-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-02T12:35:57.550Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 100
+    },
+    {
       "name": "@thenavidm/op3-mcp",
       "version": "1.0.1",
       "description": "OP3 MCP server for Claude Code and AI agents. 22 tools for open podcast analytics: downloads, unique listeners, retention cohorts, four-level geography, app and device share, listening patterns, and episode benchmark curves. Works with Claude Code, Claude",
@@ -53652,6 +53760,18 @@
       "createdAt": "2026-09-01T15:30:51.395Z",
       "discoveredAt": "2026-09-01T16:29:05.226Z",
       "score": 90
+    },
+    {
+      "name": "@thenavidm/substack-mcp-cli",
+      "version": "2.2.0",
+      "description": "Substack MCP server for Claude Code and AI agents. 65 tools for drafts, posts, Notes, subscribers, analytics, tags, comments and researching other publications.",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/substack-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fsubstack-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-02T15:03:30.825Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 96
     },
     {
       "name": "@thenavidm/threads-mcp",
@@ -55956,6 +56076,18 @@
       "createdAt": "2026-08-01T17:37:31.428Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 59
+    },
+    {
+      "name": "@vantin/backendguard",
+      "version": "0.8.0",
+      "description": "AI backend engineering guardrails for NestJS, PostgreSQL, TypeORM, and Prisma — task-aware security/architecture/database context for AI coding agents, plus post-task compliance reporting.",
+      "license": "MIT",
+      "repository": "https://github.com/vantinn/backendguard",
+      "npmUrl": "https://www.npmjs.com/package/%40vantin%2Fbackendguard",
+      "category": "backend",
+      "createdAt": "2026-09-02T11:38:34.074Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 88
     },
     {
       "name": "@vantra-design/core",
@@ -59390,6 +59522,18 @@
       "score": 62
     },
     {
+      "name": "@zak1.uhh/hush-ui",
+      "version": "1.0.0",
+      "description": "A calm, spring-motion Hush UI design system with 32 accessible primitives and 20 responsive sections for vanilla JS, React, Vue, Svelte, and modern web applications.",
+      "license": "MIT",
+      "repository": "https://github.com/zakiuhh/hush-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40zak1.uhh%2Fhush-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-02T16:17:37.018Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 89
+    },
+    {
       "name": "@zakhm_sa/qr-code-styling",
       "version": "2.0.0",
       "description": "Add a style and an image to your QR code",
@@ -59916,6 +60060,18 @@
       "createdAt": "2026-08-07T10:24:45.294Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 65
+    },
+    {
+      "name": "@zhucy123/dsh-update",
+      "version": "1.6.1",
+      "description": "DSH plugin: sidebar footer update button — compares the local deepseek-harness version with the remote, pulls and reinstalls when a newer version exists, with live progress.",
+      "license": "MIT",
+      "repository": "https://github.com/Zhucy123/dsh-update",
+      "npmUrl": "https://www.npmjs.com/package/%40zhucy123%2Fdsh-update",
+      "category": "utilities",
+      "createdAt": "2026-09-02T13:11:35.896Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 87
     },
     {
       "name": "@zhujunpeng12/dsh-memory-system",
@@ -61260,6 +61416,18 @@
       "createdAt": "2026-07-28T13:05:44.504Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 93
+    },
+    {
+      "name": "agent-notch",
+      "version": "1.3.8",
+      "description": "Ambient right-edge desktop HUD for live AI coding-agent quotas. Windows-first, standalone, optional MindSync glow.",
+      "license": "MIT",
+      "repository": "https://github.com/adityarya24/agent-notch",
+      "npmUrl": "https://www.npmjs.com/package/agent-notch",
+      "category": "utilities",
+      "createdAt": "2026-09-02T09:39:25.239Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 87
     },
     {
       "name": "agent-outfitter",
@@ -63432,6 +63600,18 @@
       "createdAt": "2026-07-28T04:50:32.533Z",
       "discoveredAt": "2026-07-28T04:56:59.766Z",
       "score": 82
+    },
+    {
+      "name": "ashiro-engine",
+      "version": "5.0.1",
+      "description": "Universal, framework-agnostic core engine for WhatsApp bots — AI fallback, uploader, plugin registry, health check, and more. Built by Azure Ashiro for the Lycount community.",
+      "license": "MIT",
+      "repository": "https://github.com/reinhald90/ashiro-engine",
+      "npmUrl": "https://www.npmjs.com/package/ashiro-engine",
+      "category": "utilities",
+      "createdAt": "2026-09-02T11:57:37.730Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 87
     },
     {
       "name": "ask-trivium",
@@ -66854,6 +67034,18 @@
       "score": 71
     },
     {
+      "name": "chronofast",
+      "version": "1.0.0",
+      "description": "Performance-oriented, fully typed date library for JS and TS. Real IANA time zones without bundling a tzdb.",
+      "license": "MIT",
+      "repository": "https://github.com/brunolau/chronofast",
+      "npmUrl": "https://www.npmjs.com/package/chronofast",
+      "category": "data",
+      "createdAt": "2026-09-02T15:00:43.861Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 90
+    },
+    {
       "name": "chronologyjs",
       "version": "2.0.1",
       "description": "A JSON-configurable universal calendar system — a variable-base numeral calculator. Supports Gregorian, Islamic (Hijri), and Chinese lunar calendars out of the box.",
@@ -69746,6 +69938,18 @@
       "score": 100
     },
     {
+      "name": "csv-zod-stream",
+      "version": "1.0.1",
+      "description": "Streaming CSV/TSV parser with per-row Zod validation — a real Node.js Transform over csv-parse, with honest backpressure, physical line numbers on errors, and a Web Streams build.",
+      "license": "MIT",
+      "repository": "https://github.com/PavelLazarchuk/csv-zod-stream",
+      "npmUrl": "https://www.npmjs.com/package/csv-zod-stream",
+      "category": "data",
+      "createdAt": "2026-09-02T14:30:08.391Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 97
+    },
+    {
       "name": "ctenifaktur",
       "version": "0.1.0",
       "description": "Command-line client for Čtení Faktur: upload Czech invoices and receipts, download ISDOC, Pohoda and Money S3 exports.",
@@ -69972,6 +70176,18 @@
       "createdAt": "2026-07-31T15:35:22.861Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 75
+    },
+    {
+      "name": "cyberchef-mcp",
+      "version": "2.6.0",
+      "description": "MCP server exposing CyberChef's 504 data-transformation operations -- encryption, encoding, compression, forensics -- as tools for AI assistants.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/doublegate/CyberChef-MCP",
+      "npmUrl": "https://www.npmjs.com/package/cyberchef-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-02T10:24:08.906Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 94
     },
     {
       "name": "cypress-dfe",
@@ -80486,6 +80702,18 @@
       "score": 77
     },
     {
+      "name": "inline-chat-kit",
+      "version": "0.49.0",
+      "description": "An inline AI chat experience for React. The input is the message: it morphs into the bubble, the answer streams beneath it, and the parts around it — tool calls, reasoning, questions, artifacts, dictation — come with it.",
+      "license": "MIT",
+      "repository": "https://github.com/bogstebole/chat-experience",
+      "npmUrl": "https://www.npmjs.com/package/inline-chat-kit",
+      "category": "frontend",
+      "createdAt": "2026-09-02T11:14:23.194Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 90
+    },
+    {
       "name": "inmem-memo",
       "version": "1.0.1",
       "description": "Ultra-Fast In-Memory Scratchpad Memo Application for Windows, macOS, and Linux",
@@ -83508,6 +83736,18 @@
       "createdAt": "2026-07-25T22:30:10.749Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 53
+    },
+    {
+      "name": "localeproof",
+      "version": "0.1.0",
+      "description": "Check that the locales your iOS app ships match the locales your App Store listing promises: String Catalogs and knownRegions versus fastlane metadata and screenshots folders. Zero dependencies, fully offline.",
+      "license": "MIT",
+      "repository": "https://github.com/vsolano9/localeproof",
+      "npmUrl": "https://www.npmjs.com/package/localeproof",
+      "category": "data",
+      "createdAt": "2026-09-02T10:50:52.197Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 90
     },
     {
       "name": "localfit",
@@ -90132,6 +90372,18 @@
       "createdAt": "2026-08-15T23:22:17.418Z",
       "discoveredAt": "2026-08-16T01:49:36.241Z",
       "score": 86
+    },
+    {
+      "name": "oas-pm-quality",
+      "version": "3.0.0",
+      "description": "OpenAPI definition quality checks and Postman collection generator with automated tests",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/odelvalle/oas-pm-quality",
+      "npmUrl": "https://www.npmjs.com/package/oas-pm-quality",
+      "category": "testing",
+      "createdAt": "2026-09-01T15:56:16.059Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 88
     },
     {
       "name": "oas-to-markdown",
@@ -97106,6 +97358,18 @@
       "score": 74
     },
     {
+      "name": "react-mail-editor",
+      "version": "1.0.1",
+      "description": "A customizable, extensible drag-and-drop email template builder for React 19, built with shadcn/ui. Framework-agnostic: drop it into WordPress, Laravel, Django, Flask or any React app.",
+      "license": "MIT",
+      "repository": "https://github.com/rafiahmedd/react-mail-editor",
+      "npmUrl": "https://www.npmjs.com/package/react-mail-editor",
+      "category": "frontend",
+      "createdAt": "2026-08-28T11:03:47.651Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 98
+    },
+    {
       "name": "react-native-advertising-identifier",
       "version": "2.0.0",
       "description": "Get the Google Advertising ID (Android) and IDFA (iOS) in React Native, with App Tracking Transparency support",
@@ -101594,6 +101858,18 @@
       "score": 81
     },
     {
+      "name": "skill-drawer",
+      "version": "0.4.0",
+      "description": "Browse, lint, organise, trash-and-restore, disable, edit, export and install agent skills across every drawer on your machine (.agents, .claude, .codex, .cursor, .gemini, project-local and more).",
+      "license": "MIT",
+      "repository": "https://github.com/prabhay759/skill-drawer",
+      "npmUrl": "https://www.npmjs.com/package/skill-drawer",
+      "category": "utilities",
+      "createdAt": "2026-09-02T07:38:48.137Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 89
+    },
+    {
       "name": "skill-land",
       "version": "1.0.1",
       "description": "Install an agent skill to the directory the agent actually reads, then verify it landed. Exits non-zero if it didn't.",
@@ -103106,6 +103382,18 @@
       "score": 79
     },
     {
+      "name": "stm32f4-emu",
+      "version": "1.0.0",
+      "description": "STM32F407 emulator: Unicorn (WASM) CPU + Rust peripheral model. Runs real Cortex-M4 firmware in Node or the browser.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/danish9661/stm32F4-emulator",
+      "npmUrl": "https://www.npmjs.com/package/stm32f4-emu",
+      "category": "frontend",
+      "createdAt": "2026-08-19T18:17:34.893Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 89
+    },
+    {
       "name": "stockfish-mcp",
       "version": "1.0.0",
       "description": "MCP server that gives an LLM the best move for a chess position (FEN or PGN) via Stockfish.",
@@ -104076,6 +104364,18 @@
       "createdAt": "2026-08-08T04:40:39.059Z",
       "discoveredAt": "2026-08-08T04:47:49.989Z",
       "score": 80
+    },
+    {
+      "name": "tabtree-mcp",
+      "version": "1.1.0",
+      "description": "Let Claude read your TabTree library and turn conversations into mind maps and whiteboards. Local files, no account, nothing uploaded.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/ai4xedu/tabtree-mcp",
+      "npmUrl": "https://www.npmjs.com/package/tabtree-mcp",
+      "category": "data",
+      "createdAt": "2026-09-02T09:15:30.569Z",
+      "discoveredAt": "2026-09-02T16:27:26.013Z",
+      "score": 93
     },
     {
       "name": "taetype-wasm",
