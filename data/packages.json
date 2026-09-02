@@ -434,6 +434,18 @@
       "score": 81
     },
     {
+      "name": "@333eco/brand",
+      "version": "1.3.0",
+      "description": "The canonical brand layer for the institution — design tokens, themes, motion, and the B-Emblem. A READ-ONLY MIRROR; institution repos vendor this layer, they do not install it.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/333eco/brand.333.eco",
+      "npmUrl": "https://www.npmjs.com/package/%40333eco%2Fbrand",
+      "category": "frontend",
+      "createdAt": "2026-09-01T16:58:13.873Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 89
+    },
+    {
       "name": "@3dpacking/mcp-server",
       "version": "0.1.0",
       "description": "Container and truck load planning for AI assistants. Describe a shipment in plain English, get back the containers it fits in and a link to the 3D load plan.",
@@ -7560,6 +7572,18 @@
       "createdAt": "2026-08-01T22:57:53.463Z",
       "discoveredAt": "2026-08-01T23:42:55.944Z",
       "score": 64
+    },
+    {
+      "name": "@blakelypritchard/cse-toolkit",
+      "version": "0.1.1",
+      "description": "MCP server for IBM Customer Solutions Engineers — local semantic KB search, grounded RFP response generation, and branded document rendering. No cloud calls at query or index time.",
+      "license": "MIT",
+      "repository": "https://github.com/blakelypritchard/cse-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40blakelypritchard%2Fcse-toolkit",
+      "category": "backend",
+      "createdAt": "2026-09-01T18:39:17.969Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 88
     },
     {
       "name": "@blazingcdn/mcp",
@@ -17042,6 +17066,18 @@
       "score": 60
     },
     {
+      "name": "@facetui/react",
+      "version": "1.0.1",
+      "description": "Production-ready, accessible data table for React and Next.js — built on React Aria Components + TanStack Table + Tailwind CSS.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/redbeard-publishing/facetui",
+      "npmUrl": "https://www.npmjs.com/package/%40facetui%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-09-02T03:19:14.825Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 92
+    },
+    {
       "name": "@factoidal/core",
       "version": "0.1.0",
       "description": "Formally verified RDF/SPARQL engine, extracted from F* specifications, for Node and the browser (JS + Wasm). Parser and algebra spec verified in F*; on-disk backend has unverified OCaml-side optimization layers being migrated back to F*.",
@@ -19128,6 +19164,18 @@
       "createdAt": "2026-08-09T10:30:11.880Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 65
+    },
+    {
+      "name": "@genispace/sdk",
+      "version": "3.1.0",
+      "description": "GeniSpace AI Platform JavaScript SDK - Official client library for GeniSpace platform APIs",
+      "license": "MIT",
+      "repository": "https://github.com/genispace/sdk-javascript",
+      "npmUrl": "https://www.npmjs.com/package/%40genispace%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-09-01T17:20:44.366Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 89
     },
     {
       "name": "@geoalgeria/cliniques",
@@ -26246,6 +26294,18 @@
       "score": 81
     },
     {
+      "name": "@huma-protocol/scanner",
+      "version": "0.6.1",
+      "description": "HUMA wallet-graph scanner — signed sybil-risk scoring for any wallet list. Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche and Solana via free-tier Helius + Alchemy RPCs. Ed25519-signed JSON + Markdown + HTML reports.",
+      "license": "BUSL-1.1",
+      "repository": "https://github.com/advisely/huma-scanner",
+      "npmUrl": "https://www.npmjs.com/package/%40huma-protocol%2Fscanner",
+      "category": "testing",
+      "createdAt": "2026-09-02T04:07:13.678Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 90
+    },
+    {
       "name": "@humaan/payload-preview-links",
       "version": "0.1.0",
       "description": "Share unpublished Payload CMS content with people who have no CMS account, via revocable links that put the recipient into Next.js draft mode.",
@@ -32940,6 +33000,54 @@
       "createdAt": "2026-08-06T11:43:02.054Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 83
+    },
+    {
+      "name": "@m-sanchez/ab-significance",
+      "version": "2.0.0",
+      "description": "Did model B really beat model A, or is it sampling noise? Paired McNemar and bootstrap CI on the common-valid subset - zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/m-sanchez/ab-significance",
+      "npmUrl": "https://www.npmjs.com/package/%40m-sanchez%2Fab-significance",
+      "category": "testing",
+      "createdAt": "2026-09-01T15:21:51.538Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 89
+    },
+    {
+      "name": "@m-sanchez/frozen-eval",
+      "version": "3.0.0",
+      "description": "Evals you cannot quietly bend: corpus and bars frozen in one hash, fail-closed runs, a hash-chained results ledger, leakage checks that exit non-zero.",
+      "license": "MIT",
+      "repository": "https://github.com/m-sanchez/frozen-eval",
+      "npmUrl": "https://www.npmjs.com/package/%40m-sanchez%2Ffrozen-eval",
+      "category": "build-tools",
+      "createdAt": "2026-09-01T15:21:40.068Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 89
+    },
+    {
+      "name": "@m-sanchez/grounded-claims",
+      "version": "2.0.0",
+      "description": "Cite-or-refuse for LLM answers, enforced in code: an ordered gate pipeline over the turn, a check chain over each claim, contained plug-ins, a composer that cannot introduce or forge, and replayable hashed run records.",
+      "license": "MIT",
+      "repository": "https://github.com/m-sanchez/grounded-claims",
+      "npmUrl": "https://www.npmjs.com/package/%40m-sanchez%2Fgrounded-claims",
+      "category": "build-tools",
+      "createdAt": "2026-09-01T15:22:13.732Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 98
+    },
+    {
+      "name": "@m-sanchez/probe-heads",
+      "version": "2.0.0",
+      "description": "Reproducible probing of frozen embeddings: deterministic one-vs-rest logistic heads, leakage-safe scaling, thresholds chosen on validation, holdout kept out of training, every F1 reported against a permuted-label control.",
+      "license": "MIT",
+      "repository": "https://github.com/m-sanchez/probe-heads",
+      "npmUrl": "https://www.npmjs.com/package/%40m-sanchez%2Fprobe-heads",
+      "category": "build-tools",
+      "createdAt": "2026-09-01T15:21:45.912Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 95
     },
     {
       "name": "@m1z23r/ngx-mentions",
@@ -50414,6 +50522,30 @@
       "score": 96
     },
     {
+      "name": "@soyrageagency/docker-mcp",
+      "version": "1.1.0",
+      "description": "Chat with your Docker host. A Model Context Protocol (MCP) server that lets any LLM list containers, read logs, manage lifecycle and deploy Compose stacks — safely. Built by SoyRage Agency.",
+      "license": "MIT",
+      "repository": "https://github.com/soyrageagency/docker-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40soyrageagency%2Fdocker-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T20:46:25.902Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 98
+    },
+    {
+      "name": "@soyrageagency/proxmox-mcp",
+      "version": "1.0.0",
+      "description": "Chat with your Proxmox VE cluster. A Model Context Protocol (MCP) server that lets any LLM list nodes, VMs and LXC containers, read status, manage lifecycle and take snapshots — safely. Built by SoyRage Agency.",
+      "license": "MIT",
+      "repository": "https://github.com/soyrageagency/proxmox-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40soyrageagency%2Fproxmox-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T20:44:27.111Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 100
+    },
+    {
       "name": "@sp-api-sdk/finances-invoices-api-2026-06-25",
       "version": "1.1.0",
       "description": "The Selling Partner API for Invoices enables you to retrieve invoice data and streamline your bookkeeping processes.",
@@ -52310,6 +52442,18 @@
       "score": 74
     },
     {
+      "name": "@sz.ws/encke",
+      "version": "0.2.1",
+      "description": "Apple App Clip Code generator in pure TypeScript. Renders the scannable ring code to SVG, bit-for-bit identical to Apple's AppClipCodeGenerator, with no macOS and no native binary. Works in Node, Next.js, React, browsers and Cloudflare Workers.",
+      "license": "MIT",
+      "repository": "https://github.com/kuosuko/encke",
+      "npmUrl": "https://www.npmjs.com/package/%40sz.ws%2Fencke",
+      "category": "frontend",
+      "createdAt": "2026-09-01T19:40:07.745Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 90
+    },
+    {
       "name": "@szolcek/claude-status-bar",
       "version": "1.2.2",
       "description": "A customizable statusline for Claude Code that tracks context usage and session limits — a fork of ctxline-claude",
@@ -53522,6 +53666,18 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/tiktok-mcp",
+      "version": "1.0.0",
+      "description": "TikTok MCP server for Claude Code and AI agents. 14 tools for your profile, video stats, top posts, publishing videos and photo carousels, drafts and post status.",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/tiktok-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Ftiktok-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T18:00:56.648Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 94
+    },
+    {
       "name": "@thenavidm/whatsapp-mcp",
       "version": "0.5.0",
       "description": "WhatsApp MCP server for Claude Code and AI agents. Search your whole message history, read any conversation, send messages and voice notes. One Go binary, read-only by default.",
@@ -53532,6 +53688,18 @@
       "createdAt": "2026-08-31T22:51:50.600Z",
       "discoveredAt": "2026-09-01T04:50:43.185Z",
       "score": 87
+    },
+    {
+      "name": "@thenavidm/youtube-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for YouTube. Transcripts with no setup, channel research, and full multi-channel account management. Works with Claude Code, Claude Desktop, Cursor, Windsurf, and any MCP-compatible client.",
+      "license": "MIT",
+      "repository": "https://github.com/navidmoazzez/youtube-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fyoutube-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-01T18:51:25.611Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 100
     },
     {
       "name": "@theorvane/type-chain",
@@ -56736,6 +56904,18 @@
       "createdAt": "2026-08-05T05:12:38.831Z",
       "discoveredAt": "2026-08-05T07:39:52.818Z",
       "score": 81
+    },
+    {
+      "name": "@vsrepo/prisma7-adapter",
+      "version": "1.0.0",
+      "description": "VSRepository adapter implementation backed by Prisma 7, translating every VSRepository operation into Prisma Client calls.",
+      "license": "MIT",
+      "repository": "https://github.com/jaobrabo123/VSRepoPrisma7Adapter",
+      "npmUrl": "https://www.npmjs.com/package/%40vsrepo%2Fprisma7-adapter",
+      "category": "data",
+      "createdAt": "2026-09-02T03:11:08.757Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 90
     },
     {
       "name": "@vtquan124/strix",
@@ -65102,6 +65282,18 @@
       "score": 97
     },
     {
+      "name": "browser-command-center",
+      "version": "1.0.0",
+      "description": "One script, pasted once: AI context capture, state checkpoints, network recording and mocking, and journey replay in any browser tab. No extension, no install, no permissions.",
+      "license": "MIT",
+      "repository": "https://github.com/DanWebDev1980/browser-command-center",
+      "npmUrl": "https://www.npmjs.com/package/browser-command-center",
+      "category": "frontend",
+      "createdAt": "2026-09-01T23:26:23.074Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 97
+    },
+    {
       "name": "browser-cookie-bridge",
       "version": "1.0.0",
       "description": "Private local cookie and session transfer for macOS",
@@ -73310,6 +73502,18 @@
       "score": 100
     },
     {
+      "name": "dsh-sidebar-onlyoffice",
+      "version": "0.2.0",
+      "description": "DSH web plugin: open .docx/.xlsx/.pptx in the better-sidebar editor through a self-hosted ONLYOFFICE Document Server (JWT-signed config, in-network document/callback routes, save-back to disk; the DS browser UI is always served same-origin through the bui",
+      "license": "MIT",
+      "repository": "https://github.com/chendefine/dsh-sidebar-onlyoffice",
+      "npmUrl": "https://www.npmjs.com/package/dsh-sidebar-onlyoffice",
+      "category": "frontend",
+      "createdAt": "2026-08-27T16:18:14.022Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 90
+    },
+    {
       "name": "dsh-skill-hub",
       "version": "0.1.0",
       "description": "In-GUI skill hub for DeepSeek Harness (dsh): browse the full local skill catalog from the official ctx.skills registry (every root + third-party providers), toggle skills on/off, inspect bodies, surface frontmatter diagnostics, and scaffold new skills — t",
@@ -74532,6 +74736,18 @@
       "createdAt": "2026-08-07T14:25:51.682Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 64
+    },
+    {
+      "name": "entity-id",
+      "version": "1.0.0",
+      "description": "A DX-friendly entity ID toolkit: prefixed, self-describing IDs with branded TypeScript types, Zod schemas, a prefix registry and a matching Postgres generator. Isomorphic and ESM-only; ~3 KB until you import the schemas.",
+      "license": "MIT",
+      "repository": "https://github.com/kiwagu/entity-id",
+      "npmUrl": "https://www.npmjs.com/package/entity-id",
+      "category": "data",
+      "createdAt": "2026-09-01T18:18:41.516Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 100
     },
     {
       "name": "env-local",
@@ -75827,6 +76043,18 @@
       "category": "backend",
       "createdAt": "2026-08-03T11:27:48.233Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
+      "score": 96
+    },
+    {
+      "name": "fearch-mcp",
+      "version": "2.0.1",
+      "description": "Respectful web search and page reading for coding agents: an MCP server and CLI that identify themselves honestly, honour robots.txt, and treat a refusal as final.",
+      "license": "MIT",
+      "repository": "https://github.com/funkyfunc/fearch",
+      "npmUrl": "https://www.npmjs.com/package/fearch-mcp",
+      "category": "frontend",
+      "createdAt": "2026-09-02T01:04:50.936Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
       "score": 96
     },
     {
@@ -80580,6 +80808,18 @@
       "createdAt": "2026-07-31T15:47:45.928Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 47
+    },
+    {
+      "name": "iri-shield",
+      "version": "1.2.1",
+      "description": "Enterprise Express.js security middleware — explainable risk scoring, multi-signal identity profiling, behavioural anomaly detection, attack correlation, sensitive-data redaction, and dashboard monitoring.",
+      "license": "MIT",
+      "repository": "https://github.com/ansari-in/iri-shield",
+      "npmUrl": "https://www.npmjs.com/package/iri-shield",
+      "category": "backend",
+      "createdAt": "2026-09-01T16:56:42.128Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 100
     },
     {
       "name": "iritoken",
@@ -88526,6 +88766,18 @@
       "score": 93
     },
     {
+      "name": "neveroversell",
+      "version": "0.1.0",
+      "description": "Holds that cannot oversell: Postgres reservations with TTL, a payment phase, idempotent two-path confirmation, a concurrent-safe sweeper and a drift check. One migration, one thin client, the guarantee enforced by the database.",
+      "license": "MIT",
+      "repository": "https://github.com/pavangupta352/neveroversell",
+      "npmUrl": "https://www.npmjs.com/package/neveroversell",
+      "category": "data",
+      "createdAt": "2026-09-02T03:37:59.024Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 90
+    },
+    {
       "name": "neverthrow-core",
       "version": "1.0.0",
       "description": "Stop throwing errors, and instead return Results!",
@@ -96374,6 +96626,18 @@
       "score": 80
     },
     {
+      "name": "ragevault",
+      "version": "0.2.3",
+      "description": "RageVault — a self-hosted, end-to-end-encrypted password manager. Categories & folders, user roles, a strong password generator, a browser extension and a one-file standalone install. Built by SoyRage Agency.",
+      "license": "MIT",
+      "repository": "https://github.com/soyrageagency/ragevault",
+      "npmUrl": "https://www.npmjs.com/package/ragevault",
+      "category": "frontend",
+      "createdAt": "2026-09-01T20:47:09.041Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 90
+    },
+    {
       "name": "ragproof",
       "version": "0.1.0",
       "description": "Self-correcting RAG answers and CI eval gates that block the merge when hallucination rate crosses your threshold",
@@ -97764,6 +98028,18 @@
       "createdAt": "2026-08-01T10:57:18.484Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 83
+    },
+    {
+      "name": "react-pop-a-window",
+      "version": "1.0.0",
+      "description": "Non-modal, draggable, resizable floating windows for React. The surface behind stays live. Self-contained styling via CSS custom properties, zero host dependencies, peer-dep on React only.",
+      "license": "MIT",
+      "repository": "https://github.com/Altervayne/react-pop-a-window",
+      "npmUrl": "https://www.npmjs.com/package/react-pop-a-window",
+      "category": "frontend",
+      "createdAt": "2026-09-01T17:36:13.486Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 94
     },
     {
       "name": "react-rotary-fab",
@@ -99984,6 +100260,18 @@
       "createdAt": "2026-08-14T10:56:49.526Z",
       "discoveredAt": "2026-08-14T11:32:59.988Z",
       "score": 85
+    },
+    {
+      "name": "scrollvars",
+      "version": "1.12.3",
+      "description": "Tiny scroll-driven animation engine: one rAF loop in, CSS variables out. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/aduptive/scrollvars",
+      "npmUrl": "https://www.npmjs.com/package/scrollvars",
+      "category": "frontend",
+      "createdAt": "2026-09-01T05:44:21.152Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 89
     },
     {
       "name": "sculptors",
@@ -102492,6 +102780,18 @@
       "createdAt": "2026-08-13T21:27:08.843Z",
       "discoveredAt": "2026-08-13T22:32:35.193Z",
       "score": 90
+    },
+    {
+      "name": "stapes-adsa",
+      "version": "1.0.0",
+      "description": "AST-based ADSA (Adaptive Dual-System Architecture) linter for TypeScript. Flags slow paths without logging, fast paths doing I/O, decision points without routing, async boundaries missing the adsa_path log line, and invalid {adsa_path, adsa_area} shapes.",
+      "license": "MIT",
+      "repository": "https://github.com/stapesco/adsa",
+      "npmUrl": "https://www.npmjs.com/package/stapes-adsa",
+      "category": "build-tools",
+      "createdAt": "2026-09-01T20:24:06.910Z",
+      "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 100
     },
     {
       "name": "stapes-context-trim",
