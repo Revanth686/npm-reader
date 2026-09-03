@@ -7370,6 +7370,18 @@
       "score": 65
     },
     {
+      "name": "@bharat3d/state-maps",
+      "version": "0.1.0",
+      "description": "3D maps of every Indian state and UT for Three.js — 785 districts across 36 states/UTs, 6,472 sub-districts, six camera presets (isometric, cross-section, top-down, elevation, walkthrough, exploded), themeable.",
+      "license": "MIT",
+      "repository": "https://github.com/Sahilgumber7/bharat-3d",
+      "npmUrl": "https://www.npmjs.com/package/%40bharat3d%2Fstate-maps",
+      "category": "data",
+      "createdAt": "2026-09-03T09:11:20.145Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
       "name": "@bhavesh2706/react-native-smart-image",
       "version": "1.0.0",
       "description": "Lightweight React Native image display with caching and opt-in UX flags — Expo and bare CLI. Powered by expo-image. Zero runtime dependencies.",
@@ -11112,6 +11124,18 @@
       "createdAt": "2026-08-09T04:03:48.529Z",
       "discoveredAt": "2026-08-09T04:56:39.437Z",
       "score": 78
+    },
+    {
+      "name": "@computesdk/givemeanode",
+      "version": "1.0.1",
+      "description": "givemeanode for ComputeSDK - sandboxes served from a per-region warm pool, with a signed credential that keeps the database off the create path",
+      "license": "MIT",
+      "repository": "https://github.com/computesdk/computesdk",
+      "npmUrl": "https://www.npmjs.com/package/%40computesdk%2Fgivemeanode",
+      "category": "data",
+      "createdAt": "2026-09-03T13:15:21.364Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
     },
     {
       "name": "@computesdk/run-cloud",
@@ -16454,6 +16478,18 @@
       "score": 76
     },
     {
+      "name": "@entro314labs/oxc-audit",
+      "version": "1.3.3",
+      "description": "Deterministically audit a project's stack and configure the Oxc toolchain around it - oxlint, tsgolint and oxfmt",
+      "license": "MIT",
+      "repository": "https://github.com/entro314-labs/oxc-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40entro314labs%2Foxc-audit",
+      "category": "data",
+      "createdAt": "2026-09-03T06:46:49.177Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 89
+    },
+    {
       "name": "@entro314labs/plugin-apple-intelligence",
       "version": "0.7.0",
       "description": "Apple Intelligence for Tauri: guest bindings for tauri-plugin-apple-intelligence plus a Vercel AI SDK provider with pluggable transports",
@@ -18204,6 +18240,30 @@
       "createdAt": "2026-08-04T17:44:18.090Z",
       "discoveredAt": "2026-08-04T18:19:51.652Z",
       "score": 70
+    },
+    {
+      "name": "@focura-prod/auth-core",
+      "version": "1.1.7",
+      "description": "Production-ready authentication core for Express.js backends. Dual-token RS256 JWT architecture with session binding, token rotation, 2FA, account lockout, and audit logging.",
+      "license": "MIT",
+      "repository": "https://github.com/focura/focura-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40focura-prod%2Fauth-core",
+      "category": "backend",
+      "createdAt": "2026-09-03T15:35:53.358Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 95
+    },
+    {
+      "name": "@focura-prod/auth-next",
+      "version": "1.1.7",
+      "description": "Production-ready Next.js authentication with NextAuth.js. Drop-in auth with credentials, Google OAuth, 2FA, email verification, and password reset.",
+      "license": "MIT",
+      "repository": "https://github.com/focura/focura-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40focura-prod%2Fauth-next",
+      "category": "utilities",
+      "createdAt": "2026-09-03T15:36:02.209Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
     },
     {
       "name": "@foldstryx/docs",
@@ -27578,6 +27638,18 @@
       "score": 86
     },
     {
+      "name": "@integraledger/agentic-terms",
+      "version": "0.14.0",
+      "description": "Integra Agentic Terms — the buyer-side verify-before-sign gate for agentic purchases. Fetches the terms a seller advertised, recomputes the fingerprint, and halts before any signing key is invoked if they disagree. Works against any seller.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/IntegraLedger/integra-agentic-terms",
+      "npmUrl": "https://www.npmjs.com/package/%40integraledger%2Fagentic-terms",
+      "category": "utilities",
+      "createdAt": "2026-08-27T02:05:08.014Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
       "name": "@integraledger/binding-evm-mpp",
       "version": "0.2.5",
       "description": "Welds an LCP record into an MPP settlement on EVM by Id-Reuse (LCP §8.3.5).",
@@ -29940,6 +30012,18 @@
       "createdAt": "2026-08-03T09:08:43.491Z",
       "discoveredAt": "2026-08-03T09:27:32.902Z",
       "score": 90
+    },
+    {
+      "name": "@kareemelbalshe/any-table",
+      "version": "1.0.0",
+      "description": "A developer-facing, smart data table library with 3-tier API detection, auto columns, server/client search, sort & pagination, extensible action callbacks, and customizable themes.",
+      "license": "MIT",
+      "repository": "https://github.com/kareemelbalshe/anyTable",
+      "npmUrl": "https://www.npmjs.com/package/%40kareemelbalshe%2Fany-table",
+      "category": "frontend",
+      "createdAt": "2026-09-03T15:45:56.902Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 98
     },
     {
       "name": "@karibsen/eponyme",
@@ -33002,6 +33086,18 @@
       "score": 66
     },
     {
+      "name": "@luxalgo/trade-relay",
+      "version": "0.2.0",
+      "description": "Open-source execution relay for trading alerts. Point TradingView (or anything that can send a webhook, or an AI agent over MCP) at your own deployment and it places the matching order at your broker — safety rails on by default, a full flight recorder, y",
+      "license": "MIT",
+      "repository": "https://github.com/LuxAlgo/trade-relay",
+      "npmUrl": "https://www.npmjs.com/package/%40luxalgo%2Ftrade-relay",
+      "category": "devops",
+      "createdAt": "2026-08-28T18:09:04.800Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
       "name": "@luxfi/bridge",
       "version": "1.0.7",
       "description": "Lux Bridge SDK — embed bridge.lux.network into any host application",
@@ -34524,6 +34620,18 @@
       "createdAt": "2026-08-09T14:58:02.886Z",
       "discoveredAt": "2026-08-09T16:24:10.750Z",
       "score": 63
+    },
+    {
+      "name": "@mehmoodqureshi/figma-mcp",
+      "version": "0.2.0",
+      "description": "Figma to pixel-perfect code, as an MCP server. Converts a frame to self-contained HTML deterministically, then closes the loop: renders your code in Chromium, pixel-diffs it against the Figma reference, and tells the agent exactly which elements are missi",
+      "license": "MIT",
+      "repository": "https://github.com/Mehmoodqureshi/figma-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mehmoodqureshi%2Ffigma-mcp",
+      "category": "testing",
+      "createdAt": "2026-09-01T15:03:26.222Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
     },
     {
       "name": "@meitner/tiptap-table-plus",
@@ -47666,6 +47774,18 @@
       "score": 98
     },
     {
+      "name": "@sann-tech/react-image-markup",
+      "version": "0.3.0",
+      "description": "React component for filling paper-style forms and annotating images on an HTML5 canvas — handwriting with real pen pressure, typed fields, and a flattened image export at the original resolution.",
+      "license": "MIT",
+      "repository": "https://github.com/llamas-laptrinh/react-image-markup",
+      "npmUrl": "https://www.npmjs.com/package/%40sann-tech%2Freact-image-markup",
+      "category": "frontend",
+      "createdAt": "2026-09-03T07:09:54.983Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 89
+    },
+    {
       "name": "@sanning/anchor",
       "version": "0.4.0",
       "description": "Anchor-at-write-time for the Sanning evidence plane. Hash your data locally, sign a Verifiable Event Envelope (sanning.events/v1), and anchor it permanently on Arweave — permanent, tamper-evident provenance with Merkle-batched checkpoints and per-event in",
@@ -47796,6 +47916,18 @@
       "createdAt": "2026-08-08T18:53:07.120Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
       "score": 53
+    },
+    {
+      "name": "@sarv-in/login",
+      "version": "1.0.0",
+      "description": "Login with Sarv - the official login button and OAuth 2.1 + PKCE client for the Sarv identity server.",
+      "license": "MIT",
+      "repository": "https://github.com/Sarv/sarv-login-js",
+      "npmUrl": "https://www.npmjs.com/package/%40sarv-in%2Flogin",
+      "category": "frontend",
+      "createdAt": "2026-09-03T12:42:45.274Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
     },
     {
       "name": "@satsails/p2p-trading-sdk",
@@ -51060,6 +51192,18 @@
       "createdAt": "2026-07-31T20:58:46.942Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 65
+    },
+    {
+      "name": "@stackguardian/wizard",
+      "version": "2.4.0",
+      "description": "The StackGuardian wizard configures your project — MCP server and agent skills",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/StackGuardian/SG-Wizard",
+      "npmUrl": "https://www.npmjs.com/package/%40stackguardian%2Fwizard",
+      "category": "backend",
+      "createdAt": "2026-09-03T09:25:23.056Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 87
     },
     {
       "name": "@stackline/deepmerge",
@@ -60590,6 +60734,18 @@
       "score": 73
     },
     {
+      "name": "a-sub-watcher",
+      "version": "1.0.0",
+      "description": "Live dashboard for Claude Code sub-agents. Parent-child hierarchy, suspended/running status, token counts, and turn-by-turn breakdown (thinking/tool-call/output)—real-time, read-only.",
+      "license": "MIT",
+      "repository": "https://github.com/TranNgocHien278/a-sub-watcher",
+      "npmUrl": "https://www.npmjs.com/package/a-sub-watcher",
+      "category": "utilities",
+      "createdAt": "2026-09-03T15:13:58.034Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
       "name": "a11y-autofix",
       "version": "0.1.0",
       "description": "Scans React components with axe-core, generates verified WCAG fix diffs via the Claude API, and re-runs axe-core to confirm each fix before showing it to you.",
@@ -61752,6 +61908,18 @@
       "createdAt": "2026-08-07T13:57:03.983Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 51
+    },
+    {
+      "name": "agent-traffic-light",
+      "version": "1.0.0",
+      "description": "Ambient status for coding agents. A coloured light per session, a bell on the transitions that matter, and a push to your phone — so you can leave the desk and be pulled back only when a session actually needs you.",
+      "license": "MIT",
+      "repository": "https://github.com/supunTE/traffic-light",
+      "npmUrl": "https://www.npmjs.com/package/agent-traffic-light",
+      "category": "utilities",
+      "createdAt": "2026-09-03T04:49:49.357Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 100
     },
     {
       "name": "agent-vorcl-flow",
@@ -68114,6 +68282,18 @@
       "score": 100
     },
     {
+      "name": "clous-cli",
+      "version": "1.0.1",
+      "description": "Advanced data processing automation and data loss prevention system. Provides WAL, checkpoint/rollback, circuit breaker, retry mechanisms, and .env configuration management.",
+      "license": "MIT",
+      "repository": "https://github.com/efeknb/clous",
+      "npmUrl": "https://www.npmjs.com/package/clous-cli",
+      "category": "data",
+      "createdAt": "2026-09-03T13:14:13.008Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 87
+    },
+    {
       "name": "cmail-cli",
       "version": "0.1.0",
       "description": "cmail: realtime email for humans and coding agents. Web inbox with live updates, Gmail attach, your own domain via inbound.new, machines that register as agent VMs you can email tasks to, and an MCP server so your AIs can query the whole inbox. Installs t",
@@ -70394,6 +70574,18 @@
       "score": 50
     },
     {
+      "name": "dai-core",
+      "version": "0.1.0",
+      "description": "Compile a web app into a single air-gapped .dai.html file that holds its own SQLite database, runs from a double-click with nothing installed, and is tamper-evident. Command line, MCP server and Vite plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/dynamicapplicationinterface/dai-core",
+      "npmUrl": "https://www.npmjs.com/package/dai-core",
+      "category": "backend",
+      "createdAt": "2026-09-03T04:13:05.492Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
       "name": "daily-react-native-player",
       "version": "0.1.0",
       "description": "Edge-native Expo background audio — TTS playlists, music queues, lock screen, HLS, silence tracks, ambient dual-audio. MIT. Built for Daily Bible.",
@@ -70740,6 +70932,18 @@
       "createdAt": "2026-07-26T13:36:26.099Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "deckhq",
+      "version": "1.2.0",
+      "description": "Every AI coding session on your machine, on one office floor. It sees the ones your terminal forgot, and remembers what's waiting on you even after you've read it. Local, private, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/DkPanseriya/deckhq",
+      "npmUrl": "https://www.npmjs.com/package/deckhq",
+      "category": "cli",
+      "createdAt": "2026-09-03T12:25:47.850Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 99
     },
     {
       "name": "declarative-charts",
@@ -71148,6 +71352,18 @@
       "createdAt": "2026-08-04T02:50:21.174Z",
       "discoveredAt": "2026-08-04T04:56:35.171Z",
       "score": 90
+    },
+    {
+      "name": "desklog",
+      "version": "1.0.2",
+      "description": "Universal desktop logging & diagnostics engine for Electron, Tauri, and Node.js. Features cascade file rotation, strict disk bounding, sensitive data masking, multi-user isolation, and one-click diagnostic ZIP packaging.",
+      "license": "MIT",
+      "repository": "https://github.com/Novra-tools/NovraLogger",
+      "npmUrl": "https://www.npmjs.com/package/desklog",
+      "category": "data",
+      "createdAt": "2026-09-03T08:23:53.540Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 93
     },
     {
       "name": "desktop-destroyer",
@@ -72806,6 +73022,18 @@
       "score": 60
     },
     {
+      "name": "dsh-git-credentials",
+      "version": "0.3.1",
+      "description": "Out-of-tree dsh plugin: GitLab, GitHub, Gitee, Gitea, and Bitbucket tokens stay out of the model context, stored encrypted (AES-256-GCM) in a plugin-owned file; the model calls forge API tools on demand, and the web settings page manages sites and tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/revive/dsh-git-credentials",
+      "npmUrl": "https://www.npmjs.com/package/dsh-git-credentials",
+      "category": "backend",
+      "createdAt": "2026-09-03T15:01:05.184Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
       "name": "dsh-git-worktree",
       "version": "0.1.1",
       "description": "Domi-grade git worktree isolation and delivery for DeepSeek Harness: permanent worktrees, ready-for-review / apply / discard / finish lifecycle, conflict handling, and safe cleanup.",
@@ -73728,6 +73956,18 @@
       "createdAt": "2026-08-28T14:10:14.398Z",
       "discoveredAt": "2026-08-28T22:10:49.845Z",
       "score": 96
+    },
+    {
+      "name": "dsh-realtimeavatar",
+      "version": "0.1.1",
+      "description": "Realtime Avatar (realtimeavatar.ai) for the DeepSeek Harness: the developer's API key held by the harness, the public docs as on-demand skills, rta_* tools over the public REST API, and a /rta command that walks a developer from no key to a live avatar ca",
+      "license": "MIT",
+      "repository": "https://github.com/theinfluencecompany/dsh-realtimeavatar",
+      "npmUrl": "https://www.npmjs.com/package/dsh-realtimeavatar",
+      "category": "backend",
+      "createdAt": "2026-09-03T09:03:46.269Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
     },
     {
       "name": "dsh-reminder",
@@ -85214,6 +85454,18 @@
       "score": 96
     },
     {
+      "name": "mavensecguard",
+      "version": "1.9.0",
+      "description": "Zero-dependency multi-ecosystem application security scanner, SBOM generator and auto-remediation CLI for Maven, Python, and Docker.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AnujDalvi82/MSG-Maven-Security-Guard",
+      "npmUrl": "https://www.npmjs.com/package/mavensecguard",
+      "category": "cli",
+      "createdAt": "2026-09-03T15:17:51.525Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 93
+    },
+    {
       "name": "mbox-mcp",
       "version": "0.1.1",
       "description": "MCP server for local email archives — search and read Google Takeout .mbox exports and .eml files entirely on your machine. No OAuth, no IMAP, no cloud.",
@@ -90866,6 +91118,18 @@
       "score": 100
     },
     {
+      "name": "omniroute-plinian",
+      "version": "3.8.51",
+      "description": "Unified AI router with 355 providers, RTK+Caveman compression, auto fallback, MCP/A2A, desktop, PWA, and OpenAI-compatible APIs (Plinian & GODMODE Edition).",
+      "license": "MIT",
+      "repository": "https://github.com/diegosouzapw/OmniRoute",
+      "npmUrl": "https://www.npmjs.com/package/omniroute-plinian",
+      "category": "backend",
+      "createdAt": "2026-09-03T05:17:15.827Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 95
+    },
+    {
       "name": "omnisectester",
       "version": "2.0.0",
       "description": "Nation-state grade, defense-in-depth security testing framework. Tests web apps, extensions, desktop, mobile, cloud, AI/LLM, hardware, and supply chain from a single CLI.",
@@ -91524,6 +91788,18 @@
       "createdAt": "2026-08-04T09:54:25.996Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 78
+    },
+    {
+      "name": "opencode-fusion-conductor",
+      "version": "1.0.1",
+      "description": "Fusion Conductor - an opencode plugin: a main agent that plans and reviews but cannot edit files, delegating every change to a cheaper sidekick. Cognition's Devin Fusion pattern as a one-line install.",
+      "license": "MIT",
+      "repository": "https://github.com/JoshuaKimsey/opencode-fusion-conductor",
+      "npmUrl": "https://www.npmjs.com/package/opencode-fusion-conductor",
+      "category": "utilities",
+      "createdAt": "2026-09-03T11:10:43.908Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 94
     },
     {
       "name": "opencode-gateway-provider",
@@ -99984,6 +100260,18 @@
       "createdAt": "2026-07-30T08:14:07.176Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 81
+    },
+    {
+      "name": "routerplate",
+      "version": "1.0.0",
+      "description": "The opinionated, verifiable layer for REST API boilerplate: schema-validated route handlers that help developers and AI agents build safe endpoints on the framework you already have.",
+      "license": "MIT",
+      "repository": "https://github.com/ormulari/routerplate",
+      "npmUrl": "https://www.npmjs.com/package/routerplate",
+      "category": "backend",
+      "createdAt": "2026-09-03T14:31:44.821Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 98
     },
     {
       "name": "rowsaffected",
@@ -109692,6 +109980,18 @@
       "createdAt": "2026-08-08T20:11:46.996Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 63
+    },
+    {
+      "name": "windowsweep",
+      "version": "1.0.0",
+      "description": "Safe-by-default Windows cleanup CLI - developer-aware, dry-run first, zero install via npx.",
+      "license": "MIT",
+      "repository": "https://github.com/aoneahsan/windowsweep",
+      "npmUrl": "https://www.npmjs.com/package/windowsweep",
+      "category": "cli",
+      "createdAt": "2026-09-03T09:15:18.052Z",
+      "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 89
     },
     {
       "name": "winky-wonky",

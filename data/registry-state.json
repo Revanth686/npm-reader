@@ -1,12 +1,52 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 128488472,
-  "lastRunAt": "2026-09-03T04:07:36.909Z",
+  "lastSequence": 128614686,
+  "lastRunAt": "2026-09-03T16:18:01.109Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@meisiristhebest/evals",
-      "attempts": 6
+      "attempts": 7
+    },
+    {
+      "name": "@quantixfinance/config",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-darwin-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-linux-arm64-gnu",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-linux-arm64-musl",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-linux-x64-gnu",
+      "attempts": 1
+    },
+    {
+      "name": "@arocnies/fitgherkin",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-linux-x64-musl",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-win32-arm64-msvc",
+      "attempts": 1
+    },
+    {
+      "name": "@descryy/runtime-external-service-observation",
+      "attempts": 1
+    },
+    {
+      "name": "@octocodeai/freellama-native-win32-x64-msvc",
+      "attempts": 1
     }
   ]
 }
