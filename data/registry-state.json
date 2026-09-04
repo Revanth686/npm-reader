@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 128696438,
-  "lastRunAt": "2026-09-04T04:14:38.186Z",
+  "lastSequence": 128818746,
+  "lastRunAt": "2026-09-04T16:13:10.950Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@quantixfinance/config",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "smart-mailto",
+      "name": "@pharolith-ai/harness",
       "attempts": 1
     },
     {
-      "name": "@rarepops/spektra-cli-linux-x64",
+      "name": "@linkdesk/plugin-sdk",
       "attempts": 1
     }
   ]
