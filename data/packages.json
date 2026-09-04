@@ -1994,6 +1994,18 @@
       "score": 57
     },
     {
+      "name": "@agentwares/agentguard",
+      "version": "0.1.0",
+      "description": "MCP policy proxy for AI agents: hard spend limits, destructive-action gating with approvals, a kill switch, scoped credentials, dry-run writes with mutation diffs, loop breaker, blast-radius caps and a hash-chained audit log. No LLM calls, no phone-home,",
+      "license": "MIT",
+      "repository": "https://github.com/agentwares/agentwares",
+      "npmUrl": "https://www.npmjs.com/package/%40agentwares%2Fagentguard",
+      "category": "utilities",
+      "createdAt": "2026-09-04T00:57:05.772Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 90
+    },
+    {
       "name": "@aggregator-gg/sdk",
       "version": "1.0.0",
       "description": "TypeScript SDK for The Aggregator machine API",
@@ -10298,6 +10310,18 @@
       "score": 55
     },
     {
+      "name": "@cleanlist-ai/sdk",
+      "version": "2.0.0",
+      "description": "Official TypeScript/JavaScript SDK for the Cleanlist API (v2) — B2B lead discovery, waterfall enrichment, lead lists, smart agents, and export.",
+      "license": "MIT",
+      "repository": "https://github.com/Cleanlist-ai/cleanlist-typescript-client",
+      "npmUrl": "https://www.npmjs.com/package/%40cleanlist-ai%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-09-04T03:47:15.199Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 92
+    },
+    {
       "name": "@clervo/router",
       "version": "0.2.0",
       "description": "Free-first Clervo CLI for x402 payments, receipts, replay, and local spend controls on Base.",
@@ -10440,6 +10464,18 @@
       "createdAt": "2026-07-30T20:53:04.644Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 58
+    },
+    {
+      "name": "@cloudjun/otel-kit",
+      "version": "0.2.0",
+      "description": "Zero-config OpenTelemetry bootstrap for Node.js services: traces, logs (winston), metrics over OTLP/HTTP. Works with SigNoz, Grafana, or any OTLP backend. Optional NestJS middlewares.",
+      "license": "MIT",
+      "repository": "https://github.com/sistinafibel/otel-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40cloudjun%2Fotel-kit",
+      "category": "backend",
+      "createdAt": "2026-09-03T17:35:33.073Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 88
     },
     {
       "name": "@clusterify-ai/chatbot-sdk",
@@ -11604,6 +11640,18 @@
       "createdAt": "2026-08-08T04:25:20.822Z",
       "discoveredAt": "2026-08-08T04:47:49.989Z",
       "score": 56
+    },
+    {
+      "name": "@crashtech/torque-ui",
+      "version": "0.1.0",
+      "description": "Zero-JavaScript CSS framework: no build, no SCSS, no runtime. Native HTML does the interactivity, one variable re-themes everything, and every state your own script sets is already styled.",
+      "license": "MIT",
+      "repository": "https://github.com/crashtech/torque-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40crashtech%2Ftorque-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-04T03:08:46.345Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 88
     },
     {
       "name": "@cratestack/refine",
@@ -16850,6 +16898,18 @@
       "score": 71
     },
     {
+      "name": "@estmcmxci/mm-plugin-ensv2",
+      "version": "0.7.0",
+      "description": "ENSv2 for the MetaMask Agent Wallet CLI (mm): fail-closed detection, resolution, agent identity, primary names, and durable provisioning jobs on Sepolia",
+      "license": "MIT",
+      "repository": "https://github.com/estmcmxci/mm-plugin-ensv2",
+      "npmUrl": "https://www.npmjs.com/package/%40estmcmxci%2Fmm-plugin-ensv2",
+      "category": "cli",
+      "createdAt": "2026-09-04T03:45:34.473Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 85
+    },
+    {
       "name": "@estoc/keystore",
       "version": "0.1.0",
       "description": "Encrypted did:key keystore — JWK private keys sealed as PBES2 JWEs inside a plain JSON document, opened as non-extractable Signer handles. Pure data-in/data-out, no filesystem IO; runs in Node, workerd, and the browser.",
@@ -17688,6 +17748,18 @@
       "createdAt": "2026-08-02T17:10:55.893Z",
       "discoveredAt": "2026-08-02T17:46:33.450Z",
       "score": 70
+    },
+    {
+      "name": "@fimbul-works/random",
+      "version": "1.0.0",
+      "description": "A comprehensive collection of high-performance 32-bit and 64-bit pseudo-random number generators (PRNG), statistical distributions, and procedural generation utilities for TypeScript and JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/fimbul-works/random",
+      "npmUrl": "https://www.npmjs.com/package/%40fimbul-works%2Frandom",
+      "category": "frontend",
+      "createdAt": "2026-09-03T17:47:22.490Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 85
     },
     {
       "name": "@fimbul-works/t4",
@@ -18924,6 +18996,30 @@
       "createdAt": "2026-08-04T18:51:58.344Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 68
+    },
+    {
+      "name": "@gablura/auth-core",
+      "version": "1.1.9",
+      "description": "Production-ready authentication core for Express.js backends. Dual-token RS256 JWT architecture with session binding, token rotation, 2FA, account lockout, and audit logging.",
+      "license": "MIT",
+      "repository": "https://github.com/gablura/focura-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40gablura%2Fauth-core",
+      "category": "backend",
+      "createdAt": "2026-09-04T03:45:18.047Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 95
+    },
+    {
+      "name": "@gablura/auth-next",
+      "version": "1.1.9",
+      "description": "Production-ready Next.js authentication with NextAuth.js. Drop-in auth with credentials, Google OAuth, 2FA, email verification, and password reset.",
+      "license": "MIT",
+      "repository": "https://github.com/gablura/focura-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40gablura%2Fauth-next",
+      "category": "utilities",
+      "createdAt": "2026-09-04T03:45:35.588Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 90
     },
     {
       "name": "@gaborwnuk/axs-core",
@@ -28994,6 +29090,18 @@
       "score": 93
     },
     {
+      "name": "@jcancelo/google-wallet",
+      "version": "1.1.0",
+      "description": "Librería moderna, tipada y 100% en español para crear, firmar y emitir pases de Google Wallet (Eventos, Credenciales y Membresías) en Node.js, Next.js y React.",
+      "license": "MIT",
+      "repository": "https://github.com/julianmcancelo/google-wallet",
+      "npmUrl": "https://www.npmjs.com/package/%40jcancelo%2Fgoogle-wallet",
+      "category": "frontend",
+      "createdAt": "2026-09-04T00:36:42.514Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 95
+    },
+    {
       "name": "@jeancarloem/dslens",
       "version": "0.0.1",
       "description": "Cross-language library for declaratively resolving dynamic endpoints and values through a navigation DSL over structured remote data.",
@@ -38580,6 +38688,18 @@
       "createdAt": "2026-07-27T20:20:49.667Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 84
+    },
+    {
+      "name": "@nexkit/json-repair",
+      "version": "1.0.0",
+      "description": "Repair malformed JSON from LLMs and real-world text — safely, deterministically, with zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/nathanpixodeo/json-repair",
+      "npmUrl": "https://www.npmjs.com/package/%40nexkit%2Fjson-repair",
+      "category": "data",
+      "createdAt": "2026-09-04T03:49:35.173Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 90
     },
     {
       "name": "@nexpress/plugin-shop",
@@ -53954,6 +54074,18 @@
       "score": 97
     },
     {
+      "name": "@thenavidm/google-photos-mcp-cli",
+      "version": "1.2.0",
+      "description": "Google Photos MCP server and CLI for Claude Code and AI agents. 26 tools for the photo picker, uploads, albums, enrichments, descriptions, app-created media search, and multiple Google accounts.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/google-photos-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fgoogle-photos-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-03T23:35:36.698Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 99
+    },
+    {
       "name": "@thenavidm/mastodon-mcp",
       "version": "1.0.0",
       "description": "MCP server for Mastodon and the fediverse. 60 tools for posting, editing, threads, five timelines, hashtags, lists, notifications and the social graph, with LLM-optimised output. One-command app registration. Works with Claude Code, Claude Desktop, Cursor",
@@ -54026,6 +54158,18 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/threads-mcp-cli",
+      "version": "1.1.1",
+      "description": "Threads MCP server and CLI for Claude Code and AI agents. 30 tools for posting, chained threads, carousels, replies and reply approvals, insights, keyword search and profile discovery.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/threads-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fthreads-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-03T23:01:59.749Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 98
+    },
+    {
       "name": "@thenavidm/tiktok-mcp",
       "version": "1.0.0",
       "description": "TikTok MCP server for Claude Code and AI agents. 14 tools for your profile, video stats, top posts, publishing videos and photo carousels, drafts and post status.",
@@ -54038,6 +54182,18 @@
       "score": 94
     },
     {
+      "name": "@thenavidm/tiktok-mcp-cli",
+      "version": "1.1.0",
+      "description": "TikTok MCP server and CLI for Claude Code and AI agents. 14 tools for your profile, video stats, top posts, publishing videos and photo carousels, drafts and post status.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/tiktok-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Ftiktok-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-03T23:04:57.262Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 95
+    },
+    {
       "name": "@thenavidm/whatsapp-mcp",
       "version": "0.5.0",
       "description": "WhatsApp MCP server for Claude Code and AI agents. Search your whole message history, read any conversation, send messages and voice notes. One Go binary, read-only by default.",
@@ -54048,6 +54204,18 @@
       "createdAt": "2026-08-31T22:51:50.600Z",
       "discoveredAt": "2026-09-01T04:50:43.185Z",
       "score": 87
+    },
+    {
+      "name": "@thenavidm/wordpress-mcp-cli",
+      "version": "1.1.1",
+      "description": "WordPress MCP server and CLI for Claude Code and AI agents. 42 tools for posts, pages, custom post types, media, taxonomies, users and comments over the WordPress REST API, plus Elementor page data, Rank Math SEO, redirects and bulk edits through an optio",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/wordpress-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fwordpress-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-03T23:31:16.700Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 100
     },
     {
       "name": "@thenavidm/youtube-mcp",
@@ -58164,6 +58332,18 @@
       "createdAt": "2026-08-04T22:28:07.634Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 70
+    },
+    {
+      "name": "@wildorder/keyart",
+      "version": "0.1.1",
+      "description": "A local creative director for AI-built prototypes — turn a rough brief into visual directions, an exact brand.css, style guides, and coding-agent rules.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/wildorder/keyart",
+      "npmUrl": "https://www.npmjs.com/package/%40wildorder%2Fkeyart",
+      "category": "frontend",
+      "createdAt": "2026-09-03T11:45:17.889Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 85
     },
     {
       "name": "@wildride/pad-kit",
@@ -75626,6 +75806,18 @@
       "score": 82
     },
     {
+      "name": "eslint-plugin-next-security",
+      "version": "1.0.1",
+      "description": "ESLint rules for the Next.js App Router attack surface: unguarded Server Actions, data-layer imports outside the DAL, unvalidated FormData reaching the database.",
+      "license": "MIT",
+      "repository": "https://github.com/PavelLazarchuk/eslint-plugin-next-security",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-next-security",
+      "category": "frontend",
+      "createdAt": "2026-09-03T18:30:13.489Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 95
+    },
+    {
       "name": "eslint-plugin-oaklint",
       "version": "0.1.0",
       "description": "Opinionated oak lint rules for TypeScript, shipped as an ESLint plugin that also runs on Oxlint.",
@@ -78623,6 +78815,18 @@
       "category": "utilities",
       "createdAt": "2026-08-30T19:10:44.587Z",
       "discoveredAt": "2026-08-31T05:15:40.133Z",
+      "score": 89
+    },
+    {
+      "name": "glotforge",
+      "version": "0.1.0",
+      "description": "Keyless i18n for TypeScript & React — write copy in your own language, ship every language. Content-hash catalogs, a build-time loader, and AI translation with glossary and context steering.",
+      "license": "MIT",
+      "repository": "https://github.com/CarterL1S41/GlotForge",
+      "npmUrl": "https://www.npmjs.com/package/glotforge",
+      "category": "frontend",
+      "createdAt": "2026-09-03T19:10:39.804Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
       "score": 89
     },
     {
@@ -92282,6 +92486,18 @@
       "score": 65
     },
     {
+      "name": "opensearch-agg-inspector",
+      "version": "0.1.0",
+      "description": "Static analysis / linter for OpenSearch and Elasticsearch aggregation DSL — finds correctness, performance, and best-practice issues without running the query.",
+      "license": "MIT",
+      "repository": "https://github.com/ab1109/opensearch-agg-inspector",
+      "npmUrl": "https://www.npmjs.com/package/opensearch-agg-inspector",
+      "category": "data",
+      "createdAt": "2026-09-03T17:13:05.146Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 85
+    },
+    {
       "name": "opensocrates",
       "version": "1.0.0",
       "description": "Install and manage the OpenSocrates reasoning framework for Codex.",
@@ -92784,6 +93000,18 @@
       "createdAt": "2026-08-09T20:47:49.749Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 65
+    },
+    {
+      "name": "overnight-kit",
+      "version": "0.1.0",
+      "description": "Run a sequence of Claude Code prompts against a git repo while you sleep: one commit per prompt, CI polling (Vercel + GitHub Checks), an auto-merge gate you opt into, Discord/Slack notifications, and resume-safe state. Plus a prompt-maker that turns a one",
+      "license": "MIT",
+      "repository": "https://github.com/agentwares/agentwares",
+      "npmUrl": "https://www.npmjs.com/package/overnight-kit",
+      "category": "devops",
+      "createdAt": "2026-09-04T00:51:11.179Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 86
     },
     {
       "name": "overseer-nvim-mcp",
@@ -97356,6 +97584,18 @@
       "createdAt": "2026-08-23T18:13:19.547Z",
       "discoveredAt": "2026-08-24T01:48:53.527Z",
       "score": 91
+    },
+    {
+      "name": "radman",
+      "version": "1.0.0",
+      "description": "Lightweight, zero-network-request crypto donation modal library (QR + address display)",
+      "license": "MIT",
+      "repository": "https://github.com/par-taheri/radman",
+      "npmUrl": "https://www.npmjs.com/package/radman",
+      "category": "utilities",
+      "createdAt": "2026-09-03T20:59:07.681Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 87
     },
     {
       "name": "radonauth",
@@ -103214,6 +103454,18 @@
       "score": 67
     },
     {
+      "name": "spamnull",
+      "version": "2.0.0",
+      "description": "High-performance, self-hosted disposable email and spam domain detection for Node.js, Bun, Deno and edge runtimes.",
+      "license": "MIT",
+      "repository": "https://github.com/iftechstudio-Apps/spamnull",
+      "npmUrl": "https://www.npmjs.com/package/spamnull",
+      "category": "frontend",
+      "createdAt": "2026-09-03T22:31:03.497Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 89
+    },
+    {
       "name": "spanplane",
       "version": "0.8.2",
       "description": "A local-first A2A agent testing workbench for discovery, conversations, protocol operations, streaming, and content-aware artifacts.",
@@ -103464,6 +103716,18 @@
       "createdAt": "2026-08-06T01:36:02.210Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 67
+    },
+    {
+      "name": "squishify",
+      "version": "1.0.0",
+      "description": "Interactive CLI that batch-processes a folder of images for a design -> product workflow",
+      "license": "MIT",
+      "repository": "https://github.com/SpacemanPete/squishify",
+      "npmUrl": "https://www.npmjs.com/package/squishify",
+      "category": "cli",
+      "createdAt": "2026-09-03T19:27:49.486Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 88
     },
     {
       "name": "sri-ec",
@@ -108686,6 +108950,18 @@
       "score": 69
     },
     {
+      "name": "vite-plugin-request-logger",
+      "version": "1.2.0",
+      "description": "A robust, Morgan-like HTTP request logger plugin for Vite supporting Vite 5, 6, 7, 8+ with body logging and TypeScript support.",
+      "license": "MIT",
+      "repository": "https://github.com/EyalShapiro/vite-plugin-request-logger",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-request-logger",
+      "category": "backend",
+      "createdAt": "2026-08-25T22:20:34.579Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 92
+    },
+    {
       "name": "vite-plugin-shader-languages",
       "version": "0.2.0",
       "description": "Shader languages for Vite. GLSL and WGSL imports with #include resolution, hot reload, minification and end-to-end type safety.",
@@ -109632,6 +109908,18 @@
       "createdAt": "2026-07-31T02:38:30.611Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 84
+    },
+    {
+      "name": "website-rebuild-skill",
+      "version": "0.3.19",
+      "description": "Agent Skill that rebuilds a website line by line from its own minified code and proves the rebuild with automated diffs — mirror-first forensics, verbatim porting, pixel-level verification gates. 复刻网站的 Agent Skill。",
+      "license": "MIT",
+      "repository": "https://github.com/boyang-hu/website-rebuild-skill",
+      "npmUrl": "https://www.npmjs.com/package/website-rebuild-skill",
+      "category": "build-tools",
+      "createdAt": "2026-09-03T18:04:49.417Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 90
     },
     {
       "name": "webstore-lint",
@@ -111168,6 +111456,18 @@
       "createdAt": "2026-08-10T18:52:32.310Z",
       "discoveredAt": "2026-08-10T19:43:01.816Z",
       "score": 95
+    },
+    {
+      "name": "zotero-native-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for Zotero 10+. Read and write your library entirely offline through Zotero's native local API. No plugin, no API key, no cloud.",
+      "license": "MIT",
+      "repository": "https://github.com/dvdsosa/zotero-native-mcp",
+      "npmUrl": "https://www.npmjs.com/package/zotero-native-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-03T22:28:19.607Z",
+      "discoveredAt": "2026-09-04T04:14:38.186Z",
+      "score": 91
     },
     {
       "name": "zustik-form",

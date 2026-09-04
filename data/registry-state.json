@@ -1,51 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 128614686,
-  "lastRunAt": "2026-09-03T16:18:01.109Z",
+  "lastSequence": 128696438,
+  "lastRunAt": "2026-09-04T04:14:38.186Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@meisiristhebest/evals",
-      "attempts": 7
-    },
-    {
       "name": "@quantixfinance/config",
+      "attempts": 2
+    },
+    {
+      "name": "smart-mailto",
       "attempts": 1
     },
     {
-      "name": "@octocodeai/freellama-native-darwin-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@octocodeai/freellama-native-linux-arm64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@octocodeai/freellama-native-linux-arm64-musl",
-      "attempts": 1
-    },
-    {
-      "name": "@octocodeai/freellama-native-linux-x64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@arocnies/fitgherkin",
-      "attempts": 1
-    },
-    {
-      "name": "@octocodeai/freellama-native-linux-x64-musl",
-      "attempts": 1
-    },
-    {
-      "name": "@octocodeai/freellama-native-win32-arm64-msvc",
-      "attempts": 1
-    },
-    {
-      "name": "@descryy/runtime-external-service-observation",
-      "attempts": 1
-    },
-    {
-      "name": "@octocodeai/freellama-native-win32-x64-msvc",
+      "name": "@rarepops/spektra-cli-linux-x64",
       "attempts": 1
     }
   ]
