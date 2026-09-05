@@ -1,12 +1,48 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 128900754,
-  "lastRunAt": "2026-09-05T04:10:45.685Z",
+  "lastSequence": 128956001,
+  "lastRunAt": "2026-09-05T15:01:02.586Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@quantixfinance/config",
-      "attempts": 4
+      "attempts": 5
+    },
+    {
+      "name": "@project-sothoth/contracts",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/core",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/git",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/profile-sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/document-index",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/governance",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/planning",
+      "attempts": 1
+    },
+    {
+      "name": "@project-sothoth/cli",
+      "attempts": 1
+    },
+    {
+      "name": "@preloop-ai/opencode-plugin",
+      "attempts": 1
     }
   ]
 }

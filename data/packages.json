@@ -8198,6 +8198,30 @@
       "score": 77
     },
     {
+      "name": "@bricklab/core",
+      "version": "1.0.0",
+      "description": "Run Node, Bun and Python projects fully client-side in the browser: Node's real lib/, the real npm/yarn/pnpm, and real CPython. The framework-agnostic BWC WebContainer SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/BrickPlatform/bricklab-web-container",
+      "npmUrl": "https://www.npmjs.com/package/%40bricklab%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-09-05T07:13:14.684Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 97
+    },
+    {
+      "name": "@bricklab/react",
+      "version": "1.0.0",
+      "description": "React bindings for BWC. Run Node, Bun and Python projects fully client-side in the browser, embedded in your React app.",
+      "license": "MIT",
+      "repository": "https://github.com/BrickPlatform/bricklab-web-container",
+      "npmUrl": "https://www.npmjs.com/package/%40bricklab%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-09-05T07:13:16.484Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 87
+    },
+    {
       "name": "@bricnbrac-purl/cli",
       "version": "0.1.0",
       "description": "Purl Atelier Map capture CLI for Codex and Claude Code",
@@ -10824,6 +10848,18 @@
       "createdAt": "2026-08-09T15:43:45.727Z",
       "discoveredAt": "2026-08-09T16:24:10.750Z",
       "score": 67
+    },
+    {
+      "name": "@codebend3r/che",
+      "version": "1.0.0",
+      "description": "Helper scripts shared across machines, called by name from your shell and browsable through one menu",
+      "license": "MIT",
+      "repository": "https://github.com/codebend3r/che",
+      "npmUrl": "https://www.npmjs.com/package/%40codebend3r%2Fche",
+      "category": "cli",
+      "createdAt": "2026-09-05T05:02:31.733Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 88
     },
     {
       "name": "@codecapsules/sandbox",
@@ -15696,6 +15732,18 @@
       "createdAt": "2026-08-04T03:58:08.966Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 56
+    },
+    {
+      "name": "@easbot/llm",
+      "version": "0.3.19",
+      "description": "AI model aggregation layer for EASBot ecosystem: multi-vendor SDK dynamic loading, model routing, configuration management, and high-level Model Provider capability wrapping.",
+      "license": "MIT",
+      "repository": "https://github.com/houjallen/easbot",
+      "npmUrl": "https://www.npmjs.com/package/%40easbot%2Fllm",
+      "category": "build-tools",
+      "createdAt": "2026-09-05T14:58:12.380Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 87
     },
     {
       "name": "@easiest-ai/pi-compaction-manager",
@@ -25946,6 +25994,18 @@
       "score": 69
     },
     {
+      "name": "@heykhalid/agy-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that dispatches file-scoped agy/codex/opencode worker agents and verifies what they actually changed",
+      "license": "MIT",
+      "repository": "https://github.com/khalidouhdane/agy-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40heykhalid%2Fagy-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-05T14:36:19.175Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 87
+    },
+    {
       "name": "@heysalad/junoguard",
       "version": "0.1.0",
       "description": "Supervision for AI coding agents — scan every package before it installs, cap what your agent spends. MCP server + CLI.",
@@ -30842,6 +30902,18 @@
       "score": 87
     },
     {
+      "name": "@knowall-ai/reverie",
+      "version": "0.4.0",
+      "description": "Reverie — graph memory that dreams. Graph-based memory system for AI agents. Store people, places, organizations as nodes. Build semantic relationships (KNOWS, WORKS_AT, CREATED). Hybrid keyword + semantic search finds partial matches and close variants.",
+      "license": "MIT",
+      "repository": "https://github.com/knowall-ai/mcp-reverie",
+      "npmUrl": "https://www.npmjs.com/package/%40knowall-ai%2Freverie",
+      "category": "data",
+      "createdAt": "2026-09-05T14:04:45.574Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 90
+    },
+    {
       "name": "@knurdz/lava-form-builder",
       "version": "0.1.1",
       "description": "Google Forms-like React form builder, renderer, submissions admin, and analytics with a database-agnostic store adapter",
@@ -34514,6 +34586,18 @@
       "score": 94
     },
     {
+      "name": "@matiks/rn-fastaudio",
+      "version": "1.0.0",
+      "description": "Low-latency audio for React Native, built on Nitro modules — Oboe on Android, AVAudioEngine on iOS. Built for game-style SFX.",
+      "license": "ISC",
+      "repository": "https://github.com/matiks-com/rn-fastaudio",
+      "npmUrl": "https://www.npmjs.com/package/%40matiks%2Frn-fastaudio",
+      "category": "frontend",
+      "createdAt": "2026-09-05T12:31:00.116Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 92
+    },
+    {
       "name": "@matteophre/dirama",
       "version": "1.0.0",
       "description": "Zero-dependency, framework-agnostic pipeline-engine for TypeScript",
@@ -37862,6 +37946,18 @@
       "score": 80
     },
     {
+      "name": "@mxalbert/context-mode",
+      "version": "2.0.0",
+      "description": "MCP plugin that saves 98% of your context window. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, and Codex CLI. Sandboxed code execution, FTS5 knowledge base, and intent-driven search.",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/mxalbert1996/context-mode",
+      "npmUrl": "https://www.npmjs.com/package/%40mxalbert%2Fcontext-mode",
+      "category": "cli",
+      "createdAt": "2026-09-05T12:04:12.900Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 100
+    },
+    {
       "name": "@mxrcochxvez/bugsmash-mcp",
       "version": "1.0.1",
       "description": "MCP server for BugSmash reviewer feedback — keeps the API key out of the LLM context",
@@ -37956,6 +38052,18 @@
       "createdAt": "2026-07-28T11:03:33.585Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 79
+    },
+    {
+      "name": "@mzebley/canvas-watch",
+      "version": "1.1.0",
+      "description": "Track canvas overlap and reactive vertical viewport state with a framework-agnostic core and optional Svelte adapter.",
+      "license": "ISC",
+      "repository": "https://github.com/mzebley/canvas-watch",
+      "npmUrl": "https://www.npmjs.com/package/%40mzebley%2Fcanvas-watch",
+      "category": "frontend",
+      "createdAt": "2026-09-05T05:28:05.878Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 89
     },
     {
       "name": "@nabilabs/builder",
@@ -39348,6 +39456,18 @@
       "createdAt": "2026-08-14T20:50:25.518Z",
       "discoveredAt": "2026-08-14T20:51:16.368Z",
       "score": 32
+    },
+    {
+      "name": "@noacg/cli",
+      "version": "0.3.0",
+      "description": "The NoaCG CLI: scaffold, validate, inspect, screenshot and save broadcast graphics for NoaCG Studio, from a coding agent or your own terminal. Runs as an MCP server too (noacg mcp), against any NoaCG deployment.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/miwco/NoaCG-Studio",
+      "npmUrl": "https://www.npmjs.com/package/%40noacg%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-08-25T19:13:24.314Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 90
     },
     {
       "name": "@noahisarider/arena",
@@ -43968,6 +44088,18 @@
       "createdAt": "2026-08-01T14:35:43.547Z",
       "discoveredAt": "2026-08-02T16:51:04.462Z",
       "score": 61
+    },
+    {
+      "name": "@prometheus-ags/entity-graph-react",
+      "version": "4.0.0",
+      "description": "Normalized, globally-reactive entity graph store for React — the React bindings over @prometheus-ags/entity-graph-core. Re-exports the full core surface plus React hooks, CRUD, UI, and devtools.",
+      "license": "MIT",
+      "repository": "https://github.com/Prometheus-AGS/prometheus-entity-management",
+      "npmUrl": "https://www.npmjs.com/package/%40prometheus-ags%2Fentity-graph-react",
+      "category": "frontend",
+      "createdAt": "2026-09-05T12:33:55.577Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 99
     },
     {
       "name": "@promovaweb/clickupfy",
@@ -66542,6 +66674,18 @@
       "score": 72
     },
     {
+      "name": "buildsweep",
+      "version": "1.0.0",
+      "description": "Find and delete dependency directories, build outputs, and caches across multiple development ecosystems.",
+      "license": "MIT",
+      "repository": "https://github.com/tuninbits/buildsweep",
+      "npmUrl": "https://www.npmjs.com/package/buildsweep",
+      "category": "build-tools",
+      "createdAt": "2026-08-31T04:01:18.532Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 90
+    },
+    {
       "name": "bukalemun",
       "version": "1.3.0",
       "description": "One CSS + JS framework that wears 50 completely different visual languages — neo-brutalist, glassmorphic, terminal, Bauhaus, risograph, neon-sign and more. Zero dependencies, drop-in via CDN or npm.",
@@ -71195,6 +71339,18 @@
       "category": "backend",
       "createdAt": "2026-08-12T08:39:53.445Z",
       "discoveredAt": "2026-08-12T09:03:28.465Z",
+      "score": 91
+    },
+    {
+      "name": "danshi",
+      "version": "1.5.0",
+      "description": "Automated osu! replay video renderer with multi-mirror beatmap auto-fetcher and smart skin manager for Danser-go.",
+      "license": "MIT",
+      "repository": "https://github.com/nekoo-moe/danshi",
+      "npmUrl": "https://www.npmjs.com/package/danshi",
+      "category": "utilities",
+      "createdAt": "2026-09-05T06:52:42.145Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
       "score": 91
     },
     {
@@ -79478,6 +79634,18 @@
       "score": 87
     },
     {
+      "name": "gotchamail",
+      "version": "1.0.0",
+      "description": "GotchaMail — SMTP Server and Modern Web Interface for reading and testing emails during development (enhanced MailDev fork)",
+      "license": "MIT",
+      "repository": "https://github.com/kebalicious/gotchamail",
+      "npmUrl": "https://www.npmjs.com/package/gotchamail",
+      "category": "testing",
+      "createdAt": "2026-09-05T14:57:59.761Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 90
+    },
+    {
       "name": "grandma-kat",
       "version": "0.1.0",
       "description": "Grandma Knits Agent Trees — factory-builder library for composing LLM execution trees",
@@ -83666,6 +83834,18 @@
       "score": 96
     },
     {
+      "name": "kxco-pq-scan",
+      "version": "1.1.0",
+      "description": "Find quantum-vulnerable cryptography in a JavaScript dependency tree. Separates what Shor's algorithm breaks from what Grover's only weakens, recognises hybrid constructions, and says what it cannot see.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/KnightsbridgeAIQ/kxco-pq-scan",
+      "npmUrl": "https://www.npmjs.com/package/kxco-pq-scan",
+      "category": "utilities",
+      "createdAt": "2026-09-04T13:59:45.642Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 89
+    },
+    {
       "name": "kyw-dev",
       "version": "0.1.1",
       "description": "A spec-driven development workflow plugin for Codex.",
@@ -84864,6 +85044,18 @@
       "createdAt": "2026-08-12T14:25:44.602Z",
       "discoveredAt": "2026-08-12T15:11:32.083Z",
       "score": 86
+    },
+    {
+      "name": "lockfile-guard",
+      "version": "1.0.1",
+      "description": "Diff two lockfiles in a PR and report supply-chain risk: new install scripts, a changed publisher, versions published minutes ago, resolutions pointing at another registry, obscure new transitive dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/PavelLazarchuk/lockfile-guard",
+      "npmUrl": "https://www.npmjs.com/package/lockfile-guard",
+      "category": "devops",
+      "createdAt": "2026-09-05T13:34:00.679Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 100
     },
     {
       "name": "lockreview",
@@ -88538,6 +88730,18 @@
       "score": 64
     },
     {
+      "name": "n2words-anycurrency",
+      "version": "6.1.2",
+      "description": "Convert numbers to words in 50 languages (72 regional variants) with zero dependencies. Supports BigInt, decimals, and browser/Node.js environments. Fork of n2words: every language can name any ISO 4217 currency via an explicit Intl.DisplayNames fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/kzolti/n2words-anycurrency",
+      "npmUrl": "https://www.npmjs.com/package/n2words-anycurrency",
+      "category": "frontend",
+      "createdAt": "2026-09-05T11:28:29.304Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 100
+    },
+    {
       "name": "n8n-nodes-absysco",
       "version": "0.1.0",
       "description": "n8n community nodes: document conversion, JSON Schema validation, async job polling, QR codes, OCR and templating",
@@ -89942,6 +90146,18 @@
       "score": 68
     },
     {
+      "name": "nepal-payment-gateway",
+      "version": "1.0.0",
+      "description": "A modern, unified Node.js SDK for integrating eSewa (ePay v2) and Khalti (ePayment v2) payment gateways in Nepal.",
+      "license": "MIT",
+      "repository": "https://github.com/KritanShahi/nepal-payment-gateway",
+      "npmUrl": "https://www.npmjs.com/package/nepal-payment-gateway",
+      "category": "utilities",
+      "createdAt": "2026-09-05T13:43:52.844Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 91
+    },
+    {
       "name": "nepali-calendar-vue",
       "version": "1.1.0",
       "description": "Customizable Nepali Calendar (नेपाली पात्रो) Vue 3 component and standalone embeddable widget with Bikram Sambat dates, holidays, festivals, tithi, and offline support.",
@@ -90516,6 +90732,18 @@
       "createdAt": "2026-07-28T10:12:38.753Z",
       "discoveredAt": "2026-07-28T10:27:05.698Z",
       "score": 79
+    },
+    {
+      "name": "ng-hub-ui-loading",
+      "version": "22.1.0",
+      "description": "Customizable loading indicators for Angular: inline block, container overlay or fullscreen, plus a page-level progress bar for the navbar, with CSS-only variants, branding image and programmatic services. Part of the ng-hub-ui family.",
+      "license": "MIT",
+      "repository": "https://github.com/carlos-morcillo/ng-hub-ui-loading",
+      "npmUrl": "https://www.npmjs.com/package/ng-hub-ui-loading",
+      "category": "frontend",
+      "createdAt": "2026-08-24T08:41:19.567Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 98
     },
     {
       "name": "ng-ssr-caching",
@@ -91764,6 +91992,18 @@
       "createdAt": "2026-08-04T09:04:26.591Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 81
+    },
+    {
+      "name": "omniflow-mcp",
+      "version": "1.1.2",
+      "description": "MCP server for Google Flow (Veo 3 / Omni 1.1): batch video generation from Claude Code and Claude Desktop through the OmniFlow Chrome extension. The missing Google Flow API — prompts, queue, keyframes, auto-download on your own Google AI plan.",
+      "license": "MIT",
+      "repository": "https://github.com/DanikVR/omniflow-veo-mcp",
+      "npmUrl": "https://www.npmjs.com/package/omniflow-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-05T11:06:14.023Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 89
     },
     {
       "name": "omnigateway",
@@ -93888,6 +94128,18 @@
       "createdAt": "2026-07-29T17:43:08.727Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
       "score": 72
+    },
+    {
+      "name": "papermc-skill",
+      "version": "1.0.0",
+      "description": "Interactive CLI and architectural development skill for modern Paper & Folia Minecraft Java plugins",
+      "license": "MIT",
+      "repository": "https://github.com/ardianryan/papermc-skill",
+      "npmUrl": "https://www.npmjs.com/package/papermc-skill",
+      "category": "backend",
+      "createdAt": "2026-09-05T14:26:42.193Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 89
     },
     {
       "name": "paperplane-cli",
@@ -96338,6 +96590,18 @@
       "score": 81
     },
     {
+      "name": "pixelscrub",
+      "version": "1.1.0",
+      "description": "Zero-dependency, client-side image sanitizer. Strips EXIF metadata, resizes, and re-encodes images entirely in the browser via <canvas>.",
+      "license": "MIT",
+      "repository": "https://github.com/PreetinderSinghBadesha/pixelscrub",
+      "npmUrl": "https://www.npmjs.com/package/pixelscrub",
+      "category": "frontend",
+      "createdAt": "2026-09-05T06:13:06.801Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 93
+    },
+    {
       "name": "pixi-glyphflow",
       "version": "1.0.0",
       "description": "A million-label text layer for PixiJS with instanced WebGL/WebGPU rendering.",
@@ -98688,6 +98952,18 @@
       "createdAt": "2026-08-04T16:53:40.071Z",
       "discoveredAt": "2026-08-04T18:19:51.652Z",
       "score": 96
+    },
+    {
+      "name": "react-native-app-update-force",
+      "version": "1.0.0",
+      "description": "Enterprise-grade React Native update management package for Android and iOS with force updates, optional updates, remote configuration, analytics hooks, localization, and enterprise controls.",
+      "license": "MIT",
+      "repository": "https://github.com/mrcoder4528-lang/react-native-app-update-force",
+      "npmUrl": "https://www.npmjs.com/package/react-native-app-update-force",
+      "category": "frontend",
+      "createdAt": "2026-09-05T06:43:04.496Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 99
     },
     {
       "name": "react-native-ar-preview",
@@ -111530,6 +111806,18 @@
       "score": 87
     },
     {
+      "name": "yandex-direct-mcp-plus",
+      "version": "1.3.0",
+      "description": "MCP-сервер для API Яндекс.Директа v5: кампании, объявления, ключевые фразы, ставки, минус-фразы, статистика. Деньги в рублях, ID без потери точности.",
+      "license": "MIT",
+      "repository": "https://github.com/Pavelsiba/yandex-direct-mcp-plus",
+      "npmUrl": "https://www.npmjs.com/package/yandex-direct-mcp-plus",
+      "category": "backend",
+      "createdAt": "2026-09-05T11:57:56.913Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 88
+    },
+    {
       "name": "yeow-fflate",
       "version": "0.1.0",
       "description": "fflate fork for Yeow: ZIP assembly and CRC kept, deflate/inflate and UTF-8 bridged to yeow-api (Java-side zlib), async/await APIs, zip.add() builder, codec injection points, no workers and no streams",
@@ -111995,6 +112283,18 @@
       "category": "frontend",
       "createdAt": "2026-09-02T18:32:04.147Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
+      "score": 100
+    },
+    {
+      "name": "zipnative-cli",
+      "version": "1.0.0",
+      "description": "Official CLI for zipnative — create deterministic, reproducible ZIP archives (store/deflate, streaming, worker-parallel), list and inspect without extracting, extract with secure-by-default guards (zip-slip, zip-bomb, symlink, duplicate-path and device-na",
+      "license": "MIT",
+      "repository": "https://github.com/Nizoka/zipnative-cli",
+      "npmUrl": "https://www.npmjs.com/package/zipnative-cli",
+      "category": "frontend",
+      "createdAt": "2026-09-02T18:33:41.362Z",
+      "discoveredAt": "2026-09-05T15:01:02.586Z",
       "score": 100
     },
     {
