@@ -2438,6 +2438,18 @@
       "score": 60
     },
     {
+      "name": "@aixa-transformation/aixa-deckrender",
+      "version": "1.3.0",
+      "description": "Aixa-DeckRender: a TypeScript-first engine from Aixa Transformation for parsing and rendering PPTX files in the browser.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Aixa-Transformation/Aixa-DeckRender",
+      "npmUrl": "https://www.npmjs.com/package/%40aixa-transformation%2Faixa-deckrender",
+      "category": "frontend",
+      "createdAt": "2026-09-05T02:16:21.397Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 86
+    },
+    {
       "name": "@aixa-transformation/pptx-viewer",
       "version": "2.0.2",
       "description": "React PowerPoint viewer and editor component: render, edit, and export PPTX slides in the browser.",
@@ -7550,6 +7562,18 @@
       "score": 78
     },
     {
+      "name": "@bkey/login",
+      "version": "0.1.1",
+      "description": "Login with bkey — drop-in OIDC sign-in (passwordless, biometric, phishing-resistant) for websites and apps. Self-serve client registration, PKCE flow helpers, id_token verification, and an Auth.js provider preset.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/bkeyID/bkey",
+      "npmUrl": "https://www.npmjs.com/package/%40bkey%2Flogin",
+      "category": "cli",
+      "createdAt": "2026-09-03T23:01:08.818Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 86
+    },
+    {
       "name": "@blackbelt-technology/pi-dashboard-forms-bpmn",
       "version": "0.7.0",
       "description": "Two pi skills bundled together: openforms-mui (render/author OpenForms FormSchemaJSON as themed, accessible MUI) and bpmn-package-explorer (generate/view vendor-neutral BPMN 2.0 + DMN process packages). Ships canvas-webapp for rendering either on the pi-d",
@@ -10824,6 +10848,18 @@
       "createdAt": "2026-08-08T20:45:12.935Z",
       "discoveredAt": "2026-08-08T20:52:20.096Z",
       "score": 72
+    },
+    {
+      "name": "@codeforfee/godkit",
+      "version": "1.0.0",
+      "description": "One shared harness for every AI agent. Any agent entering your repo reads the same board, map and thread — so nothing is redone and nobody edits the same file twice.",
+      "license": "MIT",
+      "repository": "https://github.com/CodeForFee/godkit",
+      "npmUrl": "https://www.npmjs.com/package/%40codeforfee%2Fgodkit",
+      "category": "utilities",
+      "createdAt": "2026-09-04T20:28:55.480Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 96
     },
     {
       "name": "@codeminity/fetch",
@@ -18974,6 +19010,18 @@
       "score": 80
     },
     {
+      "name": "@furayoshi/dsh-widechat",
+      "version": "0.7.2",
+      "description": "DeepSeek Harness plugin: widens the conversation column, sets the user-bubble width and composer max height, and right-aligns the session stats strip, with a settings-row UI to tune all four. Built for the DSH client plugin slot `settings.general.item`.",
+      "license": "MIT",
+      "repository": "https://github.com/FraYoshi/dsh-widechat",
+      "npmUrl": "https://www.npmjs.com/package/%40furayoshi%2Fdsh-widechat",
+      "category": "frontend",
+      "createdAt": "2026-09-04T22:29:54.158Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 84
+    },
+    {
       "name": "@furlpay/transaction-guard",
       "version": "0.1.0",
       "description": "Refuse malformed, stale, or wrong-chain EVM transactions before a key ever touches them. Validates addresses (EIP-55), chain binding, calldata, quote freshness, and AI-proposed actions. Zero runtime dependencies.",
@@ -25802,6 +25850,18 @@
       "score": 70
     },
     {
+      "name": "@hetuh/saakshi",
+      "version": "0.2.0",
+      "description": "Lightweight, privacy-first, ORM-agnostic first-party analytics for Next.js + Postgres. Beacon endpoint, page-view tracker, dashboard components, and tRPC router factory — works with Drizzle, Kysely, raw pg, or Prisma.",
+      "license": "MIT",
+      "repository": "https://github.com/devhetuh/saakshi",
+      "npmUrl": "https://www.npmjs.com/package/%40hetuh%2Fsaakshi",
+      "category": "data",
+      "createdAt": "2026-09-05T01:56:31.867Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 90
+    },
+    {
       "name": "@hexcanvas/core",
       "version": "0.1.0",
       "description": "Framework-free hex editor core: byte sources, grid geometry, canvas renderer and editing engine.",
@@ -30182,6 +30242,18 @@
       "score": 90
     },
     {
+      "name": "@karajan-family/rag",
+      "version": "1.6.0",
+      "description": "Orquestador multi-agente de CLIs de IA para pipelines RAG con routing por sensibilidad, policy de proveedores y CLIs intercambiables (Claude, Codex, Gemini, Ollama, Azure, Bedrock, Vertex).",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/manufosela/karajan-rag",
+      "npmUrl": "https://www.npmjs.com/package/%40karajan-family%2Frag",
+      "category": "cli",
+      "createdAt": "2026-09-04T21:13:34.825Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 98
+    },
+    {
       "name": "@kareemelbalshe/any-table",
       "version": "1.0.0",
       "description": "A developer-facing, smart data table library with 3-tier API detection, auto columns, server/client search, sort & pagination, extensible action callbacks, and customizable themes.",
@@ -30840,6 +30912,18 @@
       "createdAt": "2026-07-26T20:10:59.706Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 65
+    },
+    {
+      "name": "@korarit/promptparse-mod",
+      "version": "1.6.0",
+      "description": "All-in-one JS library for PromptPay & EMVCo QR Codes (MOD)",
+      "license": "MIT",
+      "repository": "https://github.com/korarit/promptparse-mod",
+      "npmUrl": "https://www.npmjs.com/package/%40korarit%2Fpromptparse-mod",
+      "category": "utilities",
+      "createdAt": "2026-09-04T21:28:14.929Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 83
     },
     {
       "name": "@korekoi/react-tabler-flags",
@@ -32160,6 +32244,18 @@
       "createdAt": "2026-08-10T13:09:02.253Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 76
+    },
+    {
+      "name": "@lincolnminto/zendesk-mcp-server",
+      "version": "2.20.0",
+      "description": "Deep Zendesk MCP server for your AI assistant: search, draft, update and translate Help Center articles and manage Support tickets end to end — comments, triage and image attachments.",
+      "license": "MIT",
+      "repository": "https://github.com/lincolnminto/zendesk-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40lincolnminto%2Fzendesk-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-04T17:00:40.974Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 98
     },
     {
       "name": "@linktoany/sdk",
@@ -37092,6 +37188,18 @@
       "createdAt": "2026-07-26T00:26:35.539Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 95
+    },
+    {
+      "name": "@movatec/rtc-sdk",
+      "version": "1.0.0",
+      "description": "Movatec RTC JavaScript SDK: llamadas de voz WebRTC (salientes a la red telefónica, entrantes al navegador y entre usuarios) desde tu CRM o aplicación web. Superficie compatible con infobip-rtc-js.",
+      "license": "MIT",
+      "repository": "https://github.com/MovatecSpa/movatec-rtc-sdk-js",
+      "npmUrl": "https://www.npmjs.com/package/%40movatec%2Frtc-sdk",
+      "category": "devops",
+      "createdAt": "2026-09-04T16:52:28.655Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 83
     },
     {
       "name": "@moveindustries/wallet-adapter-keyless",
@@ -46946,6 +47054,18 @@
       "score": 69
     },
     {
+      "name": "@rootstuff/sentinel",
+      "version": "1.0.0",
+      "description": "Command-line interface for Sentinel uptime monitoring: monitors, incidents, groups, team members, webhooks, status pages, and on-demand global checks.",
+      "license": "MIT",
+      "repository": "https://github.com/rootstuff/sentinel-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40rootstuff%2Fsentinel",
+      "category": "cli",
+      "createdAt": "2026-09-04T18:27:25.173Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 91
+    },
+    {
       "name": "@rosarium/boost",
       "version": "1.0.1",
       "description": "The speed of a single-page web application without having to write any JavaScript",
@@ -47690,6 +47810,18 @@
       "score": 72
     },
     {
+      "name": "@saastemly/better-admin-ui",
+      "version": "0.1.0",
+      "description": "better-auth-ui plugin that gives your app an auto-generated, capability-scoped API dashboard — ra-core providers for shadcn-admin-kit plus hooks, over Better Auth's resolved schema and betterCommerce.",
+      "license": "MIT",
+      "repository": "https://github.com/saastemly/better-admin-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40saastemly%2Fbetter-admin-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-04T19:05:21.767Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 90
+    },
+    {
       "name": "@sabrialperenkaya/ai-context",
       "version": "0.2.0",
       "description": "AI development context management system - install and manage skills, rules, context managers and external tool integrations across AI coding tools.",
@@ -48408,6 +48540,18 @@
       "createdAt": "2026-07-29T16:51:17.711Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 68
+    },
+    {
+      "name": "@scino/fstack",
+      "version": "1.0.1",
+      "description": "fstack, Fabio's Stack / Founder's Stack, by Fabio Parlascino. Founder operations plus engineer-mode rigor. Works in Cursor, Claude Code, Codex, Antigravity, OpenCode, Hermes, OpenClaw, and any agent that loads Agent Skills.",
+      "license": "MIT",
+      "repository": "https://github.com/Scino/fstack",
+      "npmUrl": "https://www.npmjs.com/package/%40scino%2Ffstack",
+      "category": "devops",
+      "createdAt": "2026-09-04T19:23:30.740Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 100
     },
     {
       "name": "@scooper4711/pixels-ble",
@@ -53414,6 +53558,18 @@
       "score": 100
     },
     {
+      "name": "@techierathore/techieflow",
+      "version": "1.0.1",
+      "description": "TechieFlow: a spec-driven development framework for AI coding agents, for Claude Code and OpenCode. One command installs it into any project.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/techierathore/TechieFlow",
+      "npmUrl": "https://www.npmjs.com/package/%40techierathore%2Ftechieflow",
+      "category": "utilities",
+      "createdAt": "2026-09-04T19:52:12.018Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 86
+    },
+    {
       "name": "@techxot/aeo-next",
       "version": "0.2.0",
       "description": "Next.js adapters for Techxot AI Readiness on a headless Umbraco site: serve llms.txt, llms-full.txt and per-page Markdown, advertise the Markdown alternate, emit page + site JSON-LD, report AI-crawler traffic to InMotion, and revalidate on publish.",
@@ -53916,6 +54072,18 @@
       "createdAt": "2026-09-01T15:10:56.072Z",
       "discoveredAt": "2026-09-01T16:29:05.226Z",
       "score": 92
+    },
+    {
+      "name": "@th3akii/opencode-quota",
+      "version": "4.8.2",
+      "description": "OpenCode quota & tokens usage with zero context window pollution. Supports GitHub Copilot, OpenAI (Plus/Pro), Qwen Code, Chutes AI, Synthetic, Google Antigravity, Z.ai coding plan and more.",
+      "license": "MIT",
+      "repository": "https://github.com/slkiser/opencode-quota",
+      "npmUrl": "https://www.npmjs.com/package/%40th3akii%2Fopencode-quota",
+      "category": "utilities",
+      "createdAt": "2026-09-04T20:50:00.931Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 98
     },
     {
       "name": "@thalus-ai/mcp-air",
@@ -56042,6 +56210,18 @@
       "score": 62
     },
     {
+      "name": "@usefae/bellhop-node",
+      "version": "1.0.0",
+      "description": "Print to the label printers and read the USB scales at a physical location, from your Node application.",
+      "license": "MIT",
+      "repository": "https://github.com/usefae/bellhop-node",
+      "npmUrl": "https://www.npmjs.com/package/%40usefae%2Fbellhop-node",
+      "category": "utilities",
+      "createdAt": "2026-09-04T19:27:18.088Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 84
+    },
+    {
       "name": "@usefy/json-viewer",
       "version": "0.2.0",
       "description": "Virtualized JSON tree viewer for React — bounded DOM at any payload size via a lazy order-statistic index, chunked search, and a zero-dependency headless core",
@@ -57398,6 +57578,18 @@
       "score": 82
     },
     {
+      "name": "@vn-thanh/kapi",
+      "version": "1.1.0",
+      "description": "Browser WebRTC P2P mesh calls — no media server, pluggable signaling, optional background removal",
+      "license": "MIT",
+      "repository": "https://github.com/vn-thanh/kapi",
+      "npmUrl": "https://www.npmjs.com/package/%40vn-thanh%2Fkapi",
+      "category": "frontend",
+      "createdAt": "2026-09-04T08:08:49.844Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 83
+    },
+    {
       "name": "@voicelabs/sdk",
       "version": "0.1.0",
       "description": "Official TypeScript SDK for the VoiceLabs API — text-to-speech and transcription over HTTP.",
@@ -58452,6 +58644,18 @@
       "createdAt": "2026-08-11T04:17:30.781Z",
       "discoveredAt": "2026-08-11T17:44:15.060Z",
       "score": 70
+    },
+    {
+      "name": "@whitez/oh-my-opencode-slim",
+      "version": "2.3.0",
+      "description": "Lightweight agent orchestration plugin for OpenCode - fork channel of oh-my-opencode-slim with subagent lane control",
+      "license": "MIT",
+      "repository": "https://github.com/tsankotsanev/oh-my-opencode-slim",
+      "npmUrl": "https://www.npmjs.com/package/%40whitez%2Foh-my-opencode-slim",
+      "category": "utilities",
+      "createdAt": "2026-09-04T18:36:35.046Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 89
     },
     {
       "name": "@wierdbytes/autogent",
@@ -65604,6 +65808,18 @@
       "createdAt": "2026-07-26T00:45:43.157Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 66
+    },
+    {
+      "name": "birdnet-go-mcp",
+      "version": "1.0.0",
+      "description": "Model Context Protocol (MCP) server & CLI for BirdNET-Go bioacoustic observatories",
+      "license": "MIT",
+      "repository": "https://github.com/zax0rz/birdnet-go-mcp",
+      "npmUrl": "https://www.npmjs.com/package/birdnet-go-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-05T01:38:36.953Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 88
     },
     {
       "name": "birwal-react-comment-lib",
@@ -75530,6 +75746,18 @@
       "score": 80
     },
     {
+      "name": "emdash-plugin-puck",
+      "version": "0.2.0",
+      "description": "The Puck visual editor as an EmDash field widget: edit any json field as a page layout, render it on the public site, pick images from the EmDash media library, and optionally wire up Puck AI.",
+      "license": "MIT",
+      "repository": "https://github.com/markoinla/emdash-plugin-puck",
+      "npmUrl": "https://www.npmjs.com/package/emdash-plugin-puck",
+      "category": "build-tools",
+      "createdAt": "2026-09-04T20:28:33.426Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 85
+    },
+    {
       "name": "emend-cli",
       "version": "0.1.0",
       "description": "Detects API drift between installed and target dependency versions, locates affected call sites, and produces verified migration PRs.",
@@ -78948,6 +79176,18 @@
       "createdAt": "2026-08-11T20:20:30.587Z",
       "discoveredAt": "2026-08-11T20:35:55.479Z",
       "score": 64
+    },
+    {
+      "name": "glanceless",
+      "version": "0.1.0",
+      "description": "Page-level design rules measured in a real browser and failed closed: contrast, dead columns, page chrome, full-column figures, a figure over a tracked label, table shape, and copy noise.",
+      "license": "MIT",
+      "repository": "https://github.com/kyisaiah47/glanceless",
+      "npmUrl": "https://www.npmjs.com/package/glanceless",
+      "category": "testing",
+      "createdAt": "2026-09-04T18:44:15.725Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 88
     },
     {
       "name": "glasshive",
@@ -82776,6 +83016,18 @@
       "createdAt": "2026-08-02T18:43:49.898Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 72
+    },
+    {
+      "name": "katanakit-css",
+      "version": "0.4.2",
+      "description": "KatanaKIT CSS — a lightweight, modular SCSS mini-framework: design tokens, utility classes and layout mixins (grid, flex, breakpoints) with a @apply-style system. Zero runtime overhead.",
+      "license": "MIT",
+      "repository": "https://github.com/senseikatana/katanakit-css",
+      "npmUrl": "https://www.npmjs.com/package/katanakit-css",
+      "category": "frontend",
+      "createdAt": "2026-09-04T14:06:16.471Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 88
     },
     {
       "name": "katex4arabic",
@@ -88152,6 +88404,18 @@
       "createdAt": "2026-08-04T10:04:52.593Z",
       "discoveredAt": "2026-08-04T12:26:03.401Z",
       "score": 72
+    },
+    {
+      "name": "muslim-prayer-mcp",
+      "version": "1.0.1",
+      "description": "Production-ready Muslim prayer reminder MCP on Cloudflare Workers with Streamable HTTP, automatic location-based calculation authority calibration, mandatory theological disclosure, and deterministic host middleware.",
+      "license": "MIT",
+      "repository": "https://github.com/tareq7/muslim-prayer-mcp",
+      "npmUrl": "https://www.npmjs.com/package/muslim-prayer-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-04T08:40:37.504Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 100
     },
     {
       "name": "mutex-core",
@@ -97262,6 +97526,18 @@
       "score": 100
     },
     {
+      "name": "prooflane-harness",
+      "version": "0.19.0",
+      "description": "The prooflane verify lane: a stack-agnostic evidence harness that derives done from evidence rather than an agent's word. Profile loader, lane runner, receipts, hash-locked region, Stop hook, spec-to-citation binding and the Rule 0/1/2 instruments. Depend",
+      "license": "MIT",
+      "repository": "https://github.com/kvdm-co-pilot/create-cmp",
+      "npmUrl": "https://www.npmjs.com/package/prooflane-harness",
+      "category": "devops",
+      "createdAt": "2026-09-04T22:24:50.225Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 86
+    },
+    {
       "name": "proofreel",
       "version": "1.0.0",
       "description": "Videoya yakılmış altyazılardaki imla hatalarını zaman damgasıyla bulan CLI aracı — sıfır npm bağımlılığı",
@@ -104126,6 +104402,18 @@
       "score": 79
     },
     {
+      "name": "stalegreen",
+      "version": "0.1.1",
+      "description": "Hooks that keep a coding agent's green claims honest: verification runs are recorded unmasked, and \"done\" is blocked when the evidence is stale, failed or masked.",
+      "license": "MIT",
+      "repository": "https://github.com/pavangupta352/stalegreen",
+      "npmUrl": "https://www.npmjs.com/package/stalegreen",
+      "category": "testing",
+      "createdAt": "2026-09-03T05:09:05.019Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 84
+    },
+    {
       "name": "standing-orders",
       "version": "0.1.1",
       "description": "A control plane for unattended coding agents — queue tasks, walk away, come back to pull requests. Agents build in leased worktrees, never touch your default branch, and interrupt you only for decisions that need a human.",
@@ -108864,6 +109152,18 @@
       "createdAt": "2026-08-12T18:32:51.503Z",
       "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 81
+    },
+    {
+      "name": "vibechart",
+      "version": "0.1.1",
+      "description": "Dependency-free, framework-free financial charting library in pure TypeScript/Canvas 2D: 18 chart types, 91 drawing tools, 173 technical indicators, lazy history loading, multi-pane layouts, themes and a full trading-terminal UI. TradingView-compatible da",
+      "license": "MIT",
+      "repository": "https://github.com/calvinkei/vibechart",
+      "npmUrl": "https://www.npmjs.com/package/vibechart",
+      "category": "build-tools",
+      "createdAt": "2026-09-04T17:26:25.273Z",
+      "discoveredAt": "2026-09-05T04:10:45.685Z",
+      "score": 86
     },
     {
       "name": "vibecheck-app",
