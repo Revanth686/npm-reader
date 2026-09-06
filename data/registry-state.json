@@ -1,47 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 128956001,
-  "lastRunAt": "2026-09-05T15:01:02.586Z",
+  "lastSequence": 129014593,
+  "lastRunAt": "2026-09-06T04:18:36.902Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@quantixfinance/config",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@project-sothoth/contracts",
+      "name": "@saidouahdachi/dsh-native-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@project-sothoth/core",
+      "name": "@saidouahdachi/dsh-native-linux-arm64-gnu",
       "attempts": 1
     },
     {
-      "name": "@project-sothoth/git",
+      "name": "@saidouahdachi/dsh-native-linux-x64-gnu",
       "attempts": 1
     },
     {
-      "name": "@project-sothoth/profile-sdk",
+      "name": "@saidouahdachi/dsh-native-win32-x64-msvc",
       "attempts": 1
     },
     {
-      "name": "@project-sothoth/document-index",
-      "attempts": 1
-    },
-    {
-      "name": "@project-sothoth/governance",
-      "attempts": 1
-    },
-    {
-      "name": "@project-sothoth/planning",
-      "attempts": 1
-    },
-    {
-      "name": "@project-sothoth/cli",
-      "attempts": 1
-    },
-    {
-      "name": "@preloop-ai/opencode-plugin",
+      "name": "@dpeek/dataless",
       "attempts": 1
     }
   ]
