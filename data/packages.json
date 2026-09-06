@@ -1250,6 +1250,18 @@
       "score": 76
     },
     {
+      "name": "@adi-mudi/pi-velpari",
+      "version": "1.0.0",
+      "description": "Stage-gated pre-production orchestration for Pi — Discussion → PRD → RTM → Feasibility → Design → Pseudocode → Test Plan, with 4-scout visible subagents per stage and structured doctor audit.",
+      "license": "MIT",
+      "repository": "https://github.com/Adi-Mudi/pi-velpari",
+      "npmUrl": "https://www.npmjs.com/package/%40adi-mudi%2Fpi-velpari",
+      "category": "testing",
+      "createdAt": "2026-09-06T11:53:35.537Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 91
+    },
+    {
       "name": "@adia-ai/mcp",
       "version": "0.8.37",
       "description": "AdiaUI's two MCP servers, one npm package (gh#1240). `adia-mcp gen-ui` — the 30-tool generation server (compose engine, corpus, retrieval, feedback/eval loop). `adia-mcp protocol` — the 4-tool A2UI protocol server (validate + registry introspection, no ge",
@@ -2052,6 +2064,18 @@
       "createdAt": "2026-08-05T15:54:36.318Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 71
+    },
+    {
+      "name": "@ahmadastic/froam",
+      "version": "8.2.0",
+      "description": "The visual editor for the site you already have. Point it at any running site or static folder — React, Rails, Django, WordPress, plain HTML — edit visually, and every change compiles to committable files in your repo.",
+      "license": "FSL-1.1-MIT",
+      "repository": "https://github.com/Ahmadastics/froam-studio",
+      "npmUrl": "https://www.npmjs.com/package/%40ahmadastic%2Ffroam",
+      "category": "frontend",
+      "createdAt": "2026-09-06T13:35:11.428Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 100
     },
     {
       "name": "@ahmadqarshi/react-native-swake",
@@ -8618,6 +8642,18 @@
       "score": 89
     },
     {
+      "name": "@bub0lehich/skill-state-mcp-server",
+      "version": "1.0.1",
+      "description": "MCP runtime for the SKILL.state architecture (arXiv:2608.26263) — replaces append-only conversational history with an explicit, mutable execution state (P, Σ, O).",
+      "license": "MIT",
+      "repository": "https://github.com/Derzkiyboomchik/skill-state-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40bub0lehich%2Fskill-state-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-06T09:19:26.946Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 92
+    },
+    {
       "name": "@bubblyworld/xgboost-ts",
       "version": "1.0.0",
       "description": "A wasm build of XGBoost with a convenient typescript interface. Runs with zero dependencies in both node and web environments.",
@@ -9432,6 +9468,18 @@
       "createdAt": "2026-09-01T13:59:21.368Z",
       "discoveredAt": "2026-09-01T16:29:05.226Z",
       "score": 96
+    },
+    {
+      "name": "@captnoliv/signalk-autopolar",
+      "version": "0.5.0",
+      "description": "Learns your boat's polar by watching how she is actually sailed — never under engine, never at anchor. Web app, SOG/STW and true/apparent comparison, speed-sensor diagnostic, .pol export.",
+      "license": "MIT",
+      "repository": "https://github.com/CaptnOliv/signalk-autopolar",
+      "npmUrl": "https://www.npmjs.com/package/%40captnoliv%2Fsignalk-autopolar",
+      "category": "backend",
+      "createdAt": "2026-09-06T09:41:03.364Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 88
     },
     {
       "name": "@capydb/drizzle",
@@ -33830,6 +33878,18 @@
       "score": 73
     },
     {
+      "name": "@magnum-opus/magnum-opus",
+      "version": "0.5.1",
+      "description": "Simulation engine that builds a synthetic world of users around your API and verifies that your application behaves correctly as that world evolves. Finds duplicate writes, tenant leaks, broken invariants and data-volume degradation.",
+      "license": "MIT",
+      "repository": "https://github.com/sagheerplus/magnum-opus",
+      "npmUrl": "https://www.npmjs.com/package/%40magnum-opus%2Fmagnum-opus",
+      "category": "testing",
+      "createdAt": "2026-09-06T08:36:30.346Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 90
+    },
+    {
       "name": "@maheshwarimrinal/react-native-agents",
       "version": "1.0.0",
       "description": "Expert React Native agents for performance, security, code quality, accessibility, testing, and release — portable across Claude Code, Cursor, Windsurf, Copilot, Codex, and any MCP client.",
@@ -51614,6 +51674,18 @@
       "score": 57
     },
     {
+      "name": "@spelech/playwright-layout-inspector",
+      "version": "1.0.0",
+      "description": "Comprehensive layout & UX measurement tooling for Playwright to audit DOM overflow, visual stability, layout shifts, mobile fit, and touch target ergonomics.",
+      "license": "MIT",
+      "repository": "https://github.com/spelech/playwright-layout-inspector",
+      "npmUrl": "https://www.npmjs.com/package/%40spelech%2Fplaywright-layout-inspector",
+      "category": "testing",
+      "createdAt": "2026-09-06T05:00:22.566Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 95
+    },
+    {
       "name": "@sphinxcorp/pi-provider-agentrouter",
       "version": "0.1.2",
       "description": "Agent Router provider for pi coding agent",
@@ -51996,6 +52068,18 @@
       "createdAt": "2026-08-08T13:22:17.247Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 49
+    },
+    {
+      "name": "@standard-server/core",
+      "version": "0.9.0",
+      "description": "The Standard Server contract: transport-agnostic request, response, body, and streaming types with body parsing rules, runtime validators, and SSE helpers shared by every adapter",
+      "license": "MIT",
+      "repository": "https://github.com/middleapi/standard-server",
+      "npmUrl": "https://www.npmjs.com/package/%40standard-server%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-09-06T08:27:39.102Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 87
     },
     {
       "name": "@stapel/categories-react",
@@ -55524,6 +55608,18 @@
       "createdAt": "2026-08-09T16:58:33.482Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 53
+    },
+    {
+      "name": "@treewyrm/freelancer",
+      "version": "1.1.0",
+      "description": "Reads and writes the data formats of Freelancer (Digital Anvil, 2003): UTF assets, INI and BINI, THN scene scripts, and the resource DLLs.",
+      "license": "MIT",
+      "repository": "https://github.com/treewyrm/freelancer",
+      "npmUrl": "https://www.npmjs.com/package/%40treewyrm%2Ffreelancer",
+      "category": "data",
+      "createdAt": "2026-09-06T10:19:12.422Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 91
     },
     {
       "name": "@trenchbird/cli",
@@ -63662,6 +63758,30 @@
       "score": 66
     },
     {
+      "name": "aletheia-mcp",
+      "version": "0.3.0",
+      "description": "Fast deterministic MCP pre-filter that blocks known scope-creep (S3) and prompt-injection (S2b) tool-call patterns before an agent runs them. ~25 microsecond overhead, no LLM in the hot path; a first-line pre-filter, not a sandbox.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vikasny30/aletheia-mcp",
+      "npmUrl": "https://www.npmjs.com/package/aletheia-mcp",
+      "category": "utilities",
+      "createdAt": "2026-09-05T03:53:14.048Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 90
+    },
+    {
+      "name": "alexa-ai",
+      "version": "2.1.2",
+      "description": "AI engine for the Alexa WhatsApp bot: DeepAI-powered chat with PostgreSQL-backed long-term memory, cross-chat identity (@lid <-> phone), vision/OCR, image generation and web search.",
+      "license": "ISC",
+      "repository": "https://github.com/AlexaInc/deepai",
+      "npmUrl": "https://www.npmjs.com/package/alexa-ai",
+      "category": "data",
+      "createdAt": "2026-09-06T13:55:42.631Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 98
+    },
+    {
       "name": "aliensec-mcp-server",
       "version": "1.0.0",
       "description": "AlienVault OTX Endpoint Security Scanning MCP Server with VirusTotal Integration",
@@ -67430,6 +67550,18 @@
       "score": 88
     },
     {
+      "name": "category-colors",
+      "version": "1.0.0",
+      "description": "Generate perceptually distinguishable color palettes for categorical data visualization using simulated annealing",
+      "license": "MIT",
+      "repository": "https://github.com/ilikescience/category-colors",
+      "npmUrl": "https://www.npmjs.com/package/category-colors",
+      "category": "data",
+      "createdAt": "2026-09-06T13:49:24.668Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 91
+    },
+    {
       "name": "catence",
       "version": "0.1.0",
       "description": "Local MCP access to normalized Garmin, Intervals.icu, and targeted Strava fitness data.",
@@ -70406,6 +70538,18 @@
       "score": 81
     },
     {
+      "name": "country-geo-data",
+      "version": "1.0.0",
+      "description": "Country names & ISO codes, calling codes, capitals with coordinates, and IANA timezones with coordinates — one small dependency-free dataset with lookup utilities.",
+      "license": "MIT",
+      "repository": "https://github.com/Fahim1837/country-geo-data",
+      "npmUrl": "https://www.npmjs.com/package/country-geo-data",
+      "category": "backend",
+      "createdAt": "2026-09-06T08:53:53.852Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 96
+    },
+    {
       "name": "coverage-orchestrator-cli-new",
       "version": "1.5.0",
       "description": "CLI to orchestrate AI agents for automated Java test generation based on JaCoCo coverage reports",
@@ -72506,6 +72650,18 @@
       "score": 70
     },
     {
+      "name": "diffine-react",
+      "version": "0.1.0",
+      "description": "Compare two versions and show what changed — a diff engine and a side-by-side viewer in one package, with syntax highlighting fetched only when a language is asked for.",
+      "license": "MIT",
+      "repository": "https://github.com/jooy2/diffine",
+      "npmUrl": "https://www.npmjs.com/package/diffine-react",
+      "category": "frontend",
+      "createdAt": "2026-09-05T11:18:55.263Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 86
+    },
+    {
       "name": "dino-trunk",
       "version": "0.1.0",
       "description": "Responsive, width-aware button-label collapse for React — shrink labels through shorter variants down to icon-only as space runs out, with anti-flicker hysteresis. Zero runtime dependencies; pure, testable core.",
@@ -73848,6 +74004,18 @@
       "createdAt": "2026-08-16T17:36:13.850Z",
       "discoveredAt": "2026-08-17T12:58:11.560Z",
       "score": 98
+    },
+    {
+      "name": "dsh-edge-tts-chinese",
+      "version": "0.1.0",
+      "description": "Voice-first session loop for DeepSeek Harness, Chinese-first edge-tts focus (fork of dsh-talk): a composer microphone button with local/browser speech-to-text, speak replies aloud with edge-tts / local voices, and speak-to-interrupt.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/5527sy/dsh-edge-tts-chinese",
+      "npmUrl": "https://www.npmjs.com/package/dsh-edge-tts-chinese",
+      "category": "frontend",
+      "createdAt": "2026-09-06T08:47:58.578Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 90
     },
     {
       "name": "dsh-element-source",
@@ -78962,6 +79130,18 @@
       "score": 86
     },
     {
+      "name": "gemini-relay",
+      "version": "1.3.0",
+      "description": "High-performance Model Context Protocol (MCP) server connecting Claude Code and AI agents to Google Gemini 3.8 Flash, Gemini 3.1 Pro, reasoning effort, and image generation.",
+      "license": "MIT",
+      "repository": "https://github.com/V-Songbird/gemini-relay",
+      "npmUrl": "https://www.npmjs.com/package/gemini-relay",
+      "category": "backend",
+      "createdAt": "2026-09-03T09:46:28.229Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 89
+    },
+    {
       "name": "gemini-watermark",
       "version": "0.1.1",
       "description": "Detect, remove, and add Gemini visible image watermarks via deterministic reverse alpha blending. Faithful TypeScript port of GeminiWatermarkTool. Zero dependencies, runs in browsers and Node.",
@@ -82286,6 +82466,18 @@
       "score": 96
     },
     {
+      "name": "interenv",
+      "version": "1.0.0",
+      "description": "Hardware-Enclave Protected Secrets for Terminal, AI Agents & Git (Zero Plaintext .env on Disk) by Interlayer - Modern Dotenv Alternative with TPM 2.0 & Secure Enclave",
+      "license": "MIT",
+      "repository": "https://github.com/Bharathcoorg/interenv",
+      "npmUrl": "https://www.npmjs.com/package/interenv",
+      "category": "backend",
+      "createdAt": "2026-09-06T07:43:23.387Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 96
+    },
+    {
       "name": "intervals-icu-sdk",
       "version": "0.1.1",
       "description": "Unofficial TypeScript SDK for the Intervals.icu API. Fully typed, zero runtime dependencies, generated from the official OpenAPI spec.",
@@ -83279,6 +83471,18 @@
       "category": "utilities",
       "createdAt": "2026-08-25T11:41:38.507Z",
       "discoveredAt": "2026-08-25T13:01:41.453Z",
+      "score": 86
+    },
+    {
+      "name": "kafka-harbor",
+      "version": "0.2.0",
+      "description": "The application layer that Kafka clients don't give you: retry topics, DLQ, graceful shutdown, serialization and observability for Node.js. Client-agnostic by design.",
+      "license": "MIT",
+      "repository": "https://github.com/pinceladasdaweb/kafka-harbor",
+      "npmUrl": "https://www.npmjs.com/package/kafka-harbor",
+      "category": "build-tools",
+      "createdAt": "2026-09-05T21:47:44.452Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
       "score": 86
     },
     {
@@ -84974,6 +85178,18 @@
       "score": 78
     },
     {
+      "name": "llm-budget",
+      "version": "0.2.0",
+      "description": "Per-user token and dollar budgets, rate limits, and a circuit breaker for LLM API calls - usage metering from OpenAI and Anthropic responses, shared-store adapters for multi-instance SaaS, Express middleware. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/qwertymuzaffar/llm-budget",
+      "npmUrl": "https://www.npmjs.com/package/llm-budget",
+      "category": "backend",
+      "createdAt": "2026-09-06T15:09:18.593Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 90
+    },
+    {
       "name": "llm-date-guard",
       "version": "0.1.0",
       "description": "Stop an LLM from doing date arithmetic in its head: resolve duration markers server-side, recompute wrong durations, and do it inside a token stream before the reader sees them.",
@@ -86390,6 +86606,18 @@
       "score": 90
     },
     {
+      "name": "maskshift",
+      "version": "1.0.1",
+      "description": "A maximalist, model-agnostic coding harness for the terminal, with lazy skills, tools, MCP and multi-agent orchestration.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/nafeeur/MaskShift",
+      "npmUrl": "https://www.npmjs.com/package/maskshift",
+      "category": "cli",
+      "createdAt": "2026-09-06T04:33:03.233Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 92
+    },
+    {
       "name": "masterplot",
       "version": "1.0.0",
       "description": "Production-grade scientific plotting engine with WebGL rendering",
@@ -87083,6 +87311,18 @@
       "category": "backend",
       "createdAt": "2026-08-02T15:23:17.150Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
+      "score": 90
+    },
+    {
+      "name": "mcp-opentelemetry",
+      "version": "0.2.0",
+      "description": "OpenTelemetry instrumentation for the MCP TypeScript SDK v2 (protocol revision 2026-07-28): W3C Trace Context propagation through params._meta and spans that follow the OpenTelemetry semantic conventions for MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/AmirK-S/mcp-opentelemetry",
+      "npmUrl": "https://www.npmjs.com/package/mcp-opentelemetry",
+      "category": "build-tools",
+      "createdAt": "2026-09-06T04:59:50.608Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
       "score": 90
     },
     {
@@ -91440,6 +91680,18 @@
       "createdAt": "2026-08-05T12:21:27.903Z",
       "discoveredAt": "2026-08-05T12:23:20.486Z",
       "score": 85
+    },
+    {
+      "name": "node-red-contrib-myhome-own-mqtt",
+      "version": "1.0.0",
+      "description": "Professional BTicino / Legrand MyHome SCS OpenWebNet to MQTT bridge for Node-RED with dual output (MQTT and raw OWN) and optional Home Assistant Auto-Discovery",
+      "license": "MIT",
+      "repository": "https://github.com/brn78/node-red-contrib-myhome-own-mqtt",
+      "npmUrl": "https://www.npmjs.com/package/node-red-contrib-myhome-own-mqtt",
+      "category": "devops",
+      "createdAt": "2026-09-06T11:06:46.263Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 93
     },
     {
       "name": "node-red-contrib-plaiiinlight",
@@ -97740,6 +97992,18 @@
       "createdAt": "2026-07-29T12:21:40.930Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 81
+    },
+    {
+      "name": "prerender-crawler",
+      "version": "0.2.0",
+      "description": "Framework-agnostic build-time prerendering. Point it at anything fetch-shaped (Request in, Response out) and it crawls the site into static HTML: seeds, link discovery, header hints, redirects, retries, throttling, and an integration seam for build-time d",
+      "license": "MIT",
+      "repository": "https://github.com/solidjs/prerender-crawler",
+      "npmUrl": "https://www.npmjs.com/package/prerender-crawler",
+      "category": "build-tools",
+      "createdAt": "2026-09-05T08:55:40.554Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 86
     },
     {
       "name": "presentator",
@@ -106010,6 +106274,18 @@
       "score": 73
     },
     {
+      "name": "svelte-toast-alerts",
+      "version": "1.0.0",
+      "description": "A rounded, animated toast notification library for Svelte 5 — including a centred, spring-animated toast.",
+      "license": "MIT",
+      "repository": "https://github.com/babatundelmd/svelte-toast-alerts",
+      "npmUrl": "https://www.npmjs.com/package/svelte-toast-alerts",
+      "category": "frontend",
+      "createdAt": "2026-09-06T14:49:45.932Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 90
+    },
+    {
       "name": "svelte5plus-calendar",
       "version": "0.2.1",
       "description": "A full-featured, zero-dependency calendar component for Svelte 5 — month/week/day/year/agenda views, drag & drop, recurring events, i18n and dark mode.",
@@ -106548,6 +106824,18 @@
       "createdAt": "2026-08-15T15:46:24.901Z",
       "discoveredAt": "2026-08-16T12:53:42.849Z",
       "score": 90
+    },
+    {
+      "name": "tarpickr",
+      "version": "1.1.1",
+      "description": "Zero-dependency high-performance JavaScript Date and Time Picker with Extensible Plugin Architecture and Week Slot Selection",
+      "license": "MIT",
+      "repository": "https://github.com/Trpz3/tarpickr",
+      "npmUrl": "https://www.npmjs.com/package/tarpickr",
+      "category": "frontend",
+      "createdAt": "2026-08-24T17:37:02.368Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 87
     },
     {
       "name": "task-complete-notify-for-dsh",
@@ -107232,6 +107520,18 @@
       "createdAt": "2026-07-25T23:14:03.736Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 56
+    },
+    {
+      "name": "three-gtvbao",
+      "version": "0.1.0",
+      "description": "GT-VBAO ambient occlusion for three.js WebGPU and WebGL2 (TSL): visibility-bitmask AO with the GT-VBAO corrections, a depth-MIP prefilter, a denoiser and a depth-aware upsample",
+      "license": "MIT",
+      "repository": "https://github.com/norio/three-gtvbao",
+      "npmUrl": "https://www.npmjs.com/package/three-gtvbao",
+      "category": "utilities",
+      "createdAt": "2026-09-06T13:17:57.016Z",
+      "discoveredAt": "2026-09-06T15:21:41.212Z",
+      "score": 87
     },
     {
       "name": "three-rtt",

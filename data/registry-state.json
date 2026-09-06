@@ -1,31 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 129014593,
-  "lastRunAt": "2026-09-06T04:18:36.902Z",
+  "lastSequence": 129059913,
+  "lastRunAt": "2026-09-06T15:21:41.212Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@quantixfinance/config",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@saidouahdachi/dsh-native-darwin-x64",
+      "name": "@zudojs/runtime",
       "attempts": 1
     },
     {
-      "name": "@saidouahdachi/dsh-native-linux-arm64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@saidouahdachi/dsh-native-linux-x64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@saidouahdachi/dsh-native-win32-x64-msvc",
-      "attempts": 1
-    },
-    {
-      "name": "@dpeek/dataless",
+      "name": "@zudojs/permissions",
       "attempts": 1
     }
   ]
