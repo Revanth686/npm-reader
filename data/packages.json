@@ -2330,6 +2330,18 @@
       "score": 72
     },
     {
+      "name": "@aimuzov/thinks-mcp",
+      "version": "0.1.1",
+      "description": "MCP server that writes, replies and rephrases in your own voice, learned from a Telegram export. Hands the calling model a measured style profile and your real messages — no API keys, no generation of its own.",
+      "license": "MIT",
+      "repository": "https://github.com/aimuzov/thinks-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40aimuzov%2Fthinks-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-06T15:58:18.434Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
       "name": "@ainative/social-mcp",
       "version": "0.2.0",
       "description": "AINative Social Growth MCP — post and schedule across LinkedIn, Slack, Reddit, YouTube and more from one MCP, via the AINative backend (official platform APIs). This npm package is a thin launcher for the Python `ainative-social-mcp` server.",
@@ -9122,6 +9134,18 @@
       "score": 59
     },
     {
+      "name": "@cairn-js/core",
+      "version": "1.5.0",
+      "description": "Zero-dependency, high-performance UI framework with fine-grained reactivity, granular modular imports, zero shared runtime, complete motion suite, declarative form validation, and overlays.",
+      "license": "MIT",
+      "repository": "https://github.com/cairn-js/cairnjs",
+      "npmUrl": "https://www.npmjs.com/package/%40cairn-js%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-09-06T15:30:44.159Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 98
+    },
+    {
       "name": "@cairnkit/cli",
       "version": "0.1.0",
       "description": "cairn check — fails the build when a tour points at UI that no longer exists.",
@@ -12876,6 +12900,18 @@
       "createdAt": "2026-07-30T16:52:56.165Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 78
+    },
+    {
+      "name": "@deckflow/deckops",
+      "version": "1.0.0",
+      "description": "Parse any document into an agent-operable representation. Parse once, convert repeatedly: PDF, PPTX, DOCX, Keynote and URLs into durable IR artifacts and Markdown.",
+      "license": "MIT",
+      "repository": "https://github.com/deckflow/deckops",
+      "npmUrl": "https://www.npmjs.com/package/%40deckflow%2Fdeckops",
+      "category": "cli",
+      "createdAt": "2026-09-07T03:15:48.848Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 96
     },
     {
       "name": "@deckflow/deckparse",
@@ -28454,6 +28490,18 @@
       "score": 78
     },
     {
+      "name": "@inverge/nexus",
+      "version": "1.0.0",
+      "description": "Nexus — one JavaScript/TypeScript SDK for all Inverge Nexus services (analytics, logs, errors, feature flags, remote config, realtime, links, surveys). Works in every browser framework and in Node/Express.",
+      "license": "MIT",
+      "repository": "https://github.com/Inverge-team/nexus-js",
+      "npmUrl": "https://www.npmjs.com/package/%40inverge%2Fnexus",
+      "category": "frontend",
+      "createdAt": "2026-09-06T22:22:17.363Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 100
+    },
+    {
       "name": "@inverge/websocket",
       "version": "1.0.0",
       "description": "JavaScript/TypeScript SDK for the Inverge WebSocket service: room-based realtime over Socket.IO with a framework-agnostic core plus React and Vue adapters and a Node server emitter.",
@@ -42158,6 +42206,18 @@
       "score": 87
     },
     {
+      "name": "@ozjsey/v-fit-children",
+      "version": "2.2.0",
+      "description": "Vue directive that auto-hides children that don't fit within a container's width. Useful for chips, badges, tags, and other inline elements in tight spaces.",
+      "license": "MIT",
+      "repository": "https://github.com/ozJSey/vue-fit-children",
+      "npmUrl": "https://www.npmjs.com/package/%40ozjsey%2Fv-fit-children",
+      "category": "frontend",
+      "createdAt": "2026-09-06T17:33:15.754Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 95
+    },
+    {
       "name": "@p404c/mcp-remote",
       "version": "0.1.39",
       "description": "Remote proxy for Model Context Protocol, allowing local-only clients to connect to remote servers using oAuth (fork: honours an empty scopes_supported so servers advertising no scopes authenticate)",
@@ -42227,6 +42287,18 @@
       "category": "backend",
       "createdAt": "2026-08-06T18:09:55.752Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
+      "score": 96
+    },
+    {
+      "name": "@pactor-app/chat",
+      "version": "1.0.0",
+      "description": "Pactor chat: AI message rendering protocol (message model, streaming reducer, safe registry, capability action) and chat runtime view (ChatView / MessageBubble / PartRenderer / Composer / chat layout)",
+      "license": "MIT",
+      "repository": "https://github.com/426-330/pactor",
+      "npmUrl": "https://www.npmjs.com/package/%40pactor-app%2Fchat",
+      "category": "frontend",
+      "createdAt": "2026-09-02T07:03:20.992Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
       "score": 96
     },
     {
@@ -44040,6 +44112,18 @@
       "createdAt": "2026-07-31T17:35:39.985Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 62
+    },
+    {
+      "name": "@praveen-palanisamy/agent-browser-runtime",
+      "version": "0.1.1",
+      "description": "Stateful, secure browser-session execution for agents: pluggable browser providers (local Chromium, CDP, Steel, Kernel), post/probe/capture orchestration, an HTTP runner service and a Playwright-free client",
+      "license": "MIT",
+      "repository": "https://github.com/praveen-palanisamy/agent-browser-runtime",
+      "npmUrl": "https://www.npmjs.com/package/%40praveen-palanisamy%2Fagent-browser-runtime",
+      "category": "testing",
+      "createdAt": "2026-09-07T00:32:27.517Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
     },
     {
       "name": "@praxicraft/assess",
@@ -55658,6 +55742,18 @@
       "score": 90
     },
     {
+      "name": "@tribeunal/mcp-server",
+      "version": "1.13.0",
+      "description": "MCP server for Tribeunal — the community jury platform where humans and AI agents create cases, join juries, weigh evidence and vote",
+      "license": "MIT",
+      "repository": "https://github.com/tribeunal/mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40tribeunal%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-06T15:53:57.081Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 88
+    },
+    {
       "name": "@tribu-do/workbench-cli",
       "version": "0.1.0",
       "description": "AI-first sandboxed agentic development workbench — task orchestration, hierarchical memory, sandbox mediation, multi-agent parity, pluggable deployment.",
@@ -55968,6 +56064,18 @@
       "createdAt": "2026-08-01T15:11:15.562Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 77
+    },
+    {
+      "name": "@tyroneross/coding-debugger",
+      "version": "1.9.0",
+      "description": "Coding Debugger for Claude Code and Codex: debugging memory, verdict-first retrieval, root-cause workflows, context compression, and parallel assessment.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/tyroneross/claude-code-debugger",
+      "npmUrl": "https://www.npmjs.com/package/%40tyroneross%2Fcoding-debugger",
+      "category": "devops",
+      "createdAt": "2026-09-06T22:09:38.863Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 95
     },
     {
       "name": "@tzwzx/store-shots",
@@ -60194,6 +60302,18 @@
       "score": 91
     },
     {
+      "name": "@yankikucuk/ubl-tr",
+      "version": "1.0.0",
+      "description": "UBL-TR 1.2.1 e-belge katmanı için sıfır bağımlılıklı TypeScript kütüphanesi — belge üretimi, ayrıştırma ve doğrulama",
+      "license": "MIT",
+      "repository": "https://github.com/yankikucuk/ubl-tr",
+      "npmUrl": "https://www.npmjs.com/package/%40yankikucuk%2Fubl-tr",
+      "category": "build-tools",
+      "createdAt": "2026-09-06T20:33:26.464Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 91
+    },
+    {
       "name": "@yanlinglabs/video-extract-mcp",
       "version": "0.1.0",
       "description": "MCP server that turns any video URL into a transcript and a small set of important, deduplicated keyframes — locally, with no cloud APIs. Supports YouTube, TikTok, Facebook, WeChat Channels, direct MP4/HLS and generic sites.",
@@ -62880,6 +63000,18 @@
       "createdAt": "2026-07-29T02:24:12.750Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 75
+    },
+    {
+      "name": "agenteq",
+      "version": "1.0.0",
+      "description": "A single-source CLI tool to compile and publish repository rules, skills, commands, and MCP configurations to the developer's local AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/sunchayn/agenteq",
+      "npmUrl": "https://www.npmjs.com/package/agenteq",
+      "category": "cli",
+      "createdAt": "2026-09-07T01:18:40.649Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 94
     },
     {
       "name": "agentflux",
@@ -66710,6 +66842,18 @@
       "score": 75
     },
     {
+      "name": "brightpixels",
+      "version": "1.0.0",
+      "description": "A tiny dependency-free library for HDR text, image highlights, and native shapes.",
+      "license": "MIT",
+      "repository": "https://github.com/echohtp/brightpixels",
+      "npmUrl": "https://www.npmjs.com/package/brightpixels",
+      "category": "frontend",
+      "createdAt": "2026-09-05T20:14:29.792Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 88
+    },
+    {
       "name": "brisk-aitesting",
       "version": "0.1.0",
       "description": "AI-native modular testing engine for SaaS, APIs, UI workflows, and contracts.",
@@ -70010,6 +70154,18 @@
       "score": 71
     },
     {
+      "name": "competency-radar-chart",
+      "version": "1.0.0",
+      "description": "Configurable competency / skills radar chart renderer (SVG, PNG, HTML) with category bands, level rings and multiple profiles",
+      "license": "MIT",
+      "repository": "https://github.com/TestEssence/competency-radar-chart",
+      "npmUrl": "https://www.npmjs.com/package/competency-radar-chart",
+      "category": "data",
+      "createdAt": "2026-09-06T21:13:36.796Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
       "name": "compliancelayer",
       "version": "1.0.1",
       "description": "Official Node.js SDK for the ComplianceLayer security scanning API",
@@ -70260,6 +70416,18 @@
       "createdAt": "2026-07-27T03:55:24.742Z",
       "discoveredAt": "2026-07-27T05:59:13.965Z",
       "score": 81
+    },
+    {
+      "name": "contextos-agents",
+      "version": "1.5.0",
+      "description": "Install a .agents folder into your project to teach AI assistants best practices: UI/UX, architecture, security, and engineering workflow skills.",
+      "license": "MIT",
+      "repository": "https://github.com/kok-o/contextos-agents",
+      "npmUrl": "https://www.npmjs.com/package/contextos-agents",
+      "category": "utilities",
+      "createdAt": "2026-09-06T20:31:39.322Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 94
     },
     {
       "name": "contractbot",
@@ -84338,6 +84506,90 @@
       "score": 91
     },
     {
+      "name": "lacspace-dotenv",
+      "version": "0.2.0",
+      "description": "Lint, diff, sync, type, run, encrypt and protect your .env files — catch missing keys, duplicates, syntax slips, unresolved ${refs} and committed secrets; run commands with a merged env; encrypt/decrypt, compare environments, generate .env.example, export",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-dotenv",
+      "category": "build-tools",
+      "createdAt": "2026-09-06T17:00:13.001Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
+      "name": "lacspace-har",
+      "version": "0.2.0",
+      "description": "Read a browser .har export offline — ASCII + HTML waterfalls, diff two HARs, performance budgets (CI gate), filters, savings-quantified recommendations, HAR-derived web-vitals estimates, redaction and CSV/JSON export. Zero dependencies.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-har",
+      "category": "frontend",
+      "createdAt": "2026-09-06T17:00:23.396Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
+      "name": "lacspace-icon",
+      "version": "0.2.0",
+      "description": "Generate a complete favicon, PWA and Apple-touch icon set plus a web manifest, an .ico, an Open Graph image, Apple splash screens and the HTML snippet — from one PNG or baseline JPEG. Shape controls, dominant-colour theming, dark variants and a setup audi",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-icon",
+      "category": "frontend",
+      "createdAt": "2026-09-06T17:00:33.773Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 88
+    },
+    {
+      "name": "lacspace-inspect",
+      "version": "0.2.0",
+      "description": "One-command website audit — SEO, meta, Open Graph, structured data, headings, images, links, security headers and tech stack, graded A–F with concrete fix suggestions. Crawl a whole site, set performance budgets, diff against a baseline for CI, and export",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-inspect",
+      "category": "data",
+      "createdAt": "2026-09-06T17:00:07.452Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
+      "name": "lacspace-monitor",
+      "version": "0.2.0",
+      "description": "Free, open-source change monitor — watch any web page, CSS selector, JSON API field, RSS/Atom feed, HTTP status, header, response time, SSL expiry or uptime and get told when something moves. Condition-based alerts (price drops, thresholds), Slack/Discord",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-monitor",
+      "category": "frontend",
+      "createdAt": "2026-09-06T16:08:02.563Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 89
+    },
+    {
+      "name": "lacspace-scraper",
+      "version": "0.2.0",
+      "description": "Free, open-source website scraper — pull structured data from any site or a list of sources. Extract by CSS selectors or auto-detect metadata, headings, links, images, emails, phones, tables, JSON-LD and OpenGraph; crawl a whole site (sitemap or link-foll",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-scraper",
+      "category": "testing",
+      "createdAt": "2026-09-06T15:29:35.880Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
+      "name": "lacspace-webhook",
+      "version": "0.2.0",
+      "description": "A local webhook receiver, inspector and replayer — capture incoming webhooks in a live web dashboard, verify GitHub/Stripe/Shopify/Slack/Svix/HMAC signatures (with auto-detect), mock responses with rules, fan-out forward to localhost, export/import as cur",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-webhook",
+      "category": "testing",
+      "createdAt": "2026-09-06T17:00:18.277Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
       "name": "lahja",
       "version": "0.3.0",
       "description": "Find the user-facing strings AI code tools hardcode instead of translating — AST-verified so it never flags live code or dynamic bindings. CLI + MCP + AI-rules. Part of Otto.",
@@ -84624,6 +84876,18 @@
       "createdAt": "2026-08-03T16:35:57.251Z",
       "discoveredAt": "2026-08-03T17:44:53.720Z",
       "score": 76
+    },
+    {
+      "name": "leakcheck",
+      "version": "0.1.0",
+      "description": "Leakage, drift and data contract checks for ML datasets in TypeScript - target leakage, train/test overlap and future-dated features; PSI, KS and chi-square drift between windows; schema, range, grain and freshness contracts; profiles and Markdown reports",
+      "license": "MIT",
+      "repository": "https://github.com/qwertymuzaffar/leakcheck",
+      "npmUrl": "https://www.npmjs.com/package/leakcheck",
+      "category": "testing",
+      "createdAt": "2026-09-07T01:55:45.186Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 89
     },
     {
       "name": "learnflix",
@@ -85428,6 +85692,18 @@
       "createdAt": "2026-08-10T14:25:16.113Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 74
+    },
+    {
+      "name": "local-executor",
+      "version": "0.1.0",
+      "description": "Set up a planner → local executor → auditor AI coding pipeline: installs Ollama, picks a right-sized open-weight model for your hardware, and installs the skill into Claude Code, Codex CLI, Cursor, and Windsurf.",
+      "license": "MIT",
+      "repository": "https://github.com/Raghdkun/local-executor",
+      "npmUrl": "https://www.npmjs.com/package/local-executor",
+      "category": "cli",
+      "createdAt": "2026-09-06T23:30:59.479Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
     },
     {
       "name": "local-model-workers-mcp",
@@ -105722,6 +105998,18 @@
       "score": 50
     },
     {
+      "name": "strapi-cms-audit-log",
+      "version": "1.1.0",
+      "description": "Audit logging for Strapi v5. Content create/update/delete/publish/unpublish with field-level diffs and a per-widget before/after view of dynamic zones, plus logins, failed logins, logouts, denied requests and admin user/role/permission/media changes — all",
+      "license": "MIT",
+      "repository": "https://github.com/Latheefwac/strapi-cms-audit-logs",
+      "npmUrl": "https://www.npmjs.com/package/strapi-cms-audit-log",
+      "category": "backend",
+      "createdAt": "2026-09-07T04:04:11.163Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 100
+    },
+    {
       "name": "strapi-global-search",
       "version": "1.0.0",
       "description": "Spotlight-style global search across every collection type and single type in the Strapi v4 admin panel. Zero configuration.",
@@ -111300,6 +111588,18 @@
       "createdAt": "2026-08-07T10:06:12.315Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 79
+    },
+    {
+      "name": "webfox",
+      "version": "4.0.0",
+      "description": "Search the web, extract pages, get grounded answers, and run deep research with the web CLI, a TypeScript library, and a pi extension. Bring your own providers and API keys.",
+      "license": "MIT",
+      "repository": "https://github.com/mavam/webfox",
+      "npmUrl": "https://www.npmjs.com/package/webfox",
+      "category": "backend",
+      "createdAt": "2026-09-06T08:53:29.573Z",
+      "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 88
     },
     {
       "name": "webgpu-we3d",
