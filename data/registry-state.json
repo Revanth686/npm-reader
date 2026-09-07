@@ -1,11 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 129117864,
-  "lastRunAt": "2026-09-07T04:17:48.772Z",
+  "lastSequence": 129246611,
+  "lastRunAt": "2026-09-07T17:40:44.533Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@ericality/dsh-reconcile",
+      "name": "@nyx5/nyx5",
+      "attempts": 1
+    },
+    {
+      "name": "@talonfi/wallet-solana-okx",
+      "attempts": 1
+    },
+    {
+      "name": "@adea-ai/catalog-schema",
+      "attempts": 1
+    },
+    {
+      "name": "@adea-ai/source-adapters",
+      "attempts": 1
+    },
+    {
+      "name": "@adea-ai/harness-adapters",
+      "attempts": 1
+    },
+    {
+      "name": "@adea-ai/catalog-core",
+      "attempts": 1
+    },
+    {
+      "name": "@contractkit/plugin-csharp",
       "attempts": 1
     }
   ]

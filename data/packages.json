@@ -3590,6 +3590,18 @@
       "score": 92
     },
     {
+      "name": "@allratestoday/maldives-monetary-authority-exchange-rate",
+      "version": "1.2.8",
+      "description": "Official Maldives Monetary Authority (Maldives) daily exchange rates — 1 currency vs MVR, history since 2011. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/maldives-monetary-authority-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fmaldives-monetary-authority-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-09-07T13:38:54.605Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
+    },
+    {
       "name": "@allratestoday/mas-exchange-rate",
       "version": "1.2.1",
       "description": "Official Monetary Authority of Singapore (Singapore) daily exchange rates — 21 currencies vs SGD, history since 1988. Zero-dependency Node.js/TypeScript client.",
@@ -3636,6 +3648,18 @@
       "createdAt": "2026-08-22T15:08:15.650Z",
       "discoveredAt": "2026-08-23T01:51:45.125Z",
       "score": 92
+    },
+    {
+      "name": "@allratestoday/national-bank-of-tajikistan-exchange-rate",
+      "version": "1.2.8",
+      "description": "Official National Bank of Tajikistan (Tajikistan) daily exchange rates — 36 currencies vs TJS, history since 2010. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/national-bank-of-tajikistan-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fnational-bank-of-tajikistan-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-09-07T13:38:48.013Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 94
     },
     {
       "name": "@allratestoday/nbc-cambodia-exchange-rate",
@@ -9588,6 +9612,18 @@
       "createdAt": "2026-07-31T04:54:21.358Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 84
+    },
+    {
+      "name": "@cashtokenai/meta-mcp-server",
+      "version": "1.0.0",
+      "description": "Read-only Model Context Protocol server for Meta Business Manager — Pages, Instagram, Ads insights, Pixels, Catalog, WhatsApp.",
+      "license": "MIT",
+      "repository": "https://github.com/feladeveloper/meta-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40cashtokenai%2Fmeta-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-07T15:24:32.760Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
     },
     {
       "name": "@cassius0924/dsh-usage-dashboard",
@@ -31142,6 +31178,18 @@
       "score": 90
     },
     {
+      "name": "@kolganovr/figma-mcp-bridge",
+      "version": "4.0.1",
+      "description": "Zero-dependency MCP bridge with write access to a live Figma canvas, auto-framed screenshot feedback, and one-call rollback. Works on the Figma free plan.",
+      "license": "MIT",
+      "repository": "https://github.com/kolganovr/figma-mcp-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40kolganovr%2Ffigma-mcp-bridge",
+      "category": "backend",
+      "createdAt": "2026-09-07T10:11:24.872Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 95
+    },
+    {
       "name": "@kolkrabbi/kol-shell",
       "version": "0.1.0",
       "description": "KOL application shell — fixed 48px NavRail + AppShell layout root, PageShell/PageHeader scaffolds, ContentFilters catalog organism, GridCard, SettingsScaffold, WalkthroughPanel, ShortcutsOverlay. App chrome (kol-framework owns site chrome). Nav items, con",
@@ -31152,6 +31200,18 @@
       "createdAt": "2026-08-14T22:30:43.121Z",
       "discoveredAt": "2026-08-14T22:41:27.316Z",
       "score": 61
+    },
+    {
+      "name": "@kongyo2/kongyoroid",
+      "version": "2.0.0",
+      "description": "Japanese speech and singing synthesis for LLM agents: a JSON-first CLI and typed library with a built-in deterministic formant engine, a dictionary-backed Japanese text frontend (jpreprocess), streaming output, and an optional VOICEVOX ENGINE adapter.",
+      "license": "MIT",
+      "repository": "https://github.com/kongyo2/kongyoroid",
+      "npmUrl": "https://www.npmjs.com/package/%40kongyo2%2Fkongyoroid",
+      "category": "frontend",
+      "createdAt": "2026-09-06T18:54:05.908Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 100
     },
     {
       "name": "@kontourai/ephemeris",
@@ -31670,6 +31730,54 @@
       "score": 66
     },
     {
+      "name": "@lacspace/ai",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency, provider-agnostic LLM chat client over fetch — one chat()/stream() API for OpenAI, Anthropic, Google Gemini and any OpenAI-compatible endpoint (Groq, Together, OpenRouter, Ollama). Bring your own key, no SDK, isomorphic.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fai",
+      "category": "backend",
+      "createdAt": "2026-09-07T07:17:39.930Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/ai-tools",
+      "version": "1.0.0",
+      "description": "Define LLM function-calling / tool-use tools once and use them with any provider — generate the OpenAI, Anthropic or Google tool spec AND get a runtime dispatcher that validates arguments and calls your handler. Zero-dependency, provider-agnostic, keyless",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fai-tools",
+      "category": "build-tools",
+      "createdAt": "2026-09-07T07:17:45.156Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/chunk",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency text splitter for RAG and long-context prompts — recursive character, Markdown, code, sentence and paragraph chunking with overlap and a pluggable token-aware lengthFn. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fchunk",
+      "category": "build-tools",
+      "createdAt": "2026-09-07T07:17:29.975Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
+    },
+    {
+      "name": "@lacspace/expect",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency, runner-agnostic fluent assertion library — expect(...).toEqual/.toThrow/.resolves, asymmetric matchers, expect.extend and a deep-equal engine that handles Map, Set, typed arrays and circular refs. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fexpect",
+      "category": "testing",
+      "createdAt": "2026-09-07T15:05:16.318Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
+    },
+    {
       "name": "@lacspace/hooks",
       "version": "1.0.0",
       "description": "Essential, SSR-safe React hooks — useLocalStorage, useDebounce, useMediaQuery, useOnClickOutside, useCopyToClipboard and 20+ more. Zero-dependency, fully typed, isomorphic.",
@@ -31694,6 +31802,18 @@
       "score": 83
     },
     {
+      "name": "@lacspace/prompt",
+      "version": "1.0.0",
+      "description": "A tiny, typed prompt-engineering toolkit — build, compose and render LLM prompts and chat messages with real type safety. Variable names are inferred from the template string, so .render() is type-checked. Zero-dependency, isomorphic, provider-agnostic.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fprompt",
+      "category": "build-tools",
+      "createdAt": "2026-09-07T07:17:13.562Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 96
+    },
+    {
       "name": "@lacspace/query",
       "version": "1.0.0",
       "description": "Tiny data fetching for React with a shared cache, request de-duplication, stale-while-revalidate, focus/reconnect revalidation, and mutations. useQuery + useMutation in ~2KB. Zero-dependency, SSR-safe, fully typed.",
@@ -31704,6 +31824,18 @@
       "createdAt": "2026-08-23T13:16:56.357Z",
       "discoveredAt": "2026-08-23T13:36:40.884Z",
       "score": 81
+    },
+    {
+      "name": "@lacspace/snapshot",
+      "version": "1.0.0",
+      "description": "A zero-dependency snapshot-testing toolkit — a stable, deterministic value serializer (sorted keys, circular-safe, pluggable) plus inline and file snapshot matchers. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fsnapshot",
+      "category": "testing",
+      "createdAt": "2026-09-07T15:05:32.811Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 95
     },
     {
       "name": "@lacspace/store",
@@ -31718,6 +31850,18 @@
       "score": 81
     },
     {
+      "name": "@lacspace/stream",
+      "version": "1.0.0",
+      "description": "A zero-dependency, isomorphic parser for Server-Sent Events and streaming LLM responses — turn a fetch body into a clean async iterator of text and tool-call deltas, normalized across OpenAI and Anthropic. No SDK, keyless.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fstream",
+      "category": "backend",
+      "createdAt": "2026-09-07T07:17:34.793Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 94
+    },
+    {
       "name": "@lacspace/theme",
       "version": "1.0.0",
       "description": "SSR-safe dark / light / system theme for React — a tiny ThemeProvider, a useTheme hook, and a no-flash inline script. Persists to storage, follows the OS, toggles a class or data-attribute. Zero-dependency, framework-agnostic, fully typed.",
@@ -31728,6 +31872,18 @@
       "createdAt": "2026-08-23T13:17:01.541Z",
       "discoveredAt": "2026-08-23T13:36:40.884Z",
       "score": 83
+    },
+    {
+      "name": "@lacspace/tokenizer",
+      "version": "1.0.0",
+      "description": "A fast, zero-dependency token estimator, LLM cost calculator and context-budget manager — good-enough approximation of GPT/Claude/Gemini token counts without the 3 MB tiktoken/wasm. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Ftokenizer",
+      "category": "build-tools",
+      "createdAt": "2026-09-07T07:17:19.970Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 93
     },
     {
       "name": "@lacspace/virtual",
@@ -34358,6 +34514,18 @@
       "score": 88
     },
     {
+      "name": "@mamdouh-aboammar/dsh-codex-subscription",
+      "version": "1.0.1",
+      "description": "Use ChatGPT and Codex subscriptions in DeepSeek Harness with OAuth, quota, safe resets, web search, images, and Fast mode",
+      "license": "MIT",
+      "repository": "https://github.com/imMamdouhaboammar/dsh-codex-subscription",
+      "npmUrl": "https://www.npmjs.com/package/%40mamdouh-aboammar%2Fdsh-codex-subscription",
+      "category": "utilities",
+      "createdAt": "2026-09-07T13:56:47.782Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
+    },
+    {
       "name": "@manacost-labs/deckstrings",
       "version": "1.0.0",
       "description": "Production-ready Hearthstone deckstring codec for Node.js and browsers",
@@ -35028,6 +35196,18 @@
       "createdAt": "2026-08-12T00:15:48.667Z",
       "discoveredAt": "2026-08-12T01:13:18.235Z",
       "score": 69
+    },
+    {
+      "name": "@meadarsh/react-native-chat-ui",
+      "version": "1.0.0",
+      "description": "A complete chat UI for React Native & Web - streaming AI messages, emoji reactions, replies, quick replies, and full customization. TypeScript-first, Expo-ready. A fork of @kesha-antonov/react-native-chat.",
+      "license": "MIT",
+      "repository": "https://github.com/Meadarsh/react-native-chat-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40meadarsh%2Freact-native-chat-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-07T16:16:07.299Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 100
     },
     {
       "name": "@meclabsai/sdk",
@@ -36396,6 +36576,18 @@
       "createdAt": "2026-08-01T06:10:40.257Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 75
+    },
+    {
+      "name": "@moguw/pi-hashline-edit-pro",
+      "version": "2.7.3",
+      "description": "Hash-anchored read/replace/insert/grep tools for pi-coding-agent. Every line gets a unique 3-char hash (A-Za-z0-9) that stays stable across edits; stale or ambiguous anchors are rejected, never fuzzy-matched. Undo persists across restarts.",
+      "license": "MIT",
+      "repository": "https://github.com/Mieluoxxx/pi-ext",
+      "npmUrl": "https://www.npmjs.com/package/%40moguw%2Fpi-hashline-edit-pro",
+      "category": "utilities",
+      "createdAt": "2026-09-07T05:55:25.541Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 100
     },
     {
       "name": "@moguw/pi-interactive-shell",
@@ -39264,6 +39456,18 @@
       "createdAt": "2026-08-25T00:03:02.363Z",
       "discoveredAt": "2026-08-25T01:43:40.065Z",
       "score": 98
+    },
+    {
+      "name": "@ngblocks/form-nodes",
+      "version": "1.0.0",
+      "description": "Typed, signal-based forms for Angular with reactive validation, dynamic arrays, and native and custom control integration.",
+      "license": "MIT",
+      "repository": "https://github.com/gastonmesseri/form-nodes",
+      "npmUrl": "https://www.npmjs.com/package/%40ngblocks%2Fform-nodes",
+      "category": "frontend",
+      "createdAt": "2026-09-07T17:13:56.432Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
     },
     {
       "name": "@nguyenthdat/opencode-antigravity-auth",
@@ -60326,6 +60530,18 @@
       "score": 90
     },
     {
+      "name": "@yannyours/auth-kit",
+      "version": "1.0.0",
+      "description": "Module d'authentification Node.js autonome — email/mot de passe + OAuth2 (Google, GitHub, générique) avec PKCE, JWT access/refresh avec rotation, adaptateur de stockage enfichable.",
+      "license": "MIT",
+      "repository": "https://github.com/YannYours/auth-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40yannyours%2Fauth-kit",
+      "category": "backend",
+      "createdAt": "2026-09-07T12:08:59.433Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 93
+    },
+    {
       "name": "@yansigit/opencodex",
       "version": "2.31.0",
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM with Codex CLI/App/SDK and Claude Code",
@@ -73058,6 +73274,18 @@
       "score": 80
     },
     {
+      "name": "dockview-svelte",
+      "version": "1.0.0",
+      "description": "[![npm version](https://img.shields.io/npm/v/dockview-svelte.svg)](https://www.npmjs.com/package/dockview-svelte) [![npm downloads](https://img.shields.io/npm/dm/dockview-svelte.svg)](https://www.npmjs.com/package/dockview-svelte) [![CI](https://github.co",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/eddow/dockview-svelte",
+      "npmUrl": "https://www.npmjs.com/package/dockview-svelte",
+      "category": "frontend",
+      "createdAt": "2026-09-07T04:30:25.286Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 96
+    },
+    {
       "name": "docraft",
       "version": "0.1.0",
       "description": "CLI tool that detects {{PLACEHOLDER}} fields in docx, odt, pages, pdf and markdown documents and fills them in interactively or via automation.",
@@ -73920,6 +74148,18 @@
       "createdAt": "2026-08-13T19:55:45.610Z",
       "discoveredAt": "2026-08-13T20:32:34.831Z",
       "score": 52
+    },
+    {
+      "name": "dsh-codex-subscription-en",
+      "version": "1.0.0",
+      "description": "Use ChatGPT and Codex subscriptions in DeepSeek Harness with OAuth, quota, safe resets, web search, images, and Fast mode",
+      "license": "MIT",
+      "repository": "https://github.com/imMamdouhaboammar/dsh-codex-subscription",
+      "npmUrl": "https://www.npmjs.com/package/dsh-codex-subscription-en",
+      "category": "utilities",
+      "createdAt": "2026-09-07T13:59:43.744Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
     },
     {
       "name": "dsh-codex-tools",
@@ -85670,6 +85910,18 @@
       "score": 63
     },
     {
+      "name": "local-brain-mcp",
+      "version": "1.3.0",
+      "description": "Shared, local-first memory layer for multi-agent software development (Claude Code, Cursor, Antigravity, Copilot & Windsurf)",
+      "license": "MIT",
+      "repository": "https://github.com/cosmiccoder200x-sys/local-brain-mcp",
+      "npmUrl": "https://www.npmjs.com/package/local-brain-mcp",
+      "category": "data",
+      "createdAt": "2026-09-07T17:30:03.209Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 92
+    },
+    {
       "name": "local-cli-bridge",
       "version": "0.1.1",
       "description": "A minimal, self hosted OpenAI compatible adapter for one shot completions through locally authenticated CLI model tools. A development and testing bridge, not a hosted model service.",
@@ -88838,6 +89090,18 @@
       "score": 71
     },
     {
+      "name": "mochi-avatar",
+      "version": "1.1.0",
+      "description": "Mochi — a soft-body companion character, and the engine that draws her. Superellipse geometry, area-preserving squash, spring physics and an idle layer. Canvas2D, SVG, or one custom element. Zero runtime dependencies.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/xiaolai/mochi",
+      "npmUrl": "https://www.npmjs.com/package/mochi-avatar",
+      "category": "devops",
+      "createdAt": "2026-09-07T02:16:22.915Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 100
+    },
+    {
       "name": "mocks-data-generator",
       "version": "1.0.7",
       "description": "Generate realistic mock data without external dependencies",
@@ -90746,6 +91010,18 @@
       "score": 92
     },
     {
+      "name": "national-bank-of-tajikistan-exchange-rate",
+      "version": "1.2.8",
+      "description": "Official National Bank of Tajikistan (Tajikistan) daily exchange rates — 36 currencies vs TJS, history since 2010. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/national-bank-of-tajikistan-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/national-bank-of-tajikistan-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-09-07T13:37:43.693Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 94
+    },
+    {
       "name": "nativeline",
       "version": "0.0.2",
       "description": "Real-time animated charts for React Native + Expo — line, candlestick, and multi-series modes, Skia-rendered, 60fps on the UI thread, with live and static viewports",
@@ -92652,6 +92928,18 @@
       "createdAt": "2026-08-13T05:22:25.833Z",
       "discoveredAt": "2026-08-13T07:14:57.670Z",
       "score": 78
+    },
+    {
+      "name": "ofox-skills",
+      "version": "1.0.0",
+      "description": "Agent skills for the Ofox platform: video generation (Seedance 2.5 short drama, ad creative, product video, anime drama), image generation, SSH-key encrypted secrets, ImageMagick image handling, and static-site deploys to Cloudflare.",
+      "license": "MIT",
+      "repository": "https://github.com/ofoxai/skills",
+      "npmUrl": "https://www.npmjs.com/package/ofox-skills",
+      "category": "data",
+      "createdAt": "2026-09-07T11:24:04.803Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 97
     },
     {
       "name": "oh-my-freebuff",
@@ -112788,6 +113076,18 @@
       "createdAt": "2026-07-26T21:26:04.352Z",
       "discoveredAt": "2026-07-26T21:43:13.823Z",
       "score": 67
+    },
+    {
+      "name": "youtube-downloader-tui",
+      "version": "1.2.0",
+      "description": "High-performance interactive Terminal User Interface (TUI) YouTube video, playlist, and audio downloader powered by Bun, yt-dlp, and FFmpeg.",
+      "license": "MIT",
+      "repository": "https://github.com/Mohamed780050/bun-youtube-downloader",
+      "npmUrl": "https://www.npmjs.com/package/youtube-downloader-tui",
+      "category": "data",
+      "createdAt": "2026-09-07T09:55:54.145Z",
+      "discoveredAt": "2026-09-07T17:40:44.533Z",
+      "score": 94
     },
     {
       "name": "youtube-mpv-shim",
