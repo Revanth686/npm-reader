@@ -1,35 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 129246611,
-  "lastRunAt": "2026-09-07T17:40:44.533Z",
+  "lastSequence": 129310595,
+  "lastRunAt": "2026-09-08T04:18:29.174Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@nyx5/nyx5",
+      "name": "@agentcreds/sdk-win32-x64-msvc",
       "attempts": 1
     },
     {
-      "name": "@talonfi/wallet-solana-okx",
+      "name": "@agentcreds/sdk-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@adea-ai/catalog-schema",
+      "name": "@agentcreds/sdk-linux-x64-gnu",
       "attempts": 1
     },
     {
-      "name": "@adea-ai/source-adapters",
-      "attempts": 1
-    },
-    {
-      "name": "@adea-ai/harness-adapters",
-      "attempts": 1
-    },
-    {
-      "name": "@adea-ai/catalog-core",
-      "attempts": 1
-    },
-    {
-      "name": "@contractkit/plugin-csharp",
+      "name": "@agentcreds/sdk-darwin-arm64",
       "attempts": 1
     }
   ]
