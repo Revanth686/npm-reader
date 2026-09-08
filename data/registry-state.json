@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 129310595,
-  "lastRunAt": "2026-09-08T04:18:29.174Z",
+  "lastSequence": 129443133,
+  "lastRunAt": "2026-09-08T16:30:52.786Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@agentcreds/sdk-win32-x64-msvc",
+      "name": "@qubeejs/core",
       "attempts": 1
     },
     {
-      "name": "@agentcreds/sdk-darwin-x64",
+      "name": "@geoblink/eslint-plugin-i18next",
       "attempts": 1
     },
     {
-      "name": "@agentcreds/sdk-linux-x64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@agentcreds/sdk-darwin-arm64",
+      "name": "@ohos-ports/railway-cli",
       "attempts": 1
     }
   ]

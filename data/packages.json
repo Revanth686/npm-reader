@@ -26546,6 +26546,18 @@
       "score": 51
     },
     {
+      "name": "@honeypathkar/react-native-thermal-printer",
+      "version": "1.0.0",
+      "description": "Thermal receipt printing for React Native. One receipt definition drives Sunmi built-in heads, generic ESC/POS printers over Classic Bluetooth, and BLE pocket \"cat printers\" (X5 / MX05 / GB01) that accept raster images only. Includes fixed-width receipt l",
+      "license": "MIT",
+      "repository": "https://github.com/honeypathkar/react-native-components",
+      "npmUrl": "https://www.npmjs.com/package/%40honeypathkar%2Freact-native-thermal-printer",
+      "category": "frontend",
+      "createdAt": "2026-09-08T06:25:12.554Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 100
+    },
+    {
       "name": "@honeypot-feed-official/honeypot-feed-widget",
       "version": "1.0.3",
       "description": "Embeddable widget for token honeypot detection. Scan any token across 15+ networks for scams, rugpulls, and honeypots.",
@@ -31802,6 +31814,18 @@
       "score": 66
     },
     {
+      "name": "@lacspace/agent",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency, keyless tool-calling / ReAct agent loop — bring any chat model and any tools as injectable, duck-typed interfaces and it drives the call → tool-dispatch → repeat loop with a full observable trace, maxSteps guard and error recovery",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fagent",
+      "category": "frontend",
+      "createdAt": "2026-09-08T09:19:26.349Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 97
+    },
+    {
       "name": "@lacspace/ai",
       "version": "1.0.0",
       "description": "A tiny, zero-dependency, provider-agnostic LLM chat client over fetch — one chat()/stream() API for OpenAI, Anthropic, Google Gemini and any OpenAI-compatible endpoint (Groq, Together, OpenRouter, Ollama). Bring your own key, no SDK, isomorphic.",
@@ -31838,6 +31862,30 @@
       "score": 92
     },
     {
+      "name": "@lacspace/datetime",
+      "version": "1.1.0",
+      "description": "Immutable date-time toolkit — arithmetic, start/end of unit, diff & breakdown, comparison, relative-time, business days, calendar grid, token format/parse and ISO. Zero-dependency, isomorphic, a tiny date-fns/dayjs.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fdatetime",
+      "category": "data",
+      "createdAt": "2026-09-07T15:35:44.554Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 94
+    },
+    {
+      "name": "@lacspace/embeddings",
+      "version": "1.0.0",
+      "description": "A tiny, provider-agnostic, keyless embeddings client plus pure vector math (cosine, dot, euclidean, normalize, mean-pool, top-k) — the entry point of a RAG stack. Works with OpenAI-compatible, Ollama, Google and Cohere endpoints via an injectable fetch. Z",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fembeddings",
+      "category": "data",
+      "createdAt": "2026-09-08T09:19:08.991Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 98
+    },
+    {
       "name": "@lacspace/expect",
       "version": "1.0.0",
       "description": "A tiny, zero-dependency, runner-agnostic fluent assertion library — expect(...).toEqual/.toThrow/.resolves, asymmetric matchers, expect.extend and a deep-equal engine that handles Map, Set, typed arrays and circular refs. Isomorphic and fully typed.",
@@ -31848,6 +31896,18 @@
       "createdAt": "2026-09-07T15:05:16.318Z",
       "discoveredAt": "2026-09-07T17:40:44.533Z",
       "score": 92
+    },
+    {
+      "name": "@lacspace/fixtures",
+      "version": "1.1.0",
+      "description": "A tiny, zero-dependency typed test-data factory — deterministic fixtures under a seed with sequences, traits, transient params, lazy associations, a seeded fake-data generator, async builds and cleanup hooks for any test runner. Isomorphic and fully typed",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Ffixtures",
+      "category": "testing",
+      "createdAt": "2026-09-07T15:05:26.786Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 99
     },
     {
       "name": "@lacspace/hooks",
@@ -31872,6 +31932,42 @@
       "createdAt": "2026-08-23T13:17:06.774Z",
       "discoveredAt": "2026-08-23T13:36:40.884Z",
       "score": 83
+    },
+    {
+      "name": "@lacspace/json-repair",
+      "version": "1.1.0",
+      "description": "Extract and repair JSON from messy LLM output — strip ```json fences and prose, extract every embedded value, repair with diagnostics, fix trailing commas, single quotes, unquoted keys and Python literals, and close truncated objects. Zero-dependency, iso",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fjson-repair",
+      "category": "build-tools",
+      "createdAt": "2026-09-07T07:17:24.933Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/memory",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency, keyless conversation memory for LLM chat apps — track message history, keep it inside a token/message budget with a sliding window, and optionally summarize old turns via an injectable summarizer. Isomorphic, fully typed, with pur",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fmemory",
+      "category": "build-tools",
+      "createdAt": "2026-09-08T09:19:32.281Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 96
+    },
+    {
+      "name": "@lacspace/moderation",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency, keyless content-safety toolkit for AI apps — detect and redact PII, flag toxic/unsafe content, catch prompt-injection, and validate LLM output with composable guardrails. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fmoderation",
+      "category": "build-tools",
+      "createdAt": "2026-09-08T09:45:15.892Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 94
     },
     {
       "name": "@lacspace/prompt",
@@ -31910,6 +32006,18 @@
       "score": 95
     },
     {
+      "name": "@lacspace/spy",
+      "version": "1.1.0",
+      "description": "A tiny, zero-dependency test-doubles library — spies, stubs, mocks, argument matchers and deterministic fake timers that work in any test runner or the browser. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fspy",
+      "category": "testing",
+      "createdAt": "2026-09-07T15:05:21.501Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 98
+    },
+    {
       "name": "@lacspace/store",
       "version": "1.0.0",
       "description": "Minimal global state for React in ~1KB — create a store, use selectors, no provider. Built on useSyncExternalStore with a persist middleware and shallow equality. Zero-dependency, SSR-safe, fully typed.",
@@ -31946,6 +32054,18 @@
       "score": 83
     },
     {
+      "name": "@lacspace/timezone",
+      "version": "1.1.0",
+      "description": "Zero-dependency, isomorphic IANA timezone toolkit built on Intl — DST-correct offsets, wall-clock parts, zoned↔UTC conversion, zoned formatting, zone comparison, DST detection & transition scanning. No bundled tz database, always current.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Ftimezone",
+      "category": "data",
+      "createdAt": "2026-09-07T15:35:54.896Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 100
+    },
+    {
       "name": "@lacspace/tokenizer",
       "version": "1.0.0",
       "description": "A fast, zero-dependency token estimator, LLM cost calculator and context-budget manager — good-enough approximation of GPT/Claude/Gemini token counts without the 3 MB tiktoken/wasm. Isomorphic and fully typed.",
@@ -31956,6 +32076,18 @@
       "createdAt": "2026-09-07T07:17:19.970Z",
       "discoveredAt": "2026-09-07T17:40:44.533Z",
       "score": 93
+    },
+    {
+      "name": "@lacspace/vector",
+      "version": "1.0.0",
+      "description": "A tiny, zero-dependency in-memory vector store for RAG and semantic search — upsert records, brute-force k-nearest-neighbour query with cosine / dot / euclidean metrics, metadata filtering, and plain-JSON persistence. Isomorphic and fully typed.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fvector",
+      "category": "data",
+      "createdAt": "2026-09-08T09:19:14.992Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 94
     },
     {
       "name": "@lacspace/virtual",
@@ -45962,6 +46094,18 @@
       "score": 57
     },
     {
+      "name": "@ramijd/parallax-header-tabs",
+      "version": "1.0.1",
+      "description": "Collapsing parallax header with sticky tabs and sub-tabs for React Native. Works in Expo and React Native CLI with zero native dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/ramijrock/parallax-header-tabs",
+      "npmUrl": "https://www.npmjs.com/package/%40ramijd%2Fparallax-header-tabs",
+      "category": "frontend",
+      "createdAt": "2026-09-08T16:03:43.002Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 94
+    },
+    {
       "name": "@ramp-kit/core",
       "version": "0.1.1",
       "description": "Unified fiat on/off-ramp SDK for LATAM on Stellar: one provider interface over Etherfuse (PIX/SPEI, Stellar-native) and Manteca, with quote/order lifecycle normalization, multi-provider routing with live quote comparison, mock provider, and Stellar helper",
@@ -51971,6 +52115,18 @@
       "category": "backend",
       "createdAt": "2026-09-01T20:44:27.111Z",
       "discoveredAt": "2026-09-02T04:11:29.789Z",
+      "score": 100
+    },
+    {
+      "name": "@soyrageagency/seo-mcp",
+      "version": "1.0.0",
+      "description": "Chat with your site's SEO. A Model Context Protocol (MCP) server that lets any LLM crawl a site, audit on-page factors, read Google Search Console, measure Core Web Vitals and compare against competitors — read-only by default.",
+      "license": "MIT",
+      "repository": "https://github.com/soyrageagency/seo-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40soyrageagency%2Fseo-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-08T11:12:51.193Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
       "score": 100
     },
     {
@@ -61394,6 +61550,18 @@
       "score": 100
     },
     {
+      "name": "@zanreal/medusa-allegro",
+      "version": "1.0.0",
+      "description": "Medusa v2 plugin integrating Allegro, the Polish marketplace: OAuth connection, encrypted token storage, offer/SKU mapping and price-automation audit models.",
+      "license": "MIT",
+      "repository": "https://github.com/zanreal-labs/medusa-allegro",
+      "npmUrl": "https://www.npmjs.com/package/%40zanreal%2Fmedusa-allegro",
+      "category": "utilities",
+      "createdAt": "2026-08-26T12:02:45.533Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 93
+    },
+    {
       "name": "@zanreal/medusa-infakt",
       "version": "0.1.0",
       "description": "Medusa v2 plugin for Polish invoicing: issues inFakt invoices for paid orders and files them to KSeF, with a durable, crash-safe state machine and an operator surface for invoices that need review.",
@@ -63696,6 +63864,18 @@
       "createdAt": "2026-08-07T09:01:59.577Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 83
+    },
+    {
+      "name": "agy-first-bridge",
+      "version": "1.6.0",
+      "description": "agy-first bridge for DeepSeek Harness (DSH): prioritize the local agy CLI in every mode (full DSH control, no prompts), with a rate-limit/network fallback dialog, a live status light (dynamic form + home-level plugin), and a zero-dependency MCP server so",
+      "license": "MIT",
+      "repository": "https://github.com/new-256/agy-first-bridge",
+      "npmUrl": "https://www.npmjs.com/package/agy-first-bridge",
+      "category": "backend",
+      "createdAt": "2026-09-08T11:35:51.679Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 96
     },
     {
       "name": "agy-telegram",
@@ -69446,6 +69626,18 @@
       "score": 68
     },
     {
+      "name": "claude-session-recall",
+      "version": "1.0.0",
+      "description": "Read your Claude Code session's own transcript. See how many times it was compacted, and whether a fact you are relying on was ever measured or only inherited from a summary.",
+      "license": "MIT",
+      "repository": "https://github.com/CavsSatyamKhatri/claude-session-recall",
+      "npmUrl": "https://www.npmjs.com/package/claude-session-recall",
+      "category": "utilities",
+      "createdAt": "2026-09-08T13:24:33.298Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 95
+    },
+    {
       "name": "claude-skill-vault",
       "version": "1.0.0",
       "description": "Lazy-load all Claude Code skills and plugin skills. One command, thousands of context tokens saved, zero change in usage.",
@@ -74376,6 +74568,18 @@
       "createdAt": "2026-08-14T14:45:14.219Z",
       "discoveredAt": "2026-08-15T13:37:19.775Z",
       "score": 66
+    },
+    {
+      "name": "dsh-comfyui-bridge",
+      "version": "1.0.0",
+      "description": "DSH (DeepSeek Harness) ComfyUI 桥接插件：让 Agent 直接驱动本地/局域网 ComfyUI 生图生视频 — 8 个全局模型工具、预设工作流模板(txt2img/img2img/Wan/SVD/H3)、任意 API 工作流逃生舱、设备能力守卫、模型注册表断点续传下载、ComfyUI 一键安装评估。ComfyUI bridge plugin for DeepSeek Harness: image & video generation tools driving a local",
+      "license": "MIT",
+      "repository": "https://github.com/new-256/dsh-desktop",
+      "npmUrl": "https://www.npmjs.com/package/dsh-comfyui-bridge",
+      "category": "backend",
+      "createdAt": "2026-09-08T11:51:52.798Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 100
     },
     {
       "name": "dsh-commandcode-provider",
@@ -90794,6 +90998,18 @@
       "score": 78
     },
     {
+      "name": "n8n-nodes-przypominamy",
+      "version": "1.0.0",
+      "description": "Węzeł n8n dla API SMS przypominamy.com — wysyłka SMS i wiadomości głosowych, kontakty, grupy, czarna lista, raporty oraz trigger webhooków ze statusem doręczenia. Polska bramka SMS, REST, webhooki HMAC.",
+      "license": "MIT",
+      "repository": "https://github.com/pawelmamcarz/przypominamy-n8n",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-przypominamy",
+      "category": "frontend",
+      "createdAt": "2026-09-08T06:26:26.399Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 97
+    },
+    {
       "name": "n8n-nodes-rapidapi-pro",
       "version": "0.1.1",
       "description": "Call any RapidAPI-hosted API from n8n. Store multiple services in an internal library, import operations + sample parameters straight from a RapidAPI link, and track your usage / remaining quota.",
@@ -92436,6 +92652,18 @@
       "createdAt": "2026-08-09T17:46:33.667Z",
       "discoveredAt": "2026-08-09T18:28:03.745Z",
       "score": 78
+    },
+    {
+      "name": "node-opcua-versions",
+      "version": "2.182.0",
+      "description": "pure nodejs OPCUA SDK - the release matrix of node-opcua: which version of every node-opcua-* package belongs to a release, and a CLI to bump, expand and check a package.json against it",
+      "license": "MIT",
+      "repository": "https://github.com/node-opcua/node-opcua",
+      "npmUrl": "https://www.npmjs.com/package/node-opcua-versions",
+      "category": "cli",
+      "createdAt": "2026-09-08T11:59:07.115Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 94
     },
     {
       "name": "node-red-contrib-gx-ble",
@@ -96170,6 +96398,18 @@
       "score": 77
     },
     {
+      "name": "photonow-mcp",
+      "version": "1.0.1",
+      "description": "The #1 Offline Photo, Video & Web Performance Model Context Protocol (MCP) Server for AI Agents (Claude Desktop, Cursor, Antigravity). Bundles 29 native tools with zero cloud storage.",
+      "license": "MIT",
+      "repository": "https://github.com/Sibasish2005/PhotoNowEngine",
+      "npmUrl": "https://www.npmjs.com/package/photonow-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-08T15:02:08.546Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 98
+    },
+    {
       "name": "pi-account-pool",
       "version": "1.0.0",
       "description": "Named Anthropic and OpenAI Codex subscription accounts for Pi, with automatic visible failover on rate limits",
@@ -97308,6 +97548,18 @@
       "createdAt": "2026-08-02T19:21:28.168Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 80
+    },
+    {
+      "name": "pi-provider-throttle",
+      "version": "1.1.1",
+      "description": "Per-provider LLM request throttling for the Pi coding agent — persistent seconds-between-calls pacing that prevents 429 Too Many Requests on rate-limited providers (e.g. NVIDIA NIM 40 RPM free tiers) while leaving unaffected providers untouched.",
+      "license": "MIT",
+      "repository": "https://github.com/carlosduplar/pi-provider-throttle",
+      "npmUrl": "https://www.npmjs.com/package/pi-provider-throttle",
+      "category": "devops",
+      "createdAt": "2026-09-08T14:01:14.142Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 96
     },
     {
       "name": "pi-querit",
@@ -99650,6 +99902,18 @@
       "score": 36
     },
     {
+      "name": "qwenproxy-cli",
+      "version": "1.0.0",
+      "description": "API compatível com OpenAI que conecta clientes ao Qwen via Playwright, com suporte a múltiplas contas, tool calling e sessões persistentes.",
+      "license": "ISC",
+      "repository": "https://github.com/johngbl/qwenproxy",
+      "npmUrl": "https://www.npmjs.com/package/qwenproxy-cli",
+      "category": "testing",
+      "createdAt": "2026-09-08T15:13:37.836Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 93
+    },
+    {
       "name": "r-tour-guide",
       "version": "1.0.1",
       "description": "A comprehensive React tour guide library with TypeScript support, works with Next.js",
@@ -100548,6 +100812,18 @@
       "createdAt": "2026-08-05T20:44:06.773Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 74
+    },
+    {
+      "name": "react-native-hyperswitch-payment-methods-dev",
+      "version": "1.0.1",
+      "description": "Provider-agnostic React Native card collection widgets (VGS, Skyflow, Basis Theory, Evervault + request-builder) behind one widget interface.",
+      "license": "MIT",
+      "repository": "https://github.com/juspay/react-native-hyperswitch",
+      "npmUrl": "https://www.npmjs.com/package/react-native-hyperswitch-payment-methods-dev",
+      "category": "frontend",
+      "createdAt": "2026-09-08T10:41:13.762Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 94
     },
     {
       "name": "react-native-image-analysis",
@@ -109034,6 +109310,18 @@
       "score": 70
     },
     {
+      "name": "tr-data-encrypt",
+      "version": "1.1.0",
+      "description": "Symmetric file encryption in the TRDE container format: streamed AES-256-GCM with optional compression, atomic and in-place file operations, keys as raw bytes or JWK. The file codec of tr-data-escrow, extracted into its own package.",
+      "license": "MIT",
+      "repository": "https://github.com/rinne/node-tr-data-encrypt",
+      "npmUrl": "https://www.npmjs.com/package/tr-data-encrypt",
+      "category": "data",
+      "createdAt": "2026-09-08T14:08:00.731Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 96
+    },
+    {
       "name": "tracabit",
       "version": "1.0.0",
       "description": "Tracabit — GA4-style privacy-first analytics SDK + Sentry-style crash reporting. Multi-provider geo race, passive fingerprint, standard event helpers. Zero runtime deps. Works in browsers and Node 18+.",
@@ -113244,6 +113532,18 @@
       "createdAt": "2026-08-11T19:00:21.730Z",
       "discoveredAt": "2026-08-12T14:08:37.632Z",
       "score": 65
+    },
+    {
+      "name": "xyflow-nexus",
+      "version": "1.0.0",
+      "description": "An expansive, production-ready node-based design system, workflow pattern library, and component suite built exclusively for React Flow v12 (@xyflow/react) and Next.js.",
+      "license": "MIT",
+      "repository": "https://github.com/jaykdoe/xyflow-nexus",
+      "npmUrl": "https://www.npmjs.com/package/xyflow-nexus",
+      "category": "frontend",
+      "createdAt": "2026-09-08T11:19:12.234Z",
+      "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 96
     },
     {
       "name": "xyzdb",
