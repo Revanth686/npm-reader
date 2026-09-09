@@ -1,19 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 129443133,
-  "lastRunAt": "2026-09-08T16:30:52.786Z",
+  "lastSequence": 129535144,
+  "lastRunAt": "2026-09-09T04:23:58.819Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@qubeejs/core",
+      "name": "@ohos-ports/graphviz",
       "attempts": 1
     },
     {
-      "name": "@geoblink/eslint-plugin-i18next",
-      "attempts": 1
-    },
-    {
-      "name": "@ohos-ports/railway-cli",
+      "name": "@ohos-ports/fd",
       "attempts": 1
     }
   ]

@@ -2138,6 +2138,18 @@
       "score": 52
     },
     {
+      "name": "@ai-markdown/remark-mark-highlight",
+      "version": "1.0.1",
+      "description": "remark plugin for ==mark== highlight syntax — first-party successor to remark-mark-highlight, with dual ESM/CJS output.",
+      "license": "MIT",
+      "repository": "https://github.com/ai-markdown/ai-markdown",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-markdown%2Fremark-mark-highlight",
+      "category": "build-tools",
+      "createdAt": "2026-09-09T04:12:38.179Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 91
+    },
+    {
       "name": "@ai-matrx/kit",
       "version": "0.5.0",
       "description": "The always-include AI Matrx kit: the little primitives every Matrx app speaks — autosave that never loses a keystroke, stale-response guards, clipboard with graceful fallbacks — one per subpath, tree-shaken to what you use.",
@@ -6852,6 +6864,18 @@
       "createdAt": "2026-08-02T20:00:08.515Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 77
+    },
+    {
+      "name": "@backend-master/securekit",
+      "version": "1.0.0",
+      "description": "Zero-runtime-dependency security toolkit core for Node.js APIs ? Config Compiler, Pipeline Runner, SecureKitContext, and error architecture.",
+      "license": "MIT",
+      "repository": "https://github.com/Raghurajpratapsingh28/Securekit",
+      "npmUrl": "https://www.npmjs.com/package/%40backend-master%2Fsecurekit",
+      "category": "backend",
+      "createdAt": "2026-09-08T20:30:17.776Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 94
     },
     {
       "name": "@backenly/sdk",
@@ -11726,6 +11750,18 @@
       "score": 75
     },
     {
+      "name": "@corespeed/skills",
+      "version": "1.5.1",
+      "description": "The open agent skills ecosystem CLI, CoreSpeed fork: install from several sources in one command, with --json output",
+      "license": "MIT",
+      "repository": "https://github.com/corespeed-io/skills",
+      "npmUrl": "https://www.npmjs.com/package/%40corespeed%2Fskills",
+      "category": "cli",
+      "createdAt": "2026-09-09T01:40:06.977Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 91
+    },
+    {
       "name": "@coreyhiggins/blastradius",
       "version": "0.2.1",
       "description": "How far does this command reach? Guards AI coding agents against commands that leave your machine. Zero dependencies.",
@@ -12840,6 +12876,18 @@
       "createdAt": "2026-07-26T14:40:04.472Z",
       "discoveredAt": "2026-07-26T14:57:34.158Z",
       "score": 73
+    },
+    {
+      "name": "@daycry/custom-agents",
+      "version": "1.19.0",
+      "description": "Ciclo SDD presupuestado (requisitos → presupuesto → plan → implementación → pruebas → documentación) para Claude Code, Codex y OpenCode: 9 agentes, 12 comandos y 17 skills con coste real medido, memoria técnica y trazabilidad en Jira/Confluence.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/daycry/custom-agents",
+      "npmUrl": "https://www.npmjs.com/package/%40daycry%2Fcustom-agents",
+      "category": "devops",
+      "createdAt": "2026-09-08T16:55:41.734Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 100
     },
     {
       "name": "@db-node/sse",
@@ -28034,6 +28082,18 @@
       "score": 48
     },
     {
+      "name": "@inite/club-mcp",
+      "version": "1.3.0",
+      "description": "The INITE Club from a terminal: ask a member agent a question with no account, join as a member, or run as the MCP server your editor connects through.",
+      "license": "MIT",
+      "repository": "https://github.com/inite-ai/inite-club-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40inite%2Fclub-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-06T03:50:39.750Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 84
+    },
+    {
       "name": "@initorigin/io-cli",
       "version": "0.1.1",
       "description": "Give a coding agent a task in your terminal and watch it work. No account, no service — it runs on your machine against whichever model you point it at.",
@@ -31752,6 +31812,18 @@
       "createdAt": "2026-08-12T10:30:36.260Z",
       "discoveredAt": "2026-08-12T10:53:52.353Z",
       "score": 84
+    },
+    {
+      "name": "@kvantjs/jeston",
+      "version": "2.0.0",
+      "description": "React-first full-stack TypeScript framework for SaaS, SQL, authentication, SSR, SSG, streaming, and API routes.",
+      "license": "MIT",
+      "repository": "https://github.com/jeffersoncampos12p-dev/jeston",
+      "npmUrl": "https://www.npmjs.com/package/%40kvantjs%2Fjeston",
+      "category": "testing",
+      "createdAt": "2026-09-09T01:45:39.749Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 91
     },
     {
       "name": "@kvokka/codex-mcp",
@@ -36554,6 +36626,18 @@
       "score": 68
     },
     {
+      "name": "@mlmcps/ml-specs-mcp",
+      "version": "1.0.0",
+      "description": "Read-only MCP server for spec-driven development: estate contract lookup, knowledge-layer checks, and spec inventory over a local repo, plus the toolkit's spec-driven commands served as MCP prompts.",
+      "license": "MIT",
+      "repository": "https://github.com/MLMCPS/ml-claude-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40mlmcps%2Fml-specs-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-09T04:15:05.915Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 85
+    },
+    {
       "name": "@mlmcps/sdd-mcp",
       "version": "0.19.0",
       "description": "Read-only MCP server for spec-driven development: estate contract lookup, knowledge-layer checks, and spec inventory over a local repo.",
@@ -38424,6 +38508,18 @@
       "createdAt": "2026-07-29T05:02:39.388Z",
       "discoveredAt": "2026-07-29T05:14:48.184Z",
       "score": 76
+    },
+    {
+      "name": "@mui-flexy/v9",
+      "version": "2.1.0",
+      "description": "A flexbox convenience component for Material UI v9 Box and Grid with handy shorthand props",
+      "license": "MIT",
+      "repository": "https://github.com/brandonscript/mui-flexy",
+      "npmUrl": "https://www.npmjs.com/package/%40mui-flexy%2Fv9",
+      "category": "frontend",
+      "createdAt": "2026-09-08T20:47:53.721Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 87
     },
     {
       "name": "@mulmocast/beat-editor",
@@ -45926,6 +46022,18 @@
       "score": 86
     },
     {
+      "name": "@rabbit-company/qrcode",
+      "version": "1.0.0",
+      "description": "A simple and lightweight QR code generator with SVG, data URL and terminal output",
+      "license": "MIT",
+      "repository": "https://github.com/Rabbit-Company/QRCode-JS",
+      "npmUrl": "https://www.npmjs.com/package/%40rabbit-company%2Fqrcode",
+      "category": "data",
+      "createdAt": "2026-09-08T19:11:55.186Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 84
+    },
+    {
       "name": "@rabbx/overseer",
       "version": "1.0.0",
       "description": "Universal process overseer and file watcher for Node.js, Bun, and Deno.",
@@ -47304,6 +47412,18 @@
       "createdAt": "2026-08-09T03:49:27.237Z",
       "discoveredAt": "2026-08-09T04:56:39.437Z",
       "score": 78
+    },
+    {
+      "name": "@retorna-tech/retorna-gateway-sdk",
+      "version": "1.0.1",
+      "description": "Retorna Gateway SDK — SDK oficial para integrar Retorna Gateway (B2B API) en aplicaciones Node.js y TypeScript. Autenticación OAuth2 y firma de requests, cotizaciones, órdenes, rutas, billeteras y reportes mediante una interfaz fluida y tipada.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/retorna-tech/retorna-typescript-sdk-v2",
+      "npmUrl": "https://www.npmjs.com/package/%40retorna-tech%2Fretorna-gateway-sdk",
+      "category": "backend",
+      "createdAt": "2026-09-08T18:27:21.160Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 98
     },
     {
       "name": "@revaly/sdk",
@@ -53544,6 +53664,18 @@
       "createdAt": "2026-08-09T17:24:02.000Z",
       "discoveredAt": "2026-08-09T18:28:03.745Z",
       "score": 75
+    },
+    {
+      "name": "@svgforge/svgforge",
+      "version": "2.0.0",
+      "description": "SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, etc.)",
+      "license": "MIT",
+      "repository": "https://github.com/svgforge/svgforge",
+      "npmUrl": "https://www.npmjs.com/package/%40svgforge%2Fsvgforge",
+      "category": "frontend",
+      "createdAt": "2026-09-08T18:00:46.562Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 100
     },
     {
       "name": "@swake/web-swake-sdk",
@@ -60458,6 +60590,18 @@
       "score": 57
     },
     {
+      "name": "@xenos1996/usat",
+      "version": "1.1.0",
+      "description": "Universal Software Audit Template — an open-source, self-adapting audit framework for any project, any stack, any stage",
+      "license": "MIT",
+      "repository": "https://github.com/Er-Sajan-PLG/software-auditing-template",
+      "npmUrl": "https://www.npmjs.com/package/%40xenos1996%2Fusat",
+      "category": "utilities",
+      "createdAt": "2026-09-09T02:50:55.858Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 91
+    },
+    {
       "name": "@xenosystem/agent-cli",
       "version": "0.5.17",
       "description": "XENO AGENT - AI-powered terminal agent CLI. EXPERIMENTAL unsigned build: interactive native terminal ships for linux-x64, linux-arm64, win32-x64, darwin-x64 and darwin-arm64 (opt in with XENO_ALLOW_UNSIGNED_NATIVE=1); win32-arm64 runs in pipe mode only. S",
@@ -60516,6 +60660,18 @@
       "createdAt": "2026-07-26T22:33:37.319Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 64
+    },
+    {
+      "name": "@xmoney/react-native",
+      "version": "1.0.0",
+      "description": "xMoney React Native SDK: thin wrapper over xmoney-ios and xmoney-android PaymentSheet, Payment Element, and wallet buttons.",
+      "license": "MIT",
+      "repository": "https://github.com/xMoney-Payments/xmoney-react-native",
+      "npmUrl": "https://www.npmjs.com/package/%40xmoney%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-09-08T19:25:23.300Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 90
     },
     {
       "name": "@xnkee/n8n-nodes-cobalt",
@@ -65208,6 +65364,18 @@
       "createdAt": "2026-08-06T16:56:10.347Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 88
+    },
+    {
+      "name": "api2client",
+      "version": "1.0.0",
+      "description": "Hey API client that sends generated OpenAPI SDK requests with grab instead of axios or fetch, adding caching, retries, rate limiting, deduplication and mocks.",
+      "license": "MIT",
+      "repository": "https://github.com/vtempest/GRAB-URL",
+      "npmUrl": "https://www.npmjs.com/package/api2client",
+      "category": "backend",
+      "createdAt": "2026-09-09T03:08:43.766Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 91
     },
     {
       "name": "apick-mcp",
@@ -70262,6 +70430,18 @@
       "score": 88
     },
     {
+      "name": "codebuddy-first-bridge",
+      "version": "1.1.7",
+      "description": "codebuddy-first bridge for DeepSeek Harness (DSH): prioritize the local codebuddy CLI in every mode (full DSH control, no prompts), with a rate-limit/network fallback dialog, a live status light (dynamic form + home-level plugin), per-project token usage",
+      "license": "MIT",
+      "repository": "https://github.com/new-256/codebuddy-bridge",
+      "npmUrl": "https://www.npmjs.com/package/codebuddy-first-bridge",
+      "category": "backend",
+      "createdAt": "2026-09-08T11:00:41.093Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 94
+    },
+    {
       "name": "codefabric",
       "version": "1.0.0",
       "description": "An interactive web component that renders text as a severable 2D physics curtain",
@@ -73154,6 +73334,18 @@
       "score": 76
     },
     {
+      "name": "design-taste-mcp",
+      "version": "1.0.1",
+      "description": "MCP server giving AI coding agents design taste across the UI-building workflow: rubrics, static checks, component/style registries, motion presets, render critique, and staged 3D scene guidance.",
+      "license": "MIT",
+      "repository": "https://github.com/uppalasrichaitanya/Design-Taste",
+      "npmUrl": "https://www.npmjs.com/package/design-taste-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-08T18:35:23.101Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 99
+    },
+    {
       "name": "designesy-score",
       "version": "0.4.0",
       "description": "Score any URL against the Designesy design-system contract — 40 deterministic checks, one grade, no vibe-tax. Zero dependencies.",
@@ -73284,6 +73476,18 @@
       "createdAt": "2026-08-23T11:52:47.600Z",
       "discoveredAt": "2026-08-23T12:54:32.970Z",
       "score": 94
+    },
+    {
+      "name": "devault-image-prompts",
+      "version": "1.0.0",
+      "description": "2,383 GPT-Image-2.5 prompts, each a complete design specification — exact hex palette, type scale, spacing, depth and a named signature detail.",
+      "license": "MIT",
+      "repository": "https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5",
+      "npmUrl": "https://www.npmjs.com/package/devault-image-prompts",
+      "category": "devops",
+      "createdAt": "2026-09-08T22:23:09.138Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 90
     },
     {
       "name": "devecocli-mcp",
@@ -73812,6 +74016,18 @@
       "createdAt": "2026-08-05T17:07:13.630Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 93
+    },
+    {
+      "name": "domocracy",
+      "version": "1.1.0",
+      "description": "Children that change only through named operations, delegated handlers, and actions the ancestors decide the meaning of.",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/HugoDaniel/domocracy",
+      "npmUrl": "https://www.npmjs.com/package/domocracy",
+      "category": "frontend",
+      "createdAt": "2026-09-08T14:44:36.724Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 84
     },
     {
       "name": "dompruner-mcp",
@@ -77894,6 +78110,18 @@
       "score": 90
     },
     {
+      "name": "evlek-mcp",
+      "version": "2.1.0",
+      "description": "Evlek — Northern Cyprus (KKTC/TRNC) property MCP server. Local stdio server backed by the live Evlek data API.",
+      "license": "MIT",
+      "repository": "https://github.com/Evlek/evlek-mcp",
+      "npmUrl": "https://www.npmjs.com/package/evlek-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-08T21:36:25.289Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 87
+    },
+    {
       "name": "evolink-minimax-h3-skill",
       "version": "1.0.0",
       "description": "MiniMax H3 Text-to-Video, Image-to-Video, and Reference-to-Video API examples plus an installable EvoLink agent skill.",
@@ -81144,6 +81372,18 @@
       "createdAt": "2026-07-25T19:04:45.845Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 58
+    },
+    {
+      "name": "guardskill",
+      "version": "0.4.0",
+      "description": "Read-only scanner for the git settings that let a repository run code in a coding agent (Claude Code, Codex, Cursor, Copilot, Goose): fsmonitor, filters, hooks, aliases, includes, bare repositories in the tree. No dependencies, no network.",
+      "license": "MIT",
+      "repository": "https://github.com/soemoescode/guardskill",
+      "npmUrl": "https://www.npmjs.com/package/guardskill",
+      "category": "cli",
+      "createdAt": "2026-09-08T23:35:38.890Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 90
     },
     {
       "name": "guidehalo",
@@ -94874,6 +95114,18 @@
       "score": 87
     },
     {
+      "name": "ops-patent-search",
+      "version": "1.0.1",
+      "description": "Unofficial MCP server for exploring patents via the EPO Open Patent Services (OPS) API. Not affiliated with the EPO. An exploratory tool for Claude Desktop and other MCP clients — not a substitute for specialised patent search platforms.",
+      "license": "MIT",
+      "repository": "https://github.com/navisbio/OPS-patent-search-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ops-patent-search",
+      "category": "backend",
+      "createdAt": "2026-09-08T20:37:18.705Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 88
+    },
+    {
       "name": "opticore-postgres",
       "version": "1.0.0",
       "description": "opticore postgres driver database",
@@ -98736,6 +98988,18 @@
       "createdAt": "2026-08-07T21:48:47.286Z",
       "discoveredAt": "2026-08-07T22:26:27.657Z",
       "score": 58
+    },
+    {
+      "name": "portfolio-kanban-generator",
+      "version": "1.1.0",
+      "description": "Self-contained per-project implementation-Kanban board generator with a CI drift-gate (--check). Derives every ticket's status from the backlog - via the dependency graph (auth-table) or the authored status (risk-block); zero runtime dependencies (vanilla",
+      "license": "MIT",
+      "repository": "https://github.com/NeoCognitus70/portfolio-prompts",
+      "npmUrl": "https://www.npmjs.com/package/portfolio-kanban-generator",
+      "category": "testing",
+      "createdAt": "2026-09-07T14:30:41.734Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 89
     },
     {
       "name": "portfoliq-mcp",
@@ -106778,6 +107042,18 @@
       "score": 94
     },
     {
+      "name": "storekit-cloudflare-workers",
+      "version": "0.2.0",
+      "description": "Server-side Apple StoreKit 2 subscription validation and entitlements for Cloudflare Workers and D1. Verifies Apple-signed JWS transactions against the App Store Server API, resolves trials, billing grace periods, refunds and lifetime unlocks, and handles",
+      "license": "MIT",
+      "repository": "https://github.com/burakdede/storekit-cloudflare-workers",
+      "npmUrl": "https://www.npmjs.com/package/storekit-cloudflare-workers",
+      "category": "backend",
+      "createdAt": "2026-08-22T20:41:12.307Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 90
+    },
+    {
       "name": "storepilot-mcp",
       "version": "1.1.1",
       "description": "StorePilot — MCP release orchestration for App Store Connect and Google Play (snapshot, blockers, dry-run intents)",
@@ -106860,6 +107136,18 @@
       "createdAt": "2026-08-11T09:06:45.114Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 66
+    },
+    {
+      "name": "strapi-plugin-tanstack-ai",
+      "version": "1.0.0",
+      "description": "Cross-type content tools for Strapi's MCP server, and an optional in-admin chat",
+      "license": "MIT",
+      "repository": "https://github.com/PaulBratslavsky/strapi-plugin-tanstack-ai",
+      "npmUrl": "https://www.npmjs.com/package/strapi-plugin-tanstack-ai",
+      "category": "backend",
+      "createdAt": "2026-09-08T19:57:08.728Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
+      "score": 87
     },
     {
       "name": "strapi-plugin-youtube-transcripts",
@@ -108383,6 +108671,18 @@
       "category": "utilities",
       "createdAt": "2026-08-04T09:42:56.045Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
+      "score": 86
+    },
+    {
+      "name": "terra-sphexn",
+      "version": "1.0.0",
+      "description": "SPHEXN — Deterministic Governance Suite, Continuous Verification & Structural Armor for the Terra Ecosystem ($0 Infrastructure)",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/sphexn",
+      "npmUrl": "https://www.npmjs.com/package/terra-sphexn",
+      "category": "devops",
+      "createdAt": "2026-09-08T20:21:56.496Z",
+      "discoveredAt": "2026-09-09T04:23:58.819Z",
       "score": 86
     },
     {
