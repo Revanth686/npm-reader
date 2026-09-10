@@ -2546,6 +2546,18 @@
       "score": 92
     },
     {
+      "name": "@ajay.j_dev/mcpmg",
+      "version": "1.0.0",
+      "description": "Unified CLI & TUI tool for monitoring, managing, diagnosing, and auto-fixing Model Context Protocol (MCP) servers across all AI hosts.",
+      "license": "MIT",
+      "repository": "https://github.com/AJAYMYTH/MCPmg",
+      "npmUrl": "https://www.npmjs.com/package/%40ajay.j_dev%2Fmcpmg",
+      "category": "backend",
+      "createdAt": "2026-09-10T10:37:13.929Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 93
+    },
+    {
       "name": "@ajentify/sdk",
       "version": "0.1.0",
       "description": "Official TypeScript SDK for the Ajentify API. A clean, uniform wrapper over agents, contexts, tools, structured responses, data windows, API keys, JSON documents and models with Zod-first schemas.",
@@ -10022,6 +10034,18 @@
       "score": 71
     },
     {
+      "name": "@cevelas/mcp-sqlserver",
+      "version": "3.0.0",
+      "description": "MCP server for DBAs running dozens of SQL Server instances: grouped connections, plans, indexes",
+      "license": "MIT",
+      "repository": "https://github.com/cvelasquez/mcp-sqlserver",
+      "npmUrl": "https://www.npmjs.com/package/%40cevelas%2Fmcp-sqlserver",
+      "category": "backend",
+      "createdAt": "2026-09-10T14:45:04.013Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 89
+    },
+    {
       "name": "@cexy/wonfca",
       "version": "1.0.1",
       "description": "Unofficial Facebook Chat API for Node.js - Interact with Facebook Messenger programmatically",
@@ -15674,6 +15698,18 @@
       "score": 68
     },
     {
+      "name": "@dryinov8/zumbopay-ts",
+      "version": "1.0.0",
+      "description": "SDK TypeScript/JavaScript oficial e componentes React para o gateway ZumboPay em Moçambique (M-Pesa, e-Mola, mKesh e Cartões)",
+      "license": "MIT",
+      "repository": "https://github.com/salvamatavele/zumbopay-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40dryinov8%2Fzumbopay-ts",
+      "category": "frontend",
+      "createdAt": "2026-09-10T15:55:34.879Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 92
+    },
+    {
       "name": "@dsh-1024store/cli",
       "version": "0.1.0",
       "description": "DSH 1024Store's tracked, privacy-conscious plugin installer for DeepSeek Harness",
@@ -17532,6 +17568,18 @@
       "createdAt": "2026-08-10T06:27:41.313Z",
       "discoveredAt": "2026-08-10T07:14:37.064Z",
       "score": 66
+    },
+    {
+      "name": "@etherscan/cli",
+      "version": "1.1.0",
+      "description": "Etherscan CLI — the official command-line interface (CLI) for the Etherscan API V2. Query EVM blockchain data, inspect transactions, and verify smart contracts.",
+      "license": "MIT",
+      "repository": "https://github.com/etherscan/etherscan-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40etherscan%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-09-10T07:43:30.285Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 96
     },
     {
       "name": "@evalverde/static-analysis-standards",
@@ -24710,6 +24758,18 @@
       "score": 74
     },
     {
+      "name": "@golobic/ocra",
+      "version": "1.0.0",
+      "description": "Zero-dependency RFC 6238 TOTP, RFC 4226 HOTP and RFC 6287 OCRA for Node, Deno, Bun, browsers and edge runtimes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/golobitch/ocra",
+      "npmUrl": "https://www.npmjs.com/package/%40golobic%2Focra",
+      "category": "frontend",
+      "createdAt": "2026-09-10T09:21:34.909Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 91
+    },
+    {
       "name": "@gomzkov/agent-context-test",
       "version": "0.1.0",
       "description": "Test whether Codex and Claude can find the instructions and skills a task needs.",
@@ -25754,6 +25814,18 @@
       "score": 96
     },
     {
+      "name": "@hasdata/bing-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Bing search through HasData's hosted API: organic results, the ad block where Bing shows one, and the Copilot answer, with geo, market and language targeting. No Azure subscription. 1,000 free credits every month.",
+      "license": "MIT",
+      "repository": "https://github.com/HasData/bing-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40hasdata%2Fbing-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-10T05:28:14.721Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 98
+    },
+    {
       "name": "@hasdata/booking-mcp",
       "version": "1.0.0",
       "description": "MCP server for Booking.com through HasData's hosted API: search stays by destination and dates, and read a single property in full. No Booking.com account.",
@@ -25776,6 +25848,18 @@
       "createdAt": "2026-08-24T07:50:21.268Z",
       "discoveredAt": "2026-08-24T13:04:43.577Z",
       "score": 95
+    },
+    {
+      "name": "@hasdata/facebook-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Facebook through HasData's hosted API: a public page or profile by handle with likes, followers, contact details and the post feed with reactions, paged three posts at a time. No Meta developer app. 1,000 free credits every month.",
+      "license": "MIT",
+      "repository": "https://github.com/HasData/facebook-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40hasdata%2Ffacebook-mcp",
+      "category": "frontend",
+      "createdAt": "2026-09-10T11:34:33.512Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 98
     },
     {
       "name": "@hasdata/glassdoor-mcp",
@@ -25802,6 +25886,18 @@
       "score": 93
     },
     {
+      "name": "@hasdata/google-images-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Google Images through HasData's hosted API: image search with size, colour and type filters, returning 100 results a call with the source page and the full-resolution URL. 1,000 free credits every month.",
+      "license": "MIT",
+      "repository": "https://github.com/HasData/google-images-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40hasdata%2Fgoogle-images-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-10T05:31:48.456Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 98
+    },
+    {
       "name": "@hasdata/google-maps-mcp",
       "version": "1.0.0",
       "description": "MCP server for Google Maps through HasData's hosted API: place search, place details, reviews, photos, posts and contributor history. No Google Cloud project.",
@@ -25812,6 +25908,18 @@
       "createdAt": "2026-08-24T07:43:07.197Z",
       "discoveredAt": "2026-08-24T13:04:43.577Z",
       "score": 93
+    },
+    {
+      "name": "@hasdata/google-scholar-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Google Scholar through HasData's hosted API: search papers with author and source helpers, year ranges, cited-by and all-versions lookups, plus citation formats and export links. 1,000 free credits every month.",
+      "license": "MIT",
+      "repository": "https://github.com/HasData/google-scholar-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40hasdata%2Fgoogle-scholar-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-10T05:35:43.107Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 98
     },
     {
       "name": "@hasdata/google-search-mcp",
@@ -25908,6 +26016,18 @@
       "createdAt": "2026-09-09T14:37:57.044Z",
       "discoveredAt": "2026-09-09T16:27:25.877Z",
       "score": 98
+    },
+    {
+      "name": "@hasdata/web-scraping-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for HasData's Web Scraping API: fetch any public URL through managed proxies with optional JS rendering, geo targeting, wait conditions and extraction rules. 1,000 free credits every month.",
+      "license": "MIT",
+      "repository": "https://github.com/HasData/web-scraping-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40hasdata%2Fweb-scraping-mcp",
+      "category": "frontend",
+      "createdAt": "2026-09-10T05:41:11.270Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 96
     },
     {
       "name": "@hasdata/yellowpages-mcp",
@@ -32138,6 +32258,18 @@
       "score": 92
     },
     {
+      "name": "@lacspace/convert",
+      "version": "1.0.0",
+      "description": "The data-conversion hub of the Lacspace Sheets Kit — convert tabular and structured data between JSON, NDJSON, CSV, TSV, XLSX, YAML, TOML, Markdown, HTML and SQL in one call. Format sniffing, type inference, flatten/unflatten, column select/rename, stream",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fconvert",
+      "category": "data",
+      "createdAt": "2026-09-10T11:10:56.123Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 97
+    },
+    {
       "name": "@lacspace/datetime",
       "version": "1.1.0",
       "description": "Immutable date-time toolkit — arithmetic, start/end of unit, diff & breakdown, comparison, relative-time, business days, calendar grid, token format/parse and ISO. Zero-dependency, isomorphic, a tiny date-fns/dayjs.",
@@ -38004,6 +38136,18 @@
       "createdAt": "2026-07-27T18:15:28.577Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 77
+    },
+    {
+      "name": "@monem08/promptrelay",
+      "version": "1.1.1",
+      "description": "A provider-agnostic system-prompt gateway for OpenCode with custom providers, reasoning, streaming, and tool support.",
+      "license": "MIT",
+      "repository": "https://github.com/Monem08/promptrelay",
+      "npmUrl": "https://www.npmjs.com/package/%40monem08%2Fpromptrelay",
+      "category": "cli",
+      "createdAt": "2026-09-09T16:27:00.679Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 91
     },
     {
       "name": "@moneva/mcp",
@@ -63398,6 +63542,18 @@
       "score": 78
     },
     {
+      "name": "aetherfy-vectors",
+      "version": "1.1.0",
+      "description": "JavaScript/TypeScript SDK for Aetherfy Vectors - Global vector database with automatic replication and low latency worldwide",
+      "license": "MIT",
+      "repository": "https://github.com/l-td/aetherfy-vectors-js-sdk",
+      "npmUrl": "https://www.npmjs.com/package/aetherfy-vectors",
+      "category": "data",
+      "createdAt": "2026-09-10T09:00:56.051Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 88
+    },
+    {
       "name": "affixio",
       "version": "1.1.0",
       "description": "AffixIO Node.js SDK. Licence-only local proving: HMAC by default, optional UltraHonk, every proof ML-DSA-65 signed, tamper-evident spend journal, HSM profiles, QR and barcode carriers, and data adapters. Affix networking is limited to an API key licence c",
@@ -68690,6 +68846,18 @@
       "score": 83
     },
     {
+      "name": "capmonster-mcp-patchright",
+      "version": "1.1.0",
+      "description": "Fork of mcp-patchright that adds a per-call world:'main' option to browser_evaluate / browser_run_code_unsafe, so page-defined window globals are visible and callable. Defaults to Patchright's isolated stealth world; opt into main only when you need it. E",
+      "license": "MIT",
+      "repository": "https://github.com/CapMonsterCloud/capmonster-mcp-patchright",
+      "npmUrl": "https://www.npmjs.com/package/capmonster-mcp-patchright",
+      "category": "testing",
+      "createdAt": "2026-09-10T11:19:12.832Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 88
+    },
+    {
       "name": "capscope",
       "version": "0.2.1",
       "description": "Capability auditor for AI agents. Scans tool definitions from LangChain, OpenAI, MCP and more — detects dangerous capability combinations before they reach production.",
@@ -73466,6 +73634,18 @@
       "score": 87
     },
     {
+      "name": "defuss-morph",
+      "version": "0.1.0",
+      "description": "The defuss DOM morphing algorithm is a standalone package: morph an HTML string or JSX object into an existing DOM tree using native APIs and smart DOM diffing. Key/id-aware node matching, move-not-replace, in-place attribute patching, form-state preserva",
+      "license": "MIT",
+      "repository": "https://github.com/kyr0/defuss",
+      "npmUrl": "https://www.npmjs.com/package/defuss-morph",
+      "category": "frontend",
+      "createdAt": "2026-09-10T12:25:16.574Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 90
+    },
+    {
       "name": "deja-dst",
       "version": "0.1.0",
       "description": "Deterministic simulation testing for Node/TypeScript backends",
@@ -75566,6 +75746,18 @@
       "score": 60
     },
     {
+      "name": "dsh-fuse-english",
+      "version": "1.2.1",
+      "description": "Fuse v1.2.1 — an all-in-one UI design + code style plugin (the upgraded ui-aesthetics skill): design tokens in theme.json (with the brand color as the single source of truth) + code style in code-style.json + dsh-fuse-english fence page-level rendering +",
+      "license": "MIT",
+      "repository": "https://github.com/My-DSH-plugins/dsh-fuse",
+      "npmUrl": "https://www.npmjs.com/package/dsh-fuse-english",
+      "category": "utilities",
+      "createdAt": "2026-09-10T07:28:39.858Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 98
+    },
+    {
       "name": "dsh-git-credentials",
       "version": "0.3.1",
       "description": "Out-of-tree dsh plugin: GitLab, GitHub, Gitee, Gitea, and Bitbucket tokens stay out of the model context, stored encrypted (AES-256-GCM) in a plugin-owned file; the model calls forge API tools on demand, and the web settings page manages sites and tokens.",
@@ -76752,6 +76944,18 @@
       "createdAt": "2026-08-14T11:27:06.206Z",
       "discoveredAt": "2026-08-14T18:42:13.168Z",
       "score": 64
+    },
+    {
+      "name": "dsh-sub-cli",
+      "version": "0.1.1",
+      "description": "Unified management and invocation of external Agent CLIs in DSH, fully isolated from the user's native installs; preset Provider, model, reasoning effort, and permissions per CLI, callable directly or like native subagents.",
+      "license": "MIT",
+      "repository": "https://github.com/dingminhua/dsh-sub-cli",
+      "npmUrl": "https://www.npmjs.com/package/dsh-sub-cli",
+      "category": "cli",
+      "createdAt": "2026-09-04T20:24:38.173Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 88
     },
     {
       "name": "dsh-talk",
@@ -79404,6 +79608,18 @@
       "createdAt": "2026-07-26T22:58:52.041Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 71
+    },
+    {
+      "name": "fenceline",
+      "version": "0.4.1",
+      "description": "Hooks that deny, not prompts that hope. One command makes any repo safe and productive for AI coding agents: parsed shell guards, a stop hook that runs your checks, layered docs, safe-lists, fragile-zone detection. Cursor, Claude Code, Codex, Gemini CLI,",
+      "license": "MIT",
+      "repository": "https://github.com/g0007b1/fenceline",
+      "npmUrl": "https://www.npmjs.com/package/fenceline",
+      "category": "cli",
+      "createdAt": "2026-09-10T07:30:24.528Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 90
     },
     {
       "name": "feral-fur",
@@ -84698,6 +84914,18 @@
       "score": 90
     },
     {
+      "name": "jk-svg-sprite",
+      "version": "1.0.0",
+      "description": "Takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types, along with suitable stylesheet resources (CSS, Sass, LESS, Stylus).",
+      "license": "MIT",
+      "repository": "https://github.com/sayjin93/jk-svg-sprite",
+      "npmUrl": "https://www.npmjs.com/package/jk-svg-sprite",
+      "category": "frontend",
+      "createdAt": "2026-09-10T10:02:28.874Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 96
+    },
+    {
       "name": "jl-optimize-images",
       "version": "1.0.1",
       "description": "Pure TypeScript image compression library with zero framework dependencies",
@@ -85919,6 +86147,18 @@
       "category": "build-tools",
       "createdAt": "2026-09-06T17:00:13.001Z",
       "discoveredAt": "2026-09-07T04:17:48.772Z",
+      "score": 90
+    },
+    {
+      "name": "lacspace-excel",
+      "version": "0.1.0",
+      "description": "Excel Swiss-army knife — convert JSON/CSV to .xlsx and back, and generate ready-to-fill business templates (invoice, inventory, payroll, loan schedule, grade book…) with live formulas. Built on Lacspace's zero-dependency xlsx, csv and formula engines.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/lacspace-excel",
+      "category": "data",
+      "createdAt": "2026-09-10T11:31:36.892Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
       "score": 90
     },
     {
@@ -96794,6 +97034,18 @@
       "score": 88
     },
     {
+      "name": "paysera-payment",
+      "version": "1.0.1",
+      "description": "Unofficial Node.js client for Paysera payment gateway with OAuth2 authentication, order creation, and payment link generation",
+      "license": "MIT",
+      "repository": "https://github.com/kasovskis/paysera-payment",
+      "npmUrl": "https://www.npmjs.com/package/paysera-payment",
+      "category": "cli",
+      "createdAt": "2026-09-10T14:03:05.351Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 89
+    },
+    {
       "name": "pbi-lineage-lenz",
       "version": "1.0.1",
       "description": "Find the lineage, understand the model, document both. Trace Power BI columns from physical source to report visual, generate documentation that cannot go stale, build a self-contained handoff file, and gate CI on broken references.",
@@ -99734,6 +99986,18 @@
       "score": 100
     },
     {
+      "name": "potetos-for-everyone",
+      "version": "0.1.0",
+      "description": "Universal pstack and Poteto Mode engineering workflow for Claude Code, Cursor, Codex, Gemini, and all AI coding agents. Drop-in pstack-claude alternative with native plugin support.",
+      "license": "MIT",
+      "repository": "https://github.com/TheOnlyFusionCube/potetos-for-everyone",
+      "npmUrl": "https://www.npmjs.com/package/potetos-for-everyone",
+      "category": "testing",
+      "createdAt": "2026-09-10T05:54:11.884Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 88
+    },
+    {
       "name": "pouch-rwa",
       "version": "0.1.0",
       "description": "pouch: an RWA trading wallet for AI agents on Robinhood Chain. SDK + MCP server with built-in guardrails for autonomous tokenized-stock trading.",
@@ -99876,6 +100140,18 @@
       "createdAt": "2026-08-12T09:18:11.168Z",
       "discoveredAt": "2026-08-12T10:53:52.353Z",
       "score": 100
+    },
+    {
+      "name": "predictive-debugger",
+      "version": "0.8.0",
+      "description": "Predicts where code is likely to fail. Ships as a VS Code extension and as an MCP server that coding agents can call while reviewing code. Auth is borrowed from the Claude Code, Codex, or GitHub Copilot CLI you are already signed in to.",
+      "license": "MIT",
+      "repository": "https://github.com/SpeedosDK/predictive-debugger",
+      "npmUrl": "https://www.npmjs.com/package/predictive-debugger",
+      "category": "backend",
+      "createdAt": "2026-09-10T13:43:15.177Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 90
     },
     {
       "name": "prepot-cli",
@@ -105890,6 +106166,18 @@
       "score": 100
     },
     {
+      "name": "siteready",
+      "version": "1.7.0",
+      "description": "Scan a website with agent-readiness scanners (afdocs, Vercel Is Agentic, Ora), get a unified scorecard, auto-fix supported issues (Astro + Starlight, or plain Astro, + Cloudflare Pages), then re-scan and diff against the baseline -- fully local, no live d",
+      "license": "MIT",
+      "repository": "https://github.com/dkdev24/siteready",
+      "npmUrl": "https://www.npmjs.com/package/siteready",
+      "category": "cli",
+      "createdAt": "2026-09-10T14:11:11.065Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 100
+    },
+    {
       "name": "size-tape-calculator",
       "version": "1.1.0",
       "description": "Privacy-first React clothing size calculator that estimates waist and apparel size from front and side photos in the browser.",
@@ -106728,6 +107016,18 @@
       "createdAt": "2026-08-01T20:53:43.532Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 84
+    },
+    {
+      "name": "sourcecheck",
+      "version": "0.1.1",
+      "description": "Check that every claim an LLM makes points at a real passage in your sources. Locates quotes exactly, after normalization, or fuzzily with offsets; grades claims supported, partial or unsupported; verifies extracted fields against their evidence; optional",
+      "license": "MIT",
+      "repository": "https://github.com/qwertymuzaffar/sourcecheck",
+      "npmUrl": "https://www.npmjs.com/package/sourcecheck",
+      "category": "data",
+      "createdAt": "2026-09-10T05:17:09.808Z",
+      "discoveredAt": "2026-09-10T16:16:34.181Z",
+      "score": 90
     },
     {
       "name": "sourcery-eval",

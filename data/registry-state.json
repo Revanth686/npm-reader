@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 129765378,
-  "lastRunAt": "2026-09-10T04:21:18.603Z",
+  "lastSequence": 129894910,
+  "lastRunAt": "2026-09-10T16:16:34.181Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@hy-sde-org/dsh-memory-extraction",
+      "name": "@rohansguliani/mux",
+      "attempts": 1
+    },
+    {
+      "name": "@astermd-hq/sdk",
       "attempts": 1
     }
   ]
