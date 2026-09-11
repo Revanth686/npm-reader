@@ -770,6 +770,18 @@
       "score": 67
     },
     {
+      "name": "@aaronandwork/dsh-evidence-gate",
+      "version": "0.2.0",
+      "description": "Evidence-first conclusion gate for DeepSeek Harness (DSH): 3-tier evidence hierarchy policy, a model tool that verdicts claims (VERIFIED/REFERENCED/UNVERIFIED), durable per-session tool-activity cross-checking (arguments + output anchors, restart-survivin",
+      "license": "MIT",
+      "repository": "https://github.com/AaronandWork/dsh-evidence-gate",
+      "npmUrl": "https://www.npmjs.com/package/%40aaronandwork%2Fdsh-evidence-gate",
+      "category": "devops",
+      "createdAt": "2026-09-11T10:15:18.472Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 88
+    },
+    {
       "name": "@aaroncarry/dsh-plugin-swarm",
       "version": "1.0.1",
       "description": "Master/worker multi-agent orchestration plugin for DeepSeek Harness: one master agent fans a goal out to parallel worker subagents with per-tier budgets, optional review-with-redo, and a final synthesis step.",
@@ -1452,6 +1464,18 @@
       "createdAt": "2026-08-05T00:28:46.986Z",
       "discoveredAt": "2026-08-05T01:53:39.845Z",
       "score": 63
+    },
+    {
+      "name": "@aegisjs/engine",
+      "version": "0.7.1",
+      "description": "Zero-build reactive UI engine for server-rendered pages: your server renders the HTML, Aegis makes parts of it alive. Signals, islands, html templates, an HTTP-aware cache, forms and a router in one ES module with no dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/bauratynov/aegis",
+      "npmUrl": "https://www.npmjs.com/package/%40aegisjs%2Fengine",
+      "category": "frontend",
+      "createdAt": "2026-09-11T13:30:04.780Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
     },
     {
       "name": "@aetherdz/aethercode",
@@ -32678,6 +32702,30 @@
       "score": 90
     },
     {
+      "name": "@language-lit/material3-expressive-a2ui",
+      "version": "0.1.0",
+      "description": "Material 3 Expressive renderer for Google's A2UI protocol — a React catalog that maps every A2UI basic-catalog component onto Material 3 Expressive, plus a surface renderer and a message-processor hook.",
+      "license": "MIT",
+      "repository": "https://github.com/Language-Lit/material3-expressive-a2ui",
+      "npmUrl": "https://www.npmjs.com/package/%40language-lit%2Fmaterial3-expressive-a2ui",
+      "category": "frontend",
+      "createdAt": "2026-09-11T16:12:34.081Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
+    },
+    {
+      "name": "@language-lit/material3-expressive-ag-ui",
+      "version": "0.2.0",
+      "description": "Material 3 Expressive chat and agent components for the AG-UI protocol — a React-free event projection, an agent binding hook, and conformant M3 surfaces for streaming text, reasoning, tool calls, and activity.",
+      "license": "MIT",
+      "repository": "https://github.com/Language-Lit/material3-expressive-ag-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40language-lit%2Fmaterial3-expressive-ag-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-10T13:13:15.892Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
+    },
+    {
       "name": "@lannuttia/opencode-harness",
       "version": "1.0.0",
       "description": "Minimal wrapper around opencode-conductor-plugin for context-driven development",
@@ -32940,6 +32988,18 @@
       "createdAt": "2026-07-30T05:40:01.998Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 74
+    },
+    {
+      "name": "@legios/quartermaster",
+      "version": "0.1.3",
+      "description": "Cuánta cuota te queda en TODOS los perfiles de Claude Code de la máquina, más Codex y los proveedores de opencode. Sin red y sin credenciales: el número sale del cache que Claude Code deja en disco.",
+      "license": "MIT",
+      "repository": "https://github.com/legiosai/quartermaster",
+      "npmUrl": "https://www.npmjs.com/package/%40legios%2Fquartermaster",
+      "category": "cli",
+      "createdAt": "2026-09-11T15:43:49.008Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 89
     },
     {
       "name": "@leitwerk-dev/local-repo-change",
@@ -35820,6 +35880,18 @@
       "createdAt": "2026-08-12T15:16:09.040Z",
       "discoveredAt": "2026-08-12T16:48:53.648Z",
       "score": 78
+    },
+    {
+      "name": "@mcp-abap-adt/lib",
+      "version": "10.0.1",
+      "description": "ADT tool handlers and an embeddable MCP server for SAP ABAP. The standalone server is @mcp-abap-adt/core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/fr0ster/mcp-abap-adt",
+      "npmUrl": "https://www.npmjs.com/package/%40mcp-abap-adt%2Flib",
+      "category": "backend",
+      "createdAt": "2026-09-11T07:37:27.652Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
     },
     {
       "name": "@mcpip/sdk",
@@ -50762,6 +50834,18 @@
       "score": 39
     },
     {
+      "name": "@sharkpush/ts",
+      "version": "0.1.0",
+      "description": "Official TypeScript SDK for the SharkPush REST API. Supports identities, devices, events, the objective-based communicate() API, and real-time SSE/WebSocket subscriptions in Node.js and modern browsers.",
+      "license": "MIT",
+      "repository": "https://github.com/Roy-Wanyoike/sharkpush",
+      "npmUrl": "https://www.npmjs.com/package/%40sharkpush%2Fts",
+      "category": "frontend",
+      "createdAt": "2026-09-11T13:25:02.258Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 89
+    },
+    {
       "name": "@sharpee/branch-tester",
       "version": "4.6.0",
       "description": "Tree-native transcript testing for Sharpee: a transcript names its parent, every test is a branch, and a run covers every root-to-leaf path (ADR-302)",
@@ -51840,6 +51924,18 @@
       "createdAt": "2026-08-11T00:19:27.658Z",
       "discoveredAt": "2026-08-11T01:05:34.741Z",
       "score": 74
+    },
+    {
+      "name": "@smai-kit/dsh-smkit",
+      "version": "1.0.0",
+      "description": "MCP server manager for DeepSeek Harness: Settings → MCP page, OAuth (PKCE + dynamic client registration) or static-token auth, local stdio servers, workspace isolation, and an opt-in on-demand tool broker.",
+      "license": "MIT",
+      "repository": "https://github.com/smk-h/dsh-smkit",
+      "npmUrl": "https://www.npmjs.com/package/%40smai-kit%2Fdsh-smkit",
+      "category": "backend",
+      "createdAt": "2026-09-11T01:13:19.432Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
     },
     {
       "name": "@smallthinkingmachines/video-context-mcp",
@@ -53448,6 +53544,18 @@
       "createdAt": "2026-08-11T18:17:30.933Z",
       "discoveredAt": "2026-08-11T18:50:57.847Z",
       "score": 91
+    },
+    {
+      "name": "@stephanflug/node-red-ebst-remote-function",
+      "version": "1.4.0",
+      "description": "Dynamischer Node-RED Node für zentral verwaltete EBST Remote-Funktionen mit automatischen Updates, dynamischen Einstellungen, Datenpunktbeschreibung und integriertem HTTP-Client.",
+      "license": "MIT",
+      "repository": "https://github.com/stephanflug/Bibliothek_Node_Red_Code",
+      "npmUrl": "https://www.npmjs.com/package/%40stephanflug%2Fnode-red-ebst-remote-function",
+      "category": "backend",
+      "createdAt": "2026-09-11T05:22:45.630Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 93
     },
     {
       "name": "@stetcms/analytics",
@@ -58272,6 +58380,18 @@
       "createdAt": "2026-07-28T15:11:16.877Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 85
+    },
+    {
+      "name": "@valipireddykowshik/mcpdx",
+      "version": "0.1.1",
+      "description": "Opinionated completeness auditor and runtime linter for Model Context Protocol (MCP) servers. Audits schemas, error boundaries, latency, and observability (Sentry/OTel) with automated AST codemod fixes.",
+      "license": "MIT",
+      "repository": "https://github.com/kowshik3383/mcpdx",
+      "npmUrl": "https://www.npmjs.com/package/%40valipireddykowshik%2Fmcpdx",
+      "category": "backend",
+      "createdAt": "2026-09-11T06:57:50.465Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
     },
     {
       "name": "@vampaz/vite-plugin-local-tls",
@@ -66794,6 +66914,18 @@
       "score": 81
     },
     {
+      "name": "avatarstack",
+      "version": "1.0.1",
+      "description": "Pluggable, layered avatar generator — stack interchangeable parts from community-contributed schemes, crop to square/rounded/circle, and share any avatar as a short code.",
+      "license": "MIT",
+      "repository": "https://github.com/BajaXX/avatarstack",
+      "npmUrl": "https://www.npmjs.com/package/avatarstack",
+      "category": "frontend",
+      "createdAt": "2026-09-11T06:06:46.174Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 97
+    },
+    {
       "name": "averi",
       "version": "0.1.0",
       "description": "MCP server for verifying mobile app changes on iOS Simulators and Android Emulators",
@@ -67298,6 +67430,18 @@
       "score": 84
     },
     {
+      "name": "baton-agents",
+      "version": "0.3.0",
+      "description": "baton claude|codex|agy: your interactive coding agent with a board alongside, usage-limit tracking, a live context handoff bundle, and a hand-off to the next agent in the same terminal when the limit hits.",
+      "license": "MIT",
+      "repository": "https://github.com/ucsandman/baton",
+      "npmUrl": "https://www.npmjs.com/package/baton-agents",
+      "category": "cli",
+      "createdAt": "2026-09-11T07:04:24.442Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
+    },
+    {
       "name": "bazg-exchange-rate",
       "version": "1.1.0",
       "description": "Official Swiss Federal Office for Customs and Border Security (Switzerland) daily exchange rates — 72 currencies vs CHF, history since 2000. Zero-dependency Node.js/TypeScript client.",
@@ -67536,6 +67680,18 @@
       "createdAt": "2026-08-08T07:04:24.143Z",
       "discoveredAt": "2026-08-08T07:32:51.663Z",
       "score": 57
+    },
+    {
+      "name": "benchwright",
+      "version": "1.1.0",
+      "description": "Benchmark anything an agent loads — skills, rules, prompts, MCP wiring — through headless agent-CLI runs: trigger / functional / ablation layers, deterministic graders, mock services, resumable reports.",
+      "license": "MIT",
+      "repository": "https://github.com/igoregoshin/benchwright",
+      "npmUrl": "https://www.npmjs.com/package/benchwright",
+      "category": "cli",
+      "createdAt": "2026-09-11T12:39:51.576Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 98
     },
     {
       "name": "benni",
@@ -68172,6 +68328,18 @@
       "createdAt": "2026-08-08T10:55:35.057Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 57
+    },
+    {
+      "name": "bracket-i18n",
+      "version": "1.7.1",
+      "description": "AI-assisted i18n for TypeScript: write [[text]] inline, get IDs and optional machine drafts, then review via CSV/pending/lock — plus [[--n]] / [[--g]] / [[--n --g]] and plural/gender resolution.",
+      "license": "MIT",
+      "repository": "https://github.com/creathree/bracket-i18n",
+      "npmUrl": "https://www.npmjs.com/package/bracket-i18n",
+      "category": "frontend",
+      "createdAt": "2026-09-11T12:55:56.317Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 99
     },
     {
       "name": "brainferno-mcp-bridge",
@@ -72206,6 +72374,18 @@
       "score": 96
     },
     {
+      "name": "cover-art-check",
+      "version": "1.0.0",
+      "description": "Check album cover art against the published artwork rules of Spotify, Apple Music, DistroKid, TuneCore, CD Baby and Bandcamp.",
+      "license": "MIT",
+      "repository": "https://github.com/WebCareerz/cover-art-check",
+      "npmUrl": "https://www.npmjs.com/package/cover-art-check",
+      "category": "utilities",
+      "createdAt": "2026-09-11T10:09:44.642Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 92
+    },
+    {
       "name": "coverage-orchestrator-cli-new",
       "version": "1.5.0",
       "description": "CLI to orchestrate AI agents for automated Java test generation based on JaCoCo coverage reports",
@@ -75974,6 +76154,18 @@
       "score": 90
     },
     {
+      "name": "dsh-hold-to-talk",
+      "version": "0.1.2",
+      "description": "Hold-to-talk voice input for the DeepSeek Harness Web composer: hold the mouse on the input box, speak, see the running transcript float above it, release to insert the text into the draft. Recognition runs locally (SenseVoice via sherpa-onnx) — no API ke",
+      "license": "MIT",
+      "repository": "https://github.com/wangzhanchao883/dsh-hold-to-talk",
+      "npmUrl": "https://www.npmjs.com/package/dsh-hold-to-talk",
+      "category": "backend",
+      "createdAt": "2026-09-11T11:40:45.301Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
+    },
+    {
       "name": "dsh-hooks",
       "version": "0.2.2",
       "description": "Config-driven lifecycle hooks plugin for DeepSeek Harness: declare event -> command hooks in cordis.patch.yml, no plugin code required.",
@@ -76224,6 +76416,18 @@
       "createdAt": "2026-08-14T11:23:18.016Z",
       "discoveredAt": "2026-08-14T11:32:59.988Z",
       "score": 69
+    },
+    {
+      "name": "dsh-mdvault",
+      "version": "1.2.1",
+      "description": "Workspace document vault for the dsh web GUI: a conversation '文档' tab with an all-type file tree (Markdown/PDF/HTML/code/Excel·CSV/images), full GFM rendering via the platform MarkdownText (tables, task lists, footnotes, KaTeX math, highlighted code fence",
+      "license": "MIT",
+      "repository": "https://github.com/yangzqq/dsh-mdvault",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mdvault",
+      "category": "data",
+      "createdAt": "2026-09-11T14:46:27.431Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 97
     },
     {
       "name": "dsh-memento",
@@ -76742,6 +76946,18 @@
       "score": 50
     },
     {
+      "name": "dsh-plugin-upgrade-015",
+      "version": "0.1.0",
+      "description": "Plugin-author upgrade skill for DeepSeek Harness: the merged version-locked 0.1.3-alpha.1 -> 0.1.5-rc.1 corridor card plus a zero-dependency seam scanner over one 20-seam catalog — leg A (V3 session format, assistant/message.stream, SessionHandleReadResul",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-plugin-upgrade-015",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-upgrade-015",
+      "category": "data",
+      "createdAt": "2026-09-11T13:55:54.861Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
+    },
+    {
       "name": "dsh-plugin-vetting",
       "version": "0.1.0",
       "description": "DeepSeek Harness plugin: heuristic vetting of installed third-party plugins — static code scan for exfiltration, credential access, obfuscation, and persistence patterns, plus an optional runtime subprocess tripwire.",
@@ -77112,6 +77328,18 @@
       "createdAt": "2026-08-15T08:17:37.042Z",
       "discoveredAt": "2026-08-15T08:48:16.876Z",
       "score": 63
+    },
+    {
+      "name": "dsh-team-rooms",
+      "version": "1.0.0",
+      "description": "Persistent multi-agent team rooms for DeepSeek Harness: cross-session rooms with a message bus, a shared task board, approval-gated handoffs and a shared timeline that survive DSH restarts. Extracted from dsh-background-agents 0.9.6, whose background-agen",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-team-rooms",
+      "npmUrl": "https://www.npmjs.com/package/dsh-team-rooms",
+      "category": "utilities",
+      "createdAt": "2026-09-11T14:14:36.874Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 98
     },
     {
       "name": "dsh-terminal",
@@ -77580,6 +77808,18 @@
       "createdAt": "2026-08-19T15:47:49.953Z",
       "discoveredAt": "2026-08-20T01:43:11.385Z",
       "score": 88
+    },
+    {
+      "name": "dspec",
+      "version": "0.0.1",
+      "description": "Spec-driven development for AI coding agents. The product model lives as markdown in your repo, bound to the code and measured. One `dspec init` puts the /ds-* commands into Claude Code, Codex and Cursor.",
+      "license": "MIT",
+      "repository": "https://github.com/tuna781/dspec",
+      "npmUrl": "https://www.npmjs.com/package/dspec",
+      "category": "cli",
+      "createdAt": "2026-09-11T09:45:27.024Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 90
     },
     {
       "name": "dsv-chat-widget",
@@ -83484,6 +83724,18 @@
       "createdAt": "2026-07-25T16:46:23.743Z",
       "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 62
+    },
+    {
+      "name": "htm-projection",
+      "version": "1.0.1",
+      "description": "HTMP is a lightweight, zero-dependency UI renderer. It brings fine-grained reactivity directly to static HTML without the need for a virtual DOM, compilers, or complex build steps.",
+      "license": "MIT",
+      "repository": "https://github.com/erlanggasatria-source/HTMP",
+      "npmUrl": "https://www.npmjs.com/package/htm-projection",
+      "category": "frontend",
+      "createdAt": "2026-09-11T01:17:13.921Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 94
     },
     {
       "name": "html-pdf-engine",
@@ -95162,6 +95414,18 @@
       "score": 90
     },
     {
+      "name": "open-omni",
+      "version": "1.1.0",
+      "description": "Open Omni — grab any video from YouTube, X, Instagram, Threads & 1800+ sites — right from your terminal. paste. download. done.",
+      "license": "MIT",
+      "repository": "https://github.com/OpenSelena/openomni",
+      "npmUrl": "https://www.npmjs.com/package/open-omni",
+      "category": "cli",
+      "createdAt": "2026-09-08T19:18:56.990Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 92
+    },
+    {
       "name": "open-rfc",
       "version": "0.2.0",
       "description": "SDK-free TypeScript client for SAP classic RFC with node-rfc compatibility facades",
@@ -106574,6 +106838,18 @@
       "score": 58
     },
     {
+      "name": "skillbelt",
+      "version": "1.2.0",
+      "description": "Portable agent skills for secure coding and translation parity. Works in Claude Code, Codex, Cursor, Gemini CLI and Antigravity.",
+      "license": "MIT",
+      "repository": "https://github.com/catidegla/skillbelt",
+      "npmUrl": "https://www.npmjs.com/package/skillbelt",
+      "category": "cli",
+      "createdAt": "2026-09-11T15:38:51.544Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 92
+    },
+    {
       "name": "skillbench-ai",
       "version": "1.0.0",
       "description": "The open benchmark, linter and compatibility checker for AI Agent Skills.",
@@ -108326,6 +108602,18 @@
       "score": 89
     },
     {
+      "name": "streamit-player",
+      "version": "1.0.0",
+      "description": "Enterprise-grade HTML5 video player with adaptive streaming (HLS/DASH), multi-DRM, VAST/VMAP/SIMID advertising, and Lit web components.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iqonicdesignofficial/streamit-player",
+      "npmUrl": "https://www.npmjs.com/package/streamit-player",
+      "category": "utilities",
+      "createdAt": "2026-09-11T12:39:04.665Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 93
+    },
+    {
       "name": "streamviz-react",
       "version": "0.1.0",
       "description": "A drop-in React renderer for AI-generated visual artifacts, optimized for streaming tool calls.",
@@ -109152,6 +109440,18 @@
       "createdAt": "2026-07-27T14:44:25.177Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 82
+    },
+    {
+      "name": "tag-list-overflow",
+      "version": "0.1.0",
+      "description": "Zero-reflow, responsive React tag & chip list component with dynamic line-clamp (maxLines) and customizable '+N more' overflow badge. Instant off-DOM layout prediction without layout shifts.",
+      "license": "MIT",
+      "repository": "https://github.com/galaxytemple/tag-list-overflow",
+      "npmUrl": "https://www.npmjs.com/package/tag-list-overflow",
+      "category": "frontend",
+      "createdAt": "2026-09-11T06:57:29.479Z",
+      "discoveredAt": "2026-09-11T16:20:44.341Z",
+      "score": 89
     },
     {
       "name": "tailswatch",
