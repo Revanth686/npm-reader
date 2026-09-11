@@ -7790,6 +7790,18 @@
       "score": 67
     },
     {
+      "name": "@bitbooth/mcp-routes",
+      "version": "1.1.1",
+      "description": "Manage private BitBooth x402 seller routes, non-custodial payouts, and write-only upstream authentication from any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/Drock91/bitbooth-docs",
+      "npmUrl": "https://www.npmjs.com/package/%40bitbooth%2Fmcp-routes",
+      "category": "backend",
+      "createdAt": "2026-09-10T19:55:54.111Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 87
+    },
+    {
       "name": "@bitio/opencode-provider-balance",
       "version": "1.0.0",
       "description": "OpenCode TUI plugin that renders a provider balance panel in the sidebar",
@@ -10512,6 +10524,18 @@
       "createdAt": "2026-08-31T09:01:30.406Z",
       "discoveredAt": "2026-08-31T19:04:44.008Z",
       "score": 90
+    },
+    {
+      "name": "@chrono-os/checkout-webhooks",
+      "version": "0.1.1",
+      "description": "Webhooks de checkout de infoproduto (Hotmart, Kirvano, Kiwify, Greenn, Lightforms): validação fail-closed e timing-safe, evento normalizado, dedupe por (plataforma, transação, evento) e log sem PII. Zero dependências de runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/SugarHoneyIceTea/checkout-webhooks",
+      "npmUrl": "https://www.npmjs.com/package/%40chrono-os%2Fcheckout-webhooks",
+      "category": "data",
+      "createdAt": "2026-09-10T21:00:19.844Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 88
     },
     {
       "name": "@chumanic/skillsync",
@@ -13764,6 +13788,18 @@
       "createdAt": "2026-08-13T21:14:19.723Z",
       "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 80
+    },
+    {
+      "name": "@devinosolutions/referral",
+      "version": "0.1.0",
+      "description": "The Devino Refer & Earn program as one package — Dub lead/sale reporting, refund and chargeback reversal, partner enrollment and earnings, Stripe dispute handling, and the browser click-capture constants.",
+      "license": "MIT",
+      "repository": "https://github.com/DevinoSolutions/postify",
+      "npmUrl": "https://www.npmjs.com/package/%40devinosolutions%2Freferral",
+      "category": "frontend",
+      "createdAt": "2026-09-10T23:46:30.974Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
     },
     {
       "name": "@deviykee/mcw",
@@ -17702,6 +17738,18 @@
       "score": 70
     },
     {
+      "name": "@evitcastudio/lens",
+      "version": "4.3.0",
+      "description": "A modular camera system for 2D games with specialized camera types (Follow, Spectate, Pan, Influence, Transition) and rich effects including shake, zoom, and seamless transitions.",
+      "license": "MIT",
+      "repository": "https://github.com/EvitcaStudio/Lens",
+      "npmUrl": "https://www.npmjs.com/package/%40evitcastudio%2Flens",
+      "category": "build-tools",
+      "createdAt": "2026-09-10T21:04:08.542Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 85
+    },
+    {
       "name": "@evitras-technologies/react-native-background-geolocation",
       "version": "0.1.0",
       "description": "Free, open-source background geolocation SDK for React Native CLI and Expo. Battery-conscious motion-detection tracking, geofencing, SQLite persistence, HTTP sync, headless tasks. API-compatible with the popular transistorsoft plugin surface.",
@@ -18036,6 +18084,18 @@
       "createdAt": "2026-08-08T18:32:15.462Z",
       "discoveredAt": "2026-08-08T19:06:05.897Z",
       "score": 41
+    },
+    {
+      "name": "@fazzcodestudio/wa-web",
+      "version": "0.3.0",
+      "description": "A WhatsApp Web (multi-device) library — a Baileys-based fork with a friendlier WAClient API, a native-flow Button builder, an interactive/rich message builder, call handling, working pairing codes, and complete docs.",
+      "license": "MIT",
+      "repository": "https://github.com/fazzcodestudio/wa-web",
+      "npmUrl": "https://www.npmjs.com/package/%40fazzcodestudio%2Fwa-web",
+      "category": "backend",
+      "createdAt": "2026-09-10T23:09:45.334Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
     },
     {
       "name": "@feather_wch/dsh-im",
@@ -27206,6 +27266,18 @@
       "score": 100
     },
     {
+      "name": "@hraness/soulscrape",
+      "version": "0.4.0",
+      "description": "Turn an authorized corpus into a dated, evidence-calibrated working model of a person, with an asking protocol, instruction-bound web research, and explicit privacy and proxy boundaries.",
+      "license": "MIT",
+      "repository": "https://github.com/hraness/soulscrape",
+      "npmUrl": "https://www.npmjs.com/package/%40hraness%2Fsoulscrape",
+      "category": "devops",
+      "createdAt": "2026-09-10T22:05:29.306Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 88
+    },
+    {
       "name": "@hsblabs/http-command",
       "version": "0.1.0",
       "description": "Typed command protocol and HTTP client runtime for TypeScript SDKs",
@@ -28548,6 +28620,18 @@
       "createdAt": "2026-09-02T16:36:11.807Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
       "score": 84
+    },
+    {
+      "name": "@inssist/mcp",
+      "version": "1.0.0",
+      "description": "MCP server that drives a real logged-in Instagram session through the INSSIST Chrome extension: read profiles, posts and DMs, publish and schedule content, pull analytics, download media.",
+      "license": "MIT",
+      "repository": "https://github.com/inssist/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40inssist%2Fmcp",
+      "category": "frontend",
+      "createdAt": "2026-09-10T19:28:58.442Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 98
     },
     {
       "name": "@instush/mcp",
@@ -41822,6 +41906,18 @@
       "score": 86
     },
     {
+      "name": "@olives/devos",
+      "version": "2.1.1",
+      "description": "Olives Technologies Engineering OS — Autonomous Multi-Agent AI Engineering Environment",
+      "license": "MIT",
+      "repository": "https://github.com/olitech1010/dev-os",
+      "npmUrl": "https://www.npmjs.com/package/%40olives%2Fdevos",
+      "category": "utilities",
+      "createdAt": "2026-09-10T18:31:42.409Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 88
+    },
+    {
       "name": "@olumide100/webmcpify",
       "version": "1.0.3",
       "description": "A CLI that audits and generates WebMCP tool registrations for a website, verified by an isolated agent driving a real browser, with human approval required before any tool goes live",
@@ -45818,6 +45914,18 @@
       "score": 89
     },
     {
+      "name": "@putervision/world-model-mcp",
+      "version": "0.3.1",
+      "description": "Deterministic, persistent 3D/2D spatial world model for AI agents with entity tracking, object permanence, movement simulation, and expected view frustum projection.",
+      "license": "MIT",
+      "repository": "https://github.com/putervision/world-model-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40putervision%2Fworld-model-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-10T22:06:09.584Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
+    },
+    {
       "name": "@pymodel/claude-agy-mcp",
       "version": "1.0.0",
       "description": "MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, and multi-turn session continuity.",
@@ -49680,6 +49788,18 @@
       "createdAt": "2026-09-03T12:42:45.274Z",
       "discoveredAt": "2026-09-03T16:18:01.109Z",
       "score": 90
+    },
+    {
+      "name": "@sasa-dev/void-baileys",
+      "version": "1.0.0",
+      "description": "Void Baileys is a full-featured TypeScript WhatsApp Web API library, built on the Baileys v7 engine with complete button support, interactive messages, albums, pairing-code push notifications and many extra features.",
+      "license": "MIT",
+      "repository": "https://github.com/darksasa1-eng/void-baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40sasa-dev%2Fvoid-baileys",
+      "category": "backend",
+      "createdAt": "2026-09-10T19:00:31.343Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 100
     },
     {
       "name": "@satsails/p2p-trading-sdk",
@@ -74606,6 +74726,18 @@
       "score": 67
     },
     {
+      "name": "domain-security-mcp-server",
+      "version": "1.2.0",
+      "description": "MCP server for domain and email security audits — SPF, DKIM, DMARC, MTA-STS, BIMI, DNSSEC, DNS, TLS/SSL and WHOIS. No API keys required.",
+      "license": "MIT",
+      "repository": "https://github.com/OrtaMarco/domain-security-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/domain-security-mcp-server",
+      "category": "frontend",
+      "createdAt": "2026-09-11T03:53:39.967Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 88
+    },
+    {
       "name": "domain-trust-toolkit",
       "version": "1.0.0",
       "description": "Check a domain's trustworthiness in one command — the open scoring methodology behind the truster.info Safety Score (domain age via RDAP, DNS/email auth, TLS, HTTP hygiene, URLhaus blocklist, TLD abuse tier, Tranco rank).",
@@ -81902,6 +82034,18 @@
       "score": 68
     },
     {
+      "name": "greensaver",
+      "version": "1.2.1",
+      "description": "Blazing fast and accurate glob matcher written in JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.",
+      "license": "MIT",
+      "repository": "https://github.com/micromach/greensaver",
+      "npmUrl": "https://www.npmjs.com/package/greensaver",
+      "category": "backend",
+      "createdAt": "2026-09-11T00:10:34.757Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
+    },
+    {
       "name": "gren-coverage-node",
       "version": "1.0.0",
       "description": "Code coverage (line, function, and when/if branch) for Gren node applications",
@@ -84000,6 +84144,18 @@
       "createdAt": "2026-08-07T22:55:26.839Z",
       "discoveredAt": "2026-08-07T23:03:58.437Z",
       "score": 57
+    },
+    {
+      "name": "indian-rail-mcp",
+      "version": "0.1.0",
+      "description": "Indian Railways data from official sources (NTES + IRCTC) — typed library and MCP server. Train schedules, live running status, trains between stations, live station boards, PNR status and berth-level seat availability.",
+      "license": "MIT",
+      "repository": "https://github.com/mahi-v-v/indian-rail-mcp",
+      "npmUrl": "https://www.npmjs.com/package/indian-rail-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-10T19:22:15.646Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 89
     },
     {
       "name": "ineedcruise",
@@ -91178,6 +91334,30 @@
       "score": 79
     },
     {
+      "name": "mx-fiscal-mcp-server",
+      "version": "1.0.0",
+      "description": "MCP server for Mexican tax and banking data — validate RFC, CURP, CLABE and NSS, read CFDI 4.0 invoices, query the SAT status service and look up SAT catalogues. Read-only, no API keys required.",
+      "license": "MIT",
+      "repository": "https://github.com/OrtaMarco/mx-fiscal-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/mx-fiscal-mcp-server",
+      "category": "testing",
+      "createdAt": "2026-09-11T03:55:20.207Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 99
+    },
+    {
+      "name": "mx-identifiers",
+      "version": "1.0.0",
+      "description": "Validate and generate Mexican identifiers — RFC, CURP, CLABE and NSS — with check digits verified against public vectors. Zero dependencies, runs in Node and the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/OrtaMarco/mx-identifiers",
+      "npmUrl": "https://www.npmjs.com/package/mx-identifiers",
+      "category": "testing",
+      "createdAt": "2026-09-10T16:37:53.953Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 90
+    },
+    {
       "name": "my-md-baileys",
       "version": "3.2.4",
       "description": "Enhanced Baileys fork with newsletter support, album messages, interactive buttons, rich responses, and communities API",
@@ -98342,6 +98522,18 @@
       "score": 90
     },
     {
+      "name": "pi-llama-infra",
+      "version": "1.4.1",
+      "description": "Discovery, metrics and control of llama.cpp-family servers and vLLM/SGLang/TGI OpenAI-compatible servers for pi (llama.cpp, ZINC, DwarfStar/ds4, lucebox, LM Studio, vLLM, SGLang, TGI): scan machines (localhost, LAN, Tailscale), register models, live metri",
+      "license": "MIT",
+      "repository": "https://github.com/noguerol/llama-infra",
+      "npmUrl": "https://www.npmjs.com/package/pi-llama-infra",
+      "category": "backend",
+      "createdAt": "2026-09-10T23:38:06.536Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 100
+    },
+    {
       "name": "pi-magpi",
       "version": "1.0.1",
       "description": "Token-frugal web fetch & search for pi. Smart handlers (GitHub, GitLab, package registries, Wikipedia, Stack Exchange, Reddit, HN, arXiv, PDFs, llms.txt), timestamped disk cache, extensible handler system. No API keys.",
@@ -99168,6 +99360,18 @@
       "createdAt": "2026-07-31T09:10:02.788Z",
       "discoveredAt": "2026-07-31T11:10:12.328Z",
       "score": 84
+    },
+    {
+      "name": "pitchmachine-mcp-server",
+      "version": "0.2.3",
+      "description": "Model Context Protocol server for Pitch Machine — build hyper-personalized pitch microsites from any AI agent (Claude Desktop, Cursor, Grok Bot, ChatGPT desktop).",
+      "license": "MIT",
+      "repository": "https://github.com/rcabanes-ops/pitchmachine-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pitchmachine-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-11T04:09:03.926Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
     },
     {
       "name": "pithub-mcp",
@@ -104138,6 +104342,18 @@
       "score": 95
     },
     {
+      "name": "rplay-cli",
+      "version": "2.0.1",
+      "description": "Rplay from the terminal: everything the dashboard shows and does, as JSON — session replay analytics, checkout funnels, attribution, ad spend, alerts, postbacks. Built for scripts and AI agents; installs its own agent skill.",
+      "license": "MIT",
+      "repository": "https://github.com/licodingdevai/web-tracking",
+      "npmUrl": "https://www.npmjs.com/package/rplay-cli",
+      "category": "cli",
+      "createdAt": "2026-09-10T18:55:39.014Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 96
+    },
+    {
       "name": "rr-html",
       "version": "0.3.1",
       "description": "A zero-dependency Node build system for composable HTML documents — compose <rr-*> components into one self-contained HTML file, styled by your own design tokens or the opt-in bundled theme.",
@@ -105276,6 +105492,18 @@
       "createdAt": "2026-08-02T15:04:43.786Z",
       "discoveredAt": "2026-08-02T15:55:07.650Z",
       "score": 74
+    },
+    {
+      "name": "seo-geo-mcp-server",
+      "version": "1.2.0",
+      "description": "MCP server for SEO and GEO (Generative Engine Optimization) audits — on-page SEO, structured data, robots.txt, sitemaps, hreflang, and AI-crawler access for ChatGPT, Claude, Perplexity and Gemini. No API keys required.",
+      "license": "MIT",
+      "repository": "https://github.com/OrtaMarco/seo-geo-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/seo-geo-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-11T03:54:00.154Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 100
     },
     {
       "name": "seoflow",
@@ -110018,6 +110246,18 @@
       "score": 69
     },
     {
+      "name": "time-travel-carousel",
+      "version": "0.1.0",
+      "description": "A React carousel where every slide has a version history. Images, video and PDFs; left/right between items, up/down through their revisions. Zero runtime dependencies, stylable from plain CSS.",
+      "license": "MIT",
+      "repository": "https://github.com/sumit22/time-travel-carousel",
+      "npmUrl": "https://www.npmjs.com/package/time-travel-carousel",
+      "category": "frontend",
+      "createdAt": "2026-09-10T22:04:32.467Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 89
+    },
+    {
       "name": "timereport-cli",
       "version": "0.1.1",
       "description": "CLI for timereport.app — manage timers, log time, view summaries",
@@ -111002,6 +111242,30 @@
       "score": 93
     },
     {
+      "name": "tw-jib-css",
+      "version": "1.0.0",
+      "description": "TailwindCSS v4 utility library – border gradients, CSS relative color transforms, ripple effects, and more – built entirely with CSS-first @utility and @custom-variant syntax.",
+      "license": "MIT",
+      "repository": "https://github.com/simonm-c/tw-jib-css",
+      "npmUrl": "https://www.npmjs.com/package/tw-jib-css",
+      "category": "frontend",
+      "createdAt": "2026-09-10T23:49:52.125Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 97
+    },
+    {
+      "name": "tw-jib-css-experimental",
+      "version": "1.0.0",
+      "description": "Experimental tw-jib-css utilities – CSS @function colour transforms, corner-shape, interpolate-size, base-select picker, and a WCAG contrast badge. Limited browser support.",
+      "license": "MIT",
+      "repository": "https://github.com/simonm-c/tw-jib-css",
+      "npmUrl": "https://www.npmjs.com/package/tw-jib-css-experimental",
+      "category": "frontend",
+      "createdAt": "2026-09-10T23:51:18.680Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 97
+    },
+    {
       "name": "tw-server",
       "version": "1.0.0",
       "description": "Dev server for Twine/SugarCube stories: builds with tweego, type-checks the story's TypeScript (including code in passages), and live-reloads the browser on change.",
@@ -111216,6 +111480,18 @@
       "createdAt": "2026-08-31T11:33:00.652Z",
       "discoveredAt": "2026-08-31T19:04:44.008Z",
       "score": 90
+    },
+    {
+      "name": "ucode-agent",
+      "version": "1.1.0",
+      "description": "ucode - a terminal coding agent that reads, edits and runs your code. NVIDIA and Cohere models over OpenRouter.",
+      "license": "ISC",
+      "repository": "https://github.com/sppideey/ucode-agent",
+      "npmUrl": "https://www.npmjs.com/package/ucode-agent",
+      "category": "cli",
+      "createdAt": "2026-09-11T01:55:33.902Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
     },
     {
       "name": "udodi",
@@ -112826,6 +113102,18 @@
       "score": 76
     },
     {
+      "name": "vite-plugin-tyro-camo",
+      "version": "1.0.0",
+      "description": "Stealth asset camouflage for Laravel and Vite: cloak compiled JS/CSS bundles under deterministic, inoffensive codenames while keeping manifest.json intact.",
+      "license": "MIT",
+      "repository": "https://github.com/hasinhayder/tyro-camo",
+      "npmUrl": "https://www.npmjs.com/package/vite-plugin-tyro-camo",
+      "category": "frontend",
+      "createdAt": "2026-09-10T17:28:40.625Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 89
+    },
+    {
       "name": "vitepress-machine-readability",
       "version": "0.1.0",
       "description": "Make a VitePress site readable by search engines and AI: canonical, OGP, JSON-LD, sitemap lastmod, robots.txt, feed, Markdown sources — plus a build-time lint that fails before you deploy.",
@@ -113808,6 +114096,18 @@
       "createdAt": "2026-07-29T08:31:36.656Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 74
+    },
+    {
+      "name": "well-document",
+      "version": "1.0.0",
+      "description": "Anti-AI-slop repository governance and documentation skill for AI coding assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/example/well-document",
+      "npmUrl": "https://www.npmjs.com/package/well-document",
+      "category": "utilities",
+      "createdAt": "2026-09-11T03:28:48.742Z",
+      "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 86
     },
     {
       "name": "weread-omni",
