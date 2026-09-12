@@ -1094,6 +1094,18 @@
       "score": 79
     },
     {
+      "name": "@aclif/core",
+      "version": "1.0.1",
+      "description": "Agent CLI Framework: a self-describing command surface over SaaS APIs for compiled workflow agents",
+      "license": "MIT",
+      "repository": "https://github.com/agent-cli-framework/aclif",
+      "npmUrl": "https://www.npmjs.com/package/%40aclif%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-09-11T22:56:12.476Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 87
+    },
+    {
       "name": "@actionpulse/browser",
       "version": "0.6.4",
       "description": "Framework-neutral ActionPulse browser analytics SDK with explicit consent and local capability controls",
@@ -19058,6 +19070,18 @@
       "score": 75
     },
     {
+      "name": "@fontdata/ai-harness",
+      "version": "2.0.0",
+      "description": "Harness de engenharia com IA da Fontdata para Claude Code: roda os slash commands direto na pasta do projeto via npx, sem instalar nada — ou instala-os em .claude/commands.",
+      "license": "MIT",
+      "repository": "https://github.com/fontdata-tecnologia/ai-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40fontdata%2Fai-harness",
+      "category": "data",
+      "createdAt": "2026-09-11T18:11:18.667Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 89
+    },
+    {
       "name": "@forbes-placement/story-angle-generator",
       "version": "1.0.0",
       "description": "Forbes Story Angle Generator is an AI-powered platform that helps businesses, founders, executives, and marketing teams develop compelling editorial story ideas for premium business publications.",
@@ -26618,6 +26642,18 @@
       "score": 70
     },
     {
+      "name": "@hersidev/stingo",
+      "version": "0.1.0",
+      "description": "Let your AI make the video. Declarative video for engineers: a script plus a taste profile render to MP4, with cuts that land on the beat and talking-head takes composited in.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/aynaash/stingo",
+      "npmUrl": "https://www.npmjs.com/package/%40hersidev%2Fstingo",
+      "category": "backend",
+      "createdAt": "2026-09-12T03:08:08.216Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 87
+    },
+    {
       "name": "@hetuh/saakshi",
       "version": "0.2.0",
       "description": "Lightweight, privacy-first, ORM-agnostic first-party analytics for Next.js + Postgres. Beacon endpoint, page-view tracker, dashboard components, and tRPC router factory — works with Drizzle, Kysely, raw pg, or Prisma.",
@@ -30288,6 +30324,18 @@
       "createdAt": "2026-08-16T13:17:09.847Z",
       "discoveredAt": "2026-08-16T13:34:16.553Z",
       "score": 88
+    },
+    {
+      "name": "@jikida/scan",
+      "version": "0.2.0",
+      "description": "Fast, template-based security scanner for CI and the terminal. Scan any URL for exposed secrets, weak security headers, missing HSTS/CSP, insecure cookies, exposed .env/.git and TLS issues, or scan a local repo for committed secrets, known-bad dependencie",
+      "license": "MIT",
+      "repository": "https://github.com/unesLam/jikida",
+      "npmUrl": "https://www.npmjs.com/package/%40jikida%2Fscan",
+      "category": "testing",
+      "createdAt": "2026-09-08T13:17:45.705Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 90
     },
     {
       "name": "@jini-ai/ui",
@@ -35796,6 +35844,18 @@
       "createdAt": "2026-08-04T14:51:41.928Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 76
+    },
+    {
+      "name": "@maverickcer/env-cap",
+      "version": "0.3.0",
+      "description": "Secure, type-safe, framework-agnostic environment contracts. Contracts own the environment variables they consume; the package provides runtime validation and build-time contract discovery.",
+      "license": "MIT",
+      "repository": "https://github.com/MaverickCER/env-cap",
+      "npmUrl": "https://www.npmjs.com/package/%40maverickcer%2Fenv-cap",
+      "category": "build-tools",
+      "createdAt": "2026-09-11T18:13:50.520Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 88
     },
     {
       "name": "@maxter-dev/design-system",
@@ -45194,6 +45254,18 @@
       "score": 62
     },
     {
+      "name": "@pramodreddyboddu/agent-receipt",
+      "version": "1.0.2",
+      "description": "One-shot, tamper-evident git receipts for AI coding agent sessions — wrap, verify, share",
+      "license": "MIT",
+      "repository": "https://github.com/pramodreddyboddu/agent-receipt",
+      "npmUrl": "https://www.npmjs.com/package/%40pramodreddyboddu%2Fagent-receipt",
+      "category": "cli",
+      "createdAt": "2026-09-11T21:38:36.245Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 88
+    },
+    {
       "name": "@praveen-palanisamy/agent-browser-runtime",
       "version": "0.1.1",
       "description": "Stateful, secure browser-session execution for agents: pluggable browser providers (local Chromium, CDP, Steel, Kernel), post/probe/capture orchestration, an HTTP runner service and a Playwright-free client",
@@ -51746,6 +51818,18 @@
       "score": 66
     },
     {
+      "name": "@skaterqiang/protege-js",
+      "version": "0.1.0",
+      "description": "Zero-dependency OWL 2 / RDF / SWRL library for Node.js: 6 parsers, 3 serializers, and a forward-chaining reasoner covering all 78 W3C OWL 2 RL rules plus QL/EL profiles. A Node.js port of Protégé's non-UI core.",
+      "license": "BSD-2-Clause",
+      "repository": "https://github.com/skaterqiang/protege-js",
+      "npmUrl": "https://www.npmjs.com/package/%40skaterqiang%2Fprotege-js",
+      "category": "utilities",
+      "createdAt": "2026-09-12T04:04:28.181Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 90
+    },
+    {
       "name": "@skewkit/core",
       "version": "0.1.0",
       "description": "Framework-agnostic primitives for surviving version skew: versioned envelopes, migration chains, build identity and negotiation.",
@@ -56426,6 +56510,78 @@
       "score": 65
     },
     {
+      "name": "@three-ws/agent-runtime",
+      "version": "0.1.1",
+      "description": "The three.ws agent engine: a plan/execute decision loop with human-approval gates, a seven-layer GuardChain (security blacklist, intervention, capability, permission, trade guard, spend envelope, x402 budget), a tamper-evident hash-chained action ledger,",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fagent-runtime",
+      "category": "devops",
+      "createdAt": "2026-08-19T03:45:04.088Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 87
+    },
+    {
+      "name": "@three-ws/agent-vitals",
+      "version": "0.1.0",
+      "description": "Capability attestation for autonomous agents. Not \"is it up\" but \"can it act\": model an agent's preconditions as a causal graph, get back the root blocker and the command that fixes it.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fagent-vitals",
+      "category": "testing",
+      "createdAt": "2026-09-11T17:06:07.400Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 88
+    },
+    {
+      "name": "@three-ws/blender-mcp",
+      "version": "0.5.0",
+      "description": "Drive the Blender on your machine from any AI agent, headless. Inspect a 3D file, convert between GLB/glTF/FBX/OBJ/STL/PLY/DAE/USD/Alembic/.blend, render a preview that comes back inline so the assistant can see it, run a bpy script against a scene, and g",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fblender-mcp",
+      "category": "devops",
+      "createdAt": "2026-09-11T17:06:15.438Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 90
+    },
+    {
+      "name": "@three-ws/herald",
+      "version": "0.1.0",
+      "description": "Deliver a message in person: a 3D character walks onto your page and tells the user, with importance scoring, quiet hours, dedupe and an accessible fallback. Works with any feed, plus a CLI that announces when your build finishes.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fherald",
+      "category": "build-tools",
+      "createdAt": "2026-09-11T17:07:06.112Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 90
+    },
+    {
+      "name": "@three-ws/home-bridge",
+      "version": "0.1.0",
+      "description": "Connect a three.ws agent to a real Home Assistant instance: live entity state, safe service calls, a room graph for the 3D scene, and the optional Model Context Protocol capability channel.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fhome-bridge",
+      "category": "utilities",
+      "createdAt": "2026-09-11T17:06:28.524Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 86
+    },
+    {
+      "name": "@three-ws/motion",
+      "version": "0.1.0",
+      "description": "Text and structure to full-body 3D animation. A Motion Score in, a three.js AnimationClip out: forward and inverse kinematics, balance, ground contact and secondary motion in plain JavaScript, with no mocap data, no model weights and no renderer.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fmotion",
+      "category": "data",
+      "createdAt": "2026-09-11T17:06:39.339Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 90
+    },
+    {
       "name": "@three-ws/onchain-agent-wallets",
       "version": "0.1.0",
       "description": "Give an AI agent a real Solana wallet without giving it your money. The agent gets a spending allowance the SPL Token program enforces on-chain, plus guardrails (per-tx cap, daily cap, recipient and host allowlists, expiry, kill switch), x402 payments, an",
@@ -56436,6 +56592,42 @@
       "createdAt": "2026-08-19T23:37:37.495Z",
       "discoveredAt": "2026-08-20T01:43:11.385Z",
       "score": 90
+    },
+    {
+      "name": "@three-ws/render",
+      "version": "0.1.0",
+      "description": "Render rigged, animated 3D avatars to PNG, GIF and truecolor terminal ANSI with no GPU, no WebGL and no headless browser. Pure JavaScript software rasterizer for glTF/GLB.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Frender",
+      "category": "frontend",
+      "createdAt": "2026-09-11T17:06:47.410Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 87
+    },
+    {
+      "name": "@three-ws/shipfeed",
+      "version": "0.1.0",
+      "description": "Turn a repo's raw commit history into a release feed humans actually read: conventional-commit parsing, audience classification, and changelog-to-commit provenance with no extra metadata.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fshipfeed",
+      "category": "data",
+      "createdAt": "2026-09-11T17:06:52.303Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 88
+    },
+    {
+      "name": "@three-ws/witness",
+      "version": "0.1.0",
+      "description": "Turn a real user session into a runnable failing test. A tiny, privacy-first session recorder that captures intent (not pixels, not DOM mutations) and compiles it into a Playwright spec that stays red until the reported bug is fixed.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nirholas/three.ws",
+      "npmUrl": "https://www.npmjs.com/package/%40three-ws%2Fwitness",
+      "category": "testing",
+      "createdAt": "2026-09-11T17:07:00.283Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 89
     },
     {
       "name": "@threenative/fab-mcp",
@@ -56724,6 +56916,18 @@
       "createdAt": "2026-08-15T11:02:11.785Z",
       "discoveredAt": "2026-08-15T11:18:48.032Z",
       "score": 43
+    },
+    {
+      "name": "@tonoid/agent-loop",
+      "version": "1.1.0",
+      "description": "Schedules autonomous coding agents across provider accounts and runs them as herdr agents in herdr panes.",
+      "license": "MIT",
+      "repository": "https://github.com/tonoid/agent-loop",
+      "npmUrl": "https://www.npmjs.com/package/%40tonoid%2Fagent-loop",
+      "category": "utilities",
+      "createdAt": "2026-08-20T14:47:02.226Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 86
     },
     {
       "name": "@tonoizer/mfdoctor",
@@ -65088,6 +65292,18 @@
       "createdAt": "2026-08-14T10:16:59.787Z",
       "discoveredAt": "2026-08-14T10:50:54.851Z",
       "score": 76
+    },
+    {
+      "name": "aile.sh",
+      "version": "1.0.0",
+      "description": "Command-line client for aile.sh — lend spare AI capacity from a machine you own, or choose which lender serves your requests.",
+      "license": "MIT",
+      "repository": "https://github.com/ailelabs/aile.sh",
+      "npmUrl": "https://www.npmjs.com/package/aile.sh",
+      "category": "cli",
+      "createdAt": "2026-09-11T15:50:50.051Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 87
     },
     {
       "name": "ailogic",
@@ -76658,6 +76874,18 @@
       "score": 73
     },
     {
+      "name": "dsh-oh-my-claude",
+      "version": "1.0.0",
+      "description": "Claude Code CLI as an LLM provider for dsh (DeepSeek Harness): live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes",
+      "license": "MIT",
+      "repository": "https://github.com/lcestou/dsh-oh-my-claude",
+      "npmUrl": "https://www.npmjs.com/package/dsh-oh-my-claude",
+      "category": "build-tools",
+      "createdAt": "2026-09-11T21:21:34.494Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 98
+    },
+    {
       "name": "dsh-oh-my-theme",
       "version": "0.2.0",
       "description": "Theme + file workspace plugin for DeepSeek Harness (dsh) web GUI: curated --dsw-alias-* skin palettes with live hover preview, @file mentions in the composer, a lazy-loading project file tree, and Markdown preview. 为 dsh 网页端定制的主题 + 文件工作台插件：精选皮肤与悬停预览、输入框 @",
@@ -84650,6 +84878,18 @@
       "score": 96
     },
     {
+      "name": "interbanking-client",
+      "version": "1.1.0",
+      "description": "Cliente Node.js para la API de Interbanking (Argentina) - saldos, movimientos y rangos largos, con los quirks del portal ya resueltos",
+      "license": "MIT",
+      "repository": "https://github.com/rje1974/interbanking-api-ejemplo",
+      "npmUrl": "https://www.npmjs.com/package/interbanking-client",
+      "category": "backend",
+      "createdAt": "2026-09-12T01:04:47.310Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 89
+    },
+    {
       "name": "interenv",
       "version": "1.0.0",
       "description": "Hardware-Enclave Protected Secrets for Terminal, AI Agents & Git (Zero Plaintext .env on Disk) by Interlayer - Modern Dotenv Alternative with TPM 2.0 & Secure Enclave",
@@ -90326,6 +90566,18 @@
       "score": 61
     },
     {
+      "name": "memory-industry",
+      "version": "0.25.0",
+      "description": "Persistent memory MCP server (MemoryIndustry) — self-growing knowledge graph that works without MCP sampling, poisoning quarantine, PostgreSQL + pgvector, bitemporal facts, BM25+RRF hybrid search, graph metrics/communities, Hebbian learning, episodic memo",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/LeandroPG19/Memorys",
+      "npmUrl": "https://www.npmjs.com/package/memory-industry",
+      "category": "backend",
+      "createdAt": "2026-09-11T23:31:13.785Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 90
+    },
+    {
       "name": "memoryrouter-codex",
       "version": "1.0.0",
       "description": "Automatic, project-scoped MemoryRouter memory for OpenAI Codex",
@@ -94224,6 +94476,18 @@
       "createdAt": "2026-08-12T17:23:58.178Z",
       "discoveredAt": "2026-08-12T17:45:07.626Z",
       "score": 56
+    },
+    {
+      "name": "nodejs-store",
+      "version": "1.0.0",
+      "description": "Lightweight multi-backend data layer (MongoDB / MySQL / SQLite / PostgreSQL): pure JSON schemas, GQL tree queries compiled to a single query, computed columns, soft-delete and role-based access control",
+      "license": "MIT",
+      "repository": "https://github.com/coenddt/nodejs-store",
+      "npmUrl": "https://www.npmjs.com/package/nodejs-store",
+      "category": "backend",
+      "createdAt": "2026-09-12T04:15:32.670Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 95
     },
     {
       "name": "nodemailer-cmdsend",
@@ -99014,6 +99278,18 @@
       "score": 64
     },
     {
+      "name": "pi-peak-hours-footer",
+      "version": "1.0.1",
+      "description": "Peak/off-peak billing-hours + promotion indicator for the pi coding agent. Config-driven: providers, models, and time-windowed campaigns via a JSON data file. Append-only footer status, /peak all-models report.",
+      "license": "MIT",
+      "repository": "https://github.com/dawidmachon/pi-peak-hours-footer",
+      "npmUrl": "https://www.npmjs.com/package/pi-peak-hours-footer",
+      "category": "data",
+      "createdAt": "2026-09-10T00:04:07.419Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 88
+    },
+    {
       "name": "pi-peer",
       "version": "1.2.0",
       "description": "Standalone peer-to-peer Pi communication over the HerdR workspace - talk_to, talk_sessions, and talk_latest tools with a resilient local mailbox.",
@@ -100608,6 +100884,18 @@
       "createdAt": "2026-08-12T09:18:11.168Z",
       "discoveredAt": "2026-08-12T10:53:52.353Z",
       "score": 100
+    },
+    {
+      "name": "precommit-sentinel",
+      "version": "1.0.0",
+      "description": "Zero-dependency pre-commit scanner: catches vulnerabilities and secrets, and reports code quality, modularity, and scalability of your project.",
+      "license": "MIT",
+      "repository": "https://github.com/Ahmedz182/precommit-sentinel",
+      "npmUrl": "https://www.npmjs.com/package/precommit-sentinel",
+      "category": "utilities",
+      "createdAt": "2026-09-11T23:57:01.907Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 92
     },
     {
       "name": "predictive-debugger",
@@ -103572,6 +103860,18 @@
       "createdAt": "2026-08-08T13:59:07.219Z",
       "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 68
+    },
+    {
+      "name": "reliable-session",
+      "version": "1.0.0",
+      "description": "A small, transport-agnostic reliability layer for sending command-style JSON messages which guarantees each command and its required response are logically handled exactly once on each side.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/dakusan/ReliableSession",
+      "npmUrl": "https://www.npmjs.com/package/reliable-session",
+      "category": "utilities",
+      "createdAt": "2026-09-11T22:27:40.751Z",
+      "discoveredAt": "2026-09-12T04:19:21.653Z",
+      "score": 91
     },
     {
       "name": "relintio",
