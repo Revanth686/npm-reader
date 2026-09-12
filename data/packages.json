@@ -5282,6 +5282,18 @@
       "score": 62
     },
     {
+      "name": "@appcompliance/cli",
+      "version": "2.2.1",
+      "description": "AppCompliance CLI for analyzing mobile apps against Apple App Store and Google Play guidelines, App Store Connect and Google Play Console requirements, security requirements, and privacy rules. Run deterministic binary and source code analysis directly fr",
+      "license": "MIT",
+      "repository": "https://github.com/appcompliance/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40appcompliance%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-09-12T13:44:29.872Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 89
+    },
+    {
       "name": "@appfigures/agent-toolkit",
       "version": "1.0.0",
       "description": "Give your AI agents a read on the app market — download and revenue estimates, reviews, ranks, keywords, ads, and audience for any app on any major store. Agent tools for the Vercel AI SDK, OpenAI, and LangChain, plus a typed SDK client.",
@@ -9842,6 +9854,18 @@
       "score": 58
     },
     {
+      "name": "@catidegla/driftline",
+      "version": "0.2.0",
+      "description": "Detect when your LLM provider changes the model under a name that did not change. Statistical drift detection over committed probes, provider identity capture, zero dependencies, no service.",
+      "license": "MIT",
+      "repository": "https://github.com/catidegla/driftline",
+      "npmUrl": "https://www.npmjs.com/package/%40catidegla%2Fdriftline",
+      "category": "testing",
+      "createdAt": "2026-09-11T13:39:27.793Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 87
+    },
+    {
       "name": "@cattiva/memory-engine",
       "version": "0.1.0",
       "description": "Long-term memory for AI agents, exposed over MCP.",
@@ -10694,6 +10718,18 @@
       "score": 65
     },
     {
+      "name": "@ckeditor-nonkey/ckeditor5",
+      "version": "48.5.0",
+      "description": "A set of ready-to-use rich text editors created with a powerful framework. Made with real-time collaborative editing in mind.",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/toannv17/ckeditor5",
+      "npmUrl": "https://www.npmjs.com/package/%40ckeditor-nonkey%2Fckeditor5",
+      "category": "data",
+      "createdAt": "2026-09-12T15:21:01.660Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 89
+    },
+    {
       "name": "@clakta/javascript",
       "version": "1.0.4",
       "description": "<p align=\"center\">   <h1 align=\"center\">@clakta/javascript</h1>",
@@ -11436,6 +11472,18 @@
       "createdAt": "2026-08-03T17:07:44.386Z",
       "discoveredAt": "2026-08-03T17:44:53.720Z",
       "score": 87
+    },
+    {
+      "name": "@coffeejson/core",
+      "version": "1.1.0",
+      "description": "Framework-free TypeScript SDK for CoffeeJSON: wire types, payload codec, tolerant normalize, formatters.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/coffeejson-org/coffeejson",
+      "npmUrl": "https://www.npmjs.com/package/%40coffeejson%2Fcore",
+      "category": "data",
+      "createdAt": "2026-08-30T06:40:37.567Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 88
     },
     {
       "name": "@cognitive-fab/polycheck",
@@ -14964,6 +15012,18 @@
       "createdAt": "2026-07-25T23:17:10.307Z",
       "discoveredAt": "2026-07-25T23:44:05.407Z",
       "score": 54
+    },
+    {
+      "name": "@dmpunk/pi-agy",
+      "version": "0.3.0",
+      "description": "Delegate low-level tasks (writing code, exploring codebases, research passes) to Google Antigravity's agy CLI / Gemini agent from pi. Live status shows what the agent is doing (file edited, command run) and agy_fleet fans out multiple agents in parallel.",
+      "license": "MIT",
+      "repository": "https://github.com/d1pankarmedhi/pi-agy",
+      "npmUrl": "https://www.npmjs.com/package/%40dmpunk%2Fpi-agy",
+      "category": "cli",
+      "createdAt": "2026-09-12T14:36:46.406Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 90
     },
     {
       "name": "@dmstoykov/trayce",
@@ -30026,6 +30086,18 @@
       "score": 42
     },
     {
+      "name": "@jarroba/mcp",
+      "version": "0.1.1",
+      "description": "MCP server (stdio, local) exposing 90 deterministic tools from Jarroba Tools, reusing the same code as the web app: read a CI log that does not fit in your context, audit tests, simulate make, run SQL against an ephemeral PostgreSQL, SPARQL, JTD diagrams",
+      "license": "MIT",
+      "repository": "https://github.com/Invarato/JarrobaTools",
+      "npmUrl": "https://www.npmjs.com/package/%40jarroba%2Fmcp",
+      "category": "testing",
+      "createdAt": "2026-09-12T12:35:21.989Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 90
+    },
+    {
       "name": "@jashg91/codescope",
       "version": "1.0.1",
       "description": "AI-powered local codebase indexing and Q&A CLI — runs fully offline via Ollama, no API keys, no cloud.",
@@ -30084,6 +30156,18 @@
       "createdAt": "2026-08-03T08:46:09.928Z",
       "discoveredAt": "2026-08-03T09:27:32.902Z",
       "score": 93
+    },
+    {
+      "name": "@jayson991/react-ui",
+      "version": "1.0.0",
+      "description": "A modern, responsive, and accessible React UI component library with TypeScript and Sass",
+      "license": "MIT",
+      "repository": "https://github.com/jaysonwu991/react-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40jayson991%2Freact-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-12T07:50:55.782Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 88
     },
     {
       "name": "@jcancelo/google-wallet",
@@ -31380,6 +31464,30 @@
       "createdAt": "2026-08-11T15:59:32.631Z",
       "discoveredAt": "2026-08-11T16:49:37.126Z",
       "score": 71
+    },
+    {
+      "name": "@kerusiweb/angular",
+      "version": "2.0.0",
+      "description": "An Angular seat-map component that renders Kerusi Seat Map & Availability Format documents as interactive, accessible inline SVG.",
+      "license": "MIT",
+      "repository": "https://github.com/ShadAhm/kerusiweb",
+      "npmUrl": "https://www.npmjs.com/package/%40kerusiweb%2Fangular",
+      "category": "frontend",
+      "createdAt": "2026-09-12T11:19:37.782Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 92
+    },
+    {
+      "name": "@kerusiweb/react",
+      "version": "2.0.0",
+      "description": "A React seat-map component that renders Kerusi Seat Map & Availability Format documents as interactive, accessible inline SVG.",
+      "license": "MIT",
+      "repository": "https://github.com/ShadAhm/kerusiweb",
+      "npmUrl": "https://www.npmjs.com/package/%40kerusiweb%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-09-12T11:19:54.485Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 92
     },
     {
       "name": "@kesbyte/capacitor-animated-splashscreen",
@@ -44474,6 +44582,18 @@
       "score": 87
     },
     {
+      "name": "@pilot-agents/fact-check-mcp",
+      "version": "0.1.1",
+      "description": "MCP server that forces an AI agent to actually verify claims: quotes are matched against fetched evidence, coverage is computed from the source text, and the final report is generated by the tool - not reported by the agent.",
+      "license": "MIT",
+      "repository": "https://github.com/pilot-agents/fact-check",
+      "npmUrl": "https://www.npmjs.com/package/%40pilot-agents%2Ffact-check-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-12T14:35:30.883Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 86
+    },
+    {
       "name": "@pinecall/mcp",
       "version": "0.1.1",
       "description": "Pinecall as an MCP server — build, run and debug production voice agents from Claude Code, Cursor, or any MCP client.",
@@ -45204,6 +45324,30 @@
       "createdAt": "2026-08-10T00:26:06.914Z",
       "discoveredAt": "2026-08-10T01:06:24.306Z",
       "score": 76
+    },
+    {
+      "name": "@powerduck/conf-patch",
+      "version": "0.3.2",
+      "description": "Two-layer configuration editor: pure core for patching JSON/JSONC/YAML strings (browser-safe), plus file layer with atomic writes and locking for Node.js/Electron. RFC 6902 JSON Patch, comment and formatting preservation, OpenAPI validation.",
+      "license": "MIT",
+      "repository": "https://github.com/PowerDuckie/conf-patch",
+      "npmUrl": "https://www.npmjs.com/package/%40powerduck%2Fconf-patch",
+      "category": "frontend",
+      "createdAt": "2026-09-12T10:49:38.622Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 88
+    },
+    {
+      "name": "@powerduck/workspace-yaml",
+      "version": "0.2.0",
+      "description": "Initialize workspace.yaml and OpenAPI 3.2 YAML files with confidence. Two-layer architecture: browser-safe core for generating YAML content, plus Node.js/Electron file layer that reuses @powerduck/conf-patch for atomic writes and locking.",
+      "license": "MIT",
+      "repository": "https://github.com/PowerDuckie/workspace-yaml",
+      "npmUrl": "https://www.npmjs.com/package/%40powerduck%2Fworkspace-yaml",
+      "category": "frontend",
+      "createdAt": "2026-09-12T12:49:24.265Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 89
     },
     {
       "name": "@powoftwo/strapi-plugin-media-library-handler",
@@ -50796,6 +50940,18 @@
       "createdAt": "2026-08-02T17:49:55.191Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 72
+    },
+    {
+      "name": "@sexfy/spectre.db",
+      "version": "2.0.0",
+      "description": "High-performance key-value storage in Rust for Node.js & Bun: binary v2 format (CRC32, WAL v3 + LSN, segmented incremental compaction), lazy cursors, secondary indexes, raw binary values, zstd compression, dual-engine with v1.1.0 JSON fallback.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/ScarysMonsters/spectre.db",
+      "npmUrl": "https://www.npmjs.com/package/%40sexfy%2Fspectre.db",
+      "category": "backend",
+      "createdAt": "2026-09-12T13:41:49.591Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 100
     },
     {
       "name": "@seydx/ciao",
@@ -66422,6 +66578,18 @@
       "score": 69
     },
     {
+      "name": "archflow",
+      "version": "2.4.0",
+      "description": "Archflow, the phase-based AI development framework: `npx archflow install` sets it up in a project for Claude Code, OpenAI Codex, GitHub Copilot CLI, Cursor, Gemini CLI, OpenCode, or any AGENTS.md + Agent Skills host.",
+      "license": "MIT",
+      "repository": "https://github.com/AZidan/archflow",
+      "npmUrl": "https://www.npmjs.com/package/archflow",
+      "category": "cli",
+      "createdAt": "2026-09-12T05:16:47.695Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 100
+    },
+    {
       "name": "archimedes-github-pr-mcp",
       "version": "1.0.0",
       "description": "Permission-gated MCP server for listing, reviewing, commenting on, and labeling GitHub pull requests",
@@ -68256,6 +68424,18 @@
       "createdAt": "2026-07-26T12:18:18.328Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 60
+    },
+    {
+      "name": "blitzstrike",
+      "version": "1.0.0",
+      "description": "Blitz Strike — a universal MCP security-audit toolbelt. BLITZ sweeps the attack surface, EAGLE-EYE traces source-to-sink, STRIKE verifies live. 57 attack chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+      "license": "MIT",
+      "repository": "https://github.com/shinthink/blitzstrike",
+      "npmUrl": "https://www.npmjs.com/package/blitzstrike",
+      "category": "testing",
+      "createdAt": "2026-09-12T13:53:55.304Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 100
     },
     {
       "name": "block-genomics-mcp",
@@ -76442,6 +76622,18 @@
       "score": 48
     },
     {
+      "name": "dsh-image-router",
+      "version": "0.1.0",
+      "description": "DeepSeek Harness plugin: analyse images out of band with a vision model — pasted images are digested into text before admission and a describe_image tool covers image paths, all without ever changing the session's model.",
+      "license": "MIT",
+      "repository": "https://github.com/zhiwuli0228/dsh-image-router",
+      "npmUrl": "https://www.npmjs.com/package/dsh-image-router",
+      "category": "utilities",
+      "createdAt": "2026-09-12T12:08:13.464Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 88
+    },
+    {
       "name": "dsh-image-to-text",
       "version": "0.1.0",
       "description": "DSH model tool that converts images to text (OCR + description) via configurable vision API providers, with image intake support for text-only models.",
@@ -76946,6 +77138,18 @@
       "score": 98
     },
     {
+      "name": "dsh-peak-balance",
+      "version": "0.3.3",
+      "description": "Peak/off-peak billing clock with live DeepSeek account balance, per-turn cost and a /hist token-history scene (daily usage/cost grid, grand totals, per-model stats, custom rates) for dsh-tui",
+      "license": "MIT",
+      "repository": "https://github.com/VviLliAm-qwq/dsh-peak-balance",
+      "npmUrl": "https://www.npmjs.com/package/dsh-peak-balance",
+      "category": "devops",
+      "createdAt": "2026-09-12T05:16:50.293Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 89
+    },
+    {
       "name": "dsh-pgragh",
       "version": "0.1.0",
       "description": "Live parallel execution graph for DeepSeek Harness",
@@ -76980,6 +77184,18 @@
       "createdAt": "2026-08-15T08:21:35.148Z",
       "discoveredAt": "2026-08-15T08:48:16.876Z",
       "score": 49
+    },
+    {
+      "name": "dsh-plugin-content-policy",
+      "version": "0.2.0",
+      "description": "Preventive content policy for DeepSeek Harness tool results: rewrite matched text with regex rules, or drop/truncate unpredictable payloads by field path before they are normalised, rendered, or persisted. The upstream counterpart to dsh-plugin-redact.",
+      "license": "MIT",
+      "repository": "https://github.com/L-ingqin12/dsh-redaction",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-content-policy",
+      "category": "data",
+      "createdAt": "2026-09-12T15:23:33.068Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 90
     },
     {
       "name": "dsh-plugin-deepseek-vision",
@@ -77076,6 +77292,18 @@
       "createdAt": "2026-08-15T11:43:51.283Z",
       "discoveredAt": "2026-08-15T12:57:12.648Z",
       "score": 88
+    },
+    {
+      "name": "dsh-plugin-permission-guard",
+      "version": "1.0.2",
+      "description": "Four-mode file-permission fence for DeepSeek Harness (workspace read/write x outside read/write), enforced at the tool layer, with a read-only composer mode indicator and a locale-aware UI.",
+      "license": "MIT",
+      "repository": "https://github.com/huang20080115/DSH-plugin-permission-guard",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-permission-guard",
+      "category": "utilities",
+      "createdAt": "2026-09-11T18:03:49.363Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 87
     },
     {
       "name": "dsh-plugin-product-subagents",
@@ -78071,6 +78299,18 @@
       "category": "frontend",
       "createdAt": "2026-08-13T11:11:08.320Z",
       "discoveredAt": "2026-08-13T11:40:08.101Z",
+      "score": 86
+    },
+    {
+      "name": "duara-geo",
+      "version": "2.0.0",
+      "description": "Client and map widget for a self-hosted duara-geo deployment: routing, distance matrices, isochrones, multi-drop, geocoding, places, road attributes, elevation, time zones, tiles and static maps over OpenStreetMap.",
+      "license": "MIT",
+      "repository": "https://github.com/Bkroland19/duara-maps",
+      "npmUrl": "https://www.npmjs.com/package/duara-geo",
+      "category": "cli",
+      "createdAt": "2026-09-12T13:03:34.783Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
       "score": 86
     },
     {
@@ -92510,6 +92750,18 @@
       "score": 62
     },
     {
+      "name": "n8n-nodes-invisible-api",
+      "version": "1.0.0",
+      "description": "n8n community node for the InvisibleAPI — one layer between your workflows and the social platforms behind them. Publish and schedule Instagram and X content, track publish job delivery, and pull Instagram account insights.",
+      "license": "MIT",
+      "repository": "https://github.com/InvisibleApi/n8n-nodes-invisible-api",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-invisible-api",
+      "category": "backend",
+      "createdAt": "2026-09-12T11:43:18.913Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 100
+    },
+    {
       "name": "n8n-nodes-invoicerouter",
       "version": "1.2.0",
       "description": "Production-ready eight-node n8n Invoice Router implementing the Version 1.0 Final Freeze.",
@@ -95630,6 +95882,18 @@
       "score": 79
     },
     {
+      "name": "open-in-native-browser",
+      "version": "1.0.1",
+      "description": "Detect Instagram/Facebook in-app browsers and help users escape to their native browser, with a dismissible fallback banner and manual escape link. Works with any framework or plain HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/muddassirhq/open-in-native-browser",
+      "npmUrl": "https://www.npmjs.com/package/open-in-native-browser",
+      "category": "frontend",
+      "createdAt": "2026-09-12T06:40:55.615Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 87
+    },
+    {
       "name": "open-kimi-ppt-skill",
       "version": "1.2.0",
       "description": "Unofficial reverse-engineered Kimi Slides skill for AI coding agents with local PPTD editing and PPTX export.",
@@ -96108,6 +96372,18 @@
       "createdAt": "2026-08-08T16:26:57.582Z",
       "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 60
+    },
+    {
+      "name": "opencode-kimi-oauth",
+      "version": "1.5.0",
+      "description": "OpenCode plugin that brings the official Kimi OAuth device flow and Kimi-specific coding request fields to opencode, matching upstream kimi-cli.",
+      "license": "MIT",
+      "repository": "https://github.com/yixiaosz/opencode-kimi-oauth",
+      "npmUrl": "https://www.npmjs.com/package/opencode-kimi-oauth",
+      "category": "cli",
+      "createdAt": "2026-09-12T12:57:56.118Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 92
     },
     {
       "name": "opencode-lark-bridge",
@@ -101580,6 +101856,18 @@
       "createdAt": "2026-07-28T05:48:35.092Z",
       "discoveredAt": "2026-07-28T07:36:08.272Z",
       "score": 80
+    },
+    {
+      "name": "qahera-ui",
+      "version": "1.5.1",
+      "description": "AI-Native, Contract-Driven Design System & Multi-Target Component Architecture by Alwkala",
+      "license": "MIT",
+      "repository": "https://github.com/alwkala/Qahera-UI-Kit",
+      "npmUrl": "https://www.npmjs.com/package/qahera-ui",
+      "category": "utilities",
+      "createdAt": "2026-09-12T06:25:45.110Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 86
     },
     {
       "name": "qfence",
@@ -107388,6 +107676,18 @@
       "createdAt": "2026-08-11T06:07:31.098Z",
       "discoveredAt": "2026-08-11T06:52:24.905Z",
       "score": 70
+    },
+    {
+      "name": "smart-naive-table",
+      "version": "1.0.0",
+      "description": "Columns-driven pro table for Vue 3 + Naive UI: auto search form, remote pagination adapter, dict cell rendering, persistent column settings, density toggle, i18n via labels.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SmartCode-X/smart-naive-table",
+      "npmUrl": "https://www.npmjs.com/package/smart-naive-table",
+      "category": "frontend",
+      "createdAt": "2026-09-12T05:52:52.264Z",
+      "discoveredAt": "2026-09-12T15:25:47.973Z",
+      "score": 93
     },
     {
       "name": "smartleadai-mcp",

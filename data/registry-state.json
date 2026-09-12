@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 130183964,
-  "lastRunAt": "2026-09-12T04:19:21.653Z",
+  "lastSequence": 130228817,
+  "lastRunAt": "2026-09-12T15:25:47.973Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@ckeditor-nonkey/ckeditor5-word-count",
+      "attempts": 1
+    },
+    {
+      "name": "@jelto/electron",
+      "attempts": 1
+    }
+  ]
 }
