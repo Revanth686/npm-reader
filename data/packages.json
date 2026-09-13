@@ -4430,6 +4430,18 @@
       "score": 72
     },
     {
+      "name": "@amit-y11/nanobanana-mcp",
+      "version": "0.2.0",
+      "description": "MCP server for Gemini image generation (\"Nano Banana\" / \"Nano Banana Pro\"). Supports a Gemini API key from AI Studio, a Vertex AI / Gemini Enterprise Agent Platform API key (Express Mode), and Application Default Credentials (ADC).",
+      "license": "MIT",
+      "repository": "https://github.com/amit-y11/nanobanana-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40amit-y11%2Fnanobanana-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-13T11:10:17.378Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "@amjadkhan-dev/ragify",
       "version": "0.1.0",
       "description": "Unified RAG Pipeline Builder for Node.js — eliminates boilerplate across chunking, embedding, retrieval, and vector storage.",
@@ -12914,6 +12926,18 @@
       "score": 53
     },
     {
+      "name": "@danjelp/ngx-app-shell",
+      "version": "1.0.0",
+      "description": "Reusable Angular navigational shell: sidebar, topbar, main and footer with container-aware slots and a pluggable sidebar behaviour.",
+      "license": "MIT",
+      "repository": "https://github.com/dpeqini/ngx-app-shell",
+      "npmUrl": "https://www.npmjs.com/package/%40danjelp%2Fngx-app-shell",
+      "category": "frontend",
+      "createdAt": "2026-09-13T13:41:12.533Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 91
+    },
+    {
       "name": "@dankest-llc/xchain-sdk",
       "version": "2.0.0",
       "description": "xchain-sdk generates XChain Platform ACTION commands and encodes them into unsigned blockchain transactions as well as pulls data from the XChain APIs such as balances and transaction history.",
@@ -15950,6 +15974,18 @@
       "score": 58
     },
     {
+      "name": "@dshcli/dsh-cli",
+      "version": "0.2.1",
+      "description": "Pure-CLI terminal client for DeepSeek Harness (dsh): multi-turn agent sessions, an isolated harness home, a folder-dialog working-directory picker, model switching, one-command launch of the browser frontend, and vision-based frontend verification.",
+      "license": "MIT",
+      "repository": "https://github.com/zh591/dshcli",
+      "npmUrl": "https://www.npmjs.com/package/%40dshcli%2Fdsh-cli",
+      "category": "frontend",
+      "createdAt": "2026-09-13T13:06:43.431Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "@dshworks/dsh-ego-browser",
       "version": "0.1.1",
       "description": "ego lite for DeepSeek Harness, with a memory it keeps: the agent recalls what it learned about a site before it acts, promotes a script that worked into a reusable site tool, and hands you the keyboard through a real dsh prompt when a page needs a human.",
@@ -17136,6 +17172,18 @@
       "createdAt": "2026-08-13T03:37:07.801Z",
       "discoveredAt": "2026-08-13T04:02:31.627Z",
       "score": 83
+    },
+    {
+      "name": "@emtt/vue-monaco-ide",
+      "version": "0.2.0",
+      "description": "A zero-UI-framework Vue 3 code editor workbench built on Monaco Editor, with full Python IntelliSense powered by Pyright LSP. Supports TS/JS/Python/YAML/Markdown/JSON, binary/image/PDF preview, server hooks and a file tree with tabs and cross-file navigat",
+      "license": "MIT",
+      "repository": "https://github.com/emtiantian/vue-monaco-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40emtt%2Fvue-monaco-ide",
+      "category": "frontend",
+      "createdAt": "2026-09-13T15:20:50.002Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
     },
     {
       "name": "@enbox/crdt",
@@ -30674,6 +30722,18 @@
       "score": 88
     },
     {
+      "name": "@jopqior/pi-subagents",
+      "version": "1.0.0",
+      "description": "A focused, in-process sub-agent core for pi — autonomous agents plus a typed API and lifecycle events other extensions build on. Friendly fork of @tintinweb/pi-subagents.",
+      "license": "MIT",
+      "repository": "https://github.com/Jopqior/gotgenes-pi-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40jopqior%2Fpi-subagents",
+      "category": "backend",
+      "createdAt": "2026-09-13T05:00:42.755Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 89
+    },
+    {
       "name": "@jordandavila/fluid-canvas",
       "version": "1.0.0",
       "description": "Proportional canvas design system for Tailwind CSS — poster scaling from your Figma frame, with rem floors and a user text-size multiplier. Ships a v3 plugin and a v4 CSS-first build from one source of truth.",
@@ -43550,6 +43610,18 @@
       "score": 91
     },
     {
+      "name": "@ozjsey/v-copy",
+      "version": "1.1.0",
+      "description": "Vue 3 directive that copies any element — and keeps the last N copies so your users can pick one back out. Copy history with de-duplication, a copied-feedback state, slot-like reactive state, keyboard + a11y, and an automatic clipboard fallback. Zero depe",
+      "license": "MIT",
+      "repository": "https://github.com/ozJSey/vue-copy",
+      "npmUrl": "https://www.npmjs.com/package/%40ozjsey%2Fv-copy",
+      "category": "frontend",
+      "createdAt": "2026-09-13T12:51:47.083Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 100
+    },
+    {
       "name": "@ozjsey/v-fit-children",
       "version": "2.2.0",
       "description": "Vue directive that auto-hides children that don't fit within a container's width. Useful for chips, badges, tags, and other inline elements in tight spaces.",
@@ -43560,6 +43632,54 @@
       "createdAt": "2026-09-06T17:33:15.754Z",
       "discoveredAt": "2026-09-07T04:17:48.772Z",
       "score": 95
+    },
+    {
+      "name": "@ozjsey/v-keyboard-navigation",
+      "version": "0.1.0",
+      "description": "Vue 3 directive that turns a group of controls into one tab stop — roving tabindex, arrow keys, typeahead, Home/End, real PageUp/PageDown — with the controlled scroll (focus preventScroll + block:'nearest') the browser's own focus scroll gets wrong",
+      "license": "MIT",
+      "repository": "https://github.com/ozJSey/vue-keyboard-navigation",
+      "npmUrl": "https://www.npmjs.com/package/%40ozjsey%2Fv-keyboard-navigation",
+      "category": "frontend",
+      "createdAt": "2026-09-13T12:51:57.286Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
+      "name": "@ozjsey/v-scroll-into-view",
+      "version": "1.2.0",
+      "description": "Vue 3 directive for reactive scroll-into-view with edge detection, custom scroll container, and sticky-header offset — ideal for chat panes, modal lists, v-for active item, anchor navigation",
+      "license": "MIT",
+      "repository": "https://github.com/ozJSey/vue-scroll-into-view",
+      "npmUrl": "https://www.npmjs.com/package/%40ozjsey%2Fv-scroll-into-view",
+      "category": "frontend",
+      "createdAt": "2026-09-13T13:52:57.328Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 99
+    },
+    {
+      "name": "@ozjsey/v-select-text",
+      "version": "2.1.0",
+      "description": "Vue 3 directive for reactive text selection — select the rendered text of any element by range or pattern, optionally copying it, plus inputs, textareas and contenteditable",
+      "license": "MIT",
+      "repository": "https://github.com/ozJSey/vue-select-text",
+      "npmUrl": "https://www.npmjs.com/package/%40ozjsey%2Fv-select-text",
+      "category": "frontend",
+      "createdAt": "2026-09-13T13:53:02.551Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 97
+    },
+    {
+      "name": "@ozjsey/v-teleport-to",
+      "version": "3.0.0",
+      "description": "Vue 3 directive for viewport-aware fixed positioning relative to a reference element — escapes overflow containers",
+      "license": "MIT",
+      "repository": "https://github.com/ozJSey/vue-teleport-to",
+      "npmUrl": "https://www.npmjs.com/package/%40ozjsey%2Fv-teleport-to",
+      "category": "frontend",
+      "createdAt": "2026-09-13T13:53:07.721Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 89
     },
     {
       "name": "@p404c/mcp-remote",
@@ -48024,6 +48144,18 @@
       "createdAt": "2026-08-08T16:39:06.271Z",
       "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 87
+    },
+    {
+      "name": "@rennzsync/baileys",
+      "version": "10.2.0",
+      "description": "renz/baileys — WhatsApp Multi-Device library rebased @whiskeysockets/baileys 7.0.0-rc14, using the original libsignal (GPL-3.0) Signal Protocol engine. Maintained by RennZz-Dev. Focus: multimedia WhatsApp bots, low RAM footprint.",
+      "license": "MIT",
+      "repository": "https://github.com/RennZSync/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40rennzsync%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-09-13T05:37:18.969Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 98
     },
     {
       "name": "@renovate-config-debugger/cli",
@@ -63146,6 +63278,18 @@
       "score": 59
     },
     {
+      "name": "@zhengjunyao/dsh-updater",
+      "version": "0.1.0",
+      "description": "Track DeepSeek Harness's own releases and update in one click: follows the npm dist-tags and GitHub releases, shows every change between the running build and the target, grades the risk (prerelease, breaking-change wording, version jump, duplicate instal",
+      "license": "MIT",
+      "repository": "https://github.com/zhengjy01/dsh-updater",
+      "npmUrl": "https://www.npmjs.com/package/%40zhengjunyao%2Fdsh-updater",
+      "category": "build-tools",
+      "createdAt": "2026-09-13T14:38:19.679Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "@zhenhuang/pi-xai-search",
       "version": "0.1.0",
       "description": "Model-independent live X search for Pi, powered by xAI's native x_search tool",
@@ -63818,6 +63962,18 @@
       "score": 84
     },
     {
+      "name": "a2a-audit",
+      "version": "1.1.0",
+      "description": "Zero-dependency DevSecOps static security scanner and SARIF linter for Agent2Agent (A2A) Agent Cards (/.well-known/agent-card.json)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Ansarii/a2a-audit",
+      "npmUrl": "https://www.npmjs.com/package/a2a-audit",
+      "category": "devops",
+      "createdAt": "2026-09-13T06:57:00.216Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "a2done",
       "version": "0.2.0",
       "description": "Enforcement layer for AI coding agents: finish every item you asked for, stop generating slop, stop repeating corrected mistakes — proven by machine-checked evidence, not the agent's own word.",
@@ -64344,6 +64500,18 @@
       "createdAt": "2026-08-11T13:53:47.714Z",
       "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 65
+    },
+    {
+      "name": "agent-brain-kit",
+      "version": "0.1.0",
+      "description": "Persistent memory for coding agents: a BRAIN.md discipline read before every session and written after, a project-constitution generator that keeps many repos aligned, and hooks that enforce it.",
+      "license": "MIT",
+      "repository": "https://github.com/intotheveil/brain-kit",
+      "npmUrl": "https://www.npmjs.com/package/agent-brain-kit",
+      "category": "devops",
+      "createdAt": "2026-09-13T13:06:44.387Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 89
     },
     {
       "name": "agent-build-guard",
@@ -68400,6 +68568,18 @@
       "createdAt": "2026-07-28T01:31:42.361Z",
       "discoveredAt": "2026-07-28T01:49:08.647Z",
       "score": 87
+    },
+    {
+      "name": "billing-doctor",
+      "version": "0.1.0",
+      "description": "Incident diagnosis for Google Play Billing integrations. Reads a redacted purchase timeline and shows where it broke, with evidence and Google's rule. Runs locally, calls nothing, changes nothing at Google. Not affiliated with Google.",
+      "license": "MIT",
+      "repository": "https://github.com/lazytitan30/billing-doctor",
+      "npmUrl": "https://www.npmjs.com/package/billing-doctor",
+      "category": "backend",
+      "createdAt": "2026-09-13T06:45:19.370Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
     },
     {
       "name": "bimtex",
@@ -76886,6 +77066,18 @@
       "score": 69
     },
     {
+      "name": "dsh-literature-search",
+      "version": "0.2.4",
+      "description": "Literature search for DeepSeek Harness over the official PubMed NCBI E-utilities API (esearch/esummary/efetch/elink) and Google Scholar (SerpApi engine, or direct HTML parsing because Google publishes no Scholar API). Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Astervolans/dsh-literature-search",
+      "npmUrl": "https://www.npmjs.com/package/dsh-literature-search",
+      "category": "backend",
+      "createdAt": "2026-09-13T14:48:27.934Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "dsh-local-ai",
       "version": "0.1.0",
       "description": "Local-model (Ollama) integration for DeepSeek Harness: discover, pull, remove, and inspect local models, route requests to them by task type or keyword with automatic fallback to the cloud, and get a one-shot status overview via /ollama.",
@@ -79550,6 +79742,18 @@
       "score": 83
     },
     {
+      "name": "eslint-plugin-supabase-security",
+      "version": "0.2.0",
+      "description": "ESLint plugin for Supabase security — catches the service_role key reaching client code, RPC called with a computed function name, auth results whose error is discarded, and storage buckets created public.",
+      "license": "MIT",
+      "repository": "https://github.com/ofri-peretz/eslint",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-supabase-security",
+      "category": "data",
+      "createdAt": "2026-09-13T06:13:13.364Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "eslint-plugin-typeorm-security",
       "version": "0.1.0",
       "description": "ESLint plugin for typeorm — detects SQL injection in raw queries built with string concatenation or template literals.",
@@ -80162,6 +80366,18 @@
       "score": 95
     },
     {
+      "name": "extshield",
+      "version": "1.0.1",
+      "description": "Minify and harden Chrome extensions without breaking Web Store policy — esbuild minification, terser property mangling, WASM sinking and a pre-upload compliance scan.",
+      "license": "MIT",
+      "repository": "https://github.com/kwangroy/extshield",
+      "npmUrl": "https://www.npmjs.com/package/extshield",
+      "category": "frontend",
+      "createdAt": "2026-09-12T15:44:26.921Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 93
+    },
+    {
       "name": "ez-thumb",
       "version": "1.1.0",
       "description": "YouTube thumbnail and title packaging studio for Claude Code. Onboard once: it finds your competitors (vidIQ or your own list), pulls their best thumbnails through Apify, reads every image with vision, and writes the whole corpus back into itself. After t",
@@ -80592,6 +80808,18 @@
       "createdAt": "2026-07-25T19:36:45.389Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 76
+    },
+    {
+      "name": "fee-optimizer-mcp",
+      "version": "0.47.1",
+      "description": "An MCP server that compares crypto exchange trading fees across Binance, OKX, Gate.io, Bybit, MEXC, Bitget, KuCoin, Kraken, Coinbase, Hyperliquid, BingX, Phemex, BloFin, Bitstamp, Bitvavo, Finst, Bitpanda and BISON (VIP tiers, token discounts, funding, wi",
+      "license": "MIT",
+      "repository": "https://github.com/gaokai258/fee-optimizer-mcp",
+      "npmUrl": "https://www.npmjs.com/package/fee-optimizer-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-13T15:28:22.250Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
     },
     {
       "name": "feedback-magic",
@@ -88344,6 +88572,18 @@
       "createdAt": "2026-07-26T15:08:52.864Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 81
+    },
+    {
+      "name": "llmwire",
+      "version": "2.0.0",
+      "description": "Zero-dependency TypeScript client for OpenAI, Anthropic, Gemini, Ollama, LM Studio, Groq, OpenRouter, DeepSeek, Mistral, xAI, Together and any OpenAI-compatible API. Real streaming, tool calling, structured output (Standard Schema or JSON Schema), images,",
+      "license": "MIT",
+      "repository": "https://github.com/tanvoid0/llmwire",
+      "npmUrl": "https://www.npmjs.com/package/llmwire",
+      "category": "backend",
+      "createdAt": "2026-09-13T15:27:37.393Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 100
     },
     {
       "name": "lo-justo-design-kit",
@@ -98990,6 +99230,18 @@
       "score": 72
     },
     {
+      "name": "pi-command-code",
+      "version": "1.0.0",
+      "description": "Command Code Provider API for Pi — every top model (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, Qwen, Grok & more) behind one OpenAI- or Anthropic-compatible endpoint, with the live model catalog discovered automatically at startup.",
+      "license": "MIT",
+      "repository": "https://github.com/Observert/pi-command-code",
+      "npmUrl": "https://www.npmjs.com/package/pi-command-code",
+      "category": "backend",
+      "createdAt": "2026-09-13T07:10:06.684Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 100
+    },
+    {
       "name": "pi-conf-manager",
       "version": "0.2.0",
       "description": "Manage Pi presets, tools, skills, context files, and extensions from one package. Based on Hor1zonZzz/pi-config-manager.",
@@ -103644,6 +103896,18 @@
       "createdAt": "2026-08-08T16:11:28.830Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 82
+    },
+    {
+      "name": "react-native-reload-widget",
+      "version": "1.0.0",
+      "description": "react-native-reload-widget is a lightweight and efficient React Native module that reloads your app's home screen widgets on demand, on iOS and Android.",
+      "license": "MIT",
+      "repository": "https://github.com/wneel/react-native-reload-widget",
+      "npmUrl": "https://www.npmjs.com/package/react-native-reload-widget",
+      "category": "frontend",
+      "createdAt": "2026-09-13T12:24:32.675Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 95
     },
     {
       "name": "react-native-responsive-layout-kit",
@@ -110630,6 +110894,18 @@
       "score": 90
     },
     {
+      "name": "teacher-sab",
+      "version": "0.1.0",
+      "description": "A teaching system that works in any AI harness - opencode, Claude Code, Codex, Cursor, pi, plain chat. The teach skill reads the learner's profile every session, probes before explaining, and spaces review across sessions. Pedagogy by amosblomqvist/learn",
+      "license": "MIT",
+      "repository": "https://github.com/K1NGS1LVER/teacher_sab",
+      "npmUrl": "https://www.npmjs.com/package/teacher-sab",
+      "category": "utilities",
+      "createdAt": "2026-09-13T10:08:59.224Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "teamcity-qa-mcp",
       "version": "1.3.1",
       "description": "Read-only MCP server for AI-assisted root-cause analysis of TeamCity build failures",
@@ -112010,6 +112286,18 @@
       "score": 59
     },
     {
+      "name": "trainmath",
+      "version": "0.1.1",
+      "description": "Plan and sanity-check LLM pretraining runs in TypeScript - parameter counts, FLOPs per token, MFU from measured throughput, expected tokens/sec, Chinchilla token budgets, per-GPU memory under DDP, ZeRO and FSDP, hours and cost on H100, A100, B200, MI300X",
+      "license": "MIT",
+      "repository": "https://github.com/qwertymuzaffar/trainmath",
+      "npmUrl": "https://www.npmjs.com/package/trainmath",
+      "category": "data",
+      "createdAt": "2026-09-13T05:44:37.372Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
       "name": "traintrack-mcp",
       "version": "1.0.0",
       "description": "MCP server for TrainTrack — Indian Railways train search, schedules, live status, station data, and PNR status for AI agents.",
@@ -112380,6 +112668,18 @@
       "createdAt": "2026-08-01T21:02:59.661Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 77
+    },
+    {
+      "name": "turnbell",
+      "version": "1.0.0",
+      "description": "Voice, desktop, and webhook notifications for CLI coding agents (Claude Code, Codex, Gemini, Copilot, Cursor & more) — calls out the moment your agent finishes or needs you.",
+      "license": "MIT",
+      "repository": "https://github.com/paurushrai/turnbell",
+      "npmUrl": "https://www.npmjs.com/package/turnbell",
+      "category": "cli",
+      "createdAt": "2026-09-13T15:30:41.890Z",
+      "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 97
     },
     {
       "name": "turndb",
