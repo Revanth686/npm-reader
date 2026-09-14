@@ -2618,6 +2618,18 @@
       "score": 76
     },
     {
+      "name": "@akinet/akidevrule",
+      "version": "3.0.0",
+      "description": "Aki's shared rule corpus + Agent Skills for Claude Code, Gemini/Antigravity, Codex, Kiro and Grok — install and update with one command.",
+      "license": "MIT",
+      "repository": "https://github.com/lacvietanh/akidevrule",
+      "npmUrl": "https://www.npmjs.com/package/%40akinet%2Fakidevrule",
+      "category": "utilities",
+      "createdAt": "2026-09-13T16:57:24.800Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 93
+    },
+    {
       "name": "@akinozgen17/selectablejs",
       "version": "0.1.1",
       "description": "Framework-agnostic, zero-dependency, premium select component. Flexible like select2, featureful like bootstrap-select, unbreakable design.",
@@ -7358,6 +7370,18 @@
       "score": 79
     },
     {
+      "name": "@basty/omnifree",
+      "version": "1.0.0",
+      "description": "One slash, zero setup — /use. Routes every request through 8 verified free-tier providers (chat, code, image) with level-2 token compression. Bash vs chat intent inferred from one quoted string.",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "repository": "https://github.com/Basty-devel/test-claude-md",
+      "npmUrl": "https://www.npmjs.com/package/%40basty%2Fomnifree",
+      "category": "utilities",
+      "createdAt": "2026-09-13T17:22:54.643Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 97
+    },
+    {
       "name": "@batthewz/response-ui-renderer",
       "version": "0.1.0",
       "description": "Render declarative JSON (ViewSpec) as @batthewz/response-ui-react-components. The machine-authorable layer of the response-ui design system.",
@@ -11412,6 +11436,18 @@
       "createdAt": "2026-09-04T20:28:55.480Z",
       "discoveredAt": "2026-09-05T04:10:45.685Z",
       "score": 96
+    },
+    {
+      "name": "@codelore/mcp",
+      "version": "1.0.1",
+      "description": "MCP server for incremental living Markdown documentation tied to TypeScript and JavaScript code.",
+      "license": "MIT",
+      "repository": "https://github.com/BaryshevRS/codelore",
+      "npmUrl": "https://www.npmjs.com/package/%40codelore%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-09-13T17:46:39.296Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 89
     },
     {
       "name": "@codeminity/fetch",
@@ -17304,6 +17340,18 @@
       "createdAt": "2026-08-06T01:22:56.912Z",
       "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 66
+    },
+    {
+      "name": "@enruta/accept",
+      "version": "0.1.0",
+      "description": "Accept middleware for merchants: detects agent traffic, verifies Enruta mandates (ES256 over WebCrypto), labels the request with agent, mandate, policy and principal, and reports agent orders to Enruta. Web APIs only: Cloudflare Workers, Vercel Edge, Fast",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/enruta-ai/enruta",
+      "npmUrl": "https://www.npmjs.com/package/%40enruta%2Faccept",
+      "category": "backend",
+      "createdAt": "2026-09-13T23:15:42.121Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 90
     },
     {
       "name": "@enterpret/servicenow-mcp",
@@ -28416,6 +28464,18 @@
       "createdAt": "2026-08-01T14:06:20.704Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 80
+    },
+    {
+      "name": "@imansi/templates-auth",
+      "version": "0.1.1",
+      "description": "Variantes visuales de autenticación para el ecosistema Imansi: Login, Registro, 2FA y recuperación de contraseña. Listos para conectar a imansi-auth-react.",
+      "license": "MIT",
+      "repository": "https://github.com/imansi-pro/imansi-templates-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40imansi%2Ftemplates-auth",
+      "category": "frontend",
+      "createdAt": "2026-09-13T11:41:27.700Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 85
     },
     {
       "name": "@immeodk/pr-signoff",
@@ -42146,6 +42206,18 @@
       "score": 67
     },
     {
+      "name": "@ohos-ports/partyserver",
+      "version": "0.5.8",
+      "description": "Build real-time applications powered by [Durable Objects](https://developers.cloudflare.com/durable-objects/), inspired by [PartyKit](https://www.partykit.io/).",
+      "license": "ISC",
+      "repository": "https://github.com/cloudflare/partykit",
+      "npmUrl": "https://www.npmjs.com/package/%40ohos-ports%2Fpartyserver",
+      "category": "backend",
+      "createdAt": "2026-09-10T14:29:45.480Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 86
+    },
+    {
       "name": "@okeav/idp-core",
       "version": "0.1.0",
       "description": "Standalone, pluggable identity provider for Node.js/TypeScript backends — OAuth2/OIDC authorization server, password + MFA + social login, session management, and service-to-service JWKS trust. Bring your own MongoDB.",
@@ -48746,6 +48818,18 @@
       "score": 88
     },
     {
+      "name": "@rivesync/a11y-reader",
+      "version": "0.1.0",
+      "description": "Drop-in accessibility reading widget for React and Next.js: dyslexia-friendly font, high contrast, font scaling, letter and line spacing, and a reading ruler or focus mask.",
+      "license": "MIT",
+      "repository": "https://github.com/RiveSync/a11y-reader",
+      "npmUrl": "https://www.npmjs.com/package/%40rivesync%2Fa11y-reader",
+      "category": "frontend",
+      "createdAt": "2026-09-13T19:38:50.919Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 85
+    },
+    {
       "name": "@rivia-labs/ddd-ts",
       "version": "1.0.0",
       "description": "A shared foundation for TypeScript projects following our interpretation of DDD, including entities, domain events, aggregates, functional error handling, and other reusable components shared across modules.",
@@ -53102,6 +53186,18 @@
       "score": 69
     },
     {
+      "name": "@sontakey/ppg-js",
+      "version": "0.3.0",
+      "description": "Camera PPG in the browser: heart rate, pulse-rate variability, respiration and signal quality from a fingertip on a phone camera. Zero dependencies, typed, no UI.",
+      "license": "MIT",
+      "repository": "https://github.com/sontakey/ppg-js",
+      "npmUrl": "https://www.npmjs.com/package/%40sontakey%2Fppg-js",
+      "category": "frontend",
+      "createdAt": "2026-09-12T23:16:56.563Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 86
+    },
+    {
       "name": "@sophostechne/quant-daemon",
       "version": "1.1.0",
       "description": "Market data daemon. Serves a JSON control plane to the editor extension host and a binary tick plane directly to chart webviews.",
@@ -56438,6 +56534,18 @@
       "score": 78
     },
     {
+      "name": "@theengineeringmind/auto-skeleton",
+      "version": "0.1.1",
+      "description": "Automatic skeleton loading screens measured from your real UI. React skeleton component and vanilla JS core with shimmer, SSR and Next.js support. No hand-written skeleton components.",
+      "license": "MIT",
+      "repository": "https://github.com/theengineeringmind/auto-skeleton",
+      "npmUrl": "https://www.npmjs.com/package/%40theengineeringmind%2Fauto-skeleton",
+      "category": "frontend",
+      "createdAt": "2026-09-13T17:06:39.893Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 88
+    },
+    {
       "name": "@thefireflysparkle/codelens-cli",
       "version": "0.1.1",
       "description": "Multi-agent LLM code review tool. A context agent builds RAG embeddings over your codebase and feeds a review agent that reasons over git diffs, streaming its review token-by-token.",
@@ -57468,6 +57576,18 @@
       "createdAt": "2026-08-15T10:42:05.039Z",
       "discoveredAt": "2026-08-15T10:57:44.139Z",
       "score": 67
+    },
+    {
+      "name": "@traceten/sdk-node",
+      "version": "1.0.0",
+      "description": "Traceten server-side SDK for Node.js — send AI-traffic pageviews and conversions from your backend.",
+      "license": "MIT",
+      "repository": "https://github.com/traceten/sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40traceten%2Fsdk-node",
+      "category": "backend",
+      "createdAt": "2026-09-13T19:43:05.282Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 89
     },
     {
       "name": "@tracklane/consent",
@@ -65990,6 +66110,18 @@
       "score": 98
     },
     {
+      "name": "algostakex",
+      "version": "2.0.0",
+      "description": "White-label Algorand staking SDK for browser and Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/IBHAGYESH/AlgoStakeX",
+      "npmUrl": "https://www.npmjs.com/package/algostakex",
+      "category": "frontend",
+      "createdAt": "2026-09-13T16:11:40.624Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 85
+    },
+    {
       "name": "aliensec-mcp-server",
       "version": "1.0.0",
       "description": "AlienVault OTX Endpoint Security Scanning MCP Server with VirusTotal Integration",
@@ -68378,6 +68510,18 @@
       "score": 57
     },
     {
+      "name": "benchpress-guard",
+      "version": "0.1.0",
+      "description": "Code-enforced tool policy for Vercel AI SDK agents: classify every tool call, refuse what the policy does not allow before execute runs, and keep JSONL receipts. The Benchpress guard, byte-compatible with the Python shims.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rajkaria/benchpress",
+      "npmUrl": "https://www.npmjs.com/package/benchpress-guard",
+      "category": "utilities",
+      "createdAt": "2026-09-13T21:42:06.125Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 87
+    },
+    {
       "name": "benchwright",
       "version": "1.1.0",
       "description": "Benchmark anything an agent loads — skills, rules, prompts, MCP wiring — through headless agent-CLI runs: trigger / functional / ablation layers, deterministic graders, mock services, resumable reports.",
@@ -69732,6 +69876,18 @@
       "createdAt": "2026-08-03T00:21:50.745Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 66
+    },
+    {
+      "name": "cadence-tokens",
+      "version": "2.0.0",
+      "description": "The Cadence motion token system: three motion personalities (Snappy, Standard, Cinematic) as data, with emitters for CSS custom properties, DTCG, flat JSON, Framer Motion, After Effects (a TOKENS Motion control layer script), a Flow easing library, and Ri",
+      "license": "MIT",
+      "repository": "https://github.com/StudioDavidPreli/cadence",
+      "npmUrl": "https://www.npmjs.com/package/cadence-tokens",
+      "category": "frontend",
+      "createdAt": "2026-09-03T17:44:53.917Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 89
     },
     {
       "name": "cairn-spec",
@@ -74066,6 +74222,18 @@
       "score": 90
     },
     {
+      "name": "cursory-js",
+      "version": "2.0.1",
+      "description": "Mouse Trajectory Factory. Generate 100% human-realistic mouse trajectories with timings. A TypeScript port of Vinyzu's cursory.",
+      "license": "LGPL-3.0-or-later",
+      "repository": "https://github.com/JWriter20/cursory-js",
+      "npmUrl": "https://www.npmjs.com/package/cursory-js",
+      "category": "testing",
+      "createdAt": "2026-09-13T23:36:56.320Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 92
+    },
+    {
       "name": "curtis-mcp",
       "version": "0.1.0",
       "description": "Curtis is an MCP server that runs your LinkedIn outreach from your own machine: it logs in once, works through your contact list, and sends connection requests slowly enough to look like you.",
@@ -76790,6 +76958,18 @@
       "score": 98
     },
     {
+      "name": "dsh-geometry-knowledge",
+      "version": "0.4.0",
+      "description": "几何论（共扼谱几何 CSG）知识库插件 for DeepSeek Harness：以 Markdown 文章为唯一真源，程序自动重建 BM25 索引、类型化主张依赖图与修复工作单并做一致性审计，附 869 条真理层与 SymPy 公式验证。开箱即用的离线知识库（31 个 geo_* 工具），零运行时依赖。Conjugate Spectral Geometry knowledge base plugin for DeepSeek Harness: offline BM25 retrieval, typed",
+      "license": "MIT",
+      "repository": "https://github.com/sdoygb/dsh-geometry-knowledge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-geometry-knowledge",
+      "category": "utilities",
+      "createdAt": "2026-09-14T03:34:14.739Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 88
+    },
+    {
       "name": "dsh-git-credentials",
       "version": "0.3.1",
       "description": "Out-of-tree dsh plugin: GitLab, GitHub, Gitee, Gitea, and Bitbucket tokens stay out of the model context, stored encrypted (AES-256-GCM) in a plugin-owned file; the model calls forge API tools on demand, and the web settings page manages sites and tokens.",
@@ -77472,6 +77652,18 @@
       "createdAt": "2026-08-15T13:37:15.282Z",
       "discoveredAt": "2026-08-16T01:49:36.241Z",
       "score": 98
+    },
+    {
+      "name": "dsh-pc-pilot",
+      "version": "0.3.6",
+      "description": "PC-Pilot - DeepSeek Harness Windows computer-use host plugin: standard computer-use actions, ordered batches, UIA accessibility targeting, state-bound screenshots and coordinates, background synthetic input, occlusion-immune per-window capture, and real S",
+      "license": "MIT",
+      "repository": "https://github.com/JeremyWangCY/dsh-pc-pilot",
+      "npmUrl": "https://www.npmjs.com/package/dsh-pc-pilot",
+      "category": "utilities",
+      "createdAt": "2026-09-14T02:31:44.460Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 90
     },
     {
       "name": "dsh-peak-balance",
@@ -80486,6 +80678,18 @@
       "score": 66
     },
     {
+      "name": "fakeforge-br",
+      "version": "0.2.0",
+      "description": "SDK oficial do FakeForge para gerar dados brasileiros válidos (CPF, CNPJ, CEP, PIX, cartão de crédito) em testes de software. Presets verticais fintech + ecom. Zero dependências, TypeScript nativo.",
+      "license": "MIT",
+      "repository": "https://github.com/everpaula/fakeforge-br",
+      "npmUrl": "https://www.npmjs.com/package/fakeforge-br",
+      "category": "testing",
+      "createdAt": "2026-09-13T21:12:03.564Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 87
+    },
+    {
       "name": "familymarkup-codemirror",
       "version": "1.0.0",
       "description": "CodeMirror 6 highlighting for FamilyMarkup, powered by the Go parser compiled to WebAssembly",
@@ -81254,6 +81458,18 @@
       "score": 63
     },
     {
+      "name": "flashpop",
+      "version": "1.1.0",
+      "description": "A lightweight, customizable, and modern toast notification library for React applications.",
+      "license": "MIT",
+      "repository": "https://github.com/ShyamPatidar-17/flashpop",
+      "npmUrl": "https://www.npmjs.com/package/flashpop",
+      "category": "frontend",
+      "createdAt": "2026-09-13T18:07:24.215Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 89
+    },
+    {
       "name": "flat-sdk",
       "version": "1.0.0",
       "description": "SDK for AI agents to interact with flat.cash — register FlatIDs, earn SAVE tokens, query Private AI, and trade on P2P exchange",
@@ -81492,6 +81708,18 @@
       "createdAt": "2026-08-02T12:31:40.319Z",
       "discoveredAt": "2026-08-02T13:03:05.537Z",
       "score": 76
+    },
+    {
+      "name": "forge.timers",
+      "version": "1.3.0",
+      "description": "Persists $setTimeout and $setInterval in ForgeDB or QuorielDB, restores them on restart, and exposes them through functions and events.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/Daaisukidayo/ForgeTimers",
+      "npmUrl": "https://www.npmjs.com/package/forge.timers",
+      "category": "utilities",
+      "createdAt": "2026-09-13T19:20:10.850Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 93
     },
     {
       "name": "forgedoc",
@@ -86582,6 +86810,18 @@
       "score": 60
     },
     {
+      "name": "kairos-lang",
+      "version": "1.0.1",
+      "description": "Kairos schedule definition language — reference implementation (CLI + evaluator, zero runtime dependencies)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/azathothx/kairos-lang",
+      "npmUrl": "https://www.npmjs.com/package/kairos-lang",
+      "category": "cli",
+      "createdAt": "2026-09-13T15:56:03.425Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 86
+    },
+    {
       "name": "kaivo",
       "version": "2.2.0",
       "description": "A lightweight, TypeScript-first library built on unjs/h3 for quickly creating HTTP servers.",
@@ -87624,6 +87864,18 @@
       "createdAt": "2026-08-11T03:28:16.658Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 80
+    },
+    {
+      "name": "laporan-generator",
+      "version": "2.6.2",
+      "description": "Universal Academic Report & Thesis Generator with Multi-Host AI Agent Skills (Antigravity, Claude, Grok)",
+      "license": "MIT",
+      "repository": "https://github.com/muadzhdz/laporan-generator",
+      "npmUrl": "https://www.npmjs.com/package/laporan-generator",
+      "category": "cli",
+      "createdAt": "2026-09-13T18:31:07.523Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 90
     },
     {
       "name": "laravel-forge-readonly-mcp",
@@ -97874,6 +98126,18 @@
       "score": 78
     },
     {
+      "name": "p2pcrypt",
+      "version": "1.0.0",
+      "description": "Flexible encryption, decryption, and hashing for Node.js — featuring the proprietary p2pcrypt-v1 algorithm by P2PClouds",
+      "license": "ISC",
+      "repository": "https://github.com/p2pcloudsprojects/p2pcrypt",
+      "npmUrl": "https://www.npmjs.com/package/p2pcrypt",
+      "category": "devops",
+      "createdAt": "2026-09-13T19:25:32.364Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 88
+    },
+    {
       "name": "paceproof-cli",
       "version": "0.1.0",
       "description": "CLI + MCP server that verifies Ed25519-signed compute-attestation records from any provider and reports what compute was actually run, by whom, and whether every signature checks out. Read-only reporting layer -- does not sign or generate attestations.",
@@ -105194,6 +105458,18 @@
       "score": 65
     },
     {
+      "name": "rich-input",
+      "version": "1.0.0",
+      "description": "A rich input field with keyword-based autocomplete and in-input highlighting powered by <datalist>, OpaqueRange, and the Custom Highlight API",
+      "license": "MIT",
+      "repository": "https://github.com/bramus/rich-input",
+      "npmUrl": "https://www.npmjs.com/package/rich-input",
+      "category": "backend",
+      "createdAt": "2026-09-13T23:36:51.757Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 90
+    },
+    {
       "name": "rift-diff",
       "version": "0.2.0",
       "description": "A zero-dependency, TypeScript-first diff engine built around ranges and predictable resource limits.",
@@ -111794,6 +112070,18 @@
       "score": 75
     },
     {
+      "name": "tirelesscoding",
+      "version": "0.0.1",
+      "description": "TirelessCoding: run several AI coding agents on one project at once, each in its own git worktree, and merge only what passes your tests. Claude Code, Codex, Anthropic/OpenAI APIs, OpenRouter, custom providers; web UI and MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/nassirian/tirelesscoding",
+      "npmUrl": "https://www.npmjs.com/package/tirelesscoding",
+      "category": "testing",
+      "createdAt": "2026-09-13T22:06:36.380Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 90
+    },
+    {
       "name": "tiryaq-healthcare-shared",
       "version": "1.0.1",
       "description": "Shared types, interfaces, and message patterns for Tiryaq healthcare microservices",
@@ -113532,6 +113820,18 @@
       "createdAt": "2026-08-30T12:57:05.001Z",
       "discoveredAt": "2026-08-30T16:33:33.661Z",
       "score": 96
+    },
+    {
+      "name": "uploaderkit",
+      "version": "2.0.0",
+      "description": "One upload contract for every storage provider — scope registry, isomorphic validation, headless React and a server router.",
+      "license": "MIT",
+      "repository": "https://github.com/Ricwolf19/uploaderkit",
+      "npmUrl": "https://www.npmjs.com/package/uploaderkit",
+      "category": "frontend",
+      "createdAt": "2026-08-13T02:27:47.367Z",
+      "discoveredAt": "2026-09-14T04:38:39.761Z",
+      "score": 92
     },
     {
       "name": "urdu-text-utils",

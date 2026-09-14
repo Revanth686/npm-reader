@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 130326961,
-  "lastRunAt": "2026-09-13T16:05:49.078Z",
+  "lastSequence": 130384098,
+  "lastRunAt": "2026-09-14T04:38:39.761Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@ckeditor-nonkey/ckeditor5-word-count",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@prompttracker/cli",
+      "name": "@ckanner/flywheel-darwin-amd64",
       "attempts": 1
     },
     {
-      "name": "@ar_rony1/prompt-lens",
+      "name": "@ckanner/flywheel-linux-arm64",
       "attempts": 1
     },
     {
-      "name": "@longcipher/longtrader-sdk",
+      "name": "@qa-insight/playwright-reporter",
       "attempts": 1
     }
   ]
