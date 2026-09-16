@@ -2378,6 +2378,18 @@
       "score": 82
     },
     {
+      "name": "@aifinpay/wallet",
+      "version": "1.1.0",
+      "description": "Derive an AiFinPay agent wallet (Solana + EVM + Casper) with four tiny crypto deps — no viem, no @solana/web3.js, ~4.5 MB. The light way to give an agent a wallet where the full SDK will not install.",
+      "license": "MIT",
+      "repository": "https://github.com/AiFinPay/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40aifinpay%2Fwallet",
+      "category": "utilities",
+      "createdAt": "2026-09-16T14:19:54.257Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 85
+    },
+    {
       "name": "@aimform/apps",
       "version": "0.1.1",
       "description": "Aimform App Store SDK — define, validate, and publish apps for the Aimform platform",
@@ -18132,6 +18144,18 @@
       "createdAt": "2026-08-11T07:17:14.132Z",
       "discoveredAt": "2026-08-11T07:59:00.376Z",
       "score": 77
+    },
+    {
+      "name": "@evnx/crypto-wasm",
+      "version": "0.1.1",
+      "description": "Zero-knowledge encryption primitives for evnx, compiled to WebAssembly. The same Rust the evnx CLI and server use — Argon2id, AES-256-GCM, XChaCha20-Poly1305, X25519 and SRP-6a. Keys are opaque handles, never bytes.",
+      "license": "MIT",
+      "repository": "https://github.com/urwithajit9/evnx-crypto",
+      "npmUrl": "https://www.npmjs.com/package/%40evnx%2Fcrypto-wasm",
+      "category": "backend",
+      "createdAt": "2026-09-16T08:53:14.139Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
     },
     {
       "name": "@exellix/ai-tasks-docs",
@@ -42134,6 +42158,18 @@
       "score": 69
     },
     {
+      "name": "@nyawave/baked-icons",
+      "version": "0.1.0",
+      "description": "Iconify-compatible React <Icon> whose icons are baked into your bundle at build time. Zero runtime fetching, SSR/RSC friendly. Vite + Next.js (Turbopack/webpack).",
+      "license": "MIT",
+      "repository": "https://github.com/nyawave/baked-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40nyawave%2Fbaked-icons",
+      "category": "frontend",
+      "createdAt": "2026-09-16T13:43:44.465Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
+    },
+    {
       "name": "@nynb/dev-cleaner",
       "version": "0.1.0",
       "description": "Interactive TUI that finds regenerable build artifacts across a projects directory and moves them to the Trash.",
@@ -50306,6 +50342,18 @@
       "score": 90
     },
     {
+      "name": "@sahilbnsll/claude-superpack",
+      "version": "5.0.2",
+      "description": "An engineering operating system for Claude Code: risk-tiered workflows, 15 on-demand domain references, deterministic recon/verification/risk scripts, and an evidence gate before any completion claim. Nine skills, ~750 tokens of always-on context.",
+      "license": "MIT",
+      "repository": "https://github.com/sahilbnsll/claude-superpack",
+      "npmUrl": "https://www.npmjs.com/package/%40sahilbnsll%2Fclaude-superpack",
+      "category": "frontend",
+      "createdAt": "2026-09-16T11:13:23.677Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 100
+    },
+    {
       "name": "@sahilkhatiwada/mock-data-generator",
       "version": "1.0.2",
       "description": "Generate realistic mock data without external dependencies",
@@ -57794,6 +57842,18 @@
       "score": 87
     },
     {
+      "name": "@tollstile/mcp",
+      "version": "0.1.1",
+      "description": "Charge for MCP tools: paid tools for the MCP TypeScript SDK with x402, MPP, credits, and subscriptions. Payment challenges, receipts, and refunds handled for you.",
+      "license": "MIT",
+      "repository": "https://github.com/tollstile/tollstile",
+      "npmUrl": "https://www.npmjs.com/package/%40tollstile%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-09-15T10:18:25.166Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
+    },
+    {
       "name": "@tollwarden/ai-sdk",
       "version": "0.1.0",
       "description": "TollWarden payment security for the Vercel AI SDK: scan-before-you-pay tools for x402 payments, plus an onStepFinish handler that auto-tags provenance for prompt-injection detection, and guardedPayment for enforcement by construction.",
@@ -58848,6 +58908,18 @@
       "createdAt": "2026-08-06T21:37:51.509Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 61
+    },
+    {
+      "name": "@underpost/cyberia",
+      "version": "3.4.0",
+      "description": "Cyberia CLI — toolchain for the Cyberia MMO data layer, content pipeline, persistence, gRPC services, and ERC-1155 lifecycle on Hyperledger Besu.",
+      "license": "MIT",
+      "repository": "https://github.com/underpost/engine-ghpkg-cyberia",
+      "npmUrl": "https://www.npmjs.com/package/%40underpost%2Fcyberia",
+      "category": "data",
+      "createdAt": "2026-09-16T09:04:15.741Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 94
     },
     {
       "name": "@underpost/underpost",
@@ -61538,6 +61610,18 @@
       "score": 85
     },
     {
+      "name": "@wenker-ai/wenker-router",
+      "version": "2.1.13",
+      "description": "WENKER Router - Open Source Local AI Proxy Gateway supporting 180+ providers and WENKER Cloud",
+      "license": "MIT",
+      "repository": "https://github.com/WENKER-AI/wenker-router",
+      "npmUrl": "https://www.npmjs.com/package/%40wenker-ai%2Fwenker-router",
+      "category": "devops",
+      "createdAt": "2026-09-16T14:30:50.566Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 89
+    },
+    {
       "name": "@weotro/dx",
       "version": "0.1.0",
       "description": "一个可安装的 Node.js CLI，用于管理符合约定的 pnpm + nx monorepo 项目的构建/启动/数据库/部署等流程。",
@@ -62292,6 +62376,18 @@
       "createdAt": "2026-08-15T06:22:34.428Z",
       "discoveredAt": "2026-08-15T07:02:55.991Z",
       "score": 91
+    },
+    {
+      "name": "@wycm9527/citrine",
+      "version": "2.11.5",
+      "description": "Citrine（黄晶）· 公司级中后台设计系统种子：DTCG token（亮 / 暗）、DESIGN 规范、Element Plus / shadcn/ui / ECharts / IconPark 桥接、页面骨架配方与 Vue / React 配方组件。纯数据包：接入 / 更新由 design-system-adopter skill 驱动（识别 design-system.json）。",
+      "license": "MIT",
+      "repository": "https://github.com/WYCM9527/Design-System",
+      "npmUrl": "https://www.npmjs.com/package/%40wycm9527%2Fcitrine",
+      "category": "frontend",
+      "createdAt": "2026-09-16T12:41:11.859Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 93
     },
     {
       "name": "@x12i/memorix-abstracts",
@@ -64694,6 +64790,18 @@
       "score": 73
     },
     {
+      "name": "abrengine",
+      "version": "1.0.1",
+      "description": "Run a trained reinforcement-learning ABR controller (Pensieve-style A3C) as the adaptive-bitrate algorithm in JavaScript video players. Framework-agnostic core + Video.js/VHS adapter.",
+      "license": "MIT",
+      "repository": "https://github.com/Shrot101/abrengine",
+      "npmUrl": "https://www.npmjs.com/package/abrengine",
+      "category": "utilities",
+      "createdAt": "2026-09-16T10:37:11.022Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 98
+    },
+    {
       "name": "abs-zalo-bot",
       "version": "0.2.0",
       "description": "Zalo channel adapter for AI agents. Official OA and personal QR kept separate, fail-closed by default.",
@@ -66014,6 +66122,18 @@
       "score": 82
     },
     {
+      "name": "agikey",
+      "version": "1.0.1",
+      "description": "Local text API gateway and dashboard for agy, Claude Code, Grok and Codex CLIs",
+      "license": "MIT",
+      "repository": "https://github.com/lumpenspace/agikey",
+      "npmUrl": "https://www.npmjs.com/package/agikey",
+      "category": "backend",
+      "createdAt": "2026-09-16T09:20:08.194Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
+    },
+    {
       "name": "agile-board-pipeline",
       "version": "0.1.0",
       "description": "A Claude Code delivery pipeline for changing code that already exists — knowledge before planning, blast-radius analysis, an adversarial review loop, and a human gate after every step.",
@@ -66384,6 +66504,18 @@
       "createdAt": "2026-08-04T05:35:17.365Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 86
+    },
+    {
+      "name": "ai-workspace-hub",
+      "version": "0.3.0",
+      "description": "awh: install canonical agent instructions, skills and MCP servers into Claude Code, Codex and Kiro homes from a per-machine manifest, and launch agents against a chosen home.",
+      "license": "MIT",
+      "repository": "https://github.com/WarpDreams/ai-workspace-hub",
+      "npmUrl": "https://www.npmjs.com/package/ai-workspace-hub",
+      "category": "backend",
+      "createdAt": "2026-09-16T14:08:44.137Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 87
     },
     {
       "name": "ai-zoll",
@@ -66948,6 +67080,18 @@
       "createdAt": "2026-08-11T21:16:42.523Z",
       "discoveredAt": "2026-08-11T21:26:17.748Z",
       "score": 81
+    },
+    {
+      "name": "analytics-bridge",
+      "version": "0.1.0",
+      "description": "Provider-independent analytics for React and Next.js. One typed API for Google Analytics 4, Twilio Segment, Microsoft Clarity and custom providers, with consent management, batching and plugins.",
+      "license": "MIT",
+      "repository": "https://github.com/abarna-eros/analytics-kit",
+      "npmUrl": "https://www.npmjs.com/package/analytics-bridge",
+      "category": "frontend",
+      "createdAt": "2026-09-16T10:28:08.058Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 89
     },
     {
       "name": "anamorphic",
@@ -70020,6 +70164,18 @@
       "createdAt": "2026-08-25T20:29:03.766Z",
       "discoveredAt": "2026-08-26T01:49:06.368Z",
       "score": 87
+    },
+    {
+      "name": "browser-image-squash",
+      "version": "1.1.0",
+      "description": "Client-side image compression & resizing in the browser — responsive AVIF + JPEG/PNG variants, off the main thread via a Web Worker pool, EXIF stripped. WASM codecs (jSquash), framework-agnostic, React optional.",
+      "license": "MIT",
+      "repository": "https://github.com/Dawidw5219/browser-image-squash",
+      "npmUrl": "https://www.npmjs.com/package/browser-image-squash",
+      "category": "frontend",
+      "createdAt": "2026-09-16T15:28:01.632Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 100
     },
     {
       "name": "browser-inspect-cli",
@@ -73812,6 +73968,18 @@
       "createdAt": "2026-08-26T10:51:34.099Z",
       "discoveredAt": "2026-08-26T13:06:22.803Z",
       "score": 90
+    },
+    {
+      "name": "cordova-plugin-turnstile",
+      "version": "1.2.2",
+      "description": "A Cordova plugin that runs Cloudflare Turnstile in a secure Android WebView dialog.",
+      "license": "MIT",
+      "repository": "https://github.com/andreszs/cordova-plugin-turnstile",
+      "npmUrl": "https://www.npmjs.com/package/cordova-plugin-turnstile",
+      "category": "devops",
+      "createdAt": "2026-09-16T13:59:32.295Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
     },
     {
       "name": "cordova-plugin-yandex-mapkit",
@@ -78362,6 +78530,18 @@
       "score": 73
     },
     {
+      "name": "dsh-oneclick",
+      "version": "1.1.1",
+      "description": "One-click Windows installer for the official DeepSeek Harness web app (@deepseek-ai/dsh): Node.js, the DSH CLI, an optional literature knowledge-base plugin with its Python engine and retrieval models, and a desktop shortcut that just works. Third-party h",
+      "license": "MIT",
+      "repository": "https://github.com/Breeze136/dsh-oneclick",
+      "npmUrl": "https://www.npmjs.com/package/dsh-oneclick",
+      "category": "cli",
+      "createdAt": "2026-09-16T13:23:38.675Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 91
+    },
+    {
       "name": "dsh-opencode-go-usage",
       "version": "1.0.1",
       "description": "DSH (DeepSeek Harness) plugin: OpenCode GO plan quota widget in the sidebar, same-origin usage proxy, and a /opencode-go chat command",
@@ -78876,6 +79056,18 @@
       "createdAt": "2026-08-14T03:14:11.420Z",
       "discoveredAt": "2026-08-15T11:18:48.032Z",
       "score": 74
+    },
+    {
+      "name": "dsh-scopus-research",
+      "version": "1.0.0",
+      "description": "DeepSeek Harness bundle: two academic research agent presets — scopus-scholar (搜索驱动模式, Scopus/OpenAlex search with a claim-verify loop) and scopus-knowledge (知识驱动模式, a code-enforced knowledge pipeline consulting a tool-free 科学顾问 persona)",
+      "license": "MIT",
+      "repository": "https://github.com/Gaochenyuen/dsh-scopus-searcher",
+      "npmUrl": "https://www.npmjs.com/package/dsh-scopus-research",
+      "category": "utilities",
+      "createdAt": "2026-09-16T11:10:26.562Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 92
     },
     {
       "name": "dsh-search-boost",
@@ -92342,6 +92534,18 @@
       "score": 73
     },
     {
+      "name": "medusa-payment-lightning",
+      "version": "0.1.1",
+      "description": "Bitcoin (Lightning) payment provider for Medusa v2. Customers pay a Lightning invoice, funds land in the merchant's own Glow wallet; no node, no custody, no SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/kingonly/medusa-payment-lightning",
+      "npmUrl": "https://www.npmjs.com/package/medusa-payment-lightning",
+      "category": "utilities",
+      "createdAt": "2026-09-16T11:35:34.211Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
+    },
+    {
       "name": "medusa-provider-notification-volanea",
       "version": "1.0.0",
       "description": "Volanea notification provider for Medusa v2 — send Medusa's transactional email (order confirmations, password resets, invites) through the Volanea API.",
@@ -95306,6 +95510,18 @@
       "score": 94
     },
     {
+      "name": "nergous-ui-vue",
+      "version": "1.0.3",
+      "description": "nergous-ui-vue Design System — a zero-dependency Vue 3 component library: themeable & density-aware design tokens, 41 components, and composables.",
+      "license": "MIT",
+      "repository": "https://github.com/Nergous/nergous-ui-vue",
+      "npmUrl": "https://www.npmjs.com/package/nergous-ui-vue",
+      "category": "frontend",
+      "createdAt": "2026-09-16T11:31:44.630Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 90
+    },
+    {
       "name": "nerium-sdk",
       "version": "0.1.0",
       "description": "Provider-agnostic. Infrastructure-agnostic. Runtime-agnostic. Zero deps for llms calls.",
@@ -96854,6 +97070,18 @@
       "score": 83
     },
     {
+      "name": "nuxt-pigeon",
+      "version": "1.0.0",
+      "description": "Send and receive messages across Telegram, Slack, Discord and any webhook.",
+      "license": "MIT",
+      "repository": "https://github.com/Flo0806/nuxt-pigeon",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-pigeon",
+      "category": "utilities",
+      "createdAt": "2026-08-07T12:50:09.810Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 87
+    },
+    {
       "name": "nvcalendar",
       "version": "0.1.0",
       "description": "Calendar, date picker and attribute-driven date visualisation for Nuxt and Vue 3. Zero dependencies, Intl-powered, fully typed.",
@@ -97644,6 +97872,18 @@
       "createdAt": "2026-08-11T11:51:03.031Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 94
+    },
+    {
+      "name": "open-tui-orchestrator",
+      "version": "0.9.9",
+      "description": "Split a multi-part agent request into a verified TODO ledger, then run the parallel blocks in hidden or visible TUI windows of the agent CLI you already use (Windows).",
+      "license": "MIT",
+      "repository": "https://github.com/yechang1450/open-tui-orchestrator",
+      "npmUrl": "https://www.npmjs.com/package/open-tui-orchestrator",
+      "category": "cli",
+      "createdAt": "2026-09-15T10:54:41.335Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 86
     },
     {
       "name": "open-video-api",
@@ -104198,6 +104438,18 @@
       "score": 91
     },
     {
+      "name": "raya.js",
+      "version": "1.0.0",
+      "description": "A fast, resilient Lavalink v4 client for Node.js: session resuming, restart-proof players, automatic failover, queue, filters, autoplay, voice channel status and a live now-playing feed.",
+      "license": "MIT",
+      "repository": "https://github.com/neuzgg/raya",
+      "npmUrl": "https://www.npmjs.com/package/raya.js",
+      "category": "cli",
+      "createdAt": "2026-09-16T09:35:40.109Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 92
+    },
+    {
       "name": "rbac-fs",
       "version": "1.0.0",
       "description": "Git-friendly, zero-database RBAC — roles and permissions as JSON files, multi-tenant by default, works in Node and the browser, in JS or TS.",
@@ -108266,6 +108518,18 @@
       "score": 81
     },
     {
+      "name": "serpapi-ai-sdk-tools",
+      "version": "0.1.0",
+      "description": "Ready-made SerpApi search tools for the Vercel AI SDK: web, news, maps, shopping, flights and hotels. Typed inputs validated before a request is sent, compact token-efficient results, and your API key never leaves.",
+      "license": "MIT",
+      "repository": "https://github.com/Sumit642-ai/serpapi-ai-sdk-tools",
+      "npmUrl": "https://www.npmjs.com/package/serpapi-ai-sdk-tools",
+      "category": "backend",
+      "createdAt": "2026-09-16T13:50:27.087Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 90
+    },
+    {
       "name": "serverless-python-requirements-dttl",
       "version": "7.0.0",
       "description": "Maintained Python requirements packaging plugin for Serverless Framework and OSLS",
@@ -110630,6 +110894,18 @@
       "score": 62
     },
     {
+      "name": "starlight-to-md",
+      "version": "1.0.0",
+      "description": "Extract Astro Starlight documentation into clean, LLM-ready Markdown via CLI or browser extension",
+      "license": "MIT",
+      "repository": "https://github.com/FlaviusBurghila/starlight-to-md",
+      "npmUrl": "https://www.npmjs.com/package/starlight-to-md",
+      "category": "frontend",
+      "createdAt": "2026-09-16T09:29:34.411Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 89
+    },
+    {
       "name": "starlingbank-sdk",
       "version": "1.0.1",
       "description": "Complete, production-grade TypeScript/JavaScript SDK for the Starling Bank Public API (accounts, balances, payments, cards, savings goals, transactions, OAuth2, webhooks, and more).",
@@ -111060,6 +111336,18 @@
       "createdAt": "2026-08-10T20:31:12.101Z",
       "discoveredAt": "2026-08-10T20:33:00.517Z",
       "score": 50
+    },
+    {
+      "name": "stowage",
+      "version": "0.5.0",
+      "description": "Unified, driver-agnostic object storage for Node.js. One API for S3, R2, MinIO, the local filesystem and memory, with a queryable catalog, image transforms and a REST server.",
+      "license": "MIT",
+      "repository": "https://github.com/ricodevvv/Tobby-",
+      "npmUrl": "https://www.npmjs.com/package/stowage",
+      "category": "backend",
+      "createdAt": "2026-09-16T05:26:26.828Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 87
     },
     {
       "name": "strapi-cms-audit-log",
@@ -114012,6 +114300,18 @@
       "createdAt": "2026-08-08T19:40:49.009Z",
       "discoveredAt": "2026-08-08T20:19:21.598Z",
       "score": 98
+    },
+    {
+      "name": "ts-workflow-engine-lite",
+      "version": "3.0.0",
+      "description": "Lightweight TypeScript workflow engine with a REST API and local file persistence for single-process applications.",
+      "license": "MIT",
+      "repository": "https://github.com/CracKerMe/ts-runit-lite",
+      "npmUrl": "https://www.npmjs.com/package/ts-workflow-engine-lite",
+      "category": "backend",
+      "createdAt": "2026-09-16T05:14:56.577Z",
+      "discoveredAt": "2026-09-16T16:40:45.878Z",
+      "score": 91
     },
     {
       "name": "tscene",
