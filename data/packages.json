@@ -9950,6 +9950,18 @@
       "score": 58
     },
     {
+      "name": "@castlenine/vite-plugin-remove-attribute",
+      "version": "2.0.0",
+      "description": "A Vite plugin that enables the removal of specified attributes, which is useful for excluding attributes like 'data-testid' that are used in testing. The options include the ability to specify file extensions, attributes, and folders and files to ignore.",
+      "license": "MIT",
+      "repository": "https://github.com/castlenine/vite-plugin-remove-attribute",
+      "npmUrl": "https://www.npmjs.com/package/%40castlenine%2Fvite-plugin-remove-attribute",
+      "category": "testing",
+      "createdAt": "2026-09-15T21:42:59.063Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 96
+    },
+    {
       "name": "@catidegla/driftline",
       "version": "0.2.0",
       "description": "Detect when your LLM provider changes the model under a name that did not change. Statistical drift detection over committed probes, provider identity capture, zero dependencies, no service.",
@@ -25106,6 +25118,18 @@
       "score": 84
     },
     {
+      "name": "@gnldev/chat-adapter",
+      "version": "0.1.0",
+      "description": "Vercel AI SDK `useChat` compatibility for @gnldev/durable agents: UI message stream conversion (with sentinel masking), journal→UIMessage history reconstruction, and a Hono chat route.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Karaca7/gnldev",
+      "npmUrl": "https://www.npmjs.com/package/%40gnldev%2Fchat-adapter",
+      "category": "build-tools",
+      "createdAt": "2026-09-15T23:20:12.126Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 86
+    },
+    {
       "name": "@goalapi/sdk",
       "version": "1.0.0",
       "description": "JavaScript and TypeScript SDK for the GOAL API: football fixtures, live scores, standings, stats and live WebSocket updates.",
@@ -31754,6 +31778,18 @@
       "score": 81
     },
     {
+      "name": "@keld/keld",
+      "version": "0.1.1",
+      "description": "Drop-in observability SDK that reports OpenAI/Anthropic/Bedrock (and any OpenAI-compatible) inference calls to a Keld Atlas backend via OTLP logs, with zero call-site changes.",
+      "license": "MIT",
+      "repository": "https://github.com/ncx-ai/atlas-telemetry-typescript",
+      "npmUrl": "https://www.npmjs.com/package/%40keld%2Fkeld",
+      "category": "backend",
+      "createdAt": "2026-09-15T17:00:11.420Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 87
+    },
+    {
       "name": "@kematzy/zen-colors",
       "version": "0.2.0",
       "description": "Zen-like CSS color scales, tints, shades, and contrast helpers — OKLCH by default",
@@ -32388,6 +32424,18 @@
       "createdAt": "2026-09-04T21:28:14.929Z",
       "discoveredAt": "2026-09-05T04:10:45.685Z",
       "score": 83
+    },
+    {
+      "name": "@korayda4/vibe-security",
+      "version": "1.0.0",
+      "description": "Security guard MCP server for Vibe Coded projects — scans Frontend and Backend across every layer and language, plans + tests + fixes vulnerabilities. Claude Code and VS Code Anthropic Claude extension compatible.",
+      "license": "MIT",
+      "repository": "https://github.com/korayda4/Vibe-Security",
+      "npmUrl": "https://www.npmjs.com/package/%40korayda4%2Fvibe-security",
+      "category": "testing",
+      "createdAt": "2026-09-15T21:41:06.907Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 88
     },
     {
       "name": "@korekoi/react-tabler-flags",
@@ -34920,6 +34968,30 @@
       "createdAt": "2026-08-13T10:15:49.404Z",
       "discoveredAt": "2026-08-14T10:50:54.851Z",
       "score": 73
+    },
+    {
+      "name": "@lssm-tech/agentpacks",
+      "version": "3.0.1",
+      "description": "Composable AI agent configuration manager. Pack-based rules, commands, skills, hooks, and MCP sync across OpenCode, Cursor, Claude Code, Codex, Gemini, Copilot, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/lssm-tech/contractspec",
+      "npmUrl": "https://www.npmjs.com/package/%40lssm-tech%2Fagentpacks",
+      "category": "utilities",
+      "createdAt": "2026-09-15T18:15:37.576Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 96
+    },
+    {
+      "name": "@lssm-tech/module.communication-os",
+      "version": "6.0.2",
+      "description": "Spec-first communication backbone for turning conversations into structured, governed, agent-callable work",
+      "license": "MIT",
+      "repository": "https://github.com/contractspec/contractspec",
+      "npmUrl": "https://www.npmjs.com/package/%40lssm-tech%2Fmodule.communication-os",
+      "category": "build-tools",
+      "createdAt": "2026-09-15T20:31:29.937Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 86
     },
     {
       "name": "@lssm/agentpacks",
@@ -45900,6 +45972,18 @@
       "createdAt": "2026-09-12T10:49:38.622Z",
       "discoveredAt": "2026-09-12T15:25:47.973Z",
       "score": 88
+    },
+    {
+      "name": "@powerduck/schema-editor",
+      "version": "0.2.3",
+      "description": "Schema-aware Monaco editor for JSON, YAML and JavaScript. Driven by any JSON Schema with ghost text, popup completion, enum dropdowns, example auto-fill, and schema diagnostics.",
+      "license": "MIT",
+      "repository": "https://github.com/powerducklab/schema-editor",
+      "npmUrl": "https://www.npmjs.com/package/%40powerduck%2Fschema-editor",
+      "category": "frontend",
+      "createdAt": "2026-09-15T18:01:31.836Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 87
     },
     {
       "name": "@powerduck/workspace-yaml",
@@ -58502,6 +58586,18 @@
       "score": 62
     },
     {
+      "name": "@ucsandman/legcli",
+      "version": "0.7.0",
+      "description": "Claude Code and Codex usage limit monitor with an automatic handoff. Type leg claude|codex|agy and get the same interactive agent with a board alongside, usage tracking per agent and account, a live context handoff bundle, and at the limit the next agent",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/ucsandman/legcli",
+      "npmUrl": "https://www.npmjs.com/package/%40ucsandman%2Flegcli",
+      "category": "cli",
+      "createdAt": "2026-09-16T00:31:00.979Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 90
+    },
+    {
       "name": "@uiverify/vitest",
       "version": "1.0.0",
       "description": "Vitest browser-mode capture SDK for UI Verify (uiverify.ai): add uiverifyPlugin() to your Vitest config and each browser-mode test archives its final DOM (serialized DOM + resource bytes) to be replayed + visually diffed by UI Verify. Produces an archive",
@@ -58752,6 +58848,18 @@
       "createdAt": "2026-08-06T21:37:51.509Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 61
+    },
+    {
+      "name": "@underpost/underpost",
+      "version": "3.4.0",
+      "description": "Underpost Platform — end-to-end CI/CD and application-delivery toolchain CLI. Covers bare metal, Kubernetes, K3s, kubeadm, LXD, container/image orchestration, secrets, databases, cron jobs, monitoring, SSH, runners, PWA + Workbox delivery, and release orc",
+      "license": "MIT",
+      "repository": "https://github.com/underpost/pwa-microservices-template-ghpkg",
+      "npmUrl": "https://www.npmjs.com/package/%40underpost%2Funderpost",
+      "category": "data",
+      "createdAt": "2026-09-15T23:03:55.331Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 100
     },
     {
       "name": "@undertone/core",
@@ -62294,6 +62402,30 @@
       "score": 91
     },
     {
+      "name": "@xcrapcc/mcp",
+      "version": "1.2.0",
+      "description": "MCP server for XCrap — Twitter/X tools for LLM agents: read posts, unroll threads, extract profiles and timelines, list media, no API key.",
+      "license": "MIT",
+      "repository": "https://github.com/XcrapCC/Xcrap-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40xcrapcc%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-09-15T17:23:53.302Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 93
+    },
+    {
+      "name": "@xcrapcc/sdk",
+      "version": "1.2.0",
+      "description": "Official Node client for XCrap — X/Twitter posts, threads, profiles, timelines and media as JSON or LLM-ready markdown. No API key.",
+      "license": "MIT",
+      "repository": "https://github.com/XcrapCC/xcrap-node",
+      "npmUrl": "https://www.npmjs.com/package/%40xcrapcc%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-09-15T17:23:23.121Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 89
+    },
+    {
       "name": "@xdavidwu/codemirror-json-schema",
       "version": "0.9.0",
       "description": "Codemirror 6 extensions that provide full JSONSchema support for `@codemirror/lang-json` and `codemirror-json5`",
@@ -64068,6 +64200,18 @@
       "createdAt": "2026-08-02T19:43:12.713Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 72
+    },
+    {
+      "name": "@zoblocks/loaders",
+      "version": "0.2.0",
+      "description": "Healthcare page loaders as dependency-free custom elements. Heartbeat, rhythm strip, breath, helix, and infusion — themeable, accessible, and reduced-motion aware. Works in React, Vue, Angular, Svelte, or plain HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/zoworkhq/zoblocks",
+      "npmUrl": "https://www.npmjs.com/package/%40zoblocks%2Floaders",
+      "category": "frontend",
+      "createdAt": "2026-09-15T17:07:51.206Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 90
     },
     {
       "name": "@zod-crawler/cli",
@@ -65892,6 +66036,18 @@
       "createdAt": "2026-08-07T09:01:59.577Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 83
+    },
+    {
+      "name": "agy-discord-notify",
+      "version": "1.0.0",
+      "description": "Discord notifications for Google Antigravity (AGY). A zero-dependency skill, CLI, and lifecycle hook that sends messages, file attachments, and rich embeds to a Discord webhook.",
+      "license": "MIT",
+      "repository": "https://github.com/graphite-works/agy-discord-notify",
+      "npmUrl": "https://www.npmjs.com/package/agy-discord-notify",
+      "category": "build-tools",
+      "createdAt": "2026-09-15T21:15:42.850Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 90
     },
     {
       "name": "agy-first-bridge",
@@ -71942,6 +72098,18 @@
       "score": 85
     },
     {
+      "name": "claude-plugin-port",
+      "version": "0.4.0",
+      "description": "The engine behind claude-plugin-to-codex and claude-plugin-to-opencode: ports a Claude Code plugin to OpenAI Codex or to OpenCode (manifest translation, skills with rewritten path anchors and host-valid names, PreToolUse hooks carried over, MCP servers, r",
+      "license": "MIT",
+      "repository": "https://github.com/flavien-ia/claude-plugin-port",
+      "npmUrl": "https://www.npmjs.com/package/claude-plugin-port",
+      "category": "backend",
+      "createdAt": "2026-09-15T19:39:49.331Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 87
+    },
+    {
       "name": "claude-rem",
       "version": "0.2.0",
       "description": "A brain that remembers everything: compiled session memory for AI coding tools, verified against git. Works with Claude Code, Cursor & Codex.",
@@ -77510,6 +77678,18 @@
       "score": 60
     },
     {
+      "name": "dsh-fs-encoding",
+      "version": "1.0.1",
+      "description": "Encoding-governed read/write/edit tools for DeepSeek Harness (dsh): UTF-8 BOM fidelity and byte-exact round-trips for GBK, Big5, Shift-JIS, EUC-KR, Windows-1251 and UTF-16 text files.",
+      "license": "MIT",
+      "repository": "https://github.com/MrWeiCodes/dsh-fs-encoding",
+      "npmUrl": "https://www.npmjs.com/package/dsh-fs-encoding",
+      "category": "utilities",
+      "createdAt": "2026-09-15T17:32:51.391Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 96
+    },
+    {
       "name": "dsh-fuse-english",
       "version": "1.2.1",
       "description": "Fuse v1.2.1 — an all-in-one UI design + code style plugin (the upgraded ui-aesthetics skill): design tokens in theme.json (with the brand color as the single source of truth) + code style in code-style.json + dsh-fuse-english fence page-level rendering +",
@@ -78948,6 +79128,18 @@
       "createdAt": "2026-08-14T16:00:56.697Z",
       "discoveredAt": "2026-08-14T16:42:14.135Z",
       "score": 81
+    },
+    {
+      "name": "dsh-thesis",
+      "version": "1.0.0",
+      "description": "论文与答辩全流程助手（DeepSeek Harness 插件）：材料摄取 → 逐题追问 → 文献检索 → 逐章写作与评审 → 原创性自查与合规 → Word/答辩幻灯生产，全流程留痕，并跨会话记住学校规范与导师要求。",
+      "license": "MIT",
+      "repository": "https://github.com/Paloma966/dsh-thesis",
+      "npmUrl": "https://www.npmjs.com/package/dsh-thesis",
+      "category": "utilities",
+      "createdAt": "2026-09-15T16:59:15.685Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 86
     },
     {
       "name": "dsh-tiered-approval",
@@ -82440,6 +82632,18 @@
       "createdAt": "2026-08-02T06:52:57.625Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 82
+    },
+    {
+      "name": "fractal-memory",
+      "version": "0.1.0",
+      "description": "Hierarchical-graph long-term memory for AI agents: variable-depth abstraction tree, cross-topic recall, temporal knowledge graph. Ships an MCP server, an HTTP service, and a LangGraph BaseStore.",
+      "license": "MIT",
+      "repository": "https://github.com/emanuelediluzio/fractal",
+      "npmUrl": "https://www.npmjs.com/package/fractal-memory",
+      "category": "backend",
+      "createdAt": "2026-09-15T18:32:32.292Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 89
     },
     {
       "name": "fractalai-mcp-server",
@@ -91442,6 +91646,18 @@
       "score": 96
     },
     {
+      "name": "mcp-immo-olv",
+      "version": "1.0.0",
+      "description": "French real-estate intelligence MCP: notarized sale prices (DVF), transparent comparables valuations, official rent indicators, average property-tax context, DPE, natural risks and commune data. No API keys.",
+      "license": "MIT",
+      "repository": "https://github.com/OlivierLAVAUD/mcp-immo-olv",
+      "npmUrl": "https://www.npmjs.com/package/mcp-immo-olv",
+      "category": "backend",
+      "createdAt": "2026-09-15T16:28:57.831Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 89
+    },
+    {
       "name": "mcp-imslp",
       "version": "1.0.1",
       "description": "MCP server for IMSLP, the Petrucci Music Library. Read works, scores and recordings. No API key required.",
@@ -95102,6 +95318,18 @@
       "score": 69
     },
     {
+      "name": "nesql-engine",
+      "version": "8.0.0",
+      "description": "PostgreSQL's grammar, NEDB's memory — SQL with time travel, bi-temporal validity and causal provenance. The neSQL CLI and the language reference. Ships inside nedb-engine.",
+      "license": "BUSL-1.1",
+      "repository": "https://github.com/Eth-Interchained/neSQL",
+      "npmUrl": "https://www.npmjs.com/package/nesql-engine",
+      "category": "data",
+      "createdAt": "2026-09-13T18:21:31.850Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 91
+    },
+    {
       "name": "nested-boundaries",
       "version": "0.1.0",
       "description": "Enforce the Recursive Deep Modules convention from paths alone: nested module boundaries for ESLint, oxlint, and Biome, plus cycle detection and structural checks.",
@@ -96924,6 +97152,18 @@
       "createdAt": "2026-08-10T18:46:27.010Z",
       "discoveredAt": "2026-08-10T19:43:01.816Z",
       "score": 66
+    },
+    {
+      "name": "ollos-mcp",
+      "version": "0.1.0",
+      "description": "Ollos gives AI agents eyes and ears. Local, offline transcription, speaker turns, keyframes, on-screen text and a pre-publish review for any audio or video. MCP server, CLI and library. Node only, no Python.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kelvinbiffi/ollos-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ollos-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-15T20:04:10.127Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 90
     },
     {
       "name": "omega-security-scanner",
@@ -100740,6 +100980,18 @@
       "createdAt": "2026-08-14T21:38:52.359Z",
       "discoveredAt": "2026-08-14T22:13:55.561Z",
       "score": 63
+    },
+    {
+      "name": "pi-kiro-agent",
+      "version": "0.2.1",
+      "description": "Kiro CLI provider for Pi: delegates turns to your local, authenticated kiro-cli. Seat/credit-billed through the official client, with an MCP bridge that exposes the calling Pi session's tools inside delegated runs.",
+      "license": "MIT",
+      "repository": "https://github.com/randiskull/pi-kiro-agent",
+      "npmUrl": "https://www.npmjs.com/package/pi-kiro-agent",
+      "category": "cli",
+      "createdAt": "2026-09-15T20:33:38.847Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 88
     },
     {
       "name": "pi-kis",
@@ -106214,6 +106466,18 @@
       "score": 76
     },
     {
+      "name": "retry-kit-js",
+      "version": "1.0.0",
+      "description": "Framework-agnostic retry with exponential backoff + jitter, and a circuit breaker, for API/DB calls. Zero dependencies, fully typed, production-ready.",
+      "license": "MIT",
+      "repository": "https://github.com/gokul8943/retry-kit",
+      "npmUrl": "https://www.npmjs.com/package/retry-kit-js",
+      "category": "backend",
+      "createdAt": "2026-09-16T03:38:51.487Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 93
+    },
+    {
       "name": "retry-primitives",
       "version": "1.0.1",
       "description": "Retry and circuit breaker as pure functions — exponential, decorrelated jitter, fibonacci backoff, consecutive and rolling-window breakers. JSON-serializable state, no clock reads, no I/O, no dependencies. Survives a process restart, so it works in Cloudf",
@@ -110114,6 +110378,18 @@
       "score": 71
     },
     {
+      "name": "sqlriver",
+      "version": "2.0.0",
+      "description": "Opinionated SQL formatter that implements the SQL Style Guide (sqlstyle.guide). Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/vinsidious/sqlriver",
+      "npmUrl": "https://www.npmjs.com/package/sqlriver",
+      "category": "data",
+      "createdAt": "2026-09-15T23:21:05.869Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 89
+    },
+    {
       "name": "squad-hub",
       "version": "0.1.0",
       "description": "One place to see and control your Squad sessions, across every substrate.",
@@ -110232,6 +110508,18 @@
       "createdAt": "2026-07-30T15:22:56.413Z",
       "discoveredAt": "2026-07-30T16:06:41.087Z",
       "score": 70
+    },
+    {
+      "name": "stackready",
+      "version": "1.0.1",
+      "description": "StackReady prepara, verifica y mantiene tu entorno de desarrollo en Windows desde una única CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/Luiscarranza130427/stackready",
+      "npmUrl": "https://www.npmjs.com/package/stackready",
+      "category": "cli",
+      "createdAt": "2026-09-15T20:23:28.863Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 86
     },
     {
       "name": "staff-portal",
@@ -115140,6 +115428,18 @@
       "createdAt": "2026-08-05T17:04:11.210Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 90
+    },
+    {
+      "name": "verdictdb",
+      "version": "0.1.0",
+      "description": "High-performance Node.js & TypeScript bindings for Verdict — the local-first embedded database with propose → verdict → commit safety pipeline, cryptographic hash chain audit, and instant rollback.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/senapati484/verdict",
+      "npmUrl": "https://www.npmjs.com/package/verdictdb",
+      "category": "backend",
+      "createdAt": "2026-08-31T06:40:05.472Z",
+      "discoveredAt": "2026-09-16T04:34:44.933Z",
+      "score": 89
     },
     {
       "name": "verifactu-ts",
