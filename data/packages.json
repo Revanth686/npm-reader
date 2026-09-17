@@ -206,6 +206,18 @@
       "score": 86
     },
     {
+      "name": "@0xdon0/opencode-local-provider",
+      "version": "0.2.1",
+      "description": "OpenCode plugin that adds a 'local' provider with auto-detection for Ollama, LMStudio, llama.cpp, vLLM, Exo, llama-swap, oMLX, MLX-VLM, and other OpenAI-compatible servers, with optional per-server API keys",
+      "license": "MIT",
+      "repository": "https://github.com/thedonmon/opencode-local-provider",
+      "npmUrl": "https://www.npmjs.com/package/%400xdon0%2Fopencode-local-provider",
+      "category": "backend",
+      "createdAt": "2026-09-16T16:33:40.159Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 86
+    },
+    {
       "name": "@0xfig/indie",
       "version": "1.0.0",
       "description": "Independent developer product delivery skills for OMP/Pi and generic Agent Skills hosts.",
@@ -1800,6 +1812,18 @@
       "createdAt": "2026-07-28T20:15:01.573Z",
       "discoveredAt": "2026-07-28T21:00:50.444Z",
       "score": 66
+    },
+    {
+      "name": "@agenticcontrolplane/fx",
+      "version": "0.1.1",
+      "description": "Agentic Control Plane for fx (vercel-labs/fx) — a governed protocol middleware for fx's Agent Client Protocol mode, checking every tool call against your policies before fx's own permission prompt reaches the client.",
+      "license": "MIT",
+      "repository": "https://github.com/agentic-control-plane/fx-acp-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40agenticcontrolplane%2Ffx",
+      "category": "cli",
+      "createdAt": "2026-09-02T04:09:01.240Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 86
     },
     {
       "name": "@agenticprimitives/content-storage",
@@ -8712,6 +8736,18 @@
       "createdAt": "2026-07-27T15:03:03.696Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 87
+    },
+    {
+      "name": "@brk0718/ai-harness",
+      "version": "1.0.1",
+      "description": "Standardized AI agent harness for AI-assisted development with minimal context and verified execution",
+      "license": "MIT",
+      "repository": "https://github.com/waar19/brako-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40brk0718%2Fai-harness",
+      "category": "devops",
+      "createdAt": "2026-09-16T03:19:27.181Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 90
     },
     {
       "name": "@brnyxx/xout",
@@ -18158,6 +18194,18 @@
       "score": 86
     },
     {
+      "name": "@exav/unpack-wasm",
+      "version": "0.0.1",
+      "description": "WebAssembly bindings for exav-unpack: in-browser, memory-safe universal archive extraction. Supports zip, rar, 7z, tar, gz, bz2, xz, cab, arj, lha, iso, cpio, ar, xar, ole, pdf, email, UPX.",
+      "license": "MIT",
+      "repository": "https://github.com/sylvinus/exav",
+      "npmUrl": "https://www.npmjs.com/package/%40exav%2Funpack-wasm",
+      "category": "frontend",
+      "createdAt": "2026-09-16T20:08:58.826Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 88
+    },
+    {
       "name": "@exellix/ai-tasks-docs",
       "version": "1.0.0",
       "description": "x12i ai-tasks ecosystem docs knowledge SDK — install as a devDependency only. Catalog, use cases, and markdown packs for humans and agents.",
@@ -18396,6 +18444,18 @@
       "createdAt": "2026-08-15T07:41:00.697Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 74
+    },
+    {
+      "name": "@farhansadikgalib/bd-map",
+      "version": "1.0.0",
+      "description": "Interactive drill-down maps of Bangladesh for React, plus a geography and data API for Node: division to union, English and Bangla names, choropleths from JSON or an API, and server-side SVG rendering. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/farhansadikgalib/bd-map",
+      "npmUrl": "https://www.npmjs.com/package/%40farhansadikgalib%2Fbd-map",
+      "category": "frontend",
+      "createdAt": "2026-09-17T04:16:14.903Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 100
     },
     {
       "name": "@fastcar/mcp-vision-tools",
@@ -34226,6 +34286,18 @@
       "score": 54
     },
     {
+      "name": "@litfamily/litcodex",
+      "version": "1.0.0",
+      "description": "Codex loop harness installer. Run `npm exec --package @litfamily/litcodex -- litcodex install` to set up the LitCodex Codex platform: the bare `lit` hook and the durable lit-loop runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/wjgoarxiv/litcodex",
+      "npmUrl": "https://www.npmjs.com/package/%40litfamily%2Flitcodex",
+      "category": "data",
+      "createdAt": "2026-09-16T19:04:14.323Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 88
+    },
+    {
       "name": "@liveauth-labs/agent-wallet",
       "version": "0.1.0",
       "description": "Open payment-policy layer for autonomous AI agents",
@@ -37020,6 +37092,18 @@
       "createdAt": "2026-08-10T07:49:37.475Z",
       "discoveredAt": "2026-08-10T09:09:27.680Z",
       "score": 67
+    },
+    {
+      "name": "@meterapp/skillhook",
+      "version": "0.2.0",
+      "description": "Make your Agent Skills reactive. A permanent, secure webhook endpoint on your own machine that runs SKILL.md files with Claude Code or Codex the moment something happens, instead of on a schedule. Webhook in, agent out.",
+      "license": "MIT",
+      "repository": "https://github.com/MeterApp/skillhook",
+      "npmUrl": "https://www.npmjs.com/package/%40meterapp%2Fskillhook",
+      "category": "frontend",
+      "createdAt": "2026-09-16T20:42:32.945Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 90
     },
     {
       "name": "@metricinsights/ca-analytics",
@@ -40538,6 +40622,18 @@
       "score": 58
     },
     {
+      "name": "@needmoretruth/nmts-sdk",
+      "version": "0.1.1",
+      "description": "Put, get and list files in an NMTS account from your own program: open-source, end-to-end encrypted storage on the Walrus network, with the keys on your machine. One constructor, three methods, typed.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/needmoretruth/nmts-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40needmoretruth%2Fnmts-sdk",
+      "category": "backend",
+      "createdAt": "2026-09-16T17:38:25.157Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 88
+    },
+    {
       "name": "@neefactory/skillsmithy",
       "version": "1.0.0",
       "description": "Mint, migrate, validate, and package portable Agent Skill projects.",
@@ -41304,6 +41400,18 @@
       "createdAt": "2026-07-27T17:43:54.797Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 75
+    },
+    {
+      "name": "@nirholas/rh-mcp",
+      "version": "0.1.0",
+      "description": "Client-side tooling for a Robinhood Trading MCP connection: enumerate and diff the live tool surface, and enforce policy guardrails on agent-initiated writes before they leave your machine.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/nirholas/robinhood-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40nirholas%2Frh-mcp",
+      "category": "cli",
+      "createdAt": "2026-09-16T20:14:08.868Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 88
     },
     {
       "name": "@nish1896/mui-components",
@@ -47712,6 +47820,18 @@
       "createdAt": "2026-08-22T13:12:39.276Z",
       "discoveredAt": "2026-08-22T13:33:36.708Z",
       "score": 74
+    },
+    {
+      "name": "@ranchbot/cli",
+      "version": "1.1.0",
+      "description": "Read and manage Ranch.Bot livestock records from a terminal or assistant: animals, births, exports, groups, records, and operator commands.",
+      "license": "MIT",
+      "repository": "https://github.com/RanchBot/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40ranchbot%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-09-05T21:46:29.640Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 87
     },
     {
       "name": "@rapid-rn/create",
@@ -57902,6 +58022,18 @@
       "score": 43
     },
     {
+      "name": "@ton-primes/agent",
+      "version": "0.3.0",
+      "description": "TypeScript SDK for TON PRIMES: every action a program-player can take, each gated by a live get-method read, with the key signing locally and never leaving the process.",
+      "license": "MIT",
+      "repository": "https://github.com/KonnikPahoni/primes",
+      "npmUrl": "https://www.npmjs.com/package/%40ton-primes%2Fagent",
+      "category": "build-tools",
+      "createdAt": "2026-09-16T19:23:58.505Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 86
+    },
+    {
       "name": "@tonoid/agent-loop",
       "version": "1.1.0",
       "description": "Schedules autonomous coding agents across provider accounts and runs them as herdr agents in herdr panes.",
@@ -61262,6 +61394,18 @@
       "score": 61
     },
     {
+      "name": "@watchmanlab/stream",
+      "version": "0.3.1",
+      "description": "A TypeScript reactive library that solves backpressure, async workflows, and event composition without making you think about any of that until you need to.",
+      "license": "MIT",
+      "repository": "https://github.com/watchmanlab/stream",
+      "npmUrl": "https://www.npmjs.com/package/%40watchmanlab%2Fstream",
+      "category": "frontend",
+      "createdAt": "2026-09-08T16:48:33.516Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 85
+    },
+    {
       "name": "@waukeshamakerspace/deploy-kit",
       "version": "0.2.0",
       "description": "The house delivery machinery for Waukesha Makerspace services: the Lambda bundler that knows why @fastify/swagger-ui must stay external, the samconfig generator, and the SPA hosting deploys",
@@ -63662,6 +63806,18 @@
       "score": 100
     },
     {
+      "name": "@zakkster/lite-logn",
+      "version": "0.1.0",
+      "description": "Zero-dependency, zero-GC family of O(log n) data structures that proves its logarithm: BinaryHeap (array-embedded O(log n) push/pop min-heap), Fenwick/BIT (O(log n) point-update AND prefix-sum via the i & -i walk), SegmentTree (O(log n) associative range-",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-logn",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-logn",
+      "category": "data",
+      "createdAt": "2026-09-17T00:57:29.144Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 90
+    },
+    {
       "name": "@zakkster/lite-object-pool",
       "version": "1.0.3",
       "description": "Tiny, fast, zero-dependency object pool with O(1) acquire/release, double-release protection, and auto-expansion for games and particle systems.",
@@ -64092,6 +64248,18 @@
       "createdAt": "2026-08-15T07:26:20.454Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 83
+    },
+    {
+      "name": "@zibby/agent-graph-memory",
+      "version": "0.2.0",
+      "description": "A growable, time-aware memory graph for AI agents. SQLite by default (zero runtime dependencies), Postgres optionally, configurable embeddings. JS API, CLI, MCP server, HTTP server.",
+      "license": "MIT",
+      "repository": "https://github.com/ZibbyDev/agent-graph-memory",
+      "npmUrl": "https://www.npmjs.com/package/%40zibby%2Fagent-graph-memory",
+      "category": "backend",
+      "createdAt": "2026-09-17T01:55:21.725Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 88
     },
     {
       "name": "@zigapagos/cli",
@@ -70068,6 +70236,18 @@
       "createdAt": "2026-09-05T20:14:29.792Z",
       "discoveredAt": "2026-09-07T04:17:48.772Z",
       "score": 88
+    },
+    {
+      "name": "brightspace-d2l-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for D2L Brightspace: connect Brightspace to Claude, ChatGPT, Cursor, Copilot and any AI agent. One-command setup at any school with normal browser sign-in (SSO, Duo, MFA). Due dates with real submission status, grades, assignments, content, ann",
+      "license": "MIT",
+      "repository": "https://github.com/AnonymousOnyx22/brightspace-d2l-mcp",
+      "npmUrl": "https://www.npmjs.com/package/brightspace-d2l-mcp",
+      "category": "frontend",
+      "createdAt": "2026-09-16T19:49:24.893Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 100
     },
     {
       "name": "brisk-aitesting",
@@ -79706,6 +79886,18 @@
       "score": 43
     },
     {
+      "name": "dsh-word-vault",
+      "version": "1.0.1",
+      "description": "英语生词库 · 多用户单词助手：复制即弹窗点选录入、拍照识别标记词、LLM 翻译落 SQLite，按出现次数/掌握度出趣味记忆卡（每块带真实 IPA 音标）与考试闭环",
+      "license": "MIT",
+      "repository": "https://github.com/wangzhanchao883/dsh-word-vault",
+      "npmUrl": "https://www.npmjs.com/package/dsh-word-vault",
+      "category": "data",
+      "createdAt": "2026-09-17T00:27:10.183Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 88
+    },
+    {
       "name": "dsh-yolo-mode",
       "version": "0.4.0",
       "description": "dsh-yolo-mode —— DeepSeek Harness 双面包插件：当会话处于可写沙箱模式且审批策略为 ask 时，用大模型自动裁决沙箱升权申请，支持内置预设与自定义权限层级，并提供宿主 settings + 自发布设置桥（/yolo-mode）与 Web 客户端 UI。",
@@ -85586,6 +85778,18 @@
       "score": 66
     },
     {
+      "name": "homebridge-rika-stove",
+      "version": "2.6.0",
+      "description": "Homebridge plugin for RIKA pellet stoves via the FireNet cloud service — heating control, calculated pellet level, service and fault indicators. No dependencies.",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/Astyan42/homebridge-rika-stove",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-rika-stove",
+      "category": "devops",
+      "createdAt": "2026-09-16T23:50:35.880Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 96
+    },
+    {
       "name": "homebridge-skyq-s62-usb",
       "version": "1.0.0",
       "description": "Homebridge plugin that polls Sky Q boxes for now-playing data and forwards it to a Systemline S6.2 multi-room audio system via USB-to-RS232 serial cables. Reconstructs the Sky Gnome RS232 protocol so the S6.2 touch screen displays channel and programme in",
@@ -86388,6 +86592,18 @@
       "createdAt": "2026-07-30T02:46:29.415Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 88
+    },
+    {
+      "name": "ilibras-widget",
+      "version": "1.4.0",
+      "description": "Widget de acessibilidade em Libras: formulário embarcável que leva a pessoa surda ao atendimento com intérprete, ao vivo ou agendado",
+      "license": "MIT",
+      "repository": "https://github.com/Dimendes-Solucoes/Ilibras_widget",
+      "npmUrl": "https://www.npmjs.com/package/ilibras-widget",
+      "category": "data",
+      "createdAt": "2026-09-16T22:14:19.575Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 91
     },
     {
       "name": "ilo-mcp-server",
@@ -90458,6 +90674,18 @@
       "score": 74
     },
     {
+      "name": "lpc-spritesheet-mcp",
+      "version": "1.1.0",
+      "description": "MCP server that generates Universal LPC character spritesheets headlessly (no browser) from the LiberatedPixelCup asset pack: 657 items, 6 body types, palette recoloring, 15 standard animations plus oversize custom ones",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/kanishka-namdeo/lpc-spritesheet-mcp",
+      "npmUrl": "https://www.npmjs.com/package/lpc-spritesheet-mcp",
+      "category": "frontend",
+      "createdAt": "2026-09-16T21:41:29.451Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 89
+    },
+    {
       "name": "ltx-format",
       "version": "0.1.0",
       "description": "Reader and writer for the LTX (Lite Transaction) file format v3, byte-compatible with Litestream v0.5.",
@@ -92736,6 +92964,18 @@
       "createdAt": "2026-08-12T14:10:45.520Z",
       "discoveredAt": "2026-08-12T15:11:32.083Z",
       "score": 77
+    },
+    {
+      "name": "mergerie",
+      "version": "1.6.0",
+      "description": "From prompt to merge — a local AI dev cockpit for GitLab: MR review, autonomous coding sessions and convergence.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/debugall/mergerie",
+      "npmUrl": "https://www.npmjs.com/package/mergerie",
+      "category": "utilities",
+      "createdAt": "2026-09-16T21:16:56.609Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 91
     },
     {
       "name": "mergesetu",
@@ -95472,6 +95712,18 @@
       "createdAt": "2026-08-07T12:33:10.152Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 68
+    },
+    {
+      "name": "nepal-naksha",
+      "version": "1.0.1",
+      "description": "A modern, simple Nepal map — routes, networks and coverage on a dot grid. Presentation layer, not navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/erajkhatiwada/naksha",
+      "npmUrl": "https://www.npmjs.com/package/nepal-naksha",
+      "category": "frontend",
+      "createdAt": "2026-09-10T04:38:00.662Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 86
     },
     {
       "name": "nepal-payment-gateway",
@@ -101210,6 +101462,18 @@
       "score": 75
     },
     {
+      "name": "pi-jev-auto-mode",
+      "version": "0.1.1",
+      "description": "Jev (TypeSafe System One) backed auto mode for the Pi coding agent: semantically auto-approves bash, write, and edit tool calls and fails closed when a decision cannot be made.",
+      "license": "MIT",
+      "repository": "https://github.com/jomatsu/pi-jev-auto-mode",
+      "npmUrl": "https://www.npmjs.com/package/pi-jev-auto-mode",
+      "category": "devops",
+      "createdAt": "2026-09-17T03:17:25.021Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 87
+    },
+    {
       "name": "pi-jina-webtools",
       "version": "0.1.0",
       "description": "Pi extension: web_search and web_fetch tools powered by Jina AI (s.jina.ai search, r.jina.ai reader)",
@@ -101460,6 +101724,18 @@
       "createdAt": "2026-08-11T17:31:41.190Z",
       "discoveredAt": "2026-08-11T17:44:15.060Z",
       "score": 63
+    },
+    {
+      "name": "pi-net-resume",
+      "version": "1.1.0",
+      "description": "Auto-continue a pi session after a network outage: arm on a connectivity error, wait for the link, then resume the same session with full context.",
+      "license": "MIT",
+      "repository": "https://github.com/ZYFsir/pi-net-resume",
+      "npmUrl": "https://www.npmjs.com/package/pi-net-resume",
+      "category": "utilities",
+      "createdAt": "2026-09-17T02:43:35.345Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 94
     },
     {
       "name": "pi-okf",
@@ -101988,6 +102264,18 @@
       "createdAt": "2026-08-10T03:24:41.507Z",
       "discoveredAt": "2026-08-10T03:45:20.247Z",
       "score": 65
+    },
+    {
+      "name": "pi-zhiqi",
+      "version": "0.1.0",
+      "description": "把 pi.dev 包目录搬进 pi TUI：搜 → 选 → 装到当前项目。结果描述自动翻成简体中文，中文关键词也能搜。Zero-dependency, zero-startup-cost pi.dev catalog browser for pi — search, pick, install into the current project, with Simplified-Chinese descriptions.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ZHI-QI/pi-zhiqi",
+      "npmUrl": "https://www.npmjs.com/package/pi-zhiqi",
+      "category": "frontend",
+      "createdAt": "2026-09-17T04:10:26.240Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 90
     },
     {
       "name": "pi2dsh",
@@ -107088,6 +107376,18 @@
       "createdAt": "2026-08-01T17:00:20.590Z",
       "discoveredAt": "2026-08-01T17:46:24.569Z",
       "score": 86
+    },
+    {
+      "name": "robinhood-risk",
+      "version": "0.1.0",
+      "description": "Trust-assumption model, accessible risk disclosure UI, a persisted pre-transaction acknowledgment gate, and a sequencer liveness monitor for Robinhood Chain (Arbitrum Orbit L2, 4663/46630). Value-moving flows degrade correctly when the operator's assumpti",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/nirholas/robinhood-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/robinhood-risk",
+      "category": "utilities",
+      "createdAt": "2026-09-16T20:12:07.669Z",
+      "discoveredAt": "2026-09-17T04:39:58.228Z",
+      "score": 89
     },
     {
       "name": "robinhood-volume-alerts",
