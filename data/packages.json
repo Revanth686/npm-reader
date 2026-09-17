@@ -782,6 +782,18 @@
       "score": 66
     },
     {
+      "name": "@aaakul/ts-intl",
+      "version": "1.0.0",
+      "description": "A zero-dependency, framework-agnostic, strictly type-safe i18n library with a developer experience inspired by next-intl.",
+      "license": "MIT",
+      "repository": "https://github.com/aaakul/ts-intl",
+      "npmUrl": "https://www.npmjs.com/package/%40aaakul%2Fts-intl",
+      "category": "frontend",
+      "createdAt": "2026-09-17T14:36:00.589Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 92
+    },
+    {
       "name": "@aaaxn/pi-herdr-subagents",
       "version": "0.1.0",
       "description": "Pi subagents that run as real, visible Pi sessions in Herdr panes.",
@@ -2208,6 +2220,18 @@
       "createdAt": "2026-08-15T05:08:45.658Z",
       "discoveredAt": "2026-08-15T05:12:32.624Z",
       "score": 52
+    },
+    {
+      "name": "@ai-markdown/code-language-detector",
+      "version": "1.1.0",
+      "description": "Zero-dependency heuristic language detection for unlabelled code blocks, built for streamed LLM output: abstains instead of guessing, never flips between language families mid-stream, and maps fence language names to Shiki and highlight.js names.",
+      "license": "MIT",
+      "repository": "https://github.com/ai-markdown/ai-markdown",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-markdown%2Fcode-language-detector",
+      "category": "build-tools",
+      "createdAt": "2026-09-17T04:53:52.094Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 100
     },
     {
       "name": "@ai-markdown/remark-mark-highlight",
@@ -4728,6 +4752,18 @@
       "createdAt": "2026-08-04T23:42:52.290Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 75
+    },
+    {
+      "name": "@andrey-tepaykin/hh-mcp",
+      "version": "2.2.0",
+      "description": "MCP server for HeadHunter — vacancy search, resumes, salary stats (Russia)",
+      "license": "MIT",
+      "repository": "https://github.com/AndreyTepaykin/hh-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40andrey-tepaykin%2Fhh-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-17T16:39:09.571Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 87
     },
     {
       "name": "@andreykazanin/teams-mcp",
@@ -7908,6 +7944,18 @@
       "createdAt": "2026-07-28T14:14:17.297Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 79
+    },
+    {
+      "name": "@bihangchi9/lark-agent-bridge",
+      "version": "0.0.2",
+      "description": "Feishu/Lark bridge for local coding agents — one group, one conversation, one pinned runtime. Bridges dsh, CLI agents (traex/codex), an IDE window, or a custom agent behind one gateway.",
+      "license": "MIT",
+      "repository": "https://github.com/bihangchi9-creator/dsh-lark-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40bihangchi9%2Flark-agent-bridge",
+      "category": "cli",
+      "createdAt": "2026-09-17T07:33:15.265Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 88
     },
     {
       "name": "@bimetal/toast-headless",
@@ -18998,6 +19046,18 @@
       "score": 75
     },
     {
+      "name": "@firedrill-tools/tool-check",
+      "version": "0.1.1",
+      "description": "Synthetic Check payroll sandbox partner account (companies, workplaces, employees, earning rates, pay schedules, payrolls with preview/approve/reopen, payroll items; Check-shaped REST routes) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Ftool-check",
+      "category": "testing",
+      "createdAt": "2026-09-17T13:01:14.587Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 88
+    },
+    {
       "name": "@firetell/firetell-client-sdk",
       "version": "1.0.2",
       "description": "TypeScript/JavaScript SDK for Firetell WebRTC — make and receive audio/video calls via native per-call WebSocket signaling",
@@ -26424,6 +26484,18 @@
       "createdAt": "2026-08-24T13:18:23.998Z",
       "discoveredAt": "2026-08-25T01:43:40.065Z",
       "score": 93
+    },
+    {
+      "name": "@hasdata/google-hotels-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Google Hotels through HasData's hosted API: hotels and vacation rentals with nightly and total rates, price comparisons across booking sites, ratings, amenities and images. 1,000 free credits every month.",
+      "license": "MIT",
+      "repository": "https://github.com/HasData/google-hotels-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40hasdata%2Fgoogle-hotels-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-17T07:39:37.401Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 98
     },
     {
       "name": "@hasdata/google-images-mcp",
@@ -37116,6 +37188,18 @@
       "createdAt": "2026-08-14T10:32:53.752Z",
       "discoveredAt": "2026-08-15T00:45:12.132Z",
       "score": 62
+    },
+    {
+      "name": "@meyicloud/meyi-pulse-server",
+      "version": "1.0.0",
+      "description": "Complete uptime monitoring server - Drop-in Express backend with monitoring engine, database, REST API, and real-time updates. No authentication required.",
+      "license": "MIT",
+      "repository": "https://github.com/yourusername/pulsewatch",
+      "npmUrl": "https://www.npmjs.com/package/%40meyicloud%2Fmeyi-pulse-server",
+      "category": "backend",
+      "createdAt": "2026-09-17T09:58:56.584Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 90
     },
     {
       "name": "@mgrilec/apm",
@@ -57962,6 +58046,18 @@
       "score": 87
     },
     {
+      "name": "@tolgainam/product-viewer",
+      "version": "0.2.3",
+      "description": "Apple-style product viewer React component with expandable feature cards, colour variants and media galleries. Renders from a JSON content file. No UI framework dependency.",
+      "license": "MIT",
+      "repository": "https://github.com/tolgainam/product-viewer",
+      "npmUrl": "https://www.npmjs.com/package/%40tolgainam%2Fproduct-viewer",
+      "category": "frontend",
+      "createdAt": "2026-09-17T14:50:30.077Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 87
+    },
+    {
       "name": "@tollstile/mcp",
       "version": "0.1.1",
       "description": "Charge for MCP tools: paid tools for the MCP TypeScript SDK with x402, MPP, credits, and subscriptions. Payment challenges, receipts, and refunds handled for you.",
@@ -59196,6 +59292,18 @@
       "createdAt": "2026-07-26T22:08:10.075Z",
       "discoveredAt": "2026-07-26T22:52:31.397Z",
       "score": 59
+    },
+    {
+      "name": "@uno-km/termux-diffusion",
+      "version": "1.6.5",
+      "description": "On-device Stable Diffusion runtime utilizing device resources for Android Termux & Samsung Galaxy (Dual-Engine Python & Node.js)",
+      "license": "MIT",
+      "repository": "https://github.com/uno-km/termux-diffusion",
+      "npmUrl": "https://www.npmjs.com/package/%40uno-km%2Ftermux-diffusion",
+      "category": "utilities",
+      "createdAt": "2026-09-17T11:11:42.214Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 92
     },
     {
       "name": "@unpunnyfuns/faro-tanstack-router",
@@ -60564,6 +60672,18 @@
       "createdAt": "2026-07-27T14:05:26.640Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 73
+    },
+    {
+      "name": "@vijayhardaha/html-cleaner",
+      "version": "1.0.0",
+      "description": "Command-line HTML cleaner: parses HTML into an AST, applies composable transformations, and serializes predictable cleaned HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/vijayhardaha/html-cleaner",
+      "npmUrl": "https://www.npmjs.com/package/%40vijayhardaha%2Fhtml-cleaner",
+      "category": "data",
+      "createdAt": "2026-09-17T04:53:50.546Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 92
     },
     {
       "name": "@vinihcrosa/gitlab-mcp",
@@ -71870,6 +71990,18 @@
       "score": 84
     },
     {
+      "name": "chinese-script-policy",
+      "version": "1.0.0",
+      "description": "Harness-neutral Traditional Chinese enforcer and offline converter: agent skill, DSH bundle or CLI. Flags four axes - Simplified-only glyphs, Traditional-only glyphs, Cantonese colloquialisms, Japanese-only kanji and words - and converts in three independ",
+      "license": "MIT",
+      "repository": "https://github.com/KSF1216/chinese-script-policy",
+      "npmUrl": "https://www.npmjs.com/package/chinese-script-policy",
+      "category": "cli",
+      "createdAt": "2026-09-17T13:43:45.686Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 100
+    },
+    {
       "name": "chisle",
       "version": "2.0.0",
       "description": "Maximum-efficiency dev mode for Claude Code. Zero-fluff prose + YAGNI-first code decisions. One plugin that does both.",
@@ -74148,6 +74280,18 @@
       "createdAt": "2026-08-26T10:51:34.099Z",
       "discoveredAt": "2026-08-26T13:06:22.803Z",
       "score": 90
+    },
+    {
+      "name": "coras-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that turns a description in plain language into a CORAS risk or threat diagram, in the file format of the SINTEF Threat Modelling Tool (which it ships with).",
+      "license": "MIT",
+      "repository": "https://github.com/Drewnja/coras-mcp",
+      "npmUrl": "https://www.npmjs.com/package/coras-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-17T14:32:38.722Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 96
     },
     {
       "name": "cordova-plugin-turnstile",
@@ -77042,6 +77186,18 @@
       "score": 66
     },
     {
+      "name": "doughmination-api",
+      "version": "1.6.0",
+      "description": "React hooks and typed client for the Doughmination API — Discord presence, Minecraft/Hypixel stats, plural system fronters, devices and guestbook, with a single live WebSocket.",
+      "license": "SEE LICENSE IN licence.md",
+      "repository": "https://github.com/doughmination/react-api",
+      "npmUrl": "https://www.npmjs.com/package/doughmination-api",
+      "category": "frontend",
+      "createdAt": "2026-09-17T06:54:12.144Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 93
+    },
+    {
       "name": "doujin-scraper",
       "version": "1.0.1",
       "description": "Standalone data-collection modules for manga / video cataloging sources. Zero-dependency ESM, runs on Node.js >= 18.17, Bun, Deno, or any JS runtime with global fetch.",
@@ -77940,6 +78096,18 @@
       "createdAt": "2026-08-15T04:51:31.411Z",
       "discoveredAt": "2026-08-15T04:51:35.642Z",
       "score": 78
+    },
+    {
+      "name": "dsh-endnote",
+      "version": "1.0.0",
+      "description": "EndNote library integration for the DeepSeek Harness: add papers with their open-access PDFs, manage attachments and groups, de-duplicate, and refresh the search index. Registers 2 skills and 7 native tools over one shared Python implementation.",
+      "license": "MIT",
+      "repository": "https://github.com/Bubble8620/dsh-endnote",
+      "npmUrl": "https://www.npmjs.com/package/dsh-endnote",
+      "category": "utilities",
+      "createdAt": "2026-09-17T13:04:58.254Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 100
     },
     {
       "name": "dsh-essential-tools",
@@ -79430,6 +79598,18 @@
       "score": 85
     },
     {
+      "name": "dsh-task-console",
+      "version": "0.22.0",
+      "description": "DSH client plugin — flip to the back of the page for a floating glass task console: live background jobs, subagents, session overview and workspace of the current session, with mouse-draggable and mouse-resizable cards (bottom-right handle, size persisted",
+      "license": "MIT",
+      "repository": "https://github.com/He2way/dsh-task-console",
+      "npmUrl": "https://www.npmjs.com/package/dsh-task-console",
+      "category": "cli",
+      "createdAt": "2026-09-17T09:04:18.014Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 90
+    },
+    {
       "name": "dsh-taskboard",
       "version": "0.1.0",
       "description": "Agent-first task board for the DSH web GUI: host-authoritative task ledger with taskboard_* agent tools, project (= workspace) claim boundaries, per-task model execution in fresh sessions, host-side cron scheduling, and a live SSE kanban view. Mounts via",
@@ -80880,6 +81060,18 @@
       "createdAt": "2026-07-27T00:06:21.162Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 62
+    },
+    {
+      "name": "esewa-npm",
+      "version": "1.0.0",
+      "description": "Zero-dependency Node.js SDK for the eSewa ePay v2 payment gateway (Nepal) — signature generation, checkout initialization and signed callback verification.",
+      "license": "MIT",
+      "repository": "https://github.com/guptabibek/esewa-npm",
+      "npmUrl": "https://www.npmjs.com/package/esewa-npm",
+      "category": "build-tools",
+      "createdAt": "2026-09-17T06:27:33.406Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 95
     },
     {
       "name": "esf-dsl",
@@ -84024,6 +84216,18 @@
       "createdAt": "2026-08-05T19:59:44.757Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 71
+    },
+    {
+      "name": "git-team-report",
+      "version": "1.0.0",
+      "description": "Generate a graphical team git & code-quality report from any repo. Numbers are pulled live from git; grades and findings live in a config you edit. Incremental: each build shows only what changed since the last one.",
+      "license": "MIT",
+      "repository": "https://github.com/tayyab-rauf/git-team-report",
+      "npmUrl": "https://www.npmjs.com/package/git-team-report",
+      "category": "build-tools",
+      "createdAt": "2026-09-17T13:13:19.640Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 94
     },
     {
       "name": "git-workflow-skill",
@@ -88718,6 +88922,18 @@
       "score": 91
     },
     {
+      "name": "koishi-plugin-giveaway",
+      "version": "1.0.1",
+      "description": "A versatile giveaway plugin for Koishi: interactive giveaway creation, scheduled auto-draw, reminders, i18n and multi-timezone support.",
+      "license": "MIT",
+      "repository": "https://github.com/firedrakeovo/koishi-plugin-giveaway",
+      "npmUrl": "https://www.npmjs.com/package/koishi-plugin-giveaway",
+      "category": "utilities",
+      "createdAt": "2026-09-15T02:27:09.055Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 89
+    },
+    {
       "name": "koishi-plugin-yesimbot-world",
       "version": "0.1.0",
       "description": "YesImBot World: 让 Bot 生活在由另一个 LLM 维护的独立虚拟世界中，持续生成行动流",
@@ -90506,6 +90722,18 @@
       "score": 90
     },
     {
+      "name": "logo-vectorizer",
+      "version": "1.1.0",
+      "description": "Turn a flat-color raster logo into layered vectors and a logo pack (SVG, PDF, EPS, PNG) entirely in the browser. Arabic and English UI.",
+      "license": "GPL-2.0-or-later",
+      "repository": "https://github.com/Mulhamx4/logo-vectorize",
+      "npmUrl": "https://www.npmjs.com/package/logo-vectorizer",
+      "category": "frontend",
+      "createdAt": "2026-09-17T05:43:33.441Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 93
+    },
+    {
       "name": "lolzteam-api-ts",
       "version": "1.0.0",
       "description": "TypeScript and JavaScript SDK for the LOLZTEAM Forum and Market APIs, generated from the official OpenAPI documents.",
@@ -91632,6 +91860,18 @@
       "createdAt": "2026-09-03T15:17:51.525Z",
       "discoveredAt": "2026-09-03T16:18:01.109Z",
       "score": 93
+    },
+    {
+      "name": "maverick-ai-dev-stack",
+      "version": "1.4.1",
+      "description": "A vendor-neutral engineering workflow for building with AI using explicit context, scope, verification and human review.",
+      "license": "MIT",
+      "repository": "https://github.com/jhonesgoncalves/maverick-ai-dev-stack",
+      "npmUrl": "https://www.npmjs.com/package/maverick-ai-dev-stack",
+      "category": "build-tools",
+      "createdAt": "2026-09-17T16:31:00.500Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 89
     },
     {
       "name": "mbox-mcp",
@@ -100430,6 +100670,18 @@
       "score": 69
     },
     {
+      "name": "persian-date-native",
+      "version": "1.0.0",
+      "description": "Ultra-fast, zero-dependency Persian (Jalali / Shamsi) date engine extending native JavaScript Date with Day.js plugin support.",
+      "license": "ISC",
+      "repository": "https://github.com/muhamadzolfaghari/persian-date-native",
+      "npmUrl": "https://www.npmjs.com/package/persian-date-native",
+      "category": "data",
+      "createdAt": "2026-09-17T14:16:47.340Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 92
+    },
+    {
       "name": "persianist",
       "version": "0.1.0",
       "description": "Zero-dependency TypeScript toolkit for Persian/Farsi text, Jalali (Shamsi) and Hijri dates, relative time and Iranian holidays, Iranian validators, Persian numbers and currency, and Iranian geography.",
@@ -101567,6 +101819,18 @@
       "category": "backend",
       "createdAt": "2026-09-10T23:38:06.536Z",
       "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 100
+    },
+    {
+      "name": "pi-lmstudio-evict",
+      "version": "1.0.0",
+      "description": "Pi extension for LM Studio: on /model switch it unloads the old model and preloads the new one, so only one model holds your VRAM. Reloads models evicted by idle TTL, covers what Auto-Evict misses, and keeps models.json in sync.",
+      "license": "CC0-1.0",
+      "repository": "https://github.com/MarcinWolnyEU/pi-lmstudio-evict",
+      "npmUrl": "https://www.npmjs.com/package/pi-lmstudio-evict",
+      "category": "utilities",
+      "createdAt": "2026-09-17T08:10:00.021Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
       "score": 100
     },
     {
@@ -106104,6 +106368,18 @@
       "createdAt": "2026-07-27T07:54:13.329Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 80
+    },
+    {
+      "name": "react-uidevkit",
+      "version": "0.1.0",
+      "description": "In-app UI feedback overlay for React: pick an element or drag a box, describe the issue, and submit a rich context bundle (component chain, DOM, styles, console, screenshot). Dev mode queues captures for the /uidevkit Claude Code command; QA mode submits",
+      "license": "MIT",
+      "repository": "https://github.com/Fernando3743/react-devkit",
+      "npmUrl": "https://www.npmjs.com/package/react-uidevkit",
+      "category": "frontend",
+      "createdAt": "2026-09-17T14:55:25.520Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 90
     },
     {
       "name": "react-viewer-doc",
@@ -115154,6 +115430,18 @@
       "score": 69
     },
     {
+      "name": "uis-mcp-server",
+      "version": "0.4.0",
+      "description": "Remote MCP server for the UNESCO Institute for Statistics (UIS): ~5,000 indicators on education, science/R&D, culture and communication by country, region and year — hosted, nothing to install, no API key, with source URL, data release, retrieval timestam",
+      "license": "MIT",
+      "repository": "https://github.com/SidneyBissoli/uis-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/uis-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-17T13:28:37.746Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 90
+    },
+    {
       "name": "uitopia",
       "version": "0.0.1",
       "description": "Reserved for UiTOPIA (https://uitopia.design). Not an installable library yet — copy components from the catalog.",
@@ -118536,6 +118824,18 @@
       "createdAt": "2026-08-01T19:25:19.539Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 58
+    },
+    {
+      "name": "xiod-ui",
+      "version": "1.0.1",
+      "description": "Precision-Crafted React Component Library - 89 Components, 20 Palettes, Native CSS Animations, Light and Dark Themes. Built on Base UI and Tailwind CSS 4. One npm Package, Nothing Extra to Install.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/ImKKingshuk/XiodUI",
+      "npmUrl": "https://www.npmjs.com/package/xiod-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-13T00:30:55.159Z",
+      "discoveredAt": "2026-09-17T16:47:52.989Z",
+      "score": 99
     },
     {
       "name": "xliffai",
