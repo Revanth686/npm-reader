@@ -6326,6 +6326,18 @@
       "score": 73
     },
     {
+      "name": "@atools/qualm",
+      "version": "1.0.1",
+      "description": "Typed decisions from a System One model, where uncertainty is something you have to handle.",
+      "license": "MIT",
+      "repository": "https://github.com/qddegtya/qualm",
+      "npmUrl": "https://www.npmjs.com/package/%40atools%2Fqualm",
+      "category": "devops",
+      "createdAt": "2026-09-18T08:51:07.951Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 88
+    },
+    {
       "name": "@atscale-ps/ps-utils-dev",
       "version": "3.0.0",
       "description": "AtScale PS utilities — CLI and library for SML generation, deployment, and analysis",
@@ -7164,6 +7176,18 @@
       "createdAt": "2026-08-02T20:00:08.515Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 77
+    },
+    {
+      "name": "@bachi/pi-coder",
+      "version": "1.0.0",
+      "description": "A complete Pi coding-agent environment: 22 TUI extensions, 3 themes and the global config files that make them work together.",
+      "license": "MIT",
+      "repository": "https://github.com/jayli/pi-coder",
+      "npmUrl": "https://www.npmjs.com/package/%40bachi%2Fpi-coder",
+      "category": "cli",
+      "createdAt": "2026-09-18T09:42:02.673Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 92
     },
     {
       "name": "@backend-master/securekit",
@@ -9986,6 +10010,18 @@
       "score": 90
     },
     {
+      "name": "@cardinal4/opencode-quota",
+      "version": "5.0.0",
+      "description": "OpenCode 2 quota & tokens usage with zero context window pollution. Supports GitHub Copilot, OpenAI (Plus/Pro), Qwen Code, Chutes AI, Synthetic, Google Antigravity, Z.ai coding plan and more.",
+      "license": "MIT",
+      "repository": "https://github.com/cardin/opencode-quota",
+      "npmUrl": "https://www.npmjs.com/package/%40cardinal4%2Fopencode-quota",
+      "category": "utilities",
+      "createdAt": "2026-09-18T09:53:26.398Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 99
+    },
+    {
       "name": "@cardochat/sdk",
       "version": "1.0.1",
       "description": "Official Cardochat SDK — multi-tenant chat API client + React components",
@@ -11870,6 +11906,18 @@
       "score": 63
     },
     {
+      "name": "@cometchat/push-notifications-react-native",
+      "version": "1.0.0",
+      "description": "Drop-in push notifications and VoIP calling for CometChat React Native apps. JS-first: a native display engine (FCM/notifications + CallKit/PushKit) drives the OS UI; all CometChat actions run through your existing chat-sdk-react-native — no second native",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/cometchat/push-notifications-sdk-react-native",
+      "npmUrl": "https://www.npmjs.com/package/%40cometchat%2Fpush-notifications-react-native",
+      "category": "frontend",
+      "createdAt": "2026-09-18T11:48:35.821Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 100
+    },
+    {
       "name": "@commencement.technology/ct-seri-logs",
       "version": "0.2.0",
       "description": "SERI-structured logging and observability for Node.js and NestJS: Serilog-style message templates, page/API request logs on daily-rotated MySQL tables, retention, and the reporting and chart queries to go with them.",
@@ -13538,6 +13586,18 @@
       "score": 64
     },
     {
+      "name": "@decionis/agentsafe",
+      "version": "0.1.0",
+      "description": "The trusted executor of the Execution Authority architecture as one deployable process: a proposal in over HTTP, a verdict from the authority, one execution on a claimed single-use grant, and the evidence of each.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/decionis/agent-safe-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/%40decionis%2Fagentsafe",
+      "category": "backend",
+      "createdAt": "2026-09-18T05:50:27.524Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
       "name": "@decionis/langchain",
       "version": "0.1.0",
       "description": "Gate any LangChain.js tool or LangGraph.js node on a signed Decionis Decision Dossier.",
@@ -13716,6 +13776,18 @@
       "createdAt": "2026-08-14T08:50:52.789Z",
       "discoveredAt": "2026-08-14T09:00:21.572Z",
       "score": 82
+    },
+    {
+      "name": "@delete101020/aidlc",
+      "version": "4.0.1",
+      "description": "AIDLC Native CLI, a fork of AIDLC — drive Claude through the six-stage AI-Native SDLC Playbook: Plan → Design → Build → Test → Deploy → Maintain, with artifact gates, requirements traceability, an incident loop back to Plan, and Spec Kit support.",
+      "license": "MIT",
+      "repository": "https://github.com/delete101020/ai-native-sdlc",
+      "npmUrl": "https://www.npmjs.com/package/%40delete101020%2Faidlc",
+      "category": "testing",
+      "createdAt": "2026-09-18T10:30:13.835Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 94
     },
     {
       "name": "@delightstack/crdt",
@@ -17246,6 +17318,18 @@
       "score": 70
     },
     {
+      "name": "@ekwo-ai/peppol-ubl",
+      "version": "0.4.0",
+      "description": "Peppol BIS Billing 3.0 invoices and credit notes (UBL 2.1, EN 16931) in TypeScript, from a posted document, with every published rule the file breaks named by its identifier. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Ekwo-ai/ekwo-os",
+      "npmUrl": "https://www.npmjs.com/package/%40ekwo-ai%2Fpeppol-ubl",
+      "category": "build-tools",
+      "createdAt": "2026-09-18T16:07:38.944Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 89
+    },
+    {
       "name": "@elastikteams/theme-forge",
       "version": "0.1.0",
       "description": "Generate WCAG-compliant light + dark application themes from a brand logo and/or style guide document",
@@ -17615,6 +17699,18 @@
       "category": "testing",
       "createdAt": "2026-08-30T20:40:54.574Z",
       "discoveredAt": "2026-08-31T05:15:40.133Z",
+      "score": 94
+    },
+    {
+      "name": "@engnadia/veloprove",
+      "version": "1.0.0",
+      "description": "Local-first agentic QA toolkit for AI-assisted test generation, automated testing, failure analysis, regression detection, and quality reporting.",
+      "license": "MIT",
+      "repository": "https://github.com/NadiaSalah/VeloProve",
+      "npmUrl": "https://www.npmjs.com/package/%40engnadia%2Fveloprove",
+      "category": "testing",
+      "createdAt": "2026-09-18T15:56:28.222Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
       "score": 94
     },
     {
@@ -19128,6 +19224,42 @@
       "createdAt": "2026-09-17T13:01:14.587Z",
       "discoveredAt": "2026-09-17T16:47:52.989Z",
       "score": 88
+    },
+    {
+      "name": "@firedrill-tools/tool-jira",
+      "version": "0.1.1",
+      "description": "Synthetic Jira Cloud site (REST API v3 issues, JQL search, comments, transitions, users, projects; agile 1.0 boards and sprints; Atlassian Remote MCP Server Jira tool names) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Ftool-jira",
+      "category": "testing",
+      "createdAt": "2026-09-18T06:01:05.497Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
+      "name": "@firedrill-tools/tool-salesforce",
+      "version": "0.1.1",
+      "description": "Synthetic Salesforce org (Platform REST API subset: sObject rows and upsert by external id, SOQL query/queryAll, parameterized search, sObject Collections, Composite, limits, describe, OpenID userinfo; @salesforce/mcp data tool names) Tool package for Fir",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Ftool-salesforce",
+      "category": "testing",
+      "createdAt": "2026-09-18T06:01:35.001Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
+      "name": "@firedrill-tools/tool-stripe",
+      "version": "0.1.1",
+      "description": "Synthetic Stripe test-mode account (customers, cards, PaymentIntents, charges, refunds, products, prices, invoices, subscriptions, balance; Stripe REST v1 routes and agent-toolkit MCP tool names) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Ftool-stripe",
+      "category": "testing",
+      "createdAt": "2026-09-18T06:01:44.826Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
     },
     {
       "name": "@firetell/firetell-client-sdk",
@@ -36326,6 +36458,18 @@
       "score": 100
     },
     {
+      "name": "@mapseekai/gdal3.js",
+      "version": "2.8.2",
+      "description": "gdal3.js is a port of Gdal applications (**gdal_translate**, **ogr2ogr**, **gdal_rasterize**, **gdalwarp**, **gdaltransform**) to Webassembly. It allows you to convert raster and vector geospatial data to various formats and coordinate systems.",
+      "license": "LGPL-2.1-or-later",
+      "repository": "https://github.com/bugra9/gdal3.js",
+      "npmUrl": "https://www.npmjs.com/package/%40mapseekai%2Fgdal3.js",
+      "category": "data",
+      "createdAt": "2026-09-18T12:19:19.452Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 100
+    },
+    {
       "name": "@maptiles-doctor/core",
       "version": "0.1.1",
       "description": "Contract-checking engine behind MapTiles Doctor: reads a MapLibre/Mapbox style and the tile, glyph and sprite artifacts it depends on, and reports where they disagree.",
@@ -45888,6 +46032,18 @@
       "createdAt": "2026-09-02T16:48:30.473Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
       "score": 92
+    },
+    {
+      "name": "@point-of-sale/receipt-printer-decoder",
+      "version": "1.1.0",
+      "description": "Decode the raw data sent to a receipt printer, ESC/POS, StarPRNT, Star Line or Star Graphics, into its commands with their parameters and meanings",
+      "license": "MIT",
+      "repository": "https://github.com/at-point-of-sale/ReceiptPrinterDecoder",
+      "npmUrl": "https://www.npmjs.com/package/%40point-of-sale%2Freceipt-printer-decoder",
+      "category": "data",
+      "createdAt": "2026-09-18T08:48:08.816Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 94
     },
     {
       "name": "@polishd/next",
@@ -63074,6 +63230,18 @@
       "score": 93
     },
     {
+      "name": "@xeplr/workflow",
+      "version": "1.0.2",
+      "description": "Workflows over @xeplr/actions — steps that bind inputs to earlier outputs, branch on conditions, fan out over lists and wait for a person or a job. registerWorkflow() mounts it into a host Express app, or it runs on its own.",
+      "license": "MIT",
+      "repository": "https://github.com/Xeplr/x-flow",
+      "npmUrl": "https://www.npmjs.com/package/%40xeplr%2Fworkflow",
+      "category": "backend",
+      "createdAt": "2026-09-18T09:33:25.463Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 92
+    },
+    {
       "name": "@xivdyetools/worker-kit",
       "version": "1.1.0",
       "description": "Shared Cloudflare Worker toolkit for xivdyetools: Hono middleware (request ID, logger, rate limit) + rate limiting backends (Memory, KV, Upstash)",
@@ -77102,6 +77270,18 @@
       "score": 70
     },
     {
+      "name": "docs-healthcheck",
+      "version": "2.1.0",
+      "description": "Evidence-backed documentation quality gate and deterministic auto-repair engine for Markdown repositories.",
+      "license": "MIT",
+      "repository": "https://github.com/muhamadzolfaghari/docs-healthcheck",
+      "npmUrl": "https://www.npmjs.com/package/docs-healthcheck",
+      "category": "devops",
+      "createdAt": "2026-09-18T13:34:35.225Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
       "name": "docs-overlay-docusaurus",
       "version": "0.1.1",
       "description": "Docusaurus adapter for docs-overlay: plans the tree Docusaurus insists on reading from disk.",
@@ -78890,6 +79070,18 @@
       "score": 80
     },
     {
+      "name": "dsh-model-chooser",
+      "version": "0.1.1",
+      "description": "A searchable, sortable model picker for the DeepSeek Harness Web UI — provider groups, favorites, hidden-models blacklist, live per-task cost, prices and context windows, a refresh button that re-syncs every provider model list from its live API, and the",
+      "license": "MIT",
+      "repository": "https://github.com/loonylabs-dev/dsh-model-chooser",
+      "npmUrl": "https://www.npmjs.com/package/dsh-model-chooser",
+      "category": "backend",
+      "createdAt": "2026-09-18T16:02:30.425Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
       "name": "dsh-model-meta-autofill",
       "version": "0.2.0",
       "description": "DSH plugin: auto-fill metadata (context length, output cap, display name, input modalities) for custom-provider models from the Model Metadata Registry (models.dev).",
@@ -79728,6 +79920,18 @@
       "createdAt": "2026-08-30T12:53:40.561Z",
       "discoveredAt": "2026-08-30T16:33:33.661Z",
       "score": 100
+    },
+    {
+      "name": "dsh-shell-select",
+      "version": "0.1.0",
+      "description": "DeepSeek Harness plugin: one model-facing `shell` tool whose shell is a user setting. Resolves and validates through the harness's own seams, and refuses to run when the selected shell cannot be confined.",
+      "license": "MIT",
+      "repository": "https://github.com/athif23/dsh-shell-select",
+      "npmUrl": "https://www.npmjs.com/package/dsh-shell-select",
+      "category": "cli",
+      "createdAt": "2026-09-18T13:24:30.890Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
     },
     {
       "name": "dsh-sidebar-onlyoffice",
@@ -80964,6 +81168,18 @@
       "createdAt": "2026-07-27T17:45:59.511Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 80
+    },
+    {
+      "name": "emdash-ai-search",
+      "version": "0.4.0",
+      "description": "AI search + chat for EmDash CMS, powered by Cloudflare AI Search. Indexes your content into an AI Search instance (built-in storage, per-file, on publish) and injects Cloudflare's public-endpoint UI snippets (chat bubble / search modal) site-wide — no cus",
+      "license": "MIT",
+      "repository": "https://github.com/theweekendprojects/emdash-ai-search",
+      "npmUrl": "https://www.npmjs.com/package/emdash-ai-search",
+      "category": "devops",
+      "createdAt": "2026-09-18T08:08:19.185Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
     },
     {
       "name": "emdash-better-auth",
@@ -87638,6 +87854,30 @@
       "score": 69
     },
     {
+      "name": "ionic-daterange-picker",
+      "version": "1.0.0",
+      "description": "Syncfusion-style date range picker for Ionic + Angular, built from native Ionic components and Ionic CSS tokens so third-party themes (@rdlabo/ionic-theme-md3, @rdlabo/ionic-theme-ios26) style it for free.",
+      "license": "MIT",
+      "repository": "https://github.com/nesgarbo/ionic-daterange-picker",
+      "npmUrl": "https://www.npmjs.com/package/ionic-daterange-picker",
+      "category": "frontend",
+      "createdAt": "2026-09-18T11:15:36.421Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 92
+    },
+    {
+      "name": "ionic-scheduler",
+      "version": "1.0.0",
+      "description": "A compound scheduling surface for Ionic Angular: day, week, month, year, agenda, timeline and resource-timeline views, built out of Ionic components and themed with Ionic's own design tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/nesgarbo/ionic-scheduler",
+      "npmUrl": "https://www.npmjs.com/package/ionic-scheduler",
+      "category": "frontend",
+      "createdAt": "2026-09-18T11:15:20.814Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 95
+    },
+    {
       "name": "ioredis-om-typed",
       "version": "6.0.0",
       "description": "A robust, performance-focused and full-featured Redis client for Node.js.",
@@ -88104,6 +88344,18 @@
       "createdAt": "2026-08-12T06:15:46.010Z",
       "discoveredAt": "2026-08-12T07:12:03.714Z",
       "score": 74
+    },
+    {
+      "name": "jiffyback",
+      "version": "1.0.1",
+      "description": "Ultra-simple, flexible Node.js backend framework for web designers - build your entire backend in plain JavaScript, no PHP (or any dependency) required.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JCode-JCode/jiffyback",
+      "npmUrl": "https://www.npmjs.com/package/jiffyback",
+      "category": "backend",
+      "createdAt": "2026-09-06T21:43:02.417Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 89
     },
     {
       "name": "jingqing",
@@ -92844,6 +93096,18 @@
       "createdAt": "2026-07-30T12:43:55.051Z",
       "discoveredAt": "2026-07-30T14:26:47.902Z",
       "score": 85
+    },
+    {
+      "name": "mcp-shopify-yoffi",
+      "version": "1.0.8",
+      "description": "MCP Server for the Shopify Admin API (fork of shopify-mcp, extended with discount-management tools), enabling interaction with store data through GraphQL",
+      "license": "MIT",
+      "repository": "https://github.com/yoffi-digital/mcp-shopify-yoffi",
+      "npmUrl": "https://www.npmjs.com/package/mcp-shopify-yoffi",
+      "category": "backend",
+      "createdAt": "2026-09-18T08:25:11.468Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 89
     },
     {
       "name": "mcp-six-eyes",
@@ -106526,6 +106790,18 @@
       "score": 100
     },
     {
+      "name": "react-permission-control",
+      "version": "1.0.1",
+      "description": "🛡️ The lightweight, type-safe authorization library for React. Declarative <Can /> components, hooks, and RBAC/ABAC access control with zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/lvlinh45/react-permission",
+      "npmUrl": "https://www.npmjs.com/package/react-permission-control",
+      "category": "frontend",
+      "createdAt": "2026-09-18T09:51:55.758Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 95
+    },
+    {
       "name": "react-pivottable-enhanced-angular",
       "version": "1.0.2",
       "description": "Angular wrapper for react-pivottable-enhanced: a production-grade pivot table with drag & drop fields, filters, charts, drill-through and export.",
@@ -119222,6 +119498,18 @@
       "score": 62
     },
     {
+      "name": "xtb-wasm",
+      "version": "1.0.0",
+      "description": "GFN2-xTB vibrational spectroscopy in the browser: harmonic frequencies, IR intensities, Raman activities and RRHO thermochemistry, validated against native xtb",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/cheminfo/xtb-wasm",
+      "npmUrl": "https://www.npmjs.com/package/xtb-wasm",
+      "category": "frontend",
+      "createdAt": "2026-09-18T14:55:35.513Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 91
+    },
+    {
       "name": "xtrawl",
       "version": "0.1.1",
       "description": "Scrape public X posts, profiles, followers, and following",
@@ -119544,6 +119832,18 @@
       "createdAt": "2026-08-12T12:46:30.174Z",
       "discoveredAt": "2026-08-12T12:49:35.533Z",
       "score": 68
+    },
+    {
+      "name": "zcode-executor",
+      "version": "0.2.0",
+      "description": "Claude plans, ZCode codes, git verifies. Hand a development task to the local ZCode (GLM) agent in an isolated git worktree, with a hard-rule + model-review permission gate. 把开发任务派给本机 ZCode 执行，worktree 隔离，红线加模型审批，git diff 验收",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/KyoMio/zcode-executor",
+      "npmUrl": "https://www.npmjs.com/package/zcode-executor",
+      "category": "utilities",
+      "createdAt": "2026-09-08T03:25:05.016Z",
+      "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 89
     },
     {
       "name": "zcode-router",
