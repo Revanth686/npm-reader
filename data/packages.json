@@ -2666,6 +2666,18 @@
       "score": 93
     },
     {
+      "name": "@ajaybhatia/react-native-modal",
+      "version": "1.0.1",
+      "description": "A maintained React Native modal continuation compatible with modern React Native versions",
+      "license": "MIT",
+      "repository": "https://github.com/ajaybhatia/react-native-modal",
+      "npmUrl": "https://www.npmjs.com/package/%40ajaybhatia%2Freact-native-modal",
+      "category": "frontend",
+      "createdAt": "2026-09-19T08:17:12.489Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 86
+    },
+    {
       "name": "@ajentify/sdk",
       "version": "0.1.0",
       "description": "Official TypeScript SDK for the Ajentify API. A clean, uniform wrapper over agents, contexts, tools, structured responses, data windows, API keys, JSON documents and models with Zod-first schemas.",
@@ -19274,6 +19286,78 @@
       "score": 75
     },
     {
+      "name": "@firedrill-tools/check",
+      "version": "0.1.2",
+      "description": "Synthetic Check payroll sandbox partner account (companies, workplaces, employees, earning rates, pay schedules, payrolls with preview/approve/reopen, payroll items; Check-shaped REST routes) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Fcheck",
+      "category": "testing",
+      "createdAt": "2026-09-19T05:49:39.939Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 88
+    },
+    {
+      "name": "@firedrill-tools/jira",
+      "version": "0.1.1",
+      "description": "Synthetic Jira Cloud site (REST API v3 issues, JQL search, comments, transitions, users, projects; agile 1.0 boards and sprints; Atlassian Remote MCP Server Jira tool names) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Fjira",
+      "category": "testing",
+      "createdAt": "2026-09-19T06:26:12.302Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
+    },
+    {
+      "name": "@firedrill-tools/linear",
+      "version": "0.1.1",
+      "description": "Synthetic Linear workspace (GraphQL API subset on POST /graphql: viewer, teams, workflow states, labels, projects, cycles, issues, comments; official Linear MCP server tool names) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Flinear",
+      "category": "testing",
+      "createdAt": "2026-09-19T06:27:37.111Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 88
+    },
+    {
+      "name": "@firedrill-tools/notion",
+      "version": "0.1.1",
+      "description": "Synthetic Notion workspace (REST API 2025-09-03 pages, data sources, blocks, comments, search, users; page-markdown endpoints; Notion MCP server tool names) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Fnotion",
+      "category": "testing",
+      "createdAt": "2026-09-19T06:30:09.276Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 86
+    },
+    {
+      "name": "@firedrill-tools/salesforce",
+      "version": "0.1.1",
+      "description": "Synthetic Salesforce org (Platform REST API subset: sObject rows and upsert by external id, SOQL query/queryAll, parameterized search, sObject Collections, Composite, limits, describe, OpenID userinfo; @salesforce/mcp data tool names) Tool package for Fir",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Fsalesforce",
+      "category": "testing",
+      "createdAt": "2026-09-19T06:31:20.768Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
+    },
+    {
+      "name": "@firedrill-tools/stripe",
+      "version": "0.1.1",
+      "description": "Synthetic Stripe test-mode account (customers, cards, PaymentIntents, charges, refunds, products, prices, invoices, subscriptions, balance; Stripe REST v1 routes and agent-toolkit MCP tool names) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Fstripe",
+      "category": "testing",
+      "createdAt": "2026-09-19T06:32:28.678Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
+    },
+    {
       "name": "@firedrill-tools/tool-check",
       "version": "0.1.1",
       "description": "Synthetic Check payroll sandbox partner account (companies, workplaces, employees, earning rates, pay schedules, payrolls with preview/approve/reopen, payroll items; Check-shaped REST routes) Tool package for Firedrill",
@@ -19320,6 +19404,18 @@
       "createdAt": "2026-09-18T06:01:44.826Z",
       "discoveredAt": "2026-09-18T16:16:36.620Z",
       "score": 90
+    },
+    {
+      "name": "@firedrill-tools/trolley",
+      "version": "0.1.1",
+      "description": "Synthetic Trolley sandbox merchant (recipients, payout accounts, batches with quotes and processing, payments, balances; Trolley REST API v1 routes) Tool package for Firedrill",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/firedrill-tools/firedrill-tools",
+      "npmUrl": "https://www.npmjs.com/package/%40firedrill-tools%2Ftrolley",
+      "category": "testing",
+      "createdAt": "2026-09-19T06:33:02.508Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 87
     },
     {
       "name": "@firetell/firetell-client-sdk",
@@ -31454,6 +31550,18 @@
       "score": 85
     },
     {
+      "name": "@josesuite/node",
+      "version": "1.0.1",
+      "description": "Security-focused, standards-compliant JOSE for Node.js with JWS, JWE, JWT, JWK/JWKS, JWA, strict validation, and explicit algorithm policies.",
+      "license": "MIT",
+      "repository": "https://github.com/josesuite/node",
+      "npmUrl": "https://www.npmjs.com/package/%40josesuite%2Fnode",
+      "category": "build-tools",
+      "createdAt": "2026-09-19T08:03:42.229Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 94
+    },
+    {
       "name": "@josh-dovey/postcodes",
       "version": "0.1.0",
       "description": "Typed JavaScript/TypeScript client for the GB Postcodes API — lookup, autocomplete, boundaries, distance, radius, reverse geocode, and ONSPD geography.",
@@ -34848,6 +34956,18 @@
       "createdAt": "2026-07-27T09:03:27.601Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 72
+    },
+    {
+      "name": "@logictan/dsh-easyrewrite",
+      "version": "2.5.4",
+      "description": "DSH Web内目前最无感的消息撤回、重编辑插件，原版体验，兼容性强，功能简单可开关，设置丰富，现代化轻量ui框架。The most seamless message recall & re-edit plugin for DSH Web — native experience, strong compatibility, simple toggles, rich settings, modern lightweight UI. DSH Web で最もシームレスなメッセージ撤回・再編集プラグイン——ネイテ",
+      "license": "MIT",
+      "repository": "https://github.com/dale0525/dsh-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40logictan%2Fdsh-easyrewrite",
+      "category": "cli",
+      "createdAt": "2026-09-19T11:39:25.587Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 89
     },
     {
       "name": "@lokascript/domains",
@@ -45098,6 +45218,18 @@
       "score": 64
     },
     {
+      "name": "@patimweb/pi-jev",
+      "version": "1.0.0",
+      "description": "Typed decision layer for the pi coding agent. Jev answers bounded questions with calibrated probabilities, so pi filters, verifies and gates cheaply instead of spending frontier tokens and turns on it.",
+      "license": "MIT",
+      "repository": "https://github.com/Smotherer007/pi-jev",
+      "npmUrl": "https://www.npmjs.com/package/%40patimweb%2Fpi-jev",
+      "category": "devops",
+      "createdAt": "2026-09-19T15:09:21.562Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 100
+    },
+    {
       "name": "@patrickdappollonio/claude-usage-tray",
       "version": "1.0.0",
       "description": "Tray icon showing Claude Code 5-hour and weekly usage, for Linux and macOS.",
@@ -47124,6 +47256,30 @@
       "createdAt": "2026-08-11T06:49:12.712Z",
       "discoveredAt": "2026-08-11T06:52:24.905Z",
       "score": 71
+    },
+    {
+      "name": "@puenteworks/checkyourself",
+      "version": "1.7.0",
+      "description": "Reviewable completion-evidence workflow, bounded scoring, guided hardening, and learning-plan system for AI-built apps. Stdlib-only Python CLI plus a stdio MCP server with 11 tools; no network, no telemetry, secret values never printed.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/KyaniteLabs/checkyourself",
+      "npmUrl": "https://www.npmjs.com/package/%40puenteworks%2Fcheckyourself",
+      "category": "backend",
+      "createdAt": "2026-09-19T14:40:25.372Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 100
+    },
+    {
+      "name": "@puenteworks/tastecheck",
+      "version": "1.5.0",
+      "description": "Frontend taste and ship-gate toolkit for AI coding agents and frontend engineers who want evidence-backed UI quality.",
+      "license": "MIT",
+      "repository": "https://github.com/KyaniteLabs/tastecheck",
+      "npmUrl": "https://www.npmjs.com/package/%40puenteworks%2Ftastecheck",
+      "category": "frontend",
+      "createdAt": "2026-09-19T14:36:48.874Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 89
     },
     {
       "name": "@puffle/cookiejar",
@@ -61034,6 +61190,18 @@
       "score": 81
     },
     {
+      "name": "@vibex/vibex",
+      "version": "0.2.0",
+      "description": "Architecture diagrams and checkable documentation from your codebase: ERD, C4, API endpoints and lifecycle diagrams, plus a fact graph whose claims fail CI when the code moves. Imports OpenAPI, GraphQL SDL and Prisma. One standalone HTML file, zero depend",
+      "license": "MIT",
+      "repository": "https://github.com/Raja0sama/vibex",
+      "npmUrl": "https://www.npmjs.com/package/%40vibex%2Fvibex",
+      "category": "backend",
+      "createdAt": "2026-09-19T12:58:32.174Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
+    },
+    {
       "name": "@vibsl/mcp-server",
       "version": "0.3.1",
       "description": "Model Context Protocol server for the VIBSL deployment API — read and drive deployments from Claude, the OpenAI Agents SDK, or any MCP client.",
@@ -64610,6 +64778,18 @@
       "score": 82
     },
     {
+      "name": "@zenland-dev/n8n-nodes-wazzup24",
+      "version": "0.1.0",
+      "description": "Wazzup nodes for n8n: send, edit and delete messages in WhatsApp, WABA, Telegram, MAX, Viber, VK, Avito and Instagram, WABA templates with their variables, buttons, contacts, deals, users, pipelines, the chat window link, any API call, and a webhook trigg",
+      "license": "MIT",
+      "repository": "https://github.com/zenland-dev/n8n-nodes-wazzup24",
+      "npmUrl": "https://www.npmjs.com/package/%40zenland-dev%2Fn8n-nodes-wazzup24",
+      "category": "backend",
+      "createdAt": "2026-09-19T13:10:14.734Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
+    },
+    {
       "name": "@zenrows/cli",
       "version": "1.0.0",
       "description": "Open-source CLI, MCP, skills, templates, workflows, recipes, and evals layer for giving AI agents reliable access to protected web data through Zenrows cloud infrastructure.",
@@ -66062,6 +66242,18 @@
       "score": 68
     },
     {
+      "name": "agent-chaperone",
+      "version": "0.1.0",
+      "description": "A calibrated firewall for AI agent tool calls: screens them before they run, and screens tool results before the agent reads them. Covers MCP servers through a proxy and a client's built-in tools through a hooks adapter.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agent-chaperone/agent-chaperone",
+      "npmUrl": "https://www.npmjs.com/package/agent-chaperone",
+      "category": "backend",
+      "createdAt": "2026-09-18T18:57:55.286Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 88
+    },
+    {
       "name": "agent-config-audit",
       "version": "0.1.0",
       "description": "Security auditor for AI agent configurations — scans MCP servers, Claude Code settings, agents, skills and hooks for risky permissions, inline secrets, unpinned supply chains and prompt-injection surfaces.",
@@ -67008,6 +67200,18 @@
       "createdAt": "2026-09-02T16:32:31.982Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
       "score": 88
+    },
+    {
+      "name": "ai-employees",
+      "version": "1.7.0",
+      "description": "Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files.",
+      "license": "MIT",
+      "repository": "https://github.com/markfulton/ai-employees",
+      "npmUrl": "https://www.npmjs.com/package/ai-employees",
+      "category": "frontend",
+      "createdAt": "2026-09-19T06:11:51.702Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
     },
     {
       "name": "ai-model-benchmark-solutions",
@@ -71208,6 +71412,18 @@
       "createdAt": "2026-08-10T07:45:23.568Z",
       "discoveredAt": "2026-08-10T11:00:03.173Z",
       "score": 78
+    },
+    {
+      "name": "bundlebox",
+      "version": "0.6.0",
+      "description": "The zero-token software factory for AI coding agents: a Node CLI, a Rust kernel and a Python expert system that scan, pack, route and run work across Claude Code, Codex, Gemini CLI, Cursor, Aider, OpenCode and any custom agent, and measure every token use",
+      "license": "MIT",
+      "repository": "https://github.com/blackswanalpha/bundlebox",
+      "npmUrl": "https://www.npmjs.com/package/bundlebox",
+      "category": "cli",
+      "createdAt": "2026-09-19T07:29:58.019Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
     },
     {
       "name": "bunload",
@@ -80702,6 +80918,18 @@
       "score": 88
     },
     {
+      "name": "dsh-wsl-tool",
+      "version": "1.8.0",
+      "description": "Model-facing WSL tools for DeepSeek Harness: run Linux commands from Windows with background jobs, stdin, path translation, destructive-command guard and WSL capability diagnostics.",
+      "license": "MIT",
+      "repository": "https://github.com/XINY11451/dsh-wsl",
+      "npmUrl": "https://www.npmjs.com/package/dsh-wsl-tool",
+      "category": "cli",
+      "createdAt": "2026-09-19T10:45:52.997Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 94
+    },
+    {
       "name": "dsh-yolo-mode",
       "version": "0.4.0",
       "description": "dsh-yolo-mode —— DeepSeek Harness 双面包插件：当会话处于可写沙箱模式且审批策略为 ask 时，用大模型自动裁决沙箱升权申请，支持内置预设与自定义权限层级，并提供宿主 settings + 自发布设置桥（/yolo-mode）与 Web 客户端 UI。",
@@ -81732,6 +81960,18 @@
       "createdAt": "2026-08-04T23:16:27.819Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 53
+    },
+    {
+      "name": "eslint-plugin-css-property-order",
+      "version": "1.0.0",
+      "description": "ESLint plugin enforcing CSS declaration order for @eslint/css: Recess/Bootstrap logical order, Chrome DevTools panel order, or your own.",
+      "license": "MIT",
+      "repository": "https://github.com/dmnsgn/eslint-plugin-css-property-order",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-css-property-order",
+      "category": "frontend",
+      "createdAt": "2026-09-19T15:06:40.021Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 93
     },
     {
       "name": "eslint-plugin-drizzle-security",
@@ -83172,6 +83412,18 @@
       "createdAt": "2026-08-11T00:23:47.562Z",
       "discoveredAt": "2026-08-11T01:05:34.741Z",
       "score": 79
+    },
+    {
+      "name": "fielizator",
+      "version": "1.0.0",
+      "description": "Zero-dependency file upload middleware for Express. Supports multipart/form-data and JSON (data URL, base64, byte arrays, Buffer).",
+      "license": "MIT",
+      "repository": "https://github.com/pandemozhno/filizator",
+      "npmUrl": "https://www.npmjs.com/package/fielizator",
+      "category": "backend",
+      "createdAt": "2026-09-19T15:09:11.705Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 93
     },
     {
       "name": "figdown",
@@ -84636,6 +84888,18 @@
       "createdAt": "2026-07-25T13:44:00.475Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 65
+    },
+    {
+      "name": "gg-friggin-ez",
+      "version": "0.1.3",
+      "description": "Fast, drop-in profanity and toxicity screener for Node.js, powered by TypeSafe AI Jev. Catches leetspeak, character spacing, and romanized profanity across languages including Kannada, Telugu, Tamil, Hindi, and Bengali. ~50-500ms latency.",
+      "license": "MIT",
+      "repository": "https://github.com/ItisShikhar/gg-friggin-ez",
+      "npmUrl": "https://www.npmjs.com/package/gg-friggin-ez",
+      "category": "devops",
+      "createdAt": "2026-09-19T11:03:09.463Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 90
     },
     {
       "name": "gguf-mcp",
@@ -93960,6 +94224,18 @@
       "createdAt": "2026-08-05T13:47:33.222Z",
       "discoveredAt": "2026-08-08T04:47:49.989Z",
       "score": 55
+    },
+    {
+      "name": "meridiano",
+      "version": "1.0.0",
+      "description": "Utilitário nativo de data/hora com timezone e feriados — zero dependências",
+      "license": "MIT",
+      "repository": "https://github.com/jefferson-it/meridiano",
+      "npmUrl": "https://www.npmjs.com/package/meridiano",
+      "category": "data",
+      "createdAt": "2026-09-19T05:10:24.359Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 87
     },
     {
       "name": "mermaid-bpmn",
@@ -117494,6 +117770,18 @@
       "score": 88
     },
     {
+      "name": "victrid-oh-my-opencode-slim",
+      "version": "2.2.21",
+      "description": "Lightweight agent orchestration plugin for OpenCode - a slimmed-down fork of oh-my-opencode",
+      "license": "MIT",
+      "repository": "https://github.com/alvinunreal/oh-my-opencode-slim",
+      "npmUrl": "https://www.npmjs.com/package/victrid-oh-my-opencode-slim",
+      "category": "utilities",
+      "createdAt": "2026-09-19T14:11:44.153Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 87
+    },
+    {
       "name": "video-studio-mcp",
       "version": "2.1.0",
       "description": "MCP server that builds narrated 9:16 documentary videos locally: Wikimedia Commons images + ElevenLabs voiceover + Remotion render.",
@@ -118860,6 +119148,18 @@
       "createdAt": "2026-09-11T03:28:48.742Z",
       "discoveredAt": "2026-09-11T04:20:53.293Z",
       "score": 86
+    },
+    {
+      "name": "well-known-audit",
+      "version": "0.1.1",
+      "description": "Checks every file a site publishes at its root and under /.well-known/ - security.txt, robots.txt, llms.txt, apple-app-site-association and more - and reports what is missing, broken or expired.",
+      "license": "MIT",
+      "repository": "https://github.com/dkautomation23/well-known-audit",
+      "npmUrl": "https://www.npmjs.com/package/well-known-audit",
+      "category": "cli",
+      "createdAt": "2026-09-19T09:46:05.290Z",
+      "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 87
     },
     {
       "name": "wenker-router",

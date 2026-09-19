@@ -1,19 +1,115 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 131401037,
-  "lastRunAt": "2026-09-19T04:22:27.843Z",
+  "lastSequence": 131445593,
+  "lastRunAt": "2026-09-19T15:47:00.599Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@galaxy-stack/nebula-mcp",
+      "name": "@expo-harmony/expo__log-box",
       "attempts": 1
     },
     {
-      "name": "@vibedgames/playtest",
+      "name": "@expo-harmony/expo-auth-session",
       "attempts": 1
     },
     {
-      "name": "@live-codes/fortran-wasm",
+      "name": "@expo-harmony/expo-build-properties",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo-checkbox",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo-dev-client",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo-dev-client-components",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo-processing",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo-standard-web-crypto",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__config",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__config-types",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__devtools",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__env",
+      "attempts": 1
+    },
+    {
+      "name": "@teilchen/core",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__fingerprint",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__image-utils",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__json-file",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__local-build-cache-provider",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__metro-runtime",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__package-manager",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__pkcs12",
+      "attempts": 1
+    },
+    {
+      "name": "@expo-harmony/expo__require-utils",
+      "attempts": 1
+    },
+    {
+      "name": "@pagerender/mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@antibusy/strapi-plugin-content-type-selector",
+      "attempts": 1
+    },
+    {
+      "name": "@antibusy/strapi-plugin-relation-view",
+      "attempts": 1
+    },
+    {
+      "name": "@antibusy/strapi-plugin-timeline",
+      "attempts": 1
+    },
+    {
+      "name": "@antibusy/strapi-plugin-content-manager-sort",
+      "attempts": 1
+    },
+    {
+      "name": "@florexlabs/core",
       "attempts": 1
     }
   ]
