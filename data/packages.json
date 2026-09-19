@@ -8270,6 +8270,18 @@
       "score": 99
     },
     {
+      "name": "@bloqr/design-system",
+      "version": "1.1.2",
+      "description": "Filter — the design system for Bloqr AI. Tokens, fonts, brand guidelines, and React UI primitives for every Bloqr property (bloqr.dev, app.bloqr.dev, docs.bloqr.dev).",
+      "license": "GPL-3.0",
+      "repository": "https://github.com/BloqrAI/bloqr-design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40bloqr%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-09-19T00:36:09.656Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 88
+    },
+    {
       "name": "@blorq/nice-grpc-web",
       "version": "3.3.11",
       "description": "A Browser gRPC library that is nice to you",
@@ -9180,6 +9192,18 @@
       "createdAt": "2026-07-26T10:57:32.474Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 54
+    },
+    {
+      "name": "@buildaharness/aielia",
+      "version": "0.3.1",
+      "description": "An open-source AI chat assistant that runs the full 11-layer Build A Harness every turn — light for a fact lookup, and it stops for approval before it sends an email or runs a shell command. CLI, browser, and desktop.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/3IVIS/buildaharness",
+      "npmUrl": "https://www.npmjs.com/package/%40buildaharness%2Faielia",
+      "category": "frontend",
+      "createdAt": "2026-09-18T18:37:00.202Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 90
     },
     {
       "name": "@buildaharness/personal-assistant",
@@ -13478,6 +13502,18 @@
       "score": 100
     },
     {
+      "name": "@dayplayai/mcp-server",
+      "version": "1.2.1",
+      "description": "Dayplay Local Concierge & Vibe Scout MCP server - strictly localized to the San Francisco Bay Area (San Francisco, Oakland, Berkeley across 35 neighborhood centroids). Out-of-market locations are not served.",
+      "license": "MIT",
+      "repository": "https://github.com/dayplayTeam/dayplay-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40dayplayai%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-19T03:02:01.387Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 92
+    },
+    {
       "name": "@db-node/sse",
       "version": "0.1.1",
       "description": "Type-safe Server-Sent Events toolkit for Node — connection hub, topic multiplexing, active push, Last-Event-Id replay, heartbeat, auth.",
@@ -17318,6 +17354,30 @@
       "score": 70
     },
     {
+      "name": "@ekwo-ai/camt053",
+      "version": "0.4.1",
+      "description": "Reads an ISO 20022 bank-to-customer statement (camt.053) into plain objects in TypeScript: account, balances and lines, amounts as decimal strings, and what does not add up. Zero dependencies, its own strict XML reader.",
+      "license": "MIT",
+      "repository": "https://github.com/Ekwo-ai/ekwo-os",
+      "npmUrl": "https://www.npmjs.com/package/%40ekwo-ai%2Fcamt053",
+      "category": "build-tools",
+      "createdAt": "2026-09-18T16:05:57.317Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 88
+    },
+    {
+      "name": "@ekwo-ai/cfonb120",
+      "version": "0.4.1",
+      "description": "Reads a CFONB 120 statement of account (relevé de compte sur support informatique, 120-character records) into plain objects in TypeScript: account, balances and lines, amounts as decimal strings, and what does not add up. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Ekwo-ai/ekwo-os",
+      "npmUrl": "https://www.npmjs.com/package/%40ekwo-ai%2Fcfonb120",
+      "category": "data",
+      "createdAt": "2026-09-18T16:06:32.867Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 85
+    },
+    {
       "name": "@ekwo-ai/peppol-ubl",
       "version": "0.4.0",
       "description": "Peppol BIS Billing 3.0 invoices and credit notes (UBL 2.1, EN 16931) in TypeScript, from a posted document, with every published rule the file breaks named by its identifier. Zero dependencies.",
@@ -20496,6 +20556,18 @@
       "createdAt": "2026-07-28T17:40:23.651Z",
       "discoveredAt": "2026-07-28T17:49:24.596Z",
       "score": 63
+    },
+    {
+      "name": "@galaxy-stack/nebula-cli",
+      "version": "1.0.0",
+      "description": "Nebula CLI — add Galaxy UI components to your Vue, React, Angular, Next.js, Nuxt.js, React Native, or Flutter project",
+      "license": "MIT",
+      "repository": "https://github.com/galaxy-nebula/galaxy-design-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40galaxy-stack%2Fnebula-cli",
+      "category": "frontend",
+      "createdAt": "2026-09-19T04:17:51.533Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 90
     },
     {
       "name": "@galaxysailorsng/genvstore",
@@ -32222,6 +32294,18 @@
       "score": 81
     },
     {
+      "name": "@kenzuya/nestelia",
+      "version": "1.11.3",
+      "description": "Modular framework with decorators, dependency injection, modules and lifecycle hooks for Elysia",
+      "license": "MIT",
+      "repository": "https://github.com/nestelia/nestelia",
+      "npmUrl": "https://www.npmjs.com/package/%40kenzuya%2Fnestelia",
+      "category": "build-tools",
+      "createdAt": "2026-09-18T17:02:27.062Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 89
+    },
+    {
       "name": "@kertin/zeact",
       "version": "0.1.0",
       "description": "Scenario-tuned performance primitives for React 18",
@@ -36038,6 +36122,18 @@
       "score": 81
     },
     {
+      "name": "@malevin/easyworkflow",
+      "version": "0.1.1",
+      "description": "> A fully configurable, i18n-ready visual workflow editor for React. > Drag-and-drop nodes, custom editors, adapter-based backend, MIT licensed. [![npm version](https://img.shields.io/npm/v/@malevin/easyworkflow.svg)](https://www.npmjs.com/package/@malevi",
+      "license": "MIT",
+      "repository": "https://github.com/mohsenakbari79/easyworkflow",
+      "npmUrl": "https://www.npmjs.com/package/%40malevin%2Feasyworkflow",
+      "category": "frontend",
+      "createdAt": "2026-09-18T13:17:03.287Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 90
+    },
+    {
       "name": "@maliant-technologies/node-system-audio",
       "version": "0.1.0",
       "description": "Cross-platform system audio (loopback) capture with a rolling retention buffer, as a Node native addon.",
@@ -36803,6 +36899,18 @@
       "category": "frontend",
       "createdAt": "2026-09-05T12:31:00.116Z",
       "discoveredAt": "2026-09-05T15:01:02.586Z",
+      "score": 92
+    },
+    {
+      "name": "@matrixfr/mjs-framework",
+      "version": "2.4.0",
+      "description": "ModularJS (MJS) — framework front compile-time : réactivité résolue à la compilation (sans Proxy au runtime), Custom Elements + Shadow DOM, syntaxe .mjs (Civet par défaut). Compilateur + runtime + CLI dev/HMR.",
+      "license": "MIT",
+      "repository": "https://github.com/RaptureStudio42/mjs-framework",
+      "npmUrl": "https://www.npmjs.com/package/%40matrixfr%2Fmjs-framework",
+      "category": "frontend",
+      "createdAt": "2026-09-19T00:25:28.886Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
       "score": 92
     },
     {
@@ -67850,6 +67958,18 @@
       "score": 90
     },
     {
+      "name": "anjal-mcp",
+      "version": "1.0.0",
+      "description": "Model Context Protocol server for Anjal (formerly MyAgentMail): email inboxes and calendars for AI agents. Inboxes, send and reply, search, threads, drafts, attachments, calendar events, custom domains, workspaces and webhooks. Also hosted as a remote con",
+      "license": "MIT",
+      "repository": "https://github.com/kamskans/myagentmail",
+      "npmUrl": "https://www.npmjs.com/package/anjal-mcp",
+      "category": "frontend",
+      "createdAt": "2026-09-18T23:25:55.232Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 99
+    },
+    {
       "name": "anki-xml",
       "version": "0.0.1",
       "description": "AI-agent-friendly CLI for importing, querying, and updating Anki flashcards via AnkiConnect. Built for autonomous loops: deterministic, idempotent, recoverable, composable.",
@@ -68568,6 +68688,18 @@
       "createdAt": "2026-08-08T23:07:13.242Z",
       "discoveredAt": "2026-08-08T23:13:31.743Z",
       "score": 70
+    },
+    {
+      "name": "aruna-winsvc",
+      "version": "1.0.1",
+      "description": "Register Node.js apps as native Windows services, and ship them as a double-click installer. No NSSM, no .NET, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/HM-IT-CODE/servicio-windows-node",
+      "npmUrl": "https://www.npmjs.com/package/aruna-winsvc",
+      "category": "cli",
+      "createdAt": "2026-09-18T22:47:24.627Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 92
     },
     {
       "name": "as2mca-api",
@@ -70310,6 +70442,18 @@
       "score": 100
     },
     {
+      "name": "blobatarling",
+      "version": "2.7.0",
+      "description": "Deterministic geometric blobatars from any string. No dependencies. (Fork of blobatar with companion activities, companion scenes, and atmospheric weather).",
+      "license": "MIT",
+      "repository": "https://github.com/SparshKaushik/blobatarling",
+      "npmUrl": "https://www.npmjs.com/package/blobatarling",
+      "category": "devops",
+      "createdAt": "2026-09-18T17:19:55.992Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 93
+    },
+    {
       "name": "block-genomics-mcp",
       "version": "0.1.0",
       "description": "MCP server for Block Genomics (Nexus Protocol). Gives any MCP-capable AI agent live access to verified Bitcoin blocks, on-chain ownership, agent directories, guardians, badges, and experiences — plus the authenticated agent runtime (heartbeat / brief / ev",
@@ -71556,6 +71700,18 @@
       "createdAt": "2026-07-27T15:32:46.359Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 73
+    },
+    {
+      "name": "carryforward",
+      "version": "0.1.0",
+      "description": "MCP server that carries what one session learned into the next. A per-project ledger written as things happen, scored per task by TypeSafe's Jev evaluation model via the Vercel AI Gateway.",
+      "license": "MIT",
+      "repository": "https://github.com/Dharundp6/jev-carryforward",
+      "npmUrl": "https://www.npmjs.com/package/carryforward",
+      "category": "backend",
+      "createdAt": "2026-09-18T23:20:35.348Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 88
     },
     {
       "name": "carta3",
@@ -73550,6 +73706,18 @@
       "score": 90
     },
     {
+      "name": "code-measure",
+      "version": "1.1.0",
+      "description": "Measure a codebase in any language before and after a refactoring: duplication, complexity, hotspots, test results, line and branch coverage, and mutation score, as one JSON summary.",
+      "license": "MIT",
+      "repository": "https://github.com/sanches89/code-measure",
+      "npmUrl": "https://www.npmjs.com/package/code-measure",
+      "category": "testing",
+      "createdAt": "2026-09-18T02:47:56.232Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 98
+    },
+    {
       "name": "code-observatory",
       "version": "0.1.1",
       "description": "Local-first workflow observatory that renders coding-agent-authored .observatory workflow files as an interactive canvas.",
@@ -75108,6 +75276,18 @@
       "createdAt": "2026-07-29T14:35:10.630Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 92
+    },
+    {
+      "name": "create-mycv",
+      "version": "0.1.0",
+      "description": "Scaffold mycv: your CV as a site — six designs (API explorer, terminal, OpenAPI spec, git repo, status page, RPG sheet), ten languages, static, deploys to GitHub Pages.",
+      "license": "MIT",
+      "repository": "https://github.com/SoyHub/SoyHub.github.io",
+      "npmUrl": "https://www.npmjs.com/package/create-mycv",
+      "category": "backend",
+      "createdAt": "2026-09-18T23:49:56.590Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 86
     },
     {
       "name": "create-nexus-blueprint",
@@ -78938,6 +79118,18 @@
       "score": 90
     },
     {
+      "name": "dsh-llm-gigachat",
+      "version": "0.1.1",
+      "description": "DeepSeek Harness (dsh) plugin that connects Sber GigaChat models: a built-in local OAuth proxy (client-credentials -> OpenAI-compatible endpoint, upstream serialization, legacy tool-calling translation) plus automatic provider-route bootstrap, so GigaChat",
+      "license": "MIT",
+      "repository": "https://github.com/igrock88/dsh-llm-gigachat",
+      "npmUrl": "https://www.npmjs.com/package/dsh-llm-gigachat",
+      "category": "cli",
+      "createdAt": "2026-09-18T16:43:38.079Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 86
+    },
+    {
       "name": "dsh-local-ai",
       "version": "0.1.0",
       "description": "Local-model (Ollama) integration for DeepSeek Harness: discover, pull, remove, and inspect local models, route requests to them by task type or keyword with automatic fallback to the cloud, and get a one-shot status overview via /ollama.",
@@ -81743,6 +81935,18 @@
       "category": "data",
       "createdAt": "2026-09-13T06:13:13.364Z",
       "discoveredAt": "2026-09-13T16:05:49.078Z",
+      "score": 90
+    },
+    {
+      "name": "eslint-plugin-template-security",
+      "version": "0.2.0",
+      "description": "ESLint security rules for template bindings, written once for JSX, Astro, Vue, Svelte, HTML and server templates (Jinja, Django, Twig, Blade, ERB, EJS, PHP, JSP), with htmx and Alpine: unsafe HTML sinks, unescaped output, script breakout, javascript: URLs",
+      "license": "MIT",
+      "repository": "https://github.com/rsmple/eslint-plugin-template-security",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-template-security",
+      "category": "frontend",
+      "createdAt": "2026-09-18T17:16:45.615Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
       "score": 90
     },
     {
@@ -85164,6 +85368,18 @@
       "createdAt": "2026-08-10T16:47:11.147Z",
       "discoveredAt": "2026-08-10T17:37:47.201Z",
       "score": 57
+    },
+    {
+      "name": "google-workspace-mcp-dg",
+      "version": "2.3.7",
+      "description": "MCP Server for Google Workspace - Gmail, Calendar, Drive, Docs, Sheets, Slides, Contacts, Tasks, Forms, Meet and Admin Directory",
+      "license": "MIT",
+      "repository": "https://github.com/diegoalgg88/google-workspace-mcp",
+      "npmUrl": "https://www.npmjs.com/package/google-workspace-mcp-dg",
+      "category": "backend",
+      "createdAt": "2026-09-18T22:13:24.486Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 90
     },
     {
       "name": "gosset",
@@ -91416,6 +91632,18 @@
       "createdAt": "2026-08-11T12:12:27.581Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 74
+    },
+    {
+      "name": "luach-picker",
+      "version": "2.1.0",
+      "description": "Zero-dependency multilingual Gregorian and Hebrew date picker with mixed-language calendars, RTL, and mobile support.",
+      "license": "MIT",
+      "repository": "https://github.com/kervio/luach-picker",
+      "npmUrl": "https://www.npmjs.com/package/luach-picker",
+      "category": "utilities",
+      "createdAt": "2026-09-18T17:34:57.774Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 91
     },
     {
       "name": "luciazero",
@@ -99218,6 +99446,18 @@
       "score": 59
     },
     {
+      "name": "opencode-gemini-proxy",
+      "version": "1.0.0",
+      "description": "Zero-dependency OpenAI-compatible proxy for Google Gemini with auto-failover, multi-key rotation, and OpenCode subagent support",
+      "license": "MIT",
+      "repository": "https://github.com/mk-elbaz/opencode-gemini-proxy",
+      "npmUrl": "https://www.npmjs.com/package/opencode-gemini-proxy",
+      "category": "utilities",
+      "createdAt": "2026-09-18T21:25:40.921Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 88
+    },
+    {
       "name": "opencode-github-sync",
       "version": "3.0.1",
       "description": "Sync your OpenCode config, skills, and selected sessions across machines via a private GitHub repo — as a plugin or a CLI.",
@@ -105842,6 +106082,18 @@
       "score": 59
     },
     {
+      "name": "react-native-agent-jet",
+      "version": "0.8.0",
+      "description": "Lets coding agents see and drive your running React Native / Expo app: semantic element tree, presses, typing, navigation, state, logs and network over MCP, with zero production footprint.",
+      "license": "MIT",
+      "repository": "https://github.com/noahkurz/react-native-agent-jet",
+      "npmUrl": "https://www.npmjs.com/package/react-native-agent-jet",
+      "category": "testing",
+      "createdAt": "2026-09-18T12:40:54.960Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 86
+    },
+    {
       "name": "react-native-ai-gateway",
       "version": "0.1.0",
       "description": "On-device AI for React Native: text, vision, speech and generative models via Apple Vision/NaturalLanguage/Speech/Foundation Models and Google ML Kit. Nothing leaves the device.",
@@ -109058,6 +109310,18 @@
       "score": 60
     },
     {
+      "name": "scenescout",
+      "version": "1.0.0",
+      "description": "SceneScout — AI-agent exploratory UI testing engine: an MCP server exposing Playwright browser tools with state-fingerprint memory, invariant oracles, structured findings and reports. Claude Code (or any MCP client) is the brain.",
+      "license": "MIT",
+      "repository": "https://github.com/brunoboto96/SceneScout",
+      "npmUrl": "https://www.npmjs.com/package/scenescout",
+      "category": "testing",
+      "createdAt": "2026-09-18T19:47:28.484Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 96
+    },
+    {
       "name": "schema-fit",
       "version": "0.1.0",
       "description": "Rewrite a JSON Schema so a specific LLM provider accepts it, without ever widening what it allows.",
@@ -111648,6 +111912,18 @@
       "createdAt": "2026-08-12T06:52:57.090Z",
       "discoveredAt": "2026-08-12T07:12:03.714Z",
       "score": 73
+    },
+    {
+      "name": "specpack",
+      "version": "0.1.0",
+      "description": "Lint and generate the files your AI coding agent reads (CLAUDE.md, AGENTS.md, .cursorrules), and turn a project description into a full build spec. CLI + library + MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/THE-KIPDEV/specpack",
+      "npmUrl": "https://www.npmjs.com/package/specpack",
+      "category": "backend",
+      "createdAt": "2026-09-18T18:22:27.219Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 87
     },
     {
       "name": "specpilot-kit",
@@ -116990,6 +117266,18 @@
       "score": 85
     },
     {
+      "name": "veyra-mcp",
+      "version": "0.1.0",
+      "description": "Give AI agents a wallet with a spending limit. MCP server + typed client for Veyra: non-custodial USDC payments on Base with per-payment caps, daily caps, human approval bands and a recipient allowlist enforced server-side.",
+      "license": "MIT",
+      "repository": "https://github.com/zapxlabs/veyra-mcp",
+      "npmUrl": "https://www.npmjs.com/package/veyra-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-19T00:17:23.713Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 86
+    },
+    {
       "name": "veyra-sdk-react-native",
       "version": "1.0.6",
       "description": "Official React Native SDK for Veyra contactless payments — SoftPOS merchant acceptance and wallet tap/QR payments.",
@@ -117084,6 +117372,18 @@
       "createdAt": "2026-08-09T22:25:45.732Z",
       "discoveredAt": "2026-08-09T22:54:46.351Z",
       "score": 58
+    },
+    {
+      "name": "vibecoder-cli",
+      "version": "1.0.0",
+      "description": "A free, open-source AI coding agent that runs in your terminal. Fully yours — no payments, no artificial limitations, anything is customizable. Runs on Node or Bun; works online (free-tier cloud models) or fully offline with local Ollama.",
+      "license": "MIT",
+      "repository": "https://github.com/akashjoshi1209/vibecoder",
+      "npmUrl": "https://www.npmjs.com/package/vibecoder-cli",
+      "category": "cli",
+      "createdAt": "2026-09-18T16:22:18.081Z",
+      "discoveredAt": "2026-09-19T04:22:27.843Z",
+      "score": 95
     },
     {
       "name": "vibecom-cli",
