@@ -15782,6 +15782,18 @@
       "score": 81
     },
     {
+      "name": "@docx4j/core-ts",
+      "version": "0.1.1",
+      "description": "docx4j-core for TypeScript: Open Packaging (docx/pptx/xlsx zip and flat OPC), typed parts and relationships, style, numbering and font resolution over @docx4j/generated-objects-ts. Node, browsers, Word add-ins.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/plutext/docx4j-core-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40docx4j%2Fcore-ts",
+      "category": "frontend",
+      "createdAt": "2026-09-14T10:18:02.919Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 90
+    },
+    {
       "name": "@docx4j/generated-objects-ts",
       "version": "0.1.1",
       "description": "Office Open XML (WordprocessingML, DrawingML, PresentationML, SpreadsheetML, VML, ...) as typed JavaScript: Jsonix mappings and TypeScript declarations generated from docx4j's schemas, with a docx4j-style facade.",
@@ -41522,6 +41534,18 @@
       "score": 71
     },
     {
+      "name": "@neutrium/formatter",
+      "version": "1.0.1",
+      "description": "Humanise numbers - Intl-first exact formatting and strict parsing for numbers, currencies, percentages, units, bytes and durations.",
+      "license": "MIT",
+      "repository": "https://github.com/neutrium/formatter",
+      "npmUrl": "https://www.npmjs.com/package/%40neutrium%2Fformatter",
+      "category": "data",
+      "createdAt": "2026-09-20T00:31:06.811Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 93
+    },
+    {
       "name": "@neutrium/rand",
       "version": "1.0.0",
       "description": "High-performance random number generators for JavaScript, WebAssembly and WebGPU.",
@@ -50294,6 +50318,18 @@
       "score": 95
     },
     {
+      "name": "@rossz/pi-fast-jev-compaction",
+      "version": "0.2.0",
+      "description": "Fast, verbatim, jev-guided compaction for pi: keeps old user and assistant text as is and lets TypeSafe's jev model decide which tool calls and outputs to drop. A pi version inspired by the fast-jev-compaction Claude Code plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/ross-jill-ws/pi-fast-jev-compaction",
+      "npmUrl": "https://www.npmjs.com/package/%40rossz%2Fpi-fast-jev-compaction",
+      "category": "devops",
+      "createdAt": "2026-09-19T22:24:35.996Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 88
+    },
+    {
       "name": "@routier/blob-plugin",
       "version": "0.3.0",
       "description": "File and media storage for Routier: metadata in your database, bytes in blob storage",
@@ -58418,6 +58454,30 @@
       "score": 85
     },
     {
+      "name": "@ticatec/keelson-core",
+      "version": "1.0.0",
+      "description": "Core database access, declarative transactions, dependency injection (BeanFactory), four-tier architecture (Service/Repository/DAO), dynamic query building, and pagination framework for Keelson.",
+      "license": "MIT",
+      "repository": "https://github.com/ticatec/keelson",
+      "npmUrl": "https://www.npmjs.com/package/%40ticatec%2Fkeelson-core",
+      "category": "backend",
+      "createdAt": "2026-09-19T20:04:11.647Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 99
+    },
+    {
+      "name": "@ticatec/keelson-express",
+      "version": "1.0.0",
+      "description": "Enterprise-grade TypeScript framework for Express.js with built-in multi-tenant support, CRUD controllers, validation, authentication, and API gateway integration.",
+      "license": "MIT",
+      "repository": "https://github.com/ticatec/keelson",
+      "npmUrl": "https://www.npmjs.com/package/%40ticatec%2Fkeelson-express",
+      "category": "backend",
+      "createdAt": "2026-09-19T20:11:16.769Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 96
+    },
+    {
       "name": "@ticatec/logger-api",
       "version": "1.0.0",
       "description": "The zero-dependency logging contract shared by the Keelson framework. Packages log against a minimal Logger interface; the application injects the implementation, and falls back to the console when it does not.",
@@ -58752,6 +58812,30 @@
       "createdAt": "2026-08-14T05:20:07.759Z",
       "discoveredAt": "2026-08-14T07:12:14.589Z",
       "score": 78
+    },
+    {
+      "name": "@tooark/code",
+      "version": "1.0.0",
+      "description": "Tooark Code — a code editor (`<ark-code-editor>`) based on CodeMirror 6 (supporting JSON, JavaScript, and YAML), featuring code completion, formatting, and token-based theming",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Tooark/web-components",
+      "npmUrl": "https://www.npmjs.com/package/%40tooark%2Fcode",
+      "category": "frontend",
+      "createdAt": "2026-09-19T20:50:30.593Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 90
+    },
+    {
+      "name": "@tooark/web-components",
+      "version": "1.0.0",
+      "description": "Tooark Web Components — Custom Elements (ark-*) (buttons, fields, dialogs, menus, calendar, key/value editor...) with Tailwind v4 and tokens",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Tooark/web-components",
+      "npmUrl": "https://www.npmjs.com/package/%40tooark%2Fweb-components",
+      "category": "frontend",
+      "createdAt": "2026-09-19T20:50:38.593Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 94
     },
     {
       "name": "@toragonite/agent-mesh-cursor",
@@ -67490,6 +67574,18 @@
       "score": 80
     },
     {
+      "name": "aiblocklist",
+      "version": "1.0.0",
+      "description": "AI blocklist client for Node.js: classify any domain as an AI tool (20,000+ domains, 18 categories, daily refresh, vendor training-on-your-data verdicts) and pull the feed database for DNS sinkholes, proxies, firewalls and SOAR playbooks.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/aiblocklist",
+      "npmUrl": "https://www.npmjs.com/package/aiblocklist",
+      "category": "frontend",
+      "createdAt": "2026-09-20T01:09:45.597Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 100
+    },
+    {
       "name": "aibreze",
       "version": "0.1.0",
       "description": "Installable writing rule set for AI agents. Sprays the performative, faux-profound register off prose. Core bans, smell audit, claims review, genre overlays.",
@@ -68592,6 +68688,18 @@
       "createdAt": "2026-08-22T13:11:10.640Z",
       "discoveredAt": "2026-08-22T13:33:36.708Z",
       "score": 72
+    },
+    {
+      "name": "app-attest-gate",
+      "version": "1.0.0",
+      "description": "The parts of Apple App Attest everyone hand-rolls wrong: single-use challenges, atomic replay protection, per-assertion environment pinning, request-body binding — plus StoreKit 2 entitlements and a server-metered free tier.",
+      "license": "MIT",
+      "repository": "https://github.com/Staberman/app-attest-gate",
+      "npmUrl": "https://www.npmjs.com/package/app-attest-gate",
+      "category": "testing",
+      "createdAt": "2026-09-19T17:53:20.386Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 97
     },
     {
       "name": "app-factory-mcp",
@@ -74450,6 +74558,18 @@
       "score": 100
     },
     {
+      "name": "commentor-cli",
+      "version": "1.0.0",
+      "description": "Remove all comments from source code. Multi-language comment stripper for JavaScript, TypeScript, Python, Java, Go, Rust, C++, PHP, SQL, HTML, CSS and 25+ languages. Global CLI + library.",
+      "license": "MIT",
+      "repository": "https://github.com/burak4ydin/commentor",
+      "npmUrl": "https://www.npmjs.com/package/commentor-cli",
+      "category": "frontend",
+      "createdAt": "2026-09-19T15:53:42.016Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 90
+    },
+    {
       "name": "commilot",
       "version": "1.6.3",
       "description": "Writes your git commit messages and splits a large diff into several clean commits — locally, with no API key",
@@ -75204,6 +75324,18 @@
       "createdAt": "2026-08-05T12:52:33.328Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 74
+    },
+    {
+      "name": "cra-ready",
+      "version": "0.1.0",
+      "description": "Check a repository against the EU Cyber Resilience Act (Regulation (EU) 2024/2847): SBOM coverage, coordinated vulnerability disclosure, Article 14 reporting readiness, Annex II user information. Every finding carries its article or annex point and the da",
+      "license": "MIT",
+      "repository": "https://github.com/plainform/cra-ready",
+      "npmUrl": "https://www.npmjs.com/package/cra-ready",
+      "category": "data",
+      "createdAt": "2026-09-19T20:39:14.657Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 90
     },
     {
       "name": "craft-github-release",
@@ -83942,6 +84074,18 @@
       "score": 78
     },
     {
+      "name": "fnvault",
+      "version": "1.0.0",
+      "description": "前端常用工具函数宝库（fn = function + vault = 宝库）/ A lightweight, zero-dependency collection of frontend utility functions. 轻量、零依赖、支持 Tree-shaking 的 JavaScript / TypeScript 常用工具函数库",
+      "license": "MIT",
+      "repository": "https://github.com/Libao-Jun/fnvault",
+      "npmUrl": "https://www.npmjs.com/package/fnvault",
+      "category": "frontend",
+      "createdAt": "2026-09-20T02:48:22.672Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 96
+    },
+    {
       "name": "folksum",
       "version": "0.2.0",
       "description": "Financial Intelligence & Record Engine for local-first household finance",
@@ -84432,6 +84576,18 @@
       "createdAt": "2026-08-10T20:20:11.342Z",
       "discoveredAt": "2026-08-10T20:33:00.517Z",
       "score": 66
+    },
+    {
+      "name": "gambot-mcp",
+      "version": "1.3.0",
+      "description": "Model Context Protocol (MCP) server for the Gambot WhatsApp Business API — send messages & templates, manage contacts, leads, cases, tasks, quotes, invoices, orders, forms, signatures, documents, campaigns and users.",
+      "license": "MIT",
+      "repository": "https://github.com/gambot-ai/gambot-mcp",
+      "npmUrl": "https://www.npmjs.com/package/gambot-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-14T14:44:01.154Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 100
     },
     {
       "name": "game-harness",
@@ -90038,6 +90194,18 @@
       "score": 90
     },
     {
+      "name": "krusch-pre-router",
+      "version": "1.0.0",
+      "description": "Deterministic Stage-0 Syntactic Gate & Exact-Match LRU Memoization Table for LLM Swarms. Intercepts structured code, SQL, math, and closed-world queries in CPU microseconds (<10µs) for $0.00.",
+      "license": "MIT",
+      "repository": "https://github.com/kruschdev/krusch-pre-router",
+      "npmUrl": "https://www.npmjs.com/package/krusch-pre-router",
+      "category": "data",
+      "createdAt": "2026-09-19T18:34:01.485Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 99
+    },
+    {
       "name": "kspreadsheet",
       "version": "2.4.1",
       "description": "Jspreadsheet is a lightweight, vanilla javascript plugin to create amazing web-based interactive data grids with spreadsheet like controls compatible with Excel, Google Spreadsheets and any other spreadsheet software.",
@@ -90552,6 +90720,18 @@
       "createdAt": "2026-08-20T07:21:17.147Z",
       "discoveredAt": "2026-08-20T13:03:17.154Z",
       "score": 86
+    },
+    {
+      "name": "leaflet-daynight",
+      "version": "1.0.0",
+      "description": "Leaflet layers that shade the night side of the world with smooth civil, nautical and astronomical twilight, and mask NASA city-lights imagery to the night side so it stops glowing at noon.",
+      "license": "MIT",
+      "repository": "https://github.com/LoganD900/leaflet-daynight",
+      "npmUrl": "https://www.npmjs.com/package/leaflet-daynight",
+      "category": "devops",
+      "createdAt": "2026-09-19T22:26:19.870Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 94
     },
     {
       "name": "leaflet-india-boundary",
@@ -91188,6 +91368,18 @@
       "createdAt": "2026-07-31T15:38:23.131Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 94
+    },
+    {
+      "name": "llm-free-cascade",
+      "version": "0.6.0",
+      "description": "Cascade a chat completion across every free-tier LLM API you have a key for (Gemini, Groq, Cerebras, SambaNova, Mistral, OpenRouter, Together, DeepSeek, Cohere, Hugging Face, Cloudflare Workers AI, Z.ai, NVIDIA NIM, OpenCode Zen) with automatic multi-key",
+      "license": "MIT",
+      "repository": "https://github.com/rcgiri-physics/llm-free-cascade",
+      "npmUrl": "https://www.npmjs.com/package/llm-free-cascade",
+      "category": "backend",
+      "createdAt": "2026-09-19T19:42:57.010Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 88
     },
     {
       "name": "llm-guard-probe",
@@ -99566,6 +99758,18 @@
       "score": 100
     },
     {
+      "name": "opencode-agent-skill",
+      "version": "7.7.0",
+      "description": "Adaptive crash-safe engineering runtime, durable orchestration, structured evidence, learning loop and control center for OpenCode",
+      "license": "MIT",
+      "repository": "https://github.com/laivannha0202/opencode-agent-skill-",
+      "npmUrl": "https://www.npmjs.com/package/opencode-agent-skill",
+      "category": "utilities",
+      "createdAt": "2026-09-20T01:33:05.249Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 89
+    },
+    {
       "name": "opencode-agent-teams-relay",
       "version": "1.0.0",
       "description": "Portable Agent-Teams orchestration for opencode",
@@ -101894,6 +102098,18 @@
       "score": 74
     },
     {
+      "name": "phishingdetectionapi",
+      "version": "1.0.0",
+      "description": "Node.js client for the Phishing Detection API: verdicts for domains and URLs against a daily-refreshed, DNS-verified database of 390,000+ active phishing domains, with batch checks, the full feed and public statistics.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/phishingdetectionapi",
+      "npmUrl": "https://www.npmjs.com/package/phishingdetectionapi",
+      "category": "frontend",
+      "createdAt": "2026-09-20T01:09:49.754Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 100
+    },
+    {
       "name": "phoenix-agent",
       "version": "1.1.0",
       "description": "Phoenix Agent - Autonomous AI system agent for Windows",
@@ -102756,6 +102972,18 @@
       "createdAt": "2026-09-17T03:17:25.021Z",
       "discoveredAt": "2026-09-17T04:39:58.228Z",
       "score": 87
+    },
+    {
+      "name": "pi-jev-browser",
+      "version": "0.2.0",
+      "description": "Browser and macOS desktop agent for pi: Jev (TypeSafe System One) chooses each action from a structured observation in a bounded, surface-agnostic loop. Isolated Playwright tools, an allow-listed accessibility-tree tool, a deterministic selector layer and",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/laihenyi/pi-Jev-browser",
+      "npmUrl": "https://www.npmjs.com/package/pi-jev-browser",
+      "category": "testing",
+      "createdAt": "2026-09-19T13:50:36.926Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 90
     },
     {
       "name": "pi-jina-webtools",
@@ -107906,6 +108134,18 @@
       "score": 79
     },
     {
+      "name": "remote-pi-app",
+      "version": "0.7.2",
+      "description": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+      "license": "MIT",
+      "repository": "https://github.com/jacobaraujo7/remote_pi",
+      "npmUrl": "https://www.npmjs.com/package/remote-pi-app",
+      "category": "frontend",
+      "createdAt": "2026-09-20T01:16:47.869Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 90
+    },
+    {
       "name": "remove-ai-watermark",
       "version": "1.1.0",
       "description": "Sanitize images, text documents, and codebases by removing C2PA manifests, EXIF metadata, invisible zero-width unicode watermarks, Bidi control characters, LLM prompt tokens, and steganography signals.",
@@ -110378,6 +110618,18 @@
       "score": 96
     },
     {
+      "name": "shadowaitools",
+      "version": "1.0.0",
+      "description": "Shadow AI detection from the logs you already have: parse a DNS, proxy or firewall export locally, look up each unique domain against the AI Tools Blocklist, and get an inventory of the AI tools in use with category, AI type and vendor training verdicts.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/shadowaitools",
+      "npmUrl": "https://www.npmjs.com/package/shadowaitools",
+      "category": "frontend",
+      "createdAt": "2026-09-20T01:09:47.663Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 100
+    },
+    {
       "name": "shadscan-svelte",
       "version": "0.7.0",
       "description": "Audit React and Svelte shadcn apps for missing UI fundamentals.",
@@ -110988,6 +111240,18 @@
       "createdAt": "2026-08-05T22:13:03.796Z",
       "discoveredAt": "2026-08-05T22:14:01.136Z",
       "score": 71
+    },
+    {
+      "name": "singularity-sdk",
+      "version": "0.0.1",
+      "description": "Build blockchain applications on Singularity Agent — one typed client over EVM, Solana, Bitcoin and Cosmos, with watch primitives, an agent-tool bridge, and a custody seam the SDK never crosses.",
+      "license": "MIT",
+      "repository": "https://github.com/DarkStarMatters/Singularity-Agent",
+      "npmUrl": "https://www.npmjs.com/package/singularity-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-09-20T01:17:06.485Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 89
     },
     {
       "name": "sinktrace",
@@ -115850,6 +116114,18 @@
       "score": 80
     },
     {
+      "name": "trihex",
+      "version": "1.0.0",
+      "description": "High-performance Tri-Hex Metric Spatial Indexing Engine: Exact 1:4 Hierarchical Triangular Quadtree with Hexagonal Voronoi Dual and Network Topology Awareness",
+      "license": "MIT",
+      "repository": "https://github.com/OTopman/trihex",
+      "npmUrl": "https://www.npmjs.com/package/trihex",
+      "category": "frontend",
+      "createdAt": "2026-09-19T19:35:48.709Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 93
+    },
+    {
       "name": "trilean",
       "version": "1.0.1",
       "description": "Consumer-agnostic, three-valued predicate/expression evaluation trees over injected resolvers -- no assumptions about consumer data, no I/O of its own.",
@@ -117000,6 +117276,18 @@
       "createdAt": "2026-08-10T20:24:19.536Z",
       "discoveredAt": "2026-08-10T20:33:00.517Z",
       "score": 69
+    },
+    {
+      "name": "urlcategorizationdatabase",
+      "version": "1.0.0",
+      "description": "Node.js client for the URL Categorization Database: classify any domain or URL into IAB content taxonomy categories (tier 1 and tier 2) from a database of 120M+ categorized domains, with language detection and buyer personas.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/urlcategorizationdatabase",
+      "npmUrl": "https://www.npmjs.com/package/urlcategorizationdatabase",
+      "category": "frontend",
+      "createdAt": "2026-09-20T02:10:08.545Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 100
     },
     {
       "name": "us-zip-centroids",
@@ -118980,6 +119268,18 @@
       "createdAt": "2026-08-07T10:06:12.315Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 79
+    },
+    {
+      "name": "webfilteringdatabase",
+      "version": "1.0.0",
+      "description": "Node.js client for the Web Filtering Database API: classify any domain or URL into 59 web filtering categories plus IAB content categories, from a database of 120M+ categorized domains built for firewalls, DNS resolvers and secure web gateways.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/webfilteringdatabase",
+      "npmUrl": "https://www.npmjs.com/package/webfilteringdatabase",
+      "category": "frontend",
+      "createdAt": "2026-09-20T01:09:51.850Z",
+      "discoveredAt": "2026-09-20T04:41:19.146Z",
+      "score": 100
     },
     {
       "name": "webfox",
