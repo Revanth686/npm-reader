@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 131605039,
-  "lastRunAt": "2026-09-21T04:39:08.077Z",
+  "lastSequence": 131740617,
+  "lastRunAt": "2026-09-21T18:09:38.027Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@team-ops-org-ornis-rases-prore-sumph/team-ops-pkg-ksars-bajus-deify-siped",
+      "attempts": 2
+    },
+    {
+      "name": "@nimbusedge2/xa",
       "attempts": 1
     },
     {
-      "name": "@ohos-ports/azure-msal-node-extensions",
-      "attempts": 1
-    },
-    {
-      "name": "@vervedoc/design",
-      "attempts": 1
-    },
-    {
-      "name": "@vervedoc/ui",
+      "name": "@gottheflag/ui",
       "attempts": 1
     }
   ]

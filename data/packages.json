@@ -5702,6 +5702,18 @@
       "score": 67
     },
     {
+      "name": "@argszero/cordis-plugin-tool-deadline-guard",
+      "version": "0.1.0",
+      "description": "Deployment-level tool-call deadlines for dsh: a tool that never declares ToolDefinition.timeoutMs is dispatched with no deadline at all, so one wedged call (a delegation whose child never settles, a third-party MCP tool that never returns) leaves the turn",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/cordis-plugin-tool-deadline-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fcordis-plugin-tool-deadline-guard",
+      "category": "devops",
+      "createdAt": "2026-09-21T09:26:13.507Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 89
+    },
+    {
       "name": "@arguslab/argus",
       "version": "0.1.0",
       "description": "Run React Native unit tests on the real Hermes engine, at unit-test speed.",
@@ -37682,6 +37694,18 @@
       "score": 64
     },
     {
+      "name": "@mencoro/mcp",
+      "version": "1.0.1",
+      "description": "Stdio bridge to the hosted Mencoro MCP server for AI-search (GEO) brand monitoring.",
+      "license": "MIT",
+      "repository": "https://github.com/mencoro/mencoro-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mencoro%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-09-15T16:03:25.434Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 88
+    },
+    {
       "name": "@menuella/food-safety",
       "version": "0.1.0",
       "description": "Open dataset of restaurant menu disclosures — the 14 EU allergen groups, Menuella Declarations, and an ingredient lexicon — in 6 languages, keyed by stable semantic keys.",
@@ -38892,6 +38916,18 @@
       "createdAt": "2026-08-15T17:57:08.950Z",
       "discoveredAt": "2026-08-16T01:49:36.241Z",
       "score": 87
+    },
+    {
+      "name": "@mohamadjavadx/piechart",
+      "version": "0.1.1",
+      "description": "An animated, accessible pie / donut chart for the web (SVG, no dependencies): a web component, a React component and a plain class. The same look and features as the Android PieChart library.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mohamadjavadx/PieChart",
+      "npmUrl": "https://www.npmjs.com/package/%40mohamadjavadx%2Fpiechart",
+      "category": "frontend",
+      "createdAt": "2026-09-21T14:12:43.610Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 89
     },
     {
       "name": "@mohammad154/opencode-nexus",
@@ -51110,6 +51146,18 @@
       "score": 69
     },
     {
+      "name": "@ruvector/typesafe",
+      "version": "0.1.0",
+      "description": "Local typed decisions (choice / score / noul) over sentence embeddings — a ruvector-powered, self-optimizing alternative to typesafe.ai's System One API. Native (napi-rs) with a WASM fallback; no network, no per-token cost.",
+      "license": "MIT",
+      "repository": "https://github.com/ruvnet/ruvector",
+      "npmUrl": "https://www.npmjs.com/package/%40ruvector%2Ftypesafe",
+      "category": "backend",
+      "createdAt": "2026-09-21T18:08:57.992Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
+    },
+    {
       "name": "@rvaim/dsh-compat",
       "version": "0.4.3",
       "description": "在 DeepSeek Harness 中按 Source/Plugin 模型整体管理并运行 Claude Code、Codex 旧插件",
@@ -51614,6 +51662,18 @@
       "score": 88
     },
     {
+      "name": "@sanqianx/project-knowledge",
+      "version": "4.7.0",
+      "description": "Knowledge base manager with Git integration, AI-driven analysis, and bilingual (zh-CN/en-US) knowledge output",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SanQianX/project-knowledge-base",
+      "npmUrl": "https://www.npmjs.com/package/%40sanqianx%2Fproject-knowledge",
+      "category": "utilities",
+      "createdAt": "2026-09-21T14:57:08.227Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
+    },
+    {
       "name": "@santhosraj/cclint",
       "version": "0.2.0",
       "description": "Lint CLAUDE.md, hooks, and MCP config for silent conflicts, dead references, and token bloat.",
@@ -51743,6 +51803,18 @@
       "category": "frontend",
       "createdAt": "2026-09-03T12:42:45.274Z",
       "discoveredAt": "2026-09-03T16:18:01.109Z",
+      "score": 90
+    },
+    {
+      "name": "@sarv-in/mailguard",
+      "version": "0.2.0",
+      "description": "Explainable spam and phishing signals for email, computed offline from the message itself. Reads SPF/DKIM/DMARC results, sender-domain spoofing and the true origin IP out of the headers, and returns a score with human-readable reasons.",
+      "license": "MIT",
+      "repository": "https://github.com/Sarv/mailguard",
+      "npmUrl": "https://www.npmjs.com/package/%40sarv-in%2Fmailguard",
+      "category": "frontend",
+      "createdAt": "2026-09-21T11:46:24.761Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
       "score": 90
     },
     {
@@ -61082,6 +61154,18 @@
       "score": 72
     },
     {
+      "name": "@velajs/mail",
+      "version": "1.0.1",
+      "description": "Edge-neutral mail for Vela: a render→validate→build→dispatch pipeline behind a one-method MailTransport seam with header-injection guards hoisted above every transport, a queue-backed send path, and inbound email as a verdict-gated entrypoint kind",
+      "license": "MIT",
+      "repository": "https://github.com/velajs/vela",
+      "npmUrl": "https://www.npmjs.com/package/%40velajs%2Fmail",
+      "category": "build-tools",
+      "createdAt": "2026-09-21T05:04:42.278Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 100
+    },
+    {
       "name": "@venespana/opencode-vision",
       "version": "0.1.1",
       "description": "OpenCode plugin: vision for text-only models — intercepts pasted images, materializes to disk, routes to a VisionBackend, injects description back into chat context.",
@@ -63326,6 +63410,18 @@
       "score": 31
     },
     {
+      "name": "@workflowbuilder/temporal",
+      "version": "0.1.0",
+      "description": "Run Workflow Builder diagrams as durable Temporal Workflow Executions: a Temporal Plugin that registers the node-execution activities, plus the workflow-side runner to re-export from your own workflows module.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/synergycodes/workflowbuilder",
+      "npmUrl": "https://www.npmjs.com/package/%40workflowbuilder%2Ftemporal",
+      "category": "build-tools",
+      "createdAt": "2026-09-21T13:03:56.641Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 88
+    },
+    {
       "name": "@workgroove/wgr",
       "version": "1.0.0",
       "description": "Specification, SDK, and offline CLI for portable signed Work Records",
@@ -64836,6 +64932,18 @@
       "createdAt": "2026-08-09T22:53:23.011Z",
       "discoveredAt": "2026-08-11T19:50:21.290Z",
       "score": 100
+    },
+    {
+      "name": "@zakkster/lite-loglogn",
+      "version": "0.1.0",
+      "description": "Zero-dependency, zero-GC family of sub-logarithmic bounded-integer predecessor/successor data structures spanning O(log_w U) to O(log log U): StratifiedBitset (array-embedded O(log_w U) successor/predecessor over a hierarchical bit tree), XFastTrie (O(log",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-loglogn",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-loglogn",
+      "category": "data",
+      "createdAt": "2026-09-21T16:41:10.044Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
     },
     {
       "name": "@zakkster/lite-logn",
@@ -68426,6 +68534,18 @@
       "score": 94
     },
     {
+      "name": "angular-capacitor-workspace",
+      "version": "22.0.0",
+      "description": "Schematics, dependency policy and audit gate for an Angular workspace that ships as a web app, a Capacitor mobile app, a prerendered marketing site and shared libraries.",
+      "license": "MIT",
+      "repository": "https://github.com/karimaounn/angular-capacitor-workspace",
+      "npmUrl": "https://www.npmjs.com/package/angular-capacitor-workspace",
+      "category": "testing",
+      "createdAt": "2026-09-21T17:19:13.659Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 89
+    },
+    {
       "name": "angular-optimization",
       "version": "1.0.0",
       "description": "Agent skill that audits an Angular workspace for performance problems, ranks findings with evidence, and stops for approval before changing code.",
@@ -71306,6 +71426,18 @@
       "score": 72
     },
     {
+      "name": "boxy-design",
+      "version": "1.0.1",
+      "description": "Sharp-edged, zero-radius design system skill for AI coding agents — hairline structure, blueprint detailing, a disciplined neutral palette, and a linter that keeps it honest.",
+      "license": "MIT",
+      "repository": "https://github.com/avestura/boxy-design-skill",
+      "npmUrl": "https://www.npmjs.com/package/boxy-design",
+      "category": "frontend",
+      "createdAt": "2026-09-21T05:16:08.223Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 89
+    },
+    {
       "name": "bpmn-di-gen",
       "version": "0.1.0",
       "description": "Generate readable BPMN Diagram Interchange information for BPMN 2.0 XML.",
@@ -72084,6 +72216,18 @@
       "createdAt": "2026-08-07T23:07:16.240Z",
       "discoveredAt": "2026-08-08T23:13:31.743Z",
       "score": 37
+    },
+    {
+      "name": "callman-mcp",
+      "version": "0.1.1",
+      "description": "MCP server for Callman: lets Claude Code, Claude Desktop, Cursor, Codex and Gemini CLI manage collections, requests, environments, test scenarios and system-design diagrams in your Callman workspace — cloud or on-prem.",
+      "license": "MIT",
+      "repository": "https://github.com/memmedov-karim/callman_mcp",
+      "npmUrl": "https://www.npmjs.com/package/callman-mcp",
+      "category": "testing",
+      "createdAt": "2026-09-21T06:11:49.992Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
     },
     {
       "name": "callspec",
@@ -80054,6 +80198,18 @@
       "score": 45
     },
     {
+      "name": "dsh-niubash-only",
+      "version": "0.1.0",
+      "description": "Niubash-only shell executor and Bash-dialect teaching for DeepSeek Harness (dsh 0.1.5-rc.2): every ctx.shell execution runs as `niu -c`, PowerShell/cmd/WSL/nu handoffs are refused, PowerShell habits are refused before they spawn, a failed call carries an",
+      "license": "MIT",
+      "repository": "https://github.com/YMRwithNoworry/dsh-niubash-only",
+      "npmUrl": "https://www.npmjs.com/package/dsh-niubash-only",
+      "category": "cli",
+      "createdAt": "2026-09-21T16:00:46.868Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
+    },
+    {
       "name": "dsh-notepad",
       "version": "0.1.0",
       "description": "DSH Web GUI 右侧常驻记事本：钉在页面最右边的便签面板，自动保存到 ~/.dsh/notepad/notes.md，Agent 可通过 notepad_read/notepad_write 读写。",
@@ -80807,6 +80963,18 @@
       "category": "cli",
       "createdAt": "2026-09-18T13:24:30.890Z",
       "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
+      "name": "dsh-shift-router",
+      "version": "0.6.0",
+      "description": "Two-tier model router for DeepSeek Harness — automatic execution/judgment routing with LLM Judge, multi-model fallback chains, and exponential-backoff runtime failover. A DSH adaptation of pi-shift-router.",
+      "license": "MIT",
+      "repository": "https://github.com/green-dalii/dsh-shift-router",
+      "npmUrl": "https://www.npmjs.com/package/dsh-shift-router",
+      "category": "utilities",
+      "createdAt": "2026-09-21T04:40:36.337Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
       "score": 90
     },
     {
@@ -83306,6 +83474,18 @@
       "score": 93
     },
     {
+      "name": "exuvia",
+      "version": "0.5.0",
+      "description": "Audit and refactor standing AI-agent instructions (AGENTS.md/CLAUDE.md/skills/MCP) for prompt debt — probe-verified, safety-preserving; drift checks, constitution tests, blame provenance, cross-harness translator",
+      "license": "MIT",
+      "repository": "https://github.com/Zorgzeleniy/Exuvia",
+      "npmUrl": "https://www.npmjs.com/package/exuvia",
+      "category": "testing",
+      "createdAt": "2026-09-21T07:58:58.707Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
+    },
+    {
       "name": "ez-thumb",
       "version": "1.1.0",
       "description": "YouTube thumbnail and title packaging studio for Claude Code. Onboard once: it finds your competitors (vidIQ or your own list), pulls their best thumbnails through Apify, reads every image with vision, and writes the whole corpus back into itself. After t",
@@ -83784,6 +83964,18 @@
       "createdAt": "2026-07-26T22:58:52.041Z",
       "discoveredAt": "2026-07-26T23:46:32.957Z",
       "score": 71
+    },
+    {
+      "name": "feedback4ai",
+      "version": "1.0.0",
+      "description": "Click-to-annotate feedback toolbar for HTML/CSS/JS websites. Point at an element, write a note, and hand Claude Code, Codex, Cursor or any AI coding agent a structured prompt — or sync notes live over MCP with feedback4ai-mcp. One <script> tag, zero depen",
+      "license": "MIT",
+      "repository": "https://github.com/baule-lab/Feedback4AI",
+      "npmUrl": "https://www.npmjs.com/package/feedback4ai",
+      "category": "frontend",
+      "createdAt": "2026-09-21T07:24:32.536Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 100
     },
     {
       "name": "fenceline",
@@ -87672,6 +87864,18 @@
       "createdAt": "2026-08-10T14:31:41.161Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 100
+    },
+    {
+      "name": "hoverlab",
+      "version": "0.4.0",
+      "description": "Install UI from the Hoverlab catalog — CSS effects, React blocks, whole pages and scaffoldable templates — review your own components for design defects, and expose it all to your editor's AI agent over MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/Vijetbhat6/hoverlab",
+      "npmUrl": "https://www.npmjs.com/package/hoverlab",
+      "category": "frontend",
+      "createdAt": "2026-09-21T09:00:45.623Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
     },
     {
       "name": "how-many-days",
@@ -92366,6 +92570,18 @@
       "score": 83
     },
     {
+      "name": "loopgoal",
+      "version": "1.0.0",
+      "description": "Autonomous development loop plugin & CLI supervisor for AI coding agents (Antigravity, Gemini, Claude Code, Codex, Cursor)",
+      "license": "MIT",
+      "repository": "https://github.com/prasangapokharel/loopGoal",
+      "npmUrl": "https://www.npmjs.com/package/loopgoal",
+      "category": "cli",
+      "createdAt": "2026-09-21T15:07:00.531Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 92
+    },
+    {
       "name": "looptroop",
       "version": "0.5.0",
       "description": "Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop recovery, isolated OpenCode worktrees, and human-gated PR delivery.",
@@ -95520,6 +95736,18 @@
       "createdAt": "2026-08-27T13:25:13.930Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
       "score": 87
+    },
+    {
+      "name": "modularjs-framework",
+      "version": "2.4.3",
+      "description": "ModularJS (MJS) — framework front compile-time : réactivité résolue à la compilation (sans Proxy au runtime), Custom Elements + Shadow DOM, syntaxe .mjs (Civet par défaut). Compilateur + runtime + CLI dev/HMR.",
+      "license": "MIT",
+      "repository": "https://github.com/RaptureStudio42/modularjs-framework",
+      "npmUrl": "https://www.npmjs.com/package/modularjs-framework",
+      "category": "frontend",
+      "createdAt": "2026-09-21T10:32:02.513Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 96
     },
     {
       "name": "moho-design",
@@ -98724,6 +98952,18 @@
       "createdAt": "2026-07-29T15:31:39.111Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 89
+    },
+    {
+      "name": "node-resilience-check",
+      "version": "0.1.0",
+      "description": "Open-source resilience testing CLI for Node.js and TypeScript services. Detect backpressure bugs, retry storms, event-loop blocking, race conditions, graceful shutdown failures, and microservice reliability issues.",
+      "license": "MIT",
+      "repository": "https://github.com/kirilkirkov/node-resilience-check",
+      "npmUrl": "https://www.npmjs.com/package/node-resilience-check",
+      "category": "testing",
+      "createdAt": "2026-09-21T08:24:07.022Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
     },
     {
       "name": "nodebb-plugin-dark-skin",
@@ -107664,6 +107904,18 @@
       "createdAt": "2026-07-29T13:39:15.789Z",
       "discoveredAt": "2026-07-29T13:50:11.010Z",
       "score": 79
+    },
+    {
+      "name": "react-native-nitro-biometrics",
+      "version": "0.1.1",
+      "description": "A blazing-fast, type-safe React Native biometric authentication library powered by Nitro Modules. Supports Face ID, Touch ID, Optic ID, Android BiometricPrompt (Fingerprint, Face, Iris) and device passcode fallback with direct JSI bindings.",
+      "license": "MIT",
+      "repository": "https://github.com/yashnandha/react-native-nitro-biometrics",
+      "npmUrl": "https://www.npmjs.com/package/react-native-nitro-biometrics",
+      "category": "frontend",
+      "createdAt": "2026-09-21T06:51:42.415Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
     },
     {
       "name": "react-native-nitro-logger",
@@ -118754,6 +119006,18 @@
       "score": 90
     },
     {
+      "name": "virwave-breathe",
+      "version": "1.0.0",
+      "description": "Calm, animated breathing sessions from the VirWave app, as an MCP server. Runs on your computer and collects nothing.",
+      "license": "MIT",
+      "repository": "https://github.com/virwave/virwave-breathe",
+      "npmUrl": "https://www.npmjs.com/package/virwave-breathe",
+      "category": "backend",
+      "createdAt": "2026-09-21T11:55:34.329Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 91
+    },
+    {
       "name": "visbridge-mcp",
       "version": "0.1.0",
       "description": "Token-efficient vision capability layer for MCP clients (describe / OCR / inspect)",
@@ -119582,6 +119846,18 @@
       "score": 58
     },
     {
+      "name": "wasmtune",
+      "version": "0.2.0",
+      "description": "Fine-tune a small LLM on your website's own pages (local LoRA/QLoRA via Unsloth on NVIDIA or MLX on Apple Silicon) and embed it as a WebGPU chat window that serves the model tier matching each visitor's hardware. Generic — works with any static site folde",
+      "license": "MIT",
+      "repository": "https://github.com/warsang/wasmTune",
+      "npmUrl": "https://www.npmjs.com/package/wasmtune",
+      "category": "utilities",
+      "createdAt": "2026-09-21T13:33:08.829Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
+    },
+    {
       "name": "watchmen-logger",
       "version": "1.0.1",
       "description": "Self-hosted logging & monitoring middleware for REST APIs. Capture, store, and visualize HTTP requests with zero external dependencies.",
@@ -119820,6 +120096,18 @@
       "createdAt": "2026-08-04T07:24:27.655Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 83
+    },
+    {
+      "name": "web2api-proxy",
+      "version": "1.0.0",
+      "description": "Universal OpenAI-compatible reverse proxy for web chat interfaces (FreeModels.Pro) with agent tool calling support",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/IMROVOID/Web2API",
+      "npmUrl": "https://www.npmjs.com/package/web2api-proxy",
+      "category": "backend",
+      "createdAt": "2026-09-21T09:16:11.288Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 91
     },
     {
       "name": "web3trackers-mcp",
@@ -121068,6 +121356,18 @@
       "createdAt": "2026-09-05T11:57:56.913Z",
       "discoveredAt": "2026-09-05T15:01:02.586Z",
       "score": 88
+    },
+    {
+      "name": "yatt-ts",
+      "version": "0.2.0",
+      "description": "Highly configurable YATT MCP server library: spin up your own UI-testing MCP server (35 tools, Playwright engine, headless-first) with strict, typed configuration for paths, HTTP transport, auth, permissions, sessions and retention.",
+      "license": "MIT",
+      "repository": "https://github.com/josvaal/yatt-ts",
+      "npmUrl": "https://www.npmjs.com/package/yatt-ts",
+      "category": "testing",
+      "createdAt": "2026-09-21T14:52:26.147Z",
+      "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 90
     },
     {
       "name": "yeow-fflate",
