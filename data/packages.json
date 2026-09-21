@@ -710,6 +710,18 @@
       "score": 90
     },
     {
+      "name": "@a1-x-tech/mcp-google-slides",
+      "version": "0.2.0",
+      "description": "MCP server for the Google Slides API — create and edit presentations, slides, text, shapes, tables and images, manage speaker notes, comments, thumbnails and export. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-slides",
+      "npmUrl": "https://www.npmjs.com/package/%40a1-x-tech%2Fmcp-google-slides",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:49:45.618Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 88
+    },
+    {
       "name": "@a2a-labs/registry-server",
       "version": "0.2.0",
       "description": "A lease-based registry and discovery server for A2A agents",
@@ -13094,6 +13106,18 @@
       "score": 90
     },
     {
+      "name": "@daformat/audio-borealis",
+      "version": "1.0.0",
+      "description": "audio-borealis, a zero-dependency library that paints a sound-reactive glow along the edge of any box with plain Canvas 2D. Lifted out of the Subtitles app for macOS.",
+      "license": "Zero-Clause BSD",
+      "repository": "https://github.com/daformat/audio-borealis",
+      "npmUrl": "https://www.npmjs.com/package/%40daformat%2Faudio-borealis",
+      "category": "frontend",
+      "createdAt": "2026-09-20T19:27:30.953Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 96
+    },
+    {
       "name": "@daformat/contrast-color",
       "version": "1.0.0",
       "description": "Move a colour to a readable version of itself: same hue, same chroma, only the OKLCh lightness moved, scored against WCAG 2.1 or APCA. No dependencies, no framework.",
@@ -15806,6 +15830,18 @@
       "score": 81
     },
     {
+      "name": "@docsagent/mcp-zotero",
+      "version": "4.0.0",
+      "description": "DocsAgent MCP shell for Zotero — spec-driven MCP server over a resident C++ search core (stdio + Streamable HTTP)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/docsagent/docsagent",
+      "npmUrl": "https://www.npmjs.com/package/%40docsagent%2Fmcp-zotero",
+      "category": "backend",
+      "createdAt": "2026-09-21T04:16:08.593Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
+    },
+    {
       "name": "@docx4j/core-ts",
       "version": "0.1.1",
       "description": "docx4j-core for TypeScript: Open Packaging (docx/pptx/xlsx zip and flat OPC), typed parts and relationships, style, numbering and font resolution over @docx4j/generated-objects-ts. Node, browsers, Word add-ins.",
@@ -16296,6 +16332,18 @@
       "createdAt": "2026-08-21T17:56:22.224Z",
       "discoveredAt": "2026-08-22T01:41:29.293Z",
       "score": 92
+    },
+    {
+      "name": "@drunkcoding/dknet-skills",
+      "version": "13.1.3",
+      "description": "Agent skills (Claude Code plugin + Agent Skills standard) that teach coding agents the DKNet NuGet packages. Versioned with DKNet; install with `npx skills add baoduy/DKNet`.",
+      "license": "MIT",
+      "repository": "https://github.com/baoduy/DKNet",
+      "npmUrl": "https://www.npmjs.com/package/%40drunkcoding%2Fdknet-skills",
+      "category": "utilities",
+      "createdAt": "2026-09-21T03:30:38.887Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
     },
     {
       "name": "@drupflare/cartridge",
@@ -21012,6 +21060,18 @@
       "createdAt": "2026-08-04T08:05:10.239Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 89
+    },
+    {
+      "name": "@geocitation/mcp",
+      "version": "1.0.0",
+      "description": "MCP server exposing GEOCitation AEO/GEO semantic audit tools (Market Intelligence, Gap Analysis, audit history) to Claude Code, Claude Desktop, and any MCP-compatible client.",
+      "license": "MIT",
+      "repository": "https://github.com/GEOCitation/geocitation-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40geocitation%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-09-20T21:47:27.042Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 91
     },
     {
       "name": "@geohar/un-bien",
@@ -30170,6 +30230,18 @@
       "score": 62
     },
     {
+      "name": "@ionizeio/canvas",
+      "version": "3.0.1",
+      "description": "Universal React Native UI kit: one component API renders natively on iOS, Android, and web.",
+      "license": "MIT",
+      "repository": "https://github.com/ionizeio/canvas",
+      "npmUrl": "https://www.npmjs.com/package/%40ionizeio%2Fcanvas",
+      "category": "frontend",
+      "createdAt": "2026-09-20T23:13:45.609Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
+    },
+    {
       "name": "@ios27_design_system/rails",
       "version": "1.0.0",
       "description": "iOS 27 design system for Rails 8 + Hotwire — CSS tokens, Stimulus controllers, ERB partials",
@@ -33480,6 +33552,18 @@
       "createdAt": "2026-08-12T10:30:36.260Z",
       "discoveredAt": "2026-08-12T10:53:52.353Z",
       "score": 84
+    },
+    {
+      "name": "@kuyfi/kuyfi",
+      "version": "0.1.0",
+      "description": "Black-box security terminal for Soroban smart contracts — attack-surface reconstruction and Chaos Monkey fuzzing against deployed Testnet contracts, no source code required.",
+      "license": "MIT",
+      "repository": "https://github.com/alex0tico/kuyfi",
+      "npmUrl": "https://www.npmjs.com/package/%40kuyfi%2Fkuyfi",
+      "category": "testing",
+      "createdAt": "2026-09-21T00:08:40.723Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 87
     },
     {
       "name": "@kvantjs/jeston",
@@ -58598,6 +58682,18 @@
       "score": 95
     },
     {
+      "name": "@ticatec/rest-axios",
+      "version": "1.0.0",
+      "description": "A modular REST service implementation based on Axios with separate classes for REST operations (AxiosRestService) and file operations (AxiosFileService). Supports GET, POST, PUT, DELETE, PATCH, file upload/download with progress tracking, interceptors, an",
+      "license": "MIT",
+      "repository": "https://github.com/ticatec/web-commons",
+      "npmUrl": "https://www.npmjs.com/package/%40ticatec%2Frest-axios",
+      "category": "backend",
+      "createdAt": "2026-09-21T04:35:43.854Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 100
+    },
+    {
       "name": "@tie-di/core",
       "version": "0.0.0",
       "description": "Compile-time verified dependency injection for TypeScript. If it compiles, it resolves.",
@@ -63686,6 +63782,18 @@
       "score": 93
     },
     {
+      "name": "@xeplr/ui-workflow",
+      "version": "1.1.0",
+      "description": "The screens for @xeplr/workflow — the workflow list, the step builder canvas and the step drawer — as routes a host app registers, or a standalone app",
+      "license": "MIT",
+      "repository": "https://github.com/Xeplr/x-flow",
+      "npmUrl": "https://www.npmjs.com/package/%40xeplr%2Fui-workflow",
+      "category": "frontend",
+      "createdAt": "2026-09-18T09:33:33.287Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 87
+    },
+    {
       "name": "@xeplr/workflow",
       "version": "1.0.2",
       "description": "Workflows over @xeplr/actions — steps that bind inputs to earlier outputs, branch on conditions, fan out over lists and wait for a person or a job. registerWorkflow() mounts it into a host Express app, or it runs on its own.",
@@ -63960,6 +64068,18 @@
       "createdAt": "2026-08-13T13:16:48.134Z",
       "discoveredAt": "2026-08-13T14:10:59.115Z",
       "score": 72
+    },
+    {
+      "name": "@yadsh/dsh-jev-compaction",
+      "version": "0.1.0",
+      "description": "Jev/System-One semantic pruning of stale tool results for DeepSeek Harness; keeps conversation text verbatim and forgets stale tool output before summary compaction is needed",
+      "license": "MIT",
+      "repository": "https://github.com/xarleyn/dsh-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40yadsh%2Fdsh-jev-compaction",
+      "category": "backend",
+      "createdAt": "2026-09-20T18:27:58.030Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 87
     },
     {
       "name": "@yaebal/hydrate",
@@ -69638,6 +69758,18 @@
       "score": 92
     },
     {
+      "name": "autoit-obfuscator",
+      "version": "1.5.0",
+      "description": "AutoIt Obfuscator Web API interface can help you to protect your AutoIt script source code against analysis, reverse engineering and decompilation. AutoIt Obfuscator provides advanced AutoIt source code parsing based on AST trees, multiple advanced obfusc",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PELock/AutoIt-Obfuscator-JavaScript",
+      "npmUrl": "https://www.npmjs.com/package/autoit-obfuscator",
+      "category": "backend",
+      "createdAt": "2026-09-20T23:17:29.413Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 100
+    },
+    {
       "name": "autojournal",
       "version": "0.1.0",
       "description": "Durable agent memory for the Pi coding agent: every completed turn becomes an owner-controlled Markdown episode, with exact, ranked, bounded recall.",
@@ -73871,6 +74003,18 @@
       "category": "utilities",
       "createdAt": "2026-08-02T21:11:15.746Z",
       "discoveredAt": "2026-08-02T22:47:14.561Z",
+      "score": 87
+    },
+    {
+      "name": "clawphylax",
+      "version": "0.1.0",
+      "description": "Verify OpenClaw skills before installing and see where installed skills send data: pre-install scan for hosts, uploads and credential reads; runtime attribution of every outbound connection to the skill or tool that caused it. Local, zero-config, no cloud",
+      "license": "MIT",
+      "repository": "https://github.com/aeneassoft/clawphylax",
+      "npmUrl": "https://www.npmjs.com/package/clawphylax",
+      "category": "data",
+      "createdAt": "2026-09-20T21:56:09.932Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
       "score": 87
     },
     {
@@ -78446,6 +78590,18 @@
       "score": 89
     },
     {
+      "name": "drizzle-postgrejs",
+      "version": "1.0.0",
+      "description": "Drizzle ORM driver for PostgreJS - run a Drizzle schema on PostgreJS's wire-protocol client",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/panates/postgrejs-drizzle",
+      "npmUrl": "https://www.npmjs.com/package/drizzle-postgrejs",
+      "category": "data",
+      "createdAt": "2026-09-20T19:49:48.852Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
+    },
+    {
       "name": "droidseal",
       "version": "0.1.0",
       "description": "A simple, local-first Android release security pipeline.",
@@ -82658,6 +82814,18 @@
       "score": 78
     },
     {
+      "name": "eulerchat",
+      "version": "0.1.0",
+      "description": "Chat rooms shaped like an Euler diagram: subjects overlap, the overlaps are rooms, and a coordinate is an address. Includes a standalone area-proportional Euler diagram layout engine.",
+      "license": "MIT",
+      "repository": "https://github.com/markciubal/eulerchat",
+      "npmUrl": "https://www.npmjs.com/package/eulerchat",
+      "category": "frontend",
+      "createdAt": "2026-09-21T00:39:59.474Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 88
+    },
+    {
       "name": "eve-aws-lambda-microvms",
       "version": "0.2.0",
       "description": "An Eve sandbox backend for durable AWS Lambda MicroVMs.",
@@ -83820,6 +83988,18 @@
       "createdAt": "2026-07-29T01:14:36.478Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 93
+    },
+    {
+      "name": "figma-wire",
+      "version": "1.3.0",
+      "description": "Wire any AI coding agent to Figma: probe/repair the local Dev Mode MCP server across harnesses (ZCode, Claude Code, Codex, Cursor, Windsurf, VS Code, Gemini CLI), parse share links, and call Figma MCP tools from plain bash — no MCP client required.",
+      "license": "MIT",
+      "repository": "https://github.com/adhamhaithameid/mcp-wire",
+      "npmUrl": "https://www.npmjs.com/package/figma-wire",
+      "category": "backend",
+      "createdAt": "2026-09-20T17:42:47.895Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 88
     },
     {
       "name": "figqa",
@@ -93590,6 +93770,30 @@
       "score": 84
     },
     {
+      "name": "mcp-google-chat",
+      "version": "0.2.0",
+      "description": "MCP server for the Google Chat API — list and search spaces, read and send messages, work with threads, reactions, attachments and memberships. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-chat",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-chat",
+      "category": "frontend",
+      "createdAt": "2026-08-30T01:48:50.980Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
+    },
+    {
+      "name": "mcp-google-contacts",
+      "version": "0.2.0",
+      "description": "MCP server for Google Contacts (People API) — search, read, create, update and delete contacts, manage contact groups and run batch operations. For Claude, Cursor, Codex and other AI clients.",
+      "license": "MIT",
+      "repository": "https://github.com/A1-x-Tech/mcp-google-contacts",
+      "npmUrl": "https://www.npmjs.com/package/mcp-google-contacts",
+      "category": "backend",
+      "createdAt": "2026-08-30T01:48:41.386Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
+    },
+    {
       "name": "mcp-google-crux",
       "version": "0.1.0",
       "description": "MCP server for the Chrome UX Report (CrUX) API — real-user Core Web Vitals (LCP, INP, CLS, TTFB) and 40-week history for any origin or URL. For Claude, Cursor, Codex and other AI clients.",
@@ -93720,6 +93924,18 @@
       "createdAt": "2026-08-27T19:26:09.607Z",
       "discoveredAt": "2026-08-30T05:07:45.532Z",
       "score": 90
+    },
+    {
+      "name": "mcp-ink-design",
+      "version": "1.2.0",
+      "description": "Model Context Protocol (MCP) server for high-craft web design, anti-AI-slop typography & OKLCH color palettes, Three.js 3D scenes, frontend security audits, and Python-backed verification.",
+      "license": "MIT",
+      "repository": "https://github.com/MarwanDevSpace/mcp-ink-design",
+      "npmUrl": "https://www.npmjs.com/package/mcp-ink-design",
+      "category": "frontend",
+      "createdAt": "2026-09-20T10:56:54.859Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 88
     },
     {
       "name": "mcp-lever",
@@ -94104,6 +94320,18 @@
       "createdAt": "2026-08-11T04:02:41.033Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 80
+    },
+    {
+      "name": "mcp-toolpick",
+      "version": "0.1.0",
+      "description": "Will an assistant actually pick your tool? Scores an MCP server's tool names, descriptions and annotations against Anthropic's published guidance and the MCP spec — every rule quoting the sentence it comes from — then puts your tools in a catalogue beside",
+      "license": "MIT",
+      "repository": "https://github.com/joelp22-maker/mcp-toolpick",
+      "npmUrl": "https://www.npmjs.com/package/mcp-toolpick",
+      "category": "backend",
+      "createdAt": "2026-09-20T23:30:45.203Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 90
     },
     {
       "name": "mcp-trellis",
@@ -103646,6 +103874,18 @@
       "score": 92
     },
     {
+      "name": "pi-prefix-cache-compaction",
+      "version": "0.3.0",
+      "description": "Pi compaction that reuses the model server's prefix cache (vLLM, SGLang, llama.cpp, or hosted APIs with automatic caching such as DeepSeek; Anthropic Messages and OpenAI Chat Completions): no cold re-prefill of the history, plus a warm-up so the next turn",
+      "license": "MIT",
+      "repository": "https://github.com/jagdeepsinghdev/pi-prefix-cache-compaction",
+      "npmUrl": "https://www.npmjs.com/package/pi-prefix-cache-compaction",
+      "category": "backend",
+      "createdAt": "2026-09-18T05:23:43.619Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 90
+    },
+    {
       "name": "pi-profile-archive",
       "version": "0.1.0",
       "description": "Profile manager for the pi coding agent — switch, save, archive, and git-version your settings.json profiles. Built on top of the runtime profile concept with a focus on safe, history-preserving changes.",
@@ -103932,6 +104172,18 @@
       "createdAt": "2026-08-07T16:52:01.810Z",
       "discoveredAt": "2026-08-09T10:24:31.633Z",
       "score": 68
+    },
+    {
+      "name": "pi-ultra-scout",
+      "version": "1.0.1",
+      "description": "Ultrawork web-nudge system for pi: deterministic trust-shape detector + sequential research_dispatch tool that spawns a fresh same-weight librarian to browse live docs and return compact evidence artifacts. Protects weak local models from confidently hall",
+      "license": "MIT",
+      "repository": "https://github.com/BrutchsamaJeanLouis/pi-ultra-scout",
+      "npmUrl": "https://www.npmjs.com/package/pi-ultra-scout",
+      "category": "utilities",
+      "createdAt": "2026-09-20T21:53:51.315Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 98
     },
     {
       "name": "pi-unsloth-webtools",
@@ -109080,6 +109332,18 @@
       "createdAt": "2026-07-28T10:38:44.395Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 89
+    },
+    {
+      "name": "rn-firebase-cli",
+      "version": "1.0.1",
+      "description": "Unified Firebase setup CLI for React Native & Expo — configure Android, iOS, and Web from a single command",
+      "license": "MIT",
+      "repository": "https://github.com/THARUN-BART/rn-firebase-cli",
+      "npmUrl": "https://www.npmjs.com/package/rn-firebase-cli",
+      "category": "frontend",
+      "createdAt": "2026-09-20T17:38:06.410Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 90
     },
     {
       "name": "rn-inputforge",
@@ -117242,6 +117506,18 @@
       "score": 81
     },
     {
+      "name": "umlflow",
+      "version": "1.0.0",
+      "description": "Language-agnostic code understanding and incremental UML (Mermaid) synchronization for Claude Code and the CLI",
+      "license": "MIT",
+      "repository": "https://github.com/SamanFekri/UMLFlow",
+      "npmUrl": "https://www.npmjs.com/package/umlflow",
+      "category": "cli",
+      "createdAt": "2026-09-20T17:13:51.072Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 91
+    },
+    {
       "name": "un7z-opfs",
       "version": "1.0.1",
       "description": "7z archive extraction straight into the browser's Origin Private File System, from inside a Web Worker",
@@ -117876,6 +118152,18 @@
       "createdAt": "2026-08-10T08:03:29.601Z",
       "discoveredAt": "2026-08-10T09:09:27.680Z",
       "score": 78
+    },
+    {
+      "name": "vaultweave",
+      "version": "1.0.0",
+      "description": "Back up Notion to portable Markdown, CSV, JSON and assets, with Git history, watch mode, alerts and S3 targets.",
+      "license": "MIT",
+      "repository": "https://github.com/joksure/vaultweave",
+      "npmUrl": "https://www.npmjs.com/package/vaultweave",
+      "category": "cli",
+      "createdAt": "2026-09-20T22:11:32.239Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
     },
     {
       "name": "vaultwire",
@@ -120276,6 +120564,18 @@
       "createdAt": "2026-07-31T17:19:03.234Z",
       "discoveredAt": "2026-07-31T17:24:36.430Z",
       "score": 66
+    },
+    {
+      "name": "workflow-render",
+      "version": "0.1.0",
+      "description": "Render n8n workflow or execution JSON as an n8n-lookalike canvas: a CLI that exports SVG/PNG or views locally, a <workflow-render> web component, and a Node API. Offline, no n8n instance needed.",
+      "license": "MIT",
+      "repository": "https://github.com/LudwigGerdes/workflow-render",
+      "npmUrl": "https://www.npmjs.com/package/workflow-render",
+      "category": "backend",
+      "createdAt": "2026-09-20T06:00:34.260Z",
+      "discoveredAt": "2026-09-21T04:39:08.077Z",
+      "score": 89
     },
     {
       "name": "workflowbench",
