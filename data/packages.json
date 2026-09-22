@@ -1634,6 +1634,18 @@
       "score": 72
     },
     {
+      "name": "@afftar/twitterapi-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for TwitterAPI.io - Access Twitter data through a unified API interface (AfftarN fork with current endpoints)",
+      "license": "MIT",
+      "repository": "https://github.com/AfftarN/twitterapi-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40afftar%2Ftwitterapi-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-22T09:04:25.588Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 92
+    },
+    {
       "name": "@aforoai/storefront-widgets",
       "version": "1.0.2",
       "description": "Embeddable widgets for Aforo's storefront — pricing card, subscribe button, invoice list, and embedded checkout. Drop into any HTML page, React app, or Vue app to add Aforo billing surfaces with your own branding. Three integration tiers: script tag, npm,",
@@ -26138,6 +26150,18 @@
       "score": 44
     },
     {
+      "name": "@granite-elements/granite-launchpad",
+      "version": "1.0.1",
+      "description": "Lit web components mimicking a Novation Launchpad Mini board, with a digital twin of a real one",
+      "license": "MIT",
+      "repository": "https://github.com/LostInBrittany/granite-launchpad",
+      "npmUrl": "https://www.npmjs.com/package/%40granite-elements%2Fgranite-launchpad",
+      "category": "utilities",
+      "createdAt": "2026-09-22T15:31:59.109Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 87
+    },
+    {
       "name": "@granite-js/micro-frontend",
       "version": "2.0.0",
       "description": "Micro-frontend build, runtime, session, and Portal contracts for Granite brownfield applications",
@@ -31574,6 +31598,18 @@
       "score": 62
     },
     {
+      "name": "@jo3zik/google-calendar-mcp",
+      "version": "2.6.1",
+      "description": "Google Calendar MCP Server with extensive support for calendar management (interim build: @cocal/google-calendar-mcp 2.6.1 plus GOOGLE_CALENDAR_API_BASE_URL, upstream PR nspady/google-calendar-mcp#199; pin flips back when upstream ships)",
+      "license": "MIT",
+      "repository": "https://github.com/nspady/google-calendar-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40jo3zik%2Fgoogle-calendar-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-22T13:03:29.143Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 96
+    },
+    {
       "name": "@joaoluft/grounded-llm",
       "version": "0.2.2",
       "description": "TypeScript library to reduce hallucination in LLM-generated responses and decisions by grounding them in retrieved context.",
@@ -32390,6 +32426,18 @@
       "score": 69
     },
     {
+      "name": "@karzounchat/dashboard-sdk",
+      "version": "1.0.1",
+      "description": "Lightweight SDK for building Karzoun dashboard panel apps. Provides a typed postMessage bridge for executing miniapp actions, receiving conversation/customer context, and triggering host UI actions from sandboxed iframes.",
+      "license": "MIT",
+      "repository": "https://github.com/KarzounApps/dashboard-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40karzounchat%2Fdashboard-sdk",
+      "category": "build-tools",
+      "createdAt": "2026-09-22T15:13:08.741Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 94
+    },
+    {
       "name": "@kasanie_laski/omni-notifier",
       "version": "0.1.0",
       "description": "Unified notification lib, worked with Pachca, Telegram and Discord. No deps, only native fetch",
@@ -33168,6 +33216,18 @@
       "createdAt": "2026-09-06T18:54:05.908Z",
       "discoveredAt": "2026-09-07T17:40:44.533Z",
       "score": 100
+    },
+    {
+      "name": "@kongyo2/similarity-ts-jev",
+      "version": "0.2.0",
+      "description": "similarity-ts + fallow duplicate detection for TypeScript, judged by TypeSafe's Jev (via @typesafe-ai/sdk): the pairs worth refactoring, the shape of the refactoring, and a calibration report.",
+      "license": "MIT",
+      "repository": "https://github.com/kongyo2/similarity-ts-jev",
+      "npmUrl": "https://www.npmjs.com/package/%40kongyo2%2Fsimilarity-ts-jev",
+      "category": "build-tools",
+      "createdAt": "2026-09-22T07:40:10.503Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 89
     },
     {
       "name": "@kontourai/ephemeris",
@@ -35174,6 +35234,18 @@
       "score": 72
     },
     {
+      "name": "@logictan/dsh-better-reasoning-effort",
+      "version": "0.5.0",
+      "description": "Third-party provider reasoning-effort AND input-modality settings for DeepSeek Harness: thinking levels and image-input support declared per model, auto-adapted from a model knowledge base + wire-protocol inference, edited right inside the official Models",
+      "license": "MIT",
+      "repository": "https://github.com/dale0525/dsh-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40logictan%2Fdsh-better-reasoning-effort",
+      "category": "devops",
+      "createdAt": "2026-09-22T12:19:47.911Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 88
+    },
+    {
       "name": "@logictan/dsh-easyrewrite",
       "version": "2.5.4",
       "description": "DSH Web内目前最无感的消息撤回、重编辑插件，原版体验，兼容性强，功能简单可开关，设置丰富，现代化轻量ui框架。The most seamless message recall & re-edit plugin for DSH Web — native experience, strong compatibility, simple toggles, rich settings, modern lightweight UI. DSH Web で最もシームレスなメッセージ撤回・再編集プラグイン——ネイテ",
@@ -36564,6 +36636,18 @@
       "createdAt": "2026-08-11T11:58:14.250Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 70
+    },
+    {
+      "name": "@mambalabsdev/mcp-creator-lead-list-all-in-one",
+      "version": "1.0.0",
+      "description": "MCP server for the Mamba Labs Influencer Lead List Builder actor on Apify. Discovery, the profile read, and the link check in one run, on one flat row per creator.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-creator-lead-list-all-in-one",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-creator-lead-list-all-in-one",
+      "category": "backend",
+      "createdAt": "2026-09-22T15:21:33.889Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 90
     },
     {
       "name": "@mambalabsdev/mcp-email-waterfall-orchestrator",
@@ -42686,6 +42770,18 @@
       "score": 53
     },
     {
+      "name": "@nordwerk/scroll-sheet",
+      "version": "0.1.0",
+      "description": "Bottom sheets, side drawers and dialogs on a native modal <dialog> and CSS scroll snap: open and close without script, drag, snap points and focus return as progressive enhancement.",
+      "license": "MIT",
+      "repository": "https://github.com/studio-nordwerk/oss-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40nordwerk%2Fscroll-sheet",
+      "category": "frontend",
+      "createdAt": "2026-09-22T14:42:25.490Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 88
+    },
+    {
       "name": "@normapi/client",
       "version": "0.1.0",
       "description": "Validate German e-invoices (XRechnung UBL/CII, ZUGFeRD/Factur-X PDF) against the official KoSIT rule set via the NormAPI service.",
@@ -47016,6 +47112,18 @@
       "createdAt": "2026-09-12T10:49:38.622Z",
       "discoveredAt": "2026-09-12T15:25:47.973Z",
       "score": 88
+    },
+    {
+      "name": "@powerduck/datamodel",
+      "version": "0.2.0",
+      "description": "Browser-safe relational modeling core for OpenAPI: extract entities and foreign keys from an OpenAPI document, derive many-to-many link tables with composite keys from array references, generate dialect-aware DDL/indexes/seed SQL, diff a model against a l",
+      "license": "MIT",
+      "repository": "https://github.com/powerducklab/datamodel",
+      "npmUrl": "https://www.npmjs.com/package/%40powerduck%2Fdatamodel",
+      "category": "frontend",
+      "createdAt": "2026-09-22T09:30:00.117Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 90
     },
     {
       "name": "@powerduck/schema-editor",
@@ -51360,6 +51468,18 @@
       "createdAt": "2026-08-13T08:43:31.814Z",
       "discoveredAt": "2026-08-13T09:04:03.864Z",
       "score": 72
+    },
+    {
+      "name": "@s3nd/core",
+      "version": "0.1.0",
+      "description": "Move a local-first app's data between devices through your own S3 bucket: snapshots, sync codes and a transfer handler. Works with AWS S3, Cloudflare R2, MinIO and any S3-compatible storage.",
+      "license": "MIT",
+      "repository": "https://github.com/AbderrahmaneMouzoune/s3nd",
+      "npmUrl": "https://www.npmjs.com/package/%40s3nd%2Fcore",
+      "category": "data",
+      "createdAt": "2026-09-22T15:13:57.406Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 89
     },
     {
       "name": "@saastemly/better-admin-ui",
@@ -59114,6 +59234,18 @@
       "score": 73
     },
     {
+      "name": "@tomosia/agent-stack",
+      "version": "1.0.0",
+      "description": "Generate .claude rules and skills for a project from a curated knowledge base, deterministically.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/TOMOSIA-VIETNAM/agent-stack",
+      "npmUrl": "https://www.npmjs.com/package/%40tomosia%2Fagent-stack",
+      "category": "cli",
+      "createdAt": "2026-09-22T09:44:29.024Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 89
+    },
+    {
       "name": "@tomowang/dsh-tui",
       "version": "0.1.0",
       "description": "Terminal front door for DeepSeek Harness (dsh): an out-of-tree TUI mode bundle over dsh-base",
@@ -59160,6 +59292,18 @@
       "createdAt": "2026-08-13T19:56:01.763Z",
       "discoveredAt": "2026-08-13T22:32:35.193Z",
       "score": 85
+    },
+    {
+      "name": "@tony2y/iiif-viewer",
+      "version": "0.1.1",
+      "description": "A modern IIIF image viewer plugin for Vue 3, built on OpenSeadragon. Supports IIIF Image API 2.x/3.x and Presentation API multi-canvas reading, with built-in i18n, theming and responsive UI.",
+      "license": "MIT",
+      "repository": "https://github.com/tony2y/iiif-viewer",
+      "npmUrl": "https://www.npmjs.com/package/%40tony2y%2Fiiif-viewer",
+      "category": "frontend",
+      "createdAt": "2026-09-22T13:25:53.685Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 89
     },
     {
       "name": "@tonydua/dsh-web-search-exa",
@@ -74618,6 +74762,18 @@
       "score": 61
     },
     {
+      "name": "code-search-jev",
+      "version": "1.0.0",
+      "description": "Budgeted semantic code search: four-channel lexical retrieval, compact Jev routing and verdicts, and an index-time definition-ness signal",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/voxmenthe/code-search-jev",
+      "npmUrl": "https://www.npmjs.com/package/code-search-jev",
+      "category": "cli",
+      "createdAt": "2026-09-22T06:53:40.615Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 87
+    },
+    {
       "name": "code-vcli",
       "version": "1.0.1",
       "description": "code-vcli — 为 AI 模型提供 web 开发视觉能力的 CLI 工具",
@@ -75360,6 +75516,18 @@
       "createdAt": "2026-08-01T09:56:37.657Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 89
+    },
+    {
+      "name": "connexo-accessibility-widget",
+      "version": "1.0.0",
+      "description": "Widget de accesibilidad completo en un solo archivo, sin dependencias. 11 controles (contraste, dislexia, lector de voz, guía de lectura, cursor grande y más). Se integra en cualquier web en menos de 5 minutos.",
+      "license": "MIT",
+      "repository": "https://github.com/TU_USUARIO/connexo-accessibility-widget",
+      "npmUrl": "https://www.npmjs.com/package/connexo-accessibility-widget",
+      "category": "devops",
+      "createdAt": "2026-09-22T16:27:33.250Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 100
     },
     {
       "name": "consent-gate",
@@ -79202,6 +79370,18 @@
       "score": 90
     },
     {
+      "name": "dsh-chat-export",
+      "version": "0.1.0",
+      "description": "Readable transcript export for DeepSeek Harness: turn any Session into a Markdown / HTML / ZIP transcript with reasoning blocks, tool calls and results, images and usage — from the Session header or the /export-md command.",
+      "license": "MIT",
+      "repository": "https://github.com/DDDMUC/dsh-chat-export",
+      "npmUrl": "https://www.npmjs.com/package/dsh-chat-export",
+      "category": "utilities",
+      "createdAt": "2026-09-22T08:25:49.038Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 90
+    },
+    {
       "name": "dsh-chat-import",
       "version": "0.1.1",
       "description": "Import Claude Code / Codex / ChatGPT / Cursor / Gemini conversation histories as resumable DeepSeek Harness sessions",
@@ -79608,6 +79788,18 @@
       "createdAt": "2026-09-06T08:47:58.578Z",
       "discoveredAt": "2026-09-06T15:21:41.212Z",
       "score": 90
+    },
+    {
+      "name": "dsh-edit-turn",
+      "version": "0.1.1",
+      "description": "Edit any user turn in DeepSeek Harness and re-run it: an inline editor on the message row rolls the conversation back to just before that turn through the official surface-replace contract, then re-prompts the agent with the revised text. The append-only",
+      "license": "MIT",
+      "repository": "https://github.com/DDDMUC/dsh-edit-turn",
+      "npmUrl": "https://www.npmjs.com/package/dsh-edit-turn",
+      "category": "devops",
+      "createdAt": "2026-09-22T09:13:09.848Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 88
     },
     {
       "name": "dsh-element-source",
@@ -88646,6 +88838,18 @@
       "score": 90
     },
     {
+      "name": "im-in-danger",
+      "version": "0.2.0",
+      "description": "Stranger danger for AI agents: detect prompt injection in content your agent fetches, before it reads it. Runs on TypeSafe's Jev System One model by default, with local and keyword detectors. Benchmarked.",
+      "license": "MIT",
+      "repository": "https://github.com/kaiserama/im-in-danger",
+      "npmUrl": "https://www.npmjs.com/package/im-in-danger",
+      "category": "utilities",
+      "createdAt": "2026-09-22T13:58:23.224Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 90
+    },
+    {
       "name": "im-notify-kit",
       "version": "0.2.0",
       "description": "飞书 / 企业微信群机器人通知的发送层：业务码校验、重试、超时、告警去重、卡片构建器。零依赖，跨 Node / Cloudflare Workers / Deno。Send layer for Feishu (Lark) & WeCom bot webhooks — biz-code aware, retrying, timeout-guarded, with alert dedupe.",
@@ -90024,6 +90228,18 @@
       "createdAt": "2026-08-01T11:46:40.065Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 73
+    },
+    {
+      "name": "jsonseo",
+      "version": "1.0.0",
+      "description": "Официальный SDK JSON SEO API: выдача Яндекса, Google и Bing, Вордстат, прогноз Директа и геолокация по IP",
+      "license": "MIT",
+      "repository": "https://github.com/jsonseo/node-sdk",
+      "npmUrl": "https://www.npmjs.com/package/jsonseo",
+      "category": "backend",
+      "createdAt": "2026-09-22T15:57:00.300Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 88
     },
     {
       "name": "jtcsv-excel",
@@ -93228,6 +93444,18 @@
       "createdAt": "2026-08-11T21:09:35.006Z",
       "discoveredAt": "2026-08-11T21:26:17.748Z",
       "score": 49
+    },
+    {
+      "name": "mailfornet",
+      "version": "1.0.1",
+      "description": "Disposable email inboxes for automated tests. Create an inbox, sign up with it, and read the verification code back out — from your test code. Zero dependencies, TypeScript types included.",
+      "license": "MIT",
+      "repository": "https://github.com/CodewithAsif396/Temp-mail-gernator",
+      "npmUrl": "https://www.npmjs.com/package/mailfornet",
+      "category": "testing",
+      "createdAt": "2026-09-22T07:02:04.910Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 97
     },
     {
       "name": "maintainer-autopilot",
@@ -106118,6 +106346,18 @@
       "score": 64
     },
     {
+      "name": "prisma-postgrejs",
+      "version": "1.0.0",
+      "description": "Prisma driver adapter for PostgreJS - run a Prisma schema on PostgreJS's wire-protocol client",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/panates/postgrejs-prisma",
+      "npmUrl": "https://www.npmjs.com/package/prisma-postgrejs",
+      "category": "data",
+      "createdAt": "2026-09-22T16:08:12.543Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 89
+    },
+    {
       "name": "prisma-seed",
       "version": "1.0.0",
       "description": "Versioned, reversible database seeding for Prisma projects: run-once seeders, batches and rollback, with Laravel-style commands.",
@@ -106740,6 +106980,18 @@
       "createdAt": "2026-07-31T04:55:01.083Z",
       "discoveredAt": "2026-07-31T05:43:07.814Z",
       "score": 80
+    },
+    {
+      "name": "qrflow",
+      "version": "1.0.1",
+      "description": "QRFLOW.codes API client: create QR codes, change where dynamic codes point after printing, print them on your own domain, read scan analytics, verify webhooks. Zero dependencies; Node, Bun, Deno, Workers.",
+      "license": "MIT",
+      "repository": "https://github.com/nativecodeapps/qrflow-sdk",
+      "npmUrl": "https://www.npmjs.com/package/qrflow",
+      "category": "frontend",
+      "createdAt": "2026-09-22T04:35:56.344Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 88
     },
     {
       "name": "qrmaker-ts",
@@ -108467,6 +108719,18 @@
       "category": "frontend",
       "createdAt": "2026-08-16T13:04:58.084Z",
       "discoveredAt": "2026-08-16T13:34:16.553Z",
+      "score": 89
+    },
+    {
+      "name": "react-native-tv-recommended-content",
+      "version": "1.1.0",
+      "description": "Publish content to the Android TV / Google TV home screen from your React Native app to the \"Continue Watching\" (Watch Next) row, and your own fully custom recommendation channels",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/MadeByRaymond/react-native-tv-recommended-content",
+      "npmUrl": "https://www.npmjs.com/package/react-native-tv-recommended-content",
+      "category": "frontend",
+      "createdAt": "2026-09-22T14:35:57.756Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
       "score": 89
     },
     {
@@ -112826,6 +113090,18 @@
       "score": 88
     },
     {
+      "name": "slotsmith",
+      "version": "1.0.0",
+      "description": "A headless React component library: every part is a slot you can replace, with plain-HTML fallbacks. Starting with the data table.",
+      "license": "ISC",
+      "repository": "https://github.com/tmzm/slotsmith",
+      "npmUrl": "https://www.npmjs.com/package/slotsmith",
+      "category": "frontend",
+      "createdAt": "2026-09-22T13:57:31.972Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 91
+    },
+    {
       "name": "smallcrm",
       "version": "0.0.1",
       "description": "SmallCRM scrm prototype: agent-shaped structured project state.",
@@ -113760,6 +114036,18 @@
       "createdAt": "2026-07-27T19:44:53.968Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 91
+    },
+    {
+      "name": "ssh-orbit",
+      "version": "1.0.3",
+      "description": "A secure, high-performance Model Context Protocol (MCP) server for SSH command execution and remote file operations",
+      "license": "MIT",
+      "repository": "https://github.com/ahmedyusef9/ssh-orbit",
+      "npmUrl": "https://www.npmjs.com/package/ssh-orbit",
+      "category": "backend",
+      "createdAt": "2026-09-22T11:50:47.002Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 89
     },
     {
       "name": "sshepherd",
@@ -115692,6 +115980,18 @@
       "createdAt": "2026-09-13T10:08:59.224Z",
       "discoveredAt": "2026-09-13T16:05:49.078Z",
       "score": 90
+    },
+    {
+      "name": "team-relay-mcp",
+      "version": "1.0.1",
+      "description": "An MCP server that lets teammates' separate local Claude Code sessions exchange questions, answers, and decisions through a shared chat channel — each on their own Claude subscription, no API key, no central server.",
+      "license": "MIT",
+      "repository": "https://github.com/slihump/team-relay-mcp",
+      "npmUrl": "https://www.npmjs.com/package/team-relay-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-22T11:34:52.057Z",
+      "discoveredAt": "2026-09-22T16:46:05.934Z",
+      "score": 96
     },
     {
       "name": "teamcity-qa-mcp",
