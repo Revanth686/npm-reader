@@ -1,19 +1,39 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 131740617,
-  "lastRunAt": "2026-09-21T18:09:38.027Z",
+  "lastSequence": 131821503,
+  "lastRunAt": "2026-09-22T04:35:16.646Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@team-ops-org-ornis-rases-prore-sumph/team-ops-pkg-ksars-bajus-deify-siped",
-      "attempts": 2
+      "attempts": 3
     },
     {
       "name": "@nimbusedge2/xa",
+      "attempts": 2
+    },
+    {
+      "name": "@relkit/effect-mq",
       "attempts": 1
     },
     {
-      "name": "@gottheflag/ui",
+      "name": "@relkit/trigger",
+      "attempts": 1
+    },
+    {
+      "name": "@relkit/inngest",
+      "attempts": 1
+    },
+    {
+      "name": "@smiling-shiba/sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@museumwnf/archaeology-data",
+      "attempts": 1
+    },
+    {
+      "name": "@museumwnf/architectural-elements-data",
       "attempts": 1
     }
   ]
