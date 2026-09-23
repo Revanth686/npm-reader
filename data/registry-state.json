@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 131954256,
-  "lastRunAt": "2026-09-22T16:46:05.934Z",
+  "lastSequence": 132051233,
+  "lastRunAt": "2026-09-23T04:31:37.319Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@team-ops-org-ornis-rases-prore-sumph/team-ops-pkg-ksars-bajus-deify-siped",
-      "attempts": 4
+      "attempts": 5
     },
     {
       "name": "@nimbusedge2/xa",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@openclidev/specification",
+      "name": "@tinoy/pi-ext-lib",
+      "attempts": 1
+    },
+    {
+      "name": "@tinoy/pi-canon",
+      "attempts": 1
+    },
+    {
+      "name": "@okfit/lsp",
       "attempts": 1
     }
   ]

@@ -12938,6 +12938,30 @@
       "score": 64
     },
     {
+      "name": "@crvouga/mockingbird-service-bedrock",
+      "version": "0.1.0",
+      "description": "Stateful, scriptable mock of AWS Bedrock Runtime (Converse, ConverseStream, InvokeModel incl. Titan embeddings, Nova Sonic bidirectional streams over h2c) and AgentCore InvokeHarness, with exact event-stream framing.",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/mockingbird",
+      "npmUrl": "https://www.npmjs.com/package/%40crvouga%2Fmockingbird-service-bedrock",
+      "category": "utilities",
+      "createdAt": "2026-09-22T23:52:49.588Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
+    },
+    {
+      "name": "@crvouga/mockingbird-service-oauth",
+      "version": "0.1.0",
+      "description": "Portable social-login mock with Google, Apple, Microsoft, GitHub and generic OIDC profiles, private relay identities, reproducible edge cases, signed tokens and an accessible UI.",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/mockingbird",
+      "npmUrl": "https://www.npmjs.com/package/%40crvouga%2Fmockingbird-service-oauth",
+      "category": "devops",
+      "createdAt": "2026-09-22T23:55:48.130Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 87
+    },
+    {
       "name": "@crystal-node/runtime",
       "version": "1.0.0",
       "description": "Runtimes Node para relatórios migrados do Crystal Reports: controllers, funções Crystal, engines PDF (devbox, puppeteer, wkhtmltopdf, weasyprint) e rotas automáticas *Report.",
@@ -14604,6 +14628,18 @@
       "createdAt": "2026-08-09T08:42:41.738Z",
       "discoveredAt": "2026-08-09T09:19:59.096Z",
       "score": 58
+    },
+    {
+      "name": "@devxeazy/cron-cli",
+      "version": "0.1.0",
+      "description": "One table for everything scheduled on a Linux box: user crontab, /etc/crontab, /etc/cron.d, run-parts and systemd timers — plus a preflight that says why a job will fail before it fires.",
+      "license": "MIT",
+      "repository": "https://github.com/devxeazy/cron-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40devxeazy%2Fcron-cli",
+      "category": "cli",
+      "createdAt": "2026-09-22T19:14:40.870Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 88
     },
     {
       "name": "@dexgate/decision-middleware",
@@ -19716,6 +19752,30 @@
       "createdAt": "2026-08-14T14:43:52.808Z",
       "discoveredAt": "2026-08-14T15:01:05.305Z",
       "score": 67
+    },
+    {
+      "name": "@flashylabs/wdk-capability-audit",
+      "version": "0.1.0",
+      "description": "Scan a project's node_modules for installed @tetherto/wdk-* packages and report what chains each declares — mainnet, testnet, or unknown, against a small hand-maintained registry of chain identifiers this package is confident are real. Never guesses at a",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/FlashyLabs/wdk-capability-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40flashylabs%2Fwdk-capability-audit",
+      "category": "testing",
+      "createdAt": "2026-09-22T18:59:17.909Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
+    },
+    {
+      "name": "@flashylabs/wdk-policy-guard",
+      "version": "0.1.2",
+      "description": "A spending-policy layer for wallets built on Tether's WDK (or any wallet SDK): grade a transfer against a per-agent envelope — kind, chain, asset and destination allowlists, a per-transaction cap, a daily cap, an auto-approve ceiling — before it signs. AL",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/FlashyLabs/wdk-policy-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40flashylabs%2Fwdk-policy-guard",
+      "category": "utilities",
+      "createdAt": "2026-09-22T18:32:03.114Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 88
     },
     {
       "name": "@flaskbb/markdown-toolbar-element",
@@ -32126,6 +32186,18 @@
       "score": 66
     },
     {
+      "name": "@jusev/react-native-fold",
+      "version": "0.1.0",
+      "description": "Foldable and shared-display layout signals for React Native. Built for iPhone Duo and iOS 27.1 reserved regions: where the fold is, which half is which, and which edge your toolbar belongs on.",
+      "license": "MIT",
+      "repository": "https://github.com/jusev/react-native-fold",
+      "npmUrl": "https://www.npmjs.com/package/%40jusev%2Freact-native-fold",
+      "category": "frontend",
+      "createdAt": "2026-09-22T22:30:47.380Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 89
+    },
+    {
       "name": "@juspay/workforge",
       "version": "1.0.0",
       "description": "Smart Git workspace manager with automatic environment setup, Jira integration, and intelligent package management",
@@ -36684,6 +36756,18 @@
       "createdAt": "2026-08-11T11:58:11.076Z",
       "discoveredAt": "2026-08-11T12:44:28.595Z",
       "score": 70
+    },
+    {
+      "name": "@mambalabsdev/mcp-link-in-bio-newsletter-checker",
+      "version": "1.0.1",
+      "description": "MCP server for the Mamba Labs Link in Bio Scraper and Newsletter Detector actor on Apify. Creator handles or link in bio URLs in, a newsletter verdict and contact details out.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-link-in-bio-newsletter-checker",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-link-in-bio-newsletter-checker",
+      "category": "backend",
+      "createdAt": "2026-09-22T15:21:24.413Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 91
     },
     {
       "name": "@mambalabsdev/mcp-linkedin-company-presence-mapper",
@@ -48866,6 +48950,18 @@
       "score": 87
     },
     {
+      "name": "@randomknights/micr0pad",
+      "version": "0.1.0",
+      "description": "Live AI-agent status lights on a Work Louder Codex Micro or Creator Micro 2: per-key RGB driven by Herdr agent state, a browser mirror, voice-to-text and AiEDs energy estimates. Node, raw HID, no vendor app.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/random-knights/micr0pad",
+      "npmUrl": "https://www.npmjs.com/package/%40randomknights%2Fmicr0pad",
+      "category": "frontend",
+      "createdAt": "2026-09-22T22:02:18.668Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
+    },
+    {
       "name": "@rapid-rn/create",
       "version": "0.1.1",
       "description": "⚡ Create production-ready React Native + Expo apps in seconds. Interactive CLI that scaffolds Auth, Navigation, Theme System, Storage, Bottom Sheet and more — fully wired and typed.",
@@ -51060,6 +51156,18 @@
       "createdAt": "2026-08-08T10:14:34.873Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 70
+    },
+    {
+      "name": "@rqbctg/spec-writer",
+      "version": "0.0.1",
+      "description": "Software specification and product documentation chain: MRD, BRD, PRD, Design Spec, TRD, and QA Test Plan, built on ISO/IEC/IEEE 29148, 29119-3, 25010, BABOK v3, and WCAG 2.2. Installs into Claude Code, Cursor, Copilot, or any AGENTS.md agent, and prints",
+      "license": "MIT",
+      "repository": "https://github.com/rqbctg/spec-writer",
+      "npmUrl": "https://www.npmjs.com/package/%40rqbctg%2Fspec-writer",
+      "category": "testing",
+      "createdAt": "2026-09-22T20:25:44.473Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
     },
     {
       "name": "@rryando/darcs",
@@ -59030,6 +59138,18 @@
       "score": 77
     },
     {
+      "name": "@timiagama/ecr",
+      "version": "0.1.0",
+      "description": "Explicit Constraint Referencing (ECR): a Markdown convention that helps reduce coding-agent errors by turning cross-references in architecture docs into a graph that agents can navigate with grep. Agents gain IDE-like \"Go to Definition\" and \"Find all refe",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/timiagama/ecr",
+      "npmUrl": "https://www.npmjs.com/package/%40timiagama%2Fecr",
+      "category": "devops",
+      "createdAt": "2026-09-23T01:50:47.120Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
+    },
+    {
       "name": "@timo972/cc-router",
       "version": "0.7.0",
       "description": "Cache-aware session router for Claude Max OAuth tokens — use multiple Claude Max accounts with Claude Code",
@@ -60396,6 +60516,18 @@
       "createdAt": "2026-08-10T20:35:17.037Z",
       "discoveredAt": "2026-08-10T21:22:02.347Z",
       "score": 51
+    },
+    {
+      "name": "@unificando/prompts",
+      "version": "2.0.0",
+      "description": "Prompts modulares e versionados para auditoria, implementação, testes, segurança, conteúdo e SEO, com avaliações de comportamento.",
+      "license": "MIT",
+      "repository": "https://github.com/Unificando/prompts",
+      "npmUrl": "https://www.npmjs.com/package/%40unificando%2Fprompts",
+      "category": "testing",
+      "createdAt": "2026-09-11T02:36:26.818Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 87
     },
     {
       "name": "@unikraft/cloud",
@@ -66542,6 +66674,18 @@
       "score": 78
     },
     {
+      "name": "ada-agent-wallet",
+      "version": "0.1.0",
+      "description": "Out-of-process spend control for AI agents paying with x402: per-tx and rolling caps, payee allowlist, human approval, and a hash-chained audit log — enforced in a separate daemon that holds the key, not in the agent. Settles on Cardano.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/loveaihq/ada-agent-wallet",
+      "npmUrl": "https://www.npmjs.com/package/ada-agent-wallet",
+      "category": "utilities",
+      "createdAt": "2026-09-23T02:23:18.803Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 88
+    },
+    {
       "name": "add-fabien-skills",
       "version": "0.1.0",
       "description": "Installe les skills de Fabien-skills dans Claude Code, en une commande.",
@@ -71760,6 +71904,18 @@
       "createdAt": "2026-07-26T19:52:29.534Z",
       "discoveredAt": "2026-07-26T20:47:59.221Z",
       "score": 79
+    },
+    {
+      "name": "breadcrumb-nav",
+      "version": "1.0.0",
+      "description": "Tiny, SEO-correct breadcrumb navigation for any JavaScript project: infers the trail from the URL or a type-checked route list, renders accessible markup and schema.org BreadcrumbList JSON-LD. React, Next.js and a plain custom element, styled with Tailwin",
+      "license": "MIT",
+      "repository": "https://github.com/bronz3beard/breadcrumb-nav",
+      "npmUrl": "https://www.npmjs.com/package/breadcrumb-nav",
+      "category": "frontend",
+      "createdAt": "2026-09-22T19:35:27.371Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 100
     },
     {
       "name": "breaklint",
@@ -83870,6 +84026,18 @@
       "score": 85
     },
     {
+      "name": "fact-gate",
+      "version": "1.2.0",
+      "description": "Verify what an AI wrote against what is true. Blocks PR descriptions, READMEs, changelogs and reports that state a number, date, name or tool your diff, tests or facts contradict. Deterministic, zero dependencies, zero LLM calls. CLI, library, GitHub Acti",
+      "license": "MIT",
+      "repository": "https://github.com/AnonZ7/fact-gate",
+      "npmUrl": "https://www.npmjs.com/package/fact-gate",
+      "category": "testing",
+      "createdAt": "2026-09-22T23:40:58.445Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 100
+    },
+    {
       "name": "factlens",
       "version": "1.0.0",
       "description": "Official Node.js, TypeScript SDK, and CLI for the FactLens verification API",
@@ -90816,6 +90984,18 @@
       "createdAt": "2026-08-09T09:17:41.217Z",
       "discoveredAt": "2026-08-09T09:19:59.096Z",
       "score": 58
+    },
+    {
+      "name": "kilde",
+      "version": "0.0.1",
+      "description": "Signals, streams, and channels for JavaScript — synchronous reactivity, backpressured push streams, CSP-style coordination, and async state, with pluggable ownership. No dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/andershessellund/kilde",
+      "npmUrl": "https://www.npmjs.com/package/kilde",
+      "category": "frontend",
+      "createdAt": "2026-09-22T19:54:22.075Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 88
     },
     {
       "name": "kilo-plugin-nested-git-checkpoints",
@@ -99494,6 +99674,18 @@
       "score": 86
     },
     {
+      "name": "not-safe-for-hash",
+      "version": "1.0.0",
+      "description": "Human-readable unique id generator that only produces rude, obscene phrases. Random or hashed, fast, zero dependencies, dictionary included.",
+      "license": "MIT",
+      "repository": "https://github.com/joeyciechanowicz/not-safe-for-hash",
+      "npmUrl": "https://www.npmjs.com/package/not-safe-for-hash",
+      "category": "frontend",
+      "createdAt": "2026-09-21T20:50:55.001Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 89
+    },
+    {
       "name": "note-ticket",
       "version": "0.1.0",
       "description": "Markdown-frontmatter ticket tracker: `tk` CLI plus a TicketManager library API",
@@ -99888,6 +100080,18 @@
       "createdAt": "2026-07-31T15:34:30.815Z",
       "discoveredAt": "2026-07-31T15:56:07.612Z",
       "score": 82
+    },
+    {
+      "name": "nx-ruby-on-rails",
+      "version": "0.1.1",
+      "description": "Nx plugin for Ruby and Ruby on Rails: Gemfile-based project inference, path-gem project-graph edges, and Bundler analogues of prune-lockfile / copy-workspace-modules for folder-scoped Docker builds.",
+      "license": "MIT",
+      "repository": "https://github.com/Manuel-Antunes/nx-ruby-on-rails",
+      "npmUrl": "https://www.npmjs.com/package/nx-ruby-on-rails",
+      "category": "build-tools",
+      "createdAt": "2026-09-23T00:13:15.520Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 87
     },
     {
       "name": "nx-speed",
@@ -105086,6 +105290,18 @@
       "score": 58
     },
     {
+      "name": "picowebpjs",
+      "version": "1.0.0",
+      "description": "Pure-TypeScript WebP encoder: writes VP8 lossy WebP (with alpha and ICC) from PNG, baseline JPEG, BMP or raw pixels. No native bindings, no WASM, no libwebp.",
+      "license": "MIT",
+      "repository": "https://github.com/lame13/picowebpjs",
+      "npmUrl": "https://www.npmjs.com/package/picowebpjs",
+      "category": "build-tools",
+      "createdAt": "2026-09-23T01:32:31.015Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 92
+    },
+    {
       "name": "pict-externalui",
       "version": "1.0.0",
       "description": "Host a pict application over a socket-first external UI protocol, so native providers (Godot, Tauri, and others) render its views.",
@@ -108410,6 +108626,30 @@
       "score": 90
     },
     {
+      "name": "react-native-nitro-hinge",
+      "version": "1.0.1",
+      "description": "Native size class, safe insets, and hinge geometry for React Native. Nitro-backed. iOS + Android. One API for phones, tablets, foldables, tri-folds, iPhone Duo — and whatever ships next.",
+      "license": "MIT",
+      "repository": "https://github.com/Gautham495/react-native-nitro-hinge",
+      "npmUrl": "https://www.npmjs.com/package/react-native-nitro-hinge",
+      "category": "frontend",
+      "createdAt": "2026-09-22T16:51:41.909Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
+    },
+    {
+      "name": "react-native-nitro-input",
+      "version": "0.1.0",
+      "description": "Native text and amount input for React Native with Torph-style text morphing: characters slide, fade and reflow as you type, currency formatting applied natively, no JS round trip. Built with Nitro.",
+      "license": "MIT",
+      "repository": "https://github.com/ronickg/react-native-nitro-rolling-number",
+      "npmUrl": "https://www.npmjs.com/package/react-native-nitro-input",
+      "category": "frontend",
+      "createdAt": "2026-09-23T02:11:58.757Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 87
+    },
+    {
       "name": "react-native-nitro-logger",
       "version": "0.1.1",
       "description": "Structured, privacy-tiered logging for React Native — TS core with a native Nitro file/os_log sink",
@@ -109848,6 +110088,18 @@
       "createdAt": "2026-07-27T02:05:19.327Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 65
+    },
+    {
+      "name": "retrocommit",
+      "version": "1.0.0",
+      "description": "Fill the gaps in your GitHub contribution graph with backdated commits. Fully configurable, straight from your terminal.",
+      "license": "MIT",
+      "repository": "https://github.com/abpineda/retrocommit",
+      "npmUrl": "https://www.npmjs.com/package/retrocommit",
+      "category": "cli",
+      "createdAt": "2026-09-23T02:18:08.860Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 92
     },
     {
       "name": "retronvim",
@@ -112056,6 +112308,18 @@
       "createdAt": "2026-07-30T22:25:06.621Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 67
+    },
+    {
+      "name": "shield360",
+      "version": "1.0.0",
+      "description": "OpenTelemetry-native instrumentation and guardrails for LLM applications: tracing, cost attribution, PII and prompt-injection detection.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ThinkfleetAI/shield360-js",
+      "npmUrl": "https://www.npmjs.com/package/shield360",
+      "category": "devops",
+      "createdAt": "2026-09-22T20:13:32.172Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 93
     },
     {
       "name": "shiki-umd",
@@ -116102,6 +116366,18 @@
       "score": 79
     },
     {
+      "name": "tenant-ledger",
+      "version": "1.0.0",
+      "description": "Append-only, event-sourced, multi-tenant accounting core extracted from a production SaaS. No runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/robertciudica/tenant-ledger",
+      "npmUrl": "https://www.npmjs.com/package/tenant-ledger",
+      "category": "data",
+      "createdAt": "2026-09-22T21:44:39.591Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 89
+    },
+    {
       "name": "tenderpulse-mcp",
       "version": "2.1.0",
       "description": "Search Indian government tenders (GeM, CPPP, DefProc, Maharashtra, UP) from Claude, Cursor, or any MCP client",
@@ -117830,6 +118106,18 @@
       "score": 62
     },
     {
+      "name": "tutorloop",
+      "version": "0.1.0",
+      "description": "Graded coding exercises inside a chat. The assistant writes the lesson and the hidden tests, the widget runs them in the browser, and a failed attempt goes back into the conversation so the tutor explains your specific mistake. Python, JavaScript, TypeScr",
+      "license": "MIT",
+      "repository": "https://github.com/1hsanullah/tutorloop",
+      "npmUrl": "https://www.npmjs.com/package/tutorloop",
+      "category": "testing",
+      "createdAt": "2026-09-22T19:57:16.474Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
+    },
+    {
       "name": "tuxevil-rotator",
       "version": "3.0.0",
       "description": "Multi-provider, multi-account AI proxy rotator with per-model routing, real-time quota tracking, and infringement detection (Google Antigravity, Ollama Cloud)",
@@ -118788,6 +119076,18 @@
       "createdAt": "2026-08-09T03:59:19.472Z",
       "discoveredAt": "2026-08-09T04:56:39.437Z",
       "score": 58
+    },
+    {
+      "name": "useless-buttons",
+      "version": "0.1.1",
+      "description": "A collection of needlessly elaborate buttons — Web Components buttons with a Rust/wasm simulation (boids, falling sand, Conway's Life, Mandelbrot, bouncing pixels, a first-person maze crawl) painted on their canvas background.",
+      "license": "MIT",
+      "repository": "https://github.com/Pyongpyong/useless-buttons",
+      "npmUrl": "https://www.npmjs.com/package/useless-buttons",
+      "category": "devops",
+      "createdAt": "2026-09-23T01:27:00.060Z",
+      "discoveredAt": "2026-09-23T04:31:37.319Z",
+      "score": 90
     },
     {
       "name": "usertrust-acs-adapter",
