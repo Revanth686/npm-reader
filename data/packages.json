@@ -11210,6 +11210,18 @@
       "score": 57
     },
     {
+      "name": "@citratelabs/sdk",
+      "version": "0.2.2",
+      "description": "Canonical TypeScript/JavaScript SDK for the Citrate distributed AI network. This is the canonical SDK — all other language SDKs are non-canonical until a real pilot integrator requires parity.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/CitrateNetwork/citrate-sdk-js",
+      "npmUrl": "https://www.npmjs.com/package/%40citratelabs%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-07-26T21:50:06.960Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 85
+    },
+    {
       "name": "@cixzhang/brownie",
       "version": "0.2.0",
       "description": "Markup-first web component library with zero-build, Shadow DOM, and SSR with Declarative Shadow DOM",
@@ -11844,6 +11856,18 @@
       "createdAt": "2026-07-25T13:59:32.279Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 84
+    },
+    {
+      "name": "@codecompass/cli",
+      "version": "0.31.0",
+      "description": "CodeCompass — deterministic AST-based architecture cockpit and MCP server: call chains, cross-stack root-cause diagnosis, blast-radius planning, module evolution and domain radar for Java/TS/Python/Go repos.",
+      "license": "MIT",
+      "repository": "https://github.com/shing26/CodeCompass",
+      "npmUrl": "https://www.npmjs.com/package/%40codecompass%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-09-25T00:40:21.213Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
     },
     {
       "name": "@codedia/parser",
@@ -14304,6 +14328,18 @@
       "createdAt": "2026-08-09T04:52:26.960Z",
       "discoveredAt": "2026-08-09T05:43:45.675Z",
       "score": 50
+    },
+    {
+      "name": "@dentalrx/n8n-nodes-appwrite",
+      "version": "0.1.0",
+      "description": "n8n community node for the Appwrite API: TablesDB, DocumentsDB and VectorsDB databases, dedicated databases, storage, functions, sites, users, teams and accounts, messaging, and project administration",
+      "license": "MIT",
+      "repository": "https://github.com/DentalRx/n8n-nodes-appwrite",
+      "npmUrl": "https://www.npmjs.com/package/%40dentalrx%2Fn8n-nodes-appwrite",
+      "category": "backend",
+      "createdAt": "2026-09-24T18:46:41.142Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
     },
     {
       "name": "@dependably/sdd",
@@ -18986,6 +19022,18 @@
       "score": 57
     },
     {
+      "name": "@factuarea/mcp",
+      "version": "0.1.0",
+      "description": "Local stdio bridge to the hosted Factuarea MCP server: Spanish invoicing, VeriFactu (AEAT), quotes, contacts, products and taxes as tools for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/factuarea/factuarea-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40factuarea%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-09-24T21:50:26.154Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 85
+    },
+    {
       "name": "@facundolizarraga/portfolio-characters",
       "version": "0.1.1",
       "description": "A hand-drawn SVG desk character for developer portfolios: fully composable parts, a scripted terminal on its laptop, and a scroll-dock that follows the reader.",
@@ -19164,6 +19212,18 @@
       "createdAt": "2026-08-11T12:07:29.351Z",
       "discoveredAt": "2026-08-12T03:57:46.727Z",
       "score": 68
+    },
+    {
+      "name": "@faultscope/node",
+      "version": "1.1.0",
+      "description": "Universal FaultScope SDK for Node.js, Express, Fastify, Koa, NestJS, Next.js, Nuxt, React, Vue and more.",
+      "license": "MIT",
+      "repository": "https://github.com/FaultScope-Exception-Tracking/node-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40faultscope%2Fnode",
+      "category": "frontend",
+      "createdAt": "2026-09-24T20:24:57.621Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
     },
     {
       "name": "@fazelstudio/codemirror-breadcrumbs",
@@ -28154,6 +28214,18 @@
       "score": 79
     },
     {
+      "name": "@himz-genui/core",
+      "version": "1.0.0",
+      "description": "Contract-driven UI for coding agents. Ship component contracts, let the agent materialize them once, compose screens from them, and gate every step with a deterministic check.",
+      "license": "MIT",
+      "repository": "https://github.com/Himz-Hung/Gen-UI",
+      "npmUrl": "https://www.npmjs.com/package/%40himz-genui%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-09-25T03:12:33.942Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 97
+    },
+    {
       "name": "@hintdata/js",
       "version": "1.0.0",
       "description": "Подсказки и стандартизация данных hint-data: data-клиент HintData + готовый виджет attachHints с кастомизацией (zero-deps).",
@@ -35630,6 +35702,18 @@
       "score": 89
     },
     {
+      "name": "@lokalise/load-testing-utils",
+      "version": "1.0.0",
+      "description": "Building blocks for a local load-test stack: bring up a service with its datastores and fakes, run k6 against it, report what the run cost, and tear it all down again.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/lokalise/shared-ts-libs",
+      "npmUrl": "https://www.npmjs.com/package/%40lokalise%2Fload-testing-utils",
+      "category": "testing",
+      "createdAt": "2026-09-24T17:15:50.360Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 87
+    },
+    {
       "name": "@lokascript/domains",
       "version": "2.11.0",
       "description": "The LokaScript multilingual domain-DSL family in one package — SQL, flow, BDD, JSX, LLM, todo, voice, learn and more, each multilingual from day one. Subpath exports per domain; the root entry wires the full registry.",
@@ -36108,6 +36192,18 @@
       "createdAt": "2026-08-02T11:15:49.090Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 67
+    },
+    {
+      "name": "@loranrendel/versoly-ui",
+      "version": "3.0.1",
+      "description": "Versoly UI - Tailwind CSS 4 framework based on Bootstrap",
+      "license": "MIT",
+      "repository": "https://github.com/LoranRendel/versoly-ui-tailwind4",
+      "npmUrl": "https://www.npmjs.com/package/%40loranrendel%2Fversoly-ui",
+      "category": "frontend",
+      "createdAt": "2026-09-24T02:54:33.305Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 85
     },
     {
       "name": "@loregpt/mcp",
@@ -50054,6 +50150,18 @@
       "score": 73
     },
     {
+      "name": "@rekt-protocol/sdk",
+      "version": "1.0.0",
+      "description": "Official TypeScript SDK for REKT (Rescue EVM Kit Tool) — Web3 defensive toolkit for rescuing compromised wallets, gas sponsorship, revoking allowances, and neutralizing EIP-7702 delegations.",
+      "license": "MIT",
+      "repository": "https://github.com/rekt-protocol/sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40rekt-protocol%2Fsdk",
+      "category": "build-tools",
+      "createdAt": "2026-09-25T02:55:36.393Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 93
+    },
+    {
       "name": "@relai-team/access-sdk",
       "version": "0.8.0",
       "description": "Official Relai Access SDK, open Relai Exchange Zone nodes over BLE, backed by the Relai Access platform (server-owns-trust).",
@@ -50424,6 +50532,18 @@
       "createdAt": "2026-08-03T22:36:13.569Z",
       "discoveredAt": "2026-08-03T23:15:27.142Z",
       "score": 61
+    },
+    {
+      "name": "@reposell/proagent",
+      "version": "0.16.0",
+      "description": "ProAgents — professional profiles for existing coding agents. Equip Claude Code, Codex, OpenCode and friends with professional expertise, methods, rules and verification. Also builds new specialized agent systems from incomplete ideas through progressive",
+      "license": "MIT",
+      "repository": "https://github.com/EnzoVezzaro/proagents",
+      "npmUrl": "https://www.npmjs.com/package/%40reposell%2Fproagent",
+      "category": "build-tools",
+      "createdAt": "2026-09-24T19:27:47.043Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
     },
     {
       "name": "@reptileroom/engine-ts",
@@ -57648,6 +57768,18 @@
       "createdAt": "2026-08-13T02:23:49.526Z",
       "discoveredAt": "2026-08-13T04:02:31.627Z",
       "score": 76
+    },
+    {
+      "name": "@systemfsoftware/stryker-framework-interface",
+      "version": "0.0.0",
+      "description": "The framework interface for StrykerJS-style mutation tooling — the plain framework object a plugin exports, its format claim, the embedded document and script regions it produces, and the toolkit context its hooks receive. Types only, with no runtime expo",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/systemfsoftware/stryker-js-effect",
+      "npmUrl": "https://www.npmjs.com/package/%40systemfsoftware%2Fstryker-framework-interface",
+      "category": "testing",
+      "createdAt": "2026-09-25T00:57:20.922Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 85
     },
     {
       "name": "@syted/next",
@@ -68606,6 +68738,18 @@
       "score": 75
     },
     {
+      "name": "ai-readiness-check",
+      "version": "0.1.0",
+      "description": "Check how ready a website is for AI crawlers, AI search, and AI agents: robots.txt, llms.txt, schema.org JSON-LD, Markdown pages, MCP discovery, and more. CLI, CI, and MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/tristandenyer/ai-readiness-check",
+      "npmUrl": "https://www.npmjs.com/package/ai-readiness-check",
+      "category": "cli",
+      "createdAt": "2026-09-24T18:48:30.927Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 87
+    },
+    {
       "name": "ai-ruleset",
       "version": "0.0.1",
       "description": "Resolve nested rules from runtime context, like a decision tree",
@@ -69443,6 +69587,18 @@
       "category": "testing",
       "createdAt": "2026-09-21T17:19:13.659Z",
       "discoveredAt": "2026-09-21T18:09:38.027Z",
+      "score": 89
+    },
+    {
+      "name": "angular-dockable-desktop",
+      "version": "1.0.0",
+      "description": "A dockable layout engine and window manager for Angular: split docking, tab groups, floating windows, and zero-unmount panels that keep their live state across every layout change.",
+      "license": "MIT",
+      "repository": "https://github.com/felipecarrillo100/angular-dockable-desktop",
+      "npmUrl": "https://www.npmjs.com/package/angular-dockable-desktop",
+      "category": "frontend",
+      "createdAt": "2026-09-24T23:52:17.888Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
       "score": 89
     },
     {
@@ -78842,6 +78998,18 @@
       "score": 74
     },
     {
+      "name": "devin-plugin-cc",
+      "version": "1.0.1",
+      "description": "Devin plugin for Claude Code and Codex: AI code reviews, delegated coding tasks, Fusion sidekick workflows, and cloud handoffs to app.devin.ai.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/TheOnlyFusionCube/devin-plugin-cc",
+      "npmUrl": "https://www.npmjs.com/package/devin-plugin-cc",
+      "category": "cli",
+      "createdAt": "2026-09-24T22:03:08.010Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 94
+    },
+    {
       "name": "devinpipe",
       "version": "0.1.0",
       "description": "Token-saving HTTPS intercepting proxy for Devin CLI: renders bulky context as dense PNGs and uploads them as attachments, cutting input characters/ACU.",
@@ -81900,6 +82068,18 @@
       "createdAt": "2026-08-15T03:58:54.619Z",
       "discoveredAt": "2026-08-15T04:21:38.044Z",
       "score": 69
+    },
+    {
+      "name": "dsh-remote-mesh",
+      "version": "1.0.0",
+      "description": "remote-workspaces: an end-to-end encrypted mesh that gives the DSH Web GUI a remote-workspaces section — other machines' workspaces and conversations, their full GUI proxied onto a local loopback port, and loopback port forwards for debugging remote pages",
+      "license": "MIT",
+      "repository": "https://github.com/DaBiGu/dsh-remote-mesh",
+      "npmUrl": "https://www.npmjs.com/package/dsh-remote-mesh",
+      "category": "utilities",
+      "createdAt": "2026-09-25T03:33:41.766Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 96
     },
     {
       "name": "dsh-remote-mobile",
@@ -96230,6 +96410,18 @@
       "score": 58
     },
     {
+      "name": "meldivo",
+      "version": "1.0.0",
+      "description": "Always-on local voice hub for coding agents: talk hands-free to your Pi, OpenCode, and Claude Code sessions from any browser or phone. Private on-device speech (Parakeet + Kokoro). No cloud speech APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/amirrouh/meldivo",
+      "npmUrl": "https://www.npmjs.com/package/meldivo",
+      "category": "frontend",
+      "createdAt": "2026-09-25T04:28:29.140Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 87
+    },
+    {
       "name": "melvex-design",
       "version": "1.1.0",
       "description": "Instalador oficial da skill Melvex Design com uma experiência de terminal própria.",
@@ -97032,6 +97224,18 @@
       "createdAt": "2026-08-30T12:24:18.129Z",
       "discoveredAt": "2026-08-30T16:33:33.661Z",
       "score": 92
+    },
+    {
+      "name": "modelpromote",
+      "version": "0.1.1",
+      "description": "A vendor-neutral change-control layer for swapping the AI model in a production application: evaluate, accept against a locked policy, approve, activate with read-back confirmation, verify from telemetry, roll back, and keep one portable migration record.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Theebban/modelpromote",
+      "npmUrl": "https://www.npmjs.com/package/modelpromote",
+      "category": "utilities",
+      "createdAt": "2026-09-24T18:30:30.435Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 86
     },
     {
       "name": "modeltree",
@@ -102470,6 +102674,18 @@
       "score": 79
     },
     {
+      "name": "opencode-vision-delegate",
+      "version": "0.1.0",
+      "description": "Visual bridge for opencode. Registers the native vision_analyze tool (model configured by the user via the opencode agent model override on vision-agent) with the vision-agent subagent as fallback, and teaches a text-only orchestrator to extract visual in",
+      "license": "MIT",
+      "repository": "https://github.com/ChengZiiii/opencode-vision-delegate",
+      "npmUrl": "https://www.npmjs.com/package/opencode-vision-delegate",
+      "category": "utilities",
+      "createdAt": "2026-09-24T20:45:16.353Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 86
+    },
+    {
       "name": "opencode-wecom-ping",
       "version": "1.0.0",
       "description": "OpenCode plugin: push WeChat Work (企业微信) notifications on reply complete / error / permission request",
@@ -102840,6 +103056,18 @@
       "createdAt": "2026-08-16T13:19:39.266Z",
       "discoveredAt": "2026-08-16T13:34:16.553Z",
       "score": 64
+    },
+    {
+      "name": "orbo-voice",
+      "version": "1.1.1",
+      "description": "A framework-agnostic, customizable AI voice orb built as a strict, SSR-safe web component.",
+      "license": "MIT",
+      "repository": "https://github.com/gojhonny/orbo",
+      "npmUrl": "https://www.npmjs.com/package/orbo-voice",
+      "category": "frontend",
+      "createdAt": "2026-09-24T18:48:18.618Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 89
     },
     {
       "name": "orc-smash",
@@ -104318,6 +104546,18 @@
       "score": 98
     },
     {
+      "name": "pi-495",
+      "version": "0.2.0",
+      "description": "Evidence-gated harness for coding agents, inside Pi. The checks are frozen before the change exists; it is accepted on evidence, never on the agent's word.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/jeanjerome/pi-495",
+      "npmUrl": "https://www.npmjs.com/package/pi-495",
+      "category": "testing",
+      "createdAt": "2026-09-23T13:31:50.146Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 85
+    },
+    {
       "name": "pi-account-pool",
       "version": "1.0.0",
       "description": "Named Anthropic and OpenAI Codex subscription accounts for Pi, with automatic visible failover on rate limits",
@@ -105252,6 +105492,18 @@
       "createdAt": "2026-09-09T12:24:20.178Z",
       "discoveredAt": "2026-09-09T16:27:25.877Z",
       "score": 93
+    },
+    {
+      "name": "pi-literature-review",
+      "version": "0.1.0",
+      "description": "Local, login-free literature review for the Pi coding agent: multi-source search (arXiv, Crossref, OpenAlex, Semantic Scholar) with HTTP-verified identifiers, legal open-access PDF selection, and grounded synthesis over local PDFs with page-exact citation",
+      "license": "MIT",
+      "repository": "https://github.com/flindenberger/pi-literature-review",
+      "npmUrl": "https://www.npmjs.com/package/pi-literature-review",
+      "category": "backend",
+      "createdAt": "2026-09-24T20:17:34.108Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 88
     },
     {
       "name": "pi-live-models",
@@ -110774,6 +111026,18 @@
       "score": 86
     },
     {
+      "name": "reqable-cli",
+      "version": "1.0.0",
+      "description": "Command-line front end for Reqable's local capture API: list, inspect, export and replay captured traffic without registering an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/arsonist-g/reqable-skill",
+      "npmUrl": "https://www.npmjs.com/package/reqable-cli",
+      "category": "backend",
+      "createdAt": "2026-09-24T20:47:07.719Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
+    },
+    {
       "name": "reqif-parser",
       "version": "0.1.0",
       "description": "A faithful, read-only ReqIF (Requirements Interchange Format) parser for TypeScript and Node.js. Parses .reqif and .reqifz into a typed model that mirrors the OMG spec, without interpreting it.",
@@ -111408,6 +111672,18 @@
       "createdAt": "2026-08-11T21:52:37.649Z",
       "discoveredAt": "2026-08-12T05:36:30.754Z",
       "score": 66
+    },
+    {
+      "name": "roman-catholic-church-calendar",
+      "version": "0.1.0",
+      "description": "Roman Catholic liturgical calendar (General Roman Calendar, US and Czech propers) as a zero-dependency TypeScript library and drop-in replacement for the Ruby church-calendar-api v0 JSON API.",
+      "license": "LGPL-3.0-or-later",
+      "repository": "https://github.com/Lumen-de-Lumine/church-calendar",
+      "npmUrl": "https://www.npmjs.com/package/roman-catholic-church-calendar",
+      "category": "backend",
+      "createdAt": "2026-09-24T19:36:58.030Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 85
     },
     {
       "name": "roost-top",
@@ -112836,6 +113112,18 @@
       "createdAt": "2026-08-06T00:24:40.347Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 81
+    },
+    {
+      "name": "serato-dj-mcp",
+      "version": "0.1.1",
+      "description": "Ask Claude or another AI assistant about your Serato DJ library: harmonic search by BPM and Camelot key, crate browsing, duplicate and missing-file audits, and new crates built with a preview before anything is written; runs locally and is not affiliated",
+      "license": "MIT",
+      "repository": "https://github.com/Venut-Technologies/serato-dj-mcp",
+      "npmUrl": "https://www.npmjs.com/package/serato-dj-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-18T23:05:50.606Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
     },
     {
       "name": "serpapi-ai-sdk-tools",
@@ -120504,6 +120792,18 @@
       "createdAt": "2026-08-13T19:37:39.219Z",
       "discoveredAt": "2026-08-13T19:47:27.555Z",
       "score": 95
+    },
+    {
+      "name": "vibe-coding-production",
+      "version": "0.9.1",
+      "description": "Production-grade vibe coding framework and CLI: specs, architecture, agent rules, testing, security, reviews, delivery, and safe lifecycle updates from idea to production.",
+      "license": "MIT",
+      "repository": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
+      "npmUrl": "https://www.npmjs.com/package/vibe-coding-production",
+      "category": "testing",
+      "createdAt": "2026-09-24T03:51:00.090Z",
+      "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 87
     },
     {
       "name": "vibe-engineering-framework",
