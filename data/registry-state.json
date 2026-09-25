@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 132540275,
-  "lastRunAt": "2026-09-25T04:39:59.696Z",
+  "lastSequence": 132665838,
+  "lastRunAt": "2026-09-25T17:02:04.816Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@birbalo/aliftech-ui",
-      "attempts": 2
+      "attempts": 3
     },
     {
-      "name": "@sylphx/repomap-linux-x64-gnu",
+      "name": "@odoro-cli/server-commerce",
+      "attempts": 1
+    },
+    {
+      "name": "@fmatar/archlens-skill",
+      "attempts": 1
+    },
+    {
+      "name": "@kgos/sdk",
+      "attempts": 1
+    },
+    {
+      "name": "@gumlet/ghos3",
+      "attempts": 1
+    },
+    {
+      "name": "@postsider/mcp",
       "attempts": 1
     }
   ]
