@@ -5426,6 +5426,18 @@
       "score": 85
     },
     {
+      "name": "@api-guardians/express-api-shield",
+      "version": "1.0.0",
+      "description": "Lightweight Express middleware for request IDs, Zod validation, structured errors, and role authorization.",
+      "license": "MIT",
+      "repository": "https://github.com/ishikajain-234/express-api-shield",
+      "npmUrl": "https://www.npmjs.com/package/%40api-guardians%2Fexpress-api-shield",
+      "category": "backend",
+      "createdAt": "2026-09-26T08:06:19.851Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 90
+    },
+    {
       "name": "@apilium/altretta-plugin",
       "version": "1.0.1",
       "description": "The altretta-plugin author CLI: keygen, pack (sign), and verify Altretta plugins. Ships a prebuilt native binary per platform, resolved at run time.",
@@ -18648,6 +18660,30 @@
       "createdAt": "2026-08-14T20:32:17.914Z",
       "discoveredAt": "2026-08-14T20:51:16.368Z",
       "score": 51
+    },
+    {
+      "name": "@etchv-labs/mcp-server",
+      "version": "1.0.0",
+      "description": "Model Context Protocol (MCP) server for Etchv: invisible watermarking and detection for images, PDFs and videos",
+      "license": "MIT",
+      "repository": "https://github.com/etchv-labs/mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40etchv-labs%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-09-26T15:48:01.258Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 91
+    },
+    {
+      "name": "@etchv-labs/sdk",
+      "version": "1.0.0",
+      "description": "Official Node.js SDK for the Etchv API: forensic watermarking and detection for images, PDFs and videos",
+      "license": "MIT",
+      "repository": "https://github.com/etchv-labs/node-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40etchv-labs%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-09-26T15:47:28.867Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 90
     },
     {
       "name": "@eternal-roman/ledger",
@@ -32066,6 +32102,18 @@
       "score": 67
     },
     {
+      "name": "@johnhenry/domable",
+      "version": "0.0.0",
+      "description": "Convert between HTML text, real DOM nodes, and React-element-shaped objects; build DOM directly with a createElement()-style hyperscript API; turn HTML strings (or DOM nodes) into Custom Element classes.",
+      "license": "MIT",
+      "repository": "https://github.com/johnhenry/domable",
+      "npmUrl": "https://www.npmjs.com/package/%40johnhenry%2Fdomable",
+      "category": "frontend",
+      "createdAt": "2026-09-26T14:57:29.515Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 88
+    },
+    {
       "name": "@johnhenry/iteration",
       "version": "0.0.0",
       "description": "Sync + async iterator algebra for TypeScript — transducers, Python-itertools parity, terminal consumers, bounded concurrency, cancellation, and backpressure-aware channels. Zero runtime dependencies.",
@@ -35534,6 +35582,18 @@
       "score": 85
     },
     {
+      "name": "@liquefy/cascade.reactive",
+      "version": "1.0.1",
+      "description": "Temporal signals: reactive programming with ES6 proxies, where readers and writers of the same data are ordered in time. The reactive engine of Cascade.",
+      "license": "ISC",
+      "repository": "https://github.com/erobwen/liquefy",
+      "npmUrl": "https://www.npmjs.com/package/%40liquefy%2Fcascade.reactive",
+      "category": "frontend",
+      "createdAt": "2026-09-26T12:42:24.904Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 89
+    },
+    {
       "name": "@liteasy/linter",
       "version": "1.1.8",
       "description": "A linter for EventCatalog to validate frontmatter and resource references",
@@ -36600,6 +36660,18 @@
       "createdAt": "2026-08-23T13:44:11.279Z",
       "discoveredAt": "2026-08-24T01:48:53.527Z",
       "score": 87
+    },
+    {
+      "name": "@luwiostack/theme",
+      "version": "0.1.0",
+      "description": "Headless theming for React — a JSON token config compiled to scoped CSS variables, with a `<Theme>` component, `scope()` markers, and `tokenRef` / `readToken`. Nearest-step and OKLCH-generated colour scales.",
+      "license": "MIT",
+      "repository": "https://github.com/Tactics/LuwioStack",
+      "npmUrl": "https://www.npmjs.com/package/%40luwiostack%2Ftheme",
+      "category": "frontend",
+      "createdAt": "2026-09-26T07:24:25.034Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 88
     },
     {
       "name": "@luxalgo/mcp",
@@ -39290,6 +39362,18 @@
       "score": 84
     },
     {
+      "name": "@mk24x7/janitor",
+      "version": "1.0.0",
+      "description": "Tidy every GitHub repo you own: descriptions, licenses, topics, stale forks, archive candidates. Dry run first, always.",
+      "license": "MIT",
+      "repository": "https://github.com/mk24x7/janitor",
+      "npmUrl": "https://www.npmjs.com/package/%40mk24x7%2Fjanitor",
+      "category": "cli",
+      "createdAt": "2026-09-26T05:09:37.322Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 91
+    },
+    {
       "name": "@mkdnsite/dmint",
       "version": "1.0.0",
       "description": "Download a Mintlify docs site as a local directory of Markdown files",
@@ -40956,6 +41040,18 @@
       "createdAt": "2026-08-08T16:15:00.647Z",
       "discoveredAt": "2026-08-08T16:22:14.014Z",
       "score": 73
+    },
+    {
+      "name": "@mrweicodes/dsh-loop-guard",
+      "version": "1.0.6",
+      "description": "Thinking-loop guard for dsh: observes the llm/stream waterfall and breaks a model that degrades into a loop. Detects two per-call shapes (reasoning-only calls, restated-material calls) and re-fires instead of latching; plus two mid-stream breakers that en",
+      "license": "MIT",
+      "repository": "https://github.com/MrWeiCodes/dsh-loop-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40mrweicodes%2Fdsh-loop-guard",
+      "category": "devops",
+      "createdAt": "2026-09-26T13:04:46.225Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 100
     },
     {
       "name": "@mrzr/api-client",
@@ -48084,6 +48180,18 @@
       "createdAt": "2026-07-27T20:13:56.540Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 83
+    },
+    {
+      "name": "@predictionmarketspicks/mcp",
+      "version": "1.11.0",
+      "description": "MCP server for Kalshi & Polymarket prediction markets — EV, Kelly, Bayes, cross-platform arbitrage, live edge signals, Kalshi 15-minute markets and perps, and an NFL draft assistant, with a publicly graded track record.",
+      "license": "MIT",
+      "repository": "https://github.com/predictionmarketspicks/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40predictionmarketspicks%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-08-18T23:47:37.945Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 99
     },
     {
       "name": "@primethoughts/primecredence-sdk",
@@ -61514,6 +61622,18 @@
       "score": 77
     },
     {
+      "name": "@unirate/qwik",
+      "version": "0.1.0",
+      "description": "Qwik & Qwik City integration for the UniRate currency-exchange API. Server-safe client factory, routeLoader$-ready loader factories, a server$-friendly data API, a useUniRate helper, and a key-hiding proxy handler. Zero runtime deps.",
+      "license": "MIT",
+      "repository": "https://github.com/UniRate-API/qwik-unirate",
+      "npmUrl": "https://www.npmjs.com/package/%40unirate%2Fqwik",
+      "category": "backend",
+      "createdAt": "2026-09-26T04:46:16.918Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 90
+    },
+    {
       "name": "@unirate/svelte",
       "version": "0.1.0",
       "description": "Svelte store integration for the UniRate currency-exchange API. createUniRate() returns reactive readable stores — rate, conversion, currencies, vatRates — each carrying { data, error, loading } with a refresh(). Zero runtime deps.",
@@ -62906,6 +63026,18 @@
       "score": 57
     },
     {
+      "name": "@viettelex/core",
+      "version": "1.0.0",
+      "description": "VietTelex Core — Vietnamese Telex/VNI input engine for the web (WebAssembly, same engine as the VietTelex apps). Full and lite builds, inlined or separate .wasm.",
+      "license": "MIT",
+      "repository": "https://github.com/ptrinh/viettelex",
+      "npmUrl": "https://www.npmjs.com/package/%40viettelex%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-09-26T12:20:49.394Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 88
+    },
+    {
       "name": "@viewmend/sdk",
       "version": "1.0.0",
       "description": "Official JavaScript and TypeScript SDK for ViewMend APIs, including server-side Site Tracker events.",
@@ -63348,6 +63480,18 @@
       "createdAt": "2026-07-30T10:38:54.568Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 69
+    },
+    {
+      "name": "@vucfoundation/vuc",
+      "version": "1.0.1",
+      "description": "Vortex Universal Connector & Governed Execution Protocol for AI Agents, MCP and LLMs",
+      "license": "MIT",
+      "repository": "https://github.com/scoobiii/vuc",
+      "npmUrl": "https://www.npmjs.com/package/%40vucfoundation%2Fvuc",
+      "category": "utilities",
+      "createdAt": "2026-09-26T11:06:23.477Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 88
     },
     {
       "name": "@vuduc0801/react-native-instagram-stories",
@@ -68030,6 +68174,18 @@
       "score": 63
     },
     {
+      "name": "agent-constitution",
+      "version": "1.0.0",
+      "description": "The Universal Behavioral Contract & Context Engine that turns any AI coding agent into a disciplined senior engineer.",
+      "license": "MIT",
+      "repository": "https://github.com/padhy-debug/agent-constitution",
+      "npmUrl": "https://www.npmjs.com/package/agent-constitution",
+      "category": "cli",
+      "createdAt": "2026-09-26T05:19:20.452Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 91
+    },
+    {
       "name": "agent-debrief",
       "version": "0.1.0",
       "description": "Snapshot-by-snapshot review of agent changes: snapshot each turn, diff snapshot-over-snapshot, batch line comments.",
@@ -68426,6 +68582,18 @@
       "score": 67
     },
     {
+      "name": "agent-tamper-guard",
+      "version": "0.1.0",
+      "description": "Stop AI coding agents from cheating your checks. Diff-aware guard that catches deleted or skipped tests, weakened assertions, @ts-ignore, test-runner detection, lowered coverage and disabled CI steps, with a Claude Code hook that blocks the agent until it",
+      "license": "MIT",
+      "repository": "https://github.com/santhoshkumarhari/agent-tamper-guard",
+      "npmUrl": "https://www.npmjs.com/package/agent-tamper-guard",
+      "category": "testing",
+      "createdAt": "2026-09-26T08:42:37.902Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 88
+    },
+    {
       "name": "agent-team-generator",
       "version": "0.1.0",
       "description": "Claude Code skill that scaffolds a disciplined AI agent team for a project: interview, AGENTS.md, CLAUDE.md, specialist subagents for Claude Code and OpenCode, an agent protocol, and a plain-English documentation system.",
@@ -68436,6 +68604,18 @@
       "createdAt": "2026-08-12T21:41:47.552Z",
       "discoveredAt": "2026-08-12T22:31:51.704Z",
       "score": 63
+    },
+    {
+      "name": "agent-thread-tools",
+      "version": "2.0.0",
+      "description": "CLI health checks, handoffs, session archives, visual archives, and recovery tools for OpenAI Codex and Claude Code session threads.",
+      "license": "MIT",
+      "repository": "https://github.com/zenzig/agent-thread-tools",
+      "npmUrl": "https://www.npmjs.com/package/agent-thread-tools",
+      "category": "cli",
+      "createdAt": "2026-09-26T13:37:52.565Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 93
     },
     {
       "name": "agent-tools-plugin-n8n",
@@ -68604,6 +68784,18 @@
       "createdAt": "2026-08-04T00:56:45.944Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 68
+    },
+    {
+      "name": "agentic-sdd-framework",
+      "version": "1.4.0",
+      "description": "Spec-Driven Development governance for AI coding agents: auto-loaded agent rules, specifications with recorded evidence, and a pre-push quality gate",
+      "license": "MIT",
+      "repository": "https://github.com/tBeltty/agentic-sdd-framework",
+      "npmUrl": "https://www.npmjs.com/package/agentic-sdd-framework",
+      "category": "devops",
+      "createdAt": "2026-09-26T07:28:31.798Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 90
     },
     {
       "name": "agentic-test-contracts",
@@ -69276,6 +69468,18 @@
       "createdAt": "2026-07-29T07:13:01.292Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 80
+    },
+    {
+      "name": "aiapplyd-mcp",
+      "version": "1.8.2",
+      "description": "Auto-Apply That Ends on an Interview. AI Applyd MCP server: your matched jobs, applications submitted on the employer's own hiring system across fifteen major ATS platforms (sent automatically or held for your approval), a review queue, employer-receipt t",
+      "license": "MIT",
+      "repository": "https://github.com/aiapplyd/aiapplyd-mcp",
+      "npmUrl": "https://www.npmjs.com/package/aiapplyd-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-26T07:08:54.823Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 100
     },
     {
       "name": "aiblocklist",
@@ -78900,6 +79104,18 @@
       "createdAt": "2026-08-12T06:46:11.914Z",
       "discoveredAt": "2026-08-12T07:12:03.714Z",
       "score": 70
+    },
+    {
+      "name": "dejavu-gates",
+      "version": "2.39.1",
+      "description": "Cross-session error gates for AI coding agents: detects recurring tool-call failures and promotes them into enforced gates. Remind first, block on same-session repeat offense. Works with OpenCode, Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot CLI, a",
+      "license": "MIT",
+      "repository": "https://github.com/WhiteBite/dejavu-gates",
+      "npmUrl": "https://www.npmjs.com/package/dejavu-gates",
+      "category": "cli",
+      "createdAt": "2026-09-26T09:33:17.429Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 100
     },
     {
       "name": "delaunay32",
@@ -89114,6 +89330,18 @@
       "score": 90
     },
     {
+      "name": "higgsfield-api-skill",
+      "version": "1.0.1",
+      "description": "Install the Higgsfield API skill (79 video and image models) into every coding agent: Claude Code, Codex, Gemini CLI, Copilot, Cursor, Windsurf and more.",
+      "license": "MIT",
+      "repository": "https://github.com/Koushik890/higgsfield-api-skill",
+      "npmUrl": "https://www.npmjs.com/package/higgsfield-api-skill",
+      "category": "backend",
+      "createdAt": "2026-09-26T10:02:11.052Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 93
+    },
+    {
       "name": "highlevel-cli",
       "version": "2.0.0",
       "description": "Command-line interface for GoHighLevel, built around the writes that lose data",
@@ -93708,6 +93936,18 @@
       "createdAt": "2026-07-27T07:43:46.704Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 82
+    },
+    {
+      "name": "literature-clock-mcp",
+      "version": "1.6.2",
+      "description": "A line for the current minute, from literature, copyright-free books, or an original voice.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/markusvankempen/literature-clock-mcp",
+      "npmUrl": "https://www.npmjs.com/package/literature-clock-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-26T16:09:52.788Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 89
     },
     {
       "name": "lithic-sdk",
@@ -108590,6 +108830,18 @@
       "score": 57
     },
     {
+      "name": "pulse-skill",
+      "version": "1.2.0",
+      "description": "Design-engineering guidance for coding agents. Installs Pulse into Cursor, Claude Code, Windsurf, Codex, or any AGENTS.md agent.",
+      "license": "MIT",
+      "repository": "https://github.com/mc-monish28/Pulse",
+      "npmUrl": "https://www.npmjs.com/package/pulse-skill",
+      "category": "frontend",
+      "createdAt": "2026-09-26T07:25:56.220Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 92
+    },
+    {
       "name": "punchcard-presence",
       "version": "1.0.0",
       "description": "Punchcard Discord Rich Presence and local AI usage tracking for Claude Code and Codex",
@@ -109380,6 +109632,18 @@
       "createdAt": "2026-08-24T19:27:17.441Z",
       "discoveredAt": "2026-09-10T04:21:18.603Z",
       "score": 94
+    },
+    {
+      "name": "rdap-q",
+      "version": "1.2.4",
+      "description": "Research-Driven Adaptive Planning with Quality Gates (RDAP-Q) — Vendor-neutral AI agent engineering protocol & skill for Codex, Grok, Copilot, Antigravity, Goose, Claude, Cline, and Cursor. Evidence-first software engineering, persistent memory, and calib",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/coldcanuk/rdapq",
+      "npmUrl": "https://www.npmjs.com/package/rdap-q",
+      "category": "cli",
+      "createdAt": "2026-09-26T05:53:10.501Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 100
     },
     {
       "name": "react-advanced-odontogram",
@@ -111888,6 +112152,18 @@
       "createdAt": "2026-08-05T12:47:12.835Z",
       "discoveredAt": "2026-08-05T14:42:18.626Z",
       "score": 80
+    },
+    {
+      "name": "rift-ds",
+      "version": "1.0.1",
+      "description": "An AI-ready React design system: accessible components on composable tokens, light/dark theming, and CSS-variable overrides.",
+      "license": "MIT",
+      "repository": "https://github.com/robritacca-dotcom/rift-ds",
+      "npmUrl": "https://www.npmjs.com/package/rift-ds",
+      "category": "frontend",
+      "createdAt": "2026-09-26T14:49:37.378Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 89
     },
     {
       "name": "rig-lint",
@@ -114780,6 +115056,18 @@
       "createdAt": "2026-09-02T07:38:48.137Z",
       "discoveredAt": "2026-09-02T16:27:26.013Z",
       "score": 89
+    },
+    {
+      "name": "skill-fleet",
+      "version": "1.1.1",
+      "description": "Workflow skills for coding agents that work in any project: plan, start, implement, verify, and review GitHub issues.",
+      "license": "MIT",
+      "repository": "https://github.com/chustert/skill-fleet",
+      "npmUrl": "https://www.npmjs.com/package/skill-fleet",
+      "category": "utilities",
+      "createdAt": "2026-09-26T08:17:08.390Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 91
     },
     {
       "name": "skill-land",
@@ -121620,6 +121908,18 @@
       "createdAt": "2026-08-08T17:54:14.669Z",
       "discoveredAt": "2026-08-08T18:24:36.518Z",
       "score": 84
+    },
+    {
+      "name": "vigilo-wasm-gpu",
+      "version": "1.0.0",
+      "description": "High-performance GPU-accelerated in-browser exam proctoring: YuNet, head pose, gaze and prohibited-object detection with onnxruntime-web (WebGPU), fused by the vigilo-core temporal engine compiled to WebAssembly.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/Abdullah-Masood-05/vigilo-wasm",
+      "npmUrl": "https://www.npmjs.com/package/vigilo-wasm-gpu",
+      "category": "frontend",
+      "createdAt": "2026-09-26T14:00:42.408Z",
+      "discoveredAt": "2026-09-26T16:14:56.782Z",
+      "score": 98
     },
     {
       "name": "vikers-buildkit",

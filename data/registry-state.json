@@ -1,35 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 132751040,
-  "lastRunAt": "2026-09-26T04:43:07.063Z",
+  "lastSequence": 132814094,
+  "lastRunAt": "2026-09-26T16:14:56.782Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@birbalo/aliftech-ui",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@feb-io/openclaude",
+      "name": "@emulon/telegram",
       "attempts": 1
     },
     {
-      "name": "@feng3d/addons",
+      "name": "@copylee/dsh-proxy",
       "attempts": 1
     },
     {
-      "name": "@feng3d/error-logger",
-      "attempts": 1
-    },
-    {
-      "name": "@amplerun/sdk",
-      "attempts": 1
-    },
-    {
-      "name": "@amplerun/mcp",
-      "attempts": 1
-    },
-    {
-      "name": "@dastardly_duck/pi-agora",
+      "name": "@slates-integrations/oracle-fusion-cloud",
       "attempts": 1
     }
   ]
