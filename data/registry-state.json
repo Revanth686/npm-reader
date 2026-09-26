@@ -1,31 +1,35 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 132665838,
-  "lastRunAt": "2026-09-25T17:02:04.816Z",
+  "lastSequence": 132751040,
+  "lastRunAt": "2026-09-26T04:43:07.063Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@birbalo/aliftech-ui",
-      "attempts": 3
+      "attempts": 4
     },
     {
-      "name": "@odoro-cli/server-commerce",
+      "name": "@feb-io/openclaude",
       "attempts": 1
     },
     {
-      "name": "@fmatar/archlens-skill",
+      "name": "@feng3d/addons",
       "attempts": 1
     },
     {
-      "name": "@kgos/sdk",
+      "name": "@feng3d/error-logger",
       "attempts": 1
     },
     {
-      "name": "@gumlet/ghos3",
+      "name": "@amplerun/sdk",
       "attempts": 1
     },
     {
-      "name": "@postsider/mcp",
+      "name": "@amplerun/mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@dastardly_duck/pi-agora",
       "attempts": 1
     }
   ]
