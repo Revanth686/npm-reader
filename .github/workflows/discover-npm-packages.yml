@@ -2,7 +2,7 @@ name: Discover npm packages
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "* */23 * * *"
   workflow_dispatch:
     inputs:
       dry-run:
