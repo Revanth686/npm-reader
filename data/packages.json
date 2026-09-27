@@ -3794,6 +3794,18 @@
       "score": 92
     },
     {
+      "name": "@allratestoday/central-bank-of-madagascar-exchange-rate",
+      "version": "1.3.1",
+      "description": "Official Central Bank of Madagascar (BFM) (Madagascar) daily exchange rates — 19 currencies vs MGA, history since 2023. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/central-bank-of-madagascar-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fcentral-bank-of-madagascar-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-09-26T18:33:05.741Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 96
+    },
+    {
       "name": "@allratestoday/central-bank-of-suriname-exchange-rate",
       "version": "1.2.6",
       "description": "Official Central Bank of Suriname (Suriname) daily exchange rates — 11 currencies vs SRD, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
@@ -6576,6 +6588,18 @@
       "createdAt": "2026-08-09T19:42:14.249Z",
       "discoveredAt": "2026-08-09T20:21:40.218Z",
       "score": 83
+    },
+    {
+      "name": "@attestwire/stripe-einvoice",
+      "version": "0.1.0",
+      "description": "Turn a finalized Stripe invoice into a compliant EN 16931 e-invoice — XRechnung UBL or Factur-X/ZUGFeRD CII XML — mapped, generated and validated locally, with an optional call to the hosted Attestwire API for the Factur-X PDF.",
+      "license": "MIT",
+      "repository": "https://github.com/attestwire/stripe-einvoice",
+      "npmUrl": "https://www.npmjs.com/package/%40attestwire%2Fstripe-einvoice",
+      "category": "testing",
+      "createdAt": "2026-09-27T02:52:54.585Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
     },
     {
       "name": "@atul-labs/dmag",
@@ -12434,6 +12458,18 @@
       "score": 73
     },
     {
+      "name": "@consentera/consent-sdk",
+      "version": "2.0.0",
+      "description": "Consentera Consent Management SDK for the web — DPDP (India) first, with GDPR, TCF 2.2 and GPP surfaces",
+      "license": "MIT",
+      "repository": "https://github.com/consentera-platform/consentera-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40consentera%2Fconsent-sdk",
+      "category": "data",
+      "createdAt": "2026-09-26T20:59:48.217Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
+    },
+    {
       "name": "@constructorfleet/extension-media-removal",
       "version": "1.0.1",
       "description": "Seerr extension: lets users request removal of media they requested.",
@@ -12540,6 +12576,18 @@
       "createdAt": "2026-08-01T04:50:12.529Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 100
+    },
+    {
+      "name": "@copylee/dsh-free-search",
+      "version": "0.4.42",
+      "description": "Free web search for DeepSeek Harness: 13 engines (Bing/DuckDuckGo/AnySearch/SearXNG/Exa/Tavily/Keenable/Firecrawl/Parallel keyless; Perplexity/SerpBase/DeepSeek with key) + optional AnySearch key for higher quota + per-engine proxy + time filtering + plat",
+      "license": "MIT",
+      "repository": "https://github.com/copylee711/dsh-free-search",
+      "npmUrl": "https://www.npmjs.com/package/%40copylee%2Fdsh-free-search",
+      "category": "utilities",
+      "createdAt": "2026-09-26T17:12:48.454Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
     },
     {
       "name": "@cora-cache/redis",
@@ -19944,6 +19992,18 @@
       "createdAt": "2026-07-30T22:23:05.098Z",
       "discoveredAt": "2026-07-30T23:15:43.875Z",
       "score": 59
+    },
+    {
+      "name": "@firstprinciples/access-control",
+      "version": "0.1.0",
+      "description": "Isomorphic RBAC/ABAC permission engine: one portable rule schema, deny-by-default order-independent resolution, ownership rules that fail closed, Express/Fastify/Hono guards and React <Can>/usePermission over the same policy.",
+      "license": "MIT",
+      "repository": "https://github.com/BetterFoundations/FirstPrinciples",
+      "npmUrl": "https://www.npmjs.com/package/%40firstprinciples%2Faccess-control",
+      "category": "frontend",
+      "createdAt": "2026-09-26T21:04:50.002Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
     },
     {
       "name": "@firstprinciples/api-kit",
@@ -52658,6 +52718,18 @@
       "score": 93
     },
     {
+      "name": "@sakuzu/maplibre-gl-draw",
+      "version": "1.0.0",
+      "description": "WebGL2 drawing and editing engine for MapLibre GL JS: points, lines, and polygons rendered in a custom layer, with selection, hit testing, and geometry utilities.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/sakuzu/maplibre-gl-draw",
+      "npmUrl": "https://www.npmjs.com/package/%40sakuzu%2Fmaplibre-gl-draw",
+      "category": "testing",
+      "createdAt": "2026-09-27T02:42:19.355Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 94
+    },
+    {
       "name": "@salatech/auth-toolkit",
       "version": "0.1.0",
       "description": "Unified OTP, deep-link, and biometric auth toolkit for React Native and Expo apps",
@@ -55574,6 +55646,18 @@
       "score": 84
     },
     {
+      "name": "@soamee/subscriptions-api-sdk",
+      "version": "0.2.0",
+      "description": "RevenueCat-style subscriptions backend for NestJS: one API over the App Store and Google Play — receipt validation, unified webhooks, customer info, entitlements, offerings, promotional grants, admin API, metrics and signed outgoing webhooks",
+      "license": "MIT",
+      "repository": "https://github.com/soamee/subscriptions-api-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40soamee%2Fsubscriptions-api-sdk",
+      "category": "backend",
+      "createdAt": "2026-09-25T22:08:12.626Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
+    },
+    {
       "name": "@social-media-scheduler/cli",
       "version": "2.2.0",
       "description": "Social media scheduler CLI — schedule and publish posts to 20 platforms (Instagram, TikTok, X, LinkedIn, YouTube, Facebook, Threads and more) from the terminal, CI or an AI agent. Ships an OpenClaw skill (SKILL.md + tools.md + examples). Powered by So-me",
@@ -57288,6 +57372,18 @@
       "createdAt": "2026-08-04T21:55:28.332Z",
       "discoveredAt": "2026-08-04T22:54:44.404Z",
       "score": 85
+    },
+    {
+      "name": "@stringbean4313/dsh-request-privacy",
+      "version": "1.2.1",
+      "description": "DeepSeek Harness plugin: independent switches over the identity headers and the session-log field a provider request may carry, configurable from cordis.yml, settings.yaml, and the Web settings page.",
+      "license": "MIT",
+      "repository": "https://github.com/Werewolf-Wu/dsh-request-privacy",
+      "npmUrl": "https://www.npmjs.com/package/%40stringbean4313%2Fdsh-request-privacy",
+      "category": "data",
+      "createdAt": "2026-09-27T04:05:46.500Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 93
     },
     {
       "name": "@strixgov/governed-action",
@@ -59474,6 +59570,18 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/apple-podcasts-mcp-cli",
+      "version": "1.1.1",
+      "description": "Apple Podcasts MCP server and CLI for Claude Code, Codex and AI agents. 32 tools for podcast search, chart rank tracking, listener reviews, RSS feed parsing and validation, on-device transcript search, and Apple Podcasts Connect analytics.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/apple-podcasts-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fapple-podcasts-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-26T17:13:14.276Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 100
+    },
+    {
       "name": "@thenavidm/bluesky-mcp",
       "version": "1.0.0",
       "description": "MCP server for Bluesky and the AT Protocol. 41 tools for posting, threads, feeds, search, lists, notifications and the social graph, with LLM-optimised output. Works with Claude Code, Claude Desktop, Cursor, Windsurf, and any MCP-compatible client.",
@@ -59484,6 +59592,18 @@
       "createdAt": "2026-09-01T11:43:59.908Z",
       "discoveredAt": "2026-09-01T16:29:05.226Z",
       "score": 100
+    },
+    {
+      "name": "@thenavidm/facebook-ad-library-mcp-cli",
+      "version": "0.5.0",
+      "description": "Facebook Ad Library MCP server and CLI for Claude Code, Codex and AI agents. 9 tools that read every ad running on Facebook, Instagram, Messenger, Threads and Audience Network, for any advertiser in any country, free and with no API key.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/facebook-ad-library-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Ffacebook-ad-library-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-26T18:09:28.119Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
     },
     {
       "name": "@thenavidm/google-photos-mcp",
@@ -59508,6 +59628,30 @@
       "createdAt": "2026-09-03T23:35:36.698Z",
       "discoveredAt": "2026-09-04T04:14:38.186Z",
       "score": 99
+    },
+    {
+      "name": "@thenavidm/google-workspace-mcp-cli",
+      "version": "0.2.1",
+      "description": "Google Workspace MCP server and CLI for Claude Code, Codex and AI agents. 38 tools for Gmail, Drive, Sheets, Docs, Slides, Calendar, Tasks, Forms and Contacts through Google's official Workspace CLI, so your credential never leaves your machine.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/google-workspace-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fgoogle-workspace-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-26T19:43:07.763Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
+    },
+    {
+      "name": "@thenavidm/imessage-mcp-cli",
+      "version": "0.3.0",
+      "description": "iMessage MCP server and CLI for Claude Code, Codex and AI agents on a Mac. 10 tools for an inbox that survives restarts, search across your full history, contact lookup, sending with delivery confirmation, and voice note transcription.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/imessage-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fimessage-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-26T20:02:15.386Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 90
     },
     {
       "name": "@thenavidm/mastodon-mcp",
@@ -59543,6 +59687,18 @@
       "category": "backend",
       "createdAt": "2026-08-31T18:04:23.552Z",
       "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 100
+    },
+    {
+      "name": "@thenavidm/podcastindex-mcp-cli",
+      "version": "1.1.1",
+      "description": "Podcast Index MCP server and CLI for Claude Code, Codex and AI agents. 36 tools for podcast search, episode transcripts you can actually read and search, Podcasting 2.0 tags, value-for-value data, feed health and index stats.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/podcastindex-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fpodcastindex-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-26T17:21:33.751Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
       "score": 100
     },
     {
@@ -59616,6 +59772,18 @@
       "createdAt": "2026-09-03T23:04:57.262Z",
       "discoveredAt": "2026-09-04T04:14:38.186Z",
       "score": 95
+    },
+    {
+      "name": "@thenavidm/vimeo-mcp-cli",
+      "version": "1.1.0",
+      "description": "Vimeo MCP server and CLI for Claude Code, Codex and AI agents. 43 tools for transcripts, bulk folder filing, showcases, chapters, captions, tags, privacy and embed presets.",
+      "license": "MIT",
+      "repository": "https://github.com/thenavidm/vimeo-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fvimeo-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-09-27T04:17:58.013Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 97
     },
     {
       "name": "@thenavidm/whatsapp-mcp",
@@ -69710,6 +69878,18 @@
       "score": 81
     },
     {
+      "name": "alamut-seo",
+      "version": "1.0.1",
+      "description": "Alamut SEO — full SEO suite for Payload 3: meta fields, SERP/OG/Twitter previews, content & readability analysis, JSON-LD schema, AI copy, sitemaps, redirects, tracking, Search Console, audits, analytics, and keyword research",
+      "license": "MIT",
+      "repository": "https://github.com/Notorious-Ali/alamut-seo",
+      "npmUrl": "https://www.npmjs.com/package/alamut-seo",
+      "category": "data",
+      "createdAt": "2026-09-26T23:53:26.385Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 100
+    },
+    {
       "name": "alberta-buck-core",
       "version": "0.1.2",
       "description": "Alberta Buck core platform (JS): the ChainSession API over Tevm/anvil/testnets with expectation journaling, the agent simulation platform, and the BigInt-native wrappers around the WebAssembly kernels",
@@ -74558,6 +74738,18 @@
       "score": 92
     },
     {
+      "name": "central-bank-of-madagascar-exchange-rate",
+      "version": "1.3.1",
+      "description": "Official Central Bank of Madagascar (BFM) (Madagascar) daily exchange rates — 19 currencies vs MGA, history since 2023. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/central-bank-of-madagascar-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/central-bank-of-madagascar-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-09-26T18:33:02.940Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 96
+    },
+    {
       "name": "central-bank-of-suriname-exchange-rate",
       "version": "1.2.6",
       "description": "Official Central Bank of Suriname (Suriname) daily exchange rates — 11 currencies vs SRD, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
@@ -78480,6 +78672,18 @@
       "createdAt": "2026-08-14T21:06:23.469Z",
       "discoveredAt": "2026-08-14T21:11:51.748Z",
       "score": 71
+    },
+    {
+      "name": "cvlac-mcp",
+      "version": "1.0.0",
+      "description": "Actualiza tu hoja de vida de CvLAC (MinCiencias) desde el chat de tu editor, sin llenar formularios a mano. Servidor MCP con Playwright.",
+      "license": "ISC",
+      "repository": "https://github.com/stivenson/cvlac-mcp",
+      "npmUrl": "https://www.npmjs.com/package/cvlac-mcp",
+      "category": "testing",
+      "createdAt": "2026-09-27T04:36:00.489Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 93
     },
     {
       "name": "cvx-kit",
@@ -84314,6 +84518,18 @@
       "score": 78
     },
     {
+      "name": "env-precheck",
+      "version": "1.0.1",
+      "description": "Validate .env files and CI environment variables against annotated .env.example contracts. Catch missing variables and invalid types without logging secret values.",
+      "license": "MIT",
+      "repository": "https://github.com/farhad-arjmand/env-precheck",
+      "npmUrl": "https://www.npmjs.com/package/env-precheck",
+      "category": "build-tools",
+      "createdAt": "2026-09-26T20:50:11.464Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 96
+    },
+    {
       "name": "envconform",
       "version": "1.0.0",
       "description": "Detect and fix drift between your .env, .env.example, and the env vars your code actually uses.",
@@ -88476,6 +88692,18 @@
       "createdAt": "2026-09-11T00:10:34.757Z",
       "discoveredAt": "2026-09-11T04:20:53.293Z",
       "score": 86
+    },
+    {
+      "name": "greeting-ninja",
+      "version": "3.0.0",
+      "description": "Auto-greet WhatsApp users in their own language based on phone number. 61 languages, 80+ country codes, group welcome, first DM, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Jalalkhan96/greeting-ninja",
+      "npmUrl": "https://www.npmjs.com/package/greeting-ninja",
+      "category": "devops",
+      "createdAt": "2026-09-26T18:17:41.852Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 94
     },
     {
       "name": "gren-coverage-node",
@@ -95388,6 +95616,18 @@
       "createdAt": "2026-07-26T12:48:42.173Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 55
+    },
+    {
+      "name": "maplibre-gl-lanes",
+      "version": "1.0.0",
+      "description": "Draws routes that share paths as ordered parallel lanes in MapLibre GL JS: a transit-map look for any route network, with crossing minimization, smooth junctions, and constant pixel spacing at every zoom.",
+      "license": "MIT",
+      "repository": "https://github.com/c0nsumer/maplibre-gl-lanes",
+      "npmUrl": "https://www.npmjs.com/package/maplibre-gl-lanes",
+      "category": "devops",
+      "createdAt": "2026-09-27T04:26:24.038Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 96
     },
     {
       "name": "mappo",
@@ -103142,6 +103382,18 @@
       "score": 67
     },
     {
+      "name": "opencode-longrun-harness",
+      "version": "1.2.22",
+      "description": "Bounded, evidence-driven long-run workflow harness for OpenCode: contract-bound runs, fingerprint-bound receipts, operator-reviewed completion. Dependency-free.",
+      "license": "MIT",
+      "repository": "https://github.com/shamusj-create/opencode-longrun-harness",
+      "npmUrl": "https://www.npmjs.com/package/opencode-longrun-harness",
+      "category": "utilities",
+      "createdAt": "2026-09-26T23:18:03.952Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 92
+    },
+    {
       "name": "opencode-m365-copilot",
       "version": "0.2.0",
       "description": "Use your org's Microsoft 365 Copilot as the model backend for opencode",
@@ -105096,6 +105348,18 @@
       "createdAt": "2026-08-09T00:06:17.919Z",
       "discoveredAt": "2026-08-09T01:04:40.589Z",
       "score": 90
+    },
+    {
+      "name": "perso-match",
+      "version": "1.1.0",
+      "description": "Persian and Arabic search normalization with original-text highlight ranges, prepared queries and database collision audits. Farsi letters, digits and half-spaces.",
+      "license": "MIT",
+      "repository": "https://github.com/farhad-arjmand/perso-match",
+      "npmUrl": "https://www.npmjs.com/package/perso-match",
+      "category": "data",
+      "createdAt": "2026-09-26T21:07:04.573Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 96
     },
     {
       "name": "personal-assistant-skills",
@@ -109046,6 +109310,18 @@
       "score": 89
     },
     {
+      "name": "qoder-rtl",
+      "version": "1.11.2",
+      "description": "Persian/Arabic RTL + Vazirmatn for the Qoder desktop app: CDP live injection by default (no install files touched), archive patch kept behind an explicit command",
+      "license": "MIT",
+      "repository": "https://github.com/Pezhm4n/qoder-rtl",
+      "npmUrl": "https://www.npmjs.com/package/qoder-rtl",
+      "category": "devops",
+      "createdAt": "2026-09-26T20:01:14.292Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 92
+    },
+    {
       "name": "qrcode-decode-ultra",
       "version": "1.0.0",
       "description": "Fast browser QR scanner core — native → jsQR zero-WASM fast path with an opt-in OpenCV WeChat tier, Web Worker by default.",
@@ -110736,6 +111012,18 @@
       "createdAt": "2026-08-28T08:36:51.069Z",
       "discoveredAt": "2026-08-28T11:08:35.618Z",
       "score": 91
+    },
+    {
+      "name": "react-native-review-prompt",
+      "version": "1.0.0",
+      "description": "React Native in-app review & rating prompt: Google Play In-App Review API (Android) + App Store SKStoreReviewController (iOS). TurboModule, New Architecture, TypeScript, smart prompting, Expo dev builds.",
+      "license": "MIT",
+      "repository": "https://github.com/getsettalk/react-native-review-prompt",
+      "npmUrl": "https://www.npmjs.com/package/react-native-review-prompt",
+      "category": "frontend",
+      "createdAt": "2026-09-27T02:23:55.192Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 100
     },
     {
       "name": "react-native-samsung-health-data",
@@ -123396,6 +123684,18 @@
       "createdAt": "2026-08-09T10:30:38.103Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 81
+    },
+    {
+      "name": "whale-chan",
+      "version": "1.8.1",
+      "description": "鲸鱼娘 (Whale-chan) — 生活在任意 IDE 终端里的 2D 桌宠 + DeepSeek Harness 智能体对话。可直接在 VS Code / PyCharm / Windows Terminal 的终端面板里运行。不需要 API Key：她调用的是你本机已经登录过的 dsh。",
+      "license": "MIT",
+      "repository": "https://github.com/79suifengliushaofu/whale-chan",
+      "npmUrl": "https://www.npmjs.com/package/whale-chan",
+      "category": "backend",
+      "createdAt": "2026-09-27T03:29:04.111Z",
+      "discoveredAt": "2026-09-27T05:04:45.917Z",
+      "score": 94
     },
     {
       "name": "wharf-tui",
