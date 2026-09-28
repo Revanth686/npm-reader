@@ -6338,6 +6338,42 @@
       "score": 83
     },
     {
+      "name": "@askeleven/agent-pulse",
+      "version": "0.1.0",
+      "description": "Know your agent stopped working before your customer does. Alerts on missing activity, failure streaks and undelivered messages from a JSONL event log. CLI, library, and MCP server. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/askeleven/agent-pulse",
+      "npmUrl": "https://www.npmjs.com/package/%40askeleven%2Fagent-pulse",
+      "category": "backend",
+      "createdAt": "2026-09-27T20:47:48.087Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@askeleven/send-once",
+      "version": "0.1.0",
+      "description": "A send happens once, and only while the approval behind it is still true. An idempotency ledger and perishable approvals for code that sends email, SMS, or anything else on an agent's behalf. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/askeleven/send-once",
+      "npmUrl": "https://www.npmjs.com/package/%40askeleven%2Fsend-once",
+      "category": "devops",
+      "createdAt": "2026-09-27T20:47:51.558Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@askeleven/sms-guard",
+      "version": "0.1.0",
+      "description": "Check a text message before an agent (or a person) sends it: GSM-7 or UCS-2, segment count, the recipient's local time, shorteners and opt-out wording. Splits long messages. CLI, library, and MCP server. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/askeleven/sms-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40askeleven%2Fsms-guard",
+      "category": "backend",
+      "createdAt": "2026-09-27T20:47:49.812Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
       "name": "@askjo/camofox-browser-mcp",
       "version": "1.13.1",
       "description": "Standalone stdio MCP server exposing the camofox-browser REST API as MCP tools (Claude Code, Codex, agy, Cursor, opencode). Proxies to an already-running camofox-browser REST server — does not itself require the browser binary, Playwright, or the core ser",
@@ -10428,6 +10464,18 @@
       "createdAt": "2026-08-15T05:40:01.503Z",
       "discoveredAt": "2026-08-15T07:02:55.991Z",
       "score": 58
+    },
+    {
+      "name": "@castlenine/vite-plugin-console-stripper",
+      "version": "0.1.0",
+      "description": "A Vite plugin that removes console calls from your production build and keeps the ones you still need (by default console.error, console.warn, console.info and console.clear). It works on your own code and on dependencies, and supports ignore comments, pa",
+      "license": "MIT",
+      "repository": "https://github.com/Castlenine/vite-plugin-console-stripper",
+      "npmUrl": "https://www.npmjs.com/package/%40castlenine%2Fvite-plugin-console-stripper",
+      "category": "frontend",
+      "createdAt": "2026-09-27T22:24:21.321Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
     },
     {
       "name": "@castlenine/vite-plugin-remove-attribute",
@@ -35042,6 +35090,18 @@
       "score": 62
     },
     {
+      "name": "@lazco/huly-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for Huly: read and write Huly documents and issues from Claude Desktop, Claude Code, or any MCP client",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/Lazco-Corporation/huly-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40lazco%2Fhuly-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-27T17:05:19.818Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 91
+    },
+    {
       "name": "@lazyconfig/eslint",
       "version": "0.1.0",
       "description": "Reusable, composable ESLint flat config presets for JavaScript, TypeScript, React, and Node.js projects.",
@@ -44472,6 +44532,18 @@
       "createdAt": "2026-08-07T19:19:38.102Z",
       "discoveredAt": "2026-08-10T17:37:47.201Z",
       "score": 57
+    },
+    {
+      "name": "@odience-network/thunderbird-cli-enhanced",
+      "version": "1.2.1",
+      "description": "Thunderbird email for AI agents: the tb CLI, the tb-bridge daemon and the tb-mcp MCP server in one package. Enhanced fork of thunderbird-cli by Vitalii Ionov.",
+      "license": "MIT",
+      "repository": "https://github.com/odience-network/thunderbird-cli-enhanced",
+      "npmUrl": "https://www.npmjs.com/package/%40odience-network%2Fthunderbird-cli-enhanced",
+      "category": "backend",
+      "createdAt": "2026-09-27T21:10:12.999Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 95
     },
     {
       "name": "@odla-ai/camel",
@@ -55634,6 +55706,30 @@
       "score": 52
     },
     {
+      "name": "@smoke-monkey/harness",
+      "version": "1.2.0",
+      "description": "Build agentic tools, AI code editors, and agent harnesses in a few lines. Framework-agnostic TypeScript agent loop with MCP (Model Context Protocol) client, just-in-time SKILL.md skills, permissions, and LLM providers — behind the Smoke Monkey code editor",
+      "license": "MIT",
+      "repository": "https://github.com/RajdeepDevelopment/smoke-monkey-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40smoke-monkey%2Fharness",
+      "category": "build-tools",
+      "createdAt": "2026-09-27T18:46:09.695Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 100
+    },
+    {
+      "name": "@smoke-monkey/ui",
+      "version": "0.1.1",
+      "description": "Drop-in React chat UI for AI agents and LLMs. Streaming markdown, tool-call cards, charts, mermaid diagrams, syntax highlighting and inline ask-user prompts, with a headless runtime and a normalized event contract. Works with OpenAI, Anthropic, Gemini, La",
+      "license": "MIT",
+      "repository": "https://github.com/RajdeepDevelopment/smoke-monkey-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40smoke-monkey%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-09-27T18:17:50.376Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
       "name": "@smounters/kit",
       "version": "2.3.0",
       "description": "Batteries for Imperium services: structured logging, Redis module with a distributed lock, SSRF-safe fetch, decimal money, request context, env schemas",
@@ -63638,6 +63734,126 @@
       "score": 100
     },
     {
+      "name": "@volter/twin-ai-gateway",
+      "version": "0.1.0",
+      "description": "Local Vercel AI Gateway twin — a faithful, stateful local AI Gateway (ai-gateway.vercel.sh) your SDK talks to unmodified, over both wire protocols: the AI SDK gateway protocol at /v3/ai (createGateway / @ai-sdk/gateway) and the OpenAI-compatible /v1 surfa",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-ai-gateway",
+      "category": "backend",
+      "createdAt": "2026-09-27T23:32:36.655Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-anthropic",
+      "version": "0.1.0",
+      "description": "Local Anthropic twin — a faithful, stateful local Anthropic Messages API your real @anthropic-ai/sdk talks to unmodified. The model is stubbed (deterministic), but the protocol envelope (messages/streaming/tool_use), models, count_tokens, and message batc",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-anthropic",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:32:42.701Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-aws",
+      "version": "0.1.0",
+      "description": "Local AWS twin — ONE faithful, stateful local AWS API your unmodified AWS SDKs talk to, across six service areas over a single shared SigV4/error/credential core: S3 / R2 object storage (`@aws-sdk/client-s3` — buckets/objects with real bytes + md5 ETags,",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-aws",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:32:47.130Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-azure",
+      "version": "0.1.0",
+      "description": "Local Azure twin — ONE faithful, stateful local Azure API your unmodified Azure SDKs talk to, organized as SERVICE AREAS over a shared auth/error core (SharedKey HMAC + connection strings + Entra bearer). Area 1, Blob Storage (`@azure/storage-blob`): cont",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-azure",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:32:50.983Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-cohere",
+      "version": "0.1.0",
+      "description": "Local Cohere twin — a faithful, stateful local Cohere API your real cohere-ai / @ai-sdk/cohere client talks to unmodified. Both protocol versions are modeled (v1 chat/embed/rerank/classify/tokenize + v2 chat/embed/rerank), with deterministic stubs for mod",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-cohere",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:33:12.117Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-deepseek",
+      "version": "0.1.0",
+      "description": "Local DeepSeek twin — a faithful, stateful local DeepSeek Platform API your real `@ai-sdk/deepseek` talks to unmodified. The model is stubbed (deterministic), but the protocol envelope is vendor-faithful and so are DeepSeek's OpenAI-DIVERGENT REFUSALS: 42",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-deepseek",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:33:22.030Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-figma",
+      "version": "0.1.0",
+      "description": "Local Figma twin — a faithful, stateful local Figma REST API (files, nodes, images, comments, versions, projects) your unmodified HTTP client talks to. Mirror, simulate, and fork. Built on @volter/world-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-figma",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:33:34.123Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-gemini",
+      "version": "0.1.0",
+      "description": "Local Google Gemini twin — a faithful, stateful local Gemini API (generativelanguage.googleapis.com) your real @google/genai SDK talks to unmodified. The model is stubbed (deterministic, clearly labeled), but the protocol envelope (generateContent/streami",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-gemini",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:33:44.480Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-googleads",
+      "version": "0.1.0",
+      "description": "Local Google Ads twin — a faithful, stateful local Google Ads v22 REST API (accounts, GAQL reporting, conversion actions, offline conversion upload) and Data Manager v1 ingestion API your integration talks to unmodified. Built on @volter/world-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-googleads",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:33:49.129Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
+      "name": "@volter/twin-googleoauth",
+      "version": "0.1.0",
+      "description": "Local Google OAuth 2.0 / OpenID Connect twin — the real consent screen, the real authorization-code round trip, and real RS256 id_tokens an unmodified OAuth client library completes a full flow against. Built on @volter/world-core.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/volter-ai/twin",
+      "npmUrl": "https://www.npmjs.com/package/%40volter%2Ftwin-googleoauth",
+      "category": "testing",
+      "createdAt": "2026-09-27T23:33:53.239Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 90
+    },
+    {
       "name": "@voluma/three-transform-gizmo",
       "version": "0.2.0",
       "description": "Custom three.js transform gizmo with per-axis/per-plane extrude scaling, angle-sector rotation and themeable styling. Near drop-in replacement for TransformControls.",
@@ -65796,6 +66012,18 @@
       "createdAt": "2026-08-19T10:35:36.203Z",
       "discoveredAt": "2026-08-19T13:00:39.527Z",
       "score": 95
+    },
+    {
+      "name": "@xof/quic",
+      "version": "1.0.0",
+      "description": "Low-level QUIC v1/v2 and HTTP/3 protocol stack for Node.js with TLS 1.3, recovery, streams, QPACK, diagnostics, QLog, and interoperability tooling.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Xyraakyzzz/xquic",
+      "npmUrl": "https://www.npmjs.com/package/%40xof%2Fquic",
+      "category": "backend",
+      "createdAt": "2026-09-27T19:14:46.470Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 94
     },
     {
       "name": "@xorv/blast",
@@ -69108,6 +69336,18 @@
       "createdAt": "2026-09-07T01:18:40.649Z",
       "discoveredAt": "2026-09-07T04:17:48.772Z",
       "score": 94
+    },
+    {
+      "name": "agentex-creator-sdk",
+      "version": "1.0.0",
+      "description": "Official TypeScript SDK and CLIs for AGENTEX (https://agentex.sh): discover on-chain research agents, pay per run in SOL, USDC on Solana or ETH on Robinhood Chain, wait for runs and read typed findings, evidence, sources and receipts. Includes the creator",
+      "license": "MIT",
+      "repository": "https://github.com/agentexrh10/agentex",
+      "npmUrl": "https://www.npmjs.com/package/agentex-creator-sdk",
+      "category": "backend",
+      "createdAt": "2026-09-27T17:46:45.779Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 100
     },
     {
       "name": "agentflux",
@@ -82634,6 +82874,18 @@
       "score": 73
     },
     {
+      "name": "dsh-off-peak-hours",
+      "version": "1.0.0",
+      "description": "DeepSeek Harness pill that shows whether the selected DeepSeek or z.ai billing plan is in a peak or off-peak (half-price) window right now, with a click-to-open schedule panel.",
+      "license": "MIT",
+      "repository": "https://github.com/Shadid516/dsh-off-peak-hours",
+      "npmUrl": "https://www.npmjs.com/package/dsh-off-peak-hours",
+      "category": "cli",
+      "createdAt": "2026-09-27T23:17:06.019Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 97
+    },
+    {
       "name": "dsh-oh-my-claude",
       "version": "1.0.0",
       "description": "Claude Code CLI as an LLM provider for dsh (DeepSeek Harness): live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes",
@@ -84072,6 +84324,18 @@
       "createdAt": "2026-08-15T09:48:24.492Z",
       "discoveredAt": "2026-08-15T10:14:32.299Z",
       "score": 63
+    },
+    {
+      "name": "dynexpress",
+      "version": "2.0.0",
+      "description": "Next-generation multi-server dynamic Express orchestrator with hot-reloading, fluent route builders, socket lifecycle tracking, live telemetry, and zero-downtime port rebinding.",
+      "license": "MIT",
+      "repository": "https://github.com/devlwte/dynexpress",
+      "npmUrl": "https://www.npmjs.com/package/dynexpress",
+      "category": "backend",
+      "createdAt": "2026-09-27T23:48:45.784Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 95
     },
     {
       "name": "earn-autonomy",
@@ -101858,6 +102122,18 @@
       "score": 56
     },
     {
+      "name": "nodebb-plugin-rank-badges",
+      "version": "1.1.0",
+      "description": "Rank badges for NodeBB 4: ranks from post count and/or reputation, group badges (Administrator, Moderator, any group), optional images and a level bar. Configured in the ACP; forum and ACP translated (en-GB, pl).",
+      "license": "MIT",
+      "repository": "https://github.com/nairdaweb/nodebb-plugin-rank-badges",
+      "npmUrl": "https://www.npmjs.com/package/nodebb-plugin-rank-badges",
+      "category": "utilities",
+      "createdAt": "2026-09-27T20:09:49.051Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 98
+    },
+    {
       "name": "nodejs-store",
       "version": "1.0.0",
       "description": "Lightweight multi-backend data layer (MongoDB / MySQL / SQLite / PostgreSQL): pure JSON schemas, GQL tree queries compiled to a single query, computed columns, soft-delete and role-based access control",
@@ -103548,6 +103824,18 @@
       "createdAt": "2026-08-07T20:51:56.014Z",
       "discoveredAt": "2026-08-07T21:18:12.811Z",
       "score": 59
+    },
+    {
+      "name": "opencode-gemini-grounding",
+      "version": "1.3.0",
+      "description": "OpenCode V2 plugin for Gemini Google Search Grounding with academic-style inline citations, sources list, dynamic model selection, and automatic fallback chain.",
+      "license": "MIT",
+      "repository": "https://github.com/In-dor/opencode-gemini-grounding",
+      "npmUrl": "https://www.npmjs.com/package/opencode-gemini-grounding",
+      "category": "devops",
+      "createdAt": "2026-09-27T17:57:46.954Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 92
     },
     {
       "name": "opencode-gemini-proxy",
@@ -116976,6 +117264,18 @@
       "createdAt": "2026-07-28T11:42:46.776Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 80
+    },
+    {
+      "name": "sslcommerz-sdk-ts",
+      "version": "1.0.0",
+      "description": "SSLCommerz Node.js TypeScript SDK — Payment gateway integration for Bangladesh. Supports payment initiation, validation, refunds, and transaction queries. Modern ESM, strict typing, zero runtime dependencies.",
+      "license": "ISC",
+      "repository": "https://github.com/sshuvoo/sslcommerz-sdk",
+      "npmUrl": "https://www.npmjs.com/package/sslcommerz-sdk-ts",
+      "category": "backend",
+      "createdAt": "2026-09-27T22:35:04.258Z",
+      "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 100
     },
     {
       "name": "ssm-idempotency-guard",
