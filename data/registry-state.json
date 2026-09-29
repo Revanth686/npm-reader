@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 132983402,
-  "lastRunAt": "2026-09-28T01:28:55.860Z",
+  "lastSequence": 133245457,
+  "lastRunAt": "2026-09-29T02:31:50.954Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@mooskyai/angular",
+      "attempts": 1
+    },
+    {
+      "name": "@nvisy/elide",
+      "attempts": 1
+    },
+    {
+      "name": "@shanyucoder/flowgrid",
+      "attempts": 1
+    }
+  ]
 }

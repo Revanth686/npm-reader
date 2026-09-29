@@ -1454,6 +1454,18 @@
       "score": 56
     },
     {
+      "name": "@admmedia/adam-cookie-consent",
+      "version": "1.0.1",
+      "description": "ADM Media Consulting SA cookie consent banner: vanilla-cookieconsent preconfigured for GDPR opt-in, wired to Google Consent Mode v2.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/adm-media/adam-cookie-consent",
+      "npmUrl": "https://www.npmjs.com/package/%40admmedia%2Fadam-cookie-consent",
+      "category": "utilities",
+      "createdAt": "2026-09-28T08:44:48.165Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 91
+    },
+    {
       "name": "@adobe-thillai/aio-cli-plugin-ccca",
       "version": "1.0.0",
       "description": "Claude Code commands, hooks, and SDLC workflow for Adobe Commerce / Magento 2 module development — phase-driven lifecycle from requirements to production-ready module.",
@@ -1896,6 +1908,18 @@
       "createdAt": "2026-08-14T17:08:54.019Z",
       "discoveredAt": "2026-08-14T17:37:59.065Z",
       "score": 71
+    },
+    {
+      "name": "@agenticvalley/pqrng",
+      "version": "0.1.1",
+      "description": "Post-quantum-only cryptographically secure random number generator. A reseedable SP 800-90A-style DRBG built on the SHAKE256 XOF (FIPS-202) — the same Keccak sponge that underpins ML-KEM/ML-DSA — with an optional ML-KEM (FIPS-203) lattice entropy-conditio",
+      "license": "MIT",
+      "repository": "https://github.com/agenticvalley/pqrng",
+      "npmUrl": "https://www.npmjs.com/package/%40agenticvalley%2Fpqrng",
+      "category": "frontend",
+      "createdAt": "2026-09-28T14:47:51.937Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 90
     },
     {
       "name": "@agentoria/notifykit",
@@ -20558,6 +20582,18 @@
       "score": 90
     },
     {
+      "name": "@focus-reactive/payload-plugin-netlify-deploy",
+      "version": "1.0.1",
+      "description": "Publish button for Payload CMS sites on Netlify: build from the admin, stream the build log, preview a deploy and publish it, one build at a time per site",
+      "license": "MIT",
+      "repository": "https://github.com/focusreactive/payload-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40focus-reactive%2Fpayload-plugin-netlify-deploy",
+      "category": "frontend",
+      "createdAt": "2026-09-28T16:37:16.632Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 95
+    },
+    {
       "name": "@foldstryx/docs",
       "version": "0.2.0",
       "description": "Platform-neutral Foldstryx documentation composition (shell, typed routes, navigation)",
@@ -21600,6 +21636,18 @@
       "createdAt": "2026-08-04T01:08:39.451Z",
       "discoveredAt": "2026-08-04T01:47:25.426Z",
       "score": 66
+    },
+    {
+      "name": "@geekykalpesh/avatars",
+      "version": "1.0.0",
+      "description": "A collection of beautiful, lightweight avatar profile pictures for web & mobile projects with JS/TS API and CLI tool",
+      "license": "MIT",
+      "repository": "https://github.com/geekykalpesh/avatars",
+      "npmUrl": "https://www.npmjs.com/package/%40geekykalpesh%2Favatars",
+      "category": "backend",
+      "createdAt": "2026-09-28T06:51:09.970Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 91
     },
     {
       "name": "@geml/logseq-sync",
@@ -33602,6 +33650,18 @@
       "score": 92
     },
     {
+      "name": "@kiril6/termdeck",
+      "version": "1.4.1",
+      "description": "A browser cockpit of floating, draggable terminal windows — each backed by a real shell (PTY) on your machine. Tile, group into projects, theme, reconnect without losing a session.",
+      "license": "MIT",
+      "repository": "https://github.com/kiril6/termdeck",
+      "npmUrl": "https://www.npmjs.com/package/%40kiril6%2Ftermdeck",
+      "category": "frontend",
+      "createdAt": "2026-09-28T11:33:42.303Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 98
+    },
+    {
       "name": "@kirti_jha/reel",
       "version": "0.1.0",
       "description": "Demos-as-code for web apps and CLIs. A small YAML spec drives your real app and renders always-current GIF, MP4, storyboards and a self-contained interactive click-through — and fails your build when the flow breaks.",
@@ -40082,6 +40142,18 @@
       "score": 69
     },
     {
+      "name": "@molecule/api-ai-decisions",
+      "version": "1.0.0",
+      "description": "Typed AI decisions for molecule.dev — answer choice, score and yes/no questions about text or JSON with calibrated probabilities, behind swappable bonds (Laya, Jev, any LLM)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-ai-decisions",
+      "category": "backend",
+      "createdAt": "2026-09-28T18:01:05.695Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 91
+    },
+    {
       "name": "@molecule/api-ai-image-generation",
       "version": "1.0.1",
       "description": "<!-- AUTO-GENERATED — DO NOT EDIT THIS FILE. Generated by `mlcl sync-docs` from the package's src/index.ts JSDoc + mlcl/registry.json. Edits here are overwritten on the next commit (molecule's pre-commit hook regenerates). To change this document, edit th",
@@ -41654,6 +41726,18 @@
       "score": 77
     },
     {
+      "name": "@mu-crew/mu",
+      "version": "2.0.0",
+      "description": "A persistent, observable crew of pi agents running in one tmux or herdr session per workstream, coordinated through a built-in task DAG.",
+      "license": "MIT",
+      "repository": "https://github.com/mu-crew/mu",
+      "npmUrl": "https://www.npmjs.com/package/%40mu-crew%2Fmu",
+      "category": "cli",
+      "createdAt": "2026-09-28T06:08:10.176Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 91
+    },
+    {
       "name": "@mudlet/mudlet-web",
       "version": "0.3.0",
       "description": "Mudlet Web — Mudlet in the browser, usable standalone or as a library for branded builds",
@@ -42782,6 +42866,18 @@
       "score": 73
     },
     {
+      "name": "@nestjs-pipeline/deadletter",
+      "version": "0.2.0",
+      "description": "Dead-letter behavior for the NestJS pipeline — captures failed requests (events by default) through bundled BullMQ, RabbitMQ and Postgres transports, and redrives stored failures with an attempt count and a resolved state.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/aristoteliss/nestjs-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/%40nestjs-pipeline%2Fdeadletter",
+      "category": "backend",
+      "createdAt": "2026-09-28T08:42:06.569Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 90
+    },
+    {
       "name": "@nestjs-redisx/pubsub",
       "version": "1.7.0",
       "description": "Redis Pub/Sub plugin for NestJS RedisX: typed publish/subscribe, pattern subscriptions, @Subscribe decorator with auto-discovery, and a dedicated subscriber connection",
@@ -43310,6 +43406,18 @@
       "score": 77
     },
     {
+      "name": "@ninjavault/cdn",
+      "version": "100.42.1",
+      "description": "Typed, zero-dependency Node.js / TypeScript client for the NinjaVault CDN Server: upload, search, download, delete, public and presigned URLs.",
+      "license": "MIT",
+      "repository": "https://github.com/alisaivi786/NinjaVault-Node",
+      "npmUrl": "https://www.npmjs.com/package/%40ninjavault%2Fcdn",
+      "category": "backend",
+      "createdAt": "2026-09-28T19:38:07.660Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 94
+    },
+    {
       "name": "@ninots/validation",
       "version": "0.0.1",
       "description": "Fluent validation API with Standard Schema V1 compliance for Ninots framework",
@@ -43716,6 +43824,18 @@
       "createdAt": "2026-08-15T05:04:51.066Z",
       "discoveredAt": "2026-08-15T05:12:32.624Z",
       "score": 17
+    },
+    {
+      "name": "@noorfatima123456/packet-chef-mcp",
+      "version": "2.0.1",
+      "description": "Zero-native-dependency pure-JavaScript PCAP/PCAPng forensics MCP server for AI agents: packet inspection, conversation tracking, DNS, HTTP, TLS JA3/JA4, WebSocket, QUIC/HTTP3, and threat detection.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/noor202401938-netizen/packet-chef-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40noorfatima123456%2Fpacket-chef-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-28T14:59:01.097Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 99
     },
     {
       "name": "@noorm/lumi",
@@ -45000,6 +45120,18 @@
       "createdAt": "2026-08-22T13:14:57.887Z",
       "discoveredAt": "2026-08-22T13:33:36.708Z",
       "score": 68
+    },
+    {
+      "name": "@oneunit/auth",
+      "version": "2.0.1",
+      "description": "Framework-agnostic authentication: JWT, generic RBAC, password hashing, and social OAuth. Works standalone or with Express, Fastify, Koa, and uWebSockets.js.",
+      "license": "MIT",
+      "repository": "https://github.com/mayank040902/framework",
+      "npmUrl": "https://www.npmjs.com/package/%40oneunit%2Fauth",
+      "category": "backend",
+      "createdAt": "2026-09-28T11:52:04.221Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 95
     },
     {
       "name": "@oneyoung/claude-devtools",
@@ -62450,6 +62582,18 @@
       "score": 67
     },
     {
+      "name": "@utmotc/dshbalance",
+      "version": "1.3.1",
+      "description": "Provider API balance and subscription quotas as an always-visible dsh Web sidebar card (or the original composer pill): the balance of the provider behind the model this conversation uses, with per-package percentage bars, correct units for money vs credi",
+      "license": "MIT",
+      "repository": "https://github.com/Utmotc/dsh-plugin-balance",
+      "npmUrl": "https://www.npmjs.com/package/%40utmotc%2Fdshbalance",
+      "category": "backend",
+      "createdAt": "2026-09-28T14:30:23.664Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 100
+    },
+    {
       "name": "@uuidna/uuidna",
       "version": "0.1.0",
       "description": "Content-addressed identity, honest by construction — mint + mind, holographic merkle proofs, a reversible imprint codec, a reeducating harness, and a measured billing model. Integrity, not truth. 0/7.",
@@ -74222,6 +74366,18 @@
       "score": 99
     },
     {
+      "name": "buluver",
+      "version": "1.0.0",
+      "description": "Buluver: High-performance Turkish legal document (UDF/UYAP, DOCX, PDF) search engine, CLI, and FastMCP server for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/murataskin/buluver",
+      "npmUrl": "https://www.npmjs.com/package/buluver",
+      "category": "backend",
+      "createdAt": "2026-09-28T12:03:55.458Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 92
+    },
+    {
       "name": "bun-plugin-qiankun",
       "version": "1.0.1",
       "description": "Transform Bun-built HTML for qiankun micro-frontend compatibility. Inspired by vite-plugin-qiankun.",
@@ -75566,6 +75722,18 @@
       "score": 67
     },
     {
+      "name": "chia-mcp",
+      "version": "1.0.0",
+      "description": "MCP server exposing Chia blockchain full node RPC endpoints as tools for AI agents. Read-only full-node access via Coinset hosted nodes — not a wallet.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Chia-Network/chia-mcp",
+      "npmUrl": "https://www.npmjs.com/package/chia-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-28T08:06:41.391Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 95
+    },
+    {
       "name": "chiltepin",
       "version": "0.47.1",
       "description": "Documentation-as-code CLI: write Markdown with typed YAML blocks for API docs, architecture & system design (C4, ERDs, sequence diagrams), frontend & design systems, ADRs and decision records, planning, and slide presentations. Validate like code with `ch",
@@ -76248,6 +76416,18 @@
       "createdAt": "2026-07-30T09:12:16.378Z",
       "discoveredAt": "2026-07-30T10:15:02.599Z",
       "score": 87
+    },
+    {
+      "name": "claude-seo-pi",
+      "version": "2.4.0",
+      "description": "Comprehensive SEO analysis for the pi and omp coding agents. 33 skills, 20 specialist agents and 50+ Python tools covering technical SEO, content quality (E-E-A-T), schema markup, GEO/AI search, local SEO, backlinks, rank tracking and drift monitoring. Po",
+      "license": "MIT",
+      "repository": "https://github.com/Ikram-Maulana/claude-seo-pi",
+      "npmUrl": "https://www.npmjs.com/package/claude-seo-pi",
+      "category": "devops",
+      "createdAt": "2026-09-28T06:20:11.768Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 100
     },
     {
       "name": "claude-session-namer",
@@ -80606,6 +80786,18 @@
       "score": 82
     },
     {
+      "name": "dither-art",
+      "version": "1.0.0",
+      "description": "Seeded 1-bit dithered artwork: mountains, seas, dunes, planets and more, drawn from any string. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/PG-Momik/dither-art",
+      "npmUrl": "https://www.npmjs.com/package/dither-art",
+      "category": "devops",
+      "createdAt": "2026-09-28T17:30:44.752Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 91
+    },
+    {
       "name": "dividend-math",
       "version": "1.0.0",
       "description": "A tiny, zero-dependency TypeScript library for dividend math: yield, growth, DRIP reinvestment, monthly income and payout ratio. Pure functions, fully tested.",
@@ -80808,6 +81000,18 @@
       "createdAt": "2026-09-23T11:45:48.353Z",
       "discoveredAt": "2026-09-23T16:42:51.715Z",
       "score": 95
+    },
+    {
+      "name": "docview-all",
+      "version": "1.0.1",
+      "description": "Universal, modern zero-dependency document and file viewer engine for all JavaScript frameworks and platforms (React, Vue, Angular, React Native, Svelte, Next.js, Vanilla). Supports 67+ formats including PDF, DOCX, XLSX, CSV, Draw.io (.drawio), Video with",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/VeereshPoojari/docview-all",
+      "npmUrl": "https://www.npmjs.com/package/docview-all",
+      "category": "frontend",
+      "createdAt": "2026-09-28T05:09:45.660Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 100
     },
     {
       "name": "docx-lite",
@@ -81468,6 +81672,18 @@
       "createdAt": "2026-09-15T13:05:10.731Z",
       "discoveredAt": "2026-09-15T16:48:04.360Z",
       "score": 90
+    },
+    {
+      "name": "dsh-arknights-theme",
+      "version": "1.0.1",
+      "description": "为《明日方舟》玩家在 DSH Web 上构建沉浸感：12 张整屏壁纸（按画面自适应的边缘虚化）、按每张图解算的玻璃与文字色、罗德岛图标体系，以及签字式的授权与选择交互。 / Building immersion for Arknights players on the DSH Web GUI: twelve full-screen wallpapers with per-image edge blur, glass and ink solved from each picture, Rhodes Isla",
+      "license": "MIT",
+      "repository": "https://github.com/Theflowyears/dsh-arknights-theme",
+      "npmUrl": "https://www.npmjs.com/package/dsh-arknights-theme",
+      "category": "build-tools",
+      "createdAt": "2026-09-28T14:42:08.861Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 98
     },
     {
       "name": "dsh-artifacts",
@@ -82706,6 +82922,18 @@
       "score": 45
     },
     {
+      "name": "dsh-model-ultra",
+      "version": "2.0.1",
+      "description": "Model Ultra — DSH plugin for llm-pi-ai provider lifecycle: create/edit, custom headers, enable/disable with uninstall-restore safety, per-model thinking effort, OpenRouter provider routing, smart routing, composites, observability, and per-model connectiv",
+      "license": "MIT",
+      "repository": "https://github.com/MrCashmere/dsh-model-ultra",
+      "npmUrl": "https://www.npmjs.com/package/dsh-model-ultra",
+      "category": "utilities",
+      "createdAt": "2026-09-28T17:27:36.766Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 100
+    },
+    {
       "name": "dsh-movein-permissions",
       "version": "0.2.1",
       "description": "DSH permission gate compiled from Claude Code permission rules (deny/ask), installed by dsh-movein",
@@ -83652,6 +83880,18 @@
       "createdAt": "2026-09-04T20:24:38.173Z",
       "discoveredAt": "2026-09-10T16:16:34.181Z",
       "score": 88
+    },
+    {
+      "name": "dsh-t3-new-session-screen",
+      "version": "1.0.0",
+      "description": "T3 Code's New Session screen for DeepSeek Harness: the \"What should we build in <project>?\" headline with an inline project dropdown, a reasoning-effort picker and a git branch picker in the composer.",
+      "license": "MIT",
+      "repository": "https://github.com/yusufameri/dsh-t3-new-session-screen",
+      "npmUrl": "https://www.npmjs.com/package/dsh-t3-new-session-screen",
+      "category": "build-tools",
+      "createdAt": "2026-09-28T21:59:56.751Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 96
     },
     {
       "name": "dsh-talk",
@@ -92702,6 +92942,18 @@
       "score": 86
     },
     {
+      "name": "json-contract-diff",
+      "version": "1.0.0",
+      "description": "Detect breaking and non-breaking changes between the structure of two JSON values. Compares shapes and types, not values.",
+      "license": "MIT",
+      "repository": "https://github.com/devOMAR-2/json-contract-diff",
+      "npmUrl": "https://www.npmjs.com/package/json-contract-diff",
+      "category": "backend",
+      "createdAt": "2026-09-28T11:17:19.989Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 92
+    },
+    {
       "name": "json-so-far",
       "version": "0.1.1",
       "description": "Best-effort parser for JSON that hasn't finished arriving. Render streaming LLM output before the closing brace shows up. Zero dependencies, never throws.",
@@ -94932,6 +95184,18 @@
       "createdAt": "2026-08-20T09:23:20.038Z",
       "discoveredAt": "2026-08-20T13:03:17.154Z",
       "score": 86
+    },
+    {
+      "name": "llm-model-resolver",
+      "version": "1.2.0",
+      "description": "Resolve the current model ID for xAI, Anthropic, Gemini and OpenRouter at runtime: live /models fetch, newest-first ordering, timeouts and a pinned fallback, so a hard-coded model name never breaks a batch job.",
+      "license": "MIT",
+      "repository": "https://github.com/prakar/llm-model-resolver",
+      "npmUrl": "https://www.npmjs.com/package/llm-model-resolver",
+      "category": "utilities",
+      "createdAt": "2026-09-28T05:24:31.930Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 100
     },
     {
       "name": "llm-output-guard",
@@ -115202,6 +115466,18 @@
       "score": 70
     },
     {
+      "name": "shine-steel-calculator",
+      "version": "1.0.0",
+      "description": "Shine Enterprises MS Pipe, Iron Angle & Steel Plate Suppliers in Loha Mandi Ghaziabad - Industrial Steel Dimensions, Theoretical Weight Calculation & BIS Standards (IS 1239, IS 2062, IS 808, IS 4923) Engineering Reference Library.",
+      "license": "MIT",
+      "repository": "https://github.com/shineenterprisesghaziabad/industrial-steel-specifications-guide",
+      "npmUrl": "https://www.npmjs.com/package/shine-steel-calculator",
+      "category": "devops",
+      "createdAt": "2026-09-28T05:04:29.569Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 100
+    },
+    {
       "name": "shinro",
       "version": "0.0.1",
       "description": "Opinionated file-based routing for Hono with end-to-end type safety.",
@@ -115692,6 +115968,18 @@
       "createdAt": "2026-07-30T23:18:06.192Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 70
+    },
+    {
+      "name": "sinapsai",
+      "version": "1.0.0",
+      "description": "Blazing-fast in-process AI Gateway & Control Plane with Circuit Breaker, Failover, and Unified LLM API for Node.js & TypeScript",
+      "license": "CC-BY-4.0",
+      "repository": "https://github.com/roedyrustam/sinapsai",
+      "npmUrl": "https://www.npmjs.com/package/sinapsai",
+      "category": "backend",
+      "createdAt": "2026-09-28T21:37:04.161Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 92
     },
     {
       "name": "singulariti",
@@ -119268,6 +119556,18 @@
       "createdAt": "2026-08-10T04:57:51.800Z",
       "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 66
+    },
+    {
+      "name": "telefone-anatel",
+      "version": "1.0.0",
+      "description": "Valida, mascara e formata telefones brasileiros pelo plano de numeração da Anatel: 67 DDDs, nono dígito, fixo, +55, E.164. Zero dependências.",
+      "license": "MIT",
+      "repository": "https://github.com/arturviannaa/telefone-anatel",
+      "npmUrl": "https://www.npmjs.com/package/telefone-anatel",
+      "category": "data",
+      "createdAt": "2026-09-28T09:59:04.415Z",
+      "discoveredAt": "2026-09-29T02:31:50.954Z",
+      "score": 94
     },
     {
       "name": "telperion",
