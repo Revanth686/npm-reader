@@ -1,19 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 133245457,
-  "lastRunAt": "2026-09-29T02:31:50.954Z",
+  "lastSequence": 133509602,
+  "lastRunAt": "2026-09-30T01:55:04.164Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@mooskyai/angular",
+      "attempts": 2
+    },
+    {
+      "name": "@loomcli/loom",
       "attempts": 1
     },
     {
-      "name": "@nvisy/elide",
+      "name": "@muxion/libp2p-js",
       "attempts": 1
     },
     {
-      "name": "@shanyucoder/flowgrid",
+      "name": "@muxion/libp2p-node",
+      "attempts": 1
+    },
+    {
+      "name": "@muxion/libp2p-webrtc-js",
+      "attempts": 1
+    },
+    {
+      "name": "@muxion/libp2p-web",
       "attempts": 1
     }
   ]

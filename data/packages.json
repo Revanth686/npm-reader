@@ -938,6 +938,18 @@
       "score": 80
     },
     {
+      "name": "@abap2ui5/node-runtime",
+      "version": "1.146.0",
+      "description": "abap2UI5 for Node: the framework transpiled to JavaScript by @abaplint/transpiler over open-abap, with an HTTP handler, an express server and the ABAP sources to transpile your own apps against. It serves the UI5 frontend itself, from the same release com",
+      "license": "MIT",
+      "repository": "https://github.com/abap2UI5/abap2UI5",
+      "npmUrl": "https://www.npmjs.com/package/%40abap2ui5%2Fnode-runtime",
+      "category": "frontend",
+      "createdAt": "2026-09-27T10:03:10.115Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 98
+    },
+    {
       "name": "@abap2ui5/render-runtime",
       "version": "0.1.0",
       "description": "The UI5 runtime the abap2UI5-linter render gate serves: the @openui5 source packages and playwright, as one install.",
@@ -5918,6 +5930,18 @@
       "score": 90
     },
     {
+      "name": "@argszero/cordis-plugin-session-event-guard",
+      "version": "0.1.0",
+      "description": "Diagnoses, at the write boundary, the one session-log mistake an external plugin cannot see: Session.append builds and freezes the envelope itself and cannot set `ignorable`, so any event type outside this harness's generated vocabulary written that way i",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/cordis-plugin-session-event-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fcordis-plugin-session-event-guard",
+      "category": "build-tools",
+      "createdAt": "2026-09-29T10:24:37.891Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 90
+    },
+    {
       "name": "@argszero/cordis-plugin-session-log-budget",
       "version": "0.1.0",
       "description": "Keeps the incremental session-log request field (`dsh_session_log`) inside the size an endpoint accepts, without ever claiming more was delivered than was. The field is delivered incrementally and its increment boundary is a watermark inside the Session l",
@@ -7031,6 +7055,30 @@
       "category": "frontend",
       "createdAt": "2026-08-13T07:26:28.339Z",
       "discoveredAt": "2026-08-13T09:04:03.864Z",
+      "score": 90
+    },
+    {
+      "name": "@awacloud/fw",
+      "version": "0.1.0",
+      "description": "Zero-dependency browser framework: a DI module runtime with 200+ ESM modules — codecs, compression, crypto (WebCrypto + WASM tiers, post-quantum), DOM rendering and query, workers, security lockdown — usable without a bundler via import maps.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Ffw",
+      "category": "frontend",
+      "createdAt": "2026-09-29T14:01:16.630Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 90
+    },
+    {
+      "name": "@awacloud/fw-wasm-crypto",
+      "version": "0.1.0",
+      "description": "Supply-chain-isolated WebAssembly crypto for @awacloud/fw: 17 wasm modules (AES, ChaCha20-Poly1305, SHA-2/3, BLAKE2b, HMAC/HKDF/PBKDF2/Argon2, RSA, ECC, Ed25519/X25519, ML-KEM, ML-DSA, SLH-DSA) built from own C23 sources and committed vendored bases, with",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Ffw-wasm-crypto",
+      "category": "frontend",
+      "createdAt": "2026-09-29T13:58:38.812Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
       "score": 90
     },
     {
@@ -8208,6 +8256,18 @@
       "createdAt": "2026-08-09T20:47:26.446Z",
       "discoveredAt": "2026-08-09T20:57:04.865Z",
       "score": 48
+    },
+    {
+      "name": "@bettercommunity/bmd",
+      "version": "3.1.0",
+      "description": "B.MD (better.markdown): 65 blocks on GitHub-flavoured Markdown (callouts, cards, tabs, steps, timelines, stats, FAQ, API cards from OpenAPI, embeds, live values, Mermaid diagrams) as one React component, with a public AST, a link checker, an HTML exporter",
+      "license": "MIT",
+      "repository": "https://github.com/FreeProject089/BCW",
+      "npmUrl": "https://www.npmjs.com/package/%40bettercommunity%2Fbmd",
+      "category": "frontend",
+      "createdAt": "2026-09-29T09:38:47.690Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 100
     },
     {
       "name": "@betteroffice/fonts",
@@ -13896,6 +13956,18 @@
       "createdAt": "2026-08-13T16:40:46.240Z",
       "discoveredAt": "2026-08-13T16:47:16.274Z",
       "score": 77
+    },
+    {
+      "name": "@datatechsolutions/tympan",
+      "version": "0.3.0",
+      "description": "Tympan: accessible React components (React 18.3 or 19) on React Aria Components, styled with --ty-* CSS custom properties in @layer tympan. The flow and provenance canvas (graph viewer, DAG editor, run inspection) ships as the @datatechsolutions/tympan/fl",
+      "license": "FSL-1.1-ALv2",
+      "repository": "https://github.com/datatechsolutionsbr/tympan",
+      "npmUrl": "https://www.npmjs.com/package/%40datatechsolutions%2Ftympan",
+      "category": "frontend",
+      "createdAt": "2026-09-30T01:50:18.528Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 90
     },
     {
       "name": "@davalest/konamize",
@@ -19814,6 +19886,18 @@
       "score": 70
     },
     {
+      "name": "@filippofinke/reddit-ads-mcp",
+      "version": "1.0.1",
+      "description": "MCP server for the Reddit Ads API v3: manage campaigns, ad groups, ads, audiences, catalogs and reports from any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/filippofinke/reddit-ads-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40filippofinke%2Freddit-ads-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-29T20:49:31.027Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 92
+    },
+    {
       "name": "@fimbul-works/random",
       "version": "1.0.0",
       "description": "A comprehensive collection of high-performance 32-bit and 64-bit pseudo-random number generators (PRNG), statistical distributions, and procedural generation utilities for TypeScript and JavaScript",
@@ -21719,6 +21803,18 @@
       "category": "cli",
       "createdAt": "2026-08-09T17:42:13.669Z",
       "discoveredAt": "2026-08-09T18:28:03.745Z",
+      "score": 100
+    },
+    {
+      "name": "@geoalgeria/normalize",
+      "version": "1.0.0",
+      "description": "Search-key generation for Algerian place names, in Arabic and in French. A zero-dependency, host-independent conservative key (presentation forms, alef and hamza variants, tatweel, harakat, Arabic-Indic digits, Latin accents, separator variants, case), a",
+      "license": "MIT",
+      "repository": "https://github.com/yasserstudio/geoalgeria",
+      "npmUrl": "https://www.npmjs.com/package/%40geoalgeria%2Fnormalize",
+      "category": "data",
+      "createdAt": "2026-09-29T12:34:24.692Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
       "score": 100
     },
     {
@@ -33206,6 +33302,18 @@
       "score": 92
     },
     {
+      "name": "@kaveraa/prepare-image",
+      "version": "1.0.2",
+      "description": "Turn the photo someone just picked into an image you can upload: HEIC converted, orientation applied, resized, and location metadata removed.",
+      "license": "MIT",
+      "repository": "https://github.com/kaveraa/prepare-image",
+      "npmUrl": "https://www.npmjs.com/package/%40kaveraa%2Fprepare-image",
+      "category": "frontend",
+      "createdAt": "2026-09-29T17:41:47.834Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 93
+    },
+    {
       "name": "@kavo/sse",
       "version": "0.7.2",
       "description": "Kavo SSE realtime transport — implements @kavo/core's RealtimeTransport over Server-Sent Events, plain HTTP with no required peer library.",
@@ -40154,6 +40262,18 @@
       "score": 91
     },
     {
+      "name": "@molecule/api-ai-decisions-intern-decision",
+      "version": "1.0.0",
+      "description": "Intern-Decision decisions provider for molecule.dev — typed choice/score/yes-no answers about text and images from the open-weights Intern-Decision models on your own server",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-ai-decisions-intern-decision",
+      "category": "backend",
+      "createdAt": "2026-09-29T16:44:58.631Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 93
+    },
+    {
       "name": "@molecule/api-ai-image-generation",
       "version": "1.0.1",
       "description": "<!-- AUTO-GENERATED — DO NOT EDIT THIS FILE. Generated by `mlcl sync-docs` from the package's src/index.ts JSDoc + mlcl/registry.json. Edits here are overwritten on the next commit (molecule's pre-commit hook regenerates). To change this document, edit th",
@@ -40164,6 +40284,18 @@
       "createdAt": "2026-08-03T22:27:06.435Z",
       "discoveredAt": "2026-08-05T04:58:30.965Z",
       "score": 88
+    },
+    {
+      "name": "@molecule/api-ai-speech-nemo-speech",
+      "version": "1.0.0",
+      "description": "NVIDIA NeMo-Speech.cpp speech provider for molecule.dev — self-hosted batch and streaming speech-to-text with speaker diarization (Nemotron-3-Diarization)",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-ai-speech-nemo-speech",
+      "category": "backend",
+      "createdAt": "2026-09-29T16:45:31.596Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 91
     },
     {
       "name": "@molecule/api-ai-translation-madlad",
@@ -49932,6 +50064,18 @@
       "createdAt": "2026-08-04T06:59:46.749Z",
       "discoveredAt": "2026-08-04T07:35:01.840Z",
       "score": 77
+    },
+    {
+      "name": "@r1ck404/fast-noble-hashes",
+      "version": "1.8.1",
+      "description": "Faster drop-in replacement for @noble/hashes 1.8.0: SHA-2, SHA-1, MD5, HMAC, PBKDF2 and scrypt in WebAssembly, identical results, errors and instance state",
+      "license": "MIT",
+      "repository": "https://github.com/R1ck404/fast-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40r1ck404%2Ffast-noble-hashes",
+      "category": "utilities",
+      "createdAt": "2026-09-27T14:44:25.490Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 92
     },
     {
       "name": "@r3e/neo-mcp",
@@ -62582,6 +62726,18 @@
       "score": 67
     },
     {
+      "name": "@utmotc/dsh-balance-card",
+      "version": "1.4.0",
+      "description": "Provider API balance and subscription quotas as an always-visible dsh Web sidebar card (or the original composer pill): the balance of the provider behind the model this conversation uses, with per-package percentage bars, correct units for money vs credi",
+      "license": "MIT",
+      "repository": "https://github.com/Utmotc/dsh-balance-card",
+      "npmUrl": "https://www.npmjs.com/package/%40utmotc%2Fdsh-balance-card",
+      "category": "backend",
+      "createdAt": "2026-09-29T05:27:15.049Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 100
+    },
+    {
       "name": "@utmotc/dshbalance",
       "version": "1.3.1",
       "description": "Provider API balance and subscription quotas as an always-visible dsh Web sidebar card (or the original composer pill): the balance of the provider behind the model this conversation uses, with per-package percentage bars, correct units for money vs credi",
@@ -71388,6 +71544,18 @@
       "createdAt": "2026-08-10T18:22:30.753Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 82
+    },
+    {
+      "name": "apilive",
+      "version": "1.1.0",
+      "description": "Check if your LLM API keys are live — across 24 providers, without spending a single token. Local, zero-dependency CLI + web UI.",
+      "license": "MIT",
+      "repository": "https://github.com/parthksingh1/APILive",
+      "npmUrl": "https://www.npmjs.com/package/apilive",
+      "category": "backend",
+      "createdAt": "2026-09-29T17:49:44.613Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 92
     },
     {
       "name": "apis.vin",
@@ -81026,6 +81194,18 @@
       "score": 94
     },
     {
+      "name": "docx-revision-analyzer",
+      "version": "1.1.1",
+      "description": "Analyze Word (.docx) Track Changes history: chart edit activity over time, draw how paragraphs flow across editing sessions, and score suspiciously abrupt, paste-like insertions (possible AI-generated text). / 変更履歴(Track Changes)付きWordファイル(.docx)から、編集の時系列",
+      "license": "MIT",
+      "repository": "https://github.com/kubohiroya/docx-revision-analyzer",
+      "npmUrl": "https://www.npmjs.com/package/docx-revision-analyzer",
+      "category": "cli",
+      "createdAt": "2026-09-29T02:56:20.847Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 100
+    },
+    {
       "name": "dodo-mcp",
       "version": "1.0.0",
       "description": "DODO — local-first MCP server with multi-project coding, AI providers, sub-agents, context, memory, media and workflow tools; embedded OAuth and workspace permissions.",
@@ -81828,6 +82008,18 @@
       "createdAt": "2026-09-22T08:25:49.038Z",
       "discoveredAt": "2026-09-22T16:46:05.934Z",
       "score": 90
+    },
+    {
+      "name": "dsh-chat-image-lightbox",
+      "version": "1.7.5",
+      "description": "对话里的图值得被认真看：点一下全屏灯箱（缩放/拖拽平移/下载另存/左右翻页），一键把会话内的图收成可调列数的缩略图网格，或整块隐藏（不留空白）；本地图 TIFF/HEIC 自动无损转码，网图被防盗链拦截时自动转存本地显示。| Chat images get a proper look: full-screen lightbox (zoom / drag pan / download / prev-next), a conversation-wide thumbnail grid with adjustab",
+      "license": "MIT",
+      "repository": "https://github.com/loyalchiiina/dsh-chat-image-lightbox",
+      "npmUrl": "https://www.npmjs.com/package/dsh-chat-image-lightbox",
+      "category": "utilities",
+      "createdAt": "2026-09-29T05:20:08.292Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 96
     },
     {
       "name": "dsh-chat-import",
@@ -88430,6 +88622,18 @@
       "score": 82
     },
     {
+      "name": "genshin-persona",
+      "version": "3.7.0",
+      "description": "A Claude Code plugin that speaks as the Genshin Impact character whose birthday is nearest: an answer opens with one spoken line in the character's voice and the rest is plain, a joke or a hello is spoken whole, and every line is read aloud in the charact",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Esposter/Esposter",
+      "npmUrl": "https://www.npmjs.com/package/genshin-persona",
+      "category": "utilities",
+      "createdAt": "2026-09-29T22:48:24.885Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 96
+    },
+    {
       "name": "geo-sl",
       "version": "1.0.0",
       "description": "Trilingual (English, සිංහල, தமிழ்) Sri Lanka geographic, postal code, and administrative dataset for TypeScript and JavaScript.",
@@ -89292,6 +89496,18 @@
       "createdAt": "2026-08-11T20:08:26.733Z",
       "discoveredAt": "2026-08-11T20:35:55.479Z",
       "score": 68
+    },
+    {
+      "name": "google-maps-lead-generation",
+      "version": "1.0.1",
+      "description": "Google Maps lead generation & website opportunity discovery skill powered by ScrapeGraphAI for all AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/ahmmikun/google-maps-lead-generation",
+      "npmUrl": "https://www.npmjs.com/package/google-maps-lead-generation",
+      "category": "utilities",
+      "createdAt": "2026-09-29T23:55:43.821Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 91
     },
     {
       "name": "google-services-mcp",
@@ -91020,6 +91236,18 @@
       "createdAt": "2026-07-26T04:42:04.445Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 70
+    },
+    {
+      "name": "http-cache-lite",
+      "version": "1.0.0",
+      "description": "Lightweight, framework-friendly HTTP response caching for Node.js/TypeScript with TTL, LRU, tags, ETag, Cache-Control, SWR and request deduplication.",
+      "license": "MIT",
+      "repository": "https://github.com/FatjonMileti/http-cache-lite",
+      "npmUrl": "https://www.npmjs.com/package/http-cache-lite",
+      "category": "backend",
+      "createdAt": "2026-09-29T12:05:44.435Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 94
     },
     {
       "name": "http-fields-signatures",
@@ -94536,6 +94764,18 @@
       "createdAt": "2026-09-07T01:55:45.186Z",
       "discoveredAt": "2026-09-07T04:17:48.772Z",
       "score": 89
+    },
+    {
+      "name": "learn-anything-skill",
+      "version": "1.0.0",
+      "description": "An Agent Skill that turns any technology into a hands-on, auto-graded course on your machine — chapters, exercises with real tests, a capstone project, playgrounds and progress tracking. Works with Claude Code, Codex, OpenCode, Gemini CLI, Antigravity, Cu",
+      "license": "MIT",
+      "repository": "https://github.com/codeByDarknet/learn-anything-skill",
+      "npmUrl": "https://www.npmjs.com/package/learn-anything-skill",
+      "category": "testing",
+      "createdAt": "2026-09-29T15:34:34.324Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 100
     },
     {
       "name": "learnflix",
@@ -100752,6 +100992,18 @@
       "createdAt": "2026-07-26T07:19:40.693Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 85
+    },
+    {
+      "name": "n8n-nodes-whm",
+      "version": "1.1.0",
+      "description": "n8n community node for cPanel & WHM (WebHost Manager). Manage accounts, packages, DNS zones, SSL, resellers, services, backups and cPanel-level email, databases, domains and FTP through the WHM API, plus a trigger for WHM hook events.",
+      "license": "MIT",
+      "repository": "https://github.com/Falcyn/n8n-nodes-whm",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-whm",
+      "category": "frontend",
+      "createdAt": "2026-09-25T17:09:01.074Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 94
     },
     {
       "name": "n8n-nodes-workday-career-sites-api",
@@ -110078,6 +110330,18 @@
       "score": 85
     },
     {
+      "name": "pyno-colorpicker",
+      "version": "1.0.1",
+      "description": "A lightweight, standalone, zero-dependency color picker for Angular. Supports Hex, RGB and HSL in any valid CSS format, alpha, eyedropper, popup or inline mode, and full theming via CSS variables.",
+      "license": "MIT",
+      "repository": "https://github.com/amirhsnf/pyno-colorpicker",
+      "npmUrl": "https://www.npmjs.com/package/pyno-colorpicker",
+      "category": "frontend",
+      "createdAt": "2026-09-29T17:00:57.971Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 99
+    },
+    {
       "name": "pyon-mcp",
       "version": "0.2.0",
       "description": "MCP server that lets AI agents drive the Pyon trading platform (api.pyon.io): research, strategy building, backtesting, diagnosis, and parameter optimization",
@@ -111266,6 +111530,18 @@
       "score": 88
     },
     {
+      "name": "react-native-element-dropdown-layout-fix",
+      "version": "2.12.4",
+      "description": "React Native Element Dropdown is a library that provides a customizable dropdown component for React Native applications with RTL and layout recursion fixes.",
+      "license": "MIT",
+      "repository": "https://github.com/salmasobhi/react-native-element-dropdown",
+      "npmUrl": "https://www.npmjs.com/package/react-native-element-dropdown-layout-fix",
+      "category": "frontend",
+      "createdAt": "2026-09-29T11:46:10.328Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 95
+    },
+    {
       "name": "react-native-expandable-tabs",
       "version": "1.0.1",
       "description": "Press the center button and hidden tabs smoothly expand around it - a lightweight, animated expandable tab component for React Native",
@@ -112032,6 +112308,18 @@
       "createdAt": "2026-09-23T22:23:18.276Z",
       "discoveredAt": "2026-09-24T04:28:47.863Z",
       "score": 90
+    },
+    {
+      "name": "react-native-wifi-security",
+      "version": "1.0.0",
+      "description": "Blocks a React Native app on open (password-less), WEP, Enhanced Open and captive-portal Wi-Fi. Drop-in wrapper with native Android and iOS Wi-Fi security detection, a ready gate screen and an HTTP guard.",
+      "license": "MIT",
+      "repository": "https://github.com/Touqeer-Raza/react-native-wifi-security",
+      "npmUrl": "https://www.npmjs.com/package/react-native-wifi-security",
+      "category": "frontend",
+      "createdAt": "2026-09-29T09:32:32.256Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 100
     },
     {
       "name": "react-number-word-converter",
@@ -119795,6 +120083,18 @@
       "category": "utilities",
       "createdAt": "2026-08-31T11:19:23.319Z",
       "discoveredAt": "2026-08-31T19:04:44.008Z",
+      "score": 92
+    },
+    {
+      "name": "terra-libella",
+      "version": "1.0.1",
+      "description": "LIBELLA — The Universal Panopticon: $0 Real-Time Telemetry, Edge Time-Series & Multi-Cloud FinOps Engine for the Terra Ecosystem",
+      "license": "MIT",
+      "repository": "https://github.com/amglogicalis/Libella",
+      "npmUrl": "https://www.npmjs.com/package/terra-libella",
+      "category": "devops",
+      "createdAt": "2026-09-29T12:57:49.946Z",
+      "discoveredAt": "2026-09-30T01:55:04.164Z",
       "score": 92
     },
     {
