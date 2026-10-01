@@ -32114,6 +32114,18 @@
       "score": 85
     },
     {
+      "name": "@jeet1511/telo3",
+      "version": "5.0.0",
+      "description": "AI development framework and project-context system for coding agents. Provides persistent memory, quality frameworks, and systematic engineering practices for AI assistants like Claude, ChatGPT, GitHub Copilot, and Cursor.",
+      "license": "MIT",
+      "repository": "https://github.com/Jeet1511/telo3",
+      "npmUrl": "https://www.npmjs.com/package/%40jeet1511%2Ftelo3",
+      "category": "frontend",
+      "createdAt": "2026-09-30T18:55:08.168Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
+    },
+    {
       "name": "@jenfang/ui-agent",
       "version": "0.1.0",
       "description": "Live design-token editing and layout auditing in the browser, with write-back to source and hand-off to a coding agent",
@@ -32460,6 +32472,54 @@
       "createdAt": "2026-08-22T10:50:25.143Z",
       "discoveredAt": "2026-08-22T12:53:29.262Z",
       "score": 89
+    },
+    {
+      "name": "@johnmorrisdotca/hitotsu",
+      "version": "1.0.1",
+      "description": "Hitotsu, a colour-card shedding game for two to eight: the familiar play, the popular house rules as options (stacking, jump-in, sevens and zeros, draw to match, no bluffing), a computer player, a table for several devices, and its own deck. No dependenci",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/hitotsu",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fhitotsu",
+      "category": "frontend",
+      "createdAt": "2026-09-30T11:49:06.541Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 98
+    },
+    {
+      "name": "@johnmorrisdotca/kumimoji",
+      "version": "1.1.0",
+      "description": "Crossword tile race: a word game engine where each player builds a crossword from a bag of letter tiles, in English or Japanese kana, alone against the clock or at a table of two to eight. Seeded deals, word checking, wild tiles, a computer player, and a",
+      "license": "MIT AND CC-BY-SA-4.0",
+      "repository": "https://github.com/johnmorrisdotca/kumimoji",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fkumimoji",
+      "category": "frontend",
+      "createdAt": "2026-09-30T11:49:22.518Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/narabe",
+      "version": "1.0.0",
+      "description": "One rules engine for forty-eight abstract board games: gomoku and renju, Connect Four, tic-tac-toe, Reversi, Hex, Go, Halma, Chinese Checkers, checkers and five draughts rule sets. Pure TypeScript, every move a new state, no dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/narabe",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fnarabe",
+      "category": "frontend",
+      "createdAt": "2026-09-30T11:49:01.746Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/tenka",
+      "version": "1.1.0",
+      "description": "World conquest board game engine for two to six, in the manner of Risk: pure, seeded TypeScript rules on a map of the real world, dice battles, cards, a computer player, and a game saved and replayed as JSON, text or CSV. An SVG world map and a playable t",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/tenka",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Ftenka",
+      "category": "frontend",
+      "createdAt": "2026-09-30T11:49:16.951Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
     },
     {
       "name": "@jojoman2024/dsh-mnemon",
@@ -33254,6 +33314,18 @@
       "score": 69
     },
     {
+      "name": "@karlangas12/mcp-auth-kit",
+      "version": "1.0.0",
+      "description": "Drop-in OAuthClientProvider wrapper for @modelcontextprotocol/sdk that fixes proactive token refresh, dynamic client registration retry, and trailing-slash resource normalization bugs seen across real MCP clients.",
+      "license": "MIT",
+      "repository": "https://github.com/Karlangas12/mcp-auth-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40karlangas12%2Fmcp-auth-kit",
+      "category": "data",
+      "createdAt": "2026-09-30T12:44:01.278Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
+    },
+    {
       "name": "@karzounchat/dashboard-sdk",
       "version": "1.0.1",
       "description": "Lightweight SDK for building Karzoun dashboard panel apps. Provides a typed postMessage bridge for executing miniapp actions, receiving conversation/customer context, and triggering host UI actions from sandboxed iframes.",
@@ -33444,6 +33516,18 @@
       "createdAt": "2026-09-15T17:00:11.420Z",
       "discoveredAt": "2026-09-16T04:34:44.933Z",
       "score": 87
+    },
+    {
+      "name": "@kelvinzero/antigravity-cli",
+      "version": "1.2.0",
+      "description": "Open-source community CLI for Antigravity - supports custom AI models (OpenAI, Anthropic, Ollama, OpenRouter, Google AI Studio) alongside Gemini, with agent-context injection so custom models behave like Antigravity agents",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/kelvinzer0/antigravity-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40kelvinzero%2Fantigravity-cli",
+      "category": "cli",
+      "createdAt": "2026-09-30T07:22:28.080Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
     },
     {
       "name": "@kematzy/zen-colors",
@@ -35328,6 +35412,18 @@
       "createdAt": "2026-08-10T15:36:17.142Z",
       "discoveredAt": "2026-08-10T16:44:24.986Z",
       "score": 78
+    },
+    {
+      "name": "@leaf233/dsh-model-gateway",
+      "version": "1.0.0",
+      "description": "Model relay station for DeepSeek Harness (模型中转站): serve any registered DSH LLM provider (e.g. @tnnevol/dsh-codebuddy) over an OpenAI-compatible /v1 API, so other projects can call those models with a standard OpenAI client.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Leafyezi233/dsh-model-gateway",
+      "npmUrl": "https://www.npmjs.com/package/%40leaf233%2Fdsh-model-gateway",
+      "category": "backend",
+      "createdAt": "2026-10-01T00:49:50.315Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 96
     },
     {
       "name": "@leavepulse/sdk",
@@ -38592,6 +38688,18 @@
       "createdAt": "2026-07-27T15:20:16.880Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 79
+    },
+    {
+      "name": "@mdimranh/onestorage",
+      "version": "1.0.1",
+      "description": "Universal, zero-dependency object storage for Node.js. One typed API for local disk, Amazon S3, Cloudflare R2, Backblaze B2, MinIO, Azure Blob, Google Cloud Storage and Wasabi.",
+      "license": "MIT",
+      "repository": "https://github.com/nexitio/onestorage",
+      "npmUrl": "https://www.npmjs.com/package/%40mdimranh%2Fonestorage",
+      "category": "backend",
+      "createdAt": "2026-09-30T02:55:28.994Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 97
     },
     {
       "name": "@mdxstudio/agent-skill",
@@ -43478,6 +43586,18 @@
       "score": 83
     },
     {
+      "name": "@nilesh32236/dsh-squad",
+      "version": "1.0.0",
+      "description": "Cross-workspace worker sessions for the DeepSeek Harness: spawn named workers in other projects, queue or steer tasks into them, watch them in the background, collect their reports, and answer their escalations.",
+      "license": "MIT",
+      "repository": "https://github.com/nilesh32236/dsh-squad",
+      "npmUrl": "https://www.npmjs.com/package/%40nilesh32236%2Fdsh-squad",
+      "category": "utilities",
+      "createdAt": "2026-09-30T04:25:50.862Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 98
+    },
+    {
       "name": "@nilskluewer/pi-atlassian-mcp",
       "version": "0.2.0",
       "description": "Bridge the Atlassian Rovo MCP server (Jira, Confluence) into Pi with per-session, opt-in tool selection.",
@@ -45300,6 +45420,30 @@
       "createdAt": "2026-08-01T15:06:14.511Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 60
+    },
+    {
+      "name": "@onrail-xyz/evm",
+      "version": "1.0.0",
+      "description": "EVM utilities built on viem: declarative contract specs, ERC20, EIP-2612 permit and EIP-3009 authorization interactions, Multicall3 batched reads, and word-aligned binary layouts",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Onrail/ts-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40onrail-xyz%2Fevm",
+      "category": "utilities",
+      "createdAt": "2026-09-30T19:50:30.784Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 97
+    },
+    {
+      "name": "@onrail-xyz/utils",
+      "version": "1.0.0",
+      "description": "Zero-dependency foundation of the SDK: type-safe utilities for readonly and const data structures, lookup tables built from a const spec, general typing utilities, and the runtime primitives built on them - encoding, codec-extensible JSON, bytes, and rang",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Onrail/ts-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40onrail-xyz%2Futils",
+      "category": "data",
+      "createdAt": "2026-09-30T19:50:11.149Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
     },
     {
       "name": "@onrampfunds/embed",
@@ -61286,6 +61430,18 @@
       "score": 66
     },
     {
+      "name": "@tos-analytics/react-native-sketch-canvas",
+      "version": "1.0.0",
+      "description": "react-native-sketch-canvas allows you to draw / sketch on both iOS and Android devices and sync the drawing data between users. Of course you can save as image.",
+      "license": "MIT",
+      "repository": "https://github.com/tos-analytics/react-native-sketch-canvas",
+      "npmUrl": "https://www.npmjs.com/package/%40tos-analytics%2Freact-native-sketch-canvas",
+      "category": "frontend",
+      "createdAt": "2026-09-30T08:52:36.727Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 96
+    },
+    {
       "name": "@totemsdk/edge-email",
       "version": "0.1.0",
       "description": "Edge runtime adapter for email — IMAP/SMTP polling, notification delivery, command parsing, and sensor ingestion via email",
@@ -61380,6 +61536,78 @@
       "createdAt": "2026-07-27T07:47:02.977Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 78
+    },
+    {
+      "name": "@tradeforge/cli",
+      "version": "1.1.0",
+      "description": "Zero-boilerplate CLI runner for tradeforge strategies. Run backtests, paper trading, and live bots with candle cache warming, web dashboard, and Telegram notifications — no setup code required.",
+      "license": "MIT",
+      "repository": "https://github.com/tripolskypetr/backtest-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeforge%2Fcli",
+      "category": "testing",
+      "createdAt": "2026-09-30T09:02:03.294Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 99
+    },
+    {
+      "name": "@tradeforge/graph",
+      "version": "1.1.0",
+      "description": "Compose tradeforge computations as a typed directed acyclic graph. Define source nodes that fetch market data and output nodes that compute derived values — then resolve the whole graph in topological order.",
+      "license": "MIT",
+      "repository": "https://github.com/tripolskypetr/backtest-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeforge%2Fgraph",
+      "category": "testing",
+      "createdAt": "2026-09-30T08:47:02.668Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
+    },
+    {
+      "name": "@tradeforge/mongo",
+      "version": "1.1.0",
+      "description": "MongoDB + Redis persistence adapter for tradeforge. Replaces the default file-based storage with a production-grade backend — O(1) reads via Redis, atomic writes via Mongoose.",
+      "license": "MIT",
+      "repository": "https://github.com/tripolskypetr/backtest-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeforge%2Fmongo",
+      "category": "testing",
+      "createdAt": "2026-09-30T08:53:19.270Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 97
+    },
+    {
+      "name": "@tradeforge/ollama",
+      "version": "1.1.0",
+      "description": "Multi-provider LLM inference library for AI-powered trading strategies. Supports 10+ providers including OpenAI, Claude, DeepSeek, Grok, Mistral with unified API and automatic token rotation.",
+      "license": "MIT",
+      "repository": "https://github.com/tripolskypetr/backtest-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeforge%2Follama",
+      "category": "testing",
+      "createdAt": "2026-09-30T08:53:36.660Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 99
+    },
+    {
+      "name": "@tradeforge/pinets",
+      "version": "1.1.0",
+      "description": "Run TradingView Pine Script strategies in Node.js self hosted environment. Execute existing Pine Script indicators and generate trading signals with 1:1 syntax compatibility via PineTS runtime.",
+      "license": "MIT",
+      "repository": "https://github.com/tripolskypetr/backtest-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeforge%2Fpinets",
+      "category": "testing",
+      "createdAt": "2026-09-30T08:54:13.582Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 99
+    },
+    {
+      "name": "@tradeforge/ui",
+      "version": "1.1.0",
+      "description": "Full-stack UI framework for visualizing cryptocurrency trading signals, backtests, and real-time market data. React dashboard with candlestick charts, signal tracking, and risk analysis.",
+      "license": "MIT",
+      "repository": "https://github.com/tripolskypetr/backtest-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40tradeforge%2Fui",
+      "category": "testing",
+      "createdAt": "2026-09-30T08:46:40.582Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 98
     },
     {
       "name": "@tradetrust-tt/token-registry-community-sandbox",
@@ -66240,6 +66468,18 @@
       "createdAt": "2026-09-18T09:33:25.463Z",
       "discoveredAt": "2026-09-18T16:16:36.620Z",
       "score": 92
+    },
+    {
+      "name": "@xiaoxige1/braces",
+      "version": "3.2.2",
+      "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
+      "license": "MIT",
+      "repository": "https://github.com/micromatch/braces",
+      "npmUrl": "https://www.npmjs.com/package/%40xiaoxige1%2Fbraces",
+      "category": "devops",
+      "createdAt": "2026-09-30T08:41:14.581Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 98
     },
     {
       "name": "@xivdyetools/worker-kit",
@@ -73886,6 +74126,18 @@
       "score": 93
     },
     {
+      "name": "boilercraft",
+      "version": "1.1.0",
+      "description": "Create Laravel, Next.js, NestJS, Vite, Django, FastAPI, Go, Express and .NET projects with the official tooling — any version, auth, themes, Docker, CI. Run: npx boilercraft",
+      "license": "MIT",
+      "repository": "https://github.com/itrabbi24/BoilerCraft",
+      "npmUrl": "https://www.npmjs.com/package/boilercraft",
+      "category": "frontend",
+      "createdAt": "2026-09-30T08:54:20.801Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 97
+    },
+    {
       "name": "boltpatternhq-mcp",
       "version": "1.0.0",
       "description": "Official BoltPatternHQ MCP Server for instant automotive wheel fitment, PCD (Pitch Circle Diameter), center bore, thread size, and offset data query.",
@@ -78660,6 +78912,18 @@
       "createdAt": "2026-08-10T22:35:43.263Z",
       "discoveredAt": "2026-08-10T23:06:27.902Z",
       "score": 37
+    },
+    {
+      "name": "create-express-auth-app",
+      "version": "1.0.0",
+      "description": "Scaffold a ready-to-run Node/Express JWT authentication backend (MongoDB or PostgreSQL, JavaScript or TypeScript, optional Google OAuth and TOTP 2FA) with one command.",
+      "license": "MIT",
+      "repository": "https://github.com/mrrauf99/create-express-auth-app",
+      "npmUrl": "https://www.npmjs.com/package/create-express-auth-app",
+      "category": "backend",
+      "createdAt": "2026-09-30T10:52:57.095Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 96
     },
     {
       "name": "create-fastgrid",
@@ -98342,6 +98606,18 @@
       "score": 90
     },
     {
+      "name": "medicaltest",
+      "version": "1.0.0",
+      "description": "Open standard dataset and programmatic query engine for visa medical examination requirements, accredited panel physician networks, and clinical test preparation guidelines across 30+ destinations.",
+      "license": "MIT",
+      "repository": "https://github.com/medicaltestonline/medicaltest",
+      "npmUrl": "https://www.npmjs.com/package/medicaltest",
+      "category": "testing",
+      "createdAt": "2026-09-30T10:55:07.760Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 99
+    },
+    {
       "name": "medusa-customer-analytics",
       "version": "0.2.0",
       "description": "Checkout funnel analytics for Medusa v2 — tracks how far each shopper got on the way to an order across a seven-rung funnel from cart to completed, with an admin dashboard, abandoned-cart product ranking, and win-back promotion drafts.",
@@ -102647,6 +102923,18 @@
       "category": "utilities",
       "createdAt": "2026-09-27T20:09:49.051Z",
       "discoveredAt": "2026-09-28T01:28:55.860Z",
+      "score": 98
+    },
+    {
+      "name": "nodebb-plugin-wirelab-shoutbox",
+      "version": "1.0.0",
+      "description": "Live shoutbox for NodeBB 4: a dock on every page (bottom sheet on phones) and a widget over the NodeBB websocket. Global read/write/moderate privileges, writing rules, mutes with a moderation log, mentions with notifications, emoji, optional rank-badges i",
+      "license": "MIT",
+      "repository": "https://github.com/nairdaweb/nodebb-plugin-wirelab-shoutbox",
+      "npmUrl": "https://www.npmjs.com/package/nodebb-plugin-wirelab-shoutbox",
+      "category": "utilities",
+      "createdAt": "2026-09-30T23:14:20.405Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
       "score": 98
     },
     {
@@ -125664,6 +125952,18 @@
       "createdAt": "2026-08-03T20:12:11.675Z",
       "discoveredAt": "2026-08-03T20:56:43.208Z",
       "score": 97
+    },
+    {
+      "name": "xahau-mcp",
+      "version": "2.2.0",
+      "description": "Model Context Protocol (stdio) server for the Xahau network: offline Hook WASM inspection, a Hooks-specific static-analysis rule engine, and read-only ledger, codec, governance and unsigned-transaction tooling. Never signs or submits.",
+      "license": "MIT",
+      "repository": "https://github.com/Hugegreencandle/xahau-mcp",
+      "npmUrl": "https://www.npmjs.com/package/xahau-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-30T10:17:02.935Z",
+      "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 98
     },
     {
       "name": "xchain-mcp",

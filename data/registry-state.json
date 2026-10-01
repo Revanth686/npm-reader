@@ -1,32 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 133509602,
-  "lastRunAt": "2026-09-30T01:55:04.164Z",
+  "lastSequence": 133754068,
+  "lastRunAt": "2026-10-01T01:55:29.783Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@mooskyai/angular",
-      "attempts": 2
-    },
-    {
-      "name": "@loomcli/loom",
-      "attempts": 1
-    },
-    {
-      "name": "@muxion/libp2p-js",
-      "attempts": 1
-    },
-    {
-      "name": "@muxion/libp2p-node",
-      "attempts": 1
-    },
-    {
-      "name": "@muxion/libp2p-webrtc-js",
-      "attempts": 1
-    },
-    {
-      "name": "@muxion/libp2p-web",
-      "attempts": 1
+      "attempts": 3
     }
   ]
 }
