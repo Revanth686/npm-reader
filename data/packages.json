@@ -10814,6 +10814,18 @@
       "score": 60
     },
     {
+      "name": "@cerios/salesforce-sobjectly",
+      "version": "1.0.0",
+      "description": "Type-safe Salesforce REST API client for TypeScript. Generated SObject types, a typed SOQL builder, CRUD, composite, sObject collections, SOSL, invocable actions/Flow, Tooling API and Bulk API 2.0.",
+      "license": "MIT",
+      "repository": "https://github.com/CeriosTesting/salesforce-sobjectly",
+      "npmUrl": "https://www.npmjs.com/package/%40cerios%2Fsalesforce-sobjectly",
+      "category": "backend",
+      "createdAt": "2026-10-01T08:18:49.648Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 99
+    },
+    {
       "name": "@certiface/doc-sdk",
       "version": "1.0.0",
       "description": "SDK React Native para captura e verificação de documentos Certiface",
@@ -18878,6 +18890,18 @@
       "score": 100
     },
     {
+      "name": "@estebanforge/pi-rtk-optimizer",
+      "version": "1.0.1",
+      "description": "RTK command rewriting and tool output compaction extension for the Pi coding agent. Rewrites bash commands to their rtk equivalents and compacts noisy tool output to reduce context window usage. (fork of MasuRii extension)",
+      "license": "MIT",
+      "repository": "https://github.com/EstebanForge/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40estebanforge%2Fpi-rtk-optimizer",
+      "category": "utilities",
+      "createdAt": "2026-10-02T01:32:55.495Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 94
+    },
+    {
       "name": "@estebanforge/pi-show-me-the-meat",
       "version": "1.0.1",
       "description": "Reading-diff tool for Pi. Reduces a git diff to the lines that carry the change (the meat) by spawning an isolated sub-agent that selects which original diff lines to keep, then a deterministic compiler projects exactly those lines. Inspired by meat (http",
@@ -18888,6 +18912,18 @@
       "createdAt": "2026-08-07T01:16:06.755Z",
       "discoveredAt": "2026-08-07T02:12:46.077Z",
       "score": 81
+    },
+    {
+      "name": "@estebanforge/pi-tool-display",
+      "version": "1.0.1",
+      "description": "Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display. (fork of MasuRii extension)",
+      "license": "MIT",
+      "repository": "https://github.com/EstebanForge/pi-extensions",
+      "npmUrl": "https://www.npmjs.com/package/%40estebanforge%2Fpi-tool-display",
+      "category": "utilities",
+      "createdAt": "2026-10-02T01:33:46.338Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 98
     },
     {
       "name": "@estifanos-sh/convex-embedded",
@@ -19068,6 +19104,18 @@
       "createdAt": "2026-08-12T22:57:36.666Z",
       "discoveredAt": "2026-08-12T23:19:09.424Z",
       "score": 62
+    },
+    {
+      "name": "@everframe/react-native",
+      "version": "1.0.0",
+      "description": "React Native SDK for Everframe — AI-ready in-app bug reporting, bridging the native iOS and Android reporter to your RN app. Supports phone, Apple TV, and Android TV.",
+      "license": "MIT",
+      "repository": "https://github.com/scriptx-com/everframe",
+      "npmUrl": "https://www.npmjs.com/package/%40everframe%2Freact-native",
+      "category": "frontend",
+      "createdAt": "2026-09-25T06:58:04.980Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 96
     },
     {
       "name": "@everypage/node",
@@ -29834,6 +29882,18 @@
       "score": 99
     },
     {
+      "name": "@ibrahimalnimrawi/a11y",
+      "version": "1.0.0",
+      "description": "A drop-in accessibility widget for any website: text scaling, dyslexia fonts, contrast, colour-blind filters, reading mask, magnifier, keyboard navigation and read-aloud. Vanilla JS, no dependencies, English and Arabic built in.",
+      "license": "MIT AND OFL-1.1",
+      "repository": "https://github.com/ibrahimkhalnimrawi/a11y",
+      "npmUrl": "https://www.npmjs.com/package/%40ibrahimalnimrawi%2Fa11y",
+      "category": "devops",
+      "createdAt": "2026-10-01T09:25:38.206Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 98
+    },
+    {
       "name": "@ibyjs/core",
       "version": "0.1.0",
       "description": "Minimal runtime-neutral primitives for IBY.",
@@ -32474,6 +32534,54 @@
       "score": 89
     },
     {
+      "name": "@johnmorrisdotca/bushu",
+      "version": "1.0.0",
+      "description": "Bushu 部首, find a kanji by the parts it is made of, for JavaScript and TypeScript: choose parts and get every kanji that holds them all, with the parts that can still narrow the search, as the multi-radical lookup of the dictionary sites does. The 253 radi",
+      "license": "(MIT AND CC-BY-SA-4.0 AND CC-BY-4.0)",
+      "repository": "https://github.com/johnmorrisdotca/bushu",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fbushu",
+      "category": "frontend",
+      "createdAt": "2026-10-02T01:10:21.270Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/chizu",
+      "version": "1.0.0",
+      "description": "Chizu 地図, maps for JavaScript and TypeScript: the world and 31 countries' regions drawn from Natural Earth (public domain) with names in English and Japanese, and the engine around them: framing and zoom, insets, a world that wraps round, quiz distractors",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/chizu",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fchizu",
+      "category": "frontend",
+      "createdAt": "2026-10-02T01:10:17.961Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/domino",
+      "version": "1.1.0",
+      "description": "Dominoes for JavaScript and TypeScript: double-nine, double-twelve and double-fifteen sets, and the full rules of Mexican Train for two to eight players, with a computer player, seeded deals that replay exactly, a compact saved-game format, the words of t",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/domino",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fdomino",
+      "category": "frontend",
+      "createdAt": "2026-10-01T01:15:19.262Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/hikidashi",
+      "version": "1.0.0",
+      "description": "Hikidashi 引き出し, a drawer of small Japanese text tools for JavaScript and TypeScript: era dates (和暦, 令和6年 to 2024 and back, with 元年), kanji numerals both ways (一億二千万 to 120000000, read aloud, formal 壱万), the dictionary forms a conjugated verb or adjective",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/hikidashi",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fhikidashi",
+      "category": "testing",
+      "createdAt": "2026-10-02T01:10:14.895Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
       "name": "@johnmorrisdotca/hitotsu",
       "version": "1.0.1",
       "description": "Hitotsu, a colour-card shedding game for two to eight: the familiar play, the popular house rules as options (stacking, jump-in, sevens and zeros, draw to match, no bluffing), a computer player, a table for several devices, and its own deck. No dependenci",
@@ -32484,6 +32592,18 @@
       "createdAt": "2026-09-30T11:49:06.541Z",
       "discoveredAt": "2026-10-01T01:55:29.783Z",
       "score": 98
+    },
+    {
+      "name": "@johnmorrisdotca/kazu",
+      "version": "1.0.0",
+      "description": "Kazu 数, grid number puzzles for JavaScript and TypeScript: Sudoku (4×4 to a 16×16 Giant), Jigsaw, Diagonal and Killer Sudoku, Futoshiki and Skyscrapers. A seeded generator whose every puzzle has exactly one answer, at three levels; a solver that counts an",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/kazu",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fkazu",
+      "category": "frontend",
+      "createdAt": "2026-10-02T01:10:01.003Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
     },
     {
       "name": "@johnmorrisdotca/kumimoji",
@@ -32498,6 +32618,18 @@
       "score": 100
     },
     {
+      "name": "@johnmorrisdotca/meikyuu",
+      "version": "1.0.0",
+      "description": "Meikyuu 迷宮, a maze game for JavaScript and TypeScript: mazes on squares, hexagons, triangles, circles and cut-out shapes (a heart, a leaf, a star), made by seven algorithms from a seed, with a difficulty measure, about a thousand levels from a few cells t",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/meikyuu",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fmeikyuu",
+      "category": "frontend",
+      "createdAt": "2026-10-02T01:10:12.411Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
       "name": "@johnmorrisdotca/narabe",
       "version": "1.0.0",
       "description": "One rules engine for forty-eight abstract board games: gomoku and renju, Connect Four, tic-tac-toe, Reversi, Hex, Go, Halma, Chinese Checkers, checkers and five draughts rule sets. Pure TypeScript, every move a new state, no dependencies.",
@@ -32507,6 +32639,18 @@
       "category": "frontend",
       "createdAt": "2026-09-30T11:49:01.746Z",
       "discoveredAt": "2026-10-01T01:55:29.783Z",
+      "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/sugoroku",
+      "version": "1.0.0",
+      "description": "Sugoroku, backgammon and its variants for JavaScript and TypeScript: the rules, the doubling cube and match play with the Crawford rule, Long Gammon, Nackgammon, Hypergammon, Tabula, Anti-Backgammon and race starts, games as text that a server can replay,",
+      "license": "MIT",
+      "repository": "https://github.com/johnmorrisdotca/sugoroku",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fsugoroku",
+      "category": "frontend",
+      "createdAt": "2026-10-02T01:09:42.160Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
       "score": 100
     },
     {
@@ -38616,6 +38760,18 @@
       "createdAt": "2026-08-13T11:29:08.094Z",
       "discoveredAt": "2026-08-13T11:40:08.101Z",
       "score": 62
+    },
+    {
+      "name": "@mcp-abap-adt/auth-broker-cli",
+      "version": "1.0.0",
+      "description": "The mcp-auth and mcp-sso commands: log in to a SAP BTP or ABAP destination and write its session, through @mcp-abap-adt/auth-broker",
+      "license": "LGPL-3.0-only",
+      "repository": "https://github.com/fr0ster/mcp-abap-adt-auth-broker",
+      "npmUrl": "https://www.npmjs.com/package/%40mcp-abap-adt%2Fauth-broker-cli",
+      "category": "cli",
+      "createdAt": "2026-10-01T14:50:48.418Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 93
     },
     {
       "name": "@mcp-abap-adt/auth-mocks",
@@ -54974,6 +55130,18 @@
       "score": 89
     },
     {
+      "name": "@shieldlabs-ai/next",
+      "version": "1.0.0",
+      "description": "Next.js integration for ShieldLabs device intelligence: the React provider and hooks as a client module, and server helpers that read identifications and verify signed webhooks in the Node.js and Edge runtimes.",
+      "license": "MIT",
+      "repository": "https://github.com/ShieldLabs-ai/shieldlabs-next",
+      "npmUrl": "https://www.npmjs.com/package/%40shieldlabs-ai%2Fnext",
+      "category": "frontend",
+      "createdAt": "2026-10-01T16:44:34.097Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
       "name": "@shieldsbetter/sbopts",
       "version": "0.1.0",
       "description": "Opinionated ESM command-line parser: --long/-s flags, boolean stacking, repeated-as-array values, inherited subcommand flags, and termiflo-rendered --help.",
@@ -59078,6 +59246,18 @@
       "score": 93
     },
     {
+      "name": "@t0mer/n8n-nodes-ssllabs",
+      "version": "2026.10.0",
+      "description": "n8n community nodes for the Qualys SSL Labs API v4: run SSL/TLS server assessments, get grades and certificate details, and get alerts on grade drops or expiring certificates.",
+      "license": "MIT",
+      "repository": "https://github.com/t0mer/n8n-nodes-ssllabs",
+      "npmUrl": "https://www.npmjs.com/package/%40t0mer%2Fn8n-nodes-ssllabs",
+      "category": "testing",
+      "createdAt": "2026-09-26T17:14:40.734Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 97
+    },
+    {
       "name": "@ta-interaktiv/react-header-injection",
       "version": "1.0.1",
       "description": "Injects React content into the header of a Tamedia article and restyles the surrounding host DOM.",
@@ -60996,6 +61176,18 @@
       "createdAt": "2026-09-21T04:35:43.854Z",
       "discoveredAt": "2026-09-21T04:39:08.077Z",
       "score": 100
+    },
+    {
+      "name": "@ticatec/topside-excel-wizard",
+      "version": "1.0.0",
+      "description": "A schema-driven Svelte component library for Excel batch data processing with wizard-style interfaces, supporting validation, encoding, and template generation.",
+      "license": "MIT",
+      "repository": "https://github.com/ticatec/topside-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40ticatec%2Ftopside-excel-wizard",
+      "category": "frontend",
+      "createdAt": "2026-10-01T21:29:34.666Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 96
     },
     {
       "name": "@tie-di/core",
@@ -68786,6 +68978,18 @@
       "score": 42
     },
     {
+      "name": "achi-html-stream",
+      "version": "1.0.1",
+      "description": "An HTML streaming library for multi-page progressive web apps that renders HTML in service workers and also works with Node.js and other JavaScript runtimes",
+      "license": "MIT",
+      "repository": "https://github.com/kimbugwe-mark/achi-html-stream",
+      "npmUrl": "https://www.npmjs.com/package/achi-html-stream",
+      "category": "backend",
+      "createdAt": "2026-10-01T23:17:46.182Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 95
+    },
+    {
       "name": "achintya-sdk",
       "version": "0.1.1",
       "description": "A provider-agnostic TypeScript agent SDK: tools with schemas, guardrails, sessions, handoffs, streaming and tracing.",
@@ -75456,6 +75660,18 @@
       "createdAt": "2026-08-10T20:40:50.294Z",
       "discoveredAt": "2026-08-10T21:22:02.347Z",
       "score": 63
+    },
+    {
+      "name": "caustic-light",
+      "version": "1.1.0",
+      "description": "A web component that renders physically based caustic light (the webs and ribbons that glass, water and polished metal throw onto a wall) with WebGL2. Gradient maps, hover effects and music-reactive light. No dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/sachaa/caustic-light",
+      "npmUrl": "https://www.npmjs.com/package/caustic-light",
+      "category": "frontend",
+      "createdAt": "2026-10-01T19:17:22.581Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
     },
     {
       "name": "cavalier-contours-js",
@@ -83426,6 +83642,18 @@
       "score": 70
     },
     {
+      "name": "dsh-musage-card",
+      "version": "1.6.0",
+      "description": "Multi-provider quota & balance glass card for the DSH sidebar footer (11 providers incl. StepFun / Xiaomi MiMo / Claude with one-click browser login; Step Plan credit). Installable from the dsh-plugin marketplace (GitHub topic \"dsh-plugin\") or via file: l",
+      "license": "MIT",
+      "repository": "https://github.com/Lin-Dongg/dsh-musage-card",
+      "npmUrl": "https://www.npmjs.com/package/dsh-musage-card",
+      "category": "frontend",
+      "createdAt": "2026-10-01T15:58:59.146Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 93
+    },
+    {
       "name": "dsh-my-cost",
       "version": "0.2.0",
       "description": "DeepSeek Harness cost & balance plugin: hourly official-price polling (peak/off-peak ready), cache-aware per-session/per-message cost projection, and account balance via the DeepSeek API.",
@@ -85022,6 +85250,18 @@
       "score": 63
     },
     {
+      "name": "dynatrace-bridge-mcp",
+      "version": "1.0.1",
+      "description": "MCP server that lets AI assistants query Dynatrace Managed (services, traces, metrics, pods, problems) through your authenticated browser session, with no API tokens required.",
+      "license": "MIT",
+      "repository": "https://github.com/yunusemregul/dynatrace-bridge-mcp",
+      "npmUrl": "https://www.npmjs.com/package/dynatrace-bridge-mcp",
+      "category": "frontend",
+      "createdAt": "2026-10-01T12:21:12.080Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 97
+    },
+    {
       "name": "dynexpress",
       "version": "2.0.0",
       "description": "Next-generation multi-server dynamic Express orchestrator with hot-reloading, fluent route builders, socket lifecycle tracking, live telemetry, and zero-downtime port rebinding.",
@@ -86472,6 +86712,18 @@
       "createdAt": "2026-08-07T23:41:49.156Z",
       "discoveredAt": "2026-08-08T01:00:56.108Z",
       "score": 84
+    },
+    {
+      "name": "excel-safe-csv",
+      "version": "1.0.1",
+      "description": "Write CSV files that Excel cannot mangle (leading zeros, long IDs, dates, gene names, formula injection, Korean/CJK text) and read the CSV files Excel produces (UTF-8/UTF-16/CP949, sep= lines).",
+      "license": "MIT",
+      "repository": "https://github.com/FillDDak/excel-safe-csv",
+      "npmUrl": "https://www.npmjs.com/package/excel-safe-csv",
+      "category": "data",
+      "createdAt": "2026-10-01T04:41:59.112Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 99
     },
     {
       "name": "exceljs-community",
@@ -97370,6 +97622,18 @@
       "score": 96
     },
     {
+      "name": "maukirim",
+      "version": "1.0.1",
+      "description": "Official Node.js and TypeScript SDK for the MauKirim WhatsApp gateway (maukirim.com) — send OTP codes, send templated notifications, and operate rented WhatsApp numbers.",
+      "license": "MIT",
+      "repository": "https://github.com/MauKirim/sdk-nodejs",
+      "npmUrl": "https://www.npmjs.com/package/maukirim",
+      "category": "backend",
+      "createdAt": "2026-10-01T20:06:42.027Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 94
+    },
+    {
       "name": "mavensecguard",
       "version": "1.9.0",
       "description": "Zero-dependency multi-ecosystem application security scanner, SBOM generator and auto-remediation CLI for Maven, Python, and Docker.",
@@ -97572,6 +97836,18 @@
       "createdAt": "2026-08-15T08:22:35.967Z",
       "discoveredAt": "2026-08-15T08:48:16.876Z",
       "score": 83
+    },
+    {
+      "name": "mcp-castor",
+      "version": "2026.3.0",
+      "description": "Universal 245K local Castor agent microkernel & MCP server: collaborative Socratic pair-programming, native multi-provider research (Brave, Tavily, Context7 docs, SearXNG, DuckDuckGo), cooperative landing turn ceiling preservation, in-process structural A",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/ApatheticMioz/Anser",
+      "npmUrl": "https://www.npmjs.com/package/mcp-castor",
+      "category": "backend",
+      "createdAt": "2026-10-01T16:21:50.749Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
     },
     {
       "name": "mcp-claude-designer-arabic-server",
@@ -117110,6 +117386,18 @@
       "score": 64
     },
     {
+      "name": "smart-industrial",
+      "version": "27.1.0",
+      "description": "Smart.Industrial: 54 UI components for browser HMI and SCADA applications, built as standards-based Custom Elements with no third-party dependencies. ISA-101 themes, ISA-18.2 alarms, SPC, DSP, PackML, model outputs (forecast bands, anomaly markers, heatma",
+      "license": "SEE LICENSE IN EULA.pdf",
+      "repository": "https://github.com/HTMLElements/smart-elements",
+      "npmUrl": "https://www.npmjs.com/package/smart-industrial",
+      "category": "frontend",
+      "createdAt": "2026-10-01T21:30:30.356Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 100
+    },
+    {
       "name": "smart-launch",
       "version": "0.1.0",
       "description": "SMART on FHIR authentication & launch flow reference implementation",
@@ -124968,6 +125256,18 @@
       "createdAt": "2026-08-12T18:42:16.766Z",
       "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 93
+    },
+    {
+      "name": "webready",
+      "version": "1.0.0",
+      "description": "Make your media web-ready: responsive AVIF/WebP images and MP4 video with ready-to-paste markup and React/Vue components — plus a browser module that shrinks photos before upload.",
+      "license": "MIT",
+      "repository": "https://github.com/sajjadlabs/webready",
+      "npmUrl": "https://www.npmjs.com/package/webready",
+      "category": "frontend",
+      "createdAt": "2026-10-01T10:55:20.901Z",
+      "discoveredAt": "2026-10-02T02:04:54.865Z",
+      "score": 97
     },
     {
       "name": "webrtc-mcp-server",
