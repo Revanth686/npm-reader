@@ -1,12 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 134002107,
-  "lastRunAt": "2026-10-02T02:04:54.865Z",
+  "lastSequence": 134214296,
+  "lastRunAt": "2026-10-03T01:49:02.855Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@mooskyai/angular",
-      "attempts": 4
+      "attempts": 5
+    },
+    {
+      "name": "@xano-sdk/auth",
+      "attempts": 1
+    },
+    {
+      "name": "@xano-sdk/chatbot",
+      "attempts": 1
+    },
+    {
+      "name": "@dipoleml/dcode-cli",
+      "attempts": 1
     }
   ]
 }
