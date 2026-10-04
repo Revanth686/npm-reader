@@ -33962,6 +33962,18 @@
       "score": 86
     },
     {
+      "name": "@kimalale/automation-engine",
+      "version": "1.0.0",
+      "description": "General-purpose TypeScript automation factory — workers, pipelines, queues, schedulers, sagas, and more. The reliability layer for your automation code.",
+      "license": "MIT",
+      "repository": "https://github.com/kimalale/automation-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40kimalale%2Fautomation-engine",
+      "category": "build-tools",
+      "createdAt": "2026-10-03T02:06:28.150Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 95
+    },
+    {
       "name": "@kimi.builders/usage",
       "version": "0.4.0",
       "description": "Local-first usage analytics and optional sync for AI coding agents",
@@ -53402,6 +53414,18 @@
       "score": 59
     },
     {
+      "name": "@ryuu-mikuryu/mikuryu-v6",
+      "version": "1.0.0",
+      "description": "Mikuryu v6 — Custom WhatsApp Web API with full interactive button support (based on enhanced Baileys v7 fork).",
+      "license": "MIT",
+      "repository": "https://github.com/jafrisebat20-sketch/mikuryu-v6",
+      "npmUrl": "https://www.npmjs.com/package/%40ryuu-mikuryu%2Fmikuryu-v6",
+      "category": "backend",
+      "createdAt": "2026-10-03T08:43:12.740Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 91
+    },
+    {
       "name": "@s-ry2005/bosscoding",
       "version": "0.6.1",
       "description": "给不会编程的产品老板：一句话把 AI 协作规则、真实状态检查和安全收尾装进项目，Codex、Claude Code 等都能用。",
@@ -58814,6 +58838,18 @@
       "score": 87
     },
     {
+      "name": "@swfte/sdk",
+      "version": "1.2.0",
+      "description": "Official TypeScript/JavaScript SDK for Swfte — unified AI gateway, agents, workflows, chatflows, RAG, voice, and MCP servers through a single API.",
+      "license": "MIT",
+      "repository": "https://github.com/SwfteAI/swfte-node",
+      "npmUrl": "https://www.npmjs.com/package/%40swfte%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-10-03T19:06:49.332Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 94
+    },
+    {
       "name": "@swifty.js/swiftx",
       "version": "0.0.1",
       "description": "Swiftx — Native cli coding agent",
@@ -60518,6 +60554,18 @@
       "score": 100
     },
     {
+      "name": "@thenavidm/bannerbear-mcp-cli",
+      "version": "2.0.0",
+      "description": "Bannerbear V5 MCP and shared CLI with private workspace profiles, confirmed renders and exclusive signing-key delivery.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/thenavidm/bannerbear-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fbannerbear-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-03T01:54:45.200Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 91
+    },
+    {
       "name": "@thenavidm/beehiiv-mcp-cli",
       "version": "2.0.0",
       "description": "Beehiiv API v2 MCP server and task CLI for newsletters, subscribers, posts, segments, automations, podcast feeds, newsletter lists, exports, stats, tiers and webhooks.",
@@ -60590,6 +60638,18 @@
       "score": 92
     },
     {
+      "name": "@thenavidm/creatomate-mcp-cli",
+      "version": "2.0.0",
+      "description": "Creatomate MCP and shared CLI with isolated projects, reviewed render batches and explicit render/template confirmation.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/creatomate-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fcreatomate-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-03T03:48:18.756Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
+    },
+    {
       "name": "@thenavidm/facebook-ad-library-mcp-cli",
       "version": "0.5.0",
       "description": "Facebook Ad Library MCP server and CLI for Claude Code, Codex and AI agents. 9 tools that read every ad running on Facebook, Instagram, Messenger, Threads and Audience Network, for any advertiser in any country, free and with no API key.",
@@ -60612,6 +60672,30 @@
       "createdAt": "2026-10-02T13:03:27.131Z",
       "discoveredAt": "2026-10-03T01:49:02.855Z",
       "score": 100
+    },
+    {
+      "name": "@thenavidm/fluent-wp-mcp-cli",
+      "version": "2.0.0",
+      "description": "Remote Fluent WordPress task CLI and local MCP for current FluentCRM, FluentCommunity and Fluent Forms, isolated site profiles, reviewed cross-plugin tasks and private snapshots.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/fluent-wp-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Ffluent-wp-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-03T08:17:50.503Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 97
+    },
+    {
+      "name": "@thenavidm/fourthwall-mcp-cli",
+      "version": "2.0.0",
+      "description": "Fourthwall shared CLI and local MCP: isolated shop profiles, reviewed operational batches, mandatory effect approval, bounded metadata exports and private upload receipts.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/fourthwall-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Ffourthwall-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-03T23:16:23.346Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 97
     },
     {
       "name": "@thenavidm/google-photos-mcp",
@@ -60650,6 +60734,18 @@
       "score": 90
     },
     {
+      "name": "@thenavidm/gumroad-mcp-cli",
+      "version": "2.0.0",
+      "description": "Gumroad shared task CLI and local MCP with private seller/license profiles, mandatory effect approval, safe license checks, exact reviewed batches and bounded private exports.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/gumroad-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fgumroad-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-03T19:16:05.147Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 97
+    },
+    {
       "name": "@thenavidm/imessage-mcp-cli",
       "version": "0.3.0",
       "description": "iMessage MCP server and CLI for Claude Code, Codex and AI agents on a Mac. 10 tools for an inbox that survives restarts, search across your full history, contact lookup, sending with delivery confirmation, and voice note transcription.",
@@ -60660,6 +60756,18 @@
       "createdAt": "2026-09-26T20:02:15.386Z",
       "discoveredAt": "2026-09-27T05:04:45.917Z",
       "score": 90
+    },
+    {
+      "name": "@thenavidm/lemonsqueezy-mcp-cli",
+      "version": "2.0.0",
+      "description": "Lemon Squeezy shared task CLI and local MCP for current JSON:API, independent private license credentials, approved commerce tasks, reviewed batches and bounded private exports.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/lemonsqueezy-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Flemonsqueezy-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-03T14:40:16.753Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 97
     },
     {
       "name": "@thenavidm/mastodon-mcp",
@@ -60734,6 +60842,18 @@
       "score": 90
     },
     {
+      "name": "@thenavidm/senja-mcp-cli",
+      "version": "2.0.0",
+      "description": "Senja shared MCP and task CLI for current testimonials, project links, reviewed imports and invites, private accounts and bounded exports.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/senja-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fsenja-mcp-cli",
+      "category": "testing",
+      "createdAt": "2026-10-03T10:50:55.719Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 93
+    },
+    {
       "name": "@thenavidm/substack-mcp-cli",
       "version": "2.2.0",
       "description": "Substack MCP server for Claude Code and AI agents. 65 tools for drafts, posts, Notes, subscribers, analytics, tags, comments and researching other publications.",
@@ -60744,6 +60864,30 @@
       "createdAt": "2026-09-02T15:03:30.825Z",
       "discoveredAt": "2026-09-02T16:27:26.013Z",
       "score": 96
+    },
+    {
+      "name": "@thenavidm/teachable-mcp-cli",
+      "version": "2.0.0",
+      "description": "Teachable shared CLI and local MCP: stable v1, explicit beta v2, isolated school profiles, reviewed batches and bounded private exports.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/teachable-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Fteachable-mcp-cli",
+      "category": "backend",
+      "createdAt": "2026-10-04T02:05:38.133Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 93
+    },
+    {
+      "name": "@thenavidm/testimonial-mcp-cli",
+      "version": "2.0.1",
+      "description": "Testimonial.to shared task CLI and local MCP for current Space REST, separate public-use consent, exact reviewed imports and private bounded exports.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/thenavidm/testimonial-mcp-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40thenavidm%2Ftestimonial-mcp-cli",
+      "category": "testing",
+      "createdAt": "2026-10-03T12:14:00.915Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 94
     },
     {
       "name": "@thenavidm/threads-mcp",
@@ -64922,6 +65066,18 @@
       "score": 90
     },
     {
+      "name": "@vstlmkh/forge",
+      "version": "1.0.1",
+      "description": "A reusable agent harness for any repository: test-first ticket cycle, Markdown tracker, typed knowledge base, role agents and the hooks that keep them honest.",
+      "license": "MIT",
+      "repository": "https://github.com/vstlmkh/forge",
+      "npmUrl": "https://www.npmjs.com/package/%40vstlmkh%2Fforge",
+      "category": "testing",
+      "createdAt": "2026-10-03T12:43:36.378Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 93
+    },
+    {
       "name": "@vtquan124/strix",
       "version": "1.0.0",
       "description": "A task-driven, hybrid AI coding workflow — packaged as a Claude Code plugin.",
@@ -66624,6 +66780,42 @@
       "createdAt": "2026-08-08T22:12:37.072Z",
       "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 68
+    },
+    {
+      "name": "@xano-sdk/auth",
+      "version": "1.0.0",
+      "description": "Plug-and-play Xano authentication (signup/login/me + user, account, event_log tables) as typed Xano SDK defs. Authentication only - no roles, permissions, or route guards.",
+      "license": "MIT",
+      "repository": "https://github.com/xanots/auth",
+      "npmUrl": "https://www.npmjs.com/package/%40xano-sdk%2Fauth",
+      "category": "backend",
+      "createdAt": "2026-10-03T01:47:48.312Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 95
+    },
+    {
+      "name": "@xano-sdk/mcp-oauth",
+      "version": "1.0.0",
+      "description": "Hosted OAuth sign-in for Xano SDK MCP servers: a branded sign-in and consent page, the endpoints behind it, and the oauth block for mcpServer().",
+      "license": "MIT",
+      "repository": "https://github.com/xanots/mcp-oauth",
+      "npmUrl": "https://www.npmjs.com/package/%40xano-sdk%2Fmcp-oauth",
+      "category": "backend",
+      "createdAt": "2026-10-03T06:32:41.536Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
+    },
+    {
+      "name": "@xano-sdk/vector",
+      "version": "1.0.0",
+      "description": "Plug-and-play vector search & multimodal Gemini embedding pipeline (document/chunk tables, ingestion, chunking strategies, management APIs, and agent tool) as typed Xano SDK defs.",
+      "license": "MIT",
+      "repository": "https://github.com/xanots/vector",
+      "npmUrl": "https://www.npmjs.com/package/%40xano-sdk%2Fvector",
+      "category": "backend",
+      "createdAt": "2026-10-03T01:49:51.826Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
     },
     {
       "name": "@xano/sdk",
@@ -79286,6 +79478,18 @@
       "score": 75
     },
     {
+      "name": "create-better-tanstacked",
+      "version": "3.44.3",
+      "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
+      "license": "MIT",
+      "repository": "https://github.com/dvaJi/create-better-tanstacked",
+      "npmUrl": "https://www.npmjs.com/package/create-better-tanstacked",
+      "category": "frontend",
+      "createdAt": "2026-10-04T01:46:45.184Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
+    },
+    {
       "name": "create-clean-express",
       "version": "0.1.0",
       "description": "An opinionated CLI for Express.js that helps developers create clean, scalable backend APIs using a layered architecture.",
@@ -81384,6 +81588,18 @@
       "createdAt": "2026-08-20T07:38:45.962Z",
       "discoveredAt": "2026-08-20T13:03:17.154Z",
       "score": 88
+    },
+    {
+      "name": "diabetes-data-mcp",
+      "version": "1.0.1",
+      "description": "Mac Mini diabetes data plane: LAN-only Nightscout (LaunchAgents, loopback MongoDB), the Nightscout to SQLite sync, and a read-only bearer-token Streamable HTTP MCP over that archive",
+      "license": "MIT",
+      "repository": "https://github.com/sfls1397/Diabetes-Data-MCP",
+      "npmUrl": "https://www.npmjs.com/package/diabetes-data-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-04T01:21:04.196Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
     },
     {
       "name": "diagno",
@@ -84434,6 +84650,18 @@
       "score": 100
     },
     {
+      "name": "dsh-project-guard",
+      "version": "1.0.1",
+      "description": "Permission guard for DeepSeek Harness: work inside the workspace is never interrupted, and only the extra permission a call asks for is judged — machine-safe actions pass, system changes ask with a consequence analysis, destructive ones are refused.",
+      "license": "MIT",
+      "repository": "https://github.com/Inceptzws/dsh-project-guard",
+      "npmUrl": "https://www.npmjs.com/package/dsh-project-guard",
+      "category": "utilities",
+      "createdAt": "2026-10-03T10:42:59.936Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 93
+    },
+    {
       "name": "dsh-punky-swarm",
       "version": "0.3.6",
       "description": "dsh-punky-swarm — dsh 插件（DeepSeek Harness）· punky 署名 · 集群治理（swarm governance）引擎：单机多子 agent 治理，wavePlan 三层 DAG + 引擎级门禁（Entry / Plan Contract / Exit / Complete）+ 状态机 + 锁/mailbox + 会话隔离 + 国标 AIP 兼容 + 全能力治理增强。附蟛蜞模式预设与 jiufeng-team 角色指引。",
@@ -86184,6 +86412,18 @@
       "createdAt": "2026-09-01T18:18:41.516Z",
       "discoveredAt": "2026-09-02T04:11:29.789Z",
       "score": 100
+    },
+    {
+      "name": "entityts-orm",
+      "version": "1.4.4",
+      "description": "EntityTS — Enterprise EF Core-inspired ORM, DbContext, DbSet<T>, and Stored Procedure Execution for TypeScript & Node.js",
+      "license": "MIT",
+      "repository": "https://github.com/nitishprajapati5/EntityTS",
+      "npmUrl": "https://www.npmjs.com/package/entityts-orm",
+      "category": "data",
+      "createdAt": "2026-10-03T18:24:37.893Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
     },
     {
       "name": "env-local",
@@ -91572,6 +91812,18 @@
       "createdAt": "2026-07-31T20:25:48.562Z",
       "discoveredAt": "2026-07-31T21:59:15.429Z",
       "score": 64
+    },
+    {
+      "name": "homebridge-olarm-platform-pgm",
+      "version": "2.0.0",
+      "description": "Homebridge plugin for Olarm security systems using the official Olarm API, with real-time MQTT updates, zone discovery and gate control via PGM outputs.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ashleybruyns/homebridge-olarm-platform-pgm",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-olarm-platform-pgm",
+      "category": "backend",
+      "createdAt": "2026-10-03T23:57:37.465Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 95
     },
     {
       "name": "homebridge-powerview-gen1-gen2",
@@ -102468,6 +102720,18 @@
       "createdAt": "2026-08-20T07:43:16.651Z",
       "discoveredAt": "2026-08-20T13:03:17.154Z",
       "score": 93
+    },
+    {
+      "name": "neuraforge-ai",
+      "version": "1.0.0",
+      "description": "40 agents for Claude Code, Cursor & Copilot that enforce architecture rules across .NET, NestJS, React, Flutter, Django, Spring Boot & React Native. Drop in, one command, works immediately.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vikisingh23/neuraforge-ai",
+      "npmUrl": "https://www.npmjs.com/package/neuraforge-ai",
+      "category": "frontend",
+      "createdAt": "2026-10-03T15:25:35.684Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 98
     },
     {
       "name": "neveroversell",
@@ -117902,6 +118166,18 @@
       "score": 68
     },
     {
+      "name": "software-design-test",
+      "version": "1.2.0",
+      "description": "软件设计测试（模拟真实用户）/ Software Design Testing by simulating real users for DeepSeek Harness: build personas and scenarios, decompose them into executable task cards, run think-aloud sessions with a real mouse and keyboard in three input modes, and judge element",
+      "license": "MIT",
+      "repository": "https://github.com/Inceptzws/software-design-test",
+      "npmUrl": "https://www.npmjs.com/package/software-design-test",
+      "category": "testing",
+      "createdAt": "2026-10-03T15:45:31.398Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 100
+    },
+    {
       "name": "software-project-governance",
       "version": "1.0.0",
       "description": "Generate a software-first project governance pack with requirements, implementation plans, product contracts, agent controls, tool guidance, MCP boundaries, and acceptance tests.",
@@ -121106,6 +121382,18 @@
       "score": 54
     },
     {
+      "name": "textlate",
+      "version": "1.0.1",
+      "description": "Write your text in your code, translate it with AI in one command. Lightweight, type-safe i18n for React 19 and Next.js App Router: ~3 kB, zero dependencies, no keys. A fast, modern alternative to react-i18next, react-intl and next-intl with plurals, rich",
+      "license": "MIT",
+      "repository": "https://github.com/SheikhAminul/textlate",
+      "npmUrl": "https://www.npmjs.com/package/textlate",
+      "category": "frontend",
+      "createdAt": "2026-10-03T08:24:46.142Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 100
+    },
+    {
       "name": "textmode.overlay.js",
       "version": "1.0.0",
       "description": "DOM overlay target plugin for textmode.js",
@@ -123552,6 +123840,18 @@
       "createdAt": "2026-08-08T12:32:17.168Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 67
+    },
+    {
+      "name": "utensil-vue",
+      "version": "1.0.1",
+      "description": "Utensil Vue 3 theme layer and accessible, themeable component library, with an AI harness of usage knowledge and skills.",
+      "license": "MIT",
+      "repository": "https://github.com/Gobi-Stories/utensil",
+      "npmUrl": "https://www.npmjs.com/package/utensil-vue",
+      "category": "frontend",
+      "createdAt": "2026-10-03T11:15:43.931Z",
+      "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
     },
     {
       "name": "uui-scan",

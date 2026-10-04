@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 134214296,
-  "lastRunAt": "2026-10-03T01:49:02.855Z",
+  "lastSequence": 134347310,
+  "lastRunAt": "2026-10-04T02:28:38.499Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@mooskyai/angular",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@xano-sdk/auth",
+      "name": "@prof-bilal/atlas-chatgpt-plugin",
       "attempts": 1
     },
     {
-      "name": "@xano-sdk/chatbot",
-      "attempts": 1
-    },
-    {
-      "name": "@dipoleml/dcode-cli",
+      "name": "@dicehub/kappa",
       "attempts": 1
     }
   ]
