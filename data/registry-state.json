@@ -1,19 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 134347310,
-  "lastRunAt": "2026-10-04T02:28:38.499Z",
+  "lastSequence": 134520933,
+  "lastRunAt": "2026-10-05T01:46:10.424Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@mooskyai/angular",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@prof-bilal/atlas-chatgpt-plugin",
-      "attempts": 1
-    },
-    {
-      "name": "@dicehub/kappa",
+      "name": "@tmdjr/ngx-asset-manager",
       "attempts": 1
     }
   ]
