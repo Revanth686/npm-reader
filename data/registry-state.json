@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 134520933,
-  "lastRunAt": "2026-10-05T01:46:10.424Z",
+  "lastSequence": 134772613,
+  "lastRunAt": "2026-10-06T02:48:34.985Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@mooskyai/angular",
-      "attempts": 7
+      "name": "@foundationallabs/agent-rdp-linux-x64",
+      "attempts": 1
     },
     {
-      "name": "@tmdjr/ngx-asset-manager",
+      "name": "@foundationallabs/agent-rdp-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@foundationallabs/agent-rdp-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@foundationallabs/agent-rdp",
       "attempts": 1
     }
   ]

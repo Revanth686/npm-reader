@@ -2918,6 +2918,18 @@
       "score": 86
     },
     {
+      "name": "@aldy11/apk-reverse",
+      "version": "1.0.1",
+      "description": "Unified toolkit & AI Agent Skills for Android reverse engineering, Frida dynamic instrumentation, DEX/smali patching, and automated APK security analysis.",
+      "license": "MIT",
+      "repository": "https://github.com/ALDY711/apk-reverse-modifikasi",
+      "npmUrl": "https://www.npmjs.com/package/%40aldy11%2Fapk-reverse",
+      "category": "utilities",
+      "createdAt": "2026-10-05T04:03:38.253Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 95
+    },
+    {
       "name": "@aletheiadatabase/client",
       "version": "0.2.0",
       "description": "Official TypeScript client SDK for AletheiaDB — typed bi-temporal graph + vector queries over the HTTP API.",
@@ -5054,6 +5066,18 @@
       "score": 88
     },
     {
+      "name": "@andygo.dev/nextjs-harness",
+      "version": "1.0.0",
+      "description": "Local AI development harness for Next.js projects: version-aware manual sync, SQLite/FTS5 search, a Next.js Claude Code Skill, and an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/andygo-develop/nextjs-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40andygo.dev%2Fnextjs-harness",
+      "category": "frontend",
+      "createdAt": "2026-10-05T13:19:55.653Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 90
+    },
+    {
       "name": "@angelyeye/dsh-cost-tracker",
       "version": "1.7.0",
       "description": "DeepSeek Harness (DSH) plugin: LLM token usage & cost tracking with a settings dashboard, agent tools, HTTP API and persistent storage.",
@@ -5330,6 +5354,30 @@
       "score": 90
     },
     {
+      "name": "@antondanv/brainyard",
+      "version": "0.2.0",
+      "description": "One API for agentic coding CLIs — Claude Code, Codex, Antigravity and OpenCode: status checks, one-shot asks, streamed agent runs with steering, sessions, tmux panes, usage and subscription limits, models and MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/antondanv/brainyard",
+      "npmUrl": "https://www.npmjs.com/package/%40antondanv%2Fbrainyard",
+      "category": "backend",
+      "createdAt": "2026-09-30T09:16:59.959Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 90
+    },
+    {
+      "name": "@antondanv/brainyard-cli",
+      "version": "0.2.0",
+      "description": "The brainyard command for Claude Code, Codex, Antigravity and OpenCode: one app in the terminal and in a browser — agents and their limits, panes, sessions, usage — and commands for status, asks, agent runs, panes and a local dashboard, built on @antondan",
+      "license": "MIT",
+      "repository": "https://github.com/antondanv/brainyard",
+      "npmUrl": "https://www.npmjs.com/package/%40antondanv%2Fbrainyard-cli",
+      "category": "frontend",
+      "createdAt": "2026-10-05T08:20:44.483Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 90
+    },
+    {
       "name": "@antzsoft/notification-node-sdk",
       "version": "1.0.0",
       "description": "Node.js/backend SDK for the Antz Notification Service — send push, email, SMS, WhatsApp, and Telegram from any server-side JavaScript runtime",
@@ -5520,6 +5568,18 @@
       "createdAt": "2026-08-11T21:55:34.646Z",
       "discoveredAt": "2026-08-11T23:20:35.364Z",
       "score": 61
+    },
+    {
+      "name": "@aphrody/m3-next-migrate",
+      "version": "3.3.4",
+      "description": "Migration analysis, codemods and runtime shims for Next.js 16 components and private-owner native Bun web apps; Tauri 3 source planning requires a registered native host adapter for activation",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/aphrody-labs/aphrody-m3",
+      "npmUrl": "https://www.npmjs.com/package/%40aphrody%2Fm3-next-migrate",
+      "category": "frontend",
+      "createdAt": "2026-10-05T08:05:14.941Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 94
     },
     {
       "name": "@api-central/sdk",
@@ -10812,6 +10872,18 @@
       "createdAt": "2026-08-06T23:06:49.860Z",
       "discoveredAt": "2026-08-13T15:13:42.755Z",
       "score": 88
+    },
+    {
+      "name": "@cekrem/braces",
+      "version": "3.0.4",
+      "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
+      "license": "MIT",
+      "repository": "https://github.com/micromatch/braces",
+      "npmUrl": "https://www.npmjs.com/package/%40cekrem%2Fbraces",
+      "category": "devops",
+      "createdAt": "2026-10-05T10:43:51.023Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 98
     },
     {
       "name": "@celading/pihub",
@@ -21482,6 +21554,18 @@
       "score": 68
     },
     {
+      "name": "@g9tm/signalr-supernetcore-client",
+      "version": "2.10.0",
+      "description": "TypeScript twin of the G9SignalRSuperNetCore .NET client for browsers, Node and Lynx: resilient connection, JWT authorize route, resumable file upload/download, connection quality monitor and error codes.",
+      "license": "MIT",
+      "repository": "https://github.com/ImanKari/G9SignalRSuperNetCore",
+      "npmUrl": "https://www.npmjs.com/package/%40g9tm%2Fsignalr-supernetcore-client",
+      "category": "frontend",
+      "createdAt": "2026-10-05T23:16:25.002Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 92
+    },
+    {
       "name": "@gablura/auth-core",
       "version": "1.1.9",
       "description": "Production-ready authentication core for Express.js backends. Dual-token RS256 JWT architecture with session binding, token rotation, 2FA, account lockout, and audit logging.",
@@ -27050,6 +27134,18 @@
       "score": 53
     },
     {
+      "name": "@gripm/playbook",
+      "version": "2.0.1",
+      "description": "Autonomous multi-agent agile framework for modern software development with dynamic modes, decoupled releases, and sub-agent orchestration.",
+      "license": "MIT",
+      "repository": "https://github.com/pablojavierrodriguez/gripm-playbook",
+      "npmUrl": "https://www.npmjs.com/package/%40gripm%2Fplaybook",
+      "category": "utilities",
+      "createdAt": "2026-10-05T15:56:29.904Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 93
+    },
+    {
       "name": "@grodev/claude-chat-react",
       "version": "1.0.0",
       "description": "React component + hook for a drop-in AI chat widget powered by the Claude API. TypeScript, streaming SSE, ~8 KB gzipped, zero runtime dependencies beyond React. Server-side proxy keeps your API key safe.",
@@ -30312,6 +30408,18 @@
       "createdAt": "2026-08-06T12:28:46.112Z",
       "discoveredAt": "2026-08-06T12:54:14.409Z",
       "score": 80
+    },
+    {
+      "name": "@imontene/mdrender",
+      "version": "1.0.0",
+      "description": "Command-line app for Windows and Linux that renders Markdown — with LaTeX equations and Mermaid diagrams — to PDF and HTML using the Inter typeface",
+      "license": "MIT",
+      "repository": "https://github.com/imontene/MD_reder",
+      "npmUrl": "https://www.npmjs.com/package/%40imontene%2Fmdrender",
+      "category": "cli",
+      "createdAt": "2026-10-05T01:46:45.081Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 92
     },
     {
       "name": "@impeterwayne/scrcpy-cli",
@@ -36504,6 +36612,54 @@
       "createdAt": "2026-08-09T02:25:28.381Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 77
+    },
+    {
+      "name": "@locker-protocol/agent-wallet-hyperliquid-signer",
+      "version": "2.0.0",
+      "description": "Your private key is nowhere: not on our servers, not on the agent's machine, not with anyone. The agent trades. It holds nothing. Hyperliquid signing, orders and account reads for agents whose keys stay in Locker Vault.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/locker-protocol/agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40locker-protocol%2Fagent-wallet-hyperliquid-signer",
+      "category": "backend",
+      "createdAt": "2026-10-05T12:45:13.783Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 92
+    },
+    {
+      "name": "@locker-protocol/agent-wallet-hyperliquid-trader",
+      "version": "2.0.0",
+      "description": "Your private key is nowhere: not on our servers, not on the agent's machine, not with anyone. The agent trades. It holds nothing. Locker Protocol Agentic: the lpa command, an agent wallet for Hyperliquid perps whose keys stay offline in Locker Vault.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/locker-protocol/agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40locker-protocol%2Fagent-wallet-hyperliquid-trader",
+      "category": "backend",
+      "createdAt": "2026-10-05T13:46:09.110Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 100
+    },
+    {
+      "name": "@locker-protocol/agent-wallet-hyperliquid-trader-mcp",
+      "version": "2.0.0",
+      "description": "Your private key is nowhere: not on our servers, not on the agent's machine, not with anyone. The agent trades. It holds nothing. The MCP server of Locker Protocol Agentic: Hyperliquid perps for AI agents whose keys stay offline in Locker Vault.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/locker-protocol/agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40locker-protocol%2Fagent-wallet-hyperliquid-trader-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-05T13:51:11.881Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 100
+    },
+    {
+      "name": "@locker-protocol/agent-wallet-vault",
+      "version": "2.0.0",
+      "description": "Your private key is nowhere: not on our servers, not on the agent's machine, not with anyone. The agent trades. It holds nothing. Codec for Locker Vault: sign requests and signatures as QR codes, account sync.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/locker-protocol/agentic",
+      "npmUrl": "https://www.npmjs.com/package/%40locker-protocol%2Fagent-wallet-vault",
+      "category": "backend",
+      "createdAt": "2026-10-05T13:41:06.059Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 92
     },
     {
       "name": "@lodado/personaut",
@@ -44892,6 +45048,18 @@
       "createdAt": "2026-08-05T22:37:55.469Z",
       "discoveredAt": "2026-08-05T23:18:00.507Z",
       "score": 69
+    },
+    {
+      "name": "@nxvet/nxst-hl7-parser",
+      "version": "1.1.0",
+      "description": "Instrument-agnostic HL7 v2.x and MLLP helpers for NxVet SyncTool device plugins: MLLP framing, segment/field/component access (as values, or as byte ranges for in-place edits), and HL7 timestamps. Zero dependencies, zero I/O.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/nxvet/nxst-hl7-parser",
+      "npmUrl": "https://www.npmjs.com/package/%40nxvet%2Fnxst-hl7-parser",
+      "category": "devops",
+      "createdAt": "2026-09-30T15:23:33.615Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 96
     },
     {
       "name": "@nyawave/baked-icons",
@@ -53652,6 +53820,18 @@
       "createdAt": "2026-08-16T11:09:36.990Z",
       "discoveredAt": "2026-08-16T12:53:42.849Z",
       "score": 90
+    },
+    {
+      "name": "@sagelabs/dice-mcp-server",
+      "version": "1.4.1",
+      "description": "Stateless dice engine MCP tool server - generic d20-style notation, L5R 4e Roll & Keep, and L5R 5e ring/skill symbol dice, via the Model Context Protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/sagelabs-dev/dice-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40sagelabs%2Fdice-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-05T23:20:31.604Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 95
     },
     {
       "name": "@sahan-sac/auth-kit",
@@ -66134,6 +66314,18 @@
       "score": 65
     },
     {
+      "name": "@whatalker/corulix",
+      "version": "1.1.0",
+      "description": "WhaTalker Corulix — install and run corulix, an enterprise code-intelligence and controlled-mutation MCP server. This package is a thin launcher only; all parsing, indexing, and MCP logic lives in the native binary.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/WhaTalker/corulix",
+      "npmUrl": "https://www.npmjs.com/package/%40whatalker%2Fcorulix",
+      "category": "backend",
+      "createdAt": "2026-09-23T10:44:25.165Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 93
+    },
+    {
       "name": "@whd4/foreman",
       "version": "0.5.0",
       "description": "See what your coding agent is doing and what it's costing. Reads cost and context straight from the agent's own transcript, and puts it on screen as a character that reacts to the work.",
@@ -67019,6 +67211,18 @@
       "category": "backend",
       "createdAt": "2026-10-03T01:49:51.826Z",
       "discoveredAt": "2026-10-04T02:28:38.499Z",
+      "score": 92
+    },
+    {
+      "name": "@xano-sdk/zod",
+      "version": "1.0.0",
+      "description": "Generates zod schemas for every endpoint, realtime channel, and realtime message input in a Xano SDK project's routes.gen.ts, from the same description as its TypeScript input types, so the two cannot drift.",
+      "license": "MIT",
+      "repository": "https://github.com/xano-sdk/zod",
+      "npmUrl": "https://www.npmjs.com/package/%40xano-sdk%2Fzod",
+      "category": "build-tools",
+      "createdAt": "2026-10-05T21:36:30.759Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
       "score": 92
     },
     {
@@ -72648,6 +72852,18 @@
       "createdAt": "2026-08-09T07:08:48.831Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 84
+    },
+    {
+      "name": "apple-hig",
+      "version": "2.0.0",
+      "description": "An agent skill for Claude Code: Apple's Human Interface Guidelines with the design philosophy and cognitive psychology beneath them. Current to iOS 27, Liquid Glass, and iPhone Duo.",
+      "license": "MIT",
+      "repository": "https://github.com/allexp1/apple-hig",
+      "npmUrl": "https://www.npmjs.com/package/apple-hig",
+      "category": "utilities",
+      "createdAt": "2026-10-05T07:20:15.469Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 98
     },
     {
       "name": "apps-manager-sdk",
@@ -84242,6 +84458,18 @@
       "score": 100
     },
     {
+      "name": "dsh-moli-browser",
+      "version": "1.0.1",
+      "description": "一个包把 DSH 接上内存极简的 moli 无头浏览器：单例守护进程 + 33 个 browser_* 工具面 + ctx.browser provider（cdp-daemon），另带网页面板（实时画面/日志/窗口外观/可拖动胶囊）与两份随包全局技能（browser、browser-runtime）—— 一条 dsh plugin add 装完即用",
+      "license": "MIT",
+      "repository": "https://github.com/lyp88997/dsh-moli-browser",
+      "npmUrl": "https://www.npmjs.com/package/dsh-moli-browser",
+      "category": "testing",
+      "createdAt": "2026-10-05T10:36:24.620Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 97
+    },
+    {
       "name": "dsh-movein-permissions",
       "version": "0.2.1",
       "description": "DSH permission gate compiled from Claude Code permission rules (deny/ask), installed by dsh-movein",
@@ -84566,6 +84794,18 @@
       "score": 51
     },
     {
+      "name": "dsh-plugin-auto-commit-button",
+      "version": "1.1.0",
+      "description": "Adds a menu to the DeepSeek Harness composer with two switches: Auto-commit commits the repository holding the session's workspace at the end of every turn, and Auto-push pushes each of those commits.",
+      "license": "MIT",
+      "repository": "https://github.com/JWIMaster/dsh-plugin-auto-commit-button",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-auto-commit-button",
+      "category": "utilities",
+      "createdAt": "2026-10-05T11:41:29.848Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 94
+    },
+    {
       "name": "dsh-plugin-checker",
       "version": "1.0.1",
       "description": "Detect updates for installed third-party (non-builtin) DSH plugins, ask the user, and update them from the Web GUI.",
@@ -84672,6 +84912,18 @@
       "createdAt": "2026-08-14T20:06:46.185Z",
       "discoveredAt": "2026-08-14T20:23:12.075Z",
       "score": 62
+    },
+    {
+      "name": "dsh-plugin-model-tuning",
+      "version": "2.0.2",
+      "description": "「设置 → 模型调参」页：模型参数（推理档位/上下文/最大输出/输入模态）、「用途」页（标题生成独立路由，替换宿主标题行）、「绘图」页（绘图模型配置 + generate_image 工具 + 直接绘图面板）。v2 合并了原 dsh-plugin-title-model 与 dsh-plugin-image-generation。",
+      "license": "MIT",
+      "repository": "https://github.com/tofu-zyc/dsh-plugin-tofu-box",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-model-tuning",
+      "category": "utilities",
+      "createdAt": "2026-09-28T05:19:31.961Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 93
     },
     {
       "name": "dsh-plugin-open-app",
@@ -104534,6 +104786,18 @@
       "score": 86
     },
     {
+      "name": "o876-json-db",
+      "version": "2.0.0",
+      "description": "Embeddable JSON document database for Node.js, with file system or in-memory storage, lightweight indexes and a MongoDB-like query syntax.",
+      "license": "MIT",
+      "repository": "https://github.com/Laboralphy/o876-json-db",
+      "npmUrl": "https://www.npmjs.com/package/o876-json-db",
+      "category": "data",
+      "createdAt": "2026-10-05T14:07:19.998Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 93
+    },
+    {
       "name": "oas-pm-quality",
       "version": "3.0.0",
       "description": "OpenAPI definition quality checks and Postman collection generator with automated tests",
@@ -117182,6 +117446,18 @@
       "score": 92
     },
     {
+      "name": "shipreel",
+      "version": "1.0.0",
+      "description": "Turn release notes and CHANGELOG.md into a short branded announcement video for X, LinkedIn, Instagram and YouTube Shorts. CLI, library and GitHub Action.",
+      "license": "MIT",
+      "repository": "https://github.com/99proteam/shipreel",
+      "npmUrl": "https://www.npmjs.com/package/shipreel",
+      "category": "testing",
+      "createdAt": "2026-10-05T20:29:34.985Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 95
+    },
+    {
       "name": "shipsmith",
       "version": "1.1.0",
       "description": "AI-orchestrated SDLC engine — run DAG workflows that take software from idea to ship",
@@ -118358,6 +118634,18 @@
       "score": 96
     },
     {
+      "name": "snap-pair-core",
+      "version": "2.1.0",
+      "description": "Pair phones and screens by QR code, room code, PIN, or experimental ultrasonic sound: React hooks, components, and transports (Firebase, PartyKit, WebRTC, BroadcastChannel) for multi-device experiences, plus the `snap-pair` setup CLI",
+      "license": "MIT",
+      "repository": "https://github.com/takaoumehara/snap-pair-skill",
+      "npmUrl": "https://www.npmjs.com/package/snap-pair-core",
+      "category": "frontend",
+      "createdAt": "2026-10-05T06:02:37.145Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 100
+    },
+    {
       "name": "snapgrep",
       "version": "0.1.1",
       "description": "An in-process trigram index that makes code search in Pi and DeepSeek Harness 20-90x faster than ripgrep, with identical results.",
@@ -119424,6 +119712,18 @@
       "createdAt": "2026-08-09T17:05:38.602Z",
       "discoveredAt": "2026-08-09T18:28:03.745Z",
       "score": 78
+    },
+    {
+      "name": "starlight-codeblocks",
+      "version": "1.0.1",
+      "description": "A Starlight plugin that adds focus, line states, comment notation, annotations, API auto-linking and more features to code blocks, on top of Expressive Code.",
+      "license": "MIT",
+      "repository": "https://github.com/ewels/starlight-codeblocks",
+      "npmUrl": "https://www.npmjs.com/package/starlight-codeblocks",
+      "category": "backend",
+      "createdAt": "2026-10-05T08:52:59.715Z",
+      "discoveredAt": "2026-10-06T02:48:34.985Z",
+      "score": 91
     },
     {
       "name": "starlight-pydocs",
