@@ -1,23 +1,75 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 134772613,
-  "lastRunAt": "2026-10-06T02:48:34.985Z",
+  "lastSequence": 135046840,
+  "lastRunAt": "2026-10-07T02:11:08.274Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@foundationallabs/agent-rdp-linux-x64",
+      "name": "@emulates/hermes",
       "attempts": 1
     },
     {
-      "name": "@foundationallabs/agent-rdp-linux-arm64",
+      "name": "@emulates/intercom",
       "attempts": 1
     },
     {
-      "name": "@foundationallabs/agent-rdp-darwin-arm64",
+      "name": "@journ/bloom",
       "attempts": 1
     },
     {
-      "name": "@foundationallabs/agent-rdp",
+      "name": "@emulates/kinesis",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/kms",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/lambda",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/livekit",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/llamacloud",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/mailosaur",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/mediaconvert",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/infisical",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/iam",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/medplum",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/kill-bill",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/meta",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/notion",
+      "attempts": 1
+    },
+    {
+      "name": "@emulates/oauth",
       "attempts": 1
     }
   ]

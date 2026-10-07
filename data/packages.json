@@ -3998,6 +3998,18 @@
       "score": 65
     },
     {
+      "name": "@allratestoday/live-currency-rates",
+      "version": "1.1.3",
+      "description": "Convert currencies with live exchange rates. Fluent API: Convert(100).from('USD').to('EUR'). Multiple providers (free, no key by default) — Frankfurter, fawazahmed0, AllRatesToday. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/cahthuranag/live-currency-converter",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Flive-currency-rates",
+      "category": "testing",
+      "createdAt": "2026-08-28T20:10:03.417Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 93
+    },
+    {
       "name": "@allratestoday/magyar-nemzeti-bank-exchange-rate",
       "version": "1.2.2",
       "description": "Official Magyar Nemzeti Bank (Hungary) daily exchange rates — 32 currencies vs HUF, history since 2016. Zero-dependency Node.js/TypeScript client.",
@@ -18516,6 +18528,66 @@
       "createdAt": "2026-09-13T15:20:50.002Z",
       "discoveredAt": "2026-09-13T16:05:49.078Z",
       "score": 90
+    },
+    {
+      "name": "@emulates/daily",
+      "version": "3.0.0",
+      "description": "Stateful emulator of the Daily.co REST API: rooms, presence, eject, meeting tokens (minted and self-signed HS256, verified and decodable), and transcription/recording webhooks with transcripts written to S3.",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Fdaily",
+      "category": "backend",
+      "createdAt": "2026-10-06T21:28:12.219Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 96
+    },
+    {
+      "name": "@emulates/flex",
+      "version": "3.0.0",
+      "description": "Stateful emulator of the Flex HSA/FSA payments API: products (recorded catalog corpus), checkout sessions in payment, subscription, off-session and setup modes, subscriptions, customers, setup intents, refunds, the hosted checkout page, and Svix-signed we",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Fflex",
+      "category": "backend",
+      "createdAt": "2026-10-06T21:30:10.256Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 96
+    },
+    {
+      "name": "@emulates/formbricks",
+      "version": "2.3.1",
+      "description": "Stateful emulator of open-source Formbricks: the client environment state (seeded with a synthetic survey corpus), response creation with upstream's validation and {code, message, details} errors, the v1 management API, the widget script, and signed respo",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Fformbricks",
+      "category": "backend",
+      "createdAt": "2026-10-07T02:06:55.949Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 92
+    },
+    {
+      "name": "@emulates/google-calendar",
+      "version": "2.3.1",
+      "description": "Stateful emulator of the Google Calendar v3 API and Google OAuth our EMR calls: events list/insert/update/delete/watch, channels.stop, calendarList/calendars, token exchange/refresh/revoke and userinfo, with signed-by-header push notifications.",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Fgoogle-calendar",
+      "category": "backend",
+      "createdAt": "2026-10-07T02:07:47.267Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 92
+    },
+    {
+      "name": "@emulates/google-maps",
+      "version": "2.3.1",
+      "description": "Emulator of Google Places Autocomplete / Details / Find Place, the Geocoding API, a Maps JavaScript (places) shim and the Address Validation API (USPS CASS/DPV verdicts), over a QA address corpus, with Google's status codes and fault presets.",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Fgoogle-maps",
+      "category": "backend",
+      "createdAt": "2026-10-07T02:07:58.235Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 98
     },
     {
       "name": "@enbox/crdt",
@@ -38318,6 +38390,18 @@
       "score": 70
     },
     {
+      "name": "@mambalabsdev/mcp-public-company-reporting-window-finder",
+      "version": "1.1.0",
+      "description": "MCP server for the Mamba Labs Public Company Earnings Dates and Reporting Window Finder actor on Apify. A domain, ticker, ISIN, LEI or CIK in, and out comes fiscal year end, reporting cadence, the next reporting date, days to event and the open and close",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-public-company-reporting-window-finder",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-public-company-reporting-window-finder",
+      "category": "frontend",
+      "createdAt": "2026-08-18T08:00:08.497Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 91
+    },
+    {
       "name": "@mambalabsdev/mcp-publication-cadence-tracker",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs Publication Cadence Tracker actor on Apify. Give it a company domain and it returns how much long-form work that company publishes per month and whether the rate is rising or falling, as flat Clay-ready JSON.",
@@ -41102,6 +41186,18 @@
       "score": 80
     },
     {
+      "name": "@molecule/api-project-archive-external-state-pglite",
+      "version": "1.0.0",
+      "description": "PGlite external-state provider for @molecule/api-project-archive — captures a project's PGlite data directory with PGlite's own dumpDataDir, proves the dump loads back with the same row counts before the caller destroys anything, and restores it byte-for-",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-project-archive-external-state-pglite",
+      "category": "backend",
+      "createdAt": "2026-10-06T16:42:15.128Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 92
+    },
+    {
       "name": "@molecule/api-project-archive-object-storage",
       "version": "1.0.1",
       "description": "Object-storage project archive provider for molecule.dev — standard tar.gz artifacts of generic ArchiveParts (source, database dumps, git bundles: nothing privileged) persisted through @molecule/api-uploads under the storage id the uploads bond mints, ver",
@@ -42492,6 +42588,18 @@
       "createdAt": "2026-08-23T11:19:10.918Z",
       "discoveredAt": "2026-08-23T12:54:32.970Z",
       "score": 88
+    },
+    {
+      "name": "@mundoit-lib/plugin-vue-oidc",
+      "version": "1.1.0",
+      "description": "OIDC authentication (authorization code + PKCE over oidc-client-ts) for Mundo IT Vue 3 apps: core auth, axios http client (Bearer + refresh retry on 401), Vue plugin with useOidcSession, callback component and router guard, compatible with the histrix-com",
+      "license": "MIT",
+      "repository": "https://github.com/mundoit-lib/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40mundoit-lib%2Fplugin-vue-oidc",
+      "category": "frontend",
+      "createdAt": "2026-10-06T12:53:21.228Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 100
     },
     {
       "name": "@muqecha/gamelab",
@@ -48530,6 +48638,18 @@
       "score": 94
     },
     {
+      "name": "@pixagram/paph-x",
+      "version": "1.0.0",
+      "description": "PAPH-X — PAPH 4.2's integer-only perceptual hash and calibrated comparator for pixel-art copy detection, with the retrieval-native cascade that reaches the same verdicts through a cheaper path. Optimized Rust reference compiled to WebAssembly (SIMD128), a",
+      "license": "MIT",
+      "repository": "https://github.com/pixagram-blockchain/paph",
+      "npmUrl": "https://www.npmjs.com/package/%40pixagram%2Fpaph-x",
+      "category": "utilities",
+      "createdAt": "2026-10-06T18:03:01.885Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 100
+    },
+    {
       "name": "@pixdeo/weavekit",
       "version": "0.0.1",
       "description": "A declarative, SwiftUI-shaped UI toolkit that renders to <canvas>.",
@@ -50184,6 +50304,30 @@
       "createdAt": "2026-09-10T22:06:09.584Z",
       "discoveredAt": "2026-09-11T04:20:53.293Z",
       "score": 86
+    },
+    {
+      "name": "@pxlkit/ui-kit-angular",
+      "version": "2.2.0",
+      "description": "Retro pixel-art UI kit for Angular 20–22: the Pxlkit React kit's 111 components as standalone, signal-based components. TypeScript, Tailwind CSS v4.",
+      "license": "MIT",
+      "repository": "https://github.com/Joangeldelarosa/pxlkit",
+      "npmUrl": "https://www.npmjs.com/package/%40pxlkit%2Fui-kit-angular",
+      "category": "frontend",
+      "createdAt": "2026-10-06T19:11:52.655Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 94
+    },
+    {
+      "name": "@pxlkit/ui-kit-vue",
+      "version": "2.2.0",
+      "description": "Retro pixel-art UI kit for Vue 3: the 111 components of the Pxlkit React kit, with the same markup, theme and behaviour. TypeScript, Tailwind CSS v4.",
+      "license": "MIT",
+      "repository": "https://github.com/Joangeldelarosa/pxlkit",
+      "npmUrl": "https://www.npmjs.com/package/%40pxlkit%2Fui-kit-vue",
+      "category": "frontend",
+      "createdAt": "2026-10-06T19:11:47.737Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 94
     },
     {
       "name": "@pymodel/claude-agy-mcp",
@@ -56880,6 +57024,18 @@
       "createdAt": "2026-07-30T05:55:01.463Z",
       "discoveredAt": "2026-07-30T07:23:45.140Z",
       "score": 66
+    },
+    {
+      "name": "@sntlr/docs-shell",
+      "version": "2.8.1",
+      "description": "Static documentation sites with versioned docs, i18n, search and a theme panel, from a folder of MDX. Optional component-registry module (see @sntlr/registry-shell).",
+      "license": "MIT",
+      "repository": "https://github.com/scintillar-com/registry-shell",
+      "npmUrl": "https://www.npmjs.com/package/%40sntlr%2Fdocs-shell",
+      "category": "cli",
+      "createdAt": "2026-10-05T16:12:48.764Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 96
     },
     {
       "name": "@snubisks/opencode-dcp",
@@ -64454,6 +64610,18 @@
       "score": 80
     },
     {
+      "name": "@venix-sistemas/jade",
+      "version": "1.0.0",
+      "description": "Complete color system for Nuxt: seasonal colors, automatic theme, SSR, Cookie Policy, cursor, scrollbar, etc...",
+      "license": "MIT",
+      "repository": "https://github.com/Venix-Sistemas/jade",
+      "npmUrl": "https://www.npmjs.com/package/%40venix-sistemas%2Fjade",
+      "category": "frontend",
+      "createdAt": "2026-10-06T17:50:55.940Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 91
+    },
+    {
       "name": "@venizia/ignis-filter",
       "version": "0.1.1",
       "description": "Engine-neutral query filter vocabulary for TypeScript: the `{ where, order, limit, offset, skip, fields, include }` shape, comparison/pattern/null/array/logical operators, and sort direction constants. Isomorphic by construction - no node builtins and no",
@@ -65952,6 +66120,18 @@
       "createdAt": "2026-08-09T05:29:57.859Z",
       "discoveredAt": "2026-08-09T05:43:45.675Z",
       "score": 44
+    },
+    {
+      "name": "@wavemaker/react-native-widgets",
+      "version": "1.0.1",
+      "description": "Standalone React Native widgets — QR code, avatar stack, segment progress, swipe deck, reorder list, signature pad, maps and Skia effects — for iOS, Android and web.",
+      "license": "MIT",
+      "repository": "https://github.com/wavemaker/wm-react-native-widgets",
+      "npmUrl": "https://www.npmjs.com/package/%40wavemaker%2Freact-native-widgets",
+      "category": "frontend",
+      "createdAt": "2026-10-06T09:58:38.857Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 91
     },
     {
       "name": "@waveso/docs",
@@ -67500,6 +67680,18 @@
       "createdAt": "2026-08-06T02:11:48.688Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
       "score": 79
+    },
+    {
+      "name": "@xnng/browser-relay",
+      "version": "1.6.0",
+      "description": "Agent-native browser control through a Skill + CLI: share your existing, logged-in Chrome locally or across multiple machines.",
+      "license": "MIT",
+      "repository": "https://github.com/xnng/makemoney",
+      "npmUrl": "https://www.npmjs.com/package/%40xnng%2Fbrowser-relay",
+      "category": "frontend",
+      "createdAt": "2026-10-06T07:40:36.661Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 92
     },
     {
       "name": "@xof/cors",
@@ -69972,6 +70164,18 @@
       "createdAt": "2026-07-25T21:44:51.295Z",
       "discoveredAt": "2026-07-25T22:44:38.249Z",
       "score": 46
+    },
+    {
+      "name": "ado-npm-exec",
+      "version": "1.0.0",
+      "description": "Run a package from a private Azure DevOps (Azure Artifacts) npm feed with silent Microsoft Entra ID auth. Zero dependencies. Built for MCP stdio server configs.",
+      "license": "MIT",
+      "repository": "https://github.com/nodkz/ado-npm-exec",
+      "npmUrl": "https://www.npmjs.com/package/ado-npm-exec",
+      "category": "backend",
+      "createdAt": "2026-10-06T12:48:21.078Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 92
     },
     {
       "name": "adobe-firefly-mcp",
@@ -76308,6 +76512,18 @@
       "createdAt": "2026-08-07T10:36:00.076Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 63
+    },
+    {
+      "name": "carcode-cli",
+      "version": "1.1.0",
+      "description": "Talk to Claude Code from your car. Say \"Hey Siri, Jarvis\" to review PRs, read Slack and ship code hands-free on CarPlay.",
+      "license": "MIT",
+      "repository": "https://github.com/Harsh-Rastogi-03/carcode",
+      "npmUrl": "https://www.npmjs.com/package/carcode-cli",
+      "category": "cli",
+      "createdAt": "2026-10-06T21:35:03.169Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 92
     },
     {
       "name": "cardano-tessera-respond",
@@ -83606,6 +83822,18 @@
       "score": 87
     },
     {
+      "name": "dsh-desktop-uia",
+      "version": "1.1.3",
+      "description": "Windows desktop control for DeepSeek Harness through UI Automation: read a window's control tree, drive elements by id, approve every write, and watch it all in the settings panel.",
+      "license": "MIT",
+      "repository": "https://github.com/1jiegejiayouxuewangan1/dsh-desktop-uia",
+      "npmUrl": "https://www.npmjs.com/package/dsh-desktop-uia",
+      "category": "utilities",
+      "createdAt": "2026-10-06T12:46:27.057Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 95
+    },
+    {
       "name": "dsh-diagram",
       "version": "0.1.1",
       "description": "Turn articles in DeepSeek Harness into editable Excalidraw canvases",
@@ -88046,6 +88274,18 @@
       "score": 85
     },
     {
+      "name": "face-mesh-face-geometry",
+      "version": "1.0.0",
+      "description": "Three.js geometry for MediaPipe's face mesh: the 468 face landmarks as a BufferGeometry, with texture coordinates, normals, head pose, blendshapes and irises.",
+      "license": "MIT",
+      "repository": "https://github.com/spite/FaceMeshFaceGeometry",
+      "npmUrl": "https://www.npmjs.com/package/face-mesh-face-geometry",
+      "category": "backend",
+      "createdAt": "2026-10-07T00:30:42.957Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 93
+    },
+    {
       "name": "fact-gate",
       "version": "1.2.0",
       "description": "Verify what an AI wrote against what is true. Blocks PR descriptions, READMEs, changelogs and reports that state a number, date, name or tool your diff, tests or facts contradict. Deterministic, zero dependencies, zero LLM calls. CLI, library, GitHub Acti",
@@ -88427,6 +88667,18 @@
       "category": "testing",
       "createdAt": "2026-09-05T22:48:15.933Z",
       "discoveredAt": "2026-09-06T04:18:36.902Z",
+      "score": 91
+    },
+    {
+      "name": "feature-docs",
+      "version": "1.0.0",
+      "description": "Agent skill that writes tracked, as-built feature docs (overview, decisions, tickets) next to the code for Claude Code, Cursor, Codex and Antigravity.",
+      "license": "MIT",
+      "repository": "https://github.com/codemeall/feature-init",
+      "npmUrl": "https://www.npmjs.com/package/feature-docs",
+      "category": "devops",
+      "createdAt": "2026-10-06T12:21:13.165Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
       "score": 91
     },
     {
@@ -95952,6 +96204,30 @@
       "createdAt": "2026-07-27T19:32:40.416Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 94
+    },
+    {
+      "name": "lanka-schools",
+      "version": "1.0.0",
+      "description": "Comprehensive Sri Lanka schools dataset & TypeScript library. 10,146 schools, 396 national schools, 100 educational zones, 25 districts, and 9 provinces with MOE Census IDs, GPS coordinates, Sinhala/Tamil names, and Zonal Education Office contacts.",
+      "license": "MIT",
+      "repository": "https://github.com/mmsalmanfaris/lanka-schools",
+      "npmUrl": "https://www.npmjs.com/package/lanka-schools",
+      "category": "data",
+      "createdAt": "2026-10-06T22:26:33.780Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 100
+    },
+    {
+      "name": "lanka-validations",
+      "version": "1.0.0",
+      "description": "High-performance, zero-dependency Sri Lankan data validation library for TypeScript and JavaScript. Validate and parse Sri Lankan National Identity Card (NIC), phone numbers, passport, driving license, vehicle number plates, LKR currency, date of birth (D",
+      "license": "MIT",
+      "repository": "https://github.com/mmsalmanfaris/lanka-validations",
+      "npmUrl": "https://www.npmjs.com/package/lanka-validations",
+      "category": "data",
+      "createdAt": "2026-10-06T22:46:44.674Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 100
     },
     {
       "name": "lankapost",
@@ -112742,6 +113018,18 @@
       "score": 84
     },
     {
+      "name": "react-easy-text-editor",
+      "version": "1.0.0",
+      "description": "A React rich text (WYSIWYG) editor inspired by Jodit: plugin toolbar, tables, tabbed code blocks with syntax highlighting, dark mode, HTML source view, and a read-only viewer component.",
+      "license": "MIT",
+      "repository": "https://github.com/AKASHNEGI-github/React-Easy-Text-Editor",
+      "npmUrl": "https://www.npmjs.com/package/react-easy-text-editor",
+      "category": "frontend",
+      "createdAt": "2026-10-06T15:23:44.385Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 98
+    },
+    {
       "name": "react-file-progress",
       "version": "0.1.0",
       "description": "React progress bar for reading a file from the hard disk/SSD into the browser, plus a separate one for uploading it to your server when you choose. Drop zone, swappable components, zero dependencies, TypeScript types",
@@ -112980,6 +113268,18 @@
       "createdAt": "2026-08-04T16:26:05.858Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 77
+    },
+    {
+      "name": "react-native-attachment-kit",
+      "version": "1.0.0",
+      "description": "Native attachment kit for React Native — gallery picker, editor, image viewer and media gallery (Turbo Module)",
+      "license": "MIT",
+      "repository": "https://github.com/Usomnia/react-native-attachment-kit",
+      "npmUrl": "https://www.npmjs.com/package/react-native-attachment-kit",
+      "category": "frontend",
+      "createdAt": "2026-10-07T01:53:06.670Z",
+      "discoveredAt": "2026-10-07T02:11:08.274Z",
+      "score": 91
     },
     {
       "name": "react-native-background-keepalive",
