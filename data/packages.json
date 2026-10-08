@@ -7142,6 +7142,18 @@
       "score": 90
     },
     {
+      "name": "@awacloud/fonts",
+      "version": "1.0.0",
+      "description": "Browser-safe TrueType / OpenType reader, writer and subsetter — OT v1.9 + TT RM05 hinting, hardened against malformed-font parser attacks. Zero runtime dependency beyond @awacloud/fw.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Ffonts",
+      "category": "frontend",
+      "createdAt": "2026-10-07T09:16:27.849Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 98
+    },
+    {
       "name": "@awacloud/fw",
       "version": "0.1.0",
       "description": "Zero-dependency browser framework: a DI module runtime with 200+ ESM modules — codecs, compression, crypto (WebCrypto + WASM tiers, post-quantum), DOM rendering and query, workers, security lockdown — usable without a bundler via import maps.",
@@ -7164,6 +7176,42 @@
       "createdAt": "2026-09-29T13:58:38.812Z",
       "discoveredAt": "2026-09-30T01:55:04.164Z",
       "score": 90
+    },
+    {
+      "name": "@awacloud/oconv",
+      "version": "1.0.0",
+      "description": "Browser-safe document conversion through a versioned pivot IR — docx/odt/xlsx/ods/pptx/odp/pdf to structured Markdown, Markdown to docx/odt/pdf, and docx/odt cross-format pairs, each call returning a machine-readable loss ledger. Zero runtime dependency b",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Foconv",
+      "category": "frontend",
+      "createdAt": "2026-10-07T09:44:15.861Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
+      "name": "@awacloud/ooxml",
+      "version": "1.0.0",
+      "description": "Browser-safe OOXML (ECMA-376) reader/writer for .docx, .xlsx and .pptx — typed core, opt-in extras covering the rest of the schema. Zero runtime dependency beyond @awacloud/fw.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Fooxml",
+      "category": "frontend",
+      "createdAt": "2026-10-07T09:29:49.009Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 97
+    },
+    {
+      "name": "@awacloud/pdf",
+      "version": "1.0.0",
+      "description": "Browser-safe PDF 2.0 reader/writer — ISO 32000-2:2020, PDF 1.7 legacy read, typed object graph, AES-256 encrypted write, PKCS#7/PAdES signatures (sign + verify). Zero runtime dependency beyond @awacloud/fw and @awacloud/fonts.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Fpdf",
+      "category": "frontend",
+      "createdAt": "2026-10-07T09:32:23.720Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
     },
     {
       "name": "@aws-sdk/client-account-access",
@@ -8904,6 +8952,18 @@
       "createdAt": "2026-07-27T16:23:26.951Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 74
+    },
+    {
+      "name": "@bonusround/sdk",
+      "version": "1.0.0",
+      "description": "Monetize your three.js game with one line of code. Alias of the bonusround package (Bonus Round, bonusround.io); prefer npm i bonusround. The README is the full integration recipe.",
+      "license": "MIT",
+      "repository": "https://github.com/Future-Circus/bonusround",
+      "npmUrl": "https://www.npmjs.com/package/%40bonusround%2Fsdk",
+      "category": "devops",
+      "createdAt": "2026-10-08T00:16:39.862Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 96
     },
     {
       "name": "@booi-gg/augit",
@@ -18566,6 +18626,18 @@
       "score": 92
     },
     {
+      "name": "@emulates/genebygene",
+      "version": "2.3.1",
+      "description": "Stateful emulator of Gene by Gene's Nucleus API v2 and auth host: tokens with credential blocking, catalog, shipping quotes, orders, kits, demographics, three-layer cancel, results with presigned downloads and S3 writes, subscriptions, and GxG-signed webh",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Fgenebygene",
+      "category": "backend",
+      "createdAt": "2026-10-07T02:07:16.670Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 96
+    },
+    {
       "name": "@emulates/google-calendar",
       "version": "2.3.1",
       "description": "Stateful emulator of the Google Calendar v3 API and Google OAuth our EMR calls: events list/insert/update/delete/watch, channels.stop, calendarList/calendars, token exchange/refresh/revoke and userinfo, with signed-by-header push notifications.",
@@ -18588,6 +18660,18 @@
       "createdAt": "2026-10-07T02:07:58.235Z",
       "discoveredAt": "2026-10-07T02:11:08.274Z",
       "score": 98
+    },
+    {
+      "name": "@emulates/oauth",
+      "version": "2.3.1",
+      "description": "Social-login emulator with Google, Apple, Microsoft, GitHub and generic OIDC profiles, private relay identities, reproducible edge cases, signed tokens and an accessible UI.",
+      "license": "MIT",
+      "repository": "https://github.com/crvouga/emulates",
+      "npmUrl": "https://www.npmjs.com/package/%40emulates%2Foauth",
+      "category": "devops",
+      "createdAt": "2026-10-07T02:11:02.755Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 97
     },
     {
       "name": "@enbox/crdt",
@@ -35222,6 +35306,18 @@
       "score": 100
     },
     {
+      "name": "@lacspace/bounce",
+      "version": "1.0.0",
+      "description": "Bounce, complaint and auto-reply classifier for email campaigns and webmail: parses RFC 3464 delivery status notifications (Reporting-MTA, Final-Recipient, Action, Status, Diagnostic-Code, Remote-MTA), RFC 5965 ARF spam complaints and RFC 3834 auto-replie",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fbounce",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T14:31:04.585Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 97
+    },
+    {
       "name": "@lacspace/charts",
       "version": "1.0.0",
       "description": "A dependency-free React chart library that draws real SVG — line, area, bar, stacked bar, donut, sparkline, gauge, heatmap, radar, funnel and candlestick. No canvas, no D3, no chart engine: every mark is an element you can style with CSS variables, and ev",
@@ -35294,6 +35390,30 @@
       "score": 94
     },
     {
+      "name": "@lacspace/dkim",
+      "version": "1.0.0",
+      "description": "DKIM signing and verification for email: RFC 6376 (rsa-sha256, simple/relaxed canonicalization, l=, x=, t=, oversigned From), RFC 8463 Ed25519 (ed25519-sha256) and RFC 8301 (rsa-sha1 and keys under 1024 bits rejected). signMessage(), verifyMessage() with",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fdkim",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T08:34:57.449Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/email-builder",
+      "version": "1.1.0",
+      "description": "Block-based email template builder: a JSON document of blocks (header, text, image, button, divider, spacer, columns, social, footer, html, quote, list, table) renders to bulletproof table-based responsive email HTML for Outlook desktop, Gmail, Apple Mail",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Femail-builder",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T14:31:14.455Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
       "name": "@lacspace/embeddings",
       "version": "1.0.0",
       "description": "A tiny, provider-agnostic, keyless embeddings client plus pure vector math (cosine, dot, euclidean, normalize, mean-pool, top-k) — the entry point of a RAG stack. Works with OpenAI-compatible, Ollama, Google and Cohere endpoints via an injectable fetch. Z",
@@ -35354,6 +35474,30 @@
       "score": 83
     },
     {
+      "name": "@lacspace/ics",
+      "version": "1.0.0",
+      "description": "Small, correct iCalendar (RFC 5545) + iTIP (RFC 5546) parser and builder for webmail meeting invites. parseIcs() reads Google Calendar, Outlook/Exchange and Apple invites: line unfolding (byte-level, so folds that split UTF-8 characters survive), quoted p",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fics",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T11:45:32.293Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/imap",
+      "version": "1.0.0",
+      "description": "Zero-dependency IMAP4rev1 client for Node (RFC 3501 + IDLE, MOVE, UIDPLUS, CONDSTORE, SPECIAL-USE, LIST-EXTENDED, LITERAL+, SASL-IR, QUOTA, ID). Implicit TLS and STARTTLS with verification on, LOGIN / PLAIN / XOAUTH2 / OAUTHBEARER, streaming byte-accurate",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fimap",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T07:49:49.677Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
       "name": "@lacspace/json-repair",
       "version": "1.1.0",
       "description": "Extract and repair JSON from messy LLM output — strip ```json fences and prose, extract every embedded value, repair with diagnostics, fix trailing commas, single quotes, unquoted keys and Python literals, and close truncated objects. Zero-dependency, iso",
@@ -35363,6 +35507,54 @@
       "category": "build-tools",
       "createdAt": "2026-09-07T07:17:24.933Z",
       "discoveredAt": "2026-09-08T16:30:52.786Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/mail-dns",
+      "version": "1.0.0",
+      "description": "Generate and verify a domain's email DNS records: MX, SPF, DKIM, DMARC, MTA-STS, TLS-RPT and BIMI. generateRecords() gives the exact records to add; checkDomain() looks them up, scores the domain 0-100 and explains every failure in plain English. Recursiv",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fmail-dns",
+      "category": "frontend",
+      "createdAt": "2026-10-07T08:42:23.124Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
+      "name": "@lacspace/mail-extract",
+      "version": "1.0.0",
+      "description": "Extract structured data from email bodies: schema.org JSON-LD and basic microdata (Order, Invoice, FlightReservation, LodgingReservation, FoodEstablishmentReservation, EventReservation, ParcelDelivery, Event) normalised to order numbers, totals with curre",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fmail-extract",
+      "category": "data",
+      "createdAt": "2026-10-07T15:09:03.403Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 96
+    },
+    {
+      "name": "@lacspace/mail-merge",
+      "version": "1.0.0",
+      "description": "Mail merge for webmail and email campaigns: turn a CSV or spreadsheet of recipients plus a subject/HTML/text template into one personalised message per recipient, with a validation report before anything is sent. Own RFC 4180 CSV parser (quotes, embedded",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fmail-merge",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T14:34:49.166Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 96
+    },
+    {
+      "name": "@lacspace/mail-sanitize",
+      "version": "1.0.0",
+      "description": "Isomorphic email-HTML sanitizer for webmail. Allowlist-based tags and attributes, URL scheme filtering (entity/tab/case tricks decoded), remote images blocked behind placeholders with data-lac-src for a \"Load images\" button, tracking pixels removed and li",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Fmail-sanitize",
+      "category": "frontend",
+      "createdAt": "2026-10-07T07:44:02.677Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
       "score": 100
     },
     {
@@ -35508,6 +35700,18 @@
       "createdAt": "2026-09-07T07:17:19.970Z",
       "discoveredAt": "2026-09-07T17:40:44.533Z",
       "score": 93
+    },
+    {
+      "name": "@lacspace/track",
+      "version": "1.1.0",
+      "description": "Privacy-respecting open and click tracking for email campaigns: compact HMAC-SHA256 signed base64url tokens (WebCrypto) carrying campaign, message, a hashed recipient and issue time with TTL expiry; signed click redirects with the destination URL inside t",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/lacspace/npm-packages",
+      "npmUrl": "https://www.npmjs.com/package/%40lacspace%2Ftrack",
+      "category": "build-tools",
+      "createdAt": "2026-10-07T15:17:03.985Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 95
     },
     {
       "name": "@lacspace/vector",
@@ -40920,6 +41124,18 @@
       "createdAt": "2026-09-29T16:44:58.631Z",
       "discoveredAt": "2026-09-30T01:55:04.164Z",
       "score": 93
+    },
+    {
+      "name": "@molecule/api-ai-embeddings-embeddinggemma",
+      "version": "1.0.0",
+      "description": "EmbeddingGemma 2 ai-embeddings provider for molecule.dev — Google's open (Apache-2.0) multimodal embedding model run in-process via Transformers.js (ONNX): text, images and audio in one 768-d space, task prefixes applied for you, Matryoshka 512/256/128",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-ai-embeddings-embeddinggemma",
+      "category": "backend",
+      "createdAt": "2026-10-07T04:31:40.385Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
     },
     {
       "name": "@molecule/api-ai-image-generation",
@@ -47628,6 +47844,18 @@
       "createdAt": "2026-08-13T12:23:50.975Z",
       "discoveredAt": "2026-08-13T12:51:39.870Z",
       "score": 81
+    },
+    {
+      "name": "@pantrist/capacitor-mlkit-barcode-text-scanner",
+      "version": "8.3.0",
+      "description": "Capacitor plugin for ML Kit Barcode Scanning on Android, iOS and Web, with optional live text recognition in the same camera session. Fork of @capacitor-mlkit/barcode-scanning by Capawesome.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Pantrist-dev/capacitor-mlkit-barcode-text-scanner",
+      "npmUrl": "https://www.npmjs.com/package/%40pantrist%2Fcapacitor-mlkit-barcode-text-scanner",
+      "category": "devops",
+      "createdAt": "2026-10-07T05:49:50.527Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 99
     },
     {
       "name": "@paputechxyz/claude-code-backup",
@@ -70010,6 +70238,18 @@
       "score": 83
     },
     {
+      "name": "acquisitionuniverse",
+      "version": "1.0.1",
+      "description": "Toolkit for acquisition target screening: write a thesis brief, rank screened companies with a weighted composite that zeroes out group-owned targets, and measure signal coverage across the 15 common signals.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/acquisitionuniverse",
+      "npmUrl": "https://www.npmjs.com/package/acquisitionuniverse",
+      "category": "devops",
+      "createdAt": "2026-10-07T15:05:18.967Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
       "name": "actionforge-mcp",
       "version": "1.0.0",
       "description": "MCP server publishing an ActionForge account's tools to any MCP client",
@@ -73874,6 +74114,18 @@
       "score": 98
     },
     {
+      "name": "auto-permission-system",
+      "version": "2.20.0",
+      "description": "Security sandbox, permission system and tool guard for the Pi coding agent (pi): enforce filesystem allow/deny lists and network domain allowlists on read, write, edit, bash, grep, find, ls, fetch_content and web_search, with interactive ask prompts, secr",
+      "license": "MIT",
+      "repository": "https://github.com/Navin009/auto-permission-system",
+      "npmUrl": "https://www.npmjs.com/package/auto-permission-system",
+      "category": "frontend",
+      "createdAt": "2026-10-07T15:27:29.827Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
       "name": "auto-skelly",
       "version": "1.0.0",
       "description": "Framework-agnostic skeleton loading placeholders. Auto-generates animated skeletons from your existing markup to improve perceived load time.",
@@ -73884,6 +74136,18 @@
       "createdAt": "2026-07-25T20:54:02.129Z",
       "discoveredAt": "2026-07-25T21:06:35.724Z",
       "score": 92
+    },
+    {
+      "name": "autocda-verify-mcp",
+      "version": "1.0.0",
+      "description": "The SPICE-verified truth layer for analog circuit design — an MCP server (and HTTP API) that turns a plain-English intent into a real-ngspice-verified, buyable circuit. Lets an AI agent verify component values instead of hallucinating them.",
+      "license": "MIT",
+      "repository": "https://github.com/LochanPS/AutoCDA",
+      "npmUrl": "https://www.npmjs.com/package/autocda-verify-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-07T22:04:30.057Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
     },
     {
       "name": "autoit-obfuscator",
@@ -75360,6 +75624,18 @@
       "createdAt": "2026-07-29T01:28:58.066Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
       "score": 78
+    },
+    {
+      "name": "bonusround.io",
+      "version": "1.0.0",
+      "description": "Monetize your three.js game with one line of code. Alias of the bonusround package (Bonus Round, bonusround.io); prefer npm i bonusround. The README is the full integration recipe.",
+      "license": "MIT",
+      "repository": "https://github.com/Future-Circus/bonusround",
+      "npmUrl": "https://www.npmjs.com/package/bonusround.io",
+      "category": "devops",
+      "createdAt": "2026-10-08T00:16:36.042Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 96
     },
     {
       "name": "book-to-skill",
@@ -85070,6 +85346,18 @@
       "score": 48
     },
     {
+      "name": "dsh-plugin-git-commit-push",
+      "version": "1.0.1",
+      "description": "One-call Conventional-Commits git workflow for DeepSeek Harness: survey + commit + optional tag + push, plus a /git-commit-push slash command that runs with no model involvement. Windows and macOS/Linux.",
+      "license": "MIT",
+      "repository": "https://github.com/ygzhang-lab/dsh-plugin-git-commit-push",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-git-commit-push",
+      "category": "utilities",
+      "createdAt": "2026-10-08T01:51:03.688Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 100
+    },
+    {
       "name": "dsh-plugin-hub",
       "version": "0.1.1",
       "description": "Plugin Hub for DeepSeek Harness (DSH): a graphical app-store inside the Harness Web UI — browse, search, and one-click install GitHub dsh-plugins, with local ratings, dependency impact graphs, audit logging, and a development scaffold",
@@ -89940,6 +90228,18 @@
       "createdAt": "2026-08-09T07:04:49.042Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 68
+    },
+    {
+      "name": "fundai",
+      "version": "1.1.0",
+      "description": "A 股场外基金 AI 每日研判与十年实证回测系统：多源新闻 + 十年电报库 + 涨跌情绪 + 行情技术面 → 三路评分，输出买入/赎回/转换建议并做反应型风控。 / AI-powered decision system for off-exchange (OTC) A-share funds: daily research, a ten-year backtest and a self-hosted dashboard.",
+      "license": "MIT",
+      "repository": "https://github.com/Theflowyears/FundAI-AI-Powered-A-Share-Fund-Decision-System",
+      "npmUrl": "https://www.npmjs.com/package/fundai",
+      "category": "testing",
+      "createdAt": "2026-10-07T10:14:14.821Z",
+      "discoveredAt": "2026-10-08T02:36:47.962Z",
+      "score": 98
     },
     {
       "name": "furnizsh",
