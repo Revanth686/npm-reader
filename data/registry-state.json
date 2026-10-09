@@ -1,27 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 135315086,
-  "lastRunAt": "2026-10-08T02:36:47.962Z",
+  "lastSequence": 135593595,
+  "lastRunAt": "2026-10-09T02:51:58.258Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@beastjs/page-builder",
-      "attempts": 1
-    },
-    {
-      "name": "@neon/realtime-kysely",
-      "attempts": 1
-    },
-    {
       "name": "@ptengine/tailwind-preset",
-      "attempts": 1
+      "attempts": 2
     },
     {
       "name": "@ptengine/tokens",
-      "attempts": 1
+      "attempts": 2
     },
     {
-      "name": "@ptengine/ui-angular",
+      "name": "@shny/pocket-cdp",
       "attempts": 1
     }
   ]
