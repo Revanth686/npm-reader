@@ -10022,6 +10022,18 @@
       "score": 76
     },
     {
+      "name": "@buzo/iron-clads",
+      "version": "1.0.0",
+      "description": "A small, flexible, plugin-friendly validator for Node.js and browser projects, supporting synchronous and asynchronous rules, custom messages and locales, rule aliases, and programmatic rule registration.",
+      "license": "ISC",
+      "repository": "https://github.com/albrite/iron-clad",
+      "npmUrl": "https://www.npmjs.com/package/%40buzo%2Firon-clads",
+      "category": "frontend",
+      "createdAt": "2026-10-09T15:00:38.816Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
+    },
+    {
       "name": "@buzzni/saycode-cli",
       "version": "0.1.1",
       "description": "Drive Saycode sessions across your machines from the terminal.",
@@ -14448,6 +14460,18 @@
       "createdAt": "2026-08-10T17:44:54.682Z",
       "discoveredAt": "2026-08-10T18:44:20.598Z",
       "score": 79
+    },
+    {
+      "name": "@deankerr/json-diff-ts",
+      "version": "4.10.5",
+      "description": "Modern TypeScript JSON diff library - Zero dependencies, high performance, ESM + CommonJS support. Calculate and apply differences between JSON objects with advanced features like key-based array diffing, JSONPath support, and atomic changesets.",
+      "license": "MIT",
+      "repository": "https://github.com/deankerr/json-diff-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40deankerr%2Fjson-diff-ts",
+      "category": "data",
+      "createdAt": "2026-10-09T20:08:53.549Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
     },
     {
       "name": "@decaspace/canapi",
@@ -20726,6 +20750,42 @@
       "score": 88
     },
     {
+      "name": "@flarecart/licensing",
+      "version": "1.0.0",
+      "description": "Licence-key seats for software sellers: validate a key (and one installation of it) with a reason a client can show, claim a seat race-free so parallel activations can't overrun the limit, and release it by an instance id the server issued. In-memory and",
+      "license": "MIT",
+      "repository": "https://github.com/FlareCart/licensing",
+      "npmUrl": "https://www.npmjs.com/package/%40flarecart%2Flicensing",
+      "category": "backend",
+      "createdAt": "2026-10-09T14:48:47.422Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 92
+    },
+    {
+      "name": "@flarecart/passkeys",
+      "version": "1.0.0",
+      "description": "Passkey sign-in for an admin page — server flows over a store you choose (in-memory and Cloudflare D1 included), single-use challenges, provider names, session-cookie helpers, the browser calls, and a software passkey for tests.",
+      "license": "MIT",
+      "repository": "https://github.com/FlareCart/passkeys",
+      "npmUrl": "https://www.npmjs.com/package/%40flarecart%2Fpasskeys",
+      "category": "testing",
+      "createdAt": "2026-10-09T12:40:17.851Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 96
+    },
+    {
+      "name": "@flarecart/s3-signer",
+      "version": "1.0.0",
+      "description": "AWS Signature Version 4 for S3-compatible storage (Cloudflare R2, AWS S3, Backblaze B2, Spaces, MinIO) on Web Crypto: presigned downloads that save under any filename, create-only presigned uploads, multipart, bucket CORS. No dependencies; runs in Workers",
+      "license": "MIT",
+      "repository": "https://github.com/FlareCart/s3-signer",
+      "npmUrl": "https://www.npmjs.com/package/%40flarecart%2Fs3-signer",
+      "category": "devops",
+      "createdAt": "2026-10-09T12:40:01.021Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
+    },
+    {
       "name": "@flashesofbrilliance/rosetta-shell",
       "version": "0.1.0",
       "description": "Lossless shell/environment translation (bash 3.2 <-> zsh <-> POSIX). Run one script natively in every shell locale, and gate portability in CI.",
@@ -21408,6 +21468,18 @@
       "createdAt": "2026-08-03T12:36:28.598Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 78
+    },
+    {
+      "name": "@frankxai/agentic-creator-os",
+      "version": "15.0.0",
+      "description": "The Operating System for AI-Powered Creators — 90+ skills, 65+ commands, 38 agents, 8 plugins. Full support for Claude Code, Grok Build (CLI/TUI via grok-harness-adapter), Cursor, Windsurf, Gemini, Antigravity. Built on SIP.",
+      "license": "MIT",
+      "repository": "https://github.com/frankxai/agentic-creator-os",
+      "npmUrl": "https://www.npmjs.com/package/%40frankxai%2Fagentic-creator-os",
+      "category": "build-tools",
+      "createdAt": "2026-10-10T01:43:27.554Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
     },
     {
       "name": "@frase/headless-adapter",
@@ -39374,6 +39446,18 @@
       "score": 76
     },
     {
+      "name": "@maverick-ai/cli",
+      "version": "1.7.0",
+      "description": "A vendor-neutral engineering workflow for building with AI using explicit context, scope, verification and human review.",
+      "license": "MIT",
+      "repository": "https://github.com/jhonesgoncalves/maverick-ai-dev-stack",
+      "npmUrl": "https://www.npmjs.com/package/%40maverick-ai%2Fcli",
+      "category": "build-tools",
+      "createdAt": "2026-10-09T20:53:23.728Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 92
+    },
+    {
       "name": "@maverickcer/env-cap",
       "version": "0.3.0",
       "description": "Secure, type-safe, framework-agnostic environment contracts. Contracts own the environment variables they consume; the package provides runtime validation and build-time contract discovery.",
@@ -48698,6 +48782,18 @@
       "score": 88
     },
     {
+      "name": "@pezkuwi/braces",
+      "version": "3.0.4",
+      "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
+      "license": "MIT",
+      "repository": "https://github.com/pezkuwichain/braces",
+      "npmUrl": "https://www.npmjs.com/package/%40pezkuwi%2Fbraces",
+      "category": "devops",
+      "createdAt": "2026-10-09T23:08:28.107Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 98
+    },
+    {
       "name": "@phall/phui",
       "version": "0.15.0",
       "description": "Terminal UI for GitHub pull requests — a fork of kitlangton/ghui",
@@ -57026,6 +57122,18 @@
       "score": 73
     },
     {
+      "name": "@skynettechnologies/lovable-all-in-one-accessibility",
+      "version": "1.0.0",
+      "description": "All in One Accessibility® widget and admin settings page for Lovable apps. Helps improve WCAG 2.0, 2.1, 2.2, ADA and EAA accessibility.",
+      "license": "MIT",
+      "repository": "https://github.com/skynettechnologies/lovable-allinoneaccessibility",
+      "npmUrl": "https://www.npmjs.com/package/%40skynettechnologies%2Flovable-all-in-one-accessibility",
+      "category": "frontend",
+      "createdAt": "2026-10-09T11:08:27.415Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 93
+    },
+    {
       "name": "@skyphusion/slate",
       "version": "0.5.6",
       "description": "Slate -- Vivijure Screenwriter's Assistant for Discord",
@@ -58754,6 +58862,18 @@
       "score": 71
     },
     {
+      "name": "@starlight-intelligence/system",
+      "version": "8.3.0",
+      "description": "Starlight Intelligence System — substrate (SIP protocol, alliance forging method, attestation) + reference operational layer (6 semantic vaults, SQLite hybrid retrieval, temporal reasoning, MCP server, platform adapters, sanitization gateway, empirical sa",
+      "license": "MIT",
+      "repository": "https://github.com/frankxai/Starlight-Intelligence-System",
+      "npmUrl": "https://www.npmjs.com/package/%40starlight-intelligence%2Fsystem",
+      "category": "testing",
+      "createdAt": "2026-10-10T01:52:03.252Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
+    },
+    {
       "name": "@startstorez/portal-sdk",
       "version": "0.1.0",
       "description": "Server SDK and React widget for StartStorez Apps Portal — report installs, fire events, read plan limits, and render in-app popups. Fails open by design.",
@@ -58764,6 +58884,18 @@
       "createdAt": "2026-08-05T17:50:17.242Z",
       "discoveredAt": "2026-08-05T17:58:42.701Z",
       "score": 79
+    },
+    {
+      "name": "@starworks-dev/hero3d",
+      "version": "1.0.0",
+      "description": "A small, dependency-free engine for flat, text-bearing planes seen through a moving perspective camera: Canvas 2D heroes, baked WebGL fields and small WebGL 2 heroes on one lifecycle.",
+      "license": "MIT",
+      "repository": "https://github.com/T3mps/hero3d",
+      "npmUrl": "https://www.npmjs.com/package/%40starworks-dev%2Fhero3d",
+      "category": "frontend",
+      "createdAt": "2026-10-09T09:35:14.283Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 98
     },
     {
       "name": "@stashbase/agent-proxy",
@@ -65172,6 +65304,18 @@
       "createdAt": "2026-08-07T14:28:47.685Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 68
+    },
+    {
+      "name": "@vepando/liquid-glass-react",
+      "version": "1.0.0",
+      "description": "Apple-style Liquid Glass for React: physically-based refraction (Snell's law), specular rim and touch-reactive glass via SVG backdrop-filter. No WebGL.",
+      "license": "MIT",
+      "repository": "https://github.com/LeonardSEO/liquid-glass-react",
+      "npmUrl": "https://www.npmjs.com/package/%40vepando%2Fliquid-glass-react",
+      "category": "frontend",
+      "createdAt": "2026-10-09T11:57:20.398Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 95
     },
     {
       "name": "@vericto/vericto-cli",
@@ -72182,6 +72326,18 @@
       "score": 30
     },
     {
+      "name": "ai-usage-cost",
+      "version": "1.3.0",
+      "description": "Claude Code usage & cost dashboard: one offline HTML file, spend by day, project and session, $/hour, history beyond 30 days",
+      "license": "MIT",
+      "repository": "https://github.com/okrasn/ai-usage-cost",
+      "npmUrl": "https://www.npmjs.com/package/ai-usage-cost",
+      "category": "cli",
+      "createdAt": "2026-10-09T15:07:07.663Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 92
+    },
+    {
       "name": "ai-usage-inspector",
       "version": "2.2.1",
       "description": "Zero-dependency tool that records every AI coding-agent prompt (tokens, model, mode, cost, context %) from Claude Code, OpenAI Codex, Cursor, OpenCode, and VS Code agents (Cline, Roo Code, Kilo Code), and shows it in a local dashboard.",
@@ -74160,6 +74316,18 @@
       "createdAt": "2026-07-28T15:58:44.522Z",
       "discoveredAt": "2026-07-28T16:24:48.814Z",
       "score": 78
+    },
+    {
+      "name": "attestqa",
+      "version": "1.1.0",
+      "description": "attestqa: a governed QA runtime. A model chooses tools over MCP inside a governance gate that refuses to weaken a test; every step is written to a replayable ledger, and the report is counted from the ledger, not from the model's account of itself.",
+      "license": "MIT",
+      "repository": "https://github.com/javvadivijayprasad/attestqa",
+      "npmUrl": "https://www.npmjs.com/package/attestqa",
+      "category": "testing",
+      "createdAt": "2026-10-09T17:59:55.381Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
     },
     {
       "name": "attr-readtime",
@@ -81542,6 +81710,18 @@
       "score": 71
     },
     {
+      "name": "cv-score",
+      "version": "1.0.0",
+      "description": "Score CVs and resumes from 0–100 for ATS readiness and resume quality, with local PDF, DOCX, and text analysis and actionable improvement tips.",
+      "license": "MIT",
+      "repository": "https://github.com/numbing/cv-score",
+      "npmUrl": "https://www.npmjs.com/package/cv-score",
+      "category": "utilities",
+      "createdAt": "2026-10-09T05:55:13.444Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 94
+    },
+    {
       "name": "cvlac-mcp",
       "version": "1.0.0",
       "description": "Actualiza tu hoja de vida de CvLAC (MinCiencias) desde el chat de tu editor, sin llenar formularios a mano. Servidor MCP con Playwright.",
@@ -83582,6 +83762,18 @@
       "score": 62
     },
     {
+      "name": "drawio-ai-kit",
+      "version": "2.0.0",
+      "description": "Helps an AI draw correct, beautiful draw.io diagrams: ground-truth AWS/Azure/GCP/OSS icon catalogs, a declarative layout engine, a validator, and one agent skill. Zero-dependency drawio-ai CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/sparklabx/drawio-ai-kit",
+      "npmUrl": "https://www.npmjs.com/package/drawio-ai-kit",
+      "category": "cli",
+      "createdAt": "2026-10-09T16:54:57.012Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 99
+    },
+    {
       "name": "drazill",
       "version": "0.2.0",
       "description": "Official alpha TypeScript SDK for the Drazill Prediction Market API",
@@ -84072,6 +84264,18 @@
       "createdAt": "2026-09-20T11:42:05.856Z",
       "discoveredAt": "2026-09-20T15:55:23.242Z",
       "score": 98
+    },
+    {
+      "name": "dsh-chat-plus",
+      "version": "1.1.0",
+      "description": "DeepSeek Harness 对话体验增强套件（零源码改动、纯插件注入）。Seeker 双栏执行大盘：右栏任务 / 操作面板 / 子智能体 / 产出物四张卡 + 记忆钉底，左栏只留一行状态卡与贴进对话流的思考卡、问答卡（字号跟随官方「设置 → 字号」）。正文可出卡片：html 沙箱（跑真 HTML/JS）、diagram 流程图、iu 原生交互卡、proto-tabs。另有对话截图、download 下载工具、裸路径转链接，供应商中心（API Key / 网络代理 / 生图识图生视频 / AnySea",
+      "license": "MIT",
+      "repository": "https://github.com/Kr-ATG/dsh-chat-plus",
+      "npmUrl": "https://www.npmjs.com/package/dsh-chat-plus",
+      "category": "backend",
+      "createdAt": "2026-10-09T16:51:12.851Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
     },
     {
       "name": "dsh-chatgpt-bridge",
@@ -85008,6 +85212,18 @@
       "createdAt": "2026-09-18T16:43:38.079Z",
       "discoveredAt": "2026-09-19T04:22:27.843Z",
       "score": 86
+    },
+    {
+      "name": "dsh-llm-kilo-gateway",
+      "version": "1.0.0",
+      "description": "Kilo Gateway free-model provider for DeepSeek Harness: auto-discovers the free model catalog, exposes tools/reasoning/image capabilities, records token usage, and gives you a settings page for your own API key and a catalog change log.",
+      "license": "MIT",
+      "repository": "https://github.com/aqiu817/dsh-llm-kilo-gateway",
+      "npmUrl": "https://www.npmjs.com/package/dsh-llm-kilo-gateway",
+      "category": "backend",
+      "createdAt": "2026-10-09T12:54:35.995Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 96
     },
     {
       "name": "dsh-local-ai",
@@ -86904,6 +87120,18 @@
       "createdAt": "2026-09-14T15:13:23.046Z",
       "discoveredAt": "2026-09-14T18:00:56.439Z",
       "score": 97
+    },
+    {
+      "name": "dynamic-goal",
+      "version": "1.0.0",
+      "description": "Dynamic replanning extension for the Pi coding agent: persistent goal, evidence-driven plan revision, phase-scoped tools, ADaPT-style as-needed decomposition, staleness detection, and isolated completion verification.",
+      "license": "MIT",
+      "repository": "https://github.com/neoguri7/dynamic-goal",
+      "npmUrl": "https://www.npmjs.com/package/dynamic-goal",
+      "category": "utilities",
+      "createdAt": "2026-10-09T12:59:00.221Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 96
     },
     {
       "name": "dynamic-workflow",
@@ -109778,6 +110006,18 @@
       "score": 90
     },
     {
+      "name": "pi-goal-mode",
+      "version": "1.0.0",
+      "description": "Dynamic replanning extension for the Pi coding agent: persistent goal, evidence-driven plan revision, phase-scoped tools, ADaPT-style as-needed decomposition, staleness detection, and isolated completion verification.",
+      "license": "MIT",
+      "repository": "https://github.com/neoguri7/dynamic-goal",
+      "npmUrl": "https://www.npmjs.com/package/pi-goal-mode",
+      "category": "utilities",
+      "createdAt": "2026-10-09T12:56:32.985Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 96
+    },
+    {
       "name": "pi-goala",
       "version": "0.3.0",
       "description": "Goal-oriented agent lifecycle, evidence, and verified memory for Pi.",
@@ -116078,6 +116318,18 @@
       "score": 90
     },
     {
+      "name": "richtext-all",
+      "version": "1.0.0",
+      "description": "Universal, zero-dependency collaborative rich text & live editor engine for all JavaScript frameworks and platforms (React, Next.js, Vue 3, Angular, Svelte, Vanilla). Supports real-time collaboration with live cursors, presence avatars, revision audit his",
+      "license": "MIT",
+      "repository": "https://github.com/VeereshPoojari/richtext-all",
+      "npmUrl": "https://www.npmjs.com/package/richtext-all",
+      "category": "frontend",
+      "createdAt": "2026-10-09T10:38:29.637Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 100
+    },
+    {
       "name": "rift-diff",
       "version": "0.2.0",
       "description": "A zero-dependency, TypeScript-first diff engine built around ranges and predictable resource limits.",
@@ -120050,6 +120302,18 @@
       "score": 77
     },
     {
+      "name": "spark-mls-client",
+      "version": "1.2.0",
+      "description": "JavaScript/TypeScript client for the Spark Platform (Flexmls) MLS/IDX API and Paragon RETS feeds, with optional Vue and React bindings.",
+      "license": "MIT",
+      "repository": "https://github.com/mastashake08/spark-plugin",
+      "npmUrl": "https://www.npmjs.com/package/spark-mls-client",
+      "category": "frontend",
+      "createdAt": "2026-09-17T17:23:52.580Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 93
+    },
+    {
       "name": "sparkline-mini-charts",
       "version": "1.3.0",
       "description": "Zero-dependency SVG sparkline Web Components with Shadow DOM, responsive scaling, and framework bindings.",
@@ -121130,6 +121394,18 @@
       "score": 68
     },
     {
+      "name": "strapi-plugin-bff-views",
+      "version": "1.0.0",
+      "description": "Configurable BFF aggregate endpoints for Strapi v5: one request returns a fully populated, transformed page payload backed by parallel decomposed queries.",
+      "license": "MIT",
+      "repository": "https://github.com/jmichalec-vl/strapi-plugin-bff-views",
+      "npmUrl": "https://www.npmjs.com/package/strapi-plugin-bff-views",
+      "category": "frontend",
+      "createdAt": "2026-10-09T16:41:12.658Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 93
+    },
+    {
       "name": "strapi-plugin-bulk-updater",
       "version": "1.0.0",
       "description": "Bulk update attributes and relationships across multiple collection types in Strapi v5 with schema validation, maker-checker governance, off-peak scheduling, and 3-tier audit rollback.",
@@ -121152,6 +121428,18 @@
       "createdAt": "2026-08-11T09:06:45.114Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 66
+    },
+    {
+      "name": "strapi-plugin-content-schemas",
+      "version": "1.0.0",
+      "description": "Auto-generate Valibot/Zod validation schemas from Strapi v5 content types. Eliminates hand-written frontend schemas with full attribute coverage, type overrides, and populate generation.",
+      "license": "MIT",
+      "repository": "https://github.com/jmichalec-vl/strapi-plugin-content-schemas",
+      "npmUrl": "https://www.npmjs.com/package/strapi-plugin-content-schemas",
+      "category": "frontend",
+      "createdAt": "2026-10-09T18:00:53.784Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 98
     },
     {
       "name": "strapi-plugin-tanstack-ai",
@@ -122976,6 +123264,18 @@
       "createdAt": "2026-08-01T19:18:07.126Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 81
+    },
+    {
+      "name": "themelia-react-ui",
+      "version": "1.0.0",
+      "description": "A composable React UI library for modern admin applications, built on Base UI and Tailwind with shadcn-compatible themes, shared design tokens, reusable layouts, blocks and workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/nicolasvlachos/themelia-react-ui",
+      "npmUrl": "https://www.npmjs.com/package/themelia-react-ui",
+      "category": "frontend",
+      "createdAt": "2026-10-09T13:57:23.092Z",
+      "discoveredAt": "2026-10-10T02:12:12.310Z",
+      "score": 94
     },
     {
       "name": "thetowersdk",

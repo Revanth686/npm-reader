@@ -1,20 +1,16 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 135593595,
-  "lastRunAt": "2026-10-09T02:51:58.258Z",
+  "lastSequence": 135862857,
+  "lastRunAt": "2026-10-10T02:12:12.310Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@ptengine/tailwind-preset",
-      "attempts": 2
+      "attempts": 3
     },
     {
       "name": "@ptengine/tokens",
-      "attempts": 2
-    },
-    {
-      "name": "@shny/pocket-cdp",
-      "attempts": 1
+      "attempts": 3
     }
   ]
 }
