@@ -1,16 +1,28 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 135862857,
-  "lastRunAt": "2026-10-10T02:12:12.310Z",
+  "lastSequence": 136027145,
+  "lastRunAt": "2026-10-11T01:44:18.354Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@ptengine/tailwind-preset",
-      "attempts": 3
+      "attempts": 4
     },
     {
       "name": "@ptengine/tokens",
-      "attempts": 3
+      "attempts": 4
+    },
+    {
+      "name": "@rogeriodocarmo/offline-detector-core",
+      "attempts": 1
+    },
+    {
+      "name": "@basecodekit/generate-llms-txt",
+      "attempts": 1
+    },
+    {
+      "name": "@rogeriodocarmo/offline-detector-react",
+      "attempts": 1
     }
   ]
 }

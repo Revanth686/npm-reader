@@ -4898,6 +4898,18 @@
       "score": 79
     },
     {
+      "name": "@anaslaham/claude-wrapper",
+      "version": "2.0.0",
+      "description": "Production-ready OpenAI-compatible API wrapper for Claude Code CLI with streaming, sessions, and authentication",
+      "license": "MIT",
+      "repository": "https://github.com/claude-wrapper/claude-wrapper",
+      "npmUrl": "https://www.npmjs.com/package/%40anaslaham%2Fclaude-wrapper",
+      "category": "backend",
+      "createdAt": "2026-10-10T18:23:49.400Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 91
+    },
+    {
       "name": "@anatolykhelmer/judo-core",
       "version": "0.1.0",
       "description": "Framework-agnostic tournament engine for judo competitions: IJF repechage, double elimination and round-robin brackets as pure, serializable data.",
@@ -6014,6 +6026,18 @@
       "score": 67
     },
     {
+      "name": "@argszero/cordis-plugin-empty-response-retry",
+      "version": "0.2.0",
+      "description": "Makes an unattributed empty model attempt retryable, for the one seam that can tell. Two reports, one missing evidence. Discussion #8321: a `dsh-llm-pi-ai` route that relays an upstream empty response ends the turn, because `classifyPiAiError` has no rule",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/cordis-plugin-empty-response-retry",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fcordis-plugin-empty-response-retry",
+      "category": "utilities",
+      "createdAt": "2026-09-30T00:38:25.579Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
+    },
+    {
       "name": "@argszero/cordis-plugin-profile-fallback-advisor",
       "version": "0.1.0",
       "description": "Turns the silent aftermath of a retired fallback writer into a diagnosis with two ways out. Through 0.1.6 the boot package healed a shared peer fallback for profiles; from 0.1.7-rc.1 the writer is gone while `autoInstallPeers: false` is unchanged, so a pr",
@@ -6072,6 +6096,18 @@
       "createdAt": "2026-09-21T09:26:13.507Z",
       "discoveredAt": "2026-09-21T18:09:38.027Z",
       "score": 89
+    },
+    {
+      "name": "@argszero/dsh-git-hook-guard",
+      "version": "0.1.0",
+      "description": "The harness runs its own git commands — working-tree snapshots at turn start, tree diffs, ignore checks — and a git command reads the working directory's repository configuration. `GitRunner.run()` scrubs the environment (GIT_CONFIG_COUNT=0, the credentia",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/dsh-git-hook-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fdsh-git-hook-guard",
+      "category": "utilities",
+      "createdAt": "2026-10-10T20:10:21.028Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
     },
     {
       "name": "@arguslab/argus",
@@ -10550,6 +10586,18 @@
       "score": 82
     },
     {
+      "name": "@capgo/capacitor-icloud-kv",
+      "version": "8.1.0",
+      "description": "Capacitor plugin to keep small app state in iCloud key-value storage on iOS and Android Backup on Android, so it survives a new phone.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/Cap-go/capacitor-icloud-kv",
+      "npmUrl": "https://www.npmjs.com/package/%40capgo%2Fcapacitor-icloud-kv",
+      "category": "devops",
+      "createdAt": "2026-10-10T02:15:18.906Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 93
+    },
+    {
       "name": "@capsbharg/agent-connect",
       "version": "1.0.1",
       "description": "Universal middleware between messaging platforms (Slack, Telegram, ...) and AI coding agents (Claude Code, Cursor, Codex, ...).",
@@ -13682,6 +13730,18 @@
       "score": 97
     },
     {
+      "name": "@cstack-dev/convex-s3",
+      "version": "0.1.0",
+      "description": "A Convex component for S3-compatible storage (AWS S3, Cloudflare R2, MinIO): browser uploads with multipart and resume, presigned and public URLs, prefixes and folders, copies and deletes, with the R2 component's API.",
+      "license": "MIT",
+      "repository": "https://github.com/christianstamati/convex-s3",
+      "npmUrl": "https://www.npmjs.com/package/%40cstack-dev%2Fconvex-s3",
+      "category": "frontend",
+      "createdAt": "2026-10-10T10:47:36.763Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
+    },
+    {
       "name": "@csukmaproject/livingdocs-mcp",
       "version": "1.0.0",
       "description": "MCP server + CLI that keeps software documentation in permanent sync with code, for both AI agents and humans.",
@@ -13716,6 +13776,18 @@
       "createdAt": "2026-08-10T14:07:53.922Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 74
+    },
+    {
+      "name": "@ctrlpi/mcp-bridge",
+      "version": "0.9.24",
+      "description": "An MCP (Model Context Protocol) server that lets an AI agent (e.g. Claude Desktop) control one or more GPIO agents - `pi-gpio-api` Pis or `pico-gpio-api` Pico Ws - by calling their REST API over HTTP.",
+      "license": "MIT",
+      "repository": "https://github.com/ctrlpi/mcp-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40ctrlpi%2Fmcp-bridge",
+      "category": "backend",
+      "createdAt": "2026-10-10T19:55:42.271Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
     },
     {
       "name": "@ctxnn/pi-permission-gate",
@@ -16766,6 +16838,18 @@
       "score": 73
     },
     {
+      "name": "@dokki-lab/cli",
+      "version": "1.0.0",
+      "description": "The Dokki command line: every Dokki API and MCP action from a terminal or a script, and the bridge that makes Claude Code, Codex or your own bot a Dokki agent people can @mention.",
+      "license": "MIT",
+      "repository": "https://github.com/Dokki-lab/dokki-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40dokki-lab%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-10-10T08:05:05.716Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 97
+    },
+    {
       "name": "@dolphjs/testing",
       "version": "1.0.0",
       "description": "Official testing utilities for DolphJS applications — fast, isolated unit tests and lightweight HTTP integration tests built for the framework's decoration-time DI model.",
@@ -17112,6 +17196,18 @@
       "createdAt": "2026-07-28T02:01:38.481Z",
       "discoveredAt": "2026-08-08T07:32:51.663Z",
       "score": 53
+    },
+    {
+      "name": "@drift-workbench/mcp-server",
+      "version": "1.0.7",
+      "description": "MCP server for Drift Workbench - network diagnostics (speed test, DNS ranking, bufferbloat, WiFi) as AI coding agent tools",
+      "license": "MIT",
+      "repository": "https://github.com/mubasharali24428-crypto/netmax",
+      "npmUrl": "https://www.npmjs.com/package/%40drift-workbench%2Fmcp-server",
+      "category": "testing",
+      "createdAt": "2026-10-10T12:35:21.748Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 92
     },
     {
       "name": "@driftbox/rack",
@@ -32882,6 +32978,18 @@
       "score": 90
     },
     {
+      "name": "@jiangzhenguo/dsh-codegraph",
+      "version": "1.2.1",
+      "description": "CodeGraph for DSH — registers native `codegraph_*` tools (core surface: status/init/sync/explore; full surface adds query/node/files/callers/callees/impact/affected/index/uninit) wrapping the `codegraph` CLI, plus a prompt front-load hook that steers stru",
+      "license": "MIT",
+      "repository": "https://github.com/jiangzhenguo/dsh-codegraph",
+      "npmUrl": "https://www.npmjs.com/package/%40jiangzhenguo%2Fdsh-codegraph",
+      "category": "cli",
+      "createdAt": "2026-10-10T07:38:36.738Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 92
+    },
+    {
       "name": "@jieai/dsh-plugin-vet",
       "version": "0.1.3",
       "description": "Plugin trust pipeline for deepseek-harness (DSH): deterministic static scan, runtime guard (T1 sentinel + T2 hooks), audit protocol skill, GUI shield. Alarm-only monitor, never an enforcer.",
@@ -45432,6 +45540,30 @@
       "createdAt": "2026-07-28T14:01:30.223Z",
       "discoveredAt": "2026-07-28T14:45:07.680Z",
       "score": 96
+    },
+    {
+      "name": "@nspot/geo-pack-romania-protected-areas",
+      "version": "1.1.0",
+      "description": "Region pack for @nspot/geo-engine: Romania's protected areas from the environment ministry's boundaries. It holds the national and natural parks, the geoparks, the biosphere reserves, the Ramsar sites and the UNESCO natural sites with their buffer zones.",
+      "license": "MIT AND CC-BY-4.0",
+      "repository": "https://github.com/NSpot-Games/geo-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40nspot%2Fgeo-pack-romania-protected-areas",
+      "category": "utilities",
+      "createdAt": "2026-10-02T13:47:46.486Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 95
+    },
+    {
+      "name": "@nspot/geo-pack-romania-zones",
+      "version": "1.0.0",
+      "description": "Region pack for @nspot/geo-engine: Romania's functional and tourism zones as unions of ANCPI's administrative units: the mountain area, metropolitan territories, ecotourism destinations, wine regions and podgorii, ITI territories, geoparks, tourism zones,",
+      "license": "MIT AND CC-BY-4.0",
+      "repository": "https://github.com/NSpot-Games/geo-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40nspot%2Fgeo-pack-romania-zones",
+      "category": "utilities",
+      "createdAt": "2026-10-10T17:13:28.426Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 91
     },
     {
       "name": "@nuanu-ai/magicbrowse",
@@ -58634,6 +58766,18 @@
       "score": 65
     },
     {
+      "name": "@stackforgeai/copilot-intent",
+      "version": "1.0.0",
+      "description": "Spec-driven development framework for GitHub Copilot SDK — machine-actionable intent specs, LLM plan decomposition, dependency-aware task graphs with ASCII/Mermaid visualization, resumable progress ledgers for human/agent handoff, and observability, all r",
+      "license": "MIT",
+      "repository": "https://github.com/stackforgeai/copilot-intent",
+      "npmUrl": "https://www.npmjs.com/package/%40stackforgeai%2Fcopilot-intent",
+      "category": "devops",
+      "createdAt": "2026-10-11T01:12:32.039Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 100
+    },
+    {
       "name": "@stackguardian/wizard",
       "version": "2.4.0",
       "description": "The StackGuardian wizard configures your project — MCP server and agent skills",
@@ -61224,6 +61368,18 @@
       "createdAt": "2026-07-31T18:50:59.427Z",
       "discoveredAt": "2026-07-31T19:11:50.029Z",
       "score": 79
+    },
+    {
+      "name": "@texaryn/json-schema-library",
+      "version": "11.6.6",
+      "description": "Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation",
+      "license": "MIT",
+      "repository": "https://github.com/texaryn/json-schema-library",
+      "npmUrl": "https://www.npmjs.com/package/%40texaryn%2Fjson-schema-library",
+      "category": "data",
+      "createdAt": "2026-10-11T01:37:26.114Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 91
     },
     {
       "name": "@textbee/sdk",
@@ -64082,6 +64238,18 @@
       "score": 74
     },
     {
+      "name": "@unifapi/email-filter",
+      "version": "1.0.0",
+      "description": "Detect free email domains (Gmail, Yahoo, Outlook and 4,768 more) and split business from personal email addresses. The free email provider list HubSpot forms block, with role-mailbox and syntax checks. Zero dependencies, Node and browser. By UnifAPI.",
+      "license": "MIT",
+      "repository": "https://github.com/unifapi-agent/email-filter",
+      "npmUrl": "https://www.npmjs.com/package/%40unifapi%2Femail-filter",
+      "category": "frontend",
+      "createdAt": "2026-10-10T14:26:40.257Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 100
+    },
+    {
       "name": "@unifia/plugin",
       "version": "1.3.15",
       "description": "Author plugins and custom tools for Unifia — plugin lifecycle hooks, the tool() helper and the TUI extension types.",
@@ -64464,6 +64632,18 @@
       "createdAt": "2026-08-07T01:28:05.036Z",
       "discoveredAt": "2026-08-07T02:12:46.077Z",
       "score": 94
+    },
+    {
+      "name": "@usewrit/server",
+      "version": "0.1.0",
+      "description": "The server side of the Writ Bridge for Node: run your website's Writ functions on a signed-in visitor's own computer (with signed receipts) or on Writ Cloud, from one typed object, behind one route you mount.",
+      "license": "MIT",
+      "repository": "https://github.com/usewrit/writ-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40usewrit%2Fserver",
+      "category": "frontend",
+      "createdAt": "2026-10-10T13:18:25.211Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
     },
     {
       "name": "@usgs-astrogeology/spiceql",
@@ -72890,6 +73070,18 @@
       "score": 55
     },
     {
+      "name": "altsvg",
+      "version": "1.0.0",
+      "description": "Turn alt text into a same-size SVG placeholder: wrapped, fitted and accessible. For broken images, lite modes, offline pages and mockups.",
+      "license": "ISC",
+      "repository": "https://github.com/KunalSiyag/altsvg",
+      "npmUrl": "https://www.npmjs.com/package/altsvg",
+      "category": "data",
+      "createdAt": "2026-10-10T20:20:43.308Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 93
+    },
+    {
       "name": "aluvia-cli",
       "version": "1.2.0",
       "description": "Aluvia CLI — local proxy daemon, GUI attach, and agent skill for computer-use VMs",
@@ -73307,6 +73499,18 @@
       "category": "cli",
       "createdAt": "2026-08-25T16:14:45.876Z",
       "discoveredAt": "2026-08-26T01:49:06.368Z",
+      "score": 90
+    },
+    {
+      "name": "antlion-lacewing",
+      "version": "1.0.0",
+      "description": "DPoP (RFC 9449) proof verification for Lacewing: one call checks the access token, the proof and the key binding together, or rejects the request.",
+      "license": "MIT",
+      "repository": "https://github.com/Smiduweorc/antlion",
+      "npmUrl": "https://www.npmjs.com/package/antlion-lacewing",
+      "category": "backend",
+      "createdAt": "2026-09-26T18:57:52.189Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
       "score": 90
     },
     {
@@ -76992,6 +77196,18 @@
       "createdAt": "2026-08-11T21:37:17.375Z",
       "discoveredAt": "2026-08-11T22:33:23.993Z",
       "score": 73
+    },
+    {
+      "name": "call-a11y",
+      "version": "0.1.0",
+      "description": "Accessibility building blocks for real-time call UIs: batched screen-reader announcements for joins and leaves, live captions that do not spam the reader, and call shortcuts that respect WCAG 2.1.4. Zero dependencies; works with any WebRTC stack.",
+      "license": "MIT",
+      "repository": "https://github.com/chasgharali/call-a11y",
+      "npmUrl": "https://www.npmjs.com/package/call-a11y",
+      "category": "frontend",
+      "createdAt": "2026-10-10T10:20:25.242Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
     },
     {
       "name": "calldiff",
@@ -90614,6 +90830,18 @@
       "score": 95
     },
     {
+      "name": "fstack-skills",
+      "version": "1.2.0",
+      "description": "Agent skills for product designers, UX designers, UI designers and frontend developers. Works with Cursor, Claude Code, Codex, Antigravity IDE, Open Code, and more.",
+      "license": "MIT",
+      "repository": "https://github.com/fstack-plugin/fstack",
+      "npmUrl": "https://www.npmjs.com/package/fstack-skills",
+      "category": "frontend",
+      "createdAt": "2026-10-10T18:37:17.130Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 96
+    },
+    {
       "name": "ftp-ssh-mcp",
       "version": "0.9.1",
       "description": "MCP server for working with a remote host over FTP/FTPS/SFTP, SSH, and MySQL.",
@@ -92640,6 +92868,18 @@
       "createdAt": "2026-08-11T20:40:57.665Z",
       "discoveredAt": "2026-08-11T21:26:17.748Z",
       "score": 50
+    },
+    {
+      "name": "harness-summit",
+      "version": "1.0.1",
+      "description": "Let Claude Code, Codex, OpenCode, pi and OMP sessions on one machine message each other and wake idle agents. An MCP server plus small per-harness adapters, all through plain files.",
+      "license": "MIT",
+      "repository": "https://github.com/anthonyleung-dev/harness-summit",
+      "npmUrl": "https://www.npmjs.com/package/harness-summit",
+      "category": "backend",
+      "createdAt": "2026-10-11T00:52:01.669Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 98
     },
     {
       "name": "harness-template-init",
@@ -100404,6 +100644,18 @@
       "createdAt": "2026-08-07T09:23:29.568Z",
       "discoveredAt": "2026-08-07T09:44:09.958Z",
       "score": 95
+    },
+    {
+      "name": "mcp-repo-auditor",
+      "version": "1.0.0",
+      "description": "Local MCP server that audits your git changes against the repo's own AI rules (AGENTS.md, CLAUDE.md, .cursorrules, Copilot, Kiro, skills) and returns a compliance table or an HTML report.",
+      "license": "MIT",
+      "repository": "https://github.com/nikhilgupta15/mcp-repo-auditor",
+      "npmUrl": "https://www.npmjs.com/package/mcp-repo-auditor",
+      "category": "backend",
+      "createdAt": "2026-10-10T17:02:34.598Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 98
     },
     {
       "name": "mcp-sandbox",
@@ -115478,6 +115730,18 @@
       "score": 76
     },
     {
+      "name": "receivify",
+      "version": "1.0.0",
+      "description": "Official Node.js SDK for the Receivify crypto payment gateway — invoices, forwarding addresses, payment links and signed webhooks. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/receivify/receivify-sdks",
+      "npmUrl": "https://www.npmjs.com/package/receivify",
+      "category": "devops",
+      "createdAt": "2026-10-10T12:55:13.853Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 94
+    },
+    {
       "name": "recital-score",
       "version": "0.1.0",
       "description": "Score a spoken recitation against text you already know, by sequence alignment with asymmetric gap costs — so false starts, repetitions, self-corrections and recognizer noise are free, and a genuinely forgotten clause is not.",
@@ -119678,6 +119942,18 @@
       "score": 90
     },
     {
+      "name": "smartrate",
+      "version": "1.0.0",
+      "description": "A Node.js rate limiter with fixed window, token bucket, sliding window algorithms, in-memory storage, and Redis-backed distributed rate limiting.",
+      "license": "MIT",
+      "repository": "https://github.com/vishuvd1122/SmartRate",
+      "npmUrl": "https://www.npmjs.com/package/smartrate",
+      "category": "data",
+      "createdAt": "2026-10-10T11:25:51.487Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 94
+    },
+    {
       "name": "smartreply-chat",
       "version": "1.0.1",
       "description": "Lightweight React/Next.js loader for the Rivet Chat AI shopping assistant. Page-aware product cards, real-time inventory answers, and add-to-cart attribution for ecommerce stores.",
@@ -123554,6 +123830,18 @@
       "score": 89
     },
     {
+      "name": "timecard-engine",
+      "version": "1.0.0",
+      "description": "Zero-dependency time card & timesheet calculation engine: worked hours, breaks, 7-minute rounding, FLSA and California overtime, gross pay, decimal hours, military time, salary conversions. Powers timecardcentral.com.",
+      "license": "MIT",
+      "repository": "https://github.com/voltaudits/timecard-engine",
+      "npmUrl": "https://www.npmjs.com/package/timecard-engine",
+      "category": "devops",
+      "createdAt": "2026-10-07T05:14:48.746Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 91
+    },
+    {
       "name": "timereport-cli",
       "version": "0.1.1",
       "description": "CLI for timereport.app — manage timers, log time, view summaries",
@@ -124800,6 +125088,18 @@
       "createdAt": "2026-07-26T07:35:29.982Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 74
+    },
+    {
+      "name": "typeprobe",
+      "version": "4.0.0",
+      "description": "TypeScript inferred types, completions and type errors for AI coding agents and type tests: an MCP server, a CLI, and snapshot-test helpers",
+      "license": "MIT",
+      "repository": "https://github.com/clockblocker/typeprobe",
+      "npmUrl": "https://www.npmjs.com/package/typeprobe",
+      "category": "testing",
+      "createdAt": "2026-10-10T15:46:13.006Z",
+      "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 93
     },
     {
       "name": "typesafe-ws",
