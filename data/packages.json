@@ -1322,6 +1322,18 @@
       "score": 63
     },
     {
+      "name": "@adeerkhan/vitruvius",
+      "version": "0.3.0",
+      "description": "Engineering research agent: discover, read, synthesize, verify, and review engineering knowledge across mechanical, software, civil, electrical, and architectural disciplines.",
+      "license": "MIT",
+      "repository": "https://github.com/adeerkhan/vitruvius",
+      "npmUrl": "https://www.npmjs.com/package/%40adeerkhan%2Fvitruvius",
+      "category": "devops",
+      "createdAt": "2026-10-11T19:17:29.476Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 87
+    },
+    {
       "name": "@adeloi/edi-fixtures",
       "version": "1.0.0",
       "description": "Realistic X12 EDI test documents for integration testing — including the ways they break in production.",
@@ -5018,6 +5030,18 @@
       "score": 87
     },
     {
+      "name": "@andrewjacop/pi-smart-compact",
+      "version": "0.1.0",
+      "description": "Decision-model compaction for pi: a decision backend classifies each compactable message keep/summarize/drop, a targeted LLM summarizes only the summarize class, and any failure falls back to native compaction.",
+      "license": "MIT",
+      "repository": "https://github.com/andrewjacop/pi-smart-compact",
+      "npmUrl": "https://www.npmjs.com/package/%40andrewjacop%2Fpi-smart-compact",
+      "category": "backend",
+      "createdAt": "2026-10-11T10:08:08.056Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 88
+    },
+    {
       "name": "@andrewmason7/antigravity-boost",
       "version": "1.0.1",
       "description": "Developer productivity & speed booster plugin for Google Antigravity featuring automatic Git WIP checkpoints, interactive dependency resolution, smart permission gating, and project convention adaptation.",
@@ -5196,6 +5220,18 @@
       "createdAt": "2026-08-13T07:28:30.225Z",
       "discoveredAt": "2026-08-13T09:04:03.864Z",
       "score": 72
+    },
+    {
+      "name": "@anilyesilkaya/marey",
+      "version": "0.2.0",
+      "description": "Give AI agents eyes for motion. An MCP server that turns a short screen interaction into a timestamped, agent-readable contact sheet — so a coding agent can see what changed, not just what the screen looks like. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/anilyesilkaya/marey",
+      "npmUrl": "https://www.npmjs.com/package/%40anilyesilkaya%2Fmarey",
+      "category": "backend",
+      "createdAt": "2026-10-01T22:52:21.425Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
     },
     {
       "name": "@anionex/dsh-computer-use",
@@ -19202,6 +19238,18 @@
       "score": 66
     },
     {
+      "name": "@erisera-code/circuit-engine",
+      "version": "0.5.0",
+      "description": "The erisera design engine: a headless, class-free CSS system that styles bare semantic HTML by element and tree position, with swappable design instances (circuit, jjhub, noitroidvania, snake and more), light-dark tokens, @scope-isolated facets and cascad",
+      "license": "MIT",
+      "repository": "https://github.com/erisera-code/circuit",
+      "npmUrl": "https://www.npmjs.com/package/%40erisera-code%2Fcircuit-engine",
+      "category": "frontend",
+      "createdAt": "2026-10-11T11:12:59.492Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 89
+    },
+    {
       "name": "@erkos/pluvian",
       "version": "2.0.0",
       "description": "Prose as Code — governance for AI-generated Terraform (AWS, Azure, GCP).",
@@ -20868,6 +20916,18 @@
       "createdAt": "2026-10-09T12:40:17.851Z",
       "discoveredAt": "2026-10-10T02:12:12.310Z",
       "score": 96
+    },
+    {
+      "name": "@flarecart/r2-storage",
+      "version": "1.0.0",
+      "description": "A Cloudflare R2 bucket behind one storage interface: the binding reads, R2's S3 API signs presigned downloads that save under the file's name, create-only presigned uploads, multipart, and copies inside the bucket. The bytes go between the browser and R2,",
+      "license": "MIT",
+      "repository": "https://github.com/FlareCart/r2-storage",
+      "npmUrl": "https://www.npmjs.com/package/%40flarecart%2Fr2-storage",
+      "category": "frontend",
+      "createdAt": "2026-10-11T13:13:21.964Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 100
     },
     {
       "name": "@flarecart/s3-signer",
@@ -29642,6 +29702,18 @@
       "score": 48
     },
     {
+      "name": "@hotkv/client",
+      "version": "1.0.0",
+      "description": "A high-performance Node.js client for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/hotkv-ltd/hotkv-nodejs-client",
+      "npmUrl": "https://www.npmjs.com/package/%40hotkv%2Fclient",
+      "category": "data",
+      "createdAt": "2026-10-11T02:35:56.734Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 93
+    },
+    {
       "name": "@houla/live-connector",
       "version": "0.1.0",
       "description": "Receive Hou.la live events (gifts, hearts, chat and more) in real time and wire them into anything: OBS overlays, games, lights, bots.",
@@ -31910,6 +31982,18 @@
       "score": 64
     },
     {
+      "name": "@isomorphic.schema/axios",
+      "version": "1.0.4",
+      "description": "Route-based Axios middleware for validating URL params, request bodies, and response payloads with Zod, JSON Schema/Ajv, or any custom parser",
+      "license": "MIT",
+      "repository": "https://github.com/jkutianski/axios.schema",
+      "npmUrl": "https://www.npmjs.com/package/%40isomorphic.schema%2Faxios",
+      "category": "backend",
+      "createdAt": "2026-10-11T05:48:32.436Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 91
+    },
+    {
       "name": "@iss-ai/browser-pool",
       "version": "0.0.4",
       "description": "`BrowserPool` 是一个用于管理和调度无头浏览器（Headless Browser）资源的高效任务池，基于 [Playwright](https://playwright.dev/) 实现。它专门为高并发爬虫、自动化测试、AI 会话调度等场景设计，支持多工作节点（Worker）复用、超时控制、状态隔离、持久化用户状态以及动态适配不同的浏览器内核（如 Chromium, Camoufox 等）。",
@@ -32700,6 +32784,18 @@
       "createdAt": "2026-09-12T07:50:55.782Z",
       "discoveredAt": "2026-09-12T15:25:47.973Z",
       "score": 88
+    },
+    {
+      "name": "@jb9k62/good2go",
+      "version": "1.0.0",
+      "description": "Node tooling for OKF (Open Knowledge Format) bundles and agent memory: validator, graph viewer, Mermaid gates, ranked search, and the edukai memory bundle, plus skills and hooks for Claude Code and pi.",
+      "license": "MIT",
+      "repository": "https://github.com/jb9k62/good2go",
+      "npmUrl": "https://www.npmjs.com/package/%40jb9k62%2Fgood2go",
+      "category": "data",
+      "createdAt": "2026-10-11T17:54:07.675Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 98
     },
     {
       "name": "@jcancelo/google-wallet",
@@ -45794,6 +45890,18 @@
       "score": 94
     },
     {
+      "name": "@oasisomniverse/mcp-server",
+      "version": "3.1.0",
+      "description": "OASIS MCP Server — 508 typed WEB4–WEB10 commands for identity, wallets, NFTs, STAR gameplay, AI orchestration, memory, symbiosis and distributed networks.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/NextGenSoftwareUK/OASIS",
+      "npmUrl": "https://www.npmjs.com/package/%40oasisomniverse%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-11T20:57:36.411Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 95
+    },
+    {
       "name": "@oasissys/oasis-axi",
       "version": "0.1.0",
       "description": "AXI-compliant Oracle ADF explorer for the Oasis codebase — token-efficient TOON output, contextual suggestions, transitive dependency closures",
@@ -48408,6 +48516,30 @@
       "createdAt": "2026-08-15T06:19:45.863Z",
       "discoveredAt": "2026-08-15T07:02:55.991Z",
       "score": 52
+    },
+    {
+      "name": "@patrickdk77/file-defuse",
+      "version": "0.1.0",
+      "description": "Sanitize uploads with the defuse family. Sniffs the content, hands the file to the package that reads it, routes every file found inside back through the same router, and limits the whole tree: size, depth, file count, decoded bytes and time.",
+      "license": "MIT",
+      "repository": "https://github.com/patrickdk77/file-defuse",
+      "npmUrl": "https://www.npmjs.com/package/%40patrickdk77%2Ffile-defuse",
+      "category": "utilities",
+      "createdAt": "2026-10-12T00:00:28.388Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
+    },
+    {
+      "name": "@patrickdk77/xml-defuse",
+      "version": "0.1.0",
+      "description": "Sanitize and clean HTML, XHTML, SVG, XML, XSLT and MHT files. Detects and removes scripts, event handlers, javascript: links, external entities and DTDs, XInclude, XSLT extension functions, frames, objects, forms, meta refresh and CSS that runs or loads,",
+      "license": "MIT",
+      "repository": "https://github.com/patrickdk77/xml-defuse",
+      "npmUrl": "https://www.npmjs.com/package/%40patrickdk77%2Fxml-defuse",
+      "category": "frontend",
+      "createdAt": "2026-10-11T23:59:46.538Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
     },
     {
       "name": "@patronage/alchemy-d1-state",
@@ -51240,6 +51372,18 @@
       "createdAt": "2026-07-26T08:44:37.490Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 79
+    },
+    {
+      "name": "@quantovainc/qmandate",
+      "version": "0.1.0",
+      "description": "Post quantum mandates for SI agents. Proves who authorised an agent, within which limits, and that every action stayed inside that authority, with ML-DSA-65 under FIPS 204 and Quantova time proofs.",
+      "license": "Apache-2.0 OR MIT",
+      "repository": "https://github.com/Quantova/QMandate",
+      "npmUrl": "https://www.npmjs.com/package/%40quantovainc%2Fqmandate",
+      "category": "utilities",
+      "createdAt": "2026-10-11T14:57:40.040Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 89
     },
     {
       "name": "@quantum-suite-org/core",
@@ -60602,6 +60746,18 @@
       "score": 61
     },
     {
+      "name": "@tacrine_f/oh-my-dsh-omo-fork-chs",
+      "version": "0.1.0",
+      "description": "The unofficial Simplified Chinese fork of the tri-agent agent preset (Atlas orchestration plus Prometheus planning), packaged for DeepSeek Harness as a Cordis bundle; the vendored upstream content is licensed under SUL-1.0.",
+      "license": "SEE LICENSE IN NOTICE.md",
+      "repository": "https://github.com/Tacrine/oh-my-dsh-omo-fork-chs",
+      "npmUrl": "https://www.npmjs.com/package/%40tacrine_f%2Foh-my-dsh-omo-fork-chs",
+      "category": "devops",
+      "createdAt": "2026-10-11T17:48:04.836Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
+    },
+    {
       "name": "@tactical-ddd/core",
       "version": "0.1.5",
       "description": "[![npm version](https://img.shields.io/npm/v/@tactical-ddd/core)](https://www.npmjs.com/package/@tactical-ddd/core) [![npm downloads](https://img.shields.io/npm/dm/@tactical-ddd/core)](https://www.npmjs.com/package/@tactical-ddd/core) [![license](https://",
@@ -69950,6 +70106,18 @@
       "score": 88
     },
     {
+      "name": "@zied-snoussi/ui",
+      "version": "1.0.0",
+      "description": "The component system behind zied-snoussi.vercel.app: UI primitives, visual effects, layout, features and page sections, documented in Storybook.",
+      "license": "MIT",
+      "repository": "https://github.com/zied-snoussi/zied-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40zied-snoussi%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-10-11T19:11:18.902Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
+    },
+    {
       "name": "@zigapagos/cli",
       "version": "0.2.0",
       "description": "Zigapagos — a static site generator with islands and native SPAs. Official prebuilt binary distribution.",
@@ -73872,6 +74040,18 @@
       "createdAt": "2026-08-09T07:08:48.831Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 84
+    },
+    {
+      "name": "apple-docs-2.0-mcp",
+      "version": "2.0.0",
+      "description": "MCP server for Apple Developer Documentation: API reference, Human Interface Guidelines, App Store Connect Help, sample code and 1,700 WWDC sessions with transcripts and code. A fork of Apple Docs MCP.",
+      "license": "MIT",
+      "repository": "https://github.com/mishafyi/Apple-Docs-2.0-MCP",
+      "npmUrl": "https://www.npmjs.com/package/apple-docs-2.0-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-12T01:55:16.615Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 100
     },
     {
       "name": "apple-hig",
@@ -85946,6 +86126,18 @@
       "score": 89
     },
     {
+      "name": "dsh-perf-hud",
+      "version": "0.4.0",
+      "description": "纯客户端性能 HUD:帧与最差帧、Longtask(四条腿归因)、每插件回调速率与同步耗时、DOM 增长与写入者、JS 堆、宿主 event-loop 与链路 RTT,带隔离实验与一键导出 JSON;守夜层默认常开,用帧级环形缓冲与 LoAF 自动留存最差几次卡顿并导出事故包。 Client-side performance HUD for DeepSeek Harness: FPS and worst frame, long tasks with four-leg attribution (fiber",
+      "license": "MIT",
+      "repository": "https://github.com/yanzhaohui1999/dsh-perf-hud",
+      "npmUrl": "https://www.npmjs.com/package/dsh-perf-hud",
+      "category": "frontend",
+      "createdAt": "2026-10-11T11:27:17.481Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
+    },
+    {
       "name": "dsh-pgragh",
       "version": "0.1.0",
       "description": "Live parallel execution graph for DeepSeek Harness",
@@ -86424,6 +86616,18 @@
       "createdAt": "2026-08-22T13:11:50.402Z",
       "discoveredAt": "2026-08-22T13:33:36.708Z",
       "score": 70
+    },
+    {
+      "name": "dsh-report-ledger",
+      "version": "0.2.0",
+      "description": "Report-and-ledger plugin for DSH: front-matter 汇报 as the first-class agent-to-agent interaction primitive, with upward/downward delivery, co-authorship, CC, and a complete transfer-path audit trail; plus a conversation timeline tab.",
+      "license": "MIT",
+      "repository": "https://github.com/stone-brick/dsh-report-ledger",
+      "npmUrl": "https://www.npmjs.com/package/dsh-report-ledger",
+      "category": "utilities",
+      "createdAt": "2026-09-27T12:25:08.515Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
     },
     {
       "name": "dsh-requirements-alignment",
@@ -87156,6 +87360,18 @@
       "createdAt": "2026-08-15T08:45:58.080Z",
       "discoveredAt": "2026-08-15T08:48:16.876Z",
       "score": 43
+    },
+    {
+      "name": "dsh-windows-mcp",
+      "version": "0.1.0",
+      "description": "Windows desktop automation for DeepSeek Harness — plugs CursorTouch/Windows-MCP (screenshot, UI automation, input, clipboard, processes, registry) into DSH through the official MCP client bridge.",
+      "license": "MIT",
+      "repository": "https://github.com/helloHub1212/dsh-windows-mcp",
+      "npmUrl": "https://www.npmjs.com/package/dsh-windows-mcp",
+      "category": "cli",
+      "createdAt": "2026-10-11T02:32:11.890Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 88
     },
     {
       "name": "dsh-winstage-sandbox",
@@ -91020,6 +91236,18 @@
       "createdAt": "2026-08-24T15:43:40.015Z",
       "discoveredAt": "2026-08-25T01:43:40.065Z",
       "score": 91
+    },
+    {
+      "name": "game-style-icons",
+      "version": "1.0.0",
+      "description": "100 UI and game icons in 50 styles inspired by video games (5,000 SVG icons): React components, a <game-icon> web component for any framework, SVG strings and plain SVG files.",
+      "license": "MIT",
+      "repository": "https://github.com/horlesq/game-style-icons",
+      "npmUrl": "https://www.npmjs.com/package/game-style-icons",
+      "category": "frontend",
+      "createdAt": "2026-10-11T12:46:13.876Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 97
     },
     {
       "name": "gaokao-vocab-app",
@@ -96323,6 +96551,18 @@
       "category": "frontend",
       "createdAt": "2026-07-25T16:03:10.263Z",
       "discoveredAt": "2026-07-25T16:47:44.864Z",
+      "score": 100
+    },
+    {
+      "name": "kdczyz-dsh-model",
+      "version": "1.1.0",
+      "description": "Installable wrapper for the DSH plugin in dsh-kdczyz-mode/: WorkBuddy model pool + Trae connector + Qoder account pool as three independent providers, plus one settings page with six tabs (XD Pool / Trae config [provider switch, account binding, model sel",
+      "license": "MIT",
+      "repository": "https://github.com/kdczyz/kdczyz-dsh-model",
+      "npmUrl": "https://www.npmjs.com/package/kdczyz-dsh-model",
+      "category": "utilities",
+      "createdAt": "2026-10-12T01:34:10.837Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
       "score": 100
     },
     {
@@ -106118,6 +106358,18 @@
       "score": 93
     },
     {
+      "name": "oajax.js",
+      "version": "2.0.0",
+      "description": "Offline-first requests on top of fetch: reads fall back to a cached copy when the network fails, writes go to a persisted, ordered outbox and replay with idempotency keys when the connection returns. Zero dependencies; optional jQuery-style $oajax wrapper",
+      "license": "MIT",
+      "repository": "https://github.com/chasgharali/oajax.js",
+      "npmUrl": "https://www.npmjs.com/package/oajax.js",
+      "category": "devops",
+      "createdAt": "2026-10-11T10:05:23.728Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 100
+    },
+    {
       "name": "oas-pm-quality",
       "version": "3.0.0",
       "description": "OpenAPI definition quality checks and Postman collection generator with automated tests",
@@ -112620,6 +112872,18 @@
       "createdAt": "2026-07-26T08:11:25.592Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 76
+    },
+    {
+      "name": "pretendata",
+      "version": "1.0.0",
+      "description": "Synthetic test data with a known answer key, for testing DLP, DSPM, data classification, secret scanning and masking tools. Checksum-valid identifiers, deliberate near-misses, and scoring.",
+      "license": "MIT",
+      "repository": "https://github.com/Rajat-Dandoti/pretendata",
+      "npmUrl": "https://www.npmjs.com/package/pretendata",
+      "category": "testing",
+      "createdAt": "2026-10-11T17:48:29.963Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 98
     },
     {
       "name": "prettier-plugin-auto-sort-imports",
@@ -119150,6 +119414,18 @@
       "score": 68
     },
     {
+      "name": "signal-timeline",
+      "version": "1.0.0",
+      "description": "Undo, redo, transactions, a branching undo tree, history shared across stores and a time-travel panel for NgRx SignalStore, stored as patches.",
+      "license": "MIT",
+      "repository": "https://github.com/adiyy2001/signal-timeline",
+      "npmUrl": "https://www.npmjs.com/package/signal-timeline",
+      "category": "frontend",
+      "createdAt": "2026-10-11T07:39:43.764Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 94
+    },
+    {
       "name": "signalbird",
       "version": "1.4.0",
       "description": "Signalbird SDK — Telsiz (Radio), Gönderim (Messaging), Yönetim (Management) ve son kullanıcı sohbet/push istemcisi: sunucu, tarayıcı, mobil",
@@ -122880,6 +123156,18 @@
       "createdAt": "2026-08-07T21:35:15.111Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 67
+    },
+    {
+      "name": "taskpin",
+      "version": "1.0.0",
+      "description": "Pin the files your agent needs — task-scoped, token-budgeted, explainable context packs (local, no API keys)",
+      "license": "MIT",
+      "repository": "https://github.com/ajxdevx/Taskpin",
+      "npmUrl": "https://www.npmjs.com/package/taskpin",
+      "category": "backend",
+      "createdAt": "2026-10-12T00:15:05.802Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 90
     },
     {
       "name": "taskwitness",
@@ -128436,6 +128724,18 @@
       "createdAt": "2026-08-14T13:57:53.241Z",
       "discoveredAt": "2026-08-14T14:02:59.393Z",
       "score": 97
+    },
+    {
+      "name": "winlinux",
+      "version": "1.0.0",
+      "description": "Connect to Windows servers from Linux and macOS: run commands, read event logs, and move files over WinRM and SMB2.",
+      "license": "MIT",
+      "repository": "https://github.com/sanjay3290/winlinux",
+      "npmUrl": "https://www.npmjs.com/package/winlinux",
+      "category": "backend",
+      "createdAt": "2026-10-11T19:46:44.278Z",
+      "discoveredAt": "2026-10-12T02:11:38.737Z",
+      "score": 91
     },
     {
       "name": "winr-web-sdk",
