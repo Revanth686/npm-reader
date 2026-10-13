@@ -2498,6 +2498,18 @@
       "score": 65
     },
     {
+      "name": "@aidalinfo/glpi-mcp",
+      "version": "2.1.0",
+      "description": "MCP server for GLPI — tickets, followups, tasks, solutions, problems, changes, assets, knowledge base, contracts, projects (core/full toolsets), with automatic session renewal on HTTP 401",
+      "license": "MIT",
+      "repository": "https://github.com/aidalinfo/cloud-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40aidalinfo%2Fglpi-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-12T13:18:00.917Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 92
+    },
+    {
       "name": "@aide-gg/thinking-orbs",
       "version": "0.1.1",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light. Fork of thinking-orbs by Jakub Antalik, adding an idle at-rest state and smoother transitions.",
@@ -6134,6 +6146,18 @@
       "score": 89
     },
     {
+      "name": "@argszero/dsh-approval-bridge",
+      "version": "0.1.0",
+      "description": "Lets a plugin answer approval requests. The harness dispatches `approval/request` as a scope-filtered waterfall whose first listener is its own browser forwarder, so a plugin registered after it is never reached and a plugin mounted below an agent scope i",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/dsh-approval-bridge",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fdsh-approval-bridge",
+      "category": "frontend",
+      "createdAt": "2026-10-12T18:22:01.541Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 90
+    },
+    {
       "name": "@argszero/dsh-git-hook-guard",
       "version": "0.1.0",
       "description": "The harness runs its own git commands — working-tree snapshots at turn start, tree diffs, ignore checks — and a git command reads the working directory's repository configuration. `GitRunner.run()` scrubs the environment (GIT_CONFIG_COUNT=0, the credentia",
@@ -6143,6 +6167,18 @@
       "category": "utilities",
       "createdAt": "2026-10-10T20:10:21.028Z",
       "discoveredAt": "2026-10-11T01:44:18.354Z",
+      "score": 90
+    },
+    {
+      "name": "@argszero/dsh-stdout-denial-guard",
+      "version": "0.1.0",
+      "description": "Classifies sandbox denials the harness reports on stdout. The harness matches each runner's denial dialect against stderr only, so a program that prints its failing path on stdout - or any command that merged the streams with 2>&1 - exits non-zero with no",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/dsh-stdout-denial-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fdsh-stdout-denial-guard",
+      "category": "utilities",
+      "createdAt": "2026-10-12T10:21:23.603Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
       "score": 90
     },
     {
@@ -12218,6 +12254,18 @@
       "score": 59
     },
     {
+      "name": "@cnvlabskoxyz/celina-sdk",
+      "version": "1.0.0",
+      "description": "Celina SDK — Celo mainnet reads, unsigned transaction preparation, and ERC-4337 createAAClient for sponsored UserOps.",
+      "license": "MIT",
+      "repository": "https://github.com/andrewkimjoseph/celina-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40cnvlabskoxyz%2Fcelina-sdk",
+      "category": "cli",
+      "createdAt": "2026-10-12T10:48:25.581Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 91
+    },
+    {
       "name": "@cnzgray/dsh-claude-marketplace-bridge",
       "version": "0.1.0",
       "description": "Bridge Claude Code's installed plugin marketplace skills and commands (via installed_plugins.json installPath under ~/.claude/plugins) into DeepSeek Harness, honoring scope / settings.json enablement.",
@@ -12816,6 +12864,54 @@
       "createdAt": "2026-08-03T10:52:00.739Z",
       "discoveredAt": "2026-08-04T16:52:41.345Z",
       "score": 79
+    },
+    {
+      "name": "@companydata/ares-api",
+      "version": "0.2.0",
+      "description": "ARES API wrapper: Czech company data from ARES (the Ministry of Finance business register) with full addresses, phone, email, website and firmographics, through one REST call. A thin layer over @companydata/companydata-sdk, pinned to CZ.",
+      "license": "MIT",
+      "repository": "https://github.com/companydatacom/ares-api",
+      "npmUrl": "https://www.npmjs.com/package/%40companydata%2Fares-api",
+      "category": "backend",
+      "createdAt": "2026-10-12T17:47:44.601Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 90
+    },
+    {
+      "name": "@companydata/bolagsverket-api",
+      "version": "0.2.0",
+      "description": "Bolagsverket API wrapper: Swedish company data from the Bolagsverket register with full addresses, phone, email, website and firmographics, through one REST call. A thin layer over @companydata/companydata-sdk, pinned to SE.",
+      "license": "MIT",
+      "repository": "https://github.com/companydatacom/bolagsverket-api",
+      "npmUrl": "https://www.npmjs.com/package/%40companydata%2Fbolagsverket-api",
+      "category": "backend",
+      "createdAt": "2026-10-12T17:47:33.912Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 90
+    },
+    {
+      "name": "@companydata/cnpj-api",
+      "version": "0.2.0",
+      "description": "CNPJ API wrapper: Brazilian company data from the CNPJ register (Receita Federal) with full addresses, phone, email, website and firmographics, through one REST call. A thin layer over @companydata/companydata-sdk, pinned to BR.",
+      "license": "MIT",
+      "repository": "https://github.com/companydatacom/cnpj-api",
+      "npmUrl": "https://www.npmjs.com/package/%40companydata%2Fcnpj-api",
+      "category": "backend",
+      "createdAt": "2026-10-12T17:47:55.487Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 90
+    },
+    {
+      "name": "@companydata/companies-house-api",
+      "version": "0.2.0",
+      "description": "Companies House API wrapper: UK company data from the Companies House register with full addresses, phone, email, website and firmographics, through one REST call. A thin layer over @companydata/companydata-sdk, pinned to GB.",
+      "license": "MIT",
+      "repository": "https://github.com/companydatacom/companies-house-api",
+      "npmUrl": "https://www.npmjs.com/package/%40companydata%2Fcompanies-house-api",
+      "category": "frontend",
+      "createdAt": "2026-10-12T17:47:13.324Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 90
     },
     {
       "name": "@compare-xml/cli",
@@ -15828,6 +15924,18 @@
       "createdAt": "2026-08-10T15:28:22.259Z",
       "discoveredAt": "2026-08-13T17:44:22.449Z",
       "score": 51
+    },
+    {
+      "name": "@dianemo/core",
+      "version": "2.0.0",
+      "description": "Distribute one API rate limit across every process that spends it — cost-weighted priority queues, freeze/thaw recovery and pluggable backends",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vivo-us/dianemo",
+      "npmUrl": "https://www.npmjs.com/package/%40dianemo%2Fcore",
+      "category": "backend",
+      "createdAt": "2026-08-24T20:03:41.711Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 94
     },
     {
       "name": "@diaryx/moid",
@@ -31982,6 +32090,18 @@
       "score": 64
     },
     {
+      "name": "@isocialpractice/napkin-sketch",
+      "version": "1.0.0",
+      "description": "A drawing language and a graphic-design API that write SVG, PNG and PDF with no window, a command line any language can call, an embeddable sketching editor with auto-sharpen, and experimental AI helpers that draw from a request, read a graphic into a des",
+      "license": "MIT",
+      "repository": "https://github.com/isocialPractice/napkin-sketch",
+      "npmUrl": "https://www.npmjs.com/package/%40isocialpractice%2Fnapkin-sketch",
+      "category": "backend",
+      "createdAt": "2026-10-13T03:03:13.740Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 100
+    },
+    {
       "name": "@isomorphic.schema/axios",
       "version": "1.0.4",
       "description": "Route-based Axios middleware for validating URL params, request bodies, and response payloads with Zod, JSON Schema/Ajv, or any custom parser",
@@ -38750,6 +38870,18 @@
       "score": 80
     },
     {
+      "name": "@malipetek/dsh-ai-workspace",
+      "version": "1.0.0",
+      "description": "Managed dev processes for a project folder: start them in the background, capture their logs, show them in a panel, and tell the agent to read those logs instead of re-running build/dev commands.",
+      "license": "MIT",
+      "repository": "https://github.com/malipetek/malipetek.github.io",
+      "npmUrl": "https://www.npmjs.com/package/%40malipetek%2Fdsh-ai-workspace",
+      "category": "backend",
+      "createdAt": "2026-10-12T10:15:17.974Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 91
+    },
+    {
       "name": "@mallary/n8n-nodes-mallary",
       "version": "0.1.0",
       "description": "Official Mallary n8n community node for social media posts, comments, analytics, uploads, and webhooks.",
@@ -39312,6 +39444,18 @@
       "createdAt": "2026-07-26T08:24:18.078Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 74
+    },
+    {
+      "name": "@mark1russell7/cue",
+      "version": "1.0.0",
+      "description": "cue-config: generate package.json, tsconfig.json and .gitignore for TypeScript projects from composable feature presets (ts, node, react, vite, vitest), validated by CUE schemas. Includes shared tsconfig presets.",
+      "license": "MIT",
+      "repository": "https://github.com/mark1russell7/cue",
+      "npmUrl": "https://www.npmjs.com/package/%40mark1russell7%2Fcue",
+      "category": "testing",
+      "createdAt": "2026-10-12T16:04:21.134Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 100
     },
     {
       "name": "@marketbasketanalysis/mcp",
@@ -46668,6 +46812,30 @@
       "createdAt": "2026-08-01T15:06:14.511Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 60
+    },
+    {
+      "name": "@onivoro/browser-agentic",
+      "version": "25.0.2",
+      "description": "Headless browser client for @onivoro/server-agentic: fetch client, conversation state hook, and a transport-agnostic event stream seam",
+      "license": "MIT",
+      "repository": "https://github.com/onivoro/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40onivoro%2Fbrowser-agentic",
+      "category": "frontend",
+      "createdAt": "2026-09-23T22:13:09.729Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 91
+    },
+    {
+      "name": "@onivoro/server-agentic",
+      "version": "25.0.2",
+      "description": "Agentic chat run loop for NestJS: multi-step model turns, streaming part persistence, and tool execution with timeout and abort",
+      "license": "MIT",
+      "repository": "https://github.com/onivoro/monorepo",
+      "npmUrl": "https://www.npmjs.com/package/%40onivoro%2Fserver-agentic",
+      "category": "backend",
+      "createdAt": "2026-09-23T22:13:04.498Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 92
     },
     {
       "name": "@onrail-xyz/evm",
@@ -57924,6 +58092,18 @@
       "createdAt": "2026-08-08T07:52:10.039Z",
       "discoveredAt": "2026-08-08T08:30:12.394Z",
       "score": 47
+    },
+    {
+      "name": "@solankivishal/capacitor-face-liveness",
+      "version": "1.0.0",
+      "description": "On-device face liveness (anti-spoofing) detection for Capacitor / Ionic: native camera check on iOS and Android, WebAssembly on the web.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/vishalsgithub/face-liveness-capacitor",
+      "npmUrl": "https://www.npmjs.com/package/%40solankivishal%2Fcapacitor-face-liveness",
+      "category": "devops",
+      "createdAt": "2026-10-12T10:44:49.941Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 91
     },
     {
       "name": "@solisware/electron-menu-i18next",
@@ -74042,6 +74222,18 @@
       "score": 84
     },
     {
+      "name": "appdimens-react-native",
+      "version": "3.2.0",
+      "description": "AppDimens Dynamic for React Native — responsive dp/sp scaling (sdp, hdp, wdp, ssp…) with 12 strategies, resize and physical units. Same API names as the Android library, pure JS, O(1) per call.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/bodenberg/appdimens-react-native",
+      "npmUrl": "https://www.npmjs.com/package/appdimens-react-native",
+      "category": "frontend",
+      "createdAt": "2026-10-12T16:22:07.463Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 99
+    },
+    {
       "name": "apple-docs-2.0-mcp",
       "version": "2.0.0",
       "description": "MCP server for Apple Developer Documentation: API reference, Human Interface Guidelines, App Store Connect Help, sample code and 1,700 WWDC sessions with transcripts and code. A fork of Apple Docs MCP.",
@@ -74256,6 +74448,18 @@
       "createdAt": "2026-07-25T19:46:54.685Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 88
+    },
+    {
+      "name": "arduino-mcp",
+      "version": "4.0.0",
+      "description": "MCP server for Arduino via arduino-cli — compile, upload, monitor and wire up any board (Uno, Mega, Nano, ESP32, ESP8266, RP2040) from an AI assistant",
+      "license": "MIT",
+      "repository": "https://github.com/biyusku/arduino-mcp",
+      "npmUrl": "https://www.npmjs.com/package/arduino-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-12T02:18:54.463Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 95
     },
     {
       "name": "argus-repo-navigator",
@@ -84482,6 +84686,18 @@
       "score": 98
     },
     {
+      "name": "dsh-armory",
+      "version": "1.9.0",
+      "description": "Unified Skill + MCP + Expert board for DeepSeek Harness Web — global panel page, JSON import, WorkBuddy connector & SkillHub & Expert market installs, tool-usage tailor, and profile-backed Host Remote management.",
+      "license": "MIT",
+      "repository": "https://github.com/2026heshao/dsh-armory",
+      "npmUrl": "https://www.npmjs.com/package/dsh-armory",
+      "category": "utilities",
+      "createdAt": "2026-10-13T02:37:33.593Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 94
+    },
+    {
       "name": "dsh-artifacts",
       "version": "0.1.1",
       "description": "Claude-Artifacts-style rendering for DeepSeek Harness: turn agent output (Markdown + JSON) into beautiful, shareable, self-contained HTML cards, dashboards, galleries, and documents. Zero runtime dependencies.",
@@ -86340,6 +86556,18 @@
       "createdAt": "2026-08-13T18:31:21.883Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
       "score": 63
+    },
+    {
+      "name": "dsh-plugin-rea",
+      "version": "1.0.3",
+      "description": "Third-party adapter that registers the upstream REA (Reverse Engineer Anything) MCP server into DeepSeek Harness as mcp__rea__* tools. REA itself is 'one MCP for reverse engineering across binaries, applications, and runtime behavior' (github.com/morluto/",
+      "license": "MIT",
+      "repository": "https://github.com/czcdr/dsh-plugin-rea",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-rea",
+      "category": "backend",
+      "createdAt": "2026-10-12T15:35:45.413Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 100
     },
     {
       "name": "dsh-plugin-remote-access",
@@ -89772,6 +90000,18 @@
       "createdAt": "2026-07-28T22:38:43.442Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 85
+    },
+    {
+      "name": "favicon-spin",
+      "version": "1.0.0",
+      "description": "A lightweight, zero-dependency JavaScript library for animating browser favicons with configurable speed, direction, and progress indicators.",
+      "license": "MIT",
+      "repository": "https://github.com/cu-sanjay/FaviconSpin",
+      "npmUrl": "https://www.npmjs.com/package/favicon-spin",
+      "category": "frontend",
+      "createdAt": "2026-10-12T13:33:18.779Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 94
     },
     {
       "name": "favro-mcp",
@@ -96816,6 +97056,18 @@
       "createdAt": "2026-09-22T19:54:22.075Z",
       "discoveredAt": "2026-09-23T04:31:37.319Z",
       "score": 88
+    },
+    {
+      "name": "kill-port-safe",
+      "version": "1.0.0",
+      "description": "Kill the process on a port (3000, 8080, any). Zero-dependency drop-in replacement for kill-port: fast, exact port matching, shows what it killed, works on Windows, macOS, Linux and Docker.",
+      "license": "MIT",
+      "repository": "https://github.com/CodeRafay/kill-port-safe",
+      "npmUrl": "https://www.npmjs.com/package/kill-port-safe",
+      "category": "data",
+      "createdAt": "2026-10-12T12:35:19.972Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 97
     },
     {
       "name": "kilo-plugin-nested-git-checkpoints",
@@ -109286,6 +109538,18 @@
       "score": 57
     },
     {
+      "name": "payload-plugin-dictionary",
+      "version": "1.0.0",
+      "description": "A Payload CMS v3 plugin that moves static frontend translation keys into the database, enabling content editors to manage UI translations with full localization support.",
+      "license": "MIT",
+      "repository": "https://github.com/Mhmod-Hsn/payload-plugin-dictionary",
+      "npmUrl": "https://www.npmjs.com/package/payload-plugin-dictionary",
+      "category": "frontend",
+      "createdAt": "2026-10-12T14:43:19.148Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 94
+    },
+    {
       "name": "payload-plugin-socials",
       "version": "0.9.3",
       "description": "Multi-platform social publishing plugin for Payload CMS — Pinterest, Instagram Business, Facebook Pages, Google Business Profile",
@@ -113618,6 +113882,18 @@
       "score": 89
     },
     {
+      "name": "qings-pi-modes",
+      "version": "1.0.0",
+      "description": "Declarative, user-definable permission modes for the pi coding agent: OS-level sandboxing (bubblewrap / sandbox-exec), an allow/ask/deny policy engine, real bash AST gating (tree-sitter), tool hiding, and skill/custom-tool gating.",
+      "license": "MIT",
+      "repository": "https://github.com/qingshanblue/qings-pi-modes",
+      "npmUrl": "https://www.npmjs.com/package/qings-pi-modes",
+      "category": "utilities",
+      "createdAt": "2026-10-12T09:57:57.863Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 100
+    },
+    {
       "name": "qoder-rtl",
       "version": "1.11.2",
       "description": "Persian/Arabic RTL + Vazirmatn for the Qoder desktop app: CDP live injection by default (no install files touched), archive patch kept behind an explicit command",
@@ -116796,6 +117072,18 @@
       "createdAt": "2026-07-30T11:48:27.704Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 70
+    },
+    {
+      "name": "reverseport",
+      "version": "1.0.0",
+      "description": "Reverse engineer anything. Port it anywhere. One CLI and MCP server that lets coding agents take apart apps, games, binaries and websites — decompile, trace, compare builds, recon without files — and rebuild or port them to Godot, Unity, Unreal, three.js",
+      "license": "MIT",
+      "repository": "https://github.com/laaielichter/reverseport",
+      "npmUrl": "https://www.npmjs.com/package/reverseport",
+      "category": "backend",
+      "createdAt": "2026-10-12T16:10:26.031Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 100
     },
     {
       "name": "revnix-capacitor",
@@ -127428,6 +127716,18 @@
       "createdAt": "2026-07-30T04:29:17.707Z",
       "discoveredAt": "2026-07-30T04:51:23.168Z",
       "score": 70
+    },
+    {
+      "name": "vp-online-mcp",
+      "version": "2.0.0",
+      "description": "MCP server that builds native, editable Visual Paradigm Online diagrams (UML, ER, BPMN, DFD, flowcharts...) in a single tool call",
+      "license": "MIT",
+      "repository": "https://github.com/ibsorn/vp-online-mcp",
+      "npmUrl": "https://www.npmjs.com/package/vp-online-mcp",
+      "category": "testing",
+      "createdAt": "2026-10-12T13:29:14.540Z",
+      "discoveredAt": "2026-10-13T03:25:58.398Z",
+      "score": 92
     },
     {
       "name": "vsub-cli",
