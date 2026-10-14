@@ -5390,6 +5390,18 @@
       "score": 85
     },
     {
+      "name": "@antharmaya/tokencost",
+      "version": "0.1.0",
+      "description": "Price a whole LLM agent run, not one request. Models context regrowth across turns, prompt-cache write premiums and expiry, the minimum cacheable prefix, long-context rates, tool-definition overhead and thinking tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/antharmaya/tokencost",
+      "npmUrl": "https://www.npmjs.com/package/%40antharmaya%2Ftokencost",
+      "category": "devops",
+      "createdAt": "2026-10-13T17:46:04.494Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 90
+    },
+    {
       "name": "@anthodev/pi-tools-style",
       "version": "0.1.2",
       "description": "Presentation-only boxes for Pi tool calls and shell commands",
@@ -6170,6 +6182,18 @@
       "score": 90
     },
     {
+      "name": "@argszero/dsh-overflow-recovery",
+      "version": "0.1.0",
+      "description": "A session whose request exceeds the model's context window and whose summarizer cannot fit that same window has no way out: every later message replays the same oversized history into the same 400, so the session is unusable until someone edits the persis",
+      "license": "MIT",
+      "repository": "https://github.com/argszero/dsh-overflow-recovery",
+      "npmUrl": "https://www.npmjs.com/package/%40argszero%2Fdsh-overflow-recovery",
+      "category": "utilities",
+      "createdAt": "2026-10-13T20:21:47.084Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 90
+    },
+    {
       "name": "@argszero/dsh-stdout-denial-guard",
       "version": "0.1.0",
       "description": "Classifies sandbox denials the harness reports on stdout. The harness matches each runner's denial dialect against stderr only, so a program that prints its failing path on stdout - or any command that merged the streams with 2>&1 - exits non-zero with no",
@@ -6240,6 +6264,18 @@
       "createdAt": "2026-08-12T12:48:41.170Z",
       "discoveredAt": "2026-08-12T14:08:37.632Z",
       "score": 69
+    },
+    {
+      "name": "@arki/money",
+      "version": "0.0.4",
+      "description": "Exact, fast money for every JavaScript runtime — amounts kept as whole units (plain numbers, bigint only when huge), a shipped ISO 4217 currency table, exact-or-throw rounding, fair allocation, and currencies checked by the type system.",
+      "license": "MIT",
+      "repository": "https://github.com/arki-labs/arki",
+      "npmUrl": "https://www.npmjs.com/package/%40arki%2Fmoney",
+      "category": "build-tools",
+      "createdAt": "2026-10-13T06:28:32.322Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 90
     },
     {
       "name": "@arkn/react-map-chart",
@@ -18230,6 +18266,18 @@
       "score": 74
     },
     {
+      "name": "@eddie-doc/cli",
+      "version": "1.4.4",
+      "description": "Map an editor's PDF annotations back onto your AsciiDoc source from the command line: highlights, strikeouts, comments and inserts become tracked, resolvable review items. The CLI of the Eddie Doc VS Code extension and Obsidian plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/Volland/eddie-doc",
+      "npmUrl": "https://www.npmjs.com/package/%40eddie-doc%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-10-13T11:26:37.191Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 98
+    },
+    {
       "name": "@eddieparc/senpi-multiaccounts",
       "version": "0.1.0",
       "description": "Senpi addon: multi-account subscriptions for Claude, OpenAI Codex and Kiro — per-account usage, cache-preserving routing, usage-aware placement and 429 failover.",
@@ -21950,6 +21998,18 @@
       "score": 65
     },
     {
+      "name": "@fts-studio/studio-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for FTS Studio API — search financial news & regulatory intelligence, retrieve article summaries with citations, track trending entities, and read your saved collections, insight channels, briefs, and newsletters — and create collections, insig",
+      "license": "MIT",
+      "repository": "https://github.com/Fintech-Studios-Apps/FTS-Web",
+      "npmUrl": "https://www.npmjs.com/package/%40fts-studio%2Fstudio-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-15T00:06:36.894Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 92
+    },
+    {
       "name": "@fuaran-ui/cli",
       "version": "0.2.0",
       "description": "The Fuaran generative-UI CLI — fuaran generate / validate / recipe / scaffold over the public surfaces, with zero MCP config. Works against the real endpoint or the local mock.",
@@ -22692,6 +22752,18 @@
       "createdAt": "2026-08-09T10:42:52.651Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 49
+    },
+    {
+      "name": "@geonosis/design-kit",
+      "version": "1.0.0",
+      "description": "Geonosis's design kits in one package: each kit is a subtree imported by its own subpaths (@geonosis/design-kit/<kit>/atoms/…), so an app's bundle holds only the kit it imports. Themed through @geonosis/themekit's CSS variables; knows nothing about Next,",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/microcompanies/geonosis",
+      "npmUrl": "https://www.npmjs.com/package/%40geonosis%2Fdesign-kit",
+      "category": "frontend",
+      "createdAt": "2026-10-13T13:01:30.952Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 94
     },
     {
       "name": "@georapbox/theme-switcher",
@@ -29294,6 +29366,18 @@
       "score": 94
     },
     {
+      "name": "@hey-research-lab/goat-plugin",
+      "version": "0.1.0",
+      "description": "GOAT SDK plugin for HEY Research Lab: Robinhood Chain builder research for AI agents — is a project still building, what it shipped, what changed and what HEY does not know, with evidence ids and links.",
+      "license": "MIT",
+      "repository": "https://github.com/hey-research-lab/hey-goat-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40hey-research-lab%2Fgoat-plugin",
+      "category": "build-tools",
+      "createdAt": "2026-10-13T07:08:47.682Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 90
+    },
+    {
       "name": "@heyhuynhgiabuu/pi-peers",
       "version": "0.1.0",
       "description": "Session-to-session plain-text mailboxes for Pi: discover live sessions across projects and message them (including pi-task subagents), with prompt-free accept/refuse inbound and race-hardened delivery.",
@@ -30972,6 +31056,18 @@
       "createdAt": "2026-08-01T14:06:20.704Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 80
+    },
+    {
+      "name": "@ilpachi/use-alova",
+      "version": "2.1.1",
+      "description": "Vue 3 wrapper for alova: auth, response pipelines and centralized error handling, with optional notifications, overlay, file helpers and CSRF",
+      "license": "MIT",
+      "repository": "https://github.com/ellethee/use-alova",
+      "npmUrl": "https://www.npmjs.com/package/%40ilpachi%2Fuse-alova",
+      "category": "frontend",
+      "createdAt": "2026-10-13T14:22:59.458Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 92
     },
     {
       "name": "@imansi/templates-auth",
@@ -34176,6 +34272,18 @@
       "createdAt": "2026-08-23T13:21:08.466Z",
       "discoveredAt": "2026-08-23T13:36:40.884Z",
       "score": 66
+    },
+    {
+      "name": "@kairence-ai/cli",
+      "version": "1.36.1",
+      "description": "What a Kairence agent knows about itself on every chain it stands on, and every move it can make - an agent is born on one chain and lives there, and this client reads that chain off its launch salt; the one program of the agent image is kairence computer",
+      "license": "MIT",
+      "repository": "https://github.com/kairence-ai/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40kairence-ai%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-10-13T15:48:15.848Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 94
     },
     {
       "name": "@kaisarsofi/react-native-phone-input",
@@ -38618,6 +38726,18 @@
       "score": 73
     },
     {
+      "name": "@mageyuki/opencode-mcp",
+      "version": "3.1.0",
+      "description": "Unofficial fork of opencode-mcp: MCP server for OpenCode coding workflows, durable async jobs, project resources, and explicit user input, with V2 live-observation and guarded project-read changes",
+      "license": "MIT",
+      "repository": "https://github.com/mageyuki/opencode-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mageyuki%2Fopencode-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-13T08:13:58.143Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 94
+    },
+    {
       "name": "@magic-spells/scroll-stack",
       "version": "0.1.0",
       "description": "Natively scrolling list web component whose items animate at the scrollport edges instead of clipping — sticky stack handoff, vertical/horizontal, pure CSS effects driven by a progress custom property, no dependencies",
@@ -39816,6 +39936,18 @@
       "createdAt": "2026-09-11T18:13:50.520Z",
       "discoveredAt": "2026-09-12T04:19:21.653Z",
       "score": 88
+    },
+    {
+      "name": "@maxhealth.tech/elysia-mcp",
+      "version": "1.0.0",
+      "description": "Auto-generate MCP tools and resources from Elysia routes via introspection. TypeBox-to-Standard-Schema bridge and tool execution; the HTTP edge lives in @maxhealth.tech/mcp-http.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/max-network/elysia-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40maxhealth.tech%2Felysia-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-13T20:23:33.599Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 95
     },
     {
       "name": "@maxter-dev/design-system",
@@ -49139,6 +49271,18 @@
       "category": "frontend",
       "createdAt": "2026-08-25T06:15:48.461Z",
       "discoveredAt": "2026-08-25T13:01:41.453Z",
+      "score": 96
+    },
+    {
+      "name": "@percygfx/opencode-antigravity-auth",
+      "version": "2.0.0",
+      "description": "Google Antigravity OAuth plugin for OpenCode 2 (and 1.x): Gemini, Claude and GPT-OSS with your Google accounts, plus quota limits and account management in the TUI",
+      "license": "MIT",
+      "repository": "https://github.com/PercyGFX/opencode-antigravity-auth",
+      "npmUrl": "https://www.npmjs.com/package/%40percygfx%2Fopencode-antigravity-auth",
+      "category": "utilities",
+      "createdAt": "2026-10-13T08:32:28.707Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
       "score": 96
     },
     {
@@ -61274,6 +61418,18 @@
       "score": 100
     },
     {
+      "name": "@tech-style/secure-keystore",
+      "version": "3.0.0",
+      "description": "Encrypted secrets at rest for Node.js, with no service to run. Two-layer AES-256-GCM encryption over PBKDF2-SHA256: a user key unlocks a per-store master key, and the master key unlocks each value under its own salt. Zero dependencies, a CLI, and stateles",
+      "license": "MIT",
+      "repository": "https://github.com/eharain/secure-keystore",
+      "npmUrl": "https://www.npmjs.com/package/%40tech-style%2Fsecure-keystore",
+      "category": "backend",
+      "createdAt": "2026-10-13T07:05:34.409Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 100
+    },
+    {
       "name": "@techierathore/techieflow",
       "version": "1.0.1",
       "description": "TechieFlow: a spec-driven development framework for AI coding agents, for Claude Code and OpenCode. One command installs it into any project.",
@@ -68066,6 +68222,18 @@
       "score": 75
     },
     {
+      "name": "@wocart/theme",
+      "version": "1.0.0",
+      "description": "The Wocart theme contract: code-owned component definitions, JSON page documents, validation and resolution, and a reference Astro renderer.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/bighadj22/codflow",
+      "npmUrl": "https://www.npmjs.com/package/%40wocart%2Ftheme",
+      "category": "build-tools",
+      "createdAt": "2026-10-13T11:21:08.878Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 92
+    },
+    {
       "name": "@wolido/async-subagent-isolation",
       "version": "1.0.1",
       "description": "A pi extension that asynchronously delegates tasks to specialized subagents running in isolated pi processes.",
@@ -68376,6 +68544,18 @@
       "createdAt": "2026-08-12T12:22:20.203Z",
       "discoveredAt": "2026-08-13T11:40:08.101Z",
       "score": 57
+    },
+    {
+      "name": "@x12i/storyflowix",
+      "version": "1.0.0",
+      "description": "Tell business stories as interactive diagrams. Template-driven: JSON in, React or SVG out. Works in React and Node.js.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/x12i/storyflowix",
+      "npmUrl": "https://www.npmjs.com/package/%40x12i%2Fstoryflowix",
+      "category": "frontend",
+      "createdAt": "2026-10-13T12:50:51.875Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 91
     },
     {
       "name": "@x402solana/clawd",
@@ -77882,6 +78062,18 @@
       "score": 58
     },
     {
+      "name": "casestack-skills",
+      "version": "1.1.0",
+      "description": "Turn raw project material into a polished portfolio case study in one go. A senior UX/product designer's skill package for Cursor, Claude Code, and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/MayankSingh1/casestack",
+      "npmUrl": "https://www.npmjs.com/package/casestack-skills",
+      "category": "utilities",
+      "createdAt": "2026-10-13T14:50:09.951Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 93
+    },
+    {
       "name": "castloop",
       "version": "0.1.0",
       "description": "Multi-agent social content pipeline that does not break in production: research, brand-voice scripts, NL-directed video edits, publish, analytics and redesign in a closed loop, with per-handoff evals and a human approval gate",
@@ -79730,6 +79922,18 @@
       "score": 70
     },
     {
+      "name": "clikcode",
+      "version": "1.0.1",
+      "description": "The harness that logs in all your favorite AI coding providers, in the terminal and in VS Code. Chats you can resume in any of them, and automatic account switching when you hit a usage limit.",
+      "license": "MIT",
+      "repository": "https://github.com/Jgracier/ClikCode",
+      "npmUrl": "https://www.npmjs.com/package/clikcode",
+      "category": "cli",
+      "createdAt": "2026-10-13T18:15:53.413Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 95
+    },
+    {
       "name": "clipboard-image-terminal",
       "version": "0.3.1",
       "description": "Paste clipboard images as file paths into the VS Code terminal. Built for AI coding tools on WSL.",
@@ -79884,6 +80088,18 @@
       "createdAt": "2026-08-08T14:51:44.463Z",
       "discoveredAt": "2026-08-08T14:55:06.806Z",
       "score": 78
+    },
+    {
+      "name": "cobol-polycall",
+      "version": "1.1.0",
+      "description": "GnuCOBOL binding for the Polycall core (binding ABI v1): COBOL bridge, copybooks and a C shim, built from source with GnuCOBOL against an installed Polycall core >= 1.1.0",
+      "license": "SEE LICENSE IN LICENSE.md",
+      "repository": "https://github.com/obinexus/cobol-polycall",
+      "npmUrl": "https://www.npmjs.com/package/cobol-polycall",
+      "category": "utilities",
+      "createdAt": "2026-10-13T19:03:04.392Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 95
     },
     {
       "name": "cockpit-claude",
@@ -86294,6 +86510,18 @@
       "score": 67
     },
     {
+      "name": "dsh-opencode-router",
+      "version": "1.1.1",
+      "description": "OpenCode Zen free models for DeepSeek Harness: a native dsh-llm adapter that needs no API key, with a proxy exit pool that rotates, probes and scales to hundreds of exits.",
+      "license": "MIT",
+      "repository": "https://github.com/mirelconstantin/dsh-opencode-router",
+      "npmUrl": "https://www.npmjs.com/package/dsh-opencode-router",
+      "category": "backend",
+      "createdAt": "2026-10-13T16:08:43.304Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 97
+    },
+    {
       "name": "dsh-output-styles",
       "version": "0.2.0",
       "description": "Claude Code outputStyles-equivalent runtime output-style switching for DeepSeek Harness",
@@ -87096,6 +87324,18 @@
       "createdAt": "2026-09-04T20:24:38.173Z",
       "discoveredAt": "2026-09-10T16:16:34.181Z",
       "score": 88
+    },
+    {
+      "name": "dsh-subagents-model",
+      "version": "1.2.1",
+      "description": "Model visibility for DeepSeek Harness: a header chip naming the model and reasoning effort each Session runs on, a bottom-bar chip showing which models a whole run delegated to, and sidebar hover cards showing what each conversation actually did. It only",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/mirelconstantin/dsh-subagents-model",
+      "npmUrl": "https://www.npmjs.com/package/dsh-subagents-model",
+      "category": "cli",
+      "createdAt": "2026-10-13T16:22:52.947Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 100
     },
     {
       "name": "dsh-t3-new-session-screen",
@@ -98162,6 +98402,18 @@
       "score": 65
     },
     {
+      "name": "license-sentinel",
+      "version": "1.0.0",
+      "description": "License compliance gate for npm projects: reads node_modules and npm/pnpm/yarn lockfiles, resolves SPDX expressions and LICENSE texts, enforces allow/deny lists, presets and project-license compatibility, and emits CycloneDX 1.5 and SPDX 2.3 SBOMs, NOTICE",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/license-sentinel",
+      "npmUrl": "https://www.npmjs.com/package/license-sentinel",
+      "category": "backend",
+      "createdAt": "2026-10-13T22:50:15.999Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 100
+    },
+    {
       "name": "lien-sdk",
       "version": "0.1.0",
       "description": "LIEN protocol SDK — canonical obligation identity, EIP-712 helpers, LienClient, ABIs, and Sepolia deployments for RWA encumbrance infrastructure.",
@@ -99180,6 +99432,18 @@
       "createdAt": "2026-08-10T14:14:09.826Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 85
+    },
+    {
+      "name": "logictrail",
+      "version": "1.0.0",
+      "description": "Ask your codebase how it works. LogicTrail turns a question into an evidence-backed, interactive execution flow.",
+      "license": "MIT",
+      "repository": "https://github.com/werlen-nevio/LogicTrail",
+      "npmUrl": "https://www.npmjs.com/package/logictrail",
+      "category": "build-tools",
+      "createdAt": "2026-10-05T12:56:23.722Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 91
     },
     {
       "name": "logisheets-mcp",
@@ -117254,6 +117518,18 @@
       "score": 93
     },
     {
+      "name": "rmbg-wasm",
+      "version": "1.0.0",
+      "description": "Browser WebAssembly background removal, AI coloring (harmonization) and edge enhancement. Runs fully client-side, no upload, no API key.",
+      "license": "MIT",
+      "repository": "https://github.com/joye61/rmbg-wasm",
+      "npmUrl": "https://www.npmjs.com/package/rmbg-wasm",
+      "category": "frontend",
+      "createdAt": "2026-10-13T09:46:27.289Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 93
+    },
+    {
       "name": "rmq-cli",
       "version": "2.0.0",
       "description": "A full-screen terminal browser for RabbitMQ, built with Ink",
@@ -122688,6 +122964,18 @@
       "createdAt": "2026-07-25T12:40:07.341Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 68
+    },
+    {
+      "name": "superduperskills",
+      "version": "6.0.0",
+      "description": "The Ultimate Multi-Agent Skills Hub & Governance Suite (3,300+ Curated AI Agent Skills for Claude, Gemini, Cursor, Codex)",
+      "license": "MIT",
+      "repository": "https://github.com/camilolealdev/superduperskills",
+      "npmUrl": "https://www.npmjs.com/package/superduperskills",
+      "category": "cli",
+      "createdAt": "2026-10-13T14:38:52.006Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 92
     },
     {
       "name": "supermd",
@@ -129744,6 +130032,18 @@
       "createdAt": "2026-08-18T21:25:07.713Z",
       "discoveredAt": "2026-08-19T01:44:20.372Z",
       "score": 87
+    },
+    {
+      "name": "yallaflow",
+      "version": "1.0.0",
+      "description": "AI-agnostic engineering governance layer for coding agents: durable project memory, adaptive workflows, and evidence-backed delivery.",
+      "license": "MIT",
+      "repository": "https://github.com/engmohamedamer/yallaflow",
+      "npmUrl": "https://www.npmjs.com/package/yallaflow",
+      "category": "cli",
+      "createdAt": "2026-10-13T12:44:10.444Z",
+      "discoveredAt": "2026-10-14T01:42:50.186Z",
+      "score": 93
     },
     {
       "name": "yandex-direct-mcp-plus",

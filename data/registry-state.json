@@ -1,16 +1,32 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 136469819,
-  "lastRunAt": "2026-10-13T03:25:58.398Z",
+  "lastSequence": 136744410,
+  "lastRunAt": "2026-10-14T01:42:50.186Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@ptengine/tailwind-preset",
-      "attempts": 6
+      "attempts": 7
     },
     {
       "name": "@ptengine/tokens",
-      "attempts": 6
+      "attempts": 7
+    },
+    {
+      "name": "@mcp-ui-kit/views",
+      "attempts": 1
+    },
+    {
+      "name": "@mcp-ui-kit/view-spec",
+      "attempts": 1
+    },
+    {
+      "name": "@mcp-ui-kit/components",
+      "attempts": 1
+    },
+    {
+      "name": "@mcp-ui-kit/host",
+      "attempts": 1
     }
   ]
 }
