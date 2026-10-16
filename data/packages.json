@@ -14726,6 +14726,18 @@
       "score": 100
     },
     {
+      "name": "@decaf-ts/for-testing",
+      "version": "1.2.0",
+      "description": "Backend and UI testing toolkit for decaf-ts packages: evidence reporting, jest helpers, performance runner and Xray/AgileTest teardowns",
+      "license": "MIT",
+      "repository": "https://github.com/decaf-ts/for-testing",
+      "npmUrl": "https://www.npmjs.com/package/%40decaf-ts%2Ffor-testing",
+      "category": "testing",
+      "createdAt": "2026-09-30T09:53:30.442Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 93
+    },
+    {
       "name": "@decaspace/canapi",
       "version": "0.1.1",
       "description": "API framework for Can apps: Express-powered REST server with TypeORM CRUD, JWT auth, and a reactive client resource layer for @decaspace/can-framework.",
@@ -32570,6 +32582,18 @@
       "score": 84
     },
     {
+      "name": "@jackyangjie/context-mode",
+      "version": "1.0.170",
+      "description": "MCP plugin that saves 98% of your context window. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, and Codex CLI. Sandboxed code execution, FTS5 knowledge base, and intent-driven search.",
+      "license": "Elastic-2.0",
+      "repository": "https://github.com/jackyangjie/context-mode",
+      "npmUrl": "https://www.npmjs.com/package/%40jackyangjie%2Fcontext-mode",
+      "category": "cli",
+      "createdAt": "2026-10-15T09:59:00.327Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 100
+    },
+    {
       "name": "@jacquesbeets/capacitor-spotify",
       "version": "0.3.0",
       "description": "Capacitor plugin for Spotify: native App Remote playback + auth on iOS/Android, Web Playback SDK on web",
@@ -39062,6 +39086,18 @@
       "score": 59
     },
     {
+      "name": "@mambalabsdev/mcp-account-hiring-watch",
+      "version": "1.0.0",
+      "description": "MCP server for Account Hiring Watch. Watch company domains and get only what changed since the last run: new, closed, and reposted job postings read live from 17 job boards, Greenhouse, Lever, Ashby, and Workday among them. Each row has the full job descr",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-account-hiring-watch",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-account-hiring-watch",
+      "category": "frontend",
+      "createdAt": "2026-10-15T10:42:03.272Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 93
+    },
+    {
       "name": "@mambalabsdev/mcp-agent-accessibility-auditor",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs Agent Accessibility Auditor actor on Apify. Domain in, whether an AI agent can read that site out: llms.txt, robots AI crawler rules, structured data and endpoints.",
@@ -42120,6 +42156,18 @@
       "createdAt": "2026-08-07T11:56:33.063Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 80
+    },
+    {
+      "name": "@molecule/api-model-hosting",
+      "version": "1.0.1",
+      "description": "Model hosting for molecule.dev — run a model server container on rented GPUs or CPUs (Cloud Run, Modal, RunPod, Koyeb) or your own Docker host, and get an HTTPS URL plus auth headers, behind swappable bonds",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/molecule-dev/molecule",
+      "npmUrl": "https://www.npmjs.com/package/%40molecule%2Fapi-model-hosting",
+      "category": "backend",
+      "createdAt": "2026-09-30T09:52:42.313Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 92
     },
     {
       "name": "@molecule/api-project-archive-external-state-pglite",
@@ -45554,6 +45602,18 @@
       "score": 69
     },
     {
+      "name": "@nofinite/media",
+      "version": "1.0.0",
+      "description": "Universal, framework-agnostic audio and video streaming media player suite powered by Vidstack and styled with NUICSS design tokens.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/NofiniteHQ/stack",
+      "npmUrl": "https://www.npmjs.com/package/%40nofinite%2Fmedia",
+      "category": "frontend",
+      "createdAt": "2026-10-15T19:30:57.649Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 93
+    },
+    {
       "name": "@nogardxu/pi-open-tui",
       "version": "0.1.0",
       "description": "A customized fork of pi-open-tui for personal use. A polished TUI for Pi coding agent with an animated logo header, Starship-style footer, rounded editor, model metadata, and prompt-box user messages.",
@@ -48012,6 +48072,18 @@
       "createdAt": "2026-08-08T16:30:10.257Z",
       "discoveredAt": "2026-08-08T16:57:46.605Z",
       "score": 69
+    },
+    {
+      "name": "@oubble/corners",
+      "version": "1.0.0",
+      "description": "iOS shapes on your own HTML elements: capsules calibrated against a native iOS button to under half a pixel, and continuous corners for every other radius. No SVG, no wrappers, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/oubble/corners",
+      "npmUrl": "https://www.npmjs.com/package/%40oubble%2Fcorners",
+      "category": "frontend",
+      "createdAt": "2026-10-15T14:52:15.231Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 99
     },
     {
       "name": "@oumarou_sanda_souley/devnotify",
@@ -63470,6 +63542,18 @@
       "score": 92
     },
     {
+      "name": "@tmgr/notify",
+      "version": "1.0.0",
+      "description": "Thin launcher for the tmgr CLI: MCP server and Claude Code / Codex hooks for phone push notifications and urgent alarms for AI agents via TMGR",
+      "license": "MIT",
+      "repository": "https://github.com/tmgr-dev/tmgr-notify",
+      "npmUrl": "https://www.npmjs.com/package/%40tmgr%2Fnotify",
+      "category": "backend",
+      "createdAt": "2026-10-04T02:18:17.619Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 94
+    },
+    {
       "name": "@tobyner/bull-streams",
       "version": "1.0.0",
       "description": "A Redis Streams event bus: publish/subscribe over consumer groups, with per-group cursors, automatic reclaim of abandoned messages, a per-group dead-letter stream, delayed delivery, native OpenTelemetry tracing, a NestJS integration and an operations dash",
@@ -64332,6 +64416,18 @@
       "createdAt": "2026-07-28T22:43:21.318Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 80
+    },
+    {
+      "name": "@twovmodules/n8n-nodes-sourcetodocs",
+      "version": "1.0.0",
+      "description": "n8n community node for SourceToDocs: generate Google Slides, Google Docs and PDF documents from the rows in your workflow, and read your projects, documents and runs through the SourceToDocs Public API",
+      "license": "MIT",
+      "repository": "https://github.com/2vmodules/n8n-nodes-sourcetodocs",
+      "npmUrl": "https://www.npmjs.com/package/%40twovmodules%2Fn8n-nodes-sourcetodocs",
+      "category": "backend",
+      "createdAt": "2026-10-15T07:14:47.469Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 100
     },
     {
       "name": "@typed-clickhouse/core",
@@ -68376,6 +68472,30 @@
       "createdAt": "2026-08-07T11:50:12.696Z",
       "discoveredAt": "2026-08-07T12:43:28.511Z",
       "score": 80
+    },
+    {
+      "name": "@wordplus/realtime",
+      "version": "1.0.0",
+      "description": "WordPlus Cloud's realtime SDK for sites and apps outside WordPress: rooms, presence and events, calls between two people that ring in the browser, group calls and a drop-in call screen, sealed end to end. The browser client, a server part for Node and eve",
+      "license": "MIT",
+      "repository": "https://github.com/wordplus-cloud/realtime-js",
+      "npmUrl": "https://www.npmjs.com/package/%40wordplus%2Frealtime",
+      "category": "frontend",
+      "createdAt": "2026-10-15T20:12:26.719Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 92
+    },
+    {
+      "name": "@wordplus/realtime-ui",
+      "version": "1.0.0",
+      "description": "Better Messages' screens for apps on WordPlus Cloud's realtime SDK (@wordplus/realtime): the call screen with its ring, group video and audio grids and call dock, who is online, typing, and the chat. React components in your app's own tree, or custom elem",
+      "license": "MIT",
+      "repository": "https://github.com/wordplus-cloud/realtime-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40wordplus%2Frealtime-ui",
+      "category": "frontend",
+      "createdAt": "2026-10-15T20:12:55.422Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 96
     },
     {
       "name": "@work-well/measure-engine",
@@ -79442,6 +79562,18 @@
       "score": 85
     },
     {
+      "name": "claude-code-superkit",
+      "version": "1.5.3",
+      "description": "Production-tested agents (56), commands (16), hooks (42), skills (22), and rules (19) for Claude Code; 82 skills and 2 native hook handlers for Codex. Claude prompts hardened by Claude Fable 5; GPT role sources authored by Astra.",
+      "license": "MIT",
+      "repository": "https://github.com/RaNDoM6913/claude-code-superkit",
+      "npmUrl": "https://www.npmjs.com/package/claude-code-superkit",
+      "category": "testing",
+      "createdAt": "2026-10-16T00:52:10.760Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 98
+    },
+    {
       "name": "claude-code-teams",
       "version": "0.18.1",
       "description": "A Claude Code plugin (not a library — see README) for a multi-agent feature-delivery pipeline: BA/legacy analysis, prototyping, planning, parallel FE/BE/integrations implementation, QA/security/performance review, PR gate. 60 agents and 239 skills across",
@@ -83990,6 +84122,18 @@
       "score": 59
     },
     {
+      "name": "diezyxalisa-baileys",
+      "version": "1.0.0",
+      "description": "Alisa Baileys (Alisa Mikhailovna Kujou) — High-performance WhatsApp Web API Library by DiezyClutch with A2UI, MB, Buttons, Carousel, Toolkit, ESM & CJS Dual Support, Telegram Bot Integration & Luxury Dragon ASCII Banner",
+      "license": "MIT",
+      "repository": "https://github.com/dzytzy/alisa-baileys",
+      "npmUrl": "https://www.npmjs.com/package/diezyxalisa-baileys",
+      "category": "testing",
+      "createdAt": "2026-10-15T21:09:48.600Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 94
+    },
+    {
       "name": "diff-conformance",
       "version": "0.2.0",
       "description": "A correctness harness for JavaScript structural diff libraries. Detection (a real change must be reported), false positives (two equal values must produce an empty patch, which three of seven popular packages fail), move quality (operations emitted agains",
@@ -85262,6 +85406,18 @@
       "score": 90
     },
     {
+      "name": "dsh-cc-switch",
+      "version": "1.0.0",
+      "description": "把 cc-switch 里配好的模型供应商直接接入 DeepSeek Harness：读取 cc-switch 数据库，转换成 llm-pi-ai 路由并写入凭据，还能实测每条端点通不通。Bridges your cc-switch providers into DeepSeek Harness as llm-pi-ai routes.",
+      "license": "MIT",
+      "repository": "https://github.com/LightingHa/dsh-cc-switch",
+      "npmUrl": "https://www.npmjs.com/package/dsh-cc-switch",
+      "category": "utilities",
+      "createdAt": "2026-10-15T11:21:30.235Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 96
+    },
+    {
       "name": "dsh-chat-export",
       "version": "0.1.0",
       "description": "Readable transcript export for DeepSeek Harness: turn any Session into a Markdown / HTML / ZIP transcript with reasoning blocks, tool calls and results, images and usage — from the Session header or the /export-md command.",
@@ -86378,6 +86534,18 @@
       "score": 87
     },
     {
+      "name": "dsh-memory-delta",
+      "version": "1.3.4",
+      "description": "Layered, auto-injected cross-session memory for AI coding agents: a DSH plugin plus a standalone zero-dependency CLI. Borrows the spec/change/archive discipline from OpenSpec (MIT), but pushes instead of pulls.",
+      "license": "MIT",
+      "repository": "https://github.com/lpf20200901/dsh-memory-delta",
+      "npmUrl": "https://www.npmjs.com/package/dsh-memory-delta",
+      "category": "cli",
+      "createdAt": "2026-10-15T01:37:32.583Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 94
+    },
+    {
       "name": "dsh-message-timeline",
       "version": "0.1.0",
       "description": "Per-session user-message timeline for the DeepSeek Harness Web GUI: a left-edge tick strip covering the complete durable log, with hover previews and jump-to-message navigation",
@@ -86846,6 +87014,18 @@
       "score": 49
     },
     {
+      "name": "dsh-plugin-computer-use",
+      "version": "2.5.0",
+      "description": "computer-use v2.5：Ubuntu/GNOME Wayland 自动检测并启用原生后端；内置 WinRects 扩展安装与诊断命令，驱动最低 0.28.3。基于 Cua Driver 进程内 SDK 的跨平台桌面操作。13 个工具（截图/窗口列表/缩放/光标/移动/点击/拖拽/滚动/输入/按键/打开应用/连续动作/等待）。v2.4.1 适配 dsh 0.2.0：审批探测改走公有 overrideOf/session 覆盖 + 部署默认策略，任何探测形状失效时保守放行，杜绝 danger-fu",
+      "license": "MIT",
+      "repository": "https://github.com/tofu-zyc/dsh-plugin-tofu-box",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-computer-use",
+      "category": "utilities",
+      "createdAt": "2026-09-28T05:19:18.721Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 92
+    },
+    {
       "name": "dsh-plugin-content-policy",
       "version": "0.2.0",
       "description": "Preventive content policy for DeepSeek Harness tool results: rewrite matched text with regex rules, or drop/truncate unpredictable payloads by field path before they are normalised, rendered, or persisted. The upstream counterpart to dsh-plugin-redact.",
@@ -87144,6 +87324,18 @@
       "createdAt": "2026-08-14T06:09:05.963Z",
       "discoveredAt": "2026-08-14T07:12:14.589Z",
       "score": 72
+    },
+    {
+      "name": "dsh-plugin-wallpaper-engine-yhz",
+      "version": "1.3.3",
+      "description": "Wallpaper Engine backgrounds for the DSH web GUI: render your local Wallpaper Engine wallpapers behind the chat — Scene and Web in real time through the bundled WebWallGL engine, Video played directly — with iOS-style liquid glass, adjustable blur/scrim/b",
+      "license": "MIT",
+      "repository": "https://github.com/elysia395/dsh-wallpaper-engine",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-wallpaper-engine-yhz",
+      "category": "utilities",
+      "createdAt": "2026-10-15T09:36:58.012Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 94
     },
     {
       "name": "dsh-plugin-writing-guard",
@@ -87974,6 +88166,18 @@
       "score": 47
     },
     {
+      "name": "dsh-web-missions",
+      "version": "1.0.0",
+      "description": "Persist-and-find web research for DeepSeek Harness local agents (browser39 fetch, mission store, lexical find, budget + allowlist + depth fence). No cloud search in v0.",
+      "license": "MIT",
+      "repository": "https://github.com/janpauldahlke/dsh-web-missions",
+      "npmUrl": "https://www.npmjs.com/package/dsh-web-missions",
+      "category": "frontend",
+      "createdAt": "2026-10-15T21:32:09.298Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 94
+    },
+    {
       "name": "dsh-web-search-searxng",
       "version": "0.1.0",
       "description": "SearXNG-backed web search provider for the DeepSeek Harness web capability seam (ctx.web) — self-hosted metasearch, no API key, no model turn per search",
@@ -88020,6 +88224,18 @@
       "createdAt": "2026-08-15T03:51:17.274Z",
       "discoveredAt": "2026-08-15T05:12:32.624Z",
       "score": 46
+    },
+    {
+      "name": "dsh-wen",
+      "version": "1.1.0",
+      "description": "DSH system-level Office all-in-one plugin: read/create/edit/convert docx, xlsx, pptx, pdf, odf, csv and legacy OLE2 formats with zero third-party dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/17897693/dsh-wen",
+      "npmUrl": "https://www.npmjs.com/package/dsh-wen",
+      "category": "data",
+      "createdAt": "2026-10-15T08:51:56.629Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 95
     },
     {
       "name": "dsh-whale-arcade",
@@ -88103,6 +88319,18 @@
       "category": "cli",
       "createdAt": "2026-09-19T10:45:52.997Z",
       "discoveredAt": "2026-09-19T15:47:00.599Z",
+      "score": 94
+    },
+    {
+      "name": "dsh-xdpool",
+      "version": "2.1.0",
+      "description": "One DSH model pool for every free quota you have: merge all locally signed-in WorkBuddy accounts with auto-failover, sign in to 13 vendors by QR/web, aggregate 76 vendors' free tiers, plus a usage dashboard, model routing, a local OpenAI-compatible gatewa",
+      "license": "MIT",
+      "repository": "https://github.com/XDTrees/dsh-xdpool",
+      "npmUrl": "https://www.npmjs.com/package/dsh-xdpool",
+      "category": "utilities",
+      "createdAt": "2026-10-15T16:49:47.843Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
       "score": 94
     },
     {
@@ -102146,6 +102374,18 @@
       "score": 73
     },
     {
+      "name": "mealprep-studio",
+      "version": "1.0.0",
+      "description": "Your own meal-kit service for the food you cook at home: Claude suggests dishes, you pick them on your phone, you get recipes, a priced shopping list and a prep timeline.",
+      "license": "MIT",
+      "repository": "https://github.com/fHpro0/mealprep-studio",
+      "npmUrl": "https://www.npmjs.com/package/mealprep-studio",
+      "category": "cli",
+      "createdAt": "2026-10-15T19:46:09.504Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 93
+    },
+    {
       "name": "media-autoplay-kit",
       "version": "0.1.1",
       "description": "Framework-agnostic audio and video autoplay priming for mobile browsers and embedded webviews.",
@@ -103464,6 +103704,18 @@
       "createdAt": "2026-08-08T09:20:12.824Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 97
+    },
+    {
+      "name": "mscoa-schedules",
+      "version": "2.0.0",
+      "description": "National Treasury mSCOA schedules as TypeScript: the A1 Schedule (mSCOA 6.9 and 7.1) compiled from the official Excel template, populated from budget lines, exported as Excel and JSON. Runs in Node and in the browser.",
+      "license": "ISC",
+      "repository": "https://github.com/mashegoTerrence/A-schedule-report",
+      "npmUrl": "https://www.npmjs.com/package/mscoa-schedules",
+      "category": "frontend",
+      "createdAt": "2026-10-15T19:09:37.096Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 96
     },
     {
       "name": "msforms-api",
@@ -107664,6 +107916,18 @@
       "createdAt": "2026-08-10T20:37:41.790Z",
       "discoveredAt": "2026-08-10T21:22:02.347Z",
       "score": 68
+    },
+    {
+      "name": "onememory-mcp",
+      "version": "1.0.0",
+      "description": "OneMemory — one self-hosted SQLite memory store shared across your AI agents over MCP and a plain REST API, reachable from desktop, web, and your phone.",
+      "license": "MIT",
+      "repository": "https://github.com/calasdan-sketch/onememory",
+      "npmUrl": "https://www.npmjs.com/package/onememory-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-15T19:40:09.475Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 95
     },
     {
       "name": "online-chess-api",
@@ -123482,6 +123746,18 @@
       "score": 77
     },
     {
+      "name": "swagger-autoscribe",
+      "version": "1.0.0",
+      "description": "Zero-config Swagger/OpenAPI docs for NestJS: reads your TypeScript to document schemas, errors, auth and pagination, and adds Postman-style variables in Swagger UI.",
+      "license": "MIT",
+      "repository": "https://github.com/mohamedrashad5676/swagger-autoscribe",
+      "npmUrl": "https://www.npmjs.com/package/swagger-autoscribe",
+      "category": "backend",
+      "createdAt": "2026-10-15T20:34:15.802Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 96
+    },
+    {
       "name": "swarfkit",
       "version": "0.1.0",
       "description": "Find and reclaim the disk space left behind by agent-driven development.",
@@ -124584,6 +124860,18 @@
       "createdAt": "2026-08-13T10:21:37.190Z",
       "discoveredAt": "2026-08-13T10:54:57.611Z",
       "score": 86
+    },
+    {
+      "name": "text-bubbles",
+      "version": "1.0.1",
+      "description": "Text drawn as interactive particles that scatter around the pointer. Tiny, dependency-free canvas core with React and custom element adapters.",
+      "license": "MIT",
+      "repository": "https://github.com/piique/text-bubbles",
+      "npmUrl": "https://www.npmjs.com/package/text-bubbles",
+      "category": "frontend",
+      "createdAt": "2026-10-15T15:17:44.538Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 94
     },
     {
       "name": "text-vision",
@@ -126420,6 +126708,18 @@
       "createdAt": "2026-08-11T15:49:10.506Z",
       "discoveredAt": "2026-08-11T17:44:15.060Z",
       "score": 65
+    },
+    {
+      "name": "ui-skills-kit",
+      "version": "2.0.0",
+      "description": "Claude skill kit: 16 premium section layouts with reference wireframes, automatic section → layout mapping, anti-AI typography rules, CSS grid + three.js / R3F recipes — plus Vercel's find-skills",
+      "license": "MIT",
+      "repository": "https://github.com/bobcermak/ui-skills-kit",
+      "npmUrl": "https://www.npmjs.com/package/ui-skills-kit",
+      "category": "frontend",
+      "createdAt": "2026-10-15T06:30:12.749Z",
+      "discoveredAt": "2026-10-16T01:04:57.964Z",
+      "score": 96
     },
     {
       "name": "ui-ux-pro-max-skill-mcp",
