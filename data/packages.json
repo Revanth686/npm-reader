@@ -6350,6 +6350,18 @@
       "score": 52
     },
     {
+      "name": "@arraypress/behaviors-astro",
+      "version": "1.1.0",
+      "description": "Client-side behaviour modules for Astro storefronts — wishlist, header nav, modals, product gallery, count-up and drag-scroll. View-transition safe, zero dependencies, no styling opinions.",
+      "license": "MIT",
+      "repository": "https://github.com/arraypress/behaviors-astro",
+      "npmUrl": "https://www.npmjs.com/package/%40arraypress%2Fbehaviors-astro",
+      "category": "cli",
+      "createdAt": "2026-08-19T10:24:24.662Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 91
+    },
+    {
       "name": "@arraypress/llms-txt-astro",
       "version": "1.0.0",
       "description": "Idiomatic /llms.txt route for Astro — resolves the site origin and serves the file. A thin wrapper over @arraypress/llms-txt.",
@@ -6432,6 +6444,18 @@
       "createdAt": "2026-07-27T22:47:22.473Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 67
+    },
+    {
+      "name": "@artrv/xml-js",
+      "version": "1.6.12",
+      "description": "Fork of xml-js with a memory retention fix and isolated per-call parsing state. Converts between XML and JavaScript objects / JSON.",
+      "license": "MIT",
+      "repository": "https://github.com/artrv/xml-js",
+      "npmUrl": "https://www.npmjs.com/package/%40artrv%2Fxml-js",
+      "category": "data",
+      "createdAt": "2026-10-16T12:44:30.089Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 93
     },
     {
       "name": "@artymclabin/qa-review",
@@ -22164,6 +22188,18 @@
       "createdAt": "2026-08-06T04:31:35.645Z",
       "discoveredAt": "2026-08-06T04:59:05.094Z",
       "score": 79
+    },
+    {
+      "name": "@fxfunds/blockchain-technology",
+      "version": "1.0.0",
+      "description": "Read-only blockchain transaction signal analyzer for USDT on ERC20, TRC20 and TON — address and hash validation, confirmation depth, fee efficiency and settlement scoring. Built by FXFunds.",
+      "license": "MIT",
+      "repository": "https://github.com/FXFunds/fxfunds-blockchain-technology",
+      "npmUrl": "https://www.npmjs.com/package/%40fxfunds%2Fblockchain-technology",
+      "category": "data",
+      "createdAt": "2026-10-16T19:40:16.810Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 93
     },
     {
       "name": "@fxone/prop-flow",
@@ -39086,6 +39122,18 @@
       "score": 59
     },
     {
+      "name": "@malysus/node-red-contrib-flow-splitter-extended",
+      "version": "1.4.1",
+      "description": "Split your flows.json file in individual YAML or JSON files (per tab, subflow and config-node) with optional function and ui-template node code extraction.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/malys/node-red-contrib-flow-splitter-extended",
+      "npmUrl": "https://www.npmjs.com/package/%40malysus%2Fnode-red-contrib-flow-splitter-extended",
+      "category": "utilities",
+      "createdAt": "2026-10-16T09:11:47.565Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 95
+    },
+    {
       "name": "@mambalabsdev/mcp-account-hiring-watch",
       "version": "1.0.0",
       "description": "MCP server for Account Hiring Watch. Watch company domains and get only what changed since the last run: new, closed, and reposted job postings read live from 17 job boards, Greenhouse, Lever, Ashby, and Workday among them. Each row has the full job descr",
@@ -41328,6 +41376,18 @@
       "createdAt": "2026-08-13T05:20:53.796Z",
       "discoveredAt": "2026-08-13T05:45:12.412Z",
       "score": 78
+    },
+    {
+      "name": "@missing-elements/pdfjs-viewer",
+      "version": "4.2.1",
+      "description": "A standalone, isolated, self-hostable, plug-in custom element for viewing PDF files, based on [PDF.js default viewer](https://mozilla.github.io/pdf.js/web/viewer.html).",
+      "license": "MIT",
+      "repository": "https://github.com/missing-elements/pdfjs-viewer",
+      "npmUrl": "https://www.npmjs.com/package/%40missing-elements%2Fpdfjs-viewer",
+      "category": "frontend",
+      "createdAt": "2026-10-16T20:34:17.807Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 96
     },
     {
       "name": "@miteclaw/arena-client",
@@ -51170,6 +51230,18 @@
       "score": 56
     },
     {
+      "name": "@pullwish/site-manager",
+      "version": "1.6.0",
+      "description": "Complete site management SDK for maintenance mode, status messages, feature flags, version checking, and analytics",
+      "license": "MIT",
+      "repository": "https://github.com/pullwish/site-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40pullwish%2Fsite-manager",
+      "category": "testing",
+      "createdAt": "2026-10-16T13:40:54.828Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 91
+    },
+    {
       "name": "@pulsadev/abi-utils",
       "version": "0.1.0",
       "description": "Standalone ABI encoding, decoding, and TypeScript inference for EVM — zero dependencies",
@@ -56282,6 +56354,18 @@
       "score": 81
     },
     {
+      "name": "@seemodo/vite-tanstack-config",
+      "version": "1.0.0",
+      "description": "One-call Vite config for Seemodo TanStack Start apps: TanStack Start, React, Tailwind, tsconfig paths, Nitro for Cloudflare Workers, sandbox dev server with HMR gate, error collector and build diagnostics.",
+      "license": "MIT",
+      "repository": "https://github.com/Seemodo/seemodo-starter-template-tanstack",
+      "npmUrl": "https://www.npmjs.com/package/%40seemodo%2Fvite-tanstack-config",
+      "category": "frontend",
+      "createdAt": "2026-10-16T19:58:07.335Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 92
+    },
+    {
       "name": "@seiuna/bilibili-api",
       "version": "1.0.3",
       "description": "类型安全的 Bilibili API 客户端 — 扫码登录、评论区、私信、用户空间、图片上传，支持自动凭证刷新与 Generator 分页",
@@ -57840,6 +57924,18 @@
       "createdAt": "2026-08-15T08:03:08.907Z",
       "discoveredAt": "2026-08-15T10:14:32.299Z",
       "score": 65
+    },
+    {
+      "name": "@skyforce/discord-hybrid-sharding",
+      "version": "3.1.0",
+      "description": "Maintained and hardened fork of discord-hybrid-sharding: combines cluster manager & internal sharding with distributed resilience, BigInt IPC, and Node 20/22+ optimizations.",
+      "license": "MIT",
+      "repository": "https://github.com/SkyForceDev/discord-hybrid-sharding",
+      "npmUrl": "https://www.npmjs.com/package/%40skyforce%2Fdiscord-hybrid-sharding",
+      "category": "utilities",
+      "createdAt": "2026-10-16T08:41:12.779Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 97
     },
     {
       "name": "@skynet-initiative/sky-remote",
@@ -61188,6 +61284,18 @@
       "createdAt": "2026-08-03T12:55:28.431Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 100
+    },
+    {
+      "name": "@table-bro/core",
+      "version": "1.1.0",
+      "description": "Pixel-perfect Material data tables for Angular, and more. A Web Components table engine on top of existing UI components.",
+      "license": "MIT",
+      "repository": "https://github.com/table-bro/table-bro",
+      "npmUrl": "https://www.npmjs.com/package/%40table-bro%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-10-16T15:13:08.299Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 92
     },
     {
       "name": "@tabnas/chess-view",
@@ -69710,6 +69818,18 @@
       "score": 100
     },
     {
+      "name": "@yogeshsingh/imgl",
+      "version": "1.0.0",
+      "description": "Fast, declarative graphic design language and headless compiler for developers and AI coding assistants (Cursor, Claude Code, Antigravity, Copilot).",
+      "license": "BSL-1.1",
+      "repository": "https://github.com/Yogesh1290/imgl",
+      "npmUrl": "https://www.npmjs.com/package/%40yogeshsingh%2Fimgl",
+      "category": "build-tools",
+      "createdAt": "2026-10-16T20:46:03.362Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 93
+    },
+    {
       "name": "@yokesky/dsh-usage-lens",
       "version": "0.1.2",
       "description": "DSH web plugin: a usage statistics dashboard (basic info, activity heatmap, daily token trend, model usage donut) with provider/model drill-down, following the DSH theme system.",
@@ -70704,6 +70824,18 @@
       "createdAt": "2026-08-15T07:26:20.454Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 83
+    },
+    {
+      "name": "@zhz8888/dsh-ios-simulator-helper",
+      "version": "1.0.0",
+      "description": "iOS Simulator management for DeepSeek Harness: Xcode project discovery and scaffolding, simulator boot/install/launch/terminate, screenshots, logs and optional idb UI automation, ported from the official ZCode ios-simulator plugin, with a full in-app sett",
+      "license": "MIT",
+      "repository": "https://github.com/zhz8888/dsh-ios-simulator-helper",
+      "npmUrl": "https://www.npmjs.com/package/%40zhz8888%2Fdsh-ios-simulator-helper",
+      "category": "devops",
+      "createdAt": "2026-10-16T19:06:47.679Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 94
     },
     {
       "name": "@zibby/agent-graph-memory",
@@ -83306,6 +83438,18 @@
       "score": 71
     },
     {
+      "name": "dead-deps-gauge",
+      "version": "1.0.0",
+      "description": "Find dependencies declared in package.json but never imported, and imports missing from package.json (or only in devDependencies). Understands ESM/CJS/TS, dynamic import, scripts, bins, config files and @types. Text/JSON/SARIF/Markdown, allowlist with exp",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/dead-deps-gauge",
+      "npmUrl": "https://www.npmjs.com/package/dead-deps-gauge",
+      "category": "cli",
+      "createdAt": "2026-10-16T09:03:24.017Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 94
+    },
+    {
       "name": "decision-gate",
       "version": "0.2.0",
       "description": "Rate and spend limits for calling TypeSafe Jev from Node: an account-wide 429 pause with backoff, a shared rate limiter, a per-key daily spend ceiling, an answer cache that stores no text, and never-send checks",
@@ -92150,6 +92294,18 @@
       "score": 78
     },
     {
+      "name": "futures-calendar",
+      "version": "1.0.0",
+      "description": "CME Group futures calendar — month codes, contract-symbol parsing (ESZ5, CLF26), last-trade dates from each exchange's termination rule for ES, NQ, CL, NG, GC, ZN, 6E, ZC, BTC and more, plus front-month and roll dates.",
+      "license": "MIT",
+      "repository": "https://github.com/moshejs/futures-calendar",
+      "npmUrl": "https://www.npmjs.com/package/futures-calendar",
+      "category": "utilities",
+      "createdAt": "2026-10-16T04:18:37.800Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 94
+    },
+    {
       "name": "g8ldfish",
       "version": "0.9.0",
       "description": "Parallel coding execution orchestrator for already-defined tickets.",
@@ -92544,6 +92700,18 @@
       "createdAt": "2026-08-12T23:04:30.099Z",
       "discoveredAt": "2026-08-12T23:19:09.424Z",
       "score": 47
+    },
+    {
+      "name": "geom-distribute",
+      "version": "1.0.0",
+      "description": "Distribute points on the faces of a triangle mesh: by count or density, random or Poisson disk, weighted by a per-vertex density, with stable per-face seeds and interpolated vertex attributes.",
+      "license": "MIT",
+      "repository": "https://github.com/dmnsgn/geom-distribute",
+      "npmUrl": "https://www.npmjs.com/package/geom-distribute",
+      "category": "frontend",
+      "createdAt": "2026-10-16T08:28:46.032Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 97
     },
     {
       "name": "geopbf",
@@ -96398,6 +96566,18 @@
       "score": 92
     },
     {
+      "name": "irfanlovefront",
+      "version": "2.0.0",
+      "description": "One-command installer for irfanlovefront UI/UX agent skills across Claude Code, Antigravity, Cursor, Windsurf, and Copilot",
+      "license": "CC-BY-NC-SA-4.0",
+      "repository": "https://github.com/rajairfanahmed/irfanlovefront",
+      "npmUrl": "https://www.npmjs.com/package/irfanlovefront",
+      "category": "frontend",
+      "createdAt": "2026-10-16T12:14:57.090Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 92
+    },
+    {
       "name": "iri-shield",
       "version": "1.2.1",
       "description": "Enterprise Express.js security middleware — explainable risk scoring, multi-signal identity profiling, behavioural anomaly detection, attack correlation, sensitive-data redaction, and dashboard monitoring.",
@@ -96540,6 +96720,18 @@
       "createdAt": "2026-08-10T14:54:11.079Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 77
+    },
+    {
+      "name": "italian-territories",
+      "version": "1.20261007.0",
+      "description": "Day-accurate historical dataset of Italian regions, provinces and municipalities from 1861 to today, from ISTAT SITUAS, with TypeScript types.",
+      "license": "CC-BY-4.0",
+      "repository": "https://github.com/andreacolzani/italian-territories",
+      "npmUrl": "https://www.npmjs.com/package/italian-territories",
+      "category": "data",
+      "createdAt": "2026-10-16T15:25:22.267Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 94
     },
     {
       "name": "iterate-harness",
@@ -103514,6 +103706,18 @@
       "score": 62
     },
     {
+      "name": "monorepo-gauge",
+      "version": "1.0.0",
+      "description": "Hygiene checks for npm/yarn/pnpm workspaces: circular internal dependencies, internal ranges that no longer match, shared dependency drift, duplicate names, public packages depending on private ones, missing package fields and version drift. Text/JSON/SAR",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/monorepo-gauge",
+      "npmUrl": "https://www.npmjs.com/package/monorepo-gauge",
+      "category": "devops",
+      "createdAt": "2026-10-16T09:05:09.862Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 96
+    },
+    {
       "name": "monorepo-toolkit",
       "version": "0.1.0",
       "description": "Resolve workspaces in a Yarn/npm/pnpm monorepo, then turn that into working Metro, Webpack and Babel configuration.",
@@ -109274,6 +109478,30 @@
       "score": 90
     },
     {
+      "name": "options-expiration",
+      "version": "1.0.0",
+      "description": "US listed options expiration dates — monthly third-Friday, weekly, 0DTE, quarterly, end-of-month and VIX expiries, shifted correctly for exchange holidays (Good Friday, Juneteenth), plus early-close-aware time to expiry.",
+      "license": "MIT",
+      "repository": "https://github.com/moshejs/options-expiration",
+      "npmUrl": "https://www.npmjs.com/package/options-expiration",
+      "category": "utilities",
+      "createdAt": "2026-10-16T04:18:14.025Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 91
+    },
+    {
+      "name": "options-greeks",
+      "version": "1.0.0",
+      "description": "Black-Scholes-Merton (with dividend yield) and Black-76 option prices, greeks (delta, gamma, vega, theta, rho, vanna, charm, vomma) and a robust implied-volatility solver. Double-precision normal CDF, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/moshejs/options-greeks",
+      "npmUrl": "https://www.npmjs.com/package/options-greeks",
+      "category": "data",
+      "createdAt": "2026-10-16T04:18:26.573Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 97
+    },
+    {
       "name": "optiprune",
       "version": "1.1.0",
       "description": "Resilient static dead-code analyzer for TypeScript and JavaScript workspaces.",
@@ -113378,6 +113606,18 @@
       "score": 92
     },
     {
+      "name": "point-elimination",
+      "version": "1.0.0",
+      "description": "Eliminate 1D, 2D or 3D points: weighted sample elimination to an exact count with progressive ordering, and greedy elimination by minimum distance, both with adaptive spacing.",
+      "license": "MIT",
+      "repository": "https://github.com/dmnsgn/point-elimination",
+      "npmUrl": "https://www.npmjs.com/package/point-elimination",
+      "category": "devops",
+      "createdAt": "2026-10-16T07:56:49.334Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 97
+    },
+    {
       "name": "pointy-feedback-cli",
       "version": "1.0.1",
       "description": "One-command installation tool for Pointy Visual Feedback Widget",
@@ -114170,6 +114410,18 @@
       "score": 100
     },
     {
+      "name": "projectkeeper",
+      "version": "1.0.0",
+      "description": "A resident agent that reads a software project as it is — documents, git history, code and agent sessions — and keeps a browsable picture of what was planned, decided and done. Local-first; bring your own model key.",
+      "license": "MIT",
+      "repository": "https://github.com/feiyanglyy-stack/ProjectKeeper",
+      "npmUrl": "https://www.npmjs.com/package/projectkeeper",
+      "category": "devops",
+      "createdAt": "2026-10-16T14:45:54.066Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 100
+    },
+    {
       "name": "projects-manager-mcp",
       "version": "1.0.0",
       "description": "Grok CLI / MCP server for Projects Manager — list and manage tasks on boards you authorize",
@@ -114228,6 +114480,18 @@
       "createdAt": "2026-08-08T10:27:18.418Z",
       "discoveredAt": "2026-08-08T10:56:13.166Z",
       "score": 77
+    },
+    {
+      "name": "promptzilla",
+      "version": "1.0.0",
+      "description": "Skills-backed MCP prompts, tools, and a durable prompt optimization pipeline. Local stdio server plus optional self-hosted Cloudflare Workers deployment.",
+      "license": "MIT",
+      "repository": "https://github.com/andymccutcheon/promptzilla-mcp",
+      "npmUrl": "https://www.npmjs.com/package/promptzilla",
+      "category": "backend",
+      "createdAt": "2026-10-16T03:50:55.167Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 93
     },
     {
       "name": "proof-and-replay",
@@ -116952,6 +117216,18 @@
       "createdAt": "2026-08-15T07:40:06.662Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 68
+    },
+    {
+      "name": "readme-gauge",
+      "version": "1.0.0",
+      "description": "Lint READMEs for missing sections, broken and stale badges, stale install commands, missing usage examples, broken relative links and anchors, placeholders and license mismatches. Optional live link check. Text/JSON/SARIF/Markdown, allowlist with expiry,",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/readme-gauge",
+      "npmUrl": "https://www.npmjs.com/package/readme-gauge",
+      "category": "cli",
+      "createdAt": "2026-10-16T09:01:15.882Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 98
     },
     {
       "name": "readoutlang",
@@ -119700,6 +119976,18 @@
       "createdAt": "2026-08-02T18:58:09.475Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 86
+    },
+    {
+      "name": "semver-gauge",
+      "version": "1.0.0",
+      "description": "CI gate that checks your version bump matches the changes since the last release (Conventional Commits: breaking/feat/fix) and that CHANGELOG.md has a real entry for the new version. Text/JSON/SARIF/Markdown, allowlist with expiry, GitHub Action. Zero dep",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/semver-gauge",
+      "npmUrl": "https://www.npmjs.com/package/semver-gauge",
+      "category": "cli",
+      "createdAt": "2026-10-16T08:59:52.631Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 97
     },
     {
       "name": "sendletter",
@@ -130716,6 +131004,18 @@
       "createdAt": "2026-08-03T14:08:20.231Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 84
+    },
+    {
+      "name": "yishu-insight-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for 易数洞察 (insightapp.life): deterministic I Ching casting and lookup offline, authoritative Zi Wei Dou Shu charts via the remote engine. stdio, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/xmond/yishu-insight-mcp",
+      "npmUrl": "https://www.npmjs.com/package/yishu-insight-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-16T15:46:27.982Z",
+      "discoveredAt": "2026-10-17T01:11:24.478Z",
+      "score": 94
     },
     {
       "name": "yoke-mcp",
