@@ -1,27 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 137715230,
-  "lastRunAt": "2026-10-18T00:45:56.117Z",
+  "lastSequence": 137738278,
+  "lastRunAt": "2026-10-18T05:12:16.628Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@agimon-ai/po-style-system-tooling",
+      "name": "@jayulabs/mugicrew-darwin-arm64",
       "attempts": 1
     },
     {
-      "name": "@synchain/opentune-mcp",
+      "name": "@jayulabs/mugicrew-linux-arm64",
       "attempts": 1
     },
     {
-      "name": "@agimon-ai/po-workflow-mcp",
+      "name": "@jayulabs/mugicrew-darwin-x64",
       "attempts": 1
     },
     {
-      "name": "@agimon-ai/po-logsink",
-      "attempts": 1
-    },
-    {
-      "name": "@itsyuyi/dsh-approval-sound",
+      "name": "@osdlc/agent-call",
       "attempts": 1
     }
   ]

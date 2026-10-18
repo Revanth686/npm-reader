@@ -2318,6 +2318,18 @@
       "score": 80
     },
     {
+      "name": "@ai-adoption-score/ai-coding-usage",
+      "version": "1.0.0",
+      "description": "Shares how you use Claude Code and Codex with your company's AI Adoption Score survey. Never prompts, AI answers, code or file names.",
+      "license": "MIT",
+      "repository": "https://github.com/ai-adoption-score/ai-coding-usage",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-adoption-score%2Fai-coding-usage",
+      "category": "utilities",
+      "createdAt": "2026-10-18T01:18:03.712Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 79
+    },
+    {
       "name": "@ai-atomic-workflow/graph-scheduler",
       "version": "0.1.0",
       "description": "Graph-driven work-order system for AI agents — explicit phases, scoped context, and non-bypassable approval gates.",
@@ -2880,6 +2892,18 @@
       "createdAt": "2026-08-09T04:29:42.649Z",
       "discoveredAt": "2026-08-09T04:56:39.437Z",
       "score": 61
+    },
+    {
+      "name": "@akjamie/agentic-sdlc",
+      "version": "1.0.0",
+      "description": "Enterprise Agentic SDLC governance CLI: a 7-stage spec-driven flow on top of OpenSpec + Graphify, enforced by CI.",
+      "license": "MIT",
+      "repository": "https://github.com/akjamie/agentic-sdlc",
+      "npmUrl": "https://www.npmjs.com/package/%40akjamie%2Fagentic-sdlc",
+      "category": "cli",
+      "createdAt": "2026-10-18T01:36:01.518Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 81
     },
     {
       "name": "@akshar5/cohall",
@@ -8354,6 +8378,18 @@
       "score": 76
     },
     {
+      "name": "@beatos/bridge-runner",
+      "version": "0.1.0",
+      "description": "BeatOS Bridge runner: a small program on your own computer that takes BeatOS tasks for your agent and works them with Claude Code. It only dials out to beatos.app.",
+      "license": "MIT",
+      "repository": "https://github.com/Gordon-Web-Studio/beatos-bridge-runner",
+      "npmUrl": "https://www.npmjs.com/package/%40beatos%2Fbridge-runner",
+      "category": "utilities",
+      "createdAt": "2026-10-18T02:48:27.277Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 74
+    },
+    {
       "name": "@bedolla/enriazure",
       "version": "0.1.0",
       "description": "Azure DevOps Server-only MCP with multi-collection administration and guarded CRUD.",
@@ -12074,6 +12110,18 @@
       "score": 92
     },
     {
+      "name": "@clearlydev/nx-archweave",
+      "version": "0.1.0",
+      "description": "Nx generators that make a workspace ready to work on in one preset: FSD Lite structure with enforced module boundaries, AI agent rules, GitHub templates, and optional AI PR review (Claude, Gemini, GPT, Cursor)",
+      "license": "MIT",
+      "repository": "https://github.com/clearlydev/nx-archweave",
+      "npmUrl": "https://www.npmjs.com/package/%40clearlydev%2Fnx-archweave",
+      "category": "utilities",
+      "createdAt": "2026-10-18T04:34:18.805Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 90
+    },
+    {
       "name": "@clervo/router",
       "version": "0.2.0",
       "description": "Free-first Clervo CLI for x402 payments, receipts, replay, and local spend controls on Base.",
@@ -14196,6 +14244,18 @@
       "createdAt": "2026-08-01T20:30:44.188Z",
       "discoveredAt": "2026-08-01T21:07:24.463Z",
       "score": 59
+    },
+    {
+      "name": "@dall337/lore",
+      "version": "0.1.0",
+      "description": "LORE — Living Operational Rules & Evidence: a read-and-adapt governance suite for agent-driven development, with a local HUD for its board and journals.",
+      "license": "MIT",
+      "repository": "https://github.com/DalL337/agent-lore",
+      "npmUrl": "https://www.npmjs.com/package/%40dall337%2Flore",
+      "category": "devops",
+      "createdAt": "2026-10-18T04:16:35.755Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 81
     },
     {
       "name": "@damiangilgonzalez/harness",
@@ -17390,6 +17450,18 @@
       "score": 41
     },
     {
+      "name": "@dreams-io/postman",
+      "version": "0.1.0",
+      "description": "Zero-config Postman collection generator for any Node.js backend",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Emam-Bokhari/dev-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40dreams-io%2Fpostman",
+      "category": "testing",
+      "createdAt": "2026-10-18T03:53:15.546Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 76
+    },
+    {
       "name": "@dreamtree-org/conductor",
       "version": "0.1.0",
       "description": "Collision control for parallel Claude Code agents sharing one working tree.",
@@ -17724,6 +17796,18 @@
       "createdAt": "2026-08-24T13:58:21.989Z",
       "discoveredAt": "2026-09-04T16:13:10.950Z",
       "score": 90
+    },
+    {
+      "name": "@dshworks/dsh-solidworks",
+      "version": "0.1.0",
+      "description": "SOLIDWORKS for DeepSeek Harness: dsh reads, edits, rebuilds, renders and exports the models in a SOLIDWORKS 2016 or later, on the same Windows PC or in a Windows VM on your Mac. Read-only by default; the Windows side decides what may be written.",
+      "license": "MIT",
+      "repository": "https://github.com/dshworks/dsh-solidworks",
+      "npmUrl": "https://www.npmjs.com/package/%40dshworks%2Fdsh-solidworks",
+      "category": "backend",
+      "createdAt": "2026-10-18T04:48:09.087Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 81
     },
     {
       "name": "@dszp/onebill-lib",
@@ -29268,6 +29352,18 @@
       "createdAt": "2026-08-13T13:45:46.104Z",
       "discoveredAt": "2026-08-13T14:10:59.115Z",
       "score": 72
+    },
+    {
+      "name": "@helprism/cli",
+      "version": "0.2.0",
+      "description": "Helprism CLI (beta): report shipped changes from CI so the help center gets update suggestions for human review (Helprism sync). Sends file paths and commit messages only, never code.",
+      "license": "MIT",
+      "repository": "https://github.com/helprism/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40helprism%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-09-27T05:10:32.471Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 83
     },
     {
       "name": "@heluo0991/cute-dsh-tui",
@@ -53786,6 +53882,42 @@
       "score": 78
     },
     {
+      "name": "@retiform/calculator-mcp-server",
+      "version": "1.0.0",
+      "description": "Scientific calculator MCP tool server - safe expression evaluation, symbolic calculus (derivative, simplify, solve, integral), statistics, and matrix operations, via the Model Context Protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/retiform-labs/calculator-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40retiform%2Fcalculator-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-18T01:48:01.949Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 80
+    },
+    {
+      "name": "@retiform/dice-mcp-server",
+      "version": "1.4.1",
+      "description": "Stateless dice engine MCP tool server - generic d20-style notation, L5R 4e Roll & Keep, and L5R 5e ring/skill symbol dice, via the Model Context Protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/retiform-labs/dice-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40retiform%2Fdice-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-18T01:48:21.575Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 95
+    },
+    {
+      "name": "@retiform/matrix-mcp-server",
+      "version": "1.0.2",
+      "description": "Standalone Matrix MCP tool server exposing Matrix chat operations via the Model Context Protocol",
+      "license": "MIT",
+      "repository": "https://github.com/retiform-labs/matrix-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40retiform%2Fmatrix-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-18T01:48:29.210Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 79
+    },
+    {
       "name": "@retorna-tech/retorna-gateway-sdk",
       "version": "1.0.1",
       "description": "Retorna Gateway SDK — SDK oficial para integrar Retorna Gateway (B2B API) en aplicaciones Node.js y TypeScript. Autenticación OAuth2 y firma de requests, cotizaciones, órdenes, rutas, billeteras y reportes mediante una interfaz fluida y tipada.",
@@ -56484,6 +56616,18 @@
       "createdAt": "2026-10-16T19:58:07.335Z",
       "discoveredAt": "2026-10-17T01:11:24.478Z",
       "score": 92
+    },
+    {
+      "name": "@seip/bluebird-js",
+      "version": "0.0.1",
+      "description": "Performance-first Node.js API and web framework with built-in JWT auth, HTML rendering, validation, BaseModel, and multi-level caching",
+      "license": "MIT",
+      "repository": "https://github.com/seip25/Blue-bird",
+      "npmUrl": "https://www.npmjs.com/package/%40seip%2Fbluebird-js",
+      "category": "backend",
+      "createdAt": "2026-10-18T02:30:52.741Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 79
     },
     {
       "name": "@seiuna/bilibili-api",
@@ -61188,6 +61332,18 @@
       "createdAt": "2026-08-05T05:47:57.500Z",
       "discoveredAt": "2026-08-11T03:27:39.025Z",
       "score": 69
+    },
+    {
+      "name": "@synchain/opentune-mcp",
+      "version": "0.1.0",
+      "description": "OpenTune MCP Server (by Synchain): a local MCP (stdio) server that lets AI agents operate OpenTune Standalone and reports every result in a clear, structured form.",
+      "license": "MIT",
+      "repository": "https://github.com/synchain-oss/opentune-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40synchain%2Fopentune-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-18T00:43:19.895Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 80
     },
     {
       "name": "@syncnexa-library/ui",
@@ -82466,6 +82622,18 @@
       "score": 83
     },
     {
+      "name": "create-nx-archweave",
+      "version": "0.1.0",
+      "description": "One command from an empty directory to a configured Nx workspace: FSD Lite structure, AI agent rules, GitHub templates, and optional AI PR review (Claude, Gemini, GPT, Cursor)",
+      "license": "MIT",
+      "repository": "https://github.com/clearlydev/nx-archweave",
+      "npmUrl": "https://www.npmjs.com/package/create-nx-archweave",
+      "category": "utilities",
+      "createdAt": "2026-10-18T04:35:14.860Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 75
+    },
+    {
       "name": "create-ocp",
       "version": "0.2.0",
       "description": "Scaffold an OCP (Organizational Context Protocol) organization — a git-native markdown substrate that humans read and AI agents consume.",
@@ -86042,6 +86210,18 @@
       "score": 87
     },
     {
+      "name": "dsh-deliverable-menu",
+      "version": "1.31.1",
+      "description": "DSH 增强：VS Code 式 Git/并排 diff、文件树与新建/右键菜单/运行、跨文件搜索、代码导航（include 跳转/跳定义/悬停注释/联想）、侧边会话（fork 继承上下文）、交付卡片右键",
+      "license": "MIT",
+      "repository": "https://github.com/chufengsen/dsh-deliverable-menu",
+      "npmUrl": "https://www.npmjs.com/package/dsh-deliverable-menu",
+      "category": "utilities",
+      "createdAt": "2026-10-18T04:15:13.577Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 82
+    },
+    {
       "name": "dsh-desktop-uia",
       "version": "1.1.3",
       "description": "Windows desktop control for DeepSeek Harness through UI Automation: read a window's control tree, drive elements by id, approve every write, and watch it all in the settings panel.",
@@ -86702,6 +86882,18 @@
       "score": 69
     },
     {
+      "name": "dsh-liao-usage",
+      "version": "1.2.0",
+      "description": "查看会话用量、DeepSeek 价表参考费用与账户余额；按模型展开明细，自定义底部胶囊。 | View session tokens, reference costs using DeepSeek rates and account balance; explore model details and customize the bottom pill.",
+      "license": "MIT",
+      "repository": "https://github.com/oliblue-evan/dsh-liao-usage",
+      "npmUrl": "https://www.npmjs.com/package/dsh-liao-usage",
+      "category": "utilities",
+      "createdAt": "2026-10-18T03:32:40.635Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 77
+    },
+    {
       "name": "dsh-light-tool",
       "version": "0.2.0",
       "description": "DLT (DeepSeek Light Tool) — DSH 永久插件：每轮对话的人民币消耗、右下角账户余额、PDF/Word/Excel 直接读写工具与右栏预览、硬编码的编译/运行环境表与直接执行程序的工具，并带一个「DLT 管理器」运行期总开关。Permanent DeepSeek Harness plugin: per-turn CNY cost, account balance, native PDF/Word/Excel read-write tools and right-sidebar p",
@@ -86903,6 +87095,18 @@
       "category": "backend",
       "createdAt": "2026-09-18T16:02:30.425Z",
       "discoveredAt": "2026-09-18T16:16:36.620Z",
+      "score": 90
+    },
+    {
+      "name": "dsh-model-everything",
+      "version": "0.1.0",
+      "description": "Modeling abstraction and automated review for designs and code, including a refactoring harness: UML diagrams, executable verification of machines and protocols with before/after regression, data-model and migration checks, concurrency claim routing, expo",
+      "license": "MIT",
+      "repository": "https://github.com/AmethystLuna/dsh-model-everything",
+      "npmUrl": "https://www.npmjs.com/package/dsh-model-everything",
+      "category": "data",
+      "createdAt": "2026-10-18T04:28:37.147Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
       "score": 90
     },
     {
@@ -87300,6 +87504,18 @@
       "createdAt": "2026-08-15T10:44:31.422Z",
       "discoveredAt": "2026-08-15T10:57:44.139Z",
       "score": 44
+    },
+    {
+      "name": "dsh-picflow",
+      "version": "0.3.1",
+      "description": "DeepSeek Harness plugin: pasted screenshots become numbered image references. Every Ctrl+V image is admitted to the official attachment library with a stable 图片N number, listed in a composer-dock thumbnail panel with an @图片 source and a zoom overlay, can",
+      "license": "MIT",
+      "repository": "https://github.com/XWIDE/dsh-picflow",
+      "npmUrl": "https://www.npmjs.com/package/dsh-picflow",
+      "category": "devops",
+      "createdAt": "2026-10-18T02:44:02.552Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 75
     },
     {
       "name": "dsh-pip",
@@ -88704,6 +88920,18 @@
       "createdAt": "2026-08-17T17:16:45.970Z",
       "discoveredAt": "2026-08-18T01:42:04.137Z",
       "score": 89
+    },
+    {
+      "name": "dsh-zh-cot-fidelity",
+      "version": "1.5.0",
+      "description": "全局系统提示词插件：中文思维链、内容保真、反八股，14 组规则全场景生效；规则文本可编辑，改完即生效",
+      "license": "MIT",
+      "repository": "https://github.com/SuangXX/dsh-zh-cot-fidelity",
+      "npmUrl": "https://www.npmjs.com/package/dsh-zh-cot-fidelity",
+      "category": "cli",
+      "createdAt": "2026-10-18T04:47:36.651Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 81
     },
     {
       "name": "dsh-zotero",
@@ -92244,6 +92472,18 @@
       "createdAt": "2026-09-24T10:13:29.864Z",
       "discoveredAt": "2026-09-24T16:59:57.388Z",
       "score": 90
+    },
+    {
+      "name": "freedomspeech",
+      "version": "0.1.0",
+      "description": "JavaScript/TypeScript SDK for the Freedom Speech API: Kazakh, Russian and English speech recognition, synthesis, voice cloning and translation",
+      "license": "MIT",
+      "repository": "https://github.com/freedomspeechkz/freedomspeech-js",
+      "npmUrl": "https://www.npmjs.com/package/freedomspeech",
+      "category": "frontend",
+      "createdAt": "2026-10-18T01:06:34.427Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 80
     },
     {
       "name": "freepdfly-pdf-skill",
@@ -106262,6 +106502,18 @@
       "score": 98
     },
     {
+      "name": "neurarch",
+      "version": "0.1.0",
+      "description": "Know what a GPU job needs before it takes a reservation: training peak memory, the smallest card that holds it and what a run costs, read from a Hugging Face config or a traced graph. `neurarch rightsize jobs.csv` puts each past job's request next to what",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/neurarch-ai/neurarch",
+      "npmUrl": "https://www.npmjs.com/package/neurarch",
+      "category": "data",
+      "createdAt": "2026-10-18T03:19:20.525Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 90
+    },
+    {
       "name": "neveroversell",
       "version": "0.1.0",
       "description": "Holds that cannot oversell: Postgres reservations with TTL, a payment phase, idempotent two-path confirmation, a concurrent-safe sweeper and a drift check. One migration, one thin client, the guarantee enforced by the database.",
@@ -113870,6 +114122,18 @@
       "score": 92
     },
     {
+      "name": "pocket-printer",
+      "version": "0.1.0",
+      "description": "Print text and images to pocket Bluetooth thermal printers (Phomemo M02 family and other ESC/POS raster printers) from Node, Bun or the browser. Everything is rendered to raster on the host with a bundled JetBrains Mono font.",
+      "license": "MIT",
+      "repository": "https://github.com/dsappet/pocket-printer",
+      "npmUrl": "https://www.npmjs.com/package/pocket-printer",
+      "category": "frontend",
+      "createdAt": "2026-10-18T02:25:33.140Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 90
+    },
+    {
       "name": "point-elimination",
       "version": "1.0.0",
       "description": "Eliminate 1D, 2D or 3D points: weighted sample elimination to an exact count with progressive ordering, and greedy elimination by minimum distance, both with adaptive spacing.",
@@ -119232,6 +119496,18 @@
       "createdAt": "2026-08-07T14:25:57.506Z",
       "discoveredAt": "2026-08-07T14:56:04.882Z",
       "score": 83
+    },
+    {
+      "name": "rumuze-edit",
+      "version": "1.0.2",
+      "description": "Control OpenCode and AI coding agents on your machine directly from Telegram with live streaming cards, interactive buttons, and security sandboxing.",
+      "license": "MIT",
+      "repository": "https://github.com/rumuze/rumuze-edit",
+      "npmUrl": "https://www.npmjs.com/package/rumuze-edit",
+      "category": "cli",
+      "createdAt": "2026-10-18T01:36:52.990Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 86
     },
     {
       "name": "run-dex",
@@ -131258,6 +131534,18 @@
       "score": 90
     },
     {
+      "name": "yatta.js",
+      "version": "1.0.0",
+      "description": "Production-grade backend framework for Bun: hardware-aware worker runtime, type-safe SQLite ORM, auth, jobs, cache, storage, mail, and realtime.",
+      "license": "MIT",
+      "repository": "https://github.com/psrockstar098/yatta.js",
+      "npmUrl": "https://www.npmjs.com/package/yatta.js",
+      "category": "backend",
+      "createdAt": "2026-10-18T03:42:52.439Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 94
+    },
+    {
       "name": "yeow-fflate",
       "version": "0.1.0",
       "description": "fflate fork for Yeow: ZIP assembly and CRC kept, deflate/inflate and UTF-8 bridged to yeow-api (Java-side zlib), async/await APIs, zip.add() builder, codec injection points, no workers and no streams",
@@ -131532,6 +131820,18 @@
       "createdAt": "2026-08-12T12:46:30.174Z",
       "discoveredAt": "2026-08-12T12:49:35.533Z",
       "score": 68
+    },
+    {
+      "name": "zcode-agent",
+      "version": "1.0.0",
+      "description": "Cheap, verified execution for Claude Code and Codex: your orchestrator decides, GLM-5.3-Flash builds, tests and visually verifies in headless ZCode sessions (parallel sessions, subagents, dependency plans) and hands back a compact result. Uses your ZCode",
+      "license": "MIT",
+      "repository": "https://github.com/0xgeorgemathew/zcode-agent",
+      "npmUrl": "https://www.npmjs.com/package/zcode-agent",
+      "category": "testing",
+      "createdAt": "2026-10-18T02:30:19.780Z",
+      "discoveredAt": "2026-10-18T05:12:16.628Z",
+      "score": 100
     },
     {
       "name": "zcode-executor",
