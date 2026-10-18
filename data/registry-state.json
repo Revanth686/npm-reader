@@ -1,11 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 137565670,
-  "lastRunAt": "2026-10-17T01:11:24.478Z",
+  "lastSequence": 137715230,
+  "lastRunAt": "2026-10-18T00:45:56.117Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@sveltery/input-otp",
+      "name": "@agimon-ai/po-style-system-tooling",
+      "attempts": 1
+    },
+    {
+      "name": "@synchain/opentune-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@agimon-ai/po-workflow-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@agimon-ai/po-logsink",
+      "attempts": 1
+    },
+    {
+      "name": "@itsyuyi/dsh-approval-sound",
       "attempts": 1
     }
   ]

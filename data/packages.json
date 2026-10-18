@@ -41366,6 +41366,114 @@
       "score": 80
     },
     {
+      "name": "@misardev/cli",
+      "version": "1.0.0",
+      "description": "Misar.Dev from the terminal: every API route as a command — create, build and deploy projects, write files, manage domains and env vars, start from templates, search code, stream chat completions. Plan refusals render as an upgrade card.",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misardev-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40misardev%2Fcli",
+      "category": "frontend",
+      "createdAt": "2026-10-17T09:12:42.890Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
+      "name": "@misardev/mcp",
+      "version": "3.0.0",
+      "description": "MisarDev MCP server — create, build, deploy and roll back projects, manage custom domains, search your code and the web, and track plan usage from Claude, Cursor, VS Code, Windsurf and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misardev-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40misardev%2Fmcp",
+      "category": "frontend",
+      "createdAt": "2026-10-17T08:09:58.888Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
+      "name": "@misardev/sdk",
+      "version": "1.0.0",
+      "description": "Misar.Dev's API in TypeScript: create, build and deploy projects, manage files, domains, environment variables and collaborators, run templates, search code, stream OpenAI-compatible chat completions — every route generated from the live API, retries, typ",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misardev-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40misardev%2Fsdk",
+      "category": "frontend",
+      "createdAt": "2026-10-17T09:08:10.291Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
+      "name": "@misarpost/cli",
+      "version": "1.0.0",
+      "description": "MisarPost from the terminal: schedule and publish posts, generate and repurpose content with AI, research trends and read analytics — every MisarPost API endpoint as a command, with upgrade cards on plan limits.",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misarpost-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40misarpost%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-10-17T09:08:28.169Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 94
+    },
+    {
+      "name": "@misarpost/mcp",
+      "version": "3.0.0",
+      "description": "MisarPost MCP server — schedule and publish posts, generate drafts with AI, repurpose content across channels, and report on performance from Claude, Cursor, VS Code, Windsurf and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misarpost-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40misarpost%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-10-17T08:10:03.854Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 99
+    },
+    {
+      "name": "@misarpost/sdk",
+      "version": "1.0.0",
+      "description": "MisarPost's social publishing API in TypeScript: schedule and publish posts across every connected channel, generate and repurpose content with AI, research trends, run PersonaForge, read analytics — typed resources, retries, plan-limit upgrade offers, ES",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misarpost-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40misarpost%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-10-17T09:08:05.881Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
+      "name": "@misarseo/cli",
+      "version": "1.0.0",
+      "description": "MisarSEO from the terminal: every endpoint of the MisarSEO API (keyword research, site audits, rank tracking, backlinks, AI search visibility, Search Console, GA4) as a command, with plan-limit upgrade cards and live crawl progress.",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misarseo-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40misarseo%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-10-17T09:08:46.879Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 98
+    },
+    {
+      "name": "@misarseo/mcp",
+      "version": "1.0.0",
+      "description": "MisarSEO MCP server — research keywords, track rankings, audit sites, monitor backlinks, Search Console and AI-search visibility from Claude, Cursor, VS Code, Windsurf, and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misarseo-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40misarseo%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-10-17T08:10:08.907Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 98
+    },
+    {
+      "name": "@misarseo/sdk",
+      "version": "1.0.0",
+      "description": "MisarSEO's API in TypeScript: keyword research, site audits, rank tracking, backlinks, AI search visibility, Search Console, GA4 and Business Profile — 221 typed methods, retries, plan-limit errors with the upgrade offer, SSE crawl progress. Formerly @mis",
+      "license": "MIT",
+      "repository": "https://github.com/Misar-AI/misarseo-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40misarseo%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-10-17T09:08:12.375Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "@misofm/sdk",
       "version": "0.1.0",
       "description": "Typed query helpers and transaction builders for the Miso platform layer on Sui — pressings, listings, records, and opinionated work publishing.",
@@ -49248,6 +49356,18 @@
       "createdAt": "2026-08-07T08:08:18.019Z",
       "discoveredAt": "2026-08-07T08:48:04.179Z",
       "score": 68
+    },
+    {
+      "name": "@pdfluent/node-linux-arm64-musl",
+      "version": "1.1.0",
+      "description": "PDF SDK for Node.js — find and replace PDF text while preserving fonts and layout, plus rendering, text extraction, forms, annotations, redaction, encryption, and PDF/A compliance.",
+      "license": "SEE LICENSE IN LICENSE-OFFER",
+      "repository": "https://github.com/pdfluent/pdfluent-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40pdfluent%2Fnode-linux-arm64-musl",
+      "category": "backend",
+      "createdAt": "2026-10-17T13:36:22.180Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 94
     },
     {
       "name": "@peaui/ui",
@@ -66674,6 +66794,18 @@
       "score": 92
     },
     {
+      "name": "@vincentgloss/node-red-dashboard-2-ui-speed-dial",
+      "version": "1.0.0",
+      "description": "Floating action button (FAB) and speed dial menu for Node-RED FlowFuse Dashboard 2.0: row, menu list or radial circle, floating, in a group or in the header, with Material Design icons, badge counter and runtime control",
+      "license": "MIT",
+      "repository": "https://github.com/vincentgloss/node-red-dashboard-2-ui-speed-dial",
+      "npmUrl": "https://www.npmjs.com/package/%40vincentgloss%2Fnode-red-dashboard-2-ui-speed-dial",
+      "category": "frontend",
+      "createdAt": "2026-10-17T15:23:42.326Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "@vinihcrosa/gitlab-mcp",
       "version": "0.1.0",
       "description": "MCP server (stdio) — proxy fino sobre a REST API v4 de um GitLab CE self-hosted, focado em navegar MRs e deixar review inline.",
@@ -78230,6 +78362,18 @@
       "score": 96
     },
     {
+      "name": "canonical-beacon",
+      "version": "1.0.0",
+      "description": "Check canonical tags and hreflang clusters in your built static site: missing, multiple, relative or in-body canonicals, targets that are missing, noindex or chained, and hreflang codes, self-references, return links and x-default. Text/JSON/SARIF/Markdow",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/canonical-beacon",
+      "npmUrl": "https://www.npmjs.com/package/canonical-beacon",
+      "category": "utilities",
+      "createdAt": "2026-10-17T13:51:01.082Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "canvas-lms-mcp-local",
       "version": "1.0.0",
       "description": "Student-focused Canvas LMS MCP server: 209 tools for grades, deadlines, submissions and study planning. Runs locally over stdio.",
@@ -80148,6 +80292,18 @@
       "createdAt": "2026-07-31T00:18:32.043Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 62
+    },
+    {
+      "name": "claude-wingman",
+      "version": "1.0.0",
+      "description": "Use all your computers from one Claude Code session: hand work to Claude agents on your other Mac, Windows or Linux machines, over Tailscale. No SSH, one command to set up.",
+      "license": "MIT",
+      "repository": "https://github.com/dpkay-io/claude-wingman",
+      "npmUrl": "https://www.npmjs.com/package/claude-wingman",
+      "category": "testing",
+      "createdAt": "2026-10-17T18:32:40.379Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 97
     },
     {
       "name": "claude-x-jev",
@@ -84146,6 +84302,18 @@
       "score": 74
     },
     {
+      "name": "device-passport",
+      "version": "1.0.0",
+      "description": "Digital device passports for scrapers, bots and automation. 100% consistent, stateful browser personas with sticky hardware, correlated Client-Hints, and geo-aligned locales.",
+      "license": "MIT",
+      "repository": "https://github.com/webkubor/device-passport",
+      "npmUrl": "https://www.npmjs.com/package/device-passport",
+      "category": "testing",
+      "createdAt": "2026-10-17T14:59:34.607Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 97
+    },
+    {
       "name": "devin-plugin-cc",
       "version": "1.0.1",
       "description": "Devin plugin for Claude Code and Codex: AI code reviews, delegated coding tasks, Fusion sidekick workflows, and cloud handoffs to app.devin.ai.",
@@ -86450,6 +86618,18 @@
       "score": 94
     },
     {
+      "name": "dsh-knowledge-base-local",
+      "version": "1.2.0",
+      "description": "A local, model-readable knowledge-base plugin for DeepSeek Harness (DSH): Markdown-first storage, six agent tools, a CLI, a Web settings panel, PDF/Office text extraction, an MCP server for external clients, at-rest AES-256-GCM encryption and role-based m",
+      "license": "MIT",
+      "repository": "https://github.com/CodfishYao/dsh-knowledge-base-local",
+      "npmUrl": "https://www.npmjs.com/package/dsh-knowledge-base-local",
+      "category": "backend",
+      "createdAt": "2026-10-17T15:57:15.050Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "dsh-koboldcpp-hands",
       "version": "0.1.0",
       "description": "KoboldCpp for DeepSeek Harness - a tool plugin that lets the harness online model hand repetitive text and vision (OCR) labor to a local KoboldCpp (llama.cpp) server.",
@@ -87506,6 +87686,18 @@
       "score": 100
     },
     {
+      "name": "dsh-ppt-canvas",
+      "version": "1.0.0",
+      "description": "PowerPoint canvas for the DeepSeek Harness window: select shapes or a whole slide, describe the change in natural language, and the AI applies it to the .pptx as byte-preserving OOXML patches, with undo and redo.",
+      "license": "MIT",
+      "repository": "https://github.com/hg1048596-pixel/dsh-ppt-canvas",
+      "npmUrl": "https://www.npmjs.com/package/dsh-ppt-canvas",
+      "category": "utilities",
+      "createdAt": "2026-10-17T18:28:44.998Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "dsh-project-guard",
       "version": "1.0.1",
       "description": "Permission guard for DeepSeek Harness: work inside the workspace is never interrupted, and only the extra permission a call asks for is judged — machine-safe actions pass, system changes ask with a consequence analysis, destructive ones are refused.",
@@ -88452,6 +88644,18 @@
       "createdAt": "2026-09-17T00:27:10.183Z",
       "discoveredAt": "2026-09-17T04:39:58.228Z",
       "score": 88
+    },
+    {
+      "name": "dsh-workspace-recollection",
+      "version": "2.5.0",
+      "description": "给 DeepSeek Harness 的跨会话记忆：按工作区隔离、跨会话共享的长期记忆。常驻 prompt 的只有浅层要点，长文用段级引索定位到段、只取那一段，深层原文（当时的思考、命令、结论）留在本地向量库里按需取回。检索自带噪音过滤与时间通道，零联网（本地嵌入模型），不改动官方内核。",
+      "license": "MIT",
+      "repository": "https://github.com/reaxlll/dsh-workspace-recollection",
+      "npmUrl": "https://www.npmjs.com/package/dsh-workspace-recollection",
+      "category": "utilities",
+      "createdAt": "2026-10-17T10:21:49.538Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 94
     },
     {
       "name": "dsh-wsl-tool",
@@ -90324,6 +90528,18 @@
       "createdAt": "2026-07-27T11:04:40.015Z",
       "discoveredAt": "2026-07-27T12:54:15.214Z",
       "score": 78
+    },
+    {
+      "name": "express-did-you-mean",
+      "version": "1.0.1",
+      "description": "Lightweight, production-ready Express 404 middleware that suggests closest matching valid endpoints using Swagger/OpenAPI specs and Express router stack inspection.",
+      "license": "MIT",
+      "repository": "https://github.com/Eslam-Amin/express-did-you-mean",
+      "npmUrl": "https://www.npmjs.com/package/express-did-you-mean",
+      "category": "backend",
+      "createdAt": "2026-10-17T14:02:52.900Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 96
     },
     {
       "name": "express-error-tools",
@@ -94382,6 +94598,18 @@
       "score": 66
     },
     {
+      "name": "heading-beacon",
+      "version": "1.0.0",
+      "description": "Audit heading structure in your built static site: exactly one visible H1, no skipped levels, no empty, generic, duplicate, image-only or overlong headings, H1 vs title agreement and site-wide duplicate H1s. Text/JSON/SARIF/Markdown, allowlist with expiry",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/heading-beacon",
+      "npmUrl": "https://www.npmjs.com/package/heading-beacon",
+      "category": "utilities",
+      "createdAt": "2026-10-17T13:53:22.209Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 98
+    },
+    {
       "name": "headless-canvas",
       "version": "0.5.0",
       "description": "Headless, declarative React canvas for placing, moving, resizing, scaling and rotating positioned elements — zero visual styles, one pointer listener, geometric hit-testing. Your DOM stays yours.",
@@ -95616,6 +95844,18 @@
       "createdAt": "2026-07-26T14:41:15.355Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 64
+    },
+    {
+      "name": "hyper-second-brain",
+      "version": "1.0.0",
+      "description": "Agent skills that set up and look after a second brain: a vault of notes and documents (for example an Obsidian vault) that AI agents keep in order for you. Installs fourteen skills: hsb-init, hsb-doctor, hsb-update, hsb-place-an-item, hsb-projects, hsb-r",
+      "license": "MIT",
+      "repository": "https://github.com/jiemurat/hyper-second-brain",
+      "npmUrl": "https://www.npmjs.com/package/hyper-second-brain",
+      "category": "cli",
+      "createdAt": "2026-10-17T22:02:51.843Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
     },
     {
       "name": "hyperbolic-map",
@@ -102984,6 +103224,18 @@
       "createdAt": "2026-08-08T13:49:45.570Z",
       "discoveredAt": "2026-08-08T14:23:55.275Z",
       "score": 94
+    },
+    {
+      "name": "meta-beacon",
+      "version": "1.0.0",
+      "description": "Audit titles, meta descriptions, Open Graph and Twitter/X card tags across a built static site: presence, duplicates in the head, length, absolute URLs and real og:image files (dimensions, format, size). Text/JSON/SARIF/Markdown, allowlist with expiry, Gi",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/meta-beacon",
+      "npmUrl": "https://www.npmjs.com/package/meta-beacon",
+      "category": "data",
+      "createdAt": "2026-10-17T09:55:35.667Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
     },
     {
       "name": "meta-graph-cli",
@@ -113258,6 +113510,18 @@
       "score": 100
     },
     {
+      "name": "pkinative-mcp",
+      "version": "1.0.0",
+      "description": "Model Context Protocol (MCP) server for PKI: inspect and verify X.509 certificates, CSRs, CRLs, OCSP responses, CMS SignedData and RFC 3161 timestamps; build and validate certificate chains (RFC 5280 path validation, name and purpose checks, CRL and OCSP",
+      "license": "MIT",
+      "repository": "https://github.com/Nizoka/pkinative-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pkinative-mcp",
+      "category": "backend",
+      "createdAt": "2026-09-19T20:05:36.694Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "plaincloak",
       "version": "1.0.0",
       "description": "PlainCloak v1: paste-anywhere end-to-end encryption. TypeScript implementation for browsers and Node.",
@@ -114696,6 +114960,18 @@
       "createdAt": "2026-09-12T20:34:53.435Z",
       "discoveredAt": "2026-09-13T04:32:59.175Z",
       "score": 94
+    },
+    {
+      "name": "publish-gauge",
+      "version": "1.0.1",
+      "description": "Check what npm publish will actually ship before you publish: packs the tarball and verifies entry points, exports and bin targets exist and load, types resolve, no secrets or junk are included, and size stays within budget. Text/JSON/SARIF/Markdown, allo",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/publish-gauge",
+      "npmUrl": "https://www.npmjs.com/package/publish-gauge",
+      "category": "utilities",
+      "createdAt": "2026-10-17T09:52:14.846Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
     },
     {
       "name": "pueue-wait-cond",
@@ -119450,6 +119726,18 @@
       "score": 96
     },
     {
+      "name": "schema-beacon",
+      "version": "1.0.0",
+      "description": "Validate JSON-LD and microdata in a built static site against schema.org types and Google rich-result requirements: parse errors, unknown types, missing required/recommended properties, bad dates, prices, currencies, enums, durations, ratings and breadcru",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/schema-beacon",
+      "npmUrl": "https://www.npmjs.com/package/schema-beacon",
+      "category": "data",
+      "createdAt": "2026-10-17T09:57:07.777Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
+      "score": 100
+    },
+    {
       "name": "schema-fit",
       "version": "0.1.0",
       "description": "Rewrite a JSON Schema so a specific LLM provider accepts it, without ever widening what it allows.",
@@ -121103,6 +121391,18 @@
       "category": "data",
       "createdAt": "2026-07-29T01:42:22.697Z",
       "discoveredAt": "2026-07-29T01:51:35.570Z",
+      "score": 100
+    },
+    {
+      "name": "sitemap-beacon",
+      "version": "1.0.0",
+      "description": "Audit XML sitemaps against your built static site: size limits, invalid or other-host URLs, URLs that are missing, noindex or non-canonical, invalid/future/stale/uniform lastmod, and indexable pages missing from the sitemap. Text/JSON/SARIF/Markdown, allo",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/sitemap-beacon",
+      "npmUrl": "https://www.npmjs.com/package/sitemap-beacon",
+      "category": "data",
+      "createdAt": "2026-10-17T09:59:38.784Z",
+      "discoveredAt": "2026-10-18T00:45:56.117Z",
       "score": 100
     },
     {
