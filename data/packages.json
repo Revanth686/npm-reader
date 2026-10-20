@@ -3806,6 +3806,18 @@
       "score": 69
     },
     {
+      "name": "@allratestoday/cbic-exchange-rate",
+      "version": "1.3.16",
+      "description": "Official Central Board of Indirect Taxes and Customs (CBIC) (India) fortnightly exchange rates — 22 currencies vs INR, history since 2020. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/cbic-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fcbic-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-10-19T22:36:40.819Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 98
+    },
+    {
       "name": "@allratestoday/cbj-exchange-rate",
       "version": "1.2.6",
       "description": "Official Central Bank of Jordan (Jordan) daily exchange rates — 5 currencies vs JOD, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
@@ -22356,6 +22368,54 @@
       "createdAt": "2026-10-16T19:40:16.810Z",
       "discoveredAt": "2026-10-17T01:11:24.478Z",
       "score": 93
+    },
+    {
+      "name": "@fxfunds/deposit-withdrawal-guide",
+      "version": "1.0.0",
+      "description": "Deposit and withdrawal tracking bot — request validation, status flow, plain-language status guide, audit trail and reconciliation for USDT (ERC20, TRC20, TON), bank and card payments. Built by FXFunds.",
+      "license": "MIT",
+      "repository": "https://github.com/FXFunds/fxfunds-deposit-withdrawal-guide",
+      "npmUrl": "https://www.npmjs.com/package/%40fxfunds%2Fdeposit-withdrawal-guide",
+      "category": "devops",
+      "createdAt": "2026-10-19T05:26:15.135Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
+      "name": "@fxfunds/platform-faq",
+      "version": "1.0.0",
+      "description": "FXFunds Platform FAQ as an offline library and CLI — search factual answers about the FXFunds platform, each labelled with its verification status, source and last-checked date.",
+      "license": "MIT",
+      "repository": "https://github.com/FXFunds/fxfunds-platform-faq",
+      "npmUrl": "https://www.npmjs.com/package/%40fxfunds%2Fplatform-faq",
+      "category": "data",
+      "createdAt": "2026-10-19T08:03:44.770Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 97
+    },
+    {
+      "name": "@fxfunds/risk-disclosures",
+      "version": "1.0.0",
+      "description": "FXFunds Risk Disclosure Bot — an offline library and CLI that explains trading, leverage, crypto and account-security risks and shows which official FXFunds risk disclosures and legal documents have been located.",
+      "license": "MIT",
+      "repository": "https://github.com/FXFunds/fxfunds-risk-disclosures",
+      "npmUrl": "https://www.npmjs.com/package/%40fxfunds%2Frisk-disclosures",
+      "category": "cli",
+      "createdAt": "2026-10-19T10:49:45.394Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
+      "name": "@fxfunds/stablecoin-payments",
+      "version": "1.0.0",
+      "description": "Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON — payment matching, confirmation tracking, duplicate detection and payment ledger. Built by FXFunds.",
+      "license": "MIT",
+      "repository": "https://github.com/FXFunds/fxfunds-stablecoin-payments",
+      "npmUrl": "https://www.npmjs.com/package/%40fxfunds%2Fstablecoin-payments",
+      "category": "utilities",
+      "createdAt": "2026-10-19T03:48:56.448Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 97
     },
     {
       "name": "@fxone/prop-flow",
@@ -45746,6 +45806,30 @@
       "score": 83
     },
     {
+      "name": "@nizam-os/ban-core",
+      "version": "1.0.0",
+      "description": "Structured, extensible HTTP errors for any JavaScript runtime. One API, any wire format: RFC 9457 Problem Details, JSON:API, Google API (AIP-193), Stripe, or your own. Framework-free; @nizam-os/hono-ban is the Hono adapter.",
+      "license": "MIT",
+      "repository": "https://github.com/nizam-os/kit-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40nizam-os%2Fban-core",
+      "category": "backend",
+      "createdAt": "2026-10-19T09:15:44.764Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
+      "name": "@nizam-os/hono-ban",
+      "version": "2.0.0",
+      "description": "Structured, extensible HTTP errors for Hono, built on @nizam-os/ban-core. One API, any wire format: RFC 9457 Problem Details, JSON:API, Google API (AIP-193), Stripe, or your own.",
+      "license": "MIT",
+      "repository": "https://github.com/nizam-os/kit-ts",
+      "npmUrl": "https://www.npmjs.com/package/%40nizam-os%2Fhono-ban",
+      "category": "backend",
+      "createdAt": "2026-10-19T09:16:08.039Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 97
+    },
+    {
       "name": "@nklisch/pi-model-modes",
       "version": "0.3.1",
       "description": "A pi extension that adapts the system prompt per model/mode.",
@@ -67334,6 +67418,18 @@
       "score": 83
     },
     {
+      "name": "@vobiz/mcp",
+      "version": "1.1.4",
+      "description": "Official Vobiz MCP server: voice calls, in-call control, VobizXML IVRs, call records, recordings, phone numbers, SIP trunks, SMS/MMS/RCS and the Vobiz Agent Skills for Claude and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/vobiz-ai/Vobiz-MCP-Server",
+      "npmUrl": "https://www.npmjs.com/package/%40vobiz%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-10-19T05:36:26.660Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 99
+    },
+    {
       "name": "@vodailocz/kilo-kit-mcp",
       "version": "1.9.0",
       "description": "MCP server for safer coding agents with skill routing, C4 workflow gates, memory checks, and verification.",
@@ -69384,6 +69480,18 @@
       "createdAt": "2026-09-16T12:41:11.859Z",
       "discoveredAt": "2026-09-16T16:40:45.878Z",
       "score": 93
+    },
+    {
+      "name": "@x12i/document-acquisition",
+      "version": "2.2.1",
+      "description": "Turns office, web, text, email, EPUB, image, RTF, and structured JSON or XML bytes into the CanonicalDocument accepted by @x12i/document-normalizer. In-process and offline.",
+      "license": "MIT",
+      "repository": "https://github.com/x12i/document-normalizer",
+      "npmUrl": "https://www.npmjs.com/package/%40x12i%2Fdocument-acquisition",
+      "category": "data",
+      "createdAt": "2026-10-19T09:52:48.470Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 97
     },
     {
       "name": "@x12i/memorix-abstracts",
@@ -71988,6 +72096,18 @@
       "createdAt": "2026-08-04T20:21:13.048Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 76
+    },
+    {
+      "name": "a11y-warden",
+      "version": "1.0.0",
+      "description": "WCAG 2.2 accessibility audit of static HTML for CI: alt text, form labels, button/link names, inline colour contrast, lang, title, landmarks, ARIA roles/references, aria-hidden focus traps, tabindex, iframe titles, zoom and autoplay, with a baseline file.",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/a11y-warden",
+      "npmUrl": "https://www.npmjs.com/package/a11y-warden",
+      "category": "data",
+      "createdAt": "2026-10-19T18:49:22.514Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
     },
     {
       "name": "a11ydriver-mcp",
@@ -74868,6 +74988,18 @@
       "createdAt": "2026-09-01T06:43:51.211Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
       "score": 88
+    },
+    {
+      "name": "answer-beacon",
+      "version": "1.0.0",
+      "description": "Check your built static site is ready for answer engines (AEO): question headings with concise direct answers, FAQPage/QAPage/HowTo schema, llms.txt, AI crawler rules in robots.txt (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) and meta tags, and aut",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/answer-beacon",
+      "npmUrl": "https://www.npmjs.com/package/answer-beacon",
+      "category": "devops",
+      "createdAt": "2026-10-19T18:46:24.532Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
     },
     {
       "name": "answer-first",
@@ -79154,6 +79286,18 @@
       "score": 69
     },
     {
+      "name": "cbic-exchange-rate",
+      "version": "1.3.16",
+      "description": "Official Central Board of Indirect Taxes and Customs (CBIC) (India) fortnightly exchange rates — 22 currencies vs INR, history since 2020. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/cbic-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/cbic-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-10-19T22:36:37.976Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 98
+    },
+    {
       "name": "cbj-exchange-rate",
       "version": "1.2.6",
       "description": "Official Central Bank of Jordan (Jordan) daily exchange rates — 5 currencies vs JOD, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
@@ -81984,6 +82128,18 @@
       "createdAt": "2026-08-02T13:13:01.390Z",
       "discoveredAt": "2026-08-02T14:55:20.034Z",
       "score": 90
+    },
+    {
+      "name": "consent-warden",
+      "version": "1.0.0",
+      "description": "Check cookie-banner consent behaviour in your built site: trackers and embeds that load before opt-in, missing banner, Consent Mode defaults, missing or less prominent Reject, pre-ticked boxes, implied consent and no way to withdraw. GDPR/PECR. SARIF, all",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/consent-warden",
+      "npmUrl": "https://www.npmjs.com/package/consent-warden",
+      "category": "utilities",
+      "createdAt": "2026-10-19T19:01:00.877Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
     },
     {
       "name": "considered",
@@ -88322,6 +88478,18 @@
       "score": 73
     },
     {
+      "name": "dsh-rustvy",
+      "version": "1.0.0",
+      "description": "Rustvy for DeepSeek Harness: vendor marks in the model picker, and a model list kept in step with what the provider actually serves — the host half mirrors the catalog and logos to loopback and regenerates the pi-ai route's models from the route's own end",
+      "license": "MIT",
+      "repository": "https://github.com/koliy82/dsh-rustvy",
+      "npmUrl": "https://www.npmjs.com/package/dsh-rustvy",
+      "category": "utilities",
+      "createdAt": "2026-10-19T01:39:51.181Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
       "name": "dsh-science",
       "version": "0.1.1",
       "description": "Claude Science-style research workbench for DeepSeek Harness: ReAct research-loop engine (research_* tools), versioned artifacts with provenance (artifact_* tools), and 10 science skills for genomics / pathogens / bioinformatics.",
@@ -89078,6 +89246,18 @@
       "score": 88
     },
     {
+      "name": "dsh-windows-notification",
+      "version": "1.3.0",
+      "description": "Native Windows toast notifications for DeepSeek Harness: smart turn-complete/error summaries, approval actions and agent-question options under the DSH desktop app identity, with a demo option and a settings page for both runtimes.",
+      "license": "MIT",
+      "repository": "https://github.com/zhangyuzhangyu233/dsh-windows-notification",
+      "npmUrl": "https://www.npmjs.com/package/dsh-windows-notification",
+      "category": "utilities",
+      "createdAt": "2026-10-20T00:53:33.894Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
       "name": "dsh-winstage-sandbox",
       "version": "1.0.0",
       "description": "DeepSeek Harness (DSH) plugin: WinStage staging–candidate–selective-commit sandbox for Windows. AI changes land in a staging tree (files + registry); a review panel shows the diff and only approved changes are written to the real workspace.",
@@ -89268,6 +89448,18 @@
       "createdAt": "2026-09-12T17:35:52.795Z",
       "discoveredAt": "2026-09-13T04:32:59.175Z",
       "score": 86
+    },
+    {
+      "name": "duplicate-beacon",
+      "version": "1.0.0",
+      "description": "Detect duplicate and near-duplicate content across your built static site: identical or near-identical titles, meta descriptions and page bodies (shingles + MinHash), site-name-only title differences and boilerplate-heavy pages. Text/JSON/SARIF/Markdown,",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/duplicate-beacon",
+      "npmUrl": "https://www.npmjs.com/package/duplicate-beacon",
+      "category": "utilities",
+      "createdAt": "2026-10-19T18:43:18.670Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 97
     },
     {
       "name": "dwarf-fortress-agent-skill",
@@ -94322,6 +94514,18 @@
       "score": 90
     },
     {
+      "name": "gpc-warden",
+      "version": "1.0.0",
+      "description": "Check your built site honours Global Privacy Control: code reading navigator.globalPrivacyControl / Sec-GPC, sale/share advertising trackers that load unconditionally, /.well-known/gpc.json validity and policy disclosure. CCPA/CPRA, Colorado, Connecticut.",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/gpc-warden",
+      "npmUrl": "https://www.npmjs.com/package/gpc-warden",
+      "category": "utilities",
+      "createdAt": "2026-10-19T19:03:58.136Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 97
+    },
+    {
       "name": "grab-url-cli",
       "version": "1.0.0",
       "description": "The grab-url transfer CLI: resumable HTTP/SFTP downloads, torrents and magnets via aria2c, 700+ media sites via yt-dlp, and whole-page archiving. Ships as its own package so importing grab-url stays a 5kB library.",
@@ -96758,6 +96962,18 @@
       "score": 67
     },
     {
+      "name": "index-beacon",
+      "version": "1.0.0",
+      "description": "Check indexability of your built static site: meta robots and X-Robots-Tag (noindex, nofollow, none, unavailable_after, nosnippet) against your intended indexing rules, site-wide noindex leaks, conflicts and malformed directives. Text/JSON/SARIF/Markdown,",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/index-beacon",
+      "npmUrl": "https://www.npmjs.com/package/index-beacon",
+      "category": "data",
+      "createdAt": "2026-10-19T18:27:59.353Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
       "name": "index-squarespace",
       "version": "0.1.0",
       "description": "Build, patch, and verify LZString-compressed static-index files for the Squarespace Custom Filter plugin's customIndexUrl, so a large filterable directory loads from one cached file instead of hundreds of paginated live requests",
@@ -96936,6 +97152,18 @@
       "createdAt": "2026-08-10T00:18:29.192Z",
       "discoveredAt": "2026-08-10T03:45:20.247Z",
       "score": 71
+    },
+    {
+      "name": "innli-stays",
+      "version": "2.0.0",
+      "description": "Self-hosted MCP + REST server that lets AI agents search, quote and request bookings at B&Bs and small hotels, from facts the owner confirmed. Unknown stays unknown.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/laaielichter/innli-stays",
+      "npmUrl": "https://www.npmjs.com/package/innli-stays",
+      "category": "backend",
+      "createdAt": "2026-10-19T15:52:16.830Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 96
     },
     {
       "name": "inquirex-widget",
@@ -110534,6 +110762,18 @@
       "score": 94
     },
     {
+      "name": "orphan-beacon",
+      "version": "1.0.0",
+      "description": "Find orphan pages in your built static site and measure click depth from the homepage: pages with no internal inbound links, unreachable clusters, nofollow-only or noindex-only links, pages too deep, dead ends. Text/JSON/SARIF/Markdown, allowlist with exp",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/orphan-beacon",
+      "npmUrl": "https://www.npmjs.com/package/orphan-beacon",
+      "category": "cli",
+      "createdAt": "2026-10-19T18:31:43.725Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 98
+    },
+    {
       "name": "orvix-cli",
       "version": "0.2.0",
       "description": "Semantic code map for AI agents — index a codebase once, address every symbol by a short code, read only what you need.",
@@ -113306,6 +113546,18 @@
       "score": 70
     },
     {
+      "name": "pi-request-stats",
+      "version": "1.0.0",
+      "description": "Pi extension reporting per-request time split into thinking/answer/tool-call generation vs tool execution, per-phase tokens-per-second, compaction counts, and estimated request cost.",
+      "license": "MIT",
+      "repository": "https://github.com/dusklight/pi-request-stats",
+      "npmUrl": "https://www.npmjs.com/package/pi-request-stats",
+      "category": "devops",
+      "createdAt": "2026-10-19T03:00:45.765Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 98
+    },
+    {
       "name": "pi-router-pintar",
       "version": "0.16.1",
       "description": "Fork of beettlle/pi-smart-router (Translate: pi-router-pintar). Auto-model router middleware for pi. Adds reliable loop-escalation failure detection via is_error/status and classifies gpt-5.5+ as frontier-cloud.",
@@ -114468,6 +114720,18 @@
       "createdAt": "2026-08-05T20:39:56.307Z",
       "discoveredAt": "2026-08-05T20:59:00.670Z",
       "score": 59
+    },
+    {
+      "name": "policy-drift-warden",
+      "version": "1.0.0",
+      "description": "Compare the trackers and third parties your built site actually loads with what its privacy policy declares: undisclosed vendors and categories, undisclosed sale/sharing for ads, stale vendors, missing or old update dates, pages not linking the policy. SA",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/policy-drift-warden",
+      "npmUrl": "https://www.npmjs.com/package/policy-drift-warden",
+      "category": "utilities",
+      "createdAt": "2026-10-19T18:56:19.331Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
     },
     {
       "name": "poliety-mcp",
@@ -126014,6 +126278,18 @@
       "score": 82
     },
     {
+      "name": "testid-scan",
+      "version": "1.0.0",
+      "description": "Static scanner for Angular templates, React components and Vue single-file components: shows which elements a UI test can find by role and accessible name, and which ones need a test ID.",
+      "license": "MIT",
+      "repository": "https://github.com/GITHUB_OWNER/testid-scan",
+      "npmUrl": "https://www.npmjs.com/package/testid-scan",
+      "category": "testing",
+      "createdAt": "2026-10-19T17:44:08.165Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 98
+    },
+    {
       "name": "testtrace",
       "version": "0.3.0",
       "description": "Ground-truth UI element locators for AI coding assistants, plus a Locator Risk Score that flags which locators are likely to break your tests. Local CLI + MCP server, no hosting required.",
@@ -127022,6 +127298,18 @@
       "score": 79
     },
     {
+      "name": "tracker-warden",
+      "version": "1.0.0",
+      "description": "Inventory the third-party trackers, pixels and SDKs on your built static site: 45 known vendors with company and category (advertising, analytics, session replay, social, tag managers), unknown domains, tracking pixels, approved-vendor gate, JSON/CSV inve",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/tracker-warden",
+      "npmUrl": "https://www.npmjs.com/package/tracker-warden",
+      "category": "frontend",
+      "createdAt": "2026-10-19T18:52:29.745Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 100
+    },
+    {
       "name": "trad-skill",
       "version": "1.4.0",
       "description": "Installable TradingAgents multi-agent stock-analysis skill (Claude Code / Cursor / Windsurf / Trae / OpenCode via vercel-labs/skills)",
@@ -127848,6 +128136,18 @@
       "createdAt": "2026-08-12T03:09:36.605Z",
       "discoveredAt": "2026-08-12T03:57:46.727Z",
       "score": 68
+    },
+    {
+      "name": "ui-figma-roblox",
+      "version": "1.0.0",
+      "description": "Installer for the ui-figma-roblox Agent Skill - stud-style Roblox UI design in Figma for Claude Code, OpenCode, Codex/ChatGPT, Cursor, Gemini CLI and more.",
+      "license": "MIT",
+      "repository": "https://github.com/grim-technologies-arch/ui-figma-roblox",
+      "npmUrl": "https://www.npmjs.com/package/ui-figma-roblox",
+      "category": "cli",
+      "createdAt": "2026-10-19T11:23:24.613Z",
+      "discoveredAt": "2026-10-20T01:39:22.905Z",
+      "score": 95
     },
     {
       "name": "ui-picker",

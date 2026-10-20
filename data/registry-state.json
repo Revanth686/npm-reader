@@ -1,15 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 137869535,
-  "lastRunAt": "2026-10-19T00:59:12.161Z",
+  "lastSequence": 138144739,
+  "lastRunAt": "2026-10-20T01:39:22.905Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@go2business/app-tools",
+      "name": "@deterministic-code/generators-common",
       "attempts": 1
     },
     {
-      "name": "@dotrino/ai",
+      "name": "@jeftelabs/exception",
+      "attempts": 1
+    },
+    {
+      "name": "@arthurferreira-dev/quarkjs",
       "attempts": 1
     }
   ]
