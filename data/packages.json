@@ -3950,6 +3950,18 @@
       "score": 92
     },
     {
+      "name": "@allratestoday/central-bank-of-iran-exchange-rate",
+      "version": "1.3.16",
+      "description": "Official Central Bank of Iran (Iran) daily exchange rates — 47 currencies vs IRR, history since 2002. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/central-bank-of-iran-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fcentral-bank-of-iran-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-10-20T19:56:07.140Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 94
+    },
+    {
       "name": "@allratestoday/central-bank-of-iraq-exchange-rate",
       "version": "1.2.7",
       "description": "Official Central Bank of Iraq (Iraq) daily exchange rates — 18 currencies vs IQD, history since 2009. Zero-dependency Node.js/TypeScript client.",
@@ -10092,6 +10104,18 @@
       "createdAt": "2026-07-26T10:57:32.474Z",
       "discoveredAt": "2026-07-26T13:02:31.051Z",
       "score": 54
+    },
+    {
+      "name": "@bugsplat/electron",
+      "version": "1.0.0",
+      "description": "BugSplat crash and error reporting for Electron: native crashes, JavaScript errors, hangs and OOMs from one init()",
+      "license": "MIT",
+      "repository": "https://github.com/BugSplat-Git/bugsplat-electron",
+      "npmUrl": "https://www.npmjs.com/package/%40bugsplat%2Felectron",
+      "category": "utilities",
+      "createdAt": "2026-10-20T09:51:24.036Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 91
     },
     {
       "name": "@buildaharness/aielia",
@@ -30326,6 +30350,18 @@
       "score": 87
     },
     {
+      "name": "@hoyasumii/skill-icons",
+      "version": "26.10.2",
+      "description": "370+ tech, language and tool icons with dark and light themes, as lazy-loaded SVG components for React, Vue, Svelte, Angular, Solid, Astro and Web Components.",
+      "license": "MIT",
+      "repository": "https://github.com/Hoyasumii/skill-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40hoyasumii%2Fskill-icons",
+      "category": "frontend",
+      "createdAt": "2026-10-04T08:15:53.163Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 91
+    },
+    {
       "name": "@hpcc-js/vite-plugins",
       "version": "1.1.0",
       "description": "Various vite plugins",
@@ -45842,6 +45878,18 @@
       "score": 60
     },
     {
+      "name": "@nlabs/braces",
+      "version": "3.0.4",
+      "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
+      "license": "MIT",
+      "repository": "https://github.com/micromatch/braces",
+      "npmUrl": "https://www.npmjs.com/package/%40nlabs%2Fbraces",
+      "category": "devops",
+      "createdAt": "2026-10-20T21:44:35.352Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 98
+    },
+    {
       "name": "@nlabs/gothamui",
       "version": "1.8.0",
       "description": "React 19 UI framework with accessible components, routing, forms, i18n, responsive navigation, and Tailwind CSS v4 theming.",
@@ -45852,6 +45900,18 @@
       "createdAt": "2026-09-12T18:35:17.037Z",
       "discoveredAt": "2026-09-13T04:32:59.175Z",
       "score": 92
+    },
+    {
+      "name": "@nlabs/node-forge",
+      "version": "1.4.1",
+      "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
+      "license": "(BSD-3-Clause OR GPL-2.0)",
+      "repository": "https://github.com/digitalbazaar/forge",
+      "npmUrl": "https://www.npmjs.com/package/%40nlabs%2Fnode-forge",
+      "category": "backend",
+      "createdAt": "2026-10-20T21:44:35.411Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 91
     },
     {
       "name": "@no-throw/cli",
@@ -56918,6 +56978,18 @@
       "score": 82
     },
     {
+      "name": "@selzerey/zoro-icons",
+      "version": "1.0.0",
+      "description": "Consistent, verified SVG icons: lint any icon set (grid, padding, strokes, colours, pixel alignment, safety, animation), optimize safely, render contact sheets, build React/Vue/web-component/sprite packages, and generate favicons and iOS/Android app icons",
+      "license": "MIT",
+      "repository": "https://github.com/selzerey/zoro-icons",
+      "npmUrl": "https://www.npmjs.com/package/%40selzerey%2Fzoro-icons",
+      "category": "frontend",
+      "createdAt": "2026-10-20T12:11:46.326Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 100
+    },
+    {
       "name": "@sema-agent/settings-schema",
       "version": "1.1.0",
       "description": "Sema settings schema — pure config contract (zod domains + effective-config + roster resolution + ref-integrity + remoteExec) shared by sema-registry, sema-server, and the TOC desktop/CLI. One source of truth. (Renamed at 1.0.0 from @sema-agent/registry-c",
@@ -60278,6 +60350,18 @@
       "score": 100
     },
     {
+      "name": "@starpi/companion",
+      "version": "3.0.0",
+      "description": "Starpi Core, the local companion: a loopback service on your own machine that keeps notes, chats and secrets sealed at rest, signs every answer into a tamper-evident audit chain, talks to language models only through an explicit egress list, and pairs wit",
+      "license": "MIT",
+      "repository": "https://github.com/umutcantezgel-cpu/Starpi",
+      "npmUrl": "https://www.npmjs.com/package/%40starpi%2Fcompanion",
+      "category": "devops",
+      "createdAt": "2026-10-20T18:10:05.797Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 94
+    },
+    {
       "name": "@startstorez/portal-sdk",
       "version": "0.1.0",
       "description": "Server SDK and React widget for StartStorez Apps Portal — report installs, fire events, read plan limits, and render in-app popups. Fails open by design.",
@@ -61356,6 +61440,18 @@
       "createdAt": "2026-07-31T23:36:52.019Z",
       "discoveredAt": "2026-08-01T02:02:35.924Z",
       "score": 80
+    },
+    {
+      "name": "@synapticforge1/binaryang",
+      "version": "1.13.1",
+      "description": "WebAssembly toolchain in TypeScript: Binaryen and WABT ported (wasm-opt, wat2wasm, wasm2wat, wasm-validate, wasm-interp, …), as a library and a CLI. Also on JSR as @jrmarcum/binaryang.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/synapticforge1/binaryang",
+      "npmUrl": "https://www.npmjs.com/package/%40synapticforge1%2Fbinaryang",
+      "category": "build-tools",
+      "createdAt": "2026-10-21T00:16:40.837Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 92
     },
     {
       "name": "@syncafricabs/kernspark-adonisjs",
@@ -70658,6 +70754,18 @@
       "score": 84
     },
     {
+      "name": "@yuehancn/dsh-tool-browser",
+      "version": "1.0.0",
+      "description": "Browser tools for DeepSeek Harness: open a page, wait for it the way it actually needs, pull out the readable article, and take a screenshot. Uses Playwright when it is installed and falls back to a static fetch that says so, so an unrendered page is neve",
+      "license": "MIT",
+      "repository": "https://github.com/yuehancn/dsh-tool-browser",
+      "npmUrl": "https://www.npmjs.com/package/%40yuehancn%2Fdsh-tool-browser",
+      "category": "testing",
+      "createdAt": "2026-10-20T04:52:19.899Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 94
+    },
+    {
       "name": "@yuelinghuashu/story-cli",
       "version": "1.0.0",
       "description": "A zero-deploy, Git-native content management CLI for Markdown stories. Manage stories with directory conventions, generate READMEs, export epub.",
@@ -72732,6 +72840,18 @@
       "createdAt": "2026-08-07T13:51:52.594Z",
       "discoveredAt": "2026-08-07T13:59:25.856Z",
       "score": 75
+    },
+    {
+      "name": "aftertaste",
+      "version": "1.0.0",
+      "description": "Find what your AI coding agent left behind: hallucinated packages, leaked keys, truncated code, mocked stubs and other residue.",
+      "license": "MIT",
+      "repository": "https://github.com/WiseeCarrot/aftertaste",
+      "npmUrl": "https://www.npmjs.com/package/aftertaste",
+      "category": "cli",
+      "createdAt": "2026-10-20T23:19:21.252Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 92
     },
     {
       "name": "agenda-views",
@@ -79562,6 +79682,18 @@
       "score": 92
     },
     {
+      "name": "central-bank-of-iran-exchange-rate",
+      "version": "1.3.16",
+      "description": "Official Central Bank of Iran (Iran) daily exchange rates — 47 currencies vs IRR, history since 2002. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/central-bank-of-iran-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/central-bank-of-iran-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-10-20T21:53:19.324Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 94
+    },
+    {
       "name": "central-bank-of-iraq-exchange-rate",
       "version": "1.2.7",
       "description": "Official Central Bank of Iraq (Iraq) daily exchange rates — 18 currencies vs IQD, history since 2009. Zero-dependency Node.js/TypeScript client.",
@@ -85274,6 +85406,18 @@
       "score": 74
     },
     {
+      "name": "dmk-loading",
+      "version": "1.0.0",
+      "description": "框架无关的过渡动画加载库。装完即用，页面零 import：请求前后调 openLoading()/closeLoading() 即可，遮罩的显示、定位、并发计数、防闪烁全部由库内部接管。core 纯 TS 零运行时依赖，Vue/React/UniApp/鸿蒙 共享同一套逻辑。",
+      "license": "MIT",
+      "repository": "https://github.com/DuanMK/dmk-loading",
+      "npmUrl": "https://www.npmjs.com/package/dmk-loading",
+      "category": "frontend",
+      "createdAt": "2026-10-20T08:09:55.230Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 93
+    },
+    {
       "name": "docfill-sdk",
       "version": "1.1.2",
       "description": "Framework-agnostic SDK that turns any tagged web form into a QR-driven autofill target backed by the DocFill PWA + Supabase.",
@@ -85463,6 +85607,18 @@
       "category": "cli",
       "createdAt": "2026-09-29T02:56:20.847Z",
       "discoveredAt": "2026-09-30T01:55:04.164Z",
+      "score": 100
+    },
+    {
+      "name": "docx-thai-cleaner",
+      "version": "1.0.0",
+      "description": "Production-grade Thai text sanitizer for .docx / OpenXML pipelines: strips leaked HTML tags, removes zero-width characters, applies NFC normalization, repairs floating vowels and tone-mark stacking order, and produces OpenXML-safe output.",
+      "license": "MIT",
+      "repository": "https://github.com/Chevy00154/docx-thai-cleaner",
+      "npmUrl": "https://www.npmjs.com/package/docx-thai-cleaner",
+      "category": "data",
+      "createdAt": "2026-10-20T15:46:48.873Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
       "score": 100
     },
     {
@@ -89102,6 +89258,18 @@
       "score": 100
     },
     {
+      "name": "dsh-vk1-balance-pet-enhanced",
+      "version": "1.8.2",
+      "description": "DSH Balance Pet Enhanced —— 把 macOS 原生桌宠（大肥鱼 / GPT龙娘 / 大小姐Claude / 北美猫娘Gemini / 白月光Kimi）改写为 DSH Web 插件。余额显示在角色手持的平板里；「DSH 账户余额」与手动 DeepSeek API Key 是两条独立来源（分开缓存 / 显示 / 自检）；来源覆盖所有「用 API key 就能自动查到」的厂商（金额 + 订阅额度，只列已配凭据的）；每轮结束弹「喜报」显示本轮消耗；累计计费可结算为全屏证书，未收录 / 未",
+      "license": "MIT",
+      "repository": "https://github.com/TsukiKenga/dsh-vk1-balance-pet-enhanced",
+      "npmUrl": "https://www.npmjs.com/package/dsh-vk1-balance-pet-enhanced",
+      "category": "backend",
+      "createdAt": "2026-10-20T18:48:35.624Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 96
+    },
+    {
       "name": "dsh-voice-input-plugin",
       "version": "0.1.0",
       "description": "Voice input for DeepSeek Harness Web UI: a mic button in the composer tool row that uses the browser's Web Speech API (Chrome/Edge) to transcribe speech directly into the message draft. Zero dependencies, no API keys.",
@@ -89208,6 +89376,18 @@
       "createdAt": "2026-08-15T07:30:48.309Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 63
+    },
+    {
+      "name": "dsh-whale-particles-bg",
+      "version": "1.0.0",
+      "description": "Animated whale particle background for the DeepSeek Harness (dsh) Web UI: the WHALE-silhouette particle field with pointer repulsion plus the official dot-grid layer, registered into the frame-wide shell.overlay seat.",
+      "license": "MIT",
+      "repository": "https://github.com/kviiinh/dsh-whale-particles-bg",
+      "npmUrl": "https://www.npmjs.com/package/dsh-whale-particles-bg",
+      "category": "cli",
+      "createdAt": "2026-10-20T12:25:08.915Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 94
     },
     {
       "name": "dsh-widgets",
@@ -91598,6 +91778,18 @@
       "score": 100
     },
     {
+      "name": "farsi-mock",
+      "version": "2.0.0",
+      "description": "Realistic, algorithmically valid Iranian test data (Faker for Iran): کد ملی, Sheba, cards, mobiles, addresses, toman prices, Jalali dates. Schema inference from Prisma/Zod/Mongoose/OpenAPI, SQL/Mongo/TS output, seed helpers, mock API and MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/amirjld/farsi-mock",
+      "npmUrl": "https://www.npmjs.com/package/farsi-mock",
+      "category": "testing",
+      "createdAt": "2026-10-20T23:09:17.226Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 100
+    },
+    {
       "name": "fast-financial-charts",
       "version": "1.5.1",
       "description": "WebGL2 financial charts for the web: 90 indicators, drawings, multi-pane layouts, live tick streaming, and an MCP tool surface for AI agents. Headless, MIT licensed, and battle-tested in the Pairlens trading terminal.",
@@ -93240,6 +93432,18 @@
       "createdAt": "2026-10-11T12:46:13.876Z",
       "discoveredAt": "2026-10-12T02:11:38.737Z",
       "score": 97
+    },
+    {
+      "name": "gameface-mcp",
+      "version": "1.2.0",
+      "description": "MCP server for driving and validating Coherent Gameface UI development over the Chrome DevTools Protocol: launch/connect to Gameface Player, inspect and interact with the DOM, run layout and performance assertions, and search Gameface documentation.",
+      "license": "MIT",
+      "repository": "https://github.com/CoherentLabs/Gameface-MCP",
+      "npmUrl": "https://www.npmjs.com/package/gameface-mcp",
+      "category": "frontend",
+      "createdAt": "2026-10-20T12:44:00.249Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 96
     },
     {
       "name": "gaokao-vocab-app",
@@ -115814,6 +116018,18 @@
       "score": 92
     },
     {
+      "name": "punani-powerd",
+      "version": "1.0.0",
+      "description": "Punani powerd by Naga Codex - a terminal and browser AI coding agent with multi-provider model support, permissions, diffs and live preview",
+      "license": "MIT",
+      "repository": "https://github.com/Nagacash/Punani-Power-Agent",
+      "npmUrl": "https://www.npmjs.com/package/punani-powerd",
+      "category": "frontend",
+      "createdAt": "2026-10-20T23:21:19.632Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 93
+    },
+    {
       "name": "punchcard-presence",
       "version": "1.0.0",
       "description": "Punchcard Discord Rich Presence and local AI usage tracking for Claude Code and Codex",
@@ -116978,6 +117194,18 @@
       "score": 88
     },
     {
+      "name": "react-native-alpha-video-ffmpegkit",
+      "version": "1.0.0",
+      "description": "Transparent video for React Native: VP9 WebM with alpha on iOS and Android, decoded by FFmpegKit from plain Java and Swift, drawn with Metal / OpenGL ES or as bitmaps. Falls back to <video> on the web.",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/alpha-video-ffmpegkit",
+      "npmUrl": "https://www.npmjs.com/package/react-native-alpha-video-ffmpegkit",
+      "category": "frontend",
+      "createdAt": "2026-10-20T01:54:06.514Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 100
+    },
+    {
       "name": "react-native-api-inspector",
       "version": "1.0.0",
       "description": "API inspector for React Native, Expo, React & Next.js by iamnsharma — auto-logs Axios/Fetch with masking, presets & floating UI. https://iamnsharma.useaifast.com",
@@ -117288,6 +117516,18 @@
       "createdAt": "2026-09-08T10:41:13.762Z",
       "discoveredAt": "2026-09-08T16:30:52.786Z",
       "score": 94
+    },
+    {
+      "name": "react-native-i18n-kit",
+      "version": "1.1.0",
+      "description": "Fully native, zero-dependency localization toolkit for React Native. TurboModule + Fabric ready, New Architecture native, 16 KB page-size compliant on Android 15+, built with Kotlin and Swift.",
+      "license": "MIT",
+      "repository": "https://github.com/rushikeshpandit/react-native-i18n-kit",
+      "npmUrl": "https://www.npmjs.com/package/react-native-i18n-kit",
+      "category": "frontend",
+      "createdAt": "2026-10-20T16:54:41.620Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 99
     },
     {
       "name": "react-native-image-analysis",
@@ -120494,6 +120734,18 @@
       "score": 89
     },
     {
+      "name": "save-page-we",
+      "version": "1.0.0",
+      "description": "Save a complete web page as a single self-contained HTML file with headless Chrome - a Node.js port of the Save Page WE browser extension",
+      "license": "GPL-2.0-only",
+      "repository": "https://github.com/markusmobius/nodeSavePageWE",
+      "npmUrl": "https://www.npmjs.com/package/save-page-we",
+      "category": "frontend",
+      "createdAt": "2026-10-21T00:05:49.168Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 93
+    },
+    {
       "name": "sbp-exchange-rate",
       "version": "1.2.3",
       "description": "Official State Bank of Pakistan (Pakistan) daily exchange rates — 35 currencies vs PKR, history since 2017. Zero-dependency Node.js/TypeScript client.",
@@ -121536,6 +121788,18 @@
       "createdAt": "2026-07-28T21:54:24.691Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 76
+    },
+    {
+      "name": "sheetgl",
+      "version": "2.0.0",
+      "description": "High-performance WebGL & Canvas Excel DataGrid for React with 60 FPS virtualization, 14 column types, DevExtreme-style batch CRUD & cascading triggers, and zero dependencies. MIT licensed.",
+      "license": "MIT",
+      "repository": "https://github.com/umitunc/sheetgl",
+      "npmUrl": "https://www.npmjs.com/package/sheetgl",
+      "category": "frontend",
+      "createdAt": "2026-10-21T00:22:20.360Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 92
     },
     {
       "name": "shellphone",
@@ -123276,6 +123540,18 @@
       "createdAt": "2026-09-10T05:17:09.808Z",
       "discoveredAt": "2026-09-10T16:16:34.181Z",
       "score": 90
+    },
+    {
+      "name": "sourcepeek",
+      "version": "1.0.0",
+      "description": "Click any UI element in dev mode to see its source file, line, component chain, props and git history. Alt+click opens your editor. Describe a change and the AI previews it or writes it into your code. React, Next.js, Vue, Svelte and Angular.",
+      "license": "MIT",
+      "repository": "https://github.com/sourcepeek/sourcepeek",
+      "npmUrl": "https://www.npmjs.com/package/sourcepeek",
+      "category": "frontend",
+      "createdAt": "2026-10-20T06:32:03.493Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 100
     },
     {
       "name": "sourcery-eval",
@@ -132756,6 +133032,30 @@
       "createdAt": "2026-08-10T18:52:32.310Z",
       "discoveredAt": "2026-08-10T19:43:01.816Z",
       "score": 95
+    },
+    {
+      "name": "zoro-motion",
+      "version": "1.0.0",
+      "description": "One motion system for every platform: motion tokens (durations, easings, springs) generated into CSS, Tailwind, JS/Motion, React Native Reanimated, Flutter, SwiftUI and Jetpack Compose with the same feel; a linter for animation code (performance, flashing",
+      "license": "MIT",
+      "repository": "https://github.com/selzerey/zoro-motion",
+      "npmUrl": "https://www.npmjs.com/package/zoro-motion",
+      "category": "frontend",
+      "createdAt": "2026-10-20T12:26:35.315Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 93
+    },
+    {
+      "name": "zoro-seo-audit",
+      "version": "1.0.0",
+      "description": "Low-noise SEO audit for any website: crawler with ~100 verified rules (indexing, canonical, hreflang, schema, content, AI search), Search Console / Bing reports and IndexNow. CLI and agent skill for Claude Code and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/selzerey/zoro-seo-audit",
+      "npmUrl": "https://www.npmjs.com/package/zoro-seo-audit",
+      "category": "data",
+      "createdAt": "2026-10-20T11:28:52.196Z",
+      "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 100
     },
     {
       "name": "zotero-native-mcp",

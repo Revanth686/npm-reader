@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 138144739,
-  "lastRunAt": "2026-10-20T01:39:22.905Z",
+  "lastSequence": 138435147,
+  "lastRunAt": "2026-10-21T01:24:57.181Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@deterministic-code/generators-common",
+      "name": "@framecraft/studio",
       "attempts": 1
     },
     {
-      "name": "@jeftelabs/exception",
+      "name": "@frogbotai/plugin-dojo",
       "attempts": 1
     },
     {
-      "name": "@arthurferreira-dev/quarkjs",
+      "name": "@frogbotai/transformer-sharp",
+      "attempts": 1
+    },
+    {
+      "name": "@arcwrightstudio/svifa",
+      "attempts": 1
+    },
+    {
+      "name": "@playform/client-dsh-workspace-live",
       "attempts": 1
     }
   ]
