@@ -1,27 +1,83 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 138435147,
-  "lastRunAt": "2026-10-21T01:24:57.181Z",
+  "lastSequence": 138721987,
+  "lastRunAt": "2026-10-22T01:22:40.165Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@framecraft/studio",
+      "name": "@carbonhq/oxfmt-binding-freebsd-x64",
       "attempts": 1
     },
     {
-      "name": "@frogbotai/plugin-dojo",
+      "name": "@carbonhq/oxfmt-binding-linux-arm-musleabihf",
       "attempts": 1
     },
     {
-      "name": "@frogbotai/transformer-sharp",
+      "name": "@carbonhq/oxfmt-binding-linux-riscv64-gnu",
       "attempts": 1
     },
     {
-      "name": "@arcwrightstudio/svifa",
+      "name": "@carbonhq/oxfmt-binding-android-arm-eabi",
       "attempts": 1
     },
     {
-      "name": "@playform/client-dsh-workspace-live",
+      "name": "@carbonhq/oxfmt-binding-linux-s390x-gnu",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-android-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-win32-ia32-msvc",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-win32-x64-msvc",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-arm-gnueabihf",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-riscv64-musl",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-arm64-musl",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-ppc64-gnu",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-win32-arm64-msvc",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-x64-gnu",
+      "attempts": 1
+    },
+    {
+      "name": "@kleros/tg-extractor",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-x64-musl",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-openharmony-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@carbonhq/oxfmt-binding-linux-arm64-gnu",
       "attempts": 1
     }
   ]

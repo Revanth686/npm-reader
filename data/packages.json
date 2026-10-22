@@ -5342,6 +5342,18 @@
       "score": 83
     },
     {
+      "name": "@aniverse35/node-forge",
+      "version": "1.4.1",
+      "description": "Unofficial backport of node-forge 1.4.0 with the GHSA-86w9-cpqp-85rv DigestAlgorithm check. Not affiliated with Digital Bazaar.",
+      "license": "(BSD-3-Clause OR GPL-2.0)",
+      "repository": "https://github.com/anngth/forge",
+      "npmUrl": "https://www.npmjs.com/package/%40aniverse35%2Fnode-forge",
+      "category": "backend",
+      "createdAt": "2026-10-21T08:44:00.723Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 92
+    },
+    {
       "name": "@anizoptera/publish-clean",
       "version": "0.2.0",
       "description": "Publish pnpm workspace packages from a cleaned, validated package tarball.",
@@ -6434,6 +6446,18 @@
       "score": 91
     },
     {
+      "name": "@arraypress/covers",
+      "version": "1.0.0",
+      "description": "Build-time cover images for posts and pages: soft mesh gradients, grain, grids, stripes, shapes, icons and type from one seed, as SVG or WebP/PNG/AVIF/JPEG. Recipes for the editorial looks, every layer customisable, an Astro endpoint helper. No network, n",
+      "license": "MIT",
+      "repository": "https://github.com/arraypress/covers",
+      "npmUrl": "https://www.npmjs.com/package/%40arraypress%2Fcovers",
+      "category": "build-tools",
+      "createdAt": "2026-10-21T19:36:28.271Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 100
+    },
+    {
       "name": "@arraypress/llms-txt-astro",
       "version": "1.0.0",
       "description": "Idiomatic /llms.txt route for Astro — resolves the site origin and serves the file. A thin wrapper over @arraypress/llms-txt.",
@@ -7476,6 +7500,18 @@
       "createdAt": "2026-10-07T09:44:15.861Z",
       "discoveredAt": "2026-10-08T02:36:47.962Z",
       "score": 100
+    },
+    {
+      "name": "@awacloud/odf",
+      "version": "1.1.0",
+      "description": "Browser-safe OpenDocument Format (ODT/ODS/ODP) reader, writer and orchestrator for the @awacloud stack.",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/awacloud/awa",
+      "npmUrl": "https://www.npmjs.com/package/%40awacloud%2Fodf",
+      "category": "frontend",
+      "createdAt": "2026-10-07T09:29:22.941Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 90
     },
     {
       "name": "@awacloud/ooxml",
@@ -39542,6 +39578,18 @@
       "score": 72
     },
     {
+      "name": "@mambalabsdev/mcp-competitor-price-stock-changelog-monitor",
+      "version": "1.0.0",
+      "description": "MCP server for Competitor Price, Stock, and Changelog Monitor. Watch competitor stores and SaaS sites and get only what changed since the last run: price, sale price, and stock per variant, new and removed products, plan prices, and changelog entries. Run",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-competitor-price-stock-changelog-monitor",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-competitor-price-stock-changelog-monitor",
+      "category": "backend",
+      "createdAt": "2026-10-21T13:31:00.988Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 93
+    },
+    {
       "name": "@mambalabsdev/mcp-contact-classifier",
       "version": "1.0.0",
       "description": "MCP server for the Mamba Labs Contact Classifier actor on Apify. Contact title in, department and seniority out, with an optional check on whether the person still holds the role.",
@@ -56726,6 +56774,18 @@
       "score": 55
     },
     {
+      "name": "@scrapeeverything/mcp",
+      "version": "0.1.0",
+      "description": "MCP server for Scrape Everything. Public social data as clean JSON from Instagram, TikTok, X, YouTube, Facebook, Telegram, Spotify, Pinterest and Twitch, in Claude, Cursor, VS Code and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/scrapeeverything/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40scrapeeverything%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-10-21T18:18:40.495Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 90
+    },
+    {
       "name": "@screamer-labs/screamer",
       "version": "2.1.0",
       "description": "WASM build of screamer, a high-performance causal streaming time-series operator library, compiled from the same C++ core as the Python package.",
@@ -72626,6 +72686,18 @@
       "score": 94
     },
     {
+      "name": "adonis-ai-kit",
+      "version": "1.1.0",
+      "description": "Production-ready AI & Agentic workflow kit for AdonisJS 7 (Vercel AI SDK v7, multi-provider fallbacks, ACP & token budget enforcement)",
+      "license": "MIT",
+      "repository": "https://github.com/IvanGlazyrin/adonis-ai-kit",
+      "npmUrl": "https://www.npmjs.com/package/adonis-ai-kit",
+      "category": "cli",
+      "createdAt": "2026-10-21T19:07:38.363Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 93
+    },
+    {
       "name": "adonisjs-adminizer-provider",
       "version": "1.0.1",
       "description": "AdonisJS provider for Adminizer — a full-featured admin panel with a Lucid ORM adapter",
@@ -77666,6 +77738,18 @@
       "score": 64
     },
     {
+      "name": "binforge",
+      "version": "1.0.0",
+      "description": "A compact, dependency-free binary serializer for TypeScript, with variant lengths, string interning, bit packing, and explicit little- and big-endian primitives.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/Terncode/binforge",
+      "npmUrl": "https://www.npmjs.com/package/binforge",
+      "category": "data",
+      "createdAt": "2026-10-21T08:59:53.951Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 96
+    },
+    {
       "name": "bini-ssg",
       "version": "1.0.0",
       "description": "True SSG for Bini.js with zero code changes — pre-renders all routes to static HTML during vite build",
@@ -78650,6 +78734,18 @@
       "score": 78
     },
     {
+      "name": "bundle-pulse",
+      "version": "1.0.0",
+      "description": "CI gate for JS/CSS bundle size: per-entry budgets on raw, gzip and brotli sizes, total JS/CSS budgets, growth vs a base-branch snapshot with content-hash-insensitive names, unminified and duplicate files. SARIF, Markdown, GitHub Action. Zero deps.",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/bundle-pulse",
+      "npmUrl": "https://www.npmjs.com/package/bundle-pulse",
+      "category": "frontend",
+      "createdAt": "2026-10-21T09:36:55.699Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 95
+    },
+    {
       "name": "bundlebox",
       "version": "0.6.0",
       "description": "The zero-token software factory for AI coding agents: a Node CLI, a Rust kernel and a Python expert system that scan, pack, route and run work across Claude Code, Codex, Gemini CLI, Cursor, Aider, OpenCode and any custom agent, and measure every token use",
@@ -78876,6 +78972,18 @@
       "createdAt": "2026-08-11T13:27:58.273Z",
       "discoveredAt": "2026-08-11T14:06:14.756Z",
       "score": 63
+    },
+    {
+      "name": "cache-pulse",
+      "version": "1.0.0",
+      "description": "Check static hosting caching for performance: long max-age + immutable on fingerprinted assets, revalidation on HTML, no long cache on unhashed files, Vary and Set-Cookie pitfalls, and precompressed .br/.gz files that match. Reads _headers, vercel.json, n",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/cache-pulse",
+      "npmUrl": "https://www.npmjs.com/package/cache-pulse",
+      "category": "data",
+      "createdAt": "2026-10-21T09:41:35.138Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 100
     },
     {
       "name": "cache-viewer",
@@ -81950,6 +82058,18 @@
       "score": 75
     },
     {
+      "name": "comity-intuition",
+      "version": "0.1.0",
+      "description": "Your AI's gut check before you ship. A forked copy of your coding agent (Claude Code, Codex) reviews its own work read-only and explains it in plain English: verdict, business risks, questions for a developer.",
+      "license": "MIT",
+      "repository": "https://github.com/comityhq/intuition",
+      "npmUrl": "https://www.npmjs.com/package/comity-intuition",
+      "category": "utilities",
+      "createdAt": "2026-10-21T19:59:05.814Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 90
+    },
+    {
       "name": "commentnuker",
       "version": "1.0.0",
       "description": "Comment Nuker -- interactive comment cleaner that strips comments out of any codebase block by block, and provably cannot eat your code. A real parser (acorn for JS, tree-sitter for everything else) marks every comment and a token-stream gate refuses any",
@@ -82560,6 +82680,18 @@
       "createdAt": "2026-08-13T20:46:31.095Z",
       "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 77
+    },
+    {
+      "name": "copsapi-wrapper",
+      "version": "1.0.0",
+      "description": "Typed, quota-aware client for the Critical Ops Public API v2: profiles, leaderboards, match history, weapon stats, server status and autohosted custom games with a live room watcher.",
+      "license": "MIT",
+      "repository": "https://github.com/Matchmaking-Live/copsapi-wrapper",
+      "npmUrl": "https://www.npmjs.com/package/copsapi-wrapper",
+      "category": "backend",
+      "createdAt": "2026-10-21T21:00:11.833Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 96
     },
     {
       "name": "coptic-readings",
@@ -83640,6 +83772,18 @@
       "createdAt": "2026-08-15T07:22:11.175Z",
       "discoveredAt": "2026-08-15T08:17:32.674Z",
       "score": 91
+    },
+    {
+      "name": "ctxfolio",
+      "version": "3.8.0",
+      "description": "Source-backed project memory for coding agents: portable context wikis, governed capture, budgeted routing, read-only MCP and a zero-dependency CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/AnshRoshan/ctxfolio",
+      "npmUrl": "https://www.npmjs.com/package/ctxfolio",
+      "category": "cli",
+      "createdAt": "2026-10-21T10:10:02.231Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 94
     },
     {
       "name": "ctxprof",
@@ -86114,6 +86258,18 @@
       "score": 69
     },
     {
+      "name": "dsar-warden",
+      "version": "1.0.0",
+      "description": "Assemble Data Subject Access Request (DSAR / GDPR Article 15) exports from CSV, JSON and JSONL sources into one structured, checksummed bundle, and check it: subject matching, secret fields removed, third-party data flagged, Article 15 metadata, identity",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/dsar-warden",
+      "npmUrl": "https://www.npmjs.com/package/dsar-warden",
+      "category": "data",
+      "createdAt": "2026-10-21T09:36:05.497Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 93
+    },
+    {
       "name": "dsh-a2a",
       "version": "0.1.0",
       "description": "dsh-a2a: A2A v1.0 for DeepSeek Harness — expose the harness as an A2A agent and call remote A2A agents from agent tools.",
@@ -86436,6 +86592,18 @@
       "createdAt": "2026-08-17T18:57:49.150Z",
       "discoveredAt": "2026-08-18T01:42:04.137Z",
       "score": 90
+    },
+    {
+      "name": "dsh-button",
+      "version": "1.2.0",
+      "description": "One-click composer actions for DeepSeek Harness: a 「继续」 button (label and text editable), your own configurable text buttons (e.g. to invoke a skill), a 「重发上一条」 button (label editable, content is your last real message), plus hide/restore and five sensibl",
+      "license": "MIT",
+      "repository": "https://github.com/xinming-chenniang/dsh-button",
+      "npmUrl": "https://www.npmjs.com/package/dsh-button",
+      "category": "cli",
+      "createdAt": "2026-10-21T19:19:46.358Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 95
     },
     {
       "name": "dsh-cc-switch",
@@ -92834,6 +93002,18 @@
       "score": 65
     },
     {
+      "name": "font-pulse",
+      "version": "1.0.0",
+      "description": "Audit web font loading in a built static site: font-display, preload with crossorigin, unused preloads, WOFF2, heavy or unsubset fonts, unicode-range, unused faces and weights, per-page font payload, Google Fonts display=swap and preconnect. SARIF, GitHub",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/font-pulse",
+      "npmUrl": "https://www.npmjs.com/package/font-pulse",
+      "category": "data",
+      "createdAt": "2026-10-21T09:39:57.719Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 97
+    },
+    {
       "name": "foodpanda-ai-mcp",
       "version": "0.2.1",
       "description": "Unofficial MCP server for foodpanda / Delivery Hero public discovery data — search restaurants, menus, fees and deals across 10 markets. Read-only, no API key, no account, no ordering.",
@@ -96554,6 +96734,18 @@
       "score": 78
     },
     {
+      "name": "human-hindsight",
+      "version": "1.6.0",
+      "description": "Mine your coding-agent session history (Claude Code, Codex, kiro-cli) into a oneshot prompt library and CLAUDE.md/AGENTS.md preferences. The prompt you'd write if you knew then what you know now.",
+      "license": "MIT",
+      "repository": "https://github.com/adityaarunsinghal/human-hindsight",
+      "npmUrl": "https://www.npmjs.com/package/human-hindsight",
+      "category": "cli",
+      "createdAt": "2026-10-21T17:59:51.919Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 99
+    },
+    {
       "name": "human-is-kind-sdk",
       "version": "2.5.0",
       "description": "C2PA 2.3 real-time stream integrity — fMP4 + MPEG-TS/HLS support, P1363 COSE signing, KMIR gate, CMCD v2 telemetry, Cloudflare Edge signal cut",
@@ -97044,6 +97236,18 @@
       "createdAt": "2026-09-23T10:51:08.794Z",
       "discoveredAt": "2026-09-23T16:42:51.715Z",
       "score": 90
+    },
+    {
+      "name": "image-pulse",
+      "version": "1.0.0",
+      "description": "Find oversized and unoptimised images in a built static site: heavy files, images far wider than displayed, JPEG/PNG without AVIF/WebP, missing width/height, srcset and sizes, animated GIFs, opaque PNG photos, bloated SVGs. Reads image headers, no network",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/image-pulse",
+      "npmUrl": "https://www.npmjs.com/package/image-pulse",
+      "category": "data",
+      "createdAt": "2026-10-21T09:38:19.089Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 96
     },
     {
       "name": "image-puma",
@@ -100032,6 +100236,18 @@
       "createdAt": "2026-07-29T23:32:07.171Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 67
+    },
+    {
+      "name": "lazy-pulse",
+      "version": "1.0.0",
+      "description": "Lazy-loading audit for static sites: below-the-fold images and iframes missing loading=lazy, and LCP candidates (hero images, first images) wrongly lazy-loaded or deprioritised. SARIF, Action. Zero deps.",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/lazy-pulse",
+      "npmUrl": "https://www.npmjs.com/package/lazy-pulse",
+      "category": "data",
+      "createdAt": "2026-10-21T09:43:28.325Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 96
     },
     {
       "name": "lazyscout",
@@ -118742,6 +118958,18 @@
       "score": 78
     },
     {
+      "name": "redis-local",
+      "version": "1.0.0",
+      "description": "Ultra-lightweight Redis replacement for local development (Windows, macOS, Linux) with BullMQ, Lua scripting, Streams, and auto-persistence via npm/npx. Zero Docker required.",
+      "license": "MIT",
+      "repository": "https://github.com/klority-io/redis-local",
+      "npmUrl": "https://www.npmjs.com/package/redis-local",
+      "category": "backend",
+      "createdAt": "2026-10-21T10:54:41.803Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 97
+    },
+    {
       "name": "redis-tiered-cache",
       "version": "0.1.1",
       "description": "Distributed caching framework for Node.js — L1 memory + L2 Redis, cache stampede protection, tag invalidation, multi-cluster routing, and a plugin system.",
@@ -118752,6 +118980,18 @@
       "createdAt": "2026-08-09T19:37:03.087Z",
       "discoveredAt": "2026-08-09T20:21:40.218Z",
       "score": 85
+    },
+    {
+      "name": "redis-win",
+      "version": "1.0.0",
+      "description": "Ultra-lightweight Redis replacement for local development (Windows, macOS, Linux) with BullMQ, Lua scripting, Streams, and auto-persistence via npm/npx. Zero Docker required.",
+      "license": "MIT",
+      "repository": "https://github.com/klority-io/redis-local",
+      "npmUrl": "https://www.npmjs.com/package/redis-win",
+      "category": "backend",
+      "createdAt": "2026-10-21T11:31:43.646Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 97
     },
     {
       "name": "redmine-context",
@@ -118980,6 +119220,18 @@
       "createdAt": "2026-08-07T06:30:40.004Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 96
+    },
+    {
+      "name": "render-pulse",
+      "version": "1.0.0",
+      "description": "Find render-blocking resources in a built static site: head scripts without defer/async, heavy blocking CSS, @import chains, third-party blocking resources without preconnect, document.write, parser-blocking body scripts, print CSS without media, missing",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/render-pulse",
+      "npmUrl": "https://www.npmjs.com/package/render-pulse",
+      "category": "frontend",
+      "createdAt": "2026-10-21T09:40:49.323Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 97
     },
     {
       "name": "render-useful-mcp",
@@ -119376,6 +119628,18 @@
       "createdAt": "2026-07-30T17:38:31.900Z",
       "discoveredAt": "2026-07-30T19:12:41.836Z",
       "score": 75
+    },
+    {
+      "name": "retention-warden",
+      "version": "1.0.0",
+      "description": "Lint a declarative data-retention policy (YAML or JSON): missing or invalid periods, indefinite retention, conflicting rules, data categories held in systems with no rule, unknown categories/systems, missing legal basis, expiry action, trigger and owner,",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/retention-warden",
+      "npmUrl": "https://www.npmjs.com/package/retention-warden",
+      "category": "data",
+      "createdAt": "2026-10-21T09:35:07.747Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 96
     },
     {
       "name": "retold-operation-queue",
@@ -126062,6 +126326,18 @@
       "score": 64
     },
     {
+      "name": "tbrowse-core",
+      "version": "1.0.0",
+      "description": "Headless companion to the tbrowse tree viewer: data model, tree algorithms, file parsers, REST adapters and data-source loaders (Ensembl, Gramene, BrAPI), UPGMA clustering, fetch helpers and view-state logic. Runs in browsers and Node.",
+      "license": "MIT",
+      "repository": "https://github.com/warelab/tbrowse",
+      "npmUrl": "https://www.npmjs.com/package/tbrowse-core",
+      "category": "frontend",
+      "createdAt": "2026-10-21T14:29:14.095Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 100
+    },
+    {
       "name": "tdcv2",
       "version": "0.1.1",
       "description": "Deterministic test-data generator: coherent records, exact proportions, and any text format you describe. Same seed, same bytes. Also usable as a faker — one call, one value — from the same data packs.",
@@ -126756,6 +127032,18 @@
       "createdAt": "2026-08-29T08:29:25.614Z",
       "discoveredAt": "2026-08-29T16:38:10.636Z",
       "score": 87
+    },
+    {
+      "name": "thirdparty-pulse",
+      "version": "1.0.0",
+      "description": "Third-party script weight and load-cost report for static sites: estimated bytes, requests and main-thread time per page and per vendor, with budgets, plus sync-script, duplicate and preconnect checks. SARIF, Action. Zero deps.",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/thirdparty-pulse",
+      "npmUrl": "https://www.npmjs.com/package/thirdparty-pulse",
+      "category": "data",
+      "createdAt": "2026-10-21T09:42:27.039Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 100
     },
     {
       "name": "thistripbtw-mcp",
@@ -130020,6 +130308,18 @@
       "createdAt": "2026-08-19T04:00:51.566Z",
       "discoveredAt": "2026-08-19T13:00:39.527Z",
       "score": 88
+    },
+    {
+      "name": "vitals-pulse",
+      "version": "1.0.0",
+      "description": "Fail CI on Core Web Vitals: reads Lighthouse, Lighthouse CI, PageSpeed Insights and web-vitals reports (or runs Lighthouse), takes the median per URL and gates LCP, CLS, TBT (lab INP proxy), INP, FCP and TTFB against thresholds and a baseline. SARIF, GitH",
+      "license": "MIT",
+      "repository": "https://github.com/MrLouisWright/vitals-pulse",
+      "npmUrl": "https://www.npmjs.com/package/vitals-pulse",
+      "category": "data",
+      "createdAt": "2026-10-21T09:39:14.913Z",
+      "discoveredAt": "2026-10-22T01:22:40.165Z",
+      "score": 97
     },
     {
       "name": "vite-njk-trace",
