@@ -11654,6 +11654,30 @@
       "score": 76
     },
     {
+      "name": "@charlietyn/nest-rest-sequelize",
+      "version": "1.0.1",
+      "description": "Reusable NestJS 11/12 Model, Service and Controller classes for Sequelize REST APIs, filtering, relations, pagination, hierarchy, transactions and caching.",
+      "license": "MIT",
+      "repository": "https://github.com/charlietyn/nest-rest-generic-sequelize",
+      "npmUrl": "https://www.npmjs.com/package/%40charlietyn%2Fnest-rest-sequelize",
+      "category": "backend",
+      "createdAt": "2026-10-22T21:17:54.704Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 95
+    },
+    {
+      "name": "@charlietyn/nest-rest-typeorm",
+      "version": "1.0.0",
+      "description": "Reusable NestJS 11/12 REST CRUD services and controllers for TypeORM, with filtering, pagination, relations, hierarchy and caching.",
+      "license": "MIT",
+      "repository": "https://github.com/charlietyn/nest-rest-generic-typeorm",
+      "npmUrl": "https://www.npmjs.com/package/%40charlietyn%2Fnest-rest-typeorm",
+      "category": "backend",
+      "createdAt": "2026-10-22T11:58:04.705Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 93
+    },
+    {
       "name": "@chat-adapter/instagram",
       "version": "4.37.0",
       "description": "Instagram Direct Messages adapter for Chat SDK — native Meta Messaging API webhooks, media, and quick replies",
@@ -34790,6 +34814,30 @@
       "score": 93
     },
     {
+      "name": "@kaoruko-v1/baileys",
+      "version": "1.0.0",
+      "description": "Mikuryu v6 — Custom WhatsApp Web API with full interactive button support (based on enhanced Baileys v7 fork).",
+      "license": "MIT",
+      "repository": "https://github.com/jafrisebat20-sketch/mikuryu-v6",
+      "npmUrl": "https://www.npmjs.com/package/%40kaoruko-v1%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-10-22T02:04:15.342Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 91
+    },
+    {
+      "name": "@kaoruko-v8/baileys",
+      "version": "1.0.0",
+      "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
+      "license": "MIT",
+      "repository": "https://github.com/itsliaaa/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40kaoruko-v8%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-10-22T16:02:36.150Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 93
+    },
+    {
       "name": "@kaos-intelligence/epub-forge",
       "version": "0.1.1",
       "description": "EPUB 3.3 production harness — extract MDX/PDF/IDML/INDD manuscripts, assemble conformance-grade EPUBs (reflowable + fixed-layout), self-heal via a reviewer loop, and validate with EPUBCheck. One pipeline. Any source. Beautiful output.",
@@ -40934,6 +40982,18 @@
       "score": 64
     },
     {
+      "name": "@menapo/vicss",
+      "version": "1.0.0",
+      "description": "Typed, design-system-first atomic CSS for Vite: style objects compiled to short hashed class names, recipes with slots and responsive variants, one order-proof stylesheet",
+      "license": "MIT",
+      "repository": "https://github.com/menapo/vite-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40menapo%2Fvicss",
+      "category": "frontend",
+      "createdAt": "2026-10-22T11:55:12.921Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 97
+    },
+    {
       "name": "@mencoro/mcp",
       "version": "1.0.1",
       "description": "Stdio bridge to the hosted Mencoro MCP server for AI-search (GEO) brand monitoring.",
@@ -45312,6 +45372,18 @@
       "createdAt": "2026-08-09T02:44:43.073Z",
       "discoveredAt": "2026-08-09T03:25:18.693Z",
       "score": 64
+    },
+    {
+      "name": "@neuralverge/mcp-server",
+      "version": "1.0.3",
+      "description": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data sources (marketplaces, corporate registries, company intelligence, enrichment, social) as tools",
+      "license": "MIT",
+      "repository": "https://github.com/neuralverge/neuralverge-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40neuralverge%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-22T11:49:01.356Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 94
     },
     {
       "name": "@neurcode-ai/cut",
@@ -62222,6 +62294,18 @@
       "score": 67
     },
     {
+      "name": "@tarekraafat/cabinet",
+      "version": "0.1.0",
+      "description": "A productivity kit that makes one person a whole team: build anything with AI agents while you bring the vision and the final say. Roles with clear authority, handoffs, a daily brief and sign-off queue, independent review, push guardrails, schedules and e",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/TarekRaafat/cabinet",
+      "npmUrl": "https://www.npmjs.com/package/%40tarekraafat%2Fcabinet",
+      "category": "build-tools",
+      "createdAt": "2026-10-22T23:23:16.665Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 90
+    },
+    {
       "name": "@tastic/achievements",
       "version": "0.1.1",
       "description": "Achievement and stats engine for local-multiplayer React Native games: a generic tiered achievement catalog evaluated as pure predicates over whatever stats shape a game defines, per-profile unlock namespacing, AsyncStorage-backed persistence with a self-",
@@ -70022,6 +70106,18 @@
       "score": 92
     },
     {
+      "name": "@xfufu/dsh-auto-continue",
+      "version": "1.0.1",
+      "description": "Automatic turn-level resume for DeepSeek Harness sessions: continues after transient model-request failures, merges provider outages into one storm, and always yields to a manual stop.",
+      "license": "MIT",
+      "repository": "https://github.com/kemomimi12/dsh-auto-continue",
+      "npmUrl": "https://www.npmjs.com/package/%40xfufu%2Fdsh-auto-continue",
+      "category": "data",
+      "createdAt": "2026-10-22T09:19:04.145Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 91
+    },
+    {
       "name": "@xiaoxige1/braces",
       "version": "3.2.2",
       "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
@@ -75170,6 +75266,18 @@
       "score": 73
     },
     {
+      "name": "annotatable-html",
+      "version": "1.38.3",
+      "description": "可批注 HTML：人类在浏览器划线批注，AI agent 读批注并回答（对话追问 + 版本回滚）。一条命令给任意 agent 装上批注工作流。Annotatable HTML docs with an AI-agent reply loop, threads and version history.",
+      "license": "MIT",
+      "repository": "https://github.com/Alidadei/HTML4agent",
+      "npmUrl": "https://www.npmjs.com/package/annotatable-html",
+      "category": "utilities",
+      "createdAt": "2026-10-22T09:46:17.077Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 95
+    },
+    {
       "name": "annotepage-mcp",
       "version": "2.1.0",
       "description": "The assistants' access to annotepage notes: an MCP server and a command-line utility that fetch and decrypt review remarks, answer them, and mark a note resolved with the version the fix ships in.",
@@ -75552,6 +75660,18 @@
       "createdAt": "2026-08-06T16:56:10.347Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 88
+    },
+    {
+      "name": "api-studios",
+      "version": "1.1.1",
+      "description": "Blazing fast, zero-config API & Database documentation studio with live interactive testing console for Node.js REST APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/therealrathor-hue/api-studios",
+      "npmUrl": "https://www.npmjs.com/package/api-studios",
+      "category": "testing",
+      "createdAt": "2026-08-27T13:37:11.385Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 92
     },
     {
       "name": "api2client",
@@ -77930,6 +78050,18 @@
       "score": 65
     },
     {
+      "name": "blueprint-skill",
+      "version": "0.1.0",
+      "description": "Blueprint: a cross-IDE AI agent skill (Claude Code, Codex, Cursor, Antigravity, VS Code Copilot) that interviews you in detail, validates requirements against system design and testing, writes a plan, reviews it for bugs, performance and security, gets yo",
+      "license": "MIT",
+      "repository": "https://github.com/sepandasadi/blueprint-skill",
+      "npmUrl": "https://www.npmjs.com/package/blueprint-skill",
+      "category": "testing",
+      "createdAt": "2026-10-22T22:29:17.664Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 90
+    },
+    {
       "name": "blunx-ai",
       "version": "1.0.1",
       "description": "Blunx AI — Business Intelligence AI agent backend.REST /api/blunx/*, local read-only SQL execution, SSE proxy to the Blunx Hub, scheduled insight jobs, PDF + email reports. Framework-agnostic.",
@@ -79056,6 +79188,18 @@
       "createdAt": "2026-10-10T10:20:25.242Z",
       "discoveredAt": "2026-10-11T01:44:18.354Z",
       "score": 90
+    },
+    {
+      "name": "callcanvas",
+      "version": "1.0.0",
+      "description": "CallCanvas — visual API reporting for Playwright. Every API call. One clear view: sanitized request/response pages inside the native Playwright report, one self-contained page per test.",
+      "license": "MIT",
+      "repository": "https://github.com/iamsalaheldin/CallCanvas",
+      "npmUrl": "https://www.npmjs.com/package/callcanvas",
+      "category": "testing",
+      "createdAt": "2026-10-22T18:46:39.130Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 98
     },
     {
       "name": "calldiff",
@@ -86340,6 +86484,18 @@
       "createdAt": "2026-09-23T16:41:39.484Z",
       "discoveredAt": "2026-09-23T16:42:51.715Z",
       "score": 98
+    },
+    {
+      "name": "dsh-ai-studio",
+      "version": "2.5.3",
+      "description": "Install-and-use AI studio for DeepSeek Harness: owner dashboard, Agent dispatch, token budgets, decision desk, branch/contract conflicts, worktree code execution, host verification, independent AI review, automatic integration gates, docs sync and irrever",
+      "license": "MIT",
+      "repository": "https://github.com/mjw0531/dsh-ai-studio",
+      "npmUrl": "https://www.npmjs.com/package/dsh-ai-studio",
+      "category": "build-tools",
+      "createdAt": "2026-10-22T17:25:15.099Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 92
     },
     {
       "name": "dsh-ai4scholar",
@@ -101726,6 +101882,18 @@
       "score": 89
     },
     {
+      "name": "lq-audio-studio",
+      "version": "4.0.0",
+      "description": "Comprehensive audio processing library for React Native and Expo with recording, analysis, visualization, and streaming capabilities across iOS, Android, and web",
+      "license": "MIT",
+      "repository": "https://github.com/deeeed/audiolab",
+      "npmUrl": "https://www.npmjs.com/package/lq-audio-studio",
+      "category": "frontend",
+      "createdAt": "2026-10-22T09:49:08.315Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 91
+    },
+    {
       "name": "ltx-format",
       "version": "0.1.0",
       "description": "Reader and writer for the LTX (Lite Transaction) file format v3, byte-compatible with Litestream v0.5.",
@@ -104858,6 +105026,18 @@
       "score": 71
     },
     {
+      "name": "mobile-unslop-mcp",
+      "version": "1.0.0",
+      "description": "MCP server + agent skill that audits iOS (Swift/SwiftUI), Android (Kotlin/Compose), React Native and Flutter code for crash operators, a11y gaps, insecure storage and manifest/permission mismatches that cause App Review and Play Console rejections. Works",
+      "license": "MIT",
+      "repository": "https://github.com/fikrifirmanf/mobile-unslop-mcp",
+      "npmUrl": "https://www.npmjs.com/package/mobile-unslop-mcp",
+      "category": "frontend",
+      "createdAt": "2026-10-22T01:50:25.198Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 99
+    },
+    {
       "name": "mobilevalidate",
       "version": "1.0.1",
       "description": "MobileValidate API client and CLI: check phone numbers on WhatsApp, Telegram, Viber and more, carrier lookup, spam reputation and e-mail verification. Typed errors, retries, zero dependencies. ESM + CommonJS.",
@@ -107424,6 +107604,18 @@
       "createdAt": "2026-10-03T15:25:35.684Z",
       "discoveredAt": "2026-10-04T02:28:38.499Z",
       "score": 98
+    },
+    {
+      "name": "neuralverge-mcp-server",
+      "version": "1.0.2",
+      "description": "NeuralVerge MCP server: the data layer for agentic AI. Search, AI Extract and 300+ data sources (marketplaces, corporate registries, company intelligence, enrichment, social) as tools",
+      "license": "MIT",
+      "repository": "https://github.com/neuralverge/neuralverge-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/neuralverge-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-22T08:52:14.517Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 94
     },
     {
       "name": "neurarch",
@@ -110606,6 +110798,18 @@
       "score": 62
     },
     {
+      "name": "opencode-token-slim",
+      "version": "1.6.0",
+      "description": "Cuts the per-request payload an OpenCode agent sends to its model: old reasoning, oversized tool results, old screenshots, stale call arguments, and an oversized system prompt.",
+      "license": "MIT",
+      "repository": "https://github.com/kuy124/opencode-token-slim",
+      "npmUrl": "https://www.npmjs.com/package/opencode-token-slim",
+      "category": "utilities",
+      "createdAt": "2026-10-22T20:52:21.260Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 91
+    },
+    {
       "name": "opencode-tokenmeter-tui",
       "version": "1.0.0",
       "description": "OpenCode TUI plugin: TokenMeter sidebar — live token usage, cost, and delegation tree for sessions",
@@ -111890,6 +112094,18 @@
       "score": 84
     },
     {
+      "name": "paseo-accounts",
+      "version": "2.1.0",
+      "description": "Paseo Accounts (formerly ZeroSub): add more accounts to any Paseo provider. Each account becomes its own provider (and profile), with in-app sign-in and usage for Claude and ChatGPT (Codex).",
+      "license": "MIT",
+      "repository": "https://github.com/raffidahmad/paseo-accounts",
+      "npmUrl": "https://www.npmjs.com/package/paseo-accounts",
+      "category": "data",
+      "createdAt": "2026-10-22T07:57:05.591Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 99
+    },
+    {
       "name": "patchthrough",
       "version": "1.0.2",
       "description": "Record the meeting, transcribe it on-device, patch the transcript through to your coding agent — Claude Code, Copilot, Codex, Kimi, opencode, Cursor.",
@@ -112572,6 +112788,18 @@
       "createdAt": "2026-09-08T15:02:08.546Z",
       "discoveredAt": "2026-09-08T16:30:52.786Z",
       "score": 98
+    },
+    {
+      "name": "php2shell-check",
+      "version": "1.0.0",
+      "description": "Read-only exposure scanner for PHP2Shell (CVE-2026-109618 / CVE-2026-109619): local PHP, Docker images, running containers, URLs and inventories, with a terminal UI and an HTML dashboard. No exploit code.",
+      "license": "MIT",
+      "repository": "https://github.com/adityaaravind/php2shell-check",
+      "npmUrl": "https://www.npmjs.com/package/php2shell-check",
+      "category": "cli",
+      "createdAt": "2026-10-22T16:04:18.531Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 92
     },
     {
       "name": "pi-495",
@@ -116894,6 +117122,18 @@
       "score": 93
     },
     {
+      "name": "range-source-web",
+      "version": "1.0.0",
+      "description": "Range source and storage manager for video and other partial content on the web: reads files by offset through HTTP range requests, Blobs or your own source, and keeps what was read in OPFS, IndexedDB, the Cache API or memory under one size cap.",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/range-source",
+      "npmUrl": "https://www.npmjs.com/package/range-source-web",
+      "category": "backend",
+      "createdAt": "2026-10-22T13:17:06.872Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 96
+    },
+    {
       "name": "rapidfuzz-js",
       "version": "0.1.0",
       "description": "Fast fuzzy string matching for Node.js and the browser",
@@ -118212,6 +118452,18 @@
       "createdAt": "2026-08-07T11:04:49.438Z",
       "discoveredAt": "2026-08-07T11:31:28.775Z",
       "score": 79
+    },
+    {
+      "name": "react-native-range-source",
+      "version": "1.0.0",
+      "description": "Range source and storage manager for video and other partial content in React Native: the alpha-video players (react-native-alpha-video, react-native-alpha-video-gpu) read URLs through it by range, with read-ahead and retries, and keep what was read on di",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/range-source",
+      "npmUrl": "https://www.npmjs.com/package/react-native-range-source",
+      "category": "frontend",
+      "createdAt": "2026-10-22T13:17:20.411Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 100
     },
     {
       "name": "react-native-realtime-voice",
@@ -122796,6 +123048,18 @@
       "createdAt": "2026-07-26T05:49:17.718Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 76
+    },
+    {
+      "name": "sk-rate-limiter",
+      "version": "1.0.0",
+      "description": "Production-ready, lightweight, and easy-to-use rate-limiting middleware for Express APIs with in-memory and Redis storage support.",
+      "license": "MIT",
+      "repository": "https://github.com/saurabh0772/sk-rate-limiter",
+      "npmUrl": "https://www.npmjs.com/package/sk-rate-limiter",
+      "category": "backend",
+      "createdAt": "2026-10-22T07:06:01.750Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 93
     },
     {
       "name": "skailr-agents",
@@ -128750,6 +129014,18 @@
       "score": 96
     },
     {
+      "name": "ui-unslop-mcp",
+      "version": "1.0.0",
+      "description": "MCP server + agent skill that audits UI design craft and accessibility: WCAG contrast (incl. Tailwind class pairs), a11y failures, design-token sprawl and generated-UI tells. Works with Claude Code, Claude Desktop, Codex and Antigravity.",
+      "license": "MIT",
+      "repository": "https://github.com/fikrifirmanf/ui-unslop-mcp",
+      "npmUrl": "https://www.npmjs.com/package/ui-unslop-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-22T01:50:22.549Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 91
+    },
+    {
       "name": "ui-ux-pro-max-skill-mcp",
       "version": "1.0.0",
       "description": "MCP server for UI/UX Pro Max - AI-powered design intelligence with 79 UI styles, 192 color palettes, 74 font pairings, and 192 reasoning rules",
@@ -129084,6 +129360,18 @@
       "createdAt": "2026-08-04T08:13:38.780Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 75
+    },
+    {
+      "name": "unislider",
+      "version": "1.0.0",
+      "description": "Lightweight, dependency-free slider & carousel with layer animations, 25+ transitions, presets and templates — a modern alternative to heavyweight slider builders.",
+      "license": "MIT",
+      "repository": "https://github.com/JuwelKhan/unislider",
+      "npmUrl": "https://www.npmjs.com/package/unislider",
+      "category": "build-tools",
+      "createdAt": "2026-10-22T22:21:47.287Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 96
     },
     {
       "name": "unit-client",
@@ -130584,6 +130872,18 @@
       "createdAt": "2026-08-13T03:56:38.894Z",
       "discoveredAt": "2026-08-13T04:02:31.627Z",
       "score": 81
+    },
+    {
+      "name": "voipsense-maroc-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for the VoIPSense Cloud public API (VoIPSense Maroc): click-to-call, hangup, transfer, recordings, leads, campaigns, dispositions and GoHighLevel services, plus optional console mode (analytics, live PBX status, CRM, omnichannel inbox) from Cla",
+      "license": "MIT",
+      "repository": "https://github.com/Yasmine-Works/VoIPSense-Maroc-MCP",
+      "npmUrl": "https://www.npmjs.com/package/voipsense-maroc-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-22T09:00:14.773Z",
+      "discoveredAt": "2026-10-23T01:21:14.453Z",
+      "score": 100
     },
     {
       "name": "volcanoes-mcp",
