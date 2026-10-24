@@ -1214,6 +1214,18 @@
       "score": 74
     },
     {
+      "name": "@actvite/ceci",
+      "version": "1.0.0",
+      "description": "Agent skill for Claude Code, Codex, Grok, Cline, Goose, and Hermes that turns a goal into a job graph, runs ready jobs in dependency order, stops at human gates before contact, posting, payment, or pricing, places GPU jobs, and gates code changes with /rd",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/actviteai/ceci",
+      "npmUrl": "https://www.npmjs.com/package/%40actvite%2Fceci",
+      "category": "build-tools",
+      "createdAt": "2026-10-24T00:29:15.602Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
+    },
+    {
       "name": "@adamclayd/firebase-admin",
       "version": "2.11.0",
       "description": "Firebase Admin SDK for Cloudflare Workers and edge runtimes using REST APIs with support for the Firebase emulators for local development",
@@ -1536,6 +1548,18 @@
       "createdAt": "2026-08-06T14:07:16.150Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 100
+    },
+    {
+      "name": "@adsorgcn/hotel-corporate-codes",
+      "version": "1.1.0",
+      "description": "Open-source hotel corporate codes database — 290 corporate discount codes across 10 hotel groups: Marriott, Hilton, IHG, Hyatt, Wyndham, Radisson, Best Western, Choice, Accor & Omni",
+      "license": "MIT",
+      "repository": "https://github.com/adsorgcn/hotel-corporate-codes",
+      "npmUrl": "https://www.npmjs.com/package/%40adsorgcn%2Fhotel-corporate-codes",
+      "category": "data",
+      "createdAt": "2026-10-23T22:54:43.308Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 98
     },
     {
       "name": "@ae402/sdk",
@@ -3252,6 +3276,18 @@
       "createdAt": "2026-08-11T16:00:24.020Z",
       "discoveredAt": "2026-08-11T17:44:15.060Z",
       "score": 78
+    },
+    {
+      "name": "@alkemist-17/ropes",
+      "version": "1.0.0",
+      "description": "A TypeScript library for generating cryptographically secure random strings with configurable alphabets, sizes, and formatting options.",
+      "license": "MIT",
+      "repository": "https://github.com/alkemist-17/ropes",
+      "npmUrl": "https://www.npmjs.com/package/%40alkemist-17%2Fropes",
+      "category": "frontend",
+      "createdAt": "2026-10-23T04:06:10.863Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 93
     },
     {
       "name": "@allansantos-dev/agent-launcher",
@@ -5196,6 +5232,18 @@
       "createdAt": "2026-07-30T10:41:42.632Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 75
+    },
+    {
+      "name": "@andygo.dev/docs-harness",
+      "version": "1.0.0",
+      "description": "Local AI development harness for a project's own documentation: SQLite/FTS5 (optionally hybrid) search over your docs, served to coding agents through an MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/andygo-develop/docs-harness",
+      "npmUrl": "https://www.npmjs.com/package/%40andygo.dev%2Fdocs-harness",
+      "category": "backend",
+      "createdAt": "2026-10-23T11:56:16.890Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 92
     },
     {
       "name": "@andygo.dev/nestjs-harness",
@@ -20318,6 +20366,18 @@
       "score": 80
     },
     {
+      "name": "@eyrad/eyrad-helpers-sdk",
+      "version": "1.0.0",
+      "description": "Eyrad helper SDK: validation, HTTP & form submission, notifications and storage. Zero dependencies, tree-shakable, TypeScript-first.",
+      "license": "MIT",
+      "repository": "https://github.com/mahmoudabdelhalim/eyrad-helpers-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40eyrad%2Feyrad-helpers-sdk",
+      "category": "backend",
+      "createdAt": "2026-10-23T18:39:45.146Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 91
+    },
+    {
       "name": "@faanau/kuromoji",
       "version": "0.2.1",
       "description": "JavaScript implementation of a Japanese morphological analyzer — maintained fork of takuyaa/kuromoji.js",
@@ -34706,6 +34766,18 @@
       "score": 68
     },
     {
+      "name": "@kaide-labs/osa",
+      "version": "0.3.0",
+      "description": "OSA -- One-Shot Anything: a local, headless harness that takes one prompt, locks a baby PRD, and runs a build with an independent reviewer across Claude Code, Codex CLI and Antigravity CLI, driven by CLI or as a local MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/Kaide-LABS/osa",
+      "npmUrl": "https://www.npmjs.com/package/%40kaide-labs%2Fosa",
+      "category": "backend",
+      "createdAt": "2026-10-23T23:31:22.417Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 90
+    },
+    {
       "name": "@kaidn/angular",
       "version": "1.0.0",
       "description": "Angular bindings for Kaidn device intelligence. A DI service over @kaidn/fp, built from runtime API only so no Angular compiler is involved.",
@@ -41520,6 +41592,18 @@
       "createdAt": "2026-08-11T10:22:41.429Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 64
+    },
+    {
+      "name": "@miinded/nuxt-wagmi-btc",
+      "version": "2.0.0",
+      "description": "Nuxt module that connects Bitcoin wallets (Xverse, Leather, Magic Eden, Phantom, Unisat) behind one wagmi-like API: addresses, message and PSBT signing, BTC transfers.",
+      "license": "MIT",
+      "repository": "https://github.com/Miinded/nuxt-wagmi-btc",
+      "npmUrl": "https://www.npmjs.com/package/%40miinded%2Fnuxt-wagmi-btc",
+      "category": "backend",
+      "createdAt": "2026-10-23T10:24:56.047Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 96
     },
     {
       "name": "@mikiguillamon/n8n-nodes-bark",
@@ -49452,6 +49536,18 @@
       "createdAt": "2026-10-07T05:49:50.527Z",
       "discoveredAt": "2026-10-08T02:36:47.962Z",
       "score": 99
+    },
+    {
+      "name": "@paperoffice-ai/mcp",
+      "version": "1.0.0",
+      "description": "PaperOffice AI MCP server for Claude Desktop, Claude Code, Cursor, VS Code and Windsurf: document AI, OCR, invoice extraction and an AI document management system (DMS) for your AI assistant. EU-hosted.",
+      "license": "MIT",
+      "repository": "https://github.com/paperoffice-ai/paperoffice-mcp-setup",
+      "npmUrl": "https://www.npmjs.com/package/%40paperoffice-ai%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-10-23T13:02:31.776Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 93
     },
     {
       "name": "@paputechxyz/claude-code-backup",
@@ -70586,6 +70682,18 @@
       "score": 90
     },
     {
+      "name": "@ybbmm/dsh-translation-pane",
+      "version": "1.2.0",
+      "description": "Translation workbench for DeepSeek Harness: a sidebar panel that translates text through Bing or Google with retries, caching, rate limiting and automatic provider failover, plus a translate_text tool for the agent. | DeepSeek Harness 翻译插件：侧边栏翻译面板，支持 Bing",
+      "license": "MIT",
+      "repository": "https://github.com/jack-001-a/deepseek-harness-translation-pane",
+      "npmUrl": "https://www.npmjs.com/package/%40ybbmm%2Fdsh-translation-pane",
+      "category": "utilities",
+      "createdAt": "2026-10-23T12:44:09.215Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 98
+    },
+    {
       "name": "@yceachan/pi-better-btw",
       "version": "1.0.1",
       "description": "Fork of nicobailon/pi-side-chat (https://github.com/nicobailon/pi-side-chat) — /btw (alias /side) forks the current conversation into a non-capturing side-chat overlay: read-only lane with lane enforcement, prompt pack, shared-prefix caching, mouse select",
@@ -74882,6 +74990,30 @@
       "score": 79
     },
     {
+      "name": "alpha-video-gpu-encoder",
+      "version": "1.0.0",
+      "description": "Encode PNG sequences and videos into ASTC texture arrays in KTX2 files, with premultiplied alpha, zstd and seek points, for the alpha-video-gpu player.",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/alpha-video-gpu-encoder",
+      "npmUrl": "https://www.npmjs.com/package/alpha-video-gpu-encoder",
+      "category": "cli",
+      "createdAt": "2026-10-23T13:33:21.292Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 95
+    },
+    {
+      "name": "alpha-video-web",
+      "version": "1.0.0",
+      "description": "Transparent WebM video (VP8, VP9 and AV1 with alpha, single- or dual-stream) in every modern browser, including those that can't show transparent video themselves, such as Safari: <video> where it keeps WebM alpha, otherwise WebCodecs or a WebAssembly dec",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/alpha-video",
+      "npmUrl": "https://www.npmjs.com/package/alpha-video-web",
+      "category": "frontend",
+      "createdAt": "2026-10-23T15:17:23.545Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
+    },
+    {
       "name": "alphanana",
       "version": "0.1.0",
       "description": "Transparent PNG generation with Gemini image models (nano banana): exact difference-matte alpha, quality guards, style-locked variants and manifest-driven batches.",
@@ -78530,6 +78662,30 @@
       "score": 81
     },
     {
+      "name": "brooks-lint",
+      "version": "1.9.0",
+      "description": "AI code quality reviews grounded in twelve engineering books, with six portable Agent Skills for coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/hyhmrright/brooks-lint",
+      "npmUrl": "https://www.npmjs.com/package/brooks-lint",
+      "category": "utilities",
+      "createdAt": "2026-10-24T01:22:26.825Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 91
+    },
+    {
+      "name": "brotli-polyfill",
+      "version": "1.0.0",
+      "description": "Fail-safe Brotli decompression shim for Node runtimes with an unpatched native decoder (CVE-2026-111497). Routes Brotli decoding through the patched decoder sandboxed in WebAssembly (pure-JS fallback), as an interim mitigation until the runtime is upgrade",
+      "license": "MIT",
+      "repository": "https://github.com/carlosroberto555/brotli-polyfill",
+      "npmUrl": "https://www.npmjs.com/package/brotli-polyfill",
+      "category": "utilities",
+      "createdAt": "2026-10-23T16:25:48.119Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 92
+    },
+    {
       "name": "browser-boundary",
       "version": "1.2.0",
       "description": "Find the oldest real browser version your website can actually run on. Detects compatibility boundaries across Chromium/Firefox/WebKit using real historical browser binaries.",
@@ -78840,6 +78996,18 @@
       "createdAt": "2026-09-28T12:03:55.458Z",
       "discoveredAt": "2026-09-29T02:31:50.954Z",
       "score": 92
+    },
+    {
+      "name": "bun-plugin-oxc",
+      "version": "1.4.7",
+      "description": "Oxc 0.153 for Bun: parser, transformer (TS, JSX, decorators, React Refresh), isolated declarations, minifier, resolver, oxlint (all rules, fixes) and oxfmt in one Node-API addon, as a Bun plugin, a typed API, oxc-parser/oxc-transform/oxc-minify drop-ins a",
+      "license": "MIT",
+      "repository": "https://github.com/aphrody-labs/bun",
+      "npmUrl": "https://www.npmjs.com/package/bun-plugin-oxc",
+      "category": "frontend",
+      "createdAt": "2026-10-23T02:18:15.578Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 97
     },
     {
       "name": "bun-plugin-qiankun",
@@ -89654,6 +89822,18 @@
       "score": 88
     },
     {
+      "name": "dsh-websearch-tavily-keys-select",
+      "version": "3.0.0",
+      "description": "DSH 的 Web 搜索链路：源 → key → 额度 三级模型。一个源可放多把 key（每把独立额度、可单独启停/删除），源有自己的计费方式；key 额度用完自动换同源下一把，整源不可用再换下一个源。内置腾讯元宝搜索（SearchPro，额度闸门 + Freshness/Site 意图解析）、Tavily（credits 记账 + 查额度）、DeepSeek 搜索 API。",
+      "license": "MIT",
+      "repository": "https://github.com/apherchin/dsh-websearch-tavily-keys-select",
+      "npmUrl": "https://www.npmjs.com/package/dsh-websearch-tavily-keys-select",
+      "category": "backend",
+      "createdAt": "2026-09-29T16:20:55.924Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 98
+    },
+    {
       "name": "dsh-wechat-bridge",
       "version": "1.1.0",
       "description": "把 DeepSeek Harness (DSH) 接到微信「龙虾」(ClawBot)：iLink 协议直连 + 通用桥接，零依赖",
@@ -94850,6 +95030,30 @@
       "score": 70
     },
     {
+      "name": "glyphfox",
+      "version": "1.0.0",
+      "description": "Variable, morphable and fusable open source icons on a 24 grid, with React, Vue, Svelte, Solid, Preact, Qwik, Lit, Astro, React Native, Ember, web component, Tailwind and CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/kwy404/glyphfox",
+      "npmUrl": "https://www.npmjs.com/package/glyphfox",
+      "category": "frontend",
+      "createdAt": "2026-10-24T00:51:13.659Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 97
+    },
+    {
+      "name": "glyphfox-universe",
+      "version": "1.0.0",
+      "description": "One glyphfox API over more than 400,000 open license icons from established sets: a prefix:name resolver, search, license metadata on every icon, style transforms and offline bundling.",
+      "license": "MIT",
+      "repository": "https://github.com/kwy404/glyphfox",
+      "npmUrl": "https://www.npmjs.com/package/glyphfox-universe",
+      "category": "backend",
+      "createdAt": "2026-10-24T00:51:29.514Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 92
+    },
+    {
       "name": "glyphlint",
       "version": "0.1.0",
       "description": "Accessibility scanner for defects caused by writing systems. Runs axe-core, then adds a script-aware rule layer on top.",
@@ -97296,6 +97500,18 @@
       "createdAt": "2026-08-05T10:12:05.700Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 79
+    },
+    {
+      "name": "idora.js",
+      "version": "1.0.0",
+      "description": "Idora.JS: prefixed, time-ordered entity identifiers such as usr_01k2f9v8ta7m3x0qbrn4dzeh5c. A per-entity prefix tells you what an ID identifies; a lowercase ULID (default) or UUIDv7 makes IDs sort by creation time. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/SrKleRAimBot/Idora",
+      "npmUrl": "https://www.npmjs.com/package/idora.js",
+      "category": "devops",
+      "createdAt": "2026-10-23T11:47:12.183Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
     },
     {
       "name": "idrive-skills",
@@ -102408,6 +102624,18 @@
       "createdAt": "2026-08-10T23:00:50.215Z",
       "discoveredAt": "2026-08-10T23:06:27.902Z",
       "score": 56
+    },
+    {
+      "name": "map-tunisia",
+      "version": "1.0.0",
+      "description": "The most accurate open-source SVG maps of Tunisia: 6 nested partitions (country, regions, districts, governorates, delegations, sectors) × 5 levels of detail × 8 visual modes, plus GeoJSON & TopoJSON.",
+      "license": "(MIT AND ODbL-1.0)",
+      "repository": "https://github.com/Alaa-Taieb/map-tunisia",
+      "npmUrl": "https://www.npmjs.com/package/map-tunisia",
+      "category": "utilities",
+      "createdAt": "2026-10-23T14:33:18.808Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
     },
     {
       "name": "mapa-mental-widget",
@@ -110666,6 +110894,18 @@
       "score": 55
     },
     {
+      "name": "opencode-quota-gui",
+      "version": "1.0.0",
+      "description": "opencode-quota-gui is a local dashboard for OpenCode quota, token usage, sessions, and provider limits. Supports GitHub Copilot, OpenAI (Plus/Pro), Chutes AI, Synthetic, Google AGY, and Z.ai coding plans.",
+      "license": "MIT",
+      "repository": "https://github.com/PVLPM/opencode-quota-gui",
+      "npmUrl": "https://www.npmjs.com/package/opencode-quota-gui",
+      "category": "utilities",
+      "createdAt": "2026-10-23T21:23:12.074Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
+    },
+    {
       "name": "opencode-ralph-loop-support",
       "version": "1.0.1",
       "description": "Self-referential development loop for OpenCode — auto-continuation until completion promise",
@@ -114662,6 +114902,18 @@
       "score": 87
     },
     {
+      "name": "pictoggle",
+      "version": "1.0.0",
+      "description": "Zero-dependency image checkbox. Any PNG/SVG/WebP/GIF becomes a toggle: full colour when checked, grayscale when not. Ships as a form-associated <pic-toggle> custom element that behaves like a native <input type=\"checkbox\"> (FormData, required, reset, back",
+      "license": "MIT",
+      "repository": "https://github.com/Insider515/pictoggle",
+      "npmUrl": "https://www.npmjs.com/package/pictoggle",
+      "category": "frontend",
+      "createdAt": "2026-10-23T11:29:22.721Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
+    },
+    {
       "name": "piecework",
       "version": "0.1.0",
       "description": "Share a file with anyone in one command. A real peer-to-peer file-sharing protocol, implemented from scratch: bencoding, SHA-1 piece verification, a tracker, and the actual BitTorrent peer wire protocol (BEP 3).",
@@ -117650,6 +117902,18 @@
       "score": 88
     },
     {
+      "name": "react-native-alpha-video",
+      "version": "1.0.0",
+      "description": "Transparent video for React Native: VP8, VP9 or AV1 WebM with alpha on iOS and Android, decoded by a C++ core (libvpx, dav1d for AV1) or the Android hardware decoder, drawn with Metal and OpenGL ES. On the web, alpha-video-web shows the alpha in every bro",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/alpha-video",
+      "npmUrl": "https://www.npmjs.com/package/react-native-alpha-video",
+      "category": "frontend",
+      "createdAt": "2026-10-23T15:25:31.540Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 100
+    },
+    {
       "name": "react-native-alpha-video-ffmpegkit",
       "version": "1.0.0",
       "description": "Transparent video for React Native: VP9 WebM with alpha on iOS and Android, decoded by FFmpegKit from plain Java and Swift, drawn with Metal / OpenGL ES or as bitmaps. Falls back to <video> on the web.",
@@ -117659,6 +117923,18 @@
       "category": "frontend",
       "createdAt": "2026-10-20T01:54:06.514Z",
       "discoveredAt": "2026-10-21T01:24:57.181Z",
+      "score": 100
+    },
+    {
+      "name": "react-native-alpha-video-gpu",
+      "version": "1.0.0",
+      "description": "Transparent (alpha) animations for React Native on Android, iOS and web, from ASTC texture arrays in KTX2 files. The GPU draws the frames as stored, with Metal, OpenGL ES or WebGL, so dozens play at once with little CPU.",
+      "license": "MIT",
+      "repository": "https://github.com/MediaCacheDev/alpha-video-gpu",
+      "npmUrl": "https://www.npmjs.com/package/react-native-alpha-video-gpu",
+      "category": "frontend",
+      "createdAt": "2026-10-23T14:13:57.689Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
       "score": 100
     },
     {
@@ -119858,6 +120134,18 @@
       "score": 59
     },
     {
+      "name": "ressort",
+      "version": "1.0.0",
+      "description": "Damped springs solved exactly: frame rate independent steppers for numbers, vectors and quaternions, and springs as easing functions.",
+      "license": "MIT",
+      "repository": "https://github.com/dmnsgn/ressort",
+      "npmUrl": "https://www.npmjs.com/package/ressort",
+      "category": "devops",
+      "createdAt": "2026-10-23T08:49:07.248Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 93
+    },
+    {
       "name": "restitch",
       "version": "0.1.0",
       "description": "See your agent runs as runs, not as forty disconnected HTTP requests.",
@@ -119952,6 +120240,18 @@
       "createdAt": "2026-08-03T01:47:20.641Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 76
+    },
+    {
+      "name": "retrospect-cli",
+      "version": "1.0.0",
+      "description": "Evolution-aware code search for git repositories: find current code by its former names, and ask questions grounded in code and history.",
+      "license": "MIT",
+      "repository": "https://github.com/K-NagaCharan/RETROSPECT",
+      "npmUrl": "https://www.npmjs.com/package/retrospect-cli",
+      "category": "data",
+      "createdAt": "2026-10-23T12:02:10.379Z",
+      "discoveredAt": "2026-10-24T01:26:18.291Z",
+      "score": 91
     },
     {
       "name": "retry-kit-js",
