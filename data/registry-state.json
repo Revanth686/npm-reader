@@ -1,7 +1,36 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 139281135,
-  "lastRunAt": "2026-10-24T01:26:18.291Z",
+  "lastSequence": 139439021,
+  "lastRunAt": "2026-10-25T00:56:02.259Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@amdrautomate/n8n-nodes-docusign",
+      "attempts": 1
+    },
+    {
+      "name": "@empiriolabs/langchain",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-crypto-h2-0-0-linux-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-crypto-h2-0-0-linux-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-crypto-h2-0-0-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-crypto-h2-0-0-win32-x64",
+      "attempts": 1
+    },
+    {
+      "name": "@haybarn/ext-crypto-h2-0-0",
+      "attempts": 1
+    }
+  ]
 }

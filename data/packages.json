@@ -1226,6 +1226,18 @@
       "score": 100
     },
     {
+      "name": "@actvite/rdapq",
+      "version": "2.1.0",
+      "description": "Research-Driven Adaptive Planning with Quality Gates (RDAP-Q) — evidence-first protocol and skill for AI coding agents. A bundled tool runs the checks and names the result, so the model never grades itself. Codex, Grok, Copilot, Antigravity, Goose, Claude",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/actviteai/rdapq",
+      "npmUrl": "https://www.npmjs.com/package/%40actvite%2Frdapq",
+      "category": "build-tools",
+      "createdAt": "2026-10-24T05:00:11.316Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 100
+    },
+    {
       "name": "@adamclayd/firebase-admin",
       "version": "2.11.0",
       "description": "Firebase Admin SDK for Cloudflare Workers and edge runtimes using REST APIs with support for the Firebase emulators for local development",
@@ -1898,6 +1910,18 @@
       "score": 76
     },
     {
+      "name": "@agentbeacon-sh/cli",
+      "version": "0.1.0",
+      "description": "AgentBeacon from the terminal. Create a beacon: a few plain words about what you have or need right now. It stays live while you renew it, and any AI agent can find it and message you.",
+      "license": "MIT",
+      "repository": "https://github.com/agentbeacon-hq/cli",
+      "npmUrl": "https://www.npmjs.com/package/%40agentbeacon-sh%2Fcli",
+      "category": "cli",
+      "createdAt": "2026-10-24T07:35:19.897Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 88
+    },
+    {
       "name": "@agentchatme/agent-core",
       "version": "0.0.11",
       "description": "Shared host-agnostic engine for AgentChat coding-agent integrations — wire protocol, identity storage, session digest, hook state machine, always-on daemon internals. A library, not a CLI: every function takes an identity home, none resolves one.",
@@ -2148,6 +2172,18 @@
       "createdAt": "2026-07-27T12:00:53.752Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 66
+    },
+    {
+      "name": "@agentproto/app",
+      "version": "2.3.0",
+      "description": "@agentproto/app — declare an agent (with its system prompt) and its workflows in one TypeScript module and import them anywhere. A thin umbrella over AIP-42 defineAgent + AIP-15 defineWorkflow: defineApp cross-links the two (every workflow agent-step must",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agentproto/ts",
+      "npmUrl": "https://www.npmjs.com/package/%40agentproto%2Fapp",
+      "category": "build-tools",
+      "createdAt": "2026-10-24T23:34:09.748Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 96
     },
     {
       "name": "@agentrag/client",
@@ -5268,6 +5304,18 @@
       "createdAt": "2026-10-05T13:19:55.653Z",
       "discoveredAt": "2026-10-06T02:48:34.985Z",
       "score": 90
+    },
+    {
+      "name": "@angelky7/dsh-browser-control",
+      "version": "1.1.0",
+      "description": "Local WebSocket bridge between dsh and the DSH Browser Control browser extension, with model-facing browser_* tools and a Settings-managed on/off switch",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/angelky7/dsh-browser-control",
+      "npmUrl": "https://www.npmjs.com/package/%40angelky7%2Fdsh-browser-control",
+      "category": "frontend",
+      "createdAt": "2026-10-24T12:08:04.005Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 93
     },
     {
       "name": "@angelyeye/dsh-cost-tracker",
@@ -15650,6 +15698,18 @@
       "score": 68
     },
     {
+      "name": "@devandreotti/crumple",
+      "version": "1.0.0",
+      "description": "Crumpled paper you can open: a dependency-free WebGL2 library that flies a crumpled note to the center of the screen and unfolds it into a readable sheet.",
+      "license": "MIT",
+      "repository": "https://github.com/devAndreotti/crumple",
+      "npmUrl": "https://www.npmjs.com/package/%40devandreotti%2Fcrumple",
+      "category": "utilities",
+      "createdAt": "2026-10-24T21:06:09.631Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 95
+    },
+    {
       "name": "@devcodex/opentelemetry",
       "version": "2.1.15",
       "description": "Framework-agnostic OpenTelemetry SDK wrapper — zero-config traces, metrics, Span API and multi-framework adapters",
@@ -19728,6 +19788,18 @@
       "createdAt": "2026-08-16T04:57:08.458Z",
       "discoveredAt": "2026-08-16T12:53:42.849Z",
       "score": 86
+    },
+    {
+      "name": "@ericwang1358/dsh-daily-flashcard",
+      "version": "3.6.2",
+      "description": "StudyHub: turn your lecture slides into questions that each link back to their page; finish a round and see yourself getting it.",
+      "license": "MIT",
+      "repository": "https://github.com/EricWang1358/dsh-web-studyhub",
+      "npmUrl": "https://www.npmjs.com/package/%40ericwang1358%2Fdsh-daily-flashcard",
+      "category": "utilities",
+      "createdAt": "2026-10-24T19:27:55.499Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 92
     },
     {
       "name": "@ericzhaozzz/wechat-channel",
@@ -36986,6 +37058,18 @@
       "score": 91
     },
     {
+      "name": "@lakutata/webrtc",
+      "version": "3.1.1",
+      "description": "WebRTC for the lakutata framework, in TypeScript without native code: the signaling, a STUN/TURN server, a media server (SFU) for rooms of many members, WHIP publishing and WHEP playback, peer connections with data channels and audio and video tracks in N",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fwebrtc",
+      "category": "backend",
+      "createdAt": "2026-10-24T13:49:08.450Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 100
+    },
+    {
       "name": "@lancher-dev/create-jaad",
       "version": "0.1.0",
       "description": "Scaffold a JAAD documentation site, or add one to a repository that already has a docs folder.",
@@ -37668,6 +37752,18 @@
       "createdAt": "2026-07-29T07:52:58.281Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 81
+    },
+    {
+      "name": "@likemiens/aura",
+      "version": "1.0.1",
+      "description": "Glowing data tiles as Web Components: any number, or the weather in one call. Ten gauges, states and a board people can rearrange. No dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Likemiens/aura",
+      "npmUrl": "https://www.npmjs.com/package/%40likemiens%2Faura",
+      "category": "data",
+      "createdAt": "2026-10-24T12:51:57.585Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 94
     },
     {
       "name": "@lilohuang/zeroperl-ts",
@@ -48686,6 +48782,18 @@
       "score": 60
     },
     {
+      "name": "@ortho-earth/splat",
+      "version": "0.6.0",
+      "description": "Gaussian splats for @ortho-earth/globe: fills the reserved map.addData kind \"splat\" (SplatData or .ply / .splat / .spz / .ksplat / .sog URLs), drawn as a same-frame overlay (WebGPU: spherical harmonics, GPU sort, shared device and depth; WebGL2 fallback)",
+      "license": "GPL-3.0-or-later",
+      "repository": "https://github.com/kenjiyoshidahome2026-bit/ortho-earth",
+      "npmUrl": "https://www.npmjs.com/package/%40ortho-earth%2Fsplat",
+      "category": "data",
+      "createdAt": "2026-10-24T23:41:13.429Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 90
+    },
+    {
       "name": "@os-eco/warren-cli",
       "version": "0.14.0",
       "description": "Self-hostable control plane for ephemeral cloud agents — spawn sandboxed agents at your GitHub repos, watch them work live, steer them, get a branch back",
@@ -57926,6 +58034,18 @@
       "score": 77
     },
     {
+      "name": "@shmindmaster/agenthub",
+      "version": "0.1.0",
+      "description": "See every MCP server, skill and instruction file your coding agents load, and what's broken. Read-only doctor plus a sync engine for Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and more.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shmindmaster/agenthub",
+      "npmUrl": "https://www.npmjs.com/package/%40shmindmaster%2Fagenthub",
+      "category": "backend",
+      "createdAt": "2026-10-24T17:44:47.088Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 89
+    },
+    {
       "name": "@shopeasy/knowledge",
       "version": "0.1.0",
       "description": "Gerencia a base de conhecimento (Markdown) do ShopEasy e monta o melhor contexto textual possível para enviar a uma IA sem RAG/vetores.",
@@ -61128,6 +61248,18 @@
       "createdAt": "2026-08-13T13:33:51.789Z",
       "discoveredAt": "2026-08-13T14:10:59.115Z",
       "score": 79
+    },
+    {
+      "name": "@subimpact/data-mcp",
+      "version": "1.0.0",
+      "description": "MCP server exposing subimpact's Apify Store actors: Google SERP + AI Overviews, Google AI Mode, news, Maps, jobs, trends, social media and commerce data as MCP tools. Runs on your own Apify account.",
+      "license": "MIT",
+      "repository": "https://github.com/subimpact/data-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40subimpact%2Fdata-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-24T11:23:01.937Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 99
     },
     {
       "name": "@substrat-run/engine-metering",
@@ -69626,6 +69758,18 @@
       "score": 76
     },
     {
+      "name": "@workingmodel/mcp-migrate-0728",
+      "version": "1.1.0",
+      "description": "Check your deployed MCP server against the 2026-07-28 spec — live wire probe plus SDK-aware static scan, with a fix for every finding.",
+      "license": "MIT",
+      "repository": "https://github.com/workingmodel/wm-mcp-migrate-0728",
+      "npmUrl": "https://www.npmjs.com/package/%40workingmodel%2Fmcp-migrate-0728",
+      "category": "backend",
+      "createdAt": "2026-10-24T22:07:05.333Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 91
+    },
+    {
       "name": "@workser/cli",
       "version": "0.2.0",
       "description": "Workser CLI — give your local AI agent native DevOps & infrastructure on Workser. The agent runs `workser …` to provision, deploy, and manage real apps.",
@@ -75854,6 +75998,18 @@
       "score": 100
     },
     {
+      "name": "apiserpent",
+      "version": "1.1.0",
+      "description": "Official Node.js SDK for the Serpent SERP API — web, news, images, videos, shopping, maps, AI rank, YouTube, Instagram, LinkedIn, eBay, Amazon, TikTok, X and Reddit endpoints",
+      "license": "MIT",
+      "repository": "https://github.com/serpent-api/serpent-node",
+      "npmUrl": "https://www.npmjs.com/package/apiserpent",
+      "category": "backend",
+      "createdAt": "2026-10-24T06:13:54.897Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 97
+    },
+    {
       "name": "apivault",
       "version": "0.1.1",
       "description": "Command-line client for an ApiVault instance. Manage your encrypted API keys from the terminal.",
@@ -77460,6 +77616,18 @@
       "createdAt": "2026-08-11T20:32:40.032Z",
       "discoveredAt": "2026-08-11T20:35:55.479Z",
       "score": 75
+    },
+    {
+      "name": "bash-wp-cli-update",
+      "version": "8.0.4",
+      "description": "Fleet maintenance for WordPress sites through WP-CLI: core, plugin and theme updates, database repair and optimisation, a database dump before anything changes, a restore path, JSON reports and a lock that stops two runs from overlapping.",
+      "license": "PolyForm-Noncommercial-1.0.0",
+      "repository": "https://github.com/paulmann/Bash_WP-CLI_Update",
+      "npmUrl": "https://www.npmjs.com/package/bash-wp-cli-update",
+      "category": "data",
+      "createdAt": "2026-10-24T11:45:49.699Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 100
     },
     {
       "name": "bastok",
@@ -89366,6 +89534,18 @@
       "score": 100
     },
     {
+      "name": "dsh-sw-cad",
+      "version": "0.1.0",
+      "description": "Drives the installed AutoCAD and SolidWorks desktop apps from dsh or Codex: two on-demand skills plus two MCP servers, with a discovery shim that keeps the SolidWorks tool catalog at 256 tokens instead of 23,404.",
+      "license": "MIT",
+      "repository": "https://github.com/27painter/dsh-sw-cad",
+      "npmUrl": "https://www.npmjs.com/package/dsh-sw-cad",
+      "category": "backend",
+      "createdAt": "2026-10-24T08:21:44.789Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 90
+    },
+    {
       "name": "dsh-t3-new-session-screen",
       "version": "1.0.0",
       "description": "T3 Code's New Session screen for DeepSeek Harness: the \"What should we build in <project>?\" headline with an inline project dropdown, a reasoning-effort picker and a git branch picker in the composer.",
@@ -91620,6 +91800,18 @@
       "createdAt": "2026-08-09T15:27:38.438Z",
       "discoveredAt": "2026-08-09T16:24:10.750Z",
       "score": 65
+    },
+    {
+      "name": "everything-bob",
+      "version": "1.3.1",
+      "description": "The open-source skill library, hook harness, rule system, and multi-mode orchestrator for IBM Bob",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/salmandev/everything-bob",
+      "npmUrl": "https://www.npmjs.com/package/everything-bob",
+      "category": "devops",
+      "createdAt": "2026-10-24T10:14:43.693Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 89
     },
     {
       "name": "evestack",
@@ -95339,6 +95531,18 @@
       "category": "cli",
       "createdAt": "2026-08-19T22:16:13.732Z",
       "discoveredAt": "2026-08-20T01:43:11.385Z",
+      "score": 100
+    },
+    {
+      "name": "graph-propagate",
+      "version": "1.4.0",
+      "description": "Graph-first reverse engineering for legacy systems (Reversa fork with graphify). Codex agents query a graphify knowledge graph of the code before reading files, so analysis runs faster with far fewer tokens. graphify is installed automatically on first ru",
+      "license": "MIT",
+      "repository": "https://github.com/amany9000/graph-propagate",
+      "npmUrl": "https://www.npmjs.com/package/graph-propagate",
+      "category": "devops",
+      "createdAt": "2026-10-24T11:39:26.465Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
       "score": 100
     },
     {
@@ -105444,6 +105648,18 @@
       "createdAt": "2026-08-14T21:44:12.126Z",
       "discoveredAt": "2026-08-14T22:13:55.561Z",
       "score": 55
+    },
+    {
+      "name": "mokido",
+      "version": "4.3.0",
+      "description": "Zero-dependency MCP bridge with write access to a live Figma canvas, auto-framed screenshot feedback, and one-call rollback. Works on the Figma free plan.",
+      "license": "MIT",
+      "repository": "https://github.com/kolganovr/mokido",
+      "npmUrl": "https://www.npmjs.com/package/mokido",
+      "category": "backend",
+      "createdAt": "2026-10-24T07:22:51.953Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 95
     },
     {
       "name": "moleculer-otel",
@@ -118802,6 +119018,18 @@
       "score": 88
     },
     {
+      "name": "react-native-secure-auth",
+      "version": "1.0.0",
+      "description": "React Native bridge for AppAuth (OAuth 2.0 / OpenID Connect) with customizable browser headers, browser postMessage messaging, discovery helpers and automatic token refresh",
+      "license": "MIT",
+      "repository": "https://github.com/musti-91/react-native-secure-auth",
+      "npmUrl": "https://www.npmjs.com/package/react-native-secure-auth",
+      "category": "frontend",
+      "createdAt": "2026-10-24T09:39:53.775Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 94
+    },
+    {
       "name": "react-native-shared-transition",
       "version": "0.2.1",
       "description": "Automatic shared element transitions for React Native — New Architecture, Nitro Modules, Reanimated",
@@ -118956,6 +119184,18 @@
       "createdAt": "2026-08-15T10:26:21.554Z",
       "discoveredAt": "2026-08-15T10:40:41.879Z",
       "score": 65
+    },
+    {
+      "name": "react-native-vision-camera-recognition",
+      "version": "2.0.7",
+      "description": "On-device Latin-script live and photo OCR for React Native VisionCamera using ML Kit. Modified fork of react-native-vision-camera-ocr-plus.",
+      "license": "MIT",
+      "repository": "https://github.com/darkmadani/react-native-vision-camera-recognition",
+      "npmUrl": "https://www.npmjs.com/package/react-native-vision-camera-recognition",
+      "category": "frontend",
+      "createdAt": "2026-10-24T05:02:23.238Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 93
     },
     {
       "name": "react-native-webrtc-playback",
@@ -119868,6 +120108,18 @@
       "createdAt": "2026-07-27T23:38:03.302Z",
       "discoveredAt": "2026-07-27T23:53:58.991Z",
       "score": 70
+    },
+    {
+      "name": "replyonce",
+      "version": "0.1.0",
+      "description": "Stop your agent from replying, refunding or ticketing twice. Idempotency keys, per-conversation write fencing and an effect ledger for tool-calling agents, webhook handlers and queue workers.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shmindmaster/replyonce",
+      "npmUrl": "https://www.npmjs.com/package/replyonce",
+      "category": "data",
+      "createdAt": "2026-10-24T17:03:27.287Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 89
     },
     {
       "name": "repo-atlas-mcp",
@@ -125858,6 +126110,18 @@
       "score": 85
     },
     {
+      "name": "subtext-scan",
+      "version": "0.1.0",
+      "description": "Catch the instructions hidden in a document before your agent follows them. Finds text a model reads but a person cannot see in PDF, DOCX and HTML (white-on-white, tiny, off-page, invisible render mode, hidden layers, covered text, metadata and annotation",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shmindmaster/subtext-scan",
+      "npmUrl": "https://www.npmjs.com/package/subtext-scan",
+      "category": "data",
+      "createdAt": "2026-10-24T17:03:41.920Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 90
+    },
+    {
       "name": "subtitle-workbench",
       "version": "0.2.0",
       "description": "Convert Blu-ray PGS and DVD VobSub subtitles to SRT, locally.",
@@ -126036,6 +126300,18 @@
       "createdAt": "2026-08-03T21:13:27.523Z",
       "discoveredAt": "2026-08-03T22:05:36.466Z",
       "score": 95
+    },
+    {
+      "name": "superbuilt",
+      "version": "1.0.0",
+      "description": "100+ missing built-in functions for Node.js - range, shuffle, sprintf, ucfirst, chunk, sleep, and more!",
+      "license": "MIT",
+      "repository": "https://github.com/naveedchanna/superbuilt",
+      "npmUrl": "https://www.npmjs.com/package/superbuilt",
+      "category": "data",
+      "createdAt": "2026-10-24T18:10:00.290Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 90
     },
     {
       "name": "superdocs-app-cli",
@@ -131198,6 +131474,18 @@
       "score": 75
     },
     {
+      "name": "volito",
+      "version": "0.1.0",
+      "description": "Volito by MONARC STUDIOS: brand-aware, voice-synced motion graphics as code. Packs of ready-made graphics, a CLI, a Node API and an MCP server that render them to ProRes 4444, WebM, MP4, GIF, PNG or SVG.",
+      "license": "(MIT AND LicenseRef-MONARC-Packs-1.0)",
+      "repository": "https://github.com/monarcpro/volito",
+      "npmUrl": "https://www.npmjs.com/package/volito",
+      "category": "backend",
+      "createdAt": "2026-10-24T02:12:50.842Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 90
+    },
+    {
       "name": "voryn-core",
       "version": "0.1.1",
       "description": "A change engine for JavaScript and TypeScript objects — diff, apply, reverse, merge, and undo/redo for structured data.",
@@ -133092,6 +133380,18 @@
       "createdAt": "2026-09-30T10:17:02.935Z",
       "discoveredAt": "2026-10-01T01:55:29.783Z",
       "score": 98
+    },
+    {
+      "name": "xbox-ai-controller",
+      "version": "1.0.0",
+      "description": "Model Context Protocol (MCP) server & AI Agent controller for Xbox One and Xbox Series consoles. Control power, games, media, volume, and virtual gamepad navigation using natural language.",
+      "license": "MIT",
+      "repository": "https://github.com/SherrySoft/xbox-ai-controller",
+      "npmUrl": "https://www.npmjs.com/package/xbox-ai-controller",
+      "category": "backend",
+      "createdAt": "2026-10-24T20:27:26.962Z",
+      "discoveredAt": "2026-10-25T00:56:02.259Z",
+      "score": 95
     },
     {
       "name": "xchain-mcp",
