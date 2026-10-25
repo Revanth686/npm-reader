@@ -1,35 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 139439021,
-  "lastRunAt": "2026-10-25T00:56:02.259Z",
+  "lastSequence": 139471583,
+  "lastRunAt": "2026-10-25T05:53:07.694Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@amdrautomate/n8n-nodes-docusign",
+      "name": "@nib-ui/js",
       "attempts": 1
     },
     {
-      "name": "@empiriolabs/langchain",
+      "name": "@nib-ui/react",
       "attempts": 1
     },
     {
-      "name": "@haybarn/ext-crypto-h2-0-0-linux-x64",
+      "name": "@nib-ui/svelte",
       "attempts": 1
     },
     {
-      "name": "@haybarn/ext-crypto-h2-0-0-linux-arm64",
+      "name": "@homer0/pi-in-memory-cache",
       "attempts": 1
     },
     {
-      "name": "@haybarn/ext-crypto-h2-0-0-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@haybarn/ext-crypto-h2-0-0-win32-x64",
-      "attempts": 1
-    },
-    {
-      "name": "@haybarn/ext-crypto-h2-0-0",
+      "name": "@homer0/pi-secrets",
       "attempts": 1
     }
   ]
