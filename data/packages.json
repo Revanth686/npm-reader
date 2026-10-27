@@ -1526,6 +1526,18 @@
       "score": 56
     },
     {
+      "name": "@adminuiux/calculator",
+      "version": "1.0.2",
+      "description": "Production-ready, zero-dependency universal JavaScript calculator engine and DOM component with stream arithmetic, smart percentage handling, scientific functions, and accessibility.",
+      "license": "MIT",
+      "repository": "https://github.com/adminuiux/calculator",
+      "npmUrl": "https://www.npmjs.com/package/%40adminuiux%2Fcalculator",
+      "category": "frontend",
+      "createdAt": "2026-10-26T14:28:45.672Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 98
+    },
+    {
       "name": "@admmedia/adam-cookie-consent",
       "version": "1.0.1",
       "description": "ADM Media Consulting SA cookie consent banner: vanilla-cookieconsent preconfigured for GDPR opt-in, wired to Google Consent Mode v2.",
@@ -2916,6 +2928,18 @@
       "createdAt": "2026-07-30T20:22:16.543Z",
       "discoveredAt": "2026-07-30T20:57:53.947Z",
       "score": 76
+    },
+    {
+      "name": "@akin-travel/sdk-embed",
+      "version": "0.1.0",
+      "description": "Framework-agnostic embeddable Akin loyalty + auth widget. Drop-in Web Components (<akin-login>, <akin-loyalty-card>, <akin-tier-progress>) over @akin-travel/sdk-core — integrate on Vue, Angular, Svelte, plain HTML, or any server-rendered stack with a sing",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/akin-travel/akin-online",
+      "npmUrl": "https://www.npmjs.com/package/%40akin-travel%2Fsdk-embed",
+      "category": "frontend",
+      "createdAt": "2026-10-26T03:16:18.036Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
     },
     {
       "name": "@akinet/akidevrule",
@@ -15254,6 +15278,18 @@
       "score": 80
     },
     {
+      "name": "@deepmetier/node-cron",
+      "version": "4.6.0",
+      "description": "Job scheduling for Node.js with overlap prevention, distributed coordination, and background tasks. Zero dependencies, written in TypeScript.",
+      "license": "(AGPL-3.0-only OR LicenseRef-DeepMetier-Commercial)",
+      "repository": "https://github.com/node-cron/node-cron",
+      "npmUrl": "https://www.npmjs.com/package/%40deepmetier%2Fnode-cron",
+      "category": "build-tools",
+      "createdAt": "2026-10-26T09:29:33.623Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 93
+    },
+    {
       "name": "@deepnote/cloud",
       "version": "0.1.0",
       "description": "Client for the Deepnote Cloud runs API",
@@ -22068,6 +22104,18 @@
       "createdAt": "2026-07-29T19:25:38.696Z",
       "discoveredAt": "2026-07-29T20:43:46.425Z",
       "score": 84
+    },
+    {
+      "name": "@foreverworks/mcp-anaf-efactura",
+      "version": "0.1.0",
+      "description": "MCP server for Romania's ANAF e-Factura and e-Transport: read the invoices a company received and sent, check and render them, file new invoices and e-Transport declarations, and look up companies in the VAT registry",
+      "license": "MIT",
+      "repository": "https://github.com/foreverworks/mcps",
+      "npmUrl": "https://www.npmjs.com/package/%40foreverworks%2Fmcp-anaf-efactura",
+      "category": "backend",
+      "createdAt": "2026-10-26T05:19:23.349Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
     },
     {
       "name": "@forgedevstack/calendar",
@@ -34766,6 +34814,18 @@
       "score": 66
     },
     {
+      "name": "@jurisync/jurisync",
+      "version": "1.0.0",
+      "description": "Development-Time Cross-Jurisdictional Compliance Orchestration Layer for AI-Assisted Software Engineering",
+      "license": "MIT",
+      "repository": "https://github.com/thesumedh/jurisync",
+      "npmUrl": "https://www.npmjs.com/package/%40jurisync%2Fjurisync",
+      "category": "utilities",
+      "createdAt": "2026-10-26T17:44:45.598Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
+    },
+    {
       "name": "@jusev/react-native-fold",
       "version": "0.1.0",
       "description": "Foldable and shared-display layout signals for React Native. Built for iPhone Duo and iOS 27.1 reserved regions: where the fold is, which half is which, and which edge your toolbar belongs on.",
@@ -40092,6 +40152,18 @@
       "createdAt": "2026-08-18T08:00:08.497Z",
       "discoveredAt": "2026-10-07T02:11:08.274Z",
       "score": 91
+    },
+    {
+      "name": "@mambalabsdev/mcp-public-feature-board-roadmap-monitor",
+      "version": "1.0.0",
+      "description": "MCP server for Public Feature Board and Roadmap Monitor. Find a company's public feature board (Canny, Featurebase, Frill, UserVoice, Productboard) and get its top requests with votes and status, plus the integrations customers ask for. Runs on Apify. Cla",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-public-feature-board-roadmap-monitor",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-public-feature-board-roadmap-monitor",
+      "category": "backend",
+      "createdAt": "2026-10-26T13:09:11.012Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
     },
     {
       "name": "@mambalabsdev/mcp-publication-cadence-tracker",
@@ -46022,6 +46094,18 @@
       "score": 68
     },
     {
+      "name": "@nifeng15423/straggler-detection",
+      "version": "1.0.0",
+      "description": "Agent skill: detect slow nodes (stragglers) in AI training/inference clusters from Ascend PyTorch Profiler .db files (KMeans + Z-score + elbow anomaly detection). Installable into OpenCode / Claude-compatible skills directories.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Computing-Availability-Tools/CATHelper",
+      "npmUrl": "https://www.npmjs.com/package/%40nifeng15423%2Fstraggler-detection",
+      "category": "utilities",
+      "createdAt": "2026-10-26T02:18:19.321Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 95
+    },
+    {
       "name": "@nifrajs/ag-ui",
       "version": "3.3.0",
       "description": "Mount a nifra agent as an AG-UI (Agent-User Interaction protocol) endpoint - one POST accepting RunAgentInput, a stream of AG-UI events out over SSE: run lifecycle, step and tool-call events from the runner's step evidence, text message events for the out",
@@ -46620,6 +46704,18 @@
       "createdAt": "2026-08-04T08:59:03.716Z",
       "discoveredAt": "2026-08-04T10:28:52.050Z",
       "score": 79
+    },
+    {
+      "name": "@non-zero_ai/agent-xray",
+      "version": "0.3.1",
+      "description": "One command to see what your AI coding agents can reach and run: MCP servers, hooks and auto-run commands, plaintext keys, YOLO modes, poisoned instruction files, Shai-Hulud IOCs. Lockfile + GitHub Action. Read-only, offline, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Non-Zero-AI/agent-xray",
+      "npmUrl": "https://www.npmjs.com/package/%40non-zero_ai%2Fagent-xray",
+      "category": "backend",
+      "createdAt": "2026-10-26T13:16:48.226Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
     },
     {
       "name": "@noobdigital/react-native-dynamic-island",
@@ -69074,6 +69170,18 @@
       "score": 67
     },
     {
+      "name": "@webarkit/camera-view",
+      "version": "0.1.0",
+      "description": "Tracker-agnostic camera capture for WebAR: opens the camera, fits the video into the processing frame (letterbox / rotatePortrait) and produces throttled ImageData / ImageBitmap frames with a structured-cloneable FrameGeometry.",
+      "license": "LGPL-3.0-or-later",
+      "repository": "https://github.com/webarkit/camera-view",
+      "npmUrl": "https://www.npmjs.com/package/%40webarkit%2Fcamera-view",
+      "category": "data",
+      "createdAt": "2026-10-26T22:31:09.866Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
+    },
+    {
       "name": "@webbrain/mcp-server",
       "version": "0.1.0",
       "description": "Model Context Protocol server that lets any MCP client (Claude Code, Codex, Cursor, OpenClaw) delegate browser tasks to a running WebBrain extension — in the user's real, already-authenticated browser session.",
@@ -72948,6 +73056,18 @@
       "createdAt": "2026-08-01T08:20:48.668Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 62
+    },
+    {
+      "name": "academic-research-skills-dsh",
+      "version": "1.0.5",
+      "description": "DeepSeek Harness port of the Academic Research Skills plugin: 5 skills, 16 /ars-* commands, 4 agent roles, write-scope guard, and deterministic Python gates.",
+      "license": "CC-BY-NC-4.0",
+      "repository": "https://github.com/guoqinchen/academic-research-skills-dsh",
+      "npmUrl": "https://www.npmjs.com/package/academic-research-skills-dsh",
+      "category": "utilities",
+      "createdAt": "2026-10-26T17:05:07.622Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 89
     },
     {
       "name": "accordo",
@@ -78888,6 +79008,18 @@
       "createdAt": "2026-09-21T05:16:08.223Z",
       "discoveredAt": "2026-09-21T18:09:38.027Z",
       "score": 89
+    },
+    {
+      "name": "bpmn-canvas",
+      "version": "1.0.0",
+      "description": "A lightweight, zero-dependency workflow canvas and diagram modeler inspired by BPMN 2.0, built with native DOM + SVG architecture.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/dphseven/bpmn-canvas",
+      "npmUrl": "https://www.npmjs.com/package/bpmn-canvas",
+      "category": "frontend",
+      "createdAt": "2026-10-27T00:31:21.742Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 93
     },
     {
       "name": "bpmn-di-gen",
@@ -87362,6 +87494,18 @@
       "score": 80
     },
     {
+      "name": "dsh-bot-team",
+      "version": "1.1.0",
+      "description": "Bot Team: single chats and multi-agent group chat for DeepSeek Harness. Every bot gets a direct chat; create groups/topics, organize them into collapsible custom folders with drag ordering, add full-capability bot agents (files, search, web, workspace, co",
+      "license": "MIT",
+      "repository": "https://github.com/shper/dsh-bot-team",
+      "npmUrl": "https://www.npmjs.com/package/dsh-bot-team",
+      "category": "utilities",
+      "createdAt": "2026-10-27T01:19:36.664Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 100
+    },
+    {
       "name": "dsh-browser4",
       "version": "0.0.1",
       "description": "Browser4 skills bundle for DeepSeek Harness — AI-native browser automation (browser4-cli) for autonomous agents, intelligent extraction, and large-scale web automation. Registers the Browser4 skills (browser4-cli, browser4-experience, browser4-plugin, sce",
@@ -88620,6 +88764,18 @@
       "createdAt": "2026-10-15T01:37:32.583Z",
       "discoveredAt": "2026-10-16T01:04:57.964Z",
       "score": 94
+    },
+    {
+      "name": "dsh-memory-layers",
+      "version": "1.2.1",
+      "description": "Layered long-term memory for DeepSeek Harness: a ~600-character hot layer that evicts its own overflow, month-archived cold entries with usage-ranked keyword recall, and extractive day/week/month summaries that keep injected context small.",
+      "license": "MIT",
+      "repository": "https://github.com/mllun/dsh-memory-layers",
+      "npmUrl": "https://www.npmjs.com/package/dsh-memory-layers",
+      "category": "utilities",
+      "createdAt": "2026-10-26T05:15:13.934Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 98
     },
     {
       "name": "dsh-memvault",
@@ -93974,6 +94130,18 @@
       "score": 96
     },
     {
+      "name": "foldermind",
+      "version": "2.0.0",
+      "description": "Your AI forgets your business. foldermind gives it a map: one command builds a plain-text workspace any AI can read (Claude, Codex, Gemini, Cursor).",
+      "license": "MIT",
+      "repository": "https://github.com/prosulum/foldermind",
+      "npmUrl": "https://www.npmjs.com/package/foldermind",
+      "category": "data",
+      "createdAt": "2026-10-26T05:11:13.349Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 94
+    },
+    {
       "name": "folksum",
       "version": "0.2.0",
       "description": "Financial Intelligence & Record Engine for local-first household finance",
@@ -95966,6 +96134,18 @@
       "score": 74
     },
     {
+      "name": "grandmaster-dev",
+      "version": "1.0.0",
+      "description": "The 40-Year Veteran Staff Architect & DevSecOps Kernel for AI Coding Assistants (Cursor, Claude Code, Antigravity, Windsurf)",
+      "license": "MIT",
+      "repository": "https://github.com/raviattrash-pro/grandmaster-dev",
+      "npmUrl": "https://www.npmjs.com/package/grandmaster-dev",
+      "category": "devops",
+      "createdAt": "2026-10-26T09:21:17.658Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 92
+    },
+    {
       "name": "graph-advocate-mcp",
       "version": "2.11.1",
       "description": "Ask any blockchain data question in plain English and get live data back — 15,500+ subgraphs, Token API, Polymarket and Hyperliquid trader intelligence. Paid calls settle in USDC on Base over x402, or hand the 402 to your own wallet.",
@@ -97332,6 +97512,18 @@
       "createdAt": "2026-08-25T21:05:24.673Z",
       "discoveredAt": "2026-08-26T01:49:06.368Z",
       "score": 89
+    },
+    {
+      "name": "homebridge-synology-monitor",
+      "version": "1.3.0",
+      "description": "Homebridge plugin for a Synology NAS: power it on and off, and see its temperature, CPU and memory load, storage health and DSM updates in HomeKit — with a dashboard of its own",
+      "license": "MIT",
+      "repository": "https://github.com/rummeyer/homebridge-synology-monitor",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-synology-monitor",
+      "category": "utilities",
+      "createdAt": "2026-10-26T11:19:11.758Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 95
     },
     {
       "name": "homebridge-systemline-s62-usb",
@@ -102600,6 +102792,18 @@
       "createdAt": "2026-08-21T09:43:24.962Z",
       "discoveredAt": "2026-08-21T13:02:22.518Z",
       "score": 90
+    },
+    {
+      "name": "logo-craft",
+      "version": "1.0.0",
+      "description": "An agent skill for Claude Code: designs company and product logos from a project's own context with a senior identity designer's method (brief, concepts in black, optics, real typography, calligraphy, OKLCH colour, small-size tests) and ships the full ico",
+      "license": "MIT",
+      "repository": "https://github.com/allexp1/logo-craft-AI-skill",
+      "npmUrl": "https://www.npmjs.com/package/logo-craft",
+      "category": "testing",
+      "createdAt": "2026-10-26T10:04:34.757Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 100
     },
     {
       "name": "logo-vectorizer",
@@ -108446,6 +108650,18 @@
       "score": 70
     },
     {
+      "name": "nestjs-meta-capi",
+      "version": "1.1.0",
+      "description": "Idiomatic NestJS integration for the Meta Conversions API, powered by Meta's official Node.js Business SDK.",
+      "license": "MIT",
+      "repository": "https://github.com/tanvir0604/nestjs-meta-capi",
+      "npmUrl": "https://www.npmjs.com/package/nestjs-meta-capi",
+      "category": "backend",
+      "createdAt": "2026-09-29T12:17:58.284Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 90
+    },
+    {
       "name": "nestjs-slightly-better-auth",
       "version": "1.1.0",
       "description": "A Better Auth integration for NestJS with Express and Fastify platforms, microservice RPC transports, and admin, organization and API-key authorization",
@@ -110064,6 +110280,18 @@
       "createdAt": "2026-08-14T00:24:14.458Z",
       "discoveredAt": "2026-08-14T01:13:25.832Z",
       "score": 78
+    },
+    {
+      "name": "nuxt-image-viewer",
+      "version": "1.0.0",
+      "description": "Full-screen image viewer (lightbox) for Nuxt: opens from the image on the page, swipe, endless strip, pinch and wheel zoom, drag to close. Native-feeling motion, no dependencies besides Nuxt.",
+      "license": "MIT",
+      "repository": "https://github.com/kukson777/nuxt-image-viewer",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-image-viewer",
+      "category": "frontend",
+      "createdAt": "2026-10-26T23:00:43.498Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 97
     },
     {
       "name": "nuxt-llms-txt",
@@ -116222,6 +116450,30 @@
       "score": 61
     },
     {
+      "name": "pm-rl",
+      "version": "2026.7.31",
+      "description": "Reinforcement-learning programme management on the pm SDK: content-addressed environments, attributable runs, and bounded compressed metric segments that preserve accepted branch occurrences.",
+      "license": "MIT",
+      "repository": "https://github.com/unbraind/pm-rl",
+      "npmUrl": "https://www.npmjs.com/package/pm-rl",
+      "category": "cli",
+      "createdAt": "2026-10-26T10:42:50.470Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 99
+    },
+    {
+      "name": "pm-vcs",
+      "version": "2026.7.30",
+      "description": "A general version control system written from scratch on the pm SDK for arbitrary files and structured records, with stable file and change identities, native PM attribution, its own object store, refs, merge, operation log and bundles, and no Git depende",
+      "license": "MIT",
+      "repository": "https://github.com/unbraind/pm-vcs",
+      "npmUrl": "https://www.npmjs.com/package/pm-vcs",
+      "category": "cli",
+      "createdAt": "2026-10-26T10:43:12.945Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 100
+    },
+    {
       "name": "pmpt-eject",
       "version": "1.0.0",
       "description": "Rescue your OpenAI reusable prompt objects before v1/prompts shuts down on 2026-11-30, then keep hot-fixing prompts with no redeploy. Zero dependencies.",
@@ -116292,6 +116544,18 @@
       "createdAt": "2026-07-27T09:07:12.171Z",
       "discoveredAt": "2026-07-27T09:57:22.523Z",
       "score": 100
+    },
+    {
+      "name": "po-pilot-mcp",
+      "version": "1.0.0",
+      "description": "Post-Stocky Shopify replenishment, Open-to-Buy & landed-cost MOQ Purchase Orders, POS Transfer CSVs, Stocky CSV recovery, and 3-way invoice match with QuickBooks/Xero Bill CSVs.",
+      "license": "MIT",
+      "repository": "https://github.com/maskchanel14-source/po-pilot-mcp",
+      "npmUrl": "https://www.npmjs.com/package/po-pilot-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-26T12:50:49.934Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 97
     },
     {
       "name": "pocket-index",
@@ -118464,6 +118728,18 @@
       "createdAt": "2026-08-01T14:31:47.229Z",
       "discoveredAt": "2026-08-01T14:52:59.449Z",
       "score": 84
+    },
+    {
+      "name": "react-easy-editor",
+      "version": "1.1.0",
+      "description": "React WYSIWYG rich text editor in one component: tables, tabbed code blocks with syntax highlighting, image upload, dark mode, HTML source view, TypeScript types. MIT, zero config.",
+      "license": "MIT",
+      "repository": "https://github.com/AKASHNEGI-github/react-easy-editor",
+      "npmUrl": "https://www.npmjs.com/package/react-easy-editor",
+      "category": "frontend",
+      "createdAt": "2026-10-26T16:46:45.996Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 98
     },
     {
       "name": "react-easy-text-editor",
@@ -121104,6 +121380,18 @@
       "createdAt": "2026-07-30T11:48:27.704Z",
       "discoveredAt": "2026-07-30T12:04:44.241Z",
       "score": 70
+    },
+    {
+      "name": "revclamp-mcp",
+      "version": "1.20.7",
+      "description": "Model Context Protocol (MCP) server and CLI for Stripe 2025-03-31.basil entitlement checks, Visa CE 3.0 dispute staging (submit: false), EU/XI VIES VAT validation, Shopify Plus B2B Net-15/30/60 reconciliation, webhook HMAC-SHA256 verification, 0% take-rat",
+      "license": "MIT",
+      "repository": "https://github.com/revclamp/revclamp-mcp",
+      "npmUrl": "https://www.npmjs.com/package/revclamp-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-27T00:13:48.791Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 96
     },
     {
       "name": "reverseport",
@@ -128412,6 +128700,18 @@
       "createdAt": "2026-08-10T15:39:22.642Z",
       "discoveredAt": "2026-08-10T16:44:24.986Z",
       "score": 72
+    },
+    {
+      "name": "thinkaloud",
+      "version": "1.0.0",
+      "description": "Turn any AI tool into a companion that explains its reasoning, lets you decide, and teaches you to check its work.",
+      "license": "MIT",
+      "repository": "https://github.com/naweed-k/thinkaloud",
+      "npmUrl": "https://www.npmjs.com/package/thinkaloud",
+      "category": "devops",
+      "createdAt": "2026-10-26T14:42:28.575Z",
+      "discoveredAt": "2026-10-27T01:55:31.774Z",
+      "score": 91
     },
     {
       "name": "thinking-orbs-colorized",
