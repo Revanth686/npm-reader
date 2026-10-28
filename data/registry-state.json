@@ -1,12 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 139900918,
-  "lastRunAt": "2026-10-27T01:55:31.774Z",
+  "lastSequence": 140197193,
+  "lastRunAt": "2026-10-28T02:05:03.745Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@maitxn/pkg-del-pub-treys-spoot-serry-rules",
-      "attempts": 2
+      "attempts": 3
+    },
+    {
+      "name": "@ohos-ports/univerjs-design",
+      "attempts": 1
+    },
+    {
+      "name": "@ohos-ports/stdlib-random",
+      "attempts": 1
+    },
+    {
+      "name": "@new345-pro/dsh-local-llm",
+      "attempts": 1
     }
   ]
 }
