@@ -9842,6 +9842,18 @@
       "score": 83
     },
     {
+      "name": "@brendontailor_/agim",
+      "version": "1.1.0",
+      "description": "AGIM (Agent Grimoire): motor de orquestração para agentes de IA com skills, sub-agentes, memória persistente, checklists e validação.",
+      "license": "MIT",
+      "repository": "https://github.com/Brendontailor/AGIM",
+      "npmUrl": "https://www.npmjs.com/package/%40brendontailor_%2Fagim",
+      "category": "utilities",
+      "createdAt": "2026-10-29T00:17:36.871Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 93
+    },
+    {
       "name": "@brglng/pi-permission-system",
       "version": "25.1.1",
       "description": "Permission enforcement extension for the Pi coding agent.",
@@ -11006,6 +11018,18 @@
       "score": 76
     },
     {
+      "name": "@cap-kit/biometrics",
+      "version": "8.1.0",
+      "description": "Capacitor v8 plugin for biometric authentication: Face ID, Touch ID, fingerprint, face and iris recognition with device-credential fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/cap-kit/capacitor-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40cap-kit%2Fbiometrics",
+      "category": "devops",
+      "createdAt": "2026-10-29T00:21:35.609Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 94
+    },
+    {
       "name": "@cap-kit/device",
       "version": "8.0.0",
       "description": "Unified Capacitor v8 plugin for native device information: battery, screen, OS and hardware identifiers.",
@@ -11016,6 +11040,18 @@
       "createdAt": "2026-09-02T22:26:34.983Z",
       "discoveredAt": "2026-09-03T04:07:36.909Z",
       "score": 86
+    },
+    {
+      "name": "@cap-kit/secure-storage",
+      "version": "8.1.0",
+      "description": "Capacitor v8 plugin for encrypted key-value storage: hardware-backed secure storage on Android and iOS with iCloud sync and Keychain access levels.",
+      "license": "MIT",
+      "repository": "https://github.com/cap-kit/capacitor-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40cap-kit%2Fsecure-storage",
+      "category": "devops",
+      "createdAt": "2026-10-29T00:21:36.007Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 94
     },
     {
       "name": "@capacitor/contacts",
@@ -13320,6 +13356,18 @@
       "createdAt": "2026-08-15T02:09:17.042Z",
       "discoveredAt": "2026-08-15T02:59:54.498Z",
       "score": 57
+    },
+    {
+      "name": "@community-access/accessibility-agents-mcp",
+      "version": "7.1.0",
+      "description": "Server-based MCP server for the A11y Agent Team. Provides accessibility scanning tools over stdio and over the Streamable HTTP transport. Works with any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/Community-Access/accessibility-agents",
+      "npmUrl": "https://www.npmjs.com/package/%40community-access%2Faccessibility-agents-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-28T16:48:37.364Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 92
     },
     {
       "name": "@companionintelligence/hermes-memory",
@@ -27962,6 +28010,18 @@
       "score": 71
     },
     {
+      "name": "@globalmpc/address-guard",
+      "version": "0.1.0",
+      "description": "Catch address-poisoning look-alikes before you send. Derives the recipients you have really sent to from your own outgoing transfers, then flags a destination that shares the first and last 4 hex characters of one of them but differs in the middle, and ch",
+      "license": "MIT",
+      "repository": "https://github.com/globalmpc/rwa-kit-js",
+      "npmUrl": "https://www.npmjs.com/package/%40globalmpc%2Faddress-guard",
+      "category": "devops",
+      "createdAt": "2026-10-28T07:58:08.946Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
       "name": "@glowbox/lcd",
       "version": "1.10.0",
       "description": "Character LCD module component — the HD44780-class 16×2: a reflective display whose ink takes real time to move (LC response smear), with the contrast pot, passive-matrix crosstalk streaks, the uninitialised row of boot boxes, CGRAM custom glyphs and a bl",
@@ -37238,6 +37298,18 @@
       "score": 66
     },
     {
+      "name": "@lakutata/math",
+      "version": "3.1.3",
+      "description": "Mathematics for Node.js: symbolic computation (equations, derivatives, integrals, limits, Laplace transforms, factoring, simplification) and numerical computation (matrices, statistics, probability, numeric solutions, units, decimals of any precision) in",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fmath",
+      "category": "data",
+      "createdAt": "2026-10-28T15:13:26.370Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 100
+    },
+    {
       "name": "@lakutata/queue",
       "version": "3.1.0",
       "description": "The message queues of the lakutata framework: messages added by the Queue component and processed by controller actions (@QueueAction), acknowledged, retried and dead-lettered alike over memory, Redis, NATS JetStream, Kafka or RabbitMQ.",
@@ -38076,6 +38148,18 @@
       "createdAt": "2026-09-04T17:00:40.974Z",
       "discoveredAt": "2026-09-05T04:10:45.685Z",
       "score": 98
+    },
+    {
+      "name": "@ling2/ling-coris",
+      "version": "0.0.1",
+      "description": "Standalone cordis runtime: contexts, plugin fibers, event bus, services, timer, schema validation (schemastery), and console logging — plus a /dev toolkit (module registry, vite HMR bridge, build orchestration).",
+      "license": "MIT",
+      "repository": "https://github.com/ling2-2y2/ling-coris",
+      "npmUrl": "https://www.npmjs.com/package/%40ling2%2Fling-coris",
+      "category": "build-tools",
+      "createdAt": "2026-10-28T04:52:57.339Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
     },
     {
       "name": "@linktoany/sdk",
@@ -40992,6 +41076,18 @@
       "createdAt": "2026-08-05T19:24:38.820Z",
       "discoveredAt": "2026-08-05T19:37:09.080Z",
       "score": 72
+    },
+    {
+      "name": "@mcamdali/reviewready",
+      "version": "0.1.1",
+      "description": "Checks a native iOS, Flutter or React Native/Expo project for the App Review rejections a file can show before you submit: purpose strings, export compliance, account deletion, Sign in with Apple, the App Store icon, the Xcode and iOS minimums and the pri",
+      "license": "MIT",
+      "repository": "https://github.com/muhittincamdali/reviewready",
+      "npmUrl": "https://www.npmjs.com/package/%40mcamdali%2Freviewready",
+      "category": "frontend",
+      "createdAt": "2026-10-28T17:03:49.244Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
     },
     {
       "name": "@mcleanstewart/ledger",
@@ -52646,6 +52742,18 @@
       "score": 64
     },
     {
+      "name": "@puppygraph/mcp-server",
+      "version": "1.3.0",
+      "description": "Model Context Protocol (MCP) server for PuppyGraph: lets AI agents connect data sources, build a graph schema, and query the graph with Cypher and Gremlin",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/puppygraph/puppygraph-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40puppygraph%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-10-28T19:02:45.634Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 91
+    },
+    {
       "name": "@puralex/docs-notary",
       "version": "1.5.2",
       "description": "Tier a repository's docs by authority, validate frontmatter, generate an agent-readable index, and enforce it with a blocking gate.",
@@ -60602,6 +60710,18 @@
       "score": 72
     },
     {
+      "name": "@spindlecommerce/plugin-channable",
+      "version": "1.0.0",
+      "description": "Channable for SpindleCommerce: a product feed that Channable imports and forwards to marketplaces and ad channels, with an item for each variant, priced and worded as the channel's storefront shows it.",
+      "license": "MIT",
+      "repository": "https://github.com/spindlecommerce/plugin-channable",
+      "npmUrl": "https://www.npmjs.com/package/%40spindlecommerce%2Fplugin-channable",
+      "category": "utilities",
+      "createdAt": "2026-10-28T22:33:25.244Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
       "name": "@spintax/slots-lite",
       "version": "0.1.0",
       "description": "A procedural slot machine as an SVG string. Seeded reels and cabinet, brand-aware classic palette, line or flat, classic and procedural symbols, an optional CSS spin. Zero dependencies; runs in Node at build time and in the browser.",
@@ -61742,6 +61862,18 @@
       "score": 67
     },
     {
+      "name": "@supercat1337/base36-chunker",
+      "version": "1.0.0",
+      "description": "Split text into base36-only lines (a-z0-9, never starting with a digit) with embedded metadata and reassemble it losslessly.",
+      "license": "MIT",
+      "repository": "https://github.com/supercat1337/base36-chunker",
+      "npmUrl": "https://www.npmjs.com/package/%40supercat1337%2Fbase36-chunker",
+      "category": "data",
+      "createdAt": "2026-10-28T09:00:31.365Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
       "name": "@supercat1337/store2-deep",
       "version": "1.0.0",
       "description": "Deep reactivity for @supercat1337/store2 — mutable nested state with granular updates",
@@ -62736,6 +62868,30 @@
       "createdAt": "2026-08-11T18:34:36.129Z",
       "discoveredAt": "2026-08-12T16:48:53.648Z",
       "score": 81
+    },
+    {
+      "name": "@tafrahq/wt-tunnel-client",
+      "version": "0.7.0",
+      "description": "Private HTTPS URLs for every git worktree, through a self-hosted frp tunnel server behind a sign-in (Google, GitHub, Microsoft or Cloudflare Access): one frpc per worktree, no ports in the URLs, no root on the dev machine.",
+      "license": "MIT",
+      "repository": "https://github.com/tafrahq/wt-tunnel",
+      "npmUrl": "https://www.npmjs.com/package/%40tafrahq%2Fwt-tunnel-client",
+      "category": "backend",
+      "createdAt": "2026-10-28T21:08:43.139Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
+      "name": "@tafrahq/wt-tunnel-server",
+      "version": "0.7.0",
+      "description": "Runs the wt-tunnel server: Caddy, frps and a sign-in service (Google, GitHub, Microsoft, Cloudflare Access) under one supervisor, in the foreground or detached. Downloads pinned, checksum-verified Caddy and frps when you have none.",
+      "license": "MIT",
+      "repository": "https://github.com/tafrahq/wt-tunnel",
+      "npmUrl": "https://www.npmjs.com/package/%40tafrahq%2Fwt-tunnel-server",
+      "category": "backend",
+      "createdAt": "2026-10-28T21:08:49.977Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
     },
     {
       "name": "@takazudo/pgen",
@@ -71966,6 +72122,18 @@
       "score": 100
     },
     {
+      "name": "@zalveriq/superchatbd-sdk",
+      "version": "1.0.1",
+      "description": "Official TypeScript / Node.js SDK for the Superchat BD Developer Platform: hosted checkout payments, refunds, account data and webhook signature verification.",
+      "license": "MIT",
+      "repository": "https://github.com/Zalveriq/superchatbd-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40zalveriq%2Fsuperchatbd-sdk",
+      "category": "data",
+      "createdAt": "2026-10-28T21:29:53.162Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 93
+    },
+    {
       "name": "@zanreal/medusa-allegro",
       "version": "1.0.0",
       "description": "Medusa v2 plugin integrating Allegro, the Polish marketplace: OAuth connection, encrypted token storage, offer/SKU mapping and price-automation audit models.",
@@ -72396,6 +72564,18 @@
       "createdAt": "2026-10-16T19:06:47.679Z",
       "discoveredAt": "2026-10-17T01:11:24.478Z",
       "score": 94
+    },
+    {
+      "name": "@zhz8888/dsh-token-ledger",
+      "version": "1.1.3",
+      "description": "Transparent, auditable token accounting for DeepSeek Harness: a restart-safe ledger over the durable session log, a CLI that recomputes it from raw logs and diffs the result, and a bill — by workspace, session, model or provider, exportable as CSV or JSON",
+      "license": "MIT",
+      "repository": "https://github.com/zhz8888/dsh-token-ledger",
+      "npmUrl": "https://www.npmjs.com/package/%40zhz8888%2Fdsh-token-ledger",
+      "category": "cli",
+      "createdAt": "2026-10-28T14:21:05.219Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 99
     },
     {
       "name": "@zibby/agent-graph-memory",
@@ -73416,6 +73596,18 @@
       "createdAt": "2026-08-01T09:46:33.135Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 83
+    },
+    {
+      "name": "adlib-api",
+      "version": "0.3.0",
+      "description": "Node.js and TypeScript SDK for the AdLib API: one REST API for the public ad libraries of Meta, Google (incl. YouTube), TikTok, LinkedIn, Pinterest, X, Snapchat, Apple, Amazon and Microsoft, with ad history, creative features, watchlists and webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/AdLibAPI/adlib-node",
+      "npmUrl": "https://www.npmjs.com/package/adlib-api",
+      "category": "backend",
+      "createdAt": "2026-10-28T12:08:13.757Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
     },
     {
       "name": "admindb",
@@ -78962,6 +79154,18 @@
       "score": 93
     },
     {
+      "name": "bodhistack-notification",
+      "version": "1.0.0",
+      "description": "Enterprise multi-channel notification & incident alerting engine for Node.js, TypeScript & Next.js. Supports Telegram, Email, Slack, Discord, and Webhooks with parallel dispatch, deduplication, and crash isolation.",
+      "license": "MIT",
+      "repository": "https://github.com/infinitystack-technology/bodhistack-notification",
+      "npmUrl": "https://www.npmjs.com/package/bodhistack-notification",
+      "category": "build-tools",
+      "createdAt": "2026-10-28T05:21:29.578Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 97
+    },
+    {
       "name": "boilercraft",
       "version": "1.1.0",
       "description": "Create Laravel, Next.js, NestJS, Vite, Django, FastAPI, Go, Express and .NET projects with the official tooling — any version, auth, themes, Docker, CI. Run: npx boilercraft",
@@ -81060,6 +81264,18 @@
       "createdAt": "2026-08-12T23:08:41.501Z",
       "discoveredAt": "2026-08-12T23:19:09.424Z",
       "score": 53
+    },
+    {
+      "name": "chapterize-js",
+      "version": "0.1.0",
+      "description": "Automatic, accessible table of contents and scroll spy for any page: add data-chapter to a nav and it builds the links, highlights the current section and glides a marker. Zero dependencies, zero JS config, works in every framework.",
+      "license": "MIT",
+      "repository": "https://github.com/byronjohnson/chapterize-js",
+      "npmUrl": "https://www.npmjs.com/package/chapterize-js",
+      "category": "backend",
+      "createdAt": "2026-10-28T17:42:13.275Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
     },
     {
       "name": "chart-color-audit",
@@ -89858,6 +90074,18 @@
       "score": 68
     },
     {
+      "name": "dsh-qqbot-merge",
+      "version": "0.1.0",
+      "description": "在 QQ 私聊和群聊里直接对话 DeepSeek Harness。本包是 @tencent-connect/dsh-qqbot 0.5.3（MIT）的维护分支，新增「连续消息智能合并」（非打断式 steering）与「同一轮单条回复持续修订」。不能与官方 @tencent-connect/dsh-qqbot 同时启用。 Chat with DeepSeek Harness in QQ; maintained fork of dsh-qqbot 0.5.3 adding consecutive-messag",
+      "license": "MIT",
+      "repository": "https://github.com/bufan528/dsh-qqbot-merge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-qqbot-merge",
+      "category": "utilities",
+      "createdAt": "2026-10-28T14:45:45.902Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
       "name": "dsh-querit",
       "version": "1.0.0",
       "description": "Querit-backed search and fetch providers for the DeepSeek Harness web capability seam (ctx.web)",
@@ -93350,6 +93578,18 @@
       "score": 86
     },
     {
+      "name": "fastsaverapi",
+      "version": "0.1.0",
+      "description": "Official FastSaverAPI SDK for Node.js and TypeScript: Instagram, TikTok (no watermark), YouTube (MP4 up to 4K, MP3), Pinterest, Facebook, X/Twitter, RuTube and Likee downloader API, YouTube audio as a Telegram file_id, and Shazam song recognition. Zero de",
+      "license": "MIT",
+      "repository": "https://github.com/coder2077/fastsaver-js",
+      "npmUrl": "https://www.npmjs.com/package/fastsaverapi",
+      "category": "backend",
+      "createdAt": "2026-10-28T14:51:40.754Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
       "name": "favicon-motion",
       "version": "0.1.0",
       "description": "A lightweight, canvas-powered animated favicon library. Draw procedurally, or animate from frames, sprite sheets, video, Lottie, or dotLottie — no animated SVG, no bloated core.",
@@ -94824,6 +95064,18 @@
       "createdAt": "2026-10-07T10:14:14.821Z",
       "discoveredAt": "2026-10-08T02:36:47.962Z",
       "score": 98
+    },
+    {
+      "name": "fundamental-analysis",
+      "version": "1.3.0",
+      "description": "Fundamental analysis for JavaScript/TypeScript: financial ratios, Piotroski F-Score, Altman Z-Score (Z and Z''), DCF, Graham Number, intrinsic value, valuation multiples (P/E, PEG, EV/EBITDA, EV/FCF), profitability (ROE, ROA, ROIC, margins), liquidity and",
+      "license": "MIT",
+      "repository": "https://github.com/boffincoders/fundamental-analysis",
+      "npmUrl": "https://www.npmjs.com/package/fundamental-analysis",
+      "category": "build-tools",
+      "createdAt": "2026-10-29T00:46:50.551Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 100
     },
     {
       "name": "furnizsh",
@@ -97536,6 +97788,18 @@
       "createdAt": "2026-08-12T11:09:53.652Z",
       "discoveredAt": "2026-08-12T11:37:58.641Z",
       "score": 89
+    },
+    {
+      "name": "homebridge-itach-garage-door",
+      "version": "1.0.0",
+      "description": "Homebridge plugin that controls garage doors and gates through a Global Caché iTach IP2CC contact-closure relay over TCP. Drives a momentary pulse like a wall button, infers door position from configurable travel timers, and accepts authenticated webhook",
+      "license": "MIT",
+      "repository": "https://github.com/rdawson6/homebridge-itach-garage-door",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-itach-garage-door",
+      "category": "utilities",
+      "createdAt": "2026-10-28T18:08:11.836Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 92
     },
     {
       "name": "homebridge-landroid-v2",
@@ -105468,6 +105732,18 @@
       "createdAt": "2026-08-07T10:30:12.953Z",
       "discoveredAt": "2026-08-07T10:43:40.182Z",
       "score": 69
+    },
+    {
+      "name": "media-capture-sdk",
+      "version": "1.0.0",
+      "description": "Production-ready, client-side JavaScript Media Capture SDK for browser camera access, live preview, photo capture, video recording, screen capture, and visual filters.",
+      "license": "MIT",
+      "repository": "https://github.com/Sadikkhan02/media-capture-sdk",
+      "npmUrl": "https://www.npmjs.com/package/media-capture-sdk",
+      "category": "frontend",
+      "createdAt": "2026-10-28T10:44:00.323Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 96
     },
     {
       "name": "media-gen-pro-mcp",
@@ -116088,6 +116364,18 @@
       "createdAt": "2026-10-23T11:29:22.721Z",
       "discoveredAt": "2026-10-24T01:26:18.291Z",
       "score": 100
+    },
+    {
+      "name": "picture-assets",
+      "version": "0.1.0",
+      "description": "Turns source images into web-ready assets: every resolution (pixels or x2-style multipliers) and format you need, from a single image or a whole directory tree, with high quality, low weight defaults.",
+      "license": "MIT",
+      "repository": "https://github.com/mastermind-0xff/picture-assets",
+      "npmUrl": "https://www.npmjs.com/package/picture-assets",
+      "category": "data",
+      "createdAt": "2026-10-28T19:03:49.243Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
     },
     {
       "name": "piecework",
@@ -133068,6 +133356,18 @@
       "createdAt": "2026-08-08T11:06:06.675Z",
       "discoveredAt": "2026-08-08T11:22:53.750Z",
       "score": 55
+    },
+    {
+      "name": "waktu-solat-webos",
+      "version": "1.0.0",
+      "description": "Malaysia prayer times (waktu solat) API client for LG webOS TV web apps, browsers and Node.js. ES5, works with Enact and any framework.",
+      "license": "MIT",
+      "repository": "https://github.com/apkdmg/waktu_solat_webos",
+      "npmUrl": "https://www.npmjs.com/package/waktu-solat-webos",
+      "category": "frontend",
+      "createdAt": "2026-10-28T23:15:56.870Z",
+      "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 93
     },
     {
       "name": "wall-mcp",
