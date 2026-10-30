@@ -1,23 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 140485146,
-  "lastRunAt": "2026-10-29T02:14:49.544Z",
+  "lastSequence": 140775719,
+  "lastRunAt": "2026-10-30T02:28:32.664Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@maitxn/pkg-del-pub-treys-spoot-serry-rules",
-      "attempts": 4
+      "attempts": 5
     },
     {
-      "name": "@texuli/editor",
+      "name": "@sylphx/anyagents-linux-arm64-gnu",
       "attempts": 1
     },
     {
-      "name": "@ai_mind/dsh-a2a",
+      "name": "@sylphx/anyagents",
       "attempts": 1
     },
     {
-      "name": "@luma.gl/graph",
+      "name": "@sylphx/anyagents-darwin-arm64",
+      "attempts": 1
+    },
+    {
+      "name": "@sylphx/anyagents-linux-x64-gnu",
       "attempts": 1
     }
   ]
