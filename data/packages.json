@@ -6518,6 +6518,18 @@
       "score": 69
     },
     {
+      "name": "@arki/failure",
+      "version": "0.3.0",
+      "description": "Typed failures for TypeScript without a wrapper: define a failure once, return it as a value, and the compiler makes every caller handle it. Early return, partial handling, cause chains, revival after JSON, a must-use lint rule and oRPC error maps.",
+      "license": "MIT",
+      "repository": "https://github.com/arki-labs/arki",
+      "npmUrl": "https://www.npmjs.com/package/%40arki%2Ffailure",
+      "category": "build-tools",
+      "createdAt": "2026-10-30T19:42:33.563Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 90
+    },
+    {
       "name": "@arki/money",
       "version": "0.0.4",
       "description": "Exact, fast money for every JavaScript runtime — amounts kept as whole units (plain numbers, bigint only when huge), a shipped ISO 4217 currency table, exact-or-throw rounding, fair allocation, and currencies checked by the type system.",
@@ -15074,6 +15086,18 @@
       "score": 42
     },
     {
+      "name": "@davidwoods/skylight-mcp",
+      "version": "1.7.0",
+      "description": "Unofficial MCP server for Skylight Calendar: local (stdio) and hosted (Cloudflare Workers), with browser-paste OAuth sign-in and an encrypted credential store",
+      "license": "MIT",
+      "repository": "https://github.com/dwooods/skylight-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40davidwoods%2Fskylight-mcp",
+      "category": "frontend",
+      "createdAt": "2026-10-30T21:48:24.974Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 91
+    },
+    {
       "name": "@davyjones0x/plugin-peer-cash",
       "version": "0.1.1",
       "description": "Peer Cash offramp actions for elizaOS agents: estimate, cash out Base USDC to Venmo, Revolut, Wise, Zelle, and more at the live oracle market rate, then track, withdraw, and top up orders.",
@@ -20114,6 +20138,30 @@
       "score": 89
     },
     {
+      "name": "@eslam-amin/express-did-you-mean",
+      "version": "1.0.2",
+      "description": "Lightweight, production-ready Express 404 middleware that suggests closest matching valid endpoints using Swagger/OpenAPI specs and Express router stack inspection.",
+      "license": "MIT",
+      "repository": "https://github.com/Eslam-Amin/express-did-you-mean",
+      "npmUrl": "https://www.npmjs.com/package/%40eslam-amin%2Fexpress-did-you-mean",
+      "category": "backend",
+      "createdAt": "2026-10-30T21:31:22.065Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 96
+    },
+    {
+      "name": "@eslam-amin/nestjs-did-you-mean",
+      "version": "1.0.3",
+      "description": "Production-ready, zero-dependency 404 Route Suggester for NestJS with Express and Fastify support",
+      "license": "MIT",
+      "repository": "https://github.com/Eslam-Amin/nestjs-did-you-mean",
+      "npmUrl": "https://www.npmjs.com/package/%40eslam-amin%2Fnestjs-did-you-mean",
+      "category": "backend",
+      "createdAt": "2026-10-30T21:32:02.385Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 89
+    },
+    {
       "name": "@espressif/rainmaker-neo-base-sdk",
       "version": "1.0.0",
       "description": "ESP RainMaker Neo TypeScript SDK for JS-based apps — Cognito auth, MQTT control, device provisioning, groups, and real-time node updates.",
@@ -20951,6 +20999,18 @@
       "category": "frontend",
       "createdAt": "2026-09-24T20:24:57.621Z",
       "discoveredAt": "2026-09-25T04:39:59.696Z",
+      "score": 90
+    },
+    {
+      "name": "@faustine-ai/browser-sandbox",
+      "version": "0.1.0",
+      "description": "Run model-written JavaScript in the browser inside a worker in an opaque-origin frame: no network, no DOM, only the functions you hand it. Approval at the bridge, real timeouts, adapters for the AI SDK, Cloudflare codemode and TanStack AI.",
+      "license": "MIT",
+      "repository": "https://github.com/faustine-ai/browser-sandbox",
+      "npmUrl": "https://www.npmjs.com/package/%40faustine-ai%2Fbrowser-sandbox",
+      "category": "frontend",
+      "createdAt": "2026-10-30T18:01:52.774Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
       "score": 90
     },
     {
@@ -21792,6 +21852,18 @@
       "createdAt": "2026-08-14T14:43:52.808Z",
       "discoveredAt": "2026-08-14T15:01:05.305Z",
       "score": 67
+    },
+    {
+      "name": "@flashyfinancial/wdk-capability-audit",
+      "version": "0.2.0",
+      "description": "Scan a project's node_modules for installed @tetherto/wdk-* packages and report what chains each declares — mainnet, testnet, or unknown, against a small hand-maintained registry of chain identifiers this package is confident are real. Never guesses at a",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/AgenteLabs/wdk-capability-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40flashyfinancial%2Fwdk-capability-audit",
+      "category": "testing",
+      "createdAt": "2026-10-30T07:21:15.141Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 90
     },
     {
       "name": "@flashylabs/wdk-capability-audit",
@@ -30408,6 +30480,54 @@
       "createdAt": "2026-07-27T01:22:48.399Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 69
+    },
+    {
+      "name": "@hivemagnus/hive",
+      "version": "1.0.0",
+      "description": "Hive launcher: installs, configures and runs the Hive Router, Hive IAM and HiveMem servers, with generated secrets, local TLS and cross-service wiring",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ChefTaco/hive",
+      "npmUrl": "https://www.npmjs.com/package/%40hivemagnus%2Fhive",
+      "category": "backend",
+      "createdAt": "2026-10-30T13:33:44.373Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 95
+    },
+    {
+      "name": "@hivemagnus/hive-iam-sdk",
+      "version": "1.0.0",
+      "description": "RS256 JWT verification and RBAC middleware for services that trust Hive IAM, with a framework-agnostic verifier and Hono v4 middleware",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ChefTaco/hive",
+      "npmUrl": "https://www.npmjs.com/package/%40hivemagnus%2Fhive-iam-sdk",
+      "category": "utilities",
+      "createdAt": "2026-10-30T13:33:16.155Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 91
+    },
+    {
+      "name": "@hivemagnus/hive-iam-server",
+      "version": "1.0.0",
+      "description": "Hive IAM server: OAuth 2.0 / OpenID Connect identity service with RS256 JWTs, RBAC, MFA/WebAuthn, service accounts and audit logging",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ChefTaco/hive",
+      "npmUrl": "https://www.npmjs.com/package/%40hivemagnus%2Fhive-iam-server",
+      "category": "backend",
+      "createdAt": "2026-10-30T13:33:39.211Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 93
+    },
+    {
+      "name": "@hivemagnus/hive-router",
+      "version": "1.0.0",
+      "description": "Hive Router: OpenAI-compatible model gateway with routing, failover, quotas and traces, plus the admin API and the unified Hive console",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ChefTaco/hive",
+      "npmUrl": "https://www.npmjs.com/package/%40hivemagnus%2Fhive-router",
+      "category": "backend",
+      "createdAt": "2026-10-30T13:33:30.681Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 93
     },
     {
       "name": "@hk_net/remote-pi",
@@ -40164,6 +40284,18 @@
       "createdAt": "2026-08-06T05:35:25.107Z",
       "discoveredAt": "2026-08-06T08:19:20.704Z",
       "score": 88
+    },
+    {
+      "name": "@mambalabsdev/mcp-app-store-google-play-review-monitor",
+      "version": "1.0.0",
+      "description": "MCP server for App Store and Google Play Review Monitor. App Store and Google Play reviews by country store, newest first, only new ones on a schedule, plus a rating trend row per app. Runs on Apify. Clay-ready output.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-app-store-google-play-review-monitor",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-app-store-google-play-review-monitor",
+      "category": "backend",
+      "createdAt": "2026-10-30T14:32:48.174Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 89
     },
     {
       "name": "@mambalabsdev/mcp-b2b-prospect-engine",
@@ -52164,6 +52296,18 @@
       "createdAt": "2026-08-18T23:47:37.945Z",
       "discoveredAt": "2026-09-26T16:14:56.782Z",
       "score": 99
+    },
+    {
+      "name": "@priemskiyyy/trace",
+      "version": "0.1.0",
+      "description": "Typed, provider-independent product analytics for TypeScript: events declared once, identity that stays right while providers start, consent that gates delivery, and receipts that say what happened.",
+      "license": "MIT",
+      "repository": "https://github.com/priemskiyyy/trace",
+      "npmUrl": "https://www.npmjs.com/package/%40priemskiyyy%2Ftrace",
+      "category": "frontend",
+      "createdAt": "2026-10-30T21:00:16.604Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 89
     },
     {
       "name": "@primethoughts/primecredence-sdk",
@@ -80522,6 +80666,18 @@
       "score": 91
     },
     {
+      "name": "canvas-readonly-mcp",
+      "version": "2.0.0",
+      "description": "Read-only MCP server for Canvas LMS: courses, deadlines, pages, file contents (PDF/PPTX/DOCX) and a daily change log, for Claude and other MCP clients",
+      "license": "MIT",
+      "repository": "https://github.com/rbrtlol/canvas-readonly-mcp",
+      "npmUrl": "https://www.npmjs.com/package/canvas-readonly-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-30T18:27:21.770Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 91
+    },
+    {
       "name": "canvas-student-mcp",
       "version": "1.3.0",
       "description": "MCP server for Canvas LMS that works even when your school disables API tokens — session-cookie auth, read-only by design. 30 tools for Claude and any MCP client.",
@@ -85982,6 +86138,18 @@
       "score": 75
     },
     {
+      "name": "deep-digger",
+      "version": "1.1.0",
+      "description": "Catch that bug: Evidence-gated root cause investigation & controlled falsification for AI agents",
+      "license": "MIT",
+      "repository": "https://github.com/imMamdouhaboammar/deep-digger",
+      "npmUrl": "https://www.npmjs.com/package/deep-digger",
+      "category": "utilities",
+      "createdAt": "2026-10-30T13:26:15.206Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 89
+    },
+    {
       "name": "deepseek-harness-for-codex",
       "version": "0.3.0",
       "description": "Codex plugin for delegating work to visible local DeepSeek Harness sessions and independently reviewing the results.",
@@ -88332,6 +88500,30 @@
       "createdAt": "2026-08-14T10:13:21.083Z",
       "discoveredAt": "2026-08-14T10:50:54.851Z",
       "score": 90
+    },
+    {
+      "name": "dsh-connectome",
+      "version": "1.0.0",
+      "description": "Connectome: an interactive, hardware-accelerated canvas map of a DSH workspace's files and their import/require relationships, rendered with d3-force inside the Web UI.",
+      "license": "MIT",
+      "repository": "https://github.com/elalamiimed/dsh-connectome",
+      "npmUrl": "https://www.npmjs.com/package/dsh-connectome",
+      "category": "utilities",
+      "createdAt": "2026-10-30T06:12:07.369Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 96
+    },
+    {
+      "name": "dsh-context-keeper",
+      "version": "1.0.0",
+      "description": "Teach a DeepSeek Harness agent to reason well, watch its context budget, and hand off long sessions. Host plugin plus an offline trace analyzer.",
+      "license": "MIT",
+      "repository": "https://github.com/Orliba/dsh-context-keeper",
+      "npmUrl": "https://www.npmjs.com/package/dsh-context-keeper",
+      "category": "utilities",
+      "createdAt": "2026-10-30T09:02:13.446Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 94
     },
     {
       "name": "dsh-cost-line",
@@ -94874,6 +95066,18 @@
       "score": 78
     },
     {
+      "name": "founderstoolkit-mcp",
+      "version": "1.0.0",
+      "description": "MCP server for founderstoolkit.org: search, compare and get recommendations from 169 verified software tools for one-person companies, read the verified change log, and submit a tool for listing",
+      "license": "MIT",
+      "repository": "https://github.com/karimghabbour/founderstoolkit-mcp",
+      "npmUrl": "https://www.npmjs.com/package/founderstoolkit-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-30T12:13:52.138Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 89
+    },
+    {
       "name": "foundry-trace-inspector-core",
       "version": "0.2.0",
       "description": "Headless library for connecting to Microsoft Foundry and normalizing agent traces into a clean, typed model.",
@@ -95184,6 +95388,18 @@
       "createdAt": "2026-08-09T21:02:26.810Z",
       "discoveredAt": "2026-08-09T21:28:49.953Z",
       "score": 86
+    },
+    {
+      "name": "fuel-receipt-parser",
+      "version": "1.0.0",
+      "description": "Read fuel and EV charging receipts from OCR text: litres, price per litre, total, date, currency, fuel type and station. Arithmetic-checked (litres x price = total), never invents a number. Works with any OCR (Apple Vision, ML Kit, Tesseract, Google Visio",
+      "license": "MIT",
+      "repository": "https://github.com/rsoaresdev/fuel-receipt-parser",
+      "npmUrl": "https://www.npmjs.com/package/fuel-receipt-parser",
+      "category": "frontend",
+      "createdAt": "2026-10-31T00:32:41.832Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 96
     },
     {
       "name": "fukkits",
@@ -100118,6 +100334,18 @@
       "score": 76
     },
     {
+      "name": "janderscience-skills",
+      "version": "1.0.0",
+      "description": "Enterprise-grade Agentic Mesh workforce with 1,330+ skills across 16 corporate departments, validated by Open Ontologies and agentskills.io",
+      "license": "MIT",
+      "repository": "https://github.com/Jandersolutions/janderscience-skills",
+      "npmUrl": "https://www.npmjs.com/package/janderscience-skills",
+      "category": "devops",
+      "createdAt": "2026-10-30T21:00:10.953Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 93
+    },
+    {
       "name": "jangsang",
       "version": "1.0.0",
       "description": "A two-layer CSS framework: one file for layout, one file for your visual skin. Swap skins by changing a single data-attribute.",
@@ -100742,6 +100970,18 @@
       "score": 67
     },
     {
+      "name": "jxui-react",
+      "version": "2.4.0",
+      "description": "Next-generation React 19 component library and design system reimagining Material UI with zero-runtime CSS, 200ms spring physics, and 100% WCAG AA compliance across 351 unified components.",
+      "license": "MIT",
+      "repository": "https://github.com/iam-shakir/JXUI-react",
+      "npmUrl": "https://www.npmjs.com/package/jxui-react",
+      "category": "frontend",
+      "createdAt": "2026-10-30T11:46:17.977Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 89
+    },
+    {
       "name": "k-saju",
       "version": "0.1.0",
       "description": "Deterministic Korean Four Pillars (Saju · 사주 · BaZi) engine — minute-exact solar terms, true solar time, timezone-aware. Calculation is code; interpretation is up to you.",
@@ -101364,6 +101604,18 @@
       "createdAt": "2026-07-26T15:26:31.266Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 78
+    },
+    {
+      "name": "kiori",
+      "version": "2.0.0",
+      "description": "The JavaScript client for Kiori, brains for characters: memory, personality and who-knows-what for character AI. No dependencies; Node 18+ and browsers.",
+      "license": "MIT",
+      "repository": "https://github.com/kiori-ai/kiori",
+      "npmUrl": "https://www.npmjs.com/package/kiori",
+      "category": "frontend",
+      "createdAt": "2026-10-31T00:16:58.172Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 94
     },
     {
       "name": "kirinuki",
@@ -128762,6 +129014,18 @@
       "score": 76
     },
     {
+      "name": "taqvim",
+      "version": "1.0.0",
+      "description": "Accurate Solar Hijri (Jalali, Shamsi, Persian) calendar for JavaScript/TypeScript: astronomical leap years, Tehran time zone without DST, Persian parsing and formatting. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/rahimixyz/persian-calendar-jalali-shamsi",
+      "npmUrl": "https://www.npmjs.com/package/taqvim",
+      "category": "data",
+      "createdAt": "2026-10-30T21:47:22.996Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 96
+    },
+    {
       "name": "targate",
       "version": "0.9.0",
       "description": "targate is install-time supply-chain security for npm — open source, AI-optional, and run from your terminal. It vets every dependency (tarball, lifecycle scripts, lockfile, reputation, known-malicious records) before its code can run, and only installs i",
@@ -130392,6 +130656,18 @@
       "createdAt": "2026-08-15T13:28:34.176Z",
       "discoveredAt": "2026-08-15T13:37:19.775Z",
       "score": 70
+    },
+    {
+      "name": "tourwright",
+      "version": "1.0.0",
+      "description": "Scripted, narrated product tours and how-to videos: a real browser follows your script with a guided focus, captions and text-to-speech, and you get a finished MP4. CLI, HTTP API, job queue and MCP server for AI agents.",
+      "license": "MIT",
+      "repository": "https://github.com/CXmiloxx/tourwright",
+      "npmUrl": "https://www.npmjs.com/package/tourwright",
+      "category": "testing",
+      "createdAt": "2026-10-30T21:47:48.112Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 91
     },
     {
       "name": "tr-data-encrypt",
@@ -132074,6 +132350,18 @@
       "score": 85
     },
     {
+      "name": "uuid-plus",
+      "version": "1.0.0",
+      "description": "Fast, secure and zero-dependency UUID toolkit for Node.js with UUID v4, v5, time-sortable v7, HMAC-based v8, validation, compact IDs, timestamps and batch generation.",
+      "license": "MIT",
+      "repository": "https://github.com/sujalpatel2209/uuid-plus",
+      "npmUrl": "https://www.npmjs.com/package/uuid-plus",
+      "category": "backend",
+      "createdAt": "2026-10-30T06:18:30.165Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 96
+    },
+    {
       "name": "uuon-gpi",
       "version": "1.0.0",
       "description": "Geometric Parameter Interface — parametric mathematical visualization engine. 10 physical and classical shapes: Lissajous, Rose, Spiral, Superellipse, Hypotrochoid, Fourier Series, Cornu Spiral, Torus Knot, Villarceau/Hopf Fibration, Keplerian Orbital Mec",
@@ -132804,6 +133092,18 @@
       "createdAt": "2026-09-26T14:00:42.408Z",
       "discoveredAt": "2026-09-26T16:14:56.782Z",
       "score": 98
+    },
+    {
+      "name": "vigilsutra",
+      "version": "0.1.0",
+      "description": "VigilSutra AI: open-source, offline-first security and privacy auditor CLI plus AI agent skills. Finds secrets, CI/CD, Docker, Kubernetes, IaC, code and AI-agent risks with redacted, evidence-based SARIF/JSON/Markdown reports. No API key, no telemetry.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shahvatsalofficial/vigilsutra",
+      "npmUrl": "https://www.npmjs.com/package/vigilsutra",
+      "category": "backend",
+      "createdAt": "2026-10-30T20:38:18.078Z",
+      "discoveredAt": "2026-10-31T02:10:31.841Z",
+      "score": 90
     },
     {
       "name": "vikers-buildkit",
