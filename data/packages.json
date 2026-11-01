@@ -5078,6 +5078,18 @@
       "score": 62
     },
     {
+      "name": "@an-types/aliyun-aliplayer-cdn",
+      "version": "2.19.0",
+      "description": "Highly detailed TypeScript type definitions for the Aliyun Aliplayer CDN bundle (aliplayer-min.js), derived from and validated against the actual runtime of v2.19.0.",
+      "license": "MIT",
+      "repository": "https://github.com/an-types/an-types",
+      "npmUrl": "https://www.npmjs.com/package/%40an-types%2Faliyun-aliplayer-cdn",
+      "category": "build-tools",
+      "createdAt": "2026-10-31T15:15:17.945Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 96
+    },
+    {
       "name": "@anaidev/daw-engine-core",
       "version": "1.0.0",
       "description": "Headless DAW engine — domain models, command system, audio engine, automation, plugins, MIDI",
@@ -20426,6 +20438,18 @@
       "score": 73
     },
     {
+      "name": "@ethantang1024/pi-notify",
+      "version": "1.0.1",
+      "description": "Focus-aware desktop notifications and sounds for Pi coding agent. Fires on task completion, errors, and questions with DECSET 1004 terminal focus tracking and 100% reliable native OS delivery (Windows Shell NotifyIcon, Linux libnotify).",
+      "license": "MIT",
+      "repository": "https://github.com/ethantang1024/pi-notify",
+      "npmUrl": "https://www.npmjs.com/package/%40ethantang1024%2Fpi-notify",
+      "category": "cli",
+      "createdAt": "2026-10-31T10:32:11.608Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
+    },
+    {
       "name": "@etherplay/delegation",
       "version": "0.1.0",
       "description": "Onchain delegation for Etherplay Accounts - Solidity library, the TypeScript builder for the message it verifies, and the ABI, kept in agreement by a shared vectors file",
@@ -28670,6 +28694,18 @@
       "score": 71
     },
     {
+      "name": "@greese/react",
+      "version": "1.0.0",
+      "description": "Mobile-first, TypeScript-first React components, styled by @greese/ui: zero-runtime, CSS-variable theming.",
+      "license": "MIT",
+      "repository": "https://github.com/chris-moody/greese",
+      "npmUrl": "https://www.npmjs.com/package/%40greese%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-10-31T02:32:33.517Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
+    },
+    {
       "name": "@gridengine/react-datagrid-enterprise",
       "version": "1.2.0",
       "description": "Enterprise-grade React DataGrid with premium features — built on react-open-source-grid",
@@ -34656,6 +34692,18 @@
       "createdAt": "2026-09-30T11:49:16.951Z",
       "discoveredAt": "2026-10-01T01:55:29.783Z",
       "score": 100
+    },
+    {
+      "name": "@johnmorrisdotca/uchusen-rockets",
+      "version": "0.1.0",
+      "description": "Uchusen Rockets 宇宙船: line drawings and 3D views of rockets, as a web component. Every variant with its own sourced sizes, a typed way to assemble a rocket from parts, stack and separate. No logos. three.js is a peer dependency.",
+      "license": "MIT AND CC-BY-4.0",
+      "repository": "https://github.com/johnmorrisdotca/uchusen-rockets",
+      "npmUrl": "https://www.npmjs.com/package/%40johnmorrisdotca%2Fuchusen-rockets",
+      "category": "frontend",
+      "createdAt": "2026-10-31T09:46:08.516Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
     },
     {
       "name": "@jojoman2024/dsh-mnemon",
@@ -41424,6 +41472,18 @@
       "createdAt": "2026-07-27T15:20:16.880Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 79
+    },
+    {
+      "name": "@mdferdousalam/agentic-sdlc",
+      "version": "3.0.0",
+      "description": "An enforced agent-based SDLC pipeline for any coding agent: specify, review, branch, implement, verify, review, gate, land, release. Claude Code, opencode, Codex and Cline refuse a skipped stage at the tool call; Cursor, Copilot, Windsurf and every AGENTS",
+      "license": "MIT",
+      "repository": "https://github.com/mdferdousalam/agentic-sdlc",
+      "npmUrl": "https://www.npmjs.com/package/%40mdferdousalam%2Fagentic-sdlc",
+      "category": "cli",
+      "createdAt": "2026-10-31T08:59:32.929Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 100
     },
     {
       "name": "@mdimranh/onestorage",
@@ -52106,6 +52166,18 @@
       "score": 76
     },
     {
+      "name": "@pouyam/rtlint",
+      "version": "0.3.1",
+      "description": "rtlint by Pouyam: find and fix right-to-left (RTL) layout bugs and Persian typography in CSS, Tailwind, React, React Native, Vue, Svelte, HTML and text. Zero dependencies, safe --fix, ESLint/Stylelint/Vite plugins and an MCP server for AI assistants.",
+      "license": "MIT",
+      "repository": "https://github.com/pouyamsmartcity/rtlint",
+      "npmUrl": "https://www.npmjs.com/package/%40pouyam%2Frtlint",
+      "category": "frontend",
+      "createdAt": "2026-11-01T01:28:33.573Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
+    },
+    {
       "name": "@powerduck/conf-patch",
       "version": "0.3.2",
       "description": "Two-layer configuration editor: pure core for patching JSON/JSONC/YAML strings (browser-safe), plus file layer with atomic writes and locking for Node.js/Electron. RFC 6902 JSON Patch, comment and formatting preservation, OpenAPI validation.",
@@ -54444,6 +54516,18 @@
       "createdAt": "2026-09-02T14:10:34.068Z",
       "discoveredAt": "2026-09-02T16:27:26.013Z",
       "score": 94
+    },
+    {
+      "name": "@reaan_dev/devops-skill",
+      "version": "2.0.0",
+      "description": "Full-lifecycle 2025/2026 cloud-native DevOps & DevSecOps engineering skill for AI agents (Pi, Claude Code, Cursor, Windsurf, Roo, OpenCode)",
+      "license": "MIT",
+      "repository": "https://github.com/Reaan06/devops-skill",
+      "npmUrl": "https://www.npmjs.com/package/%40reaan_dev%2Fdevops-skill",
+      "category": "data",
+      "createdAt": "2026-10-31T16:34:11.162Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 93
     },
     {
       "name": "@react-querybuilder/migrate-raqb",
@@ -66338,6 +66422,18 @@
       "score": 90
     },
     {
+      "name": "@twistedandy/bigger-picture",
+      "version": "1.2.1",
+      "description": "A compact and fast lightbox library supporting images, videos, YouTube and Vimeo embeds, iframes, and other content.",
+      "license": "MIT",
+      "repository": "https://github.com/TwistedAndy/bigger-picture",
+      "npmUrl": "https://www.npmjs.com/package/%40twistedandy%2Fbigger-picture",
+      "category": "utilities",
+      "createdAt": "2026-10-31T21:06:47.712Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 91
+    },
+    {
       "name": "@twocan/testnexus-mcp",
       "version": "1.1.0",
       "description": "TestNexus MCP server for Claude Code — push, list, and download Android APK builds",
@@ -69215,6 +69311,18 @@
       "category": "testing",
       "createdAt": "2026-10-30T02:00:25.558Z",
       "discoveredAt": "2026-10-30T02:28:32.664Z",
+      "score": 90
+    },
+    {
+      "name": "@vulinh1704/spend-guard",
+      "version": "0.2.0",
+      "description": "A spending guard for AI agents that pay for things: budgets, payee allowlists, price-spike checks and human approval before any payment leaves the wallet. Pays HTTP 402 (x402) paywalls in USDC on Circle's Arc and in NEAR.",
+      "license": "MIT",
+      "repository": "https://github.com/vulinh1704/spend-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40vulinh1704%2Fspend-guard",
+      "category": "backend",
+      "createdAt": "2026-10-31T08:57:20.877Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
       "score": 90
     },
     {
@@ -89126,6 +89234,18 @@
       "score": 60
     },
     {
+      "name": "dsh-idle-watchdog",
+      "version": "1.1.0",
+      "description": "DeepSeek Harness (DSH) plugin: nudge opted-in chats when they go idle (quiet hours, backoff, goal-aware, error-only mode, preview), plus a secret-protected HTTP API to prompt any chat from scripts, cron or webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/lucagiftzek/DSH-Idle-Watchdog",
+      "npmUrl": "https://www.npmjs.com/package/dsh-idle-watchdog",
+      "category": "backend",
+      "createdAt": "2026-10-31T03:52:08.530Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 100
+    },
+    {
       "name": "dsh-im-hub",
       "version": "0.1.0",
       "description": "A multi-platform IM gateway for DeepSeek Harness (dsh) — Feishu (Lark), WeCom (WeChat Work), and Telegram. Turn your dsh agent into a chat assistant reachable from the messaging apps you already use.",
@@ -89592,6 +89712,18 @@
       "createdAt": "2026-10-18T04:28:37.147Z",
       "discoveredAt": "2026-10-18T05:12:16.628Z",
       "score": 90
+    },
+    {
+      "name": "dsh-model-master",
+      "version": "1.1.2",
+      "description": "dsh-model-master（模型选择大师）for DeepSeek Harness — 15-language UI (top-15 world languages) — 保留 DSH 原生模型按钮与菜单，在原版狭小下拉列表即将弹出时无缝接管为 Spotlight 大面板。集成 TTFT/TPS 流式测速（失败如实展示、绝不编造数据）、原生渠道分组、⚡ 智能优选、全球百强榜（点击行搜本机渠道）；内置推理档位 FX（官方菜单推理等级行滑条 + 档位切换芯片能量闪动）；原生模型位被其它插件占用时自动出现",
+      "license": "MIT",
+      "repository": "https://github.com/NEETnina/dsh-model-master",
+      "npmUrl": "https://www.npmjs.com/package/dsh-model-master",
+      "category": "testing",
+      "createdAt": "2026-10-31T11:50:25.987Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 100
     },
     {
       "name": "dsh-model-meta-autofill",
@@ -91524,6 +91656,18 @@
       "createdAt": "2026-10-15T16:49:47.843Z",
       "discoveredAt": "2026-10-16T01:04:57.964Z",
       "score": 94
+    },
+    {
+      "name": "dsh-xiaoai-bridge",
+      "version": "1.0.1",
+      "description": "XiaoAI speaker bridge for DeepSeek Harness: wake word, speech capture, DSH conversation and speaker playback, with the Python bridge hosted as a local process by the plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/OMSociety/dsh-xiaoai-bridge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-xiaoai-bridge",
+      "category": "utilities",
+      "createdAt": "2026-10-04T02:07:45.984Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 91
     },
     {
       "name": "dsh-yolo-mode",
@@ -96530,6 +96674,18 @@
       "score": 64
     },
     {
+      "name": "givemotion",
+      "version": "0.1.0",
+      "description": "Make videos with AI, free and open source (MIT). A code-to-video engine built for AI agents like Claude Code, Cursor and Codex: the agent writes HTML/CSS, checks and previews its own video, and renders MP4.",
+      "license": "MIT",
+      "repository": "https://github.com/givemotion/givemotion",
+      "npmUrl": "https://www.npmjs.com/package/givemotion",
+      "category": "frontend",
+      "createdAt": "2026-10-31T18:05:15.260Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
+    },
+    {
       "name": "glanceless",
       "version": "0.1.0",
       "description": "Page-level design rules measured in a real browser and failed closed: contrast, dead columns, page chrome, full-column figures, a figure over a tracked label, table shape, and copy noise.",
@@ -99458,6 +99614,18 @@
       "score": 100
     },
     {
+      "name": "img-upload-kit",
+      "version": "1.1.1",
+      "description": "Full-featured image upload, Sharp AVIF/WebP optimization, LQIP & BlurHash generation, dominant edge-color extraction, pluggable StorageAdapter, and customizable/headless React UI components.",
+      "license": "MIT",
+      "repository": "https://github.com/MoElsherbiny/image-upload-kit",
+      "npmUrl": "https://www.npmjs.com/package/img-upload-kit",
+      "category": "frontend",
+      "createdAt": "2026-10-31T15:54:29.563Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 99
+    },
+    {
       "name": "imgoji",
       "version": "1.0.0",
       "description": "Render emoji strings as images: a drop-in, asset-free web component and matching encoder.",
@@ -99828,6 +99996,18 @@
       "createdAt": "2026-09-06T07:43:23.387Z",
       "discoveredAt": "2026-09-06T15:21:41.212Z",
       "score": 96
+    },
+    {
+      "name": "interesting-ui",
+      "version": "1.0.0",
+      "description": "Animated React components (magnetic button, 3D tilt cards, liquid morph, neon slider, spotlight card, canvas cursor trail and more) built on Chakra UI v2, GSAP and framer-motion.",
+      "license": "MIT",
+      "repository": "https://github.com/Atifmoin19/IntrestingUI",
+      "npmUrl": "https://www.npmjs.com/package/interesting-ui",
+      "category": "frontend",
+      "createdAt": "2026-10-31T17:50:41.370Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 95
     },
     {
       "name": "intervals-icu-sdk",
@@ -104378,6 +104558,18 @@
       "score": 93
     },
     {
+      "name": "make-app-icons",
+      "version": "1.0.0",
+      "description": "Master image (SVG or PNG) -> the modern favicon/PWA icon set (Evil Martians' \"How to Favicon in 2021\": favicon.ico, icon.svg with dark-mode support, apple-touch-icon, maskable + PWA manifest icons, manifest.webmanifest, head snippet), with the classic 16-",
+      "license": "MIT",
+      "repository": "https://github.com/dgaidula/make-app-icons",
+      "npmUrl": "https://www.npmjs.com/package/make-app-icons",
+      "category": "cli",
+      "createdAt": "2026-10-31T19:18:49.433Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 100
+    },
+    {
       "name": "make-npx-card",
       "version": "1.0.1",
       "description": "Interactive generator for npx business cards — mint your own `npx <you>` card in under a minute",
@@ -105590,6 +105782,18 @@
       "score": 76
     },
     {
+      "name": "mcp-oauth-starter",
+      "version": "0.1.0",
+      "description": "Drop-in OAuth 2.1 for remote MCP servers in Node.js/TypeScript: PKCE, dynamic client registration, consent page, refresh-token rotation, personal access tokens and stateless Streamable HTTP. Works with Claude, ChatGPT, Cursor and any MCP client.",
+      "license": "MIT",
+      "repository": "https://github.com/umesh-saini/mcp-auth-kit",
+      "npmUrl": "https://www.npmjs.com/package/mcp-oauth-starter",
+      "category": "backend",
+      "createdAt": "2026-10-31T15:34:37.977Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
+    },
+    {
       "name": "mcp-omni-context",
       "version": "1.0.1",
       "description": "Universal vision & file processor MCP server for LLMs: OCR screenshots, read code/text files, and dump zip archives as a clean sequential file-tree dump.",
@@ -106440,6 +106644,18 @@
       "createdAt": "2026-08-09T14:04:02.718Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 66
+    },
+    {
+      "name": "memtrails",
+      "version": "0.1.0",
+      "description": "Retrieval and exploration for any text — e-mail, chat, notes, documents, news, commits, conversations. Searchable at once, on your own machine, in any language; optional consolidation into typed knowledge with a language model.",
+      "license": "MIT",
+      "repository": "https://github.com/cmaftuleac/memtrails",
+      "npmUrl": "https://www.npmjs.com/package/memtrails",
+      "category": "utilities",
+      "createdAt": "2026-11-01T01:09:57.782Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 90
     },
     {
       "name": "mend-json",
@@ -110642,6 +110858,18 @@
       "score": 80
     },
     {
+      "name": "node-red-contrib-kafkajs-no-crash",
+      "version": "1.0.0",
+      "description": "Crash-proof Kafka nodes for Node-RED built on KafkaJS: auto-reconnect, clear errors, and a disk-backed offline queue that stores messages while Kafka is unreachable and replays them in order when the connection comes back.",
+      "license": "MIT",
+      "repository": "https://github.com/patel-deepanshu/node-red-contrib-kafkajs-no-crash",
+      "npmUrl": "https://www.npmjs.com/package/node-red-contrib-kafkajs-no-crash",
+      "category": "utilities",
+      "createdAt": "2026-10-31T09:13:03.194Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 100
+    },
+    {
       "name": "node-red-contrib-mqtt-sparkplug-plus-wmonitor",
       "version": "2.3.0",
       "description": "Fork of node-red-contrib-mqtt-sparkplug-plus with Sparkplug B birth/death lifecycle and publish timing fixes. Same node type names as the original, so the two cannot be installed side by side.",
@@ -112692,6 +112920,18 @@
       "createdAt": "2026-08-14T20:06:29.223Z",
       "discoveredAt": "2026-08-14T20:23:12.075Z",
       "score": 71
+    },
+    {
+      "name": "opencode-matrixx-v2",
+      "version": "1.0.0",
+      "description": "The Best AI Agent Harness - Batteries-Included OpenCode Plugin with Multi-Model Orchestration, Parallel Background Agents, and Crafted LSP/AST Tools",
+      "license": "SUL-1.0",
+      "repository": "https://github.com/klpanagi/opencode-matrixx-2",
+      "npmUrl": "https://www.npmjs.com/package/opencode-matrixx-v2",
+      "category": "utilities",
+      "createdAt": "2026-10-31T14:45:17.170Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 94
     },
     {
       "name": "opencode-mcp-bridge",
@@ -117230,6 +117470,18 @@
       "score": 79
     },
     {
+      "name": "planbridge",
+      "version": "1.2.0",
+      "description": "Use your Claude Code subscription as a local OpenAI- and Anthropic-compatible API for your own apps, scripts and sites. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/CalaKuad1/planbridge",
+      "npmUrl": "https://www.npmjs.com/package/planbridge",
+      "category": "backend",
+      "createdAt": "2026-10-31T23:29:42.919Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 93
+    },
+    {
       "name": "plandeck",
       "version": "0.3.0",
       "description": "The visual Kanban for long-running AI agents. Your plan organizes itself: dependencies unlock into Ready, the critical path lights up, the one next move is obvious. Nobody wants to read a markdown plan. Zero dependencies, works with Claude Code, Codex, an",
@@ -118860,6 +119112,18 @@
       "createdAt": "2026-08-05T16:14:25.577Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 70
+    },
+    {
+      "name": "pusula",
+      "version": "1.0.0",
+      "description": "Pusula: unified AI gateway with 375 providers, RTK+Caveman compression, auto fallback, MCP/A2A, desktop, PWA, and OpenAI-compatible APIs.",
+      "license": "MIT",
+      "repository": "https://github.com/Ferhat-Yasinoglu/pusula",
+      "npmUrl": "https://www.npmjs.com/package/pusula",
+      "category": "backend",
+      "createdAt": "2026-11-01T00:29:31.960Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 93
     },
     {
       "name": "pw-advanced-http",
@@ -124406,6 +124670,18 @@
       "score": 100
     },
     {
+      "name": "seoanything",
+      "version": "1.0.0",
+      "description": "The ultimate SEO & GEO skill suite for AI agents: Antigravity, Claude Code, Cursor, Gemini, Copilot, and any web repository.",
+      "license": "MIT",
+      "repository": "https://github.com/sundargautam18/seo-anything",
+      "npmUrl": "https://www.npmjs.com/package/seoanything",
+      "category": "utilities",
+      "createdAt": "2026-10-31T11:51:14.852Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 92
+    },
+    {
       "name": "seoflow",
       "version": "0.2.3",
       "description": "AI-powered SEO pipeline — content audit, keyword research, internal linking, image injection, content generation, publishing",
@@ -127020,6 +127296,18 @@
       "createdAt": "2026-09-20T06:28:48.903Z",
       "discoveredAt": "2026-09-20T15:55:23.242Z",
       "score": 90
+    },
+    {
+      "name": "squeze-code",
+      "version": "2.2.0",
+      "description": "Local, deterministic, token-budgeted code context and code graph for Copilot and MCP coding agents. Cuts the tokens (credits) an agent spends reading a repository.",
+      "license": "MIT",
+      "repository": "https://github.com/2002-rokkam/squeze",
+      "npmUrl": "https://www.npmjs.com/package/squeze-code",
+      "category": "utilities",
+      "createdAt": "2026-10-31T19:35:21.444Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 96
     },
     {
       "name": "squishify",
@@ -131868,6 +132156,18 @@
       "createdAt": "2026-08-08T18:36:25.824Z",
       "discoveredAt": "2026-08-10T09:09:27.680Z",
       "score": 76
+    },
+    {
+      "name": "underhood",
+      "version": "1.0.0",
+      "description": "Deep codebase comprehension and architectural diagnostic scanner for AI coding agents. Stop skimming, own the code.",
+      "license": "MIT",
+      "repository": "https://github.com/harsh-aghara/underhood",
+      "npmUrl": "https://www.npmjs.com/package/underhood",
+      "category": "utilities",
+      "createdAt": "2026-10-31T09:23:50.507Z",
+      "discoveredAt": "2026-11-01T02:00:13.280Z",
+      "score": 91
     },
     {
       "name": "underoute-clai",
