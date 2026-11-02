@@ -6290,6 +6290,18 @@
       "score": 87
     },
     {
+      "name": "@archnemix/image-protection",
+      "version": "1.22.0",
+      "description": "Archnemix (Archx) — layered image protection for websites. Display images without ever handing visitors a downloadable file: no <img>, scrambled/encrypted delivery, poisoned canvas read-back, expiring signed URLs, baked-in watermarking.",
+      "license": "0BSD",
+      "repository": "https://github.com/archnemix/Archnemix_Image_Protection",
+      "npmUrl": "https://www.npmjs.com/package/%40archnemix%2Fimage-protection",
+      "category": "backend",
+      "createdAt": "2026-11-01T06:37:42.664Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 100
+    },
+    {
       "name": "@archymedes/friday",
       "version": "3.8.0",
       "description": "Friday CLI — a coding agent that shows its work. Runs against your working tree or an isolated remote sandbox, with guarded approvals, git checkpoints, and exact, measured cost accounting.",
@@ -8388,6 +8400,18 @@
       "createdAt": "2026-07-31T03:42:06.468Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 66
+    },
+    {
+      "name": "@badgeia/provenance",
+      "version": "0.2.0",
+      "description": "Badge Provenance Pack (BPP-001) client library and Signed Agent Record verifier: sign agent manifests and HTTP responses, verify a badgeIA Signed Agent Record offline, and gate CI on it — for Node.js AI agent servers.",
+      "license": "MIT",
+      "repository": "https://github.com/thehomer87/badgeIA",
+      "npmUrl": "https://www.npmjs.com/package/%40badgeia%2Fprovenance",
+      "category": "backend",
+      "createdAt": "2026-11-01T17:54:06.114Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
     },
     {
       "name": "@badriana/ai-core",
@@ -12840,6 +12864,30 @@
       "createdAt": "2026-07-31T00:27:18.760Z",
       "discoveredAt": "2026-07-31T02:01:43.367Z",
       "score": 93
+    },
+    {
+      "name": "@cocreate/client",
+      "version": "1.80.0",
+      "description": "A collaborative low code headless CMS and Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/CoCreateJS/CoCreate-client",
+      "npmUrl": "https://www.npmjs.com/package/%40cocreate%2Fclient",
+      "category": "backend",
+      "createdAt": "2026-11-01T22:26:44.769Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 95
+    },
+    {
+      "name": "@cocreate/cluster",
+      "version": "1.7.0",
+      "description": "A secure, stateless, clustered headless server built for high-performance multi-tenancy, real-time collaboration, and sandboxed AST execution.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/CoCreateJS/cluster",
+      "npmUrl": "https://www.npmjs.com/package/%40cocreate%2Fcluster",
+      "category": "backend",
+      "createdAt": "2026-11-01T20:38:21.994Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 94
     },
     {
       "name": "@cocreate/server-container",
@@ -20760,6 +20808,18 @@
       "createdAt": "2026-10-23T18:39:45.146Z",
       "discoveredAt": "2026-10-24T01:26:18.291Z",
       "score": 91
+    },
+    {
+      "name": "@ezhana/design-theme-obsidian",
+      "version": "0.0.0",
+      "description": "Official Obsidian theme for @ezhana/design-tokens: the Obsidian & Gold business identity — 24K gold on warm near-black obsidian, Inter body with Playfair Display headings, hairline-led hierarchy, dark-only.",
+      "license": "MIT",
+      "repository": "https://github.com/Ezhana/frontend-template-source",
+      "npmUrl": "https://www.npmjs.com/package/%40ezhana%2Fdesign-theme-obsidian",
+      "category": "frontend",
+      "createdAt": "2026-11-01T18:44:15.725Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
     },
     {
       "name": "@faanau/kuromoji",
@@ -30422,6 +30482,30 @@
       "score": 63
     },
     {
+      "name": "@hibira-io/nestjs",
+      "version": "0.1.0",
+      "description": "NestJS module for Hibira (Pusher-compatible) realtime: publish events, authorize private and presence channels with decorators, receive signed webhooks, @Broadcast() route results, stream LLM text, ask people for approvals and send push notifications",
+      "license": "MIT",
+      "repository": "https://github.com/hibira-io/nestjs",
+      "npmUrl": "https://www.npmjs.com/package/%40hibira-io%2Fnestjs",
+      "category": "backend",
+      "createdAt": "2026-11-01T14:52:33.369Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
+    },
+    {
+      "name": "@hibira-io/svelte",
+      "version": "0.1.0",
+      "description": "Svelte 5 and Svelte 4 stores for pusher-js on Hibira and other Pusher-compatible servers, made for SvelteKit: shared channels, events, presence, connection state, client events, LLM token streaming with streamToChannel, and a channel auth handler for +ser",
+      "license": "MIT",
+      "repository": "https://github.com/hibira-io/svelte",
+      "npmUrl": "https://www.npmjs.com/package/%40hibira-io%2Fsvelte",
+      "category": "frontend",
+      "createdAt": "2026-11-01T14:50:53.761Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
+    },
+    {
       "name": "@highflame/codeoid",
       "version": "0.4.0",
       "description": "Identity-first control plane for AI coding agents — multi-session, multi-frontend, with cross-session memory",
@@ -39566,6 +39650,42 @@
       "score": 71
     },
     {
+      "name": "@lucagiftzek/dsh-artifacts",
+      "version": "2.1.0",
+      "description": "DSH web plugin: artifacts for the web GUI: sidebar tab with versions/diff/pick-and-ask, Markdown-to-page server, two-way chat bridge, local library shelf, media generation, an agent CLI, and a template library with agent tools (artifact_templates, artifac",
+      "license": "MIT",
+      "repository": "https://github.com/lucagiftzek/dsh-artifacts",
+      "npmUrl": "https://www.npmjs.com/package/%40lucagiftzek%2Fdsh-artifacts",
+      "category": "backend",
+      "createdAt": "2026-11-01T23:13:35.231Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 96
+    },
+    {
+      "name": "@lucagiftzek/dsh-orchestrator",
+      "version": "0.1.1",
+      "description": "Agent swarm and task orchestration for DeepSeek Harness: an Orchestrate sidebar tab and orch_* tools to spawn, prompt and fork agent chats, run command, scrape, http and agent tasks on local, ssh or remote runners, provider status cards, and a secret-prot",
+      "license": "MIT",
+      "repository": "https://github.com/lucagiftzek/dsh-orchestrator",
+      "npmUrl": "https://www.npmjs.com/package/%40lucagiftzek%2Fdsh-orchestrator",
+      "category": "backend",
+      "createdAt": "2026-11-01T23:13:43.724Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
+    },
+    {
+      "name": "@lucagiftzek/dsh-voice",
+      "version": "2.0.0",
+      "description": "Read-aloud, dictation and language-aware speech for the DeepSeek Harness web UI: many TTS/STT providers at once (EU vendors first: Mistral, Speechmatics, Gladia, ReadSpeaker; plus ElevenLabs, Azure, Google, Amazon, OpenAI and OpenAI-compatible servers, De",
+      "license": "MIT",
+      "repository": "https://github.com/lucagiftzek/dsh-voice",
+      "npmUrl": "https://www.npmjs.com/package/%40lucagiftzek%2Fdsh-voice",
+      "category": "backend",
+      "createdAt": "2026-11-01T23:14:07.872Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 94
+    },
+    {
       "name": "@lucashungaro/opencode-model-router",
       "version": "1.5.0",
       "description": "OpenCode plugin that routes tasks to tiered subagents (fast/medium/heavy) based on complexity",
@@ -40332,6 +40452,18 @@
       "createdAt": "2026-08-06T05:35:25.107Z",
       "discoveredAt": "2026-08-06T08:19:20.704Z",
       "score": 88
+    },
+    {
+      "name": "@mambalabsdev/mcp-api-change-monitor",
+      "version": "1.0.0",
+      "description": "MCP server for API Change Monitor. Watch the APIs you depend on and get only what changed since the last run: changelog entries tagged as deprecations or breaking changes, status incidents, OpenAPI diffs, and Sunset headers. Runs on Apify.",
+      "license": "MIT",
+      "repository": "https://github.com/mambalabsdev/mcp-api-change-monitor",
+      "npmUrl": "https://www.npmjs.com/package/%40mambalabsdev%2Fmcp-api-change-monitor",
+      "category": "backend",
+      "createdAt": "2026-11-01T15:27:53.965Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
     },
     {
       "name": "@mambalabsdev/mcp-app-store-google-play-review-monitor",
@@ -45806,6 +45938,18 @@
       "score": 94
     },
     {
+      "name": "@naxosdata/polymarket-mcp-server",
+      "version": "1.0.0",
+      "description": "High-performance Model Context Protocol (MCP) server for Polymarket, Kalshi, and multi-venue prediction markets. Enables Claude Desktop, Cursor IDE, and AI agents to query Level 2 orderbooks, scan cross-venue arbitrage, solve quadratic taker fees, track w",
+      "license": "MIT",
+      "repository": "https://github.com/nexosdata/polymarket-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40naxosdata%2Fpolymarket-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-11-01T19:46:17.222Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 100
+    },
+    {
       "name": "@nazarkalytiuk/rusc-xlsx-reader",
       "version": "1.0.0",
       "description": "Fast, memory-bounded XLSX reader for Node.js powered by Calamine and NAPI-RS",
@@ -47856,6 +48000,54 @@
       "createdAt": "2026-08-21T05:43:03.949Z",
       "discoveredAt": "2026-08-21T13:02:22.518Z",
       "score": 86
+    },
+    {
+      "name": "@oakoliver/bubblezone",
+      "version": "1.0.0",
+      "description": "Mouse hit-zones for Bubble Tea in TypeScript: mark a region of your view, scan once, ask whether a click landed inside it. Port of lrstanley/bubblezone",
+      "license": "MIT",
+      "repository": "https://github.com/oakoliver/bubblezone",
+      "npmUrl": "https://www.npmjs.com/package/%40oakoliver%2Fbubblezone",
+      "category": "testing",
+      "createdAt": "2026-11-01T19:22:18.284Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 95
+    },
+    {
+      "name": "@oakoliver/ntcharts",
+      "version": "1.0.0",
+      "description": "Terminal charts for TypeScript: canvas, bar, line, streaming, time series, wave, sparkline and heatmap charts. Port of NimbleMarkets' ntcharts for Bubble Tea",
+      "license": "MIT",
+      "repository": "https://github.com/oakoliver/ntcharts",
+      "npmUrl": "https://www.npmjs.com/package/%40oakoliver%2Fntcharts",
+      "category": "build-tools",
+      "createdAt": "2026-11-01T19:22:32.221Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 95
+    },
+    {
+      "name": "@oakoliver/teatest",
+      "version": "1.0.0",
+      "description": "Test helpers for Bubble Tea programs in TypeScript: run a model at a fixed terminal size, send keys, wait for output and compare it with golden files. A port of Charm's teatest",
+      "license": "MIT",
+      "repository": "https://github.com/oakoliver/teatest",
+      "npmUrl": "https://www.npmjs.com/package/%40oakoliver%2Fteatest",
+      "category": "testing",
+      "createdAt": "2026-11-01T19:22:21.344Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 97
+    },
+    {
+      "name": "@oakoliver/wish",
+      "version": "1.0.0",
+      "description": "Build SSH apps in TypeScript: an SSH server with middleware for Bubble Tea, Git, SCP, logging, access control and rate limiting. A port of Charm's wish",
+      "license": "MIT",
+      "repository": "https://github.com/oakoliver/wish",
+      "npmUrl": "https://www.npmjs.com/package/%40oakoliver%2Fwish",
+      "category": "backend",
+      "createdAt": "2026-11-01T19:22:28.379Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 95
     },
     {
       "name": "@oarkflow/lithe",
@@ -84578,6 +84770,18 @@
       "score": 89
     },
     {
+      "name": "cowait-cli",
+      "version": "1.0.0",
+      "description": "A side panel for Claude Code: read what each turn changed, steer Claude with one line, then play a quick game or study while it works.",
+      "license": "MIT",
+      "repository": "https://github.com/JaspinXu/Cowait",
+      "npmUrl": "https://www.npmjs.com/package/cowait-cli",
+      "category": "cli",
+      "createdAt": "2026-11-01T06:22:23.538Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 93
+    },
+    {
       "name": "cozyclay",
       "version": "1.1.0",
       "description": "Browser-based 3D staging studio: block a scene, pose characters, author camera moves and cuts, and preview generated motion.",
@@ -88358,6 +88562,18 @@
       "score": 90
     },
     {
+      "name": "dsh-btc-dashboard",
+      "version": "1.8.1",
+      "description": "OKX 合约价格看板（BTC / ETH 永续可切换）：最新价 + 1m/3m/15m/1h/4h/1D K 线 + 可调周期 EMA（整条序列现算）+ 收线预警（穿均线提示，可桌面通知/提示音/邮件/留记录，判定常驻执行）+ 最新价线与收盘倒计时 + 可编辑画线 + 生产/模拟环境切换 + 回测面板（内置 backtest/ 框架：可选标的/策略/周期/时间范围/资金/杠杆/费率，面板内看资金曲线与交易明细）",
+      "license": "MIT",
+      "repository": "https://github.com/altmanWang/dsh_plugin_btc_dashboard",
+      "npmUrl": "https://www.npmjs.com/package/dsh-btc-dashboard",
+      "category": "testing",
+      "createdAt": "2026-11-01T11:44:29.607Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 94
+    },
+    {
       "name": "dsh-button",
       "version": "1.2.0",
       "description": "One-click composer actions for DeepSeek Harness: a 「继续」 button (label and text editable), your own configurable text buttons (e.g. to invoke a skill), a 「重发上一条」 button (label editable, content is your last real message), plus hide/restore and five sensibl",
@@ -88487,6 +88703,30 @@
       "category": "utilities",
       "createdAt": "2026-08-14T10:15:34.037Z",
       "discoveredAt": "2026-08-14T10:50:54.851Z",
+      "score": 90
+    },
+    {
+      "name": "dsh-checkup",
+      "version": "0.8.0",
+      "description": "Zero-dependency static + sandbox smoke detector for DeepSeek Harness (dsh) plugins: package-structure gates (R), cordis contract scans (K), keyless-headless sandbox smoke (D), and ecosystem-listing checks (CC).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-checkup",
+      "npmUrl": "https://www.npmjs.com/package/dsh-checkup",
+      "category": "testing",
+      "createdAt": "2026-11-01T09:21:12.365Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 90
+    },
+    {
+      "name": "dsh-clinic",
+      "version": "0.8.0",
+      "description": "Zero-dependency static + sandbox smoke detector for DeepSeek Harness (dsh) plugins: package-structure gates (R), cordis contract scans (K), keyless-headless sandbox smoke (D), and ecosystem-listing checks (CC).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PerryLink/dsh-clinic",
+      "npmUrl": "https://www.npmjs.com/package/dsh-clinic",
+      "category": "testing",
+      "createdAt": "2026-11-01T09:16:32.004Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
       "score": 90
     },
     {
@@ -98378,6 +98618,18 @@
       "score": 89
     },
     {
+      "name": "homebridge-honeywell-totalconnect",
+      "version": "1.0.1",
+      "description": "Control your Honeywell / Resideo Total Connect 2.0 alarm system from Apple HomeKit via Homebridge. Arm, disarm, zone sensors, bypass and more.",
+      "license": "MIT",
+      "repository": "https://github.com/NightPants/Homebridge_TotalConnect2_0",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-honeywell-totalconnect",
+      "category": "utilities",
+      "createdAt": "2026-11-02T01:47:13.156Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 94
+    },
+    {
       "name": "homebridge-insnrg-pool",
       "version": "2.3.1",
       "description": "Homebridge plugin for INSNRG (Vi/Hub) pool equipment via the INSNRG cloud API — pool/spa heating, outlets, valves, lights, pump speed, chlorinator, pH/ORP.",
@@ -101244,6 +101496,18 @@
       "createdAt": "2026-07-29T17:51:58.804Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 91
+    },
+    {
+      "name": "kalshi-mcp-server",
+      "version": "1.0.0",
+      "description": "Production-ready Model Context Protocol (MCP) server for Kalshi CFTC-regulated prediction markets. Enables Claude Desktop, Cursor IDE, Windsurf, and AI agents to query live Level 2 orderbook depth, calculate CFTC Rule 40.2 fees, solve quadratic breakevens",
+      "license": "MIT",
+      "repository": "https://github.com/nexosdata/kalshi-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/kalshi-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-11-01T19:45:59.479Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 100
     },
     {
       "name": "kaltrader",
@@ -110078,6 +110342,18 @@
       "score": 75
     },
     {
+      "name": "next-agent-ready",
+      "version": "1.0.0",
+      "description": "High-performance, zero-dependency Next.js edge and node middleware that intercepts AI crawlers and serves token-compressed, clean semantic HTML with grounded brand facts at edge speed.",
+      "license": "MIT",
+      "repository": "https://github.com/Snapvibr/next-agent-ready",
+      "npmUrl": "https://www.npmjs.com/package/next-agent-ready",
+      "category": "data",
+      "createdAt": "2026-11-01T04:00:38.421Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 92
+    },
+    {
       "name": "next-blogpanel",
       "version": "1.0.0",
       "description": "A drop-in blog engine for Next.js — admin panel, block editor, SEO, and media, all backed by your own MongoDB.",
@@ -117974,6 +118250,18 @@
       "score": 86
     },
     {
+      "name": "polymarket-kalshi-arbitrage-bot",
+      "version": "1.0.0",
+      "description": "Production-ready, low-latency dual-leg cross-venue arbitrage bot between Polymarket and Kalshi powered by NaxosData API",
+      "license": "MIT",
+      "repository": "https://github.com/nexosdata/polymarket-kalshi-arbitrage-bot",
+      "npmUrl": "https://www.npmjs.com/package/polymarket-kalshi-arbitrage-bot",
+      "category": "backend",
+      "createdAt": "2026-11-01T19:46:33.812Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 91
+    },
+    {
       "name": "poolctl",
       "version": "0.1.1",
       "description": "A simple concurrency-limiting task pool for JavaScript. Runs at most N async tasks at a time.",
@@ -121020,6 +121308,18 @@
       "createdAt": "2026-07-27T16:02:13.833Z",
       "discoveredAt": "2026-07-27T17:37:19.958Z",
       "score": 76
+    },
+    {
+      "name": "react-native-offline-game",
+      "version": "1.0.0",
+      "description": "Chrome-style \"No internet\" screen with the dinosaur game for React Native. Appears when the device goes offline and closes when the connection comes back.",
+      "license": "MIT",
+      "repository": "https://github.com/SagarKhengat/react-native-offline-game",
+      "npmUrl": "https://www.npmjs.com/package/react-native-offline-game",
+      "category": "frontend",
+      "createdAt": "2026-11-01T18:01:04.793Z",
+      "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 92
     },
     {
       "name": "react-native-onboarding-engine",
