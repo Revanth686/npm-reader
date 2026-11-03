@@ -1130,6 +1130,18 @@
       "score": 79
     },
     {
+      "name": "@acertijosapps/electron-viewer",
+      "version": "1.0.0",
+      "description": "Visor web de apps Electron en vivo (screencast por CDP, input de mouse y teclado, captura con el marco nativo) y MCP para que un agente las maneje.",
+      "license": "MIT",
+      "repository": "https://github.com/acertijosapps/electron-viewer",
+      "npmUrl": "https://www.npmjs.com/package/%40acertijosapps%2Felectron-viewer",
+      "category": "utilities",
+      "createdAt": "2026-11-03T02:48:20.981Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 92
+    },
+    {
       "name": "@acetrumtech/rag-chatbot-pro",
       "version": "0.1.0",
       "description": "Pro RAG chatbot plugin — DOCX/TXT/MD/CSV + website crawl, client dashboard, citations, semantic cache. Requires a paid license key (acetrum.com) to function; degrades to a free-tier subset without one.",
@@ -5594,6 +5606,18 @@
       "score": 85
     },
     {
+      "name": "@anoopsingh12/ghostrender",
+      "version": "1.0.0",
+      "description": "A dev-only React hook that detects and reports unnecessary component re-renders with zero production overhead.",
+      "license": "MIT",
+      "repository": "https://github.com/anoopsingh12/ghostrender",
+      "npmUrl": "https://www.npmjs.com/package/%40anoopsingh12%2Fghostrender",
+      "category": "frontend",
+      "createdAt": "2026-11-02T14:08:36.715Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 91
+    },
+    {
       "name": "@anosf/crm",
       "version": "0.1.0",
       "description": "Agent-native, self-hosted CRM — REST, MCP, and CLI on one service layer with a reversible audit trail.",
@@ -9062,6 +9086,18 @@
       "score": 94
     },
     {
+      "name": "@bhmarketer-ai/crypto-press-release-faq-generator",
+      "version": "1.0.0",
+      "description": "BHMarketer Crypto Press Release FAQ Generator: searchable 50-question FAQ about buying a crypto press release from BHMarketer.ai, with a page FAQ section and FAQPage JSON-LD.",
+      "license": "MIT",
+      "repository": "https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator",
+      "npmUrl": "https://www.npmjs.com/package/%40bhmarketer-ai%2Fcrypto-press-release-faq-generator",
+      "category": "utilities",
+      "createdAt": "2026-11-02T18:19:01.254Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 97
+    },
+    {
       "name": "@bierwirth-it/n8n-nodes-linkedin-formatter",
       "version": "1.0.0",
       "description": "Turn Markdown into ready-to-post LinkedIn content — with proper handling of German umlauts",
@@ -10548,6 +10584,18 @@
       "createdAt": "2026-08-06T14:41:55.814Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 72
+    },
+    {
+      "name": "@burdenoff/hookmovies-sdk",
+      "version": "2026.1102.1",
+      "description": "Official TypeScript SDK for HookMovies: typed catalog, clips, rights, entitlements and embed clients plus public player helpers, over @burdenoff/sdk-libs",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/algoshred/hookmovies-sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40burdenoff%2Fhookmovies-sdk",
+      "category": "backend",
+      "createdAt": "2026-11-02T08:56:56.064Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 91
     },
     {
       "name": "@burner-io/hermes",
@@ -12887,6 +12935,18 @@
       "category": "backend",
       "createdAt": "2026-11-01T20:38:21.994Z",
       "discoveredAt": "2026-11-02T02:14:35.517Z",
+      "score": 94
+    },
+    {
+      "name": "@cocreate/container",
+      "version": "1.0.0",
+      "description": "Hardened V8 isolated execution engine for CoCreate Server. Executes multi-tenant dynamic scripts inside sandboxed worker threads with untamperable host-side bandwidth metering and unified container interfaces.",
+      "license": "AGPL-3.0",
+      "repository": "https://github.com/CoCreateJS/container",
+      "npmUrl": "https://www.npmjs.com/package/%40cocreate%2Fcontainer",
+      "category": "backend",
+      "createdAt": "2026-11-02T17:25:41.856Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
       "score": 94
     },
     {
@@ -16992,6 +17052,114 @@
       "createdAt": "2026-08-02T05:42:48.788Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 95
+    },
+    {
+      "name": "@diogenesgateway/diogenes-agent-guardrails-mcp",
+      "version": "1.4.0",
+      "description": "12 pre-execution and post-execution AI agent security tools: command injection gate, AST SQL validator, Python sandbox, MCP manifest & rug-pull auditors, sampling firewall, output scrubber, PII redactor, loop breaker, A2A card verifier, egress SSRF guard,",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-agent-guardrails-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-agent-guardrails-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:38.836Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-context-code-solver-mcp",
+      "version": "1.4.0",
+      "description": "15 deterministic AI agent & developer tools: AST context skeleton pruner, BPE token budget planner, BM25+RRF+MMR hybrid reranker, self-healing fuzzy diff patcher, polyglot AST symbol & complexity analyzer, Tarjan circular dependency detector, stack-trace",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-context-code-solver-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-context-code-solver-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:54.264Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-database-intelligence-mcp",
+      "version": "1.4.0",
+      "description": "12 deterministic database intelligence, AST SQL & schema reliability tools: natural language to SQL synthesizer, AST SQL injection & tautology auditor, query plan EXPLAIN optimizer, breaking schema migration differ, polyglot SQL transpiler (PostgreSQL/MyS",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-database-intelligence-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:47.717Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-dev-utilities-mcp",
+      "version": "1.4.0",
+      "description": "14 data extraction, schema healing & workflow orchestration tools: malformed JSON healer, JSON Schema type enforcer, unstructured entity extractor, tabular dataset cleaner, O(n) ReDoS-safe regex synthesizer, XML prompt compiler, Python script synthesizer,",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-dev-utilities-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:40.928Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-eve-frontier-mcp",
+      "version": "1.4.0",
+      "description": "14 EVE: Frontier Sui Move tools covering the complete Smart Assembly lifecycle: assembly state inspector, Tribe standings auditor, Move contract generator, Smart Gate ACL compiler, PTB drain simulator, zkLogin verifier, route planner, Lagrange GJ & siege",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-eve-frontier-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-eve-frontier-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:45.224Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-gemini-suite-mcp",
+      "version": "1.4.0",
+      "description": "15 MCP tools providing account-less access to all 45 Google Gemini models (Gemini 4 Argon, 3.1 Pro, 3.8 Flash) and AI agents (Antigravity Agent, Deep Research Pro, Computer Use, Nano Banana Pro, Veo 3, Lyria 3) via L402, x402, and MPP.",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-gemini-suite-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-gemini-suite-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:23.834Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-neural-search-engine-mcp",
+      "version": "1.4.0",
+      "description": "12 real-time neural search, grounded research & factual verification tools: neural search synthesizer, deep research dossier compiler, Boolean & semantic query expander, curated domain registry filter, breaking news recency & velocity tracker, factual con",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-neural-search-engine-mcp",
+      "category": "frontend",
+      "createdAt": "2026-11-02T05:20:49.893Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-web-scraping-engine-mcp",
+      "version": "1.4.0",
+      "description": "12 high-performance web extraction, readability & markdown tools: clean LLM markdown compiler, readable article extractor, OpenGraph & JSON-LD metadata parser, HTML table to JSON/Markdown converter, CSS selector isolator, paywall & overlay bypass auditor,",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-web-scraping-engine-mcp",
+      "category": "frontend",
+      "createdAt": "2026-11-02T05:20:51.954Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-web3-security-mcp",
+      "version": "1.4.0",
+      "description": "15 Web3, DeFi & HTTP 402 security tools: EVM/Move contract auditor, Solana Anchor CPI scanner, SPL risk & liquidity inspectors, whale flow tracker, Jito fee estimator, EIP-712 & EVM calldata decoders, MEV evaluator, address-poisoning detector, 402 verifie",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-web3-security-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-web3-security-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-02T05:20:43.120Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
     },
     {
       "name": "@diogoaguedes/pleach",
@@ -28250,6 +28418,30 @@
       "score": 90
     },
     {
+      "name": "@globalmpc/hot-wallet-watch",
+      "version": "0.1.0",
+      "description": "Watch hot wallets for the signs of a takeover, block by block: an EIP-7702 delegation to a contract you did not approve, code appearing at the address, a nonce moving without your own send, and native or token outflows above a set rate. Every reading is c",
+      "license": "MIT",
+      "repository": "https://github.com/globalmpc/rwa-kit-js",
+      "npmUrl": "https://www.npmjs.com/package/%40globalmpc%2Fhot-wallet-watch",
+      "category": "devops",
+      "createdAt": "2026-11-02T08:26:35.312Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 90
+    },
+    {
+      "name": "@globalmpc/sign-guard",
+      "version": "0.1.0",
+      "description": "A signing policy for hot wallets. Wraps a viem account so every transaction, EIP-7702 authorization, typed-data and message signature is checked against a written allowlist first: pinned chain ids, allowed contracts and functions, native and token spend c",
+      "license": "MIT",
+      "repository": "https://github.com/globalmpc/rwa-kit-js",
+      "npmUrl": "https://www.npmjs.com/package/%40globalmpc%2Fsign-guard",
+      "category": "data",
+      "createdAt": "2026-11-02T07:59:17.775Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 90
+    },
+    {
       "name": "@glowbox/lcd",
       "version": "1.10.0",
       "description": "Character LCD module component — the HD44780-class 16×2: a reflective display whose ink takes real time to move (LC response smear), with the contrast pot, passive-matrix crosstalk streaks, the uninitialised row of boot boxes, CGRAM custom glyphs and a bl",
@@ -37106,6 +37298,18 @@
       "score": 60
     },
     {
+      "name": "@labs_kai/minim",
+      "version": "3.0.1",
+      "description": "Minim — the smallest HTML-first reactive library. 0.5 KB core, 1.2 KB with attribute bindings. No build, no dependencies, nothing eval'd.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/hertonwork/minim",
+      "npmUrl": "https://www.npmjs.com/package/%40labs_kai%2Fminim",
+      "category": "frontend",
+      "createdAt": "2026-11-03T01:44:05.879Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 91
+    },
+    {
       "name": "@labtoolsstudio/fetchmcp",
       "version": "0.1.1",
       "description": "Drop-in replacement for the official fetch MCP: clean, LLM-ready Markdown from any URL. No 5k truncation, JS rendering when needed, zero config.",
@@ -38652,6 +38856,18 @@
       "createdAt": "2026-09-26T12:42:24.904Z",
       "discoveredAt": "2026-09-26T16:14:56.782Z",
       "score": 89
+    },
+    {
+      "name": "@lisris/dsh-video-storyboard",
+      "version": "26.11.2",
+      "description": "Scene-aware storyboard for DeepSeek Harness: one addressable grid per video (numbered cells, timestamps, transcript, audio envelope) so a text-only agent can look at the video itself instead of being told a summary.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/iFannna/dsh-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40lisris%2Fdsh-video-storyboard",
+      "category": "utilities",
+      "createdAt": "2026-11-02T11:43:20.688Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 98
     },
     {
       "name": "@liteasy/linter",
@@ -50988,6 +51204,18 @@
       "createdAt": "2026-08-13T08:16:11.437Z",
       "discoveredAt": "2026-08-14T19:36:54.018Z",
       "score": 54
+    },
+    {
+      "name": "@pbpyrojust/justwhat-seo-audit",
+      "version": "1.6.1",
+      "description": "Technical SEO, asset integrity, script inventory, CSP readiness, Lighthouse, and browser-agent readiness audit CLI with branded reports for public, staging, and protected sites.",
+      "license": "MIT",
+      "repository": "https://github.com/pbpyrojust/justwhat-seo-audit",
+      "npmUrl": "https://www.npmjs.com/package/%40pbpyrojust%2Fjustwhat-seo-audit",
+      "category": "testing",
+      "createdAt": "2026-11-02T21:17:20.194Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 97
     },
     {
       "name": "@pbpyrojust/universal-accessibility-audit",
@@ -65772,6 +66000,18 @@
       "createdAt": "2026-08-23T11:53:44.972Z",
       "discoveredAt": "2026-08-23T12:54:32.970Z",
       "score": 100
+    },
+    {
+      "name": "@toden/react",
+      "version": "4.0.0",
+      "description": "Toden SDK for React: drop-in identity verification with ID capture, document scan and active liveness detection",
+      "license": "MIT",
+      "repository": "https://github.com/todenhq/toden-react",
+      "npmUrl": "https://www.npmjs.com/package/%40toden%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-11-02T22:27:04.898Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 91
     },
     {
       "name": "@toggleboxcloud/togglebox-mcp",
@@ -82394,6 +82634,18 @@
       "score": 69
     },
     {
+      "name": "cknb-ab-probe",
+      "version": "2.30.5",
+      "description": "Cknb 万能执行员（Ck Universal Executor）— Agent Skills 技能包：渗透 / 逆向 / 爆破 / 注册机 / 免杀 / 造假素材 / 社工 / 取证 / 自动化；默认安装 Pi + OpenCode + DeepSeek Harness，Claude Code / Grok / OpenMinis 显式指定",
+      "license": "MIT",
+      "repository": "https://github.com/1837620622/agent-bypass",
+      "npmUrl": "https://www.npmjs.com/package/cknb-ab-probe",
+      "category": "testing",
+      "createdAt": "2026-11-02T16:39:17.862Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 97
+    },
+    {
       "name": "clankchat",
       "version": "0.1.0",
       "description": "comms for your coding agents",
@@ -88010,6 +88262,18 @@
       "score": 48
     },
     {
+      "name": "dr-skills",
+      "version": "2.2.0",
+      "description": "Dr-SKILLs: Universal AI Developer Agent Ecosystem providing modular skills, plugins, MCP servers, and multi-agent governance rules for Google Antigravity, Claude Code, Cursor, and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/amanpal3/Dr-SKILLs",
+      "npmUrl": "https://www.npmjs.com/package/dr-skills",
+      "category": "backend",
+      "createdAt": "2026-11-02T19:36:20.120Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 98
+    },
+    {
       "name": "draggable-scheduler",
       "version": "0.1.0",
       "description": "A React grid component for weekly resource scheduling with drag-and-drop, built on dnd-kit.",
@@ -89568,6 +89832,18 @@
       "createdAt": "2026-09-21T18:26:41.279Z",
       "discoveredAt": "2026-09-22T04:35:16.646Z",
       "score": 90
+    },
+    {
+      "name": "dsh-job-workbench",
+      "version": "26.11.0",
+      "description": "Job Workbench (求职工作台) for DeepSeek Harness — local-first job-hunt workspace: MCP tools with two-phase writes, 9 jwb-* skills, optional jobws agent preset.",
+      "license": "MIT",
+      "repository": "https://github.com/chenxiang6663635/job-workbench",
+      "npmUrl": "https://www.npmjs.com/package/dsh-job-workbench",
+      "category": "utilities",
+      "createdAt": "2026-11-02T10:28:10.312Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 91
     },
     {
       "name": "dsh-judge-worker",
@@ -98580,6 +98856,18 @@
       "createdAt": "2026-08-09T14:13:32.224Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 71
+    },
+    {
+      "name": "homebridge-fritz-enhance",
+      "version": "1.1.0",
+      "description": "Homebridge plugin for FRITZ!Box smart home (FRITZ!DECT thermostats, outlets with power monitoring, sensors, buttons, lights) and guest WiFi. Fork of homebridge-fritz-new with Homebridge 2 support.",
+      "license": "MIT",
+      "repository": "https://github.com/weigandf/homebridge-fritz-enhance",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-fritz-enhance",
+      "category": "utilities",
+      "createdAt": "2026-11-02T13:30:40.011Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 99
     },
     {
       "name": "homebridge-gree-hvac",
@@ -120600,6 +120888,18 @@
       "createdAt": "2026-09-05T06:43:04.496Z",
       "discoveredAt": "2026-09-05T15:01:02.586Z",
       "score": 99
+    },
+    {
+      "name": "react-native-appy",
+      "version": "1.0.0",
+      "description": "Deep links, deferred deep links, install attribution and in-app events for React Native and Expo apps that use Appy smart links and QR codes.",
+      "license": "MIT",
+      "repository": "https://github.com/appy-to/react-native-appy",
+      "npmUrl": "https://www.npmjs.com/package/react-native-appy",
+      "category": "frontend",
+      "createdAt": "2026-11-02T19:15:46.440Z",
+      "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 92
     },
     {
       "name": "react-native-ar-preview",

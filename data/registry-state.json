@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 141337948,
-  "lastRunAt": "2026-11-02T02:14:35.517Z",
+  "lastSequence": 141650675,
+  "lastRunAt": "2026-11-03T03:52:58.228Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@devcodex/knowkit",
+      "name": "@mjh-odoo/cli",
       "attempts": 1
     },
     {
-      "name": "@reneturcios/ashareport",
+      "name": "@superbiga/dsh-mcp-manager-plugin",
+      "attempts": 1
+    },
+    {
+      "name": "@wufeng0105/dsh-enhance",
+      "attempts": 1
+    },
+    {
+      "name": "@linnnnyue/raphael",
       "attempts": 1
     }
   ]
