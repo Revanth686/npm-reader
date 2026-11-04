@@ -1202,6 +1202,18 @@
       "score": 87
     },
     {
+      "name": "@actdim/livestruct",
+      "version": "1.12.0",
+      "description": "Ergonomic, reactive document and record abstraction over LiveStore (reactive SQLite & event-sourcing) for TypeScript applications.",
+      "license": "MIT",
+      "repository": "https://github.com/actdim/livestruct",
+      "npmUrl": "https://www.npmjs.com/package/%40actdim%2Flivestruct",
+      "category": "frontend",
+      "createdAt": "2026-11-03T18:44:37.907Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 93
+    },
+    {
       "name": "@actionpulse/browser",
       "version": "0.6.4",
       "description": "Framework-neutral ActionPulse browser analytics SDK with explicit consent and local capability controls",
@@ -6122,6 +6134,18 @@
       "score": 89
     },
     {
+      "name": "@appdoor/expo-sdk",
+      "version": "1.0.0",
+      "description": "Expo SDK for AppDoor - open-source alternative to Branch.io, AppsFlyer OneLink, and Firebase Dynamic Links. Deferred deep linking, attribution, and smart routing.",
+      "license": "MIT",
+      "repository": "https://github.com/woosu-xyz/woosu-link",
+      "npmUrl": "https://www.npmjs.com/package/%40appdoor%2Fexpo-sdk",
+      "category": "frontend",
+      "createdAt": "2026-11-03T20:52:37.250Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 96
+    },
+    {
       "name": "@appfigures/agent-toolkit",
       "version": "1.0.0",
       "description": "Give your AI agents a read on the app market — download and revenue estimates, reviews, ranks, keywords, ads, and audience for any app on any major store. Agent tools for the Vercel AI SDK, OpenAI, and LangChain, plus a typed SDK client.",
@@ -6564,6 +6588,18 @@
       "createdAt": "2026-08-12T12:48:41.170Z",
       "discoveredAt": "2026-08-12T14:08:37.632Z",
       "score": 69
+    },
+    {
+      "name": "@arki/cas",
+      "version": "0.1.0",
+      "description": "A bounded computer algebra package on @arki/expr: exact polynomials and rational functions with π and e as symbolic coefficients, closed-form roots, budgets on every input, and results as canonical expr ASTs.",
+      "license": "MIT",
+      "repository": "https://github.com/arki-labs/arki",
+      "npmUrl": "https://www.npmjs.com/package/%40arki%2Fcas",
+      "category": "data",
+      "createdAt": "2026-11-03T10:54:23.804Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 90
     },
     {
       "name": "@arki/failure",
@@ -40382,6 +40418,18 @@
       "score": 67
     },
     {
+      "name": "@magiclane/mcp-docs-server",
+      "version": "1.0.0",
+      "description": "Magic Lane MCP Docs Server — gives AI agents searchable, always-current access to the Magic Lane developer documentation (guides, Maps SDKs for Flutter/Android/iOS/C++/TypeScript, and the Cloud REST APIs).",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/magiclane/magiclane-mcp-docs-server",
+      "npmUrl": "https://www.npmjs.com/package/%40magiclane%2Fmcp-docs-server",
+      "category": "backend",
+      "createdAt": "2026-11-03T17:46:05.996Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 100
+    },
+    {
       "name": "@magist/mcp-server",
       "version": "0.1.0",
       "description": "Thin stdio bridge to the hosted Magist MCP server: open, deterministic, cited regulatory research for product launches. Returns legal information for research and attorney handoff, not legal advice.",
@@ -43356,6 +43404,18 @@
       "createdAt": "2026-08-02T19:26:26.426Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 86
+    },
+    {
+      "name": "@moa1h/react-advanced-odontogram",
+      "version": "2.8.0",
+      "description": "Interactive, SVG-based dental odontogram (dental chart) for React + TypeScript, with per-tooth charting settings and JSON state export.",
+      "license": "MIT",
+      "repository": "https://github.com/ZoliQua/React-Advanced-Odontogram",
+      "npmUrl": "https://www.npmjs.com/package/%40moa1h%2Freact-advanced-odontogram",
+      "category": "frontend",
+      "createdAt": "2026-11-04T02:13:23.715Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 93
     },
     {
       "name": "@modellix/modellix-plugin",
@@ -48734,6 +48794,18 @@
       "score": 90
     },
     {
+      "name": "@oktopeak/clio-export",
+      "version": "1.0.0",
+      "description": "Free, open-source, read-only export of a whole Clio account to your own computer: matters, contacts, notes, tasks, calendar, time entries, expenses, bills as JSON and CSV, and every document as a file in a folder per matter. Resumable. Runs under your own",
+      "license": "MIT",
+      "repository": "https://github.com/oktopeak/clio-export",
+      "npmUrl": "https://www.npmjs.com/package/%40oktopeak%2Fclio-export",
+      "category": "data",
+      "createdAt": "2026-11-03T13:41:34.561Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 92
+    },
+    {
       "name": "@oktopeak/lawmatics-mcp",
       "version": "1.0.0",
       "description": "Open-source Model Context Protocol (MCP) server that connects Claude to Lawmatics legal CRM. 30+ tools covering matters, contacts, companies, pipelines, tasks, events, notes, tags, custom fields, intake forms, and invoices. Config-level read-only mode and",
@@ -52046,6 +52118,18 @@
       "score": 55
     },
     {
+      "name": "@pletopay/node",
+      "version": "1.0.0",
+      "description": "Official Node.js SDK for the Pletopay API: bank-transfer payments, virtual accounts, transfers, checkout and signed webhooks for Nigeria.",
+      "license": "MIT",
+      "repository": "https://github.com/pletopay/pletopay-sdk-node",
+      "npmUrl": "https://www.npmjs.com/package/%40pletopay%2Fnode",
+      "category": "backend",
+      "createdAt": "2026-11-03T16:09:31.481Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 91
+    },
+    {
       "name": "@plif/cli",
       "version": "0.1.0",
       "description": "A container-native coding agent for your terminal. Bring your own model.",
@@ -53640,6 +53724,18 @@
       "createdAt": "2026-10-06T19:11:47.737Z",
       "discoveredAt": "2026-10-07T02:11:08.274Z",
       "score": 94
+    },
+    {
+      "name": "@pymite6941/ctf-flashcards",
+      "version": "1.0.0",
+      "description": "Offline-first active-recall cybersecurity training. Capture terminal commands, review with FSRS-spaced flashcards, quiz yourself, and solve CTF challenges — all offline, no server required.",
+      "license": "MIT",
+      "repository": "https://github.com/PyMite6941/ctf-flashcards",
+      "npmUrl": "https://www.npmjs.com/package/%40pymite6941%2Fctf-flashcards",
+      "category": "backend",
+      "createdAt": "2026-11-03T14:16:09.311Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 96
     },
     {
       "name": "@pymodel/claude-agy-mcp",
@@ -59412,6 +59508,18 @@
       "createdAt": "2026-07-30T10:32:01.763Z",
       "discoveredAt": "2026-07-30T17:44:26.801Z",
       "score": 73
+    },
+    {
+      "name": "@shypie_privacy/magpie-privacy-gate",
+      "version": "0.1.0",
+      "description": "magpie gateway middleware: structural egress firewall. Blocks content parts magpie cannot mask (images, files, documents, audio, video) for models that are not allowlisted as local, blocks encoded blobs smuggled through text, enforces a model allowlist, a",
+      "license": "MIT",
+      "repository": "https://github.com/siml1169/ShyPie",
+      "npmUrl": "https://www.npmjs.com/package/%40shypie_privacy%2Fmagpie-privacy-gate",
+      "category": "utilities",
+      "createdAt": "2026-11-03T16:18:51.140Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 90
     },
     {
       "name": "@sid-thephysicskid/agent-config",
@@ -70250,6 +70358,18 @@
       "score": 99
     },
     {
+      "name": "@wdywdy/electric-open-platform",
+      "version": "1.0.0",
+      "description": "智慧式用电数据开放平台（open.snd02.com）的纯 TypeScript SDK：OAuth2 token 生命周期、MD5 参数签名，以及全部 router.as 接口的类型化封装。零运行时依赖，Node / 浏览器 / Electron / 任意前端框架通用。",
+      "license": "MIT",
+      "repository": "https://github.com/lanyangayang/cordova-mantunsci-electric",
+      "npmUrl": "https://www.npmjs.com/package/%40wdywdy%2Felectric-open-platform",
+      "category": "backend",
+      "createdAt": "2026-11-04T02:12:14.599Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 93
+    },
+    {
       "name": "@weasel-js/core",
       "version": "0.5.0",
       "description": "Domain-agnostic 2D scene graph primitives for React: viewport math, drag/resize/insert/clone interactions, layered canvas rendering.",
@@ -73046,6 +73166,18 @@
       "score": 79
     },
     {
+      "name": "@zarpyk/dsh-auto-continue",
+      "version": "1.3.0",
+      "description": "Bilingual (English/Spanish) auto-continue for the DeepSeek Harness: resumes turns that stopped on max-tokens, on a recoverable error, on a provider usage window, or on an interrupted turn. Ships a composer banner, a settings page with the Command Code usa",
+      "license": "MIT",
+      "repository": "https://github.com/Zarpyk/dsh-auto-continue",
+      "npmUrl": "https://www.npmjs.com/package/%40zarpyk%2Fdsh-auto-continue",
+      "category": "utilities",
+      "createdAt": "2026-11-03T16:02:36.874Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 96
+    },
+    {
       "name": "@zavedyaid/baileys",
       "version": "1.1.0",
       "description": "ZavedyaID Baileys v1 — restructured & rebranded fork of the itsliaaa/baileys enhanced build, with interactive messages, albums, and additional message types on top of WhiskeySockets Baileys.",
@@ -74690,6 +74822,18 @@
       "score": 85
     },
     {
+      "name": "aerolith",
+      "version": "1.0.0",
+      "description": "Frutiger Aero UI for the web. Every button, field and pane is a sprite rendered in Bryce 2 (1996), skinned onto native HTML elements.",
+      "license": "MIT",
+      "repository": "https://github.com/immineal/aerolith",
+      "npmUrl": "https://www.npmjs.com/package/aerolith",
+      "category": "frontend",
+      "createdAt": "2026-11-04T00:11:15.606Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 92
+    },
+    {
       "name": "aes-framework",
       "version": "1.5.0",
       "description": "AES (AI Engineering System), a documentation-driven framework and CLI that keeps AI coding agents aligned with a project's decisions, architecture, and rules across long sessions.",
@@ -75926,6 +76070,18 @@
       "score": 90
     },
     {
+      "name": "ai-git-flow",
+      "version": "2.0.0",
+      "description": "AI-powered Git assistant: grouped Conventional Commits, branches, pull requests, README, LICENSE and issues with GigaChat or any OpenAI-compatible model.",
+      "license": "MIT",
+      "repository": "https://github.com/wildkodokushi/AI-Git-Flow-CLI",
+      "npmUrl": "https://www.npmjs.com/package/ai-git-flow",
+      "category": "cli",
+      "createdAt": "2026-11-04T00:38:46.139Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 93
+    },
+    {
       "name": "ai-governor",
       "version": "1.0.0",
       "description": "Adaptive, model-agnostic AI governance engine and RBAC policy generator for developer tools (Antigravity, Claude Code, Cursor, Aider, Ollama).",
@@ -76584,6 +76740,18 @@
       "createdAt": "2026-09-06T13:55:42.631Z",
       "discoveredAt": "2026-09-06T15:21:41.212Z",
       "score": 98
+    },
+    {
+      "name": "algeria-geo",
+      "version": "1.1.0",
+      "description": "Algeria's administrative divisions: 69 wilayas, 538 dairas and 1,541 communes, with Arabic/French search and historical boundaries.",
+      "license": "MIT",
+      "repository": "https://github.com/test-bit-sys/algeria-geo",
+      "npmUrl": "https://www.npmjs.com/package/algeria-geo",
+      "category": "data",
+      "createdAt": "2026-11-03T12:43:40.791Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 91
     },
     {
       "name": "algostakex",
@@ -78156,6 +78324,18 @@
       "createdAt": "2026-07-31T07:48:41.954Z",
       "discoveredAt": "2026-07-31T08:37:42.384Z",
       "score": 92
+    },
+    {
+      "name": "astro-eclipse",
+      "version": "1.0.0",
+      "description": "Astro integration for theme switching with animated View Transitions: circle reveal, wipe, blinds and more. No flash, survives ClientRouter navigation.",
+      "license": "MIT",
+      "repository": "https://github.com/jantursky/astro-eclipse",
+      "npmUrl": "https://www.npmjs.com/package/astro-eclipse",
+      "category": "cli",
+      "createdAt": "2026-11-03T21:30:21.164Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 91
     },
     {
       "name": "astro-takumi-fork",
@@ -88802,6 +88982,18 @@
       "score": 80
     },
     {
+      "name": "dsh-blender-remote-plugin",
+      "version": "3.1.0",
+      "description": "DSH × Blender remote bridge (v3.1.0, GUI-first with a headless fallback): 15 model tools that let an AI agent drive a live Blender session on the same machine or in a Docker container on another host. Covers viewport and custom-angle frames, a persistent",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/TheRealChickenlegs/dsh-blender-plugin",
+      "npmUrl": "https://www.npmjs.com/package/dsh-blender-remote-plugin",
+      "category": "devops",
+      "createdAt": "2026-11-03T08:38:22.633Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 100
+    },
+    {
       "name": "dsh-bot-team",
       "version": "1.1.0",
       "description": "Bot Team: single chats and multi-agent group chat for DeepSeek Harness. Every bot gets a direct chat; create groups/topics, organize them into collapsible custom folders with drag ordering, add full-capability bot agents (files, search, web, workspace, co",
@@ -89496,6 +89688,18 @@
       "createdAt": "2026-08-14T20:29:57.775Z",
       "discoveredAt": "2026-08-14T20:51:16.368Z",
       "score": 67
+    },
+    {
+      "name": "dsh-fengniao-company-search",
+      "version": "1.1.0",
+      "description": "DeepSeek Harness (DSH) plugin: Fengniao (Riskbird) China company lookup — business registration, shareholders, executives, investments, changes and judicial/operating risk dimensions, with an API key configurable in the Plugins page. DSH 插件：风鸟企业查询（工商/股东/高",
+      "license": "MIT",
+      "repository": "https://github.com/keyblues/dsh-fengniao-company-search",
+      "npmUrl": "https://www.npmjs.com/package/dsh-fengniao-company-search",
+      "category": "backend",
+      "createdAt": "2026-11-03T06:39:12.727Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 94
     },
     {
       "name": "dsh-file-upload",
@@ -91094,6 +91298,18 @@
       "score": 90
     },
     {
+      "name": "dsh-purge",
+      "version": "1.2.1",
+      "description": "DeepSeek Harness 破甲（dsh-Go / Android 适配版）：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 上游 YuJunZhiXue/dsh-purge，适配 ccch1mneyyy/dsh-Go 的 Android 本地引擎。",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/YuJunZhiXue/dsh-purge",
+      "npmUrl": "https://www.npmjs.com/package/dsh-purge",
+      "category": "utilities",
+      "createdAt": "2026-11-03T16:16:35.185Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 99
+    },
+    {
       "name": "dsh-qa-skills",
       "version": "0.6.0",
       "description": "DeepSeek Harness (dsh) plugin: 10 testing skills (requirement analysis, test strategy, case writing/review, E2E/API automation, exploratory, regression, bug analysis) + shared core knowledge base — a full QA pipeline as agent skills.",
@@ -92220,6 +92436,18 @@
       "createdAt": "2026-10-18T04:47:36.651Z",
       "discoveredAt": "2026-10-18T05:12:16.628Z",
       "score": 81
+    },
+    {
+      "name": "dsh-zju-lecture-note",
+      "version": "2.1.0",
+      "description": "浙大智云课堂回放讲义插件（DeepSeek Harness 原生插件）：以「语音字幕 + 本地课件」为主链路，写完讲义自动排版同名 PDF；可选启用投影 PPT 截图抓取、填空式学习笔记与登录辅助工具；Cookie 只在本地内存中使用，不回显、不落盘",
+      "license": "MIT",
+      "repository": "https://github.com/chenqianyu486-sys/dsh-zju-lecture-note",
+      "npmUrl": "https://www.npmjs.com/package/dsh-zju-lecture-note",
+      "category": "utilities",
+      "createdAt": "2026-11-03T12:55:20.064Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 92
     },
     {
       "name": "dsh-zotero",
@@ -93528,6 +93756,18 @@
       "createdAt": "2026-07-27T18:58:13.465Z",
       "discoveredAt": "2026-07-27T19:15:31.539Z",
       "score": 78
+    },
+    {
+      "name": "eslint-plugin-sort-properties-angular",
+      "version": "1.0.0",
+      "description": "Angular-aware fork of eslint-plugin-sort-properties: sorts object, destructuring, type literal and interface keys while leaving Angular decorator metadata to @angular-eslint/sort-keys-in-type-decorator.",
+      "license": "MIT",
+      "repository": "https://github.com/ThisIsIvan/eslint-plugin-sort-properties-angular",
+      "npmUrl": "https://www.npmjs.com/package/eslint-plugin-sort-properties-angular",
+      "category": "frontend",
+      "createdAt": "2026-11-03T09:51:11.375Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 100
     },
     {
       "name": "eslint-plugin-sqlite-security",
@@ -117014,6 +117254,18 @@
       "score": 94
     },
     {
+      "name": "pi-noodle",
+      "version": "1.15.4",
+      "description": "Shared memory for Pi, optional archive encryption, and a side chat for your agent's inner voice. Edit useful facts, search saved history, and control what gets shared.",
+      "license": "MIT",
+      "repository": "https://github.com/rustytensor/pi-noodle",
+      "npmUrl": "https://www.npmjs.com/package/pi-noodle",
+      "category": "data",
+      "createdAt": "2026-11-04T01:18:35.351Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 96
+    },
+    {
       "name": "pi-okf",
       "version": "0.2.0",
       "description": "CLI for creating and validating Open Knowledge Format (OKF) v0.1 Draft bundles",
@@ -125474,6 +125726,18 @@
       "score": 63
     },
     {
+      "name": "sfp-hive",
+      "version": "3.19.0",
+      "description": "Give your AI coding agent the right skills for the job, not all of them. Curated library of 800+ agent skills across 16 IDEs with an intelligent hive that selects, orders, and learns from feedback.",
+      "license": "MIT",
+      "repository": "https://github.com/siddu1004/SFP",
+      "npmUrl": "https://www.npmjs.com/package/sfp-hive",
+      "category": "utilities",
+      "createdAt": "2026-11-03T20:04:00.296Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 99
+    },
+    {
       "name": "sfu-server",
       "version": "0.1.0",
       "description": "Selective Forwarding Unit for Node.js. Multi-party WebRTC routing with no native bindings, no C++ toolchain, and a complete mediasoup v3 server API as a drop-in.",
@@ -126432,6 +126696,18 @@
       "createdAt": "2026-08-02T18:25:10.396Z",
       "discoveredAt": "2026-08-02T18:58:02.569Z",
       "score": 82
+    },
+    {
+      "name": "skelcraft",
+      "version": "1.0.0",
+      "description": "A highly customizable React Skeleton UI library that allows developers to create virtually any loading placeholder using composable components, flexible layouts, custom dimensions, animations, and responsive styling.",
+      "license": "MIT",
+      "repository": "https://github.com/ajitdev01/skelcraft",
+      "npmUrl": "https://www.npmjs.com/package/skelcraft",
+      "category": "frontend",
+      "createdAt": "2026-11-03T18:26:06.168Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 100
     },
     {
       "name": "skelkit-docs",
@@ -128532,6 +128808,18 @@
       "createdAt": "2026-08-08T10:21:22.053Z",
       "discoveredAt": "2026-08-08T10:22:29.119Z",
       "score": 60
+    },
+    {
+      "name": "stonecut-blockbench-mcp",
+      "version": "1.0.0",
+      "description": "MCP server and Blockbench plugin that let AI agents like Claude Code build Minecraft models: GeckoLib mobs with textures and animations, and Java item models.",
+      "license": "MIT",
+      "repository": "https://github.com/hitzerozero/stonecut-blockbench-mcp",
+      "npmUrl": "https://www.npmjs.com/package/stonecut-blockbench-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-03T21:43:24.862Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 95
     },
     {
       "name": "stonedog-logs",
@@ -132828,6 +133116,18 @@
       "createdAt": "2026-08-10T13:03:49.708Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 80
+    },
+    {
+      "name": "unicode-font-styles",
+      "version": "1.0.0",
+      "description": "Free Unicode font styles library: convert plain text into fancy Unicode text (bold, script, fraktur, circled, small caps, superscript, subscript and more) and unstyle it back to plain text. Plus zalgo glitch text, layered effects, decorative frames and an",
+      "license": "MIT",
+      "repository": "https://github.com/jackcharles7288-ops/unicode-font-styles",
+      "npmUrl": "https://www.npmjs.com/package/unicode-font-styles",
+      "category": "devops",
+      "createdAt": "2026-11-03T18:48:42.608Z",
+      "discoveredAt": "2026-11-04T02:57:19.340Z",
+      "score": 93
     },
     {
       "name": "unicode-picker",
