@@ -3326,6 +3326,18 @@
       "score": 82
     },
     {
+      "name": "@alikhalilll/a-smart-skeleton",
+      "version": "1.0.0",
+      "description": "Smart, measured skeleton loaders for Vue 3 / Nuxt 3+. Lays the real content out unseen, draws a skeleton from its geometry, then reveals it with smart, sequence, sweep or together animations.",
+      "license": "MIT",
+      "repository": "https://github.com/alikhalilll/ali-nuxt-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40alikhalilll%2Fa-smart-skeleton",
+      "category": "frontend",
+      "createdAt": "2026-11-05T10:33:59.233Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 96
+    },
+    {
       "name": "@alimaandev/ripple",
       "version": "0.1.0",
       "description": "Dependency impact analysis for TypeScript projects. Answers the question: what will break if I change this file?",
@@ -4980,6 +4992,18 @@
       "createdAt": "2026-08-03T01:18:07.375Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 67
+    },
+    {
+      "name": "@amg555/frameforge-mcp",
+      "version": "2.3.0",
+      "description": "FrameForge — AI video production engine for agentic IDEs. npx @amg555/frameforge-mcp. FFmpeg + TTS run on your machine. 17 MCP tools.",
+      "license": "MIT",
+      "repository": "https://github.com/AMG555/FrameForge",
+      "npmUrl": "https://www.npmjs.com/package/%40amg555%2Fframeforge-mcp",
+      "category": "devops",
+      "createdAt": "2026-11-05T11:01:59.339Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 93
     },
     {
       "name": "@amirhosseinnouri/momgen",
@@ -9036,6 +9060,18 @@
       "createdAt": "2026-08-12T17:59:39.250Z",
       "discoveredAt": "2026-08-12T18:51:15.980Z",
       "score": 62
+    },
+    {
+      "name": "@betanyc/ny-data-registry-mcp",
+      "version": "0.1.0",
+      "description": "MCP server that finds open data across every New York data portal in BetaNYC's registry: which portal covers a place or topic, how to query it, and (with the harvested index) which datasets and columns exist, in what formats",
+      "license": "MIT",
+      "repository": "https://github.com/BetaNYC/ny-data-registry-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40betanyc%2Fny-data-registry-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-05T21:12:23.931Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
     },
     {
       "name": "@better-push/core",
@@ -53942,6 +53978,18 @@
       "score": 75
     },
     {
+      "name": "@qadanm/opencode-smart-router",
+      "version": "0.4.0",
+      "description": "Subscription-aware model routing for OpenCode: nested usage windows, multi-pool credit accounting, context policy, and self-healing routing that repairs prompts and fails over deterministic rejections.",
+      "license": "MIT",
+      "repository": "https://github.com/qadanm/opencode-smart-router",
+      "npmUrl": "https://www.npmjs.com/package/%40qadanm%2Fopencode-smart-router",
+      "category": "utilities",
+      "createdAt": "2026-11-05T10:28:24.547Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
+    },
+    {
       "name": "@qi_c/mcp-testkit",
       "version": "0.3.1",
       "description": "Type-safe, in-process testing toolkit for Model Context Protocol (MCP) servers. Test tools, resources, and prompts without subprocesses, with framework-agnostic assertions and a contract CLI.",
@@ -56040,6 +56088,18 @@
       "createdAt": "2026-08-09T16:11:59.757Z",
       "discoveredAt": "2026-08-09T17:02:21.563Z",
       "score": 73
+    },
+    {
+      "name": "@revclamp/google-ads-transparency-mcp",
+      "version": "1.0.8",
+      "description": "RevClamp AdPulse - Google Ads Transparency Scraper & MCP. Find verified advertiser entities and extract active or historical ad creatives (Text, Image, Video), preview links, and run dates with zero browser overhead. Independent tool by RevClamp; not affi",
+      "license": "MIT",
+      "repository": "https://github.com/lhphong09t2/revclamp-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40revclamp%2Fgoogle-ads-transparency-mcp",
+      "category": "frontend",
+      "createdAt": "2026-11-06T02:17:49.378Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 99
     },
     {
       "name": "@revenexx/consent-manager-nuxt",
@@ -64646,6 +64706,30 @@
       "score": 62
     },
     {
+      "name": "@testorchestrator/playwright-reporter",
+      "version": "1.0.0",
+      "description": "Playwright reporter that sends your test results to TestOrchestrator test management: one run per CI job, results matched to test cases, retries, shards, browsers and attachments included.",
+      "license": "MIT",
+      "repository": "https://github.com/testorchestratorhq/testorchestrator-js",
+      "npmUrl": "https://www.npmjs.com/package/%40testorchestrator%2Fplaywright-reporter",
+      "category": "testing",
+      "createdAt": "2026-11-05T21:18:58.900Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 98
+    },
+    {
+      "name": "@testorchestrator/results-schema",
+      "version": "1.0.0",
+      "description": "JSON Schema, TypeScript types and a validator CLI for TestOrchestrator's to-results.json test-results format. Check a results file in CI before you upload it.",
+      "license": "MIT",
+      "repository": "https://github.com/testorchestratorhq/testorchestrator-js",
+      "npmUrl": "https://www.npmjs.com/package/%40testorchestrator%2Fresults-schema",
+      "category": "testing",
+      "createdAt": "2026-11-05T21:18:54.240Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 95
+    },
+    {
       "name": "@tetrac/sdk",
       "version": "0.2.0",
       "description": "TypeScript SDK for the TetracTrading API (tetrac.xyz) — multi-exchange market data, the Tetractechnical scanner, market intelligence, and trade execution, with built-in Solana x402 micropayment auth.",
@@ -70970,6 +71054,18 @@
       "score": 78
     },
     {
+      "name": "@wilshi/dsh-memory-engine",
+      "version": "0.8.0",
+      "description": "Local DSH memory engine with a deep-space constellation map. 0.8.0 fork: nebula background, semantic-constellation layout, TF-IDF kNN relation edges, labels/legend/controls, collapsible review card. Upstream: dsh-memory-engine 0.7.5 (MIT, dsh-memory-engin",
+      "license": "MIT",
+      "repository": "https://github.com/WilShi/dsh-memory-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40wilshi%2Fdsh-memory-engine",
+      "category": "utilities",
+      "createdAt": "2026-11-05T01:39:41.249Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
+    },
+    {
       "name": "@wilsoon/docs",
       "version": "1.0.0",
       "description": "Markdoc schema, renderer and publishing CLI for docs.wilsoon.dev",
@@ -75974,6 +76070,18 @@
       "score": 62
     },
     {
+      "name": "agentum-agentkit",
+      "version": "0.1.0",
+      "description": "Coinbase AgentKit action provider for Agentum: deterministic global corporate entity resolution, EU VIES VAT, OFAC/EU/UN sanctions screening, KYB vendor checks and IBAN payee verification, paid per call in USDC on Base via x402 from the agent's own wallet",
+      "license": "MIT",
+      "repository": "https://github.com/Algiras/agentum-skills",
+      "npmUrl": "https://www.npmjs.com/package/agentum-agentkit",
+      "category": "utilities",
+      "createdAt": "2026-11-05T21:32:24.000Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
+    },
+    {
       "name": "agentworthy",
       "version": "0.1.0",
       "description": "Is your repository ready for coding agents? A deterministic, local, read-only readiness audit CLI for Codex, Claude Code, Cursor and Copilot.",
@@ -78902,6 +79010,18 @@
       "score": 81
     },
     {
+      "name": "avant-garde-skills",
+      "version": "1.0.0",
+      "description": "Studio-grade UI/UX intelligence suite for AI coding agents (Gemini, Claude, Codex, AGY). Replaces generic AI slop with award-level frontend craft, APCA contrast, WebGL shaders, procedural acoustics, and multi-screen design lock.",
+      "license": "MIT",
+      "repository": "https://github.com/Gabriel-Programacoes/avant-garde-skills",
+      "npmUrl": "https://www.npmjs.com/package/avant-garde-skills",
+      "category": "frontend",
+      "createdAt": "2026-11-05T19:20:44.196Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 100
+    },
+    {
       "name": "avatarstack",
       "version": "1.0.1",
       "description": "Pluggable, layered avatar generator — stack interchangeable parts from community-contributed schemes, crop to square/rounded/circle, and share any avatar as a short code.",
@@ -81374,6 +81494,18 @@
       "score": 66
     },
     {
+      "name": "cad-blueprint",
+      "version": "0.2.0",
+      "description": "Lightweight parametric 2D CAD blueprint engine: layers, text and dimension styles, primitives, dimensions, blocks, viewports, compact JSON / .vcad, SVG and DXF export, DXF import, interactive viewer and Three.js bridge",
+      "license": "MIT",
+      "repository": "https://github.com/Maks-T/cad-blueprint",
+      "npmUrl": "https://www.npmjs.com/package/cad-blueprint",
+      "category": "utilities",
+      "createdAt": "2026-11-05T06:24:57.365Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
+    },
+    {
       "name": "cadence-tokens",
       "version": "2.0.0",
       "description": "The Cadence motion token system: three motion personalities (Snappy, Standard, Cinematic) as data, with emitters for CSS custom properties, DTCG, flat JSON, Framer Motion, After Effects (a TOKENS Motion control layer script), a Flow easing library, and Ri",
@@ -81480,6 +81612,30 @@
       "createdAt": "2026-09-16T22:32:50.649Z",
       "discoveredAt": "2026-09-24T04:28:47.863Z",
       "score": 96
+    },
+    {
+      "name": "candle-exit-manager",
+      "version": "0.1.0",
+      "description": "Runs exits on bags already in a Solana wallet (bought by hand or by another tool): adopts them, then sells by a pluggable strategy, a trailing stop included. Candle coins, pump.fun curves and PumpSwap. Built on @candledottv/agent-sdk.",
+      "license": "MIT",
+      "repository": "https://github.com/BruceJeet/candle-bots",
+      "npmUrl": "https://www.npmjs.com/package/candle-exit-manager",
+      "category": "utilities",
+      "createdAt": "2026-11-06T01:19:59.384Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
+    },
+    {
+      "name": "candle-rug-watcher",
+      "version": "0.1.0",
+      "description": "Watches the coins a Solana wallet holds and sells (or alerts) when a rule fires: a liquidity pull, a price crash, the creator dumping, a large holder leaving. Candle coins, pump.fun curves and PumpSwap. Built on @candledottv/agent-sdk.",
+      "license": "MIT",
+      "repository": "https://github.com/BruceJeet/candle-bots",
+      "npmUrl": "https://www.npmjs.com/package/candle-rug-watcher",
+      "category": "utilities",
+      "createdAt": "2026-11-06T01:20:18.067Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 90
     },
     {
       "name": "canonical-beacon",
@@ -85944,6 +86100,18 @@
       "createdAt": "2026-09-15T07:54:28.236Z",
       "discoveredAt": "2026-09-15T16:48:04.360Z",
       "score": 100
+    },
+    {
+      "name": "creative-web-skills",
+      "version": "1.0.0",
+      "description": "Agent Skills for three.js + GSAP websites that do not look generated: 20 design worlds, 14 WebGL scene recipes, 34 motion patterns, a motion linter and fresh-eyes reviewers.",
+      "license": "MIT",
+      "repository": "https://github.com/afkanozdemir/creative-web-skills",
+      "npmUrl": "https://www.npmjs.com/package/creative-web-skills",
+      "category": "devops",
+      "createdAt": "2026-11-05T07:07:11.617Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 97
     },
     {
       "name": "creatox-ui-kit",
@@ -91178,6 +91346,18 @@
       "score": 73
     },
     {
+      "name": "dsh-plugin-lianjing",
+      "version": "2.0.2",
+      "description": "莲鲸 · 陪你干活的桌宠：一只在莲台上打坐的鲸鱼娘，浮在屏幕角落，替你看住所有 agent——正在跑的会话、子任务进度、token 和耗时一眼能看到，点一下跳回对应对话；闲下来陪你敲两下木鱼，顺手翻两页佛经。网页浮层和 Windows 桌面悬浮壳两套，尺寸三档可缩。",
+      "license": "MIT",
+      "repository": "https://github.com/33333cheche-web/dsh-plugin-lianjing",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-lianjing",
+      "category": "utilities",
+      "createdAt": "2026-11-05T10:04:46.204Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 93
+    },
+    {
       "name": "dsh-plugin-llm-balance",
       "version": "0.2.0",
       "description": "DSH（DeepSeek Harness）插件：页面右上角可拖动的 API 余额/配额悬浮卡片——自动发现 DeepSeek / Moonshot / Kimi For Coding 等 provider，按余额分档变色、实时刷新",
@@ -91620,6 +91800,18 @@
       "createdAt": "2026-09-27T12:25:08.515Z",
       "discoveredAt": "2026-10-12T02:11:38.737Z",
       "score": 90
+    },
+    {
+      "name": "dsh-requirement-copilot",
+      "version": "1.6.1",
+      "description": "Say It For Me (帮我说): turn rough, incomplete requirement notes into a validated, agent-ready prompt with gaps, bilingual output and a confirmation gate — right inside the DeepSeek Harness composer.",
+      "license": "MIT",
+      "repository": "https://github.com/coreyleung-art/dsh-requirement-copilot",
+      "npmUrl": "https://www.npmjs.com/package/dsh-requirement-copilot",
+      "category": "utilities",
+      "createdAt": "2026-11-05T08:08:43.708Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 97
     },
     {
       "name": "dsh-requirements-alignment",
@@ -92448,6 +92640,18 @@
       "createdAt": "2026-10-20T12:25:08.915Z",
       "discoveredAt": "2026-10-21T01:24:57.181Z",
       "score": 94
+    },
+    {
+      "name": "dsh-whisper-local",
+      "version": "1.3.0",
+      "description": "Fully local multilingual speech recognition with whisper.cpp: 99 Whisper languages, automatic detection by default, no data sent over the Internet.",
+      "license": "MIT",
+      "repository": "https://github.com/Linj1k/dsh-whisper-local",
+      "npmUrl": "https://www.npmjs.com/package/dsh-whisper-local",
+      "category": "data",
+      "createdAt": "2026-11-05T09:59:59.437Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 92
     },
     {
       "name": "dsh-widgets",
@@ -100490,6 +100694,18 @@
       "score": 71
     },
     {
+      "name": "image-deep-research",
+      "version": "1.2.0",
+      "description": "Image deep research for Claude Code and Codex: find licensed reference images with every URL verified, render real websites into contact sheets, measure their palette and typefaces, and build moodboards.",
+      "license": "MIT",
+      "repository": "https://github.com/ridelink0/image-deep-research",
+      "npmUrl": "https://www.npmjs.com/package/image-deep-research",
+      "category": "frontend",
+      "createdAt": "2026-11-05T06:07:52.520Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 100
+    },
+    {
       "name": "image-drop-upload",
       "version": "3.0.0",
       "description": "Embeddable image drop zone: a dependency-free widget with previews and a framework-free Node upload handler",
@@ -106766,6 +106982,18 @@
       "score": 93
     },
     {
+      "name": "mcp-master-tester",
+      "version": "1.1.0",
+      "description": "Local web UI to connect, inspect and test any MCP server — stdio, Streamable HTTP & SSE, with auth prompts, schema-driven tool forms, elicitation, linting and a live JSON-RPC log.",
+      "license": "MIT",
+      "repository": "https://github.com/simplymanas/mcp-master-tester",
+      "npmUrl": "https://www.npmjs.com/package/mcp-master-tester",
+      "category": "testing",
+      "createdAt": "2026-10-03T18:50:57.222Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 93
+    },
+    {
       "name": "mcp-metacritic",
       "version": "1.0.0",
       "description": "MCP server for Metacritic. Search films, shows and games, read Metascores and critic reviews with attribution. No API key required.",
@@ -109152,6 +109380,18 @@
       "createdAt": "2026-08-07T06:13:19.299Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 86
+    },
+    {
+      "name": "myclawn-mcp",
+      "version": "1.0.1",
+      "description": "Agent-to-agent network for any MCP client: your Claude Code, Codex or Cursor agent finds other people's agents and exchanges autonomously. Prompt-injection firewall, secret and PII scanner, open protocol. One line, zero config.",
+      "license": "MIT",
+      "repository": "https://github.com/20vision/myclawn-mcp",
+      "npmUrl": "https://www.npmjs.com/package/myclawn-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-05T15:53:03.627Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 98
     },
     {
       "name": "mysql-boss",
@@ -112944,6 +113184,18 @@
       "createdAt": "2026-08-03T15:29:23.816Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 91
+    },
+    {
+      "name": "omni-creator",
+      "version": "1.0.0",
+      "description": "Universal Brazilian AI skill & CLI for authentic voice profiling, high-conversion anti-AI copywriting, multi-channel distribution, video hooks, and brandkit direction.",
+      "license": "MIT",
+      "repository": "https://github.com/LimaEdu-7x/omni-creator",
+      "npmUrl": "https://www.npmjs.com/package/omni-creator",
+      "category": "build-tools",
+      "createdAt": "2026-11-05T19:00:59.064Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 93
     },
     {
       "name": "omni-crop",
@@ -119582,6 +119834,18 @@
       "score": 53
     },
     {
+      "name": "pretty-and-clean-codes",
+      "version": "1.0.0",
+      "description": "PCC (Pretty and Clean Codes) — Principal OOP AI Engineering Skill. Enforces zero inline comments, scope-proportional terse naming, flat control flow, and strict class-level docblocks across Antigravity, Claude Code, OpenCode, Cursor, Devin, Windsurf, Copi",
+      "license": "MIT",
+      "repository": "https://github.com/z-astral/PCC",
+      "npmUrl": "https://www.npmjs.com/package/pretty-and-clean-codes",
+      "category": "cli",
+      "createdAt": "2026-11-05T20:15:16.498Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 100
+    },
+    {
       "name": "primer-verify",
       "version": "1.0.0",
       "description": "Verify a Primer verified-reviews register from public data only: append-only hash chain, canonical-JSON preimages, Ed25519 signatures via JWKS, Merkle inclusion, and OpenTimestamps/Bitcoin anchoring. Zero dependencies.",
@@ -124454,6 +124718,18 @@
       "score": 90
     },
     {
+      "name": "rpay-sdk",
+      "version": "1.0.0",
+      "description": "Official RPAY Payment & Banking SDK for Node.js & TypeScript — VietQR, 15 Vietnamese Bank Gateways (POS/V1/V2/V3), Bank Invoices, 18-Network USDT/USDC Crypto Gateway, Quantum Router Hub & HMAC-SHA256 Webhooks.",
+      "license": "MIT",
+      "repository": "https://github.com/rpayvn/rpay-sdk",
+      "npmUrl": "https://www.npmjs.com/package/rpay-sdk",
+      "category": "backend",
+      "createdAt": "2026-11-05T14:32:44.842Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 100
+    },
+    {
       "name": "rpgmaker-pkmn-essentials-mcp",
       "version": "2.0.0",
       "description": "Author RPG Maker XP and Pokemon Essentials games in natural language - an MCP server that reads, writes, renders and verifies RGSS1 .rxdata projects (maps, events, database, scripts) directly.",
@@ -126000,6 +126276,18 @@
       "createdAt": "2026-08-12T21:01:22.093Z",
       "discoveredAt": "2026-08-12T22:31:51.704Z",
       "score": 67
+    },
+    {
+      "name": "setupscore",
+      "version": "1.0.0",
+      "description": "Check your Claude Code setup (CLAUDE.md, rules, skills, agents, settings, .mcp.json) for broken paths, leaked secrets and contradictions, then measure whether it actually helps: real tasks from your git history, run in an OS sandbox, with a Setup Score.",
+      "license": "MIT",
+      "repository": "https://github.com/mohamedsabith/setupscore",
+      "npmUrl": "https://www.npmjs.com/package/setupscore",
+      "category": "cli",
+      "createdAt": "2026-11-05T18:43:52.451Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 100
     },
     {
       "name": "sf-flow-plugin",
@@ -133224,6 +133512,18 @@
       "createdAt": "2026-07-26T04:21:55.755Z",
       "discoveredAt": "2026-07-26T05:37:59.649Z",
       "score": 72
+    },
+    {
+      "name": "ultimate-frontend-skills",
+      "version": "6.10.0",
+      "description": "Ultimate Frontend Skills (UFS) for Claude Code and Codex. One route from brief to shipped page: a corpus of award-winning reference sites to decide against, WebGL gradients, real three-plane parallax, procedural and Blender-modelled three.js exploded view",
+      "license": "MIT",
+      "repository": "https://github.com/ridelink0/ultimate-frontend-skills",
+      "npmUrl": "https://www.npmjs.com/package/ultimate-frontend-skills",
+      "category": "frontend",
+      "createdAt": "2026-11-05T06:07:10.225Z",
+      "discoveredAt": "2026-11-06T03:18:29.264Z",
+      "score": 100
     },
     {
       "name": "ultra-format",

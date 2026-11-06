@@ -1,15 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 142251729,
-  "lastRunAt": "2026-11-05T03:20:33.640Z",
+  "lastSequence": 142534432,
+  "lastRunAt": "2026-11-06T03:18:29.264Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@thresho/site-sdk",
+      "name": "@f12o/bpmn-cli",
       "attempts": 1
     },
     {
-      "name": "@anthara/pi-claude",
+      "name": "@adatechnology/recommendation-contracts",
+      "attempts": 1
+    },
+    {
+      "name": "@adatechnology/recommendation-module",
+      "attempts": 1
+    },
+    {
+      "name": "@adatechnology/recommendations-ui",
+      "attempts": 1
+    },
+    {
+      "name": "@a1dd/a1dd",
       "attempts": 1
     }
   ]
