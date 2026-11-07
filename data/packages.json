@@ -4562,6 +4562,18 @@
       "score": 92
     },
     {
+      "name": "@allratestoday/sunat-exchange-rate",
+      "version": "1.3.27",
+      "description": "Official SUNAT (Peru) daily exchange rates — 1 currency vs PEN, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/sunat-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/%40allratestoday%2Fsunat-exchange-rate",
+      "category": "testing",
+      "createdAt": "2026-11-06T19:50:17.045Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 94
+    },
+    {
       "name": "@allratestoday/taiwan-central-bank-exchange-rate",
       "version": "1.2.6",
       "description": "Official Central Bank of the Republic of China (Taiwan) (Taiwan) daily exchange rates — 1 currency vs TWD, history since 2008. Zero-dependency Node.js/TypeScript client.",
@@ -9288,6 +9300,18 @@
       "createdAt": "2026-07-28T22:05:33.733Z",
       "discoveredAt": "2026-07-28T22:52:08.088Z",
       "score": 67
+    },
+    {
+      "name": "@bitbaum/bip-kit",
+      "version": "0.6.1",
+      "description": "Building in Public, as a content contract: parse markdown into typed blocks and render them with a reference React renderer (@bitbaum/bip-kit/react) — blog, roadmap, changelog on your product site, bring your own design tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/bitbaum/bip-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40bitbaum%2Fbip-kit",
+      "category": "frontend",
+      "createdAt": "2026-11-06T12:56:15.778Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 90
     },
     {
       "name": "@bitbooth/mcp-routes",
@@ -23750,6 +23774,18 @@
       "score": 42
     },
     {
+      "name": "@gatilab/emdash-link-manager",
+      "version": "0.1.0",
+      "description": "Branded short links for EmDash: /go/ redirects with 301/302/307, rel and noindex controls, country-targeted destinations, privacy-friendly click stats, CSV import/export and an editor link picker. Port of the GT Link Manager WordPress plugin.",
+      "license": "MIT",
+      "repository": "https://github.com/gatilab/emdash-link-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40gatilab%2Femdash-link-manager",
+      "category": "cli",
+      "createdAt": "2026-11-07T02:24:38.517Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 90
+    },
+    {
       "name": "@gavin-hjw/llmflow",
       "version": "1.0.1",
       "description": "LLM Wiki knowledge-base scaffolder — offline qmd + bun bundled; embedding models via Git/vendor",
@@ -29090,6 +29126,18 @@
       "score": 71
     },
     {
+      "name": "@greenborn/vue-greenborn-sso-front",
+      "version": "1.7.0",
+      "description": "Cliente SSO para aplicaciones Vue 3 que se integra con el servidor de autenticación Greenborn (auth.greenborn.com.ar). Proporciona login con Google (OAuth), intercambio de token temporal por bearer token, verificación de sesión, logout y componente callba",
+      "license": "MIT",
+      "repository": "https://github.com/Greenborn/opencode_dev",
+      "npmUrl": "https://www.npmjs.com/package/%40greenborn%2Fvue-greenborn-sso-front",
+      "category": "frontend",
+      "createdAt": "2026-11-06T03:45:15.849Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 96
+    },
+    {
       "name": "@greenborn/vue-table-editor",
       "version": "1.4.7",
       "description": "Tabla genérica reutilizable y autocontenida para Vue 3: redimensionable, reordenable, preferencias de columnas, lazy loading server-side, edición inline, CSV export, paginación e infinite scroll. Sin dependencias de UI (CSS propio, iconos SVG embebidos).",
@@ -29712,6 +29760,42 @@
       "createdAt": "2026-07-28T12:00:48.922Z",
       "discoveredAt": "2026-07-28T12:20:06.799Z",
       "score": 74
+    },
+    {
+      "name": "@handijit/memoizer",
+      "version": "1.0.0",
+      "description": "Fast, dependency-free memoization for JavaScript and TypeScript functions, with dependency tracking, LRU eviction and TTL.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/memoizer",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Fmemoizer",
+      "category": "frontend",
+      "createdAt": "2026-11-06T23:06:16.924Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 92
+    },
+    {
+      "name": "@handijit/ui",
+      "version": "1.0.0",
+      "description": "Accessible, theme-driven React component library built on SCSS Modules. Bootstrap Icons for shell iconography, two built-in themes and a fully overridable design-token contract.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-11-06T23:10:03.297Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 97
+    },
+    {
+      "name": "@handijit/utils",
+      "version": "1.0.0",
+      "description": "Handy utils offers developers a powerful and easy-to-use toolset. With its clean, modular and scalable code structure, it accelerates development processes and reduces code complexity. With a wide range of functions, it offers ready-made methods for solvi",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/utils",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Futils",
+      "category": "backend",
+      "createdAt": "2026-11-06T23:00:44.576Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 100
     },
     {
       "name": "@hank-warren/pi-auto-permissions",
@@ -35138,6 +35222,18 @@
       "score": 90
     },
     {
+      "name": "@joinhackyard/instagram-account-mcp",
+      "version": "0.1.0",
+      "description": "MCP server to run and grow an Instagram professional account from Claude, Hermes, Cursor, Codex and any MCP client: reels, carousels, stories, scheduling, trial-reel A/B tests, insights, comments, DMs, hashtag and competitor research, and AI providers (Cl",
+      "license": "MIT",
+      "repository": "https://github.com/joinhackyard/instagram-account-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40joinhackyard%2Finstagram-account-mcp",
+      "category": "testing",
+      "createdAt": "2026-11-06T18:56:03.810Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 90
+    },
+    {
       "name": "@jojoman2024/dsh-mnemon",
       "version": "0.3.1",
       "description": "Composable three-tier memory control plane for DeepSeek Harness: persistent runtime context, searchable project documents, pluggable long-term memory, guarded strategies, WebUI, and headless tools.",
@@ -38210,6 +38306,18 @@
       "score": 89
     },
     {
+      "name": "@latheefwac/strapi-image-placeholder",
+      "version": "1.1.0",
+      "description": "Adds a custom editable description field to Strapi media files and shows declared required image sizes as hints on media fields. Works with Strapi v4 and v5, JavaScript and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/Latheefwac/strapi-image-placeholder",
+      "npmUrl": "https://www.npmjs.com/package/%40latheefwac%2Fstrapi-image-placeholder",
+      "category": "backend",
+      "createdAt": "2026-11-06T13:52:22.537Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 95
+    },
+    {
       "name": "@latheefwac/strapi-plugin-audit-log",
       "version": "1.1.0",
       "description": "Audit logging for Strapi v5. Content create/update/delete/publish/unpublish with field-level diffs and a per-widget before/after view of dynamic zones, plus logins, failed logins, logouts, denied requests and admin user/role/permission/media changes — all",
@@ -40560,6 +40668,18 @@
       "createdAt": "2026-08-02T12:28:29.002Z",
       "discoveredAt": "2026-08-02T13:03:05.537Z",
       "score": 67
+    },
+    {
+      "name": "@magicelk235/aqueduct",
+      "version": "1.18.1",
+      "description": "Safari engine of viaduct: convert a Chrome extension into a Safari Web Extension (macOS/iOS) ready for local dev or CI/CD.",
+      "license": "PolyForm-Shield-1.0.0",
+      "repository": "https://github.com/magicelk235/Aqueduct",
+      "npmUrl": "https://www.npmjs.com/package/%40magicelk235%2Faqueduct",
+      "category": "cli",
+      "createdAt": "2026-11-06T17:28:31.917Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 90
     },
     {
       "name": "@magiclane/mcp-docs-server",
@@ -60398,6 +60518,18 @@
       "score": 73
     },
     {
+      "name": "@sky_wing_dn/dsh-fairy-zzz",
+      "version": "1.7.5",
+      "description": "Unofficial Zenless Zone Zero \"Fairy\" H.D.D skin for the DSH Web UI: boot animation, animated eye badge, hour-based greeting, Wire-Net Terminal host skin, always-on fee readout, and optional local GPT-SoVITS voice. Starts from AssassinVIX/fairy-zzz-plugin",
+      "license": "MIT",
+      "repository": "https://github.com/SkyWingDN/dsh-fairy-zzz",
+      "npmUrl": "https://www.npmjs.com/package/%40sky_wing_dn%2Fdsh-fairy-zzz",
+      "category": "data",
+      "createdAt": "2026-11-06T19:50:39.857Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 95
+    },
+    {
       "name": "@skyf0xx/hedgehog-core-authored",
       "version": "1.0.1",
       "description": "Hedgehog's authored core: designs a layer sequence and generates a verified workspace for a project that fits neither shipped core, plus the same design used to adopt Hedgehog's discipline into an existing repo.",
@@ -71966,6 +72098,18 @@
       "score": 92
     },
     {
+      "name": "@xeno-js/vercel",
+      "version": "1.0.0",
+      "description": "Vercel Serverless Functions and Edge runtime integration for Xeno.js applications, enabling seamless BFF deployments.",
+      "license": "MIT",
+      "repository": "https://github.com/xeno-js/vercel",
+      "npmUrl": "https://www.npmjs.com/package/%40xeno-js%2Fvercel",
+      "category": "frontend",
+      "createdAt": "2026-11-06T12:01:51.674Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 91
+    },
+    {
       "name": "@xenonbyte/server-helper",
       "version": "0.1.1",
       "description": "Prepare macOS and Linux hosts and connect domains to local services securely.",
@@ -72684,6 +72828,18 @@
       "createdAt": "2026-08-02T10:25:10.848Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 77
+    },
+    {
+      "name": "@ymy88/pi-subagents",
+      "version": "0.24.0",
+      "description": "Fork of @tintinweb/pi-subagents that reaches its four tools through pi's codemode instead of declaring them to the model, keeping about 32k characters of tool declarations out of every request. Claude Code-style sub-agents and workflow orchestration for p",
+      "license": "MIT",
+      "repository": "https://github.com/ymy88/pi-subagents",
+      "npmUrl": "https://www.npmjs.com/package/%40ymy88%2Fpi-subagents",
+      "category": "utilities",
+      "createdAt": "2026-11-06T10:16:45.480Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 90
     },
     {
       "name": "@yofriadi/pi-condense",
@@ -94898,6 +95054,18 @@
       "score": 95
     },
     {
+      "name": "extract-text-links",
+      "version": "1.0.0",
+      "description": "Extract URLs and links from text and get the cleaned text back. Finds http(s), www, bare domains, mailto, markdown [label](url) and <url> links; JSON output, TypeScript types, zero dependencies, with a CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/Shashidharahegde/extract-text-links",
+      "npmUrl": "https://www.npmjs.com/package/extract-text-links",
+      "category": "frontend",
+      "createdAt": "2026-11-06T09:03:15.111Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 100
+    },
+    {
       "name": "extshield",
       "version": "1.0.1",
       "description": "Minify and harden Chrome extensions without breaking Web Store policy — esbuild minification, terser property mangling, WASM sinking and a pre-upload compliance scan.",
@@ -100608,6 +100776,18 @@
       "createdAt": "2026-10-23T11:47:12.183Z",
       "discoveredAt": "2026-10-24T01:26:18.291Z",
       "score": 100
+    },
+    {
+      "name": "idos-mcp-server",
+      "version": "1.0.0",
+      "description": "Read-only MCP server for IDOS.cz: Czech train, bus and city transport connections, departure boards and timetables",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Menal226/idos-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/idos-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-11-06T20:05:39.308Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 91
     },
     {
       "name": "idrive-skills",
@@ -108254,6 +108434,18 @@
       "score": 64
     },
     {
+      "name": "midas-nepali-date-picker-conventory",
+      "version": "1.0.0",
+      "description": "Lightweight, high-performance Nepali Bikram Sambat (BS) <-> Gregorian (AD) date converter, NepaliDate utility library, and Ant Design BS/AD Dual DatePicker with runtime-extensible BS calendar years.",
+      "license": "MIT",
+      "repository": "https://github.com/ncrawal/midas-nepali-date-picker-conventory",
+      "npmUrl": "https://www.npmjs.com/package/midas-nepali-date-picker-conventory",
+      "category": "frontend",
+      "createdAt": "2026-11-06T16:29:22.712Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 98
+    },
+    {
       "name": "midas-pro",
       "version": "1.0.3",
       "description": "The AI-operated video editor for Windows. You describe the edit, it makes it — cut, caption, and edit by prompt over MCP. A GPLv3-licensed, Windows-native AI video editor.",
@@ -108384,6 +108576,18 @@
       "createdAt": "2026-07-30T01:38:20.556Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 64
+    },
+    {
+      "name": "mino-bridge",
+      "version": "2.17.6",
+      "description": "DSH 远程连接/远程控制插件（remote control）：手机扫码即可在移动端/公网继续用 DeepSeek Harness，人不在电脑前也能接着干。一键局域网二维码、Cloudflare 公网隧道、自建隧道与微信 / QQ / 飞书 / Telegram Bot（多工作区/会话持久化/媒体/卡片审批/流式输出），无需自己搭公网服务器。",
+      "license": "MIT",
+      "repository": "https://github.com/wenbin-wb/dsh-bridge",
+      "npmUrl": "https://www.npmjs.com/package/mino-bridge",
+      "category": "devops",
+      "createdAt": "2026-11-06T16:01:23.867Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 97
     },
     {
       "name": "miraat",
@@ -110244,6 +110448,18 @@
       "createdAt": "2026-08-08T13:00:24.791Z",
       "discoveredAt": "2026-08-08T13:27:54.914Z",
       "score": 69
+    },
+    {
+      "name": "n8n-nodes-rd-station-conversas",
+      "version": "1.0.0",
+      "description": "n8n community node for RD Station Conversas (chat and WhatsApp): contacts, messages, templates, decrypted message history, campaigns, reports and analytics.",
+      "license": "MIT",
+      "repository": "https://github.com/PedroHSGuimaraes/n8n-nodes-rd-station-conversas",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-rd-station-conversas",
+      "category": "utilities",
+      "createdAt": "2026-11-06T22:38:33.515Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 95
     },
     {
       "name": "n8n-nodes-reoon-email-verifier-aim",
@@ -112740,6 +112956,18 @@
       "createdAt": "2026-08-07T06:07:18.939Z",
       "discoveredAt": "2026-08-07T07:11:36.999Z",
       "score": 87
+    },
+    {
+      "name": "nuxt-hydration-doctor",
+      "version": "1.0.0",
+      "description": "Nuxt module that intercepts, diffs and explains Vue 3 SSR hydration mismatches in development, with zero production footprint.",
+      "license": "MIT",
+      "repository": "https://github.com/githubthinnd/nuxt-hydration-doctor",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-hydration-doctor",
+      "category": "frontend",
+      "createdAt": "2026-11-06T09:48:07.611Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 92
     },
     {
       "name": "nuxt-image-compress",
@@ -117866,6 +118094,18 @@
       "score": 82
     },
     {
+      "name": "pi-percy",
+      "version": "1.1.1",
+      "description": "Pi extension that lets the agent compact its own context in place: it trims old tool outputs and replaces old messages with short notes, and can search and recall the originals",
+      "license": "MIT",
+      "repository": "https://github.com/ghoseb/pi-percy",
+      "npmUrl": "https://www.npmjs.com/package/pi-percy",
+      "category": "utilities",
+      "createdAt": "2026-11-06T06:31:10.259Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 91
+    },
+    {
       "name": "pi-permission-ai-guard",
       "version": "0.1.0",
       "description": "Token-optimized LLM permission reviewer — a pi-permission-system Authorizer chain link",
@@ -121562,6 +121802,18 @@
       "score": 98
     },
     {
+      "name": "react-markdown-studio",
+      "version": "1.0.0",
+      "description": "Zero-dependency React Markdown editor with live preview, GitHub-style alerts, code tabs, tables and task lists. TypeScript, SSR-safe, XSS-hardened.",
+      "license": "MIT",
+      "repository": "https://github.com/AKASHNEGI-github/react-markdown-studio",
+      "npmUrl": "https://www.npmjs.com/package/react-markdown-studio",
+      "category": "frontend",
+      "createdAt": "2026-11-06T05:14:31.085Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 94
+    },
+    {
       "name": "react-native-advertising-identifier",
       "version": "2.0.0",
       "description": "Get the Google Advertising ID (Android) and IDFA (iOS) in React Native, with App Tracking Transparency support",
@@ -122436,6 +122688,18 @@
       "createdAt": "2026-08-04T20:54:36.842Z",
       "discoveredAt": "2026-08-04T21:21:17.457Z",
       "score": 68
+    },
+    {
+      "name": "react-native-phone-input-kit",
+      "version": "1.0.0",
+      "description": "A modern, highly customizable, and validated React Native phone number input component with international country selector and search.",
+      "license": "MIT",
+      "repository": "https://github.com/jenilizonnet/phoneinput_npm",
+      "npmUrl": "https://www.npmjs.com/package/react-native-phone-input-kit",
+      "category": "frontend",
+      "createdAt": "2026-11-06T10:56:29.497Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 93
     },
     {
       "name": "react-native-pixelflow",
@@ -124884,6 +125148,18 @@
       "createdAt": "2026-07-27T13:22:22.495Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 97
+    },
+    {
+      "name": "rudywizz-motion",
+      "version": "2.1.0",
+      "description": "Cinematic motion graphics rendered from code: kinetic typography, 3D titles, map route animations, social templates and reels from your clips, with camera moves, shader transitions and colour grades. A CLI and a set of Claude Code skills.",
+      "license": "MIT",
+      "repository": "https://github.com/Rudywizz/rudywizz-motion",
+      "npmUrl": "https://www.npmjs.com/package/rudywizz-motion",
+      "category": "cli",
+      "createdAt": "2026-11-06T17:01:21.781Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 100
     },
     {
       "name": "rule-lite",
@@ -129554,6 +129830,18 @@
       "score": 68
     },
     {
+      "name": "strapi-media-image-placeholder",
+      "version": "1.1.0",
+      "description": "Adds a custom editable description field to Strapi media files and shows declared required image sizes as hints on media fields. Works with Strapi v4 and v5, JavaScript and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/Latheefwac/strapi-image-placeholder",
+      "npmUrl": "https://www.npmjs.com/package/strapi-media-image-placeholder",
+      "category": "backend",
+      "createdAt": "2026-11-06T14:03:07.887Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 95
+    },
+    {
       "name": "strapi-plugin-bff-views",
       "version": "1.0.0",
       "description": "Configurable BFF aggregate endpoints for Strapi v5: one request returns a fully populated, transformed page payload backed by parallel decomposed queries.",
@@ -129936,6 +130224,18 @@
       "createdAt": "2026-08-06T10:10:44.809Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 96
+    },
+    {
+      "name": "sunat-exchange-rate",
+      "version": "1.3.27",
+      "description": "Official SUNAT (Peru) daily exchange rates — 1 currency vs PEN, current table, archive from 2026. Zero-dependency Node.js/TypeScript client.",
+      "license": "MIT",
+      "repository": "https://github.com/AllRates-Today/sunat-exchange-rate",
+      "npmUrl": "https://www.npmjs.com/package/sunat-exchange-rate",
+      "category": "backend",
+      "createdAt": "2026-11-06T19:50:14.575Z",
+      "discoveredAt": "2026-11-07T02:38:27.785Z",
+      "score": 94
     },
     {
       "name": "sunoapi-sdk",

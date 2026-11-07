@@ -1,27 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 142534432,
-  "lastRunAt": "2026-11-06T03:18:29.264Z",
+  "lastSequence": 142785262,
+  "lastRunAt": "2026-11-07T02:38:27.785Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@f12o/bpmn-cli",
+      "name": "@someonegg/agent-hub",
       "attempts": 1
     },
     {
-      "name": "@adatechnology/recommendation-contracts",
+      "name": "@issyx/sign-sdk",
       "attempts": 1
     },
     {
-      "name": "@adatechnology/recommendation-module",
+      "name": "@robota-sdk/agent-transport-link",
       "attempts": 1
     },
     {
-      "name": "@adatechnology/recommendations-ui",
-      "attempts": 1
-    },
-    {
-      "name": "@a1dd/a1dd",
+      "name": "@ai-digital-factory/lmt-db-cli",
       "attempts": 1
     }
   ]
