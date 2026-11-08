@@ -5738,6 +5738,18 @@
       "score": 57
     },
     {
+      "name": "@anti-rea/cli",
+      "version": "0.1.0",
+      "description": "Anti-REA: a defensive release-assurance engine. Inventories what a build actually ships, detects declared server-only secrets that leaked into the distribution, checks asset placement, records evidence with explicit result states, enforces hard release ga",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/shashank03-dev/anti-rea",
+      "npmUrl": "https://www.npmjs.com/package/%40anti-rea%2Fcli",
+      "category": "backend",
+      "createdAt": "2026-11-07T18:08:52.634Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 90
+    },
+    {
       "name": "@antihero/filidate",
       "version": "0.2.0",
       "description": "Lightweight, extensible, type-safe file validation for browsers and Node.js. Validates File, Blob, Buffer, ArrayBuffer, Uint8Array and file paths against declarative schemas.",
@@ -19394,6 +19406,18 @@
       "score": 90
     },
     {
+      "name": "@editora/agent",
+      "version": "0.1.0",
+      "description": "AI agent for rich text editors: let Ollama, OpenAI-compatible models, Claude or any MCP client (Claude Desktop, Claude Code, Cursor) read and edit a document, with every edit shown as a suggestion to accept or reject.",
+      "license": "MIT",
+      "repository": "https://github.com/ajaykr089/Editora",
+      "npmUrl": "https://www.npmjs.com/package/%40editora%2Fagent",
+      "category": "backend",
+      "createdAt": "2026-11-07T12:50:24.471Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 90
+    },
+    {
       "name": "@edmingle/web-video-sdk",
       "version": "0.1.4",
       "description": "Web SDK to fetch Edmingle teaching materials and play their videos in an embedded player, with resume, dynamic watermarking, DRM support and progress reporting. Framework-agnostic core plus a React/Next.js adapter.",
@@ -31166,6 +31190,18 @@
       "score": 77
     },
     {
+      "name": "@hollowintent/cachelite",
+      "version": "1.0.0",
+      "description": "A lightweight, dependency-free in-memory caching library with TTL expiration, LRU eviction, async memoization, and TypeScript support for Node.js and JavaScript applications.",
+      "license": "MIT",
+      "repository": "https://github.com/amimishra990-cpu/CacheLite",
+      "npmUrl": "https://www.npmjs.com/package/%40hollowintent%2Fcachelite",
+      "category": "build-tools",
+      "createdAt": "2026-11-07T18:54:26.944Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 97
+    },
+    {
       "name": "@homebridge-plugins/homebridge-tuya-web",
       "version": "1.1.6",
       "description": "Homebridge plugin for use with Tuya devices (uses Home Assistant Tuya Web API)",
@@ -34260,6 +34296,18 @@
       "createdAt": "2026-08-09T16:20:08.683Z",
       "discoveredAt": "2026-08-09T16:24:10.750Z",
       "score": 71
+    },
+    {
+      "name": "@jamolpe88/dsh-stickynotes",
+      "version": "0.1.0",
+      "description": "Local-first sticky notes for DeepSeek Harness Desktop: focus-mode WYSIWYG HTML, images, audio, YouTube/X/Vimeo/Spotify/TikTok/Instagram embeds, pinning, drag reordering and an opt-in agent tool. No AI, no transcription, no model downloads.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/JaMoLpE88/dsh-stickynotes",
+      "npmUrl": "https://www.npmjs.com/package/%40jamolpe88%2Fdsh-stickynotes",
+      "category": "utilities",
+      "createdAt": "2026-11-07T14:47:55.832Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 90
     },
     {
       "name": "@janfr/mcp-abap-adt",
@@ -37574,6 +37622,18 @@
       "score": 66
     },
     {
+      "name": "@labyrinthe/otp-widget",
+      "version": "1.2.0",
+      "description": "Drop-in phone verification widget for Labyrinthe Connect: <labyrinthe-otp> web component, React wrapper and server handlers (Express, Next.js). No API key in the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/Labyrinthe-Team/labyrinthe-connect-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40labyrinthe%2Fotp-widget",
+      "category": "frontend",
+      "createdAt": "2026-11-07T23:32:33.512Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 97
+    },
+    {
       "name": "@lacspace/agent",
       "version": "1.0.0",
       "description": "A tiny, zero-dependency, keyless tool-calling / ReAct agent loop — bring any chat model and any tools as injectable, duck-typed interfaces and it drives the call → tool-dispatch → repeat loop with a full observable trace, maxSteps guard and error recovery",
@@ -38114,6 +38174,18 @@
       "score": 100
     },
     {
+      "name": "@lakutata/mongo-embedded",
+      "version": "3.2.0",
+      "description": "An embedded MongoDB for Node.js: the collections of a database kept in a directory (or in memory) by SQLite in a native addon, queried and updated with the semantics of MongoDB (mingo), through the API of the client of MongoDB; the storage of the mongo-em",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fmongo-embedded",
+      "category": "backend",
+      "createdAt": "2026-11-07T09:50:37.131Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 95
+    },
+    {
       "name": "@lakutata/netif",
       "version": "3.1.4",
       "description": "Listen on a network interface instead of an address: servers of Node.js (http, https, Express, Fastify) and UDP sockets follow an interface whatever its addresses, through their changes and the unplugging of the interface; the interfaces of the machine wi",
@@ -38136,6 +38208,30 @@
       "createdAt": "2026-10-18T10:32:53.313Z",
       "discoveredAt": "2026-10-19T00:59:12.161Z",
       "score": 91
+    },
+    {
+      "name": "@lakutata/thermal",
+      "version": "3.2.1",
+      "description": "Thermal printing for Node.js: receipts, labels and wristbands written in HTML and CSS, rendered by a native addon (litehtml, FreeType, plutovg, lunasvg) into the printer's 1-bit dot grid, the same picture as the preview, then encoded as ESC/POS, TSPL or Z",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fthermal",
+      "category": "frontend",
+      "createdAt": "2026-11-07T17:49:06.778Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 98
+    },
+    {
+      "name": "@lakutata/thermal-printer",
+      "version": "3.2.1",
+      "description": "Thermal printers for lakutata: a manager component that finds the printers (USB, print queues, serial and Bluetooth ports), opens them from definitions an application saves as JSON, and a printer object for each, which renders receipts, labels and wristba",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fthermal-printer",
+      "category": "build-tools",
+      "createdAt": "2026-11-07T17:49:12.208Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 93
     },
     {
       "name": "@lakutata/webrtc",
@@ -38856,6 +38952,18 @@
       "createdAt": "2026-08-15T09:19:11.028Z",
       "discoveredAt": "2026-08-15T10:14:32.299Z",
       "score": 66
+    },
+    {
+      "name": "@lifcc/mcp-mux",
+      "version": "0.1.0",
+      "description": "Use multiple accounts of one MCP server (two Gmails, several Slack or Notion workspaces) in Claude Code and Codex: one toolset with a required account argument, per-account OAuth, credentials in the keychain.",
+      "license": "MIT",
+      "repository": "https://github.com/majiayu000/mcp-mux",
+      "npmUrl": "https://www.npmjs.com/package/%40lifcc%2Fmcp-mux",
+      "category": "backend",
+      "createdAt": "2026-11-07T04:29:36.130Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 90
     },
     {
       "name": "@liiift-studio/confettitext",
@@ -43610,6 +43718,18 @@
       "score": 75
     },
     {
+      "name": "@mmerterden/multi-agent-mcp",
+      "version": "4.0.0",
+      "description": "MCP server for iOS Simulator, Android Emulator and headless web control. 238 tools: device automation (tap/swipe/type, one-call tap bursts), element locators, pre-tap target checks that heal a moved element or name what covers it, hit tests, near-miss sug",
+      "license": "MIT",
+      "repository": "https://github.com/multi-agent-ecosystem/multi-agent-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40mmerterden%2Fmulti-agent-mcp",
+      "category": "testing",
+      "createdAt": "2026-11-07T23:15:26.898Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 100
+    },
+    {
       "name": "@mmerterden/multi-agent-toolkit-mcp",
       "version": "3.0.0",
       "description": "MCP server for iOS Simulator, Android Emulator and headless web control. 83 tools: device automation (tap/swipe/type), accessibility audits, visual diff, crash logs, App Store / Play Store pre-submission compliance. Runs standalone over stdio with any MCP",
@@ -46608,6 +46728,18 @@
       "createdAt": "2026-08-02T10:30:46.415Z",
       "discoveredAt": "2026-08-02T11:31:01.933Z",
       "score": 81
+    },
+    {
+      "name": "@neko-koubou/vibe-coding-pipeline",
+      "version": "1.1.0",
+      "description": "Artifact-driven multi-agent SDLC pipeline: /vibe-* slash commands & Agent Skills for Claude Code, Google Antigravity, OpenCode, Codex, Cursor, Windsurf and Roo Code",
+      "license": "MIT",
+      "repository": "https://github.com/Neko-Koubou/vibe-coding-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/%40neko-koubou%2Fvibe-coding-pipeline",
+      "category": "utilities",
+      "createdAt": "2026-11-07T17:21:35.913Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 96
     },
     {
       "name": "@nekora-ai/core",
@@ -51324,6 +51456,18 @@
       "createdAt": "2026-09-02T15:14:11.280Z",
       "discoveredAt": "2026-09-02T16:27:26.013Z",
       "score": 90
+    },
+    {
+      "name": "@pasqua-dev/baileys",
+      "version": "1.0.0",
+      "description": "Baileys is a WebSockets library for interacting with WhatsApp Web — PASQUA edition with anti-ban system, ban checker API, rich messages, interactive messages, albums and more",
+      "license": "MIT",
+      "repository": "https://github.com/pasquawisdom2007-beep/pasqua-baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40pasqua-dev%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-11-07T14:50:04.619Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 97
     },
     {
       "name": "@pasquelin/map3d",
@@ -62184,6 +62328,18 @@
       "createdAt": "2026-08-21T01:25:43.130Z",
       "discoveredAt": "2026-08-22T01:41:29.293Z",
       "score": 89
+    },
+    {
+      "name": "@stacklogs/vue-draggable",
+      "version": "1.0.0",
+      "description": "Vue 3 drag and drop component for sortable lists: reorder, drag between lists, nested trees, kanban boards, transition-group animations, multi-select drag and swap. TypeScript and SSR ready.",
+      "license": "MIT",
+      "repository": "https://github.com/githubthinnd/vue-draggable",
+      "npmUrl": "https://www.npmjs.com/package/%40stacklogs%2Fvue-draggable",
+      "category": "frontend",
+      "createdAt": "2026-11-07T09:47:36.580Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 99
     },
     {
       "name": "@stackra/auth",
@@ -89522,6 +89678,18 @@
       "score": 96
     },
     {
+      "name": "dsh-cet6",
+      "version": "1.0.0",
+      "description": "大学英语六级训练台（DeepSeek Harness 插件）：核心词（约 2500）与大纲词分组背记、听力（长对话 / 篇章 / 讲座三段 25 题）、选词填空 / 长篇阅读 / 仔细阅读、片段翻译、作文书写、生词本。内置原创示例题库（345 词 + 1 套模拟卷，装完即用，听力用系统语音朗读），真题与录音由使用者自备，包内不含任何真题内容。",
+      "license": "MIT",
+      "repository": "https://github.com/mount9527/dsh-CET6-learn",
+      "npmUrl": "https://www.npmjs.com/package/dsh-cet6",
+      "category": "utilities",
+      "createdAt": "2026-11-07T14:46:27.119Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 91
+    },
+    {
       "name": "dsh-chat-export",
       "version": "0.1.0",
       "description": "Readable transcript export for DeepSeek Harness: turn any Session into a Markdown / HTML / ZIP transcript with reasoning blocks, tool calls and results, images and usage — from the Session header or the /export-md command.",
@@ -89918,6 +90086,18 @@
       "score": 82
     },
     {
+      "name": "dsh-desktop-pet-naiwa",
+      "version": "1.0.0",
+      "description": "桌宠-奶娃小时候 - A Windows desktop companion for DeepSeek Harness: transparent always-on-top pet, agent progress, token/cost estimate, real balance, sidebar settings, and recycle-bin file eating.",
+      "license": "MIT",
+      "repository": "https://github.com/Night-maze/dsh-desktop-pet-naiwa",
+      "npmUrl": "https://www.npmjs.com/package/dsh-desktop-pet-naiwa",
+      "category": "utilities",
+      "createdAt": "2026-11-07T13:19:42.937Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 92
+    },
+    {
       "name": "dsh-desktop-uia",
       "version": "1.1.3",
       "description": "Windows desktop control for DeepSeek Harness through UI Automation: read a window's control tree, drive elements by id, approve every write, and watch it all in the settings panel.",
@@ -90312,6 +90492,18 @@
       "createdAt": "2026-08-28T01:59:47.965Z",
       "discoveredAt": "2026-08-28T11:08:35.618Z",
       "score": 90
+    },
+    {
+      "name": "dsh-greatwall-agent",
+      "version": "4.2.0",
+      "description": "Great Wall Agent V4.2 for DeepSeek Harness: unattended long-horizon AI-for-Science and algorithm-competition campaigns — Phase-0 opening distillation, git-free clean-room slots, MLE-STAR surgical code replacement, HMAC-sealed isolated evaluation, a zero-v",
+      "license": "MIT",
+      "repository": "https://github.com/Qingzhu093/dsh-greatwall-agent",
+      "npmUrl": "https://www.npmjs.com/package/dsh-greatwall-agent",
+      "category": "devops",
+      "createdAt": "2026-11-07T13:28:39.479Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 98
     },
     {
       "name": "dsh-guarded-bot-orchestrator",
@@ -90900,6 +91092,18 @@
       "createdAt": "2026-08-14T07:02:02.233Z",
       "discoveredAt": "2026-08-14T07:12:14.589Z",
       "score": 80
+    },
+    {
+      "name": "dsh-minimal-router",
+      "version": "1.21.2",
+      "description": "Everything-in-one DSH toolkit: stage-based tool routing (auto-classify, tail hint, physical trimming), consecutive-error circuit breaker, and a cache probe that measures the real bill. One install, one reload, one config.",
+      "license": "MIT",
+      "repository": "https://github.com/qwq1223211/dsh-minimal-router",
+      "npmUrl": "https://www.npmjs.com/package/dsh-minimal-router",
+      "category": "devops",
+      "createdAt": "2026-11-07T17:47:05.886Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 92
     },
     {
       "name": "dsh-model-chooser",
@@ -92594,6 +92798,18 @@
       "score": 81
     },
     {
+      "name": "dsh-vibrancy-skin",
+      "version": "1.6.1",
+      "description": "macOS native vibrancy (frosted glass) material for the DSH NEXT / DSH Desktop main pane and third-party sidebars, with a native Settings section. Material only — zero layout changes.",
+      "license": "MIT",
+      "repository": "https://github.com/Natasha123-bit/dsh-vibrancy-skin",
+      "npmUrl": "https://www.npmjs.com/package/dsh-vibrancy-skin",
+      "category": "utilities",
+      "createdAt": "2026-11-07T12:33:20.142Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 94
+    },
+    {
       "name": "dsh-vim-keymap",
       "version": "0.1.0",
       "description": "Vim keybindings for the deepseek-harness Web GUI, mounted as an out-of-tree Cordis plugin.",
@@ -93264,6 +93480,18 @@
       "createdAt": "2026-08-01T08:48:35.468Z",
       "discoveredAt": "2026-08-01T10:07:55.060Z",
       "score": 83
+    },
+    {
+      "name": "edge-audit-crypto",
+      "version": "1.0.0",
+      "description": "Cloudflare Workers / D1 / Edge security toolkit: optimistic CAS tamper-evident audit hash chains, zero-downtime AES-256-GCM field-level encryption (FLE), and zero-dependency PDF/ZIP generators.",
+      "license": "MIT",
+      "repository": "https://github.com/takao-dev/edge-audit-crypto",
+      "npmUrl": "https://www.npmjs.com/package/edge-audit-crypto",
+      "category": "data",
+      "createdAt": "2026-11-07T16:47:28.479Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 93
     },
     {
       "name": "edgefuzz",
@@ -96360,6 +96588,18 @@
       "createdAt": "2026-08-08T15:04:12.449Z",
       "discoveredAt": "2026-08-08T15:21:29.909Z",
       "score": 100
+    },
+    {
+      "name": "flutter-pro-skills",
+      "version": "1.7.2",
+      "description": "Agent Skills that write and review Dart & Flutter code by your app's own architecture: MVVM, MVN, Bloc, Clean, Riverpod, GetX.",
+      "license": "MIT",
+      "repository": "https://github.com/abdelrahman-abied/flutter-pro-skills",
+      "npmUrl": "https://www.npmjs.com/package/flutter-pro-skills",
+      "category": "cli",
+      "createdAt": "2026-11-07T19:41:03.532Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 92
     },
     {
       "name": "fm-synthesizers.js",
@@ -102816,6 +103056,18 @@
       "createdAt": "2026-10-12T01:34:10.837Z",
       "discoveredAt": "2026-10-12T02:11:38.737Z",
       "score": 100
+    },
+    {
+      "name": "kdpa-agent-box",
+      "version": "1.0.0",
+      "description": "A shared Linux desktop with Chromium and a password vault for AI agents on a Mac or Linux machine. Agents drive it with playwright-cli; you watch and take over from your phone.",
+      "license": "MIT",
+      "repository": "https://github.com/kdpa-llc/agent-box",
+      "npmUrl": "https://www.npmjs.com/package/kdpa-agent-box",
+      "category": "testing",
+      "createdAt": "2026-11-07T08:19:37.925Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 93
     },
     {
       "name": "kdu-resource",
@@ -128246,6 +128498,18 @@
       "score": 79
     },
     {
+      "name": "sociolod",
+      "version": "1.0.0",
+      "description": "Universal TypeScript SDK for YouTube & Spotify — search, metadata, thumbnails, streams, and MP3 downloads. Works in Node.js, browsers, edge runtimes, and bots.",
+      "license": "MIT",
+      "repository": "https://github.com/Peculiar-010/sociolod",
+      "npmUrl": "https://www.npmjs.com/package/sociolod",
+      "category": "frontend",
+      "createdAt": "2026-11-07T05:08:01.397Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 95
+    },
+    {
       "name": "socketio-kit",
       "version": "0.2.0",
       "description": "Developer-friendly Socket.IO SDK wrapper for Client & Express Server with type-safety, room helpers, React hooks, and automatic cleanup.",
@@ -132938,6 +133202,18 @@
       "score": 82
     },
     {
+      "name": "treezle",
+      "version": "1.1.0",
+      "description": "Dependency-free JavaScript treeview — drag & drop, checkboxes, keyboard nav, themes. For OutSystems, React, Angular or plain HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/michasulman2025/TreezleJS",
+      "npmUrl": "https://www.npmjs.com/package/treezle",
+      "category": "frontend",
+      "createdAt": "2026-11-07T09:40:53.167Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 93
+    },
+    {
       "name": "trendflow",
       "version": "0.2.0",
       "description": "Type-safe Google Trends API client for JavaScript & TypeScript — interest over time, by region, trending now, related queries. ESM + CJS, zero dependencies, proxy rotation.",
@@ -134570,6 +134846,18 @@
       "score": 55
     },
     {
+      "name": "valotcg",
+      "version": "1.0.1",
+      "description": "Official JavaScript and TypeScript SDK for Valo.Data, the ValoTCG trading card price API (14 TCGs, cards and sealed products).",
+      "license": "MIT",
+      "repository": "https://github.com/valotcg/valo-data-js",
+      "npmUrl": "https://www.npmjs.com/package/valotcg",
+      "category": "backend",
+      "createdAt": "2026-11-07T19:47:50.278Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 92
+    },
+    {
       "name": "vanguard-memory-node",
       "version": "1.0.0",
       "description": "Local deterministic memory for AI agents via MCP. Deterministic xLMP lexical retrieval, stdio transport, Claude Desktop compatible.",
@@ -136164,6 +136452,18 @@
       "createdAt": "2026-08-01T14:55:48.657Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 58
+    },
+    {
+      "name": "wasm-crypto-hash",
+      "version": "1.0.0",
+      "description": "Ultra-fast WebAssembly cryptographic suite for browsers, Node.js, and Cloudflare Workers (workerd): SHA-2/3, BLAKE3, KMAC, SHAKE, ChaCha20-Poly1305, XChaCha20, Post-Quantum (ML-KEM/ML-DSA), Argon2, TOTP, BIP-39, Shamir SSS, and hardware KMS signing.",
+      "license": "MIT",
+      "repository": "https://github.com/takao-dev/wasm-crypto-hash",
+      "npmUrl": "https://www.npmjs.com/package/wasm-crypto-hash",
+      "category": "frontend",
+      "createdAt": "2026-11-07T16:47:21.037Z",
+      "discoveredAt": "2026-11-08T02:12:15.552Z",
+      "score": 100
     },
     {
       "name": "wasmtune",
