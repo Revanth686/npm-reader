@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 142932179,
-  "lastRunAt": "2026-11-08T02:12:15.552Z",
+  "lastSequence": 143092739,
+  "lastRunAt": "2026-11-09T02:30:09.300Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@budaknyenyel/maestro-flow",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/i18n-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/emu-lab",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/kit-schema",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/supa-release-gate-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/supa-multiuser-harness",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/kit-server",
+      "attempts": 1
+    },
+    {
+      "name": "@budaknyenyel/kit-cli",
+      "attempts": 1
+    }
+  ]
 }

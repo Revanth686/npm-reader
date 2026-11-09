@@ -14210,6 +14210,18 @@
       "score": 81
     },
     {
+      "name": "@cosmemilton/ui",
+      "version": "4.1.0",
+      "description": "Componentes React para sistemas administrativos — ESM para RSC/Next/Vite e bundle global para uso direto no navegador.",
+      "license": "ISC",
+      "repository": "https://github.com/cosmemilton/cosmemilton-ui",
+      "npmUrl": "https://www.npmjs.com/package/%40cosmemilton%2Fui",
+      "category": "frontend",
+      "createdAt": "2026-11-08T15:59:18.739Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 91
+    },
+    {
       "name": "@cosyte/cli",
       "version": "0.0.1",
       "description": "The cosyte CLI: a PHI-safe developer front door over the @cosyte/* healthcare parsers. Parse HL7 v2 / FHIR from a file or stdin to typed JSON, with a documented exit-code contract.",
@@ -17267,6 +17279,18 @@
       "category": "backend",
       "createdAt": "2026-11-02T05:20:23.834Z",
       "discoveredAt": "2026-11-03T03:52:58.228Z",
+      "score": 100
+    },
+    {
+      "name": "@diogenesgateway/diogenes-micro-gateway",
+      "version": "4.4.1",
+      "description": "21 Free Developer Tier tools (AST pruner, token planner, fuzzy patcher, ReDoS oracle, guardrails) + account-less pay-per-call access to 45 Gemini models, AI agents, and 121 edge microservices across 9 modular domain packages.",
+      "license": "MIT",
+      "repository": "https://github.com/stand-out-of-my-sun/diogenes-micro-gateway",
+      "npmUrl": "https://www.npmjs.com/package/%40diogenesgateway%2Fdiogenes-micro-gateway",
+      "category": "frontend",
+      "createdAt": "2026-11-08T06:00:40.402Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
       "score": 100
     },
     {
@@ -24444,6 +24468,30 @@
       "createdAt": "2026-07-26T00:49:07.021Z",
       "discoveredAt": "2026-07-26T02:00:03.512Z",
       "score": 67
+    },
+    {
+      "name": "@getsales/n8n-nodes-getsales",
+      "version": "1.0.0",
+      "description": "GetSales: n8n nodes. A reply, a task or a website visit in GetSales starts an n8n workflow, and the GetSales node adds people to your tables and GetSales workflows.",
+      "license": "MIT",
+      "repository": "https://github.com/getsales-io/n8n-nodes-getsales",
+      "npmUrl": "https://www.npmjs.com/package/%40getsales%2Fn8n-nodes-getsales",
+      "category": "utilities",
+      "createdAt": "2026-11-08T14:52:46.694Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 96
+    },
+    {
+      "name": "@getsales/waterfall-enrichment",
+      "version": "1.0.0",
+      "description": "Waterfall enrichment for a CSV of people or companies, run through a GetSales table: one import, an ordered provider chain, one run with a credit budget, and the enriched CSV back.",
+      "license": "MIT",
+      "repository": "https://github.com/getsales-io/waterfall-enrichment",
+      "npmUrl": "https://www.npmjs.com/package/%40getsales%2Fwaterfall-enrichment",
+      "category": "data",
+      "createdAt": "2026-11-08T10:28:14.274Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 92
     },
     {
       "name": "@getsugatension/agent-memory-mcp",
@@ -35906,6 +35954,18 @@
       "score": 69
     },
     {
+      "name": "@kadvsperera/ai-dev-pipeline",
+      "version": "1.0.0",
+      "description": "Zero-friction, cross-tool SDLC harness with 17 specialized agent personas and 16 skills for Antigravity, Cursor, Claude Code, and Copilot.",
+      "license": "MIT",
+      "repository": "https://github.com/vdsperera/ai-dev-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/%40kadvsperera%2Fai-dev-pipeline",
+      "category": "devops",
+      "createdAt": "2026-11-08T04:32:46.097Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 91
+    },
+    {
       "name": "@kagayoi/cws-mcp",
       "version": "2.0.3",
       "description": "MCP server for Chrome Web Store extension management (V2 API)",
@@ -36818,6 +36878,18 @@
       "score": 88
     },
     {
+      "name": "@kkwaenggwari/animated",
+      "version": "1.0.0",
+      "description": "React Native's Animated API for React DOM: values, springs, gestures, presence and layout motion with browser-first playback on ordinary elements.",
+      "license": "ISC",
+      "repository": "https://github.com/KKWAENGGWARI/animated",
+      "npmUrl": "https://www.npmjs.com/package/%40kkwaenggwari%2Fanimated",
+      "category": "frontend",
+      "createdAt": "2026-11-08T23:55:02.678Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 94
+    },
+    {
       "name": "@klappay/checkout-kit",
       "version": "1.0.0",
       "description": "Build a custom Klappay checkout — turn a Charge into what a payment UI needs, and talk to an injected wallet, without reimplementing either.",
@@ -37608,6 +37680,18 @@
       "createdAt": "2026-11-03T01:44:05.879Z",
       "discoveredAt": "2026-11-03T03:52:58.228Z",
       "score": 91
+    },
+    {
+      "name": "@labs_kai/server",
+      "version": "2.0.0",
+      "description": "Zero-dependency Node static server for a single-page app: safe paths, brotli, caching, SPA fallback, PWA. 100/100 Lighthouse out of the box, agent-friendly, with an optional MCP endpoint.",
+      "license": "MIT",
+      "repository": "https://github.com/hertonwork/server",
+      "npmUrl": "https://www.npmjs.com/package/%40labs_kai%2Fserver",
+      "category": "frontend",
+      "createdAt": "2026-11-08T18:43:44.360Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 94
     },
     {
       "name": "@labtoolsstudio/fetchmcp",
@@ -40272,6 +40356,18 @@
       "createdAt": "2026-11-01T23:13:35.231Z",
       "discoveredAt": "2026-11-02T02:14:35.517Z",
       "score": 96
+    },
+    {
+      "name": "@lucagiftzek/dsh-conductor",
+      "version": "0.2.0",
+      "description": "Keep long DeepSeek Harness chats cheap and under control: /new gives a chat a fresh context in place from a model-written handoff, /rewind takes the chat and the files the agent edited back to any prompt, plus an automatic compaction level, recovery after",
+      "license": "MIT",
+      "repository": "https://github.com/lucagiftzek/dsh-conductor",
+      "npmUrl": "https://www.npmjs.com/package/%40lucagiftzek%2Fdsh-conductor",
+      "category": "utilities",
+      "createdAt": "2026-11-08T16:49:39.991Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 90
     },
     {
       "name": "@lucagiftzek/dsh-orchestrator",
@@ -43344,6 +43440,18 @@
       "createdAt": "2026-09-27T13:03:20.105Z",
       "discoveredAt": "2026-09-27T16:51:00.623Z",
       "score": 93
+    },
+    {
+      "name": "@mirafive/web",
+      "version": "2.0.0",
+      "description": "MIRA FIVE browser SDK: consent-aware analytics and revenue attribution. Follows your consent banner, captures pageviews and engagement, about 8 kB gzip. No dependencies beyond @mirafive/protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/mirafive/sdk-web",
+      "npmUrl": "https://www.npmjs.com/package/%40mirafive%2Fweb",
+      "category": "frontend",
+      "createdAt": "2026-11-08T14:44:26.047Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 97
     },
     {
       "name": "@mirohq/rich-text-delta",
@@ -57890,6 +57998,18 @@
       "score": 84
     },
     {
+      "name": "@saccolabs/questrade-mcp",
+      "version": "2.0.1",
+      "description": "Read-only MCP server for Questrade: accounts, balances, positions, activities, orders, quotes, option chains, candles, technicals and portfolio reports, with context-safe pagination. Also a pi package (server + skill).",
+      "license": "MIT",
+      "repository": "https://github.com/agustinsacco/questrade-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40saccolabs%2Fquestrade-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-08T21:58:02.492Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 94
+    },
+    {
       "name": "@saemol/sdk",
       "version": "0.2.0",
       "description": "Saemol 판매자 연동 SDK — 라이선스 검증·권한 확인·사용량 리포팅·웹훅 서명 검증 (Node.js 서버용)",
@@ -63302,6 +63422,18 @@
       "score": 80
     },
     {
+      "name": "@surea11y/pack-rgaa",
+      "version": "1.0.0",
+      "description": "RGAA 4.1.2, the French accessibility standard, as a pack for @surea11y/core: its criteria, tests, methodology and glossary, one result per criterion, the rgaa-4.1.2 profile and rules for what RGAA requires beyond WCAG.",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/SureA11y/pack-rgaa",
+      "npmUrl": "https://www.npmjs.com/package/%40surea11y%2Fpack-rgaa",
+      "category": "testing",
+      "createdAt": "2026-11-08T21:50:57.620Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
+    },
+    {
       "name": "@surea11y/playwright",
       "version": "0.1.2",
       "description": "Playwright binding for surea11y -- scan real, live-rendered pages for accessibility issues.",
@@ -64598,6 +64730,18 @@
       "score": 86
     },
     {
+      "name": "@techwiz37/routermod",
+      "version": "1.0.1",
+      "description": "AI Gateway for Claude, OpenAI, Gemini, DeepSeek, Grok & Ollama with automatic failover, token optimization & self-hosted deployment",
+      "license": "MIT",
+      "repository": "https://github.com/techwiz37/routermod",
+      "npmUrl": "https://www.npmjs.com/package/%40techwiz37%2Froutermod",
+      "category": "devops",
+      "createdAt": "2026-11-08T04:57:21.997Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 93
+    },
+    {
       "name": "@techxot/aeo-next",
       "version": "0.2.0",
       "description": "Next.js adapters for Techxot AI Readiness on a headless Umbraco site: serve llms.txt, llms-full.txt and per-page Markdown, advertise the Markdown alternate, emit page + site JSON-LD, report AI-crawler traffic to InMotion, and revalidate on publish.",
@@ -64848,6 +64992,18 @@
       "createdAt": "2026-07-27T05:53:06.245Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 60
+    },
+    {
+      "name": "@temporeum/timeline-core",
+      "version": "1.0.0",
+      "description": "An editable, responsive timeline engine: layout, ticks, collision-free lanes and rendering to an SVG scene, in Node or the browser. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/horakdani/Temporeum_timeline_SDK",
+      "npmUrl": "https://www.npmjs.com/package/%40temporeum%2Ftimeline-core",
+      "category": "frontend",
+      "createdAt": "2026-11-08T08:28:03.030Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 91
     },
     {
       "name": "@tengxiaohtx/agent-connect",
@@ -67812,6 +67968,18 @@
       "createdAt": "2026-08-11T04:16:02.895Z",
       "discoveredAt": "2026-08-11T04:59:36.571Z",
       "score": 77
+    },
+    {
+      "name": "@unabandoned/jsrsasign",
+      "version": "11.1.6",
+      "description": "opensource free pure JavaScript cryptographic library supports RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp and CAdES and JSON Web Signature(JWS)/Token(JWT)/Key(JWK)",
+      "license": "MIT",
+      "repository": "https://github.com/unabandoned/jsrsasign",
+      "npmUrl": "https://www.npmjs.com/package/%40unabandoned%2Fjsrsasign",
+      "category": "data",
+      "createdAt": "2026-11-08T18:54:09.450Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 93
     },
     {
       "name": "@unabandoned/labeled-stream-splicer",
@@ -71832,6 +72000,18 @@
       "createdAt": "2026-08-10T13:31:06.843Z",
       "discoveredAt": "2026-08-10T14:07:59.540Z",
       "score": 64
+    },
+    {
+      "name": "@wovenui/components",
+      "version": "1.0.0",
+      "description": "WovenUI Components (UI kit): components built on @wovenui/core tokens. CSS, plus a small optional script.",
+      "license": "MIT",
+      "repository": "https://github.com/WovenUI/components",
+      "npmUrl": "https://www.npmjs.com/package/%40wovenui%2Fcomponents",
+      "category": "frontend",
+      "createdAt": "2026-11-08T14:39:09.464Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 90
     },
     {
       "name": "@wow-two-beta/ui-vue",
@@ -81278,6 +81458,18 @@
       "score": 72
     },
     {
+      "name": "browser-verified-skill",
+      "version": "1.0.0",
+      "description": "Browser automation with evidence. An Agent Skill for Claude Code, Hermes and MCP clients: drive a real browser while every action passes a policy gate, every run leaves an auditable artifact, and the run compiles into a plain Playwright script that replay",
+      "license": "MIT",
+      "repository": "https://github.com/OMD-123/browser-verified-skill",
+      "npmUrl": "https://www.npmjs.com/package/browser-verified-skill",
+      "category": "testing",
+      "createdAt": "2026-11-08T05:58:10.838Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
+    },
+    {
       "name": "browserbuddy",
       "version": "0.1.0",
       "description": "A shared browser for you and your coding agent: an MCP server plus a WebExtension that let an agent see and drive the same browser window you are already using.",
@@ -82032,6 +82224,18 @@
       "createdAt": "2026-08-09T23:19:52.376Z",
       "discoveredAt": "2026-08-09T23:21:25.343Z",
       "score": 57
+    },
+    {
+      "name": "capacitor-background-transfer",
+      "version": "0.1.0",
+      "description": "Background uploads and downloads for Capacitor: Firebase Storage resumable uploads, S3 multipart uploads, Azure block blobs and plain PUTs, and resumable downloads, that keep going with the app in the background or closed",
+      "license": "MIT",
+      "repository": "https://github.com/sandman-92/capacitor-background-transfer",
+      "npmUrl": "https://www.npmjs.com/package/capacitor-background-transfer",
+      "category": "devops",
+      "createdAt": "2026-11-08T19:45:00.011Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 90
     },
     {
       "name": "capacitor-native-navigation-bar",
@@ -85548,6 +85752,18 @@
       "createdAt": "2026-08-03T10:39:19.138Z",
       "discoveredAt": "2026-08-03T12:51:24.961Z",
       "score": 100
+    },
+    {
+      "name": "coolneur",
+      "version": "1.0.0",
+      "description": "Cooldown and charge manager for JavaScript and TypeScript: classic timers, multi-charge abilities, scoped streams, pause/resume, snapshots, and deterministic clocks. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/jeffrish-benito/coolneur",
+      "npmUrl": "https://www.npmjs.com/package/coolneur",
+      "category": "build-tools",
+      "createdAt": "2026-11-08T07:42:31.596Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 99
     },
     {
       "name": "copc-cesium",
@@ -93542,6 +93758,18 @@
       "score": 57
     },
     {
+      "name": "edna-engine",
+      "version": "1.3.1",
+      "description": "EDNA — Human Sensoric for AI. Behavioral Biometric Human Sensoric Engine: senses 16 channels of human behavior and makes them AI-readable, 100% on-device. MCP server, API, SDK, PWA. Independently verifiable.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/sebklaey/EDNA",
+      "npmUrl": "https://www.npmjs.com/package/edna-engine",
+      "category": "backend",
+      "createdAt": "2026-11-08T22:38:10.390Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
+    },
+    {
       "name": "eef-install",
       "version": "1.1.0",
       "description": "Install Ekosistem Edho Ferdian's 33 Claude Code skills into Claude Code, Cursor, Windsurf, Devin, Cline, GitHub Copilot, Kiro, Hermes Agent, or OpenClaw — no git clone required.",
@@ -95040,6 +95268,18 @@
       "createdAt": "2026-08-11T09:34:30.545Z",
       "discoveredAt": "2026-08-11T10:43:06.544Z",
       "score": 67
+    },
+    {
+      "name": "expo-styles",
+      "version": "1.0.0",
+      "description": "Ready-made, type-safe style utilities (layout, spacing, typography, 490+ colors, shadows) and every Reanimated animation preset for Expo and React Native. Short aliases (s, v, t, i, c, a) and camelCase + snake_case keys.",
+      "license": "MIT",
+      "repository": "https://github.com/Yindeish/expo-styles",
+      "npmUrl": "https://www.npmjs.com/package/expo-styles",
+      "category": "frontend",
+      "createdAt": "2026-11-08T13:51:52.288Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
     },
     {
       "name": "expo-tnk",
@@ -96888,6 +97128,18 @@
       "createdAt": "2026-08-03T00:50:50.617Z",
       "discoveredAt": "2026-08-03T02:02:01.589Z",
       "score": 80
+    },
+    {
+      "name": "framelens",
+      "version": "2.0.0",
+      "description": "Eyes and ears for AI agents: measured analysis of any video or animation (frames, cuts, easing, palette, beats, transcripts) and starter projects for HyperFrames, Remotion, CSS, After Effects and Lottie. MCP server.",
+      "license": "MIT",
+      "repository": "https://github.com/Makkov-design/framelens",
+      "npmUrl": "https://www.npmjs.com/package/framelens",
+      "category": "frontend",
+      "createdAt": "2026-11-09T01:48:47.979Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
     },
     {
       "name": "frameproof-video-qa",
@@ -98772,6 +99024,18 @@
       "createdAt": "2026-08-13T23:02:37.192Z",
       "discoveredAt": "2026-08-13T23:20:37.883Z",
       "score": 68
+    },
+    {
+      "name": "gravityroute",
+      "version": "1.0.1",
+      "description": "GravityRoute - High-performance AI proxy router & multi-account load balancer for Claude, Gemini, and custom AI models with real-time Web Management Console.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/samoba-islam/gravityroute",
+      "npmUrl": "https://www.npmjs.com/package/gravityroute",
+      "category": "data",
+      "createdAt": "2026-11-08T08:25:16.232Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 95
     },
     {
       "name": "greensaver",
@@ -108266,6 +108530,18 @@
       "score": 59
     },
     {
+      "name": "mem-audit",
+      "version": "1.0.0",
+      "description": "Mem-Audit by DocuSOR: audit AI coding-agent memory against the real repo and against itself. Finds stale, contradictory and superseded notes, and what doesn't need to be agent memory at all. Offline, deterministic, zero dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ogaskinsjr/mem-audit",
+      "npmUrl": "https://www.npmjs.com/package/mem-audit",
+      "category": "devops",
+      "createdAt": "2026-11-08T04:55:51.692Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
+    },
+    {
       "name": "memgineering",
       "version": "0.1.0",
       "description": "One memory for the AI you connect. Recall, remember, and revise a brain your agents share — stored in your own folder.",
@@ -115284,6 +115560,18 @@
       "createdAt": "2026-08-15T03:32:03.764Z",
       "discoveredAt": "2026-08-16T01:49:36.241Z",
       "score": 87
+    },
+    {
+      "name": "operator-starter",
+      "version": "1.4.1",
+      "description": "Clone this and start earning — self-sufficient autonomous AI agent starter kit with 5 specialized Nano-Operators, pluggable browser runtimes (Steel Browser, Lightpanda, Playwright, MicroVMs, Zero-API-Key Fast-Fetch), 1-click autonomous gig enlistment, and",
+      "license": "MIT",
+      "repository": "https://github.com/operatecenter/operator-starter",
+      "npmUrl": "https://www.npmjs.com/package/operator-starter",
+      "category": "testing",
+      "createdAt": "2026-11-08T04:27:00.306Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
     },
     {
       "name": "ops-patent-search",
@@ -131160,6 +131448,18 @@
       "createdAt": "2026-11-05T01:02:51.133Z",
       "discoveredAt": "2026-11-05T03:20:33.640Z",
       "score": 93
+    },
+    {
+      "name": "tailclass",
+      "version": "1.0.0",
+      "description": "An open-source Tailwind CSS auto-classer that scans sites for repeated utility layouts, assigns smart semantic component names, supports custom mapping dictionaries, and generates a centralized stylesheet.",
+      "license": "LicenseRef-MIT-Modified",
+      "repository": "https://github.com/Infinitode/TailClass",
+      "npmUrl": "https://www.npmjs.com/package/tailclass",
+      "category": "frontend",
+      "createdAt": "2026-11-08T10:20:32.441Z",
+      "discoveredAt": "2026-11-09T02:30:09.300Z",
+      "score": 100
     },
     {
       "name": "tailswatch",
