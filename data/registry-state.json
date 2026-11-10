@@ -1,39 +1,19 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 143092739,
-  "lastRunAt": "2026-11-09T02:30:09.300Z",
+  "lastSequence": 143390324,
+  "lastRunAt": "2026-11-10T04:32:17.553Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@budaknyenyel/maestro-flow",
+      "name": "@altpay/cli",
       "attempts": 1
     },
     {
-      "name": "@budaknyenyel/i18n-mcp",
+      "name": "@altpay/mcp",
       "attempts": 1
     },
     {
-      "name": "@budaknyenyel/emu-lab",
-      "attempts": 1
-    },
-    {
-      "name": "@budaknyenyel/kit-schema",
-      "attempts": 1
-    },
-    {
-      "name": "@budaknyenyel/supa-release-gate-mcp",
-      "attempts": 1
-    },
-    {
-      "name": "@budaknyenyel/supa-multiuser-harness",
-      "attempts": 1
-    },
-    {
-      "name": "@budaknyenyel/kit-server",
-      "attempts": 1
-    },
-    {
-      "name": "@budaknyenyel/kit-cli",
+      "name": "@xinna/botmux-plugin-ferry-gateway",
       "attempts": 1
     }
   ]

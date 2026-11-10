@@ -1562,6 +1562,18 @@
       "score": 98
     },
     {
+      "name": "@adminuiux/masonry",
+      "version": "1.0.0",
+      "description": "Production-ready, zero-dependency responsive masonry layout engine and fullscreen lightbox photo slider for Bootstrap 5 and vanilla JavaScript with touch-swipe navigation, multi-column spanning, and aspect ratio auto-alignment.",
+      "license": "MIT",
+      "repository": "https://github.com/adminuiux/masonry",
+      "npmUrl": "https://www.npmjs.com/package/%40adminuiux%2Fmasonry",
+      "category": "devops",
+      "createdAt": "2026-11-09T14:21:54.623Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "@admmedia/adam-cookie-consent",
       "version": "1.0.1",
       "description": "ADM Media Consulting SA cookie consent banner: vanilla-cookieconsent preconfigured for GDPR opt-in, wired to Google Consent Mode v2.",
@@ -6818,6 +6830,18 @@
       "score": 93
     },
     {
+      "name": "@arshiyank/express-response-kit",
+      "version": "1.0.0",
+      "description": "A lightweight Express.js middleware that standardizes API responses with consistent success, error, validation, and pagination formats.",
+      "license": "MIT",
+      "repository": "https://github.com/arshiyank/express-response-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40arshiyank%2Fexpress-response-kit",
+      "category": "backend",
+      "createdAt": "2026-11-09T05:48:54.733Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 93
+    },
+    {
       "name": "@art-ws/muxeon",
       "version": "0.1.9",
       "description": "Muxeon — transport and coordinator for local CLI agents running in tmux sessions.",
@@ -8076,6 +8100,18 @@
       "createdAt": "2026-10-04T22:02:24.351Z",
       "discoveredAt": "2026-10-05T01:46:10.424Z",
       "score": 90
+    },
+    {
+      "name": "@axorasec/agentguard",
+      "version": "1.2.5",
+      "description": "Axora AgentGuard — Security guard for AI agents. Blocks dangerous commands, prevents data leaks, protects secrets. 20 detection rules, runtime action evaluation, trust registry.",
+      "license": "MIT",
+      "repository": "https://github.com/AxoraSecurity/agentguard",
+      "npmUrl": "https://www.npmjs.com/package/%40axorasec%2Fagentguard",
+      "category": "data",
+      "createdAt": "2026-11-09T11:08:13.884Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 97
     },
     {
       "name": "@axosolaman/secure-next-upload",
@@ -29834,6 +29870,54 @@
       "score": 74
     },
     {
+      "name": "@handijit/auth",
+      "version": "1.0.0",
+      "description": "Sign in with the browser for Han Dijit's Electron desktop programs: the RFC 8252 loopback and PKCE sign-in against the panel, the session kept in the operating system's secret store, the authenticated API client for the main process, and a typed IPC contr",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/auth",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Fauth",
+      "category": "frontend",
+      "createdAt": "2026-11-10T04:03:10.656Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
+      "name": "@handijit/core",
+      "version": "1.0.0",
+      "description": "The contract between Han Dijit's desktop programs and its backend: a typed and validated API client, a typed error model, license verification (Ed25519), PKCE helpers and version policy helpers. Runs in Node and in the browser on fetch and WebCrypto alone",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/core",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-11-10T02:55:08.333Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
+      "name": "@handijit/design",
+      "version": "1.0.0",
+      "description": "Han Dijit's design tokens from a single TypeScript source: OKLCH colour scales and WCAG-gated light and dark themes as CSS custom properties, SCSS, JSON and typed constants, with self-hosted fonts, logos and a CSP-ready theme boot script.",
+      "license": "MIT AND OFL-1.1",
+      "repository": "https://github.com/handijit/design",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Fdesign",
+      "category": "frontend",
+      "createdAt": "2026-11-09T23:51:20.236Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
+      "name": "@handijit/electron",
+      "version": "1.0.0",
+      "description": "Application core for Han Dijit's Electron desktop programs: a secure BrowserWindow, the app:// protocol with a strict CSP, a typed and validated IPC contract, single-instance lock, settings and secret stores, a redacting logger and a theme bridge.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/electron",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Felectron",
+      "category": "frontend",
+      "createdAt": "2026-11-10T01:28:31.234Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "@handijit/memoizer",
       "version": "1.0.0",
       "description": "Fast, dependency-free memoization for JavaScript and TypeScript functions, with dependency tracking, LRU eviction and TTL.",
@@ -29844,6 +29928,18 @@
       "createdAt": "2026-11-06T23:06:16.924Z",
       "discoveredAt": "2026-11-07T02:38:27.785Z",
       "score": 92
+    },
+    {
+      "name": "@handijit/tr",
+      "version": "1.0.0",
+      "description": "Zero-dependency helpers for Turkey: locale-safe text casing and sorting, TCKN/VKN/IBAN validation, phone numbers, lira amounts in digits and in words, dd.MM.yyyy dates, provinces and licence plates.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/tr",
+      "npmUrl": "https://www.npmjs.com/package/%40handijit%2Ftr",
+      "category": "data",
+      "createdAt": "2026-11-09T23:59:37.282Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 99
     },
     {
       "name": "@handijit/ui",
@@ -38246,6 +38342,30 @@
       "score": 95
     },
     {
+      "name": "@lakutata/ldap",
+      "version": "3.2.2",
+      "description": "LDAP for lakutata applications: a server component (backends, interceptors, the schema, access control, StartTLS and LDAPS, listening on network interfaces) and a client component, on the engine @lakutata/ldap-engine, which it re-exports.",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fldap",
+      "category": "backend",
+      "createdAt": "2026-11-09T15:57:41.938Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 97
+    },
+    {
+      "name": "@lakutata/ldap-engine",
+      "version": "3.2.2",
+      "description": "LDAP for Node.js in TypeScript without native code: the protocol (messages, controls, DNs, filters, schemas, LDIF), a client and a server engine, with no dependencies. The lakutata components are in @lakutata/ldap.",
+      "license": "MIT",
+      "repository": "https://github.com/lakutata/lakutata",
+      "npmUrl": "https://www.npmjs.com/package/%40lakutata%2Fldap-engine",
+      "category": "backend",
+      "createdAt": "2026-11-09T15:57:34.699Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "@lakutata/math",
       "version": "3.1.3",
       "description": "Mathematics for Node.js: symbolic computation (equations, derivatives, integrals, limits, Laplace transforms, factoring, simplification) and numerical computation (matrices, statistics, probability, numeric solutions, units, decimals of any precision) in",
@@ -39420,6 +39540,18 @@
       "createdAt": "2026-08-14T18:26:29.168Z",
       "discoveredAt": "2026-08-15T04:51:35.642Z",
       "score": 39
+    },
+    {
+      "name": "@livspect/emdash-cloudflare-form",
+      "version": "1.0.0",
+      "description": "EmDash CMS plugin: a contact/inquiry form backend with Cloudflare Turnstile spam protection and branded HTML email notifications delivered via the native Cloudflare Email Sending Workers binding. Flexible fields, configurable branding, submission storage.",
+      "license": "MIT",
+      "repository": "https://github.com/tmyuu/emdash-cloudflare-form",
+      "npmUrl": "https://www.npmjs.com/package/%40livspect%2Femdash-cloudflare-form",
+      "category": "backend",
+      "createdAt": "2026-11-10T01:13:42.934Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 97
     },
     {
       "name": "@lizardglobal/payload-collection-references",
@@ -41772,6 +41904,18 @@
       "createdAt": "2026-10-12T16:04:21.134Z",
       "discoveredAt": "2026-10-13T03:25:58.398Z",
       "score": 100
+    },
+    {
+      "name": "@mark_future_ai/opencode-buddy",
+      "version": "1.0.0",
+      "description": "A virtual ASCII pet companion that lives in the opencode TUI sidebar. Hatches, feeds, plays, and reacts to what you're coding.",
+      "license": "MIT",
+      "repository": "https://github.com/AMark-CS/opencode-buddy",
+      "npmUrl": "https://www.npmjs.com/package/%40mark_future_ai%2Fopencode-buddy",
+      "category": "frontend",
+      "createdAt": "2026-11-10T04:16:54.755Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 92
     },
     {
       "name": "@marketbasketanalysis/mcp",
@@ -53196,6 +53340,18 @@
       "createdAt": "2026-11-01T01:28:33.573Z",
       "discoveredAt": "2026-11-01T02:00:13.280Z",
       "score": 90
+    },
+    {
+      "name": "@powehig/dsh-arch-lab",
+      "version": "2.0.0",
+      "description": "Architecture microscope for DeepSeek Harness: per-layer 3D structural cutaways and 2D maps of frontier LLM papers, with tensor shapes, formulas and parameter math.",
+      "license": "MIT",
+      "repository": "https://github.com/PowehiG/dsh-arch-lab",
+      "npmUrl": "https://www.npmjs.com/package/%40powehig%2Fdsh-arch-lab",
+      "category": "data",
+      "createdAt": "2026-11-09T07:09:56.292Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 96
     },
     {
       "name": "@powerduck/conf-patch",
@@ -72734,6 +72890,18 @@
       "score": 73
     },
     {
+      "name": "@xpayr/mcp-server",
+      "version": "1.0.0",
+      "description": "Official @xpayr Model Context Protocol (MCP) Server & CLI Launcher exposing 21 Non-Custodial Crypto Checkout, Multi-Chain Payment Link, Signed Webhook, and AI Agent Commerce tools for Claude Desktop, Cursor, and VS Code.",
+      "license": "MIT",
+      "repository": "https://github.com/xpayrcom/xpayr-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40xpayr%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-11-09T17:57:09.457Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "@xsat10/baileys",
       "version": "7.0.0",
       "description": "WhatsApp API Modification By Xsat",
@@ -83534,6 +83702,18 @@
       "score": 92
     },
     {
+      "name": "cipherbird",
+      "version": "1.4.0",
+      "description": "CipherBird for Node.js: hashing, authenticated encryption, public-key cryptography, post-quantum algorithms (ML-KEM, ML-DSA, SLH-DSA, X-Wing), hybrid key agreement, sealed messaging, Noise, HPKE, OPAQUE, BBS, FROST, vaults, a keyring, media entropy and st",
+      "license": "MIT",
+      "repository": "https://github.com/Crdzbird/CipherBird",
+      "npmUrl": "https://www.npmjs.com/package/cipherbird",
+      "category": "devops",
+      "createdAt": "2026-11-09T10:52:18.954Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 96
+    },
+    {
       "name": "circle-so-sdk",
       "version": "0.1.0",
       "description": "Typed, zero-dependency client for the Circle.so Admin API v2 — members, access groups, spaces, space groups, token version detection, and real captured API fixtures for testing.",
@@ -89762,6 +89942,18 @@
       "score": 67
     },
     {
+      "name": "dsh-awesome-optimizer",
+      "version": "1.5.0",
+      "description": "Non-invasive runtime policy, composite batch tooling, soft convergence guidance, reactive custom prompt engine, and A/B telemetry plugin for the official DeepSeek Harness (dsh) agent loop.",
+      "license": "MIT",
+      "repository": "https://github.com/Jaylor-Wang/dsh-awesome-optimizer",
+      "npmUrl": "https://www.npmjs.com/package/dsh-awesome-optimizer",
+      "category": "frontend",
+      "createdAt": "2026-11-09T14:40:10.938Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 96
+    },
+    {
       "name": "dsh-background-agents",
       "version": "0.3.0",
       "description": "Interactive long-session background agents for DeepSeek Harness: start a durable continuable child agent from any session, watch its progress in the Web UI sidebar, message it any time, and interrupt it — all through the official subagent seam.",
@@ -92414,6 +92606,18 @@
       "score": 73
     },
     {
+      "name": "dsh-review-hub",
+      "version": "1.0.1",
+      "description": "明镜 (MingJing) — an approval brain for DSH: deterministic hard-risk layer, per-session memory learning, an AI that may only pass or ask, exact attribution, composer hints, right-sidebar diff/undo, and an exportable ledger.",
+      "license": "MIT",
+      "repository": "https://github.com/FMR5487/dsh-review-hub",
+      "npmUrl": "https://www.npmjs.com/package/dsh-review-hub",
+      "category": "utilities",
+      "createdAt": "2026-11-09T13:11:21.554Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "dsh-rofm",
       "version": "1.0.0",
       "description": "DSH 长期记忆插件：上下文超过阈值时把最早的一段对话归档进 memory/ 回忆文件夹，之后按关键词与重要性概率自动回忆。 · DSH long-term memory: archives the earliest context into memory/ folders and recalls it by keyword probability.",
@@ -94502,6 +94706,18 @@
       "score": 88
     },
     {
+      "name": "erine-baileys",
+      "version": "1.0.0",
+      "description": "Erine Baileys — a fork of Elaina Baileys by Lynx decode: Baileys distribution with integrated MessageBuilder, interactive messages, rich responses (code/table/links), carousel/native-flow helpers, and features ported from itsliaaa/baileys.",
+      "license": "MIT",
+      "repository": "https://github.com/Lynxcode-id/erine-baileys",
+      "npmUrl": "https://www.npmjs.com/package/erine-baileys",
+      "category": "backend",
+      "createdAt": "2026-11-10T03:26:17.530Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "error-san",
       "version": "0.1.0",
       "description": "Typed error handling: declare, throw, done.",
@@ -95160,6 +95376,18 @@
       "createdAt": "2026-08-09T07:30:07.666Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 65
+    },
+    {
+      "name": "exceljs-lts",
+      "version": "4.5.0",
+      "description": "Maintained fork of exceljs — drop-in replacement, fixes Excel \"We found a problem with some content\" repair prompts, the TypeError crash on rich-text shared strings, and lost formula results (0, false, ''). Read and write xlsx and csv files.",
+      "license": "MIT",
+      "repository": "https://github.com/cyberpusa-ai/exceljs",
+      "npmUrl": "https://www.npmjs.com/package/exceljs-lts",
+      "category": "data",
+      "createdAt": "2026-11-09T08:34:39.887Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
     },
     {
       "name": "expo-ai-assistant",
@@ -113402,6 +113630,18 @@
       "score": 69
     },
     {
+      "name": "numeral-lts",
+      "version": "2.1.0",
+      "description": "Maintained fork of numeral (Numeral.js) — drop-in replacement, fixes NaN when formatting very large or small numbers, \"0$.00\" for small negative currency, and the crash after setting an unknown locale.",
+      "license": "MIT",
+      "repository": "https://github.com/cyberpusa-ai/Numeral-js",
+      "npmUrl": "https://www.npmjs.com/package/numeral-lts",
+      "category": "data",
+      "createdAt": "2026-11-09T08:34:45.459Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
+    },
+    {
       "name": "nuntior",
       "version": "1.0.0",
       "description": "Official TypeScript/JavaScript SDK for Nuntior — Unified Social Media API, Canonical Blog Publishing (Ghost, WordPress, Webflow), Unified Inbox Workflows, Resumable Media Upload, Paid Social Ads, Telecom & MCP Agent Layer.",
@@ -129290,6 +129530,18 @@
       "score": 72
     },
     {
+      "name": "spatial-partition",
+      "version": "1.0.0",
+      "description": "Space partitioning of 2D and 3D points for radius, box and nearest neighbour queries: uniform grid, hash grid, octree, linear octree and k-d tree, allocation-free and rebuildable every frame.",
+      "license": "MIT",
+      "repository": "https://github.com/dmnsgn/spatial-partition",
+      "npmUrl": "https://www.npmjs.com/package/spatial-partition",
+      "category": "data",
+      "createdAt": "2026-11-09T17:41:29.836Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 99
+    },
+    {
       "name": "spatialboard",
       "version": "0.2.0",
       "description": "A React + TypeScript spatial canvas and node-board library for whiteboards, visual editors, and graph interfaces.",
@@ -133478,6 +133730,18 @@
       "score": 71
     },
     {
+      "name": "transmux",
+      "version": "1.0.0",
+      "description": "Browser video player that plays legacy AVI/MKV by remuxing in WebAssembly and streams before conversion finishes. Exports real MP4. No uploads, no server.",
+      "license": "MIT",
+      "repository": "https://github.com/etrnkz/transmux",
+      "npmUrl": "https://www.npmjs.com/package/transmux",
+      "category": "frontend",
+      "createdAt": "2026-11-09T14:13:24.603Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 95
+    },
+    {
       "name": "treaty-query",
       "version": "0.1.0",
       "description": "Type-safe TanStack Query bindings for Elysia Treaty clients.",
@@ -134654,6 +134918,18 @@
       "score": 75
     },
     {
+      "name": "unipay-africa",
+      "version": "1.0.0",
+      "description": "SDK TypeScript universel, modulaire et ultra-résilient pour unifier les passerelles de paiement africaines (FedaPay, CinetPay, PayDunya, Kkiapay) avec basculement automatique et intégration agnostique.",
+      "license": "MIT",
+      "repository": "https://github.com/jaceziloba-cpu/UniPay",
+      "npmUrl": "https://www.npmjs.com/package/unipay-africa",
+      "category": "build-tools",
+      "createdAt": "2026-11-09T18:54:55.486Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 98
+    },
+    {
       "name": "unislider",
       "version": "1.0.0",
       "description": "Lightweight, dependency-free slider & carousel with layer animations, 25+ transitions, presets and templates — a modern alternative to heavyweight slider builders.",
@@ -134676,6 +134952,18 @@
       "createdAt": "2026-07-29T17:45:25.518Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 74
+    },
+    {
+      "name": "unity-asset-reader-animation",
+      "version": "1.0.0",
+      "description": "AnimationClip curves and animated glTF scenes for unity-asset-reader: clips decoded as AssetStudio's .anim export holds them, and scenes with skins, blend shapes and clips (humanoid included) exported to glTF 2.0.",
+      "license": "MIT",
+      "repository": "https://github.com/fatal10110/unity-asset-reader",
+      "npmUrl": "https://www.npmjs.com/package/unity-asset-reader-animation",
+      "category": "frontend",
+      "createdAt": "2026-11-09T09:04:48.900Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 98
     },
     {
       "name": "unityfs-js",
@@ -138252,6 +138540,18 @@
       "createdAt": "2026-08-01T05:47:01.614Z",
       "discoveredAt": "2026-08-01T08:06:42.936Z",
       "score": 92
+    },
+    {
+      "name": "xpayr-mcp",
+      "version": "1.0.0",
+      "description": "Official XPayr Model Context Protocol (MCP) Server & CLI Launcher exposing 21 Non-Custodial Crypto Checkout, Multi-Chain Payment Link, Signed Webhook, and AI Agent Commerce tools for Claude Desktop, Cursor, and VS Code.",
+      "license": "MIT",
+      "repository": "https://github.com/xpayrcom/xpayr-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/xpayr-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-09T17:57:12.616Z",
+      "discoveredAt": "2026-11-10T04:32:17.553Z",
+      "score": 100
     },
     {
       "name": "xpectrum",
