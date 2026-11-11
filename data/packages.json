@@ -2906,6 +2906,18 @@
       "score": 89
     },
     {
+      "name": "@aixineiar/dsh-side-chat",
+      "version": "1.0.0",
+      "description": "Temporary side conversation in the right sidebar with three modes (reply only / read-only / fully inherited), rendering the same chat UI as the main conversation.",
+      "license": "MIT",
+      "repository": "https://github.com/Aixineiar/dsh-side-chat",
+      "npmUrl": "https://www.npmjs.com/package/%40aixineiar%2Fdsh-side-chat",
+      "category": "utilities",
+      "createdAt": "2026-11-10T16:05:40.549Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
+    },
+    {
       "name": "@aizvi/auth-postgres",
       "version": "1.1.0",
       "description": "PostgreSQL storage adapter for @aizvi/auth. postgresAdapter() opens its own connection pool via pg; createPostgresAuthAdapter() also works with any client you already have open, including pg.Pool, pg.Client, or @electric-sql/pglite.",
@@ -12806,6 +12818,18 @@
       "score": 54
     },
     {
+      "name": "@clikgate/node",
+      "version": "2.0.0",
+      "description": "The official Clikgate server SDK for Node.js and TypeScript: send goals in three lines, keep the click ID, verify webhooks, with private mode built in.",
+      "license": "MIT",
+      "repository": "https://github.com/clikgate/clikgate-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40clikgate%2Fnode",
+      "category": "backend",
+      "createdAt": "2026-11-10T10:01:11.515Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 93
+    },
+    {
       "name": "@clipin/convex-teams",
       "version": "1.0.0",
       "description": "Convex workspaces with membership, ownership, preferences, and convex-invite integration.",
@@ -17040,6 +17064,18 @@
       "createdAt": "2026-08-05T09:10:15.367Z",
       "discoveredAt": "2026-08-05T10:27:55.708Z",
       "score": 84
+    },
+    {
+      "name": "@digital-agora/zola",
+      "version": "1.9.0",
+      "description": "Zola (formerly @digital-agora/vscode-config): idempotent, interactive npx installer that turns VS Code into a JetBrains replacement for Kotlin/Spring, Terraform, Kafka and Python — with GitHub PR + GitLab MR review, terminal utilities and an upgrade comma",
+      "license": "MIT",
+      "repository": "https://github.com/digital-agora/vscode-config",
+      "npmUrl": "https://www.npmjs.com/package/%40digital-agora%2Fzola",
+      "category": "data",
+      "createdAt": "2026-11-10T22:16:27.374Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 100
     },
     {
       "name": "@digitalandia/walink",
@@ -22862,6 +22898,18 @@
       "score": 98
     },
     {
+      "name": "@formforkio/react",
+      "version": "1.0.0",
+      "description": "Official React & Next.js SDK for FormFork — Headless form hooks, Next.js Server Action helpers, webhook verification, and built-in Store-and-Forward failover.",
+      "license": "MIT",
+      "repository": "https://github.com/formfork/formfork",
+      "npmUrl": "https://www.npmjs.com/package/%40formforkio%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-11-10T20:45:29.603Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 91
+    },
+    {
       "name": "@formio/uag-claude",
       "version": "1.3.2",
       "description": "Claude integration for the Form.io Universal Agent Gateway (UAG) — runs an MCP client that drives agentic form automation.",
@@ -23940,6 +23988,18 @@
       "createdAt": "2026-08-26T12:19:39.447Z",
       "discoveredAt": "2026-08-26T13:06:22.803Z",
       "score": 93
+    },
+    {
+      "name": "@genclass/playwright",
+      "version": "0.1.0",
+      "description": "GenClass for Playwright: a fixture that puts @genclass/runtime on every page under test (observe mode, seeded network chaos with page.route) and writes one race file per test, and a reporter that turns those files into one markdown report your CI posts on",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/genclass-dev/GenClass",
+      "npmUrl": "https://www.npmjs.com/package/%40genclass%2Fplaywright",
+      "category": "testing",
+      "createdAt": "2026-11-10T17:18:52.595Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
     },
     {
       "name": "@genesis-tech/genesispay-seller",
@@ -29762,6 +29822,18 @@
       "score": 68
     },
     {
+      "name": "@hamzaabili/opencode-claude-hooks",
+      "version": "0.1.0",
+      "description": "OpenCode V1 + V2 plugin: run Claude Code hooks natively, including settings, plugin, skill and subagent hooks, with trust, timeouts, structured decisions and a compatibility doctor. Zero runtime dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Hamza-Abili/opencode-claude-hooks",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaabili%2Fopencode-claude-hooks",
+      "category": "devops",
+      "createdAt": "2026-11-10T10:42:16.821Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
+    },
+    {
       "name": "@hamzu/api-pilot",
       "version": "0.1.0",
       "description": "AI-native API execution engine for coding agents — discover, execute, and debug HTTP APIs from the terminal without blowing up your context window.",
@@ -30660,6 +30732,18 @@
       "createdAt": "2026-08-01T10:57:45.139Z",
       "discoveredAt": "2026-08-01T11:32:46.434Z",
       "score": 82
+    },
+    {
+      "name": "@hc-company/imperio-scan-mcp",
+      "version": "1.0.0",
+      "description": "MCP server that scans documents out of images (edge detection and perspective correction) and outputs them as images or PDFs, over stdio or streamable HTTP",
+      "license": "MIT",
+      "repository": "https://github.com/hellen-cristine-company/imperio-scan",
+      "npmUrl": "https://www.npmjs.com/package/%40hc-company%2Fimperio-scan-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-10T15:21:17.861Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 91
     },
     {
       "name": "@headstone/agentbridge",
@@ -35208,6 +35292,18 @@
       "createdAt": "2026-07-30T01:37:38.070Z",
       "discoveredAt": "2026-07-30T01:44:02.648Z",
       "score": 62
+    },
+    {
+      "name": "@joberhr/jober-mcp",
+      "version": "0.6.1",
+      "description": "KakaoTalk AlimTalk (카카오 알림톡) MCP server for Jober (자버): send KakaoTalk AlimTalk, email and SMS (문자) campaigns in Korea from Claude, ChatGPT, Cursor or VS Code. Proxies the remote Jober MCP (https://api.jober.io/mcp) for drafting, surveys, recipients, send",
+      "license": "MIT",
+      "repository": "https://github.com/jober-lab/jober-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40joberhr%2Fjober-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-10T06:34:49.782Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
     },
     {
       "name": "@joemattie/palimpsest",
@@ -46358,6 +46454,18 @@
       "score": 77
     },
     {
+      "name": "@nafrucom/email",
+      "version": "0.1.1",
+      "description": "Official Nafru Email TypeScript SDK: send transactional and marketing email from Node.js, Bun, Deno and Workers. Resend-compatible email API with contacts, templates, broadcasts, events and webhook verification.",
+      "license": "MIT",
+      "repository": "https://github.com/nafrucom/nafru-email-sdks",
+      "npmUrl": "https://www.npmjs.com/package/%40nafrucom%2Femail",
+      "category": "backend",
+      "createdAt": "2026-11-10T18:51:03.415Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
+    },
+    {
       "name": "@nagellabs/libi",
       "version": "0.1.0",
       "description": "AI video studio — a desktop editor that connects CLI coding agents (Claude Code, Codex) over ACP and lets them compose, edit and export video.",
@@ -50580,6 +50688,18 @@
       "createdAt": "2026-08-23T20:08:06.294Z",
       "discoveredAt": "2026-08-24T01:48:53.527Z",
       "score": 88
+    },
+    {
+      "name": "@originalpictures/sdk",
+      "version": "1.0.0",
+      "description": "TypeScript SDK for C2PA Content Credentials: sign, invisibly watermark, fingerprint and verify media.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Original-Pictures/originalpictures-clients",
+      "npmUrl": "https://www.npmjs.com/package/%40originalpictures%2Fsdk",
+      "category": "backend",
+      "createdAt": "2026-11-10T15:54:26.032Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
     },
     {
       "name": "@orion-agents/orion-code",
@@ -66998,6 +67118,18 @@
       "score": 73
     },
     {
+      "name": "@tomjerrygit/dsh-quick-note",
+      "version": "1.0.0",
+      "description": "Local-first management console for DeepSeek Harness: notes, tasks, flashcards, health records, agent tools, usage/cost insights, savings guard, cleanup, and workspace value analysis.",
+      "license": "MIT",
+      "repository": "https://github.com/TomJerryGit/dsh-quick-note",
+      "npmUrl": "https://www.npmjs.com/package/%40tomjerrygit%2Fdsh-quick-note",
+      "category": "utilities",
+      "createdAt": "2026-11-10T09:25:49.465Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 96
+    },
+    {
       "name": "@tomosia/agent-stack",
       "version": "1.0.0",
       "description": "Generate .claude rules and skills for a project from a curated knowledge base, deterministically.",
@@ -83198,6 +83330,30 @@
       "score": 87
     },
     {
+      "name": "cg-media-viewer",
+      "version": "1.0.0",
+      "description": "Plays video and audio inside the DSH right sidebar, including the dsh-better-sidebar file tree, with byte-range seeking when the server supports it.",
+      "license": "MIT",
+      "repository": "https://github.com/DonGeeo87/cg-media-viewer",
+      "npmUrl": "https://www.npmjs.com/package/cg-media-viewer",
+      "category": "backend",
+      "createdAt": "2026-11-10T13:42:29.661Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 89
+    },
+    {
+      "name": "cg-panel",
+      "version": "1.0.0",
+      "description": "Command center for DeepSeek Harness on Windows: which project to pick up next, laptop health, memory backups and fleet status, in a panel that opens on startup.",
+      "license": "MIT",
+      "repository": "https://github.com/DonGeeo87/cg-panel",
+      "npmUrl": "https://www.npmjs.com/package/cg-panel",
+      "category": "utilities",
+      "createdAt": "2026-11-10T14:00:23.282Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 92
+    },
+    {
       "name": "cgraph",
       "version": "0.1.1",
       "description": "Token-efficient code retrieval for AI agents. Builds a queryable graph of your codebase and serves it over MCP, so agents stop burning context on grep and whole-file reads.",
@@ -89774,6 +89930,18 @@
       "score": 86
     },
     {
+      "name": "dsh-alice-memory-llm",
+      "version": "1.1.0",
+      "description": "Long-term memory for DeepSeek Harness, LLM-extraction branch: idle-batched distillation by your main chat model, hybrid recall (vector + FTS5), explicit tools. Zero dependencies, Node only.",
+      "license": "MIT",
+      "repository": "https://github.com/cycocyco/alice-memory-llm",
+      "npmUrl": "https://www.npmjs.com/package/dsh-alice-memory-llm",
+      "category": "data",
+      "createdAt": "2026-11-10T15:57:58.731Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 98
+    },
+    {
       "name": "dsh-amber-protocol",
       "version": "1.5.1",
       "description": "DeepSeek Harness bundle for Amber Protocol governance tools and skills",
@@ -92474,6 +92642,18 @@
       "score": 79
     },
     {
+      "name": "dsh-quickdesk",
+      "version": "1.2.0",
+      "description": "QuickDesk — a global-hotkey desktop assistant for DeepSeek Harness: in-app settings page, localized (zh/en) completion-first task protocol, hard step budget, translucent input box and one-line status HUD.",
+      "license": "MIT",
+      "repository": "https://github.com/aofchas/dsh-quickdesk",
+      "npmUrl": "https://www.npmjs.com/package/dsh-quickdesk",
+      "category": "utilities",
+      "createdAt": "2026-11-11T00:02:58.375Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 94
+    },
+    {
       "name": "dsh-qwen38-ninfer-compaction-fix",
       "version": "1.1.0",
       "description": "DSH plugin (NInfer engine only): fixes compaction failure on local qwen3.8-27b gateways served by NInfer — xhigh thinking burns the entire output token budget, so thinking is off for compaction-only, with the model's non-thinking sampling parameters; the",
@@ -92484,6 +92664,18 @@
       "createdAt": "2026-08-28T14:10:14.398Z",
       "discoveredAt": "2026-08-28T22:10:49.845Z",
       "score": 96
+    },
+    {
+      "name": "dsh-reakit",
+      "version": "0.1.0",
+      "description": "Batteries-included REA integration for DeepSeek Harness: a managed Node and REA runtime, one-switch tool exposure, a live composer status indicator, on-demand optional tool setup, and in-place runtime upgrades with rollback.",
+      "license": "MIT",
+      "repository": "https://github.com/ferrisching/dsh-reakit",
+      "npmUrl": "https://www.npmjs.com/package/dsh-reakit",
+      "category": "utilities",
+      "createdAt": "2026-11-10T09:57:55.488Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 90
     },
     {
       "name": "dsh-realtimeavatar",
@@ -92880,6 +93072,18 @@
       "createdAt": "2026-10-13T16:22:52.947Z",
       "discoveredAt": "2026-10-14T01:42:50.186Z",
       "score": 100
+    },
+    {
+      "name": "dsh-subscription-balance",
+      "version": "1.6.0",
+      "description": "Current-conversation quota/balance for known providers, plus local usage and priced estimates for every configured model provider, including hand-added ones, with in-place credential configuration",
+      "license": "MIT",
+      "repository": "https://github.com/yanboyang97/dsh-subscription-balance",
+      "npmUrl": "https://www.npmjs.com/package/dsh-subscription-balance",
+      "category": "utilities",
+      "createdAt": "2026-11-10T05:38:38.640Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 97
     },
     {
       "name": "dsh-sw-cad",
@@ -100142,6 +100346,18 @@
       "score": 83
     },
     {
+      "name": "hexacore-agent",
+      "version": "3.3.0",
+      "description": "Verified, reversible, self-improving Vertical Slice Architecture companion for AI coding agents: an MCP server + CLI for 11 stacks",
+      "license": "MIT",
+      "repository": "https://github.com/rbaezc/hexacore_agent",
+      "npmUrl": "https://www.npmjs.com/package/hexacore-agent",
+      "category": "backend",
+      "createdAt": "2026-11-11T02:30:17.719Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 88
+    },
+    {
       "name": "hexagons-lite",
       "version": "0.1.0",
       "description": "Animated honeycomb backgrounds built from regular hexagons. Line art, zero dependencies, brand-aware auto-palette.",
@@ -100356,6 +100572,18 @@
       "createdAt": "2026-08-11T08:24:25.278Z",
       "discoveredAt": "2026-08-11T08:59:52.637Z",
       "score": 79
+    },
+    {
+      "name": "homebridge-alorair-lite",
+      "version": "1.0.9",
+      "description": "Homebridge plugin and Wi-Fi setup toolkit for AlorAir-Lite Smart WiFi LGR Dehumidifiers (Storm Pro, Storm LGR 850X/1250X, SLGR, Ultra, Elite) in Apple HomeKit — supporting both Cloud API and zero-cloud Local TCP control.",
+      "license": "MIT",
+      "repository": "https://github.com/NightPants/Homebridge-Alorair-Lite",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-alorair-lite",
+      "category": "backend",
+      "createdAt": "2026-11-10T19:42:20.990Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 98
     },
     {
       "name": "homebridge-bambu-print-status",
@@ -113150,6 +113378,18 @@
       "score": 68
     },
     {
+      "name": "node-red-contrib-victron-ble-bridge",
+      "version": "1.0.0",
+      "description": "Node-RED node that forwards BLE advertisements to a Victron Venus OS device (Cerbo GX, Ekrano GX, ...) over the dbus-ble-sensors UDP gateway socket",
+      "license": "MIT",
+      "repository": "https://github.com/mman/node-red-contrib-victron-ble-bridge",
+      "npmUrl": "https://www.npmjs.com/package/node-red-contrib-victron-ble-bridge",
+      "category": "utilities",
+      "createdAt": "2026-11-10T13:34:17.708Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 88
+    },
+    {
       "name": "node-red-tienho-mcprotocol",
       "version": "2.0.0",
       "description": "Node-RED nodes to read from & write to MITSUBISHI MELSEC PLCs over Ethernet using MC Protocol (1E/3E/4E, TCP/UDP)",
@@ -117072,6 +117312,18 @@
       "createdAt": "2026-09-10T14:03:05.351Z",
       "discoveredAt": "2026-09-10T16:16:34.181Z",
       "score": 89
+    },
+    {
+      "name": "pbi-html-content-agent",
+      "version": "1.0.0",
+      "description": "An AI agent kit for pixel-exact Power BI dashboards on the HTML Content visual: gated card builders, colorful styles, motion, LTR/RTL, a PBIP/PBIR writer and fit/contrast/stress gates. `npx pbi-html-content-agent init` sets it up next to your report.",
+      "license": "MIT",
+      "repository": "https://github.com/reuvenkazorer27/pbi-html-content-agent",
+      "npmUrl": "https://www.npmjs.com/package/pbi-html-content-agent",
+      "category": "data",
+      "createdAt": "2026-11-10T12:35:51.696Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 100
     },
     {
       "name": "pbi-lineage-lenz",
@@ -122088,6 +122340,18 @@
       "createdAt": "2026-10-22T13:17:06.872Z",
       "discoveredAt": "2026-10-23T01:21:14.453Z",
       "score": 96
+    },
+    {
+      "name": "rap-studio",
+      "version": "1.0.0",
+      "description": "Build, run and debug SAP ABAP RAP and classic ABAP applications on your laptop: CDS, behavior definitions, ABAP classes, reports, module pools, function modules, Adobe forms, served as OData V4/V2 for SAP Fiori elements and SAPUI5. No SAP server required.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/NabheetCloud/ABAP-Runtime",
+      "npmUrl": "https://www.npmjs.com/package/rap-studio",
+      "category": "backend",
+      "createdAt": "2026-11-10T09:15:56.472Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 100
     },
     {
       "name": "rapidfuzz-js",
@@ -130718,6 +130982,18 @@
       "score": 90
     },
     {
+      "name": "strata-charts",
+      "version": "0.1.0",
+      "description": "Modern, zero-dependency TypeScript charting library: 15 chart types, morphing animations, navigator, drilldown, dark mode, accessibility, ~32 kB gzip. Drop-in migration path from Highcharts configs.",
+      "license": "MIT",
+      "repository": "https://github.com/RobinBeraud/strata-charts",
+      "npmUrl": "https://www.npmjs.com/package/strata-charts",
+      "category": "data",
+      "createdAt": "2026-11-10T10:17:17.158Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 89
+    },
+    {
       "name": "stratalib",
       "version": "0.1.1",
       "description": "StrataLib — MCP server for pre-built code patterns (recalls)",
@@ -131846,6 +132122,18 @@
       "score": 68
     },
     {
+      "name": "tanstack-drizzle-devtools",
+      "version": "0.1.0",
+      "description": "Request-scoped Drizzle query logging for TanStack Start — see every SQL statement that ran for the current page, with timing, row counts, N+1 detection, and clickable source links.",
+      "license": "MIT",
+      "repository": "https://github.com/kcoulsy/tanstack-drizzle-devtools",
+      "npmUrl": "https://www.npmjs.com/package/tanstack-drizzle-devtools",
+      "category": "data",
+      "createdAt": "2026-11-10T08:37:16.108Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 88
+    },
+    {
       "name": "tantra",
       "version": "0.0.1",
       "description": "Zero-dependency TypeScript agent SDK. Agents, tools, handoffs, guardrails, sessions, streaming and tracing — on OpenAI, Anthropic, Gemini and OpenRouter. Runs on Node, Bun, Deno, Cloudflare Workers, Vercel Edge and the browser.",
@@ -131856,6 +132144,18 @@
       "createdAt": "2026-08-01T11:38:42.777Z",
       "discoveredAt": "2026-08-01T13:01:35.004Z",
       "score": 67
+    },
+    {
+      "name": "tapo-lan",
+      "version": "1.0.0",
+      "description": "Local LAN control for TP-Link Tapo plugs (P100/P110) – KLAP + TPAP (SPAKE2+), no cloud, zero dependencies, events & watch polling",
+      "license": "MIT",
+      "repository": "https://github.com/LFF5644/tapo-lan",
+      "npmUrl": "https://www.npmjs.com/package/tapo-lan",
+      "category": "devops",
+      "createdAt": "2026-11-10T19:10:12.403Z",
+      "discoveredAt": "2026-11-11T02:38:16.194Z",
+      "score": 92
     },
     {
       "name": "tappay-web-module",

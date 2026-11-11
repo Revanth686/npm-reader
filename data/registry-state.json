@@ -1,19 +1,27 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 143390324,
-  "lastRunAt": "2026-11-10T04:32:17.553Z",
+  "lastSequence": 143669414,
+  "lastRunAt": "2026-11-11T02:38:16.194Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@altpay/cli",
+      "name": "@lonelymud/cnb-write-probe",
       "attempts": 1
     },
     {
-      "name": "@altpay/mcp",
+      "name": "@fabricator-ui/editor-native",
       "attempts": 1
     },
     {
-      "name": "@xinna/botmux-plugin-ferry-gateway",
+      "name": "@cospired/eslint-config-react-typescript",
+      "attempts": 1
+    },
+    {
+      "name": "@5dive/pi-chat",
+      "attempts": 1
+    },
+    {
+      "name": "@comchatx/cx-amazon-stock-playbook",
       "attempts": 1
     }
   ]
