@@ -614,6 +614,18 @@
       "score": 74
     },
     {
+      "name": "@5sim-net/mcp",
+      "version": "1.0.0",
+      "description": "Official 5sim MCP server: AI agents buy virtual phone numbers and receive SMS verification codes (OTP) in 180+ countries. Works with Claude, Cursor, Cline, VS Code.",
+      "license": "MIT",
+      "repository": "https://github.com/5sim-net/mcp",
+      "npmUrl": "https://www.npmjs.com/package/%405sim-net%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-11-11T20:21:40.273Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 96
+    },
+    {
       "name": "@5ss/ai-tools",
       "version": "2.11.2",
       "description": "Reusable AI tools with strict schemas and model-facing contracts. Define once; project to Node, edge, Mastra, AI SDK, TanStack AI, Cloudflare Workers AI, or MCP.",
@@ -6254,6 +6266,18 @@
       "score": 72
     },
     {
+      "name": "@appulsauce/ninja-keys",
+      "version": "1.3.0",
+      "description": "A keyboard command palette as one web component: nested menus, per-action hotkeys, a pluggable search and a field query language. A maintained fork of ninja-keys.",
+      "license": "MIT",
+      "repository": "https://github.com/KaiErikNiermann/ninja-keys",
+      "npmUrl": "https://www.npmjs.com/package/%40appulsauce%2Fninja-keys",
+      "category": "frontend",
+      "createdAt": "2026-11-11T16:44:33.196Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 96
+    },
+    {
       "name": "@aprilwizard/dsh-multi-cot",
       "version": "0.1.0",
       "description": "Multi-sampled test-time compute plugin for DeepSeek Harness: parallel planning, internal voting, and a plan/execute/review workflow",
@@ -10274,6 +10298,18 @@
       "score": 100
     },
     {
+      "name": "@bro-code/test",
+      "version": "2026.0.0",
+      "description": "Bro Code's own test runner for TypeScript and JavaScript: suites, expect, mocks, coverage and a customizable reporter",
+      "license": "MIT",
+      "repository": "https://github.com/Bro-Code-Technologies/bro-code-package-maker",
+      "npmUrl": "https://www.npmjs.com/package/%40bro-code%2Ftest",
+      "category": "testing",
+      "createdAt": "2026-11-12T03:02:11.304Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 91
+    },
+    {
       "name": "@broberg/device-stats",
       "version": "0.2.0",
       "description": "Framework-free device statistics primitive: derive bucketed device facts (form factor, OS/browser major version, installed-PWA vs browser, screen bucket) from what the browser already sends. No identifier, no fingerprint, no storage — coarse buckets are b",
@@ -11340,6 +11376,18 @@
       "createdAt": "2026-10-29T00:21:36.007Z",
       "discoveredAt": "2026-10-29T02:14:49.544Z",
       "score": 94
+    },
+    {
+      "name": "@cap-kit/splash-motion",
+      "version": "8.0.0",
+      "description": "Capacitor v8 splash screen plugin for iOS and Android: Lottie animations, layered images, entrance animation and haptic feedback.",
+      "license": "MIT",
+      "repository": "https://github.com/cap-kit/capacitor-plugins",
+      "npmUrl": "https://www.npmjs.com/package/%40cap-kit%2Fsplash-motion",
+      "category": "devops",
+      "createdAt": "2026-11-11T21:42:49.847Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 92
     },
     {
       "name": "@capacitor/contacts",
@@ -23964,6 +24012,18 @@
       "createdAt": "2026-09-28T06:51:09.970Z",
       "discoveredAt": "2026-09-29T02:31:50.954Z",
       "score": 91
+    },
+    {
+      "name": "@gefyra/complies-with-eu",
+      "version": "1.2.0",
+      "description": "CLI that checks whether FHIR profiles comply with the HL7 Europe (EU) profiles, using the compliesWithProfile extension and the HL7 FHIR validator",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Gefyra/complies-with-eu-cli",
+      "npmUrl": "https://www.npmjs.com/package/%40gefyra%2Fcomplies-with-eu",
+      "category": "cli",
+      "createdAt": "2026-11-11T15:14:19.442Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 94
     },
     {
       "name": "@gemachdao/gdex-skill",
@@ -50714,6 +50774,18 @@
       "score": 75
     },
     {
+      "name": "@orion-qa/orion",
+      "version": "3.0.0",
+      "description": "Orion: AI test agents that work as one team. They explore your live site, design test cases you approve, write Playwright, Selenium, Appium or API tests in your framework, run them 3 times and prove them. For Claude Code, Cursor, Copilot, Codex and Gemini",
+      "license": "MIT",
+      "repository": "https://github.com/ahmad44980/orion",
+      "npmUrl": "https://www.npmjs.com/package/%40orion-qa%2Forion",
+      "category": "testing",
+      "createdAt": "2026-11-11T09:39:30.147Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 100
+    },
+    {
       "name": "@orjok/commons",
       "version": "1.0.2",
       "description": "Orjok platform shared business logic for React and React Native",
@@ -59880,6 +59952,42 @@
       "createdAt": "2026-10-08T16:27:38.906Z",
       "discoveredAt": "2026-10-09T02:51:58.258Z",
       "score": 90
+    },
+    {
+      "name": "@sezergumus/cli-ip",
+      "version": "1.0.0",
+      "description": "Production-ready, zero-dependency public IP address & geolocation CLI and Node.js library with multi-provider fallback.",
+      "license": "MIT",
+      "repository": "https://github.com/Sezergumus/cli-ip",
+      "npmUrl": "https://www.npmjs.com/package/%40sezergumus%2Fcli-ip",
+      "category": "cli",
+      "createdAt": "2026-11-11T04:22:01.456Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 91
+    },
+    {
+      "name": "@sezergumus/text-craft",
+      "version": "1.0.0",
+      "description": "Zero-dependency, production-ready, dual-format (ESM/CJS) text manipulation library featuring smart truncation, sensitive data masking, casing converters, HTML utilities, and text statistics.",
+      "license": "MIT",
+      "repository": "https://github.com/Sezergumus/text-craft",
+      "npmUrl": "https://www.npmjs.com/package/%40sezergumus%2Ftext-craft",
+      "category": "data",
+      "createdAt": "2026-11-11T04:22:13.052Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 99
+    },
+    {
+      "name": "@sezergumus/tr-toolkit",
+      "version": "1.0.0",
+      "description": "Zero-dependency, high-performance Turkish language, validation, formatting, and text processing toolkit for Node.js and the browser.",
+      "license": "MIT",
+      "repository": "https://github.com/Sezergumus/tr-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40sezergumus%2Ftr-toolkit",
+      "category": "frontend",
+      "createdAt": "2026-11-11T04:22:22.964Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 93
     },
     {
       "name": "@shadahmad7/react-native-device-security",
@@ -71702,6 +71810,18 @@
       "score": 70
     },
     {
+      "name": "@wikialisalabs/design-system",
+      "version": "6.0.0",
+      "description": "AXQ Design System — React component library with 3-layer token architecture, TLP namespace security, and ANS resolver integration. (Unified v6)",
+      "license": "MIT",
+      "repository": "https://github.com/wikialisalabs/design-system",
+      "npmUrl": "https://www.npmjs.com/package/%40wikialisalabs%2Fdesign-system",
+      "category": "frontend",
+      "createdAt": "2026-11-11T03:37:41.008Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 94
+    },
+    {
       "name": "@wildorder/keyart",
       "version": "0.1.1",
       "description": "A local creative director for AI-built prototypes — turn a rough brief into visual directions, an exact brand.css, style guides, and coding-agent rules.",
@@ -76166,6 +76286,18 @@
       "score": 68
     },
     {
+      "name": "agent-kiosk",
+      "version": "2.6.0",
+      "description": "23-in-1 B2A Intelligence, EVM Pre-Flight Simulation, Perp Funding Arbitrage, TradFi Macro Radar & Action Calldata Supermarket via x402 (Base USDC) and MCP",
+      "license": "MIT",
+      "repository": "https://github.com/ralf9090/agent-kiosk",
+      "npmUrl": "https://www.npmjs.com/package/agent-kiosk",
+      "category": "data",
+      "createdAt": "2026-11-11T23:17:54.952Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 95
+    },
+    {
       "name": "agent-koans",
       "version": "0.1.0",
       "description": "Framework-agnostic conformance suite for AI agent implementations",
@@ -76644,6 +76776,18 @@
       "createdAt": "2026-08-09T22:24:47.076Z",
       "discoveredAt": "2026-08-09T22:54:46.351Z",
       "score": 62
+    },
+    {
+      "name": "agentic-dev-stack",
+      "version": "1.0.0",
+      "description": "Smart vibe coding stack for Claude Code: multi-agent orchestration (Opus plans, cheap/free models execute), Spec Kit SDD, caveman + RTK token savings, graphify, sandboxed secrets and an always-on Hermes assistant. macOS, Linux, Windows.",
+      "license": "MIT",
+      "repository": "https://github.com/Gildaciolopes/agentic-dev-stack",
+      "npmUrl": "https://www.npmjs.com/package/agentic-dev-stack",
+      "category": "utilities",
+      "createdAt": "2026-11-11T18:13:32.587Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 100
     },
     {
       "name": "agentic-engineering-harness",
@@ -78804,6 +78948,18 @@
       "createdAt": "2026-10-12T01:55:16.615Z",
       "discoveredAt": "2026-10-12T02:11:38.737Z",
       "score": 100
+    },
+    {
+      "name": "apple-docs-mcp-next",
+      "version": "2.0.0",
+      "description": "MCP server for Apple Developer Documentation: API reference, Human Interface Guidelines, App Store Connect Help, sample code and 1,700 WWDC sessions with transcripts and code, on Bun",
+      "license": "MIT",
+      "repository": "https://github.com/xsyetopz/apple-docs-mcp-next",
+      "npmUrl": "https://www.npmjs.com/package/apple-docs-mcp-next",
+      "category": "backend",
+      "createdAt": "2026-11-11T22:34:32.447Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 98
     },
     {
       "name": "apple-hig",
@@ -81098,6 +81254,18 @@
       "score": 93
     },
     {
+      "name": "block-detector",
+      "version": "1.0.0",
+      "description": "Detect when a website blocks your scraper but still answers HTTP 200: rate-limit and access-denied pages, empty JavaScript shells, sign-in walls, redirects to the home page, stripped data and decoy pages. Works in the browser, Playwright, Puppeteer and on",
+      "license": "MIT",
+      "repository": "https://github.com/ScrapePass/block-detector",
+      "npmUrl": "https://www.npmjs.com/package/block-detector",
+      "category": "testing",
+      "createdAt": "2026-11-11T07:44:37.377Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 97
+    },
+    {
       "name": "block-genomics-mcp",
       "version": "0.1.0",
       "description": "MCP server for Block Genomics (Nexus Protocol). Gives any MCP-capable AI agent live access to verified Bitcoin blocks, on-chain ownership, agent directories, guardians, badges, and experiences — plus the authenticated agent runtime (heartbeat / brief / ev",
@@ -82596,6 +82764,18 @@
       "createdAt": "2026-08-08T22:12:50.221Z",
       "discoveredAt": "2026-08-08T22:19:33.077Z",
       "score": 98
+    },
+    {
+      "name": "captcha-detector",
+      "version": "1.0.0",
+      "description": "Detect whether a web page contains a captcha or bot check: reCAPTCHA, hCaptcha, Turnstile, Cloudflare, Arkose, GeeTest, AWS WAF, DataDome, PerimeterX, Akamai, Imperva and 60+ more. Works in the browser, Playwright, Puppeteer, Selenium and on raw HTML in N",
+      "license": "MIT",
+      "repository": "https://github.com/ScrapePass/captcha-detector",
+      "npmUrl": "https://www.npmjs.com/package/captcha-detector",
+      "category": "testing",
+      "createdAt": "2026-11-11T05:58:22.936Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 100
     },
     {
       "name": "capto-agent-skill",
@@ -88946,6 +89126,18 @@
       "score": 64
     },
     {
+      "name": "discord-server-mcp",
+      "version": "1.0.0",
+      "description": "MCP server and Claude plugin to create, organise and moderate Discord servers through your own bots: 132 tools (a 48-tool core, the rest on demand), live events, role menus, welcomes, tickets, staff slash commands, moderation logs with filters, staff aler",
+      "license": "MIT",
+      "repository": "https://github.com/pr5ias/discord-server-mcp",
+      "npmUrl": "https://www.npmjs.com/package/discord-server-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-11T19:46:16.190Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 94
+    },
+    {
       "name": "discorg-mcp",
       "version": "0.1.1",
       "description": "Model Context Protocol server for Discogs — search the catalog, manage your collection and wantlist, and work the marketplace from Claude and other MCP clients.",
@@ -91682,6 +91874,18 @@
       "score": 92
     },
     {
+      "name": "dsh-mixinhub",
+      "version": "1.9.0",
+      "description": "Curated plugin market for DeepSeek Harness: daily heat leaderboard, bilingual notes, side-by-side comparison, directional compatibility advice, README summaries and a local maintainer dashboard for stars, downloads and feedback.",
+      "license": "MIT",
+      "repository": "https://github.com/ghostmss86-afk/dsh-mixinhub",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mixinhub",
+      "category": "utilities",
+      "createdAt": "2026-11-12T01:48:51.874Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 100
+    },
+    {
       "name": "dsh-model-chooser",
       "version": "0.1.1",
       "description": "A searchable, sortable model picker for the DeepSeek Harness Web UI — provider groups, favorites, hidden-models blacklist, live per-task cost, prices and context windows, a refresh button that re-syncs every provider model list from its live API, and the",
@@ -91728,6 +91932,18 @@
       "createdAt": "2026-08-15T13:01:48.710Z",
       "discoveredAt": "2026-08-15T13:37:19.775Z",
       "score": 62
+    },
+    {
+      "name": "dsh-model-quick-selector",
+      "version": "2.4.1",
+      "description": "Quick-select model list for the DSH model selector: choose and order models from the model menu settings icon, drag vertically to switch between them",
+      "license": "MIT",
+      "repository": "https://github.com/Arrosam/dsh-model-quick-selector",
+      "npmUrl": "https://www.npmjs.com/package/dsh-model-quick-selector",
+      "category": "utilities",
+      "createdAt": "2026-11-11T03:26:25.777Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 92
     },
     {
       "name": "dsh-model-reasoning",
@@ -95594,6 +95810,18 @@
       "score": 100
     },
     {
+      "name": "exceljs-next",
+      "version": "4.5.0",
+      "description": "Maintained drop-in replacement for exceljs: same API, 5 packages instead of 193, security fixes included. Read, manipulate and write XLSX and CSV.",
+      "license": "MIT",
+      "repository": "https://github.com/Atomics-hub/exceljs-next",
+      "npmUrl": "https://www.npmjs.com/package/exceljs-next",
+      "category": "backend",
+      "createdAt": "2026-11-12T02:47:42.743Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 94
+    },
+    {
       "name": "expo-ai-assistant",
       "version": "0.1.0",
       "description": "Surface-first AI chat kit for Expo and React Native — pluggable transport (OpenAI-compatible default), full-page, floating, modal, and optional bottom-sheet.",
@@ -96228,6 +96456,18 @@
       "createdAt": "2026-08-02T12:33:14.750Z",
       "discoveredAt": "2026-08-02T13:03:05.537Z",
       "score": 98
+    },
+    {
+      "name": "fast-reading-time",
+      "version": "1.0.0",
+      "description": "A fast, zero-dependency, dual-format (ESM & CJS) reading time estimator with Markdown/HTML stripping, CJK support, and multi-language localization.",
+      "license": "MIT",
+      "repository": "https://github.com/Sezergumus/fast-reading-time",
+      "npmUrl": "https://www.npmjs.com/package/fast-reading-time",
+      "category": "data",
+      "createdAt": "2026-11-11T04:19:07.491Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 92
     },
     {
       "name": "fast-sorted-set",
@@ -97296,6 +97536,18 @@
       "createdAt": "2026-09-20T02:48:22.672Z",
       "discoveredAt": "2026-09-20T04:41:19.146Z",
       "score": 96
+    },
+    {
+      "name": "folder-organiser",
+      "version": "1.0.0",
+      "description": "Automatically sort the files in a folder into category folders (Images, Documents, Videos, Code, Others) by file extension. Works as a library or a CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/Myst-12/folder-organizer-npm",
+      "npmUrl": "https://www.npmjs.com/package/folder-organiser",
+      "category": "cli",
+      "createdAt": "2026-11-11T21:22:00.773Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 92
     },
     {
       "name": "foldermind",
@@ -107126,6 +107378,18 @@
       "score": 82
     },
     {
+      "name": "markdown-design-doc-viewer-embed",
+      "version": "1.5.0",
+      "description": "The viewer of Markdown Design Doc Viewer to embed in a web app (React or not): design documents in Markdown with their mermaid sequence diagrams, flowcharts, ER and state diagrams and wireframes linked to the steps after them.",
+      "license": "MIT",
+      "repository": "https://github.com/playree/markdown-design-doc-viewer",
+      "npmUrl": "https://www.npmjs.com/package/markdown-design-doc-viewer-embed",
+      "category": "frontend",
+      "createdAt": "2026-11-12T00:17:12.747Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 92
+    },
+    {
       "name": "markdown-doc-tree",
       "version": "0.2.0",
       "description": "Build interactive documentation trees and printable PDF manuals from numbered Markdown files.",
@@ -108014,6 +108278,18 @@
       "score": 90
     },
     {
+      "name": "mcp-hari-libur-indonesia",
+      "version": "1.0.0",
+      "description": "MCP server for Indonesian public holidays, cuti bersama (SKB 3 Menteri 2025-2027) and working-day math. Offline.",
+      "license": "MIT",
+      "repository": "https://github.com/EzkielynaGroup/mcp-hari-libur-indonesia",
+      "npmUrl": "https://www.npmjs.com/package/mcp-hari-libur-indonesia",
+      "category": "backend",
+      "createdAt": "2026-11-11T17:28:16.957Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 91
+    },
+    {
       "name": "mcp-httpserver-proxy",
       "version": "1.0.0",
       "description": "Transparent proxy bridging HTTP/SSE Model Context Protocol (MCP) servers to stdio-based clients like Claude Desktop and Cursor",
@@ -108324,6 +108600,18 @@
       "createdAt": "2026-10-10T17:02:34.598Z",
       "discoveredAt": "2026-10-11T01:44:18.354Z",
       "score": 98
+    },
+    {
+      "name": "mcp-rupiah",
+      "version": "1.0.0",
+      "description": "MCP server for Rupiah: terbilang (number to Indonesian words), format/parse Rupiah, PPN 12% x 11/12 calculator.",
+      "license": "MIT",
+      "repository": "https://github.com/EzkielynaGroup/mcp-rupiah",
+      "npmUrl": "https://www.npmjs.com/package/mcp-rupiah",
+      "category": "backend",
+      "createdAt": "2026-11-11T17:33:04.650Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 91
     },
     {
       "name": "mcp-sandbox",
@@ -114648,6 +114936,18 @@
       "createdAt": "2026-07-26T15:05:39.698Z",
       "discoveredAt": "2026-07-26T15:59:48.285Z",
       "score": 82
+    },
+    {
+      "name": "one-small-modspack",
+      "version": "2.0.0",
+      "description": "AI development agents, Agent Skills, quality and security guards, and release gates for Claude Code, OpenAI Codex, GitHub Copilot and Gemini CLI, with a deterministic CLI for CI.",
+      "license": "MIT",
+      "repository": "https://github.com/WasteOfADrumBum/one-small-mods-pack",
+      "npmUrl": "https://www.npmjs.com/package/one-small-modspack",
+      "category": "cli",
+      "createdAt": "2026-11-11T10:31:52.585Z",
+      "discoveredAt": "2026-11-12T03:41:37.346Z",
+      "score": 97
     },
     {
       "name": "oneco-cli",
