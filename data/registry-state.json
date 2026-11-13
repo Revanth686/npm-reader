@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 143958416,
-  "lastRunAt": "2026-11-12T03:41:37.346Z",
+  "lastSequence": 144251974,
+  "lastRunAt": "2026-11-13T03:19:07.481Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@n-uf/placement",
+      "name": "@lukax/llms-ink",
+      "attempts": 1
+    },
+    {
+      "name": "@lukax/gimmeclip",
       "attempts": 1
     }
   ]
