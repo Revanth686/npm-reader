@@ -1202,6 +1202,18 @@
       "score": 79
     },
     {
+      "name": "@aclec/exceljs2",
+      "version": "5.0.0",
+      "description": "Excel Workbook Manager - Read and Write xlsx and csv Files. Maintained fork of exceljs: up-to-date dependencies and security fixes.",
+      "license": "MIT",
+      "repository": "https://github.com/aclec/exceljs2",
+      "npmUrl": "https://www.npmjs.com/package/%40aclec%2Fexceljs2",
+      "category": "data",
+      "createdAt": "2026-11-13T12:14:10.970Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 93
+    },
+    {
       "name": "@aclif/core",
       "version": "1.0.1",
       "description": "Agent CLI Framework: a self-describing command surface over SaaS APIs for compiled workflow agents",
@@ -3144,6 +3156,18 @@
       "createdAt": "2026-08-02T19:26:44.469Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 73
+    },
+    {
+      "name": "@alanstill9966/job-agent-skills",
+      "version": "0.1.1",
+      "description": "Job-search workflow for coding agents, North American edition: ten skills (fit analysis, resume + cover letter files, form filling, pipeline tracking, interview drills, open-source contribution, project deep-dives) plus jobs-mcp for scanning Greenhouse /",
+      "license": "MIT",
+      "repository": "https://github.com/comedianhhh/job-agent-skills",
+      "npmUrl": "https://www.npmjs.com/package/%40alanstill9966%2Fjob-agent-skills",
+      "category": "data",
+      "createdAt": "2026-11-13T16:34:57.551Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 90
     },
     {
       "name": "@alayrasystems/nexus",
@@ -6818,6 +6842,18 @@
       "score": 100
     },
     {
+      "name": "@arraypress/image-pipeline",
+      "version": "1.0.0",
+      "description": "Images in the browser, done properly: a linear-light resampler, crop, turn and flip, a quality search for a target file size, EXIF read, rewritten and put back, colour profiles kept, palette PNGs and animated WebP. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/arraypress/image-pipeline",
+      "npmUrl": "https://www.npmjs.com/package/%40arraypress%2Fimage-pipeline",
+      "category": "frontend",
+      "createdAt": "2026-11-13T18:06:22.445Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 92
+    },
+    {
       "name": "@arraypress/llms-txt-astro",
       "version": "1.0.0",
       "description": "Idiomatic /llms.txt route for Astro — resolves the site origin and serves the file. A thin wrapper over @arraypress/llms-txt.",
@@ -9494,6 +9530,18 @@
       "score": 86
     },
     {
+      "name": "@bkpsdm/ui-kit",
+      "version": "1.0.1",
+      "description": "BKPSDM UI Kit — design system admin untuk Nuxt/Vue/React, selaras INA Digital Design System. Framework-agnostic: CSS custom properties + vanilla JS, tanpa dependensi build.",
+      "license": "MIT",
+      "repository": "https://github.com/bkpsdmkrw/bkpsdm-ui-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40bkpsdm%2Fui-kit",
+      "category": "frontend",
+      "createdAt": "2026-11-13T03:41:12.452Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 97
+    },
+    {
       "name": "@blackbelt-technology/pi-dashboard-craft-apps",
       "version": "0.9.0",
       "description": "Headless ArtCraft Crafting Apps for pi agents: provisions the <app>-cli binary of PhotoCraft, VectorCraft, FilmCraft, LightCraft, PdfCraft, EffectCraft, DesignCraft, FigCraft, WordCraft, SoundCraft, DeckCraft, CADCraft and GridCraft on demand, exposes the",
@@ -10308,6 +10356,18 @@
       "createdAt": "2026-09-02T05:32:09.151Z",
       "discoveredAt": "2026-09-02T16:27:26.013Z",
       "score": 100
+    },
+    {
+      "name": "@bro-code/drag-it",
+      "version": "2026.0.0",
+      "description": "Drag-to-reorder for lists in any framework or none: rows dragged by a handle with touch, mouse, pen or the keyboard, shifted on screen while dragging, and handed back as a move for the app to apply.",
+      "license": "MIT",
+      "repository": "https://github.com/Bro-Code-Technologies/bro-code-package-maker",
+      "npmUrl": "https://www.npmjs.com/package/%40bro-code%2Fdrag-it",
+      "category": "frontend",
+      "createdAt": "2026-11-14T01:45:09.458Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 93
     },
     {
       "name": "@bro-code/test",
@@ -21312,6 +21372,30 @@
       "createdAt": "2026-07-30T20:56:49.656Z",
       "discoveredAt": "2026-07-30T22:05:08.036Z",
       "score": 80
+    },
+    {
+      "name": "@extantape/payload-plugin-audit-trail",
+      "version": "0.1.0",
+      "description": "Tamper-evident audit trail for Payload: who changed which fields, from where and through whom, never the values, hash-chained per record and sealed across the site, with a verify that reports any break; an opt-in old-value log and a sink for other plugins",
+      "license": "MIT",
+      "repository": "https://github.com/ExtantApe/payload-plugin-audit-trail",
+      "npmUrl": "https://www.npmjs.com/package/%40extantape%2Fpayload-plugin-audit-trail",
+      "category": "utilities",
+      "createdAt": "2026-11-13T09:21:08.207Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 90
+    },
+    {
+      "name": "@extantape/payload-plugin-kitting",
+      "version": "0.2.1",
+      "description": "Kitting for Payload: track supplies, and optionally build multi-part products (kits) from them, for anyone from a café to a genomics lab. Suppliers, stock from an append-only log, recipes that use stock in one transaction, one low-stock email per drop and",
+      "license": "MIT",
+      "repository": "https://github.com/ExtantApe/payload-plugin-kitting",
+      "npmUrl": "https://www.npmjs.com/package/%40extantape%2Fpayload-plugin-kitting",
+      "category": "build-tools",
+      "createdAt": "2026-11-13T09:28:13.698Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 90
     },
     {
       "name": "@eyrad/eyrad-helpers-sdk",
@@ -52646,6 +52730,18 @@
       "score": 90
     },
     {
+      "name": "@photos-sh/photos",
+      "version": "1.0.0",
+      "description": "Client library for the Photos.sh image API: background removal, resizing, upscaling, object and text removal, marketplace checks and fixes, barcode and label reading.",
+      "license": "MIT",
+      "repository": "https://github.com/photos-sh/photos-js",
+      "npmUrl": "https://www.npmjs.com/package/%40photos-sh%2Fphotos",
+      "category": "backend",
+      "createdAt": "2026-11-13T12:37:45.392Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 92
+    },
+    {
       "name": "@pi-kaush/pi-btw-with-imports",
       "version": "0.1.0",
       "description": "Open persisted Pi side sessions with /btw and import child-authored handoffs with /btw merge.",
@@ -58802,6 +58898,18 @@
       "score": 98
     },
     {
+      "name": "@sanmumu/dsh-doubao-client",
+      "version": "1.8.0",
+      "description": "Expose the models of a locally running Doubao desktop client as a DeepSeek Harness provider: all twelve catalog models in ordinary chat mode, real image input through the client's own upload channel, subscription quota query, a local character-based usage",
+      "license": "MIT",
+      "repository": "https://github.com/sanmumu-325/dsh-doubao-client",
+      "npmUrl": "https://www.npmjs.com/package/%40sanmumu%2Fdsh-doubao-client",
+      "category": "cli",
+      "createdAt": "2026-11-13T22:08:37.134Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 96
+    },
+    {
       "name": "@sann-tech/react-image-markup",
       "version": "0.3.0",
       "description": "React component for filling paper-style forms and annotating images on an HTML5 canvas — handwriting with real pen pressure, typed fields, and a flattened image export at the original resolution.",
@@ -62474,6 +62582,18 @@
       "score": 50
     },
     {
+      "name": "@spartaficial/openapi-to-zod",
+      "version": "1.0.0",
+      "description": "Generate Zod schemas from OpenAPI specifications. A TypeScript code generator that converts OpenAPI/Swagger YAML definitions into type-safe Zod validation schemas.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Spartaficial/openapi-codegen",
+      "npmUrl": "https://www.npmjs.com/package/%40spartaficial%2Fopenapi-to-zod",
+      "category": "backend",
+      "createdAt": "2026-11-13T07:34:05.990Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 96
+    },
+    {
       "name": "@spatialpack/cli",
       "version": "0.1.0",
       "description": "SpatialPack CLI — analyze, optimize, readiness, autocorrect, batch-autocorrect, ar-parity, visual-diff, recipe-search, USDZ for glTF/GLB. `npx @spatialpack/cli`.",
@@ -62880,6 +63000,30 @@
       "createdAt": "2026-09-03T09:25:23.056Z",
       "discoveredAt": "2026-09-03T16:18:01.109Z",
       "score": 87
+    },
+    {
+      "name": "@stacklatte/chart-native",
+      "version": "1.0.0",
+      "description": "GPU-accelerated React Native trading chart (Skia): candlesticks, RSI/MACD/Bollinger/Volume, trade markers, pinch-zoom, live streaming. Ships an LLM-safe declarative ChartConfig + JSON Schema so agents can generate charts without hallucinating props.",
+      "license": "MIT",
+      "repository": "https://github.com/Asterix19/charts",
+      "npmUrl": "https://www.npmjs.com/package/%40stacklatte%2Fchart-native",
+      "category": "testing",
+      "createdAt": "2026-11-13T19:51:16.467Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 100
+    },
+    {
+      "name": "@stacklatte/chart-react",
+      "version": "1.0.0",
+      "description": "React / Next.js trading chart (SLChart): candlesticks, RSI/MACD/Bollinger/volume, trade markers, pan/zoom, crosshair, live streaming. HTML5 Canvas 2D, no WASM; 60 fps at 50,000 candles; ~10 kB gzipped. Ships an LLM-safe ChartConfig + JSON Schema.",
+      "license": "MIT",
+      "repository": "https://github.com/Asterix19/charts",
+      "npmUrl": "https://www.npmjs.com/package/%40stacklatte%2Fchart-react",
+      "category": "testing",
+      "createdAt": "2026-11-13T19:53:34.819Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 100
     },
     {
       "name": "@stackline/deepmerge",
@@ -68138,6 +68282,30 @@
       "score": 100
     },
     {
+      "name": "@tylix/excel",
+      "version": "1.4.0",
+      "description": "Excel (.xlsx) and CSV for any JavaScript runtime: write styled sheets from objects in one call, read workbooks back into objects, formats, formulas, totals, tables, filters, dropdowns, conditional formatting, images and print setup. No dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/Mbiyrukzz/tylix",
+      "npmUrl": "https://www.npmjs.com/package/%40tylix%2Fexcel",
+      "category": "data",
+      "createdAt": "2026-11-13T18:16:46.422Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 91
+    },
+    {
+      "name": "@tylix/pdf",
+      "version": "1.4.0",
+      "description": "PDF documents for any JavaScript runtime: rich text, tables that span pages, lists, columns, images, SVG and @tylix/charts, QR codes and barcodes, HTML, headers, footers, page numbers, bookmarks, a table of contents and embedded Unicode fonts. No dependen",
+      "license": "MIT",
+      "repository": "https://github.com/Mbiyrukzz/tylix",
+      "npmUrl": "https://www.npmjs.com/package/%40tylix%2Fpdf",
+      "category": "utilities",
+      "createdAt": "2026-11-13T18:16:57.396Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 100
+    },
+    {
       "name": "@typed-clickhouse/core",
       "version": "0.1.0",
       "description": "Serverless-compatible ClickHouse SDK for AWS Lambda and edge runtimes. Provides OlapTable, View, MaterializedView and the other ClickHouse SDK classes, with no native dependencies. Includes a patched compiler plugin for type-driven schema injection.",
@@ -73104,6 +73272,30 @@
       "createdAt": "2026-10-22T09:19:04.145Z",
       "discoveredAt": "2026-10-23T01:21:14.453Z",
       "score": 91
+    },
+    {
+      "name": "@xiaohuangbo/dsh-conversation-lock",
+      "version": "1.1.4",
+      "description": "Model-controlled conversation restrictions for DeepSeek Harness: close conversations with a yellow notice, disable feedback/stop/copy controls, and pause Session Log uploads — all behind user-authorized toggles",
+      "license": "MIT",
+      "repository": "https://github.com/xiaohuangbo/dsh-conversation-lock",
+      "npmUrl": "https://www.npmjs.com/package/%40xiaohuangbo%2Fdsh-conversation-lock",
+      "category": "utilities",
+      "createdAt": "2026-11-13T07:08:33.463Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 94
+    },
+    {
+      "name": "@xiaohuangbo/dsh-e621-style",
+      "version": "1.2.0",
+      "description": "The classic e621 blue hexagon theme for DeepSeek Harness: custom backgrounds, a random image library, timed rotation, colorful code highlighting and an in-page settings panel. e621 蓝色六边形主题：自定义背景、随机图库、定时轮换、彩色代码高亮与独立设置页。",
+      "license": "MIT",
+      "repository": "https://github.com/xiaohuangbo/dsh-e621-style",
+      "npmUrl": "https://www.npmjs.com/package/%40xiaohuangbo%2Fdsh-e621-style",
+      "category": "frontend",
+      "createdAt": "2026-11-14T01:42:20.087Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 98
     },
     {
       "name": "@xiaopb/dsh-roboto-mono",
@@ -84362,6 +84554,18 @@
       "score": 85
     },
     {
+      "name": "claude-code-saver",
+      "version": "1.1.0",
+      "description": "Stop hitting your Claude Code usage limit. Cuts token use ~50-80% with a 150k auto-compact window, per-project memory that survives /clear, Sonnet subagents and a usage audit. One command: npx claude-code-saver",
+      "license": "MIT",
+      "repository": "https://github.com/rahmangamer12/claude-code-saver",
+      "npmUrl": "https://www.npmjs.com/package/claude-code-saver",
+      "category": "cli",
+      "createdAt": "2026-11-13T09:43:17.212Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 91
+    },
+    {
       "name": "claude-code-superkit",
       "version": "1.5.3",
       "description": "Production-tested agents (56), commands (16), hooks (42), skills (22), and rules (19) for Claude Code; 82 skills and 2 native hook handlers for Codex. Claude prompts hardened by Claude Fable 5; GPT role sources authored by Astra.",
@@ -87624,6 +87828,18 @@
       "createdAt": "2026-08-12T14:47:44.428Z",
       "discoveredAt": "2026-08-12T15:11:32.083Z",
       "score": 74
+    },
+    {
+      "name": "ctxtop",
+      "version": "4.0.0",
+      "description": "Highbeam v4.0: Cross-platform AI Developer Assistant Extension for Google Antigravity and Claude Code: 40-cell context visualizer, KV-cache gravity router, and zero-token guardrails.",
+      "license": "MIT",
+      "repository": "https://github.com/Gizzant/context-horizon",
+      "npmUrl": "https://www.npmjs.com/package/ctxtop",
+      "category": "data",
+      "createdAt": "2026-11-13T23:03:08.466Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 98
     },
     {
       "name": "cubest",
@@ -92724,6 +92940,18 @@
       "createdAt": "2026-08-13T18:31:21.883Z",
       "discoveredAt": "2026-08-13T18:51:46.079Z",
       "score": 63
+    },
+    {
+      "name": "dsh-plugin-prompt",
+      "version": "3.0.0",
+      "description": "Scene Prompt Flow for DeepSeek Harness: 55 preset subscenes across 10 categories, a legal workflow scene, left-library reorder with drag/move/reset/cancel, a prompt-flow generator meta scene, structured JSON import, and a searchable template library and c",
+      "license": "MIT",
+      "repository": "https://github.com/qifenglun1/dsh-prompt",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-prompt",
+      "category": "utilities",
+      "createdAt": "2026-11-13T12:02:39.322Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 94
     },
     {
       "name": "dsh-plugin-rea",
@@ -102792,6 +103020,42 @@
       "createdAt": "2026-10-31T17:50:41.370Z",
       "discoveredAt": "2026-11-01T02:00:13.280Z",
       "score": 95
+    },
+    {
+      "name": "internetdata-express",
+      "version": "1.0.0",
+      "description": "Official Express middleware for the InternetData API. Look up the visitor behind every request: location, network, VPN, proxy, Tor and hosting.",
+      "license": "MIT",
+      "repository": "https://github.com/internetdata/sdk-nodejs-expressjs",
+      "npmUrl": "https://www.npmjs.com/package/internetdata-express",
+      "category": "backend",
+      "createdAt": "2026-11-14T01:11:02.177Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 91
+    },
+    {
+      "name": "internetdata-fastify",
+      "version": "1.0.0",
+      "description": "Official Fastify plugin for the InternetData API. Look up the visitor behind every request: location, network, VPN, proxy, Tor and hosting.",
+      "license": "MIT",
+      "repository": "https://github.com/internetdata/sdk-nodejs-fastify",
+      "npmUrl": "https://www.npmjs.com/package/internetdata-fastify",
+      "category": "backend",
+      "createdAt": "2026-11-14T01:11:18.455Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 93
+    },
+    {
+      "name": "internetdata-next",
+      "version": "1.0.0",
+      "description": "Official Next.js proxy/middleware for the InternetData API. Look up the visitor behind every request: location, network, VPN, proxy, Tor and hosting.",
+      "license": "MIT",
+      "repository": "https://github.com/internetdata/sdk-nodejs-nextjs",
+      "npmUrl": "https://www.npmjs.com/package/internetdata-next",
+      "category": "backend",
+      "createdAt": "2026-11-14T01:11:04.582Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 94
     },
     {
       "name": "intervals-icu-sdk",
@@ -117240,6 +117504,18 @@
       "createdAt": "2026-09-13T19:25:32.364Z",
       "discoveredAt": "2026-09-14T04:38:39.761Z",
       "score": 88
+    },
+    {
+      "name": "pac-replay-codec",
+      "version": "1.0.0",
+      "description": "Lossless codec for Pokemon Auto Chess replays: up to 12.4x smaller than the raw file, exact bytes back. Command line tool and library.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/DonaldGallianoIII/pac-replay-codec",
+      "npmUrl": "https://www.npmjs.com/package/pac-replay-codec",
+      "category": "cli",
+      "createdAt": "2026-11-14T01:04:54.796Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 91
     },
     {
       "name": "paceproof-cli",
@@ -134774,6 +135050,18 @@
       "score": 88
     },
     {
+      "name": "tron-usdt-payment",
+      "version": "1.0.0",
+      "description": "Lightweight, 100% non-custodial TRON TRC-20 (USDT) payment gateway & blockchain polling listener. Zero private keys, multi-user concurrent matching, storage-agnostic.",
+      "license": "MIT",
+      "repository": "https://github.com/hanshengcc/tron-usdt-payment",
+      "npmUrl": "https://www.npmjs.com/package/tron-usdt-payment",
+      "category": "utilities",
+      "createdAt": "2026-11-13T18:02:00.996Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 96
+    },
+    {
       "name": "truecopy",
       "version": "0.0.2",
       "description": "Read tables out of PDFs, and refuse the readings you cannot trust. Learns each document's own shape, so a new issuer needs no new configuration.",
@@ -135576,6 +135864,18 @@
       "createdAt": "2026-08-04T15:23:19.240Z",
       "discoveredAt": "2026-08-04T23:55:34.389Z",
       "score": 47
+    },
+    {
+      "name": "ultra-text",
+      "version": "1.0.0",
+      "description": "DOM to WebGPU/TSL: real HTML, laid out by the browser, rendered as live 3D text (Three.js, R3F, TresJS, Mini3, and vanilla JS).",
+      "license": "MIT",
+      "repository": "https://github.com/Makio64/ultra-text",
+      "npmUrl": "https://www.npmjs.com/package/ultra-text",
+      "category": "frontend",
+      "createdAt": "2026-11-13T20:34:41.144Z",
+      "discoveredAt": "2026-11-14T02:57:50.689Z",
+      "score": 92
     },
     {
       "name": "ultrapi",
