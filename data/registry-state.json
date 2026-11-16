@@ -1,12 +1,52 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 144675899,
-  "lastRunAt": "2026-11-15T02:29:05.746Z",
+  "lastSequence": 144859395,
+  "lastRunAt": "2026-11-16T02:38:58.158Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@maxlee/dsh-token-receipt",
-      "attempts": 2
+      "attempts": 3
+    },
+    {
+      "name": "@nopilot/schema-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@nopilot/media-meta-engine",
+      "attempts": 1
+    },
+    {
+      "name": "@apexhub/apex-ui-vue",
+      "attempts": 1
+    },
+    {
+      "name": "@nopilot/tabular-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@aiyazone/tokens",
+      "attempts": 1
+    },
+    {
+      "name": "@cataworks/cata-cli",
+      "attempts": 1
+    },
+    {
+      "name": "@nopilot/schema-diff-engine",
+      "attempts": 1
+    },
+    {
+      "name": "@nopilot/tabular-engine",
+      "attempts": 1
+    },
+    {
+      "name": "@aiyazone/design-system",
+      "attempts": 1
+    },
+    {
+      "name": "@nopilot/media-meta-mcp",
+      "attempts": 1
     }
   ]
 }

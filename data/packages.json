@@ -9410,6 +9410,18 @@
       "score": 98
     },
     {
+      "name": "@biolibs/assembly2",
+      "version": "1.0.0",
+      "description": "The assembly engine of pydna, verified against it: Gibson, In-Fusion, fusion PCR, in-vivo assembly, ligation, Golden Gate and PCR, each product carrying a record of how it was made (pydna.assembly2)",
+      "license": "MIT",
+      "repository": "https://github.com/matthewlovestocode/biolibs",
+      "npmUrl": "https://www.npmjs.com/package/%40biolibs%2Fassembly2",
+      "category": "data",
+      "createdAt": "2026-11-15T16:58:15.134Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 99
+    },
+    {
       "name": "@biolibs/dseq",
       "version": "1.0.0",
       "description": "Double-stranded DNA whose ends are part of the molecule, verified against pydna: sticky ends that refuse to ligate wrongly, cutting, end chemistry, melting, circles, and pydna's own Seq and ProteinSeq",
@@ -9434,6 +9446,18 @@
       "score": 98
     },
     {
+      "name": "@biolibs/entrez",
+      "version": "1.0.0",
+      "description": "NCBI E-utilities client, verified against Biopython: efetch, esearch, esummary, elink, epost, einfo, espell and ecitmatch build the same requests, with the same rate limit and retries (Bio.Entrez)",
+      "license": "MIT",
+      "repository": "https://github.com/matthewlovestocode/biolibs",
+      "npmUrl": "https://www.npmjs.com/package/%40biolibs%2Fentrez",
+      "category": "data",
+      "createdAt": "2026-11-15T03:27:54.525Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 99
+    },
+    {
       "name": "@biolibs/motifs",
       "version": "1.0.0",
       "description": "Sequence motifs, verified against Biopython: position matrices from counts to log-odds, scanning both strands, score thresholds, and eleven formats in including JASPAR, TRANSFAC, MEME and MAST (Bio.motifs)",
@@ -9456,6 +9480,18 @@
       "createdAt": "2026-11-15T01:47:08.764Z",
       "discoveredAt": "2026-11-15T02:29:05.746Z",
       "score": 100
+    },
+    {
+      "name": "@biolibs/pdblist",
+      "version": "1.0.0",
+      "description": "Protein Data Bank downloads, verified against Biopython: structure and assembly files fetched and decompressed, and the archive's entry, obsolete and weekly-change lists (Bio.PDB.PDBList)",
+      "license": "MIT",
+      "repository": "https://github.com/matthewlovestocode/biolibs",
+      "npmUrl": "https://www.npmjs.com/package/%40biolibs%2Fpdblist",
+      "category": "data",
+      "createdAt": "2026-11-15T14:55:33.689Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 98
     },
     {
       "name": "@biolibs/phylo",
@@ -36746,6 +36782,18 @@
       "score": 94
     },
     {
+      "name": "@kasabaileys/baileys",
+      "version": "2.0.2",
+      "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
+      "license": "MIT",
+      "repository": "https://github.com/kasabaileys/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40kasabaileys%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-09-30T20:04:36.685Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 93
+    },
+    {
       "name": "@kasanie_laski/omni-notifier",
       "version": "0.1.0",
       "description": "Unified notification lib, worked with Pachca, Telegram and Discord. No deps, only native fetch",
@@ -39755,6 +39803,30 @@
       "category": "build-tools",
       "createdAt": "2026-10-28T04:52:57.339Z",
       "discoveredAt": "2026-10-29T02:14:49.544Z",
+      "score": 90
+    },
+    {
+      "name": "@link-foundation/gh-manager",
+      "version": "1.5.1",
+      "description": "Browser-automation CLI for GitHub operations the REST and GraphQL APIs do not expose, starting with package visibility, deletion, and permissions",
+      "license": "Unlicense",
+      "repository": "https://github.com/link-foundation/gh-manager",
+      "npmUrl": "https://www.npmjs.com/package/%40link-foundation%2Fgh-manager",
+      "category": "testing",
+      "createdAt": "2026-11-15T10:42:30.147Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 92
+    },
+    {
+      "name": "@link-foundation/ui-components",
+      "version": "0.0.0",
+      "description": "Components of the associative UI framework written in Links Notation: basic controls (button, text, number and colour fields, checkbox, radio group, switch, slider, select, combobox, progress as a bar or a ring, badge, avatar, chip, accordion) on native e",
+      "license": "Unlicense",
+      "repository": "https://github.com/link-foundation/ui",
+      "npmUrl": "https://www.npmjs.com/package/%40link-foundation%2Fui-components",
+      "category": "data",
+      "createdAt": "2026-11-15T11:00:21.878Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
       "score": 90
     },
     {
@@ -55862,6 +55934,18 @@
       "score": 77
     },
     {
+      "name": "@raqeebspace/spec-writer",
+      "version": "1.0.1",
+      "description": "Software specification and product documentation chain: MRD, BRD, PRD, Design Spec, SRS, TRD, and QA Test Plan, built on ISO/IEC/IEEE 29148, 29119-3, 25010, BABOK v3, and WCAG 2.2. Installs into Claude Code, Cursor, Copilot, or any AGENTS.md agent, and pr",
+      "license": "MIT",
+      "repository": "https://github.com/raqeebspace/spec-writer",
+      "npmUrl": "https://www.npmjs.com/package/%40raqeebspace%2Fspec-writer",
+      "category": "testing",
+      "createdAt": "2026-11-16T01:10:20.709Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 100
+    },
+    {
       "name": "@ratel-ai/cloud-sdk",
       "version": "0.2.0",
       "description": "Management & supervised self-improvement client for Ratel Cloud — catalog writes, intent analysis, and skill-suggestion review over the cloud API, plus the OpenTelemetry destination on /otel. Dependency-free at the root; pure HTTP, no native addon.",
@@ -60470,6 +60554,18 @@
       "score": 54
     },
     {
+      "name": "@shazmoghaddam/orbs",
+      "version": "1.7.0",
+      "description": "Twenty morphing dot animations for the web, with a lines style, glow, sound, named states and a desk display. One file, no dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/ShazMoghaddam/orbs",
+      "npmUrl": "https://www.npmjs.com/package/%40shazmoghaddam%2Forbs",
+      "category": "frontend",
+      "createdAt": "2026-11-15T11:06:37.125Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 93
+    },
+    {
       "name": "@shbernal/ts-pptx",
       "version": "0.0.1",
       "description": "Create PowerPoint presentations (.pptx) from TypeScript and modern JavaScript",
@@ -60552,6 +60648,18 @@
       "createdAt": "2026-08-26T07:31:04.178Z",
       "discoveredAt": "2026-08-26T13:06:22.803Z",
       "score": 89
+    },
+    {
+      "name": "@shieldaai/agent-guard-adapters",
+      "version": "1.2.0",
+      "description": "Connect Agent Guard to model providers and agent frameworks: one dispatcher, an approval queue, tool schemas, policies and telemetry hooks. No third-party runtime dependencies.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ShieldaAI/agent-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40shieldaai%2Fagent-guard-adapters",
+      "category": "devops",
+      "createdAt": "2026-11-15T22:24:30.322Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 97
     },
     {
       "name": "@shieldlabs-ai/next",
@@ -63936,6 +64044,18 @@
       "createdAt": "2026-07-29T21:06:27.619Z",
       "discoveredAt": "2026-07-29T21:38:30.710Z",
       "score": 57
+    },
+    {
+      "name": "@studiocoders/webhook-verifier",
+      "version": "1.0.0",
+      "description": "Ultra-fast, zero-dependency, timing-safe HMAC-SHA256 webhook signature verifier for Meta, WhatsApp Cloud API, Stripe, and generic webhooks on Next.js, Edge Runtimes, and Node.js.",
+      "license": "MIT",
+      "repository": "https://github.com/studiocoders-dev/webhook-verifier",
+      "npmUrl": "https://www.npmjs.com/package/%40studiocoders%2Fwebhook-verifier",
+      "category": "backend",
+      "createdAt": "2026-11-15T03:24:15.534Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 94
     },
     {
       "name": "@studyzy/dsh-web-remote-access",
@@ -68388,6 +68508,18 @@
       "createdAt": "2026-08-06T08:26:51.781Z",
       "discoveredAt": "2026-08-06T10:57:10.940Z",
       "score": 84
+    },
+    {
+      "name": "@tuttidaw/tutticode-player",
+      "version": "1.2.0",
+      "description": "Embed the TuttiCode player (a live-coding music card) in any web page: a <tuttidaw-code> custom element, React and Vue wrappers, and the postMessage protocol.",
+      "license": "MIT",
+      "repository": "https://github.com/tuttidaw/tutticode-player",
+      "npmUrl": "https://www.npmjs.com/package/%40tuttidaw%2Ftutticode-player",
+      "category": "frontend",
+      "createdAt": "2026-11-15T11:55:13.973Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 91
     },
     {
       "name": "@tw1934/braces-custom",
@@ -80534,6 +80666,18 @@
       "score": 100
     },
     {
+      "name": "avatarsay-mcp",
+      "version": "1.2.0",
+      "description": "Zero-dependency MCP stdio bridge and manifest for AvatarSay (https://avatarsay.com/mcp) — roll tabletop RPG NPCs (SillyTavern V2 & Foundry VTT JSON), import stylized character illustrations, render <3s MP3 voice barks, and generate fictional character por",
+      "license": "MIT",
+      "repository": "https://github.com/fourgit/avatarsay-mcp",
+      "npmUrl": "https://www.npmjs.com/package/avatarsay-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-15T15:05:24.211Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 92
+    },
+    {
       "name": "avatarstack",
       "version": "1.0.1",
       "description": "Pluggable, layered avatar generator — stack interchangeable parts from community-contributed schemes, crop to square/rounded/circle, and share any avatar as a short code.",
@@ -81782,6 +81926,18 @@
       "score": 87
     },
     {
+      "name": "blendops",
+      "version": "1.0.0",
+      "description": "AI-native Blender workflow, knowledge catalog, and portable skill pack for non-Blender users. Ships 48 Anthropic Skills, 4 hard guardrail laws, 10 canonical recipes, deterministic SceneSpec/ExecutionPlan compilation, MCP runtime qualification, GLB inspect",
+      "license": "MIT",
+      "repository": "https://github.com/ThanhNguyxnOrg/blendops",
+      "npmUrl": "https://www.npmjs.com/package/blendops",
+      "category": "devops",
+      "createdAt": "2026-11-15T06:35:03.314Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 100
+    },
+    {
       "name": "blind-panel",
       "version": "0.1.0",
       "description": "Blind pairwise evaluation — seeded blinding, position-bias detection, and inter-rater agreement. The win rate is the number that means least.",
@@ -82236,6 +82392,18 @@
       "createdAt": "2026-08-06T13:20:20.407Z",
       "discoveredAt": "2026-08-06T15:06:30.900Z",
       "score": 90
+    },
+    {
+      "name": "brainu",
+      "version": "1.0.0",
+      "description": "A persistent, incremental code-intelligence 'brain' for AI coding agents (Claude Code, Amazon Q, etc). Builds a queryable symbol graph + local vector index per repo so agents never have to re-scan the whole project.",
+      "license": "UNLICENSED",
+      "repository": "https://github.com/Ravikiranm795/AI-brain",
+      "npmUrl": "https://www.npmjs.com/package/brainu",
+      "category": "build-tools",
+      "createdAt": "2026-11-15T09:47:44.076Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 100
     },
     {
       "name": "bramo-verify",
@@ -101690,6 +101858,18 @@
       "score": 88
     },
     {
+      "name": "homebridge-mertik-wifi-fireplace",
+      "version": "1.0.0",
+      "description": "Reliable HomeKit control for Mertik Maxitrol WiFi gas fireplaces: verified on/off, flame height, boost burner, thermostat, child lock, and shutdown-failure and left-on alerts.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/andybyrne55/homebridge-mertik-wifi-fireplace",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-mertik-wifi-fireplace",
+      "category": "utilities",
+      "createdAt": "2026-11-15T20:18:17.092Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 93
+    },
+    {
       "name": "homebridge-mitsubishi-heatpump",
       "version": "2.0.1",
       "description": "Homebridge plugin for Mitsubishi ductless heat pumps (MLZ/MSZ) over the Mitsubishi Comfort v3 API, with local LAN control, fan speed and vane control",
@@ -106116,6 +106296,18 @@
       "createdAt": "2026-08-13T20:58:59.975Z",
       "discoveredAt": "2026-08-13T21:24:55.034Z",
       "score": 58
+    },
+    {
+      "name": "lemo-opuscar-for-agents",
+      "version": "2.1.0",
+      "description": "Lemo Opuscar for Agents: code-rendered film styles and shared Agent Skill for Antigravity, Gemini CLI, Codex CLI, OpenCode, GitHub Copilot, and Claude Code (fork of Lemo-Opuscar by Lemomo / LemoLab).",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/Maor-404/lemo-opuscar-for-agents",
+      "npmUrl": "https://www.npmjs.com/package/lemo-opuscar-for-agents",
+      "category": "testing",
+      "createdAt": "2026-11-15T18:47:53.875Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 99
     },
     {
       "name": "lensglass",
@@ -114374,6 +114566,18 @@
       "score": 97
     },
     {
+      "name": "node-red-contrib-ai-agents",
+      "version": "1.0.0",
+      "description": "Visual AI agents for Node-RED: Agent, Tool and Tool Return nodes built on LangChain.js and LangGraph, with DeepSeek, OpenAI, Anthropic, Gemini and OpenRouter models, conversation memory and MCP tools",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/asielh1n1/mode-red-contrib-ai-agent",
+      "npmUrl": "https://www.npmjs.com/package/node-red-contrib-ai-agents",
+      "category": "utilities",
+      "createdAt": "2026-11-15T06:29:58.874Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 99
+    },
+    {
       "name": "node-red-contrib-gx-ble",
       "version": "0.1.0",
       "description": "BLE device discovery and battery/BMS status nodes for Node-RED on Victron Venus OS (Cerbo GX) and any Linux with BlueZ — pure JS over D-Bus, no root, no compiled code",
@@ -115694,6 +115898,18 @@
       "score": 83
     },
     {
+      "name": "omp-opencode-bridge",
+      "version": "2.6.0",
+      "description": "OpenCode free-tier models for OMP/pi: a local OpenAI-compatible bridge (no account required) plus the keyless provider plugin",
+      "license": "MIT",
+      "repository": "https://github.com/yayayapluto/omp-opencode-bridge",
+      "npmUrl": "https://www.npmjs.com/package/omp-opencode-bridge",
+      "category": "utilities",
+      "createdAt": "2026-11-16T01:36:43.153Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 92
+    },
+    {
       "name": "omp-qol-plugin",
       "version": "0.3.1",
       "description": "Quality-of-life plugin for the omp (Oh My Pi) coding agent: agent goal tool + agent-controlled plan/vibe modes + agent-facing advisor (WATCHDOG) management",
@@ -116088,6 +116304,18 @@
       "createdAt": "2026-07-29T07:24:31.615Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 85
+    },
+    {
+      "name": "open-worship-app-mcp",
+      "version": "2026.11.15",
+      "description": "The Open Worship App's MCP server: lets an AI agent see and drive the running app (Chrome DevTools tools aimed at it plus the app’s own owa_* tools, behind its firewall), with the app’s manual and language data.",
+      "license": "SEE LICENSE IN LICENSE.txt",
+      "repository": "https://github.com/OpenWorshipApp/open-worship-app-dt",
+      "npmUrl": "https://www.npmjs.com/package/open-worship-app-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-15T22:59:04.465Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 96
     },
     {
       "name": "openaeo-audit",
@@ -124562,6 +124790,18 @@
       "score": 80
     },
     {
+      "name": "react-native-live-widgets",
+      "version": "1.0.0",
+      "description": "All-in-One Live Activities (iOS 16.1+ WidgetKit / Dynamic Island), Live Updates (Android 16+ ProgressStyle) and Interactive Multi-Page Home Screen Widgets for React Native with Declarative Dynamic UI Engine",
+      "license": "MIT",
+      "repository": "https://github.com/React-Native-Vu/react-native-live-widgets",
+      "npmUrl": "https://www.npmjs.com/package/react-native-live-widgets",
+      "category": "frontend",
+      "createdAt": "2026-11-15T17:43:10.648Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 95
+    },
+    {
       "name": "react-native-loading-kit",
       "version": "1.0.0",
       "description": "Modern, zero-dependency loading toolkit for React Native: spinners, dots, pulse, wave, orbit, grid, flip, skeletons, progress bars, loading buttons, overlays and a global useLoading() hook.",
@@ -125304,6 +125544,18 @@
       "createdAt": "2026-09-01T17:36:13.486Z",
       "discoveredAt": "2026-09-02T04:11:29.789Z",
       "score": 94
+    },
+    {
+      "name": "react-responsive-datatable-kit",
+      "version": "3.0.0",
+      "description": "Responsive React data table with static and server data, search, sorting, pagination, selection and Persian/RTL support.",
+      "license": "MIT",
+      "repository": "https://github.com/fatemeh-bd/responsive-react-datatable",
+      "npmUrl": "https://www.npmjs.com/package/react-responsive-datatable-kit",
+      "category": "frontend",
+      "createdAt": "2026-11-15T18:21:31.721Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 92
     },
     {
       "name": "react-rotary-fab",
@@ -128531,6 +128783,18 @@
       "category": "backend",
       "createdAt": "2026-09-11T03:54:00.154Z",
       "discoveredAt": "2026-09-11T04:20:53.293Z",
+      "score": 100
+    },
+    {
+      "name": "seo-pro",
+      "version": "3.0.0",
+      "description": "SEO skill for Claude Code: technical SEO audits, keyword maps, AI search (GEO) and AI crawler policy, Core Web Vitals, Search Console analysis and a regression gate for any website, niche, country or language.",
+      "license": "MIT",
+      "repository": "https://github.com/alinbarla/seo-pro",
+      "npmUrl": "https://www.npmjs.com/package/seo-pro",
+      "category": "data",
+      "createdAt": "2026-11-15T14:25:32.673Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
       "score": 100
     },
     {
@@ -137606,6 +137870,18 @@
       "score": 75
     },
     {
+      "name": "vinays-coding-bot",
+      "version": "1.0.0",
+      "description": "Vinay's Coding Bot - Autonomous AI competitive programming solver with Gemini AI across LeetCode, Codeforces, HackerRank, CodeChef, and HackerEarth",
+      "license": "MIT",
+      "repository": "https://github.com/Vinay-711/autonomous-coding-bot",
+      "npmUrl": "https://www.npmjs.com/package/vinays-coding-bot",
+      "category": "utilities",
+      "createdAt": "2026-11-15T09:32:26.835Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 92
+    },
+    {
       "name": "vintage-frames",
       "version": "0.1.0",
       "description": "Lit web components that emulate the look and feel of classic Mac OS System 7",
@@ -138614,6 +138890,18 @@
       "score": 74
     },
     {
+      "name": "wavical",
+      "version": "1.0.0",
+      "description": "A lightweight, security-first, AI-native desktop app framework built in Rust using OS WebView2, capability-gated IPC, optional sandboxed Node.js backends, and signed auto-updates.",
+      "license": "MIT OR Apache-2.0",
+      "repository": "https://github.com/dhananjay-ryu-jin-sama/Wavical",
+      "npmUrl": "https://www.npmjs.com/package/wavical",
+      "category": "backend",
+      "createdAt": "2026-11-15T06:02:59.608Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 97
+    },
+    {
       "name": "waycontext",
       "version": "0.3.1",
       "description": "Engineering intelligence for AI coding agents: indexes a codebase into symbols, a relationship graph and vector embeddings, and serves it over MCP",
@@ -138780,6 +139068,18 @@
       "createdAt": "2026-08-13T04:51:14.594Z",
       "discoveredAt": "2026-08-13T05:45:12.412Z",
       "score": 79
+    },
+    {
+      "name": "web-forager",
+      "version": "1.3.0",
+      "description": "Clean-room, robots-aware web information gathering: multi-engine search, HTML/PDF/Office/feed extraction, Bilibili/Zhihu/Xiaohongshu/WeChat reading, sitemaps and resumable surfing, plus a browser mode with eight read-only playbooks. CLI + two MCP servers.",
+      "license": "MIT",
+      "repository": "https://github.com/JiamingShi-JsPhys/web-forager",
+      "npmUrl": "https://www.npmjs.com/package/web-forager",
+      "category": "testing",
+      "createdAt": "2026-11-16T02:00:44.328Z",
+      "discoveredAt": "2026-11-16T02:38:58.158Z",
+      "score": 100
     },
     {
       "name": "web-liquid-glass",
