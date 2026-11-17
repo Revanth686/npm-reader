@@ -2498,6 +2498,18 @@
       "score": 94
     },
     {
+      "name": "@ai-et-al/symposium",
+      "version": "0.9.2",
+      "description": "Multi-model deliberation as an MCP server. Convene Claude, GPT, Gemini, Grok, DeepSeek, and Qwen — plus retained seats held by your own subscription CLIs — on one question; surface disagreement verbatim; write every deliberation to a plain-Markdown ledger",
+      "license": "AGPL-3.0-only",
+      "repository": "https://github.com/AI-et-al/symposium",
+      "npmUrl": "https://www.npmjs.com/package/%40ai-et-al%2Fsymposium",
+      "category": "backend",
+      "createdAt": "2026-11-16T22:12:39.405Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 90
+    },
+    {
       "name": "@ai-gui/plugin-dashboard",
       "version": "0.30.0",
       "description": "BI dashboard plugin for AIGUI — a grid of panels, each a table + ECharts chart + provenance, with per-panel refusals. The host writes every number; the model only proposes the layout.",
@@ -5474,6 +5486,18 @@
       "score": 92
     },
     {
+      "name": "@andygo.dev/hydra-onix-mcp",
+      "version": "1.0.0",
+      "description": "Hydra Onix MCP for any coding agent: a local stdio proxy to the Hydra Projects MCP server with a one-time web-session browser login through a dedicated Chrome window and silent token refresh.",
+      "license": "MIT",
+      "repository": "https://github.com/andygo-develop/hydra-onix-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40andygo.dev%2Fhydra-onix-mcp",
+      "category": "frontend",
+      "createdAt": "2026-11-16T12:46:41.240Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 97
+    },
+    {
       "name": "@andygo.dev/nestjs-harness",
       "version": "1.0.0",
       "description": "Local AI development harness for NestJS projects: version-aware manual sync, SQLite/FTS5 search, a NestJS Claude Code Skill, and an MCP server.",
@@ -5520,6 +5544,18 @@
       "createdAt": "2026-09-12T19:47:35.564Z",
       "discoveredAt": "2026-09-13T04:32:59.175Z",
       "score": 87
+    },
+    {
+      "name": "@angkasabaileys/baileys",
+      "version": "1.0.1",
+      "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
+      "license": "MIT",
+      "repository": "https://github.com/angkasabaileys/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40angkasabaileys%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-11-17T04:24:23.747Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 93
     },
     {
       "name": "@angular-libs/socket",
@@ -15518,6 +15554,18 @@
       "score": 79
     },
     {
+      "name": "@danneleung/dsh-multi-key-rotation",
+      "version": "1.0.0",
+      "description": "Give a MiniMax Token Plan route several named API keys and let the plugin rotate between them by remaining quota, with a quota-aware settings tab for DeepSeek Harness.",
+      "license": "MIT",
+      "repository": "https://github.com/DanneLeung/dsh-multi-key-rotation",
+      "npmUrl": "https://www.npmjs.com/package/%40danneleung%2Fdsh-multi-key-rotation",
+      "category": "backend",
+      "createdAt": "2026-11-16T11:16:40.024Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 96
+    },
+    {
       "name": "@danqiusheng/nest-nacos",
       "version": "1.0.0",
       "description": "NestJS Nacos 插件 - 服务发现 + 配置中心（基于 nacos-sdk-nodejs，支持 gRPC / Nacos 2.x & 3.x）",
@@ -22152,6 +22200,18 @@
       "createdAt": "2026-07-26T10:04:15.403Z",
       "discoveredAt": "2026-07-26T10:13:09.416Z",
       "score": 87
+    },
+    {
+      "name": "@fg-lab/dsh-mneme",
+      "version": "0.17.1",
+      "description": "Cross-session memory plugin for DeepSeek Harness with autoDream consolidation: SQLite store, Markdown mirrors, 10 model tools, automatic injection, session summarization, user profile/rules, custom slash commands, vector (semantic) search, and a Web GUI p",
+      "license": "MIT",
+      "repository": "https://github.com/jeskoky-pixel/mneme-Amadeus",
+      "npmUrl": "https://www.npmjs.com/package/%40fg-lab%2Fdsh-mneme",
+      "category": "data",
+      "createdAt": "2026-11-16T16:09:14.735Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 90
     },
     {
       "name": "@fiberlatch/access",
@@ -29978,6 +30038,18 @@
       "score": 78
     },
     {
+      "name": "@gunsnprices/node-red-gunsnprices",
+      "version": "1.0.0",
+      "description": "Node-RED node that parses gun and ammo product titles into brand, model, caliber, magazine capacity, barrel length, rounds per box and cost per round, and normalizes caliber names.",
+      "license": "MIT",
+      "repository": "https://github.com/gunsnprices/node-red-gunsnprices",
+      "npmUrl": "https://www.npmjs.com/package/%40gunsnprices%2Fnode-red-gunsnprices",
+      "category": "data",
+      "createdAt": "2026-11-16T10:56:42.718Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 91
+    },
+    {
       "name": "@gurdy/sdk",
       "version": "0.1.0",
       "description": "Provenance enrichment for governed agent traffic — the on-ramp to gurdy-proxy.",
@@ -32642,6 +32714,18 @@
       "score": 74
     },
     {
+      "name": "@hzrd149/opencode-remote-code",
+      "version": "3.0.1",
+      "description": "OpenCode plugin that lets AI agents edit and run commands on a remote machine over SSH — Windows (OpenSSH + PowerShell) or POSIX — with zero footprint on the remote side",
+      "license": "MIT",
+      "repository": "https://github.com/hzrd149/opencode-remote-code",
+      "npmUrl": "https://www.npmjs.com/package/%40hzrd149%2Fopencode-remote-code",
+      "category": "cli",
+      "createdAt": "2026-11-16T14:20:25.741Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 92
+    },
+    {
       "name": "@i-xor/amc",
       "version": "1.1.0",
       "description": "Manage shared Agent Skills from one local store.",
@@ -33084,6 +33168,18 @@
       "createdAt": "2026-08-07T11:29:09.047Z",
       "discoveredAt": "2026-08-07T11:31:28.775Z",
       "score": 69
+    },
+    {
+      "name": "@ifc-lite/site-context",
+      "version": "0.1.0",
+      "description": "Site context as data for Swiss projects: swissALTI3D terrain, the cadastral parcel and neighbouring swissBUILDINGS3D buildings around a georeferenced model, in one EPSG:2056 frame, as a self-describing GLB",
+      "license": "MPL-2.0",
+      "repository": "https://github.com/LTplus-AG/ifc-lite",
+      "npmUrl": "https://www.npmjs.com/package/%40ifc-lite%2Fsite-context",
+      "category": "data",
+      "createdAt": "2026-11-16T11:43:26.779Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 90
     },
     {
       "name": "@ignex/nova",
@@ -42444,6 +42540,18 @@
       "createdAt": "2026-08-05T15:23:44.984Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 90
+    },
+    {
+      "name": "@marlenesco/italian-cap-comuni-province",
+      "version": "1.2.1",
+      "description": "Maintained fork of italian-cap-comuni-province: Italian municipalities, provinces, postal codes, search and autocomplete",
+      "license": "MIT",
+      "repository": "https://github.com/marlenesco/italian-cap-comuni-province",
+      "npmUrl": "https://www.npmjs.com/package/%40marlenesco%2Fitalian-cap-comuni-province",
+      "category": "build-tools",
+      "createdAt": "2026-11-16T11:30:29.473Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 92
     },
     {
       "name": "@maroffo/pi-forge",
@@ -55382,6 +55490,18 @@
       "score": 85
     },
     {
+      "name": "@quanxs/sadt-mcp",
+      "version": "4.1.0",
+      "description": "SADT (Stella Actuation Document Transfer): Zero-dependency Python MCP server and converter for Korean HWP v5.0, HWPX (OWPML), DOCX, XLSX, PDF, HTML, Markdown, and CSV with 3-way Equation AST.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Team-Sequence-Thaumaturge/-document-IR",
+      "npmUrl": "https://www.npmjs.com/package/%40quanxs%2Fsadt-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-16T23:45:27.705Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 99
+    },
+    {
       "name": "@qubiqlabs/mobiflow",
       "version": "0.2.0",
       "description": "CLI: NL → Maestro mobile flows via LLM, run on device/emulator, self-heal. (npm wrapper for the Python package)",
@@ -56004,6 +56124,18 @@
       "createdAt": "2026-08-01T19:18:07.762Z",
       "discoveredAt": "2026-08-01T20:08:31.863Z",
       "score": 74
+    },
+    {
+      "name": "@rawenergon/skills",
+      "version": "1.0.0",
+      "description": "Universal AI Agent Skills Collection & CLI - 46+ Production-Ready Skills for Antigravity, Claude Code, Cursor, Codex, and Swarms",
+      "license": "MIT",
+      "repository": "https://github.com/rawenergon/skill",
+      "npmUrl": "https://www.npmjs.com/package/%40rawenergon%2Fskills",
+      "category": "cli",
+      "createdAt": "2026-11-16T14:07:31.314Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 92
     },
     {
       "name": "@rawphp/terminal-pane",
@@ -60660,6 +60792,18 @@
       "createdAt": "2026-11-15T22:24:30.322Z",
       "discoveredAt": "2026-11-16T02:38:58.158Z",
       "score": 97
+    },
+    {
+      "name": "@shieldaai/agent-guard-check",
+      "version": "1.3.0",
+      "description": "Static scanner for AI agent configuration: shows what each agent in a repo can do, flags authority it does not need, and reports what a pull request widened.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/ShieldaAI/agent-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40shieldaai%2Fagent-guard-check",
+      "category": "cli",
+      "createdAt": "2026-11-16T22:16:52.653Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 95
     },
     {
       "name": "@shieldlabs-ai/next",
@@ -70226,6 +70370,18 @@
       "score": 84
     },
     {
+      "name": "@vedant-tawde/cachekit",
+      "version": "1.0.0",
+      "description": "Lightweight, robust in-memory caching engine with LRU eviction, TTL expiration, async memoization, request deduplication, and Express middleware.",
+      "license": "MIT",
+      "repository": "https://github.com/Vedant-Tawde/cachekit",
+      "npmUrl": "https://www.npmjs.com/package/%40vedant-tawde%2Fcachekit",
+      "category": "backend",
+      "createdAt": "2026-11-16T19:16:03.048Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 94
+    },
+    {
       "name": "@veilio-inc/engine",
       "version": "1.0.1",
       "description": "Two-way code anonymizer: replace real identifiers with __P1__ tokens before sending source code to an LLM, restore them afterward. Pure, local, no network, no telemetry, zero runtime dependencies.",
@@ -71016,6 +71172,30 @@
       "createdAt": "2026-08-26T22:49:34.970Z",
       "discoveredAt": "2026-09-06T04:18:36.902Z",
       "score": 100
+    },
+    {
+      "name": "@vol-a/client",
+      "version": "1.1.1",
+      "description": "JSVola client SDK: a fetch-based, dependency-light client for the @vol-a/server API — files, folders, resumable uploads, shares, keyrings, stats — for Node 24+ and browsers.",
+      "license": "MIT",
+      "repository": "https://github.com/digital-cube/jsvola",
+      "npmUrl": "https://www.npmjs.com/package/%40vol-a%2Fclient",
+      "category": "frontend",
+      "createdAt": "2026-11-16T22:45:49.414Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 93
+    },
+    {
+      "name": "@vol-a/react",
+      "version": "1.1.1",
+      "description": "JSVola React UI: VolaProvider, a live file browser on @jsudc/react, uploads with resumable progress, thumbnails, the keyring PIN gate with auto-lock, and the share dialog.",
+      "license": "MIT",
+      "repository": "https://github.com/digital-cube/jsvola",
+      "npmUrl": "https://www.npmjs.com/package/%40vol-a%2Freact",
+      "category": "frontend",
+      "createdAt": "2026-11-16T22:46:00.132Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 91
     },
     {
       "name": "@volter/twin-ai-gateway",
@@ -74942,6 +75122,18 @@
       "score": 99
     },
     {
+      "name": "@zealakit/overlay-vanilla",
+      "version": "1.0.0",
+      "description": "A lightweight foundation for building floating, layered, and interactive headless UI components for vanilla JavaScript and TypeScript.",
+      "license": "MIT",
+      "repository": "https://github.com/zealakit/overlay",
+      "npmUrl": "https://www.npmjs.com/package/%40zealakit%2Foverlay-vanilla",
+      "category": "frontend",
+      "createdAt": "2026-11-16T10:23:15.823Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 93
+    },
+    {
       "name": "@zee-css/core",
       "version": "1.0.0",
       "description": "A TypeScript-based CSS utility library that generates CSS programmatically from utility class patterns — like Tailwind CSS but fully programmable",
@@ -77772,6 +77964,18 @@
       "createdAt": "2026-09-08T11:35:51.679Z",
       "discoveredAt": "2026-09-08T16:30:52.786Z",
       "score": 96
+    },
+    {
+      "name": "agy-loop",
+      "version": "1.0.0",
+      "description": "Non-blocking /agy-loop:loop scheduler for Antigravity Desktop & CLI — recurring prompts, adaptive self-pacing, isolated subagents, and live-reloading loop.md.",
+      "license": "MIT",
+      "repository": "https://github.com/maxlee/agy-loop",
+      "npmUrl": "https://www.npmjs.com/package/agy-loop",
+      "category": "cli",
+      "createdAt": "2026-11-17T00:43:06.841Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 91
     },
     {
       "name": "agy-telegram",
@@ -87398,6 +87602,18 @@
       "score": 70
     },
     {
+      "name": "crazy-claude",
+      "version": "1.0.0",
+      "description": "Supercharge Claude Code. Automatically. Analyzes your project and configures Claude Code with relevant plugins, MCP servers, skills, agents, hooks and CLAUDE.md.",
+      "license": "MIT",
+      "repository": "https://github.com/rameezrahman17/crazy-claude",
+      "npmUrl": "https://www.npmjs.com/package/crazy-claude",
+      "category": "backend",
+      "createdAt": "2026-11-16T18:48:22.169Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 92
+    },
+    {
       "name": "create-accordo",
       "version": "0.0.1",
       "description": "Scaffolding entry point for Accordo — the open-source framework coding agents use to build custom CRMs. Name reserved; the framework lives at github.com/khaoss85/agent-crm.",
@@ -90384,6 +90600,18 @@
       "createdAt": "2026-08-03T14:36:08.427Z",
       "discoveredAt": "2026-08-03T15:32:57.343Z",
       "score": 80
+    },
+    {
+      "name": "dot-react-comment-lib",
+      "version": "1.0.1",
+      "description": "High-performance, ultra-customizable nested threaded comments component library for React and Next.js built with MUI, React Hook Form, and Emoji Picker",
+      "license": "MIT",
+      "repository": "https://github.com/iamsumitkumar64/dot-react-comment-lib",
+      "npmUrl": "https://www.npmjs.com/package/dot-react-comment-lib",
+      "category": "frontend",
+      "createdAt": "2026-08-17T05:55:50.161Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 95
     },
     {
       "name": "double-entry-ledger",
@@ -95402,6 +95630,18 @@
       "score": 71
     },
     {
+      "name": "eleventy-plugin-gunsnprices",
+      "version": "1.0.0",
+      "description": "Eleventy filters and a shortcode for gun and ammo sites: caliber names, cost per round and product specs from a listing title. Powered by the GunsNPrices parser.",
+      "license": "MIT",
+      "repository": "https://github.com/gunsnprices/eleventy-plugin-gunsnprices",
+      "npmUrl": "https://www.npmjs.com/package/eleventy-plugin-gunsnprices",
+      "category": "utilities",
+      "createdAt": "2026-11-16T10:54:32.614Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 96
+    },
+    {
       "name": "eleventy-plugin-mermaid-build",
       "version": "0.2.0",
       "description": "Eleventy plugin that renders Mermaid diagrams as accessible inline SVG at build time",
@@ -99036,6 +99276,18 @@
       "createdAt": "2026-10-16T04:18:37.800Z",
       "discoveredAt": "2026-10-17T01:11:24.478Z",
       "score": 94
+    },
+    {
+      "name": "fxguard",
+      "version": "1.0.0",
+      "description": "Security scanner for FiveM resources by FreshDev: interprocedural taint analysis of net events, backdoor and secret detection, HTML and SARIF reports. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/FreshlapeufDev/fxguard",
+      "npmUrl": "https://www.npmjs.com/package/fxguard",
+      "category": "devops",
+      "createdAt": "2026-11-16T20:44:27.583Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 96
     },
     {
       "name": "g8ldfish",
@@ -105146,6 +105398,18 @@
       "score": 84
     },
     {
+      "name": "keybrum-headers",
+      "version": "1.0.0",
+      "description": "Grade the HTTP security headers of any web address from A+ to F, on localhost, staging or production, and print the config that fixes them. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/tlouvart/keybrum-headers",
+      "npmUrl": "https://www.npmjs.com/package/keybrum-headers",
+      "category": "backend",
+      "createdAt": "2026-11-16T20:53:23.388Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 91
+    },
+    {
       "name": "keyframe-tailwind-plugin",
       "version": "1.0.1",
       "description": "animate.css as a Tailwind plugin with customizable animations and vendor prefixes",
@@ -108192,6 +108456,18 @@
       "createdAt": "2026-08-13T23:54:30.125Z",
       "discoveredAt": "2026-08-14T01:13:25.832Z",
       "score": 89
+    },
+    {
+      "name": "mandate-protocol",
+      "version": "1.0.0",
+      "description": "Signed orders for AI trading agents. Agents sign every order with their identity and the account holder's mandate; brokers verify for free. Reference implementation of Mandate Protocol draft 0.1.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/shamazkhan/mandate",
+      "npmUrl": "https://www.npmjs.com/package/mandate-protocol",
+      "category": "backend",
+      "createdAt": "2026-11-16T17:38:05.740Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 93
     },
     {
       "name": "manim-live-mcp",
@@ -132374,6 +132650,18 @@
       "score": 87
     },
     {
+      "name": "strapi-plugin-writesafe-mcp",
+      "version": "1.0.0",
+      "description": "Write-safe MCP tools for Strapi 5's built-in MCP server: version-checked patches, row-level dynamic-zone/component/blocks edits, all-or-nothing batches, idempotency keys, dry runs and structured conflicts; optional modules for bulk jobs, create/delete, fi",
+      "license": "MIT",
+      "repository": "https://github.com/isokron-ai/strapi-plugin-writesafe",
+      "npmUrl": "https://www.npmjs.com/package/strapi-plugin-writesafe-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-16T17:36:07.203Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 100
+    },
+    {
       "name": "strapi-plugin-youtube-transcripts",
       "version": "2.1.1",
       "description": "Fetch, store, search and read YouTube transcripts in Strapi. Works on its own, and exposes AI tools when strapi-plugin-ai-sdk is installed.",
@@ -134760,6 +135048,18 @@
       "createdAt": "2026-08-02T19:43:33.075Z",
       "discoveredAt": "2026-08-02T21:08:48.635Z",
       "score": 56
+    },
+    {
+      "name": "tinycache-kit",
+      "version": "1.0.0",
+      "description": "A lightweight, zero-dependency in-memory caching library for Node.js applications with TTL expiration, LRU eviction, cache statistics and Express middleware.",
+      "license": "MIT",
+      "repository": "https://github.com/SurajPatil1404/tinycache-kit",
+      "npmUrl": "https://www.npmjs.com/package/tinycache-kit",
+      "category": "backend",
+      "createdAt": "2026-11-16T18:35:33.082Z",
+      "discoveredAt": "2026-11-17T04:59:34.114Z",
+      "score": 95
     },
     {
       "name": "tinydecide",
