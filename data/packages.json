@@ -8390,6 +8390,18 @@
       "score": 89
     },
     {
+      "name": "@ayaojies/dsh-mobile-android-test",
+      "version": "1.7.0",
+      "description": "Upload a mobile APK, run it in a managed Android emulator inside the Harness page, mirror the screen, forward touch and keyboard input, and inspect decrypted HTTPS traffic like DevTools.",
+      "license": "MIT",
+      "repository": "https://github.com/ayaojies/dsh-mobile-android-test",
+      "npmUrl": "https://www.npmjs.com/package/%40ayaojies%2Fdsh-mobile-android-test",
+      "category": "testing",
+      "createdAt": "2026-11-19T02:32:16.605Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 89
+    },
+    {
       "name": "@aykansoft/aykan-builder",
       "version": "0.10.0",
       "description": "Reusable toolkit for building stateful AI agent ecosystems with persistent wiki-style memory, automated consolidation, and auditable decision records for Claude Code.",
@@ -11930,6 +11942,18 @@
       "score": 64
     },
     {
+      "name": "@caronex/typemark",
+      "version": "0.4.0",
+      "description": "Seamless Typora-style markdown editing engine with an AI review layer (suggested edits, agent notes, one thread per block, @ai instructions). Framework-free, markdown as the source of truth.",
+      "license": "MIT",
+      "repository": "https://github.com/Caronex-Labs/typemark",
+      "npmUrl": "https://www.npmjs.com/package/%40caronex%2Ftypemark",
+      "category": "utilities",
+      "createdAt": "2026-11-18T09:38:36.821Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 89
+    },
+    {
       "name": "@carrieros/cli",
       "version": "0.1.0",
       "description": "Carrier OS command-line interface — an interactive shell plus commands for the Carrier OS developer platform (chat, sessions, files, usage) over the public /v1 API.",
@@ -12540,6 +12564,18 @@
       "createdAt": "2026-10-22T11:58:04.705Z",
       "discoveredAt": "2026-10-23T01:21:14.453Z",
       "score": 93
+    },
+    {
+      "name": "@chartkitdev/core",
+      "version": "0.5.0",
+      "description": "Charts an agent can write and a server can render. One JSON spec, validate() and repair() that run locally, and SVG output with zero dependencies. Benchmarks, including the losses: https://chartkit.dev/benchmarks",
+      "license": "MIT",
+      "repository": "https://github.com/toddynho/chartkit",
+      "npmUrl": "https://www.npmjs.com/package/%40chartkitdev%2Fcore",
+      "category": "frontend",
+      "createdAt": "2026-11-18T21:50:53.755Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
     },
     {
       "name": "@chat-adapter/instagram",
@@ -14510,6 +14546,18 @@
       "score": 75
     },
     {
+      "name": "@coreidml/wasm",
+      "version": "0.0.4",
+      "description": "Create, read, edit and print Adobe InDesign IDML files in the browser, without InDesign and without a server: templates, XML, PDF export and import, in a Web Worker. WebAssembly, no native code.",
+      "license": "MIT",
+      "repository": "https://github.com/eduardpaul/CoreIdml",
+      "npmUrl": "https://www.npmjs.com/package/%40coreidml%2Fwasm",
+      "category": "frontend",
+      "createdAt": "2026-11-18T21:10:53.347Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 89
+    },
+    {
       "name": "@corespeed/skills",
       "version": "1.5.1",
       "description": "The open agent skills ecosystem CLI, CoreSpeed fork: install from several sources in one command, with --json output",
@@ -15108,6 +15156,18 @@
       "createdAt": "2026-09-22T23:55:48.130Z",
       "discoveredAt": "2026-09-23T04:31:37.319Z",
       "score": 87
+    },
+    {
+      "name": "@cryptorill/web-components",
+      "version": "1.0.0",
+      "description": "Framework-agnostic Web Components for crypto prices, markets, portfolios, and transactions. Built with Stencil.",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/DevHusariaSolutions/cryptorill-web-components",
+      "npmUrl": "https://www.npmjs.com/package/%40cryptorill%2Fweb-components",
+      "category": "data",
+      "createdAt": "2026-11-18T13:08:22.546Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 91
     },
     {
       "name": "@crystal-node/runtime",
@@ -29736,6 +29796,30 @@
       "createdAt": "2026-08-06T01:36:08.107Z",
       "discoveredAt": "2026-08-06T01:49:46.050Z",
       "score": 71
+    },
+    {
+      "name": "@greenborn/angular-greenborn-sso-front",
+      "version": "1.0.2",
+      "description": "Cliente SSO (Single Sign-On) para aplicaciones Angular 21. Integra login con Google (OAuth), intercambio de token temporal por bearer token, verificación de sesión, logout, renovación de token (X-New-Token), guard de rutas y WebSocket complementario (sock",
+      "license": "MIT",
+      "repository": "https://github.com/Greenborn/opencode_dev",
+      "npmUrl": "https://www.npmjs.com/package/%40greenborn%2Fangular-greenborn-sso-front",
+      "category": "frontend",
+      "createdAt": "2026-11-18T05:06:54.948Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 98
+    },
+    {
+      "name": "@greenborn/express-greenborn-sso-back",
+      "version": "1.10.1",
+      "description": "Autenticación SSO para backends Express/Node que se integra con el servidor de autenticación Greenborn (auth.greenborn.com.ar). Middlewares (authMiddleware/authMiddlewareOptional) y router Express (/me, /sso-profile, /register) reutilizables, con rate lim",
+      "license": "MIT",
+      "repository": "https://github.com/Greenborn/opencode_dev",
+      "npmUrl": "https://www.npmjs.com/package/%40greenborn%2Fexpress-greenborn-sso-back",
+      "category": "backend",
+      "createdAt": "2026-11-18T05:11:49.072Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 98
     },
     {
       "name": "@greenborn/vue-greenborn-sso-front",
@@ -52070,6 +52154,18 @@
       "score": 46
     },
     {
+      "name": "@packstub/holler",
+      "version": "1.0.0",
+      "description": "WebRTC calls (audio, video, screen share), 1-on-1 and small groups over a mesh, with a pluggable signaling backend and topology, plus a ready-made call widget. Framework-agnostic; the engine behind packstub/holler and packstub/filament-holler.",
+      "license": "MIT",
+      "repository": "https://github.com/packstub/holler-js",
+      "npmUrl": "https://www.npmjs.com/package/%40packstub%2Fholler",
+      "category": "backend",
+      "createdAt": "2026-11-18T14:09:34.624Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 100
+    },
+    {
       "name": "@pactmandev/nonprofit-check-plus",
       "version": "1.0.0",
       "description": "Official Node.js SDK for the Pactman Nonprofit Check Plus API — verify US nonprofits by EIN against IRS BMF, Publication 78, Automatic Revocation and OFAC data.",
@@ -52176,6 +52272,18 @@
       "createdAt": "2026-08-10T20:48:19.956Z",
       "discoveredAt": "2026-08-10T21:22:02.347Z",
       "score": 58
+    },
+    {
+      "name": "@panda-boby/dsh-notify",
+      "version": "0.2.0",
+      "description": "Clickable task-completion notifications for DeepSeek Harness sessions: native Web/desktop notifications that focus the app and open the finished session, with app-activation fallbacks on macOS/Windows, notify-send on Linux, and optional SMTP email. No she",
+      "license": "MIT",
+      "repository": "https://github.com/PandaBoby/dsh-notify",
+      "npmUrl": "https://www.npmjs.com/package/%40panda-boby%2Fdsh-notify",
+      "category": "cli",
+      "createdAt": "2026-11-19T01:08:00.775Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
     },
     {
       "name": "@pang3fan-creator/analytics-kit",
@@ -59174,6 +59282,18 @@
       "score": 96
     },
     {
+      "name": "@samline/scroll-lock",
+      "version": "1.0.0",
+      "description": "Page scroll locking for modals, drawers and menus: nested locks, scrollbar gap compensation, scroll position restoration and the iOS Safari workaround, for vanilla JavaScript, any framework and plain HTML.",
+      "license": "MIT",
+      "repository": "https://github.com/samline/scroll-lock",
+      "npmUrl": "https://www.npmjs.com/package/%40samline%2Fscroll-lock",
+      "category": "utilities",
+      "createdAt": "2026-11-19T01:32:38.857Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 89
+    },
+    {
       "name": "@samspiri/makeplane-cli",
       "version": "3.0.0",
       "description": "AI-first CLI for Plane: manage work items, projects, cycles, and modules without UUIDs.",
@@ -60300,6 +60420,18 @@
       "createdAt": "2026-07-28T04:33:46.822Z",
       "discoveredAt": "2026-08-09T07:39:25.476Z",
       "score": 62
+    },
+    {
+      "name": "@sendsafely/mcp-server-local",
+      "version": "1.0.5",
+      "description": "SendSafely MCP server (stdio transport) for Claude Desktop, Claude Code, Cursor and other MCP clients: send, receive, download and decrypt files on the SendSafely secure file transfer platform.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/SendSafely/SendSafelyMCP",
+      "npmUrl": "https://www.npmjs.com/package/%40sendsafely%2Fmcp-server-local",
+      "category": "backend",
+      "createdAt": "2026-11-18T20:40:35.689Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 89
     },
     {
       "name": "@seneca/solardemo-provider",
@@ -74486,6 +74618,18 @@
       "score": 77
     },
     {
+      "name": "@yitec/renderlint",
+      "version": "0.2.0",
+      "description": "Lint the rendered UI, not just the code: catches overflowing text, low contrast, overlapping elements, broken responsive layouts, emoji icons and more in any web framework. Built for AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/ngocanhnckh/renderlint",
+      "npmUrl": "https://www.npmjs.com/package/%40yitec%2Frenderlint",
+      "category": "testing",
+      "createdAt": "2026-11-18T14:09:55.782Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
+    },
+    {
       "name": "@ymy88/pi-subagents",
       "version": "0.24.0",
       "description": "Fork of @tintinweb/pi-subagents that reaches its four tools through pi's codemode instead of declaring them to the model, keeping about 32k characters of tool declarations out of every request. Claude Code-style sub-agents and workflow orchestration for p",
@@ -81482,6 +81626,18 @@
       "score": 88
     },
     {
+      "name": "barkapay",
+      "version": "2.0.0",
+      "description": "Official Node.js / TypeScript SDK for the barkapay payments API — mobile money collections, payouts and payment links across West Africa.",
+      "license": "MIT",
+      "repository": "https://github.com/BarkaPay/barkapay-nodejs",
+      "npmUrl": "https://www.npmjs.com/package/barkapay",
+      "category": "backend",
+      "createdAt": "2026-11-18T07:18:32.474Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 93
+    },
+    {
       "name": "barqrcode",
       "version": "1.0.0",
       "description": "High-performance QR code generator and decoder powered by Rust + WASM",
@@ -87050,6 +87206,18 @@
       "score": 71
     },
     {
+      "name": "conductor-ai",
+      "version": "0.11.1",
+      "description": "Your coding agent plans and reviews; free and cheap models write the code. Multi-LLM orchestrator with Claude Code, Codex CLI, Antigravity CLI or OpenCode as the controller and agents, 45+ APIs and local models (Ollama) as workers: quota-aware fallback, t",
+      "license": "MIT",
+      "repository": "https://github.com/KevalParikh22/conductor-ai",
+      "npmUrl": "https://www.npmjs.com/package/conductor-ai",
+      "category": "backend",
+      "createdAt": "2026-11-18T06:08:18.055Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
+    },
+    {
       "name": "confdiff",
       "version": "0.14.1",
       "description": "Semantic, format-aware diff for config & structured-data files (JSON, JSONC, YAML, TOML, INI, .env, .properties, CSV, XML) — see what actually changed, compare across formats, and redact secrets so passwords/tokens never leak into a PR.",
@@ -89810,6 +89978,18 @@
       "score": 55
     },
     {
+      "name": "designmd-studio",
+      "version": "1.2.0",
+      "description": "DesignMD Studio inside DeepSeek Harness: software-interface, presentation and documents workbenches with fourteen presets each, live token and deck editing, custom style save/delete, WCAG contrast checks, A4 report printing, and DESIGN.md / design-tokens.",
+      "license": "MIT",
+      "repository": "https://github.com/qifenglun1/designmd-studio",
+      "npmUrl": "https://www.npmjs.com/package/designmd-studio",
+      "category": "utilities",
+      "createdAt": "2026-11-18T12:24:12.239Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 94
+    },
+    {
       "name": "deskcert-cli",
       "version": "0.1.0",
       "description": "Certify whether an AI agent is safe to operate your internal web application before production rollout. Author a YAML task suite against your own app, run it with Playwright, and gate CI/CD on a forbidden-action safety score.",
@@ -91764,6 +91944,18 @@
       "createdAt": "2026-10-25T13:50:19.687Z",
       "discoveredAt": "2026-10-26T01:04:10.073Z",
       "score": 89
+    },
+    {
+      "name": "dsh-codebuddy-connect",
+      "version": "1.0.0",
+      "description": "Brings CodeBuddy models into DeepSeek Harness: a provider route through the shared pi-ai bridge, a settings panel for the API key and browser sign-in, live credit multipliers, and a cycle-balance readout in the session header.",
+      "license": "MIT",
+      "repository": "https://github.com/yanchengye/dsh-codebuddy-connect",
+      "npmUrl": "https://www.npmjs.com/package/dsh-codebuddy-connect",
+      "category": "frontend",
+      "createdAt": "2026-11-19T03:26:51.673Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
     },
     {
       "name": "dsh-codex-approval",
@@ -97070,6 +97262,18 @@
       "score": 90
     },
     {
+      "name": "explica",
+      "version": "1.0.0",
+      "description": "A zero-backend, privacy-first PDF reader that turns any local PDF into a physically simulated 3D book.",
+      "license": "MIT",
+      "repository": "https://github.com/Noormohammadiazad/Explica",
+      "npmUrl": "https://www.npmjs.com/package/explica",
+      "category": "backend",
+      "createdAt": "2026-11-18T07:10:19.389Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
+    },
+    {
       "name": "expo-ai-assistant",
       "version": "0.1.0",
       "description": "Surface-first AI chat kit for Expo and React Native — pluggable transport (OpenAI-compatible default), full-page, floating, modal, and optional bottom-sheet.",
@@ -98964,6 +99168,18 @@
       "createdAt": "2026-07-29T16:52:27.946Z",
       "discoveredAt": "2026-07-29T17:06:34.631Z",
       "score": 65
+    },
+    {
+      "name": "formweave",
+      "version": "0.1.0",
+      "description": "Forms as JSON: a visual builder, a React renderer and web components, scanning paper forms on the device, and one engine for validation, conditions and formulas that runs in the browser and on your server.",
+      "license": "MIT",
+      "repository": "https://github.com/harendra-singh-negi/formweave",
+      "npmUrl": "https://www.npmjs.com/package/formweave",
+      "category": "frontend",
+      "createdAt": "2026-11-18T11:57:09.929Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
     },
     {
       "name": "fossity",
@@ -106680,6 +106896,18 @@
       "createdAt": "2026-07-29T10:50:12.890Z",
       "discoveredAt": "2026-07-29T11:00:45.874Z",
       "score": 69
+    },
+    {
+      "name": "lead-approach",
+      "version": "2.1.0",
+      "description": "Universal B2B cold outreach & active outbound prospecting engine for ANY niche or industry (No-Call method). Compatible with Antigravity, Claude Code, and Codex.",
+      "license": "MIT",
+      "repository": "https://github.com/Bilusca/lead-approach",
+      "npmUrl": "https://www.npmjs.com/package/lead-approach",
+      "category": "utilities",
+      "createdAt": "2026-11-18T13:28:14.422Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 96
     },
     {
       "name": "leadhunt",
@@ -121718,6 +121946,18 @@
       "score": 84
     },
     {
+      "name": "pinlyx-mcp",
+      "version": "1.0.0",
+      "description": "Manage every social media DM and post from your AI assistant, over MCP. Stdio Model Context Protocol server for Pinlyx: Instagram, Facebook, X, LinkedIn, TikTok, YouTube, Threads, Pinterest, Reddit, Bluesky, Telegram and WhatsApp inboxes plus scheduled po",
+      "license": "MIT",
+      "repository": "https://github.com/Pinlyx/pinlyx-mcp",
+      "npmUrl": "https://www.npmjs.com/package/pinlyx-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-18T16:58:17.866Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 100
+    },
+    {
       "name": "pirl-framework-cli",
       "version": "1.0.0",
       "description": "PIRL CLI: a terminal UI that runs the PIRL framework (Plan – Implement – Review Layer) through the AI agent CLI you are already signed in to.",
@@ -123120,6 +123360,18 @@
       "createdAt": "2026-08-10T14:44:20.140Z",
       "discoveredAt": "2026-08-10T15:13:18.023Z",
       "score": 70
+    },
+    {
+      "name": "proctorkit",
+      "version": "0.1.0",
+      "description": "Proctoring for the quiz you already built: a free browser SDK for system checks, consent, full-screen and entire-screen-share guards, camera and face-in-view checks, snapshots and a per-question event log. Optional ProctorKit Cloud for reports and AI revi",
+      "license": "MIT",
+      "repository": "https://github.com/aproli90/proctorkit",
+      "npmUrl": "https://www.npmjs.com/package/proctorkit",
+      "category": "testing",
+      "createdAt": "2026-11-18T20:43:20.447Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
     },
     {
       "name": "prodreq",
@@ -128774,6 +129026,18 @@
       "score": 100
     },
     {
+      "name": "schemity-mcp",
+      "version": "1.0.0",
+      "description": "Starts the local database MCP server built into the Schemity desktop app. The agent reads your schema and stages edits you review; it never gets database credentials.",
+      "license": "MIT",
+      "repository": "https://github.com/schemity/mcp",
+      "npmUrl": "https://www.npmjs.com/package/schemity-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-19T01:29:55.320Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 96
+    },
+    {
       "name": "scorm-mcp-server",
       "version": "2.0.0",
       "description": "MCP server: turn self-contained HTML or a Claude Design (.dc) bundle into a SCORM 2004 package any LMS can import — offline assets, milestone/score tracking, bundled ADL schemas.",
@@ -129350,6 +129614,18 @@
       "score": 100
     },
     {
+      "name": "seo-supervisor",
+      "version": "1.2.0",
+      "description": "SEO audit, safe fixes, PR review and a launch gate for AI coding agents. Crawls any site, scores it 0-100 and writes a polished offline report.",
+      "license": "MIT",
+      "repository": "https://github.com/m-zaman-khan/seo-supervisor",
+      "npmUrl": "https://www.npmjs.com/package/seo-supervisor",
+      "category": "data",
+      "createdAt": "2026-11-18T16:13:57.723Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 94
+    },
+    {
       "name": "seoanything",
       "version": "1.0.0",
       "description": "The ultimate SEO & GEO skill suite for AI agents: Antigravity, Claude Code, Cursor, Gemini, Copilot, and any web repository.",
@@ -129564,6 +129840,18 @@
       "createdAt": "2026-07-25T19:21:32.194Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 63
+    },
+    {
+      "name": "sfcc-perf",
+      "version": "0.1.0",
+      "description": "Statically traces Salesforce B2C Commerce (SFCC) endpoints through your cartridge path - SFRA routes, SCAPI Custom APIs, hooks, job steps - and produces a latency model and Markdown report compatible with the SFCC Performance Analyzer web tool.",
+      "license": "MIT",
+      "repository": "https://github.com/logicgeek/sfcc-performance-analyser",
+      "npmUrl": "https://www.npmjs.com/package/sfcc-perf",
+      "category": "backend",
+      "createdAt": "2026-11-19T02:46:00.676Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 90
     },
     {
       "name": "sfp-hive",
@@ -136152,6 +136440,18 @@
       "createdAt": "2026-08-31T07:15:28.478Z",
       "discoveredAt": "2026-09-01T04:50:43.185Z",
       "score": 91
+    },
+    {
+      "name": "trilium-graphviz-diagrams",
+      "version": "1.0.0",
+      "description": "Diagrams for Trilium Notes stored as text and drawn with Graphviz, with frozen layouts rearranged in Excalidraw. This package is the converter and the command line the trilium-diagrams agent skill uses.",
+      "license": "MIT",
+      "repository": "https://github.com/mursilsayed/trilium-graphviz-diagrams",
+      "npmUrl": "https://www.npmjs.com/package/trilium-graphviz-diagrams",
+      "category": "utilities",
+      "createdAt": "2026-11-19T01:57:13.209Z",
+      "discoveredAt": "2026-11-19T04:01:55.370Z",
+      "score": 92
     },
     {
       "name": "trippy-mcp",

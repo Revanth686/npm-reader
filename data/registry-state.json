@@ -1,43 +1,15 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 145532710,
-  "lastRunAt": "2026-11-18T04:05:40.271Z",
+  "lastSequence": 145928027,
+  "lastRunAt": "2026-11-19T04:01:55.370Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@maxlee/dsh-token-receipt",
-      "attempts": 5
+      "attempts": 6
     },
     {
-      "name": "@tiqian/precompute-darwin-arm64",
-      "attempts": 1
-    },
-    {
-      "name": "@tiqian/precompute-linux-x64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@tiqian/precompute-linux-arm64-gnu",
-      "attempts": 1
-    },
-    {
-      "name": "@tiqian/precompute-win32-x64-msvc",
-      "attempts": 1
-    },
-    {
-      "name": "@xapp/stentor-service-opta",
-      "attempts": 1
-    },
-    {
-      "name": "@cordis-web/plugin-config",
-      "attempts": 1
-    },
-    {
-      "name": "@huangxiaohu/hy_math",
-      "attempts": 1
-    },
-    {
-      "name": "@joy-ride/joy-ride",
+      "name": "@referalli/sdk",
       "attempts": 1
     }
   ]
