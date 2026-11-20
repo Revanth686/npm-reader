@@ -14594,6 +14594,18 @@
       "score": 87
     },
     {
+      "name": "@corridordata/mcp-server",
+      "version": "1.1.0",
+      "description": "Official Model Context Protocol (MCP) server for 20 Corridor Data B2B intelligence Actors (SEC Form D/8-K, FDA 510(k), GLEIF LEI, Grants.gov, Federal Register, HN Hiring, global tenders, SOC2/DNS & SaaS pricing) via Apify.",
+      "license": "MIT",
+      "repository": "https://github.com/corridordata/mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/%40corridordata%2Fmcp-server",
+      "category": "backend",
+      "createdAt": "2026-11-19T07:08:45.447Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 99
+    },
+    {
       "name": "@cortadel/claude-agent-sdk",
       "version": "0.1.0",
       "description": "Cortadel long-term memory for the Claude Agent SDK — in-process MCP memory tools plus automatic recall/capture hooks.",
@@ -15120,6 +15132,18 @@
       "createdAt": "2026-08-13T04:30:20.523Z",
       "discoveredAt": "2026-08-13T05:45:12.412Z",
       "score": 62
+    },
+    {
+      "name": "@crufteneer/dsh-yany-plugin",
+      "version": "1.0.0",
+      "description": "YANY — Yet Another NotifY plugin. Desktop notifications for finished turns, failed turns, and requests waiting for the user, with per-session mute and a focused confirmation queue.",
+      "license": "MIT",
+      "repository": "https://github.com/Innokentiy-Alaytsev/dsh-yany-plugin",
+      "npmUrl": "https://www.npmjs.com/package/%40crufteneer%2Fdsh-yany-plugin",
+      "category": "utilities",
+      "createdAt": "2026-11-19T09:54:18.439Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 94
     },
     {
       "name": "@cruglobal/flags",
@@ -58106,6 +58130,18 @@
       "score": 72
     },
     {
+      "name": "@rohankumar8124/recallcli",
+      "version": "1.6.0",
+      "description": "recallcli — cognitive-architecture AI coding agent with stateful LangGraph planner-critic loop, 5-tier memory, causal work graph, local-first routing, GitHub integration, eval harness, and plugin SDK",
+      "license": "MIT",
+      "repository": "https://github.com/Rohankumar8124/recallcli",
+      "npmUrl": "https://www.npmjs.com/package/%40rohankumar8124%2Frecallcli",
+      "category": "data",
+      "createdAt": "2026-11-19T09:21:13.304Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 99
+    },
+    {
       "name": "@rohhitrz/jonaki",
       "version": "0.1.0",
       "description": "Jonaki — the agent SDK you can actually test. Record a run, replay it offline, deterministically.",
@@ -60816,6 +60852,18 @@
       "createdAt": "2026-08-04T18:36:31.788Z",
       "discoveredAt": "2026-08-04T20:02:30.667Z",
       "score": 76
+    },
+    {
+      "name": "@shardlens/client",
+      "version": "1.0.0",
+      "description": "Typed client for reading a Shardlens collector from your own dashboard or scripts: every query, live numbers and the activity log. Zero dependencies, Web-standard APIs only.",
+      "license": "MIT",
+      "repository": "https://github.com/Kkkermit/Shardlens",
+      "npmUrl": "https://www.npmjs.com/package/%40shardlens%2Fclient",
+      "category": "backend",
+      "createdAt": "2026-11-19T21:45:25.959Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 96
     },
     {
       "name": "@shareefmuhammed/contextforge",
@@ -65484,6 +65532,18 @@
       "createdAt": "2026-09-26T17:14:40.734Z",
       "discoveredAt": "2026-10-02T02:04:54.865Z",
       "score": 97
+    },
+    {
+      "name": "@t3ratech/market-pulse-mcp",
+      "version": "1.1.0",
+      "description": "MCP server for T3rnel Market Pulse: evidence-graded agent-work lanes, a should-I-bid recommendation, live agent job listings, the hash-chained evidence ledger and a directory of agent models, tools and MCP servers. Free without a key.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/t3ratech/market-pulse-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40t3ratech%2Fmarket-pulse-mcp",
+      "category": "backend",
+      "createdAt": "2026-10-04T08:22:33.347Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
     },
     {
       "name": "@ta-interaktiv/react-header-injection",
@@ -72530,6 +72590,30 @@
       "score": 67
     },
     {
+      "name": "@webship-js/bootstrap-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for the components of any site that uses Bootstrap 5.3 (and 4.6 where the same step holds), a plugin for webship-js (Playwright and Cucumber): dialogs, side panels, drop-down menus, panels and accordions, tabs, the navigation bar",
+      "license": "MIT",
+      "repository": "https://github.com/webship/bootstrap-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fbootstrap-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T15:05:26.295Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/codeigniter-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for apps made from the official app starter with the official auth library, a plugin for webship-js (Playwright and Cucumber): the session and the login link through the mail, remembering a login, registration refusals, groups an",
+      "license": "MIT",
+      "repository": "https://github.com/webship/codeigniter-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fcodeigniter-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T12:57:41.540Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/craft-cms-steps",
       "version": "2.0.0",
       "description": "Craft CMS step definitions for webship-js (Playwright and Cucumber): the control panel session, navigation and notices, entries with drafts and revisions, the element index, slide-out editors, fields, assets, categories, users and permissions, and the fro",
@@ -72554,6 +72638,42 @@
       "score": 83
     },
     {
+      "name": "@webship-js/django-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for the Django admin, a plugin for webship-js (Playwright and Cucumber): the admin login and logout; the index with its apps and models; the change list with its search, filters, sorting, date drill-down, pagination, selection ac",
+      "license": "MIT",
+      "repository": "https://github.com/webship/django-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fdjango-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T22:49:11.490Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/docusaurus-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for documentation sites built with Docusaurus, a plugin for webship-js (Playwright and Cucumber): hydration and the production build, pages opened in the same document, the navbar with its menus, the version and language menus an",
+      "license": "MIT",
+      "repository": "https://github.com/webship/docusaurus-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fdocusaurus-steps",
+      "category": "testing",
+      "createdAt": "2026-11-20T03:30:30.977Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/laravel-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for apps made from the official starter kits, a plugin for webship-js (Playwright and Cucumber): the session and its limits, registration refusals, the password reset through the mail, email verification, password confirmation, t",
+      "license": "MIT",
+      "repository": "https://github.com/webship/laravel-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Flaravel-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T10:15:08.006Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/magento-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for testing Magento Open Source stores with webship-js: the admin panel (session, menu, grids, forms, catalog, orders, customers, cart price rules, content, configuration, cache and index, permissions) and the storefront (catalog",
@@ -72566,6 +72686,30 @@
       "score": 100
     },
     {
+      "name": "@webship-js/mediawiki-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for MediaWiki, a plugin for webship-js (Playwright and Cucumber): reading a page with its contents list, sections, links, references and categories; the search box with its suggestions and the results page; the source editor (sum",
+      "license": "MIT",
+      "repository": "https://github.com/webship/mediawiki-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fmediawiki-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T20:18:05.872Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/moodle-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for learning sites on Moodle, a plugin for webship-js (Playwright and Cucumber): the session and the guest login, the dashboard and My courses, the course page with its sections, activities and completion, enrolment by the teache",
+      "license": "MIT",
+      "repository": "https://github.com/webship/moodle-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fmoodle-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T23:01:51.772Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/prestashop-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for testing PrestaShop shops with webship-js: the back office (session, menu, lists, products, categories, orders, customers, discounts, modules, permissions) and the shop (catalog, search, product page, cart, checkout, customer",
@@ -72575,6 +72719,54 @@
       "category": "testing",
       "createdAt": "2026-11-14T13:53:37.125Z",
       "discoveredAt": "2026-11-15T02:29:05.746Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/shopify-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for online stores built on Shopify, a plugin for webship-js (Playwright and Cucumber): the collection page (filters and sort), the product page (variant picker, quantity, add to cart, sold out, the dynamic checkout button), the c",
+      "license": "MIT",
+      "repository": "https://github.com/webship/shopify-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fshopify-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T18:18:49.467Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/strapi-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for the Strapi admin panel, a plugin for webship-js (Playwright and Cucumber): the admin login and logout; the Content Manager list with its search, filters, sorting, columns, pages and bulk publish, unpublish and delete; the edi",
+      "license": "MIT",
+      "repository": "https://github.com/webship/strapi-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fstrapi-steps",
+      "category": "testing",
+      "createdAt": "2026-11-20T02:47:53.135Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/symfony-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for Symfony apps, a plugin for webship-js (Playwright and Cucumber): the login form and the session, flash messages, the errors under a field, the error pages of a live app, the debug toolbar and the profiler of a development one",
+      "license": "MIT",
+      "repository": "https://github.com/webship/symfony-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fsymfony-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T12:36:45.388Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/woocommerce-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for shops on WordPress with WooCommerce, a plugin for webship-js (Playwright and Cucumber): the product list (sorting, pages, categories, search), the product page (options, quantity, add to cart), the mini cart, the cart (quanti",
+      "license": "MIT",
+      "repository": "https://github.com/webship/woocommerce-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fwoocommerce-steps",
+      "category": "testing",
+      "createdAt": "2026-11-19T16:29:09.402Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
       "score": 100
     },
     {
@@ -76214,6 +76406,18 @@
       "score": 90
     },
     {
+      "name": "a11y-agent-italia",
+      "version": "1.1.0",
+      "description": "Skill per Claude sull'accessibilità digitale italiana: audit WCAG 2.1 AA con report in italiano, correzioni, test manuali, CI, dichiarazione AgID, Bootstrap Italia e gap analysis verso la EN 301 549 v4.1.1 (WCAG 2.2).",
+      "license": "MIT",
+      "repository": "https://github.com/JacopoMarini/a11y-agent-italia",
+      "npmUrl": "https://www.npmjs.com/package/a11y-agent-italia",
+      "category": "testing",
+      "createdAt": "2026-11-19T07:29:38.143Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 96
+    },
+    {
       "name": "a11y-autofix",
       "version": "0.1.0",
       "description": "Scans React components with axe-core, generates verified WCAG fix diffs via the Claude API, and re-runs axe-core to confirm each fix before showing it to you.",
@@ -78660,6 +78864,18 @@
       "createdAt": "2026-07-29T07:13:01.292Z",
       "discoveredAt": "2026-07-29T08:25:10.078Z",
       "score": 80
+    },
+    {
+      "name": "aiagentblocklist",
+      "version": "1.0.0",
+      "description": "Node.js feed client for the AI agent blocklist: download the daily AI agent, AI browser, coding agent and MCP server block lists with ETag caching and match domains, extension IDs, processes and packages locally.",
+      "license": "MIT",
+      "repository": "https://github.com/explainableaixai/aiagentblocklist",
+      "npmUrl": "https://www.npmjs.com/package/aiagentblocklist",
+      "category": "frontend",
+      "createdAt": "2026-11-19T22:02:50.397Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
     },
     {
       "name": "aiapplyd-mcp",
@@ -88586,6 +88802,18 @@
       "score": 79
     },
     {
+      "name": "crossfire-git",
+      "version": "1.0.0",
+      "description": "Zero-dependency collision radar for parallel Git worktrees and AI coding agents: catches zero-conflict semantic symbol breaks, DB migration clashes, port collisions, and textual conflicts before git merge lies to you.",
+      "license": "GPL-3.0-only",
+      "repository": "https://github.com/californiaAlmonds/crossfire",
+      "npmUrl": "https://www.npmjs.com/package/crossfire-git",
+      "category": "utilities",
+      "createdAt": "2026-11-19T11:37:38.532Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
       "name": "crossline",
       "version": "0.1.0",
       "description": "Prove that no user can see another user's data — automatically, on every commit.",
@@ -94200,6 +94428,18 @@
       "createdAt": "2026-11-03T16:16:35.185Z",
       "discoveredAt": "2026-11-04T02:57:19.340Z",
       "score": 99
+    },
+    {
+      "name": "dsh-purge-unlimited",
+      "version": "2.1.0",
+      "description": "Deliverable-first execution policy for DeepSeek Harness, plus a provider-neutral adapter layer (OpenAI / DeepSeek / Anthropic / Gemini / Ollama / any OpenAI-compatible endpoint). 22-component behavior contract injected into every session's system prompt,",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/purge-unlimited/purge-unlimited",
+      "npmUrl": "https://www.npmjs.com/package/dsh-purge-unlimited",
+      "category": "utilities",
+      "createdAt": "2026-11-20T00:31:32.676Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
     },
     {
       "name": "dsh-qa-skills",
@@ -105830,6 +106070,18 @@
       "score": 56
     },
     {
+      "name": "kennel-hq",
+      "version": "1.2.0",
+      "description": "An AI dev team of pixel-art dogs, powered by Claude Code: plan, code, test and ship with a live office, a shared brain and a token-saving workflow.",
+      "license": "MIT",
+      "repository": "https://github.com/PrimeSalad/kennel-hq",
+      "npmUrl": "https://www.npmjs.com/package/kennel-hq",
+      "category": "testing",
+      "createdAt": "2026-11-19T12:31:07.670Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 94
+    },
+    {
       "name": "kenya-towns",
       "version": "1.1.1",
       "description": "Comprehensive dataset of Kenyan towns, cities, satellite/informal settlements, and administrative wards, with query helpers.",
@@ -108756,6 +109008,18 @@
       "createdAt": "2026-07-25T14:57:00.310Z",
       "discoveredAt": "2026-07-25T15:20:00.638Z",
       "score": 90
+    },
+    {
+      "name": "magine",
+      "version": "1.7.5",
+      "description": "The official Magine CLI: run your AI agents, quick tasks, Cattery files, Neurons, wallet and marketplace from any terminal or AI coding agent. A native binary; nothing else to install.",
+      "license": "MIT",
+      "repository": "https://github.com/S4nfs/magine-cli",
+      "npmUrl": "https://www.npmjs.com/package/magine",
+      "category": "frontend",
+      "createdAt": "2026-11-19T16:18:46.329Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 98
     },
     {
       "name": "magneticui",
@@ -112346,6 +112610,18 @@
       "score": 84
     },
     {
+      "name": "mulling",
+      "version": "1.0.0",
+      "description": "Accessible loaders for AI interfaces: thinking, searching, writing, done and error, with calm reduced-motion versions. React, Vue and a web component.",
+      "license": "MIT",
+      "repository": "https://github.com/kelseythejackson/mulling",
+      "npmUrl": "https://www.npmjs.com/package/mulling",
+      "category": "frontend",
+      "createdAt": "2026-11-19T15:49:21.883Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 95
+    },
+    {
       "name": "multi-qr",
       "version": "0.1.0",
       "description": "Multi-purpose QR code format — encode multiple actions (WiFi, URL, vCard, Location, Text, App Links) into a single QR code.",
@@ -114899,6 +115175,18 @@
       "category": "frontend",
       "createdAt": "2026-09-27T07:26:42.728Z",
       "discoveredAt": "2026-09-27T16:51:00.623Z",
+      "score": 100
+    },
+    {
+      "name": "ng-media-slider",
+      "version": "1.0.0",
+      "description": "Responsive Angular image and video slider with lightbox (images, base64, MP4/WebM, YouTube). Drop-in successor to ng-image-slider and ng-image-slider-v16 for Angular 20, 21 and 22, zoneless or zone.js, with SSR.",
+      "license": "MIT",
+      "repository": "https://github.com/waleedabbas96/ng-media-slider",
+      "npmUrl": "https://www.npmjs.com/package/ng-media-slider",
+      "category": "frontend",
+      "createdAt": "2026-11-19T09:11:15.467Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
       "score": 100
     },
     {
@@ -140460,6 +140748,18 @@
       "createdAt": "2026-07-26T11:11:19.004Z",
       "discoveredAt": "2026-07-26T11:37:11.715Z",
       "score": 70
+    },
+    {
+      "name": "whenship",
+      "version": "1.6.3",
+      "description": "When will it ship, honestly? A tiny planner for small teams: live what-if Gantt, deadline risk and realistic dates. Works in the browser, offline, and inside Claude as an MCP App.",
+      "license": "BSD-3-Clause",
+      "repository": "https://github.com/HamedShams/whenship",
+      "npmUrl": "https://www.npmjs.com/package/whenship",
+      "category": "frontend",
+      "createdAt": "2026-11-19T21:43:28.720Z",
+      "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 97
     },
     {
       "name": "whichpane",

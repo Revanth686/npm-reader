@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 145928027,
-  "lastRunAt": "2026-11-19T04:01:55.370Z",
+  "lastSequence": 146228417,
+  "lastRunAt": "2026-11-20T03:54:40.809Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
       "name": "@maxlee/dsh-token-receipt",
-      "attempts": 6
+      "attempts": 7
     },
     {
-      "name": "@referalli/sdk",
+      "name": "@mrfentmen/stargazing-telescope-setup-first-match-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@mrfentmen/stargazing-dark-sky-trip-track-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@mrfentmen/stargazing-dark-sky-trip-cost-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@mrfentmen/stargazing-telescope-setup-first-cost-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@mrfentmen/stargazing-telescope-setup-first-sim-mcp",
       "attempts": 1
     }
   ]
