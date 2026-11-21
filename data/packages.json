@@ -170,6 +170,18 @@
       "score": 77
     },
     {
+      "name": "@0m4r/n8n-nodes-metaflow",
+      "version": "1.0.0",
+      "description": "Metaflow is a production-ready Meta platform automation toolkit for n8n. Publish and manage content across Instagram, Facebook, and Threads via Meta's Graph APIs—moderate comments, send messages, search hashtags, manage tokens, and react to real-time webh",
+      "license": "MIT",
+      "repository": "https://github.com/0m4r/n8n-nodes-metaflow",
+      "npmUrl": "https://www.npmjs.com/package/%400m4r%2Fn8n-nodes-metaflow",
+      "category": "frontend",
+      "createdAt": "2026-11-20T08:28:42.113Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 100
+    },
+    {
       "name": "@0x/wdk-protocol-swidge-0x",
       "version": "0.1.0",
       "description": "WDK swidge protocol module for EVM token swaps via the 0x Swap API v2.",
@@ -2412,6 +2424,18 @@
       "createdAt": "2026-08-05T15:54:36.318Z",
       "discoveredAt": "2026-08-05T16:21:22.907Z",
       "score": 71
+    },
+    {
+      "name": "@ahmad_othman_adi/bookmark-bookshelf",
+      "version": "0.3.0",
+      "description": "3D bookmark manager: saved links as books on a draggable shelf. Import browser bookmarks, read saved text, share a reading list. Local-first, no account, vanilla TypeScript. The CSS shelf has no runtime dependencies, and an optional WebGL drawing uses thr",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/OthmanAdi/bookmark-bookshelf",
+      "npmUrl": "https://www.npmjs.com/package/%40ahmad_othman_adi%2Fbookmark-bookshelf",
+      "category": "frontend",
+      "createdAt": "2026-11-20T20:11:55.876Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
     },
     {
       "name": "@ahmadastic/froam",
@@ -7190,6 +7214,18 @@
       "score": 90
     },
     {
+      "name": "@ashwinop/api-response-kit",
+      "version": "1.0.0",
+      "description": "A premium, industry-ready standard response handler for Express APIs — standardized responses, automatic status codes, pagination, error handling, and full TypeScript support.",
+      "license": "MIT",
+      "repository": "https://github.com/api-response-kit/api-response-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40ashwinop%2Fapi-response-kit",
+      "category": "backend",
+      "createdAt": "2026-11-20T17:29:43.337Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 97
+    },
+    {
       "name": "@asjackson/androidbuild-mcp",
       "version": "0.1.1",
       "description": "MCP server to build, deploy, drive and debug Android apps: Gradle, emulators, adb, logcat, UI automation",
@@ -9708,6 +9744,66 @@
       "createdAt": "2026-08-16T13:16:23.404Z",
       "discoveredAt": "2026-08-16T13:34:16.553Z",
       "score": 79
+    },
+    {
+      "name": "@bitshaft/medusa-plugin-back-in-stock",
+      "version": "0.1.0",
+      "description": "Back in stock notifications for Medusa v2: customers ask to be told when a sold-out variant returns, and get an email when it is in stock again in their sales channel. Polish and English, admin page and product widget, with or without @bitshaft/medusa-plu",
+      "license": "MIT",
+      "repository": "https://github.com/bitshaft/medusa-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40bitshaft%2Fmedusa-plugin-back-in-stock",
+      "category": "utilities",
+      "createdAt": "2026-11-20T22:04:11.953Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
+    },
+    {
+      "name": "@bitshaft/medusa-plugin-compliance",
+      "version": "0.1.0",
+      "description": "Compliance tools for Medusa v2 stores in the EU: GPSR product safety data, a GDPR (RODO) consent register with data subject requests, and Omnibus price history with the lowest price before a discount. One admin page in Polish and English. A tool, not lega",
+      "license": "MIT",
+      "repository": "https://github.com/bitshaft/medusa-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40bitshaft%2Fmedusa-plugin-compliance",
+      "category": "data",
+      "createdAt": "2026-11-20T22:05:38.013Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
+    },
+    {
+      "name": "@bitshaft/medusa-plugin-currency",
+      "version": "0.1.0",
+      "description": "Fill variant prices in your store's other currencies from the base currency in Medusa v2: NBP exchange rates (or a fixed rate) with a margin, price-ending rounding, net or gross conversion across VAT rates, a preview before every save, and a history of wh",
+      "license": "MIT",
+      "repository": "https://github.com/bitshaft/medusa-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40bitshaft%2Fmedusa-plugin-currency",
+      "category": "devops",
+      "createdAt": "2026-11-20T22:07:00.534Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
+    },
+    {
+      "name": "@bitshaft/medusa-plugin-emails",
+      "version": "0.1.0",
+      "description": "Transactional emails for Medusa v2 in Polish and English: order, shipping, refund, return and account emails plus store team alerts, with React Email templates, Resend and SMTP providers, a send log and an admin UI.",
+      "license": "MIT",
+      "repository": "https://github.com/bitshaft/medusa-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40bitshaft%2Fmedusa-plugin-emails",
+      "category": "frontend",
+      "createdAt": "2026-11-20T22:08:39.394Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
+    },
+    {
+      "name": "@bitshaft/medusa-plugin-whitelist-vat",
+      "version": "0.1.0",
+      "description": "Verify business buyers in Medusa v2: Polish NIP against the VAT white list (Biała lista) and GUS REGON, EU VAT numbers in VIES, with company data for checkout, a verification history as proof, and an admin panel.",
+      "license": "MIT",
+      "repository": "https://github.com/bitshaft/medusa-integrations",
+      "npmUrl": "https://www.npmjs.com/package/%40bitshaft%2Fmedusa-plugin-whitelist-vat",
+      "category": "data",
+      "createdAt": "2026-11-20T22:15:59.377Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
     },
     {
       "name": "@bivelio/savings-layer",
@@ -41714,6 +41810,18 @@
       "score": 73
     },
     {
+      "name": "@magelens/magento-template-coverage",
+      "version": "2.0.1",
+      "description": "Magento 2 HTML/PHTML template execution coverage for Cypress and Playwright, including Knockout, Hyva/Alpine and inline JavaScript",
+      "license": "MIT",
+      "repository": "https://github.com/MageLens/magento-template-coverage",
+      "npmUrl": "https://www.npmjs.com/package/%40magelens%2Fmagento-template-coverage",
+      "category": "testing",
+      "createdAt": "2026-11-20T08:31:00.582Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 93
+    },
+    {
       "name": "@mageyuki/opencode-mcp",
       "version": "3.1.0",
       "description": "Unofficial fork of opencode-mcp: MCP server for OpenCode coding workflows, durable async jobs, project resources, and explicit user input, with V2 live-observation and guarded project-read changes",
@@ -56808,6 +56916,18 @@
       "createdAt": "2026-08-10T03:59:41.280Z",
       "discoveredAt": "2026-08-10T05:18:06.574Z",
       "score": 77
+    },
+    {
+      "name": "@receiverdotemail/sdk",
+      "version": "2.0.0",
+      "description": "Official TypeScript SDK for Receiver.email: programmable email inboxes for tests and AI agents, with OTP and link extraction",
+      "license": "MIT",
+      "repository": "https://github.com/BUW91/mailingestion",
+      "npmUrl": "https://www.npmjs.com/package/%40receiverdotemail%2Fsdk",
+      "category": "testing",
+      "createdAt": "2026-11-20T08:05:57.363Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 92
     },
     {
       "name": "@reconugc/mcp",
@@ -72638,6 +72758,18 @@
       "score": 83
     },
     {
+      "name": "@webship-js/discourse-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for a Discourse forum, a plugin for webship-js (Playwright and Cucumber): the session; the topic lists (Latest, New, Unread, Top, Categories); a topic, read, replied to, quoted, liked, bookmarked and flagged; the composer with it",
+      "license": "MIT",
+      "repository": "https://github.com/webship/discourse-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fdiscourse-steps",
+      "category": "testing",
+      "createdAt": "2026-11-20T07:06:14.662Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/django-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for the Django admin, a plugin for webship-js (Playwright and Cucumber): the admin login and logout; the index with its apps and models; the change list with its search, filters, sorting, date drill-down, pagination, selection ac",
@@ -72659,6 +72791,30 @@
       "category": "testing",
       "createdAt": "2026-11-20T03:30:30.977Z",
       "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/filament-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for admin panels built on a Laravel app, a plugin for webship-js (Playwright and Cucumber): the panel's navigation, its pages and breadcrumbs, the dashboard widgets (stats, charts, tables), the tables of its resources (search, so",
+      "license": "MIT",
+      "repository": "https://github.com/webship/filament-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Ffilament-steps",
+      "category": "testing",
+      "createdAt": "2026-11-20T23:30:47.173Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/keycloak-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for the sign-in of any app that uses Keycloak, a plugin for webship-js (Playwright and Cucumber): the login page and its refusals, \"Remember me\", the registration form's refusals, forgot password through the mail catcher, the req",
+      "license": "MIT",
+      "repository": "https://github.com/webship/keycloak-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fkeycloak-steps",
+      "category": "testing",
+      "createdAt": "2026-11-20T22:37:57.118Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
       "score": 100
     },
     {
@@ -72707,6 +72863,18 @@
       "category": "testing",
       "createdAt": "2026-11-19T23:01:51.772Z",
       "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/payload-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for the admin and the website of a Payload app, a plugin for webship-js (Playwright and Cucumber): the admin login and logout, the first-user screen and an account the admin refuses; a collection's list with its search, filters,",
+      "license": "MIT",
+      "repository": "https://github.com/webship/payload-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fpayload-steps",
+      "category": "testing",
+      "createdAt": "2026-11-20T06:26:15.710Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
       "score": 100
     },
     {
@@ -78230,6 +78398,18 @@
       "score": 63
     },
     {
+      "name": "agentpay402-mcp",
+      "version": "0.4.0",
+      "description": "AgentPay402 MCP: an MCP server that lets AI agents discover, check and pay for x402 APIs with their own CDP, Privy or Crossmint wallet, with Seller Probe checks, on-chain payment proof and Delivery Receipt refetch.",
+      "license": "MIT",
+      "repository": "https://github.com/kato9292929/x402-wallet-mcp",
+      "npmUrl": "https://www.npmjs.com/package/agentpay402-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-20T09:01:17.647Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
+    },
+    {
       "name": "agentperimeter",
       "version": "0.0.1",
       "description": "AgentPerimeter — runtime governance for AI agents with CIS-region compliance (FSTEC 117, GOST R 57580, KZ AI Law). Name reservation; product at agentperimeter.ru",
@@ -80136,6 +80316,18 @@
       "createdAt": "2026-08-06T16:56:10.347Z",
       "discoveredAt": "2026-08-06T23:51:21.775Z",
       "score": 88
+    },
+    {
+      "name": "api-sentinel-express",
+      "version": "1.0.0",
+      "description": "Lightweight, privacy-first Express.js observability and API monitoring middleware with in-memory latency analytics, P95 tracking, slow-request detection, and structured logging.",
+      "license": "MIT",
+      "repository": "https://github.com/aviiixbuilds/api-sentinel-express",
+      "npmUrl": "https://www.npmjs.com/package/api-sentinel-express",
+      "category": "backend",
+      "createdAt": "2026-11-20T10:16:25.960Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 97
     },
     {
       "name": "api-studios",
@@ -87518,6 +87710,18 @@
       "score": 100
     },
     {
+      "name": "consessus",
+      "version": "1.0.2",
+      "description": "Consessus is a free, open-source CLI for macOS that lets Claude Code, Codex, OpenCode and Antigravity sessions on the same machine message each other and share project rooms.",
+      "license": "MIT",
+      "repository": "https://github.com/nsozturk/consessus",
+      "npmUrl": "https://www.npmjs.com/package/consessus",
+      "category": "frontend",
+      "createdAt": "2026-11-21T01:07:54.792Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 97
+    },
+    {
       "name": "considered",
       "version": "0.6.0",
       "description": "A design-reasoning skill for AI coding agents. Information architecture, priority hierarchy, and action semantics, enforced as a checkable artifact chain.",
@@ -92378,6 +92582,18 @@
       "score": 90
     },
     {
+      "name": "dsh-deep-dive",
+      "version": "2.0.0",
+      "description": "DSH bundle: a Deep Dive research mode (plan → parallel retrieval → citation checks → cited report) plus a full-window report reviewer.",
+      "license": "MIT",
+      "repository": "https://github.com/chibslee/dsh-deep-dive",
+      "npmUrl": "https://www.npmjs.com/package/dsh-deep-dive",
+      "category": "devops",
+      "createdAt": "2026-11-20T07:07:50.332Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 93
+    },
+    {
       "name": "dsh-deepread",
       "version": "0.3.7",
       "description": "DeepRead 精读助手：精读一本书或一篇文章，提取核心观点、论证结构与关键论据。五种模式（quick/deep/map/feynman/book），知识地图模式输出「观点—证据—数据—关系」结构化报告（含四档置信度、数据五要素、八种关系标注、Mermaid 思维导图与主动回忆问题）；支持微信公众号链接、.txt/.md/.html/.pdf 文件与粘贴文本（内置纯 JS PDF 文本提取器）；可选导出 .md / .mm（FreeMind，XMind 可导入）/ .html（编辑风网页报告）。",
@@ -95676,6 +95892,18 @@
       "createdAt": "2026-10-18T04:47:36.651Z",
       "discoveredAt": "2026-10-18T05:12:16.628Z",
       "score": 81
+    },
+    {
+      "name": "dsh-zh-yayan",
+      "version": "1.1.2",
+      "description": "Deployment-level language policy v1.1.2: decidable first-sentence rule, first-step variant for action-describing English openers, step-aware per-request context with tool-result priority, dual metrics, and three token presets, for every dsh agent includin",
+      "license": "MIT",
+      "repository": "https://github.com/ArthurZhu1992/dsh-zh-yayan",
+      "npmUrl": "https://www.npmjs.com/package/dsh-zh-yayan",
+      "category": "devops",
+      "createdAt": "2026-11-20T14:20:17.101Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 100
     },
     {
       "name": "dsh-zju-lecture-note",
@@ -102662,6 +102890,18 @@
       "score": 83
     },
     {
+      "name": "homebridge-broadlink-hub",
+      "version": "0.1.0",
+      "description": "Fast, reliable Apple Home control for BroadLink RM remotes (RM mini, RM Pro, RM4, RM4 Pro): switches, lights, fans, TVs, air conditioners and more over IR and RF, with code learning in the Homebridge UI. Drop-in successor to homebridge-broadlink-rm.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/pirates-killer/homebridge-broadlink-hub",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-broadlink-hub",
+      "category": "utilities",
+      "createdAt": "2026-11-21T02:19:55.041Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 90
+    },
+    {
       "name": "homebridge-camera-ui-hikvision",
       "version": "1.0.0",
       "description": "camera.ui for Homebridge (fork of homebridge-camera-ui) with HomeKit two-way audio for Hikvision door stations via ISAPI (e.g. Metzler VDM10).",
@@ -104786,6 +105026,18 @@
       "score": 85
     },
     {
+      "name": "isagent.js",
+      "version": "1.0.0",
+      "description": "Like isbot, but for AI browser agents: detect Claude in Chrome and other agents on your website, and see exactly which form fields they filled. Zero dependencies, ~7 KB gzipped.",
+      "license": "MIT",
+      "repository": "https://github.com/ilslaoaycd/isagent",
+      "npmUrl": "https://www.npmjs.com/package/isagent.js",
+      "category": "testing",
+      "createdAt": "2026-11-20T21:32:58.214Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 97
+    },
+    {
       "name": "ishan-ui",
       "version": "0.1.0",
       "description": "A flexible, config-driven React component library built with TypeScript, focused on customization, performance, and developer experience.",
@@ -105132,6 +105384,18 @@
       "createdAt": "2026-08-10T21:57:06.405Z",
       "discoveredAt": "2026-08-10T22:28:01.795Z",
       "score": 91
+    },
+    {
+      "name": "jev-codeguard",
+      "version": "1.1.0",
+      "description": "Command firewall, AST security auditor, context pruner & zero-token git diff verifier for AI coding agents (Claude Code, Codex, Cursor, Gemini) — powered by TypeSafe AI Jev",
+      "license": "MIT",
+      "repository": "https://github.com/undowhai113/jev-codeguard",
+      "npmUrl": "https://www.npmjs.com/package/jev-codeguard",
+      "category": "utilities",
+      "createdAt": "2026-11-20T08:35:57.614Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 97
     },
     {
       "name": "jev-router-mcp",
@@ -129182,6 +129446,18 @@
       "score": 89
     },
     {
+      "name": "sauna-mcp-server",
+      "version": "1.0.0",
+      "description": "MCP server for sauna questions: plan a session, size a heater, look up bathing traditions and sauna words. Runs locally over stdio, read-only, no network.",
+      "license": "MIT",
+      "repository": "https://github.com/divelux/sauna-mcp-server",
+      "npmUrl": "https://www.npmjs.com/package/sauna-mcp-server",
+      "category": "backend",
+      "createdAt": "2026-11-20T06:28:09.745Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 93
+    },
+    {
       "name": "save-page-we",
       "version": "1.0.0",
       "description": "Save a complete web page as a single self-contained HTML file with headless Chrome - a Node.js port of the Save Page WE browser extension",
@@ -129996,6 +130272,18 @@
       "createdAt": "2026-09-16T13:50:27.087Z",
       "discoveredAt": "2026-09-16T16:40:45.878Z",
       "score": 90
+    },
+    {
+      "name": "serpscraper",
+      "version": "1.2.0",
+      "description": "Node.js & TypeScript SERP API client: real-time Google search results, AI Overviews, Google Trends, news, images, maps and SEO data as JSON. 5,000 free credits on signup.",
+      "license": "MIT",
+      "repository": "https://github.com/tienphat/serpscraper.dev",
+      "npmUrl": "https://www.npmjs.com/package/serpscraper",
+      "category": "backend",
+      "createdAt": "2026-11-20T06:45:04.877Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 97
     },
     {
       "name": "serverless-python-requirements-dttl",
@@ -141456,6 +141744,18 @@
       "createdAt": "2026-09-30T10:17:02.935Z",
       "discoveredAt": "2026-10-01T01:55:29.783Z",
       "score": 98
+    },
+    {
+      "name": "xalman-all-downloader",
+      "version": "1.0.0",
+      "description": "NX Downloader by Xalman: Node.js SDK, CLI and bot helper to fetch and download video, audio and images from YouTube, TikTok, Facebook, Instagram, Twitter/X, Spotify, Pinterest, Reddit and 15+ more platforms. Zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/xalmandevv/xalman-all-downloader",
+      "npmUrl": "https://www.npmjs.com/package/xalman-all-downloader",
+      "category": "backend",
+      "createdAt": "2026-11-20T07:22:25.048Z",
+      "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 100
     },
     {
       "name": "xbox-ai-controller",
