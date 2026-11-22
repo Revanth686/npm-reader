@@ -11594,6 +11594,18 @@
       "score": 87
     },
     {
+      "name": "@callmewanz/bails",
+      "version": "1.0.0",
+      "description": "Baileys - wanz fork of Baileys: WhatsApp Web WebSocket library with merged extra socket layers (privacy, interop, GraphQL, message builder), sticker packs and SQLite auth state",
+      "license": "MIT",
+      "repository": "https://github.com/t.me/WanzzWangsaf",
+      "npmUrl": "https://www.npmjs.com/package/%40callmewanz%2Fbails",
+      "category": "backend",
+      "createdAt": "2026-11-21T08:06:04.420Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 92
+    },
+    {
       "name": "@callmidavid/apidiff",
       "version": "1.0.0",
       "description": "Real-time API contract drift detector & sniffing proxy for JavaScript/TypeScript and Node.js applications",
@@ -12864,6 +12876,18 @@
       "createdAt": "2026-08-02T19:09:58.044Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 82
+    },
+    {
+      "name": "@choudhary204/env-doctor",
+      "version": "1.0.0",
+      "description": "A smart environment configuration diagnostic tool — scan, validate, diagnose, and report issues in .env files before they cause problems.",
+      "license": "MIT",
+      "repository": "https://github.com/Choudhary204/env-doctor",
+      "npmUrl": "https://www.npmjs.com/package/%40choudhary204%2Fenv-doctor",
+      "category": "cli",
+      "createdAt": "2026-11-21T18:38:04.214Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 93
     },
     {
       "name": "@chris235/paperless-mcp",
@@ -15084,6 +15108,18 @@
       "createdAt": "2026-07-25T18:39:10.530Z",
       "discoveredAt": "2026-07-25T18:56:02.738Z",
       "score": 57
+    },
+    {
+      "name": "@cred-kit/core",
+      "version": "0.1.0",
+      "description": "Framework-agnostic, storage-agnostic authentication core for Node.js: registration, verified email login, rotating refresh tokens with reuse detection, OAuth account linking, profiles, and audit logging.",
+      "license": "MIT",
+      "repository": "https://github.com/NehanAhmed/cred",
+      "npmUrl": "https://www.npmjs.com/package/%40cred-kit%2Fcore",
+      "category": "build-tools",
+      "createdAt": "2026-11-21T05:06:41.623Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
     },
     {
       "name": "@crediolabs/agent-web-wallets",
@@ -32354,6 +32390,126 @@
       "score": 48
     },
     {
+      "name": "@hoshinotatsuya/arch-gates",
+      "version": "0.12.3",
+      "description": "Architecture gates for TypeScript projects as jest rules with downward-only ratchets: one declaration per file, no wall-clock timing in specs, no type-check suppression, Node version floor, grouped test runs, reviewed migrations, pooler-safe SQL and more.",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/arch-gates",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Farch-gates",
+      "category": "testing",
+      "createdAt": "2026-11-21T10:35:54.907Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/committed-secrets",
+      "version": "0.6.3",
+      "description": "Gate that keeps literal secrets out of committed files: keys of any shape, command lines, base64 credentials, known token formats and URLs with passwords, for CI, commit hooks and history audits; values are never printed.",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/committed-secrets",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fcommitted-secrets",
+      "category": "data",
+      "createdAt": "2026-11-21T10:36:29.499Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/contracts",
+      "version": "0.4.0",
+      "description": "Executable contracts between independently deployed repositories: deterministic schema snapshots from Zod or TypeScript, directional writer-to-reader compatibility checked against the other side's deployed revision, versioned payloads with tolerant reads,",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/contracts",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fcontracts",
+      "category": "testing",
+      "createdAt": "2026-11-21T10:37:07.346Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/deps-guard",
+      "version": "0.7.2",
+      "description": "Supply-chain gate for npm dependencies in CI and commit hooks: new dependencies need a reason, install scripts need a decision, packages must come from allowed registries with integrity, plus look-alike names, fresh versions, floating ranges and banned pa",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/deps-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fdeps-guard",
+      "category": "testing",
+      "createdAt": "2026-11-21T10:36:50.291Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/net-guard",
+      "version": "0.7.2",
+      "description": "SSRF protection for Node.js: decides whether an outbound destination is public (IPv4/IPv6 in every form, embedded IPv4, internal zones, cloud metadata) and enforces it in http/https agents, undici, fetch, axios, got, http2 and CONNECT proxies.",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/net-guard",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fnet-guard",
+      "category": "backend",
+      "createdAt": "2026-11-21T10:37:27.262Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/outbox",
+      "version": "0.8.1",
+      "description": "Transactional outbox for Postgres with drizzle-orm or plain pg: events written in the caller's transaction, delivered at least once by a SKIP LOCKED relay with retries, DEAD letters, ordering, coalescing, LISTEN wake-up and an idempotent inbox.",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/outbox",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Foutbox",
+      "category": "data",
+      "createdAt": "2026-11-21T10:37:58.088Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/pg-migrate",
+      "version": "0.7.2",
+      "description": "Safe drizzle-orm migrations for Postgres: advisory lock with a wait ceiling, lock_timeout, refusal on INVALID indexes and skipped migrations, CREATE INDEX CONCURRENTLY, batched backfills, expand/contract phases, plans and schema drift checks.",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/pg-migrate",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fpg-migrate",
+      "category": "data",
+      "createdAt": "2026-11-21T10:38:08.596Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/pg-replica-sync",
+      "version": "0.2.2",
+      "description": "Read-your-writes reads from PostgreSQL replicas by WAL position: a signed position token after a write, only a caught-up replica of the same cluster and timeline, otherwise the primary; a lag ceiling without a token, a bounded state cache, and the primary",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/pg-replica-sync",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fpg-replica-sync",
+      "category": "data",
+      "createdAt": "2026-11-21T10:38:38.630Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/pg-runtime",
+      "version": "0.9.1",
+      "description": "Postgres transactions for drizzle-orm and node-postgres that never leak, poison or misreport a pool connection: safe BEGIN/COMMIT/ROLLBACK, retries, savepoints, advisory locks, RLS context and transaction-pooler (PgBouncer) guards.",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/pg-runtime",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fpg-runtime",
+      "category": "data",
+      "createdAt": "2026-11-21T10:37:48.036Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
+      "name": "@hoshinotatsuya/pg-saga",
+      "version": "0.4.1",
+      "description": "Saga orchestration on plain PostgreSQL on top of a transactional outbox: typed steps with compensations, instance state committed in the same transaction as the step's writes and the next command, retries with backoff, step timeouts, reverse-order compens",
+      "license": "MIT",
+      "repository": "https://github.com/HoshinoTatsuya/pg-saga",
+      "npmUrl": "https://www.npmjs.com/package/%40hoshinotatsuya%2Fpg-saga",
+      "category": "data",
+      "createdAt": "2026-11-21T10:38:18.128Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 90
+    },
+    {
       "name": "@hotkv/client",
       "version": "1.0.0",
       "description": "A high-performance Node.js client for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features.",
@@ -34980,6 +35136,18 @@
       "createdAt": "2026-08-09T21:03:46.229Z",
       "discoveredAt": "2026-08-09T22:54:46.351Z",
       "score": 28
+    },
+    {
+      "name": "@iwer/native",
+      "version": "2.9.0",
+      "description": "EXPERIMENTAL ALPHA, not production ready. Run an unmodified WebXR (IWSDK / three.js) bundle natively on Meta Quest and other Android OpenXR headsets, with no browser: prebuilt runtime template APK, packer/signer, compat checker and CLI. Not every web API",
+      "license": "MIT",
+      "repository": "https://github.com/meta-quest/immersive-web-emulation-runtime",
+      "npmUrl": "https://www.npmjs.com/package/%40iwer%2Fnative",
+      "category": "frontend",
+      "createdAt": "2026-11-21T22:36:36.511Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 92
     },
     {
       "name": "@ixmachina/memory",
@@ -42744,6 +42912,18 @@
       "createdAt": "2026-08-09T10:42:56.644Z",
       "discoveredAt": "2026-08-09T10:59:20.876Z",
       "score": 43
+    },
+    {
+      "name": "@marianmeres/file-relay",
+      "version": "1.8.0",
+      "description": "CLI and library that relays local files (e.g. database dumps) to a remote destination, by HTTP upload or filesystem copy, with glob/regex filtering, marker-file deduplication, retries and optional email notification. Built for cron-driven offsite backups.",
+      "license": "MIT",
+      "repository": "https://github.com/marianmeres/file-relay",
+      "npmUrl": "https://www.npmjs.com/package/%40marianmeres%2Ffile-relay",
+      "category": "backend",
+      "createdAt": "2026-11-21T10:08:29.151Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 92
     },
     {
       "name": "@mariczne/pi-power-user",
@@ -54156,6 +54336,18 @@
       "createdAt": "2026-08-14T01:51:25.184Z",
       "discoveredAt": "2026-08-14T03:58:58.196Z",
       "score": 80
+    },
+    {
+      "name": "@poolse/crypto",
+      "version": "3.9.0",
+      "description": "End-to-end encryption for poolse personal data on WebCrypto only: device key pairs, an account key wrapped per device and per recovery key, per-item keys, sharing by key wrapping, rotation on revoke, chunked attachments, signed QR device approval, and enc",
+      "license": "SEE LICENSE IN LICENSE",
+      "repository": "https://github.com/poolse-hq/js-sdk",
+      "npmUrl": "https://www.npmjs.com/package/%40poolse%2Fcrypto",
+      "category": "frontend",
+      "createdAt": "2026-11-21T20:24:23.449Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 98
     },
     {
       "name": "@poolsideai/n8n-nodes-poolside",
@@ -72710,6 +72902,18 @@
       "score": 67
     },
     {
+      "name": "@webship-js/aspnet-core-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for the account pages every ASP.NET Core app with individual accounts has, a plugin for webship-js (Playwright and Cucumber): log in and out and the refusals of the login form, two-factor sign-in with a code worked out from the a",
+      "license": "MIT",
+      "repository": "https://github.com/webship/aspnet-core-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Faspnet-core-steps",
+      "category": "testing",
+      "createdAt": "2026-11-21T16:28:50.045Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/bootstrap-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for the components of any site that uses Bootstrap 5.3 (and 4.6 where the same step holds), a plugin for webship-js (Playwright and Cucumber): dialogs, side panels, drop-down menus, panels and accordions, tabs, the navigation bar",
@@ -72866,6 +73070,18 @@
       "score": 100
     },
     {
+      "name": "@webship-js/nextcloud-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for testing a Nextcloud file and collaboration server, a plugin for webship-js (Playwright and Cucumber): the login and its refusal, logging out and the forgotten password through the mail catcher, the header (apps menu, user men",
+      "license": "MIT",
+      "repository": "https://github.com/webship/nextcloud-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fnextcloud-steps",
+      "category": "testing",
+      "createdAt": "2026-11-21T10:40:44.586Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/payload-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for the admin and the website of a Payload app, a plugin for webship-js (Playwright and Cucumber): the admin login and logout, the first-user screen and an account the admin refuses; a collection's list with its search, filters,",
@@ -72902,6 +73118,18 @@
       "score": 100
     },
     {
+      "name": "@webship-js/spring-boot-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for what Spring Boot and Spring Security give every app, a plugin for webship-js (Playwright and Cucumber): the generated login and logout pages and their refusals, remember-me and a session that ended, the redirect to the login",
+      "license": "MIT",
+      "repository": "https://github.com/webship/spring-boot-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fspring-boot-steps",
+      "category": "testing",
+      "createdAt": "2026-11-21T12:20:24.428Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/strapi-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for the Strapi admin panel, a plugin for webship-js (Playwright and Cucumber): the admin login and logout; the Content Manager list with its search, filters, sorting, columns, pages and bulk publish, unpublish and delete; the edi",
@@ -72923,6 +73151,18 @@
       "category": "testing",
       "createdAt": "2026-11-19T12:36:45.388Z",
       "discoveredAt": "2026-11-20T03:54:40.809Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/wagtail-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for Wagtail sites, a plugin for webship-js (Playwright and Cucumber): the admin login and the dashboard, the page explorer (the tree, search, a child page added), page editing (StreamField blocks added, moved and removed, the pre",
+      "license": "MIT",
+      "repository": "https://github.com/webship/wagtail-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fwagtail-steps",
+      "category": "testing",
+      "createdAt": "2026-11-21T23:24:22.732Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
       "score": 100
     },
     {
@@ -75168,6 +75408,18 @@
       "createdAt": "2026-08-12T18:57:23.954Z",
       "discoveredAt": "2026-08-12T19:53:23.284Z",
       "score": 67
+    },
+    {
+      "name": "@yriist/mcp",
+      "version": "1.1.0",
+      "description": "ЮрИИст MCP: ИИ-юрист по праву РФ для любого MCP-клиента (Claude, Cursor, VS Code, Windsurf, ChatGPT, Zed, Codex…). Stdio-мост к https://app.yriist.ru/api/mcp с входом через OAuth.",
+      "license": "MIT",
+      "repository": "https://github.com/Yriist/yriist-mcp",
+      "npmUrl": "https://www.npmjs.com/package/%40yriist%2Fmcp",
+      "category": "backend",
+      "createdAt": "2026-11-21T16:22:04.558Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 95
     },
     {
       "name": "@yroshcha/node-red-contrib-redis-full",
@@ -87516,6 +87768,18 @@
       "createdAt": "2026-07-29T18:49:13.571Z",
       "discoveredAt": "2026-07-29T19:01:01.137Z",
       "score": 70
+    },
+    {
+      "name": "complicache",
+      "version": "1.0.0",
+      "description": "Schema-driven Next.js Data Cache — definisikan entri cache, dependency graph, dan model effects sekali, pakai konsisten di semua proyek tanpa ribet cari sambungan.",
+      "license": "MIT",
+      "repository": "https://github.com/mdikifahriza/complicache",
+      "npmUrl": "https://www.npmjs.com/package/complicache",
+      "category": "data",
+      "createdAt": "2026-11-22T00:46:22.361Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 92
     },
     {
       "name": "composite-voice",
@@ -123434,6 +123698,18 @@
       "score": 93
     },
     {
+      "name": "postgrelize",
+      "version": "1.0.0",
+      "description": "PostgreSQL-only ORM, drop-in compatible with the Sequelize v6 API. Ships llm/USAGE.md and an Agent Skill for LLMs.",
+      "license": "MIT",
+      "repository": "https://github.com/tormozz48/postgrelize",
+      "npmUrl": "https://www.npmjs.com/package/postgrelize",
+      "category": "backend",
+      "createdAt": "2026-11-21T13:33:58.157Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 91
+    },
+    {
       "name": "postgres-mcp-hardened",
       "version": "0.1.2",
       "description": "Secure read-only PostgreSQL MCP server in Rust — a maintained alternative to the deprecated @modelcontextprotocol/server-postgres. Blocks writes at the AST, not with regexes.",
@@ -124764,6 +125040,18 @@
       "createdAt": "2026-08-08T07:13:38.571Z",
       "discoveredAt": "2026-08-08T07:32:51.663Z",
       "score": 52
+    },
+    {
+      "name": "quiql-lazy",
+      "version": "1.0.0",
+      "description": "Ultra-lightweight, zero-dependency JS library for lazy loading media and on-demand external resources with request deduplication, DOM caching, and IntersectionObserver support. Engineered for Core Web Vitals and Green IT.",
+      "license": "MIT",
+      "repository": "https://github.com/quiql/quiql-lazy",
+      "npmUrl": "https://www.npmjs.com/package/quiql-lazy",
+      "category": "frontend",
+      "createdAt": "2026-11-21T20:00:38.020Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 96
     },
     {
       "name": "quirk-sdk",
@@ -138252,6 +138540,18 @@
       "createdAt": "2026-07-26T07:46:50.326Z",
       "discoveredAt": "2026-07-26T08:11:30.990Z",
       "score": 94
+    },
+    {
+      "name": "universal-skeleton",
+      "version": "1.1.0",
+      "description": "Framework-agnostic skeleton loader that auto-generates skeletons from your real UI. 8 effects (shimmer, wave, pulse, fade, blink, sheen, bounce). Zero dependencies. Works via CDN, React, Vue, Angular, Svelte, Web Components — any JS or TS project.",
+      "license": "MIT",
+      "repository": "https://github.com/Kiran-Deokar/universal-skeleton",
+      "npmUrl": "https://www.npmjs.com/package/universal-skeleton",
+      "category": "frontend",
+      "createdAt": "2026-11-21T14:31:44.760Z",
+      "discoveredAt": "2026-11-22T02:55:13.713Z",
+      "score": 100
     },
     {
       "name": "unknown-keys",
