@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 146633390,
-  "lastRunAt": "2026-11-22T02:55:13.713Z",
+  "lastSequence": 146801453,
+  "lastRunAt": "2026-11-23T03:37:12.706Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
-  "pendingPackages": []
+  "pendingPackages": [
+    {
+      "name": "@serve.zone/dcstorage",
+      "attempts": 1
+    },
+    {
+      "name": "@kirora/expo-plugin",
+      "attempts": 1
+    },
+    {
+      "name": "@gitmyabi/ethlock",
+      "attempts": 1
+    },
+    {
+      "name": "@vowt-tech/ui",
+      "attempts": 1
+    }
+  ]
 }

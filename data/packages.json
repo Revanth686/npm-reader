@@ -1022,6 +1022,18 @@
       "score": 67
     },
     {
+      "name": "@abiramcodes/ng-point",
+      "version": "1.0.0",
+      "description": "Dev-mode-only Angular package: Alt+Click any element to capture an LLM-ready context block (component, file:line, template, directives, parent) — copied to the clipboard and queued for AI coding agents.",
+      "license": "MIT",
+      "repository": "https://github.com/abiramcodes/ng-point",
+      "npmUrl": "https://www.npmjs.com/package/%40abiramcodes%2Fng-point",
+      "category": "frontend",
+      "createdAt": "2026-11-22T09:32:36.378Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
+    },
+    {
       "name": "@abix5/pi-beads",
       "version": "0.2.1",
       "description": "Context-lean beads (bd) task tracking for pi: compact beads_* tools, once-per-segment lean prime, umbrella multi-repo reads with prefix-routed writes, an in-progress widget, and a bundled beads skill.",
@@ -12432,6 +12444,18 @@
       "createdAt": "2026-09-10T14:45:04.013Z",
       "discoveredAt": "2026-09-10T16:16:34.181Z",
       "score": 89
+    },
+    {
+      "name": "@cexi/hoonica",
+      "version": "1.0.0",
+      "description": "Unofficial Instagram Chat API for Node.js | Build Instagram DM bots on personal accounts — send messages, media, voice notes, reactions, edit & unsend, listen for incoming chats. No browser at runtime",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/bdrakib123/hoon-ica",
+      "npmUrl": "https://www.npmjs.com/package/%40cexi%2Fhoonica",
+      "category": "frontend",
+      "createdAt": "2026-11-22T07:04:31.214Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 100
     },
     {
       "name": "@cexy/wonfca",
@@ -43022,6 +43046,18 @@
       "score": 68
     },
     {
+      "name": "@marslanmustafa/prayer-engine",
+      "version": "1.0.0",
+      "description": "Universal Islamic prayer times, Dahwa-e-Kubra, Qibla compass, and Hijri moon-sighting engine with multi-school support (Hanafi, Shafi'i, Karachi, Umm al-Qura, MWL).",
+      "license": "MIT",
+      "repository": "https://github.com/marslanmustafa/prayer-engine",
+      "npmUrl": "https://www.npmjs.com/package/%40marslanmustafa%2Fprayer-engine",
+      "category": "frontend",
+      "createdAt": "2026-11-22T18:47:44.209Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
+    },
+    {
       "name": "@marufhosen-cdda/biwd-api-key-card",
       "version": "1.0.0",
       "description": "A React component that validates an API key against a built-in expected value (BIWD-1234) and renders the result in a status card.",
@@ -45324,6 +45360,18 @@
       "createdAt": "2026-08-14T14:43:21.254Z",
       "discoveredAt": "2026-08-14T15:01:05.305Z",
       "score": 80
+    },
+    {
+      "name": "@mohammed_kashif/requestid",
+      "version": "1.0.0",
+      "description": "Lightweight, configurable Express.js middleware that automatically generates, validates, manages, and propagates unique HTTP request identifiers.",
+      "license": "MIT",
+      "repository": "https://github.com/Mohammedkashif17/requestid",
+      "npmUrl": "https://www.npmjs.com/package/%40mohammed_kashif%2Frequestid",
+      "category": "backend",
+      "createdAt": "2026-11-22T14:21:31.744Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 94
     },
     {
       "name": "@mohitagw15856/rulebook",
@@ -53966,6 +54014,90 @@
       "score": 56
     },
     {
+      "name": "@plusguard/anchor",
+      "version": "3.3.2",
+      "description": "In-page scrolling from HTML attributes: to a section, the top or the bottom, with a set duration — with or without Lenis. A back-to-top button that shows after a set scroll and steps out of the way of marked elements. Zero dependencies, framework-agnostic",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/anchor",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Fanchor",
+      "category": "data",
+      "createdAt": "2026-11-22T14:07:41.618Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
+    },
+    {
+      "name": "@plusguard/fit-more-nav",
+      "version": "1.4.1",
+      "description": "A row that always fits: menu items or tabs that don't fit move to a \"More\" dropdown, by priority, and come back as the row grows. The current one never hides. Completes @plusguard/dropdown; with target-functions for tabs and anchor for long tabs and the a",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/fit-more-nav",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Ffit-more-nav",
+      "category": "utilities",
+      "createdAt": "2026-11-22T14:08:18.044Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 94
+    },
+    {
+      "name": "@plusguard/loading-progress",
+      "version": "1.3.1",
+      "description": "A thin loading bar along the top of the page, as YouTube shows: from the first paint, on every page change, and for your own jobs — filling only once the page is ready, skeletons gone. HTML attributes for timing, for Next and static sites alike. Zero depe",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/loading-progress",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Floading-progress",
+      "category": "data",
+      "createdAt": "2026-11-22T14:08:02.070Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
+    },
+    {
+      "name": "@plusguard/marquee",
+      "version": "1.2.2",
+      "description": "Scrolling strips that loop without a seam: announcement bars, logo rows, testimonial columns. Flows at a set speed in px/s, or steps one item at a time; moves only when it does not fit, if you like; speeds up and turns with the page's scroll. Pauses on ho",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/marquee",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Fmarquee",
+      "category": "testing",
+      "createdAt": "2026-11-22T14:08:25.821Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 94
+    },
+    {
+      "name": "@plusguard/scroll-canvas",
+      "version": "1.1.2",
+      "description": "Apple-style scroll scenes: an image sequence drawn on a canvas, frame by frame, driven by your own GSAP ScrollTrigger — titles and buttons on the same timeline. Sharp on Retina, lighter frames for phones, loads in a smart order, rests on a still frame for",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/scroll-canvas",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Fscroll-canvas",
+      "category": "utilities",
+      "createdAt": "2026-11-22T14:08:28.994Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
+    },
+    {
+      "name": "@plusguard/scrollbar",
+      "version": "1.1.2",
+      "description": "A custom scrollbar from HTML attributes: a thin bar that shows on hover and while scrolling, and can be dragged or clicked — for the page and for any scrolling panel or pop-up, with or without Lenis. Zero dependencies, framework-agnostic. CSS included.",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/scrollbar",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Fscrollbar",
+      "category": "frontend",
+      "createdAt": "2026-11-22T14:08:08.091Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 94
+    },
+    {
+      "name": "@plusguard/spotlight",
+      "version": "1.2.1",
+      "description": "A large logo lit by the pointer: a dim, grainy wordmark that brightens in a soft circle around the cursor — or stays dark until the pointer finds it. From HTML attributes, for any SVG; light and dark, with or without Lenis. Zero dependencies. CSS included",
+      "license": "MIT",
+      "repository": "https://github.com/omisilli/spotlight",
+      "npmUrl": "https://www.npmjs.com/package/%40plusguard%2Fspotlight",
+      "category": "frontend",
+      "createdAt": "2026-11-22T14:08:32.022Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 100
+    },
+    {
       "name": "@pmateusz/pi-workflows",
       "version": "0.0.1",
       "description": "Define arbitrary workflows in TypeScript and run them inside the PI coding harness.",
@@ -56100,6 +56232,18 @@
       "createdAt": "2026-08-31T17:58:27.629Z",
       "discoveredAt": "2026-08-31T19:04:44.008Z",
       "score": 98
+    },
+    {
+      "name": "@quiql/lazy",
+      "version": "1.0.0",
+      "description": "Ultra-lightweight, zero-dependency JS library for lazy loading media and on-demand external resources with request deduplication, DOM caching, and IntersectionObserver support. Engineered for Core Web Vitals and Green IT.",
+      "license": "MIT",
+      "repository": "https://github.com/quiql/lazy",
+      "npmUrl": "https://www.npmjs.com/package/%40quiql%2Flazy",
+      "category": "frontend",
+      "createdAt": "2026-11-22T20:00:25.583Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
     },
     {
       "name": "@quphoria/react-oauth2-code-pkce",
@@ -58548,6 +58692,18 @@
       "createdAt": "2026-08-12T08:25:58.173Z",
       "discoveredAt": "2026-08-12T09:03:28.465Z",
       "score": 95
+    },
+    {
+      "name": "@rosepetal/node-red-contrib-barcode",
+      "version": "1.5.3",
+      "description": "Rosepetal barcode nodes for Node-RED: a multi-decoder reader (ZBar, ZXing, Quagga2 and the Rosepetal SDK engine) and an ISO/IEC 15416 + GS1 print-quality verifier",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/rosepetal-ai/node-red-contrib-barcode",
+      "npmUrl": "https://www.npmjs.com/package/%40rosepetal%2Fnode-red-contrib-barcode",
+      "category": "utilities",
+      "createdAt": "2026-11-22T16:37:29.910Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
     },
     {
       "name": "@roshan-here/web-media-player",
@@ -72914,6 +73070,18 @@
       "score": 100
     },
     {
+      "name": "@webship-js/bbpress-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for forums on WordPress with bbPress, a plugin for webship-js (Playwright and Cucumber): the forum index, a forum and its topics, a topic and its posts, the topic and reply forms (tags, formatting, an edit with its reason), subsc",
+      "license": "MIT",
+      "repository": "https://github.com/webship/bbpress-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fbbpress-steps",
+      "category": "testing",
+      "createdAt": "2026-11-22T11:25:32.584Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/bootstrap-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for the components of any site that uses Bootstrap 5.3 (and 4.6 where the same step holds), a plugin for webship-js (Playwright and Cucumber): dialogs, side panels, drop-down menus, panels and accordions, tabs, the navigation bar",
@@ -73091,6 +73259,18 @@
       "category": "testing",
       "createdAt": "2026-11-20T06:26:15.710Z",
       "discoveredAt": "2026-11-21T03:51:13.685Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/phpbb-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for phpBB boards, a plugin for webship-js (Playwright and Cucumber): the board index, forums and topics, posting (a new topic, a reply, a quote, the preview, an edit, attachments, drafts, the quick reply), polls, bookmarks and su",
+      "license": "MIT",
+      "repository": "https://github.com/webship/phpbb-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fphpbb-steps",
+      "category": "testing",
+      "createdAt": "2026-11-22T04:49:42.592Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
       "score": 100
     },
     {
@@ -83462,6 +83642,18 @@
       "score": 89
     },
     {
+      "name": "bozzetto",
+      "version": "1.0.0",
+      "description": "Seeded placeholder images as tiny SVGs: landscapes, art, people, animals, food, plants, buildings, vehicles, products, music, sports, holidays, space and patterns, in any palette.",
+      "license": "MIT",
+      "repository": "https://github.com/MattPutnam/bozzetto",
+      "npmUrl": "https://www.npmjs.com/package/bozzetto",
+      "category": "frontend",
+      "createdAt": "2026-11-22T23:57:54.886Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 97
+    },
+    {
       "name": "bpmn-canvas",
       "version": "1.0.0",
       "description": "A lightweight, zero-dependency workflow canvas and diagram modeler inspired by BPMN 2.0, built with native DOM + SVG architecture.",
@@ -87230,6 +87422,18 @@
       "score": 55
     },
     {
+      "name": "codeharden",
+      "version": "2026.1122.2133",
+      "description": "A local-first harness for coding agents: Claude Code, Codex and OpenCode sessions, an orchestrator and project managers, an inbox, GitHub traceability, automations and an experimental dark factory.",
+      "license": "MIT",
+      "repository": "https://github.com/harperaa/codeharden",
+      "npmUrl": "https://www.npmjs.com/package/codeharden",
+      "category": "utilities",
+      "createdAt": "2026-11-23T02:44:39.111Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 99
+    },
+    {
       "name": "codeigniter-mcp",
       "version": "0.1.1",
       "description": "MCP (Model Context Protocol) server that accelerates development of a custom PHP framework inspired by CodeIgniter: MVC + optional Services/Repository layer. Scaffolds controllers, services, repositories, entities, migrations and tests; validates routes a",
@@ -90888,6 +91092,18 @@
       "createdAt": "2026-07-25T13:37:39.234Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 61
+    },
+    {
+      "name": "devkit-js-utils",
+      "version": "1.0.0",
+      "description": "DevKit JS - a lightweight, dependency-free, well-tested collection of array, string, object and number utilities for modern JavaScript (ES Modules).",
+      "license": "MIT",
+      "repository": "https://github.com/sanjog24/devkit-js",
+      "npmUrl": "https://www.npmjs.com/package/devkit-js-utils",
+      "category": "testing",
+      "createdAt": "2026-11-22T16:33:11.203Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 94
     },
     {
       "name": "dexiecable",
@@ -94670,6 +94886,18 @@
       "score": 98
     },
     {
+      "name": "dsh-plugin-rockdesk",
+      "version": "1.0.18",
+      "description": "RockDesk for DeepSeek Harness: a skill that lets dsh work on your other computers through RockDesk's rds command line — shell with real exit codes, files, screenshots, mouse and keyboard, clipboard, port forwarding. Peer-to-peer by 9-digit ID, no open por",
+      "license": "MIT",
+      "repository": "https://github.com/rockdesk-io/rockdesk-skill",
+      "npmUrl": "https://www.npmjs.com/package/dsh-plugin-rockdesk",
+      "category": "cli",
+      "createdAt": "2026-11-23T00:23:03.136Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 100
+    },
+    {
       "name": "dsh-plugin-security-review",
       "version": "1.8.1",
       "description": "Static bundle form of the DSH plugin-install security gate: reviews cordis_define/cordis_run with a fail-safe policy, plus review/audit tools and a browser approval popup (agree / agree+whitelist / reject; agree+whitelist writes the plugin family into tru",
@@ -97200,6 +97428,18 @@
       "createdAt": "2026-08-02T19:44:29.024Z",
       "discoveredAt": "2026-08-02T20:09:56.019Z",
       "score": 85
+    },
+    {
+      "name": "envpilot-dev",
+      "version": "1.0.0",
+      "description": "Developer-first environment configuration auditor for JavaScript and TypeScript projects. Detect missing, unused, and inconsistent environment variables before deployment.",
+      "license": "MIT",
+      "repository": "https://github.com/aryan118335/envpilot",
+      "npmUrl": "https://www.npmjs.com/package/envpilot-dev",
+      "category": "build-tools",
+      "createdAt": "2026-11-22T14:05:49.256Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 97
     },
     {
       "name": "eplan-docs-ru-skill",
@@ -103200,6 +103440,18 @@
       "createdAt": "2026-08-09T14:13:32.224Z",
       "discoveredAt": "2026-08-09T14:26:07.307Z",
       "score": 71
+    },
+    {
+      "name": "homebridge-eufy-clean-robovac-matter",
+      "version": "2.6.0",
+      "description": "Homebridge 2.x plugin that exposes a Eufy RoboVac as a native Matter Robotic Vacuum Cleaner, over the eufy cloud (novel models e.g. L60) or local Tuya LAN (legacy models).",
+      "license": "MIT",
+      "repository": "https://github.com/peterrussell/homebridge-eufy-robovac-matter",
+      "npmUrl": "https://www.npmjs.com/package/homebridge-eufy-clean-robovac-matter",
+      "category": "devops",
+      "createdAt": "2026-11-22T21:32:05.600Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 95
     },
     {
       "name": "homebridge-fritz-enhance",
@@ -111710,6 +111962,18 @@
       "score": 86
     },
     {
+      "name": "medusa-plugin-converter-studio",
+      "version": "1.0.0",
+      "description": "Medusa v2 plugin: converts product images to WebP, AVIF or JPG (HEIC, PNG, JPG, TIFF, BMP) with Converter Studio's API, automatically on upload or from the admin. Originals are kept and can be restored.",
+      "license": "MIT",
+      "repository": "https://github.com/tariksucu/medusa-plugin-converter-studio",
+      "npmUrl": "https://www.npmjs.com/package/medusa-plugin-converter-studio",
+      "category": "backend",
+      "createdAt": "2026-11-23T00:25:05.388Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 100
+    },
+    {
       "name": "medusa-provider-notification-volanea",
       "version": "1.0.0",
       "description": "Volanea notification provider for Medusa v2 — send Medusa's transactional email (order confirmations, password resets, invites) through the Volanea API.",
@@ -113172,6 +113436,18 @@
       "createdAt": "2026-08-09T14:42:34.559Z",
       "discoveredAt": "2026-08-09T14:59:56.278Z",
       "score": 70
+    },
+    {
+      "name": "multicloud-costopti-mcp",
+      "version": "1.0.0",
+      "description": "Multi-cloud cost optimization MCP server for AWS, Azure, and GCP — unified FinOps visibility, rightsizing, waste detection, and savings recommendations for AI-powered IDEs and agents",
+      "license": "MIT",
+      "repository": "https://github.com/skmahe1077/multicloud-costopti-mcp",
+      "npmUrl": "https://www.npmjs.com/package/multicloud-costopti-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-22T19:20:00.167Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 98
     },
     {
       "name": "munim-xr",
@@ -122978,6 +123254,18 @@
       "score": 100
     },
     {
+      "name": "plain-consent",
+      "version": "2.2.1",
+      "description": "Plain Consent: a free, dependency-free cookie consent banner, built on vanilla-cookieconsent. Opt-in, Google Consent Mode v2, Subresource Integrity, strict-CSP friendly.",
+      "license": "MIT",
+      "repository": "https://github.com/petrhromadka/plain-consent",
+      "npmUrl": "https://www.npmjs.com/package/plain-consent",
+      "category": "utilities",
+      "createdAt": "2026-11-22T11:52:43.753Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 96
+    },
+    {
       "name": "plaincloak",
       "version": "1.0.0",
       "description": "PlainCloak v1: paste-anywhere end-to-end encryption. TypeScript implementation for browsers and Node.",
@@ -123636,6 +123924,18 @@
       "createdAt": "2026-08-12T11:39:58.122Z",
       "discoveredAt": "2026-08-12T12:49:35.533Z",
       "score": 68
+    },
+    {
+      "name": "post-upload",
+      "version": "1.2.0",
+      "description": "Official Node.js SDK and MCP bridge for Post-Upload — one API to publish videos, photos, text & documents to 22 platforms: Instagram, YouTube, TikTok, Facebook, X, LinkedIn, Threads, Pinterest, Reddit, Bluesky, Google Business Profile, Discord, Telegram,",
+      "license": "MIT",
+      "repository": "https://github.com/Indreelforge/indreelforge-node",
+      "npmUrl": "https://www.npmjs.com/package/post-upload",
+      "category": "backend",
+      "createdAt": "2026-11-22T17:07:57.524Z",
+      "discoveredAt": "2026-11-23T03:37:12.706Z",
+      "score": 100
     },
     {
       "name": "postale-mcp",
