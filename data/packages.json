@@ -50,6 +50,18 @@
       "score": 56
     },
     {
+      "name": "247heatmap-widget",
+      "version": "1.0.0",
+      "description": "Free, zero-API-key embeddable live 24/7 stock, ETF & crypto heatmap widget (Web Component, React, and HTML iframe) powered by 247heatmap.com",
+      "license": "MIT",
+      "repository": "https://github.com/247heatmap/247heatmap-widget",
+      "npmUrl": "https://www.npmjs.com/package/247heatmap-widget",
+      "category": "frontend",
+      "createdAt": "2026-11-24T06:44:59.669Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 94
+    },
+    {
       "name": "2fa-kit",
       "version": "1.0.1",
       "description": "Zero-dependency 2FA toolkit: HOTP/TOTP, otpauth URIs, encrypted secret storage, Google Authenticator migration import, and backup codes. Runs on Node 20+, Bun, Deno, edge workers, and browsers.",
@@ -2400,6 +2412,18 @@
       "createdAt": "2026-07-29T14:10:27.761Z",
       "discoveredAt": "2026-07-29T15:45:20.548Z",
       "score": 80
+    },
+    {
+      "name": "@agivanttechnologies/slopsquatshield",
+      "version": "1.0.0",
+      "description": "Install-time detector for hallucinated and slopsquat-style packages (npm, PyPI, Maven): a safe-install wrapper, AI-agent hooks, a manual scan and a pre-commit check.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/agivanttechnologies/SlopSquatShield",
+      "npmUrl": "https://www.npmjs.com/package/%40agivanttechnologies%2Fslopsquatshield",
+      "category": "devops",
+      "createdAt": "2026-11-23T12:25:14.449Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 96
     },
     {
       "name": "@agno-hq/agent-os",
@@ -14652,6 +14676,18 @@
       "createdAt": "2026-08-01T04:50:12.529Z",
       "discoveredAt": "2026-08-01T05:34:32.095Z",
       "score": 100
+    },
+    {
+      "name": "@converterstudio/node-red-converter-studio",
+      "version": "1.0.0",
+      "description": "Node-RED nodes for Converter Studio: convert video, audio, images, PDFs, documents, e-books, subtitles, data and archives (67 formats) in your flows.",
+      "license": "MIT",
+      "repository": "https://github.com/tariksucu/node-red-converter-studio",
+      "npmUrl": "https://www.npmjs.com/package/%40converterstudio%2Fnode-red-converter-studio",
+      "category": "data",
+      "createdAt": "2026-11-23T14:29:48.395Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 94
     },
     {
       "name": "@copylee/dsh-free-search",
@@ -32966,6 +33002,30 @@
       "score": 81
     },
     {
+      "name": "@hxp-tools/authenticity-check",
+      "version": "1.3.0",
+      "description": "Human or machine? Get an honest read. A diagnostic skill for AI coding agents that scores text and flags AI-sounding spans. Never rewrites.",
+      "license": "MIT",
+      "repository": "https://github.com/hannsxpeter/authenticity-check",
+      "npmUrl": "https://www.npmjs.com/package/%40hxp-tools%2Fauthenticity-check",
+      "category": "devops",
+      "createdAt": "2026-11-23T19:34:28.767Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 93
+    },
+    {
+      "name": "@hxp-tools/godpowers",
+      "version": "7.3.0",
+      "description": "Durable project state, evidence-backed \"done\", and gates enforced by hooks for Claude Code, Codex, and other AI coding tools. Eight commands, four agents, about 6K tokens of instructions.",
+      "license": "MIT",
+      "repository": "https://github.com/hannsxpeter/godpowers",
+      "npmUrl": "https://www.npmjs.com/package/%40hxp-tools%2Fgodpowers",
+      "category": "utilities",
+      "createdAt": "2026-11-23T07:22:38.729Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 94
+    },
+    {
       "name": "@hybridlabor-api/bdb-dev-uber-recipe-wrapper",
       "version": "1.0.1",
       "description": "Autonomous, cross-platform Uber tax invoice fetcher, batch downloader, and PDF accounting analyzer",
@@ -35208,6 +35268,18 @@
       "createdAt": "2026-08-07T03:43:13.290Z",
       "discoveredAt": "2026-08-07T04:32:40.756Z",
       "score": 65
+    },
+    {
+      "name": "@izonnet-web-solution/react-native-date-time-modal",
+      "version": "1.1.0",
+      "description": "A lightweight React Native date and time picker library built with native iOS and Android components using Swift and Kotlin. Supports date, time, and datetime selection with validation, min/max date, locale, 12/24-hour format, and customizable callbacks.",
+      "license": "MIT",
+      "repository": "https://github.com/Izonnet-Web-Solution/react-native-date-time-picker-kit",
+      "npmUrl": "https://www.npmjs.com/package/%40izonnet-web-solution%2Freact-native-date-time-modal",
+      "category": "frontend",
+      "createdAt": "2026-11-23T05:33:19.562Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 100
     },
     {
       "name": "@j2-health/design-system",
@@ -48060,6 +48132,18 @@
       "createdAt": "2026-08-09T09:58:42.759Z",
       "discoveredAt": "2026-08-09T12:33:09.910Z",
       "score": 58
+    },
+    {
+      "name": "@necmikural/copass",
+      "version": "2.0.0",
+      "description": "Continue an unfinished coding session in another AI agent — an evidence-based hand-over built from local session logs, with zero tokens and zero dependencies",
+      "license": "MIT",
+      "repository": "https://github.com/NecmiKural/copass",
+      "npmUrl": "https://www.npmjs.com/package/%40necmikural%2Fcopass",
+      "category": "cli",
+      "createdAt": "2026-11-23T22:55:03.222Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 95
     },
     {
       "name": "@needmoretruth/nmts-sdk",
@@ -65330,6 +65414,18 @@
       "score": 51
     },
     {
+      "name": "@sususgh/modsearch-c",
+      "version": "5.10.15",
+      "description": "The strongest free web search plugin for coding agents. Plug-in web search, X search, and page fetch for models without native web access. Free out of the box: no signup, no API key (Firecrawl keyless, 1,000 free credits/month)",
+      "license": "MIT",
+      "repository": "https://github.com/sususgh/modsearchA",
+      "npmUrl": "https://www.npmjs.com/package/%40sususgh%2Fmodsearch-c",
+      "category": "backend",
+      "createdAt": "2026-11-24T01:02:59.139Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 94
+    },
+    {
       "name": "@sutong12/dsh-mcp-lazy",
       "version": "0.13.0",
       "description": "MCP lazy-loading, dynamic tool-loading, and Tool Router plugin for DeepSeek Harness with fail-open schema progressive disclosure: hide compatible MCP tool schemas until routed to reduce context bloat and save tokens, while explicit lazy connections stay w",
@@ -66060,6 +66156,54 @@
       "createdAt": "2026-10-16T15:13:08.299Z",
       "discoveredAt": "2026-10-17T01:11:24.478Z",
       "score": 92
+    },
+    {
+      "name": "@table-bro/react-mui",
+      "version": "1.3.0",
+      "description": "Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuetify, Bootstrap, or a skin of your own.",
+      "license": "MIT",
+      "repository": "https://github.com/table-bro/table-bro",
+      "npmUrl": "https://www.npmjs.com/package/%40table-bro%2Freact-mui",
+      "category": "frontend",
+      "createdAt": "2026-11-23T22:45:46.642Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 100
+    },
+    {
+      "name": "@table-bro/solid-suid",
+      "version": "1.3.0",
+      "description": "Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuetify, Bootstrap, or a skin of your own.",
+      "license": "MIT",
+      "repository": "https://github.com/table-bro/table-bro",
+      "npmUrl": "https://www.npmjs.com/package/%40table-bro%2Fsolid-suid",
+      "category": "frontend",
+      "createdAt": "2026-11-23T22:45:49.396Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 100
+    },
+    {
+      "name": "@table-bro/svelte-m3",
+      "version": "1.3.0",
+      "description": "Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuetify, Bootstrap, or a skin of your own.",
+      "license": "MIT",
+      "repository": "https://github.com/table-bro/table-bro",
+      "npmUrl": "https://www.npmjs.com/package/%40table-bro%2Fsvelte-m3",
+      "category": "frontend",
+      "createdAt": "2026-11-23T22:45:53.279Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 100
+    },
+    {
+      "name": "@table-bro/vue-vuetify",
+      "version": "1.3.0",
+      "description": "Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuetify, Bootstrap, or a skin of your own.",
+      "license": "MIT",
+      "repository": "https://github.com/table-bro/table-bro",
+      "npmUrl": "https://www.npmjs.com/package/%40table-bro%2Fvue-vuetify",
+      "category": "frontend",
+      "createdAt": "2026-11-23T22:45:57.007Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 97
     },
     {
       "name": "@tabnas/chess-view",
@@ -75746,6 +75890,18 @@
       "score": 96
     },
     {
+      "name": "@yuvraj_babbar/india-id-toolkit",
+      "version": "1.0.0",
+      "description": "Production-quality CLI + library for validating and formatting Indian identity numbers: PAN, Aadhaar (Verhoeff), GSTIN, IFSC, phone, PIN code, Voter ID, Passport, Driving License, UPI.",
+      "license": "MIT",
+      "repository": "https://github.com/yuvrajbabbar/india-id-toolkit",
+      "npmUrl": "https://www.npmjs.com/package/%40yuvraj_babbar%2Findia-id-toolkit",
+      "category": "data",
+      "createdAt": "2026-11-23T13:54:10.667Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 96
+    },
+    {
       "name": "@z7ping/agent-lens",
       "version": "0.2.0",
       "description": "多 Agent 调用的全链路可观测性工具。统计 SKILL / Tool / MCP 调用次数，实时还原每一次会话的完整执行路径。",
@@ -75840,6 +75996,18 @@
       "createdAt": "2026-09-23T13:53:35.383Z",
       "discoveredAt": "2026-09-23T16:42:51.715Z",
       "score": 90
+    },
+    {
+      "name": "@zakkster/lite-bisect",
+      "version": "1.0.0",
+      "description": "Zero-GC binary search kernels for sorted typed arrays: branchless and branchy lower / upper bound, a galloping hint search, segment and nearest, one monomorphic copy per array type (Float64, Float32, Uint32, Uint16, Int32).",
+      "license": "MIT",
+      "repository": "https://github.com/PeshoVurtoleta/lite-bisect",
+      "npmUrl": "https://www.npmjs.com/package/%40zakkster%2Flite-bisect",
+      "category": "utilities",
+      "createdAt": "2026-11-23T23:25:54.542Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 100
     },
     {
       "name": "@zakkster/lite-cellular",
@@ -88346,6 +88514,18 @@
       "score": 99
     },
     {
+      "name": "converter-studio",
+      "version": "1.0.0",
+      "description": "Official JavaScript and TypeScript client and command-line tool for the Converter Studio API: convert HEIC, RAW, video, audio, documents and e-books from Node.js, Deno, Bun or a browser.",
+      "license": "MIT",
+      "repository": "https://github.com/tariksucu/converter-studio-js",
+      "npmUrl": "https://www.npmjs.com/package/converter-studio",
+      "category": "frontend",
+      "createdAt": "2026-11-23T14:29:47.173Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 98
+    },
+    {
       "name": "convex-multiplayer-cursors",
       "version": "0.1.1",
       "description": "Figma-style real-time multiplayer cursors for Convex: a reusable component (room presence with heartbeat/TTL, batched cursor trails) plus a React overlay with interpolated replay.",
@@ -88788,6 +88968,18 @@
       "createdAt": "2026-08-14T22:14:14.750Z",
       "discoveredAt": "2026-08-14T22:41:27.316Z",
       "score": 70
+    },
+    {
+      "name": "crawler-labyrinth",
+      "version": "1.0.0",
+      "description": "Zero-dependency Web-standard crawler tarpit, accessible-inert honeypot HTML helper, and RFC 9309 robots.txt patcher for Next.js, SvelteKit, Hono, Cloudflare Workers, Deno, and Node.",
+      "license": "MIT",
+      "repository": "https://github.com/arnoldwender/crawler-labyrinth-js",
+      "npmUrl": "https://www.npmjs.com/package/crawler-labyrinth",
+      "category": "frontend",
+      "createdAt": "2026-11-23T15:14:15.788Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 95
     },
     {
       "name": "crazy-claude",
@@ -90252,6 +90444,18 @@
       "createdAt": "2026-08-04T13:11:57.273Z",
       "discoveredAt": "2026-08-04T14:58:53.255Z",
       "score": 81
+    },
+    {
+      "name": "dbwatch-js",
+      "version": "1.0.0",
+      "description": "Database health monitoring toolkit for Node.js: connectivity checks, latency measurement, status events and periodic monitoring for PostgreSQL and MongoDB.",
+      "license": "MIT",
+      "repository": "https://github.com/sachinzzx/dbwatch",
+      "npmUrl": "https://www.npmjs.com/package/dbwatch-js",
+      "category": "backend",
+      "createdAt": "2026-11-23T16:43:38.761Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 95
     },
     {
       "name": "dbypass",
@@ -94610,6 +94814,18 @@
       "score": 44
     },
     {
+      "name": "dsh-phone-gate",
+      "version": "2.1.0",
+      "description": "Use DeepSeek Harness from your phone: a password-gated Cloudflare tunnel in front of the DSH Web GUI. Attaches to the running desktop app on its random port by minting the browser-session cookie DSH would mint, so no app and no VPN on the phone and zero c",
+      "license": "MIT",
+      "repository": "https://github.com/Junfei-Z/dsh-phone-remote",
+      "npmUrl": "https://www.npmjs.com/package/dsh-phone-gate",
+      "category": "frontend",
+      "createdAt": "2026-11-23T14:40:59.542Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 93
+    },
+    {
       "name": "dsh-picflow",
       "version": "0.3.1",
       "description": "DeepSeek Harness plugin: pasted screenshots become numbered image references. Every Ctrl+V image is admitted to the official attachment library with a stable 图片N number, listed in a composer-dock thumbnail panel with an @图片 source and a zoom overlay, can",
@@ -95220,6 +95436,18 @@
       "createdAt": "2026-08-28T14:10:14.398Z",
       "discoveredAt": "2026-08-28T22:10:49.845Z",
       "score": 96
+    },
+    {
+      "name": "dsh-rayrun-computer",
+      "version": "1.2.0",
+      "description": "Rayrun cloud computers for DeepSeek Harness (DSH): a Linux cloud computer in the sidebar with a noVNC desktop, an agent sandbox, rayrun_* tools for commands, files and whole-task delegation, and per-session cloud/local routing. 云电脑 / remote desktop; the t",
+      "license": "MIT",
+      "repository": "https://github.com/RayrunOS/dsh-rayrun-computer",
+      "npmUrl": "https://www.npmjs.com/package/dsh-rayrun-computer",
+      "category": "devops",
+      "createdAt": "2026-11-24T01:50:05.004Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 98
     },
     {
       "name": "dsh-reakit",
@@ -102456,6 +102684,18 @@
       "createdAt": "2026-07-25T19:04:45.845Z",
       "discoveredAt": "2026-07-25T20:08:25.989Z",
       "score": 58
+    },
+    {
+      "name": "guardrail-kit",
+      "version": "1.0.0",
+      "description": "Lightweight, zero-dependency Express.js middleware toolkit for logging, validation, rate limiting, body size enforcement, and centralized error handling.",
+      "license": "MIT",
+      "repository": "https://github.com/NopePlague/guardrail-kit",
+      "npmUrl": "https://www.npmjs.com/package/guardrail-kit",
+      "category": "backend",
+      "createdAt": "2026-11-23T17:22:34.639Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 95
     },
     {
       "name": "guardskill",
@@ -111866,6 +112106,18 @@
       "score": 93
     },
     {
+      "name": "measured-humanizer",
+      "version": "1.0.0",
+      "description": "An empirical, deterministic style gate and calibrator for AI writing that measures structural variance instead of pattern-matching word lists.",
+      "license": "MIT",
+      "repository": "https://github.com/SadhvikChirunomula/measured-humanizer",
+      "npmUrl": "https://www.npmjs.com/package/measured-humanizer",
+      "category": "utilities",
+      "createdAt": "2026-11-23T12:47:01.943Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 94
+    },
+    {
       "name": "media-autoplay-kit",
       "version": "0.1.1",
       "description": "Framework-agnostic audio and video autoplay priming for mobile browsers and embedded webviews.",
@@ -116642,6 +116894,18 @@
       "score": 93
     },
     {
+      "name": "nomadmap-mcp",
+      "version": "1.6.0",
+      "description": "Official Model Context Protocol (MCP) server for NomadMap (https://nomadmap.io) — Search live digital nomad events, meetups, coworking spaces, padel court timeslots, and curated city guides worldwide.",
+      "license": "MIT",
+      "repository": "https://github.com/dimitrirudel/nomadmap",
+      "npmUrl": "https://www.npmjs.com/package/nomadmap-mcp",
+      "category": "backend",
+      "createdAt": "2026-11-23T09:59:58.953Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 97
+    },
+    {
       "name": "nomo-ai",
       "version": "2.2.0",
       "description": "One-command installer for the Nomo plugin — mirror Claude Code, OpenAI Codex and OpenCode sessions to the Nomo iPhone app as an end-to-end-encrypted Live Activity.",
@@ -117060,6 +117324,18 @@
       "createdAt": "2026-08-08T16:57:13.242Z",
       "discoveredAt": "2026-08-10T03:45:20.247Z",
       "score": 71
+    },
+    {
+      "name": "nuxt-converter-studio",
+      "version": "1.0.0",
+      "description": "Convert HEIC and RAW photos, Office documents, PDFs, audio and video in Nuxt server routes with the Converter Studio API, without exposing the API key.",
+      "license": "MIT",
+      "repository": "https://github.com/tariksucu/nuxt-converter-studio",
+      "npmUrl": "https://www.npmjs.com/package/nuxt-converter-studio",
+      "category": "backend",
+      "createdAt": "2026-11-23T14:30:03.707Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 95
     },
     {
       "name": "nuxt-convex-module",
@@ -130058,6 +130334,18 @@
       "score": 93
     },
     {
+      "name": "saverapi",
+      "version": "1.0.0",
+      "description": "Official Node.js / TypeScript SDK for SaverAPI.NET — video downloader API for YouTube (4K, MP3), Instagram, TikTok, Facebook, X, Pinterest and Threads, Telegram bot file_id, Shazam, music search, NSFW scan. Zero dependencies, typed, with a CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/saverapinet/saverapi-node",
+      "npmUrl": "https://www.npmjs.com/package/saverapi",
+      "category": "backend",
+      "createdAt": "2026-11-24T00:35:26.183Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 100
+    },
+    {
       "name": "sbp-exchange-rate",
       "version": "1.2.3",
       "description": "Official State Bank of Pakistan (Pakistan) daily exchange rates — 35 currencies vs PKR, history since 2017. Zero-dependency Node.js/TypeScript client.",
@@ -138888,6 +139176,18 @@
       "createdAt": "2026-07-27T00:39:18.076Z",
       "discoveredAt": "2026-07-27T02:08:07.224Z",
       "score": 61
+    },
+    {
+      "name": "unslop-anything",
+      "version": "3.1.0",
+      "description": "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill for Claude Code, Codex, Cursor, and others that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.",
+      "license": "MIT",
+      "repository": "https://github.com/erkamyaman/unslop-anything",
+      "npmUrl": "https://www.npmjs.com/package/unslop-anything",
+      "category": "frontend",
+      "createdAt": "2026-11-23T10:57:23.175Z",
+      "discoveredAt": "2026-11-24T06:51:59.588Z",
+      "score": 99
     },
     {
       "name": "unslopped",
