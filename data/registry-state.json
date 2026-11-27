@@ -1,11 +1,23 @@
 {
   "schemaVersion": 1,
-  "lastSequence": 147696790,
-  "lastRunAt": "2026-11-26T04:49:09.670Z",
+  "lastSequence": 147964453,
+  "lastRunAt": "2026-11-27T04:52:48.705Z",
   "initializedAt": "2026-07-25T12:19:44.344Z",
   "pendingPackages": [
     {
-      "name": "@t-rex-network/onchainid",
+      "name": "@noctacore/deskonnect",
+      "attempts": 1
+    },
+    {
+      "name": "@mrfentmen/green-card-tracker-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@mrfentmen/green-card-compare-mcp",
+      "attempts": 1
+    },
+    {
+      "name": "@apptelepath/react-native",
       "attempts": 1
     }
   ]

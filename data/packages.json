@@ -1010,6 +1010,18 @@
       "score": 100
     },
     {
+      "name": "@abha-bridge/node",
+      "version": "1.0.0",
+      "description": "Server-side TypeScript SDK for AHA-ABHA-BRIDGE: typed M1 (ABHA), M2 (HIP) and M3 (HIU) API client with automatic token management, webhook signature verification and Fidelius end-to-end decryption",
+      "license": "MIT",
+      "repository": "https://github.com/Apollo-HealthAxis/AHA-ABHA-APP",
+      "npmUrl": "https://www.npmjs.com/package/%40abha-bridge%2Fnode",
+      "category": "backend",
+      "createdAt": "2026-11-26T11:42:37.259Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 99
+    },
+    {
       "name": "@abhishekchauhan2904/agentforge",
       "version": "1.5.0",
       "description": "Turn Cursor, OpenCode or Gemini CLI into a structured AI software team with quality gates, rollback and project memory.",
@@ -30710,6 +30722,78 @@
       "score": 90
     },
     {
+      "name": "@hamzaahmadaslam/action-scheduler-triage",
+      "version": "1.0.0",
+      "description": "Group the failed actions of WordPress's Action Scheduler by hook and error, then ask Jev which groups are safe to run again unchanged and which need a fix first. Read-only: it prints WP-CLI commands and never runs them.",
+      "license": "MIT",
+      "repository": "https://github.com/hamzaahmadaslam/action-scheduler-triage",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaahmadaslam%2Faction-scheduler-triage",
+      "category": "cli",
+      "createdAt": "2026-11-26T05:24:33.857Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 98
+    },
+    {
+      "name": "@hamzaahmadaslam/cache-boundary",
+      "version": "1.0.0",
+      "description": "Decides route by route whether a full-page cache may serve one anonymous visitor's copy of a page to everyone, from response headers, WordPress and WooCommerce markers and TypeSafe's Jev model.",
+      "license": "MIT",
+      "repository": "https://github.com/hamzaahmadaslam/cache-boundary",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaahmadaslam%2Fcache-boundary",
+      "category": "data",
+      "createdAt": "2026-11-26T14:15:11.920Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 97
+    },
+    {
+      "name": "@hamzaahmadaslam/capability-diff",
+      "version": "1.0.0",
+      "description": "Compares who can run each operation of a WordPress plugin or theme (AJAX and admin-post actions, REST routes, admin pages) in two versions, and reports the changes that let more users in: a removed or lowered capability check, a dropped object ID, a check",
+      "license": "MIT",
+      "repository": "https://github.com/hamzaahmadaslam/capability-diff",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaahmadaslam%2Fcapability-diff",
+      "category": "backend",
+      "createdAt": "2026-11-26T14:14:34.459Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
+      "name": "@hamzaahmadaslam/fedi-report-triage",
+      "version": "1.0.0",
+      "description": "Reads the open reports on a Mastodon server with a moderator's own read-only token and prints them as a queue sorted by severity, with the category and whether the reporter's comment matches the posts, using TypeSafe's Jev model. It never takes a moderati",
+      "license": "MIT",
+      "repository": "https://github.com/hamzaahmadaslam/fedi-report-triage",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaahmadaslam%2Ffedi-report-triage",
+      "category": "backend",
+      "createdAt": "2026-11-26T14:14:46.103Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 98
+    },
+    {
+      "name": "@hamzaahmadaslam/hook-contract",
+      "version": "1.0.0",
+      "description": "Compares the WordPress actions and filters a plugin or theme fires in two versions and reports the changes that break code hooked to them: removed or renamed hooks, fewer arguments, an action turned into a filter.",
+      "license": "MIT",
+      "repository": "https://github.com/hamzaahmadaslam/hook-contract",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaahmadaslam%2Fhook-contract",
+      "category": "cli",
+      "createdAt": "2026-11-26T14:14:30.763Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 97
+    },
+    {
+      "name": "@hamzaahmadaslam/stale-claims",
+      "version": "1.0.0",
+      "description": "Finds claims that are true only for a while (versions, prices, dates, statistics, status, people and roles) and give no as-of date, in documents about to be indexed for retrieval, using TypeSafe's Jev model.",
+      "license": "MIT",
+      "repository": "https://github.com/hamzaahmadaslam/stale-claims",
+      "npmUrl": "https://www.npmjs.com/package/%40hamzaahmadaslam%2Fstale-claims",
+      "category": "utilities",
+      "createdAt": "2026-11-26T14:14:42.654Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 98
+    },
+    {
       "name": "@hamzu/api-pilot",
       "version": "0.1.0",
       "description": "AI-native API execution engine for coding agents — discover, execute, and debug HTTP APIs from the terminal without blowing up your context window.",
@@ -30912,6 +30996,18 @@
       "createdAt": "2026-11-06T23:00:44.576Z",
       "discoveredAt": "2026-11-07T02:38:27.785Z",
       "score": 100
+    },
+    {
+      "name": "@handijitcom/utils",
+      "version": "1.0.0",
+      "description": "Dependency-free TypeScript utilities: type guards that really narrow, structural equality and cloning that handle Map, Set and circular references, plus debounce, retry and other everyday helpers.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/utils",
+      "npmUrl": "https://www.npmjs.com/package/%40handijitcom%2Futils",
+      "category": "backend",
+      "createdAt": "2026-11-26T20:11:13.046Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 99
     },
     {
       "name": "@hank-warren/pi-auto-permissions",
@@ -52922,6 +53018,18 @@
       "score": 81
     },
     {
+      "name": "@panstudio/panwrite",
+      "version": "1.0.0",
+      "description": "Portable, evidence-grounded academic writing workflows (papers, proposals, posters, presentations) for PanCode, Claude Code, Codex, GitHub Copilot CLI, OpenCode, Antigravity CLI, and Gemini CLI.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/PanStudio/panwrite",
+      "npmUrl": "https://www.npmjs.com/package/%40panstudio%2Fpanwrite",
+      "category": "cli",
+      "createdAt": "2026-11-26T21:14:44.447Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 99
+    },
+    {
       "name": "@pantarey.io/ngx-planning-board",
       "version": "0.1.0",
       "description": "Resource planning board for Angular: rows x time axis with layers of entries, per-row availability, grouping frames, style rules and result columns. Early development and test phase (0.x): the API changes until 1.0. Depends on Angular core, common and CDK",
@@ -61982,6 +62090,18 @@
       "score": 73
     },
     {
+      "name": "@shxuk/mpress",
+      "version": "1.2.0",
+      "description": "Markdown to WeChat Official Account typesetter: inline HTML, editorial cards, native SVG folds, 1800x766 cover, idempotent draft publishing. Pure script, no LLM in the loop.",
+      "license": "MIT",
+      "repository": "https://github.com/shxuk/mpress",
+      "npmUrl": "https://www.npmjs.com/package/%40shxuk%2Fmpress",
+      "category": "data",
+      "createdAt": "2026-11-26T12:27:51.825Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 97
+    },
+    {
       "name": "@shypie_privacy/magpie-privacy-gate",
       "version": "0.1.0",
       "description": "magpie gateway middleware: structural egress firewall. Blocks content parts magpie cannot mask (images, files, documents, audio, video) for models that are not allowlisted as local, blocks encoded blobs smuggled through text, enforces a model allowlist, a",
@@ -62832,6 +62952,90 @@
       "createdAt": "2026-08-07T00:56:09.816Z",
       "discoveredAt": "2026-08-08T03:17:24.501Z",
       "score": 61
+    },
+    {
+      "name": "@slnknrr/arr-im",
+      "version": "1.2.0",
+      "description": "Array structure algebra: deep 0/1/-1 comparison that survives cycles, structural diff, depth / shape / strides, lazy flattening with Arrow-style offsets, zero-copy views and windows, frequency and entropy, runs, and the in-place primitives Array never had",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/arr-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Farr-im",
+      "category": "devops",
+      "createdAt": "2026-09-21T17:12:16.932Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
+      "name": "@slnknrr/buf-im",
+      "version": "1.2.0",
+      "description": "Zero-allocation byte engine for Uint8Array, any ArrayBufferView, ArrayBuffer and byte arrays: 0/1/-1 comparison that tells kind apart, memcmp, constant-time equality, multi-needle search, bit fields at a bit offset, integers of any width, LEB128 varints,",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/buf-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Fbuf-im",
+      "category": "data",
+      "createdAt": "2026-09-21T17:13:51.181Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
+      "name": "@slnknrr/id",
+      "version": "1.2.0",
+      "description": "ULID and UUID (v4, v7, v8) generators as callable instances: CSPRNG, or a CSPRNG-free reversible permutation of (time, counter); stringify/parse for the 16-byte form, encode/decode for the payload.",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/id-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Fid",
+      "category": "data",
+      "createdAt": "2026-09-21T17:14:47.855Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 99
+    },
+    {
+      "name": "@slnknrr/num-ez",
+      "version": "1.2.0",
+      "description": "The friendly face of @slnknrr/num-im: the same exact, any-base number engine behind familiar names, plain booleans and ready arrays. Exact arithmetic past 2^53, base conversion, canonical validation, modular arithmetic, number theory, bit metrics, digit s",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/num-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Fnum-ez",
+      "category": "devops",
+      "createdAt": "2026-09-21T17:21:10.831Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
+      "name": "@slnknrr/str-ez",
+      "version": "1.2.0",
+      "description": "The friendly face of @slnknrr/str-im: the same zero-allocation string engine behind familiar names, plain booleans and ready arrays. utf-8 byte length and truncation, grapheme and display width, unique characters, runs, mixed-script and homoglyph checks,",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/str-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Fstr-ez",
+      "category": "utilities",
+      "createdAt": "2026-09-21T17:38:15.655Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
+      "name": "@slnknrr/type-ez",
+      "version": "1.2.0",
+      "description": "The friendly face of @slnknrr/type-im: the same cross-realm, forgery-aware type witnesses behind familiar names and plain booleans. isMap, isTypedArray, isPromise, isPlainObject, isAsyncFunction, isClass, isGenerator and friends decided by the strongest w",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/type-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Ftype-ez",
+      "category": "devops",
+      "createdAt": "2026-09-21T17:29:22.394Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
+      "name": "@slnknrr/type-im",
+      "version": "1.2.0",
+      "description": "The honest typeof: type predicates that return the evidence, not a verdict. Each is* asks every witness it has — constructor name, toStringTag, duck protocol, internal-slot brand, prototype chain, same-realm constructor — and returns their answers as bits",
+      "license": "MIT",
+      "repository": "https://github.com/slnknrr-dev/type-lib-in-javascript-for-pm_npm",
+      "npmUrl": "https://www.npmjs.com/package/%40slnknrr%2Ftype-im",
+      "category": "utilities",
+      "createdAt": "2026-09-21T17:19:42.265Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
     },
     {
       "name": "@slop-detector/slop-detector",
@@ -73502,6 +73706,18 @@
       "score": 100
     },
     {
+      "name": "@webship-js/kanboard-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for Kanboard, the open-source Kanban project management software, a pack for webship-js (Playwright and Cucumber): logging in and out and its refusal, a project's board and who may open it, its columns and its list, one task (ope",
+      "license": "MIT",
+      "repository": "https://github.com/webship/kanboard-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fkanboard-steps",
+      "category": "testing",
+      "createdAt": "2026-11-26T06:35:56.936Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/keycloak-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for the sign-in of any app that uses Keycloak, a plugin for webship-js (Playwright and Cucumber): the login page and its refusals, \"Remember me\", the registration form's refusals, forgot password through the mail catcher, the req",
@@ -73706,6 +73922,18 @@
       "score": 100
     },
     {
+      "name": "@webship-js/svelte-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for Svelte apps, SvelteKit first, a plugin for webship-js (Playwright and Cucumber): steps that wait for the app to take the server's page over, follow its own navigation to the end, submit its form actions with JavaScript and wi",
+      "license": "MIT",
+      "repository": "https://github.com/webship/svelte-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fsvelte-steps",
+      "category": "testing",
+      "createdAt": "2026-11-26T06:53:45.393Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/symfony-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for Symfony apps, a plugin for webship-js (Playwright and Cucumber): the login form and the session, flash messages, the errors under a field, the error pages of a live app, the debug toolbar and the profiler of a development one",
@@ -73727,6 +73955,18 @@
       "category": "testing",
       "createdAt": "2026-11-25T11:31:18.473Z",
       "discoveredAt": "2026-11-26T04:49:09.670Z",
+      "score": 100
+    },
+    {
+      "name": "@webship-js/vue-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for Vue apps, Nuxt first, a plugin for webship-js (Playwright and Cucumber): steps that wait for the app to wire the server's page up, follow its views to the end of each navigation, send its forms with JavaScript and without, an",
+      "license": "MIT",
+      "repository": "https://github.com/webship/vue-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fvue-steps",
+      "category": "testing",
+      "createdAt": "2026-11-26T10:17:44.546Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
       "score": 100
     },
     {
@@ -86954,6 +87194,18 @@
       "score": 71
     },
     {
+      "name": "claude-manager-kit",
+      "version": "1.1.0",
+      "description": "Turn your existing Claude Code subscription into a manager that triages, routes work to parallel accounts and machines, replies in your tone and learns from your ratings. No API keys, no API costs.",
+      "license": "MIT",
+      "repository": "https://github.com/iammuhammadasimofficial/claude-manager-kit",
+      "npmUrl": "https://www.npmjs.com/package/claude-manager-kit",
+      "category": "backend",
+      "createdAt": "2026-11-26T11:45:35.759Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 99
+    },
+    {
       "name": "claude-mcp-doctor",
       "version": "1.0.0",
       "description": "Diagnose Claude Desktop MCP config problems and get copy-paste fixes. Beginner-friendly, Japanese/English, zero dependencies.",
@@ -94730,6 +94982,18 @@
       "score": 80
     },
     {
+      "name": "dsh-mimir-tutor",
+      "version": "1.5.0",
+      "description": "Mimir Tutor for DeepSeek Harness 0.2.2: an unofficial port of tommyhedgerow's Obsidian Socratic tutor preset, with 9 method skills, 6 specialist sub-agent presets, a separate Leader preset that orchestrates multiple tutor sessions with a FIFO shared-write",
+      "license": "MIT",
+      "repository": "https://github.com/Worril-224/dsh-mimir-tutor",
+      "npmUrl": "https://www.npmjs.com/package/dsh-mimir-tutor",
+      "category": "devops",
+      "createdAt": "2026-11-26T15:39:19.826Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 98
+    },
+    {
       "name": "dsh-minimal-router",
       "version": "1.21.2",
       "description": "Everything-in-one DSH toolkit: stage-based tool routing (auto-classify, tail hint, physical trimming), consecutive-error circuit breaker, and a cache probe that measures the real bill. One install, one reload, one config.",
@@ -97536,6 +97800,18 @@
       "createdAt": "2026-08-09T08:36:13.287Z",
       "discoveredAt": "2026-08-09T09:19:59.096Z",
       "score": 46
+    },
+    {
+      "name": "elemental-avatars",
+      "version": "1.0.0",
+      "description": "Lightweight, zero-dependency Canvas 2D elemental effects (fire, water, ice, grass, sand, cosmic, lightning, aurora, smoke, void) with customizable presets, subpath exports, and a drop-in Web Component.",
+      "license": "MIT",
+      "repository": "https://github.com/Pranesh1801/Elementals",
+      "npmUrl": "https://www.npmjs.com/package/elemental-avatars",
+      "category": "utilities",
+      "createdAt": "2026-11-26T20:32:55.789Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
     },
     {
       "name": "elementor-headless",
@@ -117108,6 +117384,18 @@
       "createdAt": "2026-07-29T22:58:26.632Z",
       "discoveredAt": "2026-07-29T23:51:07.640Z",
       "score": 76
+    },
+    {
+      "name": "node-dmx-simulator",
+      "version": "1.0.0",
+      "description": "A stage full of virtual DMX fixtures on your network: receives sACN and Art-Net, answers Art-Net discovery and RDM, and shows the result in your browser. Test lighting code without real lights.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Datalab-Rotterdam/node-dmx-simulator",
+      "npmUrl": "https://www.npmjs.com/package/node-dmx-simulator",
+      "category": "testing",
+      "createdAt": "2026-11-26T18:40:36.910Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 99
     },
     {
       "name": "node-kimai",
@@ -138288,6 +138576,18 @@
       "createdAt": "2026-07-27T14:53:15.019Z",
       "discoveredAt": "2026-07-27T15:36:38.068Z",
       "score": 93
+    },
+    {
+      "name": "tradingview-gex-flashalpha",
+      "version": "1.1.0",
+      "description": "TradingView-style candlestick chart with options gamma exposure (GEX) levels: call wall, put wall, gamma flip, max pain, plus FlashAlpha indicators such as net GEX, the strike heatmap and the GEX profile. Built on TradingView Lightweight Charts, data from",
+      "license": "MIT",
+      "repository": "https://github.com/FlashAlpha-lab/tradingview-gex-flashalpha",
+      "npmUrl": "https://www.npmjs.com/package/tradingview-gex-flashalpha",
+      "category": "backend",
+      "createdAt": "2026-11-26T09:57:37.558Z",
+      "discoveredAt": "2026-11-27T04:52:48.705Z",
+      "score": 100
     },
     {
       "name": "trailai-mcp",
