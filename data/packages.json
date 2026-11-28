@@ -11570,6 +11570,18 @@
       "score": 94
     },
     {
+      "name": "@bymax-one/nest-subscription",
+      "version": "1.0.0",
+      "description": "One normalized subscription snapshot per account for NestJS 11, fed by one billing source through an adapter. Access is granted only from a read of the source, never from a webhook payload.",
+      "license": "MIT",
+      "repository": "https://github.com/bymaxone/nest-subscription",
+      "npmUrl": "https://www.npmjs.com/package/%40bymax-one%2Fnest-subscription",
+      "category": "backend",
+      "createdAt": "2026-11-27T19:59:46.857Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 98
+    },
+    {
       "name": "@byok-sdk/cloud-postgres",
       "version": "0.1.0",
       "description": "BYOK SDK durable data plane: Postgres implementations of the cloud-local store ports, plus the forward-only migrate runner",
@@ -13212,6 +13224,18 @@
       "createdAt": "2026-07-25T13:33:08.887Z",
       "discoveredAt": "2026-07-25T14:13:29.678Z",
       "score": 75
+    },
+    {
+      "name": "@cielstave/baileys",
+      "version": "1.0.0",
+      "description": "Enhanced Baileys WhatsApp Web client with interactive messages, polls, events, channels, custom auth backends and typed helper APIs",
+      "license": "MIT",
+      "repository": "https://github.com/cielstave/baileys",
+      "npmUrl": "https://www.npmjs.com/package/%40cielstave%2Fbaileys",
+      "category": "backend",
+      "createdAt": "2026-11-27T09:29:20.905Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 91
     },
     {
       "name": "@cig-chat/mcp",
@@ -22286,6 +22310,18 @@
       "score": 87
     },
     {
+      "name": "@fastcxns/ultraws",
+      "version": "1.0.5",
+      "description": "High-throughput, zero-dependency WebSocket client and server for Node.js. Built for mission-critical ingestion pipelines, broadcast engines, automated connection lifecycle, backpressure control, and zero-allocation stream parsing.",
+      "license": "MIT",
+      "repository": "https://github.com/uwssociety/ultraws",
+      "npmUrl": "https://www.npmjs.com/package/%40fastcxns%2Fultraws",
+      "category": "backend",
+      "createdAt": "2026-11-27T16:42:31.569Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 100
+    },
+    {
       "name": "@fastergeo/rules",
       "version": "0.2.1",
       "description": "FasterGEO rule engine — deterministic GEO/SEO/content lint with agent-fixable suggestions. Forked from @ijonis/geo-lint (MIT).",
@@ -30998,6 +31034,54 @@
       "score": 100
     },
     {
+      "name": "@handijitcom/barcode",
+      "version": "1.0.0",
+      "description": "Dependency-free Code 128 barcode encoder with crisp SVG string output for Node and browsers, plus print CSS helpers for thermal and A4 shipping labels.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/barcode",
+      "npmUrl": "https://www.npmjs.com/package/%40handijitcom%2Fbarcode",
+      "category": "frontend",
+      "createdAt": "2026-11-27T19:45:13.136Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 93
+    },
+    {
+      "name": "@handijitcom/electron",
+      "version": "1.0.0",
+      "description": "The core of an Electron desktop program in one dependency-free package: secure windows, the app:// protocol with a strict CSP, a typed Zod IPC contract, settings and secret stores, a redacting logger, silent printing, browser sign-in with RFC 8252 loopbac",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/electron",
+      "npmUrl": "https://www.npmjs.com/package/%40handijitcom%2Felectron",
+      "category": "frontend",
+      "createdAt": "2026-11-27T20:02:39.207Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 100
+    },
+    {
+      "name": "@handijitcom/forms",
+      "version": "1.0.0",
+      "description": "Zod-based client forms for React: a typed, headless form store with field-level subscriptions, accessible error handling, binders for the @handijitcom/ui field components and Turkish input formats.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/forms",
+      "npmUrl": "https://www.npmjs.com/package/%40handijitcom%2Fforms",
+      "category": "frontend",
+      "createdAt": "2026-11-27T20:14:05.836Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 99
+    },
+    {
+      "name": "@handijitcom/tr",
+      "version": "1.0.0",
+      "description": "Dependency-free Türkiye helpers: Turkish-aware slugs, search folding and casing, lira amounts in integer kuruş, VAT, TCKN/VKN/IBAN/phone validation, dd.MM.yyyy dates and the 81 provinces.",
+      "license": "MIT",
+      "repository": "https://github.com/handijit/tr",
+      "npmUrl": "https://www.npmjs.com/package/%40handijitcom%2Ftr",
+      "category": "utilities",
+      "createdAt": "2026-11-27T19:45:07.300Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 98
+    },
+    {
       "name": "@handijitcom/utils",
       "version": "1.0.0",
       "description": "Dependency-free TypeScript utilities: type guards that really narrow, structural equality and cloning that handle Map, Set and circular references, plus debounce, retry and other everyday helpers.",
@@ -35568,6 +35652,18 @@
       "createdAt": "2026-08-02T07:49:37.404Z",
       "discoveredAt": "2026-08-02T08:08:41.471Z",
       "score": 84
+    },
+    {
+      "name": "@jackster22/dsh-threads",
+      "version": "1.0.0",
+      "description": "Threads workflow for DeepSeek Harness: a manager thread opens named sub threads, sub threads post back to their manager, and a session-header Threads submenu opens each sub thread beside the main conversation in the right-hand panel.",
+      "license": "MIT",
+      "repository": "https://github.com/Jackster/dsh-threads",
+      "npmUrl": "https://www.npmjs.com/package/%40jackster22%2Fdsh-threads",
+      "category": "utilities",
+      "createdAt": "2026-11-28T00:02:28.807Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 92
     },
     {
       "name": "@jackyangjie/context-mode",
@@ -46742,6 +46838,18 @@
       "score": 76
     },
     {
+      "name": "@moonetix/react-native-offerwall",
+      "version": "2.0.2",
+      "description": "Show the Moonetix offerwall in your React Native or Expo app. Your server creates a single-use session, and the package opens the native Moonetix Android and iOS SDK with it. No key ships inside your app.",
+      "license": "Apache-2.0",
+      "repository": "https://github.com/moonetix/moonetix-react-native",
+      "npmUrl": "https://www.npmjs.com/package/%40moonetix%2Freact-native-offerwall",
+      "category": "frontend",
+      "createdAt": "2026-11-27T20:29:47.803Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 96
+    },
+    {
       "name": "@moonshine-ai/moonshine-wasm",
       "version": "0.1.1",
       "description": "Fast, accurate, on-device speech-to-text, text-to-speech, and voice dialogs in the browser via WebAssembly.",
@@ -50990,6 +51098,18 @@
       "score": 88
     },
     {
+      "name": "@olimjonkamalov/admin-starter",
+      "version": "1.0.0",
+      "description": "Scaffold a modern React + TypeScript + Vite admin panel (Ant Design, Tailwind, React Query, Zustand, i18n) in seconds.",
+      "license": "MIT",
+      "repository": "https://github.com/filosof777/create-olimjon-admin",
+      "npmUrl": "https://www.npmjs.com/package/%40olimjonkamalov%2Fadmin-starter",
+      "category": "frontend",
+      "createdAt": "2026-11-27T06:06:29.315Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 90
+    },
+    {
       "name": "@olitech010/dev-os",
       "version": "2.0.0",
       "description": "Olives Technologies Engineering OS — Autonomous Multi-Agent AI Engineering Environment",
@@ -51276,6 +51396,18 @@
       "createdAt": "2026-08-01T15:06:14.511Z",
       "discoveredAt": "2026-08-01T15:48:21.608Z",
       "score": 60
+    },
+    {
+      "name": "@onimurasame/numberone",
+      "version": "1.0.0",
+      "description": "Harness-agnostic, event-sourced authoritative workspace curator and System of Record (SoR) with BMAD Party Mode bridge crew and KPI-proven continuous self-evolution.",
+      "license": "AGPL-3.0-or-later",
+      "repository": "https://github.com/onimurasame/numberone",
+      "npmUrl": "https://www.npmjs.com/package/%40onimurasame%2Fnumberone",
+      "category": "devops",
+      "createdAt": "2026-11-27T19:08:18.309Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 96
     },
     {
       "name": "@onivoro/browser-agentic",
@@ -73706,6 +73838,18 @@
       "score": 100
     },
     {
+      "name": "@webship-js/headless-ui-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for sites and apps built with Headless UI (Tailwind Labs' unstyled, accessible components for React and Vue): menus, select and search lists, dialogs, popovers, panels, tabs, switches, radio groups and fields, each waiting on the",
+      "license": "MIT",
+      "repository": "https://github.com/webship/headless-ui-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fheadless-ui-steps",
+      "category": "testing",
+      "createdAt": "2026-11-27T21:17:40.073Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 100
+    },
+    {
       "name": "@webship-js/kanboard-steps",
       "version": "2.0.0",
       "description": "Cucumber step definitions for Kanboard, the open-source Kanban project management software, a pack for webship-js (Playwright and Cucumber): logging in and out and its refusal, a project's board and who may open it, its columns and its list, one task (ope",
@@ -73752,6 +73896,18 @@
       "createdAt": "2026-11-14T18:43:42.740Z",
       "discoveredAt": "2026-11-15T02:29:05.746Z",
       "score": 100
+    },
+    {
+      "name": "@webship-js/material-ui-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for sites and apps built with Material UI (MUI's React components), for webship-js: dialogs, side panels and drop-down menus opened, answered and closed; select lists and search lists; panels, tabs and trees; notifications, alert",
+      "license": "MIT",
+      "repository": "https://github.com/webship/material-ui-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fmaterial-ui-steps",
+      "category": "testing",
+      "createdAt": "2026-11-27T17:58:02.133Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 96
     },
     {
       "name": "@webship-js/mediawiki-steps",
@@ -73956,6 +74112,18 @@
       "createdAt": "2026-11-25T11:31:18.473Z",
       "discoveredAt": "2026-11-26T04:49:09.670Z",
       "score": 100
+    },
+    {
+      "name": "@webship-js/uptime-kuma-steps",
+      "version": "2.0.0",
+      "description": "Cucumber step definitions for Uptime Kuma, the self-hosted monitoring tool: signing in, monitors (added, paused, resumed, deleted; their state, uptime and heartbeats), pushes, the monitor list and the dashboard, toasts, status pages and maintenance, each",
+      "license": "MIT",
+      "repository": "https://github.com/webship/uptime-kuma-steps",
+      "npmUrl": "https://www.npmjs.com/package/%40webship-js%2Fuptime-kuma-steps",
+      "category": "testing",
+      "createdAt": "2026-11-28T01:40:26.351Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 98
     },
     {
       "name": "@webship-js/vue-steps",
@@ -83700,6 +83868,18 @@
       "createdAt": "2026-07-27T20:33:04.156Z",
       "discoveredAt": "2026-07-27T21:03:40.762Z",
       "score": 84
+    },
+    {
+      "name": "bezel-tiles",
+      "version": "2.3.0",
+      "description": "High-definition, customisable clock, calendar and weather tiles as zero-dependency web components. Works on any website, as a desk display, or on the macOS desktop via Übersicht.",
+      "license": "MIT",
+      "repository": "https://github.com/ShazMoghaddam/bezel",
+      "npmUrl": "https://www.npmjs.com/package/bezel-tiles",
+      "category": "utilities",
+      "createdAt": "2026-11-27T12:06:12.393Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 95
     },
     {
       "name": "bg-tasks-mcp",
@@ -96530,6 +96710,18 @@
       "score": 90
     },
     {
+      "name": "dsh-synthmedia",
+      "version": "0.2.0",
+      "description": "SynthMedia: provider-agnostic media generation for DSH agents. Three decoupled layers (ProtocolAdapter / ProviderProfile / ModelCapability) with unified async jobs, host Jobs UI, artifacts and five agent tools. Protocols: volcengine-ark-compatible (Seedan",
+      "license": "MIT",
+      "repository": "https://github.com/MarchLiu/dsh-synthmedia",
+      "npmUrl": "https://www.npmjs.com/package/dsh-synthmedia",
+      "category": "utilities",
+      "createdAt": "2026-11-27T09:20:59.385Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 90
+    },
+    {
       "name": "dsh-t3-new-session-screen",
       "version": "1.0.0",
       "description": "T3 Code's New Session screen for DeepSeek Harness: the \"What should we build in <project>?\" headline with an inline project dropdown, a reasoning-effort picker and a git branch picker in the composer.",
@@ -108470,6 +108662,18 @@
       "score": 53
     },
     {
+      "name": "label-rules",
+      "version": "0.1.0",
+      "description": "US packaged-food and beverage label rules as code: Nutrition Facts rounding and % Daily Value (21 CFR 101.9), allergen statements (21 U.S.C. 343(w)), and the alcohol health warning (27 CFR part 16). Typed, tested, zero dependencies.",
+      "license": "MIT",
+      "repository": "https://github.com/trulyfinal/label-rules",
+      "npmUrl": "https://www.npmjs.com/package/label-rules",
+      "category": "testing",
+      "createdAt": "2026-11-28T00:12:05.180Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 90
+    },
+    {
       "name": "labenamata-braces-fork",
       "version": "3.0.4",
       "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed fork by labenamata.",
@@ -113594,6 +113798,18 @@
       "score": 95
     },
     {
+      "name": "mini-tailwind-cli",
+      "version": "2.0.0",
+      "description": "A Tailwind-compatible, just-in-time utility CSS engine. Drop in one script tag for the browser, or compile static CSS with a zero-dependency CLI.",
+      "license": "MIT",
+      "repository": "https://github.com/therajarshichakraborty/Mini-TailwindCSS",
+      "npmUrl": "https://www.npmjs.com/package/mini-tailwind-cli",
+      "category": "frontend",
+      "createdAt": "2026-11-27T18:14:44.783Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 94
+    },
+    {
       "name": "minidsh",
       "version": "1.0.0",
       "description": "Minimal surface, complete architecture: a small, local-first coding-agent harness re-derived from the invariants of DeepSeek Harness (independent project; not affiliated).",
@@ -115644,6 +115860,18 @@
       "createdAt": "2026-08-08T09:55:42.616Z",
       "discoveredAt": "2026-08-08T11:22:53.750Z",
       "score": 57
+    },
+    {
+      "name": "n8n-nodes-seenby",
+      "version": "1.0.0",
+      "description": "AI search visibility tracking in n8n with the Seenby REST API: brand mentions in ChatGPT, Perplexity, Gemini and Google AI answers, with position, competitors named instead and cited pages.",
+      "license": "MIT",
+      "repository": "https://github.com/seenbyapp/n8n-nodes-seenby",
+      "npmUrl": "https://www.npmjs.com/package/n8n-nodes-seenby",
+      "category": "backend",
+      "createdAt": "2026-11-27T15:54:14.757Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 90
     },
     {
       "name": "n8n-nodes-sendletter",
@@ -120792,6 +121020,18 @@
       "createdAt": "2026-08-09T09:37:48.819Z",
       "discoveredAt": "2026-08-09T10:24:31.633Z",
       "score": 83
+    },
+    {
+      "name": "ovalxixi",
+      "version": "1.0.2",
+      "description": "A lightweight, dependency-minimal Baileys v7 fork with newsletter media upload fixes, interactive messages, albums, and extended message type support.",
+      "license": "MIT",
+      "repository": "https://github.com/itsliaaa/baileys",
+      "npmUrl": "https://www.npmjs.com/package/ovalxixi",
+      "category": "backend",
+      "createdAt": "2026-11-27T10:14:53.890Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 95
     },
     {
       "name": "overdraw",
@@ -135446,6 +135686,18 @@
       "score": 50
     },
     {
+      "name": "storytel-client",
+      "version": "1.0.0",
+      "description": "Unofficial, security-first local web & PWA desktop client for Storytel audiobooks with Google SSO, offline MP3 downloads, custom collections, and Storytel-inspired UI.",
+      "license": "MIT",
+      "repository": "https://github.com/onursercanyilmaz/storytel-client",
+      "npmUrl": "https://www.npmjs.com/package/storytel-client",
+      "category": "frontend",
+      "createdAt": "2026-11-27T12:07:16.337Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 90
+    },
+    {
       "name": "stowage",
       "version": "0.5.0",
       "description": "Unified, driver-agnostic object storage for Node.js. One API for S3, R2, MinIO, the local filesystem and memory, with a queryable catalog, image transforms and a REST server.",
@@ -135708,6 +135960,18 @@
       "createdAt": "2026-11-17T14:29:17.761Z",
       "discoveredAt": "2026-11-18T04:05:40.271Z",
       "score": 97
+    },
+    {
+      "name": "strokes-gained",
+      "version": "0.1.0",
+      "description": "Calculate strokes gained in golf: expected strokes to hole out from any lie and distance, strokes gained per shot, hole and round, and strokes lost to scratch by handicap. From Mark Broadie's PGA Tour tables. Library and CLI, no dependencies. From Shotto,",
+      "license": "MIT",
+      "repository": "https://github.com/shottogolf/strokes-gained",
+      "npmUrl": "https://www.npmjs.com/package/strokes-gained",
+      "category": "cli",
+      "createdAt": "2026-11-28T01:05:08.245Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 90
     },
     {
       "name": "stroopwatch",
@@ -136080,6 +136344,18 @@
       "createdAt": "2026-07-27T21:41:08.942Z",
       "discoveredAt": "2026-07-27T22:54:11.116Z",
       "score": 62
+    },
+    {
+      "name": "superws",
+      "version": "1.0.5",
+      "description": "High-throughput, zero-dependency WebSocket client and server for Node.js. Built for mission-critical ingestion pipelines, broadcast engines, automated connection lifecycle, backpressure control, and zero-allocation stream parsing.",
+      "license": "MIT",
+      "repository": "https://github.com/uwssociety/ultraws",
+      "npmUrl": "https://www.npmjs.com/package/superws",
+      "category": "backend",
+      "createdAt": "2026-11-27T16:44:43.032Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 100
     },
     {
       "name": "surf-agent-skill",
@@ -138590,6 +138866,18 @@
       "score": 100
     },
     {
+      "name": "traditional-land-units",
+      "version": "1.0.0",
+      "description": "Traditional land units of Latin America, Spain and Brazil (manzana, tarea, fanegada, cuerda, caballería, alqueire, Texas vara units) with values, local definitions, status and sources, plus area conversion.",
+      "license": "CC-BY-4.0",
+      "repository": "https://github.com/converterin/traditional-land-units",
+      "npmUrl": "https://www.npmjs.com/package/traditional-land-units",
+      "category": "data",
+      "createdAt": "2026-11-28T02:27:12.018Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 98
+    },
+    {
       "name": "trailai-mcp",
       "version": "0.1.0",
       "description": "Trail MCP server — coding agents authenticate with a Trail API key and stream their runs into Trail as traces.",
@@ -140556,6 +140844,18 @@
       "createdAt": "2026-07-26T17:02:37.292Z",
       "discoveredAt": "2026-07-26T17:07:27.820Z",
       "score": 64
+    },
+    {
+      "name": "vecbridge",
+      "version": "1.0.0",
+      "description": "Zero-dependency 2D vector IR, multi-format converter (HTML DOM / SVG / Canvas 2D / DXF) and 1:1 Canvas+SVG dual-engine viewer with native CJK/GBK CAD support",
+      "license": "MIT",
+      "repository": "https://github.com/ivwv/vecbridge",
+      "npmUrl": "https://www.npmjs.com/package/vecbridge",
+      "category": "frontend",
+      "createdAt": "2026-11-27T08:29:10.031Z",
+      "discoveredAt": "2026-11-28T04:37:38.965Z",
+      "score": 91
     },
     {
       "name": "vecline",
